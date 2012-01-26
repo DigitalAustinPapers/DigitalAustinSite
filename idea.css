@@ -1,0 +1,22 @@
+body{
+	font-family: sans-serif;
+	padding: 0px;
+	margin: 0px;
+	background: #84663E;
+}
+
+#wrapper{
+	margin: 0px auto;
+	width: 1000px;
+	background: white;
+}
+
+.shadow{
+-moz-box-shadow: 0px 5px 15px #000;
+-webkit-box-shadow: 0px 5px 15px #000;
+}
+
+#blank{
+	height: 300px;
+	padding: 20px;
+}

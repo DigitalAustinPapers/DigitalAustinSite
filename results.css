@@ -1,0 +1,107 @@
+body{
+	font-family: sans-serif;
+	padding: 0px;
+	margin: 0px;
+	background: #84663E;
+}
+
+#wrapper{
+	margin: 0px auto;
+	width: 1000px;
+	background: white;
+}
+
+.shadow{
+-moz-box-shadow: 0px 5px 15px #000;
+-webkit-box-shadow: 0px 5px 15px #000;
+}
+
+#results_layer3{
+	margin: 20px;
+	font-size: 80%;
+}
+
+/* CLOUD STUFF */
+
+#results_layer2{
+	height: 350px;
+	overflow: auto;
+	background-color: #D8D8D8;
+}
+
+#results_wordCloud{
+	float: left;
+	width: 320px;
+	overflow: visible;
+}
+#results_peopleCloud{
+	float: left;
+	margin-left: 20px;
+	width: 320px;
+	overflow: visible;
+}
+#results_placesCloud{
+	float: right;
+	width: 320px;
+	overflow: visible;
+}
+
+.expand_collapse{
+	background-color: #C0C0C0;
+	padding-left: 10px;
+}
+
+.expand_collapse a{
+	color: black;
+	text-decoration: none;
+}
+
+.floatLeft{float: left; margin-right: 20px;}
+.floatCenter{display:inline; margin: 0px auto;}
+.floatRight{float: right; margin-left: 20px;}
+
+#cloud{
+	background-color: #E8E8E8;
+	/* border-style: solid;	
+	border-width: 1px;
+	float: right;
+	width: 300px; */
+	overflow: visible;
+}
+
+/* TIMELINE STUFF */
+
+#my-timeline {
+	margin: 20px auto;
+	padding-left: 50px;
+	width: 900px;
+	height: 150px;
+	border: 1px solid #aaa;	
+	display: block;
+}
+
+#my-timeline div {
+	overflow: visible;	
+}
+
+div.simileAjax-bubble-container {
+	overflow: visible;	
+}
+
+table {
+    font-size: 100%;
+}
+
+.timeline-default {
+    font-family: Trebuchet MS, Helvetica, Arial, sans serif;
+    font-size: 8pt;
+    border: 1px solid #aaa;
+}
+
+.tape-special_event, .small-special_event {background-color: orange;}
+
+#timelineNotes{
+	text-align: center;
+	width:	950px;
+	margin-bottom: 10px;
+}
