@@ -10,14 +10,41 @@
 		@mysql_select_db($database, $connection) or die( "Unable to select database");
 		return $connection;
 		*/
-		
-		$username="root";
-		$password="";
-		$database="austincollection";
-		//$database = "austinpapers";
-	
-		$connection = mysql_connect("127.0.0.1:3306/",$username,$password);
-		@mysql_select_db($database, $connection) or die( "Unable to select database");
+
+        //If a file exists which contains the credentials to the local
+        //server, use those.  Otherwise, use the default credentials
+        //This file should not be uploaded to the svn.
+        //
+        //Example contents of localCredentials.php:
+        //    function getCredentials() {
+        //        $result = array(
+        //            'username' => "root",
+        //            'password' => "my-secret-password",
+        //            'database' => "austinpapers",
+        //            'server' => "127.0.0.1:3306/");
+        //        return $result;
+        //    }
+        //
+        $credentials = array();
+        $localFile = 'php/localCredentials.php';
+        if (file_exists($localFile)) {
+            include($localFile);
+            $credentials = getCredentials();
+        }
+        else
+        {
+            //Use the default credentials
+            $credentials = array('username' => "root",
+                'password' => "",
+                'database' => "austincollection",
+                //'database' => "austinpapers",
+                'server' => "127.0.0.1:3306/");
+        }
+
+		$connection = mysql_connect($credentials['server'],
+            $credentials['username'], $credentials['password']);
+		@mysql_select_db($credentials['database'], $connection)
+            or die( "Unable to select database");
 		return $connection;
 	}
 	

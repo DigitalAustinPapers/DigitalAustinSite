@@ -57,18 +57,16 @@
 					<div id="cloud">
 						
 						<?php
-							include("cloud.php");
-							$body_tokens = explode(" ", $body);
+							//include("cloud.php");
+							//$body_tokens = explode(" ", $body);
 							//make_cloud($body_tokens, array_count_values($body_tokens));
 							
-							/*
 							if(strlen($body) > 0){
 								cloud($body, 20);
 							}
 							else{
 								echo("<p style='text-align: center;'> Insufficient data </p>");
 							}
-							*/
 						?>						
 					</div>
 				</div>
