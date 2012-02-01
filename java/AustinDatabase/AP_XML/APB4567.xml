@@ -1,0 +1,77 @@
+﻿
+<TEI.2 id="APB4567">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>05-09-1833</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 966</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Stephen F Austin</document_author>
+<document_sender></document_sender>
+<document_recipient>Samuel M Williams</document_recipient>
+<document_title>Stephen F Austin to Samuel M Williams, 05-09-1833</document_title>
+<document_location>
+	<sent_from>Bexar, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Austin to Samuel M. Williams, Bexar, May 9, 1833. Inhabitants agree substantially with sentiments of convention, but will not support the petition. Gin for Seguin.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 966</barker_citation>
+</barker_notes>
+<document_digital_creation>11-21-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4567T">
+
+<body>
+*div1 type="summary"*
+*p*Austin to Samuel M. Williams, Bexar, May 9, 1833. Inhabitants agree substantially with sentiments of convention, but will not support the petition. Gin for Seguin.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p*[From Williams Papers, Rosenberg Library, Galveston, Tex.]*/p*
+
+*p**location_mentioned*Bexar */location_mentioned**date_mentioned n="05-09-1833">May 9 1833*/date_mentioned**/p*
+*p*Dr Sir,*/p*
+
+*p*The *person_mentioned*legislature */person_mentioned*adjourned on the *date_mentioned n="04-30-1833">last of april*/date_mentioned* and *person_mentioned*Madero */person_mentioned*will
+soon be on (as he says in a letter to a person in this place). I wrote
+to him from here and informed [him] that you would be at home
+the *date_mentioned n="05-31-1833">last of this month*/date_mentioned*, by which time I think he will be on.*/p*
+
+*p*I owe something to *person_mentioned*Don Erasmo [Seguin]*/person_mentioned*—he refused to receive
+pay for the time my *person_mentioned*brother */person_mentioned*staid here, and I have always staid here
+in my visits to *location_mentioned*Bexar */location_mentioned*and he never would receive pay—he has
+planted cotton and wants a *location_mentioned*gin*/location_mentioned*. I wish you to make arrangements to
+get one for him on my account—not of the largest size, a strong *location_mentioned*gin*/location_mentioned*
+of the common kind would suit him better than any other for it
+would be easier kept in order. I wish you to write to him on the
+subject.*/p*
+
+*p*The people here agree in <hi rend="italic">substance </hi>with the rest of *location_mentioned*Texas */location_mentioned*but
+differ as to the manner, and will express no opinion for, nor against.*/p*
+
+*p*I leave *date_mentioned n="05-08-1833">tomorrow */date_mentioned*for *location_mentioned*Goliad */location_mentioned*and *location_mentioned*Matamoros*/location_mentioned*, the whole *location_mentioned*country*/location_mentioned*
+here is inundated by excessive floods of rain. The *location_mentioned*indians */location_mentioned*have
+killed two *location_mentioned*men */location_mentioned*within the last two days—one *location_mentioned*within three leagues
+up Salado*/location_mentioned* the other at *location_mentioned*Arroyo Hondo beyond Medina*/location_mentioned*.*/p*
+
+*p**person_mentioned*S. F. Austin*/person_mentioned*   [Rubric]*/p*
+
+*p**person_mentioned*S. M. Williams*/person_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

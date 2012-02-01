@@ -1,0 +1,64 @@
+﻿
+<TEI.2 id="APB3031">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>11-21-1825</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1234</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>David M. McCormick</document_author>
+<document_sender></document_sender>
+<document_recipient>Samuel M. Williams</document_recipient>
+<document_title>David M. McCormick to Samuel M. Williams, 11-21-1825</document_title>
+<document_location>
+	<sent_from>Lower Settlement Brazos, Texas</sent_from>
+	<sent_to>San Felipe de Austin, Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Local barter.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1234</barker_citation>
+</barker_notes>
+<document_digital_creation>06-08-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Cameron L. Sinclair, Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB3031T">
+
+<body>
+*div1 type="summary"*
+*p*Local barter.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Lower Settlement Brassos*/location_mentioned* *date_mentioned n="11-21-1825">Novr 21st 1825*/date_mentioned**/p*
+*p*Dear Sir*/p*
+
+*p*I neglected by an intire forgetfulness a small arrangement that I
+was under promise to make in favour of *person_mentioned*Thomas Alley*/person_mentioned* of the payment of four Dollars that I owe him I told him sometime previous
+to my coming from *location_mentioned*Town*/location_mentioned* that if I could not get the money for him
+that I would not fail to make arrangements with you or *person_mentioned*Col. Austin*/person_mentioned*
+to pay it to him or his order which he said he would give in favour
+of *person_mentioned*Mr Brown*/person_mentioned* that left some whisky with you if he did not call on
+you himself Sir if you will be good Enough to settle that Amount
+with him for me and enable me to keep my word inviolate which I
+wish always to do You will confer a great favour on Your friend—
+Command my services at any time.*/p*
+
+*p**person_mentioned*David M Cormick*/person_mentioned*    [Rubric]*/p*
+
+*p*[Addressed:] *person_mentioned*Mr Samuel M Williams Esqr*/person_mentioned* *location_mentioned*San Felipe de Austin*/location_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

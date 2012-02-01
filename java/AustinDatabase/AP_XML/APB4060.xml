@@ -1,0 +1,67 @@
+﻿
+<TEI.2 id="APB4060">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>10-24-1830</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 521</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Mrs J E B Austin</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F Austin</document_recipient>
+<document_title>Mrs J E B Austin to Stephen F Austin, 10-24-1830</document_title>
+<document_location>
+	<sent_from>Unknown</sent_from>
+	<sent_to>San Felipe de Austin, Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Mrs. J. E. B. Austin to Austin, October 24, 1830.   Personal business.
+</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 521</barker_citation>
+</barker_notes>
+<document_digital_creation>08-30-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4060T">
+
+<body>
+*div1 type="summary"*
+*p*Mrs. J. E. B. Austin to Austin, October 24, 1830.   Personal business.
+*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p*[October 24, 1830.]*/p*
+*p** * * writing now and I am anxious to know how the business
+is or will be settled. You told me *date_mentioned n="Spring-1830">last spring*/date_mentioned* you would send me
+down a pertition to sign—for *location_mentioned*one league of land—on Galviston*/location_mentioned*. I
+want to know if the pertition was answered—or whether you are
+autherized to grant it. I also wish to know what right *person_mentioned*John */person_mentioned*had
+to Lease out my *location_mentioned*hous and 10-acres*/location_mentioned* for five years, that I always
+considered my property, and it is hard to give it up. I loaned *person_mentioned*John*/person_mentioned*
+last *date_mentioned n="Spring-1830">spring */date_mentioned*My watch on a business day. he has not returned it.
+that I wish to reserve myself for *person_mentioned*Stephen */person_mentioned*his *person_mentioned*father */person_mentioned*bought it
+for him and gave it to me to keep it. the *location_mentioned*house */location_mentioned**person_mentioned*John */person_mentioned*knows the
+circumstance very well. I do wish you to answer my letter and
+satisfy me. *person_mentioned*Stephen */person_mentioned*is much better but still has the fever— I
+think I shall be able to break it on him to day. I must conclude by
+wishing you good health and a safe journey—*/p*
+
+*p**person_mentioned*Eliza [Austin] Phillips.*/person_mentioned**/p*
+*p*[addressed:]*person_mentioned* Col Stephen Austin */person_mentioned*  *location_mentioned*St. Felipe   De Austin*/location_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

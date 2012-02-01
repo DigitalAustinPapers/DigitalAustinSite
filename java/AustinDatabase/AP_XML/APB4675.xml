@@ -1,0 +1,100 @@
+﻿
+<TEI.2 id="APB4675">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>09-16-1834</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 1089-1090</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>P W Grayson</document_author>
+<document_sender></document_sender>
+<document_recipient>James F Perry</document_recipient>
+<document_title>P W Grayson to James F Perry, 09-16-1834</document_title>
+<document_location>
+	<sent_from>Monclova, Coahuila</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>P. W. Grayson to James F. Perry, Monclova, September 16, 1834. State political confusion. Governor cooperating with the Texas ayuntamientos in behalf of Austin.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1089-1090</barker_citation>
+</barker_notes>
+<document_digital_creation>12-10-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4675T">
+
+<body>
+*div1 type="summary"*
+*p*P. W. Grayson to James F. Perry, Monclova, September 16, 1834. State political confusion. Governor cooperating with the Texas ayuntamientos in behalf of Austin.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Monclova */location_mentioned**date_mentioned n="09-16-1834">Sepr 16 34*/date_mentioned**/p*
+*p*Dr Sir,*/p*
+
+*p*We reached here the *date_mentioned n="09-14-1834">day before yesterday*/date_mentioned*. I have found matters
+still in great disorders—the *person_mentioned*old Governor*/person_mentioned* abdicated and a new one
+elected, by a few persons here—*location_mentioned*Saltilla */location_mentioned*still holding out with her
+*person_mentioned*Governor */person_mentioned*besides as we understand—; a scene of things that no
+human being can unravel—*/p*
+
+*p*We have no intelligence that can be relied on in regard to *person_mentioned*Col°
+Austin*/person_mentioned*,—There is a kind of rumor now, that he has escaped from
+*location_mentioned*prison*/location_mentioned*, but I place no confidence in it—*/p*
+
+*p*We have delayed here, to get a memorial from the present 
+*person_mentioned*Governor*/person_mentioned*, soliciting his discharge—We had an audience of*person_mentioned* his excellency
+*/person_mentioned*to day, (A very polite, amiable looking old man)  and had every<barker_pb n="1090"/>
+<hi rend="italic">assurance </hi>of his <hi rend="italic">willingness to cooperate with the *person_mentioned*Texas 
+Ayuntamientos*/person_mentioned*</hi>.—*person_mentioned*Padilla */person_mentioned*introduced us in a very cordial manner, and this evening
+he has informed us that he had made out the dispatches of the 
+*person_mentioned*Governor */person_mentioned*would procure his signature in the morning, and hand then
+over to us—If the *location_mentioned*address of the Governor*/location_mentioned* should be as favorable as
+it is promised to be, it may be of much service—In the morning we
+shall start on our way*/p*
+
+*p*There are various rumors in regard to *person_mentioned*Santa Anna*/person_mentioned*s plans—Some
+of them <hi rend="italic">are very unfavorable</hi>—Time will tell which are true—I refer
+you to my letter of this date to *person_mentioned*Mr Bell*/person_mentioned* for the fuller account as to
+these rumors etc—being at the present moment a little pressed for
+time—*/p*
+
+*p*I think now we shall meet with no further delay between this and
+*location_mentioned*Mexico*/location_mentioned*—*person_mentioned*Mr Jack*/person_mentioned* and myself are both in good health and everything
+considered, in pretty good spirits—*/p*
+
+*p**person_mentioned*P. W. Grayson*/person_mentioned**/p*
+
+*p*P. S. Please say to *person_mentioned*Mrs. Perry*/person_mentioned*, that <hi rend="italic">I think</hi> (if my opinion is
+indeed of any value) that she need entertain no fears for the fate of
+her brother*/p*
+
+*p**person_mentioned*P. W. G.*/person_mentioned**/p*
+
+*p*We have received the memorial desired from the *person_mentioned*Governor */person_mentioned*and it is
+<hi rend="italic">all </hi>we could wish—*/p*
+
+*p**person_mentioned*P. W. G.*/person_mentioned**/p*
+
+*p*The old man *person_mentioned*Padilla */person_mentioned*has been very cordial and zealous—*/p*
+
+*p**date_mentioned n="09-17-1834">Sept 17*/date_mentioned**/p*
+
+*p*[Addressdd:] *person_mentioned*Mr James F. Perry*/person_mentioned**location_mentioned* San Fellipe de Austin Texas*/location_mentioned*
+Care of *person_mentioned*Dock Miller*/person_mentioned*   *location_mentioned*San Fellipe*/location_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

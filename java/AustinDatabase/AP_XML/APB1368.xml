@@ -1,0 +1,57 @@
+﻿
+<TEI.2 id="APB1368">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>04-18-1827</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1632-1633</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Receipt</document_type>
+<document_author>Unknown</document_author>
+<document_sender></document_sender>
+<document_recipient>Unknown</document_recipient>
+<document_title>Unknown to Unknown, 04-18-1827</document_title>
+<document_location>
+	<sent_from>Baileys Landing</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Receipt for goods, April 18, 1827.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1632-1633</barker_citation>
+</barker_notes>
+<document_digital_creation>07-21-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1368T">
+
+<body>
+*div1 type="summary"*
+*p*Receipt for goods, April 18, 1827.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p*Recd from *person_mentioned*H. Fullerton*/person_mentioned*, in good order and to be delivered in like
+good order to *person_mentioned*Col. S. F. Austin*/person_mentioned* at *location_mentioned*St Felipe de Austi*/location_mentioned*n the 
+following articles to wit*/p*
+
+*p*1 Bbl cont'g Coffee, Loaf Sugar and diverse small articles*/p*
+*p*1/2    "   cont'g 2 Cheeses*/p*
+*p*3 Cans of Mackerel*/p*,<barker_pb n="1633"/>
+
+*p*The carriage of which will be paid by *person_mentioned*H. Fullerton*/person_mentioned* at this place—
+*location_mentioned*Baileys Landing*/location_mentioned* *date_mentioned n="04-18-1827">18 April 1827*/date_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

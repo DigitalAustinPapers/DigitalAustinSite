@@ -1,0 +1,66 @@
+﻿
+<TEI.2 id="APB1494">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>02-06-1828</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 13</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Bill of Sale of Slave</document_type>
+<document_author>John Gibson</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F Austin</document_recipient>
+<document_title>John Gibson to Stephen F Austin, 02-06-1828</document_title>
+<document_location>
+	<sent_from>Unknown</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>John Gibson to Austin, February 6, 1828.   Bill of sale for a slave.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 13</barker_citation>
+</barker_notes>
+<document_digital_creation>07-30-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1494T">
+
+<body>
+*div1 type="summary"*
+*p*John Gibson to Austin, February 6, 1828.   Bill of sale for a slave.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p*Know all men by these presents that I *person_mentioned*John Gibson,*/person_mentioned* *person_mentioned*agent and
+attorney*/person_mentioned* for *person_mentioned*Madame Catherine de Vilemont*/person_mentioned* of *location_mentioned*Point Chicot*/location_mentioned* in the
+*location_mentioned*Territory of Arkansas*/location_mentioned* in the *location_mentioned*United States of the north*/location_mentioned*, for and in
+consideration of Three Hundred and fifty dollars the receipt whereof
+is hereby acknowledged, have bargained Sold and conveyed to
+*person_mentioned*Stephen F. Austin*/person_mentioned* his *person_mentioned*heirs */person_mentioned*and assigns a certain *person_mentioned*negro woman
+named Fatime*/person_mentioned* of about 40 years, a *person_mentioned*Slave */person_mentioned*for life the possession
+whereof I, as agent aforesaid do guarantee to the Said *person_mentioned*Austin */person_mentioned*his
+*person_mentioned*heirs */person_mentioned*and assigns against the claim of any person or persons 
+whatsoever— In testimony whereof I have hereunto set my hand this
+*date_mentioned n="02-06-1828">Sixth day of February 1828*/date_mentioned* at the Town of *location_mentioned*San Felipe de Austin,*/location_mentioned*
+in the*location_mentioned* Colony of Austin*/location_mentioned* and the *location_mentioned*State of Cuahuila and Texas.*/location_mentioned*
+*/p*
+*p**person_mentioned*John Gibson */person_mentioned*   [Rubric]
+Attests*/p*
+*p**person_mentioned*H. H. League*/person_mentioned*    [Rubric]*/p*
+*p**person_mentioned*J. B. Austin */person_mentioned*   [Rubric]*/p*
+*p*[Indorsed by Austin:] Bill of Sale from *person_mentioned*John Gibson */person_mentioned*for *person_mentioned*negro
+woman alias Mary*/person_mentioned*,*/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

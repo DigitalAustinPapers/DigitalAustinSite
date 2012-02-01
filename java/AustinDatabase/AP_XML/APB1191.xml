@@ -1,0 +1,85 @@
+﻿
+<TEI.2 id="APB1191">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>07-06-1826</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1369-1370</document_citation>
+<document_language>English</document_language>
+<document_status>Public</document_status>
+<document_type>Election Notice</document_type>
+<document_author>Stephen F. Austin</document_author>
+<document_sender></document_sender>
+<document_recipient>General Public</document_recipient>
+<document_title>Stephen F. Austin to General Public, 07-06-1826</document_title>
+<document_location>
+	<sent_from>San Felipe de Austin, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Austin to the public, July 6, 1826. Calling election of delegates to revise judiciary system and to frame tax regulations.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1369-1370</barker_citation>
+</barker_notes>
+<document_digital_creation>06-22-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1191T">
+
+<body>
+*div1 type="summary"*
+*p*Austin to the public, July 6, 1826. Calling election of delegates to revise judiciary system and to frame tax regulations.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p*notice*/p*
+
+*p*The various duties imposed on me as *person_mentioned*Empresario */person_mentioned*and the time
+which must necessarily be devoted in the Course of the next *date_mentioned n="Fall - 1826">fall*/date_mentioned*
+and *date_mentioned n="WInter - 1826">winter*/date_mentioned*, to closing the affairs of the *location_mentioned*old Colony */location_mentioned*and commenceing
+those of the new added to *person_mentioned*Indian */person_mentioned*matters will render it difficult for
+me to give that attention to those subjects which their importance
+requires and at the same time attend to the Judicial business of the
+*location_mentioned*Colony */location_mentioned*in detail, for this reason a change is necessary in the 
+organization of the Judicial system of the *location_mentioned*Colony*/location_mentioned*, such a change can
+be provisionally effected under the general authority vested in me,
+but I feel an unwillingness to do it without the advice of the<barker_pb n="1370"/>
+*person_mentioned*settlers*/person_mentioned*: I therefore request that the *person_mentioned*settlers */person_mentioned*of each *location_mentioned*Alcalde district
+*/location_mentioned*will convene on the *date_mentioned n="08-05-1826">first Saturday of August next*/date_mentioned* at the following
+places—In the *location_mentioned*district of the Bravo*/location_mentioned* at the *location_mentioned*house of *person_mentioned*William 
+Millican*/person_mentioned**/location_mentioned*, in the *location_mentioned*district of Sn felipe*/location_mentioned* at the town of that name, in the 
+*location_mentioned*district of Victoria*/location_mentioned* at *location_mentioned*Bolivar */location_mentioned*in the *location_mentioned*district of Mina*/location_mentioned* at *person_mentioned*Amos Rails*/person_mentioned*, in
+the *person_mentioned*district of Colorado*/person_mentioned* at *person_mentioned*James Cummins*/person_mentioned* and in the district of *location_mentioned*Sn
+Jacinto*/location_mentioned* at the*location_mentioned* mouth of Buffalo Bayou*/location_mentioned*; for the purpose of electing
+two *person_mentioned*representatives */person_mentioned*from each *location_mentioned*district*/location_mentioned*. The said *person_mentioned*representatives*/person_mentioned*
+thus elected will meet at this place on the *date_mentioned n="08-21-1826">third Monday of August
+next*/date_mentioned* for the purpose of forming a new provisional Judiciary System
+for this *location_mentioned*Colony */location_mentioned*and to adopt an equitable system of taxation for the
+support of such new system and to meet the exipences which may
+arise out of *person_mentioned*Indian */person_mentioned*difficulties.*/p*
+
+*p*The above mentioned *person_mentioned*representatives */person_mentioned*are to be elected with the
+express understanding by the people that the acts of a majority of
+them which may be approved of by the *person_mentioned*Empresario */person_mentioned*are to be binding
+on the whole *location_mentioned*Colony*/location_mentioned*.*/p*
+
+*p*The *person_mentioned*Alcaldes of each district*/person_mentioned* will preside at the said elections and
+give to the *person_mentioned*persons elected*/person_mentioned* a certificate of their election and a Notice
+to meet at this place on the *date_mentioned n="08-21-1826">third Monday of August next*/date_mentioned*.*/p*
+
+*p**location_mentioned*Sn felipe de Austin*/location_mentioned* *date_mentioned n="07-06-1826">6 July 1826*/date_mentioned**/p*
+
+*p**person_mentioned*S. F. Austin */person_mentioned*   [Rubric]*/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

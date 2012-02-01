@@ -1,0 +1,69 @@
+﻿
+<TEI.2 id="APB3026">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>11-02-1825</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1230-1231</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Aylett C. Buckner</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F. Austin</document_recipient>
+<document_title>Aylett C. Buckner to Stephen F. Austin, 11-02-1825</document_title>
+<document_location>
+	<sent_from>Lower Settlement Brazaos, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Concerning land disputes, and empresario's difficulties.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1230-1231</barker_citation>
+</barker_notes>
+<document_digital_creation>06-07-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Cameron L. Sinclair, Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB3026T">
+
+<body>
+*div1 type="summary"*
+*p*Concerning land disputes, and empresario's difficulties.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Lower Settlement Brazos*/location_mentioned* *date_mentioned n="11-02-1825">2nd Nv. 1825*/date_mentioned**/p*
+*p*Dr Sir,*/p*
+
+*p*About *date_mentioned n="10-xx-1825">one month ago*/date_mentioned* *person_mentioned*Powel*/person_mentioned* started for the *location_mentioned*Rio Grande*/location_mentioned* before he started he requested me to write to you respecting his getting
+land and to ascertain from you if there was a possibility of doing
+so whether you intended letting him have land or not and where I
+saw a letter you wrote him sum time since saying, as well as I
+recollect that if he would recall sum expression or perhaps sum
+letter he had written you that you would give him an answer on the<barker_pb n="1231"/>
+subject of land business I believe I have seen all he has ever written
+you and I do not recollect wherein he has written anything to you
+but what he was justifyable in And as for his recalling that which
+he ought not to do I do not consider it a fair request and my advice
+to him would be not to recall any thing he has written or said unless
+he has written or said that which he ought not to have done for it
+[is] too tough for a man to do that which does not accord with his
+conscience*/p*
+
+*p**person_mentioned*Jno. McClines*/person_mentioned* requested men to write to you on the same business and wishes land in the *location_mentioned*B. Prara*/location_mentioned* if the land which was intended for sarver can be given them I presume they would be
+satisfyed*/p*
+
+*p**person_mentioned*Ay. C. Buckner*/person_mentioned**/p*
+*p*[Addressed:] *person_mentioned*Col° S. F. Austin*/person_mentioned**/p*
+*/div1*
+</body>
+</text>
+</TEI.2>

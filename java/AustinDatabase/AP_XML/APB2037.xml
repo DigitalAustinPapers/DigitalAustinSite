@@ -1,0 +1,76 @@
+﻿
+<TEI.2 id="APB2037">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>06-13-1825</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 1133-1134</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Stephen F Austin</document_author>
+<document_sender></document_sender>
+<document_recipient>James Cummins</document_recipient>
+<document_title>Stephen F Austin to James Cummins, 06-13-1825</document_title>
+<document_location>
+	<sent_from>San Felipe de Austin, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Austin to James Cummins, June 13, 1825. Announcing settlement of the Buckner case.</barker_summary>
+	<barker_footnotes>See Buckner to Austin, August 10, 1825.
+Whether this fragment refers to Buckner  is uncertain   but likely
+</barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1133-1134</barker_citation>
+</barker_notes>
+<document_digital_creation>12-15-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB2037T">
+
+<body>
+*div1 type="summary"*
+*p*Austin to James Cummins, June 13, 1825. Announcing settlement of the Buckner case.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p*The matter has been investigated which induced the summons
+of *person_mentioned*A. C. Buckner*/person_mentioned* before me, and the result of such investigation
+has satisfied me that the acts of said *person_mentioned*Buckner */person_mentioned*which were deemed<barker_pb n="1134"/>
+exceptionable proceeded from misconception, and the said *person_mentioned*Buckner*/person_mentioned*
+having manifested a submission to the Laws and *person_mentioned*authorities of the
+Government*/person_mentioned*—Therefore in order that the public may be satisfied as
+to the result of this matter it is directed that the whole affair be 
+dismissed, under the belief that his deportment will be such as to
+merit the approbation of the *person_mentioned*authorities of the Government*/person_mentioned* and the
+more effectually to avoid any excitement which a reference to the
+subject in private conversation might create it is recommended that
+it be totally forgotten and consigned to oblivion.*/p*
+
+*p**person_mentioned*San felipe de Austin*/person_mentioned* *date_mentioned n="06-13-1825">13 June 1825*/date_mentioned*.*/p*
+
+*p**person_mentioned*Stephen F. Austin  */person_mentioned*  [Rubric]*/p*
+
+*p*To *person_mentioned*James Cummins Esqr*/person_mentioned**/p*
+
+*p*[On the reverse:]*/p*
+
+*p*La hospitalidad y amistad qe. hacia los *person_mentioned*extrangeros */person_mentioned*caracteriza
+los *person_mentioned*Mexicanos*/person_mentioned*, con q. este sujeto fue tratado en lo *location_mentioned*interior*/location_mentioned*, ha
+producido tal efecto sobre su orgullo propio qe. piensan qe. tiene
+influxo pa. trastornar un *location_mentioned*Estado */location_mentioned*y ahora según me dice el va llevar
+sus quejas al *person_mentioned*Congreso del Estado*/person_mentioned*—estas consiste en esto—*/p*
+
+
+*/div1*
+</body>
+</text>
+</TEI.2>

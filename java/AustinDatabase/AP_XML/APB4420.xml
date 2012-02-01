@@ -1,0 +1,90 @@
+﻿
+<TEI.2 id="APB4420">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>08-25-1832</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 850</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Thomas G Western and Others</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F Austin</document_recipient>
+<document_title>Thomas G Western and Others to Stephen F Austin, 08-25-1832</document_title>
+<document_location>
+	<sent_from>Goliad, Texas</sent_from>
+	<sent_to>San Felipe de Austin, Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Thomas G. Western et al. to Austin, Goliad, August 23, 1832. Military commandant refuses to declare for Sata Anna, but civil authorities are ready to do so.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 850</barker_citation>
+</barker_notes>
+<document_digital_creation>10-02-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4420T">
+
+<body>
+*div1 type="summary"*
+*p*Thomas G. Western et al. to Austin, Goliad, August 23, 1832. Military commandant refuses to declare for Sata Anna, but civil authorities are ready to do so.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Goliad*/location_mentioned* *date_mentioned n="08-25-1832">August 25—1832*/date_mentioned**/p*
+*p*Sir*/p*
+
+*p*In addition to our representation under *date_mentioned n="08-24-1832">yesterdays date*/date_mentioned* handed to
+you here with, we have further to lay before you the following
+facts,—*/p*
+
+*p*The *person_mentioned*Military commandant of *location_mentioned*this post*/location_mentioned**/person_mentioned* continues obstinately to
+oppose the Plan of *person_mentioned*Genl. Sta Anna*/person_mentioned*, after the receipt of the 
+pronouncement of your *person_mentioned*Ayuntamiento */person_mentioned*(by the *person_mentioned*Authorities */person_mentioned*here) he
+was called upon by them to attend a meeting of their *person_mentioned*Corporate body*/person_mentioned*
+to deliberate upon the reply to be made, he refused, alledging that
+himself and his *person_mentioned*officers */person_mentioned*would continue to adhere to the actual Govmt.
+of *person_mentioned*Sr Bustamte*/person_mentioned* untill compelled by force of arms to act otherwise.—*/p*
+
+*p*After closing *date_mentioned n="08-23-1832">last evening*/date_mentioned* our respects before alluded to, the mail
+arrived from your *location_mentioned*quarter*/location_mentioned*— it brought dispatches to the 
+*person_mentioned*Commandant */person_mentioned*and this morning he waited upon the *person_mentioned*Alcalde*/person_mentioned*, shewing him
+a confidential letter he had received, stating that *person_mentioned*Mr. Bowie*/person_mentioned* was
+now on his march to *location_mentioned*Bejar*/location_mentioned*, with *person_mentioned*troops*/person_mentioned*,—that a force had been
+prepared with you to come to *location_mentioned*this place*/location_mentioned*, but that it had not come
+hither in consequence of your having been informed that this place
+had already pronounced in favor of the Constitution and Laws—He
+demanded of the *person_mentioned*Alcalde */person_mentioned*his aid, of the *person_mentioned*Civicos */person_mentioned*etc. in case this
+*person_mentioned*force */person_mentioned*should come, the *person_mentioned*Alcalde */person_mentioned*told him not to expect from him
+any aid whatever, that neither he nor the *person_mentioned*Citizens */person_mentioned*would oppose the
+forces of *person_mentioned*Santa Anna*/person_mentioned*, and that should they come, he might get within
+his own walls and make what defense he could with his *person_mentioned*troops*/person_mentioned*—he
+then said he would communicate with him on the Subject and make
+his demand officially—to which the *person_mentioned*Alcalde */person_mentioned*replied, that he should
+make him the same answer in writing, that he then did verbally—
+finally the *person_mentioned*Commdt*/person_mentioned*. manifested, that should he find no assistance
+here, he would proceed with his *person_mentioned*troops */person_mentioned*to *location_mentioned*Bejar*/location_mentioned*, and join those of
+his own *person_mentioned*party */person_mentioned*there,—these are the last occurences transpired here
+up to this hour   4 P. M.—*/p*
+
+*p**person_mentioned*J. Antonio Vasquez    [Rubric]
+Secrtio. de Ayunto.*/person_mentioned**/p*
+*p**person_mentioned*Thomas, G, Western  */person_mentioned*  [Rubric]*/p*
+*p**person_mentioned*Jno. Hallet   */person_mentioned* [Rubric]*/p*
+*p**person_mentioned*J W. H. Living */person_mentioned*   [Rubric]*/p*
+
+*p*To *person_mentioned*Col. S. F. Austin*/person_mentioned**location_mentioned* San Felipe*/location_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

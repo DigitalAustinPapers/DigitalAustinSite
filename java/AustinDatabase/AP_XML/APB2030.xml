@@ -1,0 +1,68 @@
+﻿
+<TEI.2 id="APB2030">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>06-07-1825</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 1131</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Subpoena</document_type>
+<document_author>Stephen F Austin</document_author>
+<document_sender></document_sender>
+<document_recipient>Sheriff of Colony</document_recipient>
+<document_title>Stephen F Austin to Sheriff of Colony, 06-07-1825</document_title>
+<document_location>
+	<sent_from>San Felipe de Austin, Texas</sent_from>
+	<sent_to>San Felipe de Austin, Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Subpoena for witness, June 7, 1825. To testify concerning seditious conduct of Buckner.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1131</barker_citation>
+</barker_notes>
+<document_digital_creation>12-15-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB2030T">
+
+<body>
+*div1 type="summary"*
+*p*Subpoena for witness, June 7, 1825. To testify concerning seditious conduct of Buckner.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Department of Texas*/location_mentioned*    *location_mentioned*Jurisdiction of the Colony on the Colorado*/location_mentioned**/p*
+
+*p**location_mentioned*Brasos */location_mentioned*and *location_mentioned*San Jacinto*/location_mentioned*—*/p*
+
+*p*The *person_mentioned*Sheriff of said *location_mentioned*Colony */location_mentioned**/person_mentioned*is hereby commanded in the name of
+the *location_mentioned*State of Quahuila and Texas*/location_mentioned* to summon *person_mentioned*William Rabb*/person_mentioned*, *person_mentioned*Andrew
+Rabb*/person_mentioned*, *person_mentioned*Thomas Rabb*/person_mentioned*, *person_mentioned*Joseph Newman*/person_mentioned*, *person_mentioned*Robert Keykendall*/person_mentioned*, *person_mentioned*William
+Kincheloe*/person_mentioned*,*person_mentioned* Alexander Jackson*/person_mentioned*, *person_mentioned*John Clark*/person_mentioned* and *person_mentioned*Eli Hunter*/person_mentioned*, to
+appear before me at my *location_mentioned*office */location_mentioned*in this place on *date_mentioned n="06-11-1825">Saturday the 
+Eleventh day of this Month*/date_mentioned* between the hours of Ten O Clock of the fore
+noon and two o clock of the afternoon then and there to give 
+evidence as to any thing they may know relative to the disorderly and
+Seditious Conduct of *person_mentioned*A. C. Buckner*/person_mentioned*, against the *person_mentioned*Authorities of the
+Government*/person_mentioned* or the public peace of this *location_mentioned*Colony*/location_mentioned*, and you will make
+a return of this summons, on *date_mentioned n="06-10-1825">Friday evening the 10 inst*/date_mentioned**/p*
+
+*p*Given in the Town of *location_mentioned*San Felipe de Austin*/location_mentioned* *date_mentioned n="06-07-1825">June 7th 1825*/date_mentioned**/p*
+
+*p**person_mentioned*Stephen F. Austin Judge of the Colony*/person_mentioned**/p*
+
+*p*To the *person_mentioned*Sheriff of Said Colony*/person_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

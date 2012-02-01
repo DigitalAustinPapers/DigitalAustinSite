@@ -1,0 +1,90 @@
+﻿
+<TEI.2 id="APB1066">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>03-22-1825</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1062</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>John S. WIlls</document_author>
+<document_sender>Mr. Wm Cummings</document_sender>
+<document_recipient>Stephen F. Austin</document_recipient>
+<document_title>John S. WIlls to Stephen F. Austin, 03-22-1825</document_title>
+<document_location>
+	<sent_from>Ripley, Brown County, Ohio</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>John S. Wills to Austin, Brown County, Ohio, March 22, 1825. Inquiries about opportunities for professional men. Rumors of assimilation of Mexico by
+the United States.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1062</barker_citation>
+</barker_notes>
+<document_digital_creation>06-01-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1066T">
+
+<body>
+*div1 type="summary"*
+*p*John S. Wills to Austin, Brown County, Ohio, March 22, 1825. Inquiries about opportunities for professional men. Rumors of assimilation of Mexico by
+the United States.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*State of Ohio*/location_mentioned* *location_mentioned*Brown County*/location_mentioned* *location_mentioned*Ripley*/location_mentioned* *date_mentioned n="03-22-1825">March 22, 1825*/date_mentioned**/p*
+*p*Sir*/p*
+
+*p*By *person_mentioned*Mr. Wm Cummings*/person_mentioned* I take the liberty of addressing you, tho:
+a perfect *person_mentioned*stranger*/person_mentioned*, this however I hope will not be considered 
+intrusive, in as much as I am very desirous of leming the general
+character of your *location_mentioned*province*/location_mentioned*, as to general Laws and municipal 
+regulations by profession I am a *person_mentioned*lawyer*/person_mentioned*, and have been in the 
+profession for upwards of twenty five years, and have connected with me a
+*person_mentioned*Son in Law*/person_mentioned* of the same profession, a young man of finished 
+education, and in general opinion of much promise. I have also *person_mentioned*Nephew*/person_mentioned*
+a *person_mentioned*phisician*/person_mentioned*, regularly bread, these *person_mentioned*gentlemen*/person_mentioned* have strong 
+inclination to settle in some New *location_mentioned*Country*/location_mentioned*, opening to them, prospects, more
+flattering to their views, than any thing in this section of the
+*location_mentioned*United States*/location_mentioned*. By *location_mentioned*News paper */location_mentioned*information we <hi rend="italic">here</hi> are informed,
+that the Government of *location_mentioned*Mexeco*/location_mentioned*, will be partially organized and
+assimelated to the Government of these *location_mentioned*United States*/location_mentioned* so far as
+circumstances will permit, should your government, be organized
+with a Judiciary likened to that of any [of] our states it is 
+presumable some field would be opened for a young [man] of legal 
+acquirements, of which you will be pleased to inform me.*/p*
+
+*p*It is not improbable but that upon satisfactory information, of
+the character of your government, should it be as I have had reason
+to calculate, I would with some few others become *person_mentioned*citizens*/person_mentioned* thereof,
+for myself I could not from age (fifty) expect much, but my 
+object is the promotion of my *person_mentioned*connections*/person_mentioned*, we could not bring much
+wealth, with us, but I can say with some confidence, we could, bring
+that, that would be no loss to your *location_mentioned*infant establishment*/location_mentioned*, 
+character etc.*/p*
+
+*p*At some leisure moment, will you be pleased to devote, a little
+time in answering this letter, and have it, forwarded to some post
+office in the*location_mentioned* United States*/location_mentioned*,*/p*
+
+*p**person_mentioned*John S. Wills.*/person_mentioned**/p*
+*p*NB I believe I knew your*person_mentioned* father*/person_mentioned*, when he resided in *location_mentioned*Richmond, 
+Virginia*/location_mentioned* I was then studying Law in that place, I saw him afterwards
+at *location_mentioned*Cincennati Ohio*/location_mentioned*, on his way to the *location_mentioned*lower Country*/location_mentioned**/p*
+
+*p**person_mentioned*J. S. W*/person_mentioned*.*/p**p*
+*person_mentioned*Colo. Philip Austin*/person_mentioned* *location_mentioned*New Mexico*/location_mentioned*.*/p*
+*/div1*
+</body>
+</text>
+</TEI.2>

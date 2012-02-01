@@ -1,0 +1,73 @@
+﻿
+<TEI.2 id="APB1680">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>02-18-1829</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 172</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>George Orr</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F Austin</document_recipient>
+<document_title>George Orr to Stephen F Austin, 02-18-1829</document_title>
+<document_location>
+	<sent_from>Trinity Atoscosito, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>George Orr to Austin, February 18, 1829. Thanking Austin for influence in obtaining grants of land for settlers on the Trinity.</barker_summary>
+	<barker_footnotes>On the subject of this letter see Austin to Anastaeio Bustamante, Mar, 4, 1828.</barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 172</barker_citation>
+</barker_notes>
+<document_digital_creation>08-10-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1680T">
+
+<body>
+*div1 type="summary"*
+*p*George Orr to Austin, February 18, 1829. Thanking Austin for influence in obtaining grants of land for settlers on the Trinity.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Trinaty Atoscosito*/location_mentioned* *date_mentioned n="02-18-1829">Fabery 18—. 1829*/date_mentioned**/p*
+*p*To *person_mentioned*Cornal S F Austin*/person_mentioned**/p*
+
+*p*Dear Sir I Received your Leater by the hand of *person_mentioned*Mr E. M. Williamson*/person_mentioned*-
+*date_mentioned n="02-17-1829">yeasterday */date_mentioned*which Give Me Greate Setisfaction I Likewise 
+Received jout Leater Dated the *date_mentioned n="12-31-1828">31st Desamber Last*/date_mentioned* Togather with the
+Official Leater and its Translation from the *person_mentioned*Chief of the Department
+of *location_mentioned*Bexer*/location_mentioned**/person_mentioned* which was Grate Satisfaction To hear the Good Tidings
+that thrue your feling and Kind Gratitud that you have persevered
+in obtaining a *location_mentioned*Grant */location_mentioned*for the Lands in this *location_mentioned*Sacsion */location_mentioned*of Contra from
+the honarable Governmant and i think the *person_mentioned*Setters *location_mentioned*on this River*/location_mentioned**/person_mentioned*
+Should never for Get you as their faithfull freind and My Salf
+amongst the reast and i am in hopes that we will Soon be Satisfied
+as Regerds our Lands or the Leand that whe Expect To Get*/p*
+
+*p*I Should Take it as a Grate favour if you wood Leat Me Know
+whan the *person_mentioned*Comisionar Padilla*/person_mentioned* Should arive in *person_mentioned*St antone */person_mentioned*I and Some
+of the *person_mentioned*nabours */person_mentioned*will Go and Se him if poseble i wood do anay thing
+in My power to forward the Buisness or Expodit the Saim So that
+the *person_mentioned*inhabitants */person_mentioned*May be Satisfied i think it wood Make a grate difrens
+in this *location_mentioned*Saction */location_mentioned*of Contra*/p*
+
+*p*I wish To Com out To Se you in 2 or 3 weks if poseble*/p*
+
+*p**person_mentioned*George Orr*/person_mentioned**/p*
+*p*Pleais To Give My Complimants To *person_mentioned*Mr Samual M Williams*/person_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

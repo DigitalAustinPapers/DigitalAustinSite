@@ -1,0 +1,84 @@
+﻿
+<TEI.2 id="APB4345">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>05-08-1832</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 769-770</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Stephen F Austin</document_author>
+<document_sender></document_sender>
+<document_recipient>Henry Austin</document_recipient>
+<document_title>Stephen F Austin to Henry Austin, 05-08-1832</document_title>
+<document_location>
+	<sent_from>Saltillo, Coahuila</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Austin to Henry Austin, Saltillo, May 8, 1832. Has cordial letters from Mexican statesmen. Thinks bar to immigration from the United States may be repealed.</barker_summary>
+	<barker_footnotes>Copy by Moses Austin Bryan, in file of Aug. 27, 1829.
+See above, Feb. 18, 1832.</barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 769-770</barker_citation>
+</barker_notes>
+<document_digital_creation>9-22-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4345T">
+
+<body>
+*div1 type="summary"*
+*p*Austin to Henry Austin, Saltillo, May 8, 1832. Has cordial letters from Mexican statesmen. Thinks bar to immigration from the United States may be repealed.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Saltillo */location_mentioned**date_mentioned n="05-08-1832">May 8th 1832*/date_mentioned**/p*
+*p*Dear Sir—I sent your letter to *person_mentioned*Smith and Stillman*/person_mentioned* from *location_mentioned*Canada*/location_mentioned*,
+and by this last mail reed, their answer, and an order on the *person_mentioned*agent*/person_mentioned*
+of the late firm of*person_mentioned* R. P. Staples and Co*/person_mentioned*. for the acknowledged balance
+of $756.05. The *person_mentioned*agent */person_mentioned*left here for *location_mentioned*Mexico */location_mentioned*before I reed, their
+orders. I applied to some others who are employed in arranging
+the accounts of the concern, and they all tell me that nothing can
+be had, and recommended that the account be sent to some one in
+*location_mentioned*Mexico */location_mentioned*to represent it at the <hi rend="italic">concurso </hi>of the *person_mentioned*creditors*/person_mentioned*.   I fear this<barker_pb n="770"/>
+money will be lost—so far as I understand, the affairs of the *location_mentioned*house*/location_mentioned*
+are much more embarrased than was supposed. *person_mentioned*Mr Sharpe one
+of the agents of the concern */person_mentioned*here, for posting up the books (a
+*person_mentioned*Philadelphian*/person_mentioned*) thinks that not over 20 pr. cent, will be divided-
+he says that your debt was lost by neglect for if it had been called
+for *date_mentioned n="12-xx-1831">six months ago*/date_mentioned* it would have been paid, as the *person_mentioned*creditors */person_mentioned*in
+*location_mentioned*Mexico */location_mentioned*had then agreed to suffer the house to go on—since then
+they have become alarmed, and every one is pressing—the result
+is a total stopage. I have written to *person_mentioned*Smith and Stillman*/person_mentioned* on the
+subject and recommend them to send the account to *person_mentioned*Parrot*/person_mentioned*, to do
+the best he can with it. I leave *date_mentioned n="05-09-1832">to-morrow*/date_mentioned* for *location_mentioned*victoria */location_mentioned*and shall not
+return to *location_mentioned*Texas */location_mentioned*before *date_mentioned n="10-xx-1832">October*/date_mentioned*. *person_mentioned*Mason */person_mentioned*goes with me to see the
+*person_mentioned*General */person_mentioned*on business, and he has a fair prospect of effecting 
+something tho to what extent is rather doubtful. The political state of
+things is still unsettled and it is doubtful what will be the result,
+and whether the *person_mentioned*ministers */person_mentioned*will be able to sustain themselves or not.
+It matters not much for *location_mentioned*Texas*/location_mentioned*, provided peace and harmony can
+be preserved there which is all important now. I have very friendly
+letters from *person_mentioned*Don Lucas Alaman,*/person_mentioned* *person_mentioned*Genl. Teran */person_mentioned*and the *person_mentioned*Vice 
+President*/person_mentioned*. The memorial of the *person_mentioned*Ayuntamiento of *location_mentioned*Austin */location_mentioned**/person_mentioned*has been
+passed to *person_mentioned*congress */person_mentioned*with the recommendation of the *person_mentioned*President*/person_mentioned*, and
+the prospect is good of a repeal of the 11 article of the law of *date_mentioned n="04-06-1830">6 April
+1830*/date_mentioned* also of a modification of the duties. Remember me to *person_mentioned*Mrs A.
+*/person_mentioned*and *person_mentioned*children*/person_mentioned*.           Yours truly  */p*                                 
+*p**person_mentioned*S. F. Austin*/person_mentioned**/p*
+
+*p*You ought to loose no time in locating your other *location_mentioned*sitio*/location_mentioned*—*/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

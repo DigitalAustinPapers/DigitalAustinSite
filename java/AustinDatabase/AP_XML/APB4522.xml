@@ -1,0 +1,77 @@
+﻿
+<TEI.2 id="APB4522">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>02-01-1833</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 923-924</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>G Edwards</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F Austin</document_recipient>
+<document_title>G Edwards to Stephen F Austin, 02-01-1833</document_title>
+<document_location>
+	<sent_from>Attica, Seneca County, Ohio</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>G. Edwards to Austin, Attica, Ohio, February 1, 1833. Represents many neighbors in asking climate, production, soil, terms of acquiring land.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 923-924</barker_citation>
+</barker_notes>
+<document_digital_creation>11-11-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4522T">
+
+<body>
+*div1 type="summary"*
+*p*G. Edwards to Austin, Attica, Ohio, February I, 1883. Represents many neighbors in asking climate, production, soil, terms of acquiring land.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Attics Seneca County Ohio*/location_mentioned* *date_mentioned n="02-01-1833">Feby. 1st 1833*/date_mentioned**/p*
+*p**person_mentioned*Col. Austin.*/person_mentioned**/p*
+
+*p*Sir, myself with many of my *location_mentioned*neighbours*/location_mentioned*, are verry desirous of
+getting some information from you, respecting your *location_mentioned*country*/location_mentioned*; we
+wish you to be verry minute in your description of the climate, soil,
+and productions; also the seasons, wether they are in extremes, wet
+or dry; the state of your market, and general prices of your produce,
+and particularly if you grow wheat, and how many Bushels per acre,
+we also wish to know the terms that we can purchase the land on, and
+the extent of your *location_mentioned*collony*/location_mentioned*, and wether some 40 or 50 *person_mentioned*family's */person_mentioned*would
+be acceptable; we also wish to know the convenience of your *location_mentioned*mill*/location_mentioned*
+priveleges, and general extent of your water power; also the 
+different kinds of wild animals, particularly if the wild horse and cattle
+abound in such numbers as is reported here, and wether sheep are
+healthy there, learn us the state of literature, the present state of
+your government, and the disposition of the *person_mentioned*natives */person_mentioned*toward your
+*location_mentioned*colony*/location_mentioned*; also wether your *location_mentioned*waters */location_mentioned*abound with fish, oysters, clams, etc,
+and their qualities, wether your climate agrees with the notheren
+people; also if the necessary articles of husbandry can be easily 
+obtained there, and if not, where they can be on the best terms, finally,
+we wish you to inform us of all the advantages, and disadvantages,
+and future prospects attending your country, we have proposed 
+sending two men as *person_mentioned*agents of our little *location_mentioned*colony*/location_mentioned**/person_mentioned*, to explore and make the
+necessary observations respecting your *location_mentioned*country*/location_mentioned*, and on the receipt<barker_pb n="924"/>
+of your answer, we can judge wether it will Justify us to do so or not,
+if so, please to propose the rout they had better take for safety,
+economy, and expedition,*/p*
+
+*p**person_mentioned*G. Edwards*/person_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

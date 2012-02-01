@@ -1,0 +1,77 @@
+﻿
+<TEI.2 id="APB1396">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>06-01-1827</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1651</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Hanson Alsbury</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F. Austin</document_recipient>
+<document_title>Hanson Alsbury to Stephen F. Austin, 06-01-1827</document_title>
+<document_location>
+	<sent_from>Mount Carmel, Missouri</sent_from>
+	<sent_to>Austin's Colony, Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Hanson Alsbury to Austin, June 1, 1827. Reputation of colony rapidly increasing in the United States. Jackson-Adams campaign distressing the country.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1651</barker_citation>
+</barker_notes>
+<document_digital_creation>07-23-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1396T">
+
+<body>
+*div1 type="summary"*
+*p*Hanson Alsbury to Austin, June 1, 1827. Reputation of colony rapidly increasing in the United States. Jackson-Adams campaign distressing the country.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Mount Carmel Mi*/location_mentioned*  *date_mentioned n="06-01-1827">June 1st 1827*/date_mentioned*.*/p*
+
+*p*Dear Sir I have taken the liberty to enclose to you a letter 
+addressed to my *person_mentioned*Mother*/person_mentioned*, belie veing it to be the only sure means by
+which she wrould receive it, therefore I desire as a favour specially
+confered you will forward it so soon as practicable.*/p*
+
+*p*Previous to my departure with my *person_mentioned*wife */person_mentioned*from your *location_mentioned*Colony */location_mentioned*you
+were pleased to assure me that so soon as the *person_mentioned*Commissioner of the
+Sale of lands*/person_mentioned* should arrive you would make me a title to my 
+*location_mentioned*portion of lands*/location_mentioned*, being already entitled to it by my citizenship permit
+me to remind you of your promise and as soon as I can have 
+assurance that by title is made I will remit or bring you the amt of
+consideration.*/p*
+
+*p*I have nothing new to write you. The character of your *location_mentioned*colony*/location_mentioned*
+is rapidly increasing in the*location_mentioned* U. S.*/location_mentioned* Our *location_mentioned*union */location_mentioned*is much distressed
+and agitated by the political canvass for the *person_mentioned*presidency*/person_mentioned*, The
+*person_mentioned*friends */person_mentioned*both of *person_mentioned*Adams */person_mentioned*and *person_mentioned*Jackson */person_mentioned*are sanguine in their hopes for
+their friend—The contest in my opinion is quite doubtful—*/p*
+
+*p**person_mentioned*Hanson Alsbury*/person_mentioned**/p*
+
+*p**person_mentioned*Stephen F Austin Esq*/person_mentioned* *location_mentioned*Austin Colony Mexico*/location_mentioned**/p*
+
+*p*N B My purpose is as soon as I shall be able to resume my 
+residence in *location_mentioned*Texas*/location_mentioned*.*/p*
+
+*p**person_mentioned*HA*/person_mentioned**/p*
+
+
+*/div1*
+</body>
+</text>
+</TEI.2>

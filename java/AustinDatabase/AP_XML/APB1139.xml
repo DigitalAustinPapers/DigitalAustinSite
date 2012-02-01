@@ -1,0 +1,90 @@
+﻿
+<TEI.2 id="APB1139">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>05-08-1826</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1328-1329</document_citation>
+<document_language>English</document_language>
+<document_status>Public</document_status>
+<document_type>Sheriff's Sale</document_type>
+<document_author>Stpehen F. Austin</document_author>
+<document_sender></document_sender>
+<document_recipient>People of Colony</document_recipient>
+<document_title>Stpehen F. Austin to People of Colony, 05-08-1826</document_title>
+<document_location>
+	<sent_from>Unknown</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Austin to J. H. Polly [about May 8, 1826].   Order for sheriff's sale.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1328-1329</barker_citation>
+</barker_notes>
+<document_digital_creation>06-15-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1139T">
+
+<body>
+*div1 type="summary"*
+*p*Austin to J. H. Polly [about May 8, 1826].   Order for sheriff's sale.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**date_mentioned n="05-08-1826">[about May 8, 1826.]*/date_mentioned**/p*
+*p*167.50*/p*
+*p*85.75*/p*
+
+*p*253. 25*/p*
+
+*p*The *person_mentioned*Sheriff */person_mentioned*of said *location_mentioned*colony */location_mentioned*is hereby commanded to seize and 
+expose to public sale so much of the property of *person_mentioned*J E G*/person_mentioned* the *person_mentioned*defendent */person_mentioned*in
+the above case as may be sufficient to pay Eighty five dollars and
+Seventy Cents to the *person_mentioned*Secretary S M Williams*/person_mentioned* 167.50 to the *person_mentioned*Sheriff
+J. H. Polly*/person_mentioned* and 175.30 to the *person_mentioned*Jurors */person_mentioned*being the amt. of costs due in
+said case and ordered to be paid by said  *person_mentioned*defendent Groce */person_mentioned*by the
+Judgement of the *location_mentioned*Jurisdiction */location_mentioned*and *location_mentioned*Supreme court of this 
+Jurisdiction */location_mentioned*dated *date_mentioned n="05-08-1826">8th May of this year*/date_mentioned*—and the said *person_mentioned*Sheriff */person_mentioned*will make 
+return of this execution to my *location_mentioned*office */location_mentioned*within *date_mentioned n="07-08-1826">sixty days*/date_mentioned* from this day as<barker_pb n="1329"/>
+respects the *person_mentioned*Secretary*/person_mentioned*'s and *person_mentioned*Sheriff*/person_mentioned*s costs and within *date_mentioned n="08-08-1826">ninety days*/date_mentioned* as
+respects the *person_mentioned*Juror*/person_mentioned*s fees—*/p*
+
+*p*167.50*/p*
+*p*37.75*/p*
+
+*p*129. 75
+*/p*
+*p*129.30*/p*
+
+*p*85.70*/p*
+
+*p*344. 75*/p*
+
+*p**person_mentioned*[Stephen F. Austin.]*/person_mentioned**/p*
+
+*p**date_mentioned n="05-08-1826">[About May 8, 1826]*/date_mentioned**/p*
+
+*p**location_mentioned*Department of Texas*/location_mentioned* *location_mentioned*Austins Colony*/location_mentioned*   *person_mentioned*Imla Keep*/person_mentioned* vs. *person_mentioned*Jared E Groce*/person_mentioned**/p*
+
+*p*The *person_mentioned*Sheriff */person_mentioned*of said *location_mentioned*colony */location_mentioned*is hereby commanded to seize and 
+expose to public sale so much of the property of *person_mentioned*Jared E Groce*/person_mentioned* the
+*person_mentioned*Defendent */person_mentioned*in the above case as may be sufficient to pay the Sum
+of Two hundred and fifty three dolls, twenty five cents the amount
+of costs due in said case to the *person_mentioned*Secretary S. M Williams*/person_mentioned* and *person_mentioned*Sheriff*/person_mentioned**/p*
+
+*p**person_mentioned*J. H. Polly*/person_mentioned**/p*
+*p**person_mentioned*[Stephen F. Austin.]*/person_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,95 @@
+﻿
+<TEI.2 id="APB1942">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>05-27-1830</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 395-396</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Henry Austin</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F Austin</document_recipient>
+<document_title>Henry Austin to Stephen F Austin, 05-27-1830</document_title>
+<document_location>
+	<sent_from>Matamoros, Tamaulipas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Henry Austin to Austin, Matamoros, May 27, 1830. Intention of settling in Texas.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 395-396</barker_citation>
+</barker_notes>
+<document_digital_creation>08-21-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1942T">
+
+<body>
+*div1 type="summary"*
+*p*Henry Austin to Austin, Matamoros, May 27, 1830. Intention of settling in Texas.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Matamoros */location_mentioned**date_mentioned n="05-27-1830">May 27th 1830*/date_mentioned**/p*
+*p**person_mentioned*Col S F Austin*/person_mentioned**/p*
+
+*p*My dear Sir I have had the pleasure to see here *person_mentioned*Capt J Austin*/person_mentioned*
+and avail myself of his return to aprise you of my present situation
+and future views—*/p*<barker_pb n="396"/>
+
+*p*I am still obliged to continue here to close the operation I have
+in hand, not being willing to abandon the enterprise I have embarked
+in whilst there is a hope of bringing it to a benificial result—*/p*
+
+*p*I shall however close it as soon as practicable and have some 
+prospect of effecting a Sale of the Steamboat to a *person_mentioned*Company */person_mentioned*here which
+would put me at liberty at once.*/p*
+
+*p*The Boat has more than paid her expences the last three months
+and the *person_mentioned*Merchants */person_mentioned*are now convinced that a Steamboat to facilitate
+the transportation of goods is all important to the prosperity of the
+place this will I hope enable me to make some arrangement with
+them which will permit me to quit with credit, nothing but my
+pride and the censure to which I should expose myself by 
+abandoing a project of my own proposing has induced me to continue here
+so long-— At all events I shall extricate myself within a few
+months—and my intention is then to visit your *location_mentioned*colony*/location_mentioned*. Where
+should there be an opening for any pursuit to which I am competent
+I will make another effort to retrieve the losses of the past years—*/p*
+
+*p**person_mentioned*Captn A */person_mentioned*can tell you how I am situated here and how anxious I
+am to get away his acct of the state of the *location_mentioned*colony */location_mentioned*leads me to the
+conclusion that there are many objects there to which my attention
+might benificially be directed, and my knowledge of the language of
+the *location_mentioned*country */location_mentioned*and of the character and disposition of the *person_mentioned*Mexicans*/person_mentioned*
+might enable me to be of service to you in various ways I have
+not as yet recd an answer from the *person_mentioned*Govt */person_mentioned*respecting the *location_mentioned*grant of land,*/location_mentioned*
+but my *person_mentioned*agent */person_mentioned*to whom I wrote to pay the fees of office informs me
+that one of the papers had been sent to *location_mentioned*Texas */location_mentioned*for your signature
+and when returned the Solicitation would be granted—*/p*
+
+*p**person_mentioned*Genl Teran*/person_mentioned* sends you a message by *person_mentioned*Captn Austin*/person_mentioned* expressing his
+desire to have an interview with you either by meeting you at *location_mentioned*St
+Antonio*/location_mentioned* or by your coming here. Should circumstances permit you
+to leave I should be extremely rejoiced to have the interview take
+place here as it would give me the pleasure of seeing you sooner than
+can otherwise take place, and the voyage might be of benefit to your
+health which I regret to learn is not good-— do me the favor to
+write to me when your leisure permits*/p*
+
+*p**person_mentioned*Henry Austin  */person_mentioned*  [Rubric]*/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

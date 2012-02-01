@@ -1,0 +1,102 @@
+﻿
+<TEI.2 id="APB4633">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>03-10-1834</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 1047-1048</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>F. W. Johnson</document_author>
+<document_sender></document_sender>
+<document_recipient>R. M. Williamson</document_recipient>
+<document_title>F. W. Johnson to R. M. Williamson, 03-10-1834</document_title>
+<document_location>
+	<sent_from>Tenoxtitlan, Texas</sent_from>
+	<sent_to>San Felipe de Austin, Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>F. W. Johnson to R. M. Williamson, March 10, 1834. Surveys on the western frontier.   Agitation caused by Sterling C. Robertson.</barker_summary>
+	<barker_footnotes>Sterling C. Robertson, successor to the Nashville Company. His empresario contract
+had been annulled and his grant reissued to Austin and Williams.</barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1047-1048</barker_citation>
+</barker_notes>
+<document_digital_creation>12-03-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4633T">
+
+<body>
+*div1 type="summary"*
+*p*F. W. Johnson to R. M. Williamson, March 10, 1834. Surveys on the western frontier.   Agitation caused by Sterling C. Robertson.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Tenoxtitlan */location_mentioned**date_mentioned n="03-10-1834">10th March 1834*/date_mentioned**/p*
+*p**person_mentioned*R. M. Williamson Esq*/person_mentioned**/p*
+
+*p*D. Sir I received yours of the *date_mentioned n="02-09-1834">9th Ult.*/date_mentioned* and avail my self of this
+opputunity, to write you in answer. I arrived in this place *date_mentioned n="03-09-1834">yesterday*/date_mentioned*
+All in good health. Nothing important in my last tour in the *location_mentioned*Upper
+Country*/location_mentioned*.*/p*
+
+*p*I shall leave hear as soon as I can get some supplies from the *location_mentioned*lower
+country*/location_mentioned*—-I can be found on the *location_mentioned*yegua */location_mentioned*or its waters.*/p*
+
+*p**person_mentioned*Mr. Moore*/person_mentioned* will give you a plot of the much desired single league.
+I have trayersed *location_mentioned*Willis Creek and Vally*/location_mentioned* some twenty or thirty
+miles.   Land good but a scarcity of Timber.*/p*
+
+*p**location_mentioned**person_mentioned*Hoxey*/person_mentioned*s 10 league tract on San Gabriel*/location_mentioned* is not as I could have wished
+it, the survey takes but little of the *location_mentioned*River*/location_mentioned*, your *location_mentioned*Creek */location_mentioned*runs diagonally
+through it, the cutting off six leagues has made the tract much less
+valuable than it would have been, however it is such an error as
+might have been made by much closer observers than either you or I.*/p*
+
+*p*Your friend *person_mentioned*Doct. Pollard*/person_mentioned* can be accommodated, either in the
+*location_mentioned*Brazos */location_mentioned*or *location_mentioned*San Andres*/location_mentioned* as he may wish, *person_mentioned*Mr. Moore*/person_mentioned* will give you or
+the *person_mentioned*Doctor */person_mentioned*such information as we are in possession of, from which
+you must determine.*/p*
+
+*p*I find the *person_mentioned*Robinson */person_mentioned*fever raging in this peaceful land, and am 
+informed that it is raging below in a way calculated to alarm the fears
+of every well wisher of peace and harmony. Is *location_mentioned*Texas */location_mentioned*like *location_mentioned*Mexico*/location_mentioned*
+destined to <hi rend="italic">commotions </hi>and <hi rend="italic">Civil Wars?</hi> I hope not, but fear the
+result of this damnable contagious poisen emitted throughout the
+Land by *person_mentioned*Robinson */person_mentioned*and his *person_mentioned*sattelites*/person_mentioned*.*/p*
+
+*p*Some efficient measures must be taken to check this *person_mentioned*mad-man*/person_mentioned*, or
+means used to quiet the minds of a deluded and distracted people,
+otherwise confusion and probably its attendant (Blood-shed) must
+be the result. The cole when properly kindeled may burst out in a
+flame that will consume *location_mentioned*Texas*/location_mentioned*.*/p*
+
+*p*Much preparation and big talk at this place by the *person_mentioned*party*/person_mentioned*, I have
+not yet seen or had any conversation with them but will in a short
+time.*/p*
+
+*p*Give me all the news you have, I have been where I could hear
+nothing and here what I get is worse than nothing. I am sometimes
+ready to say that I will turn Hermit, live with the *person_mentioned*Indians */person_mentioned*or quit
+this Hole of Confusion.*/p*<barker_pb n="1048"/>
+
+*p*Present my respects to all the boys and accept the same for
+yourself.*/p*
+
+*p**person_mentioned*F. W. JOHNSON  */person_mentioned*  [Rubric]*/p*
+*p*[Addressed:] *person_mentioned*E. M. Williamson Esq */person_mentioned**location_mentioned* Sanfelipi de Austin. Texas*/location_mentioned**/p*
+
+
+*/div1*
+</body>
+</text>
+</TEI.2>

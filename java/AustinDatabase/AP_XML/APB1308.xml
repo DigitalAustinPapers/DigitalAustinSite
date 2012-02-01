@@ -1,0 +1,85 @@
+﻿
+<TEI.2 id="APB1308">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>10-23-1826</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1479-1480</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Enoch Brenson</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F. Austin</document_recipient>
+<document_title>Enoch Brenson to Stephen F. Austin, 10-23-1826</document_title>
+<document_location>
+	<sent_from>San Jacinto Bay, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Enoch Brenson to Austin, October 23, 1826.   Judicial procedure.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1479-1480</barker_citation>
+</barker_notes>
+<document_digital_creation>07-15-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1308T">
+
+<body>
+*div1 type="summary"*
+*p*Enoch Brenson to Austin, October 23, 1826.   Judicial procedure.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Sn Jacinto Bay */location_mentioned**date_mentioned n="10-23-1826">October 23rd, 1826*/date_mentioned**/p*
+*p**person_mentioned*Col Stephen F. Austin*/person_mentioned**/p*
+
+*p*Altho I am aware that you think us a troublesome *person_mentioned*people */person_mentioned*and no
+doubt but you are tired of our noise, still I must beg the indulgence
+of one more hearing.*/p*
+
+*p*You are Aprised of the relative standing of *person_mentioned*Johnson*/person_mentioned*, *person_mentioned*Hunter */person_mentioned*and
+myself, as it respects the surveying of my land, as well the land of
+*person_mentioned*others*/person_mentioned*, and I am persuaded that you will not incourage him in 
+impositions, and as we can have no decision on his lines, it can not be
+reasonable that he should collect and keep the money for his 
+surveying altho I have actually paid him for the surveying of *location_mentioned*my
+League*/location_mentioned*, yet still I owe him a ballance on our private settlement,
+which ballance he has brought suit for and obtained a judgment
+before our *person_mentioned*Alcalde*/person_mentioned*. Yet I hope, sir that you will authorise me to
+withhold the payment of this judgment untill a decision can be had
+respecting these disputed lines. I am not nor never was opposed to
+the payment of any just debt, but I can not think that it is just for
+*person_mentioned*Johnson */person_mentioned*or *person_mentioned*Hunter */person_mentioned*to receive the full payment for his surveying
+when his work is so obviously disputed. I hope, sir you will take
+this matter into consideration and deal justly and strictly between<barker_pb n="1480"/>
+*person_mentioned*Hunter */person_mentioned*and *person_mentioned*myself*/person_mentioned*. Justice is all I want and if it is justice for
+*person_mentioned*Hunter */person_mentioned*to recover the money for the surveying of my land and
+keep it under these existing circumstances I submit. But if it is
+justice for me to keep back (at least) a part, I want to do so. The
+amount of the judgment that *person_mentioned*Hunter */person_mentioned*holds against me is $41 the
+amount of the surveying is much more than that some, but if I could
+retain the amount of the judgment in my hands untill the correctness
+of the lines could be ascertained, it would fully satisfy me.*/p*
+
+*p*But in all cases I am willing to submit to the judicious laws of my
+*location_mentioned*Country */location_mentioned*and in this case, to your better judgment I subscribe myself
+with every degree of submission*/p*
+
+*p**person_mentioned*Enoch Brenso*/person_mentioned*n    [Rubric]*/p*
+
+*p**person_mentioned*Col. Stephen F Austin*/person_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

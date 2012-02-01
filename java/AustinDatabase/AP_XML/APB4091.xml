@@ -1,0 +1,87 @@
+﻿
+<TEI.2 id="APB4091">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>11-27-1830</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 544</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Account</document_type>
+<document_author>Asa Mitchell</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F Austin</document_recipient>
+<document_title>Asa Mitchell to Stephen F Austin, 11-27-1830</document_title>
+<document_location>
+	<sent_from>San Felipe de Austin, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Austin in account with Asa Mitchell, November 27, 1830.   Bill and price list.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 544</barker_citation>
+</barker_notes>
+<document_digital_creation>09-01-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4091T">
+
+<body>
+*div1 type="summary"*
+*p*Austin in account with Asa Mitchell, November 27, 1830.   Bill and price list.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**person_mentioned*S. F. Austin*/person_mentioned**/p*
+
+*p*To *p*Asa Mitchel*/p*   Dr.*/p*
+
+*p**date_mentioned n="xx-xx-1824">1824 */date_mentioned*   To 3 pr. Cotton cards a 5-------------------- 15.00*/p*
+
+*p**date_mentioned n="xx-xx-1825">1825 */date_mentioned*   To 6 Bushels corn furnished *person_mentioned*Militia */person_mentioned*under *person_mentioned*R.  Jones
+*/person_mentioned*for *person_mentioned*indian */person_mentioned*expedition---------------------—   6.00*/p*
+
+*p**date_mentioned n="xx-xx-1826">1826*/date_mentioned*    3 bushels Salt @ 4---------------------12.00*/p*
+
+*p**date_mentioned n="xx-xx-1827">1827*/date_mentioned*    1  Set  Shaving utensils-----------------------------   8.00*/p*
+
+*p*2  bushels Salt pr order*person_mentioned* J. Austin*/person_mentioned*-------8.00*/p*
+
+*p*3  bottles spirits for oyster trip--------------------------------------   2.00*/p*
+
+*p*aid in Surveying---------------------   6. 40*/p*
+
+*p*57.40*/p*
+*p*Trade rates   deduct 1/3------------------ 19.13*/p*
+
+*p*Cash—---- $38.26 2/3  38.26 2/3*/p*
+
+*p*order*person_mentioned* H. Chrisman*/person_mentioned* ----------- 3.00*/p*
+
+*p*Due  bill-------- 2.00*/p*
+
+*p*Due bill--------------20.00*/p*
+
+*p*trade------------------- 25.00*/p*
+
+*p*deduct 1/3 -------------8.33 1/3*/p*
+
+*p*cash--------------16.66 2/3   16.66 2/3*/p*
+
+*p*$54. 93 1/3*/p*
+*p*Received payment of the above account in full    *location_mentioned*San Felipe de Austin*/location_mentioned* *date_mentioned n="11-27-1830">27 Novr. 1830*/date_mentioned**/p*
+
+*p**person_mentioned*Asa Mitchell*/person_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

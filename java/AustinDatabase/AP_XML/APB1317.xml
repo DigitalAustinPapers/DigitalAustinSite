@@ -1,0 +1,73 @@
+﻿
+<TEI.2 id="APB1317">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>11-05-1826</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1489</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Felix Robertson</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F. Austin</document_recipient>
+<document_title>Felix Robertson to Stephen F. Austin, 11-05-1826</document_title>
+<document_location>
+	<sent_from>Nashville, Tennessee</sent_from>
+	<sent_to>Unknonwn</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Felix Robertson to Austin, November 5, 1826. Texan emigration from Tennessee.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1489</barker_citation>
+</barker_notes>
+<document_digital_creation>07-16-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1317T">
+
+<body>
+*div1 type="summary"*
+*p*Felix Robertson to Austin, November 5, 1826. Texan emigration from Tennessee.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Nashville */location_mentioned**date_mentioned n="11-05-1826">5th Novr 1826*/date_mentioned**/p*.
+*p**person_mentioned*Colo. Austin*/person_mentioned*,*/p*
+*p*Dear Sir*/p*
+*p*This will be handed to you by my young Friend *person_mentioned*Colo. Benjn F.
+Foster*/person_mentioned* who goes out to *location_mentioned**person_mentioned*Leftwich*/person_mentioned*'s Grant*/location_mentioned* as the agent for the 
+*person_mentioned*Company*/person_mentioned*. *person_mentioned*Colo Foster*/person_mentioned* is a young man of sterling entegrity and worth;
+any attentions shown him will not be misplaced. He is young and
+unacquainted with business, and will feel himself under singular
+obligations to you for any information you may have it in your
+power to afford him which will facilitate his undertaking. He will
+be accompanied by*person_mentioned* W. E. Winn*/person_mentioned* and three or four other young *person_mentioned*men*/person_mentioned*
+of worth—If all alarm relative to the *person_mentioned*Indians */person_mentioned*could be entirely
+quieted, the *location_mentioned*Brassos */location_mentioned*would populate very rapidly. It is therefore of
+the utmost importance to the present *person_mentioned*settlers */person_mentioned*in that *location_mentioned*Country */location_mentioned*to keep
+in perfect friendship with them if possible I should be glad to hear
+from yourself the real state of things at present and in prospect with
+the different neighboring *person_mentioned*Tribes*/person_mentioned*. I fear it is more than probable
+that my state of health will drive me from this *location_mentioned*Country*/location_mentioned*, and if the
+prospects of rapid settlement on the *location_mentioned*Brassos */location_mentioned*is unfavorable I should
+move to *location_mentioned*opalousas */location_mentioned*in *location_mentioned*Louisiana */location_mentioned*I fear I shall not have good health
+in this *location_mentioned*Country*/location_mentioned*, and have but little doubt that in a part judiciously
+chosen in the *location_mentioned*Brassos */location_mentioned*that I should be healthy, please write me
+shortly the present state of your *location_mentioned*settlements*/location_mentioned*, as to health increase
+etc etc*/p*
+
+*p**person_mentioned*Felix Robertson*/person_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

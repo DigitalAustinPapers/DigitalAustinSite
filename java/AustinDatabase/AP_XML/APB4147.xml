@@ -1,0 +1,56 @@
+﻿
+<TEI.2 id="APB4147">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>02-06-1831</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 595</document_citation>
+<document_language>Unknown</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>J F Madero</document_author>
+<document_sender></document_sender>
+<document_recipient>John Davis Bradburn</document_recipient>
+<document_title>J F Madero to John Davis Bradburn, 02-06-1831</document_title>
+<document_location>
+	<sent_from>Atascosito, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>José Francisco Madero to Juan Davis Bradburn, February 6, 1831. Explains
+again fully that the law of April 6, 1830, does not affect his commission.
+J. Bradburn insists on using force to compel him to suspend work, of course,
+he must yield.    (Omitted.)</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 595</barker_citation>
+</barker_notes>
+<document_digital_creation>09-06-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4147T">
+
+<body>
+*div1 type="summary"*
+*p*José Francisco Madero to Juan Davis Bradburn, February 6, 1831. Explains
+again fully that the law of April 6, 1830, does not affect his commission.
+J. Bradburn insists on using force to compel him to suspend work, of course,
+he must yield.    (Omitted.)*/p*
+*/div1*
+
+*div1 type="body"*
+
+
+*p**location_mentioned*Atascosito*/location_mentioned*, *date_mentioned n="02-06-1831">February 6, 1831*/date_mentioned*.*/p*
+*p*See Calendar.*/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

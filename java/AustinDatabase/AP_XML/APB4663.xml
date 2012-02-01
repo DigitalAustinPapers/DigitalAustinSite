@@ -1,0 +1,71 @@
+﻿
+<TEI.2 id="APB4663">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>08-05-1834</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 1071</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>George Fisher</document_author>
+<document_sender></document_sender>
+<document_recipient>R. M. Williamson</document_recipient>
+<document_title>George Fisher to R. M. Williamson, 08-05-1834</document_title>
+<document_location>
+	<sent_from>Matamoros, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>George Fisher to R. M. Williamson, Matamoros, August 5, 1834. Asking return of a book.   Political news.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1071</barker_citation>
+</barker_notes>
+<document_digital_creation>12-09-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4663T">
+
+<body>
+*div1 type="summary"*
+*p*George Fisher to R. M. Williamson, Matamoros, August 5, 1834. Asking return of a book.   Political news.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Matamoros */location_mentioned**date_mentioned n="08-05-1834">5th Augt. 1834*/date_mentioned**/p*
+*p**person_mentioned*Robt M. Williamson Esqr*/person_mentioned*.*/p*
+
+*p*My dear Sir. My last respects to you were care of *person_mentioned*Mr. Meyer,*/person_mentioned* 
+requesting you to do me the favor of forwarding me by said gentleman
+the 4th vol: of the "Novisimo Febrero," which I lendt to you in
+*date_mentioned n="xx-xx-1832">1832 */date_mentioned*in *location_mentioned*Anahuac*/location_mentioned*. I have received no answer, nor have I seen since
+*person_mentioned*Mr. Meyer*/person_mentioned*, who as yet has not returned; therefore if you have not 
+delivered to him said Book, please to do it to the *person_mentioned*Bearer Doct. Cameron*/person_mentioned*,
+or if the Book is not to be had pay him 5$ the price thereof.*/p*
+
+*p*The political situation of the *location_mentioned*Interior */location_mentioned*is in a dreadful state, and
+the whole *location_mentioned*country */location_mentioned*inveloped in a chaos,—The *person_mentioned*Bearer */person_mentioned*of this who is
+well informed of all that passes around us will explain you many
+things also a letter I have written to *person_mentioned*David G. Burnet Esqr*/person_mentioned* at 
+*location_mentioned*Lynchburg*/location_mentioned*, Duplicate of which I have directed to*person_mentioned* Mr. Saml. M. Williams
+*/person_mentioned*in your place via *location_mentioned*Bejar */location_mentioned*to the care of *person_mentioned*Mr John McMullen.*/person_mentioned*—from
+sd letter you will learn particulars, and meantime I would 
+recommend to the *person_mentioned*people of *location_mentioned*Tejas*/location_mentioned**/person_mentioned* <hi rend="italic">Union </hi>and mutual forbearance, 
+sacrificing smaller interests for the great <hi rend="italic">grand </hi>one, and burrying past
+strifes in eternal oblivion, is the desire of*/p*
+
+*p**person_mentioned*Jorge Fisher  */person_mentioned* [Rubric]*/p*
+
+
+*/div1*
+</body>
+</text>
+</TEI.2>

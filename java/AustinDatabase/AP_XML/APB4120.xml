@@ -1,0 +1,96 @@
+﻿
+<TEI.2 id="APB4120">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>01-02-1831</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 570-571</document_citation>
+<document_language>Englsih</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Mary Austin Holley</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F Austin</document_recipient>
+<document_title>Mary Austin Holley to Stephen F Austin, 01-02-1831</document_title>
+<document_location>
+	<sent_from>New Orleans, Louisiana</sent_from>
+	<sent_to>San Felipe de Austin, Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Mary Austin Holly to Austin, January 2, 1831. Biographical.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 570-571</barker_citation>
+</barker_notes>
+<document_digital_creation>09-02010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4120T">
+
+<body>
+*div1 type="summary"*
+*p*Mary Austin Holly to Austin, January 2, 1831. Biographical.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*New Orleans,*/location_mentioned* *date_mentioned n="01-02-1831">January 2, 1831*/date_mentioned**/p*
+
+*p*My dear *person_mentioned*Cousin*/person_mentioned*,*/p*
+
+*p*I am far from having forgotten you or your visit to *location_mentioned*Greenfield*/location_mentioned*,
+as you suggest in your letter to my *person_mentioned*brother John*/person_mentioned*. Indeed, I often
+find myself employed in tracing the progress of the " *person_mentioned*puny boy*/person_mentioned*,"
+through the daring career of the*person_mentioned* enterprising man*/person_mentioned*. Little did either
+of us, at that time, contemplate the condition in which the present
+anniversary finds us. I have been more frequently led to these
+reflections since I have been living comparatively near to you—since<barker_pb n="571"/>
+I have been left alone to mark out the future destiny of myself and
+my *person_mentioned*son*/person_mentioned*. More particularly with regard to my *person_mentioned*son */person_mentioned*I have thought
+I would write to you and renew our acquaintance, in order to learn,
+what prospect *location_mentioned*Texas */location_mentioned*would offer to him, looking some distance a
+head: whether it would be an object for me to take any steps with
+such views—securing land—etc. He is a boy of twelve, has talents
+enough, but as yet I can not decide whether they will be marked
+by the love of literature of his *person_mentioned*Father's family*/person_mentioned*, or the love of 
+enterprise of mine. His education is before him, and occupies all my
+cares. I have thought too, if my *person_mentioned*brothers */person_mentioned*could make it their
+interest to remove to *location_mentioned*Texas*/location_mentioned*, we could there together build up our
+fallen *person_mentioned*family */person_mentioned*in new hopes and happiness. I am sure my *person_mentioned*brother
+Henry's family*/person_mentioned* might be happier there <hi rend="italic">together </hi>than separated as
+now. I am happily and usefully situated where I am but I am
+<hi rend="italic">alone</hi>, and think—I am sure—I should prefer a place of tolerable
+comfort, <hi rend="italic">entirely my own,—a permanent home</hi>, to all this luxury,
+with dependence in the least possible sense. Do I deceive myself?
+I saw your letters to my *person_mentioned*brothers*/person_mentioned*, and *location_mentioned*pamphlet */location_mentioned*while in*location_mentioned* New York*/location_mentioned*.
+Are there persons among you who want education and 
+accomplishments such as I could give if that would be necessary, after a year
+or so? Be so good as to write me on these points, and others 
+concerning your self.   Direct *location_mentioned*New Orleans, */location_mentioned*Care of *person_mentioned*Michael Fortier Esq*/person_mentioned*.*/p*
+
+*p*I have taken this moment to write from the possibility that my
+*person_mentioned*brother Henry*/person_mentioned* may be with you, and he will thereby hear from me,
+while a letter directed to him might benefit neither him nor yourself
+if he should not be there.*/p*
+
+*p*Is your *person_mentioned*Sister */person_mentioned*and *person_mentioned*her family */person_mentioned*with you.*/p*
+
+*p**person_mentioned*Mary Holley*/person_mentioned**/p*
+
+*p*I lately heard from *location_mentioned*N York*/location_mentioned* and *location_mentioned*New Haven*/location_mentioned* all well. I am
+obliged to hurry to send my letter.*/p*
+
+*p*[Addressed:] To,*person_mentioned* Col: S F Austin*/person_mentioned* *location_mentioned*St Filippe de Austin Texas
+Mexico*/location_mentioned**/p*
+
+
+*/div1*
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,72 @@
+﻿
+<TEI.2 id="APB4576">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>05-31-1833</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 982</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Stephen F Austin</document_author>
+<document_sender>George Fisher</document_sender>
+<document_recipient>Oliver Jones, F. Johnson, J. B. Miller, L. Lessassier, W. H. Jack, S.M. Williams</document_recipient>
+<document_title>Stephen F Austin to Oliver Jones, F. Johnson, J. B. Miller, L. Lessassier, W. H. Jack, S.M. Williams, 05-31-1833</document_title>
+<document_location>
+	<sent_from>Matamoros, Tamaulipas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Austin to Oliver Jones et al., Matamoros, May 31, 1833. Advising support of George Fisher as customs collector.</barker_summary>
+	<barker_footnotes>Copy by George Fisher in Lamar Papers, Texas State Library.    The same letter went
+to Wyly Martin, of the "Fort Settlement, near San Felipe de Austin."</barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 982</barker_citation>
+</barker_notes>
+<document_digital_creation>11-26-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4576T">
+
+<body>
+*div1 type="summary"*
+*p*Austin to Oliver Jones et al., Matamoros, May 31, 1833. Advising support of George Fisher as customs collector.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Matamoros */location_mentioned**date_mentioned n="05-31-1833">May 31. 1833*/date_mentioned**/p*
+
+*p**location_mentioned*San Felipe de Austin*/location_mentioned**/p*
+
+*p*Messrs *person_mentioned*Oliver Jones*/person_mentioned*.*/p*
+
+*p**person_mentioned*F. Johnson*/person_mentioned**/p*
+
+*p**person_mentioned*J. B. Miller*/person_mentioned*,*/p*
+
+*p**person_mentioned*L. Lessassier*/person_mentioned**/p*
+
+*p**person_mentioned*W. H. Jack*/person_mentioned**/p*
+
+*p**person_mentioned*S.M. Williams*/person_mentioned**/p*
+
+*p*Gentlemen: This will be handed to you by *person_mentioned*Mr. Geo: fisher*/person_mentioned* who
+returns as *person_mentioned*Collector of Galveston*/person_mentioned*, and I particularly recommend
+that all former excitements relative to any transactions in which
+*person_mentioned*Mr Fisher*/person_mentioned* may have been concerned, should be totally forgotten,
+and that he be sustained firmly in the discharge of his duties, as I
+have recommended in my letter to the *person_mentioned*Ayuntamiento*/person_mentioned*.*/p*
+
+*p**person_mentioned*S. F. Austin*/person_mentioned*.*/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

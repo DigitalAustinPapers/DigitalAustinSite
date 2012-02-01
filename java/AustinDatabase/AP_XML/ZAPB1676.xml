@@ -1,0 +1,78 @@
+﻿
+<TEI.2 id="APB1676">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>01-xx-1829</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 165</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Account</document_type>
+<document_author>Clopper and Co</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F Austin</document_recipient>
+<document_title>Clopper and Co to Stephen F Austin, 01-xx-1829</document_title>
+<document_location>
+	<sent_from>Unknown</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Austin in account with Nicholas Clopper & Co., January —, 1829.   Price list</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 165</barker_citation>
+</barker_notes>
+<document_digital_creation>08-10-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1676T">
+
+<body>
+<div1 type="summary">
+<p>Austin in account with Nicholas Clopper & Co., January —, 1829.   Price list</p>
+</div1>
+
+<div1 type="body">
+
+<p><person_mentioned>Col S F Austin</person_mentioned></p>
+
+<p>To <person_mentioned>Clopper's and Co</person_mentioned></p>
+<p><date_mentioned n="xx-xx-1828">1828 </date_mentioned>                            Dr</p>
+
+<p><date_mentioned n="04-16-828">Apr 16</date_mentioned> Ipr  Shoes_______________2.50</p>
+
+<p><date_mentioned n="05-06-1828">May 6 </date_mentioned>lpr do do________________2.50</p>
+<p>20 1 box shoe blacking_____.37</p>
+
+<p><date_mentioned n="06-01-1828">June 1 </date_mentioned>Bottle Castor oil_________2.00</p>
+<p><date_mentioned n="06-18-1828">June 18 </date_mentioned>3 yd domestic ord <person_mentioned>Antonia</person_mentioned>--------1.31</p>
+<p>Sundriess for<person_mentioned> W C White wife</person_mentioned>
+
+<p>9 doz screws a 25_____2.25
+12 pr But hinges 62_________7.50
+8 doz screws 25_____________2.00
+11.75</p>
+
+<p><date_mentioned n="xx-xx-1829">1829</date_mentioned></p>
+
+<p><date_mentioned n="01-xx-1829">Jany</date_mentioned> Waggon 4 days.----6.00</p>
+
+<p>26.43 3/4</p>
+
+<p>Supra Cr. By Dr. <person_mentioned>J hunter</person_mentioned> 8.00</p>
+<p>Lott No.</p>
+
+<p><person_mentioned>Col S F Austin</person_mentioned>s acc</p>
+
+
+
+</div1>
+</body>
+</text>
+</TEI.2>

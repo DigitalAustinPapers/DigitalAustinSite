@@ -1,0 +1,63 @@
+﻿
+<TEI.2 id="APB1199">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>07-17-1826</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1373</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>James Hope</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F. Austin</document_recipient>
+<document_title>James Hope to Stephen F. Austin, 07-17-1826</document_title>
+<document_location>
+	<sent_from>Unknown</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>James Hope to Austin, July 17, 1826.   Trade, currency, and Indians.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1373</barker_citation>
+</barker_notes>
+<document_digital_creation>06-22-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1199T">
+
+<body>
+*div1 type="summary"*
+*p*James Hope to Austin, July 17, 1826.   Trade, currency, and Indians.*/p*
+*/div1*
+
+*div1 type="body"*
+*p**date_mentioned n="07-17-1826">17 July. 1826*/date_mentioned**/p*
+*p*Dear sir*/p*
+
+*p*I have sent my *person_mentioned*son */person_mentioned*and *person_mentioned*Capt. Chrisman*/person_mentioned* down to meet you and
+*person_mentioned*Mr- Castleman*/person_mentioned* at your office in respect of *person_mentioned*Mr- Castleman*/person_mentioned*'s 
+Improvement I wish to leave it to yourself *person_mentioned*Capt. Chrisman*/person_mentioned* and *person_mentioned*Mr- 
+Castleman*/person_mentioned* and whatever you agree on will satisfy me, paying him in cattle
+or any kind of Mirchandise that I have, I understood your *person_mentioned*Brother
+Brown*/person_mentioned* that you were wanting Beeves. I have two one of them Being
+a very Excellent one. If you can make any arrangement with
+*person_mentioned*castleman */person_mentioned*I will drive them down to you.—We are all arlarmed here
+on account of *person_mentioned*Indians */person_mentioned*and have moved down to *person_mentioned*Milicans*/person_mentioned*, But as yet
+we have seen no *person_mentioned*Indians*/person_mentioned*—I should take it a favour of *person_mentioned*Mr- Castleman*/person_mentioned*,
+as I am now on way down If I could at any leisure time I have be
+moving part of my Property on to the ground.—*/p*
+
+*p**person_mentioned*James Hope*/person_mentioned*.*/p*
+*p**person_mentioned*Col. Stephen F. Austin.*/person_mentioned**/p*
+*/div1*
+</body>
+</text>
+</TEI.2>

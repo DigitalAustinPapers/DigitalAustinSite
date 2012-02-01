@@ -1,0 +1,66 @@
+﻿
+<TEI.2 id="APB1536">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>05-10-1828</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 38</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Stephen F Austin</document_author>
+<document_sender></document_sender>
+<document_recipient>James F Perry</document_recipient>
+<document_title>Stephen F Austin to James F Perry, 05-10-1828</document_title>
+<document_location>
+	<sent_from>Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Austin to James F. Perry, May 10, 1828. Introducing John Austin, who \Ksits St Louis.
+</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 38</barker_citation>
+</barker_notes>
+<document_digital_creation>08-06-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1536T">
+
+<body>
+*div1 type="summary"*
+*p*Austin to James F. Perry, May 10, 1828. Introducing John Austin, who \Ksits St Louis.
+*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Texas */location_mentioned**date_mentioned n="05-10-1828">May 10. 1828*/date_mentioned**/p*
+*p*My Dear *person_mentioned*Brother */person_mentioned*and *person_mentioned*Sister*/person_mentioned*,*/p*
+
+*p*This will be handed to you by *person_mentioned*Mr. John Austin*/person_mentioned* a relative of ours,
+he has business in *location_mentioned*St Louis */location_mentioned*and has promised to call at the *location_mentioned*mines*/location_mentioned*
+and see you—his stay probably will be very short, tho. long enough
+to give him time to answer your enquiries relative to this *location_mentioned*country*/location_mentioned**/p*
+
+*p**person_mentioned*John */person_mentioned*has been with me several years in this *location_mentioned*country*/location_mentioned*, he is a truly
+worthy man and you must make him as comfortable as you can while
+with you—*/p*
+
+*p*I wrote you a short time ago and have nothing particular to say
+since—*person_mentioned*Brother */person_mentioned*will write you from *location_mentioned*Orleans*/location_mentioned**/p*
+
+*p**person_mentioned*S. F. Austin */person_mentioned*   [Rubric]*/p*
+
+
+*/div1*
+</body>
+</text>
+</TEI.2>

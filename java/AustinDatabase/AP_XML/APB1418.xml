@@ -1,0 +1,63 @@
+﻿
+<TEI.2 id="APB1418">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>06-24-1827</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1662</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>W. J. Powell</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F. Austin</document_recipient>
+<document_title>W. J. Powell to Stephen F. Austin, 06-24-1827</document_title>
+<document_location>
+	<sent_from>Mexico</sent_from>
+	<sent_to>Rio de los Brazos en la Provincia de Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>J. Cable to Austin, June 26, 1827.    Introducing William Calahan.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1662</barker_citation>
+</barker_notes>
+<document_digital_creation>07-25-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1418T">
+
+<body>
+*div1 type="summary"*
+*p*J. Cable to Austin, June 26, 1827.    Introducing William Calahan.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p*To Colonel Austin.*/p*
+
+*p*Respected Sir, Tho I am only acquainted with you by 
+reputation I take the liberty of addressing you a few lines desiring you
+to be so good as to write me concerning the situation of the *location_mentioned*colony*/location_mentioned*
+you are forming on the *location_mentioned*Brazos */location_mentioned*I passed thro' that *location_mentioned*country */location_mentioned*about
+*date_mentioned n="xx-xx-1824">thre years ago*/date_mentioned* with *person_mentioned*Gen. Bernardo's family*/person_mentioned* and think it a fine 
+country of land. I wish you to inform me of the conditions imposed upon
+the *person_mentioned*settlers   */person_mentioned*Write to *person_mentioned*Pablo Willis J. Powell*/person_mentioned* Naturalista in *location_mentioned*Mexico*/location_mentioned*.*/p*
+
+*p**person_mentioned*Willis J. Powell */person_mentioned*   [Rubric]*/p*
+
+*p**location_mentioned*Mexico */location_mentioned*the *date_mentioned n="06-24-1827">24th. of June 1827*/date_mentioned*.*/p*
+
+*p*[Addressed:] Al *person_mentioned*Señor Coronel Austin*/person_mentioned* en el *location_mentioned*Rio de los Brazos*/location_mentioned* en
+la *location_mentioned*Provincia de Texas*/location_mentioned*—. pr. el *location_mentioned*camino del Saltillo en Coahuila*/location_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

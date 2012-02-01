@@ -1,0 +1,71 @@
+﻿
+<TEI.2 id="APB1359">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>04-07-1827</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1627</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Thomas Corwin</document_author>
+<document_sender></document_sender>
+<document_recipient>Ira Lewis</document_recipient>
+<document_title>Thomas Corwin to Ira Lewis, 04-07-1827</document_title>
+<document_location>
+	<sent_from>Lebanon,</sent_from>
+	<sent_to>Natchez, Mississippi</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Thomas Corwin to Ira Lewis, April 7, 1827.    Collection of debt.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1627</barker_citation>
+</barker_notes>
+<document_digital_creation>07-21-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1359T">
+
+<body>
+*div1 type="summary"*
+*p*Thomas Corwin to Ira Lewis, April 7, 1827.    Collection of debt.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Lebanon */location_mentioned**date_mentioned n="04-07-1827">7th Ap1 1827.*/date_mentioned**/p*
+*p*Dear Sir*/p*,
+
+*p*I have been employed by the *person_mentioned*Administrators of Tobias*/person_mentioned* ... to
+collect the debts of that *person_mentioned*estate*/person_mentioned*, amongst others I find a due bill
+against you for $150— with about 4 years interest due thereon. My
+*person_mentioned*clients */person_mentioned*have requested that I should forward the note to some 
+person *location_mentioned*in your neighborhood*/location_mentioned*, but as I knew yourself and no one else 
+in that *location_mentioned*quarter*/location_mentioned*, I thought due to old acquaintance to let you know
+the claim was in my hands. If you will forward a draft to me or
+any person in . . . [illegible] with a request to some friend there to
+receive the note and pay the amot I will deliver the note to such
+*person_mentioned*person */person_mentioned*[upon re]ceiving the money — The *person_mentioned*Admrs */person_mentioned*[want] to settle
+soon and th[is is] the only claim not in suit — please to favor me
+with a reply by return of mail — How stands matters in your
+*location_mentioned*country */location_mentioned*in a professional way — Do you make fortunes at pleasure
+or are you languishing as we are here in the debts of humility Are
+you really all *person_mentioned*Jacksonians */person_mentioned*or not let me hear from you in regard
+to these matters.*/p*
+*p**person_mentioned*Thos. Corwin*/person_mentioned**/p*
+
+*p**person_mentioned*Ira Lewis Esq*/person_mentioned* *location_mentioned*Natches Mississippi*/location_mentioned**/p*
+
+*p*[Addressed:] *person_mentioned*Ira Lewis Esq Attorney*/person_mentioned* at law *location_mentioned*Natchez Missisippi*/location_mentioned*.*/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

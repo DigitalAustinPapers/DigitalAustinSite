@@ -1,0 +1,114 @@
+﻿
+<TEI.2 id="APB3041">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>12-12-1825</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1238-1239</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Stephen F. Austin</document_author>
+<document_sender>Mr. Mothershead</document_sender>
+<document_recipient>Emily M. Perry</document_recipient>
+<document_title>Stephen F. Austin to Emily M. Perry, 12-12-1825</document_title>
+<document_location>
+	<sent_from>Mouth of the Brazos River, Texas</sent_from>
+	<sent_to>Mine a Burton, Missouri</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Slow improvement of Texas. False reports published. Topographical conditions at mouth of Brazos River.    Owns no slaves.    Biographical.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1238-1239</barker_citation>
+</barker_notes>
+<document_digital_creation>06-22-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Cameron L. Sinclair, Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB3041T">
+
+<body>
+*div1 type="summary"*
+*p*Slow improvement of Texas. False reports published. Topographical conditions at mouth of Brazos River.    Owns no slaves.    Biographical.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Mouth of the Brasos river*/location_mentioned* *date_mentioned n="12-12-1825">December 12 1825*/date_mentioned**/p*
+*p*Dr Sister,*/p*
+
+*p**person_mentioned*Mr. Mothershead*/person_mentioned* from *location_mentioned*Missouri*/location_mentioned* starts *date_mentioned n="12-13-1825">tomorrow */date_mentioned*and has promised
+to deliver this to you as he goes through *location_mentioned*Mine á Burton*/location_mentioned*. I have nothing very material to write—having some surveying to attend to in
+this *location_mentioned*quarter */location_mentioned*I accompanied the *person_mentioned*surveyor */person_mentioned*and have just returned from
+a fishing and oystering trip, and think my health (which has not been
+very good) is improved—we procured a great abundance of fish, oysters and wild fowl and have had very fine weather*/p*
+
+*p**person_mentioned*Brother*/person_mentioned* and *person_mentioned*John Austin*/person_mentioned* have commenced building a *location_mentioned*Gin */location_mentioned**location_mentioned*a little
+below the head of tide water on this river, about 40 miles by water
+from this place*/location_mentioned*—he has commenced in the woods and intends to be
+a <hi rend="italic">first rate *person_mentioned*farmer*/person_mentioned*</hi> we neither of us own any *person_mentioned*negros */person_mentioned*and have to
+depend on hireing*/p*
+
+*p*The *location_mentioned*Colony*/location_mentioned* progresses very well, tho not very rapidly, I am very
+well satisfied that you have not removed here, the *location_mentioned*Country*/location_mentioned* is very
+new yet, and I think *person_mentioned*Mr Perry*/person_mentioned* can do better where he is for the present than he could do here—-we have but little commerce as yet—tho
+must have a great deal in a few years—*/p*
+
+*p*The reports in the*location_mentioned* news papers */location_mentioned*relative to overflow, Sickness, etc,
+etc, etc, in this *location_mentioned*Colony*/location_mentioned* are all false—we have very abundant crops—*/p*
+
+*p*I have just heard of *person_mentioned*Wm Perry*/person_mentioned*s murder—if his *person_mentioned*murderer */person_mentioned*comes
+within my reach he shall be secured and lodged in *location_mentioned*Nachitoches jail*/location_mentioned* —
+I am told that his name is *person_mentioned*Hill*/person_mentioned*, is it the same *person_mentioned*Hill*/person_mentioned* that worked for
+*person_mentioned*Bryan*/person_mentioned* and married one of the *person_mentioned*Doggits*/person_mentioned*? Send me a particular description of him and the *location_mentioned*news paper*/location_mentioned* that offers the reward and if he
+comes here I may be able to get some one to take him back to *location_mentioned*Potosi*/location_mentioned*—*/p*
+
+*p*I am daily expecting something from you and *person_mentioned*Mr. Perry*/person_mentioned* relative
+to the *location_mentioned*Mine a Burton Estate*/location_mentioned*—you must do the best you can, it will
+be many years before I can see *location_mentioned*Missouri*/location_mentioned*, or *location_mentioned*brother*/location_mentioned* either*/p*<barker_pb n="1239"/>
+
+*p*I am getting tired of Colonization affairs and hope before long to
+close my business and settle on a *location_mentioned*farm*/location_mentioned*—*/p*
+
+*p*Remember me to your *person_mentioned*Husband*/person_mentioned* and assure him that nothing
+would give me more real pleasure than to see him in this *location_mentioned*Country */location_mentioned*as
+soon as his business will permit, he will find us in the *location_mentioned*woods*/location_mentioned*-—and
+<hi rend="italic">poor</hi> The enterprise I undertook is better calculated to enrich those
+who come after me than to benefit myself—I have the labor to perform and the seed to sow, but my *person_mentioned*successors */person_mentioned*will reap the harvest—*/p*
+
+*p*Give my respects to *person_mentioned*Saml Perry*/person_mentioned* and to *person_mentioned*John*/person_mentioned* and his *person_mentioned*wife*/person_mentioned* and my
+other *person_mentioned*acquaintances*/person_mentioned*—
+Your *person_mentioned*brother*/person_mentioned**/p*
+
+*p**person_mentioned*S. F. Austin*/person_mentioned**/p*
+
+*p*N. B. I am very much fatigued and have a headache which must
+be my excuse for such a scrall as I now send you—
+What are the *person_mentioned*Jones*/person_mentioned* doing? where is *person_mentioned*Mrs. Henry Elliott*/person_mentioned*?— What
+has become of *person_mentioned*James Austins children*/person_mentioned*?— What is *person_mentioned*G. Hammond*/person_mentioned*
+doing? I received a letter from *person_mentioned*Arch. Austin*/person_mentioned* in *location_mentioned*New York*/location_mentioned*. *person_mentioned*Henry*/person_mentioned*
+had gone to *location_mentioned*Mexico*/location_mentioned*—are *person_mentioned*Horaces children*/person_mentioned* doing well ? where is his
+*person_mentioned*wife*/person_mentioned*? etc etc*/p*
+
+*p*This *location_mentioned*river*/location_mentioned* mouths into the *location_mentioned*wild ocean*/location_mentioned* without any *location_mentioned*bay*/location_mentioned*, and the
+breakers are roaring within Eighty yards of me—there is a good
+*location_mentioned*two story frame house*/location_mentioned* and some *location_mentioned*cabins */location_mentioned*here and there is at this time
+8 feet water over the bar Salt water is produced here by digging 10
+feet so strong that 5 gallons of it will make one of salt, and by digging 4 feet good fresh water is found in abundance,—Mosquitoes are
+troublesome at this time— I have discovered in my fishing trip that
+the *location_mentioned*west end of Galveston bay*/location_mentioned* comes *location_mentioned*within four miles of this place*/location_mentioned*,
+and *location_mentioned*within 200 yards of a deep tide water creek that empties into the
+Brasos*/location_mentioned*, so that 200 yards digging will open an *location_mentioned*inland water communication*/location_mentioned* with the *location_mentioned*Harbor of Galveston*/location_mentioned* where ships of 400 tons
+can enter with safety—I shall spend some time on the *location_mentioned*coast*/location_mentioned*—it is *location_mentioned*75
+miles from here to where I live*/location_mentioned* at present tho I intend to remove
+about *location_mentioned*25 miles by water above here, 10 by land*/location_mentioned*—*/p*
+*/div1*
+</body>
+</text>
+</TEI.2>

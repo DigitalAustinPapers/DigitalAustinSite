@@ -1,0 +1,102 @@
+﻿
+<TEI.2 id="APB1442">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>[10-1-1827?]</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1686-1687</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Stephen F. Austin</document_author>
+<document_sender></document_sender>
+<document_recipient>Unknown</document_recipient>
+<document_title>Stephen F. Austin to Unknown, [10-1-1827?]</document_title>
+<document_location>
+	<sent_from>Unknown</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Austin's draft of a bill to establish a seminary of learning, [October 11 1827?].</barker_summary>
+	<barker_footnotes>The date of this document cannot be definitely fixed. The order for the establishment of the Ayuntamiento of San Felipe de Austin was issued by the Governor on
+November 17, 1827, and promulgated by the political chief of Bexar on December 11
+The election was held and the ayuntamiento organized February 10, 1828. Article 3 of
+this document indicates that it was written before the establishment of the 
+ayuntamiento. Between October 11 and November 8, 1827, Austin made, in Saltillo a series of
+suggestions to the Governor for legislation. This document was most probably written
+about that time, but it is not certain that it was presented to the Governor. Compare
+it with a bill drawn April 30, 1831,</barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1686-1687</barker_citation>
+</barker_notes>
+<document_digital_creation>07-26-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1442T">
+
+<body>
+*div1 type="summary"*
+*p*Austin's draft of a bill to establish a seminary of learning, [October 11 1827?].*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p*[October 11, 1827?]*/p*
+
+*p*The *person_mentioned*Congress */person_mentioned*of the *location_mentioned*State of Coahuila y Texas*/location_mentioned* have thought
+proper to decree as follows—*/p*
+
+*p*Considering Education as the basis of good morals of good order
+and of the Republican System of Govt, and seeing the necessity there
+is for the establishment of a *location_mentioned*Seminary */location_mentioned**location_mentioned*at the Town of San Felipe
+de Austin */location_mentioned*in *location_mentioned*Texas */location_mentioned*for the purpose of instructing the *person_mentioned*Children of
+the new Colonists*/person_mentioned* who have emigrated to that point in the *location_mentioned*Spanish*/location_mentioned*
+language, Therefore it is decreed*/p*
+
+*p*1—That a *location_mentioned*Seminary of learning*/location_mentioned* shall be established at the said
+Town of *location_mentioned*San Felipe de Austin*/location_mentioned* in which shall be taught the various
+branches of Education*/p*
+
+*p*2. The Said *location_mentioned*Seminary */location_mentioned*shall be under the direction of *person_mentioned*13 trustees
+*/person_mentioned*who may [be] appointed yearly by the *person_mentioned*Ayuntamiento */person_mentioned*of Said Town
+of *location_mentioned*San Felipe de Austin*/location_mentioned*; and the said *person_mentioned*trustees */person_mentioned*may appoint a
+*person_mentioned*President */person_mentioned*and *person_mentioned*secretary */person_mentioned*and *person_mentioned*treasurer*/person_mentioned*, and shall employ all the
+*person_mentioned*teachers */person_mentioned*and make rules and regulations and Bye laws for the
+Government of said *location_mentioned*seminary */location_mentioned*and have the control of the funds 
+belonging to it and appropriate the same for the use and benefit of
+said *location_mentioned*seminary*/location_mentioned**/p*
+
+*p*3—Untill there is an *person_mentioned*Ayuntamiento */person_mentioned*at the said Town of *location_mentioned*San
+Felipe de Austin*/location_mentioned* the above named *person_mentioned*trustees */person_mentioned*shall be appointed by
+*person_mentioned*S. F. A. the Judge*/person_mentioned* commissioned to administer the municipal 
+government of said *location_mentioned*Town */location_mentioned*for the present—*/p*
+
+*p*4—For the endowment of said *location_mentioned*Seminary */location_mentioned*with funds there is
+hereby granted to it the quantity of *location_mentioned*Six Leagues of land*/location_mentioned* to be
+selected by the said *person_mentioned*S. F. A*/person_mentioned*. in such size tracts as he may deem most
+advantageous and in any part of the *location_mentioned*Country */location_mentioned*not otherwise disposed
+of *location_mentioned*East of the Colorado Rlver in Texas*/location_mentioned*— An entry of said selections
+shall be made in the *location_mentioned*archives of the new Colony on the Brasos and
+Colorado*/location_mentioned* at the said town of *location_mentioned*San Felipe de Austin*/location_mentioned* and a certified
+copy therefor shall be sent to the *person_mentioned*Governor of this state*/person_mentioned* who shall
+file the same in his *location_mentioned*office */location_mentioned*as an evidence of said entries-—*/p*
+
+*p*5. The said *location_mentioned*seminary */location_mentioned*shall form a Body Corporate under the
+name of the *location_mentioned*Seminary of Austin*/location_mentioned* and may have a seal and buy and
+Sell property and sue and be sued—*/p*
+<barker_pb n="1687"/>
+
+*p*6. The *person_mentioned*treasurer */person_mentioned*of said *location_mentioned*seminary */location_mentioned*shall publish annually an A/C
+of all the receipts and expenditures of said *location_mentioned*seminary */location_mentioned*for the 
+information of the *person_mentioned*public*/person_mentioned*—*/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

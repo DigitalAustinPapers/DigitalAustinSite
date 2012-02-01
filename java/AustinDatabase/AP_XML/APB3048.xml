@@ -1,0 +1,66 @@
+﻿
+<TEI.2 id="APB3048">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>01-04-1826</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1245</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Stephen F. Austin</document_author>
+<document_sender></document_sender>
+<document_recipient>Moses Morrison, et al.</document_recipient>
+<document_title>Stephen F. Austin to Moses Morrison, et al., 01-04-1826</document_title>
+<document_location>
+	<sent_from>San Felipe de Austin, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Appointment and instructions as election judges.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1245</barker_citation>
+</barker_notes>
+<document_digital_creation>06-24-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Cameron L. Sinclair, Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB3048T">
+
+<body>
+*div1 type="summary"*
+*p*Appointment and instructions as election judges.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p*To *person_mentioned*Moses Morrison*/person_mentioned* *person_mentioned*Wm Kincheloe*/person_mentioned* and *person_mentioned*Ay C. Buckner*/person_mentioned**/p*
+
+*p*You are hereby appointed *person_mentioned*judges of the election */person_mentioned*for *person_mentioned*Alcalde for
+the *location_mentioned*district of Mina*/location_mentioned**/person_mentioned* to be held at the*location_mentioned* house of *person_mentioned*Capt Amos Bawls*/person_mentioned**/location_mentioned*,
+on Saturday the *date_mentioned n="01-14-1826">14th*/date_mentioned* instant agreeably to Notice issued by me, you
+will keep duplicate Poll Books of said election to be signed by each
+one of you, one of said Poll Books you will deliver to the new
+*person_mentioned*Alcalde */person_mentioned*elected which will serve as his authority to act. The other
+Poll Book you will send to me— You will also administer the oath
+to the new *person_mentioned*Alcalde */person_mentioned*to support the Mexican Constitution and that of
+the *location_mentioned*State of Coahuila and Texas*/location_mentioned* and faithfully to discharge the
+duties of *person_mentioned*Alcalde of the *location_mentioned*district of Mina*/location_mentioned* */person_mentioned*for the year *date_mentioned n="xx-xx-1826">1826*/date_mentioned* and thereafter until another is elected and qualified— A certificate that you
+had administered said oath must be put at the foot of each poll
+Book and signed by the *person_mentioned*judges */person_mentioned*you will also deliver this official
+order to the new *person_mentioned*Alcalde */person_mentioned*to be filed in his *location_mentioned*office */location_mentioned*as a public document.*/p*
+*p**location_mentioned*Sn felipe de Austin*/location_mentioned* *date_mentioned n="01-04-1826">4th Jany 1826*/date_mentioned**/p*
+
+*p**person_mentioned*Stephen F. Austin*/person_mentioned**/p*
+*p**person_mentioned*Political Chief of this *location_mentioned*Colony*/location_mentioned**/person_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

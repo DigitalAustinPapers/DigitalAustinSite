@@ -1,0 +1,55 @@
+﻿
+<TEI.2 id="APB3097">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>03-18-1826</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1290</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Receipt</document_type>
+<document_author>Louisiana Advertiser</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F. Austion</document_recipient>
+<document_title>Louisiana Advertiser to Stephen F. Austion, 03-18-1826</document_title>
+<document_location>
+	<sent_from>New Orleans, Louisiana</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Receipt for subscription.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1290</barker_citation>
+</barker_notes>
+<document_digital_creation>07-24-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Cameron L. Sinclair, Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB3097T">
+
+<body>
+*div1 type="summary"*
+*p*Receipt for subscription.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*New Orleans*/location_mentioned*, *date_mentioned n="03-18-1826">March 18 1826*/date_mentioned**/p*
+*p**person_mentioned*Stephen F Austin*/person_mentioned* To the *location_mentioned*Louisiana Advertiser*/location_mentioned*, Dr.*/p*
+
+*p*For 1 years subscription, from *date_mentioned n="08-01-1825">1st August 1825*/date_mentioned* to *date_mentioned n="08-01-1826">1st August 1826*/date_mentioned*—
+to weekly Paper____________________________________________$5. 00*/p*
+
+*p*Recd payment of <hi rend="italic">*person_mentioned*Mr. Richardson*/person_mentioned*</hi>*/p*
+
+*p*<hi rend="italic">*person_mentioned*Beardslee*/person_mentioned*</hi> and <hi rend="italic">*person_mentioned*Penrice*/person_mentioned*</hi>.*/p*
+*/div1*
+</body>
+</text>
+</TEI.2>

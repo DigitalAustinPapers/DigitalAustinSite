@@ -1,0 +1,76 @@
+﻿
+<TEI.2 id="APB1849">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>01-30-1830</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 328-329</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Richard Ellis</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F Austin</document_recipient>
+<document_title>Richard Ellis to Stephen F Austin, 01-30-1830</document_title>
+<document_location>
+	<sent_from>Alabama</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Richard Ellis to Austin, "Alabama," January 30, 1830. Reports of Guerrero's emancipation decree have deterred emigration.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 328-329</barker_citation>
+</barker_notes>
+<document_digital_creation>08-18-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1849T">
+
+<body>
+<div1 type="summary">
+<p>Richard Ellis to Austin, "Alabama," January 30, 1830. Reports of Guerrero's emancipation decree have deterred emigration.</p>
+</div1>
+
+<div1 type="body">
+
+<p><location_mentioned>Alabama </location_mentioned><date_mentioned n="01-30-1830">30th Janr 1830</date_mentioned></p>
+<p>Dear sir</p>
+
+<p>I ask leave to introduce to your acquaintance my son <person_mentioned>Mr. N. D.
+Ellis</person_mentioned>, and to acknowledge the receipt of your favor by my friend<barker_pb n="329"/>
+<person_mentioned>Col A Winston</person_mentioned>. I wish to say to you that we have been led into an
+error by a proclamation of the <person_mentioned>Mexican president </person_mentioned>as to the 
+liberation of <person_mentioned>slaves</person_mentioned>. Perhaps he only meant <person_mentioned>bound servants</person_mentioned> such as has
+been by the civil Law for 200 years, but you know such is the sensitive
+feelings of the <person_mentioned>Slave holders</person_mentioned> on that subject, that the least agitation
+will deter them from emigration, and I really begin to believe with
+you that it is shortly to be a great evil among us. for it has 
+prevented me from sending on <person_mentioned>negros </person_mentioned>to my son in Law <person_mentioned>James N.
+Smith</person_mentioned> until it is too late to make a crop. The first objection is the
+expense of sending them on, at this late season, and a person to 
+superintend them, the second is, every practical <person_mentioned>planter </person_mentioned>knows it is too
+late to make a crop even to <hi rend="italic">rent land</hi>; (the worst of all evils) but
+the 3rd is one which I know will plead my excuse to you; when I
+state my own situation, for it seems one misfortune never comes
+alone but (as <person_mentioned>Shakespear </person_mentioned>says) treads on the heels of another; 2 or
+3 months after the date of the last receipt of the payt of <person_mentioned>W. Pettus</person_mentioned>'s
+debts, (as this will show) I had the<date_mentioned n="01-12-1830"> 12th instant</date_mentioned>, a large portion of
+my cotton crop burnt to ashes <location_mentioned>in the warehouse of the <person_mentioned>Messrs. Harts
+</person_mentioned>in the city of New Orleans</location_mentioned> and <person_mentioned>Mr. J. N. Smith</person_mentioned>'s with it. I refer
+you to my son for the amt. and the details; (<hi rend="italic">not insured</hi>) Please
+accept my best wishes for your happiness and prosperity.</p>
+
+<p><person_mentioned>Richard Ellis</person_mentioned>.</p>
+<p><person_mentioned>Colo. S. F. Austin</person_mentioned></p>
+
+</div1>
+</body>
+</text>
+</TEI.2>

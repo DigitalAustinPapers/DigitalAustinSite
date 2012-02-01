@@ -1,0 +1,67 @@
+﻿
+<TEI.2 id="APB1206">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>07-18-1826</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1378-1379</document_citation>
+<document_language>English</document_language>
+<document_status>Public</document_status>
+<document_type>Affidavit</document_type>
+<document_author>John Foster</document_author>
+<document_sender></document_sender>
+<document_recipient>Unknown(/document_recipient>
+<document_title>John Foster to Unkown, 07-18-1826</document_title>
+<document_location>
+	<sent_from>Unknown</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>John Foster's affidavit concerning counterfeit money, July 18, 1826.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1378-1379</barker_citation>
+</barker_notes>
+<document_digital_creation>06-23-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1206T">
+
+<body>
+<div1 type="summary">
+<p>John Foster's affidavit concerning counterfeit money, July 18, 1826.</p>
+</div1>
+
+<div1 type="body">
+
+<p><location_mentioned>Department of Texas</location_mentioned></p>
+
+<p><location_mentioned>Austins Colony</location_mentioned></p>
+<p>This day personally appeared before me <person_mentioned>Stephen F. Austin Judge
+</person_mentioned>in and for the <location_mentioned>Colony </location_mentioned>aforesaid <person_mentioned>John Foster</person_mentioned> who being duly sworn
+deposeth and saieth that some time during the last <date_mentioned n="Fall-1825">fall </date_mentioned>when in this
+<location_mentioned>Country </location_mentioned>his son <person_mentioned>Isaac Foster</person_mentioned> at <location_mentioned><person_mentioned>Mr. Iron</person_mentioned>'s place</location_mentioned> handed him a piece
+of money as a Gold piece from <person_mentioned>Mr. William Cooper</person_mentioned> with a request
+from said <person_mentioned>Cooper </person_mentioned>that deponent would with it and other money
+handed at the same time purchase for him the said <person_mentioned>Cooper </person_mentioned>a <location_mentioned>steel mill
+in New Orleans</location_mentioned>,   The said piece of money proved to be a Counter-<barker_pb n="1379"/>
+feit and this <person_mentioned>deponent </person_mentioned>deposes is the same identical piece now 
+presented and as aforementioned was handed to him by his <person_mentioned>son Isaac</person_mentioned>
+<location_mentioned>Sn Felipe de Austin</location_mentioned> <date_mentioned n="07-18-1826">18 July 1826</date_mentioned></p>
+
+<p>(Signed)<person_mentioned> John Foster </person_mentioned>   [Rubric]</p>
+
+<p>Subscribed and sworn to before me</p>
+
+<p><person_mentioned>S. F. Austin Judge</person_mentioned>    [Rubric]</p>
+
+</div1>
+</body>
+</text>
+</TEI.2>

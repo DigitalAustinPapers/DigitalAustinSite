@@ -1,0 +1,60 @@
+﻿
+<TEI.2 id="APB2036">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>06-11-1825</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 1133</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Jared E Groce</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F Austin</document_recipient>
+<document_title>Jared E Groce to Stephen F Austin, 06-11-1825</document_title>
+<document_location>
+	<sent_from>Groces Retreat, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Jared E. Groce to Austin, June 11, 1825. Indorsing action in the Buckner case.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1133</barker_citation>
+</barker_notes>
+<document_digital_creation>12-15-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB2036T">
+
+<body>
+*div1 type="summary"*
+*p*Jared E. Groce to Austin, June 11, 1825. Indorsing action in the Buckner case.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Groces retreate*/location_mentioned**date_mentioned n="06-11-1825"> June 11,1825*/date_mentioned**/p*
+*p*Dear *person_mentioned*Austin*/person_mentioned**/p*
+
+*p*I received yours of *date_mentioned n="06-07-1825">7th*/date_mentioned* and immediate attended to it and sent to
+*person_mentioned*Colo Coles*/person_mentioned* and he has wrote to you I think you are takeing a stand
+now that will releave you of Much difficulty as to your success it is
+with you for you have the power to do as you please, for every man
+is bound to Obey; you will excuse me for not coming down as I
+intended to do so but*date_mentioned n="06-10-1825"> last night*/date_mentioned* there were *person_mentioned*gentlemen from the
+*location_mentioned*united States*/location_mentioned**/person_mentioned* come on here and as I think and know every man is
+bound to obay you I omit coming.*/p*
+
+*p**person_mentioned*Jared E Groce*/person_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

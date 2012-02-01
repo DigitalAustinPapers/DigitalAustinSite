@@ -1,0 +1,72 @@
+﻿
+<TEI.2 id="APB1305">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>10-15-1826</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1476-1477</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>J. L. Dumanday </document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F. Austin</document_recipient>
+<document_title>J. L. Dumanday  to Stephen F. Austin, 10-15-1826</document_title>
+<document_location>
+	<sent_from>San Antonio, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>J. Lecoy Dumanday to Austin, October 15, 1826. Concerning recovery of oxen stolen by Indians.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1476-1477</barker_citation>
+</barker_notes>
+<document_digital_creation>07-14-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1305T">
+
+<body>
+<div1 type="summary">
+<p>J. L. Dumanday to Austin, October 15, 1826. Concerning recovery of oxen stolen by Indians.</p>
+</div1>
+
+<div1 type="body">
+
+<p><location_mentioned>St°- Antonio</location_mentioned> <date_mentioned n="10-15-1826">Oct 15th 1826</date_mentioned></p>
+<p><person_mentioned>Colo- Philipp Oustin</person_mentioned></p>
+
+<p><location_mentioned>Philippville Texas</location_mentioned></p>
+<p>Dr. Sir</p>
+
+<p>In consequence of your polite offers of assisting <person_mentioned>Mr. Stephen
+Curcier</person_mentioned>, in recovering his property stolen by the <person_mentioned>Indians </person_mentioned>on the <date_mentioned n="08-18-1826">18th
+of August</date_mentioned>; being informed by a <person_mentioned>Spaniard mail carrier</person_mentioned>, that four
+oxen were now in the possession of an <person_mentioned>individual </person_mentioned>of your colony;
+as <person_mentioned>agent </person_mentioned>in this place of said <person_mentioned>Stephen Curcier</person_mentioned> I take the liberty
+of availing myself of your kind disposition, and accordingly au-<barker_pb n="1477"/>
+thorise you to take possession of said oxen, sell them if fifty Dollars
+pr pair can be obtained and remit me the proceeds by some safe
+opportunity, or if sale can not be effected, to confide them to some
+of the <person_mentioned>gentlemen </person_mentioned>who as I understand are disposing themselves to
+drive some cattle to this place, binding myself to reinburse & pay
+them whatever may have been the cost of keeping etc—there, and
+any reasonable charges, according to your contract with said 
+<person_mentioned>gentlemen</person_mentioned>, for delivering them at this place</p>
+
+<p>Cheerfully offering you a reciprocity of services I have the honour
+of remaining your obt servant</p>
+
+<p><person_mentioned>J. Lecoy Dumanday </person_mentioned>   [Rubric]</p>
+
+</div1>
+</body>
+</text>
+</TEI.2>

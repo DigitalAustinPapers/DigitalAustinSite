@@ -1,0 +1,75 @@
+﻿
+<TEI.2 id="APB2057">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>07-13-1825</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 1146-1147</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>James Barnett</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F Austin</document_recipient>
+<document_title>James Barnett to Stephen F Austin, 07-13-1825</document_title>
+<document_location>
+	<sent_from>Mentoco River, Bayou Que Tortoc</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>James Barnett to Austin, July 13, 1825. Asking whether Mexican Government will repay advances which he made to Trespalacios in 1820.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1146-1147</barker_citation>
+</barker_notes>
+<document_digital_creation>12-24-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB2057T">
+
+<body>
+*div1 type="summary"*
+*p*James Barnett to Austin, July 13, 1825. Asking whether Mexican Government will repay advances which he made to Trespalacios in 1820.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Mentoco River*/location_mentioned* *date_mentioned n="07-13-1825">13 July 1825*/date_mentioned*—*/p*
+*p**person_mentioned*Stephen F. Austin Esqr*/person_mentioned*.*/p*
+
+*p*Will you do me the favor to write me and give me the infomation
+which I now ask of you— I see in the *location_mentioned*northern papers*/location_mentioned*, that the
+*person_mentioned*Mexican Government*/person_mentioned* has passed a Decree recognizing all the Public
+Debts of the *location_mentioned*country*/location_mentioned*, and will pay them all, under whatever system
+they were Contracted. I presume you must have this intelligence
+on this your self. When *person_mentioned*Genl- Trespelassis*/person_mentioned* took the command at
+*location_mentioned*Galveston */location_mentioned*and on the faith of his promises and for the welfare of
+mankind—I advanced the different *person_mentioned*officers */person_mentioned*and *person_mentioned*soldiers */person_mentioned*to the amount
+of about Eight hundred Dollars. I have the paper issued by the
+*person_mentioned*General */person_mentioned*for about four hundred Dollars.   If you think this Law in<barker_pb n="1147"/>
+the *person_mentioned*Mexican Congress*/person_mentioned* imbraces all the expenditures which I am
+sure they do)—I will come out *date_mentioned n="Spring - 1826">next spring*/date_mentioned* and see you, and settle
+in your *location_mentioned*Colony*/location_mentioned*.—*/p*
+
+*p*Will you please write me and direct your Letter to the care of
+*person_mentioned*William Taylor on *location_mentioned*Trinity*/location_mentioned**/person_mentioned*, and and you will greatly oblige your
+friend and Hmble. Servt*/p*
+
+*p**person_mentioned*James Barnett*/person_mentioned**/p*
+
+*p*I will take Land for the debt—on either the *location_mentioned*Brasis */location_mentioned*or the 
+*location_mentioned*Colorado*/location_mentioned*—*/p*
+
+*p*Direct the Letters *person_mentioned*James Barnett*/person_mentioned**person_mentioned* Mentoco River*/person_mentioned* Care of 
+*person_mentioned*Alexander McLane*/person_mentioned* *location_mentioned*Bayou Que Tortoc*/location_mentioned*—*/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

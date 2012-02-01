@@ -1,0 +1,71 @@
+﻿
+<TEI.2 id="APB4428">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>09-04-1832</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 854</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Bill/Receipt</document_type>
+<document_author>James Whiteside</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F Austin</document_recipient>
+<document_title>James Whiteside to Stephen F Austin, 09-04-1832</document_title>
+<document_location>
+	<sent_from>San Felipe de Austin, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>James Whitesides to Austin, September 45 1832. Draft for $100 in cows, calves, and merchandise.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 854</barker_citation>
+</barker_notes>
+<document_digital_creation>10-10-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4428T">
+
+<body>
+*div1 type="summary"*
+*p*James Whitesides to Austin, September 45 1832. Draft for $100 in cows, calves, and merchandise.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*San Felipi de Austin*/location_mentioned**/p*
+
+*p**date_mentioned n="09-04-1832">4th September 1832*/date_mentioned**/p*
+*p**person_mentioned*Col Stephen F. Austin*/person_mentioned**/p*
+*p*please pay to *person_mentioned*Samuel Marshall*/person_mentioned* fifty dollars in Cows and Calves
+thirty eight dollars in the *location_mentioned*Store */location_mentioned*and twelve dollars in Cash and
+oblige.*/p*
+*p**person_mentioned*James Whiteside*/person_mentioned**/p*
+*p*Accepted*/p*
+
+*p**person_mentioned*S. F. Austin*/person_mentioned**/p*
+
+*p*Recd, on the within order seventeen and 38/100 dollars in merchdz
+of *person_mentioned*J. F. Perry*/person_mentioned**/p*
+
+*p**person_mentioned*Saml. (his X mark) Marshal*/person_mentioned**/p*
+*p**date_mentioned n="0-06-1832">Sept. 6, 1832*/date_mentioned**/p*
+*p*Test *person_mentioned*W. W. Hunter*/person_mentioned**/p*
+
+*p*Reed on the within of *person_mentioned*Lewis L. Veeder*/person_mentioned* twenty Dollars and sixty
+three cents*/p*
+
+*p**person_mentioned*Saml. (his X mark) Marshal*/person_mentioned**/p*
+*p**date_mentioned n="09-06-1832">Sept. 6, 1832*/date_mentioned*—*person_mentioned*Wm. J. Eaton*/person_mentioned*—Paid in full*/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,75 @@
+﻿
+<TEI.2 id="APB4599">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>10-02-1833</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 1006-1007</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Stephen F Austin</document_author>
+<document_sender></document_sender>
+<document_recipient>James F Perry</document_recipient>
+<document_title>Stephen F Austin to James F Perry, 10-02-1833</document_title>
+<document_location>
+	<sent_from>Mexico</sent_from>
+	<sent_to>San Felipe de Austin, Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Austin to James F. Perry, Mexico, October 2, 1833. Distress over losses from cholera in Texas.   Despondent over disorders and revolutions in Mexico,</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1006-1007</barker_citation>
+</barker_notes>
+<document_digital_creation>11-30-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4599T">
+
+<body>
+*div1 type="summary"*
+*p*Austin to James F. Perry, Mexico, October 2, 1833. Distress over losses from cholera in Texas.   Despondent over disorders and revolutions in Mexico,*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Mexico */location_mentioned**date_mentioned n="10-02-1833">October 2 1833*/date_mentioned**/p*
+*p*Dr *person_mentioned*Brother*/person_mentioned*,*/p*
+
+*p*I am so much afflicted by accounts of the deaths by cholera in *location_mentioned*Texas*/location_mentioned*
+that I can scarcely write anything. I have heard of *person_mentioned*John Austin*/person_mentioned*,
+his *person_mentioned*wife */person_mentioned*and *person_mentioned*child */person_mentioned*and of my [dear?] *person_mentioned*sister's daughter Mary*/person_mentioned*. . . .
+*person_mentioned*Cap. Martin*/person_mentioned*.   Good God what a blow.   And whether it has taken<barker_pb n="1007"/>
+you all off is uncertain.   I am too wretched to write much on this
+subject or any other.*/p*
+
+*p*I left with *person_mentioned*Williams */person_mentioned*a great number of deeds signed by me so
+that he might furnish all the titles of the . . . *location_mentioned*colony*/location_mentioned*. Take 
+possession of them and of all my papers. Should these blanks fall into
+bad hands they will make any use of them they please.*/p*
+
+*p*I will try and get home as soon as I can. There has been no 
+meeting of *person_mentioned*Congress */person_mentioned*since early in *date_mentioned n="08-xx-1833">August */date_mentioned*until a few days since, so
+that nothing is done. I shall wait but a short time longer. I am
+tired of this *person_mentioned*government*/person_mentioned*. They are always in revolution and I 
+believe always will be. I have had much more respect for them than
+they deserve. But I am done with all that. You do not write to me
+[no one] writes to me.   farewell*/p*
+
+*p**person_mentioned*S. F. Austin*/person_mentioned**/p*
+
+*p*[Addressed:] Al *person_mentioned*Sor J. F. Perry*/person_mentioned* del Comercio *location_mentioned*San Felipe de
+Austin*/location_mentioned**/p*
+
+
+*/div1*
+</body>
+</text>
+</TEI.2>

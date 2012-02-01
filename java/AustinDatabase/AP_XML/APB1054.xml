@@ -1,0 +1,66 @@
+﻿
+<TEI.2 id="APB1054">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>03-01-1825</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1053-1054</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>William Johnson</document_author>
+<document_sender>Mr. William P. Perkins</document_sender>
+<document_recipient>Stephen F. Austin</document_recipient>
+<document_title>William Johnson to Stephen F. Austin, 03-01-1825</document_title>
+<document_location>
+	<sent_from>Woodville</sent_from>
+	<sent_to>Province of Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>William Johnson to Austin, March 1, 1825.    Introducing William P. Perkins.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1053-1054</barker_citation>
+</barker_notes>
+<document_digital_creation>05-31-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1054T">
+
+<body>
+*div1 type="summary"*
+*p*William Johnson to Austin, March 1, 1825.    Introducing William P. Perkins.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Woodville*/location_mentioned* *date_mentioned n="03-01-1825">March 1st 1825*/date_mentioned**/p*
+*p*Dear Sir,*/p*
+
+*p*This will be handed to you by *person_mentioned*Mr. William P. Perkins*/person_mentioned*; a respec-
+table and wealthy *person_mentioned*planter*/person_mentioned* of this country—*person_mentioned*Mr. Perkins*/person_mentioned* visits your
+*location_mentioned*Province*/location_mentioned* with the view of acquiring Land and ultimately 
+establishing a *location_mentioned*sugar or Cotton farm*/location_mentioned* in your *location_mentioned*province*/location_mentioned*—*person_mentioned*Mr. P*/person_mentioned*. has 
+respectable and extensive *person_mentioned*family */person_mentioned*connections here as well as in the State
+of *location_mentioned*Tennessee*/location_mentioned*—No doubt, should he be pleased with your *location_mentioned*country*/location_mentioned*
+and future prospects there, he will ultimately move there and be
+the means of many valuable *person_mentioned*citizens */person_mentioned*mooving there both from this
+*location_mentioned*State*/location_mentioned* and from *location_mentioned*Tennessee*/location_mentioned*— 
+I have been personally and intimately<barker_pb n="1054"/>
+acquainted with him for many years and have no hesitation in saying
+[he] would be a valuable acquisition to your *location_mentioned*settlement*/location_mentioned*—*person_mentioned*Mr. P*/person_mentioned*.
+is now waiting and you will therefore excuse this crude Note.—
+*/p**p*
+*person_mentioned*Wm Johnson*/person_mentioned**/p*
+*p**person_mentioned*Hon. Stephen F. Austin */person_mentioned**location_mentioned*Province of Texas*/location_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

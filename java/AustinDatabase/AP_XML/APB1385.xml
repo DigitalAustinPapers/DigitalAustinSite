@@ -1,0 +1,71 @@
+﻿
+<TEI.2 id="APB1385">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>05-23-1827</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1643</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Receipt</document_type>
+<document_author>Stephen F. Austin</document_author>
+<document_sender></document_sender>
+<document_recipient>J. C. Peyton</document_recipient>
+<document_title>Stephen F. Austin to J. C. Peyton, 05-23-1827</document_title>
+<document_location>
+	<sent_from>San Felipe de Austin, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Austin in account with J. C. Peyton, May 23, 1827.   Commerce.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1643</barker_citation>
+</barker_notes>
+<document_digital_creation>07-21-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1385T">
+
+<body>
+*div1 type="summary"*
+*p*Austin in account with J. C. Peyton, May 23, 1827.   Commerce.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*San Felepe de Austin */location_mentioned**date_mentioned n="05-23-1827">May 23nd 1827*/date_mentioned**/p*
+*p**person_mentioned*Col S. F. Austin Dr*/person_mentioned**/p*
+
+*p*To Ferry for the year *date_mentioned n="xx-xx-1826">1826*/date_mentioned*__________________________________$50.   6 1/4*/p*
+
+*p*To 1 load wood 75 cts 2 pr Socks £1.50 pr_______________________   3. 75*/p*
+
+*p**date_mentioned n="01-29-1827">29th Janry*/date_mentioned* 4 1/2 lbs bullets—37 1/2—-pr__________________________    1.68 3/4*/p*
+
+*p*1   Pile_______________________________________________      .50*/p*
+
+*p*8 lbs sugar by *person_mentioned*Mrs. Picket_*/person_mentioned*______________________________   2.00*/p*
+
+*p*$58. 50*/p*
+
+*p**date_mentioned n="04-25-1827">25 Apl*/date_mentioned*. 50 cts on Battle Brandy-------------------------------------------- . 50*/p*
+
+*p*Amt bringing 3 Bushels meal from *person_mentioned*Groces */person_mentioned*25c. per bushel—_________     . 75*/p*
+
+*p*$59.35*/p*
+*p**date_mentioned n="05-24-1827">May 24th 1827*/date_mentioned**/p*
+
+*p*Recd paymt.                                      *person_mentioned*J. C. Peyton*/person_mentioned**/p*
+
+
+*/div1*
+</body>
+</text>
+</TEI.2>

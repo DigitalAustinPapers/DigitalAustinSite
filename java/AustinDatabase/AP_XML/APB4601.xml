@@ -1,0 +1,95 @@
+﻿
+<TEI.2 id="APB4601">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>10-28-1833</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 1008-1009</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Stephen F Austin</document_author>
+<document_sender></document_sender>
+<document_recipient>James F Perry</document_recipient>
+<document_title>Stephen F Austin to James F Perry, 10-28-1833</document_title>
+<document_location>
+	<sent_from>Mexico</sent_from>
+	<sent_to>San Felipe de Austin, Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Austin to James F. Perry, Mexico, October 23, 1833. Congress favorable to repeal of restrictions on immigration from the United States. State organization still unsettled and little hope of success.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1008-1009</barker_citation>
+</barker_notes>
+<document_digital_creation>11-30-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4601T">
+
+<body>
+*div1 type="summary"*
+*p*Austin to James F. Perry, Mexico, October 23, 1833. Congress favorable to repeal of restrictions on immigration from the United States. State organization still unsettled and little hope of success.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Mexico */location_mentioned**date_mentioned n="10-23-1833">23 October 1833*/date_mentioned*.*/p*
+*p*Dr *person_mentioned*Brother*/person_mentioned*,*/p*
+
+*p*It gives me much pleasure to inform you that the decree repealing
+the 11 article of the law of *date_mentioned n="04-06-1830">6 April 1830*/date_mentioned* passed the *person_mentioned*chamber of
+deputies*/person_mentioned* *date_mentioned n="10-24-1833">yesterday */date_mentioned*almost unanimously, and was discussed today in
+the *person_mentioned*senate */person_mentioned*and two articles were approved (there are three articles
+in the decree) when the *person_mentioned*senate */person_mentioned*adjourned. There was strong 
+opposition in the *person_mentioned*senate */person_mentioned*on the ground that the *person_mentioned*Govt, of the *location_mentioned*U. S*/location_mentioned*.*/person_mentioned* would
+take *location_mentioned*Texas */location_mentioned*if any more were alowed to come in from that *location_mentioned*nation */location_mentioned*and
+many other very foolish and absurd objections, but the majority were
+in favor of the law and I am told there is no doubt the other article
+will pass *date_mentioned n="10-24-1833">tomorrow*/date_mentioned**/p*
+
+*p**person_mentioned*Genl. Santana*/person_mentioned* is expected in the *location_mentioned*city */location_mentioned*in *date_mentioned n="10-26-1833">three days*/date_mentioned* and after he
+arrives I will try (a final tryal) on the *location_mentioned*state */location_mentioned*question. I told the
+*person_mentioned*vice President*/person_mentioned* the other day that *location_mentioned*Texas */location_mentioned*must be made a *location_mentioned*state */location_mentioned*by the
+*person_mentioned*Govt*/person_mentioned*, or she would make herself one. This he took as a threat and
+became very much enraged—however when he understood that my
+object was only to state a positive fact which it was my duty to
+state, he was reconciled. I had told him and the *person_mentioned*ministers */person_mentioned*the same
+thing ever since I came here. The fact is this *person_mentioned*govt*/person_mentioned*, ought to make
+a *location_mentioned*state of Texas*/location_mentioned*, or transfer her to the *location_mentioned*U. S.*/location_mentioned* without delay and
+there is some probability at this time that one or the other will be
+done. A short time now will determine this matter in some way No
+one writes to me from *location_mentioned*Texas */location_mentioned*I hope you have taken 
+possession of all my papers desk etc that is if it be true as reported here
+that *person_mentioned*Williams */person_mentioned*is dead, which I hope to God is not the case. I left
+blanks signed to close the *location_mentioned*coast colony*/location_mentioned* and should they fall into bad
+hands an improper use might be made of them— take possession of
+them all—*/p*
+
+*p*I have had to draw on *location_mentioned*Orleans */location_mentioned*for one thousand dollars. This
+trip will cost me very dear, but I care nothing about that if either of
+the two events above mentioned can take place, or if any good results
+to *location_mentioned*Texas */location_mentioned*and its *person_mentioned*inhabitants*/person_mentioned*— all my desires and ambition are limited
+to the sole object of benefiting that *location_mentioned*country*/location_mentioned*—tho I must confess that
+some of the *person_mentioned*good folks*/person_mentioned* there irritate me very much sometimes with
+their personal animosities and jealousies—but it is of short duration.*/p*<barker_pb n="1009"/>
+
+*p*Love to my beloved *person_mentioned*Sister */person_mentioned*and all the *person_mentioned*children */person_mentioned*and to your
+*person_mentioned*neighbors*/person_mentioned**/p*
+
+*p*Your *person_mentioned*brother*/person_mentioned*                         *person_mentioned*S*/person_mentioned*_______*/p*
+
+*p*I have written every mail since my arrival here on the *date_mentioned n="07-18-1833">18 July*/date_mentioned*—
+[Addressed:]  *person_mentioned*Mr. James F. Perry    Merchant */person_mentioned*   *location_mentioned*San Felipe de
+Austin   Texas*/location_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

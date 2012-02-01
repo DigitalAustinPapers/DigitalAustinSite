@@ -1,0 +1,83 @@
+﻿
+<TEI.2 id="APB1898">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>04-07-1830</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 365-366</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>letter</document_type>
+<document_author>Lucas Alaman</document_author>
+<document_sender></document_sender>
+<document_recipient>Governor Viesca</document_recipient>
+<document_title>Lucas Alaman to Governor Viesca, 04-07-1830</document_title>
+<document_location>
+	<sent_from>Unknown</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Lucas Alaman to Governor Viesea, Mexico, April 7, 1830. Quoting orders to General Terán to enforce the law of April 6 against further settlement of Americans in Texas.</barker_summary>
+	<barker_footnotes>The authorship of this translation is not disclosed</barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 365-366</barker_citation>
+</barker_notes>
+<document_digital_creation>08-19-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1898T">
+
+<body>
+*div1 type="summary"*
+*p*Lucas Alaman to Governor Viesea, Mexico, April 7, 1830. Quoting orders to General Terán to enforce the law of April 6 against further settlement of Americans in Texas.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**person_mentioned*First Secretairys office of the State, of Exteriour department*/person_mentioned**/p*
+
+*p*Most Excellent Sir*/p*
+
+*p*on this date I have written to the *person_mentioned*General of division Don Manuel
+de Mier y Teran*/person_mentioned* as Follows—*/p*
+*p*" Most Excellent Sir »*/p*
+
+*p*The discussion concerning the project of law mentioned in note
+bearing date The *date_mentioned n="02-17-1830">17th of February last*/date_mentioned* has been concluded 
+yesterday and ordered to be published Comformably— I Send you
+Copies of them and at present I limit myself in Sending you them—
+reserving to send you by the first mail, your respective instructions,
+for you to act Comformably and according to what *person_mentioned*his excellency
+The Vice president*/person_mentioned* has thought proper to appoint *person_mentioned*Your 
+Excellency—Commissioner of those States*/person_mentioned*, to which Nomination the
+same law gives you the faculty of—and in consequence of what has
+been told your Excellency in the Supreme order above Staled—
+So untill you receive Some instructions The *person_mentioned*Vice president*/person_mentioned* wishes,
+that you together with his *person_mentioned*Excellency the Governor of that State
+*/person_mentioned*Should take the Correspondant measures, to put an end to those
+Contracts, which have not been Complied with and those which
+may be contrary to the adjunct law— His *person_mentioned*Excellency */person_mentioned*hopes by
+taking this Step, that your *person_mentioned*Excellency*/person_mentioned*, will act with the prudence
+and Judgement which characterises you in Such a high degree—
+and that Such measures Shall not now or hereafter, be a motive,
+of which they may take advantage, to Suscítate any inquietud, by
+putting an end to the introduction of *person_mentioned*North american Colonists*/person_mentioned*, a<barker_pb n="386"/>
+proper, Consideration of this effect, Shall be given to the *person_mentioned*agents */person_mentioned*of
+the *location_mentioned*republic*/location_mentioned*, which are in those *location_mentioned*States*/location_mentioned*, and they must let it be
+known, to avoid any Claimes whatever—-*/p*
+
+*p*I transfer it to your Excellency, for his notice, and 
+Corresponding effects—   *location_mentioned*Mexico */location_mentioned**date_mentioned n="04-07-1830">7th April 1830.*/date_mentioned*   *person_mentioned*Alaman */person_mentioned*God and Liberty*/p*
+
+*p**person_mentioned*Most Excellent Sir Governor of the State of Coahuila y Texas*/person_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

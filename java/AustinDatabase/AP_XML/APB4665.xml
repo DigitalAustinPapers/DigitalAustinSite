@@ -1,0 +1,94 @@
+﻿
+<TEI.2 id="APB4665">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>08-09-1834</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 1074-1075</document_citation>
+<document_language>Englsih</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>P W Grayson</document_author>
+<document_sender></document_sender>
+<document_recipient>James F Perry</document_recipient>
+<document_title>P W Grayson to James F Perry, 08-09-1834</document_title>
+<document_location>
+	<sent_from>San Felipe de Austin, Texas</sent_from>
+	<sent_to>Gulf Prarie, Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>P. W. Grayson to James F. Perry, August 9, 1834. Discussing mission to Mexico in Austin's behalf.   Political confusion.</barker_summary>
+	<barker_footnotes>Above, May 17 and July 28, 1834.
+Above, May 31, 1834</barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1074-1075</barker_citation>
+</barker_notes>
+<document_digital_creation>12-09-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4665T">
+
+<body>
+*div1 type="summary"*
+*p*P. W. Grayson to James F. Perry, August 9, 1834. Discussing mission to Mexico in Austin's behalf.   Political confusion.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*San Felippe*/location_mentioned* *date_mentioned n="08-09-1834">Aug 9 '34*/date_mentioned**/p*
+*p*Dr Sir*/p*
+
+*p*I arrived here *date_mentioned n="08-08-1834">yesterday morning*/date_mentioned* and expect to leave, on 
+*date_mentioned n="08-11-1834">Monday*/date_mentioned*—-accompanying *person_mentioned*Col Almonte*/person_mentioned* We are informed on good 
+authority, that the cholera is in *location_mentioned*San Antonio-*/location_mentioned*—deaths 6 or 7 a day,—
+it commenced about the *date_mentioned n="07-27-1834">27th last month*/date_mentioned*—We are in hopes it will
+have abated by the time we get on—*/p*
+
+*p**person_mentioned*Johnson */person_mentioned*writes from there, that he will be able to procure a 
+favorable address from the *person_mentioned*Ayuntamiento*/person_mentioned*.-—*/p*
+
+*p*I have seen the one from *location_mentioned*Matagorda*/location_mentioned*, which is a considerable
+improvement on the first, but not so full as I could have wished—
+The Liberty Memorial is well written and is <hi rend="italic">perhaps </hi>very good as
+to the substance tho' there is a little of it I do not like altogether.*/p*
+
+*p*The one from the *location_mentioned*Colorado*/location_mentioned*, *person_mentioned*Johnson */person_mentioned*has with him We shall get
+it from him at *location_mentioned*San Antonio*/location_mentioned* where it appears lie will remain-*/p*
+
+*p*But my main dependence is on *person_mentioned*Almonte*/person_mentioned*-—There is no very 
+important, additional information as to the progress of the 
+Revolution.—4000 *person_mentioned*Sta Anna*/person_mentioned* men, have marched against *location_mentioned*San Louis Potosi*/location_mentioned*— *location_mentioned*Mexico */location_mentioned*is measurably quiet. We have heard, (to heighten our 
+distresses) that there is even a State Revolution—*location_mentioned*<hi rend="italic">Saltillo </hi>*/location_mentioned*against 
+<hi rend="italic">Monclova</hi>. It seems that the *person_mentioned*people */person_mentioned*of the former place have set up a
+*person_mentioned*governor */person_mentioned*of their own, in opposition to the one at *location_mentioned*Monclova */location_mentioned*and
+threaten to storm the place, if the Official papers of all kind, are not
+given up to them—all is no doubt the work of a *person_mentioned*licentious mob*/person_mentioned*—-
+What is to come of it I know not of course—as I suppose no one
+else does—*/p*
+
+*p*I will write you from *location_mentioned*San Antonio*/location_mentioned**/p*
+
+*p**person_mentioned*P. W. Grayson*/person_mentioned**/p*
+*p**date_mentioned n="08-11-1834">Monday Evening*/date_mentioned**/p*
+
+*p*We shall leave this, tomorrow or next day—waiting on *person_mentioned*Colo
+Almonte*/person_mentioned*, as *person_mentioned*Jack */person_mentioned*and myself are now ready—*/p*<barker_pb n="1075"/>
+
+*p*I have had some talk with the *person_mentioned*Colo */person_mentioned*on the subject of this State
+disorder—He laments it but thinks he <hi rend="italic">understands </hi>the cause and
+that all will be well soon—Time will tell best.*/p*
+
+*p**person_mentioned*P. W. G.*/person_mentioned**/p*
+
+*p*[Addressed.] *person_mentioned*Mr. James F. Perry*/person_mentioned*, *location_mentioned*Gulf Prairie*/location_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

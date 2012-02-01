@@ -1,0 +1,104 @@
+﻿
+<TEI.2 id="APB1518">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>03-31-1828</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 28-29</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Stephen F Austin</document_author>
+<document_sender></document_sender>
+<document_recipient>James F. Perry</document_recipient>
+<document_title>Stephen F Austin to James F. Perry, 03-31-1828</document_title>
+<document_location>
+	<sent_from>Unknown</sent_from>
+	<sent_to>Potosi, Washington County, State of Missouri</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Austin to James F. Perry, March 31, 1828. Concerning family lands in Virginia, New Jersey, and Missouri.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 28-29</barker_citation>
+</barker_notes>
+<document_digital_creation>08-02-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1518T">
+
+<body>
+*div1 type="summary"*
+*p*Austin to James F. Perry, March 31, 1828. Concerning family lands in Virginia, New Jersey, and Missouri.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*San Felipe de Austin*/location_mentioned**/p*
+
+*p**date_mentioned n="03-31-1828">March 31. 1828*/date_mentioned**/p*
+*p*Dr Brother and Sister,*/p*
+
+*p*On my return from the seat of Govt of this *location_mentioned*State */location_mentioned*last winter I
+found your letter transcribing *person_mentioned*Learning*/person_mentioned*s letter relative to the
+*location_mentioned*claim in New Jersey*/location_mentioned*, and*person_mentioned* Brother James*/person_mentioned* and myself without delay
+executed a power of attorney in due form to *person_mentioned*Mr. Learning*/person_mentioned* and sent
+it direct to him in *location_mentioned*Philadelphia*/location_mentioned**/p*
+
+*p*I know nothing of the title deeds for *location_mentioned*land in Virginia*/location_mentioned* that you
+speak of—I remember having seen two parchment deeds for land
+in that country in *person_mentioned*father*/person_mentioned*s writing desk about the time he removed
+to *location_mentioned*Hercuianium*/location_mentioned*—but what became of them or wheither they were
+for the tracts you allude to I know not. perhaps he took them with
+him in the desk to *location_mentioned*Little Rock*/location_mentioned**/p*
+
+*p**person_mentioned*Brother */person_mentioned*and myself will give any power of attorney that may be
+necessary to prosecute our claim to the *location_mentioned*Mine á Burton*/location_mentioned* property
+but we have not the means to advance money neither can we do it
+at any short period*/p*
+
+*p*You are doubtless ere this informed by *person_mentioned*Brother*/person_mentioned*s letters of the
+important change that has taken place in his situation, he was
+married on the *date_mentioned n="03-20-1828">20 of this month*/date_mentioned* at this place to *person_mentioned*Miss Eliza Martha<barker_pb n="29"/>
+Westall*/person_mentioned*—he has made a good choice and I think has secured his
+domestic happiness—we are trying to arrange matters to set him
+and *person_mentioned*John Austin*/person_mentioned* up in the Mercantile business in which there is
+a good prospect of success—tho their begining is very small he
+expects to be in *location_mentioned*Orleans */location_mentioned*in *date_mentioned n="05-xx-1828">May */date_mentioned*or *date_mentioned n="06-xx-1828">June*/date_mentioned*.*/p*
+
+*p*I once had a *person_mentioned*sister */person_mentioned*who could spare a few moments every six or
+eight months to drop a line to her unfortun[ate]? absent, brother—
+Where is she? has time swept me from her remembrance, or has
+she too many cares, or too much amusement to allow a half hour
+to past remembrance—I feel almost cut off from the world, but still
+something in her own handwriting would be acceptable, how many
+*person_mentioned*children */person_mentioned*has she, how are they disposed of—what are her future
+calculations She can tell me a thousand things that will be 
+interesting, for she can write nothing that will be otherwise, It has been
+more than 18 months since I have recd a line from her own 
+handwriting—I never expect to converse with her otherwise than by
+letter—time rolls on rapidly, tell her to improve it while she can
+in chatting once more on paper to her brother-—*/p*
+
+*p*We move on here slowly, but quietly—this *location_mentioned*country */location_mentioned*will present a
+*location_mentioned*second Eden*/location_mentioned* to posterity—wheither we shall find it such or not
+depends on the progress of emigration and improvements—*/p*
+
+*p*Farewell—give my love to all the *person_mentioned*children */person_mentioned*and to all old *person_mentioned*friends*/person_mentioned*
+and particularly to *person_mentioned*Elias Bates*/person_mentioned* and *person_mentioned*family */person_mentioned*and other *person_mentioned*relations*/person_mentioned**/p*
+
+*p**person_mentioned*S. F. Austin  */person_mentioned*  [Rubricj*/p*
+
+*p*[Addressed:] *person_mentioned*Mr. James F. Perry */person_mentioned**location_mentioned*Potosi Washington County
+State of Missouri*/location_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

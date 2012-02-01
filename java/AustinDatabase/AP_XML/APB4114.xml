@@ -1,0 +1,77 @@
+﻿
+<TEI.2 id="APB4114">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>12-20-1830</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 565</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>D R Hopkins</document_author>
+<document_sender>Mr Labadie</document_sender>
+<document_recipient>Stephen F Austin</document_recipient>
+<document_title>D R Hopkins to Stephen F Austin, 12-20-1830</document_title>
+<document_location>
+	<sent_from>Cantonment, Jessup, Louisiana</sent_from>
+	<sent_to>San Felipe de Austin, Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>D. R. Hopkins to Austin, Cantonment Jessup, La., December 20, 1830. Introducing N. D. Labadie.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 565</barker_citation>
+</barker_notes>
+<document_digital_creation>09-03-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4114T">
+
+<body>
+*div1 type="summary"*
+*p*D. R. Hopkins to Austin, Cantonment Jessup, La., December 20, 1830. Introducing N. D. Labadie.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Cant[onment] Jessup La.*/location_mentioned**/p*
+
+*p**date_mentioned n="12-20-1830">December 20th. 1830*/date_mentioned**/p*
+*p*Dear sir.*/p*
+
+*p*It has been a long time since I had the pleasure of your 
+acquaintance, but I beg leave to bring to your recollection The time you
+passed*location_mentioned* Fort Riply*/location_mentioned*, on the *location_mentioned*Sabine */location_mentioned*in *date_mentioned n="xx-xx-1821">1821*/date_mentioned*.*/p*
+
+*p*The *person_mentioned*bearer */person_mentioned*of this *person_mentioned*Mr. N. D Labadie*/person_mentioned* I beg leave to introduce to
+your acquaintance, as, a, young Gentleman, who visits your *location_mentioned*Country*/location_mentioned*
+with a view of locating himself somewhere, in your *location_mentioned*District of
+Country*/location_mentioned*, Either in the profession of medicine or in the Mercantile
+pursuits—*/p*
+
+*p**person_mentioned*Mr. Labadie*/person_mentioned* has been in the Employ of *person_mentioned*Harrison and Hopkins
+*/person_mentioned*for the last Eight Months and from what we have found, from That
+Experience, we have no hesitation in introducing him to you as a
+*person_mentioned*Gentleman */person_mentioned*worthy of the highest, respect, and one well qualified to
+discharge the duties of his profession—*/p*
+
+*p*If you can render *person_mentioned*Mr. Labadie*/person_mentioned* any services in the way of his 
+making an advantageous location—you will not only place him under
+particular obligations to you, but aliso your*/p*
+
+*p**person_mentioned*D R Hopkins  */person_mentioned*  [Rubric]*/p*
+
+*p*[Addressed:] To *person_mentioned*Col. Stephen F, Austin*/person_mentioned* *location_mentioned*St. Phillipe de Austin
+Texas */location_mentioned*  Pr *person_mentioned*Mr Labadie*/person_mentioned**/p*
+
+
+*/div1*
+</body>
+</text>
+</TEI.2>

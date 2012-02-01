@@ -1,0 +1,70 @@
+﻿
+<TEI.2 id="APB1180">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>06-18-1826</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1362</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Asa Mitchell</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F. Austin</document_recipient>
+<document_title>Asa Mitchell to Stephen F. Austin, 06-18-1826</document_title>
+<document_location>
+	<sent_from>Mouth of Brazos, Texas</sent_from>
+	<sent_to>San Felipe de Austin, Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Asa Mitchell to Austin, June 18, 1826.    Commerce.    Manufacture of salt.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1362</barker_citation>
+</barker_notes>
+<document_digital_creation>06-22-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1181T">
+
+<body>
+*div1 type="summary"*
+*p*Asa Mitchell to Austin, June 18, 1826.    Commerce.    Manufacture of salt.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Mouth of Brassos*/location_mentioned* *date_mentioned n="06-18-1826">18th June 1826*/date_mentioned*
+*/p**p*Dear sir—*/p*
+
+*p*As this leaves me so may it find you enjoying the blessing of good
+health—I have been much disappointed in my expectations at *location_mentioned*New
+Orleans*/location_mentioned* in consequence of *person_mentioned*Jesse Thompson*/person_mentioned* not meeting me there
+agreeable to contract I advanced him money to pay for his *location_mentioned*lands*/location_mentioned*
+before he left this and he was to let me have the cash in *location_mentioned*Orleans*/location_mentioned*
+with which I calculated to buy a set of salt kettles—the vessel also
+being in debt more than I expected it was seized and sold and I
+was not able to releave it but waited from day to day for *person_mentioned*Thompson*/person_mentioned*
+to come on and let me have money but to my great mortification
+he never arive[d] an old acquaintance of mine bought the sloop and
+let us have it to get *location_mentioned*home*/location_mentioned*
+*/p*
+*p**person_mentioned*Asa Mitchell*/person_mentioned**/p*
+
+*p*NB I have bought a good supply of sugar coffee and other 
+articles in the provision line to acomodate those who would wish to
+visit the *location_mentioned*sea shore*/location_mentioned**/p*
+
+*p*[Addressed:] *person_mentioned*Col. Stephen. F. Austin*/person_mentioned* *location_mentioned*San Philipe. De. Austin
+Texas*/location_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,78 @@
+﻿
+<TEI.2 id="APB1064">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>03-21-825</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1060-1061</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>J. Cable</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F. Austin</document_recipient>
+<document_title>J. Cable to Stephen F. Austin, 03-21-825</document_title>
+<document_location>
+	<sent_from>Contonement, Jesup</sent_from>
+	<sent_to>San Felipe de Austin, Rio Brazos, Province of Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>J. Cable to Austin, March 21, 1825. Adams elected President. Rumors
+of treaty with Mexico annexing Texas to the United States.</barker_summary>
+	<barker_footnotes>Clay's instructions to Poinsett to move for an adjustment of the boundary which,
+would leave Texas to the United States were dated March 26, 1825.
+</barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1060-1061</barker_citation>
+</barker_notes>
+<document_digital_creation>06-01-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1064T">
+
+<body>
+<div1 type="summary">
+<p>J. Cable to Austin, March 21, 1825. Adams elected President. Rumors
+of treaty with Mexico annexing Texas to the United States.</p>
+</div1>
+
+<div1 type="body">
+<p><location_mentioned>Cantonement, Jesup </location_mentioned><date_mentioned n="03-21-1825">March 21st 1825</date_mentioned>.</p>
+Dear friend,
+
+<p>By <person_mentioned>Mr. Smith</person_mentioned> I send you a few news Papers [from] which you
+will see the Result of the Election of <person_mentioned>President</person_mentioned> of the <location_mentioned>U. S</location_mentioned>.<barker_pb n="1061"/>
+<person_mentioned>John Q. Adams</person_mentioned> has been Duly Elected, we have not much news
+more than <person_mentioned>Mr Smith</person_mentioned> can inform you, thare is great hopes of the
+<location_mentioned>United States</location_mentioned> becoming Peaceable possession of the <location_mentioned>Province of
+Texas</location_mentioned> as far as the<location_mentioned> Rio grande</location_mentioned> By a letter <person_mentioned>Mr. Johnson</person_mentioned> Received
+from his <person_mentioned>Farther </person_mentioned>in <location_mentioned>Orleans</location_mentioned> Last <date_mentioned n="03-16-1825">Saturday</date_mentioned>, he advises his <person_mentioned>sone</person_mentioned> to
+not sell his land claims in <location_mentioned>Texas</location_mentioned> that in conversation with some
+<person_mentioned>gentleman</person_mentioned> in <location_mentioned>Orleans</location_mentioned> he states that our <person_mentioned>Minister to Mexico</person_mentioned> is
+about to conclude a Trety with the <location_mentioned>Mexican Republic</location_mentioned> for the
+<location_mentioned>Province of Texas</location_mentioned>— the <location_mentioned>Rio grande</location_mentioned> to be the <location_mentioned>line between the
+two governments</location_mentioned>. I hope you will Reserve me a League of Land in
+some good Place on the <location_mentioned>River Brassos</location_mentioned> or <location_mentioned>Colorado</location_mentioned>, <person_mentioned>Mr Smith</person_mentioned> has
+spoken to me about a league on the <location_mentioned>colorado</location_mentioned> Perty low down you
+would be the best judge of that I shall be out in may and <person_mentioned>Esqr
+McGuffin</person_mentioned> says he will come with me without fail sickness excepted
+The led [lead], I have tried evry Person to take it out that was going
+out I may get <person_mentioned>Mr. Payton</person_mentioned> to take some out in a week or two, if
+you should want any thing from our <location_mentioned>Place</location_mentioned> pleas write and I will
+Send it out to you Pleas to give my Respects to your<person_mentioned> Brother</person_mentioned> and
+Pleas to accept my best and well wishes towards you, and blive me</p>
+
+<p><person_mentioned>J. Cable</person_mentioned></p>
+<p>To <person_mentioned>Col. Stephen F. Austin</person_mentioned> <location_mentioned>St. Felip de Austin</location_mentioned> <location_mentioned>Rio Brazos </location_mentioned><location_mentioned>Province
+of Texas</location_mentioned></location_mentioned></p>
+
+</div1>
+</body>
+</text>
+</TEI.2>

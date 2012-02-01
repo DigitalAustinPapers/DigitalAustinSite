@@ -1,0 +1,74 @@
+﻿
+<TEI.2 id="APB4626">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>02-01-1834</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 1045</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>M. A. Bryan</document_author>
+<document_sender></document_sender>
+<document_recipient>James F Perry</document_recipient>
+<document_title>M. A. Bryan to James F Perry, 02-01-1834</document_title>
+<document_location>
+	<sent_from>San Felipe de Austin, Texas</sent_from>
+	<sent_to>Peach Point, Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>M. A. Bryan to James F. Perry, February 1, 1834. Excitement over report of Austin's arrest.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1045</barker_citation>
+</barker_notes>
+<document_digital_creation>12-03-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4626T">
+
+<body>
+*div1 type="summary"*
+*p*M. A. Bryan to James F. Perry, February 1, 1834. Excitement over report of Austin's arrest.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*San Felipe de Austin*/location_mentioned**date_mentioned n="02-01-1834"> Feb. 1st*/date_mentioned**/p*
+
+*p*Dear *person_mentioned*Father*/person_mentioned**/p*
+
+*p*There has news arrived that that they have arrested *person_mentioned*Uncle */person_mentioned*at
+*location_mentioned*Saltillo */location_mentioned*it is a report but I fear it is to true they intend sending
+him back to *location_mentioned*Mexico */location_mentioned*they accuse him of treason if they make it out
+that, I am fearfull it will go hard with him, there is a great deal of
+excitement about it in this place apply to *person_mentioned*Doct Miller*/person_mentioned* for the news
+as I send this by him. It is imposible to get teams here the 
+engagements I made has all fallen through it is out of the question to
+hall they say. I cant say any more as my hands are so cold that I
+can scearsly hold my pen I send enclosed an order on *person_mentioned*Walter C
+White*/person_mentioned* for one hundred and twenty dollars and 29c which he will pay
+you in *location_mentioned*Brazoria   */location_mentioned*times are dull owing to cold weather*/p*
+
+*p**person_mentioned*M. A. Bryan*/person_mentioned**/p*
+
+*p**person_mentioned*Jones */person_mentioned*is going up the *location_mentioned*Country */location_mentioned*in a few day with his *person_mentioned*family */person_mentioned*goods
+are very scarse here If you can get yours up now you could sell them
+right of,   ther is scarsely anything to eat in *location_mentioned*San Felipe*/location_mentioned**/p*
+
+*p**person_mentioned*M.A.B*/person_mentioned**/p*
+
+*p*I have paid *person_mentioned*Mr. Townsend */person_mentioned*the twenty dollars for Slate.*/p*
+*p*[Addressed.] *person_mentioned*Mr James F Perry*/person_mentioned*   *location_mentioned*Peach Point   Brazos*/location_mentioned*   per *person_mentioned*Doct
+Miller*/person_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,58 @@
+﻿
+<TEI.2 id="APB2032">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>xx-xx-1825</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 1131-1132</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Order for Arrest</document_type>
+<document_author>Stephen F Austin</document_author>
+<document_sender></document_sender>
+<document_recipient>Sheriff of the Colony</document_recipient>
+<document_title>Stephen F Austin to Sheriff of the Colony, xx-xx-1825</document_title>
+<document_location>
+	<sent_from>San Felipe de Austin, Texas</sent_from>
+	<sent_to>San Felipe de Austin, Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Austin to sheriff, June 7, 1825.    Order for arrest of Buckner.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1131-1132</barker_citation>
+</barker_notes>
+<document_digital_creation>12-15-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB2032T">
+
+<body>
+*div1 type="summary"*
+*p*Austin to sheriff, June 7, 1825.    Order for arrest of Buckner.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p*To the *person_mentioned*Sheriff of this Colony*/person_mentioned**/p*
+
+*p*You are hereby commanded to take the Body of*person_mentioned* A. C. Buckner
+*/person_mentioned*and bring him before me at my *location_mentioned*office */location_mentioned*in this place on Saturday the<barker_pb n="1132"/>
+*date_mentioned n="06-11-1825">11 day of this month*/date_mentioned* between the hours of 10 o clock of the 
+forenoon and two o clock of the afternoon then and there to answer
+charges of disorderly and seditious conduct against the *person_mentioned*Authorities
+of the Govt*/person_mentioned* and against the peace and tranquility of this *location_mentioned*Colony*/location_mentioned**/p*
+
+*p*[Stephen F Austin]*/p*
+
+
+*/div1*
+</body>
+</text>
+</TEI.2>

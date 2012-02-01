@@ -1,0 +1,96 @@
+﻿
+<TEI.2 id="APB4341">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>04-22-1832</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 765-766</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Branch T Archer</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F Austin</document_recipient>
+<document_title>Branch T Archer to Stephen F Austin, 04-22-1832</document_title>
+<document_location>
+	<sent_from>San Felipe de Austin, Texas</sent_from>
+	<sent_to>Leona Vicario, Coahuila</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Branch T. Archer to Austin, April 22, 1832. Asking Austin's help at Saltillo in obtaining grant to improve navigation of the Brazos and collect tolls.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 765-766</barker_citation>
+</barker_notes>
+<document_digital_creation>09-22-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4341T">
+
+<body>
+*div1 type="summary"*
+*p*Branch T. Archer to Austin, April 22, 1832. Asking Austin's help at Saltillo in obtaining grant to improve navigation of the Brazos and collect tolls.*/p*
+*/div1*
+
+*div1 type="body"*
+
+
+*p**location_mentioned*San Felipe de Austin*/location_mentioned* *date_mentioned n="04-22-1832">April 22d 1832*/date_mentioned**/p*
+*p**person_mentioned*Colonel S. F Austin*/person_mentioned**/p*
+
+*p*Dear Sir, The variety of subjects, on which I desired 
+conversations, previous to your departure for the seat of Government; and
+the little time allowed us, in the hurry of our interviews, one of
+the most important subjects, was neglected, or forgotten.*/p*
+
+*p*Connected with the settlement of the *location_mentioned*new colony*/location_mentioned*, (without regard
+to the character of the settle [r]s, or the *location_mentioned*nations */location_mentioned*from which they<barker_pb n="766"/>
+may be taken,) the most important matter, is the improvement of
+the *location_mentioned*River Brasos*/location_mentioned*, (To say nothing, of the advantages, that must
+accrue to the present *person_mentioned*settlers */person_mentioned*on said *location_mentioned*River*/location_mentioned*,) This improvement, is
+of vital importance, to the great interests of the *location_mentioned*country */location_mentioned*we inhabit;
+and its accomplishment would give a new character, and a powerful
+impulse to its growth.*/p*
+
+*p*If a grant can be obtained, by myself and company, to make the
+said improvements for reasonable tolls, the work shall be finished
+in two years, *location_mentioned*From the head of tide water to the Waco village
+*/location_mentioned*for boats, of twelve feet breadth; drawing thirty inches water.*/p*
+
+*p*With this reservation to the *location_mentioned*State*/location_mentioned*, that it may, at any time, after
+the completion of the work, possess itself of two thirds of the
+improvements, by paying to the *person_mentioned*company */person_mentioned*two thirds of the amount
+expended in making the same.*/p*
+
+*p*You know as well as myself, the importance of the undertaking;
+and infinitely better, how to obtain the *location_mentioned*grant*/location_mentioned*, on reasonable terms.
+I will therefore confide its details to your management.*/p*
+
+*p*Have the goodness to let me hear from you on this subject, before
+the *date_mentioned n="06-01-1832">1st of June*/date_mentioned*; as I shall start for the *location_mentioned*United States*/location_mentioned* at that time.
+Should the *location_mentioned*grant */location_mentioned*be obtained, I will bring with me the force to
+commence the work *date_mentioned n="Fall-1832">next fall*/date_mentioned**/p*
+
+*p*Connected with this business, *person_mentioned*six of us*/person_mentioned* have associated, to get
+a small steam boat, calculated to draw thirty inches of water, with
+an engine, of thirty five horse power, adapted to sawing timber
+on board the Boat.*/p*
+
+*p*Nothing new in this *location_mentioned*neighbourhood */location_mentioned*since you left us.*/p*
+
+*p**person_mentioned*B. T. Archer*/person_mentioned**/p*
+*p**person_mentioned*Colo S. F. Austin*/person_mentioned**/p*
+
+*p*[Addressed:]   *person_mentioned*Colonel Stephen F. Austin */person_mentioned*   Mail *location_mentioned*Leona  Vicario*/location_mentioned**/p*
+
+
+*/div1*
+</body>
+</text>
+</TEI.2>

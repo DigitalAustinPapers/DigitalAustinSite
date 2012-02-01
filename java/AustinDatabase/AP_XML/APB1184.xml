@@ -1,0 +1,60 @@
+﻿
+<TEI.2 id="APB1184">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>06-30-182</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1365</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>John Bradley</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F. Austin</document_recipient>
+<document_title>John Bradley to Stephen F. Austin, 06-30-182</document_title>
+<document_location>
+	<sent_from>Brazos, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>John Bradley to Austin. June 30, 1826. Announcing settlement on certain land.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1365</barker_citation>
+</barker_notes>
+<document_digital_creation>06-22-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1184T">
+
+<body>
+*div1 type="summary"*
+*p*John Bradley to Austin. June 30, 1826. Announcing settlement on certain land.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Brassos */location_mentioned**date_mentioned n="06-30-1826">June 30th 1826*/date_mentioned**/p*
+*p**person_mentioned*Col Stephen F Austin*/person_mentioned**/p*
+
+*p*Dear Sir On the *date_mentioned n="03-12-1826">12th of March*/date_mentioned* last I made settlement on the
+*location_mentioned*12. Labore on the East side of the Brassos*/location_mentioned*. I tooke the liberty of
+making this Selection. In consequence of an old promise from you,
+that, I was Intitled to a labour, and should have one when layed of
+*location_mentioned*near the mouth of the River */location_mentioned*If it meets your approbation. I want
+you to reserve the labore for me and let no other person have it. I
+shall be up to town and see you as soon as I can leave my *person_mentioned*family*/person_mentioned*. I
+remain with Respect*/p*                      
+
+*p**person_mentioned*John Bradley*/person_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

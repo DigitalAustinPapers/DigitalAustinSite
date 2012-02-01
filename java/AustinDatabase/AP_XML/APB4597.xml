@@ -1,0 +1,72 @@
+﻿
+<TEI.2 id="APB4597">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>09-11-1833</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 1005</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Stephen F Austin</document_author>
+<document_sender></document_sender>
+<document_recipient>Samuel M Williams</document_recipient>
+<document_title>Stephen F Austin to Samuel M Williams, 09-11-1833</document_title>
+<document_location>
+	<sent_from>Unknown</sent_from>
+	<sent_to>Austin, Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Austin to Samuel M. Williams, Mexico, September 13, 1833. Reforms. Cholera.   Land.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1005</barker_citation>
+</barker_notes>
+<document_digital_creation>11-30-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4597T">
+
+<body>
+*div1 type="summary"*
+*p*Austin to Samuel M. Williams, Mexico, September 13, 1833. Reforms. Cholera.   Land.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p*[From Williams Papers, Rosenberg Library, Galveston, Tex.*/p*]
+
+*p* *date_mentioned n="09-11-1833">Septr. 11 1833*/date_mentioned**/p*
+
+*p*I have nothing important to say, more than what I have said in
+my letters by last mail, except that my opinion is strengthened since
+then, that the *date_mentioned n="04-06-1830">6 of april */date_mentioned*law will be repealed in ten days after 
+*person_mentioned*congress */person_mentioned*meets. It is expected there will be a meeting *date_mentioned n="09-17-1833">next monday*/date_mentioned*
+(this is Wednesday). In fact I now have very little, or rather no
+doubts at all on this question. The mails and the reduction of duties
+will also be done, and the State matter will be sent to the *location_mentioned*other
+States*/location_mentioned* in a favourable shape to be speedily and favourably 
+dispatched—so say the most *person_mentioned*influencial men in congress*/person_mentioned* and in the Govt.
+The revolution is not over and God knows when it will be—I fear
+not very soon—tho something decissive must take place shortly for
+the two *person_mentioned*armies */person_mentioned*are *location_mentioned*in the field */location_mentioned*again and near each other. The
+cholera is nearly over—*person_mentioned*20.000 dead*/person_mentioned* in this *location_mentioned*city */location_mentioned*as is said I think
+about 18000—it was horrible. Don't forget that *date_mentioned n="10-xx-1833">October */date_mentioned*is the limit
+for locating *location_mentioned*grants*/location_mentioned*—remember *person_mentioned*Padilla */person_mentioned*and *person_mentioned*H. Austin*/person_mentioned* and *person_mentioned*Victor
+Blanco*/person_mentioned* and collect my dues, give the notes to *person_mentioned*Perry*/person_mentioned**/p*
+
+*p**person_mentioned*S. F. A*/person_mentioned*.*/p*
+
+*p*Al sor  *person_mentioned*Dr Samuel M. Williams administrador de correos en *location_mentioned*Austin*/location_mentioned**/person_mentioned**/p*
+
+
+*/div1*
+</body>
+</text>
+</TEI.2>

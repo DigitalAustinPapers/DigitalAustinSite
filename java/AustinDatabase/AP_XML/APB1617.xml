@@ -1,0 +1,73 @@
+﻿
+<TEI.2 id="APB1617">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>09-30-1828</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 121</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Mills M Battle</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F Austin</document_recipient>
+<document_title>Mills M Battle to Stephen F Austin, 09-30-1828</document_title>
+<document_location>
+	<sent_from>Unknown</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>M. M. Battle to Austin, September 30, 1828. A sight draft to be paid in livestock and cash.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 121</barker_citation>
+</barker_notes>
+<document_digital_creation>08-08-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1617T">
+
+<body>
+*div1 type="summary"*
+*p*M. M. Battle to Austin, September 30, 1828. A sight draft to be paid in livestock and cash.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**person_mentioned*Col S. F. Austin*/person_mentioned**/p*
+
+*p*please pay *person_mentioned*Mr. Florence Stack*/person_mentioned* or his order One hundred and five
+Dols in the Manner following, (Viz) Thirty Eight and a third 
+dollars in cash, and a Mule at Cash price, and Cows and Calves at
+Cash price, to complete the above Sum and Charge the same to my
+a/c it being the amt. due him for work on your *location_mentioned*building*/location_mentioned*.*/p*
+
+*p**location_mentioned*San Felipe*/location_mentioned* *date_mentioned n="09-30-1828">30th of Sep 1828*/date_mentioned**/p*
+
+*p**person_mentioned*M. M. Battle    */person_mentioned*[Rubric]*/p*
+
+*p*[Indorsements:] Accepted to be paid as within specified*/p*
+
+*p**date_mentioned n="10-01-1828">October 1, 1828*/date_mentioned*—*/p*
+
+*p**person_mentioned*Stephen F. Austin    */person_mentioned*[Rubric]*/p*
+
+*p*Recd on the fifteen dollars in Cash *person_mentioned*Wm Moore*/person_mentioned**/p*
+
+*p*Recd Sixty dollars in cattle*/p*
+
+*p*Recd sixteen dollars and fifty cents *person_mentioned*Waller White*/person_mentioned**/p*
+
+*p*Recd eight do *person_mentioned*Mr. Cooper*/person_mentioned*—*/p*
+
+
+*/div1*
+</body>
+</text>
+</TEI.2>

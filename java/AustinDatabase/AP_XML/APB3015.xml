@@ -1,0 +1,71 @@
+﻿
+<TEI.2 id="APB3015">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>10-13-1825</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1222</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Robert Lewis</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F. Austin</document_recipient>
+<document_title>Robert Lewis to Stephen F. Austin, 10-13-1825</document_title>
+<document_location>
+	<sent_from>Rio Grande, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Trade with Mexico. George Nixon against Austin.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1222</barker_citation>
+</barker_notes>
+<document_digital_creation>06-02-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Cameron L. Sinclair, Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB3015T">
+
+<body>
+*div1 type="summary"*
+*p*Trade with Mexico. George Nixon against Austin.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Rio Grande*/location_mentioned* *date_mentioned n="10-13-1825">13th October 1825*/date_mentioned*.*/p*
+*p**person_mentioned*Col. Austin*/person_mentioned**/p*
+
+*p*D Sir, I have been here a little better then a week, and confind
+to the *location_mentioned*House */location_mentioned*the greater part of the time, but am recovering very
+fast, I was taken sick a few days after leaving *location_mentioned*Saint Antonio*/location_mentioned*, and
+has suffered very much; I expect to leave here in a few days, for
+*location_mentioned*Sant fernando*/location_mentioned* and *location_mentioned*Sant Ross*/location_mentioned*, from what I can learn there are a
+grate many goods in *location_mentioned*this part of the County*/location_mentioned*—The *person_mentioned*Indians*/person_mentioned* are
+still doing Mischief in *location_mentioned*this part of the Country*/location_mentioned*, they stole forty
+Horses from here a few days before we arrived here.— I have heard
+it said by several persons here and in *location_mentioned*Sant Antonia*/location_mentioned*, that *person_mentioned*Nixon*/person_mentioned*
+is writing against you, to the Government, and to the principal
+*person_mentioned*individuals */person_mentioned*in this *location_mentioned*town*/location_mentioned*, and to a number of other *location_mentioned*Towns*/location_mentioned*, and
+prefering charges against you, to the Government, I understand
+he said he is going on to *location_mentioned*Mexico*/location_mentioned* himself, and sais he has the papers,
+to show what you are, I name this as a friend excuse my bad
+writing*/p*
+
+*p**person_mentioned*Robert Lewis*/person_mentioned*.*/p*
+
+*p*My nearvs are very weeke*/p*
+
+*p**person_mentioned*R L*/person_mentioned*.*/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

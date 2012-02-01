@@ -1,0 +1,90 @@
+﻿
+<TEI.2 id="APB1969">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>06-24-1830</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 430-431</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Thomas F McKinney</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F Austin</document_recipient>
+<document_title>Thomas F McKinney to Stephen F Austin, 06-24-1830</document_title>
+<document_location>
+	<sent_from>Nacogdoches, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Thomas McKinney to Austin, Nacogdoches, June 24, 1830. Asks for information of political affairs. Fears that arrest of Padilla will prove to be a great injury to his section.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 430-431</barker_citation>
+</barker_notes>
+<document_digital_creation>08-23-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1969T">
+
+<body>
+*div1 type="summary"*
+*p*Thomas McKinney to Austin, Nacogdoches, June 24, 1830. Asks for information of political affairs. Fears that arrest of Padilla will prove to be a great injury to his section.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Nacogdoches*/location_mentioned**date_mentioned n="06-24-1830"> June 24th 1830*/date_mentioned**/p*
+
+*p*Dr Sir*/p*
+
+*p*I wrote you by *date_mentioned n="06-23-1830">yesterday*/date_mentioned*s mail though in the greatest haste and
+having the present oportunity of immediate conveyance I again
+request that you give me whatever information you may be in 
+possession of as to the business of this *location_mentioned*section */location_mentioned*what will be the result
+as to buisness already commenced, I am fearful we have lost in
+*person_mentioned*Padilla */person_mentioned*more than we will easily regain or perhaps more that we
+will at all who is the *person_mentioned*comisioner */person_mentioned*destined for this place and what
+do you think of his appointment viz do you think he will suit us.*/p*
+
+*p*From what I have heard of your health I think you-would 
+perhaps not do amiss to come and spend the sickly season with us on
+the *location_mentioned*Ayish byou*/location_mentioned* we will move in two or three days to that *location_mentioned*section*/location_mentioned*
+and would be sincerly glad If you could come and remain with us<barker_pb n="431"/>
+until the season Changes I shall then take a tour through the
+*location_mentioned*country */location_mentioned*and go to the *location_mentioned*Brazos */location_mentioned*I am desirous of seeing *person_mentioned*Mr. Fisher
+*/person_mentioned*and getting some information necessary for commencing the 
+coasting trade in the *date_mentioned n="SPring - 1831">spring */date_mentioned*or sooner If practicable your letters
+directed to this place will be received without delay should I not be
+here.*/p*
+
+*p**person_mentioned*Thomas F. McKinney */person_mentioned*  [Rubric]*/p*
+
+*p*NB You mentioned somthing when I saw you last of the *person_mentioned*Chief
+of Department*/person_mentioned* having said to you somthing of the subject of 
+receiving the appointment of *person_mentioned*Xefe de Partido*/person_mentioned* of this part of the *location_mentioned*Country*/location_mentioned*
+I hope the plan has not been abandoned I am sure you could render
+invaluable services to this *location_mentioned*country */location_mentioned*You have some enimies from
+envious principles but the large majority would be gratified with
+an arrangement of that kind As soon as I arrived from the *location_mentioned*Brazos*/location_mentioned*
+I wrote a single letter to each of the *location_mentioned*districts */location_mentioned*recommending to them
+to petition to you to come on with the *person_mentioned*Commissioner */person_mentioned*and to 
+subscribe to you for doing so subscriptions could not be circulated
+before news arrived of the *person_mentioned*Comisioner */person_mentioned*leaving*location_mentioned* St Philepe*/location_mentioned* though
+considerably above a thousand Dollars were subscribed and three
+times the amt would have been subscribed but on hearing he had left
+*location_mentioned*St Philipe */location_mentioned*the matter was droped   respt*/p*
+
+*p**person_mentioned*McKinney   */person_mentioned*[Rubric]*/p*
+
+
+*/div1*
+</body>
+</text>
+</TEI.2>

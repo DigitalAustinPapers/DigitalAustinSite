@@ -1,0 +1,183 @@
+﻿
+<TEI.2 id="APB4343">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>04-28-1832</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 766-769</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>letter</document_type>
+<document_author>Stephen F Austin</document_author>
+<document_sender></document_sender>
+<document_recipient>Samuel M Williams</document_recipient>
+<document_title>Stephen F Austin to Samuel M Williams, 04-28-1832</document_title>
+<document_location>
+	<sent_from>Saltillo, Coahuila</sent_from>
+	<sent_to>Austin, Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Austin to Samuel M. Williams, Saltillo, April 28, 1832. New colonization law passed. Texans must be mere spectators in national politics. Nothing io fear If all are patient and quiet.</barker_summary>
+	<barker_footnotes>Decree No. 190, Gáname!, Laws of Texas, I   193</barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 766-769</barker_citation>
+</barker_notes>
+<document_digital_creation>09-22-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4343T">
+
+<body>
+<div1 type="summary">
+<p>Austin to Samuel M. Williams, Saltillo, April 28, 1832. New colonization law passed. Texans must be mere spectators in national politics. Nothing io fear If all are patient and quiet.</p>
+</div1>
+
+<div1 type="body">
+
+<p>[From Williams Papers, Rosenberg Library, Galveston, Tex.]</p>
+
+<p><location_mentioned>Saltillo </location_mentioned><date_mentioned n="04-28-1832">April 28 1832</date_mentioned></p>
+<p>Dr Sir,</p>
+
+<p>The <person_mentioned>legislature</person_mentioned>'s labors closed <date_mentioned n="04-28-1832">today</date_mentioned> (Saturday) for altho there
+will be one more sitting, on <date_mentioned n="04-30-1832">Monday</date_mentioned>, nothing more will be done on
+that day than to go through the formalities of closing the session etc.</p><barker_pb n="767"/>
+
+<p>The new colonization law has passed—it had progressed 
+considerably before my arrival and is as favorable as could be obtained
+or expected at present. A law has passed reducing the Alcabala one
+half in the <location_mentioned>departments of Bejar and Monclova</location_mentioned>—another stating that
+the <person_mentioned>military </person_mentioned>in service have not, and never have had, any right to
+vote at elections, except the p<person_mentioned>residial companies</person_mentioned> in the <location_mentioned>towns </location_mentioned>where
+they belong—another establishing the <location_mentioned>municipality of Brazoria</location_mentioned>.
+Three years more have been granted to <person_mentioned>Powers</person_mentioned>, <person_mentioned>Cameron</person_mentioned>, <person_mentioned>Beales</person_mentioned>,
+<person_mentioned>Viehlien </person_mentioned>and <person_mentioned>Burnet </person_mentioned>to settle their <location_mentioned>colonies</location_mentioned>.</p>
+
+<p>Upon the whole this legislature have done no harm except the
+retail law, and some good.</p>
+
+<p>The States of <location_mentioned>Jalisco </location_mentioned>and <location_mentioned>Zacatecas </location_mentioned>have formally <hi rend="italic">demanded </hi>the
+dismissal of the <person_mentioned>ministers</person_mentioned>. <location_mentioned>Tamaulipas </location_mentioned>is all at sixes and sevens—
+the <person_mentioned>Legislature </person_mentioned>have annulled the decree of the junta Legislativa
+of <date_mentioned n="03-19-1832">19 March last</date_mentioned>, and asked pardon of the general Government, etc.
+The <person_mentioned>Governor of that State, Vital Fernandez,</person_mentioned> refused to sanction
+this last act of the legislature and mustering all the <person_mentioned>troops </person_mentioned>and
+<person_mentioned>militia </person_mentioned>he could marched towards <location_mentioned>Tampico </location_mentioned>in the <date_mentioned n="04-20-1832">night of the 20
+April</date_mentioned>. <person_mentioned>General Teran</person_mentioned> it is said was <location_mentioned>within six leagues of him on
+the pursuit,</location_mentioned> but I doubt this, for I have a letter from <person_mentioned>Teran </person_mentioned><date_mentioned n="04-14-1832">14 April
+</date_mentioned>from <location_mentioned>Matamoros</location_mentioned>, he was then starting for <location_mentioned>Victoria</location_mentioned>. <person_mentioned>Santana </person_mentioned>is
+already besieged in <location_mentioned>Vera Cruz.</location_mentioned></p>
+
+<p>It is impossible to form any definite opinion as to how this matter
+will end, but I think the most probable conjecture is that the <person_mentioned>ministers</person_mentioned>
+will retire soon, and that a general amisty will follow and a total
+cessacion of all hostility. I must confess that I doubt very much
+whether the <location_mentioned>nation </location_mentioned>will gain anything by a change of <person_mentioned>ministers</person_mentioned>—our
+<hi rend="italic">Congresito</hi>, very wisely I think, have adopted the turtle sistem,
+<hi rend="italic">callado</hi>.</p>
+
+<p>So much for general matters—now for <hi rend="italic"><location_mentioned>home </location_mentioned></hi>affairs. The removal
+of <person_mentioned>Fisher</person_mentioned>, and the establishment of a <location_mentioned>custom house office at Brazoria
+</location_mentioned>I presume has satisfied everybody, and of course you have peace and
+harmony in the <location_mentioned>colony</location_mentioned>. The prospect of getting the law of <date_mentioned n="04-06-1830">6 April
+</date_mentioned>modified is much better than I expected. If the whole of <location_mentioned>Texas </location_mentioned>and
+that <location_mentioned>colony </location_mentioned>in particular are quiet, prudent and obedient, and can
+keep all the <person_mentioned>local officers</person_mentioned> and especially the <person_mentioned>Military </person_mentioned>in a good
+humor, and well satisfied, I will almost insure a repeal of the 11
+article of the law of <date_mentioned n="04-06-1830">6 April,</date_mentioned> but there must be no more such
+violent excitements as that at <location_mentioned>Brazoria </location_mentioned>in <date_mentioned n="12-xx-1831">December</date_mentioned>—no more such
+illegal and even <hi rend="italic">piratical </hi>conduct as the <person_mentioned>Boston Packet</person_mentioned>,—No more
+speeches. How silly and imprudent the best of us will talk and act
+sometimes when under excitement. Those who were abusing me at
+<location_mentioned>Brazoria </location_mentioned>and in <location_mentioned>San Felipe</location_mentioned> because I insisted that <person_mentioned>Teran </person_mentioned>and <person_mentioned>Brad-<barker_pb n="768"/>
+burn</person_mentioned> were not the <person_mentioned>enemies </person_mentioned>of the <location_mentioned>colony </location_mentioned>[as] some charged them to be,
+and who even ridiculed me for believing that <person_mentioned>Fisher </person_mentioned>would be 
+removed and an <person_mentioned>officer of the <location_mentioned>custom house</location_mentioned></person_mentioned> sent to <location_mentioned>Brazoria</location_mentioned>, ought now
+to be convinced that I knew more of the subject than they did. I can
+assure the whole <location_mentioned>colony </location_mentioned>and all <location_mentioned>Texas </location_mentioned>that nothing but the outragious
+imprudence of the people themselves will bring trouble on that 
+<location_mentioned>country</location_mentioned>. If the whole of the <person_mentioned>Settlers </person_mentioned>will adopt my motto <hi rend="italic">Fidelity to
+<location_mentioned>Mexico</location_mentioned></hi>—and act and talk in conformity they will flourish beyond
+their own expectations, and every favor will be granted to them, they
+could expect in reason. The <person_mentioned>legislature </person_mentioned>of the <location_mentioned>State </location_mentioned>are favorably
+disposed towards colonization, as the new law will shew. The 
+<person_mentioned>Governor </person_mentioned>is also friendly, and if a <hi rend="italic">dead calm</hi> has been, and can be 
+preserved, all will end well—very well. I rely on the old standards, the
+<person_mentioned>first settlers</person_mentioned>. They have known me for years. They now know that
+their destiny was almost entirely in my hands—nay I might say 
+completely in my hands for several years, for my legal authority over
+them was very nearly absolute. They can now look back and see
+that I have taken them safely through all difficulties, and that so
+long as their affairs were exclusively under my own control, they
+progressed in peace and harmony with the <person_mentioned>Govt</person_mentioned>. These things ought
+to give them full confidence in me, and I say to them, as I have often
+said, that they have more to fear from the imprudence of <person_mentioned>drunkards</person_mentioned>
+and talking <person_mentioned>demagogues </person_mentioned>amongst themselves, than from the <person_mentioned>Govt</person_mentioned>.
+I recommend my motto to them, and those who have any influence
+ought to exert it to have that motto used as a popular toast in the
+place of some others that I have been told were drank.</p>
+
+<p>It would be a good thing for the <person_mentioned>people of <location_mentioned>Brazoria</location_mentioned></person_mentioned> to make a
+present to the <location_mentioned>new custom house office</location_mentioned> of the<hi rend="italic"> two guns.</hi> If they will
+do so and the expense is any obstacle, I will pay for them myself.
+Shew this to <person_mentioned>Cap. John Austin</person_mentioned> and any others you please and tell
+<person_mentioned>John </person_mentioned>that the <person_mentioned>assesor </person_mentioned>and <person_mentioned>judges </person_mentioned>say that if he has had a <location_mentioned>court at
+Brazoria </location_mentioned>it is <hi rend="italic">illegal </hi>and his acts void and himself liable to 
+punishment. Many <location_mentioned>papers </location_mentioned>have been, or will be sent into <location_mentioned>Texas </location_mentioned>from
+<location_mentioned>Tampico </location_mentioned>and <location_mentioned>Vera Cruz</location_mentioned> and <hi rend="italic">perhaps </hi>some <person_mentioned>agents of that party</person_mentioned>,
+if so, treat them all <hi rend="italic">politely</hi>. That is read the <location_mentioned>papers</location_mentioned>—and feed
+and lodge the <person_mentioned>agents </person_mentioned>while they stay—but nothing more. No matter
+which party gains, it would ruin the </person_mentioned>people of the <location_mentioned>colony </location_mentioned>to take
+any part in any way. They must be mere spectators, and silent
+ones, hear and see everything they can, but without taking any part
+or expressing any opinion. Try and get them to adopt this idea all
+over the <location_mentioned>colony </location_mentioned>and especially at <location_mentioned>Brazoria</location_mentioned>.</p>
+
+<p>I think I shall go to <location_mentioned>Monterry</location_mentioned>, and perhaps to <location_mentioned>Victoria</location_mentioned>. <person_mentioned>Genl
+Mason</person_mentioned> wishes to see <person_mentioned>Genl Teran</person_mentioned>, and so do I. I do not see any
+necessity for my immediate return to the <location_mentioned>colony</location_mentioned>, and am as yet<barker_pb n="769"/>
+undetermined whether I shall return untill after the <date_mentioned n="09-xx-1832">September</date_mentioned>
+session—tho I do not know how you are getting on for I have not
+heard a word from <location_mentioned>San Felipe</location_mentioned> since the <date_mentioned n="03-08-1832">8th day of March</date_mentioned>, which
+was the day I left there, the last mail brought nothing.</p>
+
+<p>Tell <person_mentioned>Sister Emily</person_mentioned> that <person_mentioned>Austin </person_mentioned>is well—has a <person_mentioned>Mexicanita 
+Sweetheart</person_mentioned> and begins to hablar.</p>
+
+<p>The session of <date_mentioned n="04-28-1832">today </date_mentioned>continued untill 4 P. M. so I have not time
+to write to the <person_mentioned>Ayuntamto</person_mentioned>, and therefor request you to read this
+letter to the <person_mentioned>members</person_mentioned>—and to present my respects to each of them
+individually—also to <person_mentioned>Sarah </person_mentioned>and all <person_mentioned>friends</person_mentioned>—y al <person_mentioned>Padre</person_mentioned>.</p>
+
+<p><person_mentioned>S. F. Austin</person_mentioned></p>
+
+<p>Reservado: Tell <person_mentioned>John Austin</person_mentioned> not to dispose of any <location_mentioned>lots in the new
+part of Brazoria</location_mentioned> untill my return, not one to any person nor on any
+account. I particularly request and charge you to attend to this—I
+mean the lots that were bid in by him for me, which includes the
+most that were sold. If he is not in<location_mentioned> San Felipe</location_mentioned> write to him 
+immediately.</p>
+
+<p>You need not send any letters to me untill farther orders, for I do
+not know where I shall be during the summer.</p>
+
+<p><person_mentioned>Genl Mason</person_mentioned> wishes you to keep his letters and papers, if any should
+come for him untill he arrives en esa</p>
+
+<p><person_mentioned>S. F. Austin</person_mentioned></p>
+
+<p>I wrote you from <location_mentioned>Goliad</location_mentioned>—<location_mentioned>Bexar</location_mentioned>—and twice from here by <person_mentioned>Don
+Luis del Valle,</person_mentioned> and <person_mentioned>Butler</person_mentioned>.</p>
+
+<p>[Addressed:] <person_mentioned>Don Samuel M. Williams </person_mentioned>  <location_mentioned>Austin</location_mentioned></p>
+
+</div1>
+</body>
+</text>
+</TEI.2>

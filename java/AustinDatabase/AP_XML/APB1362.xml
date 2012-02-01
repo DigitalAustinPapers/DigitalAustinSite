@@ -1,0 +1,61 @@
+﻿
+<TEI.2 id="APB1362">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>04-12-1827</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1629</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>W. Sutherland</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F. Austi(</document_recipient>
+<document_title>W. Sutherland to Stephen F. Austin, 04-12-1827</document_title>
+<document_location>
+	<sent_from>Rio Bravo, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Walter Sutherland to Austin, April 12, 1827.    Land.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1629</barker_citation>
+</barker_notes>
+<document_digital_creation>07-21-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1362T">
+
+<body>
+*div1 type="summary"*
+*p*Walter Sutherland to Austin, April 12, 1827.    Land.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*R Bravo*/location_mentioned**date_mentioned n="04-12-1827"> April the 12 1827*/date_mentioned**/p*
+*p**person_mentioned*Col. Austin*/person_mentioned**/p*
+
+*p*Sir I send a few lines to you to enquire how affairs are with
+*person_mentioned*Singleton */person_mentioned*respecting his *location_mentioned*land */location_mentioned*whether he holds *location_mentioned*all of the land between
+*person_mentioned*Fisher*/person_mentioned*s League and *person_mentioned*Car*/person_mentioned*s League*/location_mentioned* or not And whether he is competent to transfer it away as he has bound himself and wishes to 
+receive the pay for it I should wish to know whether I may depend on
+any *location_mentioned*part of that tract*/location_mentioned* and if not that I may know it I have paid him
+for *location_mentioned*one quarter of a League adjoining *person_mentioned*Fisher*/person_mentioned*s League*/location_mentioned* for which the
+bond more clearly shows I send you the bond to show that he may
+not deed it away to any other person. Please to give me some 
+information by *person_mentioned*Mr Arnold*/person_mentioned* that I may know what to do*/p*
+
+*p**person_mentioned*Walter Sutherland*/person_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

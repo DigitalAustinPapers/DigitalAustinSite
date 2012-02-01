@@ -1,0 +1,60 @@
+﻿
+<TEI.2 id="APB1331">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>02-16-1827</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1602</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>James Hope</document_author>
+<document_sender></document_sender>
+<document_recipient>J. E. B. Austin</document_recipient>
+<document_title>James Hope to J. E. B. Austin, 02-16-1827</document_title>
+<document_location>
+	<sent_from>unknown</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>James Hope to J. E. B. Austin, February 16, 1827. Asking for garden seed from Mexico.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1602</barker_citation>
+</barker_notes>
+<document_digital_creation>07-17-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1331T">
+
+<body>
+*div1 type="summary"*
+*p*James Hope to J. E. B. Austin, February 16, 1827. Asking for garden seed from Mexico.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*date_mentioned n="02-16-1827">Feby 16,1827*/date_mentioned*
+
+*p*Dr SIR*/p*
+
+*p*I understand that you have brought a few Garden and other seeds
+from the *location_mentioned*Interior*/location_mentioned*—I should be happy if you could spare me a few
+of them, and should I be fortunate with them I will replace them
+again, or any other seeds that I have you can get with pleasure—
+please send them down by *person_mentioned*Capt Chriesman*/person_mentioned* when he comes down.*/p*
+
+*p**person_mentioned*James Hope*/person_mentioned**/p*
+
+*p**person_mentioned*Mr-Brown Austin*/person_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

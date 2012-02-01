@@ -1,0 +1,96 @@
+﻿
+<TEI.2 id="APB1181">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>06-28-1826</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1362-1363</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Jose Antonio Saucedo</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F. Austin</document_recipient>
+<document_title>Jose Antonio Saucedo to Stephen F. Austin, 06-28-1826</document_title>
+<document_location>
+	<sent_from>Bexar, Texas</sent_from>
+	<sent_to>San Felipe de Austin, Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Saucedo to Austin, June 28, 1826. Quoting letter from governor concerning tobacco monopoly, and forbidding introduction of tobacco from Austin's colony to the interior.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1362-1363</barker_citation>
+</barker_notes>
+<document_digital_creation>06-22-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1182T">
+
+<body>
+*div1 type="summary"*
+*p*Saucedo to Austin, June 28, 1826. Quoting letter from governor concerning tobacco monopoly, and forbidding introduction of tobacco from Austin's
+colony to the interior.*/p*
+*/div1*
+
+*div1 type="body"*
+
+
+*p**person_mentioned*His Excellency the Govor of this State*/person_mentioned* under date of *date_mentioned n="05-02-1826">2d May last
+*/date_mentioned*writes to me as follow :*/p*
+
+*p*"Under this date I have given an order to the *person_mentioned*administrator of
+the manufactory of Tobacco*/person_mentioned* in this *location_mentioned*Capital */location_mentioned*to remit for your 
+disposition twenty cases of paper Segars for the supply of that De-<barker_pb n="1363"/>
+partment, with directions to the administration of *location_mentioned*Monclova */location_mentioned*to 
+forward to the place of their destiny the said segars facilitating the
+payment of the freight and causing them to be conducted with the
+necessary escort. For the sale of these segars I expect you to
+propose an individual of your confidence who with the provisional
+charge of *person_mentioned*Administrator of Tobaccos*/person_mentioned*, will discharge its functions
+in the necessary manner, to whom will be passed the percentage or
+salary in conformity with the existing plan subject in this particular
+to the resolution of the *person_mentioned*Honorable Congress*/person_mentioned*.*/p*
+
+*p*Notifying you at the same time that, as soon as the said Tobacco
+arrives in that place you will cause the publication of Decree N° 15
+of the *date_mentioned n="02-19-1825">19th february last year*/date_mentioned* circulated the *date_mentioned n="03-20-1825">20th March following*/date_mentioned* with
+the provisions of the Govt and other existing laws and regulations
+which acompany it—Causing all those dispositions to have their
+most exact and punctual compliance, which I communicate to you
+for your information and corresponding effects—*/p*"
+
+*p*The aforementioned twenty cases of segars having been received
+in this place, and the Tobacco put into the *person_mentioned*authorized monopoly*/person_mentioned*, I
+transcribe it for your information, with the understanding that you
+under the strictest responsibility will not permit under any motive
+or pretext the transportation of any Tobacco from that place or
+in your jurisdiction for which purpose you will cause it to be 
+generally made known among the inhabitants in order to avoid any 
+prejudice that might arise to the *person_mentioned*Treasury */person_mentioned*under contraband proceedings*/p*
+
+*p**location_mentioned*Bexar */location_mentioned**date_mentioned n="06-28-1826">28 June 1826*/date_mentioned**/p*
+
+*p*Signed           *person_mentioned*Jose Antonio Saucedo*/person_mentioned**/p*
+
+*p*To *person_mentioned*Lieut Col. Stephen F Austin*/person_mentioned**/p*
+
+*p*In compliance with the above order of the *person_mentioned*Chief of Department
+the transportation of Tobacco*/person_mentioned* to any part of the *location_mentioned*interior */location_mentioned*is 
+prohibited and all persons are notified accordingly—
+*/p*
+*p**location_mentioned*Sn Felipe de Austin*/location_mentioned* *date_mentioned n="07-21-1826">21st July 1826*/date_mentioned**/p*
+
+*p**person_mentioned*Stephen F Austin*/person_mentioned**/p*
+
+
+*/div1*
+</body>
+</text>
+</TEI.2>

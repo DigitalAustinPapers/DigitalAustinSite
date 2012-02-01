@@ -1,0 +1,80 @@
+﻿
+<TEI.2 id="APB3007">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>09-29-1825</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1211-1212</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>John P. Coles</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F. Austin</document_recipient>
+<document_title>John P. Coles to Stephen F. Austin, 09-29-1825</document_title>
+<document_location>
+	<sent_from>Unknown</sent_from>
+	<sent_to>San Felipe de Austin, Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Concerning a disputed land title.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1211-1212</barker_citation>
+</barker_notes>
+<document_digital_creation>05-21-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Cameron L. Sinclair, Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB3007T">
+
+<body>
+*div1 type="summary"*
+*p*Concerning a disputed land title.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**date_mentioned n="09-29-1825">29th September 1825*/date_mentioned**/p*
+*p*Dear Sir*/p*
+
+*p*There is likely to be some difficulty between *person_mentioned*William Milican*/person_mentioned* and
+*person_mentioned*Whitesides boys*/person_mentioned* I will Explain the circumstances to you and wish
+your opinion   *person_mentioned*Henry and Boland Whitesides*/person_mentioned* and *person_mentioned*Jack C. Davis*/person_mentioned*<barker_pb n="1212"/>applied to me Jointly for Land I agreed to let them have the League
+of Land to be Equally divided but when *person_mentioned*Sims*/person_mentioned* made his Return he
+left out the name of *person_mentioned*Davis*/person_mentioned* and the Deed came out in the name of
+*person_mentioned*Henry and Boland Whiteside*/person_mentioned* of which I Informed them when I
+delivered to them the deed they agreed it should make no difference
+that they wood secure to *person_mentioned*Davis*/person_mentioned**location_mentioned* one Third of said League of Land*/location_mentioned* as
+Soon as It was convenient *person_mentioned*Mr. Milican*/person_mentioned* has now bot one Third
+of the Land from *person_mentioned*Henry Whiteside*/person_mentioned* and has taken his obligation to
+make him a Deed to It he has also bot *person_mentioned*Davis*/person_mentioned* land which constitutes
+another Third they made a Division of the Land as appears from
+the manner in which they have disposed of It. this is the only
+Evidence of, a Division *person_mentioned*Boland Whiteside*/person_mentioned* now contends for One
+Half of the League of Land and says that as no Legal Division has
+been made he is not bound to be governed by the sales that were
+made he further contends that *person_mentioned*Davis*/person_mentioned* has no Right to the Land
+that he has got the Deed and will hold the Land Now the question
+is wheather *person_mentioned*Davis*/person_mentioned* Sale of the Land wood Intitle *person_mentioned*Mr. Milican*/person_mentioned* to It
+or not or wheather *person_mentioned*Davis*/person_mentioned* could hold the Land himself Independant
+of *person_mentioned*Boland*/person_mentioned*s opposition and wheather the Division made among them
+previous to *person_mentioned*Mr. Milican*/person_mentioned*s purchasing this Land wood be considered
+obligatory or Legal *person_mentioned*Mr Milican*/person_mentioned* on faith of the Contract made
+with *person_mentioned*Davis*/person_mentioned* and *person_mentioned*Henry Whiteside*/person_mentioned* has moved on to the Land with
+his *person_mentioned*family */person_mentioned*your opinion on the subject might Enable me to have
+the matter arranged without any further difficulty or otherwise the
+Business will come before you for Decission*/p*
+
+*p**person_mentioned*Jno P Coles*/person_mentioned*    [Rubric],*/p*
+*p*[Addressed:] *person_mentioned*Col. S. F Austin*/person_mentioned* *location_mentioned*San felipe de Austin*/location_mentioned*   *person_mentioned*Mr. Patch*/person_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

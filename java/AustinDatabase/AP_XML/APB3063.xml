@@ -1,0 +1,62 @@
+﻿
+<TEI.2 id="APB3063">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>01-17-1826</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1258</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>John Castleman</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F. Austin</document_recipient>
+<document_title>John Castleman to Stephen F. Austin, 01-17-1826</document_title>
+<document_location>
+	<sent_from>Colorado River, Texas</sent_from>
+	<sent_to>San Felipe de Austin, Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Depredation of Wacoes.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1258</barker_citation>
+</barker_notes>
+<document_digital_creation>07-02-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Cameron L. Sinclair, Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB3063T">
+
+<body>
+*div1 type="summary"*
+*p*Depredation of Wacoes.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Colorado*/location_mentioned* *date_mentioned n="01-17-1826">January 17th 1826*/date_mentioned**/p*
+*p*Dear Sir I wish to inform you that in my absence the *person_mentioned*Waco
+Indians*/person_mentioned* Came to my *location_mentioned*House */location_mentioned*and plundered and Carried off the following articals two sheets two Quilts and Wagon Cover and nearly
+all our wearing Clothing and Table Furniture, it appears from the
+Conduct of those *person_mentioned*Indians*/person_mentioned* that we Cannot Settle the *location_mentioned*frontiers of
+this Colony*/location_mentioned* unless we Can have an understanding with them, for
+if they are allowed to Rob and plunder it will be impossible to
+*location_mentioned*settle the frontiers of this Country*/location_mentioned* for I am determined to kill the
+first one that undertakes to Rob me again, which will Commence a
+war. I have always wished peace if we Could have it on honourable
+terms. I do think peace Can be made with those *person_mentioned*Indians*/person_mentioned*, but it is
+not my place to dictate for you—*/p*
+
+*p**person_mentioned*John Castleman*/person_mentioned**/p*
+*p*[Addressed:] *person_mentioned*Colo. Stephen F- Austin*/person_mentioned*   *location_mentioned*Felipe de Austin*/location_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

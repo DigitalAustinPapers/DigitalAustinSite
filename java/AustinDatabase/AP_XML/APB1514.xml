@@ -1,0 +1,82 @@
+﻿
+<TEI.2 id="APB1514">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>03-21-1828</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 27</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Henry S. Brown</document_author>
+<document_sender>Capt Harris</document_sender>
+<document_recipient>Stephen F Austin</document_recipient>
+<document_title>Henry S. Brown to Stephen F Austin, 03-21-1828</document_title>
+<document_location>
+	<sent_from>New Orleans, Louisiana</sent_from>
+	<sent_to>Austin's Colony, Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Henry S. Brown to Austin, New Orleans, March 21, 1828. There would be great emigration to Texas if status of slavery assured.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 27</barker_citation>
+</barker_notes>
+<document_digital_creation>07-31-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1514T">
+
+<body>
+*div1 type="summary"*
+*p*Henry S. Brown to Austin, New Orleans, March 21, 1828. There would be great emigration to Texas if status of slavery assured.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*New Orleanes*/location_mentioned* *date_mentioned n="03-21-1828">March the 21 1828*/date_mentioned**/p*
+*p**person_mentioned*Col Auston*/person_mentioned**/p*
+
+*p*Dear sir I will inform you that I am still alived and have not
+for got the *location_mentioned*Texas */location_mentioned*I expect that I shall start with my *person_mentioned*family */person_mentioned*for
+that *location_mentioned*Contry */location_mentioned*this fall there is a good deal of talk about that *location_mentioned*Country*/location_mentioned*
+in the *location_mentioned*Missouri */location_mentioned*and there is no doubt but the disturbance that took
+piase in *location_mentioned*edwards Colloney*/location_mentioned* Caused a good many that was strongly
+in the way to moove to decline tho I think when they find every
+thing is going on well there a good many will moove from our
+*location_mentioned*Country */location_mentioned*there if it was so to happin that that *location_mentioned*Country */location_mentioned*was [to]
+fall in the hands of our *person_mentioned*goverment */person_mentioned*how son would it be one of the
+gratest, or in other words if slavery was admitted there or the
+people Cold be satisfied that they would be safe in taking there
+*person_mentioned*slaves */person_mentioned*there the emmigration would be grate I wold thank you to
+wright me on that subject and every other one that wold give 
+information about the tines [times] of that *location_mentioned*Country */location_mentioned*one letter from
+you would do more good than 20 from some other men, I have
+bin informed after a certain time there cold be no more [*person_mentioned*slaves*/person_mentioned*?]
+taking there perhaps after the first of *date_mentioned n="01-01-1829">January */date_mentioned*next tho that will
+give time for people to move this *date_mentioned n="Fall - 1828">fall */date_mentioned*it is uncertain what part of
+the *location_mentioned*Contry */location_mentioned*I shall settle in tho I believe that I shall try near the
+*location_mentioned*cost*/location_mentioned*—*/p*
+
+*p**person_mentioned*Henry S Brown*/person_mentioned**/p*
+
+*p**person_mentioned*Col S F Auston*/person_mentioned**/p*
+
+*p*N b give my best respects to *person_mentioned*Mr S Williams*/person_mentioned* tell him I would
+thank him kindley for a letter) my plase of residence *location_mentioned*Missouri
+Pike*/location_mentioned* *person_mentioned*Col Waverley*/person_mentioned**/p*
+*p*[Addressed:] *person_mentioned*Col Stephen F Auston*/person_mentioned*
+*location_mentioned*Austons Colloney Texas  */location_mentioned*           by *person_mentioned*Capt Harris*/person_mentioned**/p*
+
+
+
+*/div1*
+</body>
+</text>
+</TEI.2>

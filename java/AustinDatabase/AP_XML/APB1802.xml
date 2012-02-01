@@ -1,0 +1,93 @@
+﻿
+<TEI.2 id="APB1802">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>11-30-1829</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 294-295</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>James W Breedlove</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F Austin</document_recipient>
+<document_title>James W Breedlove to Stephen F Austin, 11-30-1829</document_title>
+<document_location>
+	<sent_from>New Orleans, Louisiana</sent_from>
+	<sent_to>Austin, Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>James W. Breediove to Austin, New Orleans, November 30, 1829. Thanking Austin for information about Texas. Rumors that United States is negotiating for Texas.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 294-295</barker_citation>
+</barker_notes>
+<document_digital_creation>08-16-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1802T">
+
+<body>
+*div1 type="summary"*
+*p*James W. Breediove to Austin, New Orleans, November 30, 1829. Thanking Austin for information about Texas. Rumors that United States is negotiating for Texas.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*New Orleans*/location_mentioned* *date_mentioned n="11-30-1829">Novr 30. 1829*/date_mentioned**/p*
+*p**person_mentioned*Col Stephen F Austin*/person_mentioned**/p*
+
+*p*Dear Sir Your esteemed favor of the *date_mentioned n="10-12-1829">12 Oct */date_mentioned*came to hand by
+*person_mentioned*Captain Pettet*/person_mentioned* and for the valuable information therein contained
+be pleased to accept my warmest thanks, I have shown your letter to
+several of my *person_mentioned*friends */person_mentioned*who are interested in *location_mentioned*Texas */location_mentioned*and they have 
+advised me verry Strongly to have it published, this I have declined
+doing, as you had [not] expressed such a wish. Your letter has
+shed light on the subject of the Colonization Laws and regulations.<barker_pb n="295"/>
+which many *person_mentioned*persons */person_mentioned*stood in need of and to such *person_mentioned*persons */person_mentioned*I have
+taken pleasure in reading it. I shall feel under much obligation to
+you when I receive the promised translation of all the Laws on
+that subject as it will afford me the means of giving such 
+information as is almost daily asked of me, as the *person_mentioned*representative of the
+Mexican Government*/person_mentioned* in this *location_mentioned*City*/location_mentioned*. The impression is rapidly
+spreading that the *location_mentioned*United States*/location_mentioned* are now negotiating for the 
+purchase of *location_mentioned*Texas */location_mentioned*it may be without foundation, but it has already
+had the effect to cause many to look in that direction for a future
+*location_mentioned*residence*/location_mentioned*—*/p*
+
+*p*for your friendly feelings in recommending the *person_mentioned*Planters of your
+-*location_mentioned*Country */location_mentioned**/person_mentioned*to me as an *person_mentioned*agent */person_mentioned*to Transact their business accept my
+best wishes, and you may rely on my best exertions for the 
+protection of their Interest whenever intrusted to my care;*/p*
+
+*p*Should it ever fall in my way to render Service to the *location_mentioned*Settlement
+of Austin*/location_mentioned*, rest assured it Shall be done*/p*
+
+*p**person_mentioned*J W Breedlove*/person_mentioned**/p*
+
+*p*P. S. A *person_mentioned*friend */person_mentioned*of mine *person_mentioned*Genl Smith*/person_mentioned* of *location_mentioned*Missouri */location_mentioned*is now here, and
+has a great wish to make a contract with your *location_mentioned*State */location_mentioned*for the 
+Settlement of two or three hundred *person_mentioned*families*/person_mentioned*, and wishes me to Join him,
+he is a *person_mentioned*Gentleman */person_mentioned*of great Integrity and inteligence, and is in 
+possession of Considerable means, he would visit *location_mentioned*Texas*/location_mentioned*, but his 
+business Calls him to *location_mentioned*Mo*/location_mentioned*. he requests me to ask *location_mentioned*if the land originally
+granted to *person_mentioned*Edwards */person_mentioned**/location_mentioned*is vacant and also what Kind of a *location_mentioned*Grant */location_mentioned*Could
+be obtained in other *location_mentioned*Sections of your State*/location_mentioned*, and when your 
+*person_mentioned*Legislature */person_mentioned*meets, and what are the requisites to be Done to make a 
+Contract,   your answer to those enquiries will oblige*/p*
+
+*p**person_mentioned*J W Breedlove*/person_mentioned**/p*
+
+*p*[Addressed.] *person_mentioned*Col. Stephen F Austin*/person_mentioned* *location_mentioned*Austin Texas*/location_mentioned* Schr.
+Santa Ana*/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

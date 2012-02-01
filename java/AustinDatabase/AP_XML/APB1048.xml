@@ -1,0 +1,72 @@
+﻿
+<TEI.2 id="APB1048">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>02-21-1825</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1050-1051</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Kinchen Holliman</document_author>
+<document_sender>Mr. Lawrence Ramey</document_sender>
+<document_recipient>Stephen F. Austin</document_recipient>
+<document_title>Kinchen Holliman to Stephen F. Austin, 02-21-1825</document_title>
+<document_location>
+	<sent_from>Woodville, Wilkerson County, Mississippi</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Kinchen Holliman to Austin, Woodville, Miss., February 21, 1825. Hard
+times delay his moving to Texas.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1050-1051</barker_citation>
+</barker_notes>
+<document_digital_creation>05-30-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1048T">
+
+<body>
+*div1 type="summary"*
+*p*Kinchen Holliman to Austin, Woodville, Miss., February 21, 1825. Hard
+times delay his moving to Texas.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Woodville state of Mississippi Wilkerson  County*/location_mentioned* *date_mentioned n="02-21-1825">Feby 21- 1825*/date_mentioned**/p*
+*p*Dear Sir,*/p*                                                     
+
+*p*In consequence of the failure of our corn and the want of money
+it has put it out of my power to go to your *location_mentioned*country*/location_mentioned* as soon as I<barker_pb n="1051"/>
+promised you, and cannot possibly go now until the Month of
+*date_mentioned n="11-xx-1825">November next*/date_mentioned*—I am sorry to tell you that it is out of my power
+to send you any money at this time, but will endeavor to do so by
+the time my *person_mentioned*Brother Michael*/person_mentioned* and *person_mentioned*Mr. H. Connell*/person_mentioned* goes over which
+will be in *date_mentioned n="06-xx-1825">*location_mentioned*June next*/location_mentioned**/date_mentioned*, they are determined to go and have set the *date_mentioned n="06-01-1825">first
+of June*/date_mentioned* to start, The bearer *person_mentioned*Mr. Lawrence Ramey*/person_mentioned* my friend will give
+you all the necessary information respecting my intentions etc.*/p*
+
+*p*Be so good as to continue to hold the land you promised me for
+*person_mentioned*Brother Michael*/person_mentioned* and *person_mentioned*Mr. Hugh Connell*/person_mentioned* until they arrive *person_mentioned*Mr.
+Ramey*/person_mentioned* will leave here in two or three days for the purpose of 
+procuring his and for other purposes and will go with *person_mentioned*Mr. Huff*/person_mentioned* by
+the way of *location_mentioned*New Orleans*/location_mentioned**/p*
+
+*p**person_mentioned*K Holliman*/person_mentioned**/p*
+
+*p**person_mentioned*Stephen F Oustin Esq*/person_mentioned*.*/p*
+
+
+*/div1*
+</body>
+</text>
+</TEI.2>

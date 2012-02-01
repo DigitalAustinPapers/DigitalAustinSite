@@ -1,0 +1,72 @@
+﻿
+<TEI.2 id="APB4402">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>08-13-1832</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 835-836</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Stephen F Austin</document_author>
+<document_sender></document_sender>
+<document_recipient>Jessee Grimes</document_recipient>
+<document_title>Stephen F Austin to Jessee Grimes, 08-13-1832</document_title>
+<document_location>
+	<sent_from>San Felipe de Austin, Texas</sent_from>
+	<sent_to>Austin, Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Austin to Jesse Grimes, August 18, 1832. Prepare militia for march against Piedras at Nacogdoches.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 835-836</barker_citation>
+</barker_notes>
+<document_digital_creation>10-01-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4402T">
+
+<body>
+*div1 type="summary"*
+*p*Austin to Jesse Grimes, August 18, 1832. Prepare militia for march against Piedras at Nacogdoches.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p*[The] *person_mentioned*Alcalde of the *location_mentioned*jurisdiction of Aus[tin]*/location_mentioned**/person_mentioned*by proclamation
+issued on the *date_mentioned n="08-08-1832">8th instance*/date_mentioned* in my absence from this place has ordered
+the *person_mentioned*Mititia */person_mentioned*to rendevous [at] *location_mentioned**person_mentioned*Bowman*/person_mentioned*s*/location_mentioned* on the *date_mentioned n="08-18-1832">18th*/date_mentioned*—*/p*
+
+*p*The future movements of a *person_mentioned*warlike character*/person_mentioned* will be governed by
+the answer which *person_mentioned*Cap Johson*/person_mentioned* may bring back from *location_mentioned*Nacogdoches*/location_mentioned*,
+and as it may be highly important to retain the men who may
+collect, at some point on the *location_mentioned*frontier*/location_mentioned*, until the true situation of
+things can be ascertained, I must request you under the authority of
+the *person_mentioned*Alcalde */person_mentioned*to organise the said *person_mentioned*men */person_mentioned*into one or more *person_mentioned*companies*/person_mentioned*
+according to their numbers, and let them elect their *person_mentioned*company officers,*/person_mentioned*
+and remain under their command untill further orders.*/p*
+
+*p*I have requested *person_mentioned*Col. Talbot Chambers*/person_mentioned* to assist you with his 
+military knowledge in this business—*/p*<barker_pb n="836"/>
+
+*p*You will make a return to me as soon as practicable of all your
+proceedings*/p*
+
+*p**location_mentioned*San Felipe de Austin*/location_mentioned* *date_mentioned n="08-13-1832">13 August 1832*/date_mentioned**/p*
+
+*p**person_mentioned*Stephen F. Austin*/person_mentioned**/p*
+
+*p**person_mentioned*Col of the Battn.*/person_mentioned**/p*
+*p*To *person_mentioned*Jessee Grimes   Regidor of the Ayuntamento of *location_mentioned*Austin*/location_mentioned**/person_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

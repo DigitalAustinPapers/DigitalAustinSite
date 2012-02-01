@@ -1,0 +1,65 @@
+﻿
+<TEI.2 id="APB4067">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>10-31-1830</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 525</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Stephen F Austin</document_author>
+<document_sender></document_sender>
+<document_recipient>Ayunatmiento of San Felipe</document_recipient>
+<document_title>Stephen F Austin to Ayunatmiento of San Felipe, 10-31-1830</document_title>
+<document_location>
+	<sent_from>Unknown</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Austin to Ayuntamiento of San Felipe, October 31, 1830. Asking it to apply to governor for appointment of a land commissioner.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 525</barker_citation>
+</barker_notes>
+<document_digital_creation>08-31-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4067T">
+
+<body>
+*div1 type="summary"*
+*p*Austin to Ayuntamiento of San Felipe, October 31, 1830. Asking it to apply to governor for appointment of a land commissioner.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p*Ilustrios *person_mentioned*Ayto*/person_mentioned*.*/p*
+
+*p*In the month of *date_mentioned n="05-xx-1830">May last*/date_mentioned* I was informed verbally by the *person_mentioned*chief
+of Department at *location_mentioned*Bexar*/location_mentioned**/person_mentioned* that persons had been recommended to
+the *person_mentioned*Gvr of the State*/person_mentioned* for *person_mentioned*commissioner */person_mentioned*to dispatch the land business
+of the several *location_mentioned*Colonies of Texas*/location_mentioned*. On the *date_mentioned n="07-17-1830">17 day of July*/date_mentioned* I officially
+applied to the *person_mentioned*Gvr */person_mentioned*for the appointment of a *person_mentioned*Commissioner */person_mentioned*for my
+*location_mentioned*colony */location_mentioned*and on the *date_mentioned n="10-19-1830">19 day of this month*/date_mentioned* I again repeated the 
+application, Not having recd, any answer to these applications, and
+there being a necessity that the land business of the *location_mentioned*colony */location_mentioned*should
+be completed I beg leave to call the attention of the *person_mentioned*Ayto*/person_mentioned*. to this
+subject and request that an official application be made to the *person_mentioned*Gvr*/person_mentioned*
+by that illustrious body representing the necessity and importance
+of having a *person_mentioned*com*/person_mentioned*. appointed without delay.*/p*
+
+*p**person_mentioned*S. F. Austin*/person_mentioned**/p*
+
+*p**date_mentioned n="10-31-1830">31 Oct. 1830*/date_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

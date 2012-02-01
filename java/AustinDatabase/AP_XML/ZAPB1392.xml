@@ -1,0 +1,61 @@
+﻿
+<TEI.2 id="APB1392">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>05-29-1827</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1647-1648</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Samuel Bridge</document_author>
+<document_sender>Robt. M Williamson</document_sender>
+<document_recipient>Stephen F. Austin</document_recipient>
+<document_title>Samuel Bridge to Stephen F. Austin, 05-29-1827</document_title>
+<document_location>
+	<sent_from>Hemstead County, Territory of Arkansas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Samuel Bridge to Austin, Arkansas, May 29, 1827. Influence of Indian wars on emigration.   Introducing R. M. Williamson.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1647-1648</barker_citation>
+</barker_notes>
+<document_digital_creation>07-23-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1392T">
+
+<body>
+<div1 type="summary">
+<p>Samuel Bridge to Austin, Arkansas, May 29, 1827. Influence of Indian wars on emigration.   Introducing R. M. Williamson.</p>
+</div1>
+
+<div1 type="body">
+<p><location_mentioned>Territory of Arkansas Hemstead County</location_mentioned> <date_mentioned n="05-29-1827">May 29th [1827.]</date_mentioned</p>
+
+<p>Dear Sr two years and a half since, I left <location_mentioned>Missouri </location_mentioned>for your <location_mentioned>Colony</location_mentioned>. On my arrival here, such reports were in circulation respecting an
+<person_mentioned>Indian </person_mentioned>war that I deemed [it] prudent to Make a short stop here,
+until times should alter.   The late revolution causes various reports<barker_pb n="1648"/>
+here. I should be extremely well pleased if you would write to me
+how <person_mentioned>Americans </person_mentioned>are received at this time or whether at all, there is
+several <person_mentioned>families </person_mentioned>in this <location_mentioned>County </location_mentioned>waiting to know in what manner
+they will be received This letter wil be handed to you by a
+young man by the name of <person_mentioned>Robt. M Williamson</person_mentioned> he has resided
+with us about three months he is a young <person_mentioned>man </person_mentioned>Quite unassuming
+of a handsome Education and very desirous of you acquaintance</p>
+
+<p><person_mentioned>Sam'l Bridge</person_mentioned></p>
+<p><person_mentioned>Col. Stephen F Austin</person_mentioned></p>
+
+</div1>
+</body>
+</text>
+</TEI.2>

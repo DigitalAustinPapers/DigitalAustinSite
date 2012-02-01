@@ -1,0 +1,65 @@
+﻿
+<TEI.2 id="APB1390">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>05-26-1827</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1646</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Contract</document_type>
+<document_author>J. E. B. Austin</document_author>
+<document_sender></document_sender>
+<document_recipient>Unknown</document_recipient>
+<document_title>J. E. B. Austin to Unknown, 05-26-1827</document_title>
+<document_location>
+	<sent_from>Unknown</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>J. E. B. Austin to E. R. Wightman, May 26, 1827.    Contract to made a deed.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1646</barker_citation>
+</barker_notes>
+<document_digital_creation>07-21-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1390T">
+
+<body>
+*div1 type="summary"*
+*p*J. E. B. Austin to E. R. Wightman, May 26, 1827.    Contract to made a deed.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p*Be it known that I, *person_mentioned*James E. B. Austin*/person_mentioned* an Inhabitant of *location_mentioned**person_mentioned*Austin*/person_mentioned*s
+Colony*/location_mentioned* do hereby bind and obligate myself my *person_mentioned*heirs */person_mentioned*and assigns
+to make unto *person_mentioned*Elias K. Wightman*/person_mentioned* a deed for one fourth part of a
+league of land known as the *location_mentioned*Crownover league*/location_mentioned* *location_mentioned*on the west side
+of the river Colorado*/location_mentioned*, in Consideration of the same quantity of
+land deeded to me by said *person_mentioned*Wrightman */person_mentioned*from off the League of
+land granted to him by the *person_mentioned*Mexican Government*/person_mentioned*, the said 
+*person_mentioned*Wightman */person_mentioned*to have the priviledge of making choice of either quarter of
+the Sd League: The said title to be made as soon as the *person_mentioned*parties*/person_mentioned*
+shall have made their respective selections—*/p*
+
+*p**date_mentioned n="05-26-1827">May 26th 1827.*/date_mentioned**/p*
+
+*p**person_mentioned*Jas B Austin */person_mentioned*   [Rubric]*/p*
+
+*p**person_mentioned*Samuel M Williams*/person_mentioned* Attest*/p*
+
+*p*Executed agreeably to contract
+*/p*
+*/div1*
+</body>
+</text>
+</TEI.2>

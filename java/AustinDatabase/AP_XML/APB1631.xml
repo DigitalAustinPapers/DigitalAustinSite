@@ -1,0 +1,63 @@
+﻿
+<TEI.2 id="APB1631">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>11-02-1828</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 138</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Stephen F Austin</document_author>
+<document_sender></document_sender>
+<document_recipient>James Whiteside</document_recipient>
+<document_title>Stephen F Austin to James Whiteside, 11-02-1828</document_title>
+<document_location>
+	<sent_from>Unknown</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Austin to James Whiteside, November 2, 1828.   Requesting a loan of $20.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 138</barker_citation>
+</barker_notes>
+<document_digital_creation>08-08-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1631T">
+
+<body>
+*div1 type="summary"*
+*p*Austin to James Whiteside, November 2, 1828.   Requesting a loan of $20.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p*Dr Sir,*/p*
+
+*p*I am in a little pinch for twenty dollars to take up a note of *person_mentioned*Thos
+Slaughter*/person_mentioned*s that is in the hands of *person_mentioned*Richardson */person_mentioned*and *person_mentioned*Davis*/person_mentioned*—I owe this
+Money to *person_mentioned*Slaughter */person_mentioned*for shingles for the *location_mentioned*house */location_mentioned*and have not got it
+by me— If it is possible you will very much oblige me by lending
+me that sum and paying it to *person_mentioned*Richardson */person_mentioned*and *person_mentioned*Davis */person_mentioned*and taking up
+*person_mentioned*Slaughter*/person_mentioned*s note and giving it to him— I hope you will try and
+accomodate me for I am too much engaged in the *location_mentioned*office */location_mentioned*at this time
+to leave here and ride about through the *location_mentioned*Country */location_mentioned*to make collections*/p*
+
+*p**person_mentioned*S. F. Austin*/person_mentioned**/p*
+
+*p**date_mentioned n="11-25-1828">Novr 25, 1828*/date_mentioned*—*/p*
+
+*p*[Addressed:] *person_mentioned*Mr. James Whiteside*/person_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,68 @@
+﻿
+<TEI.2 id="APB3018">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>10-16-1825</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1225-1226</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>F. H. Rankin</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F. Austin</document_recipient>
+<document_title>F. H. Rankin to Stephen F. Austin, 10-16-1825</document_title>
+<document_location>
+	<sent_from>San Jacinto, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Land.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1225-1226</barker_citation>
+</barker_notes>
+<document_digital_creation>06-03-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Cameron L. Sinclair, Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB3018T">
+
+<body>
+*div1 type="summary"*
+*p*Land.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*San Jacinto*/location_mentioned* *date_mentioned n="10-16-1825">October the 16th 1825*/date_mentioned**/p*
+*p*Dear Sir*/p*
+
+*p*I am about to buy *location_mentioned**person_mentioned*Mr Whitlock*/person_mentioned*s land */location_mentioned*provided you will take a
+part of it for your fees I am getting so much in your debt I am
+afraid I will never be able to pay you. this *location_mentioned*land of *person_mentioned*Whitlock*/person_mentioned*s*/location_mentioned* is
+not a very good League but it is Very well timbered and on the
+tide and some good upland and a good deal of Very good bottom
+land that overflows the situation of it I think will make it Valuable I would not hezatate to purchase the Land and become *person_mentioned*paymaster */person_mentioned*to you if I thought I could pay you in time but I Know I
+cant without you will take a part of the Land if you feel willing
+to do so you will please to let me know it as soon as possible, if
+you have any news respecting the *person_mentioned*indians*/person_mentioned* or any thing else I would
+be glad you would let us hear it as my old *person_mentioned*father*/person_mentioned* is anxious to here
+all he can and that from the best Sorce as he expects to set out for<barker_pb n="1226"/>
+*location_mentioned*Alabama*/location_mentioned* in a short time and wishes to be able to give his *person_mentioned*friends*/person_mentioned*
+the best information of the *location_mentioned*country*/location_mentioned* he can you will do me a favour
+by writing me an answer by the first oppertunity*/p*
+
+*p**person_mentioned*F H Rankin*/person_mentioned**/p*
+*p**person_mentioned*S. F. Austin*/person_mentioned**/p*
+
+
+*/div1*
+</body>
+</text>
+</TEI.2>

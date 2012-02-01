@@ -1,0 +1,88 @@
+﻿
+<TEI.2 id="APB4270">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>10-13-1831</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 699-700</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Walter Turnbull</document_author>
+<document_sender>Doct. Phelps</document_sender>
+<document_recipient>Stephen F Austin</document_recipient>
+<document_title>Walter Turnbull to Stephen F Austin, 10-13-1831</document_title>
+<document_location>
+	<sent_from>Pinckney Ville, </sent_from>
+	<sent_to>San Felipe de Austin, Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Walter Turnbull to Austin, Pinckneyville, October 13, 1831, Depression in
+United States,   Slave insurrections in Virginia and North Carolina.
+</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 699-700</barker_citation>
+</barker_notes>
+<document_digital_creation>09-16-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4270T">
+
+<body>
+*div1 type="summary"*
+*p*Walter Turnbull to Austin, Pinckneyville, October 13, 1831, Depression in
+United States,   Slave insurrections in Virginia and North Carolina.
+*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Pinckney Ville*/location_mentioned* *date_mentioned n="10-13-1831">13. Oct. 1831*/date_mentioned**/p*
+*p*My dear Sir;*/p*
+
+*p*When I parted with you, I believe I informed you that my 
+*person_mentioned*family */person_mentioned*would be in *location_mentioned*Texas */location_mentioned*in *date_mentioned n="12-xx-1831">December */date_mentioned*or *date_mentioned n="01-xx-132">January*/date_mentioned*, but since my return
+*location_mentioned*home*/location_mentioned*, I find it will be impossible for me to do so, I will not be able
+to remove them before *date_mentioned n="04-xx-1832">April */date_mentioned*or *date_mentioned n="05-xx-1832">May*/date_mentioned*, I shall however be in *location_mentioned*Texas*/location_mentioned*
+with my property in *date_mentioned n="12-xx-1831">December*/date_mentioned*, when I shall make a location and
+commence erecting Cabins etc. the object of making this communication 
+is a desire on my part not to deceive you as to the time I
+shall have my *person_mentioned*family */person_mentioned*in the *location_mentioned*Colony*/location_mentioned*. This letter will be handed you
+by *person_mentioned*Doct. Phelps*/person_mentioned* who sets out on *date_mentioned n="10-16-1831">Sunday next */date_mentioned*for *location_mentioned*San Felippe de
+Austin*/location_mentioned* and will be followed in the course of the *date_mentioned n="Winter - 1831">winter */date_mentioned*by his
+*person_mentioned*family*/person_mentioned*, who owing to the unusual unhealthiness of this and 
+*location_mentioned*Louisiana */location_mentioned*consider it unsafe to attempt to travel before *date_mentioned n="WInter - 1831">winter*/date_mentioned*— This
+whole *location_mentioned*country */location_mentioned*has been visited with a dreadful Gale of Wind
+and a great deal of rain which has cut the crops of Cotton and sugar
+off more than one half and I have no doubt there are a great many
+*location_mentioned*plantations */location_mentioned*that will not make more than expences— In *location_mentioned*Virginia*/location_mentioned*
+and *location_mentioned*North Carolina*/location_mentioned* they have had an insurrection of the *person_mentioned*negroes*/person_mentioned*,<barker_pb n="700"/>
+who before their progress were stopped butchered 70 or 80 *person_mentioned*persons*/person_mentioned*,
+say *person_mentioned*men */person_mentioned**person_mentioned*women */person_mentioned*and *person_mentioned*children */person_mentioned*spareing neither age nor sex— Serious
+apprehensions are entertained of an Insurrection of the *person_mentioned*blacks */person_mentioned*in
+this *location_mentioned*state */location_mentioned*and *location_mentioned*Louisiana */location_mentioned*particularly in the latter state, the people
+are on the *person_mentioned*qui vive patroles*/person_mentioned* are moving at all hours and I think
+it impractable, even should they make the attempt to do much 
+mischief*/p*
+
+*p*I have not seen a well day since I left *location_mentioned*Texas*/location_mentioned*, I have had an attack
+of Jaundice,—I have taken the liberty of sending you by *person_mentioned*Doct,
+Phelps*/person_mentioned* a few late *location_mentioned*News papers*/location_mentioned*—*/p*
+
+*p**person_mentioned*Walter Turnbul*/person_mentioned**/p*
+
+*p*[Addressed:] *person_mentioned*Colonel Stephen F Austin*/person_mentioned* *location_mentioned*San Felippe de Austin
+Texas */location_mentioned*  Favd. by *person_mentioned*doct. Phelps*/person_mentioned**/p*
+
+
+*/div1*
+</body>
+</text>
+</TEI.2>

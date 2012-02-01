@@ -1,0 +1,65 @@
+﻿
+<TEI.2 id="APB3074">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>02-18-1826</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1265</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Littleberry Hawkins</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F. Austin</document_recipient>
+<document_title>Littleberry Hawkins to Stephen F. Austin, 02-18-1826</document_title>
+<document_location>
+	<sent_from>Lexington, Kentucky</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Mrs. Hawkins has received offer for her interest in Austin's colony. Asks advice. Interest of Kentucky in the colony.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1265</barker_citation>
+</barker_notes>
+<document_digital_creation>07-15-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Cameron L. Sinclair, Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB3074T">
+
+<body>
+*div1 type="summary"*
+*p*Mrs. Hawkins has received offer for her interest in Austin's colony. Asks advice. Interest of Kentucky in the colony.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Lexington*/location_mentioned* *date_mentioned n="02-18-1826">18 February 1826*/date_mentioned**/p*
+*p**person_mentioned*Stephen F Austin*/person_mentioned**/p*
+
+*p*Dr Sir *person_mentioned*George Ann*/person_mentioned* has had an offer made for the Interest of
+our *person_mentioned*Brother*/person_mentioned* in your *location_mentioned*Grant*/location_mentioned* she is unwilling to do any thing without your advice the offer is made by one of the Most wealthy and
+Respectable *person_mentioned*me[n]*/person_mentioned* in the State of *location_mentioned*Kentucky*/location_mentioned* and *person_mentioned*9 other Gentlemen*/person_mentioned* of
+*location_mentioned*Louisiana*/location_mentioned* all of which Could take into the *location_mentioned*Country*/location_mentioned* a great Number
+of Respectable *person_mentioned*familys */person_mentioned*under that consideration the sale would be
+mutually to the Interest of all *person_mentioned*Parties */person_mentioned*Concerned please have the
+goodness to advice me what to do and what to ask for her Interest
+by the first Person that Comes into the *location_mentioned*United States*/location_mentioned* If I could
+spend One hour with [you I] should be satisfied
+Your *person_mentioned*friend*/person_mentioned**/p*
+
+*p**person_mentioned*L Hawkins*/person_mentioned**/p*
+*p*The situation of my *person_mentioned*sister*/person_mentioned* *person_mentioned*her five helpless*/person_mentioned* and my *person_mentioned*family*/person_mentioned* of five
+more is glomy and desponding beyond description   all that I had
+was lost in the *location_mentioned*Country*/location_mentioned*, say if you have saved any thing from *person_mentioned*Dimit*/person_mentioned*
+or any other resource*/p*
+*/div1*
+</body>
+</text>
+</TEI.2>

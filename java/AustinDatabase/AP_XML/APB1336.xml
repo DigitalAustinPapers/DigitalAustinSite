@@ -1,0 +1,104 @@
+﻿
+<TEI.2 id="APB1336">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>02-24-1827</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1606-1607</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>James Kerr</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F. Austin</document_recipient>
+<document_title>James Kerr to Stephen F. Austin, 02-24-1827</document_title>
+<document_location>
+	<sent_from>Labaca Station, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>James Kerr to Austin, February 24, 1827.    Property seized by De Leon. James Kerr to Austin, February 26, 1827. t Movements of Indians.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1606-1607</barker_citation>
+</barker_notes>
+<document_digital_creation>07-19-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1336T">
+
+<body>
+*div1 type="summary"*
+*p*James Kerr to Austin, February 24, 1827.    Property seized by De Leon. James Kerr to Austin, February 26, 1827. t Movements of Indians.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**date_mentioned n="02-24-1827">24th. fbuary 1827*/date_mentioned**/p*
+*p**person_mentioned*Colo S. F. Austin*/person_mentioned**/p*
+
+*p*Sir, I have to complain (through you) to his *person_mentioned*Excellency */person_mentioned*the
+*person_mentioned*Political Chief of Martin Delion*/person_mentioned* and *person_mentioned*Don Manchóles */person_mentioned*(Viz) that
+they have not returned to me, nor to any person for me, the within
+described gun, according to the order of his *person_mentioned*Excellency*/person_mentioned*, and that I
+therefore pray to be remunerated with the price of the same $30.00
+and also the damages done to my own two guns which have been
+returned, as pr. within Cert 9.00*/p*
+
+*p*I hope you will oblige me to lay this before his *person_mentioned*Excellency */person_mentioned*etc
+that I may have restitution made to me by the said *person_mentioned*Delion */person_mentioned*and
+*person_mentioned*manchóles*/person_mentioned**/p*
+
+*p**person_mentioned*James Kerr*/person_mentioned**/p*
+
+*p**location_mentioned*Collorado District */location_mentioned**date_mentioned n="01-30-1827">January 30th 1827*/date_mentioned**/p*
+*p*We the subscribed Do certify that the gun that *person_mentioned*Mr James kerr*/person_mentioned*
+Borowed of *person_mentioned*Clarissa Griflfen*/person_mentioned* was.—New and complete in all parts<barker_pb n="1607"/>
+and that the price was thirty Dollars cash   said Gun was small Bore
+walnut stock Iron Mounting and Double triggers
+Given under our hands*/p*
+
+*p**person_mentioned*Jn° Andrews*/person_mentioned**/p*
+*p*
+*person_mentioned*James Cummins  */person_mentioned*  [Rubric]*/p*
+
+*p*I do hereby certify that the above gun was by me taken to the
+*location_mentioned*station on the Labaca*/location_mentioned*, and that it was—with other guns siezed
+and taken away by *location_mentioned*Martin Delion*/location_mentioned* and *location_mentioned*Moncholes*/location_mentioned*—and that it has
+not been returned agreeable to the order of the *person_mentioned*Political Chief*/person_mentioned*.*/p*
+
+*p*Given under my hand this *date_mentioned n="01-30-1827">30th. day of January 1827*/date_mentioned*.*/p*
+
+*p**person_mentioned*James Kerr*/person_mentioned**/p*
+
+*p**location_mentioned**person_mentioned*Dewitt*/person_mentioned*'s Colony Labaca Station*/location_mentioned*,—I hereby certify that, *person_mentioned*Martin
+Delion*/person_mentioned* and *person_mentioned*moncholes */person_mentioned*in *date_mentioned n="11-xx-1826">Nov. last*/date_mentioned* siezed and caused to be taken
+away two Rifle Guns besides the one above discribed by *person_mentioned*John 
+Andrews*/person_mentioned* and *person_mentioned*James Cummins*/person_mentioned*: that the same two guns have been 
+returnd but damaged (viz)—*/p*
+
+*p*The Cock of 1 oí the locks brock and cost me one Dollar fifty cts_____    1. 50*/p*
+
+*p*Screw part of same lost________    1.00*/p*
+
+*p*The other gun stock broke________________________________________    5.00*/p*
+
+*p*Tumble of the lock broke______________________________________    1.00*/p*
+
+*p*Thimble rod and socket end of wipers lost---------------------------------------     . 50*/p*
+
+*p*$9.00*/p*
+
+*p**date_mentioned n="02-24-1827">24th feby. 1827*/date_mentioned**/p*
+
+*p**person_mentioned*James Kerr*/person_mentioned**/p*
+*/div1*
+</body>
+</text>
+</TEI.2>

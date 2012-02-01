@@ -1,0 +1,64 @@
+﻿
+<TEI.2 id="APB1412">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>06-11-1827</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1658</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>John B. Weller</document_author>
+<document_sender></document_sender>
+<document_recipient>Unknown</document_recipient>
+<document_title>John B. Weller to Unknown, 06-11-1827</document_title>
+<document_location>
+	<sent_from>San Felipe de Austin, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Administrator's sale of land, June 11, 1827.   J. B. Miller, admr. of Thos. Gray.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1658</barker_citation>
+</barker_notes>
+<document_digital_creation>07-2-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1412T">
+
+<body>
+*div1 type="summary"*
+*p*Administrator's sale of land, June 11, 1827.   J. B. Miller, admr. of Thos. Gray.*/p*
+*/div1*
+
+*div1 type="body"*
+
+
+*p*sale of land*/p*
+
+*p*Will be offered at public sale in the Town of *location_mentioned*San felipe de Austin*/location_mentioned*
+on the *date_mentioned n="08-04-1827">first Saturday in August next*/date_mentioned* for Cash on a credit of six
+months giving Bond with approved security and a lien on the *location_mentioned*land*/location_mentioned*
+untill paid all the interest of *person_mentioned*Thomas Gray deceased*/person_mentioned* in and to the
+*location_mentioned*upper half of a League of land situate on the west side of the River
+Bernard*/location_mentioned* in said *location_mentioned*Colony */location_mentioned*Known as *location_mentioned*League No. 20*/location_mentioned*—The foregoing
+sale had pursuance to the order of the *person_mentioned*Honorable superior Court */person_mentioned*ot
+this *location_mentioned*Colony */location_mentioned*to satisfy a Mortgage in favour of *person_mentioned*Solomon Barrow*/person_mentioned*—
+The purchaser to be at the expence of the Titles—*/p*
+
+*p**location_mentioned*San felipe de Austin*/location_mentioned* *date_mentioned n="06-11-1827">June 11—1827*/date_mentioned**/p*
+
+*p**person_mentioned*John B. Weller*/person_mentioned**/p*
+*p*Admr of Thos Gray deceased*/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

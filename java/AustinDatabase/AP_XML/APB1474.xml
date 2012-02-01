@@ -1,0 +1,128 @@
+﻿
+<TEI.2 id="APB1474">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>01-03-1828</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 2-5</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Richard Ellis</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F. Austin</document_recipient>
+<document_title>Richard Ellis to Stephen F. Austin, 01-03-1828</document_title>
+<document_location>
+	<sent_from>Tuscumbia, Alabama</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Richard Ellis to Austin, Tuseumbia, Ala., January 3, 1828. Agriculture depressed by tariff and taxes. Fifty families ready to emigrate to Texas if allowed to introduce their slaves.</barker_summary>
+	<barker_footnotes>The end of the letter is missing.   The writer can be identified by Fuqua to Austin, Mar. 28 1828</barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 2-5</barker_citation>
+</barker_notes>
+<document_digital_creation>07-29-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1474T">
+
+<body>
+*div1 type="summary"*
+*p*Richard Ellis to Austin, Tuseumbia, Ala., January 3, 1828. Agriculture depressed by tariff and taxes. Fifty families ready to emigrate to Texas if allowed to introduce their slaves.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*State of Alabama*/location_mentioned**/p*
+*p**location_mentioned*Town of Tuscumbia*/location_mentioned**/p*
+
+*p**date_mentioned n="01-03-1828">3rd Jany. 1828*/date_mentioned**/p*
+*p**person_mentioned*D. Colo*/person_mentioned**/p*
+
+*p*I beg leave to introduce to your aquantence and notice *person_mentioned*Mr Silus,
+Ephram*/person_mentioned* and *person_mentioned*Benjmn Fuqua*/person_mentioned* and *person_mentioned*Mr Job Ingram*/person_mentioned* and *person_mentioned*Kye Ingram*/person_mentioned*,
+these *person_mentioned*Gentlemen */person_mentioned*have emigrated to your *location_mentioned*Coloney */location_mentioned*to become 
+permanent *person_mentioned*settlers*/person_mentioned*—The *person_mentioned*Mr Fuquas*/person_mentioned* are *person_mentioned*Mechanics*/person_mentioned*, two of them of the
+best kind; they are honest and respectable *person_mentioned*men */person_mentioned*and are determined
+to suport the Government to which they go, I have had much
+conversation with *person_mentioned*Mr Silus Fuqua*/person_mentioned*, on the present and future 
+prospects of your *location_mentioned*coloney*/location_mentioned*; and tho he has never seen it, he has a most
+corect idea of its great advantages, you will find him an inteligent
+man and I have no doubt will be an acquisition to your *location_mentioned*Setlement*/location_mentioned*, I
+have known these *person_mentioned*gentlemen */person_mentioned*twelve years, the *person_mentioned*Mr Ingrains*/person_mentioned* I have
+not known personaly but from their universal good character and
+the *person_mentioned*Gentlemen */person_mentioned*they go with, I feel no hesitation to recomend them
+to your attention;*/p*
+
+*p*On my arival in the*location_mentioned* U. S.*/location_mentioned* I found Agriculture fast declining in
+all the *location_mentioned*Middle and Southern region of our country,*/location_mentioned* oppressed with
+heavey duties on imports from a broad and taxes at *location_mentioned*home*/location_mentioned*, and the
+*person_mentioned*people */person_mentioned*burthened with debts, many of which were no doubt 
+contracted in more <hi rend="italic">prosperous times</hi> that I could not help runing a
+parallel in my mind between the happy condition of the *person_mentioned*adopted
+citizens */person_mentioned*of your *location_mentioned*country */location_mentioned*and the people of this; indeed frankness
+and candure impels me not to withold from you the expressions of
+the opinions and thoughts that have so repetedly obtruded 
+themselves on my mind; (that is) that every *person_mentioned*family */person_mentioned*ought to bless his<barker_pb n="3"/>
+happy star that conduced them to a *location_mentioned*country */location_mentioned*blessed with the finest
+soil in *location_mentioned*North Amarica*/location_mentioned*, with plenty, health, peace and happiness—
+and if they act wisely (as I hope and trust they will) they will
+foster and cherish the Government they live in, which will be the
+certain means of preserving their estamible rights unimpaired; and
+a sure protection of their property—while on the contrary in this
+*location_mentioned*country */location_mentioned*there are hundreds and thousands of *person_mentioned*familes */person_mentioned*who do not
+own a foot of land nor have they any hope of ever doing so (I mean
+of any <hi rend="italic">real value</hi>) who are barely able to sustain themselves with
+the most common coarse food and raiment—In the short time since
+my arival at home I have assertained beyond question that 40 or 50
+*person_mentioned*families */person_mentioned*would emigrate with me *date_mentioned n="Fall - 1829">next fall*/date_mentioned* to your *location_mentioned*country */location_mentioned*if they
+could introduce their *person_mentioned*slaves*/person_mentioned*, many of them are *person_mentioned*large holders*/person_mentioned* of that
+description of *person_mentioned*property*/person_mentioned*; and I consider it a duty I owe myself as
+well as you, to assure you that I shall moove to your *location_mentioned*country */location_mentioned*next
+*date_mentioned n="Fall- 1829">fall */date_mentioned*if I can with safety bring mine; for I find I have not one *person_mentioned*slave*/person_mentioned* that is willing to be sold from me*/p*;
+
+*p*I feel a deep interest in the prosperity of your *location_mentioned*country */location_mentioned*and hope
+you will do me the favour (for I shall prise it highly) to write to me
+by the *person_mentioned*first safe hand*/person_mentioned* after the receipt of this letter; let me know if
+we will be alowed to bring in *person_mentioned*Slaves */person_mentioned*under any circumstances, if not
+what are the future prospects—what has been done with my 
+petition, can I locate the *location_mentioned*Heseandar */location_mentioned*[hacienda] *location_mentioned*on the west bank of the
+colorado River*/location_mentioned**/p*
+
+*p*If I can bring in fifty *person_mentioned*families*/person_mentioned*, I believe I can get $50. a *location_mentioned*League*/location_mentioned*
+from them, and I should give you one half if you will reserve good
+land for them as I have always thought that compensation not
+enough for the *person_mentioned*founder of a colony*/person_mentioned* in adition to his *location_mentioned*premium lands*/location_mentioned*—
+but this will depend on the <hi rend="italic">*person_mentioned*Slave */person_mentioned*Question</hi> can *location_mentioned*fifty good Leagues
+be got between the colorado and auroyo lavaca—*/location_mentioned*that is now vacant—
+I know when you reach home how much you will be provoked and
+how much you will (on <hi rend="italic">many acounts</hi>) regret the deception and
+fraud played off on me and many respectable *person_mentioned*citizens */person_mentioned*of your *location_mentioned*colony*/location_mentioned*
+by *person_mentioned*William Pettus*/person_mentioned*—for he even sold my *person_mentioned*boddy servant*/person_mentioned* and did not
+take (perhaps) a dollar with him to the *location_mentioned*Rio Grande*/location_mentioned* to purchase
+Mules for me, for his *person_mentioned*wife */person_mentioned*said in my presens she allways blamed
+him for not carring the money with him; nor have I received one
+cent for the fine mar I caried to that *location_mentioned*country */location_mentioned*for all he paid me
+dos not even pay the interest upon the debt—I paid for him as an
+inocent security Such an abuse of confidence, and once I admit
+friendship; proves beyond the most remote possibility of a doubt, a
+dereliction of all honourable principal and a depravity of <hi rend="italic">hart </hi>that
+can never be reclaimed nor reformed, I believe I might use the same
+language to you *person_mentioned*Sir John Falstaff*/person_mentioned* did to *person_mentioned*prince Henry*/person_mentioned* (of *location_mentioned*Poins*/location_mentioned*)<barker_pb n="4"/>
+"he is the most omnipotent *person_mentioned*villain */person_mentioned*that ever cried stand to a true
+man's what he has done with all the property, goods and money,
+he had*/p*
+
+*p*[Richard Ellis.]*/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

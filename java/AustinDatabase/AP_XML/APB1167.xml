@@ -1,0 +1,81 @@
+﻿
+<TEI.2 id="APB1167">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>05-29-1826</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1348-1349</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>James Norton</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F. Austin</document_recipient>
+<document_title>James Norton to Stephen F. Austin, 05-29-1826</document_title>
+<document_location>
+	<sent_from>New Orleans, Louisiana</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>James Norton to Austin, May 29, 1826. Interest in Texas. Commerce and shipping.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1348-1349</barker_citation>
+</barker_notes>
+<document_digital_creation>06-20-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1167T">
+
+<body>
+*div1 type="summary"*
+*p*James Norton to Austin, May 29, 1826. Interest in Texas. Commerce and shipping.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*New Orleans*/location_mentioned* *date_mentioned n="05-20-1826">20th May 1826*/date_mentioned**/p*
+*p*To*person_mentioned* Col. S. F. Austin*/person_mentioned*,*/p*
+
+*p*Sir,*/p*
+
+*p*Since I had the honor of seeing you in the City of *location_mentioned*New Orleans */location_mentioned*I
+have never relaxed in my good opinion of your *location_mentioned*settlement */location_mentioned*in *location_mentioned*Texas*/location_mentioned*:
+but pecuniary embarrassments together with other circumstances
+have hitherto prevented my making a visit there since I went down
+in the Schooner Lively which then belonged to you.*/p*
+*p*The <hi rend="italic">Bob Roy</hi>, *person_mentioned*Capt Jn° F. Field*/person_mentioned* who is charged with the note, will
+arrive at the*location_mentioned* mouth of the Brassos */location_mentioned*(weather permitting) in about
+ten or twelve days. By said vessel on her return I should be happy
+to hear from you as <hi rend="italic">I</hi> as well as <hi rend="italic">*person_mentioned*Capt. Z. Butler*/person_mentioned*</hi> who sailed the Lively
+after our first arrival here in *date_mentioned n="xx-xx-1822">1822 */date_mentioned*have still a great inclination to
+become *person_mentioned*Citizens */person_mentioned*of your *location_mentioned*Colony*/location_mentioned*: which the settlement of our private
+interests in this *location_mentioned*State */location_mentioned*has hitherto prevented, yet with you we hope
+that our inclination has not been lost sight of; *person_mentioned*Capt Field*/person_mentioned* is in a<barker_pb n="1349"/>
+certain measure acquainted with the embarrassments which have
+heretofore prevented us from being with you which I hope will not
+be the case this *date_mentioned n="Summer - 1826">Summer*/date_mentioned*.*/p*
+
+*p*The Rob Roy sails with a full freight and *person_mentioned*passangers */person_mentioned*for the 
+*location_mentioned*settlement */location_mentioned*all of which I exerted my feeble interest to forward with a
+firm belief that I was enhancing the interests of the *location_mentioned*Colony */location_mentioned*which
+has been my constant study since I had the honor of your 
+acquaintance in this *location_mentioned*city*/location_mentioned*.*/p*
+
+*p*Accept Sir, my sincerest regard for your welfare and that of your
+*location_mentioned*Colony*/location_mentioned*: to the enterprising *person_mentioned*settlers */person_mentioned*of which I tender the warmest
+sentiments of respect and flatter myself with the reality of one day
+becoming a *person_mentioned*neighbor */person_mentioned*and friend among them—*/p*
+
+*p**person_mentioned*James Norton*/person_mentioned*.*/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

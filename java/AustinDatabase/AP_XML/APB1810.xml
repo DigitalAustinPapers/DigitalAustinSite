@@ -1,0 +1,49 @@
+﻿
+<TEI.2 id="APB1810">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>12-12-1829</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 300</document_citation>
+<document_language>Unknown</document_language>
+<document_status>Unknown</document_status>
+<document_type>Contract</document_type>
+<document_author>John C. Partin</document_author>
+<document_sender></document_sender>
+<document_recipient>Cooper and Cheeves</document_recipient>
+<document_title>John C. Partin to Cooper and Cheeves, 12-12-1829</document_title>
+<document_location>
+	<sent_from>Unknown</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>John C. Partin to Cooper and Cheeves, December 12, 1829. Partin contracts to lease half of the land which he may receive to Cooper and Cheeves in return for payment by them of all fees on his grant.    (Omitted.)</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 300</barker_citation>
+</barker_notes>
+<document_digital_creation>08-16-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1810T">
+
+<body>
+*div1 type="summary"*
+*p*John C. Partin to Cooper and Cheeves, December 12, 1829. Partin contracts to lease half of the land which he may receive to Cooper and Cheeves in return for payment by them of all fees on his grant.    (Omitted.)*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**date_mentioned n="12-12-1829">December 12, 1829,*/date_mentioned**/p*
+*p*See Calendar*/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

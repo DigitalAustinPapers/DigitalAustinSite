@@ -1,0 +1,71 @@
+﻿
+<TEI.2 id="APB1889">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>04-04-1830</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 356</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Stephen F Austin</document_author>
+<document_sender></document_sender>
+<document_recipient>Elias R Wightman</document_recipient>
+<document_title>Stephen F Austin to Elias R Wightman, 04-04-1830</document_title>
+<document_location>
+	<sent_from>Unknown</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Austin to Elias R. Wightman, April 4, 1830.    Order for survey.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 356</barker_citation>
+</barker_notes>
+<document_digital_creation>08-19-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1889T">
+
+<body>
+*div1 type="summary"*
+*p*Austin to Elias R. Wightman, April 4, 1830.    Order for survey.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**person_mentioned*Mr. E. R. Weightman*/person_mentioned**/p*
+
+*p*Dr Sir,*person_mentioned* Col Wallace*/person_mentioned* and company wish to take a look at that
+*location_mentioned*country */location_mentioned*he wishes to get a place on *location_mentioned*Prairie Creek*/location_mentioned*, and I have told
+him that you could point out the places that are selected there by
+the *person_mentioned*emigrants */person_mentioned*who came with you—-*/p*
+
+*p*If the leagues are not yet layed off on the *location_mentioned*west side of Colorado
+*/location_mentioned*I wish an alteration made which is this—run one League next *location_mentioned*below
+*person_mentioned*H. H. League*/person_mentioned*s tract,*/location_mentioned* then one quarter for *person_mentioned*Harrison */person_mentioned*next below that,
+then *location_mentioned*run League tracts below *person_mentioned*Harrison*/person_mentioned*'s*/location_mentioned*— This differs from the
+memorandum I left you in this—that memorandum directed you to
+lay off *location_mentioned*three quarters below *person_mentioned*H. H. League*/person_mentioned*s tract-*/location_mentioned*- Should it 
+appe[a]r that the quarter for *person_mentioned*Harrison */person_mentioned*will not include the place he
+wants you may run one more quarter so as to make it hit, for I
+wish *person_mentioned*Harrison */person_mentioned*to get the place he has selected—that is, you will run
+one or two quarters next *location_mentioned*below the adjoining League to H. H.
+Leagues tract,*/location_mentioned* as it may be necessary so as to make*location_mentioned* *person_mentioned*Harrison*/person_mentioned*s*/location_mentioned* hit
+right-- There are a number of tracts promised on that *location_mentioned*river */location_mentioned*and
+I want as many as the land will admit*/p*
+
+*p**person_mentioned*S. F, Austin*/person_mentioned**/p*
+
+*p**date_mentioned n="04-04-1830">April 4, 1830*/date_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

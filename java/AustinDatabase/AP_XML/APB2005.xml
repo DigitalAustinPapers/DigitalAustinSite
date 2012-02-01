@@ -1,0 +1,68 @@
+﻿
+<TEI.2 id="APB2005">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>05-31-1825</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 1105</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>John Ingram</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F Austin</document_recipient>
+<document_title>John Ingram to Stephen F Austin, 05-31-1825</document_title>
+<document_location>
+	<sent_from>Colorado, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>John Ingram to Austin, May 31, 1825.   Land.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1105</barker_citation>
+</barker_notes>
+<document_digital_creation>12-12-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB2005T">
+
+<body>
+*div1 type="summary"*
+*p*John Ingram to Austin, May 31, 1825.   Land.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Colorado */location_mentioned**date_mentioned n="05-31-1825">May 31, 1825*/date_mentioned**/p*
+*p*Dr Sir*/p*
+
+*p*I have made inquiry concerning the *location_mentioned*land */location_mentioned*You proposed to let me
+have *location_mentioned*near *person_mentioned*Mr. Williams*/person_mentioned*'s*/location_mentioned*, and have been informed by several 
+persons well acquainted with it*/p*:
+
+*p*They inform me that the land is of a very indifferent Quality,
+and almost entirely destitute of timber,—Therefore if it is not 
+inconvenient to you I could wish to make another selection—I had rather
+have a place *location_mentioned*somewhere between the road, from*person_mentioned* Jackson*/person_mentioned*'s to town
+*/location_mentioned*and the upper surveys which have been made on the *location_mentioned*Bernard*/location_mentioned*, I
+could wish to have it laid off in an oblong to include *location_mentioned*both sides of
+the creek*/location_mentioned**/p*
+
+*p*If you can suit me in this manner, will you please be so good as to
+let me know by *person_mentioned*Mr. Jimason*/person_mentioned**/p*
+
+*p**person_mentioned*John Ingram*/person_mentioned*.*/p*
+
+*p**person_mentioned*Col. S. F. Austin*/person_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

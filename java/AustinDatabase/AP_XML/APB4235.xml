@@ -1,0 +1,59 @@
+﻿
+<TEI.2 id="APB4235">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>07-02-1831</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 672</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Aylett C Buckner</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F Austin</document_recipient>
+<document_title>Aylett C Buckner to Stephen F Austin, 07-02-1831</document_title>
+<document_location>
+	<sent_from>Bay Prarie, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Aylett C. Buckner to Austin, July 2, 1831. People are gathering for marriages and christenings by Father Muldoon.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 672</barker_citation>
+</barker_notes>
+<document_digital_creation>09-12-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4235T">
+
+<body>
+*div1 type="summary"*
+*p*Aylett C. Buckner to Austin, July 2, 1831. People are gathering for marriages and christenings by Father Muldoon.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Bay Praria*/location_mentioned* *date_mentioned n="07-02-1831">2nd July 1831*/date_mentioned**/p*
+*p*Dr Col°*/p*
+
+*p*Agreeable to your request I have informed the *person_mentioned*people */person_mentioned*of your
+cuming with the *person_mentioned*Priest */person_mentioned*to christen and marry them I am informed
+there will be numbers who will collect at *location_mentioned**person_mentioned*Mrs Williams*/person_mentioned* */location_mentioned*for that
+purpose for they are now making preparations against your arrival*/p*
+
+*p*You will do me the pleasure to call I shall try to make things
+as agreeable to you and*person_mentioned* Mr. Balodon [Father Muldoon]*/person_mentioned* as possible*/p*
+
+*p**person_mentioned*Ay. C  Buckner */person_mentioned*   [Rubric]*/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

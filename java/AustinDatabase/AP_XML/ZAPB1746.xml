@@ -1,0 +1,72 @@
+﻿
+<TEI.2 id="APB1746">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>08-06-1829</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 244</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>J E B Austin</document_author>
+<document_sender></document_sender>
+<document_recipient>Emily M Perry</document_recipient>
+<document_title>J E B Austin to Emily M Perry, 08-06-1829</document_title>
+<document_location>
+	<sent_from>New Orleans, Louisiana</sent_from>
+	<sent_to>Potosi, Missouri</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>J. E. B. Austin to Emily M. Perry, August 6, 1829. Progress of Texas. Austin aging fast.</barker_summary>
+	<barker_footnotes>Original in possession of Mrs. E. L. Perry. The writer died of yellow fever on Aug.
+17.    (See Thompson to Austin, Aug. 19, 1829.)</barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 244</barker_citation>
+</barker_notes>
+<document_digital_creation>08-12-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1746T">
+
+<body>
+<div1 type="summary">
+<p>J. E. B. Austin to Emily M. Perry, August 6, 1829. Progress of Texas. Austin aging fast.</p>
+</div1>
+
+<div1 type="body">
+
+<p><location_mentioned>New Orleans</location_mentioned> <date_mentioned n="08-06-1829">Augt 6th 1829</date_mentioned></p>
+<p>My Dr Sister</p>.
+
+<p>I arrived at this place on the <date_mentioned n="08-04-1829">4th inst</date_mentioned> in the Schooner Eclipse from
+the <location_mentioned>Colony </location_mentioned>which I left <date_mentioned n="07-30-1829">6 days before</date_mentioned>. As the Steam Boat Missouri
+will leave this in the <date_mentioned n="08-07-1829">morning </date_mentioned>I could not let her depart without
+dropping a line to say that I am myself in good health, and <person_mentioned>Eliza</person_mentioned>
+was also well when I left home. She wrote to you not long since and
+as you have not yet answered it we presume you could not have<barker_pb n="245"/>
+received it. I have one of the most interesting little <person_mentioned>boys </person_mentioned>in the
+world, and could you see him you would say so. the <location_mentioned>Colony </location_mentioned>is still
+progressing slowly, but sure. I should really like to see you and
+<person_mentioned>Mr Perry</person_mentioned> in <location_mentioned>Texas </location_mentioned>this <date_mentioned n="Fall - 1829">fall </date_mentioned>and anticipate that we shall have that
+pleasure. Could you come and see us? I am not in a Situation to
+visit <location_mentioned>Missouri </location_mentioned>yet but intend doing so Ere long and shall take <person_mentioned>Eliza</person_mentioned>
+with me. Send us some Rose Roots this <date_mentioned n="Winter - 1829">winter </date_mentioned>or <date_mentioned n="Fall - 1829">fall </date_mentioned>and also,
+another collection of garden seeds. <person_mentioned>Brother </person_mentioned>is well and, getting old
+fast, he is however in good health and closing his business and 
+perhaps may visit <location_mentioned>Missouri </location_mentioned>this fall— Remember me to <person_mentioned>Mr Perry</person_mentioned> and
+all old <person_mentioned>acquaintences</person_mentioned>—also dont let my <person_mentioned>Nephews </person_mentioned>and <person_mentioned>Neices </person_mentioned>forget
+<person_mentioned>Uncle Brown<</person_mentioned>/p>
+
+<p><person_mentioned>J B Austin</person_mentioned></p>
+<p>[Addressed:] <person_mentioned>Mrs Emily M Perry</person_mentioned>  <location_mentioned> Potosi   Missouri</location_mentioned></p>
+
+</div1>
+</body>
+</text>
+</TEI.2>

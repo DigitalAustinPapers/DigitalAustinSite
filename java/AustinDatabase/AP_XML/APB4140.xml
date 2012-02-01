@@ -1,0 +1,55 @@
+﻿
+<TEI.2 id="APB4140">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>01-29-1831</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 591</document_citation>
+<document_language>Unknown</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Juan Davis Brandburn</document_author>
+<document_sender></document_sender>
+<document_recipient>J F Madero</document_recipient>
+<document_title>Juan Davis Brandburn to J F Madero, 01-29-1831</document_title>
+<document_location>
+	<sent_from>Atascosito, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Juan Davis Bradburn to Madero, January 29, 1831. Thinks the passage of
+the law of April 6, 1830, supersedes the permit granted by Federal authorities
+in 1828 to settlers in the border reserve. Suggests conference to agree on
+interpretation of the laws.    (Omitted.)</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 591</barker_citation>
+</barker_notes>
+<document_digital_creation>09-06-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4140T">
+
+<body>
+*div1 type="summary"*
+*p*Juan Davis Bradburn to Madero, January 29, 1831. Thinks the passage of
+the law of April 6, 1830, supersedes the permit granted by Federal authorities
+in 1828 to settlers in the border reserve. Suggests conference to agree on
+interpretation of the laws.    (Omitted.)*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Galveston Bay,*/location_mentioned**date_mentioned n="01-29-1831"> January 29, 1831*/date_mentioned*.*/p*
+*p*See Calendar.*/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

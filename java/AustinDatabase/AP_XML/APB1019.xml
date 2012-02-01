@@ -1,0 +1,70 @@
+﻿
+<TEI.2 id="APB1019">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>01-22-1825</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1022</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Knight and White</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F. Austin</document_recipient>
+<document_title>Knight and White to Stephen F. Austin, 01-22-1825</document_title>
+<document_location>
+	<sent_from>Fort Settlement</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Knight and White to Austin, January 22, 1825. Concerning land and surveying</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1022</barker_citation>
+</barker_notes>
+<document_digital_creation>05-24-1825</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1019T">
+
+<body>
+*div1 type="summary"*
+*p*Knight and White to Austin, January 22, 1825. Concerning land and surveying
+*/p*
+*/div1*
+
+*div1 type="body"*
+*p**location_mentioned*Fort Settlement*/location_mentioned* *date_mentioned n="01-22-1825">Jany 22d 1825*/date_mentioned*,*/p*
+*p**person_mentioned*Col. S. F. Austin*/person_mentioned**/p*
+
+*p*Sir We are informed by *person_mentioned*Capt. Chreesman*/person_mentioned* that the Quarter of
+a league of land we are to receive in right of the late *person_mentioned*Capt. Singer*/person_mentioned*
+has been laid off in the *location_mentioned*rear of a Quarter belonging to *person_mentioned*Mr. Nelson*/person_mentioned*—*/location_mentioned*
+*/p*
+*p*From our intimacy with *person_mentioned*Capt. Singer*/person_mentioned* we know it was not his
+wish to have in that way and we assure you it is entirely contrary
+to ours—We state this to you thinking it must have been represented
+that we prefered it in the way it is now surveyed and request that
+you will permit it to be run through *location_mentioned*from the river to the prairie*/location_mentioned*
+in the same manner that all the other *location_mentioned*Quarters*/location_mentioned* have been—
+
+*/p*
+*p**person_mentioned*Knightand White*/person_mentioned**/p*
+
+*p*P. S. *person_mentioned*Mr. White*/person_mentioned* will leave here next week for *location_mentioned*New Orleans*/location_mentioned* and
+will take charge of any thing you may wish to send with pleasure—
+one of us will be up in a day
+*/p*
+*p**person_mentioned*K and W*/person_mentioned*
+*/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

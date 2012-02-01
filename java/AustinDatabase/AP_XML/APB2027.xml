@@ -1,0 +1,62 @@
+﻿
+<TEI.2 id="APB2027">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>06-06-1825</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 1123</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Note for Payment of Land Fees</document_type>
+<document_author>Hamiton N Yett and Alexr Calvit</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F Austin</document_recipient>
+<document_title>Hamiton N Yett and Alexr Calvit to Stephen F Austin, 06-06-1825</document_title>
+<document_location>
+	<sent_from>Unknown</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Hamilton N. Yett and Alexander Calvit to Austin, June 6, 1825. Note for payment of dues on land.</barker_summary>
+	<barker_footnotes>There are hundreds of such notes.  This is printed as a type.</barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1123</barker_citation>
+</barker_notes>
+<document_digital_creation>12-13-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB2027T">
+
+<body>
+*div1 type="summary"*
+*p*Hamilton N. Yett and Alexander Calvit to Austin, June 6, 1825. Note for payment of dues on land.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p*In Equal installments of Twelve and Eighteen Months we promise
+to pay *person_mentioned*Stephen F. Austin*/person_mentioned* or order Two Hundred and seventy dollars
+in good property subject to a deduction of 33 1/3 per cent if paid in
+cash being amount due on one League and one Laber of [land]
+granted to us by Concession dated *date_mentioned n="08-09-1824">9th August 1824*/date_mentioned* being amt of
+Fees imposed by the *person_mentioned*Political Chief of the *location_mentioned*Province */location_mentioned**/person_mentioned*in the Fee bill
+published by him *date_mentioned n="05-20-1824">20th May in the same Year*/date_mentioned* for the full payment
+of which we do hereby obligate ourselves our *person_mentioned*Heirs */person_mentioned*and *person_mentioned*assigns*/person_mentioned*
+and do hereby pledge and Mortgage the said Land.*/p*
+
+*p**location_mentioned*San Felipe de Austin*/location_mentioned* *date_mentioned n="06-06-1825">6th June 1825*/date_mentioned*.*/p*
+
+*p**person_mentioned*Hamilton N Yett*/person_mentioned**/p*
+*p**person_mentioned*Alexr Calvit*/person_mentioned**/p*
+
+
+*/div1*
+</body>
+</text>
+</TEI.2>

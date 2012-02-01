@@ -1,0 +1,82 @@
+﻿
+<TEI.2 id="APB4332">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>03-14-1832</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 757</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>James Clark</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F Austin</document_recipient>
+<document_title>James Clark to Stephen F Austin, 03-14-1832</document_title>
+<document_location>
+	<sent_from>Rushville, Illinois</sent_from>
+	<sent_to>Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>James Clark to Austin, Rushville, Ill., March 14, 1832. Introducing Thomas
+Christian and asking for information about Texas.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 757</barker_citation>
+</barker_notes>
+<document_digital_creation>09-22-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4332T">
+
+<body>
+*div1 type="summary"*
+*p*James Clark to Austin, Rushville, 111., March 14, 1832. Introducing Thomas
+Christian and asking for information about Texas.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Rushville, Illinois*/location_mentioned*   *date_mentioned n="03-14-1832">March 14, 1832*/date_mentioned**/p*
+*p*Dr. Sir,*/p*
+
+*p*It is probable that the lapse of many years, and the necessary 
+attention to business have effaced all recollection of even my name; I once
+had however the pleasure of an introduction to you which I have
+not forgotten, for public fame in your *location_mentioned*native Country*/location_mentioned* has so 
+constantly kept you before me associated with every act of kindness of
+encouragement and support to your former *person_mentioned*fellow citizens*/person_mentioned* that you
+must needs be remembered— I have presumed to trespass upon your
+attention for the purpose of introducing to your acquaintance *person_mentioned*Mr
+Thomas Christian*/person_mentioned* who will hand you this letter. He is a *person_mentioned*native of
+*location_mentioned*Virginia */location_mentioned**/person_mentioned*and has resided for some years in this State in the 
+peaceful persuits of a *person_mentioned*Farmer*/person_mentioned*—- I think I know him well and hazard
+nothing in saying that in steadiness of habits in integrity and honour
+he yields to no *person_mentioned*citizen */person_mentioned*of our *location_mentioned*Country*/location_mentioned*. His circumstances are easy
+tho not affluent and he seeks in your *location_mentioned*Country */location_mentioned*under a climate more
+congenial an asylum from the cold of the *location_mentioned*North*/location_mentioned*— Such a man I
+should regard as no doubt you do an acquisition to any *location_mentioned*Country*/location_mentioned*; and
+any kindness or attention the generosity of your character may 
+dispose you to show him or his *person_mentioned*family */person_mentioned*consisting of a *person_mentioned*wife */person_mentioned*and several
+small *person_mentioned*children */person_mentioned*I am sure will be most gratefully felt and 
+acknowledged— If you can spare the time to write to one so almost a mere
+*person_mentioned*stranger */person_mentioned*it would afford me much pleasure— Every thing relative
+to your *location_mentioned*Country */location_mentioned*interests me much particularly its <hi rend="italic">Government</hi>, soil,
+productions, Exports, imports, climate, seasons, water etc and a
+letter embracing these topics or some or any of them, or any other
+would gratify me much— Be pleased to pardon this intrusion and
+believe me to be*/p*
+
+*p**person_mentioned*James Clark*/person_mentioned**/p*
+
+*p*[Addressed:] The *person_mentioned*Honbl S. Austin*/person_mentioned*   *location_mentioned*Texas*/location_mentioned*
+*/p*
+*/div1*
+</body>
+</text>
+</TEI.2>

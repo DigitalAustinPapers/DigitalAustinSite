@@ -1,0 +1,83 @@
+﻿
+<TEI.2 id="APB4128">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>01-08-1831</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 580-581</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Seth Ingram</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F Austin</document_recipient>
+<document_title>Seth Ingram to Stephen F Austin, 01-08-1831</document_title>
+<document_location>
+	<sent_from>Austin, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Seth Ingram to Austin, January 8, 1831. Reasons why his land grant should be augmented.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 580-581</barker_citation>
+</barker_notes>
+<document_digital_creation>09-03-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4128T">
+
+<body>
+*div1 type="summary"*
+*p*Seth Ingram to Austin, January 8, 1831. Reasons why his land grant should be augmented.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Austin*/location_mentioned*, *date_mentioned n="01-08-1831">Jan. 8, 1831*/date_mentioned**/p*
+
+*p*Dear Sir,*/p*
+
+*p*Your seeming unwillingness to converse on the subject I named
+to you this *date_mentioned n="01-08-1831">morning*/date_mentioned*, prevented my saying to you all I had intended
+on the subject of my petition to *person_mentioned*Govt */person_mentioned*for an augmentation of *location_mentioned*land*/location_mentioned*.<barker_pb n="581"/>
+My reasons for my intended petition is not a mere idle whim, it is
+because I was amongst the first who emigrated to the *location_mentioned*country*/location_mentioned*, It
+will shortly be eight years since I made the *location_mentioned*country */location_mentioned*my home. At
+that time, and nearly ever since, I have been engaged in a business,
+altogether profitable to the *location_mentioned*community*/location_mentioned*, and for many reasons well
+known to yourself, it has been quite the contrary to myself. I lost
+all my property that was of value to me at my first landing, to
+the amt. of upwards of $500.*/p*
+
+*p*The business I have followed could not be profitable to me, until
+the *location_mentioned*country */location_mentioned*should flourish, in consequence of which my last
+seven years has been spent in a labour, that is hard and rough, living
+in the woods, during all of which time, I have been saving and
+economical, and at this moment find myself not only poor, but
+largely in debt.*/p*
+
+*p*I have therefore thought, that as the *location_mentioned*country */location_mentioned*has been proffitted
+by the business I have followed, and has been of public utility,
+that it might entitle me to a claim on the *location_mentioned*country*/location_mentioned*, for a 
+remuneration of the losses I have sustained in her services. I wish no extra
+acquisition of *location_mentioned*lands */location_mentioned*unless I merit them, and whether I do or not,
+depends on the reasons above stated, all of which, comes within
+your knowledge*/p*.
+
+*p**person_mentioned*Seth Ingram   */person_mentioned* [Rubric]*/p*
+
+*p**person_mentioned*Col. Stephen F. Austin*/person_mentioned*.*/p*
+
+
+
+*/div1*
+</body>
+</text>
+</TEI.2>

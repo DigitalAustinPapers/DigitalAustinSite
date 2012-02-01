@@ -1,0 +1,66 @@
+﻿
+<TEI.2 id="APB1053">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>03-01-1825</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1053</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>H. Connell</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F. Austin</document_recipient>
+<document_title>H. Connell to Stephen F. Austin, 03-01-1825</document_title>
+<document_location>
+	<sent_from>Woodville</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>H. Connell to Austin, March 1,1825.    Intentions to move to Texas.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1053</barker_citation>
+</barker_notes>
+<document_digital_creation>05-31-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1053T">
+
+<body>
+*div1 type="summary"*
+*p*H. Connell to Austin, March 1,1825.    Intentions to move to Texas.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Woodville*/location_mentioned* *date_mentioned n="03-01-1825">March 1st 1825*/date_mentioned**/p*
+
+*p*Dear Sir,*/p*
+
+*p*I wrote a letter to you a few days ago by *person_mentioned*Mr. George Huff*/person_mentioned* by the
+way of *location_mentioned*New Orleans*/location_mentioned*, informing you that it was my intention to
+procure and settle the *location_mentioned*League of land*/location_mentioned* that you had promised *person_mentioned*Messrs
+Huff and Holliman*/person_mentioned* to reserve for me, and will leave here on the first
+of *date_mentioned n="06-01-1825">June next*/date_mentioned*, for your *location_mentioned*Country*/location_mentioned* for that purpose, and request the
+favour of you still to retain it for me as I am determined to procure
+it if possible and no accident happens.*person_mentioned* Mr. K. Holliman*/person_mentioned* wrote to
+you by *person_mentioned*Mr. L. Ramey*/person_mentioned* who is gone with *person_mentioned*Mr. Huff*/person_mentioned* informing you
+that he could not go before the *date_mentioned n="11-01-1825">first of November next*/date_mentioned* and his reasons
+etc which you will receive—*person_mentioned*Mr. Michael Holliman*/person_mentioned* will go with me
+together with several *person_mentioned*others */person_mentioned*all with the same views—The bearer *person_mentioned*Mr.
+William P. Perkins*/person_mentioned* is waiting on me and have not time to say more
+at present but will write again if an opportunity offers for fear of
+miscareges—*/p*
+                         *p* *person_mentioned* H.  CONNELL*/person_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,69 @@
+﻿
+<TEI.2 id="APB1795">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>11-24-1829</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 290</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>John Durst</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F Austin</document_recipient>
+<document_title>John Durst to Stephen F Austin, 11-24-1829</document_title>
+<document_location>
+	<sent_from>Nacogdoches, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>John Durst to Austin, Nacogdoches, November 24, 1829. Will follow procedure advised by Austin concerning Guerrero's emancipation decree. Character of the local authorities.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 290</barker_citation>
+</barker_notes>
+<document_digital_creation>08-16-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1795T">
+
+<body>
+*div1 type="summary"*
+*p*John Durst to Austin, Nacogdoches, November 24, 1829. Will follow procedure advised by Austin concerning Guerrero's emancipation decree. Character of the local authorities.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Nacogdochs*/location_mentioned*.*date_mentioned n="11-24-1829"> Novr 24 de 1829*/date_mentioned**/p*
+*p**person_mentioned*S. F. Austin Esqr*/person_mentioned**/p*
+
+*p*Dear Sir I receivd yours of the *date_mentioned n="11-17-1829">17th Instant*/date_mentioned* and am very 
+thankful to you for the troble you have taken in the complyence of
+my request, it has aforded Great Satisfaction to our *person_mentioned*friends*/person_mentioned*, and
+I am confident that the corse indicated will unanimosley be adopted
+to a man; you wish to Know what the *person_mentioned*Ayuntamto*/person_mentioned*. of this place
+will do it is hard telling so farr they have agreed to cooparate with
+My vews on that subject, but there [is] no Knowing what turn they
+may take they are a Boddy without souls and subjects easy worked
+on by intrigue the *person_mentioned*Militery comte*/person_mentioned*,. of this *location_mentioned*place */location_mentioned*has a considerable
+influence over them and is much of a *person_mentioned*scoundrel*/person_mentioned*, I have this day
+been credibly informd that he has long since conceivd the Plan
+of efecting a revolution amonst the *person_mentioned*Slaves */person_mentioned*against their *person_mentioned*Masters*/person_mentioned*
+he has even told me previos to this that he was astonished it did
+nott take place, but Little did I suspect him Capable of inducing
+them What are we to do with such a rascal, I hope el *person_mentioned*Sor. Padilla*/person_mentioned*
+will soon be on and put things to wright*/p*
+
+*p**person_mentioned*John Durst */person_mentioned*   [Rubric]*/p*
+
+
+*/div1*
+</body>
+</text>
+</TEI.2>

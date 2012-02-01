@@ -1,0 +1,107 @@
+﻿
+<TEI.2 id="APB4306">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>01-04-1832</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 732-733</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Stephen F Austin</document_author>
+<document_sender></document_sender>
+<document_recipient>Mary Austin Holley(</document_recipient>
+<document_title>Stephen F Austin to Mary Austin Holley, 01-04-1832</document_title>
+<document_location>
+	<sent_from>Austin, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Austin to Mary Austin Holley January 4, 1832. Trouble at Brazoria
+carried him beyond himself. Texas must remain united with Mexico as a
+State with right to legislate for itself.</barker_summary>
+	<barker_footnotes>Copy by Mrs. Holley, in file of July 19, 1831. See Austin to Terán, Jan. 8, and Terán
+to Austin, Jan. 27, 1832; also Austin to Holley, Feb. 19, 1832</barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 732-733</barker_citation>
+</barker_notes>
+<document_digital_creation>09-19-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4306T">
+
+<body>
+*div1 type="summary"*
+*p*Austin to Mary Austin Holley January 4, 1832. Trouble at Brazoria
+carried him beyond himself. Texas must remain united with Mexico as a
+State with right to legislate for itself.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Austin*/location_mentioned*, *date_mentioned n="01-04-1832">January 4, 1832*/date_mentioned**/p*
+*p*Dear *person_mentioned*Cousin*/person_mentioned*,*/p*
+
+*p*We are always more or less influenced by the state of the 
+atmosphere. While at *location_mentioned*Brazoria */location_mentioned*every thing around me was greatly above
+fever heat, and its influence could not but reach me. The rumour of
+difficulties has set in motion all the violent passions of the <hi rend="italic">body
+politic</hi>, and there will not be wanting persons who will catch at
+straws to attack and injure me if they can, and some of those I have
+most served will be foremost to raise a clamour against me. How
+little they know me!*/p*
+
+*p*The true interest of this *location_mentioned*country */location_mentioned*requires that it should remain
+united to *location_mentioned*Mexico */location_mentioned*<hi rend="italic">as a *location_mentioned*State */location_mentioned*</hi>that can legislate for itself in all local<barker_pb n="733"/>
+and internal matters.<hi rend="italic"> I must go to the *location_mentioned*interior */location_mentioned*by *date_mentioned n="02-xx-1832">February*/date_mentioned*</hi>. It
+will be a fatiguing journey, and [at] tended, perhaps, with difficulties
+and dangers. My situation is unpleasant and unnatural. I long
+for retirement and quiet, and I much fear that, in spite of myself,
+I shall be borne along on the current of events into a stormy and
+troubled sea. Such is life!—<hi rend="italic"> a speck between two eternities,</hi> as has
+been aptly said. A speck—and yet how much of troubles and 
+perplexities! But it is our all. The past is but a picture, a shadow
+of various hues. The future—we know not what. Theological and
+mythological contradictions and inconsistensies make it everything,
+anything, nothing. The mind is lost that seeks for a clear and 
+absolute demonstration of doctrinal or sectarian aphorisms, unless it
+rests with confidence upon the throne of <hi rend="italic">one, only just and 
+omnipotant *person_mentioned*God*/person_mentioned*;</hi>—the *person_mentioned*God */person_mentioned*of the eternity past—the speck—and the eternity
+to come—uncreated, and undeformed by mythological fancies, or
+theological investments—the self existing, consistent, and bountiful
+*person_mentioned*Father of Worlds*/person_mentioned*, of time and of Eternity. From such a throne the
+jargon and choas of religious strife may be calmly viewed and 
+understood. Yet it is sickening to see the wickedness that is practised
+under the most sacred of names, and beneath the garb of religion.*/p*
+
+*p*I reached *location_mentioned*home */location_mentioned**date_mentioned n="01-02-1832">night before last*/date_mentioned* after riding forty seven miles
+that day, and found *person_mentioned*sister Emily*/person_mentioned* at a ball, dancing away in fine
+spirits. She enjoyed the party, and I joined her, caught the 
+excitement, remembered your injunction to " laugh away care," and soon
+forgot my forty seven miles ride. *person_mentioned*Sister */person_mentioned*is quite delighted with the
+prospect of your removal here. I write without study or disguise,
+confident that you will be an indulgent and candid critic. The
+weather has been beautiful and I hope you are this day in *location_mentioned*New
+Orleans*/location_mentioned*.*/p*
+
+*p*Adiós, amiga mia.*/p*
+
+*p**person_mentioned*ESTEVAN*/person_mentioned*.*/p*
+
+*p*Your*person_mentioned* brother Henry*/person_mentioned* is authorized to chuse a situation for you
+out of my *location_mentioned*" Peach Point"*/location_mentioned* survey of *location_mentioned*premium land*/location_mentioned*—say two 
+hundred acres. I expect to be back soon enough to designate it myself
+before it will be necessary to begin building, and should prefer
+doing so, but if I am detained too long he can make a selection.
+Farewell.*/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

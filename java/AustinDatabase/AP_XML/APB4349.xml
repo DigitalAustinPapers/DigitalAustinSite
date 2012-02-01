@@ -1,0 +1,90 @@
+﻿
+<TEI.2 id="APB4349">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>05-23-1832</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 775-776</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Stephen F Austin</document_author>
+<document_sender></document_sender>
+<document_recipient>Samuel M Williams</document_recipient>
+<document_title>Stephen F Austin to Samuel M Williams, 05-23-1832</document_title>
+<document_location>
+	<sent_from>Victoria, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Austin to Samuel M. Williams, Victoria, May 23, 1832. Instructing him to locate certain grants including the present city of Austin,</barker_summary>
+	<barker_footnotes>From a copy presented to the university by Mrs. R. H. Connerly, Austin, Tex.
+ Above, May 8, 1832</barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 775-776</barker_citation>
+</barker_notes>
+<document_digital_creation>09-24-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4349T">
+
+<body>
+*div1 type="summary"*
+*p*Austin to Samuel M. Williams, Victoria, May 23, 1832. Instructing him to locate certain grants including the present city of Austin,*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Victoria */location_mentioned**date_mentioned n="05-23-1832">23 May 1832*/date_mentioned**/p*
+*p*Dr Sir.*/p*
+
+*p*I wrote you *date_mentioned n="05-22-1832">yesterday */date_mentioned*by mail, since then *person_mentioned*Mr Greaves*/person_mentioned* has 
+concluded to go on direct to *location_mentioned*Texas*/location_mentioned*, and not follow *person_mentioned*Mason */person_mentioned*and self
+in the <hi rend="italic">vuelta </hi>by *location_mentioned*Tampico */location_mentioned*through <hi rend="italic">heat </hi>and <hi rend="italic">war</hi>. you will find him
+a very usefull man, much more so than any I have ever seen in
+*location_mentioned*Texas */location_mentioned*for an office where Spanish and english is needed. You
+must make good use of the time between this and *date_mentioned n="01-xx-1833">Jany */date_mentioned*to bring
+up all the back writing of the *location_mentioned*office*/location_mentioned*.*/p*
+
+*p*I sent you from *location_mentioned*Saltillo */location_mentioned*by mail, all the necessary papers to
+finish the titles for the *location_mentioned*lands */location_mentioned*granted to the *person_mentioned*Aguirres */person_mentioned*and *person_mentioned*Vega*/person_mentioned*<barker_pb n="776"/>
+with directions as to locating it—on reflection I think I shall return
+*location_mentioned*home */location_mentioned*from *location_mentioned*Matamoros*/location_mentioned*—that is if I am not detained too long in
+getting there, and in that event I will attend to their location 
+myself—but I wish you to employ a *person_mentioned*person of confidence*/person_mentioned* to explore
+the land *location_mentioned*up the San Jacinto, west side,*/location_mentioned* and see if one of the *location_mentioned*grants*/location_mentioned*
+can not be located there <hi rend="italic">entire </hi>to advantage, have this done without
+delay so that I may know when I get there whether to take it or
+not. I wish the location on *location_mentioned*Onion Creek west side of Colorado,*/location_mentioned*
+and on the *location_mentioned*east side at the foot of the mountains*/location_mentioned*, also the *location_mentioned*cedar
+league N° 4 above Bastrop*/location_mentioned*—. <hi rend="italic">Enfin </hi>this land will cost me very dear
+and unless it is well located I shall loose on it.*/p*
+
+*p*You will see by the new colonization law that all sales heretofore
+made must be located within 18 months—this will cause a great
+push, and unless some care is taken all the land in our *location_mentioned*colony */location_mentioned*will be
+occupied by them—keep this in view—also remember that I have
+very advantageous offers to settle that *location_mentioned*colony */location_mentioned*which I shall decide
+upon after seeing the *person_mentioned*General*/person_mentioned*.*/p*
+
+*p*Above all things keep peace and harmony in the *location_mentioned*Colony*/location_mentioned*. We
+have <hi rend="italic">all sorts</hi> of reports here about *location_mentioned*Texas*/location_mentioned*, and it is said that three
+*person_mentioned*soldiers */person_mentioned*were killed at *location_mentioned*Anahuac */location_mentioned*by the crew of a vessell. I hope this
+is not so—do keep peace in that *location_mentioned*quarter*/location_mentioned*—urge this on the *person_mentioned*Ayto */person_mentioned*and
+on *person_mentioned*every one*/person_mentioned**/p*
+
+*p*Remember me to *person_mentioned*Sarah */person_mentioned*and all others.*/p*
+
+*p**person_mentioned*S. F. Austin*/person_mentioned**/p*
+
+
+*/div1*
+</body>
+</text>
+</TEI.2>

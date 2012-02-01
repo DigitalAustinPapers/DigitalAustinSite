@@ -1,0 +1,76 @@
+﻿
+<TEI.2 id="APB1012">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>01-13-1825</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1017-1018</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>William Little</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F. Austin</document_recipient>
+<document_title>William Little to Stephen F. Austin, 01-13-1825</document_title>
+<document_location>
+	<sent_from>Fort Settlement</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>William Little to Austin, January 13, 1825. Private land sales. Vital 
+statistics.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1017-1018</barker_citation>
+</barker_notes>
+<document_digital_creation>05-23-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1012T">
+
+<body>
+*div1 type="summary"*
+*p*William Little to Austin, January 13, 1825. Private land sales. Vital 
+statistics.*/p*
+*/div1*
+
+*div1 type="body"*
+*p**location_mentioned*Fort Settlement*/location_mentioned* *date_mentioned n="01-13-1825">13th Jany. 1825*/date_mentioned**/p*
+*p*Dear Sir*/p*
+
+*p*I know so little of the situations of *location_mentioned**person_mentioned*Mr Stafford*/person_mentioned* 's League*/location_mentioned* that I
+am unable to say positively that I will make Exchange with him
+if he has a good situation for stock at the *location_mentioned*Prairie*/location_mentioned* I think he can
+be accomodated with two hundred acres (not more.) by his paying
+all Expenses of surveying Transfers etc and obligating himself to
+move on to the land he may get of me with his *person_mentioned*family */person_mentioned*in the course
+of *date_mentioned n="Fall-1825">next fall*/date_mentioned*.   I wish to have one or two good *person_mentioned*neighbours */person_mentioned*and will<barker_pb n="1018"/>
+go as far as I can without loss to accomodate an industrious *person_mentioned*man*/person_mentioned*
+with a situation—I will be in *location_mentioned*Town */location_mentioned*as soon as the roads are so I
+can get up—we can then have a chat on the subject and no doubt
+make the arangement to suit all *person_mentioned*Parties*/person_mentioned*—Your *location_mentioned*colony */location_mentioned*Sir, is 
+increasing fast at least this *location_mentioned*bend of the Brasos*/location_mentioned*. on the morning of
+the *date_mentioned n="01-07-1825">7th*/date_mentioned* Inst *person_mentioned*Mrs Andrews*/person_mentioned* had Two fine *person_mentioned*Girls */person_mentioned*in the evening
+of the same day *person_mentioned*Mrs. Little*/person_mentioned* had a stout *person_mentioned*Boy*/person_mentioned*. all doing well—*person_mentioned*Mrs
+H Jones*/person_mentioned* had a *person_mentioned*son */person_mentioned*on *date_mentioned n="12-31-1824">last day of Decr*/date_mentioned*.
+*/p*
+*p**person_mentioned*Wm Little*/person_mentioned*    [Rubric]*/p*
+*p**person_mentioned*Col S. F. Austin*/person_mentioned**/p*
+
+*p*My *person_mentioned*Father */person_mentioned*will go to *location_mentioned*Town */location_mentioned*with me to arange our land as soon as
+we can get up.—he has been very unwell for some time but is getting
+better   yours—*person_mentioned*W. L. [william Little]*/person_mentioned*
+*/p*
+*p*Please to have the papers arranged so that may not have to stay
+long in *location_mentioned*Town*/location_mentioned*—*/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

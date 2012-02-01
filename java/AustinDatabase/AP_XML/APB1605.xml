@@ -1,0 +1,53 @@
+﻿
+<TEI.2 id="APB1605">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>09-10-1828</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 104</document_citation>
+<document_language>Spanish</document_language>
+<document_status>Public</document_status>
+<document_type>Address to Legislature</document_type>
+<document_author>Governor Viesca</document_author>
+<document_sender></document_sender>
+<document_recipient>Legislature of Coahuila and Texas</document_recipient>
+<document_title>Governor Viesca to Legislature of Coahuila and Texas, 09-10-1828</document_title>
+<document_location>
+	<sent_from>Unknown</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Governor José Maria Viesca to legislature, September 12, 1828. Pointing out defects in the militia law and suggesting amendments.    (Omitted.)</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 104</barker_citation>
+</barker_notes>
+<document_digital_creation>08-08-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1605T">
+
+<body>
+*div1 type="summary"*
+*p*Governor José Maria Viesca to legislature, September 12, 1828. Pointing out defects in the militia law and suggesting amendments.    (Omitted.)*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Saltillo*/location_mentioned*, *date_mentioned n="09-10-1828">September 10, 1828.*/date_mentioned**/p*
+
+*p*[Messages suggesting changes in Decree No. 58, militia regulations.
+Among other things he calls to the attention of the legislature the
+point raised by Austin, that the law declares that only native-born
+citizens are eligible to office.]*/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

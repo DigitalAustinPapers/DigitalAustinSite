@@ -1,0 +1,130 @@
+﻿
+<TEI.2 id="APB4497">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>12-19-1832</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 906-908</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>A C Ainsworth</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F Austin</document_recipient>
+<document_title>A C Ainsworth to Stephen F Austin, 12-19-1832</document_title>
+<document_location>
+	<sent_from>Montgomery, Alabama</sent_from>
+	<sent_to>San Felipe de Austin, Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>A. C. Ainsworth to Austin, Montgomery, Ala., December 19, 1832. Represents a number of planters in making certain inquiries concerning Texas.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 906-908</barker_citation>
+</barker_notes>
+<document_digital_creation>11-05-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4497T">
+
+<body>
+*div1 type="summary"*
+*p*A. C. Ainsworth to Austin, Montgomery, Ala., December 19, 1832. Represents a number of planters in making certain inquiries concerning Texas.*/p*
+*/div1*
+
+*div1 type="body"*
+
+
+*p**location_mentioned*Montgomery. Alabama.*/location_mentioned* *date_mentioned n="12-19-1832">Dec. 19th. 1832*/date_mentioned**/p*
+*p*Hon Sir,*/p*
+
+*p*I have been requested by a number of respectable *person_mentioned*Planters */person_mentioned*in this
+vicinity, to solicit from you by letter, such information as prudent
+minds deem necessary, before determining on an emigration to your<barker_pb n="907"/>
+*location_mentioned*Colony*/location_mentioned*—this request I hope will be an ample apology for the 
+freedom I take in addressing you—*/p*
+
+*p*The inquiries I am asked to make, are simply these—*/p*
+
+*p*1st. What is the precise <hi rend="italic">quantum </hi>of land, which a *person_mentioned*<hi rend="italic">planter </hi>*/person_mentioned*may depend on receiving as an inducement to become a *person_mentioned*citizen of *location_mentioned*Texas*/location_mentioned**/person_mentioned*?*/p*
+
+*p*2nd. Will he be allowed to <hi rend="italic">select </hi>pieces or *location_mentioned*parcels of land*/location_mentioned*, from
+any *location_mentioned*Section */location_mentioned*not otherwise disposed of?*/p*
+
+*p*3rd. The <hi rend="italic">expense </hi>requisite to <hi rend="italic">secure </hi>to himself, a <hi rend="italic">legal </hi>and 
+<hi rend="italic">indisputable title</hi> to such land, as under the <hi rend="italic">established provisions</hi> he
+may take?*/p*
+
+*p*4th. Can a man, bringing <hi rend="italic">Capital </hi>into the *location_mentioned*country */location_mentioned*purchase land,
+<hi rend="italic">adjoining </hi>that, granted by <hi rend="italic">Government</hi>?*/p*
+
+*p*5th. What distinction is made, as regards <hi rend="italic">quantity </hi>of land, between
+*person_mentioned*planters */person_mentioned*<hi rend="italic">with</hi>, and *person_mentioned*planters */person_mentioned*<hi rend="italic">without</hi>, *person_mentioned*families*/person_mentioned*?*/p*
+
+*p*6th. Do your laws affect the <hi rend="italic">tenure </hi>of *person_mentioned*<hi rend="italic">Slave </hi>*/person_mentioned*property—if so, what is best method of avoiding such <hi rend="italic">inconvenience</hi>:*/p*
+
+*p*7th. Must a *person_mentioned*<hi rend="italic">planter</hi>*/person_mentioned*, previous to opening land sufficient to afford
+subsistence for his *person_mentioned*<hi rend="italic">family</hi>*/person_mentioned*, pay for food, clothing and other 
+necessaries, an <hi rend="italic">extravagant </hi>price?*/p*
+
+*p*8th, Have you <hi rend="italic">good *location_mentioned*schools */location_mentioned*for the education of *person_mentioned*children*/person_mentioned*</hi>?*/p*
+
+*p*9th. What is the cheapest, most expeditious and <hi rend="italic">secure </hi>route *location_mentioned*from
+Alabama to your Colony*/location_mentioned*—and can wagons pass conveniently from
+<hi rend="italic">here</hi>, there?*/p*
+
+*p*10th. Are its <hi rend="italic">soil </hi>and <hi rend="italic">climate</hi>, as rich and good (in your opinion)
+as the soil and climate of *location_mentioned*Alabama */location_mentioned*or *location_mentioned*Mississippi */location_mentioned*?*/p*
+
+*p*The many extravagant and <hi rend="italic">contradictory </hi>accounts of *location_mentioned*Texas*/location_mentioned*, now
+afloat in this *location_mentioned*country*/location_mentioned*, are cause of such <hi rend="italic">particularity </hi>in my 
+questions—for the sake of those *person_mentioned*Planters */person_mentioned*who have employed me to 
+conduct this correspondence, I hope you will [be] able to glean time
+sufficient from the duties to which doubtless you are pressingly
+called, to answer them <hi rend="italic">fully</hi>— the facts, which in their behalf, I
+seek to obtain, were they generally understood, would bring your
+*location_mentioned*colony */location_mentioned*an accession of some of our most <hi rend="italic">sturdy </hi>and <hi rend="italic">valuable </hi> *person_mentioned*Planters*/person_mentioned*—good *person_mentioned*husbands*/person_mentioned*—good *person_mentioned*fathers */person_mentioned*and as a consequence, *person_mentioned*<hi rend="italic">amiable
+members of society</hi>*/person_mentioned*—Though it is not connected with the questions
+asked above, I would for my <hi rend="italic">own </hi>information enquire, whether the
+*person_mentioned*friends of *location_mentioned*Texas*/location_mentioned**/person_mentioned* can look with much certainty to a period when the
+*person_mentioned*Government of that *location_mentioned*Province*/location_mentioned**/person_mentioned* shall assume a different—perhaps an
+independent form—such a change would be prodigal of influence
+and importance, and do more than any other measure perhaps, to
+awaken the *location_mentioned*world*/location_mentioned*, and particularly the *location_mentioned*U. States*/location_mentioned*, to the value of its
+natural resources and probable merit of its political institutions—
+Should my enquiry meet your approbation, your views on this, as<barker_pb n="908"/>
+on the other subjects mentioned, will be received thankfully, and
+read with intense interest—*/p*
+
+*p*As *person_mentioned*attorney for my clients*/person_mentioned*, and from the esteem I have for your
+character,*/p*
+
+*p**person_mentioned*A. C. AlNSWORTH*/person_mentioned*.*/p*
+
+*p*P. S. Will you also inform me, what chance (if any) there is
+in your settlement for a young and persevering *person_mentioned*<hi rend="italic">Lawyer</hi>*/person_mentioned*? I am a
+*person_mentioned*native of *location_mentioned*Providence in Rhode-Island*/location_mentioned**/person_mentioned*—settled in this town—as I
+am so far from the " household hearth " and home's familiar voices,
+already, I would not object [to] a compliance with the solicitation
+of my *person_mentioned*friends */person_mentioned*to accompany them (supposing they go) if I can do
+as well even, there, as I am doing now in this place.*/p*
+
+*p*Excuse these <hi rend="italic">repeated </hi>requests, and believe me,*/p*
+
+*p**person_mentioned*A. C. AINSWORTH*/person_mentioned**/p*
+
+*p**person_mentioned*Hon. Austin*/person_mentioned*—*/p*
+
+*p*[Addressed:] *person_mentioned*Honr. Austin*/person_mentioned* *person_mentioned*St Felippe De Austin Brassora Texas
+*/person_mentioned*Pr *person_mentioned*Mr John A Barkley*/person_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

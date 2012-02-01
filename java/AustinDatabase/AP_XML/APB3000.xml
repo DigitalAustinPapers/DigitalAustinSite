@@ -1,0 +1,68 @@
+﻿
+<TEI.2 id="APB3000">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>09-15-1825</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1201</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>John R. Harris</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F. Austin</document_recipient>
+<document_title>John R. Harris to Stephen F. Austin, 09-15-1825</document_title>
+<document_location>
+	<sent_to>Unknown</sent_to>
+	<sent_from>Unknown</sent_from>
+</document_location>
+<barker_notes>
+	<barker_summary>Interpretation of the colonization law.   Analysis of his difficulties as empresario.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1201</barker_citation>
+</barker_notes>
+<document_digital_creation>05-19-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Cameron L. Sinclair, Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB3000T">
+
+<body>
+*div1 type="summary"*
+*p*Interpretation of the colonization law.   Analysis of his difficulties as empresario.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**date_mentioned n="09-15-1825">15 Sept 1825*/date_mentioned*.*/p*
+*p**person_mentioned*Col Austin*/person_mentioned**/p*
+
+*p*Dear Sir According to your request I have made every inquiry
+in regard to the Boats. One of the Boats that I calculated for the
+Trip I found on Examination was worm Eaten I employed *person_mentioned*Bloodgood */person_mentioned*to put new planks on her Bottom but after all some of her timbers was found to be decad consequently I got *person_mentioned*Col Knight*/person_mentioned* to go to
+*location_mentioned*Trinity*/location_mentioned* after a N Boat that was new *date_mentioned n="Spring - 1825">last Spring*/date_mentioned*, and also to call
+on *person_mentioned*Wilson*/person_mentioned* on *location_mentioned*San Jacinto*/location_mentioned* who has a good Boat but will want some
+repairs. *person_mentioned*Mr. Scott*/person_mentioned* has a boat that will answer the purpose, he says
+that he cannot let her go. Since I recd your letter the Sloop Mexican
+came to this place and I have purchased her. you mentioned that you
+wanted to get a Sloop or Schooner of Light draft of water. She
+when loaded will draw 3 feet 3 inches and a first Rate Sailer. I
+will furnish a good *person_mentioned*master */person_mentioned*and *person_mentioned*Crew */person_mentioned*provisions etc etc for one
+Hundred and Thirty five Dollars pr month, and be at the expense of
+keeping every thing in good repair. I expect *person_mentioned*Knight*/person_mentioned* in a few days
+from *location_mentioned*Trinity*/location_mentioned*, and then I can let you know what Situation the Boats
+will be in. If you conclude to hire the Sloop Mexican, please to let
+me know by the first opportunity*/p*
+
+*p**person_mentioned*Jno R Harris*/person_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

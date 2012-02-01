@@ -1,0 +1,74 @@
+﻿
+<TEI.2 id="APB1360">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>04-1-1827</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1627-1628</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>H. H. League</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F. Austin</document_recipient>
+<document_title>H. H. League to Stephen F. Austin, 04-1-1827</document_title>
+<document_location>
+	<sent_from>Bells Landing, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>H. H. League to Austin, April 11, 1827. Assistance for the Robertson colony.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1627-1628</barker_citation>
+</barker_notes>
+<document_digital_creation>07-21-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1360T">
+
+<body>
+*div1 type="summary"*
+*p*H. H. League to Austin, April 11, 1827. Assistance for the Robertson colony.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Bells landing*/location_mentioned* the *date_mentioned n="04-11-1827">11th April 1827*/date_mentioned**/p*
+*p**person_mentioned*Col Stephen F Austin*/person_mentioned**/p*
+
+*p*D sir I left the vessel on which I came in a few days since for
+the purpose of Calling on you at *location_mentioned*San Felipe*/location_mentioned* but haveing a favourable
+wind I learn that the Vessel will be at this place this *date_mentioned n="04-11-1827">Evening */date_mentioned*which<barker_pb n="1628"/>
+makes it necessary for me to Remain   so soon as all my *person_mentioned*families */person_mentioned*and
+their Effects are landed I will Immediately Visit *location_mentioned*San Felipe*/location_mentioned**/p*
+
+*p*I inclose you some documents from the *person_mentioned*Texas association */person_mentioned*which
+you will be so good as to peruse between this and the time I shall
+see you. the directory of the *person_mentioned*company */person_mentioned*has made free to solicit your 
+advice and assistance in accomplishing their Views the Tener of which
+you will be able to discover by an Examination of their documents,
+if in your Judgement it should be necessary they request through me
+that you would assist in forming an additional memorial to 
+government in their behalf if a change can be produced favourable to their
+Views they will introduce the whole *person_mentioned*800 families */person_mentioned*during next season
+and as many more as they may be authorised to bring and if the
+protection of their *person_mentioned*property */person_mentioned*can be garanteede the Emigration will
+be wealthy if the nature of things would permit I would be
+Extreamly glad to Imploy *person_mentioned*Mr Williams*/person_mentioned* to go on with me to *location_mentioned*Saltillo*/location_mentioned*,
+if it is possible for him to leave his other Business so long you [will]
+much oblige me by nameing the thing to him. we are all in fine
+health.   Give my Respects to the *person_mentioned*inhabitants */person_mentioned*of *location_mentioned*San Felipe*/location_mentioned* Generally*/p*
+
+*p**person_mentioned*H. H. League*/person_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,60 @@
+﻿
+<TEI.2 id="APB3030">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>11-18-1825</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1234</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Robert Williams</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F. Ausin</document_recipient>
+<document_title>Robert Williams to Stephen F. Ausin, 11-18-1825</document_title>
+<document_location>
+	<sent_from>Unknown</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Concerning slaves.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1234</barker_citation>
+</barker_notes>
+<document_digital_creation>06-08-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Cameron L. Sinclair, Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB3030T">
+
+<body>
+*div1 type="summary"*
+*p*Concerning slaves.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**date_mentioned n="11-18-1825">18 Nov. 1825*/date_mentioned**/p*
+*p**person_mentioned*Col. Austin*/person_mentioned**/p*
+
+*p*I was one day late Starting of the *person_mentioned*Boy*/person_mentioned* that I anticipated owing
+to my Losing of a horse*location_mentioned* on the rode */location_mentioned**person_mentioned*your man Mose*/person_mentioned* come back with
+*person_mentioned*Augustus*/person_mentioned* for *person_mentioned*Eliza Brooks*/person_mentioned* to ride home as my horse died *location_mentioned*on the
+road*/location_mentioned* it will be out of my power to procure her a horse as there is
+none *location_mentioned*in the settlement */location_mentioned*and at the time she returns home my horse
+will be *location_mentioned*on the camppain*/location_mentioned* the Bond that I gave you for the delivery
+of the *person_mentioned*Boy*/person_mentioned* you will deliver *person_mentioned*Mr Vandorne*/person_mentioned* in comply[ing] you will
+oblige me—*/p*
+
+*p**person_mentioned*Robt Williams*/person_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,80 @@
+﻿
+<TEI.2 id="APB1141">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>05-12-1826</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1330</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Robert Lewis</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F. Austin</document_recipient>
+<document_title>Robert Lewis to Stephen F. Austin, 05-12-1826</document_title>
+<document_location>
+	<sent_from>Santa Rosa</sent_from>
+	<sent_to>San Felipe de Austin, Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Robert Lewis to Austin, May 12, 1826. His disputes with the comisario of Santa Rosa. Prospect of trade between north Mexican States and Texas.
+Bastrop.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1330</barker_citation>
+</barker_notes>
+<document_digital_creation>06-15-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1141T">
+
+<body>
+*div1 type="summary"*
+*p*Robert Lewis to Austin, May 12, 1826. His disputes with the comisario of Santa Rosa. Prospect of trade between north Mexican States and Texas.
+Bastrop.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**person_mentioned*Col Austin, */person_mentioned*                                            *location_mentioned* Santa Rosa*/location_mentioned* *date_mentioned n="05-12-1826">12th May 1826*/date_mentioned*
+*/p*
+*p*D. sir,
+I am yet detaind here by the *person_mentioned*comisary */person_mentioned*I have expected every Mail,
+for the last 50 days to of gotten a discharge from the detention, The
+business is now before the *person_mentioned*President */person_mentioned*in *location_mentioned*Mexico*/location_mentioned*, and he has requested,
+that I should make a full statement of every thing that has taken
+place between me and the *person_mentioned*Comisary*/person_mentioned*, who has wrote several letters to
+*location_mentioned*Mexico */location_mentioned*against me, has committted himself so its of no effect, My
+Statement is proven in a proper Manner, and left here *date_mentioned n="05-04-1826">eight days
+since*/date_mentioned*, as soon as it can reach *location_mentioned*Mexico */location_mentioned*it will be acted on, the 
+*person_mentioned*Comisary */person_mentioned*is verry uneasy he has resigned his office,—I have no doubt but
+the trade from this quarter, May be drawn to the *location_mentioned*Brasses*/location_mentioned*, I am 
+endeavouring to effect this object, Severel *person_mentioned*Gentlemen */person_mentioned*of standing has
+promised as soon as there is a commercial House establishd, then
+they will come there to trade—I recd a letter the other day from our
+friend the *person_mentioned*Barron */person_mentioned*he was unwell at that time, A *person_mentioned*Docr */person_mentioned*from *location_mentioned*Saltillo*/location_mentioned*
+was here the other day and sais he has the Dropsy in the chest, he
+speaks of going to *location_mentioned*Texas */location_mentioned*in a short time,—Inclosd is a letter to *person_mentioned*Col.
+Bynum*/person_mentioned* I hope you will forward by the first safe opertunity.—The
+*person_mentioned*Indians */person_mentioned*are very troublesome at *person_mentioned*Sant Fernandes*/person_mentioned*, they have taken a
+part of there public Caviyard they have not done any Mischief here
+for some time
+
+*/p**p**person_mentioned*Robert Lewis*/person_mentioned*    [Rubric]*/p*
+
+*p*(Address)   *person_mentioned* Col Estephen F. Austin*/person_mentioned*, *location_mentioned*San Felipe de Austin*/location_mentioned*, *location_mentioned*Texas*/location_mentioned*.*/p*
+
+*p*P. S. Since I wrote the above I have recd information from
+*location_mentioned*Mexico*/location_mentioned*, that my business has taken a turn in my favour, but was
+waiting for the Documents, I have aluded to*/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

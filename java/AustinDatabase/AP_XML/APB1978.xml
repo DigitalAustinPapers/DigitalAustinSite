@@ -1,0 +1,79 @@
+﻿
+<TEI.2 id="APB1978">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>07-04-1830</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 440</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Stephen F Austin</document_author>
+<document_sender></document_sender>
+<document_recipient>James F Perry</document_recipient>
+<document_title>Stephen F Austin to James F Perry, 07-04-1830</document_title>
+<document_location>
+	<sent_from>Austin, Texas</sent_from>
+	<sent_to>Potosi, Missouri</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Austin to James F. Perry, July 4, 1830. Assuring him that Texas affairs are clearing up.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 440</barker_citation>
+</barker_notes>
+<document_digital_creation>08-23-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1978T">
+
+<body>
+*div1 type="summary"*
+*p*Austin to James F. Perry, July 4, 1830. Assuring him that Texas affairs are clearing up.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Austin */location_mentioned**date_mentioned n="07-04-1830">July 4. 1830*/date_mentioned**/p*
+*p*Dr *person_mentioned*Brother*/person_mentioned**/p*
+
+*p*I embrace an opportunity to say to you that all the difficulties
+which appeared to be brewing when you were here have passed away,
+and everything is going on well, and emigration to my *location_mentioned*colony */location_mentioned*will
+not be stoped— I have given you this information least what you
+see in the *location_mentioned*U. S. papers*/location_mentioned* should cause you to forget what I told you,
+which was to have faith in me, and to pay no attention to any thing
+you saw or heard that did not come from me— I know more about
+these matters than the *location_mentioned*news papers*/location_mentioned* and every thing has happend
+exactly as I told you it would, when you left here.*/p*
+
+*p*The *location_mentioned*custom house at Galveston*/location_mentioned* is suspended by order of Govt.
+and the reason given is that the exemptions from duties in favor of
+the *person_mentioned*colonist */person_mentioned*of *location_mentioned*Texas */location_mentioned*has rendered it unnecessary to establish any
+*location_mentioned*custom houses*/location_mentioned* here for the present— All goes on well, very well,—
+Take care tho and bring no Tobacco, except a little of choise quality
+to chew for the use of the *person_mentioned*colonists*/person_mentioned*, and try and get in by the *date_mentioned n="12-01-1830">1 of
+December*/date_mentioned**/p*
+
+*p**person_mentioned*S. F. Austin  */person_mentioned*  [Rubric]*/p*
+
+*p*I have sent a copy of the above to *person_mentioned*price and Morgan*/person_mentioned* *location_mentioned*Phia */location_mentioned*I have
+engaged the building of a *location_mentioned*house */location_mentioned*in this place for you to winter in and
+a *location_mentioned*store room*/location_mentioned* etc— bring all manner of peach seeds and a barrel of
+them—*person_mentioned*Sam Browne*/person_mentioned* is well and more and more pleased with the
+*location_mentioned*country */location_mentioned*the more he sees—-   remember me to the *person_mentioned*children*/person_mentioned**/p*
+
+*p**person_mentioned*A */person_mentioned*[Rubric]*/p*
+
+*p*[Addressed:]*person_mentioned* Mrs. Emily M. Perry */person_mentioned* *location_mentioned* Potosi   Missouri*/location_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

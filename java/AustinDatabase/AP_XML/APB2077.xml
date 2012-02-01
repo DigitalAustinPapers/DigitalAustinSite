@@ -1,0 +1,71 @@
+﻿
+<TEI.2 id="APB2077">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>08-10-1825</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 1162</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Aylett C Buckner</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F Austin</document_recipient>
+<document_title>Aylett C Buckner to Stephen F Austin, 08-10-1825</document_title>
+<document_location>
+	<sent_from>Colorado, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Aylett C. Buckner to Austin, August 10, 1825. Desiring Austin's good offices in a dispute with James Cummins.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1162</barker_citation>
+</barker_notes>
+<document_digital_creation>12-24-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB2077T">
+
+<body>
+*div1 type="summary"*
+*p*Aylett C. Buckner to Austin, August 10, 1825. Desiring Austin's good offices in a dispute with James Cummins.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Colorado */location_mentioned**date_mentioned n="08-10-1825">10th August 1825*/date_mentioned**/p*
+*p**person_mentioned*Col° Austin*/person_mentioned**/p*
+
+*p*0  my friend if the espression may be applyed; There is an affair
+existing between *person_mentioned*J. Cummings*/person_mentioned* and myself: which I wish and
+must have settled, My hart Cannot sustain the burthen which it
+now has to support: As I told you a few days ago never can I
+brook to impositions from any man much less from a man of 
+*person_mentioned*Cumming*/person_mentioned*'s standing; Never the less I will condecend to meet him at
+any hour on or before the setting of the present sun that my hart
+may bleed out its vengeance and be releaved of that torment with
+which I am so deeply oppressed—*/p*
+
+*p*I would have suggested the affair *date_mentioned n="08-09-1825">yesterday */date_mentioned*but I was not 
+disposed to bring about any confusion while you were executing the
+functions of your office*/p*
+
+*p*Whenever I leave this world I wish to be buryed under my own
+soil I therefore wish to purchase or make arrangements for *location_mentioned*one
+thousand acres of Land*/location_mentioned*    Yours with the highest
+Esteem and respect*/p*
+
+*p**person_mentioned*Aylett C Buckner*/person_mentioned**/p*
+
+
+*/div1*
+</body>
+</text>
+</TEI.2>

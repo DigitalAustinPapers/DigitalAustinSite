@@ -1,0 +1,66 @@
+﻿
+<TEI.2 id="APB4412">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>08-19-1832</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 846</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Morgan and Reed</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F Austin</document_recipient>
+<document_title>Morgan and Reed to Stephen F Austin, 08-19-1832</document_title>
+<document_location>
+	<sent_from>Harrisburg, Texas</sent_from>
+	<sent_to>Austin, Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Morgan and Reed to Austin, August 19, 1832. Declining to charter schooner to transport troops to Tampico.   (Omitted.)[Document is included - DML]</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 846</barker_citation>
+</barker_notes>
+<document_digital_creation>10-02-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4412T">
+
+<body>
+*div1 type="summary"*
+*p*Morgan and Reed to Austin, August 19, 1832. Declining to charter schooner to transport troops to Tampico.   (Omitted.) [Document is included - DML]*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**person_mentioned*Col. S. F. Austin*/person_mentioned*,*/p*
+
+*p**location_mentioned*Harrisburg */location_mentioned**date_mentioned n="08-19-1832">19th. Augt 1832*/date_mentioned**/p*
+*p*Sir, We have been favor'd with yours of the *date_mentioned n="08-17-1832">17th*/date_mentioned*. offering to
+charter the schooner Exert to transport the *person_mentioned*troops of *location_mentioned*Nacogdoches*/location_mentioned**/person_mentioned*
+to *location_mentioned*Tampico*/location_mentioned*. A voyage of the kind you have suggested will so
+materially interfere with our previous arrangements that we 
+cannot consent to let our vessel perform it. The Exert is under 
+contract to take a load of lumber from *location_mentioned*Galveston Island*/location_mentioned* to *location_mentioned*Brazoria*/location_mentioned*—
+She is now ready (having lately undergone a thorough repair)
+and will sail *date_mentioned n="08-20-1832">tomorrow*/date_mentioned*—We calculate on her arriving at *location_mentioned*Braz*/location_mentioned*. by,
+or before, the *date_mentioned n="09-01-1832">1st. Sept*/date_mentioned*. There is no doubt of your obtaining the
+Martha—. We are not prepared to say whether provissions and a
+sufficient number of water casks are to be had for such a voyage.
+We have some provissions on hand and believe there are more at
+*location_mentioned*Anahuac*/location_mentioned*.*/p*
+
+*p**person_mentioned*Morgan and Reed*/person_mentioned*—*/p*
+
+
+*/div1*
+</body>
+</text>
+</TEI.2>

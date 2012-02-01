@@ -1,0 +1,93 @@
+﻿
+<TEI.2 id="APB4301">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>12-27-1831</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 727</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Stephen F Austin</document_author>
+<document_sender></document_sender>
+<document_recipient>James F Perry</document_recipient>
+<document_title>Stephen F Austin to James F Perry, 12-27-1831</document_title>
+<document_location>
+	<sent_from>Brazoria, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Austin to James F. Perry, [December] 27, 1831, Advising settlement at
+Peach Point.   Importance of cheerful spirits.   Progress of Texas
+</barker_summary>
+	<barker_footnotes> Original in possession of Mrs. E. L. Perry.</barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 727</barker_citation>
+</barker_notes>
+<document_digital_creation>09-18-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4301T">
+
+<body>
+*div1 type="summary"*
+*p*Austin to James F. Perry, [December] 27, 1831, Advising settlement at
+Peach Point.   Importance of cheerful spirits.   Progress of Texas
+*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Brazoria */location_mentioned**date_mentioned n="12-27-1831">[Dec] 27. 1831*/date_mentioned**/p*
+*p*Dr *person_mentioned*brother */person_mentioned*:*/p*
+
+*p*I recd yours from *location_mentioned*Bells */location_mentioned*and have sent all the letters by *person_mentioned*McKinney*/person_mentioned*
+that I can find there is but <hi rend="italic">one</hi>— *person_mentioned*John */person_mentioned*open'd one which is the
+invoice of the goods on board the Dart, he will want it to regulate
+the manifest— The <hi rend="italic">Dart </hi>will be here tomorrow, also the <hi rend="italic">Elizabeth</hi>
+and <hi rend="italic">Wildcat</hi>— They all left the mouth this morning-—<hi rend="italic">all well and
+harmoney</hi>. *person_mentioned*Hunter */person_mentioned*had best come down I think to attend to the
+goods, tho I do not know what arrangements he made*/p*
+
+*p*As to settling—I left the whole matter to you from the first—and
+did not urge you to any one place in particular I wished you to
+please <hi rend="italic">yourself</hi>— I will now give a <hi rend="italic">positive opinion</hi>, which is that
+you go direct and immediately to *location_mentioned*Peach point*/location_mentioned*, or come to this *location_mentioned*place*/location_mentioned*—
+The idea of a <hi rend="italic">good house</hi> for this year must be abandoned, *location_mentioned*log 
+cabbins*/location_mentioned* must do—remove all your stock to *location_mentioned*peach point*/location_mentioned*, make corn there
+*location_mentioned*in the cane brake*/location_mentioned*—let the work at *location_mentioned*Chocolate*/location_mentioned* go and begin down here
+at once—and from this time forward make up your mind finally and
+definitively on the subject—and also keep up your sperits—no low
+sperits will do in any one as nearly connected to me as you are—it
+is noticed by others and attributed to the wrong cause*/p*
+
+*p**person_mentioned*Mrs Holly*/person_mentioned* has gone. *person_mentioned*She */person_mentioned*and *person_mentioned*Henrys wife*/person_mentioned* send their love to
+*person_mentioned*Emily*/person_mentioned*—*person_mentioned*Mrs. H.*/person_mentioned* is a <hi rend="italic">divine </hi>*person_mentioned*woman*/person_mentioned*— she will be a *person_mentioned*neighbor */person_mentioned*at
+*location_mentioned*peach point,*/location_mentioned* also *person_mentioned*Henry */person_mentioned*and *person_mentioned*Archibald*/person_mentioned*. I mean to make a little
+world there of my own*/p*
+
+*p*Keep up, my Dr *person_mentioned*brother*/person_mentioned*—keep up your spirits we will be happy
+when we are all collected at *location_mentioned*Peach point*/location_mentioned**/p*
+
+*p*Shall be up soon*/p*
+
+*p**person_mentioned*Stephen*/person_mentioned**/p*
+
+*p*I have now taken it on myself to direct where you ought to 
+settle—think no more about it but go to *location_mentioned*peach point*/location_mentioned* and fix some 
+*location_mentioned*cabbins */location_mentioned*or a *location_mentioned*camp*/location_mentioned*, and let building alone for this year— *date_mentioned n="xx-xx-1828">Three years
+ago*/date_mentioned* *person_mentioned*Westall */person_mentioned*began where he is—he had 1 *person_mentioned*negro */person_mentioned*man 1 *person_mentioned*boy */person_mentioned*3 *person_mentioned*women*/person_mentioned*—
+this year he <hi rend="italic">only makes 80 bales of cotton</hi>.*/p*
+
+
+
+*/div1*
+</body>
+</text>
+</TEI.2>

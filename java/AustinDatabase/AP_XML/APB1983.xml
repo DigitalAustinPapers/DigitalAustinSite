@@ -1,0 +1,68 @@
+﻿
+<TEI.2 id="APB1983">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>07-08-1830</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 444</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Jesse Woodbury</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F Austin</document_recipient>
+<document_title>Jesse Woodbury to Stephen F Austin, 07-08-1830</document_title>
+<document_location>
+	<sent_from>San Felipe de Austin, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Jesse Woodbury to Austin, July 8, 1830. Receipt for $14 with which to buy books.    Report on the commission.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 444</barker_citation>
+</barker_notes>
+<document_digital_creation>08-23-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1983T">
+
+<body>
+*div1 type="summary"*
+*p*Jesse Woodbury to Austin, July 8, 1830. Receipt for $14 with which to buy books.    Report on the commission.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Sn Felipe de Austin*/location_mentioned* *date_mentioned n="07-08-1830">8th July 1830*/date_mentioned**/p*
+*p*Recd of *person_mentioned*Stephen F Austin*/person_mentioned* fourteen Dollars handed me by him for
+the purpose of my purchasing for him in *location_mentioned*New York*/location_mentioned* some Books as
+per Memorandum given Me by sd *person_mentioned*Austin*/person_mentioned**/p*
+
+*p**person_mentioned*Jesse Woodbury*/person_mentioned**/p*
+
+*p**person_mentioned*J. WoodBury Jr*/person_mentioned*.*/p*
+
+*p*Bot of *person_mentioned*Collins and Hanney*/person_mentioned* *location_mentioned*No. 230 Pearl Street*/location_mentioned**/p*
+
+*p*1  Webbters Dictionary—----$2.00*/p*
+
+*p*2  Spanish and English do------$4.00*/p*
+
+*p**date_mentioned n="01-27-1831">January 27th 1831.*/date_mentioned*   Recd Peyt-----$3.00*/p*
+
+*p*The orthography of The Spanish academy of Madrid Could not be
+found Through The *location_mentioned*City*/location_mentioned**/p*
+
+*p**person_mentioned*J W Jr*/person_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

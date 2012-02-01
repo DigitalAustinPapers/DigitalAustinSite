@@ -1,0 +1,63 @@
+﻿
+<TEI.2 id="APB1321">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>11-06-1826</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1493</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Robert Desha</document_author>
+<document_sender>Col. Benjamin F Fauster</document_sender>
+<document_recipient>Stephen F. Austin</document_recipient>
+<document_title>Robert Desha to Stephen F. Austin, 11-06-1826</document_title>
+<document_location>
+	<sent_from>Nashville, Tennessee</sent_from>
+	<sent_to>Austin's Grant, Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Robert Desha to Austin, November 6, 1826.    Introducing B. F. Foster.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1493</barker_citation>
+</barker_notes>
+<document_digital_creation>07-17-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1321T">
+
+<body>
+*div1 type="summary"*
+*p*Robert Desha to Austin, November 6, 1826.    Introducing B. F. Foster.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p*Dear ser.*/p*
+
+*p*My friend *person_mentioned*Col. Benjamin F Fauster*/person_mentioned* will hand you this;*/p*
+
+*p*The *person_mentioned*Col*/person_mentioned*. is the *person_mentioned*agent for the Texas Association Company*/person_mentioned* and will
+reside in that *location_mentioned*Country*/location_mentioned*.*/p*
+
+*p*You will find him an intelligent Gentlemanly *person_mentioned*man*/person_mentioned*, and one in
+whom you will be pleased on an acquaintance—any services you can
+render him whilst in your *location_mentioned*Country */location_mentioned*will be acknowledged etc.—*/p*
+
+*p**person_mentioned*Robt Desha*/person_mentioned**/p*
+
+*p*[Addressed:] *person_mentioned*Col. Stephen F Austin*/person_mentioned* *location_mentioned*Austins Grant Texas Pr.
+*/location_mentioned**person_mentioned*Col. Fauster*/person_mentioned**/p*
+
+
+*/div1*
+</body>
+</text>
+</TEI.2>

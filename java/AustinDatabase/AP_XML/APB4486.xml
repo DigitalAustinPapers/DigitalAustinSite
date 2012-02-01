@@ -1,0 +1,62 @@
+﻿
+<TEI.2 id="APB4486">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>11-30-1832</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 894</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Anthony Butler</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F Austin</document_recipient>
+<document_title>Anthony Butler to Stephen F Austin, 11-30-1832</document_title>
+<document_location>
+	<sent_from>San Felipe de Austin, Texas</sent_from>
+	<sent_to>Unkonwn</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Anthony Butler to Austin, November 30, 1832.   Order for $38.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 894</barker_citation>
+</barker_notes>
+<document_digital_creation>11-04-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4486T">
+
+<body>
+*div1 type="summary"*
+*p*Anthony Butler to Austin, November 30, 1832.   Order for $38.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*San Felipe*/location_mentioned* *date_mentioned n="11-30-1832">Nov 30th 1832*/date_mentioned**/p*
+*p**person_mentioned*Col S. F. Austin*/person_mentioned**/p*
+
+*p*Will please pay *person_mentioned*Lemuel Crawford*/person_mentioned* or order thirty eight dollars
+for work done on *location_mentioned**person_mentioned*Col Anthony Butler*/person_mentioned*s building*/location_mentioned* in this place, which
+charge to a/c*/p*
+
+*p**person_mentioned*Anthony Butler*/person_mentioned**/p*
+*p*by *person_mentioned*Jno. K. Jones, Agent*/person_mentioned*,*/p*
+*p*Pay *person_mentioned*Jno. E. Jones*/person_mentioned* or order for value recd *date_mentioned n="12-01-1832">Dec. lst 1832*/date_mentioned**/p*
+
+*p**person_mentioned*Lemuel Crawford*/person_mentioned**/p*
+*p*Recd. Payment in full *date_mentioned n="01-13-1833">Jany 13th 1833*/date_mentioned*.*/p*
+
+*p**person_mentioned*Jno. B. Jones*/person_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

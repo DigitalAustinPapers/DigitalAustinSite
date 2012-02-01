@@ -1,0 +1,91 @@
+﻿
+<TEI.2 id="APB4639">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>05-13-1834</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 1055-1056</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Lettter</document_type>
+<document_author>James F Perry</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F Austin</document_recipient>
+<document_title>James F Perry to Stephen F Austin, 05-13-1834</document_title>
+<document_location>
+	<sent_from>San Felipe de Austin, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>James F. Perry to Austin, May 13, 1834. Anxiety for Austin, Conditions in Texas.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1055-1056</barker_citation>
+</barker_notes>
+<document_digital_creation>12-03-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4639T">
+
+<body>
+*div1 type="summary"*
+*p*James F. Perry to Austin, May 13, 1834. Anxiety for Austin, Conditions in Texas.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*San Felipe de Austin*/location_mentioned* *date_mentioned n="05-13-1834">13th May 1834*/date_mentioned**/p*
+*p*My Dear *person_mentioned*Brother*/person_mentioned**/p*
+
+*p*I enclose this to our beloved *person_mentioned*Pastor Father Muldoon*/person_mentioned* through
+whose kindness I hope you will receive it knowing your anxiety to
+hear from us. *person_mentioned*Emily */person_mentioned*and myself both wrote to you a short time
+since by the way of *location_mentioned*New Orleans*/location_mentioned* which I hope you have recd. We
+have not recd a line from you since you left *location_mentioned*Montary */location_mentioned*nor has there
+been any direct information recd of you since shortly after you 
+arrived at the *location_mentioned*city of Mexico*/location_mentioned*, our anxiety on your act. is very great—
+not through fear of any charges which can be brought against you
+as we have too much confidence in the *person_mentioned*Justness of the enlightened
+officers of the *location_mentioned*Mexican nation*/location_mentioned**/person_mentioned* to think that they would treat you
+unjustly and knowing as we do that you have committed no offence,
+we fear not a fair exposetion of all your conduct but knowing the
+many severe attacks of diseas you have had caused from fatigue and
+exposure, we fear for your health but we still hope you are now
+on your way home and anticipate the happy moment when we may
+once more meet, the hour for the arrival of the mail today was
+looked for here In hopes that some intelligence would be recd of
+you but to our mortification not a word came, what can be the
+cause We cannot conceive. I left home *date_mentioned n="05-03-1834">ten days since*/date_mentioned* the *person_mentioned*family*/person_mentioned*
+were all well *person_mentioned*Emily */person_mentioned*enjoys tolerable health and all that is wanting
+to make her happy is your return once more the weather has been
+dry and fair so far and bids fair for a healthy season and good
+crops. *person_mentioned*Mr Pilgram*/person_mentioned* still continues with us the *person_mentioned*children */person_mentioned*are very
+well.    *person_mentioned*Stephen F Austin*/person_mentioned* is going to school to him and begins to<barker_pb n="1056"/>
+learn fast *person_mentioned*Col. Philips*/person_mentioned* is in a very bad health it is doubtful
+whether he will recover. *person_mentioned*S. M. Williams*/person_mentioned* left two weeks since for
+*location_mentioned*New Orleans*/location_mentioned*, everything is going on here smoothly, a fair 
+prospect for crops in *location_mentioned*every part of the colony*/location_mentioned* and the passage of some
+Salutary Laws by the *person_mentioned*Congress of the State*/person_mentioned* encourages us to look
+forward to prosperity and happiness.*/p*
+
+*p*By the last mail the *person_mentioned*Ayuntamiento of the *location_mentioned*Jurisdiction*/location_mentioned**/person_mentioned* forwarded
+to the *person_mentioned*Genl Government*/person_mentioned* a petition praying your release and 
+informing them that you had done nothing but what you was expected
+and instructed to do.*/p*
+
+*p*May God bless and protect you and hasten your return to your
+*person_mentioned*relatives */person_mentioned*and *person_mentioned*friends */person_mentioned*is the sincere prayer of your affectionat
+*person_mentioned*Brother*/person_mentioned**/p*
+
+*p*[James F. Perry.]*/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

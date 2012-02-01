@@ -1,0 +1,71 @@
+﻿
+<TEI.2 id="APB1098">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>05-09-1825</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1089</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Sam Sexton</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F. Austin</document_recipient>
+<document_title>Sam Sexton to Stephen F. Austin, 05-09-1825</document_title>
+<document_location>
+	<sent_from>Alexandria, Louisiana</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Sam Sexton to Austin, May 9, 1825.   Concerning land for Sexton and Morgan.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1089</barker_citation>
+</barker_notes>
+<document_digital_creation>06-08-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1098T">
+
+<body>
+*div1 type="summary"*
+*p*Sam Sexton to Austin, May 9, 1825.   Concerning land for Sexton and Morgan.*/p*
+*/div1*
+
+*div1 type="body"*
+
+
+*p**location_mentioned*Alexandria*/location_mentioned* *date_mentioned n="05-09-1825">9th May 1825*/date_mentioned*.*/p*
+*p**person_mentioned*Col Stephen F. Austin*/person_mentioned**/p*
+
+*p*my dear sir I shall be out with young *person_mentioned*Mr. Groce*/person_mentioned* when he 
+returns the latter part of this month in order to locate the land granted
+to *person_mentioned*Sexton */person_mentioned*and *person_mentioned*Morgan*/person_mentioned*, erect some *location_mentioned*buildings*/location_mentioned*, and make preparations
+to remove my *person_mentioned*family */person_mentioned*the ensuing *date_mentioned n="Fall- 1825">fall */date_mentioned*or *date_mentioned n="Winter - 1825">winter*/date_mentioned*.
+I shall come prepared to pay for the other Leage, and should be
+glad to secure *location_mentioned*2 or 3 three more Leagues*/location_mentioned* for my *person_mentioned*friends */person_mentioned*whom I 
+expect on from the *location_mentioned*north*/location_mentioned*. *person_mentioned*Mr. Thomas Hooper*/person_mentioned* accompanies me, who
+will be ready to fulfill the engagements *person_mentioned*Mr. Morgan*/person_mentioned* made with
+you concerning the *location_mentioned*J league */location_mentioned*on the *location_mentioned*Brasos*/location_mentioned*—I am informed you 
+intend visiting the *location_mentioned*interior */location_mentioned*this *date_mentioned n="Summer - 1825">summer*/date_mentioned*. I expect to arrive before
+your departure; if I should not, I hope you will have the business in
+such a train that my *location_mentioned*land */location_mentioned*can be surveyed and titles made out so that
+I can go on to build for the solo purpose of my journey this *date_mentioned n="Summer - 1825">summer*/date_mentioned*
+is to make preperations to remove my *person_mentioned*family */person_mentioned*in the *date_mentioned n="Winter - 1825">winter*/date_mentioned**/p*
+
+*p**person_mentioned*Mr. James Brown*/person_mentioned* accompanies me likewise, and it is of importance
+for us all to see you before your departure. I hope you will delay a
+few days on our account should any accident retard or journey.*/p*
+
+*p**person_mentioned*Sam Sexton*/person_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

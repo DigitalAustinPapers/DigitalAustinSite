@@ -1,0 +1,152 @@
+﻿
+<TEI.2 id="APB1977">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>07-03-1830</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 437-440</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Stephen F Austin</document_author>
+<document_sender></document_sender>
+<document_recipient>Texas Gazette</document_recipient>
+<document_title>Stephen F Austin to Texas Gazette, 07-03-1830</document_title>
+<document_location>
+	<sent_from>Unknown</sent_from>
+	<sent_to>San Felipe de Austin, Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Editorial by Austin in Texas Gazette, July 8, 1830. Calming popular apprehension over the law of April 6, 1830.</barker_summary>
+	<barker_footnotes>Issue of July 3, 1830. It is followed by a translation of Teran's letter to Austin
+June 14, 1830, quoting letter to Piedras of same date giving interpretation of the law
+of April 6, 1830.    This is followed by translation of the law of April 6.</barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 437-440</barker_citation>
+</barker_notes>
+<document_digital_creation>08-23-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1977T">
+
+<body>
+*div1 type="summary"*
+*p*Editorial by Austin in Texas Gazette, July 8, 1830. Calming popular apprehension over the law of April 6, 1830.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p*We this day publish a translation of the law passed by the 
+National Congress, on the *date_mentioned n="04-06-1830">6th of April last*/date_mentioned*, and also, the official
+letter of his *person_mentioned*Excellency General Manuel de Mier y Teran,*/person_mentioned* to the
+*person_mentioned*Empresario of this colony*/person_mentioned*.*/p*
+
+*p*By an attentive perusal of the law it will be seen, that the 
+privileges granted in it relative to the coasting trade, and to the introduc-<barker_pb n="438"/>
+tion of provisions and lumber free of duty into the *location_mentioned*ports of Galveston
+and Matagorda */location_mentioned*are of the highest importance to the prosperity of
+*location_mentioned*Texas*/location_mentioned*, and must tend most efficiently to promote its rapid 
+advancement.*/p*
+
+*p*The encouragement offered for the establishment of *location_mentioned*manufactories*/location_mentioned*
+is also important, and there cannot be a doubt that many 
+enterprising *person_mentioned*capitalists */person_mentioned*will turn their attention to that branch of 
+industry. Perhaps no *location_mentioned*country */location_mentioned*combines more real advantages than
+are presented in *location_mentioned*Texas */location_mentioned*for the establishment of cotton and woolen
+*location_mentioned*factories*/location_mentioned*. The raw material of the best quality can be raised in the
+greatest abundance, and cheaper than in any other part of *location_mentioned*North
+America.*/location_mentioned* Our soil yields the most luxuriant growth of cotton of
+the best quality. Our natural *location_mentioned*pasturage */location_mentioned*for sheep, in the 
+*location_mentioned*undulating and hilly sections in the northern parts of Texas,*/location_mentioned* are surpassed
+by none in any *location_mentioned*country*/location_mentioned*; and countless thousands of them may be
+raised, with no other expense than a few shepherds. Provisions
+may be easily produced. Good situations for machinery, with water,
+steam, or ox power are numerous. Our *location_mentioned*harbors */location_mentioned*are sufficient for all
+the purposes of commerce. Our communications with the *location_mentioned*Mexican
+ports*/location_mentioned* are open and unembarrassed. The *location_mentioned*markets*/location_mentioned*, in those *location_mentioned*ports*/location_mentioned*,
+are the best in the *location_mentioned*world*/location_mentioned*, for the sale of cotton or other woolen
+goods, such as might be manufactured in *location_mentioned*Texas*/location_mentioned*. In short, all that
+nature and a liberal and munificent government can do has been
+done, and nothing is now wanting but capital, enterprise and
+industry.*/p*
+
+*p*The 10th. article of the law clearly secures the rights of the
+*person_mentioned*colonists */person_mentioned*who are already settled. It also guarantees the rights of
+all the *person_mentioned*emigrants */person_mentioned*who are comprehended in the contracts of 
+*person_mentioned*empresarios */person_mentioned*whose*location_mentioned* colonies are established*/location_mentioned*, and permits the full 
+completion of such contracts, to the full number contracted for. So that
+emigration to the *location_mentioned*colony */location_mentioned*is not stopped as was erroneously rumored.
+The *person_mentioned*settlers */person_mentioned*who are not comprehended in any *location_mentioned*colony*/location_mentioned*, may also be
+provided for, as will be seen by reference to the powers granted to
+the General Government [Commandant] in the 3rd article.*/p*
+
+*p*The official letter of his*person_mentioned* Excellency General Teran,*/person_mentioned* the 
+*person_mentioned*commissioner of the General Government*/person_mentioned*, under the 3rd article, is very clear
+and explicit, as to the interpretation of the law, and as to the just
+and liberal views of the General Government, under whose 
+instructions he is acting.*/p*
+
+*p*The name of this distinguished *person_mentioned*patriot */person_mentioned*and scientific *person_mentioned*general */person_mentioned*is
+closely connected with some of the most interesting events in *person_mentioned*Mexican*/person_mentioned*
+history. A *person_mentioned*soldier */person_mentioned*under the banner of freedom from the first epoch
+of the revolution, he has uniformly been a firm defender of the rights
+of his *location_mentioned*countrymen*/location_mentioned*.   As a *person_mentioned*legislator in the first constituent congress*/person_mentioned*,<barker_pb n="439"/>
+his voice was raised in opposition to despotism and in favor of a
+free, liberal and constitutional government. As *person_mentioned*secretary of war*/person_mentioned* he
+established system and organization in the army after the convulsions
+of the *person_mentioned*Emperor*/person_mentioned*'s short reign. At *location_mentioned*Tampico */location_mentioned*the *person_mentioned*invaders */person_mentioned*of his
+*location_mentioned*country */location_mentioned*sank before his military genius, and received from his
+humanity that protection and succor which their prowess could not
+secure to them. As *person_mentioned*commandant general of the eastern military
+department and commissioner of the General Government for 
+regulating the colonies of Texas*/person_mentioned* and establishing new ones, he will 
+provide for the defense and permanent security of *location_mentioned*Texas */location_mentioned*from the
+*person_mentioned*Indians*/person_mentioned*, and lay a foundation for such additional colonial 
+*location_mentioned*establishments */location_mentioned*and *location_mentioned*maritime towns*/location_mentioned* and fortifications as may be necessary
+to advance its prosperity.*/p*
+
+*p*The section of *location_mentioned*country east of this colony*/location_mentioned* and particularity the
+*location_mentioned*Nacogdoches */location_mentioned*and *location_mentioned*Ais district*/location_mentioned*s, demand the prompt attention of
+government. The land affairs of those sections require adjustment,
+and a totally different organization of the local government is much
+needed. Instead of having the whole civil and judicial power of
+the *person_mentioned*local government*/person_mentioned* vested in *person_mentioned*alcaldes */person_mentioned*elected annually, it would be
+better to have a separate *location_mentioned*partido */location_mentioned*laid off with a *person_mentioned*chief of partido*/person_mentioned*,
+and in addition to the *person_mentioned*alcaldes */person_mentioned*there ought to be a *person_mentioned*juez de letras, or
+judge learned in the law*/person_mentioned*, appointed in the manner prescribed in the
+constitution, with a salary to insure a man of talents and 
+qualifications. It is sufficient to merely know how the *person_mentioned*local government*/person_mentioned* of
+that section of *location_mentioned*country */location_mentioned*is and always has been organized to 
+understand the causes of all the little *location_mentioned*local */location_mentioned*difficulties which have arisen
+there. It cannot be supposed that an *person_mentioned*alcalde */person_mentioned*annually changed and
+elected by popular vote from the mass of a people speaking a variety
+of languages and who are themselves in general ignorant of the
+laws should be capable of discharging so important and responsible
+a position as that of a *person_mentioned*judge*/person_mentioned*, whose jurisdiction embraces the 
+investigation of all matters of controversy and all criminal cases without
+limit. Under three hundred dollars his jurisdiction is final, over
+that sum there is the right of appeal to the *location_mentioned*supreme court at Saltillo*/location_mentioned*,
+<hi rend="italic">six hundred miles distant</hi>. The *person_mentioned*alcaldes*/person_mentioned*, however, cannot give final
+judgement in any important civil case and in no capital criminal
+case, without first consulting the <hi rend="italic">*person_mentioned*assesor general*/person_mentioned*</hi>, or *person_mentioned*attorney general
+*/person_mentioned*who lives at *location_mentioned*Saltillo*/location_mentioned*. It is very evident that such a system cannot
+secure to the people, nor to the government the benefits which 
+organization and regular administration of the laws are designed to 
+produce. The objections to the present *person_mentioned*alcalde */person_mentioned*system will apply more
+or less to every part of the state, and are very evident. They are
+severely felt here as well as elsewhere, for although the public 
+tranquility has never been interrupted in this *location_mentioned*colony */location_mentioned*from its first<barker_pb n="440"/>
+establishment up to the present time, yet great individual 
+inconvenience is daily experienced from this mode of administration of
+the laws.*/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

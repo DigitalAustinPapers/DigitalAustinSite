@@ -1,0 +1,99 @@
+﻿
+<TEI.2 id="APB1355">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>04-13-1827</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1624-1625</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Green DeWitt</document_author>
+<document_sender>Captain Russell</document_sender>
+<document_recipient>Stephen F. Austin</document_recipient>
+<document_title>Green DeWitt to Stephen F. Austin, 04-13-1827</document_title>
+<document_location>
+	<sent_from>Station at Labaca, Texas</sent_from>
+	<sent_to>San Felipe de Austin, Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Green DeWitt to Austin, April 3, 1827.    Movements of Karankawa Indians.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1624-1625</barker_citation>
+</barker_notes>
+<document_digital_creation>07-21-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1355T">
+
+<body>
+*div1 type="summary"*
+*p*Green DeWitt to Austin, April 3, 1827.    Movements of Karankawa Indians.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Station at Labaca */location_mentioned**date_mentioned n="04-03-1827">April 3rd 1827*/date_mentioned*.*/p*
+*p*Dr sir*/p*
+
+*p*I am happy to hear of your return and hope your visit to 
+*location_mentioned*Nacogdoches */location_mentioned*has, and will result in much good to the *location_mentioned*Country*/location_mentioned*.*/p*
+
+*p*We have lately had 2 visits to our *location_mentioned*station */location_mentioned*of the *person_mentioned*Coronkawases*/person_mentioned*;
+the first part had six, and the [second] twelve in number, they
+professed great friendship to us and actually had it in their power
+to have killed several of our *person_mentioned*people*/person_mentioned*, as they came *location_mentioned*up to the station*/location_mentioned*;
+for they found one *person_mentioned*man */person_mentioned*and 2 *person_mentioned*boys */person_mentioned**location_mentioned*10 miles below here*/location_mentioned* at work,
+and actually were in their *location_mentioned*camp */location_mentioned*in a manner—before they were 
+discovered;*location_mentioned* a few miles above that*/location_mentioned* they came to another labor in like
+manner where there were a *person_mentioned*man */person_mentioned*and a *person_mentioned*woman*/person_mentioned*; and hurt no one but
+I am of opinion that they are only waiting a good opportunity to
+make a break on our *location_mentioned*settlement*/location_mentioned*, therefore we are constantly upon
+our Guard; and so soon as we get our corn planted we will try to be
+ready for them, and are determined that they must not come amongst
+us—for since we have heard of the late murders in your *location_mentioned*colony */location_mentioned*it
+is more than *person_mentioned*Americans */person_mentioned*can hear to suffer them to come under the
+coulor of friendship when their hands are yet reeking with the blood
+of Inosent *person_mentioned*women */person_mentioned*and *person_mentioned*children*/person_mentioned*; and as we expect a campaign against
+them from your *location_mentioned*quarter*/location_mentioned*, I have thought it most advisable to keep
+peace with them if possible untill that time; and being advised of<barker_pb n="1625"/>
+the time we can have it in our power to know where they are and
+can give you 15 or 20 good brave *person_mentioned*men */person_mentioned*to assist in cuting them entirely
+off. and If a Campaign is intended please to let me know that I
+may know how to act.*/p*
+
+*p**person_mentioned*Mr. Kerr*/person_mentioned* is at *location_mentioned*la Bahia*/location_mentioned*, but looked for every hour. I had news
+from *location_mentioned*Gonzales */location_mentioned*yesterday 2 *location_mentioned*Blockhouses */location_mentioned*are well built and now
+under the Command of *person_mentioned*Mr. Byrd Lockhart*/person_mentioned*; all are in peace at that
+place; and no *person_mentioned*Indian */person_mentioned*sign near that is known of.*/p*
+
+*p**person_mentioned*Mr Monchola*/person_mentioned* has not sent the ballance of my guns to me and the
+*person_mentioned*individuals */person_mentioned*who own them, altho he has been ordered to do so and
+it is greatly to the hurt of the *person_mentioned*owners */person_mentioned*as they want them to hunt
+their meat as well as to guard themselves with.*/p*
+
+*p*Please write me and give me the news, as *person_mentioned*Mr Kerr*/person_mentioned* and myself
+are both anxious to hear from the *location_mentioned*N Eastward*/location_mentioned* and *location_mentioned*S westward,*/location_mentioned*—*/p*
+
+*p**person_mentioned*G Dewitt */person_mentioned*   [Rubric]*/p*
+
+*p**person_mentioned*Col Stephen F Austin*/person_mentioned**/p*
+
+*p*P. S. Give the earliest notice you can if a *person_mentioned*campaign */person_mentioned*is intended
+against the *person_mentioned*Corronks*/person_mentioned*, that we may have time to prepare to Join you—¦*/p*
+
+*p**person_mentioned*G. D.*/person_mentioned**/p*
+
+*p*[Addressed:] *person_mentioned*Col Stephen F Austin*/person_mentioned* *location_mentioned*San Felipe de Austin Brassos
+*/location_mentioned*per *person_mentioned*Capt Russell*/person_mentioned**/p*
+*/div1*
+</body>
+</text>
+</TEI.2>

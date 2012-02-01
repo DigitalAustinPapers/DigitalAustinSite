@@ -1,0 +1,80 @@
+﻿
+<TEI.2 id="APB1753">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>08-18-1829</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 246-247</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Stephen F Austin</document_author>
+<document_sender></document_sender>
+<document_recipient>Zeno Phillips</document_recipient>
+<document_title>Stephen F Austin to Zeno Phillips, 08-18-1829</document_title>
+<document_location>
+	<sent_from>Austin, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Austin to Lieut. Zeno Phillips, August 18, 1829. Instructing him to be on guard against landing of Spanish forces on the coast.</barker_summary>
+	<barker_footnotes>From Texas State Library, Domestic Correspondence</barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 246-247</barker_citation>
+</barker_notes>
+<document_digital_creation>08-12-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1753T">
+
+<body>
+*div1 type="summary"*
+*p*Austin to Lieut. Zeno Phillips, August 18, 1829. Instructing him to be on guard against landing of Spanish forces on the coast.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p*You will perceive by the enclosed printed proclamation of his
+*person_mentioned*Excellency the Governor*/person_mentioned* and official letter of the *person_mentioned*Chief of Depart-<barker_pb n="247"/>
+ment*/person_mentioned*, that the inveterate *person_mentioned*enemy of our republic*/person_mentioned* has landed on the
+*location_mentioned*coast of Tamaulipas*/location_mentioned* and that the *person_mentioned*Govr */person_mentioned*has ordered that the *person_mentioned*militia
+of the State*/person_mentioned* should be placed in the best possible State for active
+operations. In cumplyance with this order I have directed the 
+*person_mentioned*Captains */person_mentioned*to muster their respective *person_mentioned*companies */person_mentioned*with the least possible
+delay and inspect them and return to the first adjutant a full 
+statement of their force arms etc.*/p*
+
+*p**person_mentioned*Mr. Bakus*/person_mentioned* of the Schooner Augusta who came into *location_mentioned*Galveston */location_mentioned*a
+few days since from *location_mentioned*Orleans*/location_mentioned*, reports that he was boarded off the
+*location_mentioned*Mississippi */location_mentioned*by the boats of a *person_mentioned*Spanish */person_mentioned*frigate that had been 
+dismasted;] in a storm off *location_mentioned*Tampico*/location_mentioned*—this fact warns us that the
+*person_mentioned*enemy */person_mentioned*are near us, and some storm, or other circumstance may throw
+them onto our *location_mentioned*coast*/location_mentioned*. Supposing that such a case is possible, I have
+directed *person_mentioned*Caps Baily and Sims*/person_mentioned* to be watchful, and I must request
+that you should also be in readiness to repair to the *location_mentioned*coast */location_mentioned*at the
+first alarm and should an *person_mentioned*enemy */person_mentioned*appear, take such measures as 
+circumstances may permit to prevent them from taking the stock of
+cattle horses, hogs, etc., which would be an important supply for
+them—and you will inform me by express of whatever may occur,
+and of the force and appearance of any *person_mentioned*enemy */person_mentioned*who may be 
+discovered, and give me such or other information as you may deem
+important to the public service and to the security of the *person_mentioned*people of
+this *location_mentioned*jurisdiction*/location_mentioned**/person_mentioned*.*/p*
+
+*p*God and Liberty*/p*
+
+*p**location_mentioned*Town of Austin*/location_mentioned* *date_mentioned n="08-18-1829">18 Augt 1829*/date_mentioned**/p*
+To *person_mentioned*Lieut Zeno Phillips.*/person_mentioned*
+
+*p**person_mentioned*Stephen F. Austin*/person_mentioned*    [Rubric]*/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

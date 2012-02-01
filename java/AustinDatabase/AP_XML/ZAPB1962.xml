@@ -1,0 +1,143 @@
+﻿
+<TEI.2 id="APB1962">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>06-14-1830</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 417-419</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Stephen F Austin</document_author>
+<document_sender></document_sender>
+<document_recipient>Thomas F Leaming</document_recipient>
+<document_title>Stephen F Austin to Thomas F Leaming, 06-14-1830</document_title>
+<document_location>
+	<sent_from>San Felipe de Austin, Texas</sent_from>
+	<sent_to>Philadelphia, Pennslyvania</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Austin to Thomas F. learning, June 14, 1830. Instructions to be followed by immigrants coming to his colony.    Slavery.    Law of April 6, 1830.</barker_summary>
+	<barker_footnotes>apparently this letter was intended by Austin for publication.
+Learning had not been in Texas. It is possible that Austin had in mind James F.
+Perry while he was writing.
+</barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 417-419</barker_citation>
+</barker_notes>
+<document_digital_creation>08-21-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1962T">
+
+<body>
+<div1 type="summary">
+<p>Austin to Thomas F. learning, June 14, 1830. Instructions to be followed by immigrants coming to his colony.    Slavery.    Law of April 6, 1830.</p>
+</div1>
+
+<div1 type="body">
+
+<p><location_mentioned>San Felipe de Austin</location_mentioned> <date_mentioned n="06-14-1830">14 June 1830.</date_mentioned></p>
+<p>Dr Sir,</p>
+
+<p>You have no doubt seen published in the <location_mentioned>news papers</location_mentioned> the law of
+<date_mentioned n="04-06-1830">6 of april </date_mentioned>passed by the<person_mentioned> Mexican Congress</person_mentioned> relative to emigration
+from the <location_mentioned>United States</location_mentioned>—</p>
+
+<p>The 10 article of that law declares that no variation shall be
+made in the <location_mentioned>colonies already established</location_mentioned>— Mine is established, and
+no embarassments can be legally enterposed to the imigration of
+honest and good men of <person_mentioned>families</person_mentioned>, who are comprehended in my 
+contracts</p><barker_pb n="418"/>
+
+<p>It will be necessary for <person_mentioned>emigrants </person_mentioned>to procure pasports from some
+<person_mentioned>Mexican consul</person_mentioned>—the law requires it, and one pasport for the <person_mentioned>head
+of the family</person_mentioned> answers for the whole, but the number of the <person_mentioned>family</person_mentioned>
+should be stated. They should report themselves to the <person_mentioned>local 
+authorities of the <location_mentioned>frontier</location_mentioned>,</person_mentioned> or <location_mentioned>port </location_mentioned>where they enter, and the 
+recommendations of good character which the colonization law requires must be
+produced. Those recommendations should be given by a <person_mentioned>Judge </person_mentioned>or
+some <person_mentioned>civil authority</person_mentioned> of the place where the <person_mentioned>emigrant </person_mentioned>removes from,
+of <person_mentioned>a higher grade than a justice of the peace</person_mentioned></p>
+
+<p>The Government have ordered that the 13 article of the State
+constitution should be rigidly enforced, that article is as follows
+" No one can be born a <person_mentioned>Slave in this <location_mentioned>state</location_mentioned></person_mentioned> after the publication of this
+Constitution in the <location_mentioned>capital of each civil jurisdiction</location_mentioned>; and <date_mentioned n="10-06-1830">six months
+after such publication</date_mentioned> the introduction of <person_mentioned>Slaves </person_mentioned>is prohibited, under
+any pretext whatever" The constitution was approved the <date_mentioned n="03-11-1827">11 of
+March 1827</date_mentioned> and published in due form at this place in <date_mentioned n="05-xx-1830">May </date_mentioned>of that
+year— A law has been subsequently passed by the <person_mentioned>Legislature of
+the State </person_mentioned>garanteeing all contracts made in <location_mentioned>foreign contries</location_mentioned>, with
+<person_mentioned>hirelings </person_mentioned>or <person_mentioned>indented servants</person_mentioned></p>
+
+<p>No duties will be collected untill <date_mentioned n="12-xx-1830">after November</date_mentioned> as I informed
+you when here. The law of<date_mentioned n="04-06-1830"> 6 april last</date_mentioned> permits the free introduction
+of all Kinds of provisions and lumber into <location_mentioned>Galveston </location_mentioned>and <location_mentioned>Matagorda</location_mentioned>
+for two years free of duty, also all kind of furniture tools etc for
+the use of the <person_mentioned>colonists </person_mentioned>is free of duty—Tobacco is contraband as it
+always has been and will be seized. The exportation of the produce
+of the <location_mentioned>colonies </location_mentioned>in foreign vessels is permitted by the Same law to the
+<location_mentioned>ports of Matamoros, Tampico and vera Cruz</location_mentioned>, or in other words
+foreign vessels are allowed to engage in the coasting trade from
+the <location_mentioned>colonies </location_mentioned>to the above Mentioned <location_mentioned>ports</location_mentioned>.</p>
+
+<p>The main object of the law of <date_mentioned n="04-06-1830">6th of april</date_mentioned> is to keep out turbulent
+and bad men <person_mentioned>vagabonds </person_mentioned>and <person_mentioned>Slaves</person_mentioned>, and the true prosperity and
+happiness of this <location_mentioned>country </location_mentioned>requires that all of those classes should be
+for ever kept out— The honest and industrious <person_mentioned>farmer </person_mentioned>who brings
+his <person_mentioned>family </person_mentioned>has nothing to fear and will be well received and obtain
+more benifits and privileges than have ever been granted by any
+Govt, on earth.</p>
+
+<p>The imprudence and thoughtlessness of some on the <location_mentioned>Sabine 
+frontiers </location_mentioned>and the excessive noise that has been made in the <location_mentioned>U. S. papers</location_mentioned>
+about the purchase of <location_mentioned>Texas</location_mentioned>, seems to have had a much greater
+weight in <location_mentioned>Mexico </location_mentioned>than a matter so essentially unimportant ought to
+have had. It appears to have caused an impression that the <person_mentioned>North
+Americans</person_mentioned> are all turbulent and that the Govno of <location_mentioned>the north </location_mentioned>wish to<barker_pb n="419"/>
+take <location_mentioned>Texas </location_mentioned>by force right or wrong. All these impressions are 
+erronious and have been created by the reports of some <person_mentioned>evil minded persons</person_mentioned>
+for the purpose of trying to extort from this Govt, unjust and 
+arbitrary measures against the <person_mentioned>colonist</person_mentioned>, so as to foment discontent in
+<location_mentioned>Texas</location_mentioned>. Those persons have also been trying to sow the seeds of
+suspicion and jealousy against the Govt, of the <location_mentioned>U. S</location_mentioned>. with the hope
+no doubt that a war might be brought about between the two <location_mentioned>nations</location_mentioned>,
+in which event <location_mentioned>Texas </location_mentioned>would be lost to <location_mentioned>Mexico </location_mentioned>in one campain. A
+train seems to have been laid by some one, to drive this Govt, to
+such acts as would be most likely to kindle discontent in <location_mentioned>Texas </location_mentioned>and
+at the same time to sow the seeds of disgust between the two <location_mentioned>nations</location_mentioned>,
+and the means which appear to have been adopted to effect those
+objects seem to be to operate on the credulity of this Govt, by false
+reports about the <person_mentioned>colonists</person_mentioned>, and the views of the <location_mentioned>U. S.</location_mentioned> They appear
+to have made this Govt, believe that an offer to buy <location_mentioned>Texas</location_mentioned>, by the
+<location_mentioned>U. S.</location_mentioned> was a declaration that it would be taken by force right or
+wrong. These things will all correct themselves. The Govt, will
+find on a proper examination that the <person_mentioned>colonists </person_mentioned>have done their duty
+faithfully as <person_mentioned>mexican citizens</person_mentioned>, that they have performed important
+and essential services to their <location_mentioned>adopted country</location_mentioned>, and that they deserve
+the highest confidence.</p>
+
+<p>I returned from <location_mentioned>Bexar the capital of Texas</location_mentioned> a few days since, all
+is peace and quietness— <person_mentioned>Genl Teran</person_mentioned> is expected soon but without
+many <person_mentioned>troops</person_mentioned>— I am on the best of terms with that <person_mentioned>General </person_mentioned>and
+with all the <person_mentioned>officers of Govt, </person_mentioned>and think that I shall be able [to]
+work this <location_mentioned>colony </location_mentioned>through all troubles which <hi rend="italic">seem </hi>to threaten it.
+I <hi rend="italic">know </hi>the <person_mentioned>Mexicans </person_mentioned>well—. The latest accounts from <location_mentioned>Mexico </location_mentioned>give
+a bad a/c of the State of things in that quarter— those matters
+do not reach or affect us here—</p>
+
+<p><person_mentioned>A  </person_mentioned>  [Rubric]</p>
+
+<p>[Addressed:]<person_mentioned> Thomas F. Learning Esqr</person_mentioned> <location_mentioned>Philadelphia Pena</location_mentioned></p>
+
+</div1>
+</body>
+</text>
+</TEI.2>

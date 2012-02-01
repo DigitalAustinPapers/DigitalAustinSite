@@ -1,0 +1,89 @@
+﻿
+<TEI.2 id="APB1031">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>01-xx-1825</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1030-1031</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>David H. Holstein</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F. Austin</document_recipient>
+<document_title>David H. Holstein to Stephen F. Austin, 01-xx-1825</document_title>
+<document_location>
+	<sent_from>Alexandria, Louisiana</sent_from>
+	<sent_to>Province of Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>David H. Holstein to Austin, Alexandria [about Jan. —, 1825]. Conditions in Louisiana. Cotton prices. Great many emigrants passing through for
+Texas.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1030-1031</barker_citation>
+</barker_notes>
+<document_digital_creation>05-26-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1031T">
+
+<body>
+*div1 type="summary"*
+*p*David H. Holstein to Austin, Alexandria [about Jan. —, 1825]. Conditions in Louisiana. Cotton prices. Great many emigrants passing through for
+Texas.*/p*
+*/div1*
+
+*div1 type="body"*
+*p**location_mentioned*Alexandria Louisiana*/location_mentioned*—[*date_mentioned n="01-xx-1825">about January, 1825?*/date_mentioned*]
+*/p*
+*p**person_mentioned*Mr. Stephen F. Austin*/person_mentioned*,
+
+*/p*
+*p*Dear Sir as I have not been able to return to your *location_mentioned*Colony*/location_mentioned* as soon
+as I expected I hope you will excuse my Troubling you with this note<barker_pb n="1031"/>
+which I have got the Favor of *person_mentioned*Mr. Foster*/person_mentioned* to hand you: the scarcity
+of money and the Dulness of times has made business very hard to
+settle in this *location_mentioned*Parish*/location_mentioned*, not being able to settle my business to my 
+satisfaction has prevented by returning and made it necessary that I
+should make another crop on *location_mentioned*Red River*/location_mentioned*, when I hope I shall be able
+to Leave the *location_mentioned*Parish*/location_mentioned* without any Difficulty— the prospect of the
+price of cotton the next crop is Flattering, all state sales of the
+present crop have been very good from Eighteen to Twenty two
+cents and still looking up, which has made Considerable of a change
+in this *location_mentioned*Parish*/location_mentioned*. I hope that I shall be able to see you again in *date_mentioned n="07-xx-1825">July*/date_mentioned* or
+*date_mentioned n="08-xx-1825">August*/date_mentioned*, there are a number of young *person_mentioned*men */person_mentioned*from this *location_mentioned*Parish*/location_mentioned* talk of
+going out this *date_mentioned n="summer-1825">summer*/date_mentioned*. *person_mentioned*Mr. Stewart*/person_mentioned* informs me that he made no
+selection of Lands before leaving the *location_mentioned*Colony*/location_mentioned*. I hope sir you will be
+so good as to make a reserve for me on some part of the *location_mentioned*Bernard
+River*/location_mentioned* of some of the unsettled Land, from the number of *person_mentioned*Travelers*/person_mentioned*
+that have passed through this *location_mentioned*settlement */location_mentioned*going to your *location_mentioned*Colony*/location_mentioned* I 
+expect you have had a great many applicants for Land. If the one
+half of them have reached you *location_mentioned*Colony*/location_mentioned* I believe you have not been
+Idle. The young *person_mentioned*man */person_mentioned*that will accompany *person_mentioned*Mr. Foster*/person_mentioned* *person_mentioned*Mr. Grant*/person_mentioned*,
+I hope you will find a Verry useful man being and excellent 
+workman he is also much Respected in this *location_mentioned*parish*/location_mentioned* as good member of
+society—If the *location_mentioned*Lands of the Bernard*/location_mentioned* are not all Taken, and you have
+not made any Choice for me, I will get the Favor of *person_mentioned*Mr. Foster*/person_mentioned* to
+attend to it and also to make a small Improvement on it for me, I
+shall be glad to Receive a few Lines from you on *person_mentioned*Mr. Foster*/person_mentioned*s 
+Return—
+*/p*
+*p*I am with Respect yours
+*/p*
+*p**person_mentioned*David H. Holstein*/person_mentioned**/p*
+
+*p*[Mr. Stephen F. Austin] Favor of *person_mentioned*Mr. Foster */person_mentioned**location_mentioned*Province of Texas*/location_mentioned*.*/p*
+
+
+
+*/div1*
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,66 @@
+﻿
+<TEI.2 id="APB2017">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>Unknown</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 1116</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Memorandum</document_type>
+<document_author>Humphrey Jackson</document_author>
+<document_sender></document_sender>
+<document_recipient>Unknown</document_recipient>
+<document_title>Humphrey Jackson to Unknown, Unknown</document_title>
+<document_location>
+	<sent_from>Unknown</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Humphrey Jackson's memorandum concerning the case of the Mary, June 4, 1825.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1116</barker_citation>
+</barker_notes>
+<document_digital_creation>12-13-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB2017T">
+
+<body>
+*div1 type="summary"*
+*p*Humphrey Jackson's memorandum concerning the case of the Mary, June 4, 1825.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p*Memo, from *person_mentioned*H Jackson relative*/person_mentioned* to *person_mentioned*Carrico */person_mentioned*when *person_mentioned*Nelson */person_mentioned*and 
+*person_mentioned*Cartwright */person_mentioned*applied for a process *person_mentioned*J.*/person_mentioned* went down to*location_mentioned* *person_mentioned*Hunter*/person_mentioned*s*/location_mentioned* to see *person_mentioned*Carrico*/person_mentioned*
+and *person_mentioned*Allen */person_mentioned*and try and compromise—*person_mentioned*Allen */person_mentioned*agreed that they were
+liable for the things lost but contended that they ought only to pay
+the *location_mentioned*Orleans */location_mentioned*price—and finally the *person_mentioned*parties */person_mentioned*went *location_mentioned*on board the Mary*/location_mentioned*
+to receive as much property as would secure *person_mentioned*N.*/person_mentioned* and *person_mentioned*C.*/person_mentioned* leaving it for
+future determination at what price the lost property should be rated
+at but when they reached the mary *person_mentioned*C.*/person_mentioned* and*person_mentioned* A.*/person_mentioned* told them that if they
+got any thing it must be by law and refused to come to any settle-<barker_pb n="1117"/>
+ment—afterwards they agreed to pay for the Goods at the *location_mentioned*Orleans*/location_mentioned*
+price.—The Mary was aground *location_mentioned*on red fish bar*/location_mentioned* when she was 
+attached and was got off by the assistance of the *person_mentioned*Constable */person_mentioned*and *person_mentioned*guard*/person_mentioned*
+and run on by *person_mentioned*Carrico */person_mentioned*in trying to bring her *location_mentioned*into the San Jacinto*/location_mentioned*—
+the *person_mentioned*Alcalde */person_mentioned*demanded before tryal wheither they had any objection
+to any of the *person_mentioned*Jury */person_mentioned*and furnished them with a list, and stated that if
+they had any objection others would be summoned on the morning
+of the tryal they agreed that they were liable for the property lost
+but only differd as to the price, so that the only thing for the *person_mentioned*Jury*/person_mentioned*
+to decide was the price of the property.*/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

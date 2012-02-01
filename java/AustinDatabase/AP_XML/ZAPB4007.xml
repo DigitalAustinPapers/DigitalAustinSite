@@ -1,0 +1,93 @@
+﻿
+<TEI.2 id="APB4007">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>08-20-1830</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 465-466</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>S Rhoads Fisher</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F Austin</document_recipient>
+<document_title>S Rhoads Fisher to Stephen F Austin, 08-20-1830</document_title>
+<document_location>
+	<sent_from>Northumberland, Pennsylvania</sent_from>
+	<sent_to>Texas via New Orleans</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>S. Rhoads Fisher to Austin, Northumberland, Pa., August 20, 1830. Reporting speculation in Texas lands.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 465-466</barker_citation>
+</barker_notes>
+<document_digital_creation>08-25-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4007T">
+
+<body>
+<div1 type="summary">
+<p>S. Rhoads Fisher to Austin, Northumberland, Pa., August 20, 1830. Reporting speculation in Texas lands.</p>
+</div1>
+
+<div1 type="body">
+
+<p><location_mentioned>Northumberland</location_mentioned> <date_mentioned n="08-20-1830">August 20th 1830</date_mentioned></p>
+<p>My Dear Sir,</p>
+
+<p>Under date of <date_mentioned n="08-14-1830">14th Inst</date_mentioned>: I had this pleasure at length: and 
+conceiving it right you should know whatever relates to <location_mentioned>Texas</location_mentioned>, I with
+pleasure communicate to you such information as comes under my<barker_pb n="466"/>
+notice— Since last writing you, I have met a <person_mentioned>french gentleman</person_mentioned> of
+the name of <person_mentioned>Sorbe</person_mentioned>, who has a <location_mentioned>House </location_mentioned>at <location_mentioned>tampico</location_mentioned>— for <date_mentioned n="xx-xx-1830">two years</date_mentioned>
+past he has been principally in the <location_mentioned>Interior</location_mentioned>, and I think has a
+tollerably correct knowledge of the <location_mentioned>country</location_mentioned>-—he tells me the <person_mentioned>Barings</person_mentioned>
+have made a very extensive purchase of land from the<person_mentioned> count of——-
+</person_mentioned>his name I forget, who is now in <location_mentioned>Italy</location_mentioned>, they gave for it three millions
+of Dollars, and that it is (if I am not mistaken) equal in extent to
+<location_mentioned>150 leagues square, it comes close to Saltillo, and embraces Parras,</location_mentioned>
+he says the purchase includes a number of <location_mentioned>villages</location_mentioned>, thó the precise
+<location_mentioned>boundaries </location_mentioned>he could not give me— they are settling it fast growing
+cotton, and are about erecting a <location_mentioned>cotton manufactory</location_mentioned>—a gentleman of
+the name of <person_mentioned>Sterrett </person_mentioned>(I think) is their <person_mentioned>agent</person_mentioned>—I thought none but
+<person_mentioned>Mexican Citizens</person_mentioned> could hold land in <location_mentioned>Texas</location_mentioned>!—</p>
+
+<p>When I see you I shall want particular information relative to
+<location_mentioned><person_mentioned>Exeter</person_mentioned>s grant</location_mentioned>, as I wish to set aright a <person_mentioned>gentleman of very 
+conspicuous standing in<location_mentioned> S. Carolina,</location_mentioned></person_mentioned> who writes " I have received much
+information about <location_mentioned>Texas</location_mentioned>, I hold some shares in the<person_mentioned>Coahuila, and
+Texas company </person_mentioned>of which<person_mentioned> Dennis A. Smith of <location_mentioned>Baltimore </location_mentioned></person_mentioned>is the <person_mentioned>agent</person_mentioned>,
+I dined a short time ago with <person_mentioned>Mr. Poinsett</person_mentioned> who says the <location_mentioned>grant </location_mentioned>is
+regular and valid—" either this <person_mentioned>gentleman </person_mentioned>is very much misled, or I
+am, but how is [it] possible <person_mentioned>Mr. Poinsett</person_mentioned> can be mistaken ?</p>
+
+<p>The <person_mentioned>owners of this <location_mentioned>grant </location_mentioned></person_mentioned>of course want to make a speculation of
+it—honestly if they can etc.—but under any circumstances is it not
+our policy to let them take their own road; for each <location_mentioned>grant </location_mentioned>they (that
+is <person_mentioned>Wilson and others</person_mentioned>) make, or each tract they sell, excites precisely
+so much Interest in the minds of the <person_mentioned>people of the <location_mentioned>U. States</location_mentioned></person_mentioned>, in
+favour of <location_mentioned>Texas</location_mentioned>—</p>
+
+<p>In my last letter I acknowledged receipt of yours of <date_mentioned n="07-04-1830">4 July,</date_mentioned> and
+mentioned that I should be at <location_mentioned>Matagorda </location_mentioned>with my <person_mentioned>family </person_mentioned>the last
+of <date_mentioned n="10-xx-1830">October </date_mentioned>and hoped <person_mentioned>Ingram </person_mentioned>would have as promised, a <location_mentioned>place of
+shelter</location_mentioned>—in readiness</p>
+
+<p><person_mentioned>S. Rhoads—Fisher</person_mentioned></p>
+
+<p>[Addressed:] <person_mentioned>Colonel Stephen F. Austin</person_mentioned><location_mentioned> Austin Texas</location_mentioned> care
+of <person_mentioned>Gen: Wm. Robeson</person_mentioned>  <location_mentioned> New Orleans</location_mentioned></p>
+
+
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,84 @@
+﻿
+<TEI.2 id="APB4209">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>04-28-1831</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 658-659</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Stephen F Austin</document_author>
+<document_sender></document_sender>
+<document_recipient>Samuel M Williams</document_recipient>
+<document_title>Stephen F Austin to Samuel M Williams, 04-28-1831</document_title>
+<document_location>
+	<sent_from>Unknown</sent_from>
+	<sent_to>Austin, Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Austin to Samuel M. Williams, Saltillo, April 30, 1831. The legislature has
+done no harm.   Hopes of reform in visit to Teran,
+</barker_summary>
+	<barker_footnotes>From Nacogdoches Archives, Texas State Library.    An identical report went to the
+ayuntamiento of Bexar and is in the Bexar Archives.</barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 658-659</barker_citation>
+</barker_notes>
+<document_digital_creation>09-11-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4209T">
+
+<body>
+*div1 type="summary"*
+*p*Austin to Samuel M. Williams, Saltillo, April 30, 1831. The legislature has
+done no harm.   Hopes of reform in visit to Teran,
+*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p*[From Williams Papers, Rosenberg Library, Galveston, Tex.]*/p*
+
+*p**date_mentioned n="04-30-1831">April 30/31*/date_mentioned**/p*
+*p*Dr Sir.*/p*
+
+*p*I have only time to say that the Session is closed (thank God) for
+this year—no harm has been done, which is saying a great deal for<barker_pb n="659"/>
+such a body as this has been.   I think that some good will be effected
+*date_mentioned n="xx-xx-1832">next year.*/date_mentioned**/p*
+
+*p*The points you speak of as to locating *location_mentioned*low down on Colorado*/location_mentioned*, and
+to *person_mentioned*Mexicans */person_mentioned*must remain untill I get home—do nothing with them
+at all.*/p*
+
+*p*The *location_mentioned*Trinity */location_mentioned*affair is at last beginning to make a proper impression
+on the mind of the *person_mentioned*Govr*/person_mentioned*. and I am more pleased with him than I
+was—I think he will take [a] stand.*/p*
+
+*p*I go to *location_mentioned*Matamoros*/location_mentioned*, and have strong hopes of a favourable result
+tho I have doubts. They will be all removed one way or the other
+in a *date_mentioned n="05-xx-1831">month */date_mentioned*more.*/p*
+
+*p*The clock is striking 8 which is the hour of closing the mail so
+remember to all and farewell.*/p*
+
+*p**person_mentioned*S F Austin*/person_mentioned**/p*
+
+*p*I leave *date_mentioned n="05-08-1831">next Sunday*/date_mentioned*, that is tomorrow week for *location_mentioned*Matamoros */location_mentioned*in
+company wTith *person_mentioned*Chambers*/person_mentioned**/p*
+
+*p*[Addressed:] Al *person_mentioned*Sor Sam. M. Williams admor. de correos en la
+villa de *location_mentioned*Austin*/location_mentioned**/person_mentioned*.*/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

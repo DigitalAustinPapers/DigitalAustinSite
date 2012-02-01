@@ -1,0 +1,65 @@
+﻿
+<TEI.2 id="APB1387">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>05-23-1827</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1643-1644</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>George Orr</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F. Austi(</document_recipient>
+<document_title>George Orr to Stephen F. Austin, 05-23-1827</document_title>
+<document_location>
+	<sent_from>Atascosito, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>George Orr to Austin, May 23, 1827.   Concerning theft of horses.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1643-1644</barker_citation>
+</barker_notes>
+<document_digital_creation>07-21-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1387T">
+
+<body>
+*div1 type="summary"*
+*p*George Orr to Austin, May 23, 1827.   Concerning theft of horses.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Atascosito */location_mentioned**date_mentioned n="05-23-1827">May 23,1827*/date_mentioned**/p*
+*p*To *person_mentioned*Col. Stephen F. Austin*/person_mentioned**/p*
+
+*p*Sir Some days ago *person_mentioned*Burrel Franks*/person_mentioned* who lives on the *person_mentioned*Nachez
+River*/person_mentioned* *location_mentioned*near the lower crossing*/location_mentioned* was examined before *person_mentioned*Henry W. 
+Munson*/person_mentioned* and myself relative to certain Thefts lately committed in this
+*location_mentioned*neighbourhood*/location_mentioned*—   He stated among other things that a *person_mentioned*stranger*/person_mentioned*<barker_pb n="1644"/>
+who called himself *person_mentioned*Hawkins */person_mentioned*had been at his house—that he 
+(*person_mentioned*Hawkins*/person_mentioned*) with one *person_mentioned*Clement */person_mentioned*(sometimes called *person_mentioned*Reno*/person_mentioned*) were the *person_mentioned*persons*/person_mentioned*
+who had comitted the thefts on the *location_mentioned*Trinity*/location_mentioned*—that they had a 
+cavalarde of sixty or seventy horses*location_mentioned* above the San Antonio crossing on
+the Trinity River*/location_mentioned* that those horses they had stolen from the 
+*location_mentioned*settlements on the Brassos and Colorado*/location_mentioned*—I have thought proper to 
+communicate this to you for the benefit of your *location_mentioned*settlement*/location_mentioned*—for further
+information on the subject I refer you to *person_mentioned*Doct Brown */person_mentioned*who will hand
+this—*/p*
+
+*p**person_mentioned*George Orr*/person_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

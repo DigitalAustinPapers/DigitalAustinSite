@@ -1,0 +1,80 @@
+﻿
+<TEI.2 id="APB1010">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>01-12-1825</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1016</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>John P. Coles</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F. Austin</document_recipient>
+<document_title>John P. Coles to Stephen F. Austin, 01-12-1825</document_title>
+<document_location>
+	<sent_from>Unknown</sent_from>
+	<sent_to>San Felipe de Austin, Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>John P. Coles to Austin, January 12, 1825. Land business. Trade. Economic
+conditions.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1016</barker_citation>
+</barker_notes>
+<document_digital_creation>05-22-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1010T">
+
+<body>
+*div1 type="summary"*
+*p*John P. Coles to Austin, January 12, 1825. Land business. Trade. Economic conditions.*/p*
+*/div1*
+
+*div1 type="body"*
+
+
+*p**date_mentioned n="01-12-1825">12 January 1825*/date_mentioned**/p*
+*p*Dear Sir*/p*
+
+*p*I left *person_mentioned*Mr Sims*/person_mentioned* at the *location_mentioned*Saint Antonio Road*/location_mentioned* *date_mentioned n="01-11-1825">yesterday */date_mentioned*he sends you
+the Notes of my Hacienda and the notes of *location_mentioned*Gates Tract*/location_mentioned* the Body of
+my Survey is in the *location_mentioned*office */location_mentioned*and all you want is to connect the oblong
+or arm that includes the *location_mentioned*Mill Seat*/location_mentioned* — I know nothing about old
+*person_mentioned*Furnash*/person_mentioned*s Improvement I did not know that he had an Improvement
+ of corse agreeable to your Directions *person_mentioned*Sims*/person_mentioned* split *location_mentioned*the Two
+Leagues Between *person_mentioned*Furnash*/person_mentioned* and *person_mentioned*Lynch*/person_mentioned**/location_mentioned* or *person_mentioned*Byrd*/person_mentioned* or who Ever it may
+fall to furnash is on the *location_mentioned*Lower Hall adjoining my line*/location_mentioned* I dont
+know How to arrange it with him nor what he wants other than
+the arrangement allready made I dislike the Trouble of going to
+see him and having the surveys all altered again However I will
+doo any ways you wish in order to get it done *person_mentioned*Sims*/person_mentioned* is going on
+Rapidly now and will be down with me when I come down which will
+be in a few days I must go to see furnash before I come down and
+make some arrangement with him *person_mentioned*Sims*/person_mentioned* has taken a *person_mentioned*wife */person_mentioned*she is
+a very fine Looking woman and all Tolld that I know I cant get
+any pork for you in this part of the *location_mentioned*Country */location_mentioned*tel *person_mentioned*Mr Stafford*/person_mentioned* that I
+can get One Hundred Bushels of corn for him from the *person_mentioned*Milicans*/person_mentioned* at
+the*location_mentioned* ten mile creek*/location_mentioned* no other com can be had in this part of the
+*location_mentioned*country */location_mentioned*I cannot get any pork for him and if he intends to take
+the corn from the *person_mentioned*Milicans*/person_mentioned* he must let me know immediately
+*/p*
+*p**person_mentioned*Coles*/person_mentioned*    [Rubric]
+*/p*
+[Addressed:] *person_mentioned*S F Austin Political chief and Judge*/person_mentioned* of the *location_mentioned*Colony
+San F De Austin*/location_mentioned*.
+
+
+
+*/div1*
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,68 @@
+﻿410
+<TEI.2 id="APB3012">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>10-03-1825</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1220</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Thomas B. Bell, et al.</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F. Austin</document_recipient>
+<document_title>Thomas B. Bell, et al. to Stephen F. Austin, 10-03-1825</document_title>
+<document_location>
+	<sent_from>Cedar Lake, Texas</sent_from>
+	<sent_to>Bay Perrary, Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Request to treat with Karankawa(?)Indians.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1220</barker_citation>
+</barker_notes>
+<document_digital_creation>05-25-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Cameron L. Sinclair, Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB3012T">
+
+<body>
+<div1 type="summary">
+<p>Request to treat with Karankawa  (?)  Indians.</p>
+</div1>
+
+<div1 type="body">
+
+<p><location_mentioned>Cedar Lake</location_mentioned> <date_mentioned n="10-03-1825">October the 3th 1825</date_mentioned></p>
+<p>Sire having understood you wished to have the opinion of the
+<person_mentioned>people </person_mentioned>we give it as our opinion it is requisit to treat with them for
+these are the same <person_mentioned>Indians </person_mentioned>[Karankaway] that <person_mentioned>Captain Jones</person_mentioned> fired
+on and they have never solicited peace until now they say they are
+tired of war and the conduct of them induces us to believe they are
+in earnest for they have encamped in our <location_mentioned>stock range</location_mentioned> and have disturbed nothing to our knowledge—-also the <location_mentioned>upper settlement</location_mentioned> not
+having it in their power to aid us and we not being able to protect
+our selves we think it is proper to treat with them these are the
+conditions that we wish you to treat on to secure <person_mentioned>hostages </person_mentioned>to not
+permit over three to cum to geather to one <location_mentioned>house</location_mentioned>— it is our wish
+you should cum and treat with them as well as thees—</p>
+
+<p><person_mentioned>Thomas B Bell</person_mentioned></p>
+<p><person_mentioned>David Ness</person_mentioned></p>
+<p><person_mentioned>Nancy Williams</person_mentioned></p>
+<p><person_mentioned>Caleb S Bostwick</person_mentioned></p>
+<p><person_mentioned>Danil Decrow</person_mentioned></p>
+<p><person_mentioned>Thomas T Williams</person_mentioned></p>
+<p><person_mentioned>Gorge Harrison</person_mentioned></p>
+<p>[Addressed:] <person_mentioned>Col Stephin F. Austin</person_mentioned> <location_mentioned>Bay Perrary</location_mentioned></p>
+
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,99 @@
+﻿
+<TEI.2 id="APB4475">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>11-15-1832</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 888-889</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Stephen F Austin</document_author>
+<document_sender></document_sender>
+<document_recipient>Ramon Musquiz</document_recipient>
+<document_title>Stephen F Austin to Ramon Musquiz, 11-15-1832</document_title>
+<document_location>
+	<sent_from>San Felipe de Austin, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Austin to Ramon Musquiz. November 15, 1832. Thinks it impolitic to publish Musquiz's address to Ayuntamiento of San Felipe concerning the convention. Thinks convention has done some good in quieting excitement. Outlook for Mexico dark.</barker_summary>
+	<barker_footnotes>From Translations from Bexar Archives in Nacogdoches Archives, Texas State Library</barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 888-889</barker_citation>
+</barker_notes>
+<document_digital_creation>11-03-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4475T">
+
+<body>
+<div1 type="summary">
+<p>Austin to Ramon Musquiz. November 15, 1832. Thinks it impolitic to publish Musquiz's address to Ayuntamiento of San Felipe concerning the convention. Thinks convention has done some good in quieting excitement. Outlook for Mexico dark.</p>
+</div1>
+
+<div1 type="body">
+
+<p><location_mentioned>San Felipe</location_mentioned>: <date_mentioned n="11-15-1832">November 15th 1832</date_mentioned></p>
+<p>Most Esteemed <person_mentioned>Friend</person_mentioned>. I agree with the sentiments expressed in
+your appreciable letter of the <date_mentioned n="11-08-1832">8th inst</date_mentioned>. just received: "He is to be
+pitied who has the misfortune to be at the head of public affairs,
+in revolutionary times;" Indeed, be [he] a righteous man, or an
+angel, he cannot escape the attacks of some party or individuals—
+A rule we should always follow, is to do our duty, without 
+minding what may be said: I on my part have always wished to follow
+this rule, and my conscience is at rest: I found myself on several
+occasions in rather a critical situation, but the polar star that has
+always guided me, was to promote the true interests of the <location_mentioned>Nation</location_mentioned>
+and <location_mentioned>Texas</location_mentioned>, and I can say that as far as I was able, I complied with<barker_pb n="889"/>
+my duty. With regard to the meeting, it did not originate with
+me, but I believe some good will result from its action; the <person_mentioned>public</person_mentioned>
+is satisfied, and we have enjoyed more quiet than heretofore.</p>
+
+<p>As to your communication to the <person_mentioned>Ayuntamiento </person_mentioned>in relation to the
+meeting, I believe that it would have been better, not to have written
+it, <hi rend="italic">"Revolutionary times are not like peaceable times."</hi> Colonel
+<person_mentioned>Bradburn </person_mentioned>could with the least prudence, have avoided all these
+evils: I tell you candidly that in my opinion, it would be very
+impolitic to translate, and print your communication, I shall not
+do so. The <person_mentioned>Ayuntamiento </person_mentioned>may do as they please: In times like the
+present, any measure is bad, that tends to irritate, and produce
+excitement,—any measure is good that tends to soothe, and to 
+preserve order and peace.</p>
+
+<p>I have but little hope of obtaining anything from the 
+<person_mentioned>Government of <location_mentioned>Mexico</location_mentioned></person_mentioned>; there is little probability that we may have a stable
+and peaceable <person_mentioned>government</person_mentioned>, for some time yet, and I believe that
+<location_mentioned>Texas </location_mentioned>is lost if she takes no measure of her own for her welfare.
+I incline to the opinion, that it is your duty as <person_mentioned>first Magistrate</person_mentioned>, to
+call a general meeting to take into consideration the situation of
+the <location_mentioned>Country</location_mentioned>. I do not know how the <location_mentioned>State</location_mentioned>, or <person_mentioned>General Government</person_mentioned>
+can presume to say that the <person_mentioned>people of <location_mentioned>Texas</location_mentioned></person_mentioned> have violated the 
+Constitution, when the acts of both <person_mentioned>Governments </person_mentioned>have killed the 
+Constitution, and when the confederation itself has hardly any life left.
+I cannot approve the principle, that the <person_mentioned>people </person_mentioned>have not the right
+to assemble peaceably and honorably to represent their wants. In
+short, the condition of <location_mentioned>Texas </location_mentioned>is bad, but we may fear to see it
+still worse.</p>
+
+<p>I am settling up all my business and in <date_mentioned n="04-xx-1833">April </date_mentioned>I will go to the
+<location_mentioned>North </location_mentioned>for six months or one year. There is little to be hoped for
+in <location_mentioned>Texas</location_mentioned>. I wish you would let me hear the news, and tell me if
+the Constitution is dead, or alive, if an election for <person_mentioned>President </person_mentioned>shall
+take place, and what hope there is for a peacable settlement of the
+affairs. In the meanwhile please to give your orders to your 
+affectionate friend</p>
+
+<p><person_mentioned>S. F. Austin</person_mentioned></p>
+
+
+</div1>
+</body>
+</text>
+</TEI.2>

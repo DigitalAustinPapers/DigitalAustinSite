@@ -1,0 +1,72 @@
+﻿
+<TEI.2 id="APB1941">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>05-24-1830</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 395</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>James W Breedlove</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F Austin</document_recipient>
+<document_title>James W Breedlove to Stephen F Austin, 05-24-1830</document_title>
+<document_location>
+	<sent_from>New Orleans, Louisiana</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>James W. Breedlove to Austin, New Orleans, May 24, 1830. Introducing the Messrs. Sutherland, immigrants from Alabama.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 395</barker_citation>
+</barker_notes>
+<document_digital_creation>08-21-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1941T">
+
+<body>
+<div1 type="summary">
+<p>James W. Breedlove to Austin, New Orleans, May 24, 1830. Introducing the Messrs. Sutherland, immigrants from Alabama.</p>
+</div1>
+
+<div1 type="body">
+
+<p><person_mentioned>Mexican Consulate</person_mentioned></p>
+<p><location_mentioned>New Orleans</location_mentioned> <date_mentioned n="05-24-1830">May 24, 1830<</date_mentioned>/p>
+<p><person_mentioned>Col Stephen F. Austin</person_mentioned></p>
+
+<p>Dear Sir You have herewith a letter from <person_mentioned>Mr Sutherland</person_mentioned> of
+<location_mentioned>Alabama </location_mentioned>on the subject of land selected for him by his <person_mentioned>brother </person_mentioned>in
+your <person_mentioned>Colony</person_mentioned>, I have long Known these <person_mentioned>Gentlemen </person_mentioned>as <person_mentioned>merchants</person_mentioned>,
+and from their General Character as <person_mentioned>men </person_mentioned>and <person_mentioned>merchants</person_mentioned>, together
+with the Capital they would introduce into <location_mentioned>Texas </location_mentioned>I should think
+it would be good policy to Extend the time as asked for in his letter
+unless it be entirely contrary to your Colonization Laws and beyond
+your powers to grant—</p>
+
+<p>Such men as the <person_mentioned>Mess Sutherlands</person_mentioned> Settling in a new <location_mentioned>Country</location_mentioned>
+is well calculated to give character to the <location_mentioned>Country</location_mentioned>, and draw after
+them other <person_mentioned>Settlers </person_mentioned>of equal wealth and respectability, I am well
+aware of the difficulty of a <person_mentioned>merchants </person_mentioned>winding up his business in a
+<location_mentioned>Country like Alabama</location_mentioned> and have no doubt that <person_mentioned>Mr. Sutherland</person_mentioned> has
+given himself as short a time to effect the object as he can do it in.</p>
+
+<p>In order to more effectually prove to you his determination to
+locate in <location_mentioned>Texas </location_mentioned><person_mentioned>Mr. S</person_mentioned>. will this <date_mentioned n="Fall - 1830">fall </date_mentioned>build a <location_mentioned>House </location_mentioned>on the land
+designated, and <date_mentioned n="Spring - 1831">next Spring put </date_mentioned>into Cultivation a part of the Land</p>
+
+<p><person_mentioned>Jas W Breedlove  </person_mentioned>  [Rubric]</p>
+
+</div1>
+</body>
+</text>
+</TEI.2>

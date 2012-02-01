@@ -1,0 +1,79 @@
+﻿
+<TEI.2 id="APB4472">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>11-13-1832</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 887-888</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Archibald Austin</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F Austin</document_recipient>
+<document_title>Archibald Austin to Stephen F Austin, 11-13-1832</document_title>
+<document_location>
+	<sent_from>New York, New York</sent_from>
+	<sent_to>San Felipe de Austin, Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Archibald Austin to Austin, New York, November 13, 1832, Introducing Miss McManos, who visits Texas to arrange for immigration of Europeans.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 887-888</barker_citation>
+</barker_notes>
+<document_digital_creation>11-03-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4472T">
+
+<body>
+<div1 type="summary">
+<p>Archibald Austin to Austin, New York, November 13, 1832, Introducing Miss McManos, who visits Texas to arrange for immigration of Europeans.</p>
+</div1>
+
+<div1 type="body">
+
+<p><location_mentioned>New York</location_mentioned>, <date_mentioned n="11-13-1832">13 Novr 1832</date_mentioned>.</p>
+<p>My dear Sir,</p>
+
+<p>Allow me the pleasure to Introduce to your acquaintance<person_mentioned> Miss
+McManos</person_mentioned>, who has had it in contemplation for some time past
+to proceed to <location_mentioned>Europe</location_mentioned>, for the purpose of pointing out to her <person_mentioned>Friends</person_mentioned>,
+the most eligible part of this <location_mentioned>Continent</location_mentioned>, for them to migrate to,
+and of whose views I have already given my <person_mentioned>Brother Henry</person_mentioned> a
+partial Idea of, and refer you to her for particulars, She having
+determined on visiting your <location_mentioned>Colony</location_mentioned>, ere she embarks for <location_mentioned>Europe</location_mentioned>,
+for the purpose of obtaining the requisite Information about the
+<location_mentioned>Country</location_mentioned>, to enable her to communicate from personal observation,
+the inducements it may offer for her <person_mentioned>Friends</person_mentioned>—and also to make
+such arrangements with you as may be practicable, in regard to a
+Location—</p><barker_pb n="888"/>
+
+<p>You will please give this <person_mentioned>Lady </person_mentioned>the Information she is in persuit
+of and pay her such attentions as a <person_mentioned>Lady </person_mentioned>and a <person_mentioned>Stranger </person_mentioned>may
+require in a <location_mentioned>new Country</location_mentioned>—</p>
+
+<p>This <person_mentioned>Lady</person_mentioned>s mission is an important one, and I hope it may be
+consider'd mutually advantageous, to adopt means to cause it to be
+crowned with success</p>—
+
+<p><person_mentioned>Arch Austin</person_mentioned></p>
+<p><person_mentioned>Colo S. F. Austin</person_mentioned>   <location_mentioned>Sn. Filepe de Austin   Texas</location_mentioned>,
+Please consider <person_mentioned>Mr McManos</person_mentioned> who accompanies his <person_mentioned>Sister </person_mentioned>as 
+included in my Letter of Introduction, he will probably remain in
+the <location_mentioned>Colony </location_mentioned>if he finds it to his advantage</p>
+
+<p><person_mentioned>A. A.</person_mentioned></p>
+
+
+</div1>
+</body>
+</text>
+</TEI.2>

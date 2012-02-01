@@ -1,0 +1,90 @@
+﻿
+<TEI.2 id="APB4545">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>04-02-1833</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 940-941</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Stephen F Austin</document_author>
+<document_sender></document_sender>
+<document_recipient>Nathaniel Cox</document_recipient>
+<document_title>Stephen F Austin to Nathaniel Cox, 04-02-1833</document_title>
+<document_location>
+	<sent_from>San Felipe de Austin, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Austin to Nathaniel Cox, April 2, 1833. Gratified at Cox's approval of his settlement with the Hawkins heirs. Thinks Texas will be separated from Coahuila.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 940-941</barker_citation>
+</barker_notes>
+<document_digital_creation>11-14-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4545T">
+
+<body>
+*div1 type="summary"*
+*p*Austin to Nathaniel Cox, April 2, 1833. Gratified at Cox's approval of his settlement with the Hawkins heirs. Thinks Texas will be separated from Coahuila.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*San Felipe de Austin */location_mentioned**date_mentioned n="04-02-1833">April 2d, 1833*/date_mentioned**/p*
+*p**person_mentioned*Mr. N. Cox*/person_mentioned**/p*
+
+*p*Dr Sir. I reed, your esteemed favor of *date_mentioned n="03-01-1833">1 ult.*/date_mentioned* recommending *person_mentioned*Doctor
+Spaulding*/person_mentioned*   It will give me great pleasure to do any thing in my<barker_pb n="941"/>
+power to promote the views of the *person_mentioned*Docter*/person_mentioned*.   He stoped at *location_mentioned*Matagorda*/location_mentioned*
+and I have not yet had the pleasure of seeing him.*/p*
+
+*p*It is highly gratifying to me that you and *person_mentioned*Mr. Sanders*/person_mentioned* approve
+of my conduct in relation to the settlement of the business of our
+mutual friend *person_mentioned*J. H. Hawkins' estate*/person_mentioned*.*/p*
+
+*p*After the many years of labor and hardships and perplexities I
+have undergone in this *location_mentioned*country */location_mentioned*by which I have secured a handsome
+fortune for the *person_mentioned*heirs*/person_mentioned*, I was not prepared to receive censure from any
+of them, because I thought that I did not merit it. *person_mentioned*Edmund*/person_mentioned*, I fear,
+received incorrect impressions from some persons who are unfriendly
+to me, but I think they are removed now and that he is very well
+satisfied*/p*.
+
+*p*It would be gratifying for me to receive assurances from *person_mentioned*Mr. Haws*/person_mentioned*,
+and from *person_mentioned*Geo. N. Hawkins*/person_mentioned* that they were satisfied with the 
+settlement and with my conduct I have always viewed *person_mentioned*J. H. Hawkins*/person_mentioned*
+more like a brother than any thing else. I am however well aware
+that it is very difficult for persons at a distance, who live in a well
+organised *location_mentioned*community */location_mentioned*to form a correct idea of the trouble, or labor,
+or difficulties of doing business in this *location_mentioned*country */location_mentioned*of the kind I have been
+engaged in.*/p*
+
+*p*Your approbation is very gratifying indeed for I prise your
+opinions very highly.*/p*
+
+*p*I am endeavoring to close all my affairs and totally withdraw 
+myself from public matters or <hi rend="italic">politics</hi>—it is not so easy to do, as at first
+appeard.*/p*
+
+*p*Our convention has met and will no doubt apply to the*person_mentioned* national
+congress */person_mentioned*for the admission of *location_mentioned*Texas */location_mentioned*into the *location_mentioned*mexican union */location_mentioned*as a *location_mentioned*State*/location_mentioned*.
+I think the application will be granted. I believe it is very necessary
+to save this *location_mentioned*country */location_mentioned*from ruin. We are now able to sustain A *person_mentioned*State
+Govt*/person_mentioned*, and no *location_mentioned*country */location_mentioned*ever required one more than this.*/p*
+
+*p**person_mentioned*S. F. Austin */person_mentioned*[Rubric]*/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

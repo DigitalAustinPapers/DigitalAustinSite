@@ -1,0 +1,60 @@
+﻿
+<TEI.2 id="APB1129">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>05-05-1826</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1322</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>John Roe</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F. Austin</document_recipient>
+<document_title>John Roe to Stephen F. Austin, 05-05-1826</document_title>
+<document_location>
+	<sent_from>San Felipe de Austin, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>John Roe to Austin, May 5, 1826. Order for sum due for services with Indians.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1322</barker_citation>
+</barker_notes>
+<document_digital_creation>06-15-1826</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1129T">
+
+<body>
+*div1 type="summary"*
+*p*John Roe to Austin, May 5, 1826. Order for sum due for services with Indians.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**date_mentioned n="05-05-1826">May 5th 1826*/date_mentioned**/p**p*
+*person_mentioned*Colonel Stevan F. Austin */person_mentioned*  Please Pay The *person_mentioned*bearer */person_mentioned**person_mentioned*Joshua Parker*/person_mentioned*
+the Sum Due me for bringing in the*person_mentioned* tonkaway Indians */person_mentioned*and oblige
+yours*/p*
+
+*p**person_mentioned*John Roe */person_mentioned*   [Rubric]*/p*
+
+*p*[On reverse]    Recd of *person_mentioned*S. F. Austin */person_mentioned*twenty dollars on the within order*/p*
+*p**location_mentioned*San Felipe de Austin */location_mentioned**date_mentioned n="05-10-1826">May 10. 1826*/date_mentioned**/p*
+*p**person_mentioned*Joshua Parker    [Rubric]*/person_mentioned**/p*
+
+*p*[On Margin] Paid order for money for bringing in the *person_mentioned*Tonkaways*/person_mentioned*.*/p*
+
+
+*/div1*
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,77 @@
+﻿
+<TEI.2 id="APB3046">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>12-29-1825</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1243</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>H. Johnson</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F. Austin</document_recipient>
+<document_title>H. Johnson to Stephen F. Austin, 12-29-1825</document_title>
+<document_location>
+	<sent_from>New Orleans, Louisiana</sent_from>
+	<sent_to></sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Concerning depredations in Louisiana of banditti on the Sabine who steal horses and slaves and take refuge in Texas.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1243</barker_citation>
+</barker_notes>
+<document_digital_creation>06-22-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Cameron L. Sinclair, Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB3046T">
+
+<body>
+<div1 type="summary">
+<p>Concerning depredations in Louisiana of banditti on the Sabine who steal horses and slaves and take refuge in Texas.</p>
+</div1>
+
+<div1 type="body">
+
+<p><location_mentioned>New Orleans</location_mentioned>, <date_mentioned n="12-29-1825">29th December 1825</date_mentioned></p>
+<p>Sir,</p>
+
+<p>As <person_mentioned>Chief Magistrate of this <location_mentioned>State</location_mentioned></person_mentioned>, I take the liberty to address
+you upon a subject of Deep interest to many of our <person_mentioned>Citizens</person_mentioned>. It
+has been represented to me from a source that may be relied on, that
+a number of <person_mentioned>slaves</person_mentioned> and horses of the <person_mentioned>inhabitants</person_mentioned> residing near the
+<location_mentioned>Sabine</location_mentioned>, in the <location_mentioned>Western section of the State</location_mentioned>, have been stolen and
+carried into the <location_mentioned>Province of Texas</location_mentioned>, by a lawless <person_mentioned>banditti</person_mentioned> associated
+for the purpose; and that many Dishonest <person_mentioned>Debtors</person_mentioned>, who fly from
+justice here, taking with them in some instances, property mortgaged
+for the payment of their Debts, take refuge in the said <location_mentioned>Province</location_mentioned>.
+Indeed, I am informed that property mortgaged here for a large
+amount has been thus carried off.</p>
+
+<p>Relying upon your high character, the people feel assured that
+you will cheerfully do all in your power to prevent the recurrence
+of the evils complained of. I should feel much gratified, Sir, to
+learn for the information of those interested, what steps should be
+adopted, best calculated to put a stop to such outrages, and for the
+recovery of the Debts alluded to.</p>
+
+<p>Connected as your <location_mentioned>settlement</location_mentioned> is with this <location_mentioned>State</location_mentioned>, it is important to
+both, that harmony should prevail, and that a friendly intercourse
+should be carried between them. So far as may depend upon the
+exercise of my authority, the object shall be effected.</p>
+
+<p><person_mentioned>H. Johnson</person_mentioned> [Governor of Louisana.]</p>
+
+<p><person_mentioned>Col. Stephen A. [sic] Austin</person_mentioned></p>
+
+</div1>
+</body>
+</text>
+</TEI.2>

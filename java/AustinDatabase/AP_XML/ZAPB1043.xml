@@ -1,0 +1,60 @@
+﻿
+<TEI.2 id="APB1043">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>02-15-1825</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1045</document_citation>
+<document_language>Englsih</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>H. Johnson</document_author>
+<document_sender>Mr. Ira Ingram<</document_sender>
+<document_recipient>Stephen F. Austin</document_recipient>
+<document_title>H. Johnson to Stephen F. Austin, 02-15-1825</document_title>
+<document_location>
+	<sent_from>New Orleans, Louisiana</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>H. Johnson to Austin, February 15, 1825.   Introducing Ira Ingram.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1045</barker_citation>
+</barker_notes>
+<document_digital_creation>05-30-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1043T">
+
+<body>
+<div1 type="summary">
+<p>H. Johnson to Austin, February 15, 1825.   Introducing Ira Ingram.</p>
+</div1>
+
+<div1 type="body">
+
+<p><location_mentioned>New Orleans</location_mentioned>, <date_mentioned n="02-15-1825">15th Feb: 1825</date_mentioned></p>
+<p>Sir</p>
+
+<p>Entertaining for your character the highest respect, I take the
+liberty, although I have not the pleasure of a personal acquaintance
+with you, to introduce to your acquaintance <person_mentioned>Mr. Ira Ingram</person_mentioned> who will
+present this letter. <person_mentioned>Mr. Ingram</person_mentioned> is a gentleman of respectability, and
+in every respect worthy your esteem and confidence. Any service it
+may be in your power to render him will be thankfully remembered.</p>
+
+<p><person_mentioned>H. Johnson,
+Governor of the State of <location_mentioned>Louisiana</location_mentioned>.</person_mentioned></p>
+<p><person_mentioned>Col. S. F. Austin</person_mentioned>.</p>
+
+</div1>
+</body>
+</text>
+</TEI.2>

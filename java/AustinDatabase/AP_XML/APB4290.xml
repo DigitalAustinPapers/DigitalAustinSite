@@ -1,0 +1,58 @@
+﻿
+<TEI.2 id="APB4290">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>11-28-1831</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 715</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Thomas Davis</document_author>
+<document_sender></document_sender>
+<document_recipient>S M Williams</document_recipient>
+<document_title>Thomas Davis to S M Williams, 11-28-1831</document_title>
+<document_location>
+	<sent_from>Unknown</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Thomas Davis to S. M. Williams, November 28, 1831. Draft on Austin for
+two " gentle cows and calves."
+</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 715</barker_citation>
+</barker_notes>
+<document_digital_creation>09-16-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4290T">
+
+<body>
+*div1 type="summary"*
+*p*Thomas Davis to S. M. Williams, November 28, 1831. Draft on Austin for
+two " gentle cows and calves."*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**person_mentioned*Mr Willims*/person_mentioned* Sur Pleas Pay and to *person_mentioned*Thorn Davis*/person_mentioned* two gentle Cows
+and Calves and the amount shall be Credited on *person_mentioned*Mr Austen*/person_mentioned*s note
+*person_mentioned*Richd Andrews*/person_mentioned* for *person_mentioned*Moza Ruzaw [Rousseau] */person_mentioned**date_mentioned n="11-28-1831">Nov 28th 1831*/date_mentioned**/p*
+
+*p*Pay the within To *person_mentioned*Henry Applewhite*/person_mentioned**/p*
+
+*p**person_mentioned*Thomas Davis*/person_mentioned**/p*
+
+
+*/div1*
+</body>
+</text>
+</TEI.2>

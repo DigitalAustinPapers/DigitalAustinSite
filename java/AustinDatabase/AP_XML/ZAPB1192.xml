@@ -1,0 +1,64 @@
+﻿
+<TEI.2 id="APB1192">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>07-08-1826</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1370</document_citation>
+<document_language>Englsih</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>William S. Hall</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F. Austin</document_recipient>
+<document_title>William S. Hall to Stephen F. Austin, 07-08-1826</document_title>
+<document_location>
+	<sent_from>Lower Settlement Brazos, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>William S. Hall to Austin, July 8, 1826. Asking information concerning election of militia officers.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1370</barker_citation>
+</barker_notes>
+<document_digital_creation>06-22-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1192T">
+
+<body>
+<div1 type="summary">
+<p>William S. Hall to Austin, July 8, 1826. Asking information concerning election of militia officers.</p>
+</div1>
+
+<div1 type="body">
+
+<p>Lower Settlement Brazos</p>
+
+<p><date_mentioned n="07-08-1826">July 8 1826</date_mentioned></p>
+<p>Sir</p>
+
+<p>Several enquiries having been made of me by <person_mentioned>individuals of this
+company</person_mentioned> relative to the late election of <person_mentioned>staff officers for this Battn</person_mentioned>
+on the <date_mentioned n="03-18-1826">18 of March last</date_mentioned> and posponed agreably to the resolv of the
+<person_mentioned>Board of officers</person_mentioned> in order to afford time for the balance of the vots
+to be rendered in—understanding that the vots have been rendered
+in I vary respectfully solisit to know the result of that election and
+what persons have been <person_mentioned>elected Staff officers of this Battalion</person_mentioned></p>
+
+<p><person_mentioned><person_mentioned>WM S Hall</person_mentioned></p>
+<p>Capt 3d company militia.</person_mentioned></p>
+<p>To <person_mentioned>Lieu Col Steph F Austin</person_mentioned></p>
+
+
+</div1>
+</body>
+</text>
+</TEI.2>

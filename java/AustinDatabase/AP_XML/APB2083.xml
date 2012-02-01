@@ -1,0 +1,66 @@
+﻿
+<TEI.2 id="APB2083">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>08-16-1825</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 1166</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Alexander Calvit</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F Austin</document_recipient>
+<document_title>Alexander Calvit to Stephen F Austin, 08-16-1825</document_title>
+<document_location>
+	<sent_from>Neich, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Alexander Calvit to Austin, August 16, 1825.   Concerning land.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1166</barker_citation>
+</barker_notes>
+<document_digital_creation>12-24-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB2083T">
+
+<body>
+*div1 type="summary"*
+*p*Alexander Calvit to Austin, August 16, 1825.   Concerning land.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Neich Texas*/location_mentioned* *date_mentioned n="08-16-1825">August, 16. 1825*/date_mentioned**/p*
+*p**person_mentioned*Colo Stephen F. Austin*/person_mentioned**/p*
+
+*p*Dr. Sir: Permit me to ask the favor of you if Consistant with
+the nature of your Business to hoald in reserve for my *person_mentioned*Brother */person_mentioned*and
+my Self that *location_mentioned*League of Land made Choice of on the St. Bernardo*/location_mentioned*
+by *person_mentioned*Mr. James Brown from *location_mentioned*Alexandria*/location_mentioned**/person_mentioned* the *person_mentioned*Mr. Cumins*/person_mentioned* hoalds
+*person_mentioned*Prara Lands*/person_mentioned* *location_mentioned*Immediately opposite*/location_mentioned* As I have only obtained the
+one half of what I am Intitled to you will do me a particular favor
+if it is not already marked out for Some other person to place my
+name on the *location_mentioned*map */location_mentioned*so as to cover it the payment of which we calculate
+on makeing from the soil in Cotton the Insuing season*/p*
+
+*p**person_mentioned*Alexn Calvitt */person_mentioned*  [Rubric]*/p*
+
+*p**person_mentioned*Colo S. F. Austin*/person_mentioned**/p*
+
+*p*N. B. please to inform me if I am successfull or not*/p*
+
+
+*/div1*
+</body>
+</text>
+</TEI.2>

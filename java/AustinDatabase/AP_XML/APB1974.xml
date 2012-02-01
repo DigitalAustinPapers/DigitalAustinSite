@@ -1,0 +1,86 @@
+﻿
+<TEI.2 id="APB1974">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>06-29-1830</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 432-433</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Horatio Alsberry</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F Austin</document_recipient>
+<document_title>Horatio Alsberry to Stephen F Austin, 06-29-1830</document_title>
+<document_location>
+	<sent_from>Comargo</sent_from>
+	<sent_to>San Felipe de Austin, Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Horatio Alsbury to Austin, Camargo, June 29, 1830. Introducing Don Gaspar Sais.   Alarming rumors of the Government's intentions in Texas. </barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 432-433</barker_citation>
+</barker_notes>
+<document_digital_creation>08-23-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1974T">
+
+<body>
+*div1 type="summary"*
+*p*Horatio Alsbury to Austin, Camargo, June 29, 1830. Introducing Don Gaspar Sais.   Alarming rumors of the Government's intentions in Texas. */p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Comargo*/location_mentioned**date_mentioned n="06-29-1830"> 29th June 1830*/date_mentioned**/p*
+*p*Dr Sir,*/p*
+
+*p*The *person_mentioned*bearer */person_mentioned*of this letter goes to *location_mentioned*New Orleans*/location_mentioned* with letters from
+a *person_mentioned*Lady */person_mentioned*of this place to her *person_mentioned*husband */person_mentioned*one of the *person_mentioned*Expulsed Spaniards
+*/person_mentioned*in which is enclosed a passport or certificate from *location_mentioned*Mexico */location_mentioned*that he is
+excepted from the law of twenty Eight with the intention of 
+bringing him to the *location_mentioned*Brazos */location_mentioned*if not to *location_mentioned*Comargo */location_mentioned*He is a *person_mentioned*gentleman */person_mentioned*highly
+Esteemed, here by Every person   by request of his *person_mentioned*wife */person_mentioned*I address<barker_pb n="433"/>
+you this letter requesting you as a *person_mentioned*friend */person_mentioned*to the distressed and
+oppressed that should your influence be necessary for the 
+forwarding on of the Express or the protection of *person_mentioned*Don Gaspar Sais (Dicha
+Spaniard)*/person_mentioned* should he come to *location_mentioned*Brazos*/location_mentioned*, to use your influence in his
+behalf also if you see proper to write him a note promising your
+protection by the *person_mentioned*Express */person_mentioned*and by so doing procure a wealthy and
+respectable *person_mentioned*citizen */person_mentioned*in your *location_mentioned*Colony */location_mentioned*as she wishes to move on and
+join him in *date_mentioned n="09-xx-1830">Septembre*/date_mentioned*—*/p*
+
+*p**date_mentioned n="06-28-1830">yesterday */date_mentioned*arrived here above a hundred *person_mentioned*convicts */person_mentioned*destined for
+*location_mentioned*Texas */location_mentioned*condemned to three years labor on the *location_mentioned*public buildings*/location_mentioned* that
+*person_mentioned*General Teran*/person_mentioned* is going to Establish there (for *person_mentioned*vagrants*/person_mentioned*) Report
+says here that you have notified the *person_mentioned*general */person_mentioned*that if he does not take
+immediate steps to establish a *person_mentioned*military force*/person_mentioned* in *location_mentioned*Tejas */location_mentioned*that there
+will be revolution in *location_mentioned*Nacogdoches */location_mentioned*Also that eighteen thousand
+*person_mentioned*Spaniards */person_mentioned*have disembarked in *location_mentioned*Tejas */location_mentioned*and destroyed the *person_mentioned*Military
+force*/person_mentioned* of that Department the latter however is not believed Several
+*person_mentioned*Companies of troops*/person_mentioned* have and are starting on to that point and
+an *person_mentioned*officer */person_mentioned**date_mentioned n="06-28-1830">yesterday */date_mentioned*told me that they were going to " Empinar " the
+*person_mentioned*Americans */person_mentioned*in *location_mentioned*Tejas */location_mentioned*" muy pronto " There is a great deal said of the
+*person_mentioned*Spanish Expedition*/person_mentioned* this fall Also that *person_mentioned*Bustamente */person_mentioned*is determined
+to stop the emigration of *person_mentioned*Americans */person_mentioned*to *location_mentioned*Tejas */location_mentioned*and even expulse those
+that are there however *person_mentioned*Teran */person_mentioned*speaks highly of you and your
+*location_mentioned*colony */location_mentioned*but does not yet know when he will start for *location_mentioned*Tejas */location_mentioned*you will
+oblige me by contesting [answering] this*/p*
+
+*p**person_mentioned*Horatio A. Alsberry*/person_mentioned**/p*
+
+*p*[Addressed]Al*person_mentioned* C. Esteban F. Austin*/person_mentioned*   *location_mentioned*En San Felipe   Rio Brazos*/location_mentioned*
+
+*/p*
+*/div1*
+</body>
+</text>
+</TEI.2>

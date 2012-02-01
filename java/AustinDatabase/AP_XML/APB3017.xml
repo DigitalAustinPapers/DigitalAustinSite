@@ -1,0 +1,85 @@
+﻿
+<TEI.2 id="APB3017">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>10-15-1825</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1224-1225</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>James Norton</document_author>
+<document_sender>Capt. J. T. Field</document_sender>
+<document_recipient>Stephen F. Austin</document_recipient>
+<document_title>James Norton to Stephen F. Austin, 10-15-1825</document_title>
+<document_location>
+	<sent_from>New Orleans, Louisiana</sent_from>
+	<sent_to>San Felipe de Austin, Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Intention to move to Texas. Abusive publications against Austin.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1224-1225</barker_citation>
+</barker_notes>
+<document_digital_creation>06-03-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Cameron L. Sinclair, Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB3017T">
+
+<body>
+*div1 type="summary"*
+*p*Intention to move to Texas. Abusive publications against Austin.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*New Orleans*/location_mentioned* *date_mentioned n="10-15-1825">15th October 1825*/date_mentioned**/p*
+*p*Dear Sir*/p*
+
+*p*Since my first acquaintance with you in this *location_mentioned*city*/location_mentioned*, I have had
+the desire to emigrate to your *location_mentioned*colony*/location_mentioned*; but circumstances of a private
+nature, and some pecuniary embarrassments, have hitherto precluded
+it. Moreover, not having, had the pleasure of an interview, or
+even of correspondence with you, I have been deterred by <hi rend="italic">what</hi>, I
+have always denounced as falsehood and detraction. *person_mentioned*Capt. Zepeniah
+Butler*/person_mentioned*, with whom I went to the *location_mentioned*river Brassos*/location_mentioned*, has expressed his
+wish to become a *person_mentioned*citizen*/person_mentioned*,   from the just motives, which have ever<barker_pb n="1225"/> influenced me in regard to your character as a gentleman, and your
+justice, as an *person_mentioned*officer of the government*/person_mentioned*; and not only, that; (though
+a primary consideration) but the excellent quality of the soil, on
+which your *location_mentioned*colony*/location_mentioned* is founded.*/p*
+
+*p*I perceive however, not withstanding your justice, and judgement
+in managing the local affairs of your *location_mentioned*colony*/location_mentioned*, some difficulties will
+arise among the evil disposed, which being transported into other
+*location_mentioned*communities abroad*/location_mentioned*, tend, (though but partially) I hope, (to injure your rising prosperity), and that of your great, and arduous
+undertaking.*/p*
+
+*p*I mean, if possible, to visit *date_mentioned n="Summer - 1826">next summer */date_mentioned*the *location_mentioned*settlement*/location_mentioned*, which
+you have spent so much time, and money to establish, and flatter
+myself, that, I shall find, that it even exceeds in every thing my
+most sanguine expectations: but before that time, I sincerely solicit
+you to write me, and transmit whatever inteligence you may deem
+proper to communicate, or entrust to one, of whom you have had
+so short an acquaintance.*/p*
+
+*p*I forbear to write any thing relative to the abusive and vindictive
+publications of a certain individual, as the papers containing them
+will be handed to you by *person_mentioned*Capt. J. T. Field*/person_mentioned*, who is the *person_mentioned*bearer */person_mentioned*of this:
+they are relative to the abuse of the <hi rend="italic">Buen gobierno del establecimiento</hi>.*/p*
+
+*p**person_mentioned*James Norton*/person_mentioned*.*/p*
+
+*p*[Addressed:] *person_mentioned*Colo Stephen F. Austin*/person_mentioned* *location_mentioned*San Philipe De Austin
+Texas U. M. S.*/location_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

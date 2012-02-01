@@ -1,0 +1,61 @@
+﻿
+<TEI.2 id="APB1650">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>12-03-1828</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 150</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Stephen F Austin</document_author>
+<document_sender></document_sender>
+<document_recipient>Adner Kuykendall</document_recipient>
+<document_title>Stephen F Austin to Adner Kuykendall, 12-03-1828</document_title>
+<document_location>
+	<sent_from>Unknown</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Austin to Abner Kuykendall, December 3, 1828. Wishing to buy cows and calves.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 150</barker_citation>
+</barker_notes>
+<document_digital_creation>08-08-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1650T">
+
+<body>
+*div1 type="summary"*
+*p*Austin to Abner Kuykendall, December 3, 1828. Wishing to buy cows and calves.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**person_mentioned*Mr Abner Kykendall*/person_mentioned**/p*
+*p*Please let*person_mentioned* Mr. Achilles McFarlan*/person_mentioned* have four Cows and calves out
+of those you intend for me.*/p*
+*p*I will take all the Cows and calves you have to spare but cannot go
+up now to receive them and must start *location_mentioned*down the River*/location_mentioned* tomorrow,
+I will send up my *person_mentioned*brother */person_mentioned*to attend to the business and receive the
+cows-*/p*
+*p**date_mentioned n="12-03-1828">Decr. 3, 1828.*/date_mentioned**/p*
+
+*p*[Stephen F. Austin.]*/p*
+*p*order for four cows*/p*
+
+*p*Received of *person_mentioned*Abner C Kuykendall*/person_mentioned* fore Cows at one hundred dollars
+*person_mentioned*Achilles McFarlan*/person_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,67 @@
+﻿
+<TEI.2 id="APB1143">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>05-13-1826</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1331</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>James J. Ross</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F. Austin</document_recipient>
+<document_title>James J. Ross to Stephen F. Austin, 05-13-1826</document_title>
+<document_location>
+	<sent_from>Colorado, Texas</sent_from>
+	<sent_to>San Felipe de Austin, Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>James J. Ross to Austin, May 13, 1826. Report of an expedition against Waco Indians.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1331</barker_citation>
+</barker_notes>
+<document_digital_creation>06-17-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1143T">
+
+<body>
+*div1 type="summary"*
+*p*James J. Ross to Austin, May 13, 1826. Report of an expedition against Waco Indians.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Colorado*/location_mentioned* *date_mentioned n="05-13-1826">May 13th 1826*/date_mentioned*—*/p*
+*p*Dear Sir. *person_mentioned*Capn Buckner*/person_mentioned* has not arrived yet but we expect him
+every minit I have had *person_mentioned*Spies */person_mentioned*out every day and night Since I
+Received your order and do expect to do so untill further orders and
+perhaps go with 20 or 30 *person_mentioned*men */person_mentioned*above the *location_mentioned*San Antonio Road*/location_mentioned* where
+it is soposed the *person_mentioned*Wacos */person_mentioned*may be hunting Though I think it 
+immaginary. at all events it is our duty to keep a good look out—and
+if we Cannot hear from the *person_mentioned*Indians */person_mentioned*in 8 or 10 days it may be best
+to discharge the men. as it is about the time those *person_mentioned*Indians */person_mentioned*leaves
+their *location_mentioned*villages */location_mentioned*to go a hunting—
+
+*/p**p*The[y] genneraly Return when their Corn gets in Roasting Ears
+and their Water Mellons gits Ripe then I do think would be the
+best time to find them at *location_mentioned*home */location_mentioned*and as good a time to go a Campaign
+as any—I will see or hear from you before that time—*/p*
+*p*Yours Respectfully*/p*
+
+*p**person_mentioned*James J. Ross*/person_mentioned*—
+
+*/p**p*[Addressed:] *person_mentioned*Colo Stephen F. Austin*/person_mentioned* *person_mentioned*San Felipe de Austin*/person_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

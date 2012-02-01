@@ -1,0 +1,132 @@
+﻿
+<TEI.2 id="APB4603">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>10-26-1833</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 1009-1011</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>James F Perry</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F Austin</document_recipient>
+<document_title>James F Perry to Stephen F Austin, 10-26-1833</document_title>
+<document_location>
+	<sent_from>Peach Point, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>James F. Perry to Austin, October 26, 1833. Conditions in Texas during Austin's absence—flood, cholera, malaria.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1009-1011</barker_citation>
+</barker_notes>
+<document_digital_creation>11-30-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4603T">
+
+<body>
+*div1 type="summary"*
+*p*James F. Perry to Austin, October 26, 1833. Conditions in Texas during Austin's absence—flood, cholera, malaria.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Peach Point*/location_mentioned* *date_mentioned n="10-26-1833">26th Oct. 1833*/date_mentioned**/p*
+*p*Dear *person_mentioned*Brother*/person_mentioned**/p*
+
+*p*Your letters of the *date_mentioned n="07-30-1833">30th of July*/date_mentioned*—the *date_mentioned n="09-05-1833">5th */date_mentioned*and *date_mentioned n="09-11-1833">11th of Sept*/date_mentioned*. dated
+at *location_mentioned*Mexico */location_mentioned*came to hand two days ago it gave us verry great pleasure
+to receive them and to hear of your good state of health, as we had
+heard through *person_mentioned*Williams */person_mentioned*that you had wrote him you had at the
+time you wrote all the premonetary simptims of the Cholera and as
+it had been very fatle here scarsely any who was attaced with it
+that recovered. We was very much alarmed for your safety but kind
+providence has preserved you to us and to the *location_mentioned*Colony*/location_mentioned*—Which still
+needs your Guardien hand to guid them through.*/p*
+
+*p*To give you an account of the over flow Cholara, Fevers and
+deaths in the *location_mentioned*colony */location_mentioned*I presume would be unnessary as I expect *person_mentioned*Mr
+Williams*/person_mentioned* has given you full acts. We would have wrote you long
+since but did not think our Leatters would reach you as When
+you left *location_mentioned*Matamoras */location_mentioned*you expected your stay in *location_mentioned*Mexico */location_mentioned*would be very
+short we will now give you a short act. of the sickness and deaths
+in our emediate *location_mentioned*neighbourhood */location_mentioned*on your return you will find a great
+vacuam in *location_mentioned*this part of the country*/location_mentioned*, but before we say anything of
+the *location_mentioned*neighborhood */location_mentioned*we will give you some account of our own *location_mentioned*famales*/location_mentioned*
+sickness. Our famely has not been entirely clear of sickness since
+*date_mentioned n="06-xx-1833">June */date_mentioned*and part of the time scarsely enough well of either *person_mentioned*servants */person_mentioned*or
+*person_mentioned*whites */person_mentioned*to wait on the sick and at the worst of our sickness there was
+not a *person_mentioned*Physician */person_mentioned*could be had or a *person_mentioned*neighbour */person_mentioned*to call to see us *person_mentioned*Emily*/person_mentioned*
+was verry low indeed I scarsely thought she could recover.   But it<barker_pb n="1010"/>
+was the will of providence to save her to her *person_mentioned*famaly */person_mentioned*and *person_mentioned*friends */person_mentioned*but
+our dear little *person_mentioned*Mary*/person_mentioned* it was her lot to be taken from us. She was sick
+only five days. With the fever and was called of very sudenly and
+verry unexpectedly. She died on the *date_mentioned n="08-04-1833">4th august*/date_mentioned*. We feel and regret
+her loss much— the balance of the *person_mentioned*famaly */person_mentioned*are now generally in 
+tolarable health. Some of them have still slight chills and fevers but we
+hope they will soon ware off as the weather is getting quit[e] cool on
+the *date_mentioned n="10-21-1833">21st */date_mentioned*we had a heavy white frost which is considered very early here.*/p*
+
+*p*With regard to our crops and improvements we have done verry
+little since the *date_mentioned n="06-15-1833">middle of June */date_mentioned*as the *person_mentioned*Blacks */person_mentioned*were all sick as well as
+ourselves we made a good crop of corn and pumpkins about 8 or 900
+bushels of corn and plenty of pumpkins. We planted 13 acres of
+cotton the *date_mentioned n="06-24-1833">last week in June*/date_mentioned* which bid fair to do pretty well but the
+early frost has injured it much as it had not commenced opening we
+do not expect much of a crop cotten is now a fine price in *location_mentioned*N. O.*/location_mentioned* from
+16 to 18 cts. There is fine cropes in this *location_mentioned*neighbourhood */location_mentioned*and I am
+told all over the *location_mentioned*coloney */location_mentioned*where the overflow did not injure it the 
+season has been very wet at least untile about the *date_mentioned n="09-15-1833">middle of September
+*/date_mentioned*(since prety dry) together with the over flow is the reason, assigned
+for sickly season, this *location_mentioned*low country*/location_mentioned* has been visited more severely
+with sickness and deaths than the *location_mentioned*upper*/location_mentioned* but that has not bean 
+entirely clear, there has been recently a good deal of sickness at *location_mentioned*San
+felepe*/location_mentioned* and above and a good many deaths in our *location_mentioned*neighbourhood */location_mentioned*we
+have lost old*person_mentioned* Mr McNeel*/person_mentioned* (fever) *person_mentioned*Mr. Westall*/person_mentioned*, *person_mentioned*James */person_mentioned*and *person_mentioned*Emeline*/person_mentioned*
+(cholera) and *person_mentioned*Mr Munson*/person_mentioned* (fever) which leves a very considerable
+vackancey here in *location_mentioned*Brazoria */location_mentioned*our friend *person_mentioned*John austin*/person_mentioned* both his *person_mentioned*children*/person_mentioned*
+*person_mentioned*Mrs Wm austin*/person_mentioned*—*person_mentioned*Anthony the printer*/person_mentioned*, *person_mentioned*Bradly */person_mentioned*and a number of
+*person_mentioned*negroes */person_mentioned*all died at *location_mentioned*Westall */location_mentioned*with the cholara. there was six or seven
+corps there at one time before they could be buried as the *person_mentioned*neighbours*/person_mentioned*
+were afraid to approach them a great many more of your 
+*person_mentioned*acquantances */person_mentioned*you will find gon among them are *person_mentioned*Doctr Cox*/person_mentioned* and *person_mentioned*counsel*/person_mentioned*,
+*person_mentioned*counsels wife*/person_mentioned* and *person_mentioned*child*/person_mentioned*. *person_mentioned*Jno Cox*/person_mentioned* on the *location_mentioned*Bernard */location_mentioned*and a number of
+others not recolected it is said there was 80 *person_mentioned*persons */person_mentioned*died at *location_mentioned*Brazoria*/location_mentioned*
+in the course of the *date_mentioned n="Summer-1833">summer */date_mentioned*and *location_mentioned*Velasco */location_mentioned*was nearly depopulated by
+the cholera.*/p*
+
+*p*Since you left I wrote to *location_mentioned*Missouri */location_mentioned*for a *person_mentioned*Mr Alex Somervill*/person_mentioned* a man
+I have been acquainted with for many years and in whom I have full
+confidence he come in may and *person_mentioned*Austin */person_mentioned*and him have been in
+charge of the *location_mentioned*store */location_mentioned*since I gave him an interest as I thought it best.
+*person_mentioned*Austin */person_mentioned*was at *location_mentioned*school */location_mentioned*most of the *date_mentioned n="SUmmer-1833">summer */date_mentioned*learning Spanish and says
+he has improved a great deal, they have sold a good many goods as
+they had the best assortment in *location_mentioned*San Felepe*/location_mentioned* *person_mentioned*Mr S.*/person_mentioned* is going in a few
+days to *location_mentioned*N O */location_mentioned*to get a few goods to replenish *person_mentioned*Joel */person_mentioned*and *person_mentioned*Beared */person_mentioned*are
+now gone to collect your cattle as it is the first oppertunity we have
+had all *date_mentioned n="Summer-1833">sumer */date_mentioned*in concequence of the wet season the heat and the flies,<barker_pb n="1011"/>
+*person_mentioned*Col Philips*/person_mentioned* has been laid up all *date_mentioned n="Summer-1833">summer */date_mentioned*with his sore leg. fever etc
+*person_mentioned*Mrs. P.*/person_mentioned* is well the last acts. "We have *person_mentioned*Mr Pilgrim*/person_mentioned* Teaching here
+*person_mentioned*Stephen F. Austin*/person_mentioned* is going to school from his *person_mentioned*grand mothers*/person_mentioned* he is a
+smart boy and *person_mentioned*Mr. Pilgram*/person_mentioned* says he will learn well *person_mentioned*Guy */person_mentioned**person_mentioned*Steph */person_mentioned*and
+*person_mentioned*Eliza */person_mentioned*are going and as soon as *person_mentioned*Joel */person_mentioned*gets done writing some accounts I
+have him to do, I will send him. *person_mentioned*Lavinia */person_mentioned*wishes to be kindly 
+rememberd to you she leves for the *location_mentioned*U. S.*/location_mentioned* in a few days, *person_mentioned*Simon */person_mentioned*is well and
+has been a good boy. */p*                                                    
+
+*p*[J. F. Perry]*/p*
+
+
+*/div1*
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,80 @@
+﻿
+<TEI.2 id="APB4086">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>11-24-1830</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 539-540</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Ayuntamiento of San Felipe</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F Austin</document_recipient>
+<document_title>Ayuntamiento of San Felipe to Stephen F Austin, 11-24-1830</document_title>
+<document_location>
+	<sent_from>Municipality of Austin, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Ayuntamiento of San Felipe to Austin, November 24, 1830. Asking him to use militia to apprehend criminals who are inciting Indians.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 539-540</barker_citation>
+</barker_notes>
+<document_digital_creation>09-01-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4086T">
+
+<body>
+<div1 type="summary">
+<p>Ayuntamiento of San Felipe to Austin, November 24, 1830. Asking him to use militia to apprehend criminals who are inciting Indians.</p>
+</div1>
+
+<div1 type="body">
+
+<p><location_mentioned>Municipality of Austin</location_mentioned></p>
+<p>Information having been given to the <person_mentioned>Ayunto </person_mentioned>of this <location_mentioned>Municipality</location_mentioned>
+that the <person_mentioned>inhabitants of the <location_mentioned>Colony of the Empresario Green De
+Witt</location_mentioned></person_mentioned>, belonging to this jurisdiction are suffering from the robberies
+of barbarous <person_mentioned>Indians</person_mentioned>, who are supposed to be assisted and directed
+by <person_mentioned>men of infamous character</person_mentioned>, prowling in the vicinity of that
+<location_mentioned>Colony </location_mentioned>and who are stealing horses etc to carry to some other place
+for sale. This <person_mentioned>Ayuntamto </person_mentioned>in the discharge of the duties and 
+obligations confered on it by the Laws have that proper for the 
+preservation of the property of the <person_mentioned>inhabitants </person_mentioned>and for the preservation of
+good order and tranquility to appoint<person_mentioned> Mr Francis W. Johnson</person_mentioned> as a
+<person_mentioned>Commissioner </person_mentioned>to proceed, with a number of <person_mentioned>militia men</person_mentioned> to the
+<location_mentioned>western frontier of this Colony</location_mentioned>, and to the <location_mentioned>Colony of the sd <person_mentioned>Dewitt</person_mentioned>
+</location_mentioned>for the purpose of investigating the true situation of those 
+<person_mentioned>inhabitants </person_mentioned>and also to endeavor to apprehend and secure those <person_mentioned>disturbers
+of the tranquility and <person_mentioned>violaters </person_mentioned>of the Laws in order that they may
+be brot to exemplary punishment, for which reason the <person_mentioned>Ayunto</person_mentioned><barker_pb n="540"/>
+calls on you as the <person_mentioned>Colonel Commandmant of the Militia of this
+Municipality</person_mentioned> to place at the disposition of the before mentioned
+<person_mentioned>Mr. Johnson</person_mentioned> a sufficient number of <person_mentioned>Militia Men</person_mentioned>, to secure the
+objects of the <person_mentioned>Ayuntamto </person_mentioned>and the apprehension of all such <person_mentioned>evil
+doers</person_mentioned> as may be found connected in the outrages Committed by the
+<person_mentioned>Indians</person_mentioned>.</p>
+
+<p>God and Liberty</p>
+
+<p>Town of <location_mentioned>Austin</location_mentioned> <date_mentioned n="11-24-1830">24th Novr 1830</date_mentioned></p>
+
+<p><p><person_mentioned>Tho. Barnett</person_mentioned>   [Rubric]</p>
+<person_mentioned>Samuel M Williams Secy protem </person_mentioned>   [Rubric]</p>
+<p><person_mentioned>Colonel Stephen F Austin</person_mentioned></p>
+<p>
+<person_mentioned>Commander of the Batallion of Militia of <location_mentioned>Austin</location_mentioned></person_mentioned></p>
+
+</div1>
+</body>
+</text>
+</TEI.2>

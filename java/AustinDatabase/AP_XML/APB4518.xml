@@ -1,0 +1,50 @@
+﻿
+<TEI.2 id="APB4518">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>01-25-1833</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 919</document_citation>
+<document_language>Unknown</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Sterling McNeel</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F Austin</document_recipient>
+<document_title>Sterling McNeel to Stephen F Austin, 01-25-1833</document_title>
+<document_location>
+	<sent_from>Brazoria, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Sterling McNeel to Austin, January 25, 1838.   Request for deeds.    (Omitted.)</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 919</barker_citation>
+</barker_notes>
+<document_digital_creation>11-11-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4518T">
+
+<body>
+*div1 type="summary"*
+*p*Sterling McNeel to Austin, January 25, 1838.   Request for deeds.    (Omitted.)*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Brazoria*/location_mentioned*, *date_mentioned n="01-25-1833">January 25, 1833*/date_mentioned*.*/p*
+
+*p*See Calendar.*/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

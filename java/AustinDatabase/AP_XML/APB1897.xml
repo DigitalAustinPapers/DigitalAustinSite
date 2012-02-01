@@ -1,0 +1,95 @@
+﻿
+<TEI.2 id="APB1897">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>04-07-1830</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 364-365</document_citation>
+<document_language>English</document_language>
+<document_status>private</document_status>
+<document_type>letter</document_type>
+<document_author>Thomas Carter</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F Austin</document_recipient>
+<document_title>Thomas Carter to Stephen F Austin, 04-07-1830</document_title>
+<document_location>
+	<sent_from>Eatenton, Putnam County, Georgia</sent_from>
+	<sent_to>San Felipe de Austin, Texas by way of Alexandria, Louisiana</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Thomas Carter to Austin, Eatonton, Ga., April 7, 1830. Wants information about Texas. Wants to move with family of 30 (20 being "black servants").</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 364-365</barker_citation>
+</barker_notes>
+<document_digital_creation>08-19-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1897T">
+
+<body>
+*div1 type="summary"*
+*p*Thomas Carter to Austin, Eatonton, Ga., April 7, 1830. Wants information about Texas. Wants to move with family of 30 (20 being "black servants").*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Eatenton putnam County Georgia*/location_mentioned**date_mentioned n="04-07-1830"> 7th April 1830*/date_mentioned**/p*
+*p**person_mentioned*Colonel Stephen. F. Austin*/person_mentioned*. Dear Sir I am informed by *person_mentioned*Capt
+James Lusk*/person_mentioned* of the *location_mentioned*State of Ohio*/location_mentioned* *location_mentioned*Butler County*/location_mentioned* that he visited
+*location_mentioned*Texes */location_mentioned*about *date_mentioned n="xx-xx-1826">four or five years past*/date_mentioned* and that he became personally
+acquainted with you and yur province my friend *person_mentioned*Lusk */person_mentioned*gave me
+leave to make use of his name in addressing you, my motive for
+this address is that I wish to emigrate to your *location_mentioned*province */location_mentioned*from the
+history of *location_mentioned*Texes */location_mentioned*I am well pleasd and from the information of
+*person_mentioned*Lusk */person_mentioned*and others that have viewed the *location_mentioned*province */location_mentioned*I believe I Shall
+like your *location_mentioned*province */location_mentioned*Dear Sir I now wish you to inform me by
+letter as Soon as practicable on what terms I may obtain *location_mentioned*land */location_mentioned*in
+your province that I may move my *person_mentioned*family */person_mentioned*thirty in number twenty
+of my *person_mentioned*family */person_mentioned*is *person_mentioned*black servants*/person_mentioned* the balance ar a *person_mentioned*wife */person_mentioned*and *person_mentioned*children*/person_mentioned*
+my oldes *person_mentioned*Son */person_mentioned*is 18 years old a *person_mentioned*daughter */person_mentioned*that [is] nearly 17 years
+of age If I Should emigrate in all probability a considerable
+number of respectable *person_mentioned*citizens */person_mentioned*of the *location_mentioned*State of Georgia*/location_mentioned* will 
+probable i migrate with me Some macannick of difrent Trades Some
+members of the Baptist and Methodist Episcopal Church Some
+off hoom are welthy and ranks amongs those in the first Circle in
+this *location_mentioned*State */location_mentioned*please give mee a Sketch of the Constitution of your
+province with a Sketch of a code of your laws and whether a *person_mentioned*Slave*/person_mentioned*
+holding *location_mentioned*province */location_mentioned*or not and with regard to religion whether a
+man will bee allowed to worship agreeable to the dictates of his
+own conciens or not I feel disposed to visit your *location_mentioned*province */location_mentioned*So
+Soon as I can have a answer from you from *person_mentioned*Capt Lusk*/person_mentioned*s 
+Statement to mee it is your wish for your *location_mentioned*province */location_mentioned*to bee Settled with
+good Society as soon as practicable If I should not bee answered
+by you I Shall visit your *location_mentioned*province */location_mentioned*in the cours of twelve months
+for the purpose of viewing the *location_mentioned*cuntry */location_mentioned*and if I Should like make
+arangement to emigrate there— I was born in the *location_mentioned*State of 
+Virginia*/location_mentioned* my father move[d] to the then *location_mentioned*frontiers of Georgia*/location_mentioned* when I
+was a Smal boy in the year*date_mentioned n="xx-xx-1782"> 1782*/date_mentioned*   if I Should move I can bring<barker_pb n="365"/>
+with mee recommendations from his *person_mentioned*Excellency the Governor*/person_mentioned* from
+the *person_mentioned*Judges of Court*/person_mentioned* and the highes *person_mentioned*Military officers*/person_mentioned* in the *location_mentioned*State*/location_mentioned*
+your answer in Some way will bee thankfully received directed to
+*location_mentioned*Eatenton putnam County State of Georgia*/location_mentioned*, *person_mentioned*Capt Lusk*/person_mentioned* told me
+that I might do well to write to you on the Subject and was of
+opinion that you would bee pleased to See *person_mentioned*citizens */person_mentioned*from *location_mentioned*Georgia*/location_mentioned*
+emigrating to your *location_mentioned*province */location_mentioned*I have therefore troubled you with
+this address   with due respect your humble Servt*/p*
+
+*p**person_mentioned*Thomas Carter*/person_mentioned**/p*
+
+*p*To the*person_mentioned* Honourable Stephen F Austin*/person_mentioned**/p*
+
+*p*[Addressed:]*person_mentioned* Colonel Stephen F. Austin*/person_mentioned* *location_mentioned*Province of Texes*/location_mentioned* in
+the Town of *location_mentioned*Saint philip D. Austin*/location_mentioned*'s on the *location_mentioned*River Rio bra*/location_mentioned*sses by
+the way of *location_mentioned*Alexandria Louisinia*/location_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

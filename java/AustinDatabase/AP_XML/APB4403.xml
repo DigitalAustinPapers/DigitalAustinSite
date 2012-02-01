@@ -1,0 +1,86 @@
+﻿
+<TEI.2 id="APB4403">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>08-13-1832</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 836</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Ebel Miton,Ranford Berry, F. Smith, Wm. H Smith, John Teal, and Thomas ?</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F Austin</document_recipient>
+<document_title>Ebel Miton,Ranford Berry, F. Smith, Wm. H Smith, John Teal, and Thomas ? to Stephen F Austin, 08-13-1832</document_title>
+<document_location>
+	<sent_from>Tenotitlan, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Ebel Milton et al. to Austin, August 13, 1832. Reporting murder of H. Bead by Indians, and asking assistance for a campaign.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 836</barker_citation>
+</barker_notes>
+<document_digital_creation>10-01-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4403T">
+
+<body>
+*div1 type="summary"*
+*p*Ebel Milton et al. to Austin, August 13, 1832. Reporting murder of H. Bead by Indians, and asking assistance for a campaign.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Tenosticland */location_mentioned**date_mentioned n="08-13-1832">August 13th 1832*/date_mentioned**/p*
+*p*Gentl*/p*
+
+*p*Your fellow *person_mentioned*Sitizens of the *location_mentioned*upper Colony */location_mentioned**/person_mentioned*have to inform you of
+the death of our valued *person_mentioned*friend */person_mentioned*and fellow *person_mentioned*Sitizen Mr H Read*/person_mentioned*-—who
+was found on *date_mentioned n="08-10-1832">Friday morning last*/date_mentioned*—he was killed on *date_mentioned n="08-09-1832">thursday 
+Evening*/date_mentioned* on his way from this place to his *person_mentioned*Father */person_mentioned*within *location_mentioned*one mile of the
+latter place */location_mentioned*This foul deed was commited by the *person_mentioned*Indians*/person_mentioned*—the point
+of several arrows have been extracted from his body circumstances
+and facts which have since been discovered Leave but Little doubt
+of its having been done by the *person_mentioned*Ketchie tribe*/person_mentioned* who have their *location_mentioned*Town*/location_mentioned*
+about *location_mentioned*fifty miles distant from this place*/location_mentioned*— Your fellow *person_mentioned*Sitizens*/person_mentioned*
+feel it a duty which they ow to themselves as well as a duty to a
+departed *person_mentioned*friend */person_mentioned*to avenge this outrage on humanity We feel that
+we have not a sufficient force to go and attact their *location_mentioned*Town */location_mentioned*and drive
+them from our *location_mentioned*borders */location_mentioned*and respectfully Solisit the aid of our fellow
+*person_mentioned*Sitizens of the *location_mentioned*Lower Colony*/location_mentioned**/person_mentioned* to enable us to carry into effect this
+Mutch desired object we can start from fifteen to twenty *person_mentioned*men */person_mentioned*we
+are well informed the *person_mentioned*Ketchies */person_mentioned*have about seventy five fiting men
+we request you will Send to our aid sutch number of *person_mentioned*men */person_mentioned*as you
+may think necessary to effect our object We regret to say that the
+*person_mentioned*military force*/person_mentioned* Stationed here has taken but Little interest in the
+matter and we fear nothing is to be expected from them Your
+early attention and complyance will be reed as a Spec-favour*/p*
+
+*p**person_mentioned*Ebel Milton.*/person_mentioned**/p*
+
+*p**person_mentioned*Radford Berry*/person_mentioned*.*/p*
+
+*p**person_mentioned*F. Smith*/person_mentioned*.*/p*
+
+*p**person_mentioned*Wm. H. Smith*/person_mentioned*.*/p*
+
+*p**person_mentioned*John  Teal*/person_mentioned*.*/p*
+
+*p**person_mentioned*Thomas __________ */person_mentioned*[illegible]
+*/p*
+
+*p**person_mentioned*Cols Cole*/person_mentioned* and *person_mentioned*Austin*/person_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,98 @@
+﻿
+<TEI.2 id="APB1784">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>11-09-1829</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 282-283</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Robert Lewis</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F Austin</document_recipient>
+<document_title>Robert Lewis to Stephen F Austin, 11-09-1829</document_title>
+<document_location>
+	<sent_from>Cerralvo, Mexico</sent_from>
+	<sent_to>Austin, Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Robert Lewis to Austin, Cerralvo, Mexico, November 9, 1829. A dispute with Cameron concerning mines.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 282-283</barker_citation>
+</barker_notes>
+<document_digital_creation>08-16-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1784T">
+
+<body>
+*div1 type="summary"*
+*p*Robert Lewis to Austin, Cerralvo, Mexico, November 9, 1829. A dispute with Cameron concerning mines.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Cerralvo */location_mentioned**date_mentioned n="11-09-1829">9th Nov. 1829*/date_mentioned**/p*
+*p**person_mentioned*Col Austin*/person_mentioned**/p*
+
+*p*Dear Sir; we arrivd at this *location_mentioned*place */location_mentioned*a few days since and found
+*person_mentioned*Cameron */person_mentioned*here, and both *person_mentioned*Mr. Sharkey*/person_mentioned* and Myself being unwell
+nothing was said on business until we got better; *date_mentioned n="11-07-1829">day before 
+yesterday*/date_mentioned* *person_mentioned*Mr Sharkey*/person_mentioned* sent for him, and informed him he was ready to
+attend to business, and it was necessary first for us *person_mentioned*Cameron */person_mentioned*and
+myself to come to a proper understanding, as to our affaires —*/p*
+
+*p*I then namd to him that I had formd a *person_mentioned*company */person_mentioned*in *location_mentioned*Battinson*/location_mentioned*, to
+work *location_mentioned*Certain Mines */location_mentioned*by authority invested in me by an Instrument
+of writing, with his signature to it, I ask him if he claimd an interest
+in the *person_mentioned*company*/person_mentioned*, he said he did; I then ask him if that was his hand
+writing and if it containd his signature, he quivocated as much
+as he could at last he acknowledged his signature, but would not
+admit its vilidity; but stated it was void long since and said it never
+was intended to of been usd—but to give more confidence, in aiding
+me in forming the *person_mentioned*Company*/person_mentioned*. He said he would allow me an interest
+in those *location_mentioned*Mines */location_mentioned*the *person_mentioned*Company */person_mentioned*had contracted to work alluding to
+the two *location_mentioned*mines */location_mentioned*in the Contract but as to allowing me an interest in
+other *location_mentioned*Mines */location_mentioned*he would not except some at *person_mentioned*Yguana */person_mentioned*he naimd these
+I might have an interest some naming them and more over he
+would not admit of any cantract he ever had mad with me, that
+he was not to be drove or compeld to do any thing by me—- of
+all the lying quivocating *person_mentioned*schondrals */person_mentioned*he beats all I ever saw—he said
+when he gave the Instrument he cold not Deny ownin *location_mentioned*Mines */location_mentioned*in his
+own name notwithstanding he bound himself to do so, this was
+fraud within its self, */p*<barker_pb n="283"/>
+
+*p**date_mentioned n="11-11-1829">day after tomorrow*/date_mentioned* *person_mentioned*Mr Sharkey*/person_mentioned* and myself intends seting out
+for *location_mentioned*Mounterey */location_mentioned*to precure all the legal information necessary both for
+myself and to satisfy himself as to the interest of the *person_mentioned*Company*/person_mentioned*.—
+The tools reach this place four days before we did, and if it was not
+for *person_mentioned*Cameron*/person_mentioned*s rascalaty we could commence our Mining operations in
+a week,—I should like for *person_mentioned*Mr. Williams*/person_mentioned* to hold himself in readiness,
+to come to my assistance in case much difficulty, I will advise you as
+soon as its practable—*person_mentioned*Cameron */person_mentioned*observed the reason he came on from
+*location_mentioned*Bexar*/location_mentioned*, and not meeting us, he heard some news that huried him off—
+he has secured the *location_mentioned*Mines*/location_mentioned*, I understand from him, as also from
+others,—If aney thing remains undone that would promote my 
+interest in this business, dont fail to attend to it, he bids defiance as to
+my suing him,—If sufficient information could be procured to git the
+Govt, to call on him as respects his remarks respecting a seperat
+*location_mentioned*Republic*/location_mentioned*, it might be of service to me, as he depends so much on his
+influence both with the individuals here and the Govt.—any services
+rendered me will be thankfully reed*/p*
+
+*p**person_mentioned*Robt Lewis. */person_mentioned*[Rubric]*/p*
+*p*[Addressed:] *person_mentioned*Mr Samuel M. Williams */person_mentioned*  *location_mentioned*Villa de Austin. Texas*/location_mentioned**/p*
+
+
+*/div1*
+</body>
+</text>
+</TEI.2>

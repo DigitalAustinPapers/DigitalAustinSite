@@ -1,0 +1,71 @@
+﻿
+<TEI.2 id="APB4630">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>02-22-1834</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 1046</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Edmund Andrews </document_author>
+<document_sender></document_sender>
+<document_recipient>James F Perry</document_recipient>
+<document_title>Edmund Andrews  to James F Perry, 02-22-1834</document_title>
+<document_location>
+	<sent_from>Brazoria, Texas</sent_from>
+	<sent_to>Peach Point, Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Edmund Andrews to James F. Perry, February 22, 1834.   Commerce.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1046</barker_citation>
+</barker_notes>
+<document_digital_creation>12-03-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4630T">
+
+<body>
+*div1 type="summary"*
+*p*Edmund Andrews to James F. Perry, February 22, 1834.   Commerce.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Brazoria */location_mentioned**date_mentioned n="02-22-1834">Feby 22d 1834*/date_mentioned**/p*
+*p**person_mentioned*James F Perry Esq,*/person_mentioned**/p*
+
+*p*Your Esteemed favour under *date_mentioned n="02-21-1834">yesterdays date*/date_mentioned* has been received
+and I have delivered *person_mentioned*Simon */person_mentioned*Six Hoes of his own choice. We have no
+information of *person_mentioned*Col. Austin*/person_mentioned* since you was here*/p*
+
+*p*I have heard that *person_mentioned*McQueen */person_mentioned*has gone into the *location_mentioned*interior */location_mentioned*to hear
+[what] was become of him but of this I am not certain *person_mentioned*Mr Williams*/person_mentioned*
+Expected now here and we may here something then*/p*
+
+*p*I have charged the hoes to you with the understanding you are to
+pay by crediting *person_mentioned*Capt H Austin*/person_mentioned* with them*/p*
+
+*p*I have not heard anything from *person_mentioned*Dick */person_mentioned*yet. Nor have I found any
+one that is willing to work. I am in hope to make a sale for *person_mentioned*Capt
+H Austin*/person_mentioned* to help him out. You I suppose have heard of *person_mentioned*Hunter
+Smiths overseer*/person_mentioned* being drowned at *location_mentioned*Bolivar */location_mentioned*it happend when *person_mentioned*Capt
+H. A*/person_mentioned* was with me—*/p*
+
+*p**person_mentioned*Edmund Andrews*/person_mentioned**/p*
+
+*p*[Addressed:] *person_mentioned*James F Perry Esq*/person_mentioned*   *location_mentioned*Peach Point */location_mentioned*  pr *person_mentioned*Simon*/person_mentioned**/p*
+
+
+*/div1*
+</body>
+</text>
+</TEI.2>

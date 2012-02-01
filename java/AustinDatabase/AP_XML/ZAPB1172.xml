@@ -1,0 +1,73 @@
+﻿
+<TEI.2 id="APB1172">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>06-05-1826</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1353</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Stephen F. Austin</document_author>
+<document_sender></document_sender>
+<document_recipient>Governor of Coahuila and Texas</document_recipient>
+<document_title>Stephen F. Austin to Governor of Coahuila and Texas, 06-05-1826</document_title>
+<document_location>
+	<sent_from>San Felipe de Austin, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Austin to [governor of Coahuila and Texas], June 5, 1826 Asking permision to settle coast lands.</barker_summary>
+	<barker_footnotes>General Land Office, Translations of Records, 1825-1835, p. 151.</barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1353</barker_citation>
+</barker_notes>
+<document_digital_creation>06-05-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1172T">
+
+<body>
+<div1 type="summary">
+<p>Austin to [governor of Coahuila and Texas], June 5, 1826 Asking permision to settle coast lands.</p>
+</div1>
+
+<div1 type="body">
+
+<p>The Lands situated within the<location_mentioned> Ten Leagues bordering on the
+Coast of the Gulf of Mexico</location_mentioned>, <location_mentioned>between the Rivers Brazos and 
+Colorado</location_mentioned>, are in part colonized by me, under the grant already made to
+me by the Supreme Government of <location_mentioned>Mexico</location_mentioned>, but as some of these lands
+within the said <location_mentioned>Ten Leagues of the Coast border</location_mentioned> ,are yet vacant, and
+as the annexation of the said <location_mentioned>Ten Coast border Leagues</location_mentioned> to the 
+District which the Government of <location_mentioned>Coahuila and Texas</location_mentioned> has assigned me
+for the settlement of the Five Hundred <person_mentioned>families </person_mentioned>I have engaged to
+introduce, is highly important to the prosperity of the <location_mentioned>new Colony,</location_mentioned>
+I therefore pray the Government to grant me permission to colonize
+the <location_mentioned>Ten Leagues of the Coast border</location_mentioned> within the following limits, viz.,
+Beginning at a point on the <location_mentioned>Eastern bank of the River La Bacawhere
+it is intersected by the boundary line of the said Ten Border Leagues</location_mentioned> ;
+thence <location_mentioned>Eastly with the Northern boundary line of the Border leagues
+to the river San Jacinto</location_mentioned>, and thence <location_mentioned>West with the Coast to the
+mouth of the aforesaid river La Vaca</location_mentioned>, and thence </location_mentioned> up said river to
+place of beginning</location_mentioned>, comprising all the <location_mentioned>vacant lands of the Ten Coast
+border leaguesbetween the aforesaid rivers La Baca and San Jacinto,</location_mentioned>
+and that the said Border Leagues be annexed to the aforesaid <location_mentioned>Colony</location_mentioned>,
+and settled on the same terms stipulated with the Government of the
+<location_mentioned>State of Coahuila and Texas</location_mentioned> for the said Colony of five hundred
+<person_mentioned>families</person_mentioned>.</p>
+
+<p><location_mentioned>San Felipe de Austin</location_mentioned>, <date_mentioned n="06-05-1826">5th June 1826</date_mentioned>
+</p>
+<p><person_mentioned>Stephen F. Austin.</person_mentioned></p>
+
+</div1>
+</body>
+</text>
+</TEI.2>

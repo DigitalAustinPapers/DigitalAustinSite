@@ -1,0 +1,71 @@
+﻿
+<TEI.2 id="APB1352">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>03-28-1827</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1621</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>J. Cable</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F. Austin</document_recipient>
+<document_title>J. Cable to Stephen F. Austin, 03-28-1827</document_title>
+<document_location>
+	<sent_from>Nachitoches, Louisiana</sent_from>
+	<sent_to>Nacogdoches, Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>J. Cable to Austin, March 28, 1827.   Performance of certain commissions.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1621</barker_citation>
+</barker_notes>
+<document_digital_creation>07-19-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1352T">
+
+<body>
+*div1 type="summary"*
+*p*J. Cable to Austin, March 28, 1827.   Performance of certain commissions.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Natchitoches*/location_mentioned*, *date_mentioned n="03-28-1827">28th. March 1827*/date_mentioned*.*/p*
+*p*Dear Sir,*/p*
+
+*p*I reed your letter of the *date_mentioned n="03-23-1827">23d. March*/date_mentioned* by *person_mentioned*Mr. John Cortes*/person_mentioned*, and;
+Enclosed letter to *person_mentioned*M. Slocum*/person_mentioned* *date_mentioned n="03-27-1827">last evening*/date_mentioned* and *person_mentioned*Slocum */person_mentioned*has Put
+your name down as a *person_mentioned*subscriber */person_mentioned*to the *location_mentioned*courier */location_mentioned*and will Forwd__*/p*
+
+*p*it as circumstances will admit— I have Inclosed two letters To
+*person_mentioned*Samuel M. Williams*/person_mentioned* and some *location_mentioned*News Papers*/location_mentioned* of late dates which
+may give you some news that you have not Recd. I forwd— them
+by a *person_mentioned*Mr. Wetherspoon*/person_mentioned* stranger to me who is a going to *location_mentioned*St. Phillipe
+De Austin */location_mentioned*  there was no letters in our *location_mentioned*Post Office*/location_mentioned* for you__*/p*
+
+*p*I wish you would doe me the favor to send me some *location_mentioned*Mexican
+News Papers*/location_mentioned* if you can Obtain them convenient, *person_mentioned*Mrs Cable*/person_mentioned* wishes
+to be remembered to you—I am your friend*/p*
+
+*p**person_mentioned*J. Cable*/person_mentioned**/p*
+
+*p*P. S. if you are in *location_mentioned*Nacogdoches */location_mentioned*when you receive this Please
+to tell *person_mentioned*John Durst*/person_mentioned* th[at] his *person_mentioned*family */person_mentioned*is well—*/p*
+
+*p**person_mentioned*J. Cable*/person_mentioned**/p*
+*p*[Addressed:] *person_mentioned*Col. Stephen F Austin*/person_mentioned* *location_mentioned*Nacogdoches Texas*/location_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

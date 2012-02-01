@@ -1,0 +1,66 @@
+﻿
+<TEI.2 id="APB1755">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>08-24-1829</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 249</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>James Kennerly</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F Austins</document_recipient>
+<document_title>James Kennerly to Stephen F Austin, 08-24-1829</document_title>
+<document_location>
+	<sent_from>Jefferson Barracks near St Louis Missouri</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>James Kennerly to Austin, St. Louis, August 24, 1829. Asking information about Texas.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 249</barker_citation>
+</barker_notes>
+<document_digital_creation>08-12-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1755T">
+
+<body>
+*div1 type="summary"*
+*p*James Kennerly to Austin, St. Louis, August 24, 1829. Asking information about Texas.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Jefferson Barracks near St. Louis Mo*/location_mentioned* —*date_mentioned n="08-24-1829">Augt 24, 1829*/date_mentioned**/p*
+*p*To *person_mentioned*Mr Steven Austin*/person_mentioned*,*/p*
+
+*p*I am verry desireous of geting some information about the part
+of the world called *location_mentioned*Austin Settlement*/location_mentioned* in *location_mentioned*Texas*/location_mentioned*, The first inquerey
+is, the climate, the health of the *location_mentioned*Country */location_mentioned*and by what means 
+accessable,*/p*
+
+*p*The Kind of population and number, the general persuits wheather
+*person_mentioned*Traders */person_mentioned*or *person_mentioned*agriculturealists*/person_mentioned*, what produce is raised and is best
+adapted to the climate for exportation. The principal *location_mentioned*Towns */location_mentioned*and
+*location_mentioned*water courses*/location_mentioned*, and the language most in use, I have for several years
+had a desire to visit the *location_mentioned*country */location_mentioned*with a view of settling with my
+*person_mentioned*family*/person_mentioned*, I have some small means principally in *person_mentioned*negroes*/person_mentioned*, with some
+merchandize, and would be glad to hear from you candidly on the
+subject and will feel greatfull for your immedeate reply, should it
+be favourable.   I will visit your *location_mentioned*country */location_mentioned*this *date_mentioned n="Fall - 1829">fall*/date_mentioned**/p*
+
+*p**person_mentioned*Jas Kennerly*/person_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

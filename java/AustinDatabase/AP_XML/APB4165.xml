@@ -1,0 +1,63 @@
+﻿
+<TEI.2 id="APB4165">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>03-10-1831</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 609-610</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Samuel M Williams</document_author>
+<document_sender></document_sender>
+<document_recipient>W D Dunlap</document_recipient>
+<document_title>Samuel M Williams to W D Dunlap, 03-10-1831</document_title>
+<document_location>
+	<sent_from>Unknown</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Samuel M. Williams to W. D. D[unlap?], March 10, 1831. Acknowledging his appointment as collector at Brazoria and promising to aid him.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 609-610</barker_citation>
+</barker_notes>
+<document_digital_creation>09-08-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4165T">
+
+<body>
+*div1 type="summary"*
+*p*Samuel M. Williams to W. D. D[unlap?], March 10, 1831. Acknowledging his appointment as collector at Brazoria and promising to aid him.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p*I am informed by yr official Letter of the *date_mentioned n="03-02-1831">2d inst */date_mentioned*which came to
+hand the*date_mentioned n="03-09-1831"> 9th*/date_mentioned* of yr appt by *person_mentioned*Col J. D. Bradburn */person_mentioned*as *person_mentioned*Capt of the Port*/person_mentioned*<barker_pb n="610"/>
+or *person_mentioned*inspector of the tributary port of the *location_mentioned*port of Galveston called
+Brasoria*/location_mentioned**/person_mentioned* and of your arrival at *location_mentioned*Brasoria*/location_mentioned*— You may rest assured
+that I will cheerfully unite with you in every measure conformably
+with the laws to carry into effect the object of your office— By the
+Militia Laws of this *location_mentioned*state */location_mentioned*the *person_mentioned*Militia */person_mentioned*are under the direction of the *person_mentioned*Alcalde */person_mentioned*that is to say if you should find the *person_mentioned*militia */person_mentioned*necessary for
+the performance of your duties the order must emanate from the
+*person_mentioned*Alcalde*/person_mentioned*— In order to prevent you from laboring under any serious
+disadvantages. I will call on the *person_mentioned*Alcalde */person_mentioned*for an order addressed to
+the*person_mentioned* Comt of the Batalion*/person_mentioned* to furnish *person_mentioned*Militia */person_mentioned*whenever necessary—
+altho I hope and trust they will not be necessary*/p*
+
+*p*Accept the assurances of my respect and esteem and desires for your success in the discharge of yr duties *date_mentioned n="03-10-1831">10 March 1831*/date_mentioned* *person_mentioned*WDD.*/person_mentioned**/p*
+
+*p*[Samuel M. Williams.]*/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

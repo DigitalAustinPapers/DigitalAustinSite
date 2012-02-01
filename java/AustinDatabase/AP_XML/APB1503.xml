@@ -1,0 +1,63 @@
+﻿
+<TEI.2 id="APB1503">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>02-22-1828</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 19</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Account</document_type>
+<document_author>J. C. Payton</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F Austin</document_recipient>
+<document_title>J. C. Payton to Stephen F Austin, 02-22-1828</document_title>
+<document_location>
+	<sent_from>San Felipe de Austin, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Austin in account with J. C. Peyton, February 22. 1828.   Bill and price list</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 19</barker_citation>
+</barker_notes>
+<document_digital_creation>07-30-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1503T">
+
+<body>
+*div1 type="summary"*
+*p*Austin in account with J. C. Peyton, February 22. 1828.   Bill and price list*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*San Felepe de Austin*/location_mentioned**/p*
+*p**person_mentioned*Col. S. F. Austin*/person_mentioned* in a/c *person_mentioned*J. C. Peyton*/person_mentioned**/p*
+
+*p**date_mentioned n="05-02-1827">2nd May 1827*/date_mentioned* 4 lbs sugear by *person_mentioned*Mrs. Picket*/person_mentioned*___   $1.00*/p*
+
+*p*1 doz Candéis___________Do________ 50*/p*
+
+*p**date_mentioned n="06-21-1827">21st June_*/date_mentioned*__25 lbs Flour by Do------------------- 2.50*/p*
+*p**date_mentioned n="02-22-1828">22nd Febuay 1828*/date_mentioned* by subscription to Ball------------  2.00*/p*
+
+*p*By *person_mentioned*M. M. Battle*/person_mentioned*-------  37.00*/p*
+
+*p*$43.00*/p*
+*p*Recd payt by a credit on my note *date_mentioned n="06-10-1828">June 10, 1828*/date_mentioned**/p*
+
+*p**person_mentioned*J. C. Payton*/person_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,85 @@
+﻿
+<TEI.2 id="APB4609">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>11-26-1833</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 1016</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Stephen F Austin</document_author>
+<document_sender></document_sender>
+<document_recipient>Samuel M Williams</document_recipient>
+<document_title>Stephen F Austin to Samuel M Williams, 11-26-1833</document_title>
+<document_location>
+	<sent_from>Mexico</sent_from>
+	<sent_to>San Felipe de Austin, Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Austin to Samuel M. Williams, Mexico, November 28, 1833. Preparing to return to Texas.   Reforms obtained.   Political conditions.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1016</barker_citation>
+</barker_notes>
+<document_digital_creation>12-02-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4609T">
+
+<body>
+*div1 type="summary"*
+*p*Austin to Samuel M. Williams, Mexico, November 28, 1833. Preparing to return to Texas.   Reforms obtained.   Political conditions.*/p*
+*/div1*
+
+*div1 type="body"*
+
+[From Williams Fapers, Rosenberg Library, Galveston, Tex,]
+
+*p**location_mentioned*Mexico */location_mentioned**date_mentioned n="11-26-1833">Novr. 26 1833*/date_mentioned**/p*
+
+*p*Dr Sir.*/p*
+
+*p*The law repealing the 11 article of the law of*date_mentioned n="04-06-1830"> 6 april 1830*/date_mentioned*, was
+passed by both houses, as I informed you in former letters, but, 
+unfortunately it was not sent to the *person_mentioned*executive */person_mentioned*untill the day of 
+*person_mentioned*Santana*/person_mentioned*s entrance into this city from *location_mentioned*Guanajuato*/location_mentioned*. *person_mentioned*Gomez Farias*/person_mentioned* went
+out that day and the *person_mentioned*<hi rend="italic">hero </hi>*/person_mentioned*went into the *location_mentioned*presidential chair*/location_mentioned*—he 
+retained the law 9 days and returned it on the *date_mentioned n="11-10-1833">10th*/date_mentioned* to *person_mentioned*congress */person_mentioned*
+requesting that its operation should be suspended for six months. This
+was unanimously agreed to by *person_mentioned*both houses*/person_mentioned*, and the law was finally
+published on the *date_mentioned n="11-21-1833">21 instant*/date_mentioned* so that the repeal does not take effect
+untill the *date_mentioned n="05-21-1834">21st May next*/date_mentioned*.*/p*
+
+*p*I think it doubtfull whether my letters reach *location_mentioned*Texas*/location_mentioned*, I will 
+therefore merely say that I leave in about ten days for home by land—
+perhaps I shall go on with*person_mentioned* Genl Pedro Lemus*/person_mentioned* who is appointed
+*person_mentioned*Comnt Genl*/person_mentioned* in place of *person_mentioned*Felisola*/person_mentioned*. *person_mentioned*Mejia */person_mentioned*has the command in *person_mentioned*chief
+in the *location_mentioned*South*/location_mentioned**/person_mentioned* where the civil war [is] Still raging tho I think that
+*person_mentioned*Mejia */person_mentioned*will soon terminate it. he is in the direction of *location_mentioned*Acapulco*/location_mentioned*.
+and *person_mentioned*Genl Victoria*/person_mentioned* is in *location_mentioned*Oaxaca*/location_mentioned*.*/p*
+
+*p**location_mentioned*Texas */location_mentioned*matters are all right, nothing is wanted there but <hi rend="italic">quiet</hi>.
+No troops go with *person_mentioned*Genl Lemus*/person_mentioned*—*person_mentioned*Santana */person_mentioned*hung up the State question
+and wished to have *location_mentioned*Texas */location_mentioned*made a *location_mentioned*territory*/location_mentioned*, and I believe that I
+have been the means of preventing it and that question is also hung
+up. This has made me a <hi rend="italic">goodly number of *person_mentioned*enemies*/person_mentioned*</hi> here who wished
+for a *location_mentioned*Territory*/location_mentioned*—<hi rend="italic">nada importa</hi>—nil will go right. Close up all
+pending matters. It is now very important to harmonise with *location_mentioned*Bexar*/location_mentioned*.
+Keep this in view.   I shall be at *location_mentioned*home */location_mentioned*soon.*/p*
+
+*p*[Stephen F. Austin.]*/p*
+
+*p*[Addressed:] *person_mentioned*Don Samuel M Williams*/person_mentioned* *location_mentioned*San Felipe de Austin
+Texas*/location_mentioned*.*/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,76 @@
+﻿
+<TEI.2 id="APB1247">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>07-14-1826</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1424</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Stephen F. Austin</document_author>
+<document_sender></document_sender>
+<document_recipient>Jose Antonio Saucedo</document_recipient>
+<document_title>Stephen F. Austin to Jose Antonio Saucedo, 07-14-1826</document_title>
+<document_location>
+	<sent_from>San Felipe de Austin, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Austin to Saucedo, August 14, 1826.   Movements of various Indians.</barker_summary>
+	<barker_footnotes>Ibid</barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1424</barker_citation>
+</barker_notes>
+<document_digital_creation>07-08-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1247T">
+
+<body>
+*div1 type="summary"*
+*p*Austin to Saucedo, August 14, 1826.   Movements of various Indians.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p*A party of *person_mentioned*Indians */person_mentioned*were seen last week on the *location_mentioned*Brazos*/location_mentioned*, near the
+*location_mentioned*Bexar road*/location_mentioned*: a detachment of the *person_mentioned*Militia */person_mentioned*of that *location_mentioned*neighborhood */location_mentioned*went
+in pursuit and followed them to *location_mentioned*within ten miles of their villages*/location_mentioned*.
+That detachment will remain some time in the vicinity of the 
+*location_mentioned*villages*/location_mentioned*, to watch them; and I shall have them relieved by another
+*person_mentioned*party*/person_mentioned*, so as to keep in the field a permanent guard on the *location_mentioned*frontier */location_mentioned*to
+give timely notice in case the *person_mentioned*Indians */person_mentioned*should leave them in force for
+the purpose of attacking us.*/p*
+
+*p*I have heard from a *person_mentioned*Choctaw Indian*/person_mentioned*, that the *person_mentioned*Comanches */person_mentioned*are
+going to make a grand effort, next fall against *location_mentioned*Bexar */location_mentioned*and the *location_mentioned*Rio
+Grande frontier*/location_mentioned*, and that the *person_mentioned*Tahuacanoes*/person_mentioned*, *person_mentioned*Wacos*/person_mentioned*, and *person_mentioned*Tahuayases*/person_mentioned*
+will join them in their attack upon us in this *location_mentioned*quarter*/location_mentioned*.*/p*
+
+*p*All the *person_mentioned*Bidais */person_mentioned*are here, in flight from the *person_mentioned*Aynais*/person_mentioned*, *person_mentioned*Kichais */person_mentioned*and
+*person_mentioned*Apadaches */person_mentioned*with whom they have fought a battle on the *location_mentioned*Trinity*/location_mentioned*.*/p*
+
+*p*The *person_mentioned*Cushatte Chiefs*/person_mentioned* arrived here this morning; I do not know for
+what purpose as I have not yet seen them.*/p*
+
+*p*The last news, received a few days since from the *person_mentioned*Cherokees*/person_mentioned*, are
+very favorable; it appears that they are only waiting for the order of
+the *person_mentioned*Government */person_mentioned*to commence an attack upon our *person_mentioned*enemies*/person_mentioned*.*/p*
+
+*p*God and Liberty.*/p*
+
+*p**person_mentioned*Stephen F. Austin*/person_mentioned*.*/p*
+
+*p**location_mentioned*San Felipe de Austin*/location_mentioned*, *date_mentioned n="08-14-1826">August 14th 1826*/date_mentioned*.*/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

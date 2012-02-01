@@ -1,0 +1,74 @@
+﻿
+<TEI.2 id="APB4511">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>01-19-1833</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 915</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Thomas G Western</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F Austin</document_recipient>
+<document_title>Thomas G Western to Stephen F Austin, 01-19-1833</document_title>
+<document_location>
+	<sent_from>Goliad, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Thomas G. Western to Austin, Goliad, January 19, 1833. Transmitting copy of memorial to legislature for reform.</barker_summary>
+	<barker_footnotes>See Musquiz to Governor, Jan. 10, 1833   No copy of this document has been found.
+</barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 915</barker_citation>
+</barker_notes>
+<document_digital_creation>11-09-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4511T">
+
+<body>
+*div1 type="summary"*
+*p*Thomas G. Western to Austin, Goliad, January 19, 1833. Transmitting copy of memorial to legislature for reform.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Goliad */location_mentioned**date_mentioned n="01-19-1833">Jan. 19- 1833*/date_mentioned**/p*
+*p**person_mentioned*Col Austin*/person_mentioned**/p*
+
+*p*D. Sir, I hasten before the Mail closes to communicate to you
+the import of A letter I have this Moment recd, from My *person_mentioned*friend */person_mentioned*at
+*location_mentioned*Mexico */location_mentioned*dated *date_mentioned n="12-26-1832">26 ult*/date_mentioned**/p*
+
+*p*" *person_mentioned*Gen. Pedraza*/person_mentioned* with all the *person_mentioned*armies */person_mentioned*combined, now at *location_mentioned*Puebla */location_mentioned*and
+its vicinity will commence their March *date_mentioned n="01-20-1833">to Morrow*/date_mentioned* on the road to
+This *location_mentioned*Capital*/location_mentioned*, they amt. to *person_mentioned*13000 Men*/person_mentioned* and will come in without
+opposition—*person_mentioned*President Pedraza*/person_mentioned* was Sworn in and proclaimed as
+Such *date_mentioned n="01-18-1833">Yesterday */date_mentioned*in *location_mentioned*Puebla*/location_mentioned*— An order has been Made public that
+when he arrives *location_mentioned*within Six leagues of this City*/location_mentioned* *person_mentioned*every Military officer*/person_mentioned*
+here must present himself on pain of losing his rank and pay—
+Something Similar for all empleados— We consider the war at an
+end."*/p*
+
+*p*The *person_mentioned*Ayuntamiento of this *location_mentioned*Town*/location_mentioned**/person_mentioned* forward by this Mail to that of
+yours Copy of the Remonstrance Made to *person_mentioned*Congress */person_mentioned*in Sequence to
+that of *location_mentioned*Bejar*/location_mentioned*, it touches Stronger that its preceder on the division
+of the *location_mentioned*State */location_mentioned*and other topics and I think you will be pleased with
+the language used and the terms it is couched in and hope it will
+meet your ideas. Be pleased to favor me with your opinion on it as
+a whole—*/p*
+
+*p**person_mentioned*Thomas G. Western */person_mentioned*  [Rubric]*/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

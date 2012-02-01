@@ -1,0 +1,82 @@
+﻿
+<TEI.2 id="APB1050">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>02-26-1825</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1051-1052</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>H. Connell</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F. Austin</document_recipient>
+<document_title>H. Connell to Stephen F. Austin, 02-26-1825</document_title>
+<document_location>
+	<sent_from>Woodville</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>H. Connell to Austin, Woodville, Miss., February 26, 1825. Emigration to Texas.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1051-1052</barker_citation>
+</barker_notes>
+<document_digital_creation>05-30-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1050T">
+
+<body>
+*div1 type="summary"*
+*p*H. Connell to Austin, Woodville, Miss., February 26, 1825. Emigration to Texas.*/p*
+*/div1*
+
+*div1 type="body"*
+*p**location_mentioned*Woodville*/location_mentioned* *date_mentioned n="02-26-1825">26th Feby 1825*/date_mentioned**/p*
+*p*Dear Sir,*/p*
+
+*p*On the return of *person_mentioned*Mr. Holliman*/person_mentioned* and *person_mentioned*Mr. Huff*/person_mentioned* from your *location_mentioned*country*/location_mentioned*
+last fall they informed me that they had got your promise to reserve
+a League of land for me, on condition that I would agree to settle<barker_pb n="1052"/>
+it etc—and*person_mentioned* Mr. Huff*/person_mentioned* has also informed me a few days ago that he
+had received a letter from you in which you wished to know if It
+was my intention to take it, if not you would have to let some other
+person have it; I will now ask the favour of you still to retain
+the land for me, as I am determined to have it, and will start to
+your *location_mentioned*country*/location_mentioned* for that purpose by the first of *date_mentioned n="06-xx-1825">June next*/date_mentioned* in company
+with *person_mentioned*Mr. Michael Holliman*/person_mentioned* who is going also with the same views,
+and expect there will be 2 or 3 other *person_mentioned*gentlemen*/person_mentioned* go with us*/p*
+*p*
+*person_mentioned*Mr. George Huff*/person_mentioned* has left here *date_mentioned n="02-20-1825">5 or six days ago*/date_mentioned* for *location_mentioned*New Orleans*/location_mentioned*,
+and from there by water to your *location_mentioned*neighbourhood*/location_mentioned*, *person_mentioned*Mr. L. Ramey*/person_mentioned*
+left here *date_mentioned n="02-24-1825">2 days since*/date_mentioned*, who will meet with *person_mentioned*Mr. Huff*/person_mentioned* in *location_mentioned*New Orlenas*/location_mentioned*
+and go with him who you will find an honest man and an excellent
+*person_mentioned*Mecanic*/person_mentioned**/p*
+
+*p**person_mentioned*Mr K Holliman*/person_mentioned* has written to you by*person_mentioned* Mr. Ramey*/person_mentioned* the contents
+of which you will see*/p*
+
+*p*I am sending this letter to *person_mentioned*Mr. Huff*/person_mentioned* in *location_mentioned*New Orleans*/location_mentioned*, and the
+bearer *person_mentioned*Mr. Severson*/person_mentioned* is waiting on me, and have not time to say
+more at present—*/p*
+
+*p*You will please accept my best wishes for your health and 
+prosperity and the speedy settlement of your*location_mentioned* province*/location_mentioned* which is the
+sincere prayer of*/p*
+
+*p**person_mentioned*H. Connell*/person_mentioned*    [Rubric]*/p*
+
+*p*[Addressed:] *person_mentioned*Stephen F. Austin Esqr*/person_mentioned*- pr*person_mentioned* Mr. Huff*/person_mentioned*
+*/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

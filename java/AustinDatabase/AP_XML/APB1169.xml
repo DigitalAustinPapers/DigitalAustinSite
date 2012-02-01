@@ -1,0 +1,98 @@
+﻿
+<TEI.2 id="APB1169">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>05-xx-1826</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1350-1351</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Stephen F. Austin</document_author>
+<document_sender></document_sender>
+<document_recipient>W. S. Hall?</document_recipient>
+<document_title>Stephen F. Austin to W. S. Hall?, 05-xx-1826</document_title>
+<document_location>
+	<sent_from>Unknown</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Austin to Capt. W. S. Hall (?), [May —, 1826?]. Reprimanding him for carelessness in executing orders to press equipment for Indian campaign.</barker_summary>
+	<barker_footnotes>See Hall to Austin, April 27, 1826</barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1350-1351</barker_citation>
+</barker_notes>
+<document_digital_creation>06-20-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1169T">
+
+<body>
+*div1 type="summary"*
+*p*Austin to Capt. W. S. Hall (?), [May —, 1826?]. Reprimanding him for carelessness in executing orders to press equipment for Indian campaign.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**date_mentioned n="xx-xx-1826">[May —, 1826?]*/date_mentioned*
+*/p*
+*p*I have learned with much regret that some confusion and 
+contention has arisen in your *person_mentioned*company */person_mentioned*in consequence of your proceedings
+under my order of the *date_mentioned n="05-01-1826">1 day of May last*/date_mentioned* relative to pressing horses
+and arms for the late expedition—The words of that part of the
+order are "You are authorized to press guns and equipments for
+those who have none whereever you can procure them"—It was
+known to me that a number of *person_mentioned*men */person_mentioned*were unequiped and unable to
+equip themselves and it was deemed a just sacrifice to the public
+interest to compel those who did not go on the Campain, and had
+horses or arms, to furnish them—The order did not particularly
+specify that you should not press from those who were going on
+the *person_mentioned*expedition*/person_mentioned*, or who had voluntarily fitted out others, or that
+you should use some precaution in pressing from those who were the
+least able to spare the articles or that you should not press for
+those who were able to equip themselves—such a specification was
+not deemed necessary for it was presumed you knew the situation
+of every individual in the *person_mentioned*Company */person_mentioned*and would use that discretion in
+the execution of the order and make that distinction which peculiar
+circumstances might require—I find that the order was not 
+sufficiently specific altho no difficulty has occurred that I have heard of
+in any other *person_mentioned*company */person_mentioned*but yours. The moment the articles were
+pressed they were placed under your care and it was your special
+duty to see them returned to their *person_mentioned*owners*/person_mentioned*, every horse gun etc should
+have been delivered to his *person_mentioned*owner */person_mentioned*as soon as the expedition was over
+and it was your duty to have seen it done—This was not stated
+in the order neither was it necessary, for the articles were taken
+for public use and it was your duty as the *person_mentioned*Commander of the 
+Company*/person_mentioned* to see that they were properly taken care of and duly returned.*/p*
+*p*All orders for pressing in future should any ever be issued which
+it is not probable there ever will will be so limited and specific as
+to prevent the recurrence of any such difficulties in future—*/p*
+
+*p*The public good requires that  dissentions  amongst the  people
+should cease—every reason that can exist in any *location_mentioned*country */location_mentioned*for union
+<barker_pb n="1351"/>
+and harmony operates here at this time with peculiar force—
+threatened with an *person_mentioned*Indian */person_mentioned*war we should be united—*person_mentioned*Strangers */person_mentioned*in a new
+*location_mentioned*Country */location_mentioned*we should establish our characters as quiet harmonious
+and good *person_mentioned*citizens*/person_mentioned*—It is therefore hoped that all further difficulties
+on the subject of the pressing business will cease and no more 
+conversation will be had on the subject—
+*/p*
+*p*yours respectfully*/p*
+
+*p*With a view to correct public opinion and put a stop to any
+futher converstion on the subject refered to in the following letter
+the*person_mentioned* Alcalde of *location_mentioned*victoria*/location_mentioned**/person_mentioned* will post it up at 
+*location_mentioned*BolIvar*/location_mentioned* for public 
+information—*/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

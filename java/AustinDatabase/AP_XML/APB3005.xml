@@ -1,0 +1,64 @@
+﻿
+<TEI.2 id="APB3005">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>09-27-1825</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1208</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>William P. Perkins</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F. Austin</document_recipient>
+<document_title>William P. Perkins to Stephen F. Austin, 09-27-1825</document_title>
+<document_location>
+	<sent_from>Woodville, </sent_from>
+	<sent_to>Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Asks concerning method of holding his claims</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1208</barker_citation>
+</barker_notes>
+<document_digital_creation>05-21-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Cameron L. Sinclair, Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB3005T">
+
+<body>
+*div1 type="summary"*
+*p*Asks concerning method of holding his claims*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Woodville*/location_mentioned* *date_mentioned n="09-27-1825">27th Sept. 1825*/date_mentioned**/p*
+*p*Dr Sir,*/p*
+
+*p*I have now made my arrangements to send two or three *person_mentioned*hands */person_mentioned*to
+your *location_mentioned*country */location_mentioned*some time in the *date_mentioned n="Winter - 1825">winter*/date_mentioned*, to make a Crop *date_mentioned n="xx-xx-1826">next year*/date_mentioned*, but
+I find it impracticable for me to move my *person_mentioned*family */person_mentioned*and *person_mentioned*hands */person_mentioned*for 
+several years, therefore I write this particularly to know from you, if I
+am there myself and make a Crop, will it be sufficient to hold my
+land, with the title I already have. I am anxious you would write
+to me by the *date_mentioned n="11-01-1825">first of November*/date_mentioned* on this subject—if you think this will
+not answer I will probably decline the undertaking.*/p*
+
+*p**person_mentioned*Wm. P.  Perkins*/person_mentioned*.*/p*
+
+*p*Give my respects to *person_mentioned*Coln Pettis*/person_mentioned*and *person_mentioned*Mr. Williams*/person_mentioned*.*/p*
+
+*p*[Addressed:] *person_mentioned*Coln Stephen F. Austin*/person_mentioned*, *location_mentioned*Texas*/location_mentioned*   *person_mentioned*Doctr Kennady*/person_mentioned*.*/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

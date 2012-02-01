@@ -1,0 +1,93 @@
+﻿
+<TEI.2 id="APB1948">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>06-01-1830</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 404-405</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Stephen F Austin</document_author>
+<document_sender></document_sender>
+<document_recipient>Henry Austin</document_recipient>
+<document_title>Stephen F Austin to Henry Austin, 06-01-1830</document_title>
+<document_location>
+	<sent_from>Unknown</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Austin to Henry Austin, June 1, 1830. Law of April 6 a capital error
+because it tends to disaffect colonists who feel strong loyalty to Mexico. They
+do not want to belong to the united States. The law will not affect Austin's
+colony, however, where immigration will continue as before. Terán the
+author of the law.</barker_summary>
+	<barker_footnotes>Copy (by Moses Bryan) of a letter from S F Austin to Capt. Henry Austin dated
+Bexar June 1st— and directed to Matamoros.
+This is confirmed by Miss" Howren's study, " The Origin and Causes of the Decree
+of April 6, 1830," in Southwestern, Historical Quarterly, xvi, 378-422.</barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 404-405</barker_citation>
+</barker_notes>
+<document_digital_creation>08-21-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1948T">
+
+<body>
+*div1 type="summary"*
+*p*Austin to Henry Austin, June 1, 1830. Law of April 6 a capital error
+because it tends to disaffect colonists who feel strong loyalty to Mexico. They
+do not want to belong to the united States. The law will not affect Austin's
+colony, however, where immigration will continue as before. Terán the
+author of the law.*/p*
+*/div1*
+
+*div1 type="body"*
+*p*To *person_mentioned*Capt. Henry Austin—*/person_mentioned**/p*
+
+*p*My dear Sir—I have never heard what was the result of your
+application for a *location_mentioned*grant of land*/location_mentioned* which you informed me you had
+presented to the *person_mentioned*Govt of this State*/person_mentioned*—have you received any answer ?
+I presume you have of course seen the law of the *date_mentioned n="04-06-1830">6th of April*/date_mentioned*— that
+law will be a <hi rend="italic">dead letter</hi> in *location_mentioned*Texas */location_mentioned*so far as regards my *location_mentioned*colony */location_mentioned*for
+the 10th Article covers me entirely:*/p*<barker_pb n="405"/>
+
+*p*A more impolitic measure could not have been adopted by this
+*person_mentioned*Govt*/person_mentioned*— All the *person_mentioned*new settlers*/person_mentioned* were opposed to a change of Govt or a
+sale of *location_mentioned*Texas */location_mentioned*to the *location_mentioned*U. S*/location_mentioned*.—they were becoming sincerely attached
+to this *person_mentioned*Govt*/person_mentioned* and they always have been faithful and always would
+be— This *person_mentioned*Govt */person_mentioned*has a stronger hold on *location_mentioned*Texas */location_mentioned*in the respect which
+the *person_mentioned*new settlers*/person_mentioned* have for their oaths to support the constitution of
+their *location_mentioned*adopted country*/location_mentioned*, than any hold which a *person_mentioned*military */person_mentioned*force could
+give them— I wish you to write when the long expected *person_mentioned*army of
+*location_mentioned*Texas*/location_mentioned**/person_mentioned* is to be on, and its number etc— I now believe that the
+Federal constitution will fall and that the Govt will assume an
+arristocratical or monarchical form— I know not what will be the
+ultimate fate of *location_mentioned*Texas*/location_mentioned*— I am myself opposed to a union with the
+*location_mentioned*U. S*/location_mentioned*. unless we first receive some <hi rend="italic">guarantees</hi>, amongst them I should
+insist on the perpetual exclusion of slavery from this *location_mentioned*country */location_mentioned*write
+me how you are getting on, whether you can visit *location_mentioned*Texas*/location_mentioned*— Are you
+friendly with *person_mentioned*Teran*/person_mentioned*— he and myself are on the very best of terms—
+he has committed a capital error in advising the present measures
+against *location_mentioned*Texas*/location_mentioned*, for the fact is he is the *person_mentioned*author */person_mentioned*of them although he
+has no idea that I am apprised of that fact— <hi rend="italic">I have always known
+it</hi>— The most perfect peace and harmony reigns all over *person_mentioned*Texas */person_mentioned*and
+will no doubt so continue— The timorous will hesitate about 
+immigrating here, but all who are fully informed on the subject will
+not,—for the fact is there is nothing to fear, neither will any
+embarrissments be interposed to stop emigration to my *location_mentioned*colony*/location_mentioned*—
+I have letters of late date from *person_mentioned*Arch */person_mentioned*and *person_mentioned*John P Austin */person_mentioned*<hi rend="italic">all well</hi>*/p*
+
+*p**person_mentioned*S. F. Austin.*/person_mentioned*
+*/p*
+*/div1*
+</body>
+</text>
+</TEI.2>

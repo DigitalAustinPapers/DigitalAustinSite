@@ -1,0 +1,90 @@
+﻿
+<TEI.2 id="APB1569">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>07-22-1828</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 74-75</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Frost Thorn</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F Austin</document_recipient>
+<document_title>Frost Thorn to Stephen F Austin, 07-22-1828</document_title>
+<document_location>
+	<sent_from>Nacogdoches, Texas</sent_from>
+	<sent_to>San Felipe de Austin, Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Frost Thorn to Austin, Nacogdoches, July 22, 1828. The law permitting indenture of slaves will greatly promote immigration. Favors colonization of Cherokees and Shawnees, who are good farmers.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 74-75</barker_citation>
+</barker_notes>
+<document_digital_creation>08-07-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1569T">
+
+<body>
+*div1 type="summary"*
+*p*Frost Thorn to Austin, Nacogdoches, July 22, 1828. The law permitting indenture of slaves will greatly promote immigration. Favors colonization of Cherokees and Shawnees, who are good farmers.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Nacogdoches */location_mentioned**date_mentioned n="07-22-1828">22 July 1828.*/date_mentioned**/p*
+
+*p*Dear Sir/.*/p*
+
+*p*On my return from *location_mentioned*N Orleans */location_mentioned**date_mentioned n="06-xx-1828">about 6 Weeks since*/date_mentioned*, I was put in
+receipt of your letter stating a Law had passed, that *person_mentioned*servants */person_mentioned*could
+be indented etc—*/p*
+
+*p*The entelligence I immedeately made public, and am induced to 
+believe the Law will be of great service to this *location_mentioned*Country*/location_mentioned*. It has made a
+material change in the feelings of many valuable *person_mentioned*Emgrants */person_mentioned*and I
+will have it published in *location_mentioned*N. Orleans*/location_mentioned*, that it may have publicity in
+the *location_mentioned*U. S.*/location_mentioned*—*/p*
+
+*p**person_mentioned*Mr. Amos Edwards*/person_mentioned* had Just arrived from *location_mentioned*Kentucky */location_mentioned*with several
+*person_mentioned*slaves*/person_mentioned*, which would have required much management to secure, but
+this Law at once places him at ease on that subject.*/p*
+
+*p*Our *person_mentioned*Alcalde */person_mentioned*is not over active in promulgating the Laws—
+therefore your Letter in this case was usefull— should anything occur
+interesting to our section of the *location_mentioned*Country*/location_mentioned*, you will confer a favr by
+noting it, to some one residing at this place.*/p*
+
+*p**person_mentioned*Genl Teran*/person_mentioned* keeps himself much reserved and I believe his residence
+with us will correct many evils that has much injured the *location_mentioned*country*/location_mentioned*.
+I have no doubt but the proceedings at this place on the part of the
+*person_mentioned*alcalde */person_mentioned*has done more injury to the *location_mentioned*Country */location_mentioned*than any other cause.
+Most of the *person_mentioned*Transcient persons*/person_mentioned* that visit here return disgusted*/p*
+
+*p*My *location_mentioned*Colony */location_mentioned*is at this time totally ocupied by the *person_mentioned*Indians*/person_mentioned*. The
+*person_mentioned*Cherokees */person_mentioned*and *person_mentioned*Shaunesse */person_mentioned*are *person_mentioned*Agriculturists */person_mentioned*and do not live in 
+*location_mentioned*villages */location_mentioned*but in a compact *location_mentioned*settlement*/location_mentioned*. They raise much corn, and I
+have myself this season purchased from the *person_mentioned*Cherokees */person_mentioned*alone5 not less
+than 1000 Dollars worth of Corn and pease.*/p*<barker_pb n="75"/>
+
+*p*My belive is, that it would improve there condition to Colonise
+them— I will write to you frankly on this subject, in the course of a
+short time*/p*
+
+*p**person_mentioned*F. Thorn*/person_mentioned* [Rubric]*/p*
+*p*To *person_mentioned*Coin. S. F. Austin*/person_mentioned**/p*
+
+*p**location_mentioned*St. filep*/location_mentioned*e—*/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

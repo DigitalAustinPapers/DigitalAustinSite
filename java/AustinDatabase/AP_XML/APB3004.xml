@@ -1,0 +1,73 @@
+﻿
+<TEI.2 id="APB3004">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>09-22-1825</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1207</document_citation>
+<document_language>English</document_language>
+<document_status>Public</document_status>
+<document_type>Affidavit</document_type>
+<document_author>John H. Fowler, Jr.</document_author>
+<document_sender>John F. Fowler</document_sender>
+<document_recipient>Unknown</document_recipient>
+<document_title>John H. Folwer, Jr. to Unknown, 09-22-1825</document_title>
+<document_location>
+	<sent_from>Miller County, Arkansas Territory</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary> Affidavit concerning forgery</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1207</barker_citation>
+</barker_notes>
+<document_digital_creation>05-21-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Cameron L. Sinclair, Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB3004T">
+
+<body>
+*div1 type="summary"*
+*p* Affidavit concerning forgery*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Territory of Arkansas*/location_mentioned**/p*
+*p**location_mentioned*County of Miller*/location_mentioned**/p*
+
+*p**date_mentioned n="09-22-1825">This day*/date_mentioned* *person_mentioned*Clark Robinson*/person_mentioned* being duly sworn before me *person_mentioned*John H.
+Fowler an acting justice of the Peace in and for *location_mentioned*Miller County*/location_mentioned**/person_mentioned*, 
+Territory afsd. sayeth that *person_mentioned*Ruben McHaws*/person_mentioned* purchased early in this
+month a quantity of Merchandeze and endorse[d] notes to said *person_mentioned*Fowler*/person_mentioned*
+for the same to the Amount of about two hundred and forty one 
+dollars and twenty five cents which notes has every appearance of being
+Forged and said deponent verrilly believes that they are forged notes
+and it appears to be a general opinion that the notes are spurious*/p*
+
+*p*Great exersions were made use of to get hold of *person_mentioned*McHaws*/person_mentioned* who
+with dexterity made his escape*/p*
+
+*p**person_mentioned*Clark Robinson*/person_mentioned*.*/p*
+
+*p*Sworn and subscribed before me *date_mentioned n="09-22-1825">22nd Sept 1825*/date_mentioned**/p*
+
+*p**person_mentioned*J H Fowler Jr*/person_mentioned**/p*
+
+*p*The above affidavit taken before me would not be valed in law but
+is designed to shew you that [M]y claim does exist and every 
+necessary proof can be had to prove my statements true.*/p*
+
+*p**person_mentioned*John F. Fowler*/person_mentioned*.*/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

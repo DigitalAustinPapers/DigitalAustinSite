@@ -1,0 +1,58 @@
+﻿
+<TEI.2 id="APB1284">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>09-16-1826</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1456</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Samuel C. Hirams</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F. Austin</document_recipient>
+<document_title>Samuel C. Hirams to Stephen F. Austin, 09-16-1826</document_title>
+<document_location>
+	<sent_from>Harrisburgh, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Samuel C. Hirams to Austin, September 16, 1826. Introducing F. W. Johnson</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1456</barker_citation>
+</barker_notes>
+<document_digital_creation>07-12-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1284T">
+
+<body>
+*div1 type="summary"*
+*p*Samuel C. Hirams to Austin, September 16, 1826. Introducing F. W. Johnson*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Harris Burgh*/location_mentioned**/p*
+*p**date_mentioned n="09-16-1826">Sept. 16th 1826*/date_mentioned**/p*
+*p**person_mentioned*Col. S. F. Austin*/person_mentioned**/p*
+*p*Sir,*/p*
+
+*p*This will make you acquainted with *person_mentioned*Mr. Francis W. Johnson*/person_mentioned*
+a gentleman of the first respectability who wishes to get into business.
+Your attention to him, will place your humble servt. under lasting
+obligations to you*/p*
+
+*p**person_mentioned*Saml. C. Hirams*/person_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

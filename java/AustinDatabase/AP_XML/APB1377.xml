@@ -1,0 +1,66 @@
+﻿
+<TEI.2 id="APB1377">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>05-07-1827</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1636</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Samuel T. Angier</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F. Austin</document_recipient>
+<document_title>Samuel T. Angier to Stephen F. Austin, 05-07-1827</document_title>
+<document_location>
+	<sent_from>Unknown</sent_from>
+	<sent_to>San Felipe de Austin, Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>S. T. Angier to Austin, May 7, 1827.   Land.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1636</barker_citation>
+</barker_notes>
+<document_digital_creation>07-21-1827</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1377T">
+
+<body>
+*div1 type="summary"*
+*p*S. T. Angier to Austin, May 7, 1827.   Land.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**date_mentioned n="05-07-1827">May 7th 1827*/date_mentioned*.*/p*
+
+*p*Sir, As a favourable opportunity offers, I take the liberty to
+address you a few lines. Lest it should not be in my power to visit
+you before The most eligible situations shall be chosen in The *location_mentioned*new
+colony*/location_mentioned* I wish you would select and designate for me such a leage
+as you think most proper; I am just going to view the land on 
+*location_mentioned*Chocolate Bayou*/location_mentioned*, agreeably to the arrangement with*person_mentioned* Mr. G. B. Hall*/person_mentioned* After which I will endeavour To see you as soon as possible*/p*.
+
+*p*If you have obtained a plot of Those *location_mentioned*labores*/location_mentioned*, I wish you to 
+forward me your communication on The same by *person_mentioned*Mr. Harris*/person_mentioned*. Thus
+doing you will oblige your friend*/p*
+
+*p**person_mentioned*Samuel T. An[gier]*/person_mentioned* (?)*/p*
+
+*p*N. B. *person_mentioned*Capt. Chrisman*/person_mentioned* highly recommended *location_mentioned*The lands on Mill
+Creek*/location_mentioned*.*/p*
+
+*p*[Addressed:] *person_mentioned*Col. S. F. Austin.*/person_mentioned*   *location_mentioned*San Felipe*/location_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

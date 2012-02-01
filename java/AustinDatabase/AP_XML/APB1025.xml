@@ -1,0 +1,71 @@
+﻿
+<TEI.2 id="APB1025">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>01-29-1825</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1025-1026</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>J. Iiams</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F. Austin</document_recipient>
+<document_title>J. Iiams to Stephen F. Austin, 01-29-1825</document_title>
+<document_location>
+	<sent_from>San Jacinto, Texas</sent_from>
+	<sent_to>Unknwon</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>J. Iiams to Austin, January 29, 1825. Asks about land for two families wishing to move from East Texas to Austin's colony. Each has about 17 slaves.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1025-1026</barker_citation>
+</barker_notes>
+<document_digital_creation>05-25-1825</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1025T">
+
+<body>
+*div1 type="summary"*
+*p*J. Iiams to Austin, January 29, 1825. Asks about land for two families wishing to move from East Texas to Austin's colony. Each has about 17
+slaves.*/p*
+*/div1*
+
+*div1 type="body"*
+*p**location_mentioned*Sanja Cinto*/location_mentioned* *date_mentioned n="01-29-1825">January 29th- 1825*/date_mentioned**/p*
+*p*Dear Sir*/p*
+
+*p* *person_mentioned*Messrs Henry*/person_mentioned* and *person_mentioned*Micajah Munson*/person_mentioned* living at present *location_mentioned*on this side
+trinity*/location_mentioned* and being somewhat disappointed in their Settlement by the<barker_pb n="1026"/>
+overflow of that *location_mentioned*River*/location_mentioned* desire me to enquire of you whether they can
+be admitted into your *location_mentioned*Colony */location_mentioned* and obtain the title of Land*/p*
+
+*p*If they can be admitted they wish to have Lands near me on
+*location_mentioned*Cedar buyo*/location_mentioned* where there are no other Claims and they will commence
+settlement Immediately They are *person_mentioned*men*/person_mentioned* of Respectability having
+each a family and about 17 *person_mentioned*Slaves*/person_mentioned* each with good stock of Cattle
+etc., etc. They also wish to enquire whether more Land can be
+granted in proportion to the number of *person_mentioned*Slaves*/person_mentioned* They will in all
+probability be good pay for whatever Land may be granted them
+and I shall be happy in having them for *person_mentioned*neighbours */person_mentioned*please write
+me a line on the above Subject and if they will be accepted direct the
+survey as they are desireous to have it accomplished There are others
+wishing to apply in the same way if any more *location_mentioned*grants */location_mentioned*can be made*/p*
+
+*p**person_mentioned*J. IlAMS*/person_mentioned**/p*
+
+*p**person_mentioned*Col. S F Austin*/person_mentioned**/p*
+
+
+*/div1*
+</body>
+</text>
+</TEI.2>

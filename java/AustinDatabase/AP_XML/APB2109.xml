@@ -1,0 +1,73 @@
+﻿
+<TEI.2 id="APB2109">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>09-08-1825</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 1196-1197</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Stephen F Austin</document_author>
+<document_sender></document_sender>
+<document_recipient>Mateo Ahumada</document_recipient>
+<document_title>Stephen F Austin to Mateo Ahumada, 09-08-1825</document_title>
+<document_location>
+	<sent_from>San Felipe de Austin, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Austin to Mateo Ahumada, September 8, 1825. Concerning hostilities of Comanches and poor preparation of the colonists for war.</barker_summary>
+	<barker_footnotes>Translation from Nacogdoches Archives, Texas State Library. The original is in this
+collection, and a copy in Austin's Blotter, in the file of August 26, 1824.</barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1196-1197</barker_citation>
+</barker_notes>
+<document_digital_creation>12-26-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB2109T">
+
+<body>
+*div1 type="summary"*
+*p*Austin to Mateo Ahumada, September 8, 1825. Concerning hostilities of Comanches and poor preparation of the colonists for war.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p*Your communication of the *date_mentioned n="08-19-1825">19th of August last*/date_mentioned*, received *date_mentioned n="09-07-1825">yesterday*/date_mentioned*,
+has acquainted me with the breach of peace committed by the
+*person_mentioned*Comanches*/person_mentioned*, and apprizes me that the *person_mentioned*Tahuacanos */person_mentioned*and *person_mentioned*Tahuiases*/person_mentioned*
+have joined them in that savage and unjust war, and killed the
+*person_mentioned*American*/person_mentioned*, *person_mentioned*Dickenson*/person_mentioned*. You instruct me to adopt every possible
+measure, that I may be ready in case they should extend their hos-<barker_pb n="1197"/>
+tilities to the limit of the establishment in my charge; to pursue
+them, and take satisfaction for any outrages they may commit.*/p*
+
+*p*The actual situation of this *location_mentioned*Establishment */location_mentioned*is by no means well 
+calculated to meet the commencement of a war, owing to the reasons
+already expressed in my communication of *date_mentioned n="08-20-1825">August 20th*/date_mentioned*, and 
+*date_mentioned n="09-08-1825">September the 8th*/date_mentioned* to the *person_mentioned*Political Chief of the Department*/person_mentioned*. 
+Nevertheless we are all ready to obey, and to attack any people considered
+as *person_mentioned*enemies */person_mentioned*by the *person_mentioned*government*/person_mentioned*.*/p*
+
+*p*I will lose no time in adopting such measures as our circumstances
+permit for either attack upon or defence against the *person_mentioned*enemy*/person_mentioned*. I have,
+in fact, already ordered the *person_mentioned*militia */person_mentioned*to be in readiness to march at the
+earliest notice, and I shall not omit to report to you any new 
+occurrences.*/p*
+
+*p*God and Liberty.                                        *person_mentioned*Stephen F. Austin*/person_mentioned*.*/p*
+
+*p**location_mentioned*San Felipe de Austin*/location_mentioned*, *date_mentioned n="09-08-1825">September 8th, 1825*/date_mentioned*.*/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

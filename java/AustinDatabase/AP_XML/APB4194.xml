@@ -1,0 +1,95 @@
+﻿
+<TEI.2 id="APB4194">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>04-09-1831</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 642-643</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Alexander Thomson</document_author>
+<document_sender>Major Reynolds</document_sender>
+<document_recipient>Stephen F Austin</document_recipient>
+<document_title>Alexander Thomson to Stephen F Austin, 04-09-1831</document_title>
+<document_location>
+	<sent_from>Austin's Colony, Texas</sent_from>
+	<sent_to>Leona Vicario</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Alexander Thomson to Austin, April 9, 1831. Arrived in Texas with his
+own and eight other families and was told at San Felipe that orders had
+arrived for exclusion of all Americans.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 642-643</barker_citation>
+</barker_notes>
+<document_digital_creation>09-10-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4194T">
+
+<body>
+*div1 type="summary"*
+*p*Alexander Thomson to Austin, April 9, 1831. Arrived in Texas with his
+own and eight other families and was told at San Felipe that orders had
+arrived for exclusion of all Americans.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Texas, Austin's Colony,*/location_mentioned* *date_mentioned n="04-09-1831">April 9th 1831*/date_mentioned**/p*
+*p*Dr Sir,*/p*
+*p*I am sorry to be compelled to trouble you with a few lines, but
+necessity forces me to do it, I arrived with my own, and eight more
+*person_mentioned*families*/person_mentioned*, on the *date_mentioned n="04-02-1831">2nd Inst,*/date_mentioned* at *location_mentioned*Harrisburgh*/location_mentioned*, at which place I learned
+that, the *person_mentioned*families */person_mentioned*I had brought out *date_mentioned n="Fall-1830">Last fall*/date_mentioned* were ordered *location_mentioned*below
+the St Antonio road,*/location_mentioned* and that they had all moved down, the most of
+them to *location_mentioned**person_mentioned*Mr. Milligan*/person_mentioned*'s*/location_mentioned*, I immediately went to *location_mentioned*St Phillippi,*/location_mentioned* to know
+the particulars, while there, an order arrived, that all the *person_mentioned*families*/person_mentioned*,
+and myself, should return, to the *location_mentioned*U. S.*/location_mentioned* I at first concluded to go
+immediately, but all with whom I convers'd, at *location_mentioned*St Phillippi */location_mentioned*advised
+me to wait, and pe[ti]tion for priviledge to remain in this *location_mentioned*colony*/location_mentioned*,
+and become a *person_mentioned*settler */person_mentioned*here, I have arranged all my business in
+the *location_mentioned*U. S.*/location_mentioned* and came with view to become a *person_mentioned*permanent residentor*/person_mentioned* in
+this *location_mentioned*country*/location_mentioned*, and have sacrificed much, and underwent a great deal
+of fatigue, and trouble, to get here, if we have to return, it will break
+us all prety well.*/p*
+
+*p*I anticipated no such difficulties, or I never should have engaged
+in the business, but remain'd where I was well settled in *location_mentioned*Tennessee*/location_mentioned*.*/p*
+
+*p*As I believe it is in your power to do more with the government,
+and with *person_mentioned*Genl Teran*/person_mentioned*, than any one else, and believing that you
+are dispos'd to be friendly toward us, I now take the liberty to
+request you, to intercede for us in any way your discretion, may
+point out, and that as soon as you can, for I will not be able to
+know what to do until I hear from you. If I am obliged to return
+the sooner I know it the better, or if I am permitted to remain,
+I wish to be trying to settle myself, if I can remain, I wish to settle
+in the *location_mentioned*uper part of your colony*/location_mentioned**/p*.<barker_pb n="643"/>
+
+*p*Any attention paid to my situation by you, will be greatfully
+acknowledged, now is the time, sir, for you to do me, perhaps a
+greater kindness, than you may ever have an opportunity to do me
+again.*/p*
+
+*p**person_mentioned*Alexr Thomson*/person_mentioned**/p*
+
+*p*N. B. until I hear my destiny, I expect to recide in the settlement
+of *person_mentioned*Mr Milligan*/person_mentioned*.*/p*
+
+*p*[Addressed:] *person_mentioned*Colo S. F. Austin,*/person_mentioned* *location_mentioned*Diputado Leona Vicario*/location_mentioned*. Att of
+*person_mentioned*Majr Reynolds*/person_mentioned**/p*
+
+
+*/div1*
+</body>
+</text>
+</TEI.2>

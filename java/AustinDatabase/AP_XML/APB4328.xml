@@ -1,0 +1,105 @@
+﻿
+<TEI.2 id="APB4328">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>02-19-2010</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 753-754</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Stephen F Austin</document_author>
+<document_sender></document_sender>
+<document_recipient>Mary Austin Holley</document_recipient>
+<document_title>Stephen F Austin to Mary Austin Holley, 02-19-2010</document_title>
+<document_location>
+	<sent_from>Austin, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Austin to Mary Austin Holley, February 19, 1832. The troubles of Brazoria
+in December.   His attitude misrepresented.   Revolution in Mexico.
+</barker_summary>
+	<barker_footnotes>Copy by Mrs. Holley, in file of July 19, 1831</barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 753-754</barker_citation>
+</barker_notes>
+<document_digital_creation>09-22-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4328T">
+
+<body>
+*div1 type="summary"*
+*p*Austin to Mary Austin Holley, February 19, 1832. The troubles of Brazoria
+in December.   His attitude misrepresented.   Revolution in Mexico.*/p*
+
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Austin */location_mentioned**date_mentioned n="02-19-1832">Feb: 19, 1832*/date_mentioned**/p*
+
+*p*I was made happy to day by the receipt of yours of *date_mentioned n="01-05-1832">5th */date_mentioned*and *date_mentioned n="01-06-1832">6th*/date_mentioned*
+Ultimo. I had before heard of the arrival of the Spica, and 
+presumed you were well, but wished for the assurance from yourself
+before I leave.   It was like a gleam of sunshine after days of clouds.*/p*
+
+*p*How cautious ought we to be, in all stations of life, but especially
+in places where our opinions and expressions are liable to be 
+misunderstood or perverted for evil purposes, never to deviate, even <hi rend="italic">in
+appearance</hi> from permanent rules of action. You know that my
+motto is <hi rend="italic">fidelity to *location_mentioned*Mexico*/location_mentioned*</hi> I never departed from it, and never
+intend to depart from it. The most unfortunate, and furious 
+excitement, a part of which you saw at *location_mentioned*Brazoria*/location_mentioned*, placed me in a peculiar
+situation. To control that excitement and keep it within bounds I
+had but one course left, which was to float along with it for the
+moment so as to temper it down after a few days of reflection
+had cooled the first effervescence. This matter has cost me more
+uneasiness than I expected. My own expressions drawn from me
+by the heat of others, and by the circumstances of the moment, have
+been caught at, and a much wider meaning given them than I 
+intended; and this, too, by those who ought to be my *person_mentioned*friends*/person_mentioned*. It is
+now over—I think—and all will go on quietly, harmoniously, and<barker_pb n="754"/>
+peaceably with the *person_mentioned*Government*/person_mentioned*, a respectful memorial has been
+adopted by the *person_mentioned*Ayuntamiento */person_mentioned*praying for a repeal of the prohibition
+against *person_mentioned*North American emigrants*/person_mentioned*, a modification of the tariff,
+removal of *person_mentioned*Fisher*/person_mentioned*, etc.*/p*
+
+*p*Our last dates from *location_mentioned*Mexico */location_mentioned*are to the *date_mentioned n="01-10-1832">10 Jany.*/date_mentioned* the next mail no
+doubt will bring us something important relating to *person_mentioned*Gen, Santana*/person_mentioned*s
+movements and plans. What is to be the fate of this *location_mentioned*Nation */location_mentioned*? 
+Constantly torn to pieces by internal discord and civil war—where will
+it end ? They have all my sympathy for success and happiness 
+because they have <hi rend="italic">tried to be free</hi>, and considering the state of civil
+and mental vassalage they have so long been in we must give them
+credit for many things they have done.*/p*
+
+*p*I expect I have tired you out with my long letters. Taciturn, as
+they say I am, you see I can be loquacious some times, and to some
+persons. It is long since I have been able to talk frankly as I
+wished. This is the last letter you will receive from me for the
+present. Now to business. In a few days, I shall be off, to return,
+a free man, about *date_mentioned n="06-xx-1832">June*/date_mentioned*, and commence my improvements. Nothing
+can be done to advantage until then. To employ *person_mentioned*workmen */person_mentioned*without
+personal inspection would be to waste money to no purpose. You
+can go on preparing for your removal according to your wishes
+Your *location_mentioned*league of land */location_mentioned*is not very far from where my *person_mentioned*brother in law
+*/person_mentioned*is settling. It is on a *location_mentioned*navigable tide water Creek, called Dickinsons
+Creek*/location_mentioned*, (*location_mentioned**person_mentioned*Perry*/person_mentioned*'s is on Chocolate*/location_mentioned*)*location_mentioned* on the South side*/location_mentioned*, beautifully
+situated, has some timber and rich prairie, and is *location_mentioned*within a few hours
+sail of Galveston Harbor*/location_mentioned*.   Farewell, a long farewell*/p*
+
+*p**person_mentioned*S F A.*/person_mentioned**/p*
+
+
+*/div1*
+</body>
+</text>
+</TEI.2>

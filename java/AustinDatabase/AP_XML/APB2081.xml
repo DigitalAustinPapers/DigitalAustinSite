@@ -1,0 +1,82 @@
+﻿
+<TEI.2 id="APB2081">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>08-13-1825</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 1165</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>James Gaines</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F Austin</document_recipient>
+<document_title>James Gaines to Stephen F Austin, 08-13-1825</document_title>
+<document_location>
+	<sent_from>Sabine, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>James Gaines to Austin, August 13, 1825. Concerning a Negro stolen from Louisiana.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1165</barker_citation>
+</barker_notes>
+<document_digital_creation>12-24-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB2081T">
+
+<body>
+*div1 type="summary"*
+*p*James Gaines to Austin, August 13, 1825. Concerning a Negro stolen from Louisiana.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Sabine */location_mentioned**date_mentioned n="08-13-1825">August 13th 1825.*/date_mentioned**/p*
+*p**person_mentioned*Col. Steven F Austin*/person_mentioned**/p*
+
+*p*Dr. Sir I Regret to inform you the Documents on Examination
+are mislaid as Respects the Changes alluded to in my Letter all I
+can Recollect of them is as follows*/p*
+
+*p*A young man by the name of *person_mentioned*Dally */person_mentioned*stold a Likely *person_mentioned*negro man*/person_mentioned* of
+*person_mentioned*Henry Collins*/person_mentioned* on the *location_mentioned*River amite*/location_mentioned*, in the *location_mentioned*Parish of East 
+Batonrouge State of Louisiana*/location_mentioned* *date_mentioned n="xx-xx-1824">some time last year*/date_mentioned* *person_mentioned*Mr. Collins*/person_mentioned* sent
+a young man by the name of *person_mentioned*West */person_mentioned*to the *location_mentioned*Brassos */location_mentioned**date_mentioned n="xx-xx-1824">Last year */date_mentioned*in
+pursuit of him but Returnd without success he *person_mentioned*Mr. Collins*/person_mentioned* then
+sent me the Documents to Continue the inquiry until I made a 
+Discovery*/p*
+
+*p*My inquiries has been as follows I found this *person_mentioned*Dally */person_mentioned*went to
+*location_mentioned*Pecan Point*/location_mentioned* with the *person_mentioned*negro */person_mentioned*and Changed his name from *person_mentioned*Dally */person_mentioned*to
+*person_mentioned*Lively */person_mentioned**date_mentioned n="Summer-1825">Early this summer*/date_mentioned* he came to the *location_mentioned*naches */location_mentioned*where a young
+man Lived by the name of *person_mentioned*Lively */person_mentioned*this *person_mentioned*Lively */person_mentioned*Lived at*location_mentioned**person_mentioned* Ellis Bean*/person_mentioned*s
+*/location_mentioned*and was a *person_mentioned*partner of Dalleys */person_mentioned**location_mentioned*on the River amite in Luciana*/location_mentioned* when
+*person_mentioned*Dalley */person_mentioned*and *person_mentioned*Lively */person_mentioned*met *person_mentioned*Lively */person_mentioned*calld him *person_mentioned*Dally */person_mentioned*but after some apology
+they passed for *person_mentioned*Brs */person_mentioned*there and Left the *location_mentioned*naches */location_mentioned*with the *person_mentioned*negro */person_mentioned*for the
+*location_mentioned*upper settlements on the Brasss*/location_mentioned* and was there a Rasing ... [illegible]
+some Time ago another one of the *person_mentioned*Dalley*/person_mentioned*s has Lately passdd out
+in pursuit of them and Likely will pass by the name of *person_mentioned*Lively*/person_mentioned*, a
+young man went out Lately with *person_mentioned*Mr. Lakely*/person_mentioned* I am told Can Explain
+Probably the whole affair I have wrote on to *person_mentioned*Mr. Collins*/person_mentioned*, and shall
+shortly Expect him on*/p*
+
+*p*I hope for the sake of humanity you will secure the *person_mentioned*negro */person_mentioned*and
+Damage If possible for 18 months services of the *person_mentioned*negro */person_mentioned*together per
+Costs of Suit until the Said *person_mentioned*Henry Collins*/person_mentioned* may come or send*/p*
+
+*p**person_mentioned*Jas Gaines */person_mentioned*   [Rubric]*/p*
+
+
+*/div1*
+</body>
+</text>
+</TEI.2>

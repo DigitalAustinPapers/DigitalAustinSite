@@ -1,0 +1,56 @@
+﻿
+<TEI.2 id="APB3082">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>03-02-1826</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1271</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Receipt</document_type>
+<document_author>Daniel E. Bayles</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F. Austin</document_recipient>
+<document_title>Daniel E. Bayles to Stephen F. Austin, 03-02-1826</document_title>
+<document_location>
+	<sent_from>San Felipe de Austin, Texas</sent_from>
+	<sent_to>San Felipe de Austin, Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Receipt for wages.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1271</barker_citation>
+</barker_notes>
+<document_digital_creation>07-16-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Cameron L. Sinclair, Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB3082T">
+
+<body>
+*div1 type="summary"*
+*p*Receipt for wages.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**person_mentioned*Col Austin*/person_mentioned**/p*
+
+*p*To *person_mentioned*D Bayless*/person_mentioned* Dr.*/p*
+
+*p*To 13 days Services on the *location_mentioned*Galveston*/location_mentioned* Trip as a *person_mentioned*hand */person_mentioned**location_mentioned*on board the Mexican*/location_mentioned* at 1$ in Trade pr. day_____________________________________$13.00*/p*
+
+*p**location_mentioned*S F de Austin*/location_mentioned* *date_mentioned n="03-02-1826">March 2 1826*/date_mentioned**/p*
+
+*p*Recd Payment                                                      *person_mentioned*Danl. E. Bayles*/person_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,71 @@
+﻿
+<TEI.2 id="APB1384">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>05-21-1827</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1642-1643</document_citation>
+<document_language>English</document_language>
+<document_status>private</document_status>
+<document_type>Letter</document_type>
+<document_author>Freeman Pettus</document_author>
+<document_sender></document_sender>
+<document_recipient>Unknown</document_recipient>
+<document_title>Freeman Pettus to Unknown, 05-21-1827</document_title>
+<document_location>
+	<sent_from>San Felipe de Austin, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Pettus v. Reed, May 21, 1827.   Judicial procedure.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1642-1643</barker_citation>
+</barker_notes>
+<document_digital_creation>07-21-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1384T">
+
+<body>
+*div1 type="summary"*
+*p*Pettus v. Reed, May 21, 1827.   Judicial procedure.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**person_mentioned*Freeman Pettus*/person_mentioned**/p*
+*p*versus*/p*
+*p**person_mentioned*John C Reed*/person_mentioned**/p*
+
+*p*Sir Take notice that pursuant to the order of the *person_mentioned*Honble Superior
+Court of this *location_mentioned*Colony*/location_mentioned**/person_mentioned* I shall on the *date_mentioned n="09-10-1826">Tenth day of September */date_mentioned*and on
+the *date_mentioned n="09-11-1826">following day*/date_mentioned* *location_mentioned*at the house of *person_mentioned*William G, Doyle Esqr*/person_mentioned* of Lawrence
+County in the State of Alabama*/location_mentioned* a *person_mentioned*Justice of the peace*/person_mentioned* in and for
+said State proceed to take the deposition of *person_mentioned*Martin Sims*/person_mentioned* and of
+*person_mentioned*William Sims*/person_mentioned* of said *location_mentioned*County */location_mentioned*before the said *person_mentioned*Wm. G Doyle*/person_mentioned* and
+that on the *date_mentioned n="10-10-1827">10 day of October next*/date_mentioned* I shall also proceed to take the
+depositions of*person_mentioned* Mrs Price*/person_mentioned* and of ------ *person_mentioned*Newell*/person_mentioned* of *person_mentioned*Bayou Coti*/person_mentioned* in the
+*person_mentioned*State of Louisiana*/person_mentioned* at the *location_mentioned*house of the said *person_mentioned*Mrs------Price */person_mentioned**/location_mentioned*at *person_mentioned*Bayou
+Coti*/person_mentioned* afd before some *person_mentioned*officer */person_mentioned*properly authorised to take the same on
+which occasions you can attend if you think proper*/p*
+
+*p*And take notice that said deposition will be adduced in Evidence
+on the part of the pff on the Trial of the issue in this matter at the
+Term of the sd *location_mentioned**person_mentioned*Supr Court*/person_mentioned* of this Colony*/location_mentioned* to be held in the Town of<barker_pb n="1643"/>
+*location_mentioned*San felipe de Austin*/location_mentioned* on the *date_mentioned n="02-01-1828">1 Monday in feby 1828—*/date_mentioned**location_mentioned*San felepe do
+Austin*/location_mentioned* *date_mentioned n="05-21-1827">21 May (1827)*/date_mentioned**/p*
+
+*p**person_mentioned*Freeman Pettus*/person_mentioned**/p*
+
+
+*/div1*
+</body>
+</text>
+</TEI.2>

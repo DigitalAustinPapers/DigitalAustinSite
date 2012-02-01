@@ -1,0 +1,79 @@
+﻿
+<TEI.2 id="APB1369">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>04-19-1827</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1633</document_citation>
+<document_language>English</document_language>
+<document_status>Public</document_status>
+<document_type>Letter</document_type>
+<document_author>Jose Antonio Saucedo [?]</document_author>
+<document_sender></document_sender>
+<document_recipient>Inhabitants of Pecan Point</document_recipient>
+<document_title>Jose Antonio Saucedo [?] to Inhabitants of Pecan Point, 04-19-1827</document_title>
+<document_location>
+	<sent_from>San Felipe de Austin, Texas</sent_from>
+	<sent_to>Inhabitants of Pecan Point</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>[Saucedo?] to inhabitants of Pecan Point, April 19, 1827. Advice concerning local government and relations to United States.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1633</barker_citation>
+</barker_notes>
+<document_digital_creation>07-21-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1369T">
+
+<body>
+<div1 type="summary">
+<p>[Saucedo?] to inhabitants of Pecan Point, April 19, 1827. Advice concerning local government and relations to United States.</p>
+</div1>
+
+<div1 type="body">
+
+<p>I have received from <person_mentioned>Messrs Nathaniel Robins</person_mentioned> and <person_mentioned>Doctor Lewis
+R Dayton</person_mentioned> the representation which you directed to me under date
+of <date_mentioned n="02-20-1827">20 february of the present year</date_mentioned> in which you complain that 
+<person_mentioned>officers from the Govt of the <location_mentioned>United States of North America </location_mentioned></person_mentioned>[are]
+exacting from you taxes and Contributions which in your opinion
+you ought not to pay on account of your being established on <location_mentioned>Lands
+of the Republic of Mexico</location_mentioned>. At the same time petitioning 
+protection and assistance from this <person_mentioned>Govt</person_mentioned>, as well to avoid those exactions
+as for your defence against the incursions of the hostile <person_mentioned>Indians</person_mentioned>,
+on which particular I have to state to you that it is not within the
+bounds of my faculties to remidy the evils which afflict you not
+knowing the place where the division line between the two 
+<location_mentioned>Republics </location_mentioned>will fall. You must therefore in the meantime bear with 
+patience the disgusts of such treatment with the understanding that
+under this date I forward your representation to <person_mentioned>His Excellency
+the Governor of this State</person_mentioned> asking of him the necessary <person_mentioned>auxilliaries</person_mentioned>
+for that part of the <location_mentioned>frontier </location_mentioned>of which you will undoubtedly reap
+[an advantage] should your fate decide that you are [to be a part
+of] <location_mentioned>Mexican Territory</location_mentioned>. In which event, I [do not see] any 
+objection to your provissionally forming and until the decission of the
+<person_mentioned>Supreme Govt</person_mentioned>, is given to your representation all the branches of
+organised government under a system already known and regulated
+by the laws which you are acquainted with until those of the 
+<location_mentioned>Country </location_mentioned>which you wish to adopt are furnished to you.</p>
+
+<p>God & Liberty</p>
+
+<p><location_mentioned>Snfelipe de Austin</location_mentioned> <date_mentioned n="04-19-1827">19th April 1827</date_mentioned></p>
+
+<p><person_mentioned>[J. Antonio Saucedo?]</person_mentioned></p>
+
+<p>To the <person_mentioned>Inhabitants </person_mentioned>of <location_mentioned>Pecan Point</location_mentioned></p>
+
+</div1>
+</body>
+</text>
+</TEI.2>

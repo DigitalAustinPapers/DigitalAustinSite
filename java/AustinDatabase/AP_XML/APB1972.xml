@@ -1,0 +1,51 @@
+﻿
+<TEI.2 id="APB1972">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>06-26-1830</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 431</document_citation>
+<document_language>Unknown</document_language>
+<document_status>Public</document_status>
+<document_type>Editorial</document_type>
+<document_author>Stephen F Austin</document_author>
+<document_sender></document_sender>
+<document_recipient>Texas Gazette</document_recipient>
+<document_title>Stephen F Austin to Texas Gazette, 06-26-1830</document_title>
+<document_location>
+	<sent_from>Unknown</sent_from>
+	<sent_to>San Felipe de Austin, Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Editorial by Austin in Texas Gazette, June 26, 1830. Arguing the beneficial aspects of the law of April 6, 1830.    (Omitted.)</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 431</barker_citation>
+</barker_notes>
+<document_digital_creation>08-23-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1972T">
+
+<body>
+*div1 type="summary"*
+*p*Editorial by Austin in Texas Gazette, June 26, 1830. Arguing the beneficial aspects of the law of April 6, 1830.    (Omitted.)*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p*[Texas Gazette, June 26, 1830: Attempting to allay uneasiness
+caused by the law of April 6,1830, and at the same time emphasizing,
+for its effect on the government, the services of the colonists to the
+nation.   Omitted.]*/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,85 @@
+﻿
+<TEI.2 id="APB1914">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>05-05-1830</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 372</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Joseph D Grafton</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F Austin</document_recipient>
+<document_title>Joseph D Grafton to Stephen F Austin, 05-05-1830</document_title>
+<document_location>
+	<sent_from>St Genevieve, Missouri</sent_from>
+	<sent_to>San Felipe de Austin, Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Joseph D. Grafton to Austin, St. Genevieve, Mo., May 5, 1830. Inquiring conditions of settlement in Texas.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 372</barker_citation>
+</barker_notes>
+<document_digital_creation>08-20-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1914T">
+
+<body>
+*div1 type="summary"*
+*p*Joseph D. Grafton to Austin, St. Genevieve, Mo., May 5, 1830. Inquiring conditions of settlement in Texas.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*St. Genevieve, Mri,*/location_mentioned*  *date_mentioned n="05-05-1830">May 55 1830*/date_mentioned**/p*
+*p*Dr Sir,
+*/p*
+*p*At the request of my *person_mentioned*wife */person_mentioned*(*person_mentioned*late Mrs. Henry Elliot*/person_mentioned*t) I take the
+liberty of addressing you.—*/p*
+
+*p*As the bearer leaves this in a few minutes, I have only time to
+ask a few questions, and will be thankful for your reply at an early
+day.—*/p*
+
+*p*1.  My *person_mentioned*family */person_mentioned*consists of myself, *person_mentioned*wife */person_mentioned*and 7 *person_mentioned*children*/person_mentioned*, four of whom
+are of the *person_mentioned*late Henry Elliott*/person_mentioned*.— What encouragement for such a
+*person_mentioned*family */person_mentioned*to join your *location_mentioned*settlement*/location_mentioned*?*/p*
+
+*p*2.  What encouragement for persons<hi rend="italic"> half way *person_mentioned*professional*/person_mentioned*,</hi> I
+being successor to the*person_mentioned* late Thos. Oliver*/person_mentioned*, as *person_mentioned*Clerk of the Courts*/person_mentioned*,
+here ?—*/p*
+
+*p*3.  Is it necessary, in your *location_mentioned*Colony*/location_mentioned*, to profess the Catholic faith ?*/p*
+
+*p*4.  My *person_mentioned*wife */person_mentioned*requests me to ask whether you would make to *person_mentioned*Henry
+Elliotts' only son (Charles)*/person_mentioned* any donation of *location_mentioned*lands*/location_mentioned*, on account of
+*person_mentioned*H. Elliott*/person_mentioned*'s trip to *location_mentioned*Texas */location_mentioned*in *date_mentioned n="xx-xx-1822">1822*/date_mentioned*—?*/p*
+
+*p*5.  Whether a *person_mentioned*business man*/person_mentioned*, but without much capital, could 
+probably acquire a good living in connexion with*person_mentioned* Capt. Henry Austin*/person_mentioned*s
+Steam boat line ?*/p*
+
+*p*As business in the *location_mentioned*Courts */location_mentioned*is getting very small in this *location_mentioned*County*/location_mentioned*,
+I have an idea of removing to some other place, but with so large
+a *person_mentioned*family*/person_mentioned*, I would not like to do it without a reasonable certainty of
+belter things elsewhere.—your early reply will greatly oblige me.-—
+*person_mentioned*Mrs. Grafton*/person_mentioned* unites with me in the expression of sentiments of
+true respect.—*/p*
+
+*p**person_mentioned*Jos. D. Grafton*/person_mentioned*    [Rubric]*/p*
+*p*[Addressed:] *person_mentioned*Stephen F Austin Esq*/person_mentioned*. *location_mentioned*San Fellipe De Austin
+Texas*/location_mentioned*   *person_mentioned*Mr. Beard*/person_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

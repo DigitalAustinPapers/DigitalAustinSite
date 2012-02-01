@@ -1,0 +1,83 @@
+﻿
+<TEI.2 id="APB1661">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>12-xx-1828</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 156</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Bill</document_type>
+<document_author>George Tennille</document_author>
+<document_sender></document_sender>
+<document_recipient>JEB and J Austin</document_recipient>
+<document_title>George Tennille to JEB and J Austin, 12-xx-1828</document_title>
+<document_location>
+	<sent_from>Unknown</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>George Tennille in account with J. B. and J. Austin. [December (?), 1828]. Bill and price list.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 156</barker_citation>
+</barker_notes>
+<document_digital_creation>08-09-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1661T">
+
+<body>
+*div1 type="summary"*
+*p*George Tennille in account with J. B. and J. Austin. [December (?), 1828]. Bill and price list.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*date_mentioned n="12-xx-1828">[December (?) 1828.]*/date_mentioned*
+
+*p**person_mentioned*Judge Tennel*/person_mentioned* [George Tennille]*/p*
+*p*Bot from *person_mentioned*J B and J. Austin*/person_mentioned*—*/p*
+*p*1/2 Doz Cups and Saucers @_ -  $1.00*/p*
+*p*1/2 Doz Spoons_______        .50*/p*
+
+*p*A Doz plates_ .37 1/2*/p*
+
+*p*1 lbs Tea—_______3.00*/p*
+
+*p*1 Carving Knife——__ 0.75*/p*
+
+*p*1 Wilson Ditto____ 0.50*/p*
+
+*p*1 Tea Pot Brittania__ 3.50*/p*
+
+*p*6 lbs Sugar a 209___   1.20*/p*
+
+*p*10 lbs Coffee @ 3 1/2___  3.75*/p*
+
+*p*1  Bottle Mustard @ 4 1/2_____$0. 50*/p*
+
+*p*2  Handkfs @ 75 and 5/8_____   1.37 1/2*/p*
+
+*p*2 lbs Tobacco @ $2.00—_____ 10.00*/p*
+
+*p*6 1/2 Yds. Hamdton Stripe @ 6 1/2_______  5.06 1/4*/p*
+
+*p*2 lbs Powder @ $1.00—_____   2.00*/p*
+
+*p*4 lbs Lead @ 25——  1.00*/p*
+
+*p*$35.51 1/4*/p*
+
+*p**person_mentioned*Tennel*/person_mentioned*'s Act with*person_mentioned* J. B. and J Austin*/person_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,57 @@
+﻿
+<TEI.2 id="APB1395">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>05-31-1827</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1650-1651</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Tacitus Clay</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F. Austin</document_recipient>
+<document_title>Tacitus Clay to Stephen F. Austin, 05-31-1827</document_title>
+<document_location>
+	<sent_from>New Years Creek, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Tacitus Clay to Austin, May 31, 1827.    Land.    Scarcity of writing materials.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1650-1651</barker_citation>
+</barker_notes>
+<document_digital_creation>07-23-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1395T">
+
+<body>
+*div1 type="summary"*
+*p**/p*
+*/div1*
+
+*div1 type="body"*
+
+*p*New Years Creek*/p*
+*p**person_mentioned*Col - Austin*/person_mentioned*   the tract of land which I wish you to reserve for
+me it being my Chois is on the *location_mentioned*south fork of this creek begining
+at or near where *person_mentioned*Allcorn */person_mentioned*desires haveing his upper line run thense<barker_pb n="1651"/>
+extending up for quantity so as to include sd branch of the creek*/location_mentioned* it
+being not a permanent stream without pen ink or paper it is 
+necessary to be laconick*/p*
+
+*p**person_mentioned*Tacitus Clay*/person_mentioned**/p*
+*p**date_mentioned n="05-31-1827">May the 31th—1827*/date_mentioned*.*/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

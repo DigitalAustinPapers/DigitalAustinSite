@@ -1,0 +1,60 @@
+﻿
+<TEI.2 id="APB2047">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>06-25-1825</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 1140-1141</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>David W Price</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F Austin</document_recipient>
+<document_title>David W Price to Stephen F Austin, 06-25-1825</document_title>
+<document_location>
+	<sent_from>Colorado, Texas</sent_from>
+	<sent_to>San Felipe de Austin, Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>David W. Price to Austin, June 25, 1825.    Sale of cattle.    Specie payment.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1140-1141</barker_citation>
+</barker_notes>
+<document_digital_creation>12-17-1825</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB2047T">
+
+<body>
+*div1 type="summary"*
+*p*David W. Price to Austin, June 25, 1825.    Sale of cattle.    Specie payment.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Colorado */location_mentioned**date_mentioned n="06-25-1825">June 25 1825*/date_mentioned**/p*
+*p*Dear Sir   In consequence of having the fiver I depetise *person_mentioned*Mr.
+Beard*/person_mentioned* to sell the cattle for me   You will take the whole stock cows
+and calves at $12 the young stock averaging in proportion.<barker_pb n="1141"/>
+cow and calfe at *location_mentioned**person_mentioned*Mr. Parker*/person_mentioned*s*/location_mentioned* you will also receive let me have
+specie for paper will not answer where I am going I send you back
+A ten Dollar note in paying *person_mentioned*Mr. Beard*/person_mentioned* deduct $20 for what I owe
+you   My hands trembles so I canot write more*/p*
+
+*p**person_mentioned*David W. Price*/person_mentioned*    [Rubric]*/p*
+
+*p*[Addressed:] *person_mentioned*Colnel Stephen F Austin*/person_mentioned* *location_mentioned*St philipa de Austin*/location_mentioned**/p*
+
+
+*/div1*
+</body>
+</text>
+</TEI.2>

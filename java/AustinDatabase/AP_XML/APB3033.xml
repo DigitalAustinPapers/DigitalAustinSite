@@ -1,0 +1,58 @@
+﻿
+<TEI.2 id="APB3033">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>11-25-1825</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1235</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>George S. Pentacost</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F. Austin</document_recipient>
+<document_title>George S. Pentacost to Stephen F. Austin, 11-25-1825</document_title>
+<document_location>
+	<sent_from>San Bernard River, Texas</sent_from>
+	<sent_to>San Felipe de Austin, Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Personal business.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1235</barker_citation>
+</barker_notes>
+<document_digital_creation>06-08-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Cameron L. Sinclair, Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB3033T">
+
+<body>
+*div1 type="summary"*
+*p*Personal business.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Rio San Bernard*/location_mentioned* *date_mentioned n="11-25-1825">25th Novm 1825*/date_mentioned**/p*
+*p*Sir as circumstances prevent me from comeing to *location_mentioned*Town*/location_mentioned* as, I calculated you will be so good as to transmit the money, (if paid over to
+you from *person_mentioned*Coles*/person_mentioned*) to me by *person_mentioned*Mr. Curtis*/person_mentioned* and relieve me from verry
+pressing wants indeed and you will vary much oblige.*/p*
+
+*p**person_mentioned*Geo S. Pentacost*/person_mentioned**/p*
+*p*P. S.   You will please to keep back in your possession the money
+you loaned me*/p*
+
+*p**person_mentioned*Geo. S P*/person_mentioned**/p*
+*p*[Addressed:] *person_mentioned*Conl. S. F Austin*/person_mentioned*—*location_mentioned*San Felippe de Austin*/location_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

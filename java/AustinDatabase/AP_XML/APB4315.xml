@@ -1,0 +1,73 @@
+﻿
+<TEI.2 id="APB4315">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>01-24-1832</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 740</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Juan Davis Bradburn</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F Austin</document_recipient>
+<document_title>Juan Davis Bradburn to Stephen F Austin, 01-24-1832</document_title>
+<document_location>
+	<sent_from>Anahuac, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Juan Davis Bradburn to Austin, January 24, 1832. Fixing a rendezvous to
+discuss public affairs.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 740</barker_citation>
+</barker_notes>
+<document_digital_creation>09-19-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4315T">
+
+<body>
+*div1 type="summary"*
+*p*Juan Davis Bradburn to Austin, January 24, 1832. Fixing a rendezvous to
+discuss public affairs.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Anahuac */location_mentioned**date_mentioned n="01-24-1832">January 24th 1832*/date_mentioned**/p*
+*p*My esteemed*person_mentioned* Colonel Austin*/person_mentioned**/p*
+
+*p*I have seen*person_mentioned* Mr McKinney*/person_mentioned* and received his information 
+respecting public tranquility of which I was previously in possession I
+hear with pleasure your proposed interview and should be happy to
+go as far as*location_mentioned* Saint Philipe */location_mentioned*to meet you, as I consider you very weak
+from your exhausting sickness, if my manifold avocations, and more
+numerous embarasments, expecting every moments *person_mentioned*trops */person_mentioned*from
+*location_mentioned*Matamoros*/location_mentioned*, directing the various *location_mentioned*sections of Publeck Works*/location_mentioned* on this
+*location_mentioned*Point*/location_mentioned*, *location_mentioned*Land office*/location_mentioned* business, and other negociations, did not employ
+my existence the most shackled of human beings, yet I shall make an
+exertion, and will meet you at any place you will appoint on the
+*location_mentioned*San Jacinto*/location_mentioned* or the *location_mentioned*Buffalo Bayo.*/location_mentioned**/p*
+
+*p*I have not answered your letter handed me by*person_mentioned* Mr. Treet*/person_mentioned* and
+which threw me into some consternation it might create an arduous,
+if not an insuperable difficulty in any person placed in my posetion
+and circumstances to do so without very poignant feeling and 
+communicating the same perhaps to his correspondent however our
+polished atmosphere seems more serene and I shall meet jovl when
+and as soon as you please*/p*
+
+*p**person_mentioned*Juan Davis Bradburn  */person_mentioned*  [Rubric]*/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

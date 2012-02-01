@@ -1,0 +1,107 @@
+﻿
+<TEI.2 id="APB2111">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>09-10-1825</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 1197-1198</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Stephen F Austin</document_author>
+<document_sender></document_sender>
+<document_recipient>Mateo Ahumada</document_recipient>
+<document_title>Stephen F Austin to Mateo Ahumada, 09-10-1825</document_title>
+<document_location>
+	<sent_from>San Felipe de Austin, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Austin to Mateo Ahumada, September 10, 1825. Concerning plan of procedure against Comanches and their allies. Austin's desire to maintain neutrality.   Karankawa hostilities resumed.</barker_summary>
+	<barker_footnotes>Nacogdoches Archives, translation from Bexar Archives, Texas State Library. The
+original is also in the collection, and there is a copy in Austin's Blotter, in file of August
+26, 1824.</barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1197-1198</barker_citation>
+</barker_notes>
+<document_digital_creation>12-26-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB2111T">
+
+<body>
+*div1 type="summary"*
+*p*Austin to Mateo Ahumada, September 10, 1825. Concerning plan of procedure against Comanches and their allies. Austin's desire to maintain neutrality.   Karankawa hostilities resumed.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p*I received, *date_mentioned n="09-09-1825">yesterday*/date_mentioned*, your two communications of the *date_mentioned n="08-21-1825">21st */date_mentioned*and
+*date_mentioned n="08-26-1825">26th of August last*/date_mentioned*; the first, instructing me to gather the *person_mentioned*largest
+force possible*/person_mentioned* and to march immediately and chastise the *person_mentioned*Tahuacanos*/person_mentioned*
+and *person_mentioned*Tahuiases */person_mentioned**location_mentioned*in their villages*/location_mentioned*; the second countermanding that
+order in consequence of a report received by you, to the effect that
+the *person_mentioned*hostile Commanches*/person_mentioned* were in those *location_mentioned*villages*/location_mentioned*, and might encounter
+us in considerable number, were we to attack them at present. I
+had received a similar report from some *person_mentioned*hunters*/person_mentioned*, and was also 
+apprized that the *person_mentioned*Commanches*/person_mentioned*, *person_mentioned*Tahuacanos*/person_mentioned*, *person_mentioned*Tahuiases */person_mentioned*and *person_mentioned*Cherokees*/person_mentioned*
+have made a treaty of peace and close alliance. I cannot say whether
+this last report deserves credit, but it seems to me very probable,<barker_pb n="1198"/>
+considering the antecedents which I have communicated to *person_mentioned*His
+Lordship, the Political Chief of the Department*/person_mentioned*.*/p*
+
+*p*Some *person_mentioned*Americans */person_mentioned*recently arrived from the *location_mentioned*Tahuacano villages*/location_mentioned*,
+told me, that the *person_mentioned*Chiefs of that tribe*/person_mentioned* assured them it was not their
+intention to be hostile with the *person_mentioned*Americans*/person_mentioned*, that the last 
+depredations were committed by some *person_mentioned*Tahuiases */person_mentioned*of *location_mentioned*a village situated far
+up on Red River*/location_mentioned*, that they, (The *person_mentioned*Tahuacanos*/person_mentioned*) wished to make a
+treaty of peace with the *person_mentioned*Americans*/person_mentioned*.*/p*
+
+*p*If the proposal I have made to the *person_mentioned*Political Chief of the 
+Department*/person_mentioned*, in my communication of the *date_mentioned n="09-08-1825">8th Instant*/date_mentioned*, is approved, I expect
+there will be no difficulty in preserving these *person_mentioned*settlers */person_mentioned*from *person_mentioned*Indian*/person_mentioned*
+hostilities, if we avail ourselves of the friendly disposition of these
+*person_mentioned*Indians */person_mentioned*towards the *person_mentioned*Americans*/person_mentioned*. However, in this, as in any other
+case, we shall remain at the disposal of the *person_mentioned*government*/person_mentioned*, ready to obey
+and execute its orders; nothing but the critical circumstances in
+which we are placed, could induce me to think of a proposal of the
+kind. I request you to favor me with as early an answer on this
+subject as is possible, to enable me to take, without loss of time, the
+necessary steps either for war, or for neutrality with the *person_mentioned*Indians*/person_mentioned*.
+It is not possible, at present, to raise a sufficient force to attack the
+*location_mentioned*Indian villages*/location_mentioned*, owing to the number of our *person_mentioned*sick men*/person_mentioned*, and, in 
+*date_mentioned n="10-xx-1825">October*/date_mentioned*, the *person_mentioned*Indians */person_mentioned*will leave their *location_mentioned*villages */location_mentioned*to go buffalo hunting; so
+that if war, or peace is determined upon, it will be necessary to start
+before the *date_mentioned n="10-15-1825">15th of October*/date_mentioned*.*/p*
+
+*p*In consequence of the continuous hostilities of the *person_mentioned*Carancahuase
+Indians*/person_mentioned*, and considering the conditions of the treaty of peace we
+made with them at *location_mentioned*La Bahia*/location_mentioned*, in *date_mentioned n="09-xx-1824">September last*/date_mentioned*; which was broken
+by them without any cause whatever, and *person_mentioned*one of their parties*/person_mentioned* having
+lately shown themselves between the *location_mentioned*Colorado */location_mentioned*and *location_mentioned*Brazos*/location_mentioned*, and in
+the *location_mentioned*vicinity of some of the settlements*/location_mentioned* making hostile manifestations,
+I have been compelled in view of the security of our people, to give
+positive orders to the *person_mentioned*Lieutenant of Militia*/person_mentioned* *location_mentioned*in that section*/location_mentioned*, to pursue
+and kill all those *person_mentioned*Indians */person_mentioned*wherever they are found, with the 
+exception of *person_mentioned*Prudencia's party*/person_mentioned*, provided said *person_mentioned*Prudencia */person_mentioned*remains *location_mentioned*West
+of Buffalo Bayou*/location_mentioned*, because it would be impossible to make a 
+distinction between *person_mentioned*his people and the others*/person_mentioned*, if they continue mixed 
+together in *location_mentioned*our vicinity*/location_mentioned*. Which I communicate to you in order that
+you may be pleased to approve this measure, or to give me such
+orders and instructions as you deem proper, and which shall be
+strictly obeyed.*/p*
+
+*p*God and Liberty.                                            *person_mentioned*Estevan F. Austin*/person_mentioned*.*/p*
+
+*p**location_mentioned*San Felipe de Austin*/location_mentioned*, *date_mentioned n="09-10-1825">September 10th, 1825*/date_mentioned*.*/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

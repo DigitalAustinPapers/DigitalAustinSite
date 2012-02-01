@@ -1,0 +1,87 @@
+﻿
+<TEI.2 id="APB4034">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>09-25-1830</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 498</document_citation>
+<document_language>English</document_language>
+<document_status>Public</document_status>
+<document_type>Editorial</document_type>
+<document_author>Stephen F Austin</document_author>
+<document_sender></document_sender>
+<document_recipient>Texas Gazette</document_recipient>
+<document_title>Stephen F Austin to Texas Gazette, 09-25-1830</document_title>
+<document_location>
+	<sent_from>Unknown</sent_from>
+	<sent_to>San Felipe de Austin, Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Editorial by Austin in Texas Gazette, September 25, 1830. Friendly disposition of Government toward Texas. Need of judiciary reform and separation from Coahuila.</barker_summary>
+	<barker_footnotes> Sept. 25, 1830.    Written by Austin</barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 498</barker_citation>
+</barker_notes>
+<document_digital_creation>08-27-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4034T">
+
+<body>
+*div1 type="summary"*
+*p*Editorial by Austin in Texas Gazette, September 25, 1830. Friendly disposition of Government toward Texas. Need of judiciary reform and separation from Coahuila.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p*Letters have been received by a *person_mentioned*gentleman */person_mentioned*in this *location_mentioned*place */location_mentioned*from 
+*person_mentioned*persons high in office */person_mentioned*and in the confidence of the nation. Their letters
+express the most friendly and natural disposition towards this and
+all other *location_mentioned*colonies */location_mentioned*or *location_mentioned*settlements in Texas*/location_mentioned* that have been legally 
+established. Great solicitude is manifested in these letters for the
+prosperity of this *location_mentioned*country*/location_mentioned*, and for its advancement. They say in
+positive terms, that none of the rumors which agitated public 
+opinion as to *location_mentioned*Texas */location_mentioned**date_mentioned n="Spring-1830">last spring*/date_mentioned* had their origin from this *location_mentioned*colony*/location_mentioned*; neither
+has there ever been any unfavorable impression against it. These
+rumors, they say, originated from a great mass of *location_mentioned*newspaper */location_mentioned*and
+*location_mentioned*other publications*/location_mentioned* in the *location_mentioned*U. S of the north*/location_mentioned*—stating among
+other things, that swarms of *person_mentioned*adventurers */person_mentioned*and *person_mentioned*fugitives */person_mentioned*from justice,
+who could remain no longer in their *location_mentioned*country*/location_mentioned*, were about to overrun
+and occupy *location_mentioned*Texas*/location_mentioned*. Such an event would have been ruinous to the
+tranquility and prosperity of this *location_mentioned*country*/location_mentioned*, and therefore demanded
+the prompt attention of the government.*/p*
+
+*p*It must be confessed that publications similar to that by "A 
+revolutionary officer," and many others which contain nothing but <hi rend="italic">base
+and infamous slanders</hi> were well calculated to ruin us, both in
+*location_mentioned*Mexico */location_mentioned*and in *location_mentioned*foreign countries*/location_mentioned*. There is cause to suspect that one
+of the great objects of these *person_mentioned*slanderous scribblers*/person_mentioned* was to stop the
+emigration from the *location_mentioned*U. S. of the north*/location_mentioned*, or from other *location_mentioned*foreign
+countries*/location_mentioned* to *location_mentioned*Texas*/location_mentioned*. . . . They appear to have acted on the 
+principle <hi rend="italic">to make *location_mentioned*Texas */location_mentioned*a part of the*location_mentioned* U. S. of the North*/location_mentioned*, or to keep it
+down and consign it for years to the *location_mentioned*wilderness */location_mentioned*and the occupancy
+of the *person_mentioned*Indians */person_mentioned*by damning its reputation so that no Honest, wealthy
+or civilized *person_mentioned*man*/person_mentioned*, would remove to it</hi>.   .   .   .*/p*
+
+*p*We have in former numbers of the *location_mentioned*Gazette */location_mentioned*stated that the cause,
+<hi rend="italic">and the sole cause</hi>, of any and all the little bickerings and confusion
+that may have existed in *location_mentioned*Texas*/location_mentioned*, since *date_mentioned n="xx-xx-1821">1821*/date_mentioned*, have proceded from
+the want of a proper organization of the *person_mentioned*local government*/person_mentioned*, and
+especially of the *person_mentioned*judiciary*/person_mentioned*. In this respect a change is necessary,
+and is daily becoming more so. It has become a matter of serious
+doubt whether *location_mentioned*Texas */location_mentioned*will ever rise or prosper, so long as it is united
+with *location_mentioned*Coahuila*/location_mentioned*. The question of separating, with the view of 
+forming a *person_mentioned*territorial government*/person_mentioned*, as a *location_mentioned*territory of this nation*/location_mentioned*, is 
+beginning to occupy much of the public attention. This is a serious
+question, and merits the most calm and mature reflection.*/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

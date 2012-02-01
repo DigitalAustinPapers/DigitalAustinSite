@@ -1,0 +1,61 @@
+﻿
+<TEI.2 id="APB1952">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>06-04-1830</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 407</document_citation>
+<document_language>English</document_language>
+<document_status>private</document_status>
+<document_type>Account</document_type>
+<document_author>James Austin</document_author>
+<document_sender></document_sender>
+<document_recipient>Dr. Wells</document_recipient>
+<document_title>James Austin to Dr. Wells, 06-04-1830</document_title>
+<document_location>
+	<sent_from>Unknown</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>James Austin to Francis F. Wells, June 4, 1830.   Doctor's bill.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 407</barker_citation>
+</barker_notes>
+<document_digital_creation>08-21-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1952T">
+
+<body>
+*div1 type="summary"*
+*p*James Austin to Francis F. Wells, June 4, 1830.   Doctor's bill.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**person_mentioned*James Austin*/person_mentioned* To *person_mentioned*Francis F Wells  */person_mentioned* Dr*/p*
+
+*p**date_mentioned n="06-01-1830">June 1st*/date_mentioned* Visit to *person_mentioned*Mr Bells*/person_mentioned* prescription etc__________________________   $2.00*/p*
+
+*p*2nd Visit to *person_mentioned*Mr Bells*/person_mentioned* prescription Emetic and staying all day___   5.00*/p*
+
+*p*3rd Attention through day and night at my *location_mentioned*house*/location_mentioned*_______________     5. 00*/p*
+
+*p*4th Attention through day and night__________________________     5.00*/p*
+
+*p*$17.00*/p*
+*p**date_mentioned n="xx-xx-1830">1830*/date_mentioned*   Recd, payment*/p*
+
+*p**person_mentioned*Francis F Wells*/person_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

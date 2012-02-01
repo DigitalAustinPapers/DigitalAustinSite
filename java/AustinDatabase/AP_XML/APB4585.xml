@@ -1,0 +1,199 @@
+﻿
+<TEI.2 id="APB4585">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>07-24-1833</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 988-991</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Stephen F Austin</document_author>
+<document_sender></document_sender>
+<document_recipient>Central Committee</document_recipient>
+<document_title>Stephen F Austin to Central Committee, 07-24-1833</document_title>
+<document_location>
+	<sent_from>City of Mexico</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Austin to central committee Mexico, July 24, 1833. Reporting incidents of journey. Officials friendly and he hopes for success. Advises organization of State government if petition is denied.</barker_summary>
+	<barker_footnotes>From a handbill printed at Brazoria, Oct. 3, 1883.   Texas State Library,</barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 988-991</barker_citation>
+</barker_notes>
+<document_digital_creation>11-29-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4585T">
+
+<body>
+*div1 type="summary"*
+*p*Austin to central committee Mexico, July 24, 1833. Reporting incidents of journey. Officials friendly and he hopes for success. Advises organization of State government if petition is denied.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*City of Mexico*/location_mentioned*, *date_mentioned n="07-24-1833">July 24, 1833*/date_mentioned*.*/p*
+*p*To the *person_mentioned*Central Committee*/person_mentioned*:*/p*
+
+*p*My letter from *location_mentioned*Vera-Cruz*/location_mentioned*, dated *date_mentioned n="07-03-1833">3d instant*/date_mentioned*, informed you of the
+many untoward circumstances that retarded my journey to that
+place. When I wrote from *location_mentioned*Matamoras*/location_mentioned*, on the *date_mentioned n="05-30-1833">30th May*/date_mentioned*, I expected
+to have reached *location_mentioned*Vera Cruz*/location_mentioned* in Six days, and this place in six or seven
+more, I left *location_mentioned*Vera Cruz*/location_mentioned* on the *date_mentioned n="07-05-1833">5th */date_mentioned*in the stage, and arrived at
+*location_mentioned*Jalapa */location_mentioned*on the *date_mentioned n="05-06-1833">6th*/date_mentioned*, where I received information of the siege of
+*location_mentioned*Puebla */location_mentioned*by *person_mentioned*Arista */person_mentioned*and *person_mentioned*Duran*/person_mentioned*—-and that the road was occupied on
+both sides of the city of *location_mentioned*Puebla */location_mentioned*by their *person_mentioned*troops*/person_mentioned*, and all 
+communication with *location_mentioned*Mexico */location_mentioned*cut off. On the *date_mentioned n="07-08-1833">8th */date_mentioned*I was told that the stage was
+allowed to pass the lines, though the danger of *person_mentioned*robbers */person_mentioned*was great—
+and I intended to have proceeded in the stage on the *date_mentioned n="07-09-1833">9th*/date_mentioned*,   But on<barker_pb n="989"/>
+that day a new and unexpected difficulty arose—my passport was
+from the *person_mentioned*Commandant General, D. Vincente Filisola*/person_mentioned*, and it was
+therefore necessary to present myself to the *person_mentioned*military authorities*/person_mentioned* *location_mentioned*on
+the road.*/location_mentioned* At *location_mentioned*Vera Cruz*/location_mentioned* I called twice (on the *date_mentioned n="07-02-1833">2d*/date_mentioned*, the day I landed,
+and on the *date_mentioned n="07-03-1833">3d*/date_mentioned*) on the *person_mentioned*Commandant General*/person_mentioned* of that place, and
+exhibited my passport. He told me verbally I could proceed on my
+journey, but did not endorse my passport. Owing to the want of
+this formality, I was detained at *location_mentioned*Jalapa */location_mentioned*by the *person_mentioned*commandant*/person_mentioned*, and
+could not proceed until I sent to *location_mentioned*Vera Cruz*/location_mentioned*, so that I did not reach
+this place until the *date_mentioned n="07-18-1833">18th inst*/date_mentioned*. *location_mentioned*Puebla */location_mentioned*was heroically defended by
+*person_mentioned*Gen. Guadalupe Victoria*/person_mentioned*, with the *person_mentioned*militia */person_mentioned*of the *location_mentioned*city*/location_mentioned*, hastily 
+collected for the purpose. The *person_mentioned*regular troops*/person_mentioned* had all gone over to the
+other side previously, and left *person_mentioned*Victoria */person_mentioned*without any resources except
+the patriotism of the *person_mentioned*people of *location_mentioned*Puebla*/location_mentioned**/person_mentioned*. With the *person_mentioned*militia */person_mentioned*he defeated
+*person_mentioned*Arista */person_mentioned*and *person_mentioned*Duran */person_mentioned*in their attempt to get possession of the *location_mentioned*city*/location_mentioned*; and
+they retreated to the vicinity of this *location_mentioned*city*/location_mentioned*. They are now *location_mentioned*within
+four leagues*/location_mentioned*, on the retreat, in the direction of *location_mentioned*Queretaro*/location_mentioned*. *person_mentioned*Santa
+Anna */person_mentioned*is in close pursuit of them, and no doubt is entertained of a
+speedy termination of the *person_mentioned*crusaders */person_mentioned*and the final triumph of the
+*person_mentioned*liberal party*/person_mentioned*. I presume you have seen the Plan of *person_mentioned*Arista and
+Duran*/person_mentioned*—its basis is Religeon and a large standing *person_mentioned*Army*/person_mentioned*. They will
+fail in toto, and the result will be another triumph for *person_mentioned*Santa Anna
+*/person_mentioned*and a complete dissolution of the *person_mentioned*aristocratic party*/person_mentioned* and influence.*/p*
+
+*p*I called on the *person_mentioned*Ministers */person_mentioned*on the *date_mentioned n="07-19-1833">19th*/date_mentioned*, and they appointed the
+*date_mentioned n="07-23-1833">23d */date_mentioned*(yesterday) to have an interview on the subject of my mission.
+I also called on the *person_mentioned*Vice-President*/person_mentioned*; my reception was truly kind
+and friendly, particularly in the interview yesterday with the *person_mentioned*two
+Ministers of Relations and Justice, Garcia and Arispe*/person_mentioned*. They were
+fully informed of the objects of my Mission by my communication
+from *location_mentioned*Matamoras */location_mentioned*through the *person_mentioned*Commandant Gen*/person_mentioned*. and had received
+the memorial of the Convention which I forwarded from that place.
+I explained at large and with some detail the situation of *location_mentioned*Texas*/location_mentioned*
+and the necessity of erecting it into a *location_mentioned*State*/location_mentioned*. The leading points on
+which I rested our claims were:*/p*
+
+*p*First—The wish of the *person_mentioned*people */person_mentioned*and their declaration that they
+possessed the necessary elements to sustain a *person_mentioned*State Government*/person_mentioned*.*/p*
+
+*p*Second—The natural right of *location_mentioned*Texas */location_mentioned*to occupy its station alongside
+of its sisters, the other *location_mentioned*States of the Confederation*/location_mentioned*. It has always
+been a distinct *location_mentioned*member of the Mexican family*/location_mentioned* and as such fought
+for the Independence, etc., and its being for a time under age did
+not in any manner weaken its rights now that it was in a situation
+to enter upon them, etc.*/p*
+
+*p*Third—The law of the *date_mentioned n="05-07-1824">7th May, 1824*/date_mentioned*. I positively denied the
+right of *location_mentioned*Coahuila */location_mentioned*to approve or disapprove of our separation.<barker_pb n="990"/>
+also stated that *location_mentioned*Texas */location_mentioned*did not, and would not, recognize the principle
+that it was necessary to apply to the other *location_mentioned*states */location_mentioned*of the 
+*location_mentioned*confederation */location_mentioned*for their approbation. We were now entering upon a natural
+and imprescriptable right, which belonged to us before the formation
+of the Constitution, and one which the provisional union with
+*location_mentioned*Coahuila */location_mentioned*did not, and could not, weaken in any manner whatever, etc.*/p*
+
+*p*Fourth—The duty and the interest of *location_mentioned*Texas */location_mentioned*to cement and
+strengthen its union with the *location_mentioned*Mexican confederation*/location_mentioned*—the indirect
+union as an appendage of *location_mentioned*Coahuila */location_mentioned*being very precarious, and liable
+to be broken at any time.*/p*
+
+*p*Lastly—The right and the duty of every *person_mentioned*people */person_mentioned*to save 
+themselves from anarchy and ruin! On this last point I enlarged very
+much, as I also did on the 4th. I distinctly stated as my opinion
+that self-preservation would compel the *person_mentioned*people of *location_mentioned*Texas*/location_mentioned**/person_mentioned* to organize
+a *person_mentioned*local government*/person_mentioned*, with or without the approbation of the *person_mentioned*General
+Government*/person_mentioned*—that this measure would not proceed from any hostle
+views to the permanent union of *location_mentioned*Texas */location_mentioned*with *location_mentioned*Mexico*/location_mentioned*, but from 
+absolute necessity, to save themselves from anarchy and total ruin. How
+such a measure would affect the union of *location_mentioned*Texas */location_mentioned*with *location_mentioned*Mexico*/location_mentioned*, or
+where it would end, were matters worthy of serious reflection.*/p*
+
+*p*I will give the answer of the two *person_mentioned*Ministers*/person_mentioned*, *person_mentioned*Garcia */person_mentioned*and *person_mentioned*Arispe*/person_mentioned*,
+as nearly verbatim as I can recollect. I do not pledge myself for
+the accuracy of the words, but I do for that of the substance:*/p*
+
+*p*This *person_mentioned*Government */person_mentioned*will examine the pretensions of *location_mentioned*Texas */location_mentioned*to become a *location_mentioned*State
+of this Confederation*/location_mentioned*, with the most friendly disposition towards the *person_mentioned*people
+of that *location_mentioned*remote section*/location_mentioned**/person_mentioned*, and in conformity with the broad and liberal 
+principles of the federal system, adopted by the *location_mentioned*Mexican Republic*/location_mentioned*, We wish to
+see every portion of the *location_mentioned*confederation */location_mentioned*governed in accordance with these
+principles, and of those of the age in which we live. We admit that *location_mentioned*Texas*/location_mentioned*
+has just cause to complain of the *person_mentioned*Legislature of *location_mentioned*Coahuila*/location_mentioned**/person_mentioned*, The *person_mentioned*people of
+*location_mentioned*Texas*/location_mentioned**/person_mentioned* may therefore expect that their application will be considered, and
+their just requests granted, so far as it is within The Constitutional powers
+of the *person_mentioned*Government */person_mentioned*to grant them.*/p*
+
+*p*The interview was long, and frank. I was requested to put my
+ideas in writing. They are pretty much all embraced in the
+Memorial, but I thought it would be better to condense them under
+separate heads or points.*/p*
+
+*p*So soon as I get the Constitution translated and a new translation
+of the Memorial (the first being defective) I will lay the whole
+matter before the *person_mentioned*Government*/person_mentioned*.*/p*
+
+*p*I believe that *location_mentioned*Texas */location_mentioned*will be a *location_mentioned*State of this Confederation*/location_mentioned* with
+the approbation of this *person_mentioned*Government */person_mentioned*before long. I form this
+opinion from the information of many persons of influence, all of
+whom confirm the friendly disposition expressed by the *person_mentioned*Ministers*/person_mentioned*.
+Should I be incorrect in this conclusion there will be but one course,<barker_pb n="991"/>
+one remedy left, and that is for *location_mentioned*Texas */location_mentioned*to adopt the alternative I
+informed the *person_mentioned*Ministers */person_mentioned*self preservation would compel it to adopt.
+The *person_mentioned*people */person_mentioned*therefore must organize without any more applications
+or delay.*/p*
+
+*p*It is pretty well known in *location_mentioned*Texas */location_mentioned*that I have pursued conciliation
+as a system; some think I have adhered to it too long, and too
+obstinately. I do not think so, placed under the circumstances I
+was. However, this is a mere matter of opinion and is of no 
+consequence. My conciliatory course has not compromised any of the
+rights of *location_mentioned*Texas*/location_mentioned*; on the contrary, it has settled that *location_mentioned*country*/location_mentioned*, and in
+times past saved it from many evils. Clamors and importunities
+could not force me from my old rule. You ought, therefore, to
+believe that my judgment is now convinced that *location_mentioned*Texas*/location_mentioned*, in this
+question of right to become a *location_mentioned*State*/location_mentioned*, must be uncompromising. I
+am placed in a situation here to form a more correct opinion as to
+what course will be best calculated to secure the prosperity of *location_mentioned*Texas*/location_mentioned*,
+and its permanent union with *location_mentioned*Mexico*/location_mentioned*, than I was in that remote
+section.*/p*
+
+*p*I therefore reiterate the opinion, and I place it on the footing of
+a recommendation, that should our application be refused, *location_mentioned*Texas*/location_mentioned*
+ought to organize a *person_mentioned*local government*/person_mentioned* with as little delay as 
+possible—but always on the basis that it is a part of the *location_mentioned*Mexican
+Confederation*/location_mentioned*, a younger sister who adopts this mode of entering
+upon her rights, now that she is of age, because unnecessary 
+embarrassments are interposed which are unconstitutional, unjust,
+inexpedient and ruinous.*/p*
+
+*p*I also recommend tranquillity and obedience to the laws—these
+are the first duties of a *person_mentioned*citizen*/person_mentioned*. Wait for a definite answer. The
+moment I get one, or am convinced that delay is the object, I will
+leave here and hasten *location_mentioned*home */location_mentioned*to unite in executing the 
+recommendations I have made.*/p*
+
+*p*Your Fellow-Citizen and Obedient Servant.*/p*
+
+*p**person_mentioned*Stephen F. Austin*/person_mentioned*.*/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,74 @@
+﻿
+<TEI.2 id="APB1830">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>01-03-1830</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 01-03-1830</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Matthew G White</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F Austin</document_recipient>
+<document_title>Matthew G White to Stephen F Austin, 01-03-1830</document_title>
+<document_location>
+	<sent_from>Atascaceto District, Texas</sent_from>
+	<sent_to>San Felipe de Austin, Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Matthew G. White to Austin, January 3, 1830. Asks Austin concerning duties of alcalde. How exclude from the settlement persons expelled from the United States for kidnaping negroes.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 01-03-1830</barker_citation>
+</barker_notes>
+<document_digital_creation>08-17-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1830T">
+
+<body>
+*div1 type="summary"*
+*p*Matthew G. White to Austin, January 3, 1830. Asks Austin concerning duties of alcalde. How exclude from the settlement persons expelled from the United States for kidnaping negroes.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Atascaceto District*/location_mentioned* *date_mentioned n="01-03-1830">January 3d, 1830*/date_mentioned**/p*
+*p*Dear Sir, being at this time by the wish of my *location_mentioned*district */location_mentioned*appointed
+to the discharge of the duties of *person_mentioned*Alcalde */person_mentioned*and being totaly destitute of
+the laws of the *location_mentioned*Republic */location_mentioned*I have presumed knowing your zeal and
+devotion to the interest and welfare of your adopted *location_mentioned*country */location_mentioned*to
+intrude so far upon your patience as in this way to ask in behalf of
+my fellow *person_mentioned*citizens */person_mentioned*what some of the prime duties and powers of the
+*person_mentioned*Alcalde */person_mentioned*are but the principal object of this letter is to obtain of you
+a sleight account of what course should be taken with such 
+*person_mentioned*individuals */person_mentioned*as are a constant annoyance to our *location_mentioned*settlement */location_mentioned*on account
+of their habitual habit of stealing and other wrongs at this time
+there are two *person_mentioned*men*/person_mentioned* a certain *person_mentioned*Yocum*/person_mentioned*, and *person_mentioned*Grosvenor */person_mentioned*who for the
+basest of crimes to wit—The kidnapping of a whole *person_mentioned*family */person_mentioned*of
+*person_mentioned*colored persons*/person_mentioned* and attempting to sell them after they had murdered
+the *person_mentioned*father */person_mentioned*as is supposed, were driven across the *location_mentioned*Sabine */location_mentioned*and their
+*location_mentioned*houses */location_mentioned*were burned by *person_mentioned*Col. Manning*/person_mentioned* of the *location_mentioned*USA Garrison*/location_mentioned*, now
+these same *person_mentioned*men */person_mentioned*are attempting to locate themselves in this *location_mentioned*district*/location_mentioned*
+and I have thus far presumed to trouble you with the hope that you
+will have the goodness to give me in your answer such necessary 
+information as will afford us some clue to the method by which we
+may rid ourselves of such *person_mentioned*persons */person_mentioned*as are so great a pest and annoyance
+to our *location_mentioned*settlement*/location_mentioned*.*/p*
+
+*p**person_mentioned*Matthew G. White Alc[ade]*/person_mentioned**/p*
+*p*Poscript   these *person_mentioned*men */person_mentioned*have a number of *person_mentioned*Negroes */person_mentioned*in the *location_mentioned*settlement*/location_mentioned*
+and I am not advised what I should do with them,*/p*
+*p*[Addressed:] *person_mentioned*Stephen F. Austin*/person_mentioned*   *location_mentioned*St, Phillippi*/location_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

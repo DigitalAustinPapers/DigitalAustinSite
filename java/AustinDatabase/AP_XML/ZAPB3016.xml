@@ -1,0 +1,118 @@
+﻿
+<TEI.2 id="APB3016">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>10-15-1825</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1223-1224</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>William A. Sheldon</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F. Austin</document_recipient>
+<document_title>William A. Sheldon to Stephen F. Austin, 10-15-1825</document_title>
+<document_location>
+	<sent_from>New Orleans, Louisiana</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Asks information concerning terms of settlement, conditions of cotton culture, etc. Some cotton trade already between Texas and New Orleans.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1223-1224</barker_citation>
+</barker_notes>
+<document_digital_creation>06-02-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Cameron L. Sinclair, Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB3016T">
+
+<body>
+<div1 type="summary">
+<p>Asks information concerning terms of settlement, conditions of cotton culture, etc. Some cotton trade already between Texas and New Orleans.</p>
+</div1>
+
+<div1 type="body">
+
+<p><location_mentioned>New Orleans</location_mentioned> <date_mentioned n="10-15-1825">October 15th 1825</date_mentioned></p>
+<p><person_mentioned>Stephen Austin Esqr</person_mentioned></p>
+
+<p>Respected Sir,— You will have the goodness to pardon the
+self-introduction of an individual whose only object is to obtain
+information of your section of the <location_mentioned>country</location_mentioned>. For some years past I
+have been located in this <location_mentioned>city</location_mentioned>, and permanently established as a
+<person_mentioned>Druggist </person_mentioned>in society with <person_mentioned>Mr. Saml D. Dixon</person_mentioned> under the firm of <person_mentioned>Sheldon and Dixon</person_mentioned>. It is possible that our <person_mentioned>house </person_mentioned>may not be unknown
+to some of the <person_mentioned>settlers</person_mentioned> in your <location_mentioned>neighbourhood</location_mentioned>, who will assure you
+that my inquiries do not arise out of iddle curiosity— Public report holds out many inducements to persons discontented with their
+localities, to emigrate to <location_mentioned>Texas</location_mentioned>, and 'tis not unfrequently in my
+travels in the <location_mentioned>western states</location_mentioned> that I have questions asked me, I am
+unable to reply to, particularly as regards the grants of yourself
+and <person_mentioned>Mr. Edwards</person_mentioned>.— The information I receive, is vague and unsatisfactory, and in many instances contradictory, but generally
+favourable to your <location_mentioned>settlement</location_mentioned>— It would be highly gratifying to
+impart information to others by authority emanating directly from
+yourself.—</p>
+
+<p>I have been frequently solicited by <person_mentioned>Col. Charles Morgan</person_mentioned>, of the
+<location_mentioned>parish of Point Coupée</location_mentioned>, a rich and respectable <person_mentioned>Planter</person_mentioned>, to address
+you on the subject of the culture of cotton in <location_mentioned>Texas</location_mentioned>, and whether any
+experiments have come under your own observation, where the
+transplanting of the seed to prevent Rot has been successful.— a
+letter from him last mail induced me, to open a correspondence with
+you, submitting to your option its continuence—</p>
+
+<p>I am under the impression that a small Parcel of Texican cotton
+was gin'd here <date_mentioned n="xx-xx-1824">last year</date_mentioned>, and the seed is in our present crop. It is
+generally admitted that a change of Seed affords the best preventive known, against a premature decay of the Cotton Plant and the
+Southern seed by experiments of <person_mentioned>Col. Morgan</person_mentioned> and <person_mentioned>Ledoux</person_mentioned> is, by
+them supposed to be far preferable to that generally planted from
+the importations from <location_mentioned>Kentucky</location_mentioned>, <location_mentioned>Alabama</location_mentioned> etc. It is also thought
+by them that seed from <location_mentioned>Texas</location_mentioned> <hi rend="italic">might</hi> be obtained with more facility,
+and that the staple of <location_mentioned>Louisiana</location_mentioned>'s cotton would be improved in a
+ratio to compensate planters in incurring the small additional expense of reshipping it from hence to their <location_mentioned>plantations</location_mentioned>.—It may not
+be unknown to you that <hi rend="italic">The Rot</hi> annually increases throughout the
+States of <location_mentioned>Louisiana</location_mentioned> <location_mentioned>Georgia</location_mentioned> <location_mentioned>Missippi</location_mentioned> and all <location_mentioned>Florida</location_mentioned>; <date_mentioned n="xx-xx-1825">this year</date_mentioned>
+complaints are heavy, and a remedy must be soon afforded to prevent the recurrence of a really national evil.—</p>
+
+<p>Permit me to inquire on what kind of soil, with you, does the
+cotton plant best flourish? and whether there is much, or any dif<barker_pb n="1224"/>
+ference in the texture or length of staple of the cotton raised near
+the <location_mentioned>sea coast</location_mentioned> or in the <location_mentioned>interior</location_mentioned>—on the <location_mentioned>high or low lands</location_mentioned>, or the
+<location_mentioned>Prairais </location_mentioned>or <location_mentioned>waving surface</location_mentioned>? and whether the<location_mentioned> natural plains</location_mentioned> afford
+rich soil for cultivation or if there is a necessity for clearing land
+for a <person_mentioned>plantation</person_mentioned>? and is the timber heavy, of difficult clearing, and
+of what species generally bordering on the <person_mentioned>sea coast</person_mentioned>?</p>
+
+<p>The <hi rend="italic">particular</hi> inquiries I desire are the terms on which <location_mentioned>lands </location_mentioned>are
+<hi rend="italic">now</hi> disposed of, by yourself, either to <person_mentioned>families </person_mentioned>or individual settlers? do you distinguish in purchasers, men of family, from young
+and single farmers, and is the quantity of land specified in any
+general law or custom, beyond which an individual cannot contract for? have <person_mentioned>settlers</person_mentioned> the privilege of selecting their lands as
+regards situation, and on purchasing have they the power to dispose of any part, or the whole of it again? Is it necessary that
+purchased land should be occupied ?</p>
+
+<p><person_mentioned>Mrss. Dewey and Sabin, sole proprietors of the patent for the
+corn and cob mills</person_mentioned>, for this and the state of <location_mentioned>Missippi</location_mentioned> desires me
+to ask you whether any encouragement would be given among your
+<person_mentioned>settlers</person_mentioned> for the running of a few pair of stones, and also the <location_mentioned>mill</location_mentioned>
+for grinding the corn and cob, with, or without them for cattle's
+food? are there advantageous <location_mentioned>cities </location_mentioned>for <location_mentioned>mill seats</location_mentioned> on streams?
+<location_mentioned>Saw and grist mills</location_mentioned>, and at convenient distances for the <person_mentioned>country
+settlers</person_mentioned> ?—</p>
+
+<p>Perhaps I have, too long, intruded on your patience with a long
+letter of inquiries, but any information you may afford me will
+be welcomed with thanks, and reciprocated if you do me the pleasure of requiring it—</p>
+
+<p><person_mentioned>William A. Sheldon</person_mentioned>    [Rubric]</p>
+
+<p>Address—<person_mentioned>Sheldon & Dixon Druggists and Commission Merchants</person_mentioned> <location_mentioned>New Orleans</location_mentioned></p>
+
+</div1>
+</body>
+</text>
+</TEI.2>

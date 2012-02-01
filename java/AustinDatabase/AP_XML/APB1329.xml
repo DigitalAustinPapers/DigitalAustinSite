@@ -1,0 +1,79 @@
+﻿
+<TEI.2 id="APB1329">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>02-07-1827</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1601</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>John A. Williams</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F. Austin</document_recipient>
+<document_title>John A. Williams to Stephen F. Austin, 02-07-1827</document_title>
+<document_location>
+	<sent_from>Headquarters, Sprowls plantation</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>John A. Williams to Austin, February 7, 1827.   Repulse of insurgents. Francis Biggam to Austin, February 13, 1827.    Disquieting reports  from Texas.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1601</barker_citation>
+</barker_notes>
+<document_digital_creation>07-17-1826</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1329T">
+
+<body>
+*div1 type="summary"*
+*p*John A. Williams to Austin, February 7, 1827.   Repulse of insurgents. Francis Biggam to Austin, February 13, 1827.    Disquieting reports  from Texas.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Head quarters Sprowls plantation*/location_mentioned**/p*
+
+*p**date_mentioned n="02-07-1827">7th Feby 1827*/date_mentioned*.*/p*
+*p**person_mentioned*Col Austin*/person_mentioned**/p*
+
+*p*Dr sir   your favour of the *date_mentioned n="01-23-1827">23rd Ult*/date_mentioned*. together with the *person_mentioned*gover
+nor*/person_mentioned*'s procklamation has been recd.*/p*
+
+*p*you will no dout before the reception of this have heard of the
+patriotic manner in which the *person_mentioned*Inhabitants */person_mentioned*have rallied in defence
+of their *location_mentioned*country*/location_mentioned*, and dispersed the rebellious *person_mentioned*gang of *location_mentioned*Nacogdoches*/location_mentioned**/person_mentioned*.
+I refer you to *person_mentioned*Mr Kenney*/person_mentioned* for further information. A quantity of
+property found in possession of the *person_mentioned*enimy */person_mentioned*has fal[len] into our 
+possessin I have to request that some *person_mentioned*person */person_mentioned*duly authorized be 
+immediately sent on to take charge thereof, or dispose of it as the
+*person_mentioned*government */person_mentioned*may direct, yesterday we detached fifty *person_mentioned*men */person_mentioned*for *date_mentioned n="02-13-1827">7 day
+service*/date_mentioned* which will remain stationed at this place untill the 
+expiration of that time.*/p*
+
+*p*Permit me to suggest the propriety of continuing a sufficient 
+*person_mentioned*Military force*/person_mentioned* at this place for some time lest a remisness on our part
+might induce the disaffected to commit new outrages upon the 
+*person_mentioned*inhabitants of another class */person_mentioned*who have already suffered enough.*/p*
+
+*p*A great deale has been done by the faithful *person_mentioned*subject */person_mentioned*in this section
+of *location_mentioned*country*/location_mentioned*, but yet the work is far from being compleat*/p*
+
+*p*We shall employ every means in our power to sustain the 
+government, and restore tranquility*/p*.
+
+*p**person_mentioned*Jno. A. Williams */person_mentioned*   [Rubric]*/p*
+
+
+*/div1*
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,93 @@
+﻿
+<TEI.2 id="APB4201">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>04-18-1831</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 648-649</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Stephen F Austin</document_author>
+<document_sender></document_sender>
+<document_recipient>Samuel M Williams</document_recipient>
+<document_title>Stephen F Austin to Samuel M Williams, 04-18-1831</document_title>
+<document_location>
+	<sent_from>Unknown</sent_from>
+	<sent_to>San Felipe de Austin, Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Austin to Samuel M. Williams, Saltillo, April 18, 1831. Governor hostile to Bill against foreigners engagng in retail trade asleep.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 648-649</barker_citation>
+</barker_notes>
+<document_digital_creation>09-11-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4201T">
+
+<body>
+*div1 type="summary"*
+*p*Austin to Samuel M. Williams, Saltillo, April 18, 1831. Governor hostile to Bill against foreigners engagng in retail trade asleep.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p*[From Williams Papers, Rosenberg Library, Galveston, Tex.]*/p*
+
+*p**date_mentioned n="04-18-1831">April 18. 1831*/date_mentioned**/p*
+
+*p*I have drawn on you this day for one hundred dollars in favor
+of *person_mentioned*Mr. Joseph Powel*/person_mentioned*, who let me have that amt. here. I think I can
+get along with this. I should not have wanted any but I have agreed
+to pay the office charges on the petitions that are pending from all
+*location_mentioned*Texas*/location_mentioned*, which will amt. to upwards of 200 dollars I expect.*/p*
+
+*p*The present *person_mentioned*governor */person_mentioned*has carefully separated from the petitions
+all who are not *person_mentioned*native Mexicans*/person_mentioned*, and will reject them all, he hates
+all *person_mentioned*foreigners */person_mentioned*as he does the devil and he must hate the *person_mentioned*old boy
+*/person_mentioned*mortally for he is a *person_mentioned*fanatic en extremo*/person_mentioned**/p*.
+
+*p**person_mentioned*Arciniega */person_mentioned*can safely go on and issue the titles, that had the 
+restriction, there will be no difficulty altho no definite or satisfactory
+answer could be had from the *person_mentioned*Govr*/person_mentioned*. As a genl, rule you must tell
+*person_mentioned*Arciniega */person_mentioned*never to consult on any subject, unless he wishes to get
+himself and everybody else into trouble.*/p*
+
+*p*I have done all I could for *person_mentioned*Madero*/person_mentioned*, which is as much as to say
+that I have effected nothing, for this *person_mentioned*Govr*/person_mentioned*. thinks that *person_mentioned*Madero */person_mentioned*is
+a *person_mentioned*heretic */person_mentioned*and the more he suffers the better, as it will only be a
+taste of hell in advance.   At *location_mentioned*Matamoros */location_mentioned*I may [do] something and<barker_pb n="649"/>
+will attend to it. Inform *person_mentioned*Madero */person_mentioned*of this, or if as I presume from
+a hint I saw in one of your letters that you and *person_mentioned*Madero */person_mentioned*and his
+*person_mentioned*Comitiva */person_mentioned*are at cross questions because a paper was sent through
+another hand than yours, you can get *person_mentioned*Arciniega */person_mentioned*to communicate.*/p*
+
+*p*There is nothing new here since my last which was on the *date_mentioned n="04-16-1831">16th—*/date_mentioned*
+the retail bill is asleep and I think it probably will so remain. The
+*person_mentioned*pasquinades */person_mentioned*that were put up against *person_mentioned*Aguirre */person_mentioned*have not had the
+effect which the *person_mentioned*shop gentry*/person_mentioned* expected, and I think the matter will
+not be moved again.*/p*
+
+*p*I send *person_mentioned*Johnson */person_mentioned*two seals, such as are used in this place.*/p*
+
+*p**person_mentioned*S F Austin  */person_mentioned*  [Rubric]*/p*
+
+*p*I paid forty dollars on the *location_mentioned*grants */location_mentioned*which I sent by *person_mentioned*Rodriguez */person_mentioned*which
+you must collect*/p*
+
+*p*[Addressed:]*person_mentioned* Mr. Samuel M. Williams*/person_mentioned**location_mentioned* San Felipe de Austin
+*/location_mentioned**person_mentioned*Mr. Powel*/person_mentioned**/p*
+
+
+*/div1*
+</body>
+</text>
+</TEI.2>

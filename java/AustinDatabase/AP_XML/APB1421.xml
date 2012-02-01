@@ -1,0 +1,71 @@
+﻿
+<TEI.2 id="APB1421">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>06-25-1827</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1663</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Account</document_type>
+<document_author>Faris and White</document_author>
+<document_sender>Faris and White, M. B. Nuckols</document_sender>
+<document_recipient>Stephen F. Austin</document_recipient>
+<document_title>Faris and White to Stephen F. Austin, 06-25-1827</document_title>
+<document_location>
+	<sent_from>San Felipe de Austin, Texas</sent_from>
+	<sent_to>San Felipe de Austin, Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Austin in account with Faris and White, June 25, 1827.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1663</barker_citation>
+</barker_notes>
+<document_digital_creation>07-26-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1421T">
+
+<body>
+*div1 type="summary"*
+*p*Austin in account with Faris and White, June 25, 1827.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*San Felepe D Austin*/location_mentioned* *date_mentioned n="06-25-1827">June 25. 1827*/date_mentioned**/p*
+
+*p**person_mentioned*Col. Stephen F. Austin*/person_mentioned**/p*
+
+*p*To *person_mentioned*Faris and White*/person_mentioned* Dr.*/p*
+*p*Cash loned_________________________________________________________   8. 50*/p*
+
+*p*1 Bottle Porter .50   2 Bottles and Brandy____________________________    3.00*/p*
+
+*p*1 Hat $7.00   6 lbs Crackers_____________________________________________    8. 50*/p*
+
+*p*$20. 00*/p*
+
+*p**person_mentioned*Willis A Ferris*/person_mentioned* personally appears before me *person_mentioned*M. M. Battle.*/person_mentioned*
+Aled. for *location_mentioned*Dist. of San F De Austin*/location_mentioned* and makes Oath to the within
+a/c. and that the Same is Just and true.   *date_mentioned n="11-05-1827">5th of Novr. 1827*/date_mentioned*.*/p*
+
+*p**person_mentioned*M. M Battle*/person_mentioned*. Al. D. *location_mentioned*Sn. F.D. Austin.*/location_mentioned**/p*
+*p*Pay the within to *person_mentioned*M B Nuckols*/person_mentioned**/p*
+
+*p**date_mentioned n="11-05-1827">Nov. 5th. 1827 */date_mentioned* *person_mentioned*Faris and White*/person_mentioned**/p*
+
+*p**date_mentioned n="03-29-1829">1829.   April 15*/date_mentioned* Received payment *person_mentioned* M B Nuckols*/person_mentioned**/p*
+
+
+*/div1*
+</body>
+</text>
+</TEI.2>

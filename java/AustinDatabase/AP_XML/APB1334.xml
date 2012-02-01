@@ -1,0 +1,62 @@
+﻿
+<TEI.2 id="APB1334">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>02-22-1827</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1605</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Bill</document_type>
+<document_author>Mateo Ahumada</document_author>
+<document_sender></document_sender>
+<document_recipient>Jess Thompson</document_recipient>
+<document_title>Mateo Ahumada to Jess Thompson, 02-22-1827</document_title>
+<document_location>
+	<sent_from>Unknown</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Bill for military transportation, February 22, 1827. Jesse Thompson to Ahumada.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1605</barker_citation>
+</barker_notes>
+<document_digital_creation>07-19-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1334T">
+
+<body>
+*div1 type="summary"*
+*p*Bill for military transportation, February 22, 1827. Jesse Thompson to Ahumada.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**person_mentioned*Colonel Mateo Ahumada*/person_mentioned* to *person_mentioned*Jesse Thompson Dr*/person_mentioned**/p*
+
+*p**date_mentioned n="xx-xx-1827">1827 */date_mentioned*To the Services of 2 teams 34 days from the *date_mentioned n="01-20-1827">20 January*/date_mentioned* to *date_mentioned n="02-24-1827">22d.*/date_mentioned**/p*
+
+*p**date_mentioned n="02-xx-1827">february */date_mentioned*inclusive on Government Service at $12 per day_____$408.00*/p*
+
+*p*To 12 days allowed for the return of my teams to the *location_mentioned*Brazos */location_mentioned*per
+Contract at 12$_________________________________________$144. 00*/p*
+
+*p*$552. 00*/p*
+*p*Cr. By Cash____________________________________________________     30.00*/p*
+
+*p*Balance due______________________________________________$522. 00*/p*
+
+*p**person_mentioned*Jesse B. Thompson*/person_mentioned*,*/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

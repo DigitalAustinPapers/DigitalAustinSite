@@ -1,0 +1,82 @@
+﻿
+<TEI.2 id="APB4383">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>07-16-1832</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 818</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Mexia</document_author>
+<document_sender></document_sender>
+<document_recipient>John Austin</document_recipient>
+<document_title>Mexia to John Austin, 07-16-1832</document_title>
+<document_location>
+	<sent_from>Brazos River on board the Brig of War Genl Santana</sent_from>
+	<sent_to>Brazoria, Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary></barker_summary>
+	<barker_footnotes>For a detailed study of Mexia's expedition to Texas see F. H. Turner, " The Mejia
+Expedition," in Quarterly of Texas State Historical Association, VII, 1-27. For the acts
+of Bradburn at Anahuac, which precipitated the uprisings of 1832 in Texas, see Edna
+Rowe in ibid., VI, 265-299. For a general account of the period, see Barker, The Life
+of Stephen F. Austin, chapter XII.</barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 818</barker_citation>
+</barker_notes>
+<document_digital_creation>09-29-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4383T">
+
+<body>
+<div1 type="summary">
+<p>José Antonio Mexia to John Austin, Brazoria, July 18, 3832. Informing
+Austin of the object of his expedition. Will unite with Texans if their object
+is to support the Santa Anna movement. Austin replies with account of
+Bradburn's military aggressions. Citizens are upholding the constitution and
+laws and cooperating with Santa Anna.</p>
+</div1>
+
+<div1 type="body">
+
+<p>[Translation, by Austin, of Col.  Mexias letter to the Alcalde John  Austin letter and reply]</p>
+
+<p>I have the honor to enclose you a copy of the convention entered
+into between the<person_mentioned> Commandant in chief of Matamoros</person_mentioned> and myself
+on the<date_mentioned n="07-06-1832"> 6 of the present month.</date_mentioned> This document will inform you of
+the motives which brought me to <location_mentioned>Texas</location_mentioned>, and what would have been
+my course had the late movements here been directed against the
+integrity of the <location_mentioned>national territory</location_mentioned>.</p>
+
+<p>But if, as I have been assured by respectable <person_mentioned>citizens</person_mentioned>, the past
+occurrances were on account of the <person_mentioned>colonists </person_mentioned>having adhered to the
+plan of <location_mentioned>vera Cruz</location_mentioned>, and I am officially informed of that fact in an
+unequivocal manner, you can in that case assure the <person_mentioned>inhabitants</person_mentioned>
+that I will unite with them to accomplish their wishes, and that
+the forces under my command will protect their adhesion to said
+place.</p>
+
+<p>This occasion affords me the opportunity of presenting to you the
+assurances of my consideration and respect—</p>
+
+<p>God and Liberty <location_mentioned>off the mouth of the Brazos river on board the
+brig of war Genl Santana.</location_mentioned></p>
+
+<p><person_mentioned>José Antonio Mexia</person_mentioned>.</p>
+<p>To Citizen <person_mentioned>John Austin Alcalde [of Brazoria]</person_mentioned></p>
+
+<p><date_mentioned n="07-16-1832">16 July 1832</date_mentioned>—</p>
+
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,64 @@
+﻿
+<TEI.2 id="APB2061">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>07-18-1825</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 1149</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Deposition</document_type>
+<document_author>Stephen F Austin</document_author>
+<document_sender></document_sender>
+<document_recipient>Unknown</document_recipient>
+<document_title>Stephen F Austin to Unknown, 07-18-1825</document_title>
+<document_location>
+	<sent_from>Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Austin's deposition in the case of Groce v. Keep, July 18, 1825.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1149</barker_citation>
+</barker_notes>
+<document_digital_creation>12-22-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB2061T">
+
+<body>
+*div1 type="summary"*
+*p*Austin's deposition in the case of Groce v. Keep, July 18, 1825.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p*Deposition (Copy)*/p*
+
+*p**person_mentioned*Mr. Jared E. Groce*/person_mentioned* having called on me to state what passed 
+between him and *person_mentioned*Doctor Imla Keep*/person_mentioned* at the time the Goods were landed
+which were brought on from *location_mentioned*Orleans */location_mentioned*by said *person_mentioned*Keep */person_mentioned*I have to State
+that a difficulty arose between *person_mentioned*Keep */person_mentioned*and the*person_mentioned* owner of the vessel*/person_mentioned* in
+which they were brought as to the freight, and *person_mentioned*Groce */person_mentioned*repeatedly
+stated that he had plac'd Money in *person_mentioned*Keep*/person_mentioned*s hands to purchase sundry
+articles for him in *location_mentioned*New Orleans*/location_mentioned*, and that he should hold *person_mentioned*Keep */person_mentioned*
+responsible for the manner in which that money was expended—that
+he had nothing to do with the Goods until he recd, them of *person_mentioned*Keep */person_mentioned*and
+would then credit him for this amount on the Sums due by *person_mentioned*Keep */person_mentioned*to
+him, *person_mentioned*Groce*/person_mentioned*, on account of Monies placed in *person_mentioned*Keep*/person_mentioned*'s hands.*/p*
+
+*p**location_mentioned*Texas */location_mentioned**date_mentioned n="07-18-1825">July 18,1825*/date_mentioned**/p*
+
+*p**person_mentioned*S. F. Austin */person_mentioned*   [Rubric]*/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

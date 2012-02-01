@@ -1,0 +1,55 @@
+﻿
+<TEI.2 id="APB3067">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>01-25-1826</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1260</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Littleberry Hawkins</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F. Austin</document_recipient>
+<document_title>Littleberry Hawkins to Stephen F. Austin, 01-25-1826</document_title>
+<document_location>
+	<sent_from>Lexington, Kentucky</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Introducing Dr. Jacob Fry.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1260</barker_citation>
+</barker_notes>
+<document_digital_creation>07-03-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Cameron L. Sinclair, Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB3067T">
+
+<body>
+*div1 type="summary"*
+*p*Introducing Dr. Jacob Fry.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Lexington*/location_mentioned* *date_mentioned n="01-25-1826">25 January 1826*/date_mentioned**/p*
+*p**person_mentioned*Stephen F. Austin Esqr*/person_mentioned**/p*
+*p*Dr Sir*/p*
+*p*Permit me to introduce to you my friend *person_mentioned*Doct Jacob Fry*/person_mentioned* who is a
+*person_mentioned*physician */person_mentioned*of good standing   any attentions shown him or services
+rendered during his stay in the *location_mentioned*Country*/location_mentioned* will be thankfully recollected   You will find him a correct man and one that will make an
+important addition to the *location_mentioned*settlement*/location_mentioned**/p*
+*p**person_mentioned*L Hawkins*/person_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

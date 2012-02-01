@@ -1,0 +1,59 @@
+﻿
+<TEI.2 id="APB3065">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>01-21-1826</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1259</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Stephen F. Austin</document_author>
+<document_sender></document_sender>
+<document_recipient>McCormick</document_recipient>
+<document_title>Stephen F. Austin to McCormick, 01-21-1826</document_title>
+<document_location>
+	<sent_from>Unknown</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Order for corn subscribed to pay salary of Deputy in Congress.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1259</barker_citation>
+</barker_notes>
+<document_digital_creation>07-03-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Cameron L. Sinclair, Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB3065T">
+
+<body>
+*div1 type="summary"*
+*p*Order for corn subscribed to pay salary of Deputy in Congress.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**person_mentioned*Mr McCormick*/person_mentioned* will receive the corn from *person_mentioned*varner*/person_mentioned* that he is to deliver on the Subscrption for the *person_mentioned*Deputy*/person_mentioned* *person_mentioned*Singer*/person_mentioned* informed me that
+he would deliver 35 bushels out of *location_mentioned**person_mentioned*varner*/person_mentioned*s crib*/location_mentioned*—that is 10 for himself, 10 for *person_mentioned*Johnson*/person_mentioned*, and 15 that he exchanged for below—also *person_mentioned*Kenneday*/person_mentioned* requested me to receive out of his *location_mentioned*crib */location_mentioned*20 bushels for himself—
+10 for *person_mentioned*Nelson*/person_mentioned*—and 20 for *person_mentioned*Christman*/person_mentioned**/p*
+
+*p*I wish you to secure the corn in the *location_mentioned*cribs */location_mentioned*and leave it in the care
+of *person_mentioned*Wheat*/person_mentioned* or the *person_mentioned*man*/person_mentioned* who is to live at *location_mentioned**person_mentioned*varner*/person_mentioned*s place.*/location_mentioned**/p*
+
+*p**date_mentioned n="01-21-1826">Jany. 21—1826*/date_mentioned**/p*
+
+*p**person_mentioned*S. F. Austin*/person_mentioned*    [Rubric]*/p*
+
+*p*[Addressed:]    *person_mentioned*Mr. McCormick*/person_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

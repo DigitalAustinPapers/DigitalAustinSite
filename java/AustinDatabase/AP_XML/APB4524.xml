@@ -1,0 +1,76 @@
+﻿
+<TEI.2 id="APB4524">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>02-03-1833</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 924</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>D W Anthony</document_author>
+<document_sender>Unknown</document_sender>
+<document_recipient>Stephen F Austin</document_recipient>
+<document_title>D W Anthony to Stephen F Austin, 02-03-1833</document_title>
+<document_location>
+	<sent_from>Brazoria, Texas</sent_from>
+	<sent_to>San Felipe de Austin, Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>D. W. Anthony to Austin, February 3, 1833. Introducing his brother. Printing the Bexar remonstrance.</barker_summary>
+	<barker_footnotes>On the Bexar remonstrance see Musquiz to Governor, Jan. 10, and Anthony to Austin,
+Jan. 20 and 25, 1833.</barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 924</barker_citation>
+</barker_notes>
+<document_digital_creation>11-11-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4524T">
+
+<body>
+*div1 type="summary"*
+*p*D. W. Anthony to Austin, February 3, 1833. Introducing his brother. Printing the Bexar remonstrance.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Brazoria*/location_mentioned*, *date_mentioned n="02-03-1833">Feby 3d 1833*/date_mentioned*—*/p*
+*p*Dear *person_mentioned*Col*/person_mentioned*.—*/p*
+
+*p*Let this serve to introduce to your acquaintance, my brother *person_mentioned*Henry
+Anthony*/person_mentioned* who wises to become a *person_mentioned*Mexican Citizen*/person_mentioned*.— He visits *location_mentioned*San
+Felipe*/location_mentioned* for the consequent donation of land which I assured him he
+would get by so doing.— My brother *person_mentioned*Jacob */person_mentioned*who has been here for
+some time is not well enough to go up at present and I therefore
+send the certificate of his having taken the constitutional oath etc.
+and also his name to a blank for a petition which I believe or hope
+will answer the same purpose as if present— I do not send you the
+<hi rend="italic">Cash </hi>required on those occasions, but you can either draw on me
+immediately or wait a short time when it will be more convenient.
+I send you the proof of the first form of the Remonstrance in Spanish
+which has been waiting a week for correction. If this should be
+sufficiently correct, I suppose the other part can go to press without
+being sent to *location_mentioned*San Felipe*/location_mentioned*, as it is important they should be printed
+immediately. The balance will be in type by the return of my
+*person_mentioned*brother*/person_mentioned*.*/p*
+
+*p*The *location_mentioned*Bexar */location_mentioned*Remonstrance (Translated) gives great satisfaction
+here. You will see from the *location_mentioned*paper*/location_mentioned*, what I have said on the subject
+of holding the convention at *location_mentioned*San Antonio*/location_mentioned*. I hope I shall hear from
+you frequently and soon—*/p*
+
+*p**person_mentioned*D. W. Anthony*/person_mentioned*.*/p*
+
+*p*[Addressed:] *person_mentioned*Col. S. F. Austin*/person_mentioned*   *location_mentioned*San Felipe*/location_mentioned*.*/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

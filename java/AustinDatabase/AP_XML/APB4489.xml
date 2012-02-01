@@ -1,0 +1,90 @@
+﻿
+<TEI.2 id="APB4489">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>12-02-1832</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 896-897</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Asa Hoxey</document_author>
+<document_sender></document_sender>
+<document_recipient>Robert M Williamson</document_recipient>
+<document_title>Asa Hoxey to Robert M Williamson, 12-02-1832</document_title>
+<document_location>
+	<sent_from>Montgomery, Alabama</sent_from>
+	<sent_to>San Felipe de Austin, Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Asa Hoxey to Robert M, Williamson, Montgomery, Ala., December 2, 1832. Emigration to Texas.   Nullification in South Carolina.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 896-897</barker_citation>
+</barker_notes>
+<document_digital_creation>11-05-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4489T">
+
+<body>
+*div1 type="summary"*
+*p*Asa Hoxey to Robert M, Williamson, Montgomery, Ala., December 2, 1832. Emigration to Texas.   Nullification in South Carolina.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Montgomery */location_mentioned**date_mentioned n="12-02-1832">Decr. 2d. 1832*/date_mentioned**/p*
+*p**person_mentioned*Robert M. Williamson, Esqr*/person_mentioned**/p*.
+
+*p*Dr. Sir Your esteemed favour of *date_mentioned n="11-01-1832">Nov 1st*/date_mentioned* has come to hand, It
+gives me great pleasure to find that you are so faithfull to your
+promise of detailing the various affairs of our *location_mentioned*adopted country*/location_mentioned*—
+Such is the difficulty in winding up a ten years unsettled business that
+it will be impossible for me to leave the *location_mentioned*United  States*/location_mentioned* before<barker_pb n="897"/>
+*date_mentioned n="09-xx-1833">September next*/date_mentioned* I allso will have to make a trip to *location_mentioned*Virginia */location_mentioned*for the
+purpose of adding to my stock of *person_mentioned*Slaves */person_mentioned*which will take up so much
+of my time that I cannot Start sooner than the period mentioned
+You may look with a great deal of certainty for many of your old
+*person_mentioned*acquaintances */person_mentioned*in *location_mentioned*Texas */location_mentioned**date_mentioned n="Spring - 1833">next Spring*/date_mentioned* the Spirit for emigration to
+that *location_mentioned*Country */location_mentioned*is very great and thousands would go but for the 
+terrors of a *person_mentioned*Mexican government*/person_mentioned* these idle fears I have endeavored
+as much as possible to allay and I belive with much success except
+with some of the more timid. You mentioned in your last letter
+that you belived *location_mentioned*Mexican grants of Eleven leagues*/location_mentioned* could be procured
+for a reasonable sum if so you will perceve by the enclosed proposition
+that *person_mentioned*Mr Edward Hanrick George Whitman and myself*/person_mentioned* are 
+disposed to procure some of them the Selections of which will be left
+entirely to your own discretion and should you be disposed to take
+up with the proposition I feel satisfied that we will be well pleased
+with your selections In consequence of the disturbances in *location_mentioned*Texas*/location_mentioned*
+the *person_mentioned*Messrs Prichards*/person_mentioned* have declined their journey untill another year
+*person_mentioned*Mr Beard*/person_mentioned* and *person_mentioned*Thompson */person_mentioned*have started to *location_mentioned*Texas */location_mentioned*and no doubt will
+arrive ere this*/p*
+
+*p*The Political news of the*location_mentioned* United States*/location_mentioned* is that *person_mentioned*Jackson */person_mentioned*has been
+re-ellected *person_mentioned*President */person_mentioned*by an overwhelming *person_mentioned*majority*/person_mentioned*— *location_mentioned*South 
+Carolina*/location_mentioned* has nullified the Tariff acts; which is to take place in*date_mentioned n="02-xx-1833"> February
+next*/date_mentioned*, provided *person_mentioned*Congress */person_mentioned*does not abandon the protection system by
+that time and in case of any interference on the part of the *location_mentioned*united
+states*/location_mentioned* to enforce the laws She has declared her determination to
+Secede we expect stormy times in the *location_mentioned*United States*/location_mentioned*, perhaps
+civil war which God avert Your brother *person_mentioned*Michael Williamson*/person_mentioned* died
+a few weeks ago and *person_mentioned*Col Peacock */person_mentioned*has taken *location_mentioned*home */location_mentioned*his *person_mentioned*widow */person_mentioned*and
+*person_mentioned*children*/person_mentioned*—*/p*
+
+*p**person_mentioned*Asa Hoxey*/person_mentioned**/p*
+
+*p*[Addressed:] *person_mentioned*Robert M. Willaimson Esqr.*/person_mentioned* *location_mentioned*San Fillippe De
+Austin Texas Mexico*/location_mentioned* (Via *location_mentioned*New Orleans*/location_mentioned*)*/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

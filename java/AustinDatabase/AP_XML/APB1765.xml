@@ -1,0 +1,97 @@
+﻿
+<TEI.2 id="APB1765">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>11-24-1829</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 259-260</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Henry Austin</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F Austin</document_recipient>
+<document_title>Henry Austin to Stephen F Austin, 11-24-1829</document_title>
+<document_location>
+	<sent_from>Comargo</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Henry Austin to Austin, Comargo, September 24, 1829. Difficulties of navigating the Rio Grande.</barker_summary>
+	<barker_footnotes>From a copy made by Moses Austin Biyan.    In file of Aug. 27, 1829.</barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 259-260</barker_citation>
+</barker_notes>
+<document_digital_creation>08-15-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1765T">
+
+<body>
+*div1 type="summary"*
+*p*Henry Austin to Austin, Comargo, September 24, 1829. Difficulties of navigating the Rio Grande.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Comargo  */location_mentioned**date_mentioned n="09-24-1829">Sept 24th  1829*/date_mentioned**/p*
+*p**person_mentioned*Col. S F Austin*/person_mentioned**/p*
+
+*p*My deae Sir I wrote you from *location_mentioned*Matamoros*/location_mentioned*, advising you of my
+arrival there with a steamboat to commence the navigation of this
+*location_mentioned*river*/location_mentioned*. *location_mentioned*Bravo del Norte*/location_mentioned* I have been up nearly to *location_mentioned*Revilla*/location_mentioned*, where I
+found the *location_mentioned*river */location_mentioned*so dangerous in low water that I did not think it
+prudent to proceed up at *date_mentioned n="Fall - 1829">this late season.*/date_mentioned*— At the 
+commencement of the wet season the *location_mentioned*river */location_mentioned*May be Navigated quite to *location_mentioned*presidio
+del Norte,*/location_mentioned* but as that season is now nearly passed, I shall confine
+My trips for the *date_mentioned n="Winter-1829">winter */date_mentioned*to this place*/p*
+
+*p**location_mentioned*Between Matamoros and this*/location_mentioned*, the *location_mentioned*river */location_mentioned*is navigable and Safe
+but I have great reason to apprehend there will not be business
+enough to support the boat We have by law the privilege of taking
+up lands but the *location_mentioned*unoccupied lands on this River*/location_mentioned* are not worth
+having.*/p*
+
+*p*I was induced to embark in this operation by the hope of 
+retrieving my ruined fortune and of laying a foundation for an estate for
+my *person_mentioned*family */person_mentioned*by Securing a large tract of land. Before leaving the
+*location_mentioned*US*/location_mentioned* I laid before *person_mentioned*Govt */person_mentioned*a Memoir on the *location_mentioned*western boundary*/location_mentioned* pointing
+out the advantages of exchanging the *location_mentioned*land beyond the Rocky 
+Mountains for those between this River and the U S*/location_mentioned* and suggesting the
+Mode in which it might be effected had I a Sure conveyance I would
+Send you a copy of it— I have reason to believe there is now a
+negociation pending on the Subject-
+Now I have reason to apprehend that my present effort will not
+realize the expected advantages and some reason to fear it may result
+in a failure—in which case, I should only be able to save my self
+from ruin by taking the boat to some place where She could be
+Sold or employed to advantage-*/p*
+
+*p*Can you inform Me whether the *location_mentioned*laguna */location_mentioned*which is laid down on the
+*location_mentioned*Map */location_mentioned*as *location_mentioned*extending from Brassas St lago to the Colorado River*/location_mentioned* is
+Navigable with four feet water, if not by what rout could a 
+Steamboat be transported *location_mentioned*from the Mouth of this river to Galveston bay
+or to New Iberia*/location_mentioned* Is there sufficient wealth produce and travel in
+your *location_mentioned*quarter */location_mentioned*to employ a steamboat Could I obtain in your 
+*location_mentioned*neighbourhood */location_mentioned**location_mentioned*a tract of good land*/location_mentioned* in perpetuity either through you or by
+application to the State*/p*
+
+*p*I wish extremely to have an interview with you but it is impossible
+for me to leave the business I am engaged in even for three days—
+I shall leave this in a week for *location_mentioned*Matamoros */location_mentioned*and return from there
+with a cargo immediately—during the *date_mentioned n="Winter - 1829">winter */date_mentioned*I will be alternately<barker_pb n="260"/>
+*location_mentioned*here */location_mentioned*and at *location_mentioned*Matamoros */location_mentioned*as frequently as business May offer for the
+boat and probably Make 2 or 8 trips pr month—*/p*
+
+*p**person_mentioned*Henry Austin*/person_mentioned*    [Rubric]*/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

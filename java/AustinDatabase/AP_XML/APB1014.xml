@@ -1,0 +1,86 @@
+﻿
+<TEI.2 id="ABP1014">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>01-16-1825</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1019-1020</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Seth Ingram</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F. Austin</document_recipient>
+<document_title>Seth Ingram to Stephen F. Austin, 01-16-1825</document_title>
+<document_location>
+	<sent_from>Duke's Place, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Seth Ingram to Austin, January 16, 1825.   Concerning land and surveying.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1019-1020</barker_citation>
+</barker_notes>
+<document_digital_creation>05-23-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="ABP1014T">
+
+<body>
+*div1 type="summary"*
+*p*Seth Ingram to Austin, January 16, 1825.   Concerning land and surveying.*/p*
+*/div1*
+
+*div1 type="body"*
+ *p**location_mentioned*Dukes place*/location_mentioned* *date_mentioned n="01-16-1825">Jan. 16th 1825*/date_mentioned*.*/p*
+
+*p**person_mentioned*Col. Austin*/person_mentioned**/p*                                                         
+
+*p*Sir I recd- your communication to *person_mentioned*Wm Kincheloe*/person_mentioned* to send you
+the plat of the*location_mentioned* Leagues on the Colorado*/location_mentioned* from *location_mentioned**person_mentioned*Kuykendall*/person_mentioned*'s League*/location_mentioned*
+down. I have sent them over, and accompanying them you will find
+the field notes of several Leagues in the *location_mentioned*Bay Prairie*/location_mentioned* and one on the
+*location_mentioned*Bernard*/location_mentioned*. *person_mentioned*Mr Selkirk*/person_mentioned* has run off the Leagues on the *location_mentioned*West side of the
+Colorado*/location_mentioned*, and from actual survey some of the lines differ 
+considerable from the plat, and those numbers that differ you will find
+either over or under the others and a bar across them thus,
+in this way I have corrected all the lines, on the *location_mentioned*west side of the river
+*/location_mentioned*Those Leagues where *person_mentioned*Selkirk*/person_mentioned* run on *location_mentioned*both sides of the river*/location_mentioned* closed
+very well, and very little alteration had to be made. Be careful and
+reccollect that those numbers that have the bar accross them are the
+right ones—We have run the Leagues as far down as *location_mentioned**person_mentioned*Duke*/person_mentioned*s place
+*/location_mentioned*and have not yet touched the *location_mentioned*Lake*/location_mentioned* that *person_mentioned*Williams*/person_mentioned* lines on. I call it
+a Lake because, since I left town I have been down to *person_mentioned*Williams*/person_mentioned* and
+find that the *location_mentioned*south end of it is about two miles from *person_mentioned*Williams*/person_mentioned**/location_mentioned*. We
+go into the *location_mentioned*woods */location_mentioned*again tomorrow and shall succeed in finishing I
+think by the middle of *date_mentioned n="02-xx-1825">Feb*/date_mentioned*. if nothing uncommon takes place—*/p*
+
+*p*I understand that *person_mentioned*Mr Buckner*/person_mentioned* has been to *location_mentioned*Town*/location_mentioned* and made ap-
+plication for the League taking in *location_mentioned*the forks of Hunney  and Caney<barker_pb n="1020"/>
+creeks*/location_mentioned*, that is a choice that I made more than *date_mentioned n="12-xx-1824">one month ago*/date_mentioned*, running 
+it so as to take in the forks and the head of tide if it would do
+both, I have not yet got any land on tide water and do not think that
+*person_mentioned*Mr. Buckner*/person_mentioned* has done quite right in taking that advantage of me,
+however, I shall leave it to you to make it right.-*/p*
+
+*p*I have heard of *person_mentioned*Mr. Tong*/person_mentioned* at *person_mentioned*Esqr Bells*/person_mentioned* but have not yet seen him.*/p*
+
+*p*I have no more at present, but remain with due respect your friend
+and humble*/p*
+
+*p**person_mentioned*Seth Ingram*/person_mentioned**/p*
+
+*p*Col. *person_mentioned*S. F. Austin*/person_mentioned*,*/p*
+
+
+*/div1*
+</body>
+</text>
+</TEI.2>

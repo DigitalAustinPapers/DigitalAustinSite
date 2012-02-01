@@ -1,0 +1,82 @@
+﻿
+<TEI.2 id="APB1086">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>04-22-1825</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1080-1081</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Dr. John Sibley</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F. Austin</document_recipient>
+<document_title>Dr. John Sibley to Stephen F. Austin, 04-22-1825</document_title>
+<document_location>
+	<sent_from>Nachitoches,Louisiana</sent_from>
+	<sent_to>Brazos, Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Dr. John Sibley to Austin, April 26, 1825.   Medical advice.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1080-1081</barker_citation>
+</barker_notes>
+<document_digital_creation>06-07-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1086T">
+
+<body>
+*div1 type="summary"*
+*p*Dr. John Sibley to Austin, April 26, 1825.   Medical advice.*/p*
+*/div1*
+
+*div1 type="body"*
+*p**location_mentioned*Nackitosh*/location_mentioned* *date_mentioned n="04-25-1825">April 26 — 1825*/date_mentioned* —*/p*
+*p*Sir
+*/p*
+*p*Your letter of the *date_mentioned n="04-10-1825">10th Inst,*/date_mentioned*  was left at my *location_mentioned*House */location_mentioned**date_mentioned n="04-24-1825">yesterday*/date_mentioned*. I
+was from home I have Carefully read it and considered the contents
+It appears to me there is no doubt but the symptoms yours describes
+are produced from an affection of the kidneys which I think it 
+probable has been brought on by your Long Sedentary habit, and I should
+hope that a change in that Respect with a moderate use of some
+cooling diureticks will Relieve you — Amongst the Vegetable
+Diureticks those which are Emolient are best (viz) Slipiry Elm
+Bark Water Melon Seeds. Mauve or Mallows, the Inner Bark of
+Pine, Casteal Soap, the stronger diuretics are Fox Glove, Nettle,
+Prickley Pear, Arsmart Parsley Roots.—these are all used in form
+of tea Sometimes a small Pill of Opium may be Proper, the more
+Powerful are Muriatic or Nitric Accid. Glaubus Salts Lime Water
+etc I send you a Vial of the Accid Diluted to save the cork and a
+vial of Volatille Alcaline Salt, the Salt is a Real and eiBcatious
+Medicine the way to use it is, Take about half a Tea Spoonful of it
+put it in a tumbler and pour the tumbler half full of Vinegar, and
+drink it off while in a State of evervescence this may be repeated
+three or four times a day — 30 or 40 drops of the Accid in half a
+tumbler of water will be a dose — your diet should be more Simple
+than Ordinary and Wine and Ardent Spirits used more sparingly—
+*/p*
+*p*I wrote you a few days ago by *person_mentioned*Mr. Cherbonier*/person_mentioned* and sent you a
+bundle of *location_mentioned*News papers.*/location_mentioned*    Since which Nothing has Occurred, but<barker_pb n="1081"/>
+*person_mentioned*Capt. Clark*/person_mentioned* Can Inform you — Our *location_mentioned*River*/location_mentioned* is now higher than it
+[has been] Since *date_mentioned n="05-xx-1803">may 1803*/date_mentioned* *location_mentioned*Alexandria*/location_mentioned* is in danger [torn] . . .
+*location_mentioned*Plantations*/location_mentioned* [torn]    My Compliments . . .
+*/p*
+*p**person_mentioned*John [Sibley.*/person_mentioned*]*/p*
+
+*p*[Addressed:] *person_mentioned*Honrble. Stephen F. Austin*/person_mentioned**/p*
+
+*p**person_mentioned*Capt. Clark*/person_mentioned*   *location_mentioned*Brassos*/location_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

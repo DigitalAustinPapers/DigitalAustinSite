@@ -1,0 +1,61 @@
+﻿
+<TEI.2 id="APB3029">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>11-14-1825</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1233</document_citation>
+<document_language>English</document_language>
+<document_status>Public</document_status>
+<document_type>Contract</document_type>
+<document_author>John Randon</document_author>
+<document_sender></document_sender>
+<document_recipient>Unknown</document_recipient>
+<document_title>John Randon to Unknown, 11-14-1825</document_title>
+<document_location>
+	<sent_from>San Felipe de Austin, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Contract to hire slaves to J. E. B. Austin, November 14, 1825.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1233</barker_citation>
+</barker_notes>
+<document_digital_creation>06-08-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Cameron L. Sinclair, Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB3029T">
+
+<body>
+*div1 type="summary"*
+*p*Contract to hire slaves to J. E. B. Austin, November 14, 1825.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p*Be it Known that I *person_mentioned*John Randon*/person_mentioned* have this day hired to *person_mentioned*J. B.
+Austin*/person_mentioned* two *person_mentioned*negros*/person_mentioned* for *date_mentioned n="11-14-1826">one year from the twenty first day of this
+month*/date_mentioned* at the following rates to say, the *person_mentioned*negro man Frank*/person_mentioned* for the
+sum of one hundred and fifteen Dollars a year and the *person_mentioned*negro woman
+Hannah*/person_mentioned* for the sum of Sixty Dollars pr. year which sums are to be
+discounted with *person_mentioned*Stephen F. Austin*/person_mentioned* in payment of my *location_mentioned*land */location_mentioned*procured
+of him*/p*
+
+*p**location_mentioned*San Felipe*/location_mentioned* *date_mentioned n="11-14-1825">Nov. 14. 1825*/date_mentioned*                                         *person_mentioned*John Randon*/person_mentioned**/p*
+
+*p*It is understood that My *person_mentioned*negro Adam*/person_mentioned* is to go in the place of
+*person_mentioned*Frank*/person_mentioned* untill I get my *location_mentioned*Cabbins */location_mentioned*built say *date_mentioned n="12-14-1825">one month from this day*/date_mentioned*—*/p*
+
+*p**person_mentioned*John Randon*/person_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

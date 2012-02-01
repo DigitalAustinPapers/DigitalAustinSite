@@ -1,0 +1,84 @@
+﻿
+<TEI.2 id="APB1432">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>08-28-1827</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1677-1678</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>H. H. League</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F. Austin</document_recipient>
+<document_title>H. H. League to Stephen F. Austin, 08-28-1827</document_title>
+<document_location>
+	<sent_from>San Felipe de Austin, Texas</sent_from>
+	<sent_to>San Antonio, Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>H. H. League to Austin, August 28, 1827. Business in Saltillo. Disturbances in the colony.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1677-1678</barker_citation>
+</barker_notes>
+<document_digital_creation>07-26-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1432T">
+
+<body>
+<div1 type="summary">
+<p>H. H. League to Austin, August 28, 1827. Business in Saltillo. Disturbances in the colony.</p>
+</div1>
+
+<div1 type="body">
+
+<p><location_mentioned>San Felipe De Austin</location_mentioned> the <date_mentioned n="08-23-1827">28th August 1827</date_mentioned></p>
+<p><person_mentioned>Col. Stephen F Austin</person_mentioned></p>
+
+<p>D sir I this moment Received your Communication dated at
+<location_mentioned>San Antonio</location_mentioned> informing me of your resolution to set out on the <date_mentioned n="08-30-1827">30th</date_mentioned>
+for <location_mentioned>Saltillo </location_mentioned>I doubt whether it will be possible for me by any
+Exertion to be in <location_mentioned>Saltillo </location_mentioned>in the time mentioned. I am unprepared
+to go on immediately. I shall however use Every possible 
+Exertion to do so—<date_mentioned n="08-21-1827">about a week since</date_mentioned> I sent a man to <location_mentioned>Natchitoches </location_mentioned>for
+the <person_mentioned>company </person_mentioned>Documents that I rote for by <person_mentioned>General Fulerton</person_mentioned> I
+also drew on the <person_mentioned>company </person_mentioned>for the funds necessary to perform the
+Trip without which it would be impossible for me to go on. I
+shall however Try to prepare myself otherwise and if I find it 
+practicable I will be on in about 2 weeks after you leave <location_mentioned>San Antonio</location_mentioned>
+if I find it impossible to do so I will inclose you all the Necessary
+Documents to <location_mentioned>Saltillo </location_mentioned>with all the information and advice on the
+subject in my power with full authority for you to act in all Respects
+that I could do were I present, we have some little commotion
+amongst the <person_mentioned>people in the <location_mentioned>out settlements of the Colony</location_mentioned></person_mentioned>—which
+has been got up by this man <person_mentioned>Daton </person_mentioned>that was here when you left
+<person_mentioned>Pittises [Pettus's?]</person_mentioned> insolvency and bad conduct has produced some
+Excitement amongst a good many that will loose by him. Yet Ive
+no idea that any thing serious will Result from it your <person_mentioned>Brother</person_mentioned>
+<person_mentioned>James B.</person_mentioned> and also <person_mentioned>Majr Burnet</person_mentioned> may advise you to Return on that
+account I do not know that they will, but I do not beleave that
+the emergency Requires your presence so much that it would be
+justifiable to loose any important advantage to the <location_mentioned>Colony </location_mentioned>by 
+Returning. I will use Every Exertion in my power to Tranquilise
+them.    Should this letter Reach you at <location_mentioned>San Antonio</location_mentioned> before you<barker_pb n="1678"/>
+leave Pleas to write me without fail I will address you at <location_mentioned>Saltillo</location_mentioned>
+by next mail more fully on Every Subject about which you would
+like to be informed whether I go on or not my <person_mentioned>family </person_mentioned>is in fine
+health and the <location_mentioned>colony </location_mentioned>in general</p>
+
+<p><person_mentioned>H. H. League </person_mentioned>   [Rubric]</p>
+<p>[Addressed:] <person_mentioned>Col. Stephen F Austin</person_mentioned> <location_mentioned>San Antonio Coahuila &
+Texas</location_mentioned></p>
+
+</div1>
+</body>
+</text>
+</TEI.2>

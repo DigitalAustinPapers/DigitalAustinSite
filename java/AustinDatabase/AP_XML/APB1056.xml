@@ -1,0 +1,66 @@
+﻿
+<TEI.2 id="APB1056">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>03-05-1825</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1054</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Thomas Darle</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F. Austin</document_recipient>
+<document_title>Thomas Darle to Stephen F. Austin, 03-05-1825</document_title>
+<document_location>
+	<sent_from>Buffalo Bayou, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Thomas Earle to Austin, March 5, 1825.   Concerning land.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1054</barker_citation>
+</barker_notes>
+<document_digital_creation>05-31-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1056T">
+
+<body>
+*div1 type="summary"*
+*p*Thomas Earle to Austin, March 5, 1825.   Concerning land.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Buflou Byou*/location_mentioned* *date_mentioned n="03-05-1825">March 5th 1825*/date_mentioned**/p*
+*p*Sir*/p*
+
+*p*I understand you grant, Lebours to men of *person_mentioned*fameleys*/person_mentioned* on these
+*location_mentioned*waters*/location_mentioned* I in Consequince of not, haveing no timber *location_mentioned*on my League*/location_mentioned* I
+hope, Sir, you will grant me *location_mentioned*timber Land */location_mentioned*on *location_mentioned*greens Byoue*/location_mentioned*, I would
+do myself the honour to Call and See you but Expecting the arivl
+of the Schooner daley *person_mentioned*James Early my Son*/person_mentioned* a young man Groing
+hopes you will grant, him Land the Same as other young men,
+Should you think proper Sir to grant, me any you will please Sir
+to give the order for Survey to *person_mentioned*Mr. Cook*/person_mentioned**/p*
+
+*p*Sir, *person_mentioned*Alexander Kelpatrick*/person_mentioned* mate of my Schooner requested of me
+to aply to you for Land on these waters he being continneley on board
+provents him Seeing to his business, and now at See*/p*
+
+*p**person_mentioned*Thos Earle*/person_mentioned**/p*
+
+*p**person_mentioned*Col. Austin*/person_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

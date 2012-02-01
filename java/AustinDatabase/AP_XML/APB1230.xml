@@ -1,0 +1,81 @@
+﻿
+<TEI.2 id="APB1230">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>08-06-1826</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1398-1399</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Littleberry Hawkins</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F. Austin</document_recipient>
+<document_title>Littleberry Hawkins to Stephen F. Austin, 08-06-1826</document_title>
+<document_location>
+	<sent_from>Lexington, Kentucky</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Littleberry Hawkins to Austin, August 6,1826. Concerning his and Mrs. J. H. Hawkins's claims.   Active emigration from Kentucky to Texas.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1398-1399</barker_citation>
+</barker_notes>
+<document_digital_creation>07-01-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1230T">
+
+<body>
+*div1 type="summary"*
+*p*Littleberry Hawkins to Austin, August 6,1826. Concerning his and Mrs. J. H. Hawkins's claims.   Active emigration from Kentucky to Texas.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Lexington */location_mentioned**date_mentioned n="08-06-1826">August 6. 1826*/date_mentioned**/p*
+*p**person_mentioned*Stephen F Austin Esqr*/person_mentioned**/p*
+*p*Dr Sir*/p*
+*p*I have so repeatedly written you and have never received aline
+from you, that I have frequently almost determined to decline the<barker_pb n="1399"/>
+matter I am still using great industry in geting up *person_mentioned*Company */person_mentioned*to
+visit your *location_mentioned*grant */location_mentioned*and have left nothing undone on my part since the
+death of my *location_mentioned*Brother */location_mentioned*I have been a perfect *person_mentioned*slave */person_mentioned*and have great 
+difficulty in Keeping the two *person_mentioned*families */person_mentioned*from actual want they ware left
+without One Dollar I have gotten *person_mentioned*George the Eldest son of my
+Brother*/person_mentioned* in the *person_mentioned*Navy */person_mentioned*and he is ordered into the service I inclosed to
+you my two *location_mentioned*Grants */location_mentioned*of land By *person_mentioned*J E B Austin*/person_mentioned* do the best you can
+with them for me hand the letters inclosed and say what is 
+necessary, from the intimacy and friendship between the *person_mentioned*families */person_mentioned*I had
+hoped to been by you advised etc as to the interest we had taken in
+the *location_mentioned*Grant */location_mentioned*you are labouring under fals impressions as to *person_mentioned*Botts */person_mentioned*and
+my self On *date_mentioned n="08/28/1826">Next monday*/date_mentioned* there is to be a large meeting of *person_mentioned*Citizens*/person_mentioned*
+at *location_mentioned*Versailles Woodford County*/location_mentioned* on the subject of going to your 
+*location_mentioned*settlement */location_mentioned*I find it stands higher than any other grant the colonel
+is about starting please [write] me and *person_mentioned*Mrs. J. H. Hawkin*/person_mentioned*s when
+you find it Convenient so soon as I can place the *person_mentioned*families */person_mentioned*in that 
+situation that will Keep them from actual want It is my intention to
+come to the *location_mentioned*Country */location_mentioned*Change if necessary my two *location_mentioned*grants */location_mentioned*and have
+them located where you think best particularly the One on 
+*location_mentioned*Guadeloupe */location_mentioned*if best so to do the reports as to the inundation of the lands on
+*location_mentioned*Brassos */location_mentioned*and *location_mentioned*Colorado Rivers*/location_mentioned* is unfavourable and I am disprising (?)
+those impressions believing they are not true*/p*
+
+*p*god bless you and your friends*/p*
+
+*p**person_mentioned*L Hawkins*/person_mentioned**/p*
+
+*p*Please speak of me to your *person_mentioned*Brother   */person_mentioned*I would give all I possess to
+have two hours conversation with you*/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,68 @@
+﻿
+<TEI.2 id="APB1116">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>04-06-1826</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1306</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>James Small</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F. Austin</document_recipient>
+<document_title>James Small to Stephen F. Austin, 04-06-1826</document_title>
+<document_location>
+	<sent_from>San Felipe de Austin, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>James Small to Austin, April 6, 1826.   Deposition concerning loss of $20.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1306</barker_citation>
+</barker_notes>
+<document_digital_creation>06-10-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1116T">
+
+<body>
+*div1 type="summary"*
+*p*James Small to Austin, April 6, 1826.   Deposition concerning loss of $20.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**date_mentioned n="04-06-1825">This day*/date_mentioned* personally appeared before me *person_mentioned*Stephen F. Austin Judge*/person_mentioned*
+of this *location_mentioned*Jurisdiction */location_mentioned**person_mentioned*James Small*/person_mentioned* who being sworn deposeth and
+testi[fí]eth that he was in possession of a certain certificate a *location_mentioned*land
+office*/location_mentioned* bill drawn in favor of *person_mentioned*Oliver Jones*/person_mentioned* by *person_mentioned*Sam M Williams*/person_mentioned* in
+behalf of the *person_mentioned*Empresario Austin*/person_mentioned* for twenty dollars, which bill was
+washed to pieces in the pocket of his clothes and entirely destroyed,
+further deposes he has never recd value for the same or any part
+thereof.*/p*
+
+*p**location_mentioned*San Felipe de Austin*/location_mentioned* *date_mentioned n="04-06-1826">6th April 1826*/date_mentioned*.*/p*
+*p**person_mentioned*James Small  */person_mentioned*  [Rubric]*/p*
+*p*Sworn to before me*/p*
+
+*p**person_mentioned*S. F. Austin*/person_mentioned*    [Rubric]*/p*
+
+*p*[On reverse] Recd of *person_mentioned*S. F. Austin*/person_mentioned* a receipt for twenty dollars in
+place of the within described that was lost*/p*.
+
+*p**person_mentioned*James Small*/person_mentioned*    [Rubric]*/p*
+*p*[On margin] *person_mentioned*James Small*/person_mentioned* receipt*/p*
+
+
+*/div1*
+</body>
+</text>
+</TEI.2>

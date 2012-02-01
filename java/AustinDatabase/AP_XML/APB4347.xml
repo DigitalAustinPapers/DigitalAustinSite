@@ -1,0 +1,58 @@
+﻿
+<TEI.2 id="APB4347">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>05-17-1832</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 772</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Josiah Bell</document_author>
+<document_sender></document_sender>
+<document_recipient>Unknown</document_recipient>
+<document_title>Josiah Bell to Unknown, 05-17-1832</document_title>
+<document_location>
+	<sent_from>Colorado, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Josiah H. Bell to ——, May 17, 1832.   Horse trading.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 772</barker_citation>
+</barker_notes>
+<document_digital_creation>09-24-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4347T">
+
+<body>
+*div1 type="summary"*
+*p*Josiah H. Bell to ——, May 17, 1832.   Horse trading.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Colorado */location_mentioned**date_mentioned n="05-17-1832">May 17th 1832?*/date_mentioned**/p*
+*p*Sir*/p*
+
+*p*I have this day sold your sorel Horse to *person_mentioned*Mrs Bucknor*/person_mentioned* and *person_mentioned*Powel*/person_mentioned*
+for five second rate mules as will be shown in the receipt for the
+note I also have in my possession a Horse belonging to those
+*person_mentioned*Gentlemen */person_mentioned*which I think to be worth twenty dollars should it
+suit you on your return to make any arangement with them 
+satisfactory to yourself it will be good—*/p*
+
+*p**person_mentioned*J. H. Bell   */person_mentioned* [Rubric]*/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

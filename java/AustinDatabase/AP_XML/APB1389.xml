@@ -1,0 +1,103 @@
+﻿
+<TEI.2 id="APB1389">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>05-26-1827</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1645-1646</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Stephen F. Austin</document_author>
+<document_sender></document_sender>
+<document_recipient>James R. Perry</document_recipient>
+<document_title>Stephen F. Austin to James R. Perry, 05-26-1827</document_title>
+<document_location>
+	<sent_from>Austin, Texas</sent_from>
+	<sent_to>Potosi, Missouri</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Austin to James F. Perry, May 26, 1827. Cost of travel. Slavery. Immigration.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1645-1646</barker_citation>
+</barker_notes>
+<document_digital_creation>07-21-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1389T">
+
+<body>
+*div1 type="summary"*
+*p*Austin to James F. Perry, May 26, 1827. Cost of travel. Slavery. Immigration.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Austin */location_mentioned**date_mentioned n="05-26-1827">May 26, 1827*/date_mentioned**/p*
+*p*Dr *person_mentioned*Brother*/person_mentioned**/p*
+
+*p*I recd yours giving a transcript of the opinion of the *person_mentioned*lawyers */person_mentioned*
+relative to the *location_mentioned*Mine a Burton*/location_mentioned* property, and it appearing that the 
+prospect of recovering any thing is so remote and uncertain it probably
+would cost more than it is worth to attempt it—at all events I can
+not attend to it— *person_mentioned*Emily */person_mentioned*mentioned in one of her letters that you
+both had an idea of removing from the *location_mentioned*mines */location_mentioned*to some place and
+spoke of *location_mentioned*Arkansas*/location_mentioned*— If you close your business so as to leave the
+*location_mentioned*mines */location_mentioned*I hope you will not settle any where untill you have first
+visited this *location_mentioned*country */location_mentioned*I have not the least doubt that you will make
+a fortune if you come here, but of that you must judge for yourself,
+and to do so you must visit the *location_mentioned*Country*/location_mentioned*, and I shall expect you in
+*date_mentioned n="10-xx-1827">October */date_mentioned*next without fail— One month will bring you here by
+land through *location_mentioned*Arkansas*/location_mentioned*, one month here to look round, and one to
+return is three months, and about three hundred dollars expence—
+and you will see the *location_mentioned*country */location_mentioned*generally from *location_mentioned*Potosi */location_mentioned*to this place—*/p*
+
+*p*Our State Constitution is to be published in this place on the *date_mentioned n="05-29-1827">29
+of this month*/date_mentioned* and*date_mentioned n="11-29-1827"> Six months after that day*/date_mentioned* the introduction of
+*person_mentioned*slaves */person_mentioned*is prohibited. No one can be born to slavery *location_mentioned*within the state
+*/location_mentioned*after its publication   It will be a great speculation to bring in *person_mentioned*slaves*/person_mentioned*<barker_pb n="1646"/>
+before the time expires for as no more can be introduced those who
+are here in time will sell or hire very high Every thing you may
+have seen in the *location_mentioned*news papers*/location_mentioned* relative to *person_mentioned*slaves */person_mentioned*being taken away
+from the *person_mentioned*settlers */person_mentioned*and freed is all false—the *person_mentioned*slaves */person_mentioned*in the country—
+within six months after the constitution is published will be *person_mentioned*slaves*/person_mentioned*
+for life—*/p*
+
+*p*If you ever think of coming to look at this *location_mentioned*country */location_mentioned*now is the time.
+I had reserved some *location_mentioned*choice tracts of land*/location_mentioned* with a hope that you might
+have come out before, but there is still land enough and of first rate
+quality and well situated to be had.*/p*
+
+*p*The best time of the year to move here is in the fall so as to reach
+here in *date_mentioned n="10-xx-1827">October*/date_mentioned*, If you do not wish to go through *location_mentioned*Arkansas */location_mentioned*the
+best way to come next *date_mentioned n="Fall - 1827">fall */date_mentioned*to look at us is in a Steam boat to 
+*location_mentioned*Alexandria*/location_mentioned*, and thence on horse back to this place, the road from there
+out is good and settled all the way except 50 miles at one place
+the distance from *location_mentioned*Alexandria */location_mentioned*out is about 300 miles*/p*
+
+*p*Our prospects are very good as to crops, emigration, peace, 
+government etc etc. The state constitution is a very good one you
+may set down every thing you see in the *location_mentioned*news papers*/location_mentioned* unfavourable
+to *location_mentioned*Texas */location_mentioned*as false,*/p*
+
+*p*remember me particularly to*person_mentioned* S. Perry*/person_mentioned*, and to *person_mentioned*John P—*/person_mentioned*and his
+*person_mentioned*wife */person_mentioned*and to all my old acquaintances—and kiss the *person_mentioned*children */person_mentioned*for me—
+Love to *person_mentioned*Emily */person_mentioned*this letter is written to both of you—*/p*
+
+*p**person_mentioned*S. F. Austin */person_mentioned*   [Rubric]*/p*
+
+*p**person_mentioned*Mr James F. Perry*/person_mentioned**/p*
+
+*p*[Addressed:]*person_mentioned* Mr. James F. Perry*/person_mentioned* *location_mentioned*Potosi Missouri*/location_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

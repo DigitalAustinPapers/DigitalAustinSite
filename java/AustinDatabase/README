@@ -1,0 +1,13 @@
+REQUIREMENTS:
+
+Java and MySQL, duh
+
+Connector/J - IMPORTANT! This is how Java
+              connects to MySQL
+
+If you are running a 32-bit JVM,
+you will need to increase the heap
+size by adding the following VM
+argument:
+
+-Xmx512M

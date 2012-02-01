@@ -1,0 +1,93 @@
+﻿
+<TEI.2 id="APB4097">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>12-04-1830</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 549-550</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>James W Breedlove</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F Austin</document_recipient>
+<document_title>James W Breedlove to Stephen F Austin, 12-04-1830</document_title>
+<document_location>
+	<sent_from>New Orleans, Louisiana</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>James W, Breedlove to Austin, New Orleans, December 4, 1830. Inclosing
+copy of a notice published by Mexican minister to United States concerning the law of April 8, 1830. Suggests explanation by Austin, which he will publish in United States press.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 549-550</barker_citation>
+</barker_notes>
+<document_digital_creation>09-01-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4097T">
+
+<body>
+*div1 type="summary"*
+*p*James W, Breedlove to Austin, New Orleans, December 4, 1830. Inclosing copy of a notice published by Mexican minister to United States concerning the law of April 8, 1830. Suggests explanation by Austin, which he will publish in United States press.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Mexican Consulate New Orleans */location_mentioned**date_mentioned n="12-04-1830">Dece 4 1830.*/date_mentioned**/p*
+*p**person_mentioned*Col Stephen F Austin*/person_mentioned**/p*
+
+*p*Dear Sir You have herewith a publication made by the *person_mentioned*Mexican
+Minister*/person_mentioned* at *location_mentioned*Baltimore*/location_mentioned*, which has gone forth in a great many *location_mentioned*papers*/location_mentioned*
+printed in the *location_mentioned*United States*/location_mentioned*, this publication has created a belief
+in the minds of many *person_mentioned*thousands */person_mentioned*that all*person_mentioned* North Americans*/person_mentioned* are 
+prohibited from going to *location_mentioned*Texas */location_mentioned*to Settle, and is calculated to do your
+*location_mentioned*Colony */location_mentioned*verry great injury, I feel verry certain that *person_mentioned*Col Tornel*/person_mentioned* did
+not mean this prohibition to extend to any *location_mentioned*grants */location_mentioned*which stood on
+the same grounds yours does, and so I have Explained his meaning
+to all who have called on me*/p*—<barker_pb n="550"/>
+
+*p*I am under the impression that it would be well for you to 
+publish in the *location_mentioned*Texas Gazette*/location_mentioned* under your Signature as *person_mentioned*Empresario */person_mentioned*a full
+explanation, send it to me and it shall go into the *location_mentioned*News papers of
+this Country*/location_mentioned*— Unless the prohibitory Idea is explained it will
+prevent *person_mentioned*thousands */person_mentioned*from Emigrating this *date_mentioned n="Winter-1830">Winter */date_mentioned*and *date_mentioned n="Spring-1831">Spring */date_mentioned*that
+have intended doing so until they saw or heard of this publication*/p*
+
+*p**person_mentioned*Jas W. Breedlove*/person_mentioned*   [Rubric]*/p*
+
+*p*[Inclosure]*/p*
+
+*p*MEXICAN LEGATION IN THE *location_mentioned*UNITED STATES*/location_mentioned*.*/p*
+
+*p*Having received information that several offers have been made to *person_mentioned*citizens
+of the *location_mentioned*U. States*/location_mentioned**/person_mentioned* to colonize the *location_mentioned*lands in the State of Coahuila and Texas*/location_mentioned*, I
+consider it my duty to caution them by publishing the 11th Art. of the law
+of the *date_mentioned n="04-06-1830">6th of April of 1830*/date_mentioned*, which is as follows :-—*/p*
+
+*p*"Art. 11. In virtue of the authority which has been reserved by the *person_mentioned*General
+Congress*/person_mentioned* to itself, by Art. 7th of the law of the *date_mentioned n="08-18-1824">18th of August of 1824*/date_mentioned*, all
+*person_mentioned*foreigners*/person_mentioned*, whose *location_mentioned*country */location_mentioned*is bounding on said *location_mentioned*State and Territory of the
+Federation*/location_mentioned*, shall be prohibited from settling within the said *location_mentioned*State or 
+Territory*/location_mentioned*, in consequence of which all the contracts that have not taken effect,
+and are opposd to this law, shall be suspended."*/p*
+
+*p*Wherefore, I declare, in the name of the *person_mentioned*Mexican Government*/person_mentioned*, that 
+whatever contract shall have been made in violation of the said law, will be null
+and void, it being understood that colonization in the *location_mentioned*State of Coahuila
+and Texas*/location_mentioned*, and the *location_mentioned*territory of New Mexico*/location_mentioned*, by *person_mentioned*citizens of the *location_mentioned*United States*/location_mentioned**/person_mentioned*,
+has been prohibited.*/p*
+
+*p**person_mentioned*Jose M Tornel*/person_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

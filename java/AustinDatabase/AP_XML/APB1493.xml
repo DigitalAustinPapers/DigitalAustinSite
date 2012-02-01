@@ -1,0 +1,85 @@
+﻿
+<TEI.2 id="APB1493">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>02-06-1828</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 13</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Bill</document_type>
+<document_author>J C Peyton</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F Austin</document_recipient>
+<document_title>J C Peyton to Stephen F Austin, 02-06-1828</document_title>
+<document_location>
+	<sent_from>Unknown</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Austin in account with J. C. Peyton, February 6, 1828.   Ferriage.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 13</barker_citation>
+</barker_notes>
+<document_digital_creation>07-30-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1493T">
+
+<body>
+*div1 type="summary"*
+*p*Austin in account with J. C. Peyton, February 6, 1828.   Ferriage.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**person_mentioned*Austin */person_mentioned*in Account with *person_mentioned*J. C. Peyton*/person_mentioned**/p*
+
+*p**person_mentioned*Col. Stephen, F. Austin*/person_mentioned*                                                  Dr          $   cts*/p*
+*p**date_mentioned n="01-02-1827">January 2,1827*/date_mentioned* To Ferry Accompts*/p*
+
+*p*By *person_mentioned*Washington */person_mentioned*and *person_mentioned*Henry*/person_mentioned*-------------  1 1/2*/p*
+
+*p**date_mentioned n="01-03-1827">3*/date_mentioned*  By *person_mentioned*Washington */person_mentioned*G[oing]  and C[oming]------     25*/p*
+
+*p*Ditto By *person_mentioned*Henry */person_mentioned*Gowing [going]-----  1 1/4*/p*
+
+*p**date_mentioned n="01-23-1827">23*/date_mentioned* By *person_mentioned*negro girl*/person_mentioned* gowing---- 6 1/2*/p*
+*p**date_mentioned n="01-24-1827">24*/date_mentioned*   By *person_mentioned*Negro Boy*/person_mentioned* *person_mentioned*C and G*/person_mentioned*------ 12 1/2*/p*
+*p**date_mentioned n="01-26-1827">26Jany*/date_mentioned*—*/p*  *p*To self and *person_mentioned*Company g and c*/person_mentioned* from*/p*
+
+*p*a Dinner at *person_mentioned*Mr Westall*/person_mentioned*s 15 persons-------1.87 1/2*/p*
+*p*By *person_mentioned*Morley Waller*/person_mentioned* *person_mentioned*G and C-*/person_mentioned*--- 12 1/2*/p*
+
+*p*By *person_mentioned*Spaniard */person_mentioned*Coming-------------6 1/2*/p*
+
+*p*Self gowing-------------12 1/2*/p*
+
+*p**date_mentioned n="01-28-1827">28*/date_mentioned*    By *person_mentioned*Spaneard */person_mentioned*gowing--------------- 12 1/2*/p*
+
+*p**date_mentioned n="02-05-1827">Feb*/date_mentioned*.           Ditto By 2 Ferriages------- 12 1/2*/p*
+
+*p*5                  Ditto By Bay 3 ferriages------------- 18 1/2*/p*
+
+*p**date_mentioned n="02-06-1827">6                  */date_mentioned*By *person_mentioned*Spaneard */person_mentioned*and *person_mentioned*Washington */person_mentioned**person_mentioned*g and c—.*/person_mentioned*------------------_-----       25*/p*
+*p*
+By *person_mentioned*Washington */person_mentioned*Gowing------------12 1/2*/p*
+
+*p*By *person_mentioned*Perroagne */person_mentioned*after Corn-------50*/p*
+
+*p*$4.18 3/4*/p*
+*p*Paid on settlement *date_mentioned n="10-11-1828">Oct. 11, 1828—*/date_mentioned**/p*
+
+*p*[Indorsed:] *person_mentioned*J. C. Peyton*/person_mentioned* Ferry a/c*/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

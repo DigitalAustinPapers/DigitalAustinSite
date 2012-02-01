@@ -1,0 +1,85 @@
+﻿
+<TEI.2 id="APB4579">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>05-31-1833</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 983-984</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Stephen F Austin</document_author>
+<document_sender>Unknown</document_sender>
+<document_recipient>Samuel M Williams</document_recipient>
+<document_title>Stephen F Austin to Samuel M Williams, 05-31-1833</document_title>
+<document_location>
+	<sent_from>Matamoros, Tamaulipas</sent_from>
+	<sent_to>San Felipe de Austin, Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Austin to Samuel M. Williams, Matamoros, May 31, 1833. Warning against speculation.   Robertson colony.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 983-984</barker_citation>
+</barker_notes>
+<document_digital_creation>11-26-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4579T">
+
+<body>
+*div1 type="summary"*
+*p*Austin to Samuel M. Williams, Matamoros, May 31, 1833. Warning against speculation.   Robertson colony.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p*[From Williams Papers, Rosenberg Library, Galveston, Tex.]*/p*
+
+*p*The draft on *person_mentioned*Hebenstreit */person_mentioned*from *person_mentioned*Reynolds */person_mentioned*was neither accepted nor
+protested. *person_mentioned*Hebenstreit */person_mentioned*was absent and I left the draft with *person_mentioned*Mr
+Toler*/person_mentioned*, with directions to collect it, or if it was protested to send it
+to you.*/p*
+
+*p*I wish all things to harmonise with *person_mentioned*Fisher */person_mentioned*when he arrives—he
+will now be usefull to *location_mentioned*Texas*/location_mentioned*, and all the past ought to be forgotten,
+be particular as to this point.*/p*<barker_pb n="984"/>
+
+*p*Don't forget the <hi rend="italic">strange order,</hi> that *person_mentioned*Arcia. [Arciniega]*/person_mentioned* recd, about
+the records—keep an [eye] to all that.*/p*
+
+*p*You are engaging in one business [before the?] other is finished
+and may spoil [everything?] rush the records of the *location_mentioned*office */location_mentioned*. . .
+the testimonios and surveys etc then give it up in toto and go to the
+*person_mentioned*merchants */person_mentioned*occupation, but finish first and keep clear of land jobing.
+I am of opinion that the *location_mentioned*upper colony*/location_mentioned* will totally ruin me? in fact
+I have but little doubt of it, for such men and [as] *person_mentioned*Bowie */person_mentioned*etc will
+lead you and *person_mentioned*John */person_mentioned*too far into speculations*person_mentioned* B F. Smiths*/person_mentioned* cursed
+foolish trip has done great harm and I am sorry he ever came to
+*location_mentioned*Texas*/location_mentioned*—keep clear of all speculations for the future, they are a
+<hi rend="italic">curse </hi>to any *location_mentioned*country */location_mentioned*and will be a very <hi rend="italic">sore curse</hi> to me individually.
+I believe they will ruin me if they have not already done it—cursed
+be the hour I ever thought of applying for that *location_mentioned*upper colony*/location_mentioned*.*/p*
+
+*p**location_mentioned*Matamoros*/location_mentioned*,*date_mentioned n="05-31-1833"> may 31, 1833*/date_mentioned**/p*
+
+*p**person_mentioned*S. F. Austin*/person_mentioned**/p*
+
+*p*If the wind permits I shall sail *date_mentioned n="06-01-1833">tomorrow */date_mentioned*in the comet for *location_mentioned*vera
+cruz*/location_mentioned*.*/p*
+
+*p*N. B. I have unlimited con[fidence in] *person_mentioned*Felisola*/person_mentioned*—he is a good
+and    .    .    .    man and can be fully re[lied on].*/p*
+
+*p**person_mentioned*S. F. Austin*/person_mentioned**/p*.
+
+*/div1*
+</body>
+</text>
+</TEI.2>

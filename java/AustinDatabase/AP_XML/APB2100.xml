@@ -1,0 +1,80 @@
+﻿
+<TEI.2 id="APB2100">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>09-06-1825</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 1190</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Laurence Richard Kenny</document_author>
+<document_sender>Capt Martin</document_sender>
+<document_recipient>John P Coles</document_recipient>
+<document_title>Laurence Richard Kenny to John P Coles, 09-06-1825</document_title>
+<document_location>
+	<sent_from>San Felipe de Austin, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Laurence Richard Kenny to John P. Coles, September 6, 1825. Concerning a deed.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1190</barker_citation>
+</barker_notes>
+<document_digital_creation>12-26-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB2100T">
+
+<body>
+*div1 type="summary"*
+*p*Laurence Richard Kenny to John P. Coles, September 6, 1825. Concerning a deed.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*San felipe de Austin*/location_mentioned* *date_mentioned n="09-06-1825">Sepr 6: 1825*/date_mentioned**/p*
+*p*Sir*/p*
+
+*p*As *person_mentioned*Executor of the will of David Richmond*/person_mentioned* deceased I have to
+demand once more from you the Deed of said *person_mentioned*Richmond*/person_mentioned*s land
+Lodged with you by *person_mentioned*Mr Byrd*/person_mentioned* for the express purpose of 
+transmitting the same to me which you promised him to do but which promise
+you never fulfilled*/p*
+
+*p*When I formerly called upon you for the Deed you stated to me
+that you had sent the same to *person_mentioned*Col Austin */person_mentioned*and that you were totally
+unacquainted with the manner in which *person_mentioned*Judge Austin*/person_mentioned* had acquired
+information of the same being in your hands—Upon a subsequent
+application to *person_mentioned*Judge Austin */person_mentioned*he informed me that You by letter
+had informed him that *person_mentioned*Richmond*/person_mentioned*s Deed was in your possession and
+that in consequence of such informatn he had wrote to you first—
+This Sir is not fair or honest dealing*/p*
+
+*p*Upon mature reflection and a review of the whole transaction,
+Considering the special purpose for which this Deed was Entrusted
+to you—Your breach of Confidence And the falsehood above stated
+with which you attempted to justify your Conduct I feel myself
+alsolutely bound as the *person_mentioned*guardian of Richmonds property*/person_mentioned* to require
+you now without <hi rend="italic">equivocation or delay</hi> to restore or cause to be
+restored to me the Deed in question—*person_mentioned*Capt Martin*/person_mentioned* a Gentleman of
+standing and respectability will deliver this Communication to
+you—He is hereby fully Authorized to receive the Deed and receipt—
+to you for the same Or in case of your declining to do so He is
+empowered to make other Arrangements which he will in such case
+Communicate to you—*/p*
+
+*p**person_mentioned*Lauce Rich. Kenny */person_mentioned*   [Rubric]*/p*
+
+
+*/div1*
+</body>
+</text>
+</TEI.2>

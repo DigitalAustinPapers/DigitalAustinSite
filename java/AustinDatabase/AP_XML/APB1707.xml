@@ -1,0 +1,104 @@
+﻿
+<TEI.2 id="APB1707">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>04-16-1829</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 205-206</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Stephen F Austin</document_author>
+<document_sender></document_sender>
+<document_recipient>Josiah H Bell</document_recipient>
+<document_title>Stephen F Austin to Josiah H Bell, 04-16-1829</document_title>
+<document_location>
+	<sent_from>Unknown</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Austin to Josiah H. Bell, April 16, 1829. Asks Bell to assist in preparing
+a list of settlers who have not obtained land titles. Object to show the land
+commissioner the importance of finishing that task, which his predecessors
+had generally imposed on Austin.   Progress of subscription for the academy.</barker_summary>
+	<barker_footnotes>This was Juan Antonio Padilla</barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 205-206</barker_citation>
+</barker_notes>
+<document_digital_creation>08-12-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1707T">
+
+<body>
+*div1 type="summary"*
+*p*Austin to Josiah H. Bell, April 16, 1829. Asks Bell to assist in preparing
+a list of settlers who have not obtained land titles. Object to show the land
+commissioner the importance of finishing that task, which his predecessors
+had generally imposed on Austin.   Progress of subscription for the academy.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**date_mentioned n="04-16-1829">April 16—[1829]*/date_mentioned**/p*
+*p*Dr Sir,*/p*
+
+*p*I have not yet heard of the arrival of the *person_mentioned*comr */person_mentioned*at *location_mentioned*St Antonio*/location_mentioned*,
+tho I expect he has arrived there, and I think it probable that he will
+be here some time *date_mentioned n="05-xx-1829">next month*/date_mentioned*—he will not be able to attend to 
+business for some time after his arrival here—I shall advertise the time
+when he will be ready to receive applications, and it will be 
+necessary for *person_mentioned*Mrs Powel*/person_mentioned* to come up at that time*/p*
+
+*p*I find that it will be necessary for me to insist that the 
+*person_mentioned*commissioner */person_mentioned*shall attend to the duties which the law requires him to attend<barker_pb n="206"/>
+to, and if he does so, I shall be totally relieved from the vexation of
+distributing land to the *person_mentioned*settlers*/person_mentioned*, for the law imposes all that duty on
+the *person_mentioned*commissioner*/person_mentioned*, but heretofore the *person_mentioned*comr */person_mentioned*imposed it all on me—he
+will be compelled to form some general rules on the subject and to
+follow them with very great rigor, or there will be much confusion.
+I wish to get a complete list of all those who have not yet recd
+land, in order to convince the *person_mentioned*commissioner */person_mentioned*of the necessity of his
+staying here untill the business is all finished, for if I do not do this,
+he will only remain a short time and leave me as the other 
+*person_mentioned*commissioners */person_mentioned*have [be]fore the business is half finished—I have [asked]
+the favor of *person_mentioned*Mr Ingram*/person_mentioned* to get a list of all in that *location_mentioned*section*/location_mentioned*, and I
+must ask the favor of you to aid him in doing so—*/p*
+
+*p*Things are getting on better here, and there is some more harmony
+than there was— The *person_mentioned*people */person_mentioned*must be more particular in electing a
+man for *person_mentioned*Alcalde*/person_mentioned*—If it will not injure you too much I think you
+ought to be the next *person_mentioned*Alcalde*/person_mentioned*—-many persons speak of you—in fact I
+do not think there would be any opposition at all— I have been
+spoken to by many, and I wish to get that idea out of their heads,
+for I am compelled to visit the *location_mentioned*United States*/location_mentioned* *date_mentioned n="Fall-1829">next fall*/date_mentioned*, and I shall
+spend the season there— It will not do for me to be *person_mentioned*Alcalde*/person_mentioned*— I
+have not the same patience that I once had— I have also other
+things to attend to of much more importance to the *location_mentioned*colony */location_mentioned*than
+settling little *location_mentioned*neighborhood */location_mentioned*disputes about cows and calves-
+There are some erronious impressions about the *person_mentioned*Ayuntamiento*/person_mentioned*,
+amongst the *person_mentioned*settlers*/person_mentioned*—those kind of impressions are very injurious
+and ought to be corrected*person_mentioned*—Mr Ingram*/person_mentioned* can give you much 
+information on [this?] and I will promptly afford all the information in my
+power to any one who will [write] me or take the trouble to inquire—
+Our *location_mentioned*Academy */location_mentioned*subscription goes on very well there is over 1300
+dollars subscribed and I think we shall be able to get a *location_mentioned*brick 
+building.*/location_mentioned* I am anxious to see the matter succeed for I think it will be
+attended with much public good*/p*
+
+*p*I will be down and try and spend some time in that *location_mentioned*quarter */location_mentioned*after
+the *person_mentioned*commissioner */person_mentioned*arrives—*/p*
+
+*p*My respects to *person_mentioned*Mrs Bell */person_mentioned*                           *person_mentioned* S. F. Austin*/person_mentioned* [Rubric]*/p*
+
+
+*/div1*
+</body>
+</text>
+</TEI.2>

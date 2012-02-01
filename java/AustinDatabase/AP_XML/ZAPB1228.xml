@@ -1,0 +1,79 @@
+﻿
+<TEI.2 id="APB1228">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>08-03-1826</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1397-1398</document_citation>
+<document_language>English</document_language>
+<document_status>Public</document_status>
+<document_type>Deposition</document_type>
+<document_author>Stephen F. Austin</document_author>
+<document_sender></document_sender>
+<document_recipient>Unknown</document_recipient>
+<document_title>Stephen F. Austin to Unknown, 08-03-1826</document_title>
+<document_location>
+	<sent_from>San Felipe de Austin, Texas</sent_from>
+	<sent_to>San Felipe de Austin, Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Martin Allen to Austin, August 3, 1826. Deposition concerning character of Peter Ellis Bean.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1397-1398</barker_citation>
+</barker_notes>
+<document_digital_creation>07-01-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1228T">
+
+<body>
+<div1 type="summary">
+<p>Martin Allen to Austin, August 3, 1826. Deposition concerning character of Peter Ellis Bean.</p>
+</div1>
+
+<div1 type="body">
+
+<p>This day <date_mentioned n="08-03-1826">August 3 1826</date_mentioned> in the Town of <location_mentioned>San Felipe de Austin </location_mentioned>
+Personally appeared before me <person_mentioned>Stephen F. Austin</person_mentioned> Judge interim of this
+Jurisdiction and commissioned by order of his Excellency the <person_mentioned>Govr
+of the <location_mentioned>State of Quahuila and Texas</location_mentioned></person_mentioned> to enquire as to the marriage and
+character of <person_mentioned>E B[ean]</person_mentioned></p>
+
+<p><person_mentioned>Martin Allen</person_mentioned> a respectable and honorable <person_mentioned>inhabitant </person_mentioned>of this 
+<location_mentioned>Jurisdiction </location_mentioned>who being duly Sworn to depose the truth as to what he<barker_pb n="1398"/>
+knows relative to Said <person_mentioned>Bean </person_mentioned>makes the following declaration—to
+wit—that this <person_mentioned>deponent </person_mentioned>lived a number of years in the Same Section
+of <location_mentioned>Country </location_mentioned>in the <location_mentioned>Arkansas Territory</location_mentioned> with Said <person_mentioned>Bean </person_mentioned>and was 
+intimately acquainted with him and his <person_mentioned>family </person_mentioned>for Six years and was
+frequently at his <location_mentioned>house </location_mentioned>both in <location_mentioned>Arkansas </location_mentioned>and on the <location_mentioned>river Neches</location_mentioned>
+in the <location_mentioned>district of Nacodoches</location_mentioned> where he now lives—The Said <person_mentioned>Bean</person_mentioned>
+had a <person_mentioned>wife </person_mentioned>when this <person_mentioned>deponent </person_mentioned>first saw him in <location_mentioned>Arkansas</location_mentioned>, does not
+know where he was married but believes in the <location_mentioned>State of Tennessee</location_mentioned>—
+The common and universal belief of every one was that the said
+<person_mentioned>Bean </person_mentioned>was legally married to his <person_mentioned>wife </person_mentioned>according to the laws of the
+<location_mentioned>country </location_mentioned>where he lived—his <person_mentioned>Father in law</person_mentioned> was by the name of 
+<person_mentioned>Metcalf </person_mentioned>and was well known to this deponent. He had the character of
+respectable and honorable man and was a <person_mentioned>Justice of the Peace in
+<location_mentioned>Arkansas territory</</location_mentioned>person_mentioned>, and does not believe from the character and
+standing of said <person_mentioned>Metcalf </person_mentioned>that he would have permitted the Said
+<person_mentioned>Bean </person_mentioned>to live with his <person_mentioned>daughter </person_mentioned>unless they were legally married.</p>
+
+<p>This deponent thinks <person_mentioned>Bean </person_mentioned>to be an honest man he is very fond
+of boasting and telling large stories about his exploits in the 
+Mexican revolution and said he was a <person_mentioned>Colonel of the regular army of
+Mexico</person_mentioned>.</p>
+
+<p>This <person_mentioned>deponent </person_mentioned>cannot positively state how many <person_mentioned>children </person_mentioned>Said <person_mentioned>B.
+</person_mentioned>has at this time but believes he has three.</p>
+
+</div1>
+</body>
+</text>
+</TEI.2>

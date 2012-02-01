@@ -1,0 +1,74 @@
+﻿
+<TEI.2 id="APB4586">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>07-30-1833</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 991-992</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Stephen F Austin</document_author>
+<document_sender></document_sender>
+<document_recipient>James F Perry</document_recipient>
+<document_title>Stephen F Austin to James F Perry, 07-30-1833</document_title>
+<document_location>
+	<sent_from>Mexico</sent_from>
+	<sent_to>San Felipe de Austin, Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Austin to James F. Perry, Mexico, July 30, 1833. Hopes for success, but favors organization as a State without consent of Congress if consent is refused.    Rumors of cholera in Texas.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 991-992</barker_citation>
+</barker_notes>
+<document_digital_creation>11-29-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4586T">
+
+<body>
+<div1 type="summary">
+<p>Austin to James F. Perry, Mexico, July 30, 1833. Hopes for success, but favors organization as a State without consent of Congress if consent is refused.    Rumors of cholera in Texas.</p>
+</div1>
+
+<div1 type="body">
+
+<p><location_mentioned>Mexico </location_mentioned><date_mentioned n="07-30-1833">July 30. 1833<</date_mentioned>/p>
+<p>Dr <person_mentioned>Brother</person_mentioned>,</p>
+
+<p>I refer you to my letter to the <person_mentioned>committee </person_mentioned>for news as to my 
+mission, and will only state I have very strong and well founded hopes
+of complete success—I believe that <location_mentioned>Texas </location_mentioned>will be a <location_mentioned>state </location_mentioned>in a short
+time with the approbation of the <person_mentioned>Govt</person_mentioned>. But if our application is
+refused I shall be in favor of organising without it I see no other
+way of saving that <location_mentioned>country </location_mentioned>from total anarchy and ruin—I am
+totally done with concilliatory measures, and for the future shall be
+uncompromising as [to] Texas matters.</p><barker_pb n="992"/>
+
+<p>Why do you not write me? I expected to hare recd, letters here—
+none from anyone—-! am uneasy very much so indeed—I heard a
+bad account about overflow and cholera but hope it is incorrect—
+I had a wretched trip. <hi rend="italic">One month</hi> from <location_mentioned>Matamoros </location_mentioned>to <location_mentioned>Vera Cruz</location_mentioned> in
+a little schooner—ten days on short allowance of water—none but
+salt provisions—and sea sick all the time. But I am well now.
+<person_mentioned>Padre Muldoon</person_mentioned> sends his respects to every one—he does all he can
+for <location_mentioned>Texas</location_mentioned></p>
+
+<p>Love to the <person_mentioned>children </person_mentioned>and <person_mentioned>Sister </person_mentioned>and your <person_mentioned>neighbors</person_mentioned>.</p>
+
+<p><person_mentioned>Stephen</person_mentioned></p>
+
+<p>[Addressed:] Al <person_mentioned>sor Don James F. Perry</person_mentioned> <location_mentioned>San Felipe de Austin
+Texas</location_mentioned></p>
+
+</div1>
+</body>
+</text>
+</TEI.2>

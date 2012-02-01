@@ -1,0 +1,82 @@
+﻿
+<TEI.2 id="APB1099">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>05-09-1825</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1090</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Governor H. Johnson</document_author>
+<document_sender>Mr Green D. Caller [Collier]</document_sender>
+<document_recipient>Stephen F. Austin</document_recipient>
+<document_title>Governor H. Johnson to Stephen F. Austin, 05-09-1825</document_title>
+<document_location>
+	<sent_from>New Orleans, Louisiana</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>H. Johnson, governor of Louisiana, to Bastrop, May 9, 1825. Concerning recovery of 10 African negroes stolen from Alabama while under adjudication of
+Federal district court.</barker_summary>
+	<barker_footnotes>On the subject of this letter see Gaines to Austin, August 13, 1825.</barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1090</barker_citation>
+</barker_notes>
+<document_digital_creation>06-08-1825</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1099T">
+
+<body>
+*div1 type="summary"*
+*p*H. Johnson, governor of Louisiana, to Bastrop, May 9, 1825. Concerning recovery of 10 African negroes stolen from Alabama while under adjudication of
+Federal district court.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*New Orleans*/location_mentioned*, *date_mentioned n="05-09-1825">9th May, 1825.*/date_mentioned**/p*
+*p*Sir:*/p*
+
+*p**person_mentioned*Mr Green D. Caller [Collier]*/person_mentioned*, who will present this letter, goes
+to the *location_mentioned*Province of Texas */location_mentioned*in pursuit of ten *person_mentioned*African negroes*/person_mentioned* which
+were stollen and carried off from the State of *location_mentioned*Alabama */location_mentioned*in the year
+*date_mentioned n="xx-xx-1821">1821*/date_mentioned*, and which are said to be in the said *location_mentioned*Province*/location_mentioned*. The said *person_mentioned*slaws*/person_mentioned*
+were captured by *person_mentioned*Lt. Y. Mckeever*/person_mentioned* at *location_mentioned*Pensacola */location_mentioned*in the year *date_mentioned n="xx-xx-1821">1818*/date_mentioned*,
+and were at the time of the theft under adjudication in the District
+Court of the *location_mentioned*United States*/location_mentioned* for the*location_mentioned* District of Alabama*/location_mentioned*.*/p*
+
+*p*It is said they were stollen by *person_mentioned*Robert Caller*/person_mentioned* out of the possession
+of his *person_mentioned*aunt*/person_mentioned*, who is one of the principals to the bond of $100,000
+given for the forthcoming of the *person_mentioned*slaves */person_mentioned*at Court. The bearer of
+this letter, who is recommended to me as a man of respectability,
+is the *person_mentioned*son */person_mentioned*of the lady who had the *person_mentioned*slaves */person_mentioned*in possession, and feeling
+a deep interest in restoring them, has volunteered his services for
+the purpose.*/p*
+
+*p*At the instance of a *person_mentioned*gentleman */person_mentioned*of this *location_mentioned*State */location_mentioned*of high respectability,
+who is acquainted with the circumstances of the case, I take the
+liberty to address you upon the subject, and to solicit your friendly
+aid and authority in securing the *person_mentioned*slaves */person_mentioned*so that they may be 
+restored to their rightful *person_mentioned*owners*/person_mentioned*. *person_mentioned*Robert Caller*/person_mentioned* is represented as a
+desperate character, and may attempt, if not prevented by 
+confinement, to rescue the *person_mentioned*slaves */person_mentioned*even at the risk of his life. It might
+perhaps be advisable, if satisfactory proof should be exhibited of
+his guilt, to send him back for trial to the place where the crime
+was committed.*/p*
+
+*p**person_mentioned*H. Johnson, Gov. of the State of *location_mentioned*Louisiana*/location_mentioned**/person_mentioned*.*/p*
+
+*p*His Excellency, *person_mentioned*Baron Bastrop, Governor of *location_mentioned*Texas*/location_mentioned**/person_mentioned*.*/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,83 @@
+﻿
+<TEI.2 id="APB4310">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>01-13-1832</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 735-736</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>James Small</document_author>
+<document_sender>James Whiteside</document_sender>
+<document_recipient>Stephen F Austin</document_recipient>
+<document_title>James Small to Stephen F Austin, 01-13-1832</document_title>
+<document_location>
+	<sent_from>Unknown</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>James Small to Austin, January 13, 1832.   Bill for attending a sick Mexican.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 735-736</barker_citation>
+</barker_notes>
+<document_digital_creation>09-19-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4310T">
+
+<body>
+*div1 type="summary"*
+*p*James Small to Austin, January 13, 1832.   Bill for attending a sick Mexican.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p*Colo *person_mentioned*Stephen F. Austin*/person_mentioned**/p*
+
+*p*Dear Sir the amount of the inclosed account is not only half
+price for the Servises and attention I paid to the *person_mentioned*oald man */person_mentioned*you
+heard *person_mentioned*Doctor Miller*/person_mentioned* say that he could not Live over three days and
+that he could not attend on him any Longer you then asked me
+to Give him medison and do all that I could and you would pay
+me Stateing he was Exiled from his *location_mentioned*country */location_mentioned*and it would be a
+pitty to Let the *person_mentioned*oald man */person_mentioned*Lay and die like a brute   I attend on him<barker_pb n="736"/>
+day and night for the time Specified in my account which he was
+helpless as a child nearly all the time *person_mentioned*Mr. James Whiteside*/person_mentioned* who
+will hand you this Letter can inform you the Same and that I
+freecantly called on him to let me have some of his *person_mentioned*blacks */person_mentioned*to help
+wash and dress the *person_mentioned*oald man*/person_mentioned*. *person_mentioned*Colo Austin*/person_mentioned* I want my deed for my
+*location_mentioned*Land */location_mentioned*and if you have a mind to pay my account fifteen dollars
+can go to you as *person_mentioned*commissioner*/person_mentioned*s fees for my deed and an order for
+the ballance in any store in town will answer your compliance
+with the above will oblige yours*/p*
+
+*p**person_mentioned*James Small*/person_mentioned**/p*
+
+*p**date_mentioned n="01-13-1832">13 Jan 1832*/date_mentioned**/p*
+
+*p*Be So good as to inform me if the *location_mentioned*Land */location_mentioned*I petitioned to 
+government for was granted*/p*
+
+*p**person_mentioned*James Small*/person_mentioned*    [Rubric]*/p*
+
+*p*[Inclosure]*/p*
+
+*p**date_mentioned n="01-12-1832">Jany 12 1832*/date_mentioned**/p*
+
+*p**person_mentioned*Colo Stephen F Austin*/person_mentioned**/p* 
+
+*p*To *person_mentioned*James Small*/person_mentioned* Dr.
+by your assumption for taking care of *person_mentioned*Don Cevastian rodriges*/person_mentioned* one month - $30 00*/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

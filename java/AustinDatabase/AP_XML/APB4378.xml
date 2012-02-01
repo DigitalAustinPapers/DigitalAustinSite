@@ -1,0 +1,77 @@
+﻿
+<TEI.2 id="APB4378">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>07-09-1832</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 813</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Stephen F Austin</document_author>
+<document_sender></document_sender>
+<document_recipient>Jose Antonio Mexia</document_recipient>
+<document_title>Stephen F Austin to Jose Antonio Mexia, 07-09-1832</document_title>
+<document_location>
+	<sent_from>Matamoros, Tamaulipas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Austin to José Antonio Mexia, Matamoros, July 9, 1832. Will accompany Mexia to Texas.   Convinced that the colonists have no designs on the integrity of Mexican territory, but that they are resisting unconstitutional acts of the military.</barker_summary>
+	<barker_footnotes>Translations in Nacogdoches Archives from Bexar Archives, Texas State Library.</barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 813</barker_citation>
+</barker_notes>
+<document_digital_creation>09-27-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4378T">
+
+<body>
+*div1 type="summary"*
+*p*Austin to José Antonio Mexia, Matamoros, July 9, 1832. Will accompany Mexia to Texas.   Convinced that the colonists have no designs on the integrity of Mexican territory, but that they are resisting unconstitutional acts of the military.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p*I have received your communication of the*date_mentioned n="07-08-1832"> 8th inst*/date_mentioned*. accompanying
+a letter of *person_mentioned*Colonel Guerra*/person_mentioned* of the *date_mentioned n="07-07-1832">7th */date_mentioned*also a copy of the articles of
+agreement, entered into between that *person_mentioned*officer */person_mentioned*and yourself on the *date_mentioned n="07-06-1832">6th*/date_mentioned*.*/p*
+
+*p*You are pleased to say to me in your communication that you and
+*person_mentioned*Colonel Guerra*/person_mentioned* agree that I ought to accompany you in your 
+*person_mentioned*expedition */person_mentioned*to *location_mentioned*Texas*/location_mentioned*, in order to contribute by my influence in the *location_mentioned*colonies*/location_mentioned*
+to calm the passions of the *person_mentioned*people */person_mentioned*unhappily aroused there, In
+answer, I have the honor to say that I am ready to accompany you
+and anxious to contribute with all my power to the service of my
+*location_mentioned*adopted Country*/location_mentioned*. At the same time I would observe that I am 
+convinced that the *person_mentioned*Colonists of *location_mentioned*Texas*/location_mentioned**/person_mentioned* have no views opposed to the
+integrity of the *person_mentioned*Mexican Government*/person_mentioned*. The disturbances there were
+in consequence of the arbitrary conduct of the *person_mentioned*Officers of the 
+General Government*/person_mentioned* and excesses committed against the Constitution
+and rights of the *location_mentioned*State of Coahuila and Texas*/location_mentioned*, and had no other
+cause, How ever I believe that my presence in *location_mentioned*Texas */location_mentioned*is necessary
+to calm the irritation and to restore harmony.*/p*
+
+*p*I avail myself of this occasion to present to you the assurances of
+my respect and consideration*/p*
+
+*p*God and Liberty*/p*
+
+*p**person_mentioned*Stephen F. Austin*/person_mentioned**/p*
+
+*p**location_mentioned*Matamoras */location_mentioned**date_mentioned n="07-09-1832">July 9th 1832*/date_mentioned**/p*
+
+
+
+
+*/div1*
+</body>
+</text>
+</TEI.2>

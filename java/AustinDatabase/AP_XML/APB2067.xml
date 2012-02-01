@@ -1,0 +1,73 @@
+﻿
+<TEI.2 id="APB2067">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>07-24-1825</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 1155</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>James Grant</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F Austin</document_recipient>
+<document_title>James Grant to Stephen F Austin, 07-24-1825</document_title>
+<document_location>
+	<sent_from>Reynosa, Tamaulipas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>James Grant to Austin, July 24, 1825.   Trade with Mexico.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1155</barker_citation>
+</barker_notes>
+<document_digital_creation>12-22-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB2067T">
+
+<body>
+*div1 type="summary"*
+*p*James Grant to Austin, July 24, 1825.   Trade with Mexico.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Reynosa */location_mentioned**date_mentioned n="07-24-1825">24th July 1825*/date_mentioned*—*/p*
+*p**person_mentioned*Colnl Stephen F. Austin*/person_mentioned*,*/p*
+*p*Dear Sir*/p*
+*p*I have been much longer detained in this *location_mentioned*Country */location_mentioned*than I had any
+Idea of when I started from your *location_mentioned*settlement*/location_mentioned*, It was Six Weeks,
+before we reached *location_mentioned*Refugio*/location_mentioned*, and have been longer in Settling my
+business than I had any Idea of. I then went up the *location_mentioned*Country */location_mentioned*and
+bought Some Wool to bring on to the *location_mentioned*Settlement */location_mentioned*but by high waters
+and loosing Mules and Horses, it is only the other day I was able to
+get my Cargos and Mules Collected in *location_mentioned*Camargo */location_mentioned*to start, but am
+again prevented by high waters all the *location_mentioned*Water Courses*/location_mentioned* are up so
+that mules with Cargo cannot proceed and I am uncertain when I will
+be able to travel with my cargo there has been a great deal of Rain
+in this *location_mentioned*Country */location_mentioned*the *location_mentioned*Rio Grande*/location_mentioned* is very high and likewise the
+*location_mentioned*Nueces*/location_mentioned*; and as I am unable to proceed, I have concluded to go down
+to *location_mentioned*Refugio */location_mentioned*and purchase a few goods, to see if I can make up my lost
+time; I shall be with you as soon as it is practicable; as I have since
+I first saw the *location_mentioned*Country */location_mentioned*been determined to become a *person_mentioned*Settler*/person_mentioned*; and
+have refused some good offers to make money, in consequence of
+making all my arrangements to go and settle with you; I hope *person_mentioned*Captn
+Jones*/person_mentioned* has attended to my business and that all things are well my
+absence from the *location_mentioned*Colonies */location_mentioned*has not been my fault; which I know you
+are sensible of— If *person_mentioned*Captn Jones */person_mentioned*has not been able to pay you the
+balance; I will settle with you to your satisfaction.*/p*
+
+*p**person_mentioned*James Grant*/person_mentioned*.*/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

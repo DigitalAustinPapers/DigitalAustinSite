@@ -1,0 +1,62 @@
+﻿
+<TEI.2 id="APB3040">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>12-06-1825</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1237-1238</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>John McArthur</document_author>
+<document_sender>John Mathews</document_sender>
+<document_recipient>Stephen F. Austin</document_recipient>
+<document_title>John McArthur to Stephen F. Austin, 12-06-1825</document_title>
+<document_location>
+	<sent_from>Fredericktown, Missouri</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Introducing John Mathews.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1237</barker_citation>
+</barker_notes>
+<document_digital_creation>06-22-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Cameron L. Sinclair, Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB3040T">
+
+<body>
+*div1 type="summary"*
+*p*Introducing John Mathews.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Fredericktown*/location_mentioned* [Missouri], *date_mentioned n="12-06-1825">Dec. 6th 1825*/date_mentioned**/p*
+*p*My Dear Sir,*/p*
+*p*My friend *person_mentioned*John Mathews*/person_mentioned*, who will give you this letter, has been an
+*person_mentioned*inhabitant of this *location_mentioned*Country*/location_mentioned**/person_mentioned* for 26 years; I have been acquainted with <barker_pb n="1238"/>him for 18 years and with much pleasure can recommend him as a
+man of integrity and a good citizen. He goes to your *location_mentioned*Country*/location_mentioned* with
+a view of becoming a citizen thereof. He possesses a knowledge in
+*person_mentioned*mineralogy*/person_mentioned*, and wishes to engage in that line. I write this note in
+haste as *person_mentioned*Mr. Mathews*/person_mentioned* is on the eve of Departure, would be glad to
+give you a full letter—but can only say, being lately at the *location_mentioned*Mines of
+Burton*/location_mentioned* your *person_mentioned*sister*/person_mentioned* was well—My *person_mentioned*family */person_mentioned*are all well. You will soon
+make up your acquaintance with *person_mentioned*Mr Mathews*/person_mentioned*, who will give you all
+the local news,*/p*
+
+*p**person_mentioned*John McArther*/person_mentioned**/p*
+*p**person_mentioned*Col Stephen F. Austin*/person_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

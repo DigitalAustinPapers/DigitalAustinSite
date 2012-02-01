@@ -1,0 +1,78 @@
+﻿
+<TEI.2 id="APB4541">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>Unknown</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 934</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Memorandum</document_type>
+<document_author>Stephen F Austin</document_author>
+<document_sender></document_sender>
+<document_recipient>Committee at Convention</document_recipient>
+<document_title>Stephen F Austin to Committee at Convention, Unknown</document_title>
+<document_location>
+	<sent_from>Unsent</sent_from>
+	<sent_to>Unsent</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Outline of address to convention by Austin, April 1, 1833.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 934</barker_citation>
+</barker_notes>
+<document_digital_creation>11-14-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4541T">
+
+<body>
+*div1 type="summary"*
+*p*Outline of address to convention by Austin, April 1, 1833.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p*memorandum—*/p*
+
+*p*1—A short general view of the political situation of the whole
+*location_mentioned*Mexican republic*/location_mentioned* in *date_mentioned n="11-xx-1832">November last*/date_mentioned*—all in revolution and so disorganized that it was not known in *location_mentioned*Texas */location_mentioned*whether any legitimate 
+government existed. Also a view of its present situation so far as is
+known and the tryumph of the *person_mentioned*liberal party*/person_mentioned* by the success of *person_mentioned*Santa
+Anna*/person_mentioned* and the pacification under the plan of *location_mentioned*Zavaleta*/location_mentioned*.*/p*
+
+*p*2—A short view of the situation of *location_mentioned*Texas */location_mentioned*at that time owing to
+the revolution in *location_mentioned*Mexico */location_mentioned*and the danger of falling into anarchy for
+the want of adequate *person_mentioned*local govt*/person_mentioned*, and the consequent necessity of
+doing something to preserve the public peace and order.*/p*
+
+*p*3—Its present situation as to the administration of justice and
+all the departments of the *person_mentioned*local government*/person_mentioned*. The distance from the
+present seat of government its disimilarity from *location_mentioned*Coahuila */location_mentioned*in climate
+productions, situation, etc, etc.*/p*
+
+*p*4—A general recapitulation shewing the necessity of a *person_mentioned*State 
+government*/person_mentioned* to protect the rights of the *person_mentioned*natives*/person_mentioned*, as well as those of the
+*person_mentioned*people of *location_mentioned*Texas*/location_mentioned**/person_mentioned*.*/p*
+
+*p*5—As to the manner of applying for admission as a *location_mentioned*state of the
+Mexican confederation*/location_mentioned*—quote the law of *date_mentioned n="05-07-1824">7th May 1824*/date_mentioned*, as the basis
+of the right to petition for a *person_mentioned*state government*/person_mentioned* and conclude with the
+opinion that such a petition should be made accompanied with the
+project of a constitution to be drawn up in strict conformity in the
+national constitution—etc, etc.*/p*
+
+*p*[Stephen F. Austin]*/p*
+
+
+*/div1*
+</body>
+</text>
+</TEI.2>

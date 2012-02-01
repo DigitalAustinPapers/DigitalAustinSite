@@ -1,0 +1,65 @@
+﻿
+<TEI.2 id="APB1248">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>08-16-1826</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1424-1425</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>John Ingram</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F. Austin</document_recipient>
+<document_title>John Ingram to Stephen F. Austin, 08-16-1826</document_title>
+<document_location>
+	<sent_from>Peach Creek, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>John Ingram to Austin, August 16, 1826.   Application for land.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1424-1425</barker_citation>
+</barker_notes>
+<document_digital_creation>07-05-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1248T">
+
+<body>
+*div1 type="summary"*
+*p*John Ingram to Austin, August 16, 1826.   Application for land.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Peach Creek*/location_mentioned* *date_mentioned n="08-16-1826">Aug 16. 1826*/date_mentioned**/p*
+*p*Dear Sir*/p*
+
+*p*I understand that your *location_mentioned*office */location_mentioned*is again opin to receive applications
+for *location_mentioned*land*/location_mentioned*; and having never yet recd any *location_mentioned*land */location_mentioned*in the *location_mentioned*Colony*/location_mentioned*, I wish to
+embrace the first opportunity to secure my alloted portion—As you
+have once made out my deed for half a league I hope you will yet con-<barker_pb n="1425"/>
+sider me entitled to that Quantity; particularly as I have been one of
+the first *person_mentioned*settlers */person_mentioned*in this *location_mentioned*Colony*/location_mentioned*, and have never been backward in
+doing a *person_mentioned*soldier*/person_mentioned*'s duty.—The *location_mentioned*good land*/location_mentioned* has been so generally taken
+up that I hardly know where to make a choice.—Perhaps there may
+be some *location_mentioned*forfeited land */location_mentioned*that you could recommend; if not, I have
+thought to take it on a small *location_mentioned*stream */location_mentioned*which heads in the *location_mentioned*Bay prairie*/location_mentioned*,
+and runs, perhaps, into the bay of *location_mentioned*Matagorde*/location_mentioned*—you will please to give
+me a verbal reply by *person_mentioned*Mr. Rabb*/person_mentioned*—*/p*
+
+*p**person_mentioned*John Ingram*/person_mentioned**/p*
+*p**person_mentioned*Col. S. F. Austin*/person_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

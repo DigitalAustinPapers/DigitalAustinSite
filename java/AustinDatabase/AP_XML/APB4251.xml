@@ -1,0 +1,92 @@
+﻿
+<TEI.2 id="APB4251">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>08-04-1831</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 685-686</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Sylvester Murphy</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F Austin</document_recipient>
+<document_title>Sylvester Murphy to Stephen F Austin, 08-04-1831</document_title>
+<document_location>
+	<sent_from>Gin Place</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Sylvester Murphy to Austin, August 4, 1831. Land. Major Douglass falsely claims negroes.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 685-686</barker_citation>
+</barker_notes>
+<document_digital_creation>09-13-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4251T">
+
+<body>
+*div1 type="summary"*
+*p*Sylvester Murphy to Austin, August 4, 1831. Land. Major Douglass falsely claims negroes.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Gin Place */location_mentioned**date_mentioned n="08-04-1831">4th August 1831*/date_mentioned**/p*
+*p**person_mentioned*Col. S. F. Austin*/person_mentioned**/p*
+
+*p*Dr Sir. I received your favour of the *date_mentioned n="08-01-1831">1st Inst*/date_mentioned* by *person_mentioned*Mr Hunter*/person_mentioned*,
+I am truely sorry I could not obtain the *location_mentioned*Clear Creek tract*/location_mentioned*.   I am a<barker_pb n="686"/>
+*person_mentioned*stranger */person_mentioned*in the *location_mentioned*country */location_mentioned*and my health has been and still remains
+so bad I have had no oppertunity of travling to make a Selection-
+even one or two rides to *location_mentioned*Brazoria */location_mentioned*has weakened me in such a manner
+I have been compeld to take two days to it. *person_mentioned*Mr Hunter*/person_mentioned* informs me
+that <hi rend="italic">*person_mentioned*Major Douglass*/person_mentioned*</hi> has made an Entry of my *person_mentioned*Negroes */person_mentioned*in your office
+as his *person_mentioned*property*/person_mentioned*— Now fair, I wish to prove to you that I am, and
+know, I shall always remain above <hi rend="italic">falsehood</hi>, I told you the 
+*person_mentioned*property */person_mentioned*was mine Enclosed you will receive Vouchers sufficient to 
+satisfy you and every other *person_mentioned*person */person_mentioned*that he does not, nor ever did own
+any part of the *person_mentioned*property */person_mentioned*in my possession nor does he own one Dollars 
+worth in the *location_mentioned*Colony*/location_mentioned*—his statement is gratuitous and false and
+unauthorized by me—*/p*
+
+*p*When the *person_mentioned*Major */person_mentioned*went to *location_mentioned*San Phillipe*/location_mentioned* *date_mentioned n="03-xx-1831">last March*/date_mentioned*, I asked him to
+take an *person_mentioned*Indenture */person_mentioned*that he was a *person_mentioned*witness */person_mentioned*to and prove it before the
+*person_mentioned*proper authority*/person_mentioned* in *location_mentioned*San Phillipe*/location_mentioned*, when he returnd I asked him why
+he had not done so— he then told me that himself and *person_mentioned*Mr S.
+Williams*/person_mentioned* had a misunderstanding—but he did not tell me he had
+presumed to enter the property as his, and I do hope his imprudent
+conduct will not be suffered to weigh one jot against me—*/p*
+
+*p*I also inclose you a letter from *person_mentioned*Capt- John Austin*/person_mentioned*, and I think
+I may venture to say (without egotism) that they are few men that
+have settled in this *location_mentioned*Colony */location_mentioned*that have behaved better, and have made
+more *person_mentioned*friends */person_mentioned*in so short a time.*/p*
+
+*p*I have been anxious, and nothing but delicate health has 
+presented me from coming to*location_mentioned* San Phillipe*/location_mentioned* long since, to comply with
+the terms of the Law, *person_mentioned*Mr Hall*/person_mentioned* can inform you I have been very
+sick—but I say again, as soon as my health permits I will come up
+and do every thing that is necessary to make a *person_mentioned*Citizen*/person_mentioned*-— Under
+those considerations I do hope sir you will reconsider my <hi rend="italic">Case </hi>and
+if it is a possible thing give me the <hi rend="italic">*location_mentioned*Clear Creek tract of land*/location_mentioned*</hi>— I
+assure your sir I remain your very obednt and humble Servant*/p*
+
+*p**person_mentioned*Sylvester Murphy*/person_mentioned**/p*
+
+*p*NB you will observe the *person_mentioned*Major */person_mentioned*acted as *person_mentioned*agent */person_mentioned*for me in clearing
+the *person_mentioned*Negroes*/person_mentioned*, my health was so bad I could not attend to it, and
+on the back of the Manifest he acknowledges that fact—   *person_mentioned*S M*/person_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

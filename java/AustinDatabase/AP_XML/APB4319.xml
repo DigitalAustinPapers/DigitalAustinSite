@@ -1,0 +1,72 @@
+﻿
+<TEI.2 id="APB4319">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>01-30-1832</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 745</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Stephen F Austin</document_author>
+<document_sender></document_sender>
+<document_recipient>Mary Austin Holley</document_recipient>
+<document_title>Stephen F Austin to Mary Austin Holley, 01-30-1832</document_title>
+<document_location>
+	<sent_from>San Felipe de Austin, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Austin to Mary Austin Holley, January 30, 1832. Introducing José Maria
+Carbajal.   Mexicans of Bexar uniformly friendly to Austin.
+</barker_summary>
+	<barker_footnotes>Copy by Mrs. Holley, in file of July 19, 1831.</barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 745</barker_citation>
+</barker_notes>
+<document_digital_creation>09-19-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4319T">
+
+<body>
+*div1 type="summary"*
+*p*Austin to Mary Austin Holley, January 30, 1832. Introducing José Maria
+Carbajal.   Mexicans of Bexar uniformly friendly to Austin.
+*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*San Felipe de Austin*/location_mentioned*, *date_mentioned n="01-30-1832">Jan: 30,1832*/date_mentioned**/p*
+*p*As you will be entertained by hearing all you can of our *location_mentioned*Texas */location_mentioned*I
+will give a short note to my friend *person_mentioned*Jose Carbajal*/person_mentioned* who has promised
+to deliver it in person. He is a *person_mentioned*native Mexican,*/person_mentioned* was born at *location_mentioned*Bexar*/location_mentioned*
+where his *person_mentioned*Mother */person_mentioned*and *person_mentioned*family */person_mentioned*live. In *date_mentioned n="xx-xx-1823">1823*/date_mentioned* he went to *location_mentioned*Lexington, K,*/location_mentioned*
+with *person_mentioned*Mr Littlebury Hawkins*/person_mentioned*, and was educated by *person_mentioned*Mr. Campbel
+of *location_mentioned*Bethany, Virginia*/location_mentioned**/person_mentioned*, near *location_mentioned*Wheeling*/location_mentioned*. He is a sprightly, intelligent
+youth, and his principles are very sound and honorable. His own
+*person_mentioned*countrymen */person_mentioned*call him a *person_mentioned*Norte Americano*/person_mentioned*. The *person_mentioned*people of *location_mentioned*Bexar*/location_mentioned**/person_mentioned* are
+pretty unanimously my *person_mentioned*friends*/person_mentioned*, and the friends of all the *person_mentioned*Colonists
+of *location_mentioned*Texas*/location_mentioned**/person_mentioned*. *person_mentioned*Carbajal */person_mentioned*is rather enthusiastic, the fault of youth, but
+you can get some information from him that may amuse you.*/p*
+
+*p*There is nothing new since you left of much importance except a
+report that *person_mentioned*Gen. Teran*/person_mentioned* is to be on in *date_mentioned n="03-xx-1832">March */date_mentioned*with *person_mentioned*3000 men*/person_mentioned* to fit out
+a campaign against the *person_mentioned*Comanche Indians*/person_mentioned*. So says rumour, but I
+place little confidence in it, for that number of *person_mentioned*troops */person_mentioned*could not be
+collected so soon*/p*.
+*p*I leave for *location_mentioned*Saltillo */location_mentioned*in *date_mentioned n="02-05-1832">fifteen days*/date_mentioned*.   My health is so so.*/p*
+
+*p**person_mentioned*Estevan*/person_mentioned*.*/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

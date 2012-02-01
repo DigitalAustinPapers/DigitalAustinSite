@@ -1,0 +1,100 @@
+﻿
+<TEI.2 id="APB1824">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>01-01-1830</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 311-312</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>Stephen F Austin</document_author>
+<document_sender></document_sender>
+<document_recipient>James F Perry</document_recipient>
+<document_title>Stephen F Austin to James F Perry, 01-01-1830</document_title>
+<document_location>
+	<sent_from>Austin, Texas</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Austin to James F. Perry, January 1, 1830.   Urging him to move to Texas.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 311-312</barker_citation>
+</barker_notes>
+<document_digital_creation>08-17-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1824T">
+
+<body>
+*div1 type="summary"*
+*p*Austin to James F. Perry, January 1, 1830.   Urging him to move to Texas.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**location_mentioned*Austin*/location_mentioned*,*date_mentioned n="01-01-1830"> Jany. 1, 1830*/date_mentioned*.*/p*
+*p*My dear *person_mentioned*brother */person_mentioned*and *person_mentioned*sister*/person_mentioned*,*/p*
+
+*p*I have taken a few moments of Leisure to present to you my
+sincere wishes that the *date_mentioned n="xx-xx-1830">new year */date_mentioned*which has just entered may be<barker_pb n="312"/>
+a happy and prosperous one to you and that before its close we may
+all be united once more in this *location_mentioned*country*/location_mentioned*.*/p*
+
+*p*I wrote you *date_mentioned n="12-xx-1829">last month*/date_mentioned* advising and urging you to remove here
+as soon as possible. I again repeat the same, I wrote you that
+I had petitioned for *location_mentioned*land */location_mentioned*for you I have asked of the Govt *location_mentioned*eleven
+Leagues of land*/location_mentioned* for you on the condition that you remove here.
+My *person_mentioned*friends */person_mentioned*are of the opinion the whole Eleven Leagues will be
+granted which will be near 50,000 acres. The land I have selected for
+you *location_mentioned*lies on Galveston Bay and within six miles of Galveston harbor*/location_mentioned*.
+if land is ever worth anything,<hi rend="italic"> one single</hi> league at that *location_mentioned*place */location_mentioned*will
+be worth a fortune. I cannot say positively that the whole *location_mentioned*Eleven
+Leagues*/location_mentioned* will be granted, but I have no doubt that at least five will
+be.   I shall know the final result in *date_mentioned n="03-xx-1830">two months*/date_mentioned* and inform you.*/p*
+
+*p*There is an opening here now for *person_mentioned*merchandising*/person_mentioned*. Goods can be
+brought in free of duty until *date_mentioned n="11-xx-1830">November next*/date_mentioned*, and if you have an
+idea of removing here you ought to come immediately so as to bring
+in a large assortment of goods before the time expires for free
+importations.*/p*
+
+*p*I am very desirous for you to remove and there now cannot be
+a doubt remaining [as] to the rapid rise of this *location_mentioned*country*/location_mentioned*. [I can] do
+something for you <hi rend="italic">now</hi>, and you must come in time. If the *person_mentioned*Govr*/person_mentioned*
+grants the land I have asked, the title will be void unless you remove
+at least within 18 months from this time but if you delay untill after
+*date_mentioned n="11-xx-1830">Novr */date_mentioned*you will have to pay heavy duties on every thing you bring.*/p*
+
+*p*You may be sure that I would not urge your removal in so 
+positive a manner if I was not convinced that you will be greatly 
+benifited. <hi rend="italic">There is no time for hesitation or delay</hi>. You will find us a
+plain set of *person_mentioned*people*/person_mentioned*, and you need not be at much expense to bring
+furniture.*/p*
+
+*p*Farewell and let me hear from you as quick as possible.*/p*
+
+*p**person_mentioned*S. F. Austin.*/person_mentioned*    [Rubric]*/p*
+
+*p*Direct your letter post paid to the care of *person_mentioned*James W. Breedlove
+*/person_mentioned**location_mentioned*New Orleans*/location_mentioned*, and if you wish for any information relative to vessels
+coming to this *location_mentioned*colony */location_mentioned*write to *person_mentioned*Breedlove*/person_mentioned*, also if you wish to send
+anything here, consign it to him with instructions to ship it to the
+care of *person_mentioned*John Austin */person_mentioned**location_mentioned*Brazoria*/location_mentioned*. *person_mentioned*Breedlove */person_mentioned*does most of the business
+of this *location_mentioned*colony */location_mentioned*and I wish you to give him yours if you come here,
+<hi rend="italic">and you must come</hi> and that immediately.*/p*
+
+*p**person_mentioned*S. F. Austin*/person_mentioned*.*/p*
+*p*Bring all kinds of fruit seed and a quantity of it*/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

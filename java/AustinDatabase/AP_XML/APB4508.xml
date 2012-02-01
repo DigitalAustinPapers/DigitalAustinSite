@@ -1,0 +1,63 @@
+﻿
+<TEI.2 id="APB4508">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>01-15-1833</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1922: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1928), 3 vols., Vol 2, pp. 913</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Bill</document_type>
+<document_author>Samuel M Williams</document_author>
+<document_sender></document_sender>
+<document_recipient>E. St John Hawkins</document_recipient>
+<document_title>Samuel M Williams to E. St John Hawkins, 01-15-1833</document_title>
+<document_location>
+	<sent_from>Unknown</sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Samuel M. Williams to E. St. John Hawkins, January 15, 1833. Bill for stamped paper and services.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 913</barker_citation>
+</barker_notes>
+<document_digital_creation>11-09-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB4508T">
+
+<body>
+*div1 type="summary"*
+*p*Samuel M. Williams to E. St. John Hawkins, January 15, 1833. Bill for stamped paper and services.*/p*
+*/div1*
+
+*div1 type="body"*
+
+*p**person_mentioned*Mr E. St. J Hawkins*/person_mentioned**/p*
+
+*p*To *person_mentioned*Samuel M Williams */person_mentioned*  Dr.*/p*
+
+*p*To  Stamps for Original Deed *person_mentioned* S.  F. Austin*/person_mentioned* to you 1 st 6 2
+sheets each 6 1/4 c______________6.12 1/2*/p*
+
+*p*To do for Copy 1st l.50 for 2 6 1/4 f ea_________   1. 62 1/2*/p*
+*p*7.75*/p*
+
+*p*To fees for Writing original and Copy___________    15.00*/p*
+
+*p*$22. 75*/p*
+*p**date_mentioned n="01-15-1833">15 January */date_mentioned*  Rec payt*/p*
+
+*p**person_mentioned*Samuel M Williams*/person_mentioned**/p*
+
+*/div1*
+</body>
+</text>
+</TEI.2>

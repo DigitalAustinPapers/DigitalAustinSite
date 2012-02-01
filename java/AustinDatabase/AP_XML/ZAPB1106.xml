@@ -1,0 +1,71 @@
+﻿
+<TEI.2 id="APB1106">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>05-13-1825</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1095</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>John P. Coles</document_author>
+<document_sender></document_sender>
+<document_recipient>Stephen F. Austin</document_recipient>
+<document_title>John P. Coles to Stephen F. Austin, 05-13-1825</document_title>
+<document_location>
+	<sent_from>Unknown</sent_from>
+	<sent_to>San Felipe de Austin, Texas</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>John P. Coles to Austin, May 13, 1825.    Concerning a stolen negro.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1095</barker_citation>
+</barker_notes>
+<document_digital_creation>06-09-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+
+<text id="APB1106T">
+
+<body>
+<div1 type="summary">
+<p>John P. Coles to Austin, May 13, 1825.    Concerning a stolen negro.</p>
+</div1>
+
+<div1 type="body">
+<p>
+<date_mentioned n="05-13-1825">13th May 1825</date_mentioned>
+</p><p>Dear Sir</p>
+
+<p>I Recd yours by <person_mentioned>Mr. Leonard Dubois</person_mentioned> and notice Its contents I
+am not able to get any proof here of <person_mentioned>Hall</person_mentioned>s Bringing the <person_mentioned>Negro </person_mentioned>to
+the <location_mentioned>colony </location_mentioned>which <person_mentioned>Mr. Dubois</person_mentioned> is claiming Report says that <person_mentioned>Hall</person_mentioned>
+did assist in Bringing of the <person_mentioned>Negro </person_mentioned>he was at <person_mentioned>Tramel</person_mentioned>s as I 
+understood at the time the <person_mentioned>Negro </person_mentioned>was Brot of I know nothing of the
+sircumstances myself nor neither doo I know any person who does
+know any thing about It the <person_mentioned>Negro </person_mentioned>is Either at <location_mentioned><person_mentioned>Randon</person_mentioned>s</location_mentioned> near
+<person_mentioned>Groce</person_mentioned>s or at <location_mentioned><person_mentioned>Price</person_mentioned>s</location_mentioned> or at <location_mentioned><person_mentioned>Hall</person_mentioned>s</location_mentioned> If he has not been secreted I think
+It would be well to send <person_mentioned>Mr. Dubois</person_mentioned> and an <person_mentioned>officer </person_mentioned>to <person_mentioned>Randon</person_mentioned>s
+Immediately and sirch for the <person_mentioned>Negro </person_mentioned>also to <person_mentioned>Price</person_mentioned>s I believe they
+are all concerned with <person_mentioned>Tramel</person_mentioned></p>
+<p>
+I noticed the Bill of <person_mentioned>Mr. Jones</person_mentioned> pocket Book money etc I can not
+see <person_mentioned>Mr Hope</person_mentioned> today and consequently cannot give you an ansa but
+I dont believe the money found by <person_mentioned>Mr Hope</person_mentioned> to be <person_mentioned>Jones</person_mentioned>, I will see
+<person_mentioned>Mr. Hope</person_mentioned> and Bring you down Information I shall start down
+on <date_mentioned n="05-15-1825">Sunday Morning</date_mentioned> and shall be in Town on <date_mentioned n="05-16-1825">Monday </date_mentioned>I shall bring
+down your Horses</p>
+<p><person_mentioned>Jno. P. Coles    </person_mentioned>[Rubric]</p>
+
+<p>(Addressed:) <person_mentioned>Col. S. F. Austin</person_mentioned> <location_mentioned>San Felipe D. Austin</location_mentioned>
+<p><person_mentioned>Pr Dubois</person_mentioned></p>
+</div1>
+</body>
+</text>
+</TEI.2>
