@@ -26,9 +26,9 @@
         //    }
         //
         $credentials = array();
-        $localFile = 'php/localCredentials.php';
+        $localFile = $_SERVER["DOCUMENT_ROOT"] . '/php/localCredentials.php';
         if (file_exists($localFile)) {
-            include($localFile);
+            require_once($localFile);
             $credentials = getCredentials();
         }
         else

@@ -404,7 +404,7 @@
                         $red = floor((($arrayInfo['size'] - $this->min)/ ($this->max - $this->min)) * 255);
                         $blue = 255 - $red;
                         $green = 125;
-						$return .= "<span class='word size{$sizeRange}'> &nbsp; <a style='color:rgb($red,$green,$blue); text-decoration: none;' href=\"?textSearch={$arrayInfo['word']}\"'>{$arrayInfo['word']}</a> &nbsp; </span>";
+						$return .= "<span class='word size{$sizeRange}'> &nbsp; <a style='color:rgb($red,$green,$blue); text-decoration: none;' href=\"?query={$arrayInfo['word']}\"'>{$arrayInfo['word']}</a> &nbsp; </span>";
 					}
 				}
 				return $return;

@@ -105,3 +105,52 @@ table {
 	width:	950px;
 	margin-bottom: 10px;
 }
+
+/* Tabs */
+#tabs ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+#tabs li {
+	float: left;
+	border: 1px solid #bbb;
+	border-bottom-width: 0;
+	margin: 0;
+}
+
+#tabs a {
+	text-decoration: none;
+	display: block;
+	background: #eee;
+	padding: 0.24em 1em;
+	color: #00c;
+	width: 8em;
+	text-align: center;
+}
+
+#tabs a:hover {
+	background: #ddf;
+}
+
+#tabs li.selected {
+	border-color: black;
+}
+
+#tabs li.selected a {
+	position: relative;
+	top: 1px;
+	background: white;
+	color: black;
+	font-weight: bold;
+}
+
+#content {
+	border: 1px solid black;
+	clear: both;
+	padding: 0 1em;
+	background: white;
+}
+
+
