@@ -8,8 +8,9 @@ $database = connectToDB();
 <title>Stephen F. Austin - Digital Collection</title>
 <link rel="stylesheet" type="text/css" href="header.css" />
 <link rel="stylesheet" type="text/css" href="footer.css" />
-
 <link rel="stylesheet" type="text/css" href="results.css" />
+
+<script src="jquery.js"></script>
 
 <!-- Google Maps API -->
 <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
