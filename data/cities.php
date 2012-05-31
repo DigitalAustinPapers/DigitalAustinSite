@@ -78,7 +78,6 @@ while ($row = mysql_fetch_assoc($result))
 {
     array_push($docData, $row);
 }
-array_push($jsonOut, $docData);
 
 print json_encode($docData);
 
