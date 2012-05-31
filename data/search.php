@@ -17,8 +17,8 @@
 
 session_start();
 
-include 'php/porterStemmer.php';
-include 'php/database.php';
+include '../php/porterStemmer.php';
+include '../php/database.php';
 
 $database = connectToDB();
 
@@ -80,7 +80,7 @@ $sql = "
 
 $docData = array();
 $result = mysql_query($sql) or die($sql . "<br>" . mysql_error());
-while ($row = mysql_fetch_array($result))
+while ($row = mysql_fetch_assoc($result))
 {
     array_push($docData, $row);
 }

@@ -1,5 +1,6 @@
 <?
 include 'php/database.php';
+include('php/wordcloud.class.php');
 $database = connectToDB();
 ?>
 <!DOCTYPE html>
@@ -11,6 +12,10 @@ $database = connectToDB();
 <link rel="stylesheet" type="text/css" href="results.css" />
 
 <script src="jquery.js"></script>
+
+<!-- Word Cloud -->
+<link rel="stylesheet" type="text/css" href="jqcloud/jqcloud.css" />
+<script type="text/javascript" src="jqcloud/jqcloud-1.0.0.js"></script>
 
 <!-- Google Maps API -->
 <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
@@ -99,12 +104,13 @@ function drawCurve(map, startLatLng, endLatLng, curvyness) {
 }
 
 var map;
-var docArray;
+var basicData;
+var cloudData;
 var sortKey='similarity';
 function redrawAllCurves()
 {
-    for (i in docArray) {
-        doc = docArray[i];
+    for (i in basicData) {
+        doc = basicData[i];
         if (doc['srcLat'] != null && doc['dstLat'] != null) {
             var curvyness = 0.1 + Math.random() * 0.2;
             drawCurve(map,
@@ -117,14 +123,14 @@ function redrawAllCurves()
 
 function changeSort() {
     sortKey = $('input:radio[name=sort]:checked').val();
-    changeQuery();
+    queryChanged();
 }
 
 //If the user has selected the basic view, this function will generate
 //the content.  In this case, the content is simply a list of the matching
 //documents in the order they are returned from the server.
 //
-//A 'hidden' parameter to this function is the global docArray, which
+//A 'hidden' parameter to this function is the global basicData, which
 //is the most recent data received from the server.
 function basicContent() {
     var doc;
@@ -139,9 +145,9 @@ function basicContent() {
         onclick='changeSort()'\
         value='date'>Date</input>\
     </form>";
-    newContent += "<p>Showing " + docArray.length + " results</p>";
-    for (i in docArray) {
-        doc = docArray[i];
+    newContent += "<p>Showing " + basicData.length + " results</p>";
+    for (i in basicData) {
+        doc = basicData[i];
         newContent += "<p>" + (parseInt(i) + 1)
         + ". <a href='document.php?id="
         + doc['id'] + ".xml'>" + doc['title'] + "</a>:<p>"
@@ -153,7 +159,7 @@ function basicContent() {
 
 //Generates the content of the geographic view, which is a Google Map
 //
-//A 'hidden' parameter to this function is the global docArray, which
+//A 'hidden' parameter to this function is the global basicData, which
 //is the most recent data received from the server.
 function geographicContent() {
     $('#content').height(500);
@@ -173,31 +179,60 @@ function geographicContent() {
 
 //Generates the content of the word cloud view
 //
-//A 'hidden' parameter to this function is the global docArray, which
+//A 'hidden' parameter to this function is the global cloudData, which
 //is the most recent data received from the server.
 function cloudContent() {
-    //TODO
-    var newContent = "This view is not currently available";
-    document.getElementById('content').innerHTML = newContent;
+    if (cloudData != null) {
+        document.getElementById('content').innerHTML =
+            '<h2>Words</h2>'
+          + '<div id="wordCloud" style="width: 550px; height: 350px;'
+          + '    border: 1px solid #ccc;">'
+          + '</div>'
+          + '<h2>People</h2>'
+          + '<div id="personCloud" style="width: 550px; height: 350px;'
+          + '    border: 1px solid #ccc;">'
+          + '</div>'
+          + '<h2>Places</h2>'
+          + '<div id="placeCloud" style="width: 550px; height: 350px;'
+          + '    border: 1px solid #ccc;">'
+          + '</div>';
+        $("#wordCloud").jQCloud(cloudData[0]);
+        $("#personCloud").jQCloud(cloudData[1]);
+        $("#placeCloud").jQCloud(cloudData[2]);
+    }
 }
 
 //This function is used as a callback for our XMLHttpRequest object
 //that is pulling data from the server.
-function stateChanged() {
+function basicRequestStateChanged() {
     if (this.readyState == 4) {
         //Complete response received
         if (this.status == 200) {
             //Query was successful
-            docArray = JSON.parse(this.responseText);
+            basicData = JSON.parse(this.responseText);
             contentGenerators[currentView]();
         }
     }
 }
+
+//This function is used as a callback for our XMLHttpRequest object
+//that is pulling data from the server for the word cloud data.
+function cloudRequestStateChanged() {
+    if (this.readyState == 4) {
+        //Complete response received
+        if (this.status == 200) {
+            //Query was successful
+            cloudData = JSON.parse(this.responseText);
+            contentGenerators[currentView]();
+        }
+    }
+}
+
 var views = {"basic" : 0, "geographic" : 1, "cloud" : 2};
 var contentGenerators = [basicContent, geographicContent, cloudContent];
 var currentView = views.basic;
 function load() {
-    changeQuery();
+    queryChanged();
 }
 
 /* Given the index value of a tab, returns the element representing
@@ -219,20 +254,55 @@ function getTabElement(tabIndex)
 
     This function returns false so that it cancels the form submission
 */
-function changeQuery() {
+function queryChanged() {
+    //Invalidate all data that was for the old query parameters
+    basicData = null;
+    cloudData = null;
+
+    //Request data for the current view
+    requestData();
+
+    //Don't navigate away from this page
+    return false;
+}
+
+//Start data requests for the current view if necessary.
+function requestData() {
+    var waitingForData = false;
     document.getElementById('content').innerHTML = "Loading...";
-    var dataRequest = new XMLHttpRequest();
-    var url = 'search.php';
+
+    //Build the GET params
     var getParams = '?query=';
     getParams += encodeURIComponent(document.getElementById('query').value);
     getParams += '&location=';
     getParams += encodeURIComponent(document.getElementById('location').value);
     getParams += '&sort=';
     getParams += encodeURIComponent(sortKey);
-    dataRequest.open("GET", url + getParams, true);
-    dataRequest.onreadystatechange = stateChanged;
-    dataRequest.send();
-    return false;
+
+    var url;
+
+    //Request the data for the basic and geographic views
+    if (basicData == null) {
+        var dataRequest = new XMLHttpRequest();
+        url = 'data/search.php';
+        dataRequest.open("GET", url + getParams, true);
+        dataRequest.onreadystatechange = basicRequestStateChanged;
+        dataRequest.send();
+        waitingForData = true;
+    }
+
+    //Request the data for the clouds
+    if (cloudData == null && currentView == views.cloud) {
+        var cloudRequest = new XMLHttpRequest();
+        //Text cloud
+        url = 'data/cloud.php';
+        cloudRequest.open("GET", url + getParams, true);
+        cloudRequest.onreadystatechange = cloudRequestStateChanged;
+        cloudRequest.send();
+
+        waitingForData = true;
+    }
+    return waitingForData;
 }
 
 /* Given the index value of the chosen view, the content div is updated
@@ -242,7 +312,7 @@ function changeQuery() {
 
     newView is one of views.basic, views.geographic, etc.
 */
-function changeView(newView) {
+function tabChanged(newView) {
     //Reset the height to auto (undoing the static height chosen for
     //  geographic view)
     $('#content').height('auto');
@@ -250,7 +320,10 @@ function changeView(newView) {
     getTabElement(currentView).removeClass("selected");
     getTabElement(newView).addClass("selected");
     currentView = newView;
-    contentGenerators[currentView]();
+    var waitingForData = requestData();
+    if (!waitingForData) {
+        contentGenerators[currentView]();
+    }
 }
 
 </script>
@@ -264,7 +337,7 @@ function changeView(newView) {
 
 <div style='background:white;'>
     <h1>Query</h1>
-    <form onsubmit='return changeQuery()'>
+    <form onsubmit='return queryChanged()'>
     <input id='query' type='text' value='<? print htmlentities($_GET['query'])?>' />
     <br />
     Location:
@@ -293,17 +366,17 @@ function changeView(newView) {
 <h1>Views</h1>
 <ul>
 	<li id="Tab0" class="selected">
-        <a href="#" onclick="changeView(views.basic);">
+        <a href="#" onclick="tabChanged(views.basic);">
             Basic
         </a>
     </li>
 	<li id="Tab1">
-        <a href="#" onclick="changeView(views.geographic);">
+        <a href="#" onclick="tabChanged(views.geographic);">
             Geographic
         </a>
     </li>
 	<li id="Tab2">
-        <a href="#" onclick="changeView(views.cloud);">
+        <a href="#" onclick="tabChanged(views.cloud);">
             Word Cloud
         </a>
     </li>
