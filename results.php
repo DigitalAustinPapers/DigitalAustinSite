@@ -29,8 +29,13 @@ src="http://maps.googleapis.com/maps/api/js?key=AIzaSyCld462mkpAZrPllmHK8eJGXenW
 //id must be a key in the NormalizedPlace table
 function cityClicked(id)
 {
-    //TODO
-    //window.location = "" + id;
+    var getParams = '?query=';
+    getParams += encodeURIComponent(document.getElementById('query').value);
+    getParams += '&location=';
+    getParams += encodeURIComponent(id);
+    getParams += '&sort=';
+    getParams += encodeURIComponent(sortKey);
+    window.location = "results.php" + getParams;
 }
 
 //Given an r, g, b, returns a string representing a color in html
@@ -106,6 +111,7 @@ function drawCurve(map, startLatLng, endLatLng, curvyness) {
 var map;
 var basicData;
 var cloudData;
+var cityData;
 var sortKey='similarity';
 function redrawAllCurves()
 {
@@ -118,6 +124,43 @@ function redrawAllCurves()
                 new google.maps.LatLng(doc['dstLat'], doc['dstLng']),
                 curvyness);
         }
+    }
+}
+
+var markers = [];
+function redrawMarkers()
+{
+    //Clear all existing markers.
+    var i;
+    for (i in markers) {
+        markers[i].setMap(null);
+    }
+    markers = [];
+
+    //Determine how many markers we want to draw at this zoom level
+    var maxMarkers;
+    if (map.getZoom() > 7) {
+        //If we are zoomed in really close, show them all
+        maxMarkers = cityData.length
+    }
+    else {
+        //Otherwise just show the first few (which are the ones with
+        //the most traffic)
+        maxMarkers = Math.min(cityData.length,
+            Math.ceil(Math.pow(map.getZoom(), 1.2)));
+    }
+
+    //Add the markers
+    for (i = 0; i < maxMarkers; i++) {
+        var city = cityData[i];
+        var marker = new google.maps.Marker({
+            position: new google.maps.LatLng(city['lat'], city['lng']),
+            map: map,
+            title: city['name']
+        });
+        google.maps.event.addListener(marker, 'click', function() {
+            cityClicked(city['id'])});
+        markers.push(marker);
     }
 }
 
@@ -175,6 +218,8 @@ function geographicContent() {
     else {
         google.maps.event.addListener(map, 'projection_changed', redrawAllCurves);
     }
+    redrawMarkers();
+    google.maps.event.addListener(map, 'zoom_changed', redrawMarkers);
 }
 
 //Generates the content of the word cloud view
@@ -228,6 +273,18 @@ function cloudRequestStateChanged() {
     }
 }
 
+function cityRequestStateChanged() {
+    if (this.readyState == 4) {
+        //Complete response received
+        if (this.status == 200) {
+            //Query was successful
+            cityData = JSON.parse(this.responseText);
+            contentGenerators[currentView]();
+        }
+    }
+}
+
+
 var views = {"basic" : 0, "geographic" : 1, "cloud" : 2};
 var contentGenerators = [basicContent, geographicContent, cloudContent];
 var currentView = views.basic;
@@ -258,6 +315,7 @@ function queryChanged() {
     //Invalidate all data that was for the old query parameters
     basicData = null;
     cloudData = null;
+    cityData = null;
 
     //Request data for the current view
     requestData();
@@ -302,6 +360,18 @@ function requestData() {
 
         waitingForData = true;
     }
+
+    if (cityData == null && currentView == views.geographic) {
+        var cityRequest = new XMLHttpRequest();
+        //Text cloud
+        url = 'data/cities.php';
+        cityRequest.open("GET", url + getParams, true);
+        cityRequest.onreadystatechange = cityRequestStateChanged;
+        cityRequest.send();
+
+        waitingForData = true;
+    }
+
     return waitingForData;
 }
 
