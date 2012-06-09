@@ -247,6 +247,18 @@ function cloudContent() {
     }
 }
 
+function correlationContent() {
+    var newContent = "";
+    newContent += "This view is not currently available.";
+    document.getElementById('content').innerHTML = newContent;
+}
+
+function sentimentContent() {
+    var newContent = "";
+    newContent += "This view is not currently available.";
+    document.getElementById('content').innerHTML = newContent;
+}
+
 //This function is used as a callback for our XMLHttpRequest object
 //that is pulling data from the server.
 function basicRequestStateChanged() {
@@ -285,8 +297,9 @@ function cityRequestStateChanged() {
 }
 
 
-var views = {"basic" : 0, "geographic" : 1, "cloud" : 2};
-var contentGenerators = [basicContent, geographicContent, cloudContent];
+var views = {"basic" : 0, "geographic" : 1, "cloud" : 2, "correlation" : 3,
+    "sentiment" : 4};
+var contentGenerators = [basicContent, geographicContent, cloudContent, correlationContent, sentimentContent];
 var currentView = views.basic;
 function load() {
     queryChanged();
@@ -406,11 +419,12 @@ function tabChanged(newView) {
 </div>
 
 <div style='background:white;'>
-    <h1>Query</h1>
+    <h1>Search the Austin Papers</h1>
     <form onsubmit='return queryChanged()'>
+    Search for: 
     <input id='query' type='text' value='<? print htmlentities($_GET['query'])?>' />
     <br />
-    Location:
+    in:
     <select id='location'>
     <option value=-1>--All Locations--</option>
     <?
@@ -433,21 +447,31 @@ function tabChanged(newView) {
     <br />
 </div>
 <div id="tabs">
-<h1>Views</h1>
+<h2>View search results by:</h2>
 <ul>
 	<li id="Tab0" class="selected">
         <a href="#" onclick="tabChanged(views.basic);">
-            Basic
+            Documents
         </a>
     </li>
 	<li id="Tab1">
         <a href="#" onclick="tabChanged(views.geographic);">
-            Geographic
+            Geography
         </a>
     </li>
 	<li id="Tab2">
         <a href="#" onclick="tabChanged(views.cloud);">
-            Word Cloud
+            Word Clouds
+        </a>
+    </li>
+	<li id="Tab3">
+        <a href="#" onclick="tabChanged(views.correlation);">
+            Word Correlation
+        </a>
+    </li>
+	<li id="Tab4">
+        <a href="#" onclick="tabChanged(views.sentiment);">
+            Sentiment Analysis
         </a>
     </li>
 </ul>
