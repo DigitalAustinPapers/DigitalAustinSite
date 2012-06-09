@@ -112,7 +112,7 @@ var map;
 var basicData;
 var cloudData;
 var cityData;
-var sortKey='similarity';
+var sortKey='date';
 function redrawAllCurves()
 {
     for (i in basicData) {
@@ -183,7 +183,7 @@ function basicContent() {
     <form id='sortForm' >\
     <input type='radio' name='sort' id='sort_similarity' \
         onclick='changeSort()'\
-        value='similarity'>Similarity</input>\
+        value='similarity'>Relevance</input>\
     <input type='radio' name='sort' id='sort_date'\
         onclick='changeSort()'\
         value='date'>Date</input>\
