@@ -188,7 +188,24 @@ function basicContent() {
         onclick='changeSort()'\
         value='date'>Date</input>\
     </form>";
-    newContent += "<p>Showing " + basicData.length + " results</p>";
+
+    var minYear = 9999, maxYear = -9999, year;
+    for (i in basicData) {
+        doc = basicData[i];
+        var year = parseInt(new Date(doc['date']).getFullYear());
+        if (year < minYear) {
+            minYear = year;
+        }
+        if (year > maxYear) {
+            maxYear = year;
+        }
+    }
+
+    newContent += "<p>Showing " + basicData.length + " results";
+    if (basicData.length > 0) {
+        newContent += " between " + minYear + " and " + maxYear;
+    }
+    newContent += "</p>";
     for (i in basicData) {
         doc = basicData[i];
         newContent += "<p>" + (parseInt(i) + 1)
