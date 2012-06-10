@@ -25,10 +25,30 @@ src="http://maps.googleapis.com/maps/api/js?key=AIzaSyCld462mkpAZrPllmHK8eJGXenW
 
 <script type="text/javascript">
 
+var map;
+var basicData;
+var cloudData;
+var cityData;
+var sortKey='date';
+var markers = [];
+var infoWindows = [];
+
 //This function handles a click on a particular city within the Google Map
-//id must be a key in the NormalizedPlace table
-function cityClicked(id)
+function cityClicked(markerIndex)
 {
+    //Closes all info windows
+    var i;
+    for (i in infoWindows) {
+        infoWindows[i].close();
+    }
+
+    //Opens the info window for the selected marker
+    infoWindows[markerIndex].open(map, markers[markerIndex]);
+}
+
+//Changes the query's location filter to the given city
+//id must be a key in the NormalizedPlace table
+function searchCity(id) {
     var getParams = '?query=';
     getParams += encodeURIComponent(document.getElementById('query').value);
     getParams += '&location=';
@@ -108,11 +128,6 @@ function drawCurve(map, startLatLng, endLatLng, curvyness) {
     }
 }
 
-var map;
-var basicData;
-var cloudData;
-var cityData;
-var sortKey='date';
 function redrawAllCurves()
 {
     for (i in basicData) {
@@ -127,21 +142,24 @@ function redrawAllCurves()
     }
 }
 
-var markers = [];
 function redrawMarkers()
 {
+    if (cityData == null) {
+        return;
+    }
     //Clear all existing markers.
     var i;
     for (i in markers) {
         markers[i].setMap(null);
     }
     markers = [];
+    infoWindows = [];
 
     //Determine how many markers we want to draw at this zoom level
     var maxMarkers;
     if (map.getZoom() > 7) {
         //If we are zoomed in really close, show them all
-        maxMarkers = cityData.length
+        maxMarkers = cityData.length;
     }
     else {
         //Otherwise just show the first few (which are the ones with
@@ -158,9 +176,25 @@ function redrawMarkers()
             map: map,
             title: city['name']
         });
-        google.maps.event.addListener(marker, 'click', function() {
-            cityClicked(city['id'])});
+        var onClickFunction = function() {
+            cityClicked(arguments.callee.markerIndex);
+        };
+        onClickFunction.markerIndex = i;
+        google.maps.event.addListener(marker, 'click', onClickFunction);
         markers.push(marker);
+
+        var contentHtml = "<a style='color:#0000FF;text-decoration:underline;'"
+            + " onClick='searchCity(" + city['id'] + ")'> "
+            + city['name'] + "</a><br />"
+            + "<b>" + (parseInt(city['incoming']) + parseInt(city['outgoing']))
+            + " Letters</b><br />"
+            + city['incoming'] + " Incoming Letters<br />"
+            + city['outgoing'] + " Outgoing Letters<br />";
+
+        var infowindow = new google.maps.InfoWindow({
+            content: contentHtml
+        });
+        infoWindows.push(infowindow);
     }
 }
 
