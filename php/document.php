@@ -26,8 +26,10 @@
 	
 	function queryDB(){
 		$id = $_GET['id'];
+		$new_id = str_replace(".xml", "", $id);
 		//$query = "SELECT * FROM Document NATURAL JOIN Place NATURAL JOIN Text WHERE idDocument = '$id'";
-		$query =   "SELECT * FROM document NATURAL JOIN text                    WHERE idDocument = '$id'";
+		$query = "SELECT * FROM Document WHERE id = '$new_id'";
+		//$query =   "SELECT * FROM document NATURAL JOIN text                    WHERE idDocument = '$id'";
 
 		$result = mysql_query($query) or die(mysql_error());;
 		
@@ -39,7 +41,7 @@
 		//echo "<div id='metadata'>Sent from: " . $row["sent_from"] . " to: " . $row["sent_to"] . ", Original Language: " . "English" . ", Status: " . $row["status"] . " " . $row["type"] . "</div>";
 		echo "<div id='summary'>Summary: " . $row["summary"] . "</div>";
 		
-		$body = str_replace("*p*", "<p>", $row["body"]);
+		$body = str_replace("*p*", "<p>", $row["xml"]);
 		$body = str_replace("*/p*", "</p>", $body);
 		$body = str_replace("*div1 type=\"body\"*", "<div1 type=\"body\">", $body);
 		$body = str_replace("*div1 type=\"summary\"*", "<div1 type=\"summary\">", $body);

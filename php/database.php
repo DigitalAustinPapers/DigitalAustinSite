@@ -40,7 +40,6 @@
                 //'database' => "austinpapers",
                 'server' => "127.0.0.1:3306/");
         }
-
 		$connection = mysql_connect($credentials['server'],
             $credentials['username'], $credentials['password']);
 		@mysql_select_db($credentials['database'], $connection)

@@ -3,7 +3,7 @@
 session_start();
 
 //Set up our _SERVER variable as if we are acutally running it on the server
-$_SERVER['DOCUMENT_ROOT'] = '/home/sgmr29/code/digital-austin-papers';
+$_SERVER['DOCUMENT_ROOT'] = '/home/benwbrum/dev/clients/torget/dap/DigitalAustinSite';
 
 require_once('../php/database.php');
 
