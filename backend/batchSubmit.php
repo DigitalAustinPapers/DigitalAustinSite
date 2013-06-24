@@ -90,6 +90,7 @@ foreach ($files as $file)
     $doc = new DOMDocument();
     $success = $doc->load( $file );
 
+    print "Parsing $file\n";
     if (!$success)
     {
         print "Error parsing $file.  Skipped.";
@@ -103,17 +104,20 @@ foreach ($files as $file)
     $result = mysql_query("SELECT id, name FROM NormalizedPerson ORDER BY name");
     while ($row = mysql_fetch_array($result))
     {
+	    print "Read {$row['name']} from NormalizedPerson\n";
         $knownNames[$row['id']] = array($row['name']);
     }
     $knownPlaces = array();
     $result = mysql_query("SELECT id, name FROM NormalizedPlace ORDER BY name");
     while ($row = mysql_fetch_array($result))
     {
+	    print "Read {$row['name']} from NormalizedPlace\n";    	
         $knownPlaces[$row['id']] = array($row['name']);
     }
     $result = mysql_query("SELECT normalId, text FROM PlaceReference where normalId IS NOT NULL");
     while ($row = mysql_fetch_array($result))
     {
+	    print "Read {$row['text']} from PlaceReference\n";    	
         array_push($knownPlaces[$row['normalId']], $row['text']);
     }
 
@@ -130,6 +134,7 @@ foreach ($files as $file)
         {
             $key = $keyNode->nodeValue;
         }
+	    print "Posting name={$name} key={$key} as personTag[{$index}]\n";    	
         $_POST['personTag'][$index] = getTag($name, $key, $knownNames);
         $index += 1;
     }
