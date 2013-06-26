@@ -36,26 +36,10 @@
 		return mysql_fetch_assoc($result);
 	}
 
-	// TODO: Replace with legitimate XSL now that we have conformant TEI in the Database	
 	function getTitleStatusSummary($row){
 		echo "<div id='title'>" . $row["title"] . "</div>";
 		//echo "<div id='metadata'>Sent from: " . $row["sent_from"] . " to: " . $row["sent_to"] . ", Original Language: " . "English" . ", Status: " . $row["status"] . " " . $row["type"] . "</div>";
 		echo "<div id='summary'>Summary: " . $row["summary"] . "</div>";
-		
-		$body = str_replace("*p*", "<p>", $row["xml"]);
-		$body = str_replace("*/p*", "</p>", $body);
-		$body = str_replace("*div1 type=\"body\"*", "<div1 type=\"body\">", $body);
-		$body = str_replace("*div1 type=\"summary\"*", "<div1 type=\"summary\">", $body);
-		$body = str_replace("*/div1*", "</div1>", $body);
-		$body = str_replace("*person_mentioned*", "<person_mentioned>", $body);
-		$body = str_replace("*/person_mentioned*", "</person_mentioned>", $body);
-		$body = str_replace("*location_mentioned*", "</location_mentioned>", $body);
-		$body = str_replace("*/location_mentioned*", "</location_mentioned>", $body);
-		$body = str_replace("*date", "<date", $body);
-		$body = str_replace("\"*", "<\">", $body);
-		$body = str_replace("*/date_mentioned*", "</date_mentioned>", $body);
-		
-		echo "<div id='text'>" . $body . "</div>";	
 	}
 	
 	
@@ -80,13 +64,20 @@
 		
 		return $citeString;
 	}
-	
-	function getLetterBodyForCloud($row) {
+
+	function getDocXmlFromRow($row) {
 		$raw_xml = $row['xml'];
 		$body_node = null;
 		
 		$doc = new DOMDocument();
     	$success = $doc->loadXml( $raw_xml );
+		return $doc;		
+	}
+	
+	function getLetterBodyNode($row, $doc=null) {
+		if($doc == null) {
+			$doc = getDocXmlFromRow($row);		
+		}
 		
 		# we're looking for contents like this:
 		#        <div1 type="body">
@@ -102,11 +93,18 @@
 			
 		}
 				
+	
+		return $body_node;
+	}
 		
-		# now process the body
-		logString($body_node->textContent);
+	function getLetterBodyForCloud($row) {
+		return getLetterBodyNode($row)->textContent;
+	}
 		
-		return $body_node->textContent;
+	function getLetterBodyForDisplay($row) {
+		$doc = getDocXmlFromRow($row);
+		$body_node = getLetterBodyNode($row, $doc);
+		return $doc->saveXML($body_node);
 	}
 		
 	

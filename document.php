@@ -19,6 +19,9 @@
 				$result = queryDB();
 				getTitleStatusSummary($result);
 			?>
+			<div id='text'>
+				<?php print getLetterBodyForDisplay($result) ?>
+			</div>	
 			
 			<div id="clouds_header">Language Analysis</div>
 			<div id="clouds">
