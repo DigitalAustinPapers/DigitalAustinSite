@@ -35,7 +35,8 @@
 		
 		return mysql_fetch_assoc($result);
 	}
-	
+
+	// TODO: Replace with legitimate XSL now that we have conformant TEI in the Database	
 	function getTitleStatusSummary($row){
 		echo "<div id='title'>" . $row["title"] . "</div>";
 		//echo "<div id='metadata'>Sent from: " . $row["sent_from"] . " to: " . $row["sent_to"] . ", Original Language: " . "English" . ", Status: " . $row["status"] . " " . $row["type"] . "</div>";
@@ -57,6 +58,34 @@
 		echo "<div id='text'>" . $body . "</div>";	
 	}
 	
+	
+	function getLetterBodyForCloud($row) {
+		$raw_xml = $row['xml'];
+		$body_node = null;
+		
+		$doc = new DOMDocument();
+    	$success = $doc->loadXml( $raw_xml );
+		
+		# we're looking for contents like this:
+		#        <div1 type="body">
+ 		$all_div1s = $doc->getElementsByTagName('div1');
+		foreach($all_div1s as $div1) {
+			$typeNode = $div1->attributes->getNamedItem("type");
+			if($typeNode) {
+				$type = $typeNode->value;
+				if($type == 'body') {
+					$body_node = $div1;
+				}
+			}
+			
+		}
+				
+		
+		# now process the body
+		logString($body_node->textContent);
+		
+		return $body_node->textContent;
+	}
 		
 	
 	function peopleMentioned($row){

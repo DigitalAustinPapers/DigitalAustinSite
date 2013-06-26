@@ -25,7 +25,8 @@
 				<div id="cloud1"></div>
 					<?php
 						include('php/cloud.php');
-						cloud($result['xml'], 20);
+#						cloud($result['xml'], 20);
+						cloud(getLetterBodyForCloud($result), 20);
 					?>
 				<div id="cloud2"></div>
 				<div id="cloud3"></div>
