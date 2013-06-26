@@ -59,6 +59,28 @@
 	}
 	
 	
+	// TODO: handle converting HI to I via xslt (later)
+	function getCitation($row) {
+		$raw_xml = $row['xml'];
+		
+		$doc = new DOMDocument();
+    	$success = $doc->loadXml( $raw_xml );
+		
+		# we're looking for contents like this:
+		#        <div1 type="body">
+ 		$all_bibls = $doc->getElementsByTagName('bibl');
+		logString("all_bibls->length = {$all_bibls->length}");
+		$bibl = $all_bibls->item(0);
+		$citeString = $doc->saveXML($bibl);
+		logString("bibl = {$citeString}");
+		
+	
+		// # now process the body
+		// logString($body_node->textContent);
+		
+		return $citeString;
+	}
+	
 	function getLetterBodyForCloud($row) {
 		$raw_xml = $row['xml'];
 		$body_node = null;

@@ -31,7 +31,7 @@
 				<div id="cloud2"></div>
 				<div id="cloud3"></div>
 			</div>
-			<div id="cite">Citation: John W. Smith, Collection of Austin's Letters, First Edition, 1937</div>
+			<div id="cite">Citation: <?php print getCitation($result) ?></div>
 			<div id = "footer">
 				<?php include('footer.php'); ?>
 			</div>
