@@ -1,8 +1,13 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+
 <?php include('php/database.php'); ?>
 <?php include('php/document.php'); ?>
 
 <html>
+
 	<header>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
 		<link rel="stylesheet" type="text/css" href="header.css" />
 		<link rel="stylesheet" type="text/css" href="footer.css" />
 		<link rel="stylesheet" type="text/css" href="document.css" />
