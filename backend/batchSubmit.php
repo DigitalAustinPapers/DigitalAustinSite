@@ -104,20 +104,17 @@ foreach ($files as $file)
     $result = mysql_query("SELECT id, name FROM NormalizedPerson ORDER BY name");
     while ($row = mysql_fetch_array($result))
     {
-	    print "Read {$row['name']} from NormalizedPerson\n";
         $knownNames[$row['id']] = array($row['name']);
     }
     $knownPlaces = array();
     $result = mysql_query("SELECT id, name FROM NormalizedPlace ORDER BY name");
     while ($row = mysql_fetch_array($result))
     {
-	    print "Read {$row['name']} from NormalizedPlace\n";    	
         $knownPlaces[$row['id']] = array($row['name']);
     }
     $result = mysql_query("SELECT normalId, text FROM PlaceReference where normalId IS NOT NULL");
     while ($row = mysql_fetch_array($result))
     {
-	    print "Read {$row['text']} from PlaceReference\n";    	
         array_push($knownPlaces[$row['normalId']], $row['text']);
     }
 
