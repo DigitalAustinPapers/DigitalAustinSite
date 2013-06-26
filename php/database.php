@@ -1,4 +1,16 @@
 <?php
+	function logString($logMsg)
+	{
+	
+		$handle = fopen('/home/benwbrum/dev/clients/torget/dap/DigitalAustinSite/debug.log', 'a+');
+		fwrite($handle, "\n" );	
+		fwrite($handle, $logMsg );
+		fwrite($handle, "\n" );
+		
+		fclose($handle);
+	}
+
+
 
 	function connectToDB() {
 		/*

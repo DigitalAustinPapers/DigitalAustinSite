@@ -9,12 +9,12 @@ require_once('../php/database.php');
 
 if (!function_exists('removeDuplicateSpaces'))
 {
-function removeDuplicateSpaces($word)
-{
-    $pattern = '/\s+/';
-    $replacement = ' ';
-    return preg_replace($pattern, $replacement, $word);
-}
+	function removeDuplicateSpaces($word)
+	{
+	    $pattern = '/\s+/';
+	    $replacement = ' ';
+	    return preg_replace($pattern, $replacement, $word);
+	}
 }
 
 if (!isset($database)) {

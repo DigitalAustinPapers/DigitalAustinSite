@@ -134,7 +134,7 @@ foreach ($files as $file)
         {
             $key = $keyNode->nodeValue;
         }
-	    print "Posting name={$name} key={$key} as personTag[{$index}]\n";    	
+//	    print "Posting name={$name} key={$key} as personTag[{$index}]\n";    	
         $_POST['personTag'][$index] = getTag($name, $key, $knownNames);
         $index += 1;
     }

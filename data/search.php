@@ -15,6 +15,9 @@
 //  result", "date":"2012-5-16", "cityId":1234}]
 //
 
+#Returns an array of character n-grams from the target string
+
+
 session_start();
 
 include '../php/porterStemmer.php';
@@ -26,8 +29,14 @@ $database = connectToDB();
 $stemmer = new PorterStemmer();
 $text = trim(strtolower($_GET['query']));
 //Split on non-word characters
+logString("text={$text}");
+
+
 $words = preg_split('/[\W]+/', $text);
 //Stem each word
+logString("words={$words}");
+
+
 $stems = array_map(array($stemmer, 'Stem'), $words);
 $stemCounts = array_count_values($stems);
 
@@ -77,6 +86,8 @@ $sql = "
     GROUP BY Document.Id
     $orderBy ;
 ";
+
+logString($sql);
 
 $docData = array();
 $result = mysql_query($sql) or die($sql . "<br>" . mysql_error());
