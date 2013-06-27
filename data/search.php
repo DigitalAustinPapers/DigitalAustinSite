@@ -58,6 +58,28 @@ if (array_key_exists('location', $_GET) && ($_GET['location'] != -1))
         OR sentFromPlace=$escapedLocation) ";
 }
 
+
+logString("looking for fromYear");
+logString(serialize($_GET));
+
+$fromDateCondition = '';
+if (array_key_exists('fromYear', $_GET) && ($_GET['fromYear'] != ''))
+{
+	logString("found fromYear");
+    $escapedFromYear = mysql_real_escape_string($_GET['fromYear']);
+    $fromDateCondition = " AND creation > '$escapedFromYear' ";
+}
+
+$toDateCondition = '';
+if (array_key_exists('toYear', $_GET) && ($_GET['toYear'] != -1))
+{
+    $escapedToYear = mysql_real_escape_string($_GET['toYear']);
+	$escapedToYear = $escapedToYear + 1; # date 
+	logString("modified toYear is {$escapedToYear}");
+	
+    $toDateCondition = " AND creation < '$escapedToYear' ";
+}
+
 $orderBy = '';
 if (array_key_exists('sort', $_GET)) {
     if ($_GET['sort'] === 'similarity') {
@@ -83,7 +105,9 @@ $sql = "
     WHERE
     $stemCondition
     $locationCondition
-    GROUP BY Document.Id
+    $fromDateCondition
+    $toDateCondition
+        GROUP BY Document.Id
     $orderBy ;
 ";
 

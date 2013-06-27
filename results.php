@@ -280,21 +280,21 @@ function geographicContent() {
 function cloudContent() {
     if (cloudData != null) {
         document.getElementById('content').innerHTML =
-            '<h2>Words</h2>'
-          + '<div id="wordCloud" style="width: 550px; height: 350px;'
-          + '    border: 1px solid #ccc;">'
-          + '</div>'
-          + '<h2>People</h2>'
+            '<h2>People</h2>'
           + '<div id="personCloud" style="width: 550px; height: 350px;'
           + '    border: 1px solid #ccc;">'
           + '</div>'
           + '<h2>Places</h2>'
           + '<div id="placeCloud" style="width: 550px; height: 350px;'
           + '    border: 1px solid #ccc;">'
+          + '</div>'
+          + '<h2>Words</h2>'
+          + '<div id="wordCloud" style="width: 550px; height: 350px;'
+          + '    border: 1px solid #ccc;">'
           + '</div>';
         $("#wordCloud").jQCloud(cloudData[0]);
-        $("#personCloud").jQCloud(cloudData[1]);
-        $("#placeCloud").jQCloud(cloudData[2]);
+        $("#personCloud").jQCloud(cloudData[2]);
+        $("#placeCloud").jQCloud(cloudData[1]);
     }
 }
 
@@ -398,6 +398,10 @@ function requestData() {
     getParams += encodeURIComponent(document.getElementById('query').value);
     getParams += '&location=';
     getParams += encodeURIComponent(document.getElementById('location').value);
+    getParams += '&fromYear=';
+    getParams += encodeURIComponent(document.getElementById('fromYear').value);
+    getParams += '&toYear=';
+    getParams += encodeURIComponent(document.getElementById('toYear').value);
     getParams += '&sort=';
     getParams += encodeURIComponent(sortKey);
 
@@ -493,6 +497,23 @@ function tabChanged(newView) {
         }
     }
     ?>
+    </select>
+
+    <? if (array_key_exists('fromYear', $_GET)) {
+    	$fromYear = $_GET['fromYear'];
+    } else {
+        $fromYear = '';
+    } ?>
+    <input type='hidden' name='fromYear' id='fromYear' value='<? print htmlentities($fromYear)?>' />
+
+    <? if (array_key_exists('toYear', $_GET)) {
+    	$toYear = $_GET['toYear'];
+    } else {
+        $toYear = '';
+    } ?>
+    <input type='hidden' name='toYear' id='toYear' value='<? print htmlentities($toYear)?>' />
+
+    
     <input type='submit' value='Search' />
     </form>
     <br />
