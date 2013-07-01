@@ -1,107 +1,113 @@
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Pilon,.xml
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Province of Texas.xml
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --St. Antonio.xml
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Unsent.xml
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Caney,.xml
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Devonshire, England.xml
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Lebanon,.xml
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --London, England.xml
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Province of Tais.xml
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Unsent.xml
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --American Camp, Texas
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --American Hotel, New York
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --At Camp, Texas
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Austin Colony
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Austin Settlement, Texas
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Austinville Lead Mines, VA
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Austin Ville Lead Mines, VA
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Austin Ville Lead Mines, Wythe County, VA
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Ayish Bayou, Texas
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Bay Perrary, Texas
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Buffalo Bayou, Texas
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Burton Mine, LA
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Burton Mine, MO
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Burton Mine, St Genevieve, LA
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Camp Salado, Texas
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Chocolate Bayou, Texas
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Department of Texas, United Mexican States
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Document not sent
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Gulf Prarie, Texas
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Hazel Cottage, MO
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Hazel Cottage
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Hazle Run, MO
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Head Quarters, Bexar, Texas
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Head Quarters near Bexar, Texas
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Head quarters of Volunteer Army, Texas
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Head quarters, Texas Volunteers, Texas
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Inhabitants of Pecan Point
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Lead Mines Austinville, VA
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Lead Mines Wythe County, VA
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Leona Vicario, Coahuila
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Leona Vicario or Saltillo, Coahuila
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Little Rock, AR
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Locations in Texas
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Lower Settlement, Texas
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Mine a Burton, Missouri
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Mine a Burton, Wanshington County, Missouri
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Mission San Juan, Texas
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Monclova, Texas
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Mount Prairie, AR
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Mouth of the Brazos, Texas
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Nachitoches, AR
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Nacogdoches and San Augustine, Texas
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Natchitoches, Louisiana; San Felipe de Austin, Texas
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --New Orleans, Louisiana and Washington City.
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --New Orleans, Louisiana, to be forwarded to Texas
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --New York City, New York
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Not sent
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Oak Grove, Texas
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --On the Brazos, Texas
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Peach Point, Louisiana
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Peach Point, Near Brazoira, Texas
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Peach Point, Texas
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Pleasant Bayou, Texas
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Potosi, Washington County, Missouri
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Potosi, Washington County, MO
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Potosi, Washington County, State of Missouri
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Province of Texas by way of New Orleans
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Province of Texas via Natchitoches, Louisiana
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Rio de los Brazos en la Provincia de Texas
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Salado, Near Bexar, Texas
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --San Antonio de Bexar, Texas
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --San Antonio de Bexar, TX
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --San Feilpe de Austin, Texas
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --San Felipe de Ausitn, Texas
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --San Felipe de Austin, or where ever he may be found, Texas
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --San Felipe de Austin, Province of Texas
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --San Felipe de Austin, Rio Brazos, Province of Texas
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --San Felipe de Austin, Texas by way of Alexandria, Louisiana
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --San Felipe de Austin, Texas, via Natchitoches, Louisiana
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --San Felipe de Austin, Texas via New Orleans
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --San Felipe de Austin, Texas
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --San Felipe de Austin, TX
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --San Felipe de Austin,TX
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --San Felipe, Texas
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --San Felipe, TX
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --San Jacinto, Texas
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --San Martinville, Attakapas, Louisiana
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Sn Felipe de Austin, Texas, via Natchitoches, Louisiana
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --St. Antonio, TX
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --St Genevieve, LA
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --St Genevieve, MO
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --St. Genevieve, MO
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --St Louis, MO
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --St. Louis, MO
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Texas via New Orleans, Louisiana
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Texas via New Orleans
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Texas, via the Schooner Columbus
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Unknwon
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Unkonwn
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Velasco or Brazoria, Texas
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Washington City, U.S.
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Washington County, MO
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Water Loe
-INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Where ever the Consultation may be
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Pilon,.xml
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Province of Texas.xml
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --St. Antonio.xml
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Unsent.xml
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Caney,.xml
+INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("Devonshire, England", 50.75, -3.75); --Devonshire, England.xml
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Lebanon,.xml
+INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("London, England", 51.50853, -0.12574); --London, England.xml
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Province of Tais.xml
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Unsent.xml
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --American Camp, Texas
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --American Hotel, New York
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --At Camp, Texas
+INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("Austin Colony", 29.794444,  -96.104722); --Austin Colony
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Austin Settlement, Texas
+
+insert into NormalizedPlace (name,lat,lng) values ("Austinville, VA", 36.85123, -80.91202);
+
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Austinville Lead Mines, VA
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Austin Ville Lead Mines, VA
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Austin Ville Lead Mines, Wythe County, VA
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Ayish Bayou, Texas
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Bay Perrary, Texas
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Buffalo Bayou, Texas
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Burton Mine, LA
+INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("Burton Mine, MO", 37.976944, -90.048611); --Burton Mine, MO
+INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("Burton Mine, St Genevieve, LA", 37.976944, -90.048611); --Burton Mine, St Genevieve, LA
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Camp Salado, Texas
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Chocolate Bayou, Texas
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Department of Texas, United Mexican States
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Document not sent
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Gulf Prarie, Texas
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Hazel Cottage, MO
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Hazel Cottage
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Hazle Run, MO
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Head Quarters, Bexar, Texas
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Head Quarters near Bexar, Texas
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Head quarters of Volunteer Army, Texas
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Head quarters, Texas Volunteers, Texas
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Inhabitants of Pecan Point
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Lead Mines Austinville, VA
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Lead Mines Wythe County, VA
+INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("Leona Vicario, Coahuila", 25.41942, -101.00128); --Leona Vicario, Coahuila
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Leona Vicario or Saltillo, Coahuila
+INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("Little Rock, AR", 34.736111, -92.331111); --Little Rock, AR
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Locations in Texas
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Lower Settlement, Texas
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Mine a Burton, Missouri
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Mine a Burton, Wanshington County, Missouri
+INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("Mission San Juan, Texas", 29.332687,  -98.455289); --Mission San Juan, Texas
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Monclova, Texas
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Mount Prairie, AR
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Mouth of the Brazos, Texas
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Nachitoches, AR
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Nacogdoches and San Augustine, Texas
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Natchitoches, Louisiana; San Felipe de Austin, Texas
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --New Orleans, Louisiana and Washington City.
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --New Orleans, Louisiana, to be forwarded to Texas
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --New York City, New York
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Not sent
+INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("Oak Grove, TX", 32.540147, -96.317266); --Oak Grove, Texas
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --On the Brazos, Texas
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Peach Point, Louisiana
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Peach Point, Near Brazoira, Texas
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Peach Point, Texas
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Pleasant Bayou, Texas
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Potosi, Washington County, Missouri
+INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("Potosi, Washington County, MO", 37.937881,  -90.781932); --Potosi, Washington County, MO
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Potosi, Washington County, State of Missouri
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Province of Texas by way of New Orleans
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Province of Texas via Natchitoches, Louisiana
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Rio de los Brazos en la Provincia de Texas
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Salado, Near Bexar, Texas
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --San Antonio de Bexar, Texas
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --San Antonio de Bexar, TX
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --San Feilpe de Austin, Texas
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --San Felipe de Ausitn, Texas
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --San Felipe de Austin, or where ever he may be found, Texas
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --San Felipe de Austin, Province of Texas
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --San Felipe de Austin, Rio Brazos, Province of Texas
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --San Felipe de Austin, Texas by way of Alexandria, Louisiana
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --San Felipe de Austin, Texas, via Natchitoches, Louisiana
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --San Felipe de Austin, Texas via New Orleans
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --San Felipe de Austin, Texas
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --San Felipe de Austin, TX
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --San Felipe de Austin,TX
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --San Felipe, Texas
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --San Felipe, TX
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --San Jacinto, Texas
+INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("St. Martinville, LA", 30.125053, -91.830593); --San Martinville, Attakapas, Louisiana
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Sn Felipe de Austin, Texas, via Natchitoches, Louisiana
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --St. Antonio, TX
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --St Genevieve, LA
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --St Genevieve, MO
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --St. Genevieve, MO
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --St Louis, MO
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --St. Louis, MO
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Texas via New Orleans, Louisiana
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Texas via New Orleans
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Texas, via the Schooner Columbus
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Unknwon
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Unkonwn
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Velasco or Brazoria, Texas
+INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("Washington City, U.S.", 38.895111, -77.036667); --Washington City, U.S.
+INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("Washington County, MO", 37.937881,  -90.781932); --Washington County, MO
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Water Loe
+--INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Where ever the Consultation may be
+
+exit;
+
 INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --8 Mile Point, Texas
 INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Agua Nueva, Texas
 INSERT INTO NormalizedPlaces (name, lat, lng) VALUES ("", , ); --Aish Bayou, TX
