@@ -1,4 +1,8 @@
 <?php
+# this creates a wget script that queries geonames.org for all PlaceReference strings.
+# When the output is piped to bash, it will populate a directory with XML files containing
+# results from the queries
+
 session_start();
 
 //Set up our _SERVER variable as if we are acutally running it on the server
