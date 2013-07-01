@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>18</totalResultsCount>
+<geoname>
+<toponymName>Buyo</toponymName>
+<name>Buyo</name>
+<lat>13.6813</lat>
+<lng>123.4733</lng>
+<geonameId>1722134</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2879</population>
+<alternateNames>Buyo</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="ALB">05</adminCode1>
+<adminName1>Bicol</adminName1>
+<adminCode2>16</adminCode2>
+<adminName2>Camarines Sur</adminName2>
+<alternateName lang="fil">Buyo</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<bbox>
+<west>123.46675</west>
+<north>13.68766</north>
+<east>123.47985</east>
+<south>13.67494</south>
+</bbox>
+<score>48.522220611572266</score>
+</geoname>
+<geoname>
+<toponymName>Buyo</toponymName>
+<name>Buyo</name>
+<lat>13.1144</lat>
+<lng>123.8666</lng>
+<geonameId>1722136</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3579</population>
+<alternateNames>Buyo</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="ALB">05</adminCode1>
+<adminName1>Bicol</adminName1>
+<adminCode2>05</adminCode2>
+<adminName2>Albay</adminName2>
+<alternateName lang="fil">Buyo</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<bbox>
+<west>123.86007</west>
+<north>13.12076</north>
+<east>123.87313</east>
+<south>13.10804</south>
+</bbox>
+<score>48.522220611572266</score>
+</geoname>
+<geoname>
+<toponymName>Buyo</toponymName>
+<name>Buyo</name>
+<lat>6.27534</lat>
+<lng>-6.99704</lng>
+<geonameId>2290648</geonameId>
+<countryCode>CI</countryCode>
+<countryName>Ivory Coast</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Bouyo,Buyo,Lagoguhe,Lagoguhé</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="09">76</adminCode1>
+<adminName1>Bas-Sassandra</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="unlc">BUU</alternateName>
+<timezone dstOffset="0.0" gmtOffset="0.0">Africa/Abidjan</timezone>
+<bbox>
+<west>-7.00609</west>
+<north>6.28434</north>
+<east>-6.98799</east>
+<south>6.26635</south>
+</bbox>
+<score>42.45694351196289</score>
+</geoname>
+<geoname>
+<toponymName>Buyo</toponymName>
+<name>Buyo</name>
+<lat>9.48333</lat>
+<lng>38.05</lng>
+<geonameId>341281</geonameId>
+<countryCode>ET</countryCode>
+<countryName>Ethiopia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="OR">51</adminCode1>
+<adminName1>Oromiya Region</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="3.0" gmtOffset="3.0">Africa/Addis_Ababa</timezone>
+<bbox>
+<west>38.04088</west>
+<north>9.49233</north>
+<east>38.05912</east>
+<south>9.47434</south>
+</bbox>
+<score>39.61822509765625</score>
+</geoname>
+<geoname>
+<toponymName>Buyo</toponymName>
+<name>Buyo</name>
+<lat>3.9</lat>
+<lng>115.23333</lng>
+<geonameId>1777742</geonameId>
+<countryCode>MY</countryCode>
+<countryName>Malaysia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="13">11</adminCode1>
+<adminName1>Sarawak</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Kuching</timezone>
+<bbox>
+<west>115.22432</west>
+<north>3.90899</north>
+<east>115.24235</east>
+<south>3.89101</south>
+</bbox>
+<score>39.61822509765625</score>
+</geoname>
+<geoname>
+<toponymName>Buyo</toponymName>
+<name>Buyo</name>
+<lat>4.2621</lat>
+<lng>26.06224</lng>
+<geonameId>8221215</geonameId>
+<countryCode>CD</countryCode>
+<countryName>Democratic Republic of the Congo</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="OR">09</adminCode1>
+<adminName1>Eastern Province</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Lubumbashi</timezone>
+<bbox>
+<west>26.05322</west>
+<north>4.2711</north>
+<east>26.07126</east>
+<south>4.25311</south>
+</bbox>
+<score>39.61822509765625</score>
+</geoname>
+<geoname>
+<toponymName>Buyo</toponymName>
+<name>Buyo</name>
+<lat>13.76667</lat>
+<lng>123.3</lng>
+<geonameId>1722133</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Buyo</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="ALB">05</adminCode1>
+<adminName1>Bicol</adminName1>
+<adminCode2>16</adminCode2>
+<adminName2>Camarines Sur</adminName2>
+<alternateName lang="fil">Buyo</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<bbox>
+<west>123.29074</west>
+<north>13.77566</north>
+<east>123.30926</east>
+<south>13.75767</south>
+</bbox>
+<score>36.391666412353516</score>
+</geoname>
+<geoname>
+<toponymName>Buyo</toponymName>
+<name>Buyo</name>
+<lat>13.6127</lat>
+<lng>124.1752</lng>
+<geonameId>1722135</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Buyo</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="ALB">05</adminCode1>
+<adminName1>Bicol</adminName1>
+<adminCode2>19</adminCode2>
+<adminName2>Catanduanes</adminName2>
+<alternateName lang="fil">Buyo</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<bbox>
+<west>124.16595</west>
+<north>13.62169</north>
+<east>124.18445</east>
+<south>13.60371</south>
+</bbox>
+<score>36.391666412353516</score>
+</geoname>
+<geoname>
+<toponymName>Buyo</toponymName>
+<name>Buyo</name>
+<lat>13.05</lat>
+<lng>123.53333</lng>
+<geonameId>1722137</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Buyo</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="ALB">05</adminCode1>
+<adminName1>Bicol</adminName1>
+<adminCode2>05</adminCode2>
+<adminName2>Albay</adminName2>
+<alternateName lang="fil">Buyo</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<bbox>
+<west>123.5241</west>
+<north>13.05899</north>
+<east>123.54257</east>
+<south>13.04101</south>
+</bbox>
+<score>36.391666412353516</score>
+</geoname>
+<geoname>
+<toponymName>Buyo</toponymName>
+<name>Buyo</name>
+<lat>12.8417</lat>
+<lng>123.2798</lng>
+<geonameId>1722138</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Buyo</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="ALB">05</adminCode1>
+<adminName1>Bicol</adminName1>
+<adminCode2>39</adminCode2>
+<adminName2>Masbate</adminName2>
+<alternateName lang="en">Buyo</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<bbox>
+<west>123.27058</west>
+<north>12.85069</north>
+<east>123.28902</east>
+<south>12.83271</south>
+</bbox>
+<score>36.391666412353516</score>
+</geoname>
+</geonames>

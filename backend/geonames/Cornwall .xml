@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>33</totalResultsCount>
+<geoname>
+<toponymName>Cornwall</toponymName>
+<name>Cornwall</name>
+<lat>40.2737</lat>
+<lng>-76.40607</lng>
+<geonameId>5185465</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>4112</population>
+<alternateNames/>
+<elevation>189</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PA">PA</adminCode1>
+<adminName1>Pennsylvania</adminName1>
+<adminCode2>075</adminCode2>
+<adminName2>Lebanon County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cornwall%2C_Pennsylvania</alternateName>
+<alternateName lang="post">17016</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-76.43739</west>
+<north>40.30014</north>
+<east>-76.37384</east>
+<south>40.23789</south>
+</bbox>
+<score>62.575157165527344</score>
+</geoname>
+<geoname>
+<toponymName>Cornwall</toponymName>
+<name>Cornwall</name>
+<lat>41.84371</lat>
+<lng>-73.32928</lng>
+<geonameId>4831877</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>219</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CT">CT</adminCode1>
+<adminName1>Connecticut</adminName1>
+<adminCode2>005</adminCode2>
+<adminName2>Litchfield County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cornwall%2C_Connecticut</alternateName>
+<alternateName lang="post">06753</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-73.34136</west>
+<north>41.8527</north>
+<east>-73.31721</east>
+<south>41.83471</south>
+</bbox>
+<score>53.63584899902344</score>
+</geoname>
+<geoname>
+<toponymName>Cornwall</toponymName>
+<name>Cornwall</name>
+<lat>43.96089</lat>
+<lng>-73.2104</lng>
+<geonameId>5235178</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>109</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VT">VT</adminCode1>
+<adminName1>Vermont</adminName1>
+<adminCode2>001</adminCode2>
+<adminName2>Addison County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cornwall%2C_Vermont</alternateName>
+<alternateName lang="unlc">OQW</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-73.22289</west>
+<north>43.96989</north>
+<east>-73.1979</east>
+<south>43.9519</south>
+</bbox>
+<score>53.63584899902344</score>
+</geoname>
+<geoname>
+<toponymName>Cornwall</toponymName>
+<name>Cornwall</name>
+<lat>38.02048</lat>
+<lng>-121.87885</lng>
+<geonameId>5339628</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>12</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>013</adminCode2>
+<adminName2>Contra Costa County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cornwall%2C_California</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-121.89026</west>
+<north>38.02947</north>
+<east>-121.86743</east>
+<south>38.01148</south>
+</bbox>
+<score>53.63584899902344</score>
+</geoname>
+<geoname>
+<toponymName>Cornwall</toponymName>
+<name>Cornwall</name>
+<lat>46.22652</lat>
+<lng>-63.21809</lng>
+<geonameId>5928063</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2272</population>
+<alternateNames>Kornuoll,Корнуолл</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PE">09</adminCode1>
+<adminName1>Prince Edward Island</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cornwall%2C_Prince_Edward_Island</alternateName>
+<alternateName lang="ru">Корнуолл</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-4.0">America/Halifax</timezone>
+<bbox>
+<west>-63.22459</west>
+<north>46.23102</north>
+<east>-63.21159</east>
+<south>46.22202</south>
+</bbox>
+<score>53.63584899902344</score>
+</geoname>
+<geoname>
+<toponymName>Cornwall</toponymName>
+<name>Cornwall</name>
+<lat>50.41667</lat>
+<lng>-4.75</lng>
+<geonameId>2652355</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>526300</population>
+<alternateNames>CON,Cornouailles,Cornualha,Cornualla,Cornualles,Cornwall,County of Cornwall,Kornvalo</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<alternateName lang="abbr">CON</alternateName>
+<alternateName lang="ca">Cornualla</alternateName>
+<alternateName lang="en">Cornwall</alternateName>
+<alternateName lang="eo">Kornvalo</alternateName>
+<alternateName lang="es">Cornualles</alternateName>
+<alternateName lang="fr">Cornouailles</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cornwall</alternateName>
+<alternateName lang="pt">Cornualha</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.74711</west>
+<north>50.93127</north>
+<east>-4.16494</east>
+<south>49.95541</south>
+</bbox>
+<score>50.568363189697266</score>
+</geoname>
+<geoname>
+<toponymName>Cornwall</toponymName>
+<name>Cornwall</name>
+<lat>18.2699</lat>
+<lng>-78.08634</lng>
+<geonameId>3490852</geonameId>
+<countryCode>JM</countryCode>
+<countryName>Jamaica</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Cornwall,Cornwall Farm</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="10">16</adminCode1>
+<adminName1>Westmoreland</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Jamaica</timezone>
+<bbox>
+<west>-78.09581</west>
+<north>18.27889</north>
+<east>-78.07687</east>
+<south>18.2609</south>
+</bbox>
+<score>43.793487548828125</score>
+</geoname>
+<geoname>
+<toponymName>Cornwall</toponymName>
+<name>Cornwall</name>
+<lat>-41.56667</lat>
+<lng>148.13333</lng>
+<geonameId>2170276</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>167</population>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="TAS">06</adminCode1>
+<adminName1>Tasmania</adminName1>
+<adminCode2>60210</adminCode2>
+<adminName2>Break O'Day</adminName2>
+<timezone dstOffset="10.0" gmtOffset="11.0">Australia/Hobart</timezone>
+<bbox>
+<west>148.13213</west>
+<north>-41.56577</north>
+<east>148.13454</east>
+<south>-41.56757</south>
+</bbox>
+<score>35.757232666015625</score>
+</geoname>
+<geoname>
+<toponymName>Cornwall</toponymName>
+<name>Cornwall</name>
+<lat>37.51228</lat>
+<lng>-90.20289</lng>
+<geonameId>4382440</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>229</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>123</adminCode2>
+<adminName2>Madison County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.21423</west>
+<north>37.52127</north>
+<east>-90.19155</east>
+<south>37.50328</south>
+</bbox>
+<score>35.757232666015625</score>
+</geoname>
+<geoname>
+<toponymName>Cornwall</toponymName>
+<name>Cornwall</name>
+<lat>36.47959</lat>
+<lng>-78.66528</lng>
+<geonameId>4461961</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>140</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NC">NC</adminCode1>
+<adminName1>North Carolina</adminName1>
+<adminCode2>077</adminCode2>
+<adminName2>Granville County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-78.67647</west>
+<north>36.48858</north>
+<east>-78.65409</east>
+<south>36.47059</south>
+</bbox>
+<score>35.757232666015625</score>
+</geoname>
+</geonames>

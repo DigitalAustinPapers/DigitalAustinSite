@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Academie</toponymName>
+<name>Academie</name>
+<lat>41.17088</lat>
+<lng>-85.1458</lng>
+<geonameId>4917478</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>250</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IN">IN</adminCode1>
+<adminName1>Indiana</adminName1>
+<adminCode2>003</adminCode2>
+<adminName2>Allen County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Indiana/Indianapolis</timezone>
+<bbox>
+<west>-85.15775</west>
+<north>41.17988</north>
+<east>-85.13386</east>
+<south>41.16189</south>
+</bbox>
+<score>45.98583984375</score>
+</geoname>
+</geonames>

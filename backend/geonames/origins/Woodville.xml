@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>77</totalResultsCount>
+<geoname>
+<toponymName>Woodville County</toponymName>
+<name>Woodville County</name>
+<lat>-40.33333</lat>
+<lng>176</lng>
+<geonameId>2178960</geonameId>
+<countryCode>NZ</countryCode>
+<countryName>New Zealand</countryName>
+<fcl>A</fcl>
+<fcode>ADM1H</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>historical first-order administrative division</fcodeName>
+<population/>
+<alternateNames>Woodville</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="12.0" gmtOffset="13.0">Pacific/Auckland</timezone>
+<score>67.06229400634766</score>
+</geoname>
+<geoname>
+<toponymName>Woodville</toponymName>
+<name>Woodville</name>
+<lat>36.09356</lat>
+<lng>-119.199</lng>
+<geonameId>5410569</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1740</population>
+<alternateNames/>
+<elevation>103</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>107</adminCode2>
+<adminName2>Tulare County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Woodville%2C_California</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-119.23234</west>
+<north>36.102</north>
+<east>-119.16956</east>
+<south>36.08016</south>
+</bbox>
+<score>63.226932525634766</score>
+</geoname>
+<geoname>
+<toponymName>Woodville</toponymName>
+<name>Woodville</name>
+<lat>-34.88333</lat>
+<lng>138.55</lng>
+<geonameId>2057897</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2915</population>
+<alternateNames>Woodville</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="SA">05</adminCode1>
+<adminName1>South Australia</adminName1>
+<adminCode2>41060</adminCode2>
+<adminName2>Charles Sturt</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Woodville%2C_South_Australia</alternateName>
+<alternateName lang="unlc">WDV</alternateName>
+<timezone dstOffset="9.5" gmtOffset="10.5">Australia/Adelaide</timezone>
+<bbox>
+<west>138.54225</west>
+<north>-34.87697</north>
+<east>138.55775</east>
+<south>-34.88969</south>
+</bbox>
+<score>58.07765197753906</score>
+</geoname>
+<geoname>
+<toponymName>Woodville</toponymName>
+<name>Woodville</name>
+<lat>-32.68333</lat>
+<lng>151.61667</lng>
+<geonameId>2143041</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Woodville</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="NSW">02</adminCode1>
+<adminName1>New South Wales</adminName1>
+<adminCode2>16400</adminCode2>
+<adminName2>Port Stephens Shire</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Woodville%2C_New_South_Wales</alternateName>
+<timezone dstOffset="10.0" gmtOffset="11.0">Australia/Sydney</timezone>
+<bbox>
+<west>151.59352</west>
+<north>-32.63462</north>
+<east>151.67697</east>
+<south>-32.69189</south>
+</bbox>
+<score>58.07765197753906</score>
+</geoname>
+<geoname>
+<toponymName>Woodville</toponymName>
+<name>Woodville</name>
+<lat>30.31409</lat>
+<lng>-84.2474</lng>
+<geonameId>4178741</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2978</population>
+<alternateNames/>
+<elevation>10</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="FL">FL</adminCode1>
+<adminName1>Florida</adminName1>
+<adminCode2>073</adminCode2>
+<adminName2>Leon County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Woodville%2C_Florida</alternateName>
+<alternateName lang="post">32362</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-84.2966</west>
+<north>30.33918</north>
+<east>-84.2319</east>
+<south>30.27416</south>
+</bbox>
+<score>55.32356643676758</score>
+</geoname>
+<geoname>
+<toponymName>Woodville</toponymName>
+<name>Woodville</name>
+<lat>41.45144</lat>
+<lng>-83.36576</lng>
+<geonameId>5177337</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2135</population>
+<alternateNames/>
+<elevation>194</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>143</adminCode2>
+<adminName2>Sandusky County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Woodville%2C_Ohio</alternateName>
+<alternateName lang="post">43469</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-83.37176</west>
+<north>41.45594</north>
+<east>-83.35976</east>
+<south>41.44694</south>
+</bbox>
+<score>55.32356643676758</score>
+</geoname>
+<geoname>
+<toponymName>Woodville</toponymName>
+<name>Woodville</name>
+<lat>34.62787</lat>
+<lng>-86.27443</lng>
+<geonameId>4098527</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>746</population>
+<alternateNames/>
+<elevation>189</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AL">AL</adminCode1>
+<adminName1>Alabama</adminName1>
+<adminCode2>071</adminCode2>
+<adminName2>Jackson County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Woodville%2C_Alabama</alternateName>
+<alternateName lang="post">35776</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-86.30212</west>
+<north>34.65257</north>
+<east>-86.26119</east>
+<south>34.60303</south>
+</bbox>
+<score>47.42020034790039</score>
+</geoname>
+<geoname>
+<toponymName>Woodville</toponymName>
+<name>Woodville</name>
+<lat>33.67151</lat>
+<lng>-83.10599</lng>
+<geonameId>4231895</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>321</population>
+<alternateNames/>
+<elevation>214</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">GA</adminCode1>
+<adminName1>Georgia</adminName1>
+<adminCode2>133</adminCode2>
+<adminName2>Greene County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Woodville%2C_Georgia</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-83.10707</west>
+<north>33.67241</north>
+<east>-83.10491</east>
+<south>33.67061</south>
+</bbox>
+<score>47.42020034790039</score>
+</geoname>
+<geoname>
+<toponymName>Woodville</toponymName>
+<name>Woodville</name>
+<lat>37.09672</lat>
+<lng>-88.87339</lng>
+<geonameId>4314001</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>136</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>145</adminCode2>
+<adminName2>McCracken County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Woodville%2C_Kentucky</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-88.88467</west>
+<north>37.10571</north>
+<east>-88.86212</east>
+<south>37.08773</south>
+</bbox>
+<score>47.42020034790039</score>
+</geoname>
+<geoname>
+<toponymName>Woodville</toponymName>
+<name>Woodville</name>
+<lat>38.60679</lat>
+<lng>-78.17528</lng>
+<geonameId>4794660</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>193</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>157</adminCode2>
+<adminName2>Rappahannock County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Woodville%2C_Virginia</alternateName>
+<alternateName lang="post">22749</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-78.18679</west>
+<north>38.61578</north>
+<east>-78.16377</east>
+<south>38.5978</south>
+</bbox>
+<score>47.42020034790039</score>
+</geoname>
+</geonames>

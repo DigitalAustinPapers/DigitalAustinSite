@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>New Harrison</toponymName>
+<name>New Harrison</name>
+<lat>40.11227</lat>
+<lng>-84.51745</lng>
+<geonameId>5164299</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>311</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>037</adminCode2>
+<adminName2>Darke County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-84.52921</west>
+<north>40.12127</north>
+<east>-84.50569</east>
+<south>40.10328</south>
+</bbox>
+<score>45.98583984375</score>
+</geoname>
+</geonames>

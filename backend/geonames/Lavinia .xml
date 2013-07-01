@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>24</totalResultsCount>
+<geoname>
+<toponymName>Lavínia</toponymName>
+<name>Lavínia</name>
+<lat>-21.17069</lat>
+<lng>-51.05184</lng>
+<geonameId>6322347</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>8782</population>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="SP">27</adminCode1>
+<adminName1>São Paulo</adminName1>
+<adminCode2>3526506</adminCode2>
+<adminName2>Lavínia</adminName2>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Sao_Paulo</timezone>
+<bbox>
+<west>-51.22567</west>
+<north>-20.90977</north>
+<east>-50.85019</east>
+<south>-21.38402</south>
+</bbox>
+<score>78.2713394165039</score>
+</geoname>
+<geoname>
+<toponymName>Lavínia</toponymName>
+<name>Lavínia</name>
+<lat>-21.16833</lat>
+<lng>-51.03972</lng>
+<geonameId>3458701</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="SP">27</adminCode1>
+<adminName1>São Paulo</adminName1>
+<adminCode2>3526506</adminCode2>
+<adminName2>Lavínia</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lav%C3%ADnia</alternateName>
+<alternateName lang="unlc">LAV</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Sao_Paulo</timezone>
+<bbox>
+<west>-51.04937</west>
+<north>-21.15934</north>
+<east>-51.03008</east>
+<south>-21.17733</south>
+</bbox>
+<score>46.962806701660156</score>
+</geoname>
+<geoname>
+<toponymName>Lavinia</toponymName>
+<name>Lavinia</name>
+<lat>35.84923</lat>
+<lng>-88.66089</lng>
+<geonameId>4635805</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>162</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TN">TN</adminCode1>
+<adminName1>Tennessee</adminName1>
+<adminCode2>017</adminCode2>
+<adminName2>Carroll County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lavinia%2C_Tennessee</alternateName>
+<alternateName lang="post">38348</alternateName>
+<alternateName lang="unlc">LV3</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-88.67199</west>
+<north>35.85823</north>
+<east>-88.64979</east>
+<south>35.84024</south>
+</bbox>
+<score>39.13566970825195</score>
+</geoname>
+<geoname>
+<toponymName>Lavinia</toponymName>
+<name>Lavinia</name>
+<lat>-31.65214</lat>
+<lng>26.9234</lng>
+<geonameId>984155</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="EC">05</adminCode1>
+<adminName1>Eastern Cape</adminName1>
+<adminCode2>DC13</adminCode2>
+<adminName2>Chris Hani District Municipality</adminName2>
+<adminCode3>EC136</adminCode3>
+<adminName3>Emalahleni</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<bbox>
+<west>26.91284</west>
+<north>-31.64315</north>
+<east>26.93397</east>
+<south>-31.66113</south>
+</bbox>
+<score>31.308536529541016</score>
+</geoname>
+<geoname>
+<toponymName>Lavinia</toponymName>
+<name>Lavinia</name>
+<lat>42.40776</lat>
+<lng>-94.74665</lng>
+<geonameId>4864280</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>372</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IA">IA</adminCode1>
+<adminName1>Iowa</adminName1>
+<adminCode2>025</adminCode2>
+<adminName2>Calhoun County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-94.75883</west>
+<north>42.41675</north>
+<east>-94.73447</east>
+<south>42.39876</south>
+</bbox>
+<score>31.308536529541016</score>
+</geoname>
+<geoname>
+<toponymName>Lavinia</toponymName>
+<name>Lavinia</name>
+<lat>47.51495</lat>
+<lng>-94.81166</lng>
+<geonameId>5034258</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>424</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MN">MN</adminCode1>
+<adminName1>Minnesota</adminName1>
+<adminCode2>007</adminCode2>
+<adminName2>Beltrami County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-94.82498</west>
+<north>47.52395</north>
+<east>-94.79834</east>
+<south>47.50596</south>
+</bbox>
+<score>31.308536529541016</score>
+</geoname>
+<geoname>
+<toponymName>Lavinia</toponymName>
+<name>Lavinia</name>
+<lat>47.47243</lat>
+<lng>-92.9463</lng>
+<geonameId>5034259</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>511</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MN">MN</adminCode1>
+<adminName1>Minnesota</adminName1>
+<adminCode2>137</adminCode2>
+<adminName2>Saint Louis County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.95961</west>
+<north>47.48143</north>
+<east>-92.93299</east>
+<south>47.46344</south>
+</bbox>
+<score>31.308536529541016</score>
+</geoname>
+<geoname>
+<toponymName>Lavinia</toponymName>
+<name>Lavinia</name>
+<lat>50.27441</lat>
+<lng>-100.66899</lng>
+<geonameId>6050729</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MB">03</adminCode1>
+<adminName1>Manitoba</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Winnipeg</timezone>
+<score>31.308536529541016</score>
+</geoname>
+<geoname>
+<toponymName>Lavinio</toponymName>
+<name>Lavinio</name>
+<lat>41.5035</lat>
+<lng>12.58973</lng>
+<geonameId>7302105</geonameId>
+<countryCode>IT</countryCode>
+<countryName>Italy</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>10000</population>
+<alternateNames/>
+<elevation>0</elevation>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="62">07</adminCode1>
+<adminName1>Latium</adminName1>
+<adminCode2>RM</adminCode2>
+<adminName2>Rome</adminName2>
+<adminCode3>058007</adminCode3>
+<adminName3>Anzio</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lavinio</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Rome</timezone>
+<bbox>
+<west>12.57274</west>
+<north>41.51622</north>
+<east>12.60672</east>
+<south>41.49078</south>
+</bbox>
+<score>22.037702560424805</score>
+</geoname>
+<geoname>
+<toponymName>Lavinka</toponymName>
+<name>Lavinka</name>
+<lat>56.03333</lat>
+<lng>97.86667</lng>
+<geonameId>1500834</geonameId>
+<countryCode>RU</countryCode>
+<countryName>Russia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Lavinka,Лавинка</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="IRK">20</adminCode1>
+<adminName1>Irkutsk</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ru">Лавинка</alternateName>
+<timezone dstOffset="9.0" gmtOffset="9.0">Asia/Irkutsk</timezone>
+<bbox>
+<west>97.85057</west>
+<north>56.04233</north>
+<east>97.88277</east>
+<south>56.02434</south>
+</bbox>
+<score>18.145158767700195</score>
+</geoname>
+</geonames>

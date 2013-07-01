@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>96</totalResultsCount>
+<geoname>
+<toponymName>Bar</toponymName>
+<name>Bar</name>
+<lat>42.09306</lat>
+<lng>19.10028</lng>
+<geonameId>3204509</geonameId>
+<countryCode>ME</countryCode>
+<countryName>Montenegro</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>13719</population>
+<alternateNames>Antibarium,Antivari,Bar,Bar - Bar,Bar - Бар,Baras,Bari vald,Tivari,ba er,baleu,bar, aljbl alaswd,baru,br,Бар,בר,بار، الجبل الأسود,بار، مونته‌نگرو,バール,巴尔,바르</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="02">02</adminCode1>
+<adminName1>Bar</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ar">بار، الجبل الأسود</alternateName>
+<alternateName lang="bg">Бар</alternateName>
+<alternateName lang="bs">Bar</alternateName>
+<alternateName lang="da">Bar</alternateName>
+<alternateName lang="de">Bar</alternateName>
+<alternateName lang="en">Bar</alternateName>
+<alternateName lang="es">Bar</alternateName>
+<alternateName lang="et">Bari vald</alternateName>
+<alternateName lang="fa">بار، مونته‌نگرو</alternateName>
+<alternateName lang="fi">Bar</alternateName>
+<alternateName lang="fr">Bar</alternateName>
+<alternateName lang="gl">Bar - Бар</alternateName>
+<alternateName lang="hbs">Bar</alternateName>
+<alternateName lang="he">בר</alternateName>
+<alternateName lang="hr">Bar</alternateName>
+<alternateName lang="it">Bar</alternateName>
+<alternateName lang="ja">バール</alternateName>
+<alternateName lang="ko">바르</alternateName>
+<alternateName lang="la">Antibarium</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bar%2C_Montenegro</alternateName>
+<alternateName lang="lt">Baras</alternateName>
+<alternateName lang="nl">Bar</alternateName>
+<alternateName lang="pl">Bar</alternateName>
+<alternateName lang="pt">Bar</alternateName>
+<alternateName lang="ru">Бар</alternateName>
+<alternateName lang="sq">Tivari</alternateName>
+<alternateName lang="sr">Бар</alternateName>
+<alternateName lang="sv">Bar</alternateName>
+<alternateName lang="uk">Бар</alternateName>
+<alternateName lang="unlc">BAR</alternateName>
+<alternateName lang="zh">巴尔</alternateName>
+<alternateName lang="zh-CN">巴尔</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Podgorica</timezone>
+<bbox>
+<west>19.08017</west>
+<north>42.10797</north>
+<east>19.12038</east>
+<south>42.07814</south>
+</bbox>
+<score>203.18458557128906</score>
+</geoname>
+<geoname>
+<toponymName>Bar</toponymName>
+<name>Bar</name>
+<lat>42.16667</lat>
+<lng>19.16667</lng>
+<geonameId>3204508</geonameId>
+<countryCode>ME</countryCode>
+<countryName>Montenegro</countryName>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>first-order administrative division</fcodeName>
+<population/>
+<alternateNames>Bar,Opstina Bar,Opština Bar</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="02">02</adminCode1>
+<adminName1>Bar</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bar_Municipality</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Podgorica</timezone>
+<score>85.74957275390625</score>
+</geoname>
+<geoname>
+<toponymName>Bar</toponymName>
+<name>Bar</name>
+<lat>49.07717</lat>
+<lng>27.68256</lng>
+<geonameId>712861</geonameId>
+<countryCode>UA</countryCode>
+<countryName>Ukraine</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>16641</population>
+<alternateNames>Bar,Бар</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="05">23</adminCode1>
+<adminName1>Vinnyts'ka</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bar%2C_Ukraine</alternateName>
+<alternateName lang="ru">Бар</alternateName>
+<alternateName lang="unlc">BAR</alternateName>
+<timezone dstOffset="3.0" gmtOffset="2.0">Europe/Kiev</timezone>
+<bbox>
+<west>27.6578</west>
+<north>49.09338</north>
+<east>27.70732</east>
+<south>49.06096</south>
+</bbox>
+<score>83.02667236328125</score>
+</geoname>
+<geoname>
+<toponymName>Bar</toponymName>
+<name>Bar</name>
+<lat>51.29695</lat>
+<lng>107.55917</lng>
+<geonameId>2027144</geonameId>
+<countryCode>RU</countryCode>
+<countryName>Russia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Bar,Бар</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="BU">11</adminCode1>
+<adminName1>Buryatiya</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Bar</alternateName>
+<alternateName lang="no">Bar</alternateName>
+<alternateName lang="ru">Бар</alternateName>
+<timezone dstOffset="9.0" gmtOffset="9.0">Asia/Irkutsk</timezone>
+<bbox>
+<west>107.54478</west>
+<north>51.30594</north>
+<east>107.57356</east>
+<south>51.28795</south>
+</bbox>
+<score>65.49231719970703</score>
+</geoname>
+<geoname>
+<toponymName>Bár</toponymName>
+<name>Bár</name>
+<lat>46.05314</lat>
+<lng>18.71644</lng>
+<geonameId>3055417</geonameId>
+<countryCode>HU</countryCode>
+<countryName>Hungary</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Bar,Bár</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="BA">02</adminCode1>
+<adminName1>Baranya county</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/B%C3%A1r</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Budapest</timezone>
+<bbox>
+<west>18.70348</west>
+<north>46.06213</north>
+<east>18.7294</east>
+<south>46.04414</south>
+</bbox>
+<score>61.88442611694336</score>
+</geoname>
+<geoname>
+<toponymName>Bār</toponymName>
+<name>Bār</name>
+<lat>38.3</lat>
+<lng>45.16667</lng>
+<geonameId>34957</geonameId>
+<countryCode>IR</countryCode>
+<countryName>Iran</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Bar,Bār,bar,بار</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="01">33</adminCode1>
+<adminName1>East Azarbaijan</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="fa">بار</alternateName>
+<timezone dstOffset="4.5" gmtOffset="3.5">Asia/Tehran</timezone>
+<bbox>
+<west>45.15521</west>
+<north>38.30899</north>
+<east>45.17813</east>
+<south>38.29101</south>
+</bbox>
+<score>57.30577850341797</score>
+</geoname>
+<geoname>
+<toponymName>Baar</toponymName>
+<name>Baar</name>
+<lat>47.19625</lat>
+<lng>8.52954</lng>
+<geonameId>2661653</geonameId>
+<countryCode>CH</countryCode>
+<countryName>Switzerland</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>20546</population>
+<alternateNames>Baar,Bar,Бар</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ZG">ZG</adminCode1>
+<adminName1>Zug</adminName1>
+<adminCode2>900</adminCode2>
+<adminName2>Zug</adminName2>
+<adminCode3>1701</adminCode3>
+<adminName3>Baar</adminName3>
+<alternateName lang="link">http://ru.wikipedia.org/wiki/%D0%91%D0%B0%D1%80_%28%D0%A6%D1%83%D0%B3%29</alternateName>
+<alternateName lang="post">6340</alternateName>
+<alternateName lang="ru">Бар</alternateName>
+<alternateName lang="unlc">BAR</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Zurich</timezone>
+<bbox>
+<west>8.50225</west>
+<north>47.21479</north>
+<east>8.55684</east>
+<south>47.17771</south>
+</bbox>
+<score>53.593482971191406</score>
+</geoname>
+<geoname>
+<toponymName>Barnāla</toponymName>
+<name>Barnāla</name>
+<lat>30.37205</lat>
+<lng>75.54537</lng>
+<geonameId>1276895</geonameId>
+<countryCode>IN</countryCode>
+<countryName>India</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>105016</population>
+<alternateNames>Barnala,Barnāla,Барнала</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="PB">23</adminCode1>
+<adminName1>Punjab</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Barnala</alternateName>
+<alternateName lang="ru">Барнала</alternateName>
+<alternateName lang="unlc">BAR</alternateName>
+<timezone dstOffset="5.5" gmtOffset="5.5">Asia/Kolkata</timezone>
+<bbox>
+<west>75.49674</west>
+<north>30.414</north>
+<east>75.59401</east>
+<south>30.33011</south>
+</bbox>
+<score>49.50754165649414</score>
+</geoname>
+<geoname>
+<toponymName>Barentsburg</toponymName>
+<name>Barentsburg</name>
+<lat>78.06438</lat>
+<lng>14.18585</lng>
+<geonameId>2731990</geonameId>
+<countryCode>SJ</countryCode>
+<countryName>Svalbard and Jan Mayen</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>576</population>
+<alternateNames>Barencburg,Barentsburg,Barentszburg,barentsuburuku,Баренцбург,バレンツブルク</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="21">21</adminCode1>
+<adminName1>Svalbard</adminName1>
+<adminCode2>2111</adminCode2>
+<adminName2>Spitsbergen</adminName2>
+<alternateName lang="da">Barentsburg</alternateName>
+<alternateName lang="de">Barentsburg</alternateName>
+<alternateName lang="en">Barentsburg</alternateName>
+<alternateName lang="fr">Barentsburg</alternateName>
+<alternateName lang="it">Barentsburg</alternateName>
+<alternateName lang="ja">バレンツブルク</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Barentsburg</alternateName>
+<alternateName lang="nl">Barentszburg</alternateName>
+<alternateName lang="nn">Barentsburg</alternateName>
+<alternateName lang="no">Barentsburg</alternateName>
+<alternateName lang="pl">Barentsburg</alternateName>
+<alternateName lang="ru">Баренцбург</alternateName>
+<alternateName lang="sv">Barentsburg</alternateName>
+<alternateName lang="unlc">BAR</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Arctic/Longyearbyen</timezone>
+<bbox>
+<west>14.1815</west>
+<north>78.06528</north>
+<east>14.1902</east>
+<south>78.06349</south>
+</bbox>
+<score>49.50754165649414</score>
+</geoname>
+<geoname>
+<toponymName>Barra dos Coqueiros</toponymName>
+<name>Barra dos Coqueiros</name>
+<lat>-10.90889</lat>
+<lng>-37.03861</lng>
+<geonameId>3470674</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>28586</population>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="SE">28</adminCode1>
+<adminName1>Sergipe</adminName1>
+<adminCode2>2800605</adminCode2>
+<adminName2>Barra dos Coqueiros</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Barra_dos_Coqueiros</alternateName>
+<alternateName lang="unlc">BAR</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Maceio</timezone>
+<bbox>
+<west>-37.06057</west>
+<north>-10.88732</north>
+<east>-37.01665</east>
+<south>-10.93045</south>
+</bbox>
+<score>49.50754165649414</score>
+</geoname>
+</geonames>

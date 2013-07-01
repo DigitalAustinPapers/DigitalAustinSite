@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>8</totalResultsCount>
+<geoname>
+<toponymName>Chocolate</toponymName>
+<name>Chocolate</name>
+<lat>24.95298</lat>
+<lng>-99.71712</lng>
+<geonameId>3530771</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Chocolate,El Chocolate</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NLE">19</adminCode1>
+<adminName1>Nuevo León</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<bbox>
+<west>-99.72704</west>
+<north>24.96197</north>
+<east>-99.7072</east>
+<south>24.94398</south>
+</bbox>
+<score>47.23652267456055</score>
+</geoname>
+<geoname>
+<toponymName>Chocolate</toponymName>
+<name>Chocolate</name>
+<lat>-17.05</lat>
+<lng>-61.95</lng>
+<geonameId>3920525</geonameId>
+<countryCode>BO</countryCode>
+<countryName>Bolivia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Chocolate,Estancia Chocolate</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="S">08</adminCode1>
+<adminName1>Santa Cruz</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/La_Paz</timezone>
+<bbox>
+<west>-61.95941</west>
+<north>-17.04101</north>
+<east>-61.94059</east>
+<south>-17.05899</south>
+</bbox>
+<score>47.23652267456055</score>
+</geoname>
+<geoname>
+<toponymName>El Chocolate</toponymName>
+<name>El Chocolate</name>
+<lat>13.66083</lat>
+<lng>-87.74056</lng>
+<geonameId>3612125</geonameId>
+<countryCode>HN</countryCode>
+<countryName>Honduras</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Chocolate,Chocolte,El Chocolate</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">17</adminCode1>
+<adminName1>Valle</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Tegucigalpa</timezone>
+<bbox>
+<west>-87.74981</west>
+<north>13.66983</north>
+<east>-87.7313</east>
+<south>13.65184</south>
+</bbox>
+<score>39.69041061401367</score>
+</geoname>
+<geoname>
+<toponymName>Chocolate</toponymName>
+<name>Chocolate</name>
+<lat>13.57778</lat>
+<lng>-87.39222</lng>
+<geonameId>3819521</geonameId>
+<countryCode>HN</countryCode>
+<countryName>Honduras</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CH">02</adminCode1>
+<adminName1>Choluteca</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Tegucigalpa</timezone>
+<bbox>
+<west>-87.40147</west>
+<north>13.58677</north>
+<east>-87.38297</east>
+<south>13.56878</south>
+</bbox>
+<score>38.568458557128906</score>
+</geoname>
+<geoname>
+<toponymName>Chocolapa</toponymName>
+<name>Chocolapa</name>
+<lat>16.56667</lat>
+<lng>-94.56667</lng>
+<geonameId>3530772</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Chocolapa,Chocolate</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OAX">20</adminCode1>
+<adminName1>Oaxaca</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-94.57605</west>
+<north>16.57566</north>
+<east>-94.55728</east>
+<south>16.55767</south>
+</bbox>
+<score>27.27202033996582</score>
+</geoname>
+<geoname>
+<toponymName>Chocolate</toponymName>
+<name>Chocolate</name>
+<lat>-16.29578</lat>
+<lng>-71.6811</lng>
+<geonameId>3949288</geonameId>
+<countryCode>PE</countryCode>
+<countryName>Peru</countryName>
+<fcl>S</fcl>
+<fcode>MN</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>mine(s)</fcodeName>
+<population/>
+<alternateNames>Chocolate,Mina Chocolate</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="ARE">04</adminCode1>
+<adminName1>Arequipa Region</adminName1>
+<adminCode2>0401</adminCode2>
+<adminName2>Provincia de Arequipa</adminName2>
+<adminCode3>040128</adminCode3>
+<adminName3>Yura</adminName3>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Lima</timezone>
+<score>23.618261337280273</score>
+</geoname>
+<geoname>
+<toponymName>Chocolate</toponymName>
+<name>Chocolate</name>
+<lat>25.29406</lat>
+<lng>-103.62892</lng>
+<geonameId>4014122</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>S</fcl>
+<fcode>RSTN</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>railroad station</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="DUR">10</adminCode1>
+<adminName1>Durango</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<score>12.052642822265625</score>
+</geoname>
+<geoname>
+<toponymName>Chocolate</toponymName>
+<name>Chocolate</name>
+<lat>27.50553</lat>
+<lng>-102.17699</lng>
+<geonameId>8463803</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>H</fcl>
+<fcode>RSVI</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>intermittent reservoir</fcodeName>
+<population/>
+<alternateNames>Chocolate</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="COA">07</adminCode1>
+<adminName1>Coahuila</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="es">Chocolate</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<score>11.809130668640137</score>
+</geoname>
+</geonames>

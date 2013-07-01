@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>17</totalResultsCount>
+<geoname>
+<toponymName>Estado da Bahia</toponymName>
+<name>Estado de Bahía</name>
+<lat>-12</lat>
+<lng>-42</lng>
+<geonameId>3471168</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>first-order administrative division</fcodeName>
+<population>14021432</population>
+<alternateNames>BA,Bahia,Bahía,Baia,Baía,Estado da Bahia,Estado de Bahia,Estado de Bahía</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="BA">05</adminCode1>
+<adminName1>Estado de Bahía</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="abbr">BA</alternateName>
+<alternateName lang="en">Estado de Bahía</alternateName>
+<alternateName lang="es">Bahía</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bahia</alternateName>
+<alternateName lang="pt">Bahia</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Bahia</timezone>
+<bbox>
+<west>-46.57223</west>
+<north>-8.53083</north>
+<east>-37.42334</east>
+<south>-18.3256</south>
+</bbox>
+<score>84.36734771728516</score>
+</geoname>
+<geoname>
+<toponymName>Bahia</toponymName>
+<name>Bahia</name>
+<lat>38.09659</lat>
+<lng>-122.10302</lng>
+<geonameId>5325576</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>2</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>095</adminCode2>
+<adminName2>Solano County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bahia%2C_California</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-122.11445</west>
+<north>38.10558</north>
+<east>-122.09159</east>
+<south>38.08759</south>
+</bbox>
+<score>59.65672302246094</score>
+</geoname>
+<geoname>
+<toponymName>Bahía de Caráquez</toponymName>
+<name>Bahía de Caráquez</name>
+<lat>-0.59792</lat>
+<lng>-80.42367</lng>
+<geonameId>3660401</geonameId>
+<countryCode>EC</countryCode>
+<countryName>Ecuador</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>37056</population>
+<alternateNames>Bahia,Bahia de Caraques,Bahia de Caraquez,Bahia de Caráques,Bahía,Bahía de Caráquez,Caracas,Sucre</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="M">14</adminCode1>
+<adminName1>Manabí</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bah%C3%ADa_de_Car%C3%A1quez</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Guayaquil</timezone>
+<bbox>
+<west>-80.4483</west>
+<north>-0.57329</north>
+<east>-80.39904</east>
+<south>-0.62255</south>
+</bbox>
+<score>49.71393585205078</score>
+</geoname>
+<geoname>
+<toponymName>Salvador</toponymName>
+<name>Salvador</name>
+<lat>-12.97111</lat>
+<lng>-38.51083</lng>
+<geonameId>3450554</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population>2711840</population>
+<alternateNames>Bahia,Baia,Baía,Gorad Sal'vador,SSA,Sal'vador,Salvador,Salvador da Bahia,Salvador de Bahia,Salvador de Bahio,Salvador de Bahía,Salvadora,Salvadoras,Sao Salvador,Soteropolis,sa er wa duo,sal wad xr,salabhadora,salfadwr, bahya,salvadori,salvhadora da ba'iya,salwadwr,sarubadoru,saruvu~adoru,saubadoleu,slbdwr,slwadwr,Горад Сальвадор,Салвадор,Сальвадор,סלבדור,سالفادور، باهيا,سالوادور,سلوادور,साल्व्हादोर दा बाईया,সালভাদোর,ซัลวาดอร์,სალვადორი,サルバドール,サルヴァドール,萨尔瓦多,사우바도르</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="BA">05</adminCode1>
+<adminName1>Estado de Bahía</adminName1>
+<adminCode2>2927408</adminCode2>
+<adminName2>Salvador Bahia</adminName2>
+<alternateName lang="af">Salvador da Bahia</alternateName>
+<alternateName lang="ar">سالفادور، باهيا</alternateName>
+<alternateName lang="be">Горад Сальвадор</alternateName>
+<alternateName lang="bg">Салвадор</alternateName>
+<alternateName lang="bn">সালভাদোর</alternateName>
+<alternateName lang="br">Salvador da Bahia</alternateName>
+<alternateName lang="ca">Salvador</alternateName>
+<alternateName lang="da">Salvador</alternateName>
+<alternateName lang="de">Salvador da Bahia</alternateName>
+<alternateName lang="en">Salvador</alternateName>
+<alternateName lang="eo">Salvador</alternateName>
+<alternateName lang="es">Salvador</alternateName>
+<alternateName lang="eu">Salvador da Bahia</alternateName>
+<alternateName lang="fa">سالوادور</alternateName>
+<alternateName lang="fi">Salvador</alternateName>
+<alternateName lang="fr">Salvador</alternateName>
+<alternateName lang="ga">Salvador</alternateName>
+<alternateName lang="gl">Salvador</alternateName>
+<alternateName lang="he">סלבדור</alternateName>
+<alternateName lang="hr">Salvador</alternateName>
+<alternateName lang="iata">SSA</alternateName>
+<alternateName lang="id">Salvador</alternateName>
+<alternateName lang="io">Salvador</alternateName>
+<alternateName lang="it">Salvador</alternateName>
+<alternateName lang="ja">サルバドール</alternateName>
+<alternateName lang="ka">სალვადორი</alternateName>
+<alternateName lang="kk">Салвадор</alternateName>
+<alternateName lang="ko">사우바도르</alternateName>
+<alternateName lang="la">Soteropolis</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Salvador%2C_Bahia</alternateName>
+<alternateName lang="lt">Salvadoras</alternateName>
+<alternateName lang="lv">Salvadora</alternateName>
+<alternateName lang="mr">साल्व्हादोर दा बाईया</alternateName>
+<alternateName lang="nl">Salvador</alternateName>
+<alternateName lang="no">Salvador</alternateName>
+<alternateName lang="oc">Salvador</alternateName>
+<alternateName lang="os">Салвадор</alternateName>
+<alternateName lang="pl">Salvador</alternateName>
+<alternateName lang="pnb">سلوادور</alternateName>
+<alternateName lang="pt">Salvador</alternateName>
+<alternateName lang="rm">Salvador da Bahia</alternateName>
+<alternateName lang="ru">Салвадор</alternateName>
+<alternateName lang="sr">Салвадор</alternateName>
+<alternateName lang="sv">Salvador</alternateName>
+<alternateName lang="tg">Салвадор</alternateName>
+<alternateName lang="th">ซัลวาดอร์</alternateName>
+<alternateName lang="tr">Salvador</alternateName>
+<alternateName lang="uk">Салвадор</alternateName>
+<alternateName lang="unlc">SSA</alternateName>
+<alternateName lang="zh">萨尔瓦多</alternateName>
+<alternateName lang="zh-CN">萨尔瓦多</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Bahia</timezone>
+<bbox>
+<west>-38.72997</west>
+<north>-12.75738</north>
+<east>-38.29169</east>
+<south>-13.18484</south>
+</bbox>
+<score>49.21428680419922</score>
+</geoname>
+<geoname>
+<toponymName>Bahia</toponymName>
+<name>Bahia</name>
+<lat>-7.35</lat>
+<lng>143.68333</lng>
+<geonameId>2100107</geonameId>
+<countryCode>PG</countryCode>
+<countryName>Papua New Guinea</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Bahi,Bahia,Bohi</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="GPK">02</adminCode1>
+<adminName1>Gulf</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="10.0" gmtOffset="10.0">Pacific/Port_Moresby</timezone>
+<bbox>
+<west>143.67427</west>
+<north>-7.34101</north>
+<east>143.6924</east>
+<south>-7.35899</south>
+</bbox>
+<score>48.709510803222656</score>
+</geoname>
+<geoname>
+<toponymName>Bahía</toponymName>
+<name>Bahía</name>
+<lat>-18.61667</lat>
+<lng>-58.2</lng>
+<geonameId>3444755</geonameId>
+<countryCode>BO</countryCode>
+<countryName>Bolivia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="S">08</adminCode1>
+<adminName1>Santa Cruz</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/La_Paz</timezone>
+<bbox>
+<west>-58.20949</west>
+<north>-18.60767</north>
+<east>-58.19051</east>
+<south>-18.62566</south>
+</bbox>
+<score>39.771148681640625</score>
+</geoname>
+<geoname>
+<toponymName>Bahia</toponymName>
+<name>Bahia</name>
+<lat>17.96747</lat>
+<lng>-66.90934</lng>
+<geonameId>4562702</geonameId>
+<countryCode>PR</countryCode>
+<countryName>Puerto Rico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>3</elevation>
+<continentCode>NA</continentCode>
+<adminCode1>055</adminCode1>
+<adminName1>Guanica</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Puerto_Rico</timezone>
+<bbox>
+<west>-66.9188</west>
+<north>17.97646</north>
+<east>-66.89989</east>
+<south>17.95847</south>
+</bbox>
+<score>39.771148681640625</score>
+</geoname>
+<geoname>
+<toponymName>Bahía</toponymName>
+<name>Bahía</name>
+<lat>16.8618</lat>
+<lng>-99.87104</lng>
+<geonameId>6615360</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GRO">12</adminCode1>
+<adminName1>Guerrero</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-99.88044</west>
+<north>16.8708</north>
+<east>-99.86165</east>
+<south>16.85281</south>
+</bbox>
+<score>39.771148681640625</score>
+</geoname>
+<geoname>
+<toponymName>Bahia</toponymName>
+<name>Bahia</name>
+<lat>-3.55</lat>
+<lng>-40.24333</lng>
+<geonameId>3406920</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPLL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="CE">06</adminCode1>
+<adminName1>Ceará</adminName1>
+<adminCode2>2312007</adminCode2>
+<adminName2>Santana do Acaraú</adminName2>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Fortaleza</timezone>
+<bbox>
+<west>-40.24423</west>
+<north>-3.5491</north>
+<east>-40.24243</east>
+<south>-3.5509</south>
+</bbox>
+<score>24.85696792602539</score>
+</geoname>
+<geoname>
+<toponymName>Baía</toponymName>
+<name>Baía</name>
+<lat>-26.81667</lat>
+<lng>-52.03333</lng>
+<geonameId>3471164</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Bahia,Baia,Baía</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="SC">26</adminCode1>
+<adminName1>Santa Catarina</adminName1>
+<adminCode2>4212270</adminCode2>
+<adminName2>Passos Maia</adminName2>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Sao_Paulo</timezone>
+<bbox>
+<west>-52.04341</west>
+<north>-26.80767</north>
+<east>-52.02326</east>
+<south>-26.82566</south>
+</bbox>
+<score>24.60714340209961</score>
+</geoname>
+</geonames>

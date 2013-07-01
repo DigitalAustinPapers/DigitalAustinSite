@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Military Pond</toponymName>
+<name>Military Pond</name>
+<lat>44.5483</lat>
+<lng>-73.72105</lng>
+<geonameId>5126896</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>LK</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>lake</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>329</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>019</adminCode2>
+<adminName2>Clinton County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>44.91748809814453</score>
+</geoname>
+<geoname>
+<toponymName>Military Pond</toponymName>
+<name>Military Pond</name>
+<lat>43.98224</lat>
+<lng>-74.22337</lng>
+<geonameId>5126897</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>LK</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>lake</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>490</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>031</adminCode2>
+<adminName2>Essex County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>44.91748809814453</score>
+</geoname>
+<geoname>
+<toponymName>Military Pass</toponymName>
+<name>Military Pass</name>
+<lat>41.49432</lat>
+<lng>-122.14362</lng>
+<geonameId>5567942</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>GAP</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>gap</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1830</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>093</adminCode2>
+<adminName2>Siskiyou County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>26.996883392333984</score>
+</geoname>
+<geoname>
+<toponymName>Military Point</toponymName>
+<name>Military Point</name>
+<lat>30.12576</lat>
+<lng>-85.62187</lng>
+<geonameId>4164398</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>CAPE</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>cape</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>0</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="FL">FL</adminCode1>
+<adminName1>Florida</adminName1>
+<adminCode2>005</adminCode2>
+<adminName2>Bay County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>25.667137145996094</score>
+</geoname>
+<geoname>
+<toponymName>Military Point</toponymName>
+<name>Military Point</name>
+<lat>53.46684</lat>
+<lng>-112.96867</lng>
+<geonameId>6073675</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>T</fcl>
+<fcode>PT</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>point</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AB">01</adminCode1>
+<adminName1>Alberta</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Edmonton</timezone>
+<score>25.667137145996094</score>
+</geoname>
+</geonames>

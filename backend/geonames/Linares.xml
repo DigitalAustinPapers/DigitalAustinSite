@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>64</totalResultsCount>
+<geoname>
+<toponymName>Linares</toponymName>
+<name>Linares</name>
+<lat>38.09519</lat>
+<lng>-3.63602</lng>
+<geonameId>2515045</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>61338</population>
+<alternateNames>Linares,Линарес</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="AN">51</adminCode1>
+<adminName1>Andalusia</adminName1>
+<adminCode2>J</adminCode2>
+<adminName2>Jaen</adminName2>
+<adminCode3>23055</adminCode3>
+<adminName3>Linares</adminName3>
+<alternateName lang="de">Linares</alternateName>
+<alternateName lang="en">Linares</alternateName>
+<alternateName lang="es">Linares</alternateName>
+<alternateName lang="fr">Linares</alternateName>
+<alternateName lang="it">Linares</alternateName>
+<alternateName lang="nl">Linares</alternateName>
+<alternateName lang="pl">Linares</alternateName>
+<alternateName lang="post">23700</alternateName>
+<alternateName lang="pt">Linares</alternateName>
+<alternateName lang="ru">Линарес</alternateName>
+<alternateName lang="unlc">LIZ</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Madrid</timezone>
+<bbox>
+<west>-3.67684</west>
+<north>38.12731</north>
+<east>-3.5952</east>
+<south>38.06308</south>
+</bbox>
+<score>92.86872863769531</score>
+</geoname>
+<geoname>
+<toponymName>Linares</toponymName>
+<name>Linares</name>
+<lat>-35.84667</lat>
+<lng>-71.59308</lng>
+<geonameId>3883167</geonameId>
+<countryCode>CL</countryCode>
+<countryName>Chile</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>69535</population>
+<alternateNames>Linares,ZLR,li na lei si,Линарес,利納雷斯</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="ML">11</adminCode1>
+<adminName1>Maule</adminName1>
+<adminCode2>74</adminCode2>
+<adminName2>Provincia de Linares</adminName2>
+<adminCode3>07401</adminCode3>
+<adminName3>Linares</adminName3>
+<alternateName lang="de">Linares</alternateName>
+<alternateName lang="en">Linares</alternateName>
+<alternateName lang="es">Linares</alternateName>
+<alternateName lang="fr">Linares</alternateName>
+<alternateName lang="iata">ZLR</alternateName>
+<alternateName lang="it">Linares</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Linares%2C_Chile</alternateName>
+<alternateName lang="nl">Linares</alternateName>
+<alternateName lang="pl">Linares</alternateName>
+<alternateName lang="pt">Linares</alternateName>
+<alternateName lang="ru">Линарес</alternateName>
+<alternateName lang="unlc">LIN</alternateName>
+<alternateName lang="zh">利納雷斯</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-3.0">America/Santiago</timezone>
+<bbox>
+<west>-71.63494</west>
+<north>-35.81272</north>
+<east>-71.55121</east>
+<south>-35.88062</south>
+</bbox>
+<score>92.86872863769531</score>
+</geoname>
+<geoname>
+<toponymName>Linares</toponymName>
+<name>Linares</name>
+<lat>24.85908</lat>
+<lng>-99.56568</lng>
+<geonameId>3524348</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>57731</population>
+<alternateNames>Linares,Линарес</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NLE">19</adminCode1>
+<adminName1>Nuevo León</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Linares%2C_Nuevo_Le%C3%B3n</alternateName>
+<alternateName lang="ru">Линарес</alternateName>
+<alternateName lang="unlc">LIN</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<bbox>
+<west>-99.60002</west>
+<north>24.89024</north>
+<east>-99.53133</east>
+<south>24.82793</south>
+</bbox>
+<score>85.78845977783203</score>
+</geoname>
+<geoname>
+<toponymName>Linares</toponymName>
+<name>Linares</name>
+<lat>1.38333</lat>
+<lng>-77.45</lng>
+<geonameId>3676541</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames>Linares</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="NAR">20</adminCode1>
+<adminName1>Nariño</adminName1>
+<adminCode2>3676541</adminCode2>
+<adminName2>Linares</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<score>74.29498291015625</score>
+</geoname>
+<geoname>
+<toponymName>Linares</toponymName>
+<name>Linares</name>
+<lat>1.35783</lat>
+<lng>-77.52725</lng>
+<geonameId>3676540</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3512</population>
+<alternateNames>Linares</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="NAR">20</adminCode1>
+<adminName1>Nariño</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Linares%2C_Nari%C3%B1o</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<bbox>
+<west>-77.53361</west>
+<north>1.36419</north>
+<east>-77.52088</east>
+<south>1.35147</south>
+</bbox>
+<score>65.00811004638672</score>
+</geoname>
+<geoname>
+<toponymName>Linares</toponymName>
+<name>Linares</name>
+<lat>43.23584</lat>
+<lng>-6.56271</lng>
+<geonameId>3118404</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Linares</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="AS">34</adminCode1>
+<adminName1>Asturias</adminName1>
+<adminCode2>O</adminCode2>
+<adminName2>Asturias</adminName2>
+<adminCode3>33001</adminCode3>
+<adminName3>Allande</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Linares_%28Allande%29</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Madrid</timezone>
+<bbox>
+<west>-6.57505</west>
+<north>43.24484</north>
+<east>-6.55036</east>
+<south>43.22685</south>
+</bbox>
+<score>55.72123718261719</score>
+</geoname>
+<geoname>
+<toponymName>Linares</toponymName>
+<name>Linares</name>
+<lat>-35.95814</lat>
+<lng>-71.33207</lng>
+<geonameId>8261146</geonameId>
+<countryCode>CL</countryCode>
+<countryName>Chile</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="ML">11</adminCode1>
+<adminName1>Maule</adminName1>
+<adminCode2>74</adminCode2>
+<adminName2>Provincia de Linares</adminName2>
+<adminCode3>07401</adminCode3>
+<adminName3>Linares</adminName3>
+<timezone dstOffset="-4.0" gmtOffset="-3.0">America/Santiago</timezone>
+<bbox>
+<west>-71.79731</west>
+<north>-35.70047</north>
+<east>-71.00512</east>
+<south>-36.22461</south>
+</bbox>
+<score>53.07890319824219</score>
+</geoname>
+<geoname>
+<toponymName>Liñares</toponymName>
+<name>Liñares</name>
+<lat>42.49507</lat>
+<lng>-7.39845</lng>
+<geonameId>3118411</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Linares,Liñares</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="GA">58</adminCode1>
+<adminName1>Galicia</adminName1>
+<adminCode2>LU</adminCode2>
+<adminName2>Lugo</adminName2>
+<adminCode3>27031</adminCode3>
+<adminName3>Monforte de Lemos</adminName3>
+<alternateName lang="post">27413</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Madrid</timezone>
+<bbox>
+<west>-7.41065</west>
+<north>42.50406</north>
+<east>-7.38625</east>
+<south>42.48608</south>
+</bbox>
+<score>37.53245162963867</score>
+</geoname>
+<geoname>
+<toponymName>Liñares</toponymName>
+<name>Liñares</name>
+<lat>42.08333</lat>
+<lng>-8.43333</lng>
+<geonameId>3118412</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Linares,Liñares,Santa Maria,Santa María</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="GA">58</adminCode1>
+<adminName1>Galicia</adminName1>
+<adminCode2>PO</adminCode2>
+<adminName2>Pontevedra</adminName2>
+<adminCode3>36050</adminCode3>
+<adminName3>Salvaterra de Miño</adminName3>
+<alternateName lang="post">36449</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Madrid</timezone>
+<bbox>
+<west>-8.44545</west>
+<north>42.09233</north>
+<east>-8.42121</east>
+<south>42.07434</south>
+</bbox>
+<score>37.53245162963867</score>
+</geoname>
+<geoname>
+<toponymName>Provincia Linares</toponymName>
+<name>Provincia Linares</name>
+<lat>-19.83333</lat>
+<lng>-65.5</lng>
+<geonameId>3911502</geonameId>
+<countryCode>BO</countryCode>
+<countryName>Bolivia</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames>Linares,Provincia Linares,Provincia Linarez</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="P">07</adminCode1>
+<adminName1>Potosí</adminName1>
+<adminCode2>3911502</adminCode2>
+<adminName2>Provincia Linares</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/La_Paz</timezone>
+<score>37.53245162963867</score>
+</geoname>
+</geonames>

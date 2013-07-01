@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>191</totalResultsCount>
+<geoname>
+<toponymName>Boston</toponymName>
+<name>Boston</name>
+<lat>42.35843</lat>
+<lng>-71.05977</lng>
+<geonameId>4930956</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population>617594</population>
+<alternateNames>BOS,Boston,Bostona,Bostonas,Bostone,Bostonia,Bostono,Bostun,Bostún,Gorad Bostan,Pokekona,Vostoni,bastan,bastana,beasrraൺ,bo shi dun,boseuteon,bostan,bostana,bostoni,bosuton,bwstn,bwstwn,bxstan,pastan,Βοστωνη,Βοστώνη,Бостон,Бостън,Горад Бостан,Բոստոն,באסטאן,בוסטון,بوستون,بوسطن,بوسٹن,بۆستن,ܒܘܣܛܘܢ,बस्तन,बॉस्टन,बोस्टन,বস্টন,பாஸ்டன்,బోస్టన్,ಬಾಸ್ಟನ್,ബോസ്റ്റൺ,บอสตัน,བོ་སེ་ཊོན།,ဘော့စတွန်မြို့,ბოსთონი,ბოსტონი,ボストン,波士顿,보스턴</alternateNames>
+<elevation>14</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MA">MA</adminCode1>
+<adminName1>Massachusetts</adminName1>
+<adminCode2>025</adminCode2>
+<adminName2>Suffolk County</adminName2>
+<alternateName lang="ar">بوسطن</alternateName>
+<alternateName lang="arc">ܒܘܣܛܘܢ</alternateName>
+<alternateName lang="be">Горад Бостан</alternateName>
+<alternateName lang="bg">Бостън</alternateName>
+<alternateName lang="bn">বস্টন</alternateName>
+<alternateName lang="bo">བོ་སེ་ཊོན།</alternateName>
+<alternateName lang="ca">Boston</alternateName>
+<alternateName lang="ckb">بۆستن</alternateName>
+<alternateName lang="cs">Boston</alternateName>
+<alternateName lang="da">Boston</alternateName>
+<alternateName lang="de">Boston</alternateName>
+<alternateName lang="el">Βοστώνη</alternateName>
+<alternateName lang="en">Boston</alternateName>
+<alternateName lang="eo">Bostono</alternateName>
+<alternateName lang="es">Boston</alternateName>
+<alternateName lang="et">Boston</alternateName>
+<alternateName lang="eu">Boston</alternateName>
+<alternateName lang="fa">بوستون</alternateName>
+<alternateName lang="fi">Boston</alternateName>
+<alternateName lang="fr">Boston</alternateName>
+<alternateName lang="ga">Bostún</alternateName>
+<alternateName lang="gl">Boston</alternateName>
+<alternateName lang="haw">Pokekona</alternateName>
+<alternateName lang="he">בוסטון</alternateName>
+<alternateName lang="hi">बोस्टन</alternateName>
+<alternateName lang="hu">Boston</alternateName>
+<alternateName lang="hy">Բոստոն</alternateName>
+<alternateName lang="iata">BOS</alternateName>
+<alternateName lang="id">Boston</alternateName>
+<alternateName lang="io">Boston</alternateName>
+<alternateName lang="is">Boston</alternateName>
+<alternateName lang="it">Boston</alternateName>
+<alternateName lang="ja">ボストン</alternateName>
+<alternateName lang="ka">ბოსტონი</alternateName>
+<alternateName lang="kk">Бостон</alternateName>
+<alternateName lang="kn">ಬಾಸ್ಟನ್</alternateName>
+<alternateName lang="ko">보스턴</alternateName>
+<alternateName lang="la">Bostonia</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Boston</alternateName>
+<alternateName lang="lt">Bostonas</alternateName>
+<alternateName lang="lv">Bostona</alternateName>
+<alternateName lang="mk">Бостон</alternateName>
+<alternateName lang="ml">ബോസ്റ്റൺ</alternateName>
+<alternateName lang="mr">बॉस्टन</alternateName>
+<alternateName lang="mrj">Бостон</alternateName>
+<alternateName lang="my">ဘော့စတွန်မြို့</alternateName>
+<alternateName lang="new">बस्तन</alternateName>
+<alternateName lang="nl">Boston</alternateName>
+<alternateName lang="no">Boston</alternateName>
+<alternateName lang="oc">Boston</alternateName>
+<alternateName lang="os">Бостон</alternateName>
+<alternateName lang="pl">Boston</alternateName>
+<alternateName lang="pnb">بوسٹن</alternateName>
+<alternateName lang="pnt">Βοστώνη</alternateName>
+<alternateName lang="post">02204</alternateName>
+<alternateName lang="pt">Boston</alternateName>
+<alternateName lang="ro">Boston</alternateName>
+<alternateName lang="ru">Бостон</alternateName>
+<alternateName lang="sah">Бостон</alternateName>
+<alternateName lang="sk">Boston</alternateName>
+<alternateName lang="sl">Boston</alternateName>
+<alternateName lang="sq">Boston</alternateName>
+<alternateName lang="sr">Бостон</alternateName>
+<alternateName lang="sv">Boston</alternateName>
+<alternateName lang="ta">பாஸ்டன்</alternateName>
+<alternateName lang="te">బోస్టన్</alternateName>
+<alternateName lang="th">บอสตัน</alternateName>
+<alternateName lang="tr">Boston</alternateName>
+<alternateName lang="ug">بوستون</alternateName>
+<alternateName lang="uk">Бостон</alternateName>
+<alternateName lang="unlc">BOS</alternateName>
+<alternateName lang="ur">بوسٹن</alternateName>
+<alternateName lang="vi">Boston</alternateName>
+<alternateName lang="wuu">波士顿</alternateName>
+<alternateName lang="xmf">ბოსთონი</alternateName>
+<alternateName lang="yi">באסטאן</alternateName>
+<alternateName lang="zh">波士顿</alternateName>
+<alternateName lang="zh-CN">波士顿</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-71.19116</west>
+<north>42.40082</north>
+<east>-70.74879</east>
+<south>42.22788</south>
+</bbox>
+<score>130.98512268066406</score>
+</geoname>
+<geoname>
+<toponymName>Boston</toponymName>
+<name>Boston</name>
+<lat>52.97633</lat>
+<lng>-0.02664</lng>
+<geonameId>2655138</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>35859</population>
+<alternateNames>Boston,Boston i England,boseuteon,bwstn,Бостон,بوسطن,보스턴</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UB</adminCode3>
+<adminName3>Boston District</adminName3>
+<alternateName lang="ar">بوسطن</alternateName>
+<alternateName lang="de">Boston</alternateName>
+<alternateName lang="en">Boston</alternateName>
+<alternateName lang="eo">Boston</alternateName>
+<alternateName lang="fr">Boston</alternateName>
+<alternateName lang="ko">보스턴</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Boston%2C_Lincolnshire</alternateName>
+<alternateName lang="nl">Boston</alternateName>
+<alternateName lang="nn">Boston i England</alternateName>
+<alternateName lang="no">Boston</alternateName>
+<alternateName lang="pl">Boston</alternateName>
+<alternateName lang="ru">Бостон</alternateName>
+<alternateName lang="sv">Boston</alternateName>
+<alternateName lang="unlc">BOS</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.06688</west>
+<north>53.00055</north>
+<east>0.01359</east>
+<south>52.95212</south>
+</bbox>
+<score>61.421356201171875</score>
+</geoname>
+<geoname>
+<toponymName>Boston</toponymName>
+<name>Boston</name>
+<lat>7.87111</lat>
+<lng>126.36417</lng>
+<geonameId>1723862</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2891</population>
+<alternateNames>Boston</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="BOH">11</adminCode1>
+<adminName1>Davao</adminName1>
+<adminCode2>26</adminCode2>
+<adminName2>Davao Oriental</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Boston%2C_Davao_Oriental</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<bbox>
+<west>126.35775</west>
+<north>7.87747</north>
+<east>126.37059</east>
+<south>7.86475</south>
+</bbox>
+<score>51.6352653503418</score>
+</geoname>
+<geoname>
+<toponymName>Boston</toponymName>
+<name>Boston</name>
+<lat>-29.66667</lat>
+<lng>29.96667</lng>
+<geonameId>1016800</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Boston</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="ZN">02</adminCode1>
+<adminName1>KwaZulu-Natal</adminName1>
+<adminCode2>DC22</adminCode2>
+<adminName2>uMgungundlovu District Municipality</adminName2>
+<adminCode3>KZN224</adminCode3>
+<adminName3>Impendle</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Boston%2C_KwaZulu-Natal</alternateName>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<bbox>
+<west>29.95632</west>
+<north>-29.65767</north>
+<east>29.97702</east>
+<south>-29.67566</south>
+</bbox>
+<score>44.25879669189453</score>
+</geoname>
+<geoname>
+<toponymName>Boston</toponymName>
+<name>Boston</name>
+<lat>53.03083</lat>
+<lng>-8.93167</lng>
+<geonameId>2966053</geonameId>
+<countryCode>IE</countryCode>
+<countryName>Ireland</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>570</population>
+<alternateNames>Boston</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="M">M</adminCode1>
+<adminName1>Munster</adminName1>
+<adminCode2>03</adminCode2>
+<adminName2>Co Clare</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Boston%2C_County_Clare</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Dublin</timezone>
+<bbox>
+<west>-8.93316</west>
+<north>53.03173</north>
+<east>-8.93017</east>
+<south>53.02993</south>
+</bbox>
+<score>44.25879669189453</score>
+</geoname>
+<geoname>
+<toponymName>Boston</toponymName>
+<name>Boston</name>
+<lat>5.71667</lat>
+<lng>-55.36667</lng>
+<geonameId>3384518</geonameId>
+<countryCode>SR</countryCode>
+<countryName>Suriname</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Boston</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="PR">15</adminCode1>
+<adminName1>Para</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Boston%2C_Suriname</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Paramaribo</timezone>
+<bbox>
+<west>-55.37571</west>
+<north>5.72566</north>
+<east>-55.35763</east>
+<south>5.70767</south>
+</bbox>
+<score>44.25879669189453</score>
+</geoname>
+<geoname>
+<toponymName>Boston</toponymName>
+<name>Boston</name>
+<lat>30.79186</lat>
+<lng>-83.78989</lng>
+<geonameId>4183849</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1315</population>
+<alternateNames>Boston,Бостон</alternateNames>
+<elevation>63</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">GA</adminCode1>
+<adminName1>Georgia</adminName1>
+<adminCode2>275</adminCode2>
+<adminName2>Thomas County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Boston%2C_Georgia</alternateName>
+<alternateName lang="post">31626</alternateName>
+<alternateName lang="ru">Бостон</alternateName>
+<alternateName lang="unlc">BZD</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-83.8026</west>
+<north>30.80305</north>
+<east>-83.7772</east>
+<south>30.78098</south>
+</bbox>
+<score>42.58804702758789</score>
+</geoname>
+<geoname>
+<toponymName>Boston</toponymName>
+<name>Boston</name>
+<lat>33.44151</lat>
+<lng>-94.41965</lng>
+<geonameId>4675742</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Boston,Бостон</alternateNames>
+<elevation>111</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>037</adminCode2>
+<adminName2>Bowie County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Boston%2C_Texas</alternateName>
+<alternateName lang="ru">Бостон</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-94.43042</west>
+<north>33.4505</north>
+<east>-94.40887</east>
+<south>33.43251</south>
+</bbox>
+<score>42.58804702758789</score>
+</geoname>
+<geoname>
+<toponymName>Boston</toponymName>
+<name>Boston</name>
+<lat>41.01136</lat>
+<lng>72.95716</lng>
+<geonameId>1527576</geonameId>
+<countryCode>KG</countryCode>
+<countryName>Kyrgyzstan</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Boston,Niyaz,Бостон</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="J">03</adminCode1>
+<adminName1>Jalal-Abad</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ru">Бостон</alternateName>
+<timezone dstOffset="6.0" gmtOffset="6.0">Asia/Bishkek</timezone>
+<bbox>
+<west>72.94523</west>
+<north>41.02036</north>
+<east>72.96908</east>
+<south>41.00237</south>
+</bbox>
+<score>38.0919075012207</score>
+</geoname>
+<geoname>
+<toponymName>Boston</toponymName>
+<name>Boston</name>
+<lat>7.91601</lat>
+<lng>126.27843</lng>
+<geonameId>1723863</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population>11455</population>
+<alternateNames>Boston</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="BOH">11</adminCode1>
+<adminName1>Davao</adminName1>
+<adminCode2>26</adminCode2>
+<adminName2>Davao Oriental</adminName2>
+<adminCode3>1723863</adminCode3>
+<adminName3>Boston</adminName3>
+<alternateName lang="fil">Boston</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<score>36.88233184814453</score>
+</geoname>
+</geonames>

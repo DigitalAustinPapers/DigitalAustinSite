@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>11</totalResultsCount>
+<geoname>
+<toponymName>Rubicon</toponymName>
+<name>Rubicon</name>
+<lat>43.34028</lat>
+<lng>-88.4576</lng>
+<geonameId>5269691</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>307</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WI">WI</adminCode1>
+<adminName1>Wisconsin</adminName1>
+<adminCode2>027</adminCode2>
+<adminName2>Dodge County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Rubicon%2C_Wisconsin</alternateName>
+<alternateName lang="post">53078</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-88.46997</west>
+<north>43.34927</north>
+<east>-88.44523</east>
+<south>43.33128</south>
+</bbox>
+<score>57.79910659790039</score>
+</geoname>
+<geoname>
+<toponymName>Rubicon</toponymName>
+<name>Rubicon</name>
+<lat>34.6312</lat>
+<lng>-92.76628</lng>
+<geonameId>4129292</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>127</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">AR</adminCode1>
+<adminName1>Arkansas</adminName1>
+<adminCode2>125</adminCode2>
+<adminName2>Saline County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.77721</west>
+<north>34.6402</north>
+<east>-92.75535</east>
+<south>34.62221</south>
+</bbox>
+<score>38.532737731933594</score>
+</geoname>
+<geoname>
+<toponymName>Rubicon</toponymName>
+<name>Rubicon</name>
+<lat>44.98211</lat>
+<lng>-116.36874</lng>
+<geonameId>5605945</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1286</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ID">ID</adminCode1>
+<adminName1>Idaho</adminName1>
+<adminCode2>003</adminCode2>
+<adminName2>Adams County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Boise</timezone>
+<bbox>
+<west>-116.38146</west>
+<north>44.9911</north>
+<east>-116.35603</east>
+<south>44.97312</south>
+</bbox>
+<score>38.532737731933594</score>
+</geoname>
+<geoname>
+<toponymName>Rubikon</toponymName>
+<name>Rubikon</name>
+<lat>61.97319</lat>
+<lng>174.65219</lng>
+<geonameId>2124733</geonameId>
+<countryCode>RU</countryCode>
+<countryName>Russia</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>Khatinveyem,Melyu-Veyem,Reka Khatin-Vayem,Rubicon,Rubikon,Рубикон</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="CHU">15</adminCode1>
+<adminName1>Chukotskiy Avtonomnyy Okrug</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ru">Рубикон</alternateName>
+<timezone dstOffset="12.0" gmtOffset="12.0">Asia/Anadyr</timezone>
+<score>30.331096649169922</score>
+</geoname>
+<geoname>
+<toponymName>Rubicon</toponymName>
+<name>Rubicon</name>
+<lat>7.71952</lat>
+<lng>-64.72505</lng>
+<geonameId>3484426</geonameId>
+<countryCode>VE</countryCode>
+<countryName>Venezuela</countryName>
+<fcl>P</fcl>
+<fcode>PPLL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="B">02</adminCode1>
+<adminName1>Estado Anzoátegui</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.5" gmtOffset="-4.5">America/Caracas</timezone>
+<bbox>
+<west>-64.72596</west>
+<north>7.72042</north>
+<east>-64.72414</east>
+<south>7.71862</south>
+</bbox>
+<score>24.082962036132812</score>
+</geoname>
+<geoname>
+<toponymName>Rubicon</toponymName>
+<name>Rubicon</name>
+<lat>-21.03333</lat>
+<lng>29.26667</lng>
+<geonameId>882256</geonameId>
+<countryCode>ZW</countryCode>
+<countryName>Zimbabwe</countryName>
+<fcl>S</fcl>
+<fcode>MN</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>mine(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Harare</timezone>
+<score>12.041481018066406</score>
+</geoname>
+<geoname>
+<toponymName>Rubikon</toponymName>
+<name>Rubikon</name>
+<lat>59.42222</lat>
+<lng>148.16389</lng>
+<geonameId>2115038</geonameId>
+<countryCode>RU</countryCode>
+<countryName>Russia</countryName>
+<fcl>S</fcl>
+<fcode>TRIG</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>triangulation station</fcodeName>
+<population/>
+<alternateNames>Rubikon,Рубикон</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="MAG">44</adminCode1>
+<adminName1>Magadan</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ru">Рубикон</alternateName>
+<timezone dstOffset="12.0" gmtOffset="12.0">Asia/Magadan</timezone>
+<score>10.641497611999512</score>
+</geoname>
+<geoname>
+<toponymName>Rubión</toponymName>
+<name>Rubión</name>
+<lat>23.1</lat>
+<lng>-81.9</lng>
+<geonameId>3541741</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1>MA</adminCode1>
+<adminName1>Provincia Mayabeque</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>7.167844295501709</score>
+</geoname>
+<geoname>
+<toponymName>Fiume Uso</toponymName>
+<name>Fiume Uso</name>
+<lat>44.13333</lat>
+<lng>12.46667</lng>
+<geonameId>3165017</geonameId>
+<countryCode>IT</countryCode>
+<countryName>Italy</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>Fiume Uso,Rubicone,Torrente Uso</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="45">05</adminCode1>
+<adminName1>Emilia-Romagna</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Rubicon</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Rome</timezone>
+<score>6.516559600830078</score>
+</geoname>
+<geoname>
+<toponymName>Fiume Rubicone</toponymName>
+<name>Fiume Rubicone</name>
+<lat>44.16834</lat>
+<lng>12.44343</lng>
+<geonameId>3168821</geonameId>
+<countryCode>IT</countryCode>
+<countryName>Italy</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>Rubicon River,Rubicone</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="45">05</adminCode1>
+<adminName1>Emilia-Romagna</adminName1>
+<adminCode2>FC</adminCode2>
+<adminName2>Provincia di Forlì</adminName2>
+<adminCode3>040045</adminCode3>
+<adminName3>Savignano sul Rubicone</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Rome</timezone>
+<score>4.3443732261657715</score>
+</geoname>
+</geonames>

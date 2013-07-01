@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>63</totalResultsCount>
+<geoname>
+<toponymName>Passage West</toponymName>
+<name>Passage West</name>
+<lat>51.87389</lat>
+<lng>-8.34444</lng>
+<geonameId>2962066</geonameId>
+<countryCode>IE</countryCode>
+<countryName>Ireland</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>4907</population>
+<alternateNames>An Pasaiste,An Pasáiste,Passage,Passage West</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="M">M</adminCode1>
+<adminName1>Munster</adminName1>
+<adminCode2>04</adminCode2>
+<adminName2>Cork</adminName2>
+<alternateName lang="en">Passage West</alternateName>
+<alternateName lang="ga">An Pasáiste</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Passage_West</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Dublin</timezone>
+<bbox>
+<west>-8.35901</west>
+<north>51.88288</north>
+<east>-8.32987</east>
+<south>51.8649</south>
+</bbox>
+<score>30.225629806518555</score>
+</geoname>
+<geoname>
+<toponymName>Passage East</toponymName>
+<name>Passage East</name>
+<lat>52.23639</lat>
+<lng>-6.96806</lng>
+<geonameId>2962067</geonameId>
+<countryCode>IE</countryCode>
+<countryName>Ireland</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>An Pasaiste,An Pasáiste,Passage,Passage East</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="M">M</adminCode1>
+<adminName1>Munster</adminName1>
+<adminCode2>27</adminCode2>
+<adminName2>County Waterford</adminName2>
+<alternateName lang="en">Passage East</alternateName>
+<alternateName lang="ga">An Pasáiste</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Passage_East</alternateName>
+<alternateName lang="unlc">PAS</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Dublin</timezone>
+<bbox>
+<west>-6.98274</west>
+<north>52.24538</north>
+<east>-6.95337</east>
+<south>52.2274</south>
+</bbox>
+<score>24.180503845214844</score>
+</geoname>
+<geoname>
+<toponymName>Le Passage</toponymName>
+<name>Le Passage</name>
+<lat>44.20143</lat>
+<lng>0.60275</lng>
+<geonameId>3003017</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>9434</population>
+<alternateNames>Le Passage,Passage,Passage d'Agen</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="B">97</adminCode1>
+<adminName1>Aquitaine</adminName1>
+<adminCode2>47</adminCode2>
+<adminName2>Lot-et-Garonne</adminName2>
+<adminCode3>471</adminCode3>
+<adminName3>Arrondissement d'Agen</adminName3>
+<adminCode4>47201</adminCode4>
+<adminName4>Le Passage</adminName4>
+<alternateName lang="post">47520</alternateName>
+<alternateName lang="unlc">LEP</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>0.58615</west>
+<north>44.21333</north>
+<east>0.61935</east>
+<south>44.18953</south>
+</bbox>
+<score>24.180503845214844</score>
+</geoname>
+<geoname>
+<toponymName>Passagem</toponymName>
+<name>Passagem</name>
+<lat>-6.27254</lat>
+<lng>-35.39534</lng>
+<geonameId>6320198</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>2899</population>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="RN">22</adminCode1>
+<adminName1>Rio Grande do Norte</adminName1>
+<adminCode2>2409209</adminCode2>
+<adminName2>Passagem</adminName2>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Recife</timezone>
+<bbox>
+<west>-35.42555</west>
+<north>-6.24539</north>
+<east>-35.35813</east>
+<south>-6.32285</south>
+</bbox>
+<score>17.249597549438477</score>
+</geoname>
+<geoname>
+<toponymName>Pássabe</toponymName>
+<name>Pássabe</name>
+<lat>-9.46417</lat>
+<lng>124.34333</lng>
+<geonameId>1632038</geonameId>
+<countryCode>TL</countryCode>
+<countryName>East Timor</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Pasab,Pasabe,Passabe,Pássabe</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="OE">OE</adminCode1>
+<adminName1>Distrito Oecussi-Ambeno</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Passabe</alternateName>
+<timezone dstOffset="9.0" gmtOffset="9.0">Asia/Dili</timezone>
+<bbox>
+<west>124.33422</west>
+<north>-9.45517</north>
+<east>124.35245</east>
+<south>-9.47316</south>
+</bbox>
+<score>14.332904815673828</score>
+</geoname>
+<geoname>
+<toponymName>Passagem</toponymName>
+<name>Passagem</name>
+<lat>-7.11889</lat>
+<lng>-37.03671</lng>
+<geonameId>6320374</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>2233</population>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="PB">17</adminCode1>
+<adminName1>Paraíba</adminName1>
+<adminCode2>2510709</adminCode2>
+<adminName2>Passagem</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Passagem%2C_Para%C3%ADba</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Recife</timezone>
+<bbox>
+<west>-37.09776</west>
+<north>-7.05249</north>
+<east>-36.99371</east>
+<south>-7.17431</south>
+</bbox>
+<score>13.799677848815918</score>
+</geoname>
+<geoname>
+<toponymName>Passade</toponymName>
+<name>Passade</name>
+<lat>52.01544</lat>
+<lng>8.95448</lng>
+<geonameId>2855330</geonameId>
+<countryCode>DE</countryCode>
+<countryName>Germany</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>Passade</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="NW">07</adminCode1>
+<adminName1>North Rhine-Westphalia</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Passade_%28river%29</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Berlin</timezone>
+<score>11.966246604919434</score>
+</geoname>
+<geoname>
+<toponymName>Passade</toponymName>
+<name>Passade</name>
+<lat>54.36667</lat>
+<lng>10.31667</lng>
+<geonameId>2855331</geonameId>
+<countryCode>DE</countryCode>
+<countryName>Germany</countryName>
+<fcl>P</fcl>
+<fcode>PPLA4</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a fourth-order administrative division</fcodeName>
+<population>300</population>
+<alternateNames>Passade</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SH">10</adminCode1>
+<adminName1>Schleswig-Holstein</adminName1>
+<adminCode2>00</adminCode2>
+<adminName2/>
+<adminCode3>01057</adminCode3>
+<adminName3>Kreis Plön</adminName3>
+<adminCode4>01057056</adminCode4>
+<adminName4>Passade</adminName4>
+<alternateName lang="link">http://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%81%D1%81%D0%B0%D0%B4%D0%B5</alternateName>
+<alternateName lang="unlc">66Y</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Berlin</timezone>
+<bbox>
+<west>10.31512</west>
+<north>54.36757</north>
+<east>10.31821</east>
+<south>54.36577</south>
+</bbox>
+<score>11.966246604919434</score>
+</geoname>
+<geoname>
+<toponymName>Passale</toponymName>
+<name>Passale</name>
+<lat>-14.8175</lat>
+<lng>37.25806</lng>
+<geonameId>1088523</geonameId>
+<countryCode>MZ</countryCode>
+<countryName>Mozambique</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="N">06</adminCode1>
+<adminName1>Nampula</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Maputo</timezone>
+<bbox>
+<west>37.24875</west>
+<north>-14.80851</north>
+<east>37.26736</east>
+<south>-14.82649</south>
+</bbox>
+<score>10.659955978393555</score>
+</geoname>
+<geoname>
+<toponymName>Passago</toponymName>
+<name>Passago</name>
+<lat>11.14196</lat>
+<lng>2.8677</lng>
+<geonameId>2392194</geonameId>
+<countryCode>BJ</countryCode>
+<countryName>Benin</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="1.0">Africa/Porto-Novo</timezone>
+<bbox>
+<west>2.85853</west>
+<north>11.15095</north>
+<east>2.87687</east>
+<south>11.13297</south>
+</bbox>
+<score>10.659955978393555</score>
+</geoname>
+</geonames>

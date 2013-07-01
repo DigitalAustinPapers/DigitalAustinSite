@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Vevey</toponymName>
+<name>Vevey</name>
+<lat>46.46299</lat>
+<lng>6.84345</lng>
+<geonameId>2658145</geonameId>
+<countryCode>CH</countryCode>
+<countryName>Switzerland</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>15812</population>
+<alternateNames>Lungsod ng Vevey,V'ove,Veve,Vevey,Vevê,Vevė,Vibiscum,ZKZ,beube,veve,vu~evu~ei,wo wei,ww wh,Βεβέ,Веве,Вьове,وو وه,ვევე,ヴェヴェイ,沃韦,브베</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="VD">VD</adminCode1>
+<adminName1>Vaud</adminName1>
+<adminCode2>2230</adminCode2>
+<adminName2>District de la Riviera-Pays-d'Enhaut</adminName2>
+<adminCode3>5890</adminCode3>
+<adminName3>Vevey</adminName3>
+<alternateName lang="bg">Вьове</alternateName>
+<alternateName lang="de">Vevey</alternateName>
+<alternateName lang="el">Βεβέ</alternateName>
+<alternateName lang="en">Vevey</alternateName>
+<alternateName lang="es">Vevey</alternateName>
+<alternateName lang="fa">وو وه</alternateName>
+<alternateName lang="fr">Vevey</alternateName>
+<alternateName lang="frp">Vevê</alternateName>
+<alternateName lang="iata">ZKZ</alternateName>
+<alternateName lang="it">Vevey</alternateName>
+<alternateName lang="ja">ヴェヴェイ</alternateName>
+<alternateName lang="ka">ვევე</alternateName>
+<alternateName lang="ko">브베</alternateName>
+<alternateName lang="la">Vibiscum</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Vevey</alternateName>
+<alternateName lang="lt">Vevė</alternateName>
+<alternateName lang="nl">Vevey</alternateName>
+<alternateName lang="pl">Vevey</alternateName>
+<alternateName lang="post">1800</alternateName>
+<alternateName lang="pt">Vevey</alternateName>
+<alternateName lang="ro">Vevey</alternateName>
+<alternateName lang="ru">Веве</alternateName>
+<alternateName lang="sr">Веве</alternateName>
+<alternateName lang="sv">Vevey</alternateName>
+<alternateName lang="tl">Vevey</alternateName>
+<alternateName lang="uk">Веве</alternateName>
+<alternateName lang="unlc">ZKZ</alternateName>
+<alternateName lang="zh">沃韦</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Zurich</timezone>
+<bbox>
+<west>6.81991</west>
+<north>46.4792</north>
+<east>6.867</east>
+<south>46.44678</south>
+</bbox>
+<score>85.7381820678711</score>
+</geoname>
+<geoname>
+<toponymName>Vevey</toponymName>
+<name>Vevey</name>
+<lat>46.46423</lat>
+<lng>6.8481</lng>
+<geonameId>7287444</geonameId>
+<countryCode>CH</countryCode>
+<countryName>Switzerland</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population>18394</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="VD">VD</adminCode1>
+<adminName1>Vaud</adminName1>
+<adminCode2>2230</adminCode2>
+<adminName2>District de la Riviera-Pays-d'Enhaut</adminName2>
+<adminCode3>5890</adminCode3>
+<adminName3>Vevey</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Vevey_District</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Zurich</timezone>
+<bbox>
+<west>6.83184</west>
+<north>46.47822</north>
+<east>6.86345</east>
+<south>46.45669</south>
+</bbox>
+<score>56.048797607421875</score>
+</geoname>
+</geonames>

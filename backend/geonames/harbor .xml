@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>22</totalResultsCount>
+<geoname>
+<toponymName>Harbor</toponymName>
+<name>Harbor</name>
+<lat>42.05317</lat>
+<lng>-124.26759</lng>
+<geonameId>5730199</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2391</population>
+<alternateNames/>
+<elevation>10</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OR">OR</adminCode1>
+<adminName1>Oregon</adminName1>
+<adminCode2>015</adminCode2>
+<adminName2>Curry County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Harbor%2C_Oregon</alternateName>
+<alternateName lang="unlc">HOI</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-124.27413</west>
+<north>42.05491</north>
+<east>-124.23299</east>
+<south>42.02257</south>
+</bbox>
+<score>63.274330139160156</score>
+</geoname>
+<geoname>
+<toponymName>Harbor</toponymName>
+<name>Harbor</name>
+<lat>30.18687</lat>
+<lng>-93.12071</lng>
+<geonameId>4048798</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>5</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>019</adminCode2>
+<adminName2>Calcasieu Parish</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-93.13111</west>
+<north>30.19587</north>
+<east>-93.1103</east>
+<south>30.17788</south>
+</bbox>
+<score>36.156761169433594</score>
+</geoname>
+<geoname>
+<toponymName>Harbor</toponymName>
+<name>Harbor</name>
+<lat>43.08201</lat>
+<lng>-75.14766</lng>
+<geonameId>5119968</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>128</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>043</adminCode2>
+<adminName2>Herkimer County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-75.15998</west>
+<north>43.09101</north>
+<east>-75.13535</east>
+<south>43.07302</south>
+</bbox>
+<score>36.156761169433594</score>
+</geoname>
+<geoname>
+<toponymName>Harbor</toponymName>
+<name>Harbor</name>
+<lat>41.88783</lat>
+<lng>-80.81537</lng>
+<geonameId>5156852</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>192</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>007</adminCode2>
+<adminName2>Ashtabula County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-80.82745</west>
+<north>41.89682</north>
+<east>-80.80328</east>
+<south>41.87884</south>
+</bbox>
+<score>36.156761169433594</score>
+</geoname>
+<geoname>
+<toponymName>Harbor</toponymName>
+<name>Harbor</name>
+<lat>41.03534</lat>
+<lng>-80.40923</lng>
+<geonameId>5192608</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>259</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PA">PA</adminCode1>
+<adminName1>Pennsylvania</adminName1>
+<adminCode2>073</adminCode2>
+<adminName2>Lawrence County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-80.42116</west>
+<north>41.04433</north>
+<east>-80.39731</east>
+<south>41.02634</south>
+</bbox>
+<score>36.156761169433594</score>
+</geoname>
+<geoname>
+<toponymName>Hārbīr</toponymName>
+<name>Hārbīr</name>
+<lat>35.82068</lat>
+<lng>46.09248</lng>
+<geonameId>6709536</geonameId>
+<countryCode>IQ</countryCode>
+<countryName>Iraq</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Harbar,Harber,Harbir,Harbr,Harbṟ,Hārbīr,harbyr,هاربير,هاربڕ,هاربەر</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="SU">05</adminCode1>
+<adminName1>As Sulaymānīyah</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ar">هاربير</alternateName>
+<alternateName lang="ku">هاربڕ</alternateName>
+<timezone dstOffset="3.0" gmtOffset="3.0">Asia/Baghdad</timezone>
+<bbox>
+<west>46.08139</west>
+<north>35.82967</north>
+<east>46.10357</east>
+<south>35.81169</south>
+</bbox>
+<score>23.08964729309082</score>
+</geoname>
+<geoname>
+<toponymName>Harboi</toponymName>
+<name>Harboi</name>
+<lat>29.04983</lat>
+<lng>66.73073</lng>
+<geonameId>1399521</geonameId>
+<countryCode>PK</countryCode>
+<countryName>Pakistan</countryName>
+<fcl>T</fcl>
+<fcode>RDGE</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>ridge(s)</fcodeName>
+<population/>
+<alternateNames>Harboi</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="BA">02</adminCode1>
+<adminName1>Balochistān</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Harboi</alternateName>
+<timezone dstOffset="5.0" gmtOffset="5.0">Asia/Karachi</timezone>
+<score>10.846694946289062</score>
+</geoname>
+<geoname>
+<toponymName>Harsor</toponymName>
+<name>Harsor</name>
+<lat>26.73239</lat>
+<lng>74.47505</lng>
+<geonameId>1270273</geonameId>
+<countryCode>IN</countryCode>
+<countryName>India</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Harsor,Harsore</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="RJ">24</adminCode1>
+<adminName1>Rajasthan</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="5.5" gmtOffset="5.5">Asia/Kolkata</timezone>
+<bbox>
+<west>74.46498</west>
+<north>26.74139</north>
+<east>74.48512</east>
+<south>26.7234</south>
+</bbox>
+<score>8.488924026489258</score>
+</geoname>
+<geoname>
+<toponymName>Hārgor</toponymName>
+<name>Hārgor</name>
+<lat>23.79374</lat>
+<lng>88.93374</lng>
+<geonameId>7484607</geonameId>
+<countryCode>BD</countryCode>
+<countryName>Bangladesh</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Hargor,Hārgor</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="D">82</adminCode1>
+<adminName1>Khulna</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="bn">Hārgor</alternateName>
+<timezone dstOffset="6.0" gmtOffset="6.0">Asia/Dhaka</timezone>
+<bbox>
+<west>88.92391</west>
+<north>23.80274</north>
+<east>88.94356</east>
+<south>23.78475</south>
+</bbox>
+<score>7.35162353515625</score>
+</geoname>
+<geoname>
+<toponymName>Harboi</toponymName>
+<name>Harboi</name>
+<lat>28.8997</lat>
+<lng>66.66751</lng>
+<geonameId>1401849</geonameId>
+<countryCode>PK</countryCode>
+<countryName>Pakistan</countryName>
+<fcl>T</fcl>
+<fcode>MT</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>mountain</fcodeName>
+<population/>
+<alternateNames>Harboi,Harboi No 1,Harboi Number One</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="BA">02</adminCode1>
+<adminName1>Balochistān</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="5.0" gmtOffset="5.0">Asia/Karachi</timezone>
+<score>7.2311296463012695</score>
+</geoname>
+</geonames>

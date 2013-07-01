@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Laihia</toponymName>
+<name>Laihia</name>
+<lat>62.97609</lat>
+<lng>22.01143</lng>
+<geonameId>649348</geonameId>
+<countryCode>FI</countryCode>
+<countryName>Finland</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>7782</population>
+<alternateNames>Laihela,Laihia</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="12">15</adminCode1>
+<adminName1>Province of Western Finland</adminName1>
+<adminCode2>15</adminCode2>
+<adminName2>Ostrobothnia</adminName2>
+<adminCode3>399</adminCode3>
+<adminName3>Laihia</adminName3>
+<alternateName lang="de">Laihia</alternateName>
+<alternateName lang="en">Laihia</alternateName>
+<alternateName lang="eo">Laihia</alternateName>
+<alternateName lang="fi">Laihia</alternateName>
+<alternateName lang="fr">Laihia</alternateName>
+<alternateName lang="nl">Laihia</alternateName>
+<alternateName lang="no">Laihela</alternateName>
+<alternateName lang="ro">Laihia</alternateName>
+<alternateName lang="sv">Laihela</alternateName>
+<timezone dstOffset="3.0" gmtOffset="2.0">Europe/Helsinki</timezone>
+<bbox>
+<west>21.98718</west>
+<north>62.98711</north>
+<east>22.03568</east>
+<south>62.96508</south>
+</bbox>
+<score>44.39036560058594</score>
+</geoname>
+<geoname>
+<toponymName>Labibia</toponymName>
+<name>Labibia</name>
+<lat>-3.9233</lat>
+<lng>122.4972</lng>
+<geonameId>1974267</geonameId>
+<countryCode>ID</countryCode>
+<countryName>Indonesia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Labibia</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="SG">22</adminCode1>
+<adminName1>Sulawesi Tenggara</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="id">Labibia</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Makassar</timezone>
+<bbox>
+<west>122.48819</west>
+<north>-3.91431</north>
+<east>122.50621</east>
+<south>-3.93229</south>
+</bbox>
+<score>37.00481414794922</score>
+</geoname>
+<geoname>
+<toponymName>Laihia</toponymName>
+<name>Laihia</name>
+<lat>65.45</lat>
+<lng>29.06667</lng>
+<geonameId>649350</geonameId>
+<countryCode>FI</countryCode>
+<countryName>Finland</countryName>
+<fcl>H</fcl>
+<fcode>LK</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>lake</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="OL">08</adminCode1>
+<adminName1>Oulu</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="3.0" gmtOffset="2.0">Europe/Helsinki</timezone>
+<score>36.62018585205078</score>
+</geoname>
+<geoname>
+<toponymName>Laihia</toponymName>
+<name>Laihia</name>
+<lat>62.87913</lat>
+<lng>22.04011</lng>
+<geonameId>649351</geonameId>
+<countryCode>FI</countryCode>
+<countryName>Finland</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population>7870</population>
+<alternateNames>Laihela,Laihia,Laihian Kunta</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="12">15</adminCode1>
+<adminName1>Province of Western Finland</adminName1>
+<adminCode2>15</adminCode2>
+<adminName2>Ostrobothnia</adminName2>
+<adminCode3>399</adminCode3>
+<adminName3>Laihia</adminName3>
+<alternateName lang="fi">Laihian Kunta</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Laihia</alternateName>
+<alternateName lang="sv">Laihela</alternateName>
+<timezone dstOffset="3.0" gmtOffset="2.0">Europe/Helsinki</timezone>
+<bbox>
+<west>21.77165</west>
+<north>63.04865</north>
+<east>22.28402</east>
+<south>62.75143</south>
+</bbox>
+<score>22.42519187927246</score>
+</geoname>
+<geoname>
+<toponymName>Laihia</toponymName>
+<name>Laihia</name>
+<lat>61.26667</lat>
+<lng>22.05</lng>
+<geonameId>649349</geonameId>
+<countryCode>FI</countryCode>
+<countryName>Finland</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="12">15</adminCode1>
+<adminName1>Province of Western Finland</adminName1>
+<adminCode2>04</adminCode2>
+<adminName2>Satakunta</adminName2>
+<adminCode3>050</adminCode3>
+<adminName3>Eura</adminName3>
+<timezone dstOffset="3.0" gmtOffset="2.0">Europe/Helsinki</timezone>
+<bbox>
+<west>22.03129</west>
+<north>61.27566</north>
+<east>22.06871</east>
+<south>61.25767</south>
+</bbox>
+<score>20.925819396972656</score>
+</geoname>
+</geonames>

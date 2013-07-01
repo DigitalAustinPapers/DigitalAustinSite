@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Toutle River</toponymName>
+<name>Toutle River</name>
+<lat>46.31094</lat>
+<lng>-122.91845</lng>
+<geonameId>5813794</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>14</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WA">WA</adminCode1>
+<adminName1>Washington</adminName1>
+<adminCode2>015</adminCode2>
+<adminName2>Cowlitz County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Toutle_River</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>32.51691818237305</score>
+</geoname>
+<geoname>
+<toponymName>Tongwe</toponymName>
+<name>Tongwe</name>
+<lat>-21.95</lat>
+<lng>29.95</lng>
+<geonameId>880074</geonameId>
+<countryCode>ZW</countryCode>
+<countryName>Zimbabwe</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>Tomghe River,Tomghi River,Tongwe</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Harare</timezone>
+<score>14.370583534240723</score>
+</geoname>
+</geonames>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Cunter</toponymName>
+<name>Cunter</name>
+<lat>46.60959</lat>
+<lng>9.58978</lng>
+<geonameId>2661131</geonameId>
+<countryCode>CH</countryCode>
+<countryName>Switzerland</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>194</population>
+<alternateNames>Conters,Cunter</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="GR">GR</adminCode1>
+<adminName1>Grisons</adminName1>
+<adminCode2>1821</adminCode2>
+<adminName2>Bezirk Albula</adminName2>
+<adminCode3>3532</adminCode3>
+<adminName3>Cunter</adminName3>
+<alternateName lang="de">Conters</alternateName>
+<alternateName lang="en">Cunter</alternateName>
+<alternateName lang="fr">Cunter</alternateName>
+<alternateName lang="it">Cunter</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cunter</alternateName>
+<alternateName lang="post">7452</alternateName>
+<alternateName lang="pt">Cunter</alternateName>
+<alternateName lang="ro">Cunter</alternateName>
+<alternateName lang="sv">Cunter</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Zurich</timezone>
+<bbox>
+<west>9.58847</west>
+<north>46.61049</north>
+<east>9.59109</east>
+<south>46.60869</south>
+</bbox>
+<score>86.13816833496094</score>
+</geoname>
+<geoname>
+<toponymName>Cunter</toponymName>
+<name>Cunter</name>
+<lat>46.62023</lat>
+<lng>9.60429</lng>
+<geonameId>7285608</geonameId>
+<countryCode>CH</countryCode>
+<countryName>Switzerland</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population>240</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="GR">GR</adminCode1>
+<adminName1>Grisons</adminName1>
+<adminCode2>1821</adminCode2>
+<adminName2>Bezirk Albula</adminName2>
+<adminCode3>3532</adminCode3>
+<adminName3>Cunter</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Zurich</timezone>
+<bbox>
+<west>9.58181</west>
+<north>46.64179</north>
+<east>9.62986</east>
+<south>46.60175</south>
+</bbox>
+<score>77.04431915283203</score>
+</geoname>
+<geoname>
+<toponymName>Conters</toponymName>
+<name>Conters</name>
+<lat>46.9</lat>
+<lng>9.78333</lng>
+<geonameId>2661130</geonameId>
+<countryCode>CH</countryCode>
+<countryName>Switzerland</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Conters,Conters im Praettigau,Conters im Prättigau,Cunter</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="GR">GR</adminCode1>
+<adminName1>Grisons</adminName1>
+<adminCode2>1830</adminCode2>
+<adminName2>Bezirk Prättigau-Davos</adminName2>
+<adminCode3>3881</adminCode3>
+<adminName3>Conters im Prättigau</adminName3>
+<alternateName lang="de">Conters im Prättigau</alternateName>
+<alternateName lang="post">7241</alternateName>
+<alternateName lang="rm">Cunter</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Zurich</timezone>
+<bbox>
+<west>9.77017</west>
+<north>46.90899</north>
+<east>9.7965</east>
+<south>46.89101</south>
+</bbox>
+<score>27.239280700683594</score>
+</geoname>
+</geonames>

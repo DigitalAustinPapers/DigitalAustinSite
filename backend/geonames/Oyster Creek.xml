@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>46</totalResultsCount>
+<geoname>
+<toponymName>Oyster Creek</toponymName>
+<name>Oyster Creek</name>
+<lat>29.00302</lat>
+<lng>-95.33188</lng>
+<geonameId>4717084</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1111</population>
+<alternateNames/>
+<elevation>2</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>039</adminCode2>
+<adminName2>Brazoria County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Oyster_Creek%2C_Texas</alternateName>
+<alternateName lang="unlc">YRC</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-95.33291</west>
+<north>29.00392</north>
+<east>-95.33085</east>
+<south>29.00212</south>
+</bbox>
+<score>64.67654418945312</score>
+</geoname>
+<geoname>
+<toponymName>Oyster Creek</toponymName>
+<name>Oyster Creek</name>
+<lat>35.11823</lat>
+<lng>-75.97545</lng>
+<geonameId>4483769</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NC">NC</adminCode1>
+<adminName1>North Carolina</adminName1>
+<adminCode2>095</adminCode2>
+<adminName2>Hyde County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-75.98645</west>
+<north>35.12722</north>
+<east>-75.96446</east>
+<south>35.10923</south>
+</bbox>
+<score>36.95802688598633</score>
+</geoname>
+<geoname>
+<toponymName>Oyster Creek</toponymName>
+<name>Oyster Creek</name>
+<lat>39.50428</lat>
+<lng>-74.41654</lng>
+<geonameId>4503447</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NJ">NJ</adminCode1>
+<adminName1>New Jersey</adminName1>
+<adminCode2>001</adminCode2>
+<adminName2>Atlantic County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-74.42819</west>
+<north>39.51328</north>
+<east>-74.40488</east>
+<south>39.49529</south>
+</bbox>
+<score>36.95802688598633</score>
+</geoname>
+<geoname>
+<toponymName>Oyster Creek</toponymName>
+<name>Oyster Creek</name>
+<lat>39.81123</lat>
+<lng>-74.16958</lng>
+<geonameId>4503454</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NJ">NJ</adminCode1>
+<adminName1>New Jersey</adminName1>
+<adminCode2>029</adminCode2>
+<adminName2>Ocean County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Oyster_Creek_%28New_Jersey%29</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>36.95802688598633</score>
+</geoname>
+<geoname>
+<toponymName>Oyster Creek</toponymName>
+<name>Oyster Creek</name>
+<lat>-30.56667</lat>
+<lng>153.01667</lng>
+<geonameId>2154029</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="NSW">02</adminCode1>
+<adminName1>New South Wales</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="10.0" gmtOffset="11.0">Australia/Sydney</timezone>
+<score>11.549383163452148</score>
+</geoname>
+<geoname>
+<toponymName>Oyster Creek</toponymName>
+<name>Oyster Creek</name>
+<lat>-24.45</lat>
+<lng>151.85</lng>
+<geonameId>2154030</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="QLD">04</adminCode1>
+<adminName1>Queensland</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="10.0" gmtOffset="10.0">Australia/Brisbane</timezone>
+<score>11.549383163452148</score>
+</geoname>
+<geoname>
+<toponymName>Oyster Creek</toponymName>
+<name>Oyster Creek</name>
+<lat>-22.51667</lat>
+<lng>150.45</lng>
+<geonameId>2154031</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="QLD">04</adminCode1>
+<adminName1>Queensland</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="10.0" gmtOffset="10.0">Australia/Lindeman</timezone>
+<score>11.549383163452148</score>
+</geoname>
+<geoname>
+<toponymName>Oyster Creek</toponymName>
+<name>Oyster Creek</name>
+<lat>-20.81667</lat>
+<lng>148.78333</lng>
+<geonameId>2154032</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="QLD">04</adminCode1>
+<adminName1>Queensland</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="10.0" gmtOffset="10.0">Australia/Brisbane</timezone>
+<score>11.549383163452148</score>
+</geoname>
+<geoname>
+<toponymName>Oyster Creek</toponymName>
+<name>Oyster Creek</name>
+<lat>13.46694</lat>
+<lng>-16.62972</lng>
+<geonameId>2412328</geonameId>
+<countryCode>GM</countryCode>
+<countryName>Gambia</countryName>
+<fcl>H</fcl>
+<fcode>CRKT</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>tidal creek(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="B">01</adminCode1>
+<adminName1>Banjul</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="0.0" gmtOffset="0.0">Africa/Banjul</timezone>
+<score>11.549383163452148</score>
+</geoname>
+<geoname>
+<toponymName>Oyster Creek</toponymName>
+<name>Oyster Creek</name>
+<lat>26.92062</lat>
+<lng>-82.33454</lng>
+<geonameId>4167393</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>0</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="FL">FL</adminCode1>
+<adminName1>Florida</adminName1>
+<adminCode2>015</adminCode2>
+<adminName2>Charlotte County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Kentucky/Monticello</timezone>
+<score>11.549383163452148</score>
+</geoname>
+</geonames>

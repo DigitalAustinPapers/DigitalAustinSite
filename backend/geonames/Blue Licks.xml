@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Blue Lick</toponymName>
+<name>Blue Lick</name>
+<lat>38.5084</lat>
+<lng>-85.80469</lng>
+<geonameId>4254697</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>162</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IN">IN</adminCode1>
+<adminName1>Indiana</adminName1>
+<adminCode2>019</adminCode2>
+<adminName2>Clark County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Blue_Lick%2C_Indiana</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Kentucky/Louisville</timezone>
+<bbox>
+<west>-85.81618</west>
+<north>38.51739</north>
+<east>-85.79319</east>
+<south>38.4994</south>
+</bbox>
+<score>64.31774139404297</score>
+</geoname>
+<geoname>
+<toponymName>Blue Lick</toponymName>
+<name>Blue Lick</name>
+<lat>37.49091</lat>
+<lng>-84.70744</lng>
+<geonameId>4284927</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>307</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>137</adminCode2>
+<adminName2>Lincoln County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Blue_Lick%2C_Kentucky</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-84.71878</west>
+<north>37.4999</north>
+<east>-84.69611</east>
+<south>37.48192</south>
+</bbox>
+<score>64.31774139404297</score>
+</geoname>
+<geoname>
+<toponymName>Blue Lick</toponymName>
+<name>Blue Lick</name>
+<lat>39.01335</lat>
+<lng>-93.21021</lng>
+<geonameId>4377595</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>239</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>195</adminCode2>
+<adminName2>Saline County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-93.22178</west>
+<north>39.02235</north>
+<east>-93.19863</east>
+<south>39.00436</south>
+</bbox>
+<score>42.87849426269531</score>
+</geoname>
+<geoname>
+<toponymName>Blue Lick</toponymName>
+<name>Blue Lick</name>
+<lat>39.51338</lat>
+<lng>-84.96496</lng>
+<geonameId>4254698</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>291</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IN">IN</adminCode1>
+<adminName1>Indiana</adminName1>
+<adminCode2>047</adminCode2>
+<adminName2>Franklin County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Indiana/Indianapolis</timezone>
+<score>13.399529457092285</score>
+</geoname>
+<geoname>
+<toponymName>Blue Lick</toponymName>
+<name>Blue Lick</name>
+<lat>37.61429</lat>
+<lng>-80.76008</lng>
+<geonameId>4799591</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>443</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WV">WV</adminCode1>
+<adminName1>West Virginia</adminName1>
+<adminCode2>089</adminCode2>
+<adminName2>Summers County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>13.399529457092285</score>
+</geoname>
+</geonames>

@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>7</totalResultsCount>
+<geoname>
+<toponymName>Frontis</toponymName>
+<name>Frontis</name>
+<lat>36.06625</lat>
+<lng>-80.30838</lng>
+<geonameId>4467387</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>255</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NC">NC</adminCode1>
+<adminName1>North Carolina</adminName1>
+<adminCode2>067</adminCode2>
+<adminName2>Forsyth County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-80.31951</west>
+<north>36.07524</north>
+<east>-80.29726</east>
+<south>36.05725</south>
+</bbox>
+<score>18.851177215576172</score>
+</geoname>
+<geoname>
+<toponymName>Frönäs</toponymName>
+<name>Frönäs</name>
+<lat>62.73743</lat>
+<lng>21.37922</lng>
+<geonameId>659912</geonameId>
+<countryCode>FI</countryCode>
+<countryName>Finland</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="12">15</adminCode1>
+<adminName1>Province of Western Finland</adminName1>
+<adminCode2>15</adminCode2>
+<adminName2>Ostrobothnia</adminName2>
+<adminCode3>545</adminCode3>
+<adminName3>Närpes</adminName3>
+<timezone dstOffset="3.0" gmtOffset="2.0">Europe/Helsinki</timezone>
+<bbox>
+<west>21.35958</west>
+<north>62.74643</north>
+<east>21.39886</east>
+<south>62.72844</south>
+</bbox>
+<score>13.44198989868164</score>
+</geoname>
+<geoname>
+<toponymName>Frontonas</toponymName>
+<name>Frontonas</name>
+<lat>45.64782</lat>
+<lng>5.18341</lng>
+<geonameId>3016951</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1852</population>
+<alternateNames>Frontas,Frontonas</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="V">B9</adminCode1>
+<adminName1>Rhône-Alpes</adminName1>
+<adminCode2>38</adminCode2>
+<adminName2>Isère</adminName2>
+<adminCode3>382</adminCode3>
+<adminName3>Arrondissement de La Tour-du-Pin</adminName3>
+<adminCode4>38176</adminCode4>
+<adminName4>Frontonas</adminName4>
+<alternateName lang="post">38290</alternateName>
+<alternateName lang="unlc">I38</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>5.17698</west>
+<north>45.65231</north>
+<east>5.18984</east>
+<south>45.64332</south>
+</bbox>
+<score>13.329795837402344</score>
+</geoname>
+<geoname>
+<toponymName>Casa Fronte</toponymName>
+<name>Casa Fronte</name>
+<lat>44.88528</lat>
+<lng>12.14611</lng>
+<geonameId>3180283</geonameId>
+<countryCode>IT</countryCode>
+<countryName>Italy</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Casa Fronte,Fronte,Tenuta Fronte</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="45">05</adminCode1>
+<adminName1>Emilia-Romagna</adminName1>
+<adminCode2>FE</adminCode2>
+<adminName2>Provincia di Ferrara</adminName2>
+<adminCode3>038005</adminCode3>
+<adminName3>Codigoro</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Rome</timezone>
+<bbox>
+<west>12.13342</west>
+<north>44.89427</north>
+<east>12.15881</east>
+<south>44.87628</south>
+</bbox>
+<score>13.329795837402344</score>
+</geoname>
+<geoname>
+<toponymName>Front</toponymName>
+<name>Front</name>
+<lat>45.28085</lat>
+<lng>7.66362</lng>
+<geonameId>3176521</geonameId>
+<countryCode>IT</countryCode>
+<countryName>Italy</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>1628</population>
+<alternateNames>Front,Fronta,furonto,フロント</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="21">12</adminCode1>
+<adminName1>Piedmont</adminName1>
+<adminCode2>TO</adminCode2>
+<adminName2>Turin</adminName2>
+<adminCode3>001109</adminCode3>
+<adminName3>Front</adminName3>
+<alternateName lang="cs">Fronta</alternateName>
+<alternateName lang="da">Front</alternateName>
+<alternateName lang="de">Front</alternateName>
+<alternateName lang="en">Front</alternateName>
+<alternateName lang="eo">Front</alternateName>
+<alternateName lang="fr">Front</alternateName>
+<alternateName lang="it">Front</alternateName>
+<alternateName lang="ja">フロント</alternateName>
+<alternateName lang="link">http://ru.wikipedia.org/wiki/%D0%A4%D1%80%D0%BE%D0%BD%D1%82</alternateName>
+<alternateName lang="nap">Front</alternateName>
+<alternateName lang="nl">Front</alternateName>
+<alternateName lang="no">Front</alternateName>
+<alternateName lang="pl">Front</alternateName>
+<alternateName lang="pt">Front</alternateName>
+<alternateName lang="sk">Front</alternateName>
+<alternateName lang="sv">Front</alternateName>
+<alternateName lang="unlc">FOT</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Rome</timezone>
+<bbox>
+<west>7.65723</west>
+<north>45.28535</north>
+<east>7.67001</east>
+<south>45.27636</south>
+</bbox>
+<score>11.66357135772705</score>
+</geoname>
+<geoname>
+<toponymName>Frønes</toponymName>
+<name>Frønes</name>
+<lat>59.12745</lat>
+<lng>9.39305</lng>
+<geonameId>3156451</geonameId>
+<countryCode>NO</countryCode>
+<countryName>Norway</countryName>
+<fcl>S</fcl>
+<fcode>FRM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farm</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="08">17</adminCode1>
+<adminName1>Telemark county</adminName1>
+<adminCode2>0806</adminCode2>
+<adminName2>Skien</adminName2>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Oslo</timezone>
+<score>5.890993118286133</score>
+</geoname>
+<geoname>
+<toponymName>Frönäs</toponymName>
+<name>Frönäs</name>
+<lat>59.09056</lat>
+<lng>18.22583</lng>
+<geonameId>3214509</geonameId>
+<countryCode>SE</countryCode>
+<countryName>Sweden</countryName>
+<fcl>S</fcl>
+<fcode>FRM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farm</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="AB">26</adminCode1>
+<adminName1>Stockholm</adminName1>
+<adminCode2>0136</adminCode2>
+<adminName2>Haninge Municipality</adminName2>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Stockholm</timezone>
+<score>4.480663299560547</score>
+</geoname>
+</geonames>

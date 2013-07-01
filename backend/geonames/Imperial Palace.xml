@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Imperial Palace Hotel and Casino</toponymName>
+<name>Imperial Palace Hotel and Casino</name>
+<lat>36.1182</lat>
+<lng>-115.1709</lng>
+<geonameId>7209701</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>BLDG</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>building(s)</fcodeName>
+<population/>
+<alternateNames>Imperial Palace,Imperial Palace Hotel und Casino,htl w kazynwy aympryal palas,هتل و کازینوی ایمپریال پالاس,インペリアル・パレス</alternateNames>
+<elevation>641</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NV">NV</adminCode1>
+<adminName1>Nevada</adminName1>
+<adminCode2>003</adminCode2>
+<adminName2>Clark County</adminName2>
+<alternateName lang="de">Imperial Palace Hotel und Casino</alternateName>
+<alternateName lang="fa">هتل و کازینوی ایمپریال پالاس</alternateName>
+<alternateName lang="fr">Imperial Palace</alternateName>
+<alternateName lang="ja">インペリアル・パレス</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/The_Quad_Resort_and_Casino</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>19.17770004272461</score>
+</geoname>
+<geoname>
+<toponymName>Imperial Palace</toponymName>
+<name>Imperial Palace</name>
+<lat>37.5073</lat>
+<lng>127.044</lng>
+<geonameId>6465749</geonameId>
+<countryCode>KR</countryCode>
+<countryName>South Korea</countryName>
+<fcl>S</fcl>
+<fcode>HTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>hotel</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1>11,13</adminCode1>
+<adminName1>KR.11,13</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="9.0" gmtOffset="9.0">Asia/Seoul</timezone>
+<score>13.560681343078613</score>
+</geoname>
+<geoname>
+<toponymName>Imperial Palace</toponymName>
+<name>Imperial Palace</name>
+<lat>36.11673</lat>
+<lng>-115.17194</lng>
+<geonameId>6465874</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>HTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>hotel</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NV">NV</adminCode1>
+<adminName1>Nevada</adminName1>
+<adminCode2>003</adminCode2>
+<adminName2>Clark County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>13.560681343078613</score>
+</geoname>
+<geoname>
+<toponymName>Hofburg Innsbruck</toponymName>
+<name>imperial palace</name>
+<lat>47.2689</lat>
+<lng>11.3944</lng>
+<geonameId>6949524</geonameId>
+<countryCode>AT</countryCode>
+<countryName>Austria</countryName>
+<fcl>S</fcl>
+<fcode>ADMF</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>administrative facility</fcodeName>
+<population/>
+<alternateNames>imperial palace</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="7">07</adminCode1>
+<adminName1>Tyrol</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">imperial palace</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Vienna</timezone>
+<score>7.671079635620117</score>
+</geoname>
+</geonames>

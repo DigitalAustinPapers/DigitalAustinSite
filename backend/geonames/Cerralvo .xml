@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Cerralvo</toponymName>
+<name>Cerralvo</name>
+<lat>26.08548</lat>
+<lng>-99.61631</lng>
+<geonameId>3531342</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Cerralvo</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NLE">19</adminCode1>
+<adminName1>Nuevo León</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cerralvo_Municipality</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<bbox>
+<west>-99.62633</west>
+<north>26.09447</north>
+<east>-99.6063</east>
+<south>26.07649</south>
+</bbox>
+<score>74.38090515136719</score>
+</geoname>
+<geoname>
+<toponymName>Cerralbo</toponymName>
+<name>Cerralbo</name>
+<lat>40.95929</lat>
+<lng>-6.57668</lng>
+<geonameId>6360347</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population>223</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="CL">55</adminCode1>
+<adminName1>Castille and León</adminName1>
+<adminCode2>SA</adminCode2>
+<adminName2>Salamanca</adminName2>
+<adminCode3>37101</adminCode3>
+<adminName3>Cerralbo</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Madrid</timezone>
+<bbox>
+<west>-6.62967</west>
+<north>40.99942</north>
+<east>-6.53442</east>
+<south>40.89741</south>
+</bbox>
+<score>26.570140838623047</score>
+</geoname>
+<geoname>
+<toponymName>Cerralbo</toponymName>
+<name>Cerralbo</name>
+<lat>40.97347</lat>
+<lng>-6.5871</lng>
+<geonameId>3125328</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>231</population>
+<alternateNames>Cerralbo</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="CL">55</adminCode1>
+<adminName1>Castille and León</adminName1>
+<adminCode2>SA</adminCode2>
+<adminName2>Salamanca</adminName2>
+<adminCode3>37101</adminCode3>
+<adminName3>Cerralbo</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cerralbo</alternateName>
+<alternateName lang="post">37291</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Madrid</timezone>
+<bbox>
+<west>-6.58829</west>
+<north>40.97437</north>
+<east>-6.58591</east>
+<south>40.97257</south>
+</bbox>
+<score>18.595224380493164</score>
+</geoname>
+<geoname>
+<toponymName>Cerralvo</toponymName>
+<name>Cerralvo</name>
+<lat>26.08333</lat>
+<lng>-99.6</lng>
+<geonameId>3531343</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>S</fcl>
+<fcode>AIRQ</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>abandoned airfield</fcodeName>
+<population/>
+<alternateNames>Cerralvo</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NLE">19</adminCode1>
+<adminName1>Nuevo León</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<score>12.396818161010742</score>
+</geoname>
+<geoname>
+<toponymName>Ceralvo</toponymName>
+<name>Ceralvo</name>
+<lat>37.36504</lat>
+<lng>-87.03138</lng>
+<geonameId>4287465</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>139</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>183</adminCode2>
+<adminName2>Ohio County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-87.0427</west>
+<north>37.37404</north>
+<east>-87.02007</east>
+<south>37.35605</south>
+</bbox>
+<score>12.167258262634277</score>
+</geoname>
+</geonames>

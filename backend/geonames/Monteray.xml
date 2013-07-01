@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>48</totalResultsCount>
+<geoname>
+<toponymName>Monteray</toponymName>
+<name>Monteray</name>
+<lat>-34.01667</lat>
+<lng>18.35</lng>
+<geonameId>3363980</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="WC">11</adminCode1>
+<adminName1>Western Cape</adminName1>
+<adminCode2>CPT</adminCode2>
+<adminName2>City of Cape Town</adminName2>
+<adminCode3>CPT</adminCode3>
+<adminName3>City of Cape Town</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<bbox>
+<west>18.33915</west>
+<north>-34.00767</north>
+<east>18.36085</east>
+<south>-34.02566</south>
+</bbox>
+<score>32.32320022583008</score>
+</geoname>
+<geoname>
+<toponymName>Montero</toponymName>
+<name>Montero</name>
+<lat>-17.33866</lat>
+<lng>-63.2505</lng>
+<geonameId>3910027</geonameId>
+<countryCode>BO</countryCode>
+<countryName>Bolivia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>88616</population>
+<alternateNames>Monteras,Montero,Vibora,Víbora,meng te luo,montero,Монтеро,მონტერო,モンテロ,蒙特羅</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="S">08</adminCode1>
+<adminName1>Santa Cruz</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ja">モンテロ</alternateName>
+<alternateName lang="ka">მონტერო</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Montero</alternateName>
+<alternateName lang="lt">Monteras</alternateName>
+<alternateName lang="mk">Монтеро</alternateName>
+<alternateName lang="ru">Монтеро</alternateName>
+<alternateName lang="zh">蒙特羅</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/La_Paz</timezone>
+<bbox>
+<west>-63.29074</west>
+<north>-17.30024</north>
+<east>-63.21026</east>
+<south>-17.37708</south>
+</bbox>
+<score>21.42745590209961</score>
+</geoname>
+<geoname>
+<toponymName>Montenay</toponymName>
+<name>Montenay</name>
+<lat>48.28787</lat>
+<lng>-0.89374</lng>
+<geonameId>2992690</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1476</population>
+<alternateNames>Montenay</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="R">B5</adminCode1>
+<adminName1>Pays de la Loire</adminName1>
+<adminCode2>53</adminCode2>
+<adminName2>Mayenne</adminName2>
+<adminCode3>533</adminCode3>
+<adminName3>Arrondissement de Mayenne</adminName3>
+<adminCode4>53155</adminCode4>
+<adminName4>Montenay</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Montenay</alternateName>
+<alternateName lang="post">53500</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>-0.90049</west>
+<north>48.29237</north>
+<east>-0.88698</east>
+<south>48.28338</south>
+</bbox>
+<score>21.171239852905273</score>
+</geoname>
+<geoname>
+<toponymName>Monterey</toponymName>
+<name>Monterey</name>
+<lat>36.60024</lat>
+<lng>-121.89468</lng>
+<geonameId>5374361</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>27810</population>
+<alternateNames>MRY,Monterej,Monterey,Monterrey,mamtere,meng te lei,monteolei,montore,mwnth ry, kalyfrnya,mwntryy,mwntyry, mwntyry, kalyfwrnya,Монтерей,Монтереј,מונטריי,مونته ری، کالیفرنیا,مونتيري، مونتيري، كاليفورنيا,माँटेरे,モントレー,蒙特雷,몬터레이</alternateNames>
+<elevation>8</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>053</adminCode2>
+<adminName2>Monterey County</adminName2>
+<alternateName lang="ar">مونتيري، مونتيري، كاليفورنيا</alternateName>
+<alternateName lang="bg">Монтерей</alternateName>
+<alternateName lang="de">Monterey</alternateName>
+<alternateName lang="en">Monterey</alternateName>
+<alternateName lang="es">Monterrey</alternateName>
+<alternateName lang="fa">مونته ری، کالیفرنیا</alternateName>
+<alternateName lang="fr">Monterey</alternateName>
+<alternateName lang="he">מונטריי</alternateName>
+<alternateName lang="iata">MRY</alternateName>
+<alternateName lang="it">Monterey</alternateName>
+<alternateName lang="ja">モントレー</alternateName>
+<alternateName lang="ko">몬터레이</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Monterey%2C_California</alternateName>
+<alternateName lang="mr">माँटेरे</alternateName>
+<alternateName lang="no">Monterey</alternateName>
+<alternateName lang="pl">Monterey</alternateName>
+<alternateName lang="post">93942</alternateName>
+<alternateName lang="ru">Монтерей</alternateName>
+<alternateName lang="sr">Монтереј</alternateName>
+<alternateName lang="sv">Monterey</alternateName>
+<alternateName lang="uk">Монтерей</alternateName>
+<alternateName lang="unlc">MY3</alternateName>
+<alternateName lang="zh">蒙特雷</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-121.92155</west>
+<north>36.6218</north>
+<east>-121.86781</east>
+<south>36.57867</south>
+</bbox>
+<score>17.312088012695312</score>
+</geoname>
+<geoname>
+<toponymName>Monte Ray</toponymName>
+<name>Monte Ray</name>
+<lat>44.22986</lat>
+<lng>7.36144</lng>
+<geonameId>7871223</geonameId>
+<countryCode>IT</countryCode>
+<countryName>Italy</countryName>
+<fcl>T</fcl>
+<fcode>PK</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>peak</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>2318</elevation>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="21">12</adminCode1>
+<adminName1>Piedmont</adminName1>
+<adminCode2>CN</adminCode2>
+<adminName2>Provincia di Cuneo</adminName2>
+<adminCode3>004233</adminCode3>
+<adminName3>Valdieri</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Rome</timezone>
+<score>15.151498794555664</score>
+</geoname>
+<geoname>
+<toponymName>Monterey</toponymName>
+<name>Monterey</name>
+<lat>-33.96667</lat>
+<lng>151.15</lng>
+<geonameId>2206000</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population>4148</population>
+<alternateNames>Monterey</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="NSW">02</adminCode1>
+<adminName1>New South Wales</adminName1>
+<adminCode2>16650</adminCode2>
+<adminName2>Rockdale</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Monterey%2C_New_South_Wales</alternateName>
+<timezone dstOffset="10.0" gmtOffset="11.0">Australia/Sydney</timezone>
+<bbox>
+<west>151.1416</west>
+<north>-33.96541</north>
+<east>151.15485</east>
+<south>-33.97929</south>
+</bbox>
+<score>14.992708206176758</score>
+</geoname>
+<geoname>
+<toponymName>Montenay</toponymName>
+<name>Montenay</name>
+<lat>48.28861</lat>
+<lng>-0.89278</lng>
+<geonameId>6436434</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population>1401</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="R">B5</adminCode1>
+<adminName1>Pays de la Loire</adminName1>
+<adminCode2>53</adminCode2>
+<adminName2>Mayenne</adminName2>
+<adminCode3>533</adminCode3>
+<adminName3>Arrondissement de Mayenne</adminName3>
+<adminCode4>53155</adminCode4>
+<adminName4>Montenay</adminName4>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>-0.96879</west>
+<north>48.32557</north>
+<east>-0.81576</east>
+<south>48.25462</south>
+</bbox>
+<score>14.405203819274902</score>
+</geoname>
+<geoname>
+<toponymName>Montbray</toponymName>
+<name>Montbray</name>
+<lat>48.88024</lat>
+<lng>-1.09572</lng>
+<geonameId>2992894</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>415</population>
+<alternateNames>Montbray</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="P">99</adminCode1>
+<adminName1>Lower Normandy</adminName1>
+<adminCode2>50</adminCode2>
+<adminName2>Manche</adminName2>
+<adminCode3>504</adminCode3>
+<adminName3>Saint-Lô</adminName3>
+<adminCode4>50338</adminCode4>
+<adminName4>Montbray</adminName4>
+<alternateName lang="post">50410</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>-1.09708</west>
+<north>48.88114</north>
+<east>-1.09435</east>
+<south>48.87934</south>
+</bbox>
+<score>13.606551170349121</score>
+</geoname>
+<geoname>
+<toponymName>Monterey</toponymName>
+<name>Monterey</name>
+<lat>31.4499</lat>
+<lng>-91.71818</lng>
+<geonameId>4333701</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>439</population>
+<alternateNames/>
+<elevation>17</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>029</adminCode2>
+<adminName2>Concordia Parish</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Monterey%2C_Louisiana</alternateName>
+<alternateName lang="post">71354</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-91.71923</west>
+<north>31.4508</north>
+<east>-91.71712</east>
+<south>31.449</south>
+</bbox>
+<score>12.241495132446289</score>
+</geoname>
+<geoname>
+<toponymName>Monterey</toponymName>
+<name>Monterey</name>
+<lat>39.73815</lat>
+<lng>-77.47138</lng>
+<geonameId>4559735</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>408</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PA">PA</adminCode1>
+<adminName1>Pennsylvania</adminName1>
+<adminCode2>055</adminCode2>
+<adminName2>Franklin County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Monterey%2C_Pennsylvania</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-77.48308</west>
+<north>39.74714</north>
+<east>-77.45968</east>
+<south>39.72916</south>
+</bbox>
+<score>12.241495132446289</score>
+</geoname>
+</geonames>

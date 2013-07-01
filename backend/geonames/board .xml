@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Board</toponymName>
+<name>Board</name>
+<lat>38.91036</lat>
+<lng>-81.97153</lng>
+<geonameId>4799684</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>211</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WV">WV</adminCode1>
+<adminName1>West Virginia</adminName1>
+<adminCode2>053</adminCode2>
+<adminName2>Mason County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-81.98309</west>
+<north>38.91935</north>
+<east>-81.95997</east>
+<south>38.90136</south>
+</bbox>
+<score>45.98583984375</score>
+</geoname>
+</geonames>

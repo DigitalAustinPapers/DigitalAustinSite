@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>47</totalResultsCount>
+<geoname>
+<toponymName>Harrison</toponymName>
+<name>Harrison</name>
+<lat>50.46611</lat>
+<lng>-100.08584</lng>
+<geonameId>5971350</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MB">03</adminCode1>
+<adminName1>Manitoba</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Winnipeg</timezone>
+<score>52.16082763671875</score>
+</geoname>
+<geoname>
+<toponymName>Harrison</toponymName>
+<name>Harrison</name>
+<lat>37.79672</lat>
+<lng>-89.33703</lng>
+<geonameId>4240292</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>970</population>
+<alternateNames/>
+<elevation>124</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>077</adminCode2>
+<adminName2>Jackson County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Harrison%2C_Illinois</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-89.33817</west>
+<north>37.79762</north>
+<east>-89.33589</east>
+<south>37.79582</south>
+</bbox>
+<score>44.70928192138672</score>
+</geoname>
+<geoname>
+<toponymName>Harrison</toponymName>
+<name>Harrison</name>
+<lat>39.37732</lat>
+<lng>-79.20365</lng>
+<geonameId>4808271</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>512</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WV">WV</adminCode1>
+<adminName1>West Virginia</adminName1>
+<adminCode2>057</adminCode2>
+<adminName2>Mineral County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Harrison%2C_Mineral_County%2C_West_Virginia</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-79.21528</west>
+<north>39.38631</north>
+<east>-79.19201</east>
+<south>39.36833</south>
+</bbox>
+<score>44.70928192138672</score>
+</geoname>
+<geoname>
+<toponymName>Harrison</toponymName>
+<name>Harrison</name>
+<lat>42.42724</lat>
+<lng>-89.1915</lng>
+<geonameId>4895224</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>223</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>201</adminCode2>
+<adminName2>Winnebago County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Harrison%2C_Winnebago_County%2C_Illinois</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-89.20369</west>
+<north>42.43623</north>
+<east>-89.17931</east>
+<south>42.41824</south>
+</bbox>
+<score>44.70928192138672</score>
+</geoname>
+<geoname>
+<toponymName>Harrison</toponymName>
+<name>Harrison</name>
+<lat>40.96899</lat>
+<lng>-73.71263</lng>
+<geonameId>5120095</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>27472</population>
+<alternateNames>Kharrison,Харрисон</alternateNames>
+<elevation>21</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>119</adminCode2>
+<adminName2>Westchester County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Harrison%2C_New_York</alternateName>
+<alternateName lang="post">10528</alternateName>
+<alternateName lang="ru">Харрисон</alternateName>
+<alternateName lang="unlc">ZHS</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-73.74057</west>
+<north>40.99008</north>
+<east>-73.68469</east>
+<south>40.9479</south>
+</bbox>
+<score>44.70928192138672</score>
+</geoname>
+<geoname>
+<toponymName>Harrison</toponymName>
+<name>Harrison</name>
+<lat>44.13416</lat>
+<lng>-88.29177</lng>
+<geonameId>5255595</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>301</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WI">WI</adminCode1>
+<adminName1>Wisconsin</adminName1>
+<adminCode2>015</adminCode2>
+<adminName2>Calumet County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Harrison%2C_Calumet_County%2C_Wisconsin</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-88.30431</west>
+<north>44.14315</north>
+<east>-88.27924</east>
+<south>44.12516</south>
+</bbox>
+<score>44.70928192138672</score>
+</geoname>
+<geoname>
+<toponymName>Harrison</toponymName>
+<name>Harrison</name>
+<lat>45.47746</lat>
+<lng>-89.5068</lng>
+<geonameId>5255596</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>486</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WI">WI</adminCode1>
+<adminName1>Wisconsin</adminName1>
+<adminCode2>069</adminCode2>
+<adminName2>Lincoln County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Harrison%2C_Lincoln_County%2C_Wisconsin</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-89.51962</west>
+<north>45.48645</north>
+<east>-89.49397</east>
+<south>45.46846</south>
+</bbox>
+<score>44.70928192138672</score>
+</geoname>
+<geoname>
+<toponymName>Harrison</toponymName>
+<name>Harrison</name>
+<lat>42.58806</lat>
+<lng>-82.81784</lng>
+<geonameId>7259303</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>176</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MI">MI</adminCode1>
+<adminName1>Michigan</adminName1>
+<adminCode2>099</adminCode2>
+<adminName2>Macomb County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Harrison_Township%2C_Michigan</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Detroit</timezone>
+<bbox>
+<west>-82.83005</west>
+<north>42.59706</north>
+<east>-82.80562</east>
+<south>42.57907</south>
+</bbox>
+<score>44.70928192138672</score>
+</geoname>
+<geoname>
+<toponymName>Harrison</toponymName>
+<name>Harrison</name>
+<lat>39.262</lat>
+<lng>-84.81995</lng>
+<geonameId>4513805</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>9897</population>
+<alternateNames>Kharrison,Харрисон</alternateNames>
+<elevation>159</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>061</adminCode2>
+<adminName2>Hamilton County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Harrison%2C_Ohio</alternateName>
+<alternateName lang="post">45030</alternateName>
+<alternateName lang="ru">Харрисон</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-84.83638</west>
+<north>39.27472</north>
+<east>-84.80352</east>
+<south>39.24928</south>
+</bbox>
+<score>37.25773239135742</score>
+</geoname>
+<geoname>
+<toponymName>Harrison</toponymName>
+<name>Harrison</name>
+<lat>35.11368</lat>
+<lng>-85.13801</lng>
+<geonameId>4627983</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>7769</population>
+<alternateNames>Kharrison,Харрисон</alternateNames>
+<elevation>234</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TN">TN</adminCode1>
+<adminName1>Tennessee</adminName1>
+<adminCode2>065</adminCode2>
+<adminName2>Hamilton County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Harrison%2C_Tennessee</alternateName>
+<alternateName lang="post">37341</alternateName>
+<alternateName lang="ru">Харрисон</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-85.15148</west>
+<north>35.1247</north>
+<east>-85.12454</east>
+<south>35.10267</south>
+</bbox>
+<score>37.25773239135742</score>
+</geoname>
+</geonames>

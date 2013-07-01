@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>6</totalResultsCount>
+<geoname>
+<toponymName>Harbord</toponymName>
+<name>Harbord</name>
+<lat>37.49751</lat>
+<lng>-102.81492</lng>
+<geonameId>5424385</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1424</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CO">CO</adminCode1>
+<adminName1>Colorado</adminName1>
+<adminCode2>009</adminCode2>
+<adminName2>Baca County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<bbox>
+<west>-102.82626</west>
+<north>37.50651</north>
+<east>-102.80358</east>
+<south>37.48852</south>
+</bbox>
+<score>40.3968620300293</score>
+</geoname>
+<geoname>
+<toponymName>Harbor</toponymName>
+<name>Harbor</name>
+<lat>42.05317</lat>
+<lng>-124.26759</lng>
+<geonameId>5730199</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2391</population>
+<alternateNames/>
+<elevation>10</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OR">OR</adminCode1>
+<adminName1>Oregon</adminName1>
+<adminCode2>015</adminCode2>
+<adminName2>Curry County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Harbor%2C_Oregon</alternateName>
+<alternateName lang="unlc">HOI</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-124.27413</west>
+<north>42.05491</north>
+<east>-124.23299</east>
+<south>42.02257</south>
+</bbox>
+<score>35.853614807128906</score>
+</geoname>
+<geoname>
+<toponymName>Harbor</toponymName>
+<name>Harbor</name>
+<lat>30.18687</lat>
+<lng>-93.12071</lng>
+<geonameId>4048798</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>5</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>019</adminCode2>
+<adminName2>Calcasieu Parish</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-93.13111</west>
+<north>30.19587</north>
+<east>-93.1103</east>
+<south>30.17788</south>
+</bbox>
+<score>20.48777961730957</score>
+</geoname>
+<geoname>
+<toponymName>Harbor</toponymName>
+<name>Harbor</name>
+<lat>43.08201</lat>
+<lng>-75.14766</lng>
+<geonameId>5119968</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>128</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>043</adminCode2>
+<adminName2>Herkimer County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-75.15998</west>
+<north>43.09101</north>
+<east>-75.13535</east>
+<south>43.07302</south>
+</bbox>
+<score>20.48777961730957</score>
+</geoname>
+<geoname>
+<toponymName>Harbor</toponymName>
+<name>Harbor</name>
+<lat>41.88783</lat>
+<lng>-80.81537</lng>
+<geonameId>5156852</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>192</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>007</adminCode2>
+<adminName2>Ashtabula County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-80.82745</west>
+<north>41.89682</north>
+<east>-80.80328</east>
+<south>41.87884</south>
+</bbox>
+<score>20.48777961730957</score>
+</geoname>
+<geoname>
+<toponymName>Harbor</toponymName>
+<name>Harbor</name>
+<lat>41.03534</lat>
+<lng>-80.40923</lng>
+<geonameId>5192608</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>259</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PA">PA</adminCode1>
+<adminName1>Pennsylvania</adminName1>
+<adminCode2>073</adminCode2>
+<adminName2>Lawrence County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-80.42116</west>
+<north>41.04433</north>
+<east>-80.39731</east>
+<south>41.02634</south>
+</bbox>
+<score>20.48777961730957</score>
+</geoname>
+</geonames>

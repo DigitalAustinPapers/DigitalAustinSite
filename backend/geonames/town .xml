@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Town</toponymName>
+<name>Town</name>
+<lat>51.74307</lat>
+<lng>-3.34648</lng>
+<geonameId>7296583</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y3</adminCode2>
+<adminName2>Merthyr Tydfil</adminName2>
+<adminCode3>00PH009</adminCode3>
+<adminName3>Town</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.38301</west>
+<north>51.75865</north>
+<east>-3.30994</east>
+<south>51.7275</south>
+</bbox>
+<score>78.46831512451172</score>
+</geoname>
+<geoname>
+<toponymName>Town</toponymName>
+<name>Town</name>
+<lat>-9.48333</lat>
+<lng>147.15</lng>
+<geonameId>2085135</geonameId>
+<countryCode>PG</countryCode>
+<countryName>Papua New Guinea</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="NCD">20</adminCode1>
+<adminName1>National Capital District</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="10.0" gmtOffset="10.0">Pacific/Port_Moresby</timezone>
+<bbox>
+<west>147.14635</west>
+<north>-9.47974</north>
+<east>147.15365</east>
+<south>-9.48693</south>
+</bbox>
+<score>28.024398803710938</score>
+</geoname>
+</geonames>

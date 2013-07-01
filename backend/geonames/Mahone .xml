@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>105</totalResultsCount>
+<geoname>
+<toponymName>Mahone</toponymName>
+<name>Mahone</name>
+<lat>39.10925</lat>
+<lng>-81.07456</lng>
+<geonameId>4813597</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>316</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WV">WV</adminCode1>
+<adminName1>West Virginia</adminName1>
+<adminCode2>085</adminCode2>
+<adminName2>Ritchie County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Mahone%2C_West_Virginia</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-81.08615</west>
+<north>39.11824</north>
+<east>-81.06296</east>
+<south>39.10025</south>
+</bbox>
+<score>46.690574645996094</score>
+</geoname>
+<geoname>
+<toponymName>Mahone</toponymName>
+<name>Mahone</name>
+<lat>-24.88444</lat>
+<lng>32.36361</lng>
+<geonameId>1041751</geonameId>
+<countryCode>MZ</countryCode>
+<countryName>Mozambique</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="L">04</adminCode1>
+<adminName1>Maputo</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Maputo</timezone>
+<bbox>
+<west>32.3537</west>
+<north>-24.87545</north>
+<east>32.37352</east>
+<south>-24.89344</south>
+</bbox>
+<score>31.12704849243164</score>
+</geoname>
+<geoname>
+<toponymName>Mahoni</toponymName>
+<name>Mahoni</name>
+<lat>-10.46667</lat>
+<lng>33.66667</lng>
+<geonameId>908508</geonameId>
+<countryCode>ZM</countryCode>
+<countryName>Zambia</countryName>
+<fcl>T</fcl>
+<fcode>MT</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>mountain</fcodeName>
+<population/>
+<alternateNames>Mahome,Mahone Hill,Mahoni,Mahowe</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Lusaka</timezone>
+<score>13.312000274658203</score>
+</geoname>
+<geoname>
+<toponymName>Masone</toponymName>
+<name>Masone</name>
+<lat>44.50134</lat>
+<lng>8.71635</lng>
+<geonameId>3173780</geonameId>
+<countryCode>IT</countryCode>
+<countryName>Italy</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>4080</population>
+<alternateNames>Mason,Masone</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="42">08</adminCode1>
+<adminName1>Liguria</adminName1>
+<adminCode2>GE</adminCode2>
+<adminName2>Provincia di Genova</adminName2>
+<adminCode3>010032</adminCode3>
+<adminName3>Masone</adminName3>
+<alternateName lang="en">Masone</alternateName>
+<alternateName lang="eo">Masone</alternateName>
+<alternateName lang="fr">Masone</alternateName>
+<alternateName lang="it">Masone</alternateName>
+<alternateName lang="lij">Mason</alternateName>
+<alternateName lang="nap">Masone</alternateName>
+<alternateName lang="nl">Masone</alternateName>
+<alternateName lang="pl">Masone</alternateName>
+<alternateName lang="pt">Masone</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Rome</timezone>
+<bbox>
+<west>8.70543</west>
+<north>44.50913</north>
+<east>8.72728</east>
+<south>44.49355</south>
+</bbox>
+<score>11.600357055664062</score>
+</geoname>
+<geoname>
+<toponymName>Marone</toponymName>
+<name>Marone</name>
+<lat>45.73609</lat>
+<lng>10.09376</lng>
+<geonameId>3173880</geonameId>
+<countryCode>IT</countryCode>
+<countryName>Italy</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>3057</population>
+<alternateNames>Marone,marone,マローネ</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="25">09</adminCode1>
+<adminName1>Lombardy</adminName1>
+<adminCode2>BS</adminCode2>
+<adminName2>Provincia di Brescia</adminName2>
+<adminCode3>017106</adminCode3>
+<adminName3>Marone</adminName3>
+<alternateName lang="en">Marone</alternateName>
+<alternateName lang="eo">Marone</alternateName>
+<alternateName lang="fr">Marone</alternateName>
+<alternateName lang="it">Marone</alternateName>
+<alternateName lang="ja">マローネ</alternateName>
+<alternateName lang="nap">Marone</alternateName>
+<alternateName lang="nl">Marone</alternateName>
+<alternateName lang="pl">Marone</alternateName>
+<alternateName lang="pt">Marone</alternateName>
+<alternateName lang="unlc">ANE</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Rome</timezone>
+<bbox>
+<west>10.08465</west>
+<north>45.74245</north>
+<east>10.10287</east>
+<south>45.72973</south>
+</bbox>
+<score>10.333955764770508</score>
+</geoname>
+<geoname>
+<toponymName>Mahone</toponymName>
+<name>Mahone</name>
+<lat>-8.51206</lat>
+<lng>14.7019</lng>
+<geonameId>2239893</geonameId>
+<countryCode>AO</countryCode>
+<countryName>Angola</countryName>
+<fcl>H</fcl>
+<fcode>STMI</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>intermittent stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="BGO">19</adminCode1>
+<adminName1>Bengo</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="1.0">Africa/Luanda</timezone>
+<score>9.727202415466309</score>
+</geoname>
+<geoname>
+<toponymName>Malone</toponymName>
+<name>Malone</name>
+<lat>30.95769</lat>
+<lng>-85.16215</lng>
+<geonameId>4163248</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2088</population>
+<alternateNames/>
+<elevation>43</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="FL">FL</adminCode1>
+<adminName1>Florida</adminName1>
+<adminCode2>063</adminCode2>
+<adminName2>Jackson County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Malone%2C_Florida</alternateName>
+<alternateName lang="post">32445</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-85.1674</west>
+<north>30.96218</north>
+<east>-85.15691</east>
+<south>30.95319</south>
+</bbox>
+<score>7.198971748352051</score>
+</geoname>
+<geoname>
+<toponymName>Mahoño</toponymName>
+<name>Mahoño</name>
+<lat>43.41767</lat>
+<lng>-3.91452</lng>
+<geonameId>3117677</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Mahono,Mahoño,Maono,Maoño</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="CB">39</adminCode1>
+<adminName1>Cantabria</adminName1>
+<adminCode2>S</adminCode2>
+<adminName2>Cantabria</adminName2>
+<adminCode3>39073</adminCode3>
+<adminName3>Santa Cruz de Bezana</adminName3>
+<alternateName lang="post">39108</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Madrid</timezone>
+<bbox>
+<west>-3.9269</west>
+<north>43.42667</north>
+<east>-3.90214</east>
+<south>43.40868</south>
+</bbox>
+<score>7.0041022300720215</score>
+</geoname>
+<geoname>
+<toponymName>Mahonje</toponymName>
+<name>Mahonji</name>
+<lat>-16.85553</lat>
+<lng>31.96546</lng>
+<geonameId>887862</geonameId>
+<countryCode>ZW</countryCode>
+<countryName>Zimbabwe</countryName>
+<fcl>T</fcl>
+<fcode>MT</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>mountain</fcodeName>
+<population/>
+<alternateNames>Mahonje,Mahonji</alternateNames>
+<elevation>1085</elevation>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="MC">03</adminCode1>
+<adminName1>Mashonaland Central Province</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Mahonji</alternateName>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Harare</timezone>
+<score>6.932263374328613</score>
+</geoname>
+<geoname>
+<toponymName>Masone</toponymName>
+<name>Masone</name>
+<lat>44.50134</lat>
+<lng>8.71635</lng>
+<geonameId>6540561</geonameId>
+<countryCode>IT</countryCode>
+<countryName>Italy</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population>3824</population>
+<alternateNames>Comune di Masone,Masone</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="42">08</adminCode1>
+<adminName1>Liguria</adminName1>
+<adminCode2>GE</adminCode2>
+<adminName2>Provincia di Genova</adminName2>
+<adminCode3>010032</adminCode3>
+<adminName3>Masone</adminName3>
+<alternateName lang="it">Masone</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Masone</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Rome</timezone>
+<bbox>
+<west>8.66407</west>
+<north>44.53121</north>
+<east>8.77462</east>
+<south>44.48054</south>
+</bbox>
+<score>6.353776931762695</score>
+</geoname>
+</geonames>

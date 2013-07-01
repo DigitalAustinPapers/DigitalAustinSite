@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Orozimbo</toponymName>
+<name>Orozimbo</name>
+<lat>29.25358</lat>
+<lng>-95.57717</lng>
+<geonameId>4716845</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>15</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>039</adminCode2>
+<adminName2>Brazoria County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-95.58748</west>
+<north>29.26257</north>
+<east>-95.56686</east>
+<south>29.24458</south>
+</bbox>
+<score>43.057884216308594</score>
+</geoname>
+<geoname>
+<toponymName>Orosimbo</toponymName>
+<name>Orosimbo</name>
+<lat>22.28333</lat>
+<lng>-80.05</lng>
+<geonameId>3545465</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="05">16</adminCode1>
+<adminName1>Villa Clara</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>16.146705627441406</score>
+</geoname>
+</geonames>

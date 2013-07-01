@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>82</totalResultsCount>
+<geoname>
+<toponymName>Monroe</toponymName>
+<name>Monroe</name>
+<lat>32.50931</lat>
+<lng>-92.1193</lng>
+<geonameId>4333669</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>48815</population>
+<alternateNames>MLU,Monro,men luo,meonlo,mnrww, lwyyzyana,mwnrw,Монро,מונרו,منروو، لوئیزیانا,门罗,먼로</alternateNames>
+<elevation>23</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>073</adminCode2>
+<adminName2>Ouachita Parish</adminName2>
+<alternateName lang="fa">منروو، لوئیزیانا</alternateName>
+<alternateName lang="he">מונרו</alternateName>
+<alternateName lang="iata">MLU</alternateName>
+<alternateName lang="ko">먼로</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Monroe%2C_Louisiana</alternateName>
+<alternateName lang="post">71212</alternateName>
+<alternateName lang="ru">Монро</alternateName>
+<alternateName lang="unlc">MLU</alternateName>
+<alternateName lang="zh">门罗</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.13551</west>
+<north>32.62104</north>
+<east>-91.98882</east>
+<south>32.42969</south>
+</bbox>
+<score>11.373043060302734</score>
+</geoname>
+<geoname>
+<toponymName>Monroe Regional Airport</toponymName>
+<name>Monroe Regional Airport</name>
+<lat>32.5107</lat>
+<lng>-92.03763</lng>
+<geonameId>4333683</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>AIRP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>airport</fcodeName>
+<population/>
+<alternateNames>KMLU,MLU</alternateNames>
+<elevation>23</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>073</adminCode2>
+<adminName2>Ouachita Parish</adminName2>
+<alternateName lang="iata">MLU</alternateName>
+<alternateName lang="icao">KMLU</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Monroe_Regional_Airport%2C_Louisiana</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>9.477535247802734</score>
+</geoname>
+<geoname>
+<toponymName>West Monroe</toponymName>
+<name>West Monroe</name>
+<lat>32.51848</lat>
+<lng>-92.14764</lng>
+<geonameId>4345850</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>13065</population>
+<alternateNames/>
+<elevation>25</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>073</adminCode2>
+<adminName2>Ouachita Parish</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/West_Monroe%2C_Louisiana</alternateName>
+<alternateName lang="post">71294</alternateName>
+<alternateName lang="unlc">WMX</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.1645</west>
+<north>32.5327</north>
+<east>-92.13077</east>
+<south>32.50426</south>
+</bbox>
+<score>9.477535247802734</score>
+</geoname>
+<geoname>
+<toponymName>KNOE-FM (Monroe)</toponymName>
+<name>KNOE-FM (Monroe)</name>
+<lat>32.19599</lat>
+<lng>-92.06958</lng>
+<geonameId>4329546</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>TOWR</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>tower</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>19</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>021</adminCode2>
+<adminName2>Caldwell Parish</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/KNOE-FM</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>5.686521530151367</score>
+</geoname>
+<geoname>
+<toponymName>KNOE-TV (Monroe)</toponymName>
+<name>KNOE-TV (Monroe)</name>
+<lat>32.19599</lat>
+<lng>-92.06958</lng>
+<geonameId>4329547</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>TOWR</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>tower</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>19</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>021</adminCode2>
+<adminName2>Caldwell Parish</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/KNOE-TV</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>5.686521530151367</score>
+</geoname>
+<geoname>
+<toponymName>City of Monroe</toponymName>
+<name>City of Monroe</name>
+<lat>32.51822</lat>
+<lng>-92.0774</lng>
+<geonameId>7317867</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>administrative division</fcodeName>
+<population>48815</population>
+<alternateNames/>
+<elevation>22</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>073</adminCode2>
+<adminName2>Ouachita Parish</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.13551</west>
+<north>32.62104</north>
+<east>-91.98882</east>
+<south>32.42969</south>
+</bbox>
+<score>5.686521530151367</score>
+</geoname>
+<geoname>
+<toponymName>City of West Monroe</toponymName>
+<name>City of West Monroe</name>
+<lat>32.51212</lat>
+<lng>-92.15113</lng>
+<geonameId>7318192</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>administrative division</fcodeName>
+<population>13065</population>
+<alternateNames/>
+<elevation>24</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>073</adminCode2>
+<adminName2>Ouachita Parish</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.20016</west>
+<north>32.55122</north>
+<east>-92.11263</east>
+<south>32.48124</south>
+</bbox>
+<score>5.686521530151367</score>
+</geoname>
+<geoname>
+<toponymName>University of Louisiana at Monroe</toponymName>
+<name>University of Louisiana at Monroe</name>
+<lat>32.52771</lat>
+<lng>-92.07449</lng>
+<geonameId>4335407</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>SCH</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>school</fcodeName>
+<population/>
+<alternateNames>lu yi si an na zhou men luo da xue,路易斯安那州門羅大學</alternateNames>
+<elevation>25</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>073</adminCode2>
+<adminName2>Ouachita Parish</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/University_of_Louisiana_at_Monroe</alternateName>
+<alternateName lang="zh">路易斯安那州門羅大學</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>5.2261199951171875</score>
+</geoname>
+<geoname>
+<toponymName>KJLO-FM (Monroe)</toponymName>
+<name>KJLO-FM (Monroe)</name>
+<lat>32.66014</lat>
+<lng>-92.08763</lng>
+<geonameId>4329493</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>TOWR</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>tower</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>21</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>073</adminCode2>
+<adminName2>Ouachita Parish</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/KJLO-FM</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>4.738767623901367</score>
+</geoname>
+<geoname>
+<toponymName>KMCT-TV (West Monroe)</toponymName>
+<name>KMCT-TV (West Monroe)</name>
+<lat>32.50598</lat>
+<lng>-92.14847</lng>
+<geonameId>4329528</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>TOWR</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>tower</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>20</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>073</adminCode2>
+<adminName2>Ouachita Parish</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/KMCT-TV</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>4.738767623901367</score>
+</geoname>
+</geonames>

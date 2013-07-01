@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Ohio Canal</toponymName>
+<name>Ohio Canal</name>
+<lat>40.42229</lat>
+<lng>-81.40484</lng>
+<geonameId>5165379</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>CNL</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>canal</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>258</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>157</adminCode2>
+<adminName2>Tuscarawas County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>14.370574951171875</score>
+</geoname>
+</geonames>

@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>19</totalResultsCount>
+<geoname>
+<toponymName>Port</toponymName>
+<name>Port</name>
+<lat>35.2045</lat>
+<lng>-99.30731</lng>
+<geonameId>4050278</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>517</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OK">OK</adminCode1>
+<adminName1>Oklahoma</adminName1>
+<adminCode2>149</adminCode2>
+<adminName2>Washita County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Port%2C_Oklahoma</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-99.31831</west>
+<north>35.21349</north>
+<east>-99.2963</east>
+<south>35.1955</south>
+</bbox>
+<score>59.209716796875</score>
+</geoname>
+<geoname>
+<toponymName>Le Port</toponymName>
+<name>Le Port</name>
+<lat>-20.9373</lat>
+<lng>55.29189</lng>
+<geonameId>935616</geonameId>
+<countryCode>RE</countryCode>
+<countryName>Réunion</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>40771</population>
+<alternateNames>La Point-aux-galets,Le Port,Le Port des Galets,Port,Port de la Pointe des Galets,Port des Galets</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1>RE</adminCode1>
+<adminName1>Réunion</adminName1>
+<adminCode2>974</adminCode2>
+<adminName2>Réunion</adminName2>
+<adminCode3>9744</adminCode3>
+<adminName3>Arrondissement de Saint-Paul</adminName3>
+<adminCode4>97407</adminCode4>
+<adminName4>Le Port</adminName4>
+<alternateName lang="post">97824 CEDEX</alternateName>
+<alternateName lang="unlc">LPT</alternateName>
+<timezone dstOffset="4.0" gmtOffset="4.0">Indian/Reunion</timezone>
+<bbox>
+<west>55.26423</west>
+<north>-20.91146</north>
+<east>55.31954</east>
+<south>-20.96313</south>
+</bbox>
+<score>55.82345962524414</score>
+</geoname>
+<geoname>
+<toponymName>Port</toponymName>
+<name>Port</name>
+<lat>47.11411</lat>
+<lng>7.25891</lng>
+<geonameId>7286820</geonameId>
+<countryCode>CH</countryCode>
+<countryName>Switzerland</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population>3301</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="BE">BE</adminCode1>
+<adminName1>Bern</adminName1>
+<adminCode2>242</adminCode2>
+<adminName2>Biel/Bienne</adminName2>
+<adminCode3>745</adminCode3>
+<adminName3>Port</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Port%2C_Berne</alternateName>
+<alternateName lang="post">2562</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Zurich</timezone>
+<bbox>
+<west>7.24273</west>
+<north>47.12401</north>
+<east>7.28023</east>
+<south>47.10674</south>
+</bbox>
+<score>49.3414306640625</score>
+</geoname>
+<geoname>
+<toponymName>Port</toponymName>
+<name>Port</name>
+<lat>47.11447</lat>
+<lng>7.26018</lng>
+<geonameId>8533460</geonameId>
+<countryCode>CH</countryCode>
+<countryName>Switzerland</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Port</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="BE">BE</adminCode1>
+<adminName1>Bern</adminName1>
+<adminCode2>242</adminCode2>
+<adminName2>Biel/Bienne</adminName2>
+<adminCode3>745</adminCode3>
+<adminName3>Port</adminName3>
+<alternateName lang="post">2562</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Zurich</timezone>
+<bbox>
+<west>7.24697</west>
+<north>47.12347</north>
+<east>7.2734</east>
+<south>47.10548</south>
+</bbox>
+<score>48.34453201293945</score>
+</geoname>
+<geoname>
+<toponymName>Port</toponymName>
+<name>Port</name>
+<lat>46.16495</lat>
+<lng>5.56771</lng>
+<geonameId>2986045</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>896</population>
+<alternateNames>Port</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="V">B9</adminCode1>
+<adminName1>Rhône-Alpes</adminName1>
+<adminCode2>01</adminCode2>
+<adminName2>Ain</adminName2>
+<adminCode3>014</adminCode3>
+<adminName3>Arrondissement de Nantua</adminName3>
+<adminCode4>01307</adminCode4>
+<adminName4>Port</adminName4>
+<alternateName lang="post">01460</alternateName>
+<alternateName lang="unlc">POF</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>5.56642</west>
+<north>46.16585</north>
+<east>5.56901</east>
+<south>46.16405</south>
+</bbox>
+<score>42.30146408081055</score>
+</geoname>
+<geoname>
+<toponymName>Porț</toponymName>
+<name>Porț</name>
+<lat>47.23461</lat>
+<lng>22.55424</lng>
+<geonameId>669830</geonameId>
+<countryCode>RO</countryCode>
+<countryName>Romania</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>330</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SJ">31</adminCode1>
+<adminName1>Sălaj</adminName1>
+<adminCode2>141946</adminCode2>
+<adminName2>Comuna Marca</adminName2>
+<timezone dstOffset="3.0" gmtOffset="2.0">Europe/Bucharest</timezone>
+<bbox>
+<west>22.55291</west>
+<north>47.23551</north>
+<east>22.55556</east>
+<south>47.23371</south>
+</bbox>
+<score>39.47314453125</score>
+</geoname>
+<geoname>
+<toponymName>Port</toponymName>
+<name>Port</name>
+<lat>53.84417</lat>
+<lng>-6.26111</lng>
+<geonameId>2962034</geonameId>
+<countryCode>IE</countryCode>
+<countryName>Ireland</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="L">L</adminCode1>
+<adminName1>Leinster</adminName1>
+<adminCode2>19</adminCode2>
+<adminName2>Co Louth</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Dublin</timezone>
+<bbox>
+<west>-6.27636</west>
+<north>53.85316</north>
+<east>-6.24586</east>
+<south>53.83517</south>
+</bbox>
+<score>39.47314453125</score>
+</geoname>
+<geoname>
+<toponymName>Port</toponymName>
+<name>Port</name>
+<lat>54.74778</lat>
+<lng>-8.69833</lng>
+<geonameId>3308841</geonameId>
+<countryCode>IE</countryCode>
+<countryName>Ireland</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="U">U</adminCode1>
+<adminName1>Ulster</adminName1>
+<adminCode2>06</adminCode2>
+<adminName2>Donegal</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Dublin</timezone>
+<bbox>
+<west>-8.71392</west>
+<north>54.75677</north>
+<east>-8.68275</east>
+<south>54.73878</south>
+</bbox>
+<score>39.47314453125</score>
+</geoname>
+<geoname>
+<toponymName>Port</toponymName>
+<name>Port</name>
+<lat>46.16444</lat>
+<lng>5.57028</lng>
+<geonameId>6453505</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population>854</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="V">B9</adminCode1>
+<adminName1>Rhône-Alpes</adminName1>
+<adminCode2>01</adminCode2>
+<adminName2>Ain</adminName2>
+<adminCode3>014</adminCode3>
+<adminName3>Arrondissement de Nantua</adminName3>
+<adminCode4>01307</adminCode4>
+<adminName4>Port</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Port%2C_Ain</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>5.55581</west>
+<north>46.16851</north>
+<east>5.60639</east>
+<south>46.13852</south>
+</bbox>
+<score>39.47314453125</score>
+</geoname>
+<geoname>
+<toponymName>Port-sur-Seille</toponymName>
+<name>Port-sur-Seille</name>
+<lat>48.90426</lat>
+<lng>6.1647</lng>
+<geonameId>2985928</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>195</population>
+<alternateNames>Port,Port-sur-Seille</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="M">B2</adminCode1>
+<adminName1>Lorraine</adminName1>
+<adminCode2>54</adminCode2>
+<adminName2>Meurthe et Moselle</adminName2>
+<adminCode3>543</adminCode3>
+<adminName3>Arrondissement de Nancy</adminName3>
+<adminCode4>54433</adminCode4>
+<adminName4>Port-sur-Seille</adminName4>
+<alternateName lang="post">54700</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>6.16333</west>
+<north>48.90516</north>
+<east>6.16607</east>
+<south>48.90336</south>
+</bbox>
+<score>27.91172981262207</score>
+</geoname>
+</geonames>

@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>17</totalResultsCount>
+<geoname>
+<toponymName>Clear Creek Flats</toponymName>
+<name>Clear Creek Flats</name>
+<lat>39.04524</lat>
+<lng>-111.61769</lng>
+<geonameId>5537037</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>PLN</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>plain(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>2624</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="UT">UT</adminCode1>
+<adminName1>Utah</adminName1>
+<adminCode2>039</adminCode2>
+<adminName2>Sanpete County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<score>24.672801971435547</score>
+</geoname>
+<geoname>
+<toponymName>Clear Creek Lake</toponymName>
+<name>Clear Creek Lake</name>
+<lat>43.93007</lat>
+<lng>-110.2332</lng>
+<geonameId>5821396</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>LK</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>lake</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>2595</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WY">WY</adminCode1>
+<adminName1>Wyoming</adminName1>
+<adminCode2>039</adminCode2>
+<adminName2>Teton County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<score>14.8971586227417</score>
+</geoname>
+<geoname>
+<toponymName>Clear Creek Canal</toponymName>
+<name>Clear Creek Canal</name>
+<lat>35.27259</lat>
+<lng>-89.70508</lng>
+<geonameId>4613986</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>CNL</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>canal</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>76</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TN">TN</adminCode1>
+<adminName1>Tennessee</adminName1>
+<adminCode2>157</adminCode2>
+<adminName2>Shelby County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>6.168200492858887</score>
+</geoname>
+<geoname>
+<toponymName>Clear Creek Falls</toponymName>
+<name>Clear Creek Falls</name>
+<lat>43.29472</lat>
+<lng>-109.82917</lng>
+<geonameId>5821408</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>OVF</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>overfalls</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>2449</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WY">WY</adminCode1>
+<adminName1>Wyoming</adminName1>
+<adminCode2>035</adminCode2>
+<adminName2>Sublette County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<score>6.168200492858887</score>
+</geoname>
+<geoname>
+<toponymName>Clear Creek Farms</toponymName>
+<name>Clear Creek Farms</name>
+<lat>39.26667</lat>
+<lng>-83.57806</lng>
+<geonameId>8499001</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>FRM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farm</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>349</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>071</adminCode2>
+<adminName2>Highland County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>6.168200492858887</score>
+</geoname>
+<geoname>
+<toponymName>Clear Creek Ranch</toponymName>
+<name>Clear Creek Ranch</name>
+<lat>38.82077</lat>
+<lng>-116.47257</lng>
+<geonameId>5501898</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>2133</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NV">NV</adminCode1>
+<adminName1>Nevada</adminName1>
+<adminCode2>023</adminCode2>
+<adminName2>Nye County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>5.653473854064941</score>
+</geoname>
+<geoname>
+<toponymName>Clear Creek Ranch</toponymName>
+<name>Clear Creek Ranch</name>
+<lat>40.78768</lat>
+<lng>-119.49908</lng>
+<geonameId>5702563</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>1288</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NV">NV</adminCode1>
+<adminName1>Nevada</adminName1>
+<adminCode2>031</adminCode2>
+<adminName2>Washoe County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>5.653473854064941</score>
+</geoname>
+<geoname>
+<toponymName>Clear Creek Ranch</toponymName>
+<name>Clear Creek Ranch</name>
+<lat>40.73074</lat>
+<lng>-117.67485</lng>
+<geonameId>5702566</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>1430</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NV">NV</adminCode1>
+<adminName1>Nevada</adminName1>
+<adminCode2>027</adminCode2>
+<adminName2>Pershing County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>5.653473854064941</score>
+</geoname>
+<geoname>
+<toponymName>Clear Creek Pond</toponymName>
+<name>Clear Creek Pond</name>
+<lat>32.38517</lat>
+<lng>-84.80546</lng>
+<geonameId>4188328</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>RSV</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>reservoir(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>96</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">GA</adminCode1>
+<adminName1>Georgia</adminName1>
+<adminCode2>053</adminCode2>
+<adminName2>Chattahoochee County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>3.276853322982788</score>
+</geoname>
+<geoname>
+<toponymName>Clear Creek Lake</toponymName>
+<name>Clear Creek Lake</name>
+<lat>39.63766</lat>
+<lng>-95.45692</lng>
+<geonameId>4269675</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>RSV</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>reservoir(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>322</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KS">KS</adminCode1>
+<adminName1>Kansas</adminName1>
+<adminCode2>005</adminCode2>
+<adminName2>Atchison County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>2.6602067947387695</score>
+</geoname>
+</geonames>

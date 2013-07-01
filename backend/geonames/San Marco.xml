@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>258</totalResultsCount>
+<geoname>
+<toponymName>San Marco</toponymName>
+<name>San Marco</name>
+<lat>24.23952</lat>
+<lng>-102.17546</lng>
+<geonameId>3973453</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>H</fcl>
+<fcode>LK</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>lake</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ZAC">32</adminCode1>
+<adminName1>Zacatecas</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<score>51.45341110229492</score>
+</geoname>
+<geoname>
+<toponymName>San Marco</toponymName>
+<name>San Marco</name>
+<lat>30.31191</lat>
+<lng>-81.65982</lng>
+<geonameId>4171814</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="FL">FL</adminCode1>
+<adminName1>Florida</adminName1>
+<adminCode2>031</adminCode2>
+<adminName2>Duval County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/San_Marco_%28JTA_Skyway%29</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-81.67024</west>
+<north>30.3209</north>
+<east>-81.6494</east>
+<south>30.30291</south>
+</bbox>
+<score>44.10292434692383</score>
+</geoname>
+<geoname>
+<toponymName>San Marcos</toponymName>
+<name>San Marcos</name>
+<lat>13.65889</lat>
+<lng>-89.18306</lng>
+<geonameId>3583480</geonameId>
+<countryCode>SV</countryCode>
+<countryName>El Salvador</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>54615</population>
+<alternateNames>San Marcos</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SS">10</adminCode1>
+<adminName1>San Salvador</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/San_Marcos%2C_El_Salvador</alternateName>
+<alternateName lang="unlc">MOS</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/El_Salvador</timezone>
+<bbox>
+<west>-89.2141</west>
+<north>13.68905</north>
+<east>-89.15201</east>
+<south>13.62872</south>
+</bbox>
+<score>34.4647102355957</score>
+</geoname>
+<geoname>
+<toponymName>San Marcos</toponymName>
+<name>San Marcos</name>
+<lat>21.66667</lat>
+<lng>-79.48333</lng>
+<geonameId>3538990</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames>San Marco,San Marcos</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="07">14</adminCode1>
+<adminName1>Sancti Spíritus</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>32.2785530090332</score>
+</geoname>
+<geoname>
+<toponymName>San Marcos</toponymName>
+<name>San Marcos</name>
+<lat>11.59536</lat>
+<lng>-86.01049</lng>
+<geonameId>3616683</geonameId>
+<countryCode>NI</countryCode>
+<countryName>Nicaragua</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>San Marco,San Marcos</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="RI">15</adminCode1>
+<adminName1>Rivas</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Managua</timezone>
+<bbox>
+<west>-86.01967</west>
+<north>11.60435</north>
+<east>-86.00131</east>
+<south>11.58636</south>
+</bbox>
+<score>32.2785530090332</score>
+</geoname>
+<geoname>
+<toponymName>San Marco</toponymName>
+<name>San Marco</name>
+<lat>38.66667</lat>
+<lng>16.01667</lng>
+<geonameId>2523429</geonameId>
+<countryCode>IT</countryCode>
+<countryName>Italy</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="78">03</adminCode1>
+<adminName1>Calabria</adminName1>
+<adminCode2>VV</adminCode2>
+<adminName2>Provincia di Vibo-Valentia</adminName2>
+<adminCode3>102006</adminCode3>
+<adminName3>Cessaniti</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Rome</timezone>
+<bbox>
+<west>16.00515</west>
+<north>38.67566</north>
+<east>16.02819</east>
+<south>38.65767</south>
+</bbox>
+<score>29.401948928833008</score>
+</geoname>
+<geoname>
+<toponymName>San Marco</toponymName>
+<name>San Marco</name>
+<lat>38.03333</lat>
+<lng>15.15</lng>
+<geonameId>2523430</geonameId>
+<countryCode>IT</countryCode>
+<countryName>Italy</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="82">15</adminCode1>
+<adminName1>Sicily</adminName1>
+<adminCode2>ME</adminCode2>
+<adminName2>Province of Messina</adminName2>
+<adminCode3>083062</adminCode3>
+<adminName3>Novara di Sicilia</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Rome</timezone>
+<bbox>
+<west>15.13858</west>
+<north>38.04233</north>
+<east>15.16142</east>
+<south>38.02434</south>
+</bbox>
+<score>29.401948928833008</score>
+</geoname>
+<geoname>
+<toponymName>San Marco</toponymName>
+<name>San Marco</name>
+<lat>38.03333</lat>
+<lng>12.61667</lng>
+<geonameId>2523431</geonameId>
+<countryCode>IT</countryCode>
+<countryName>Italy</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="82">15</adminCode1>
+<adminName1>Sicily</adminName1>
+<adminCode2>TP</adminCode2>
+<adminName2>Provincia di Trapani</adminName2>
+<adminCode3>081022</adminCode3>
+<adminName3>Valderice</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Rome</timezone>
+<bbox>
+<west>12.60525</west>
+<north>38.04233</north>
+<east>12.62809</east>
+<south>38.02434</south>
+</bbox>
+<score>29.401948928833008</score>
+</geoname>
+<geoname>
+<toponymName>San Marco</toponymName>
+<name>San Marco</name>
+<lat>45.7</lat>
+<lng>13.08333</lng>
+<geonameId>3168084</geonameId>
+<countryCode>IT</countryCode>
+<countryName>Italy</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="36">06</adminCode1>
+<adminName1>Friuli Venezia Giulia</adminName1>
+<adminCode2>UD</adminCode2>
+<adminName2>Provincia di Udine</adminName2>
+<adminCode3>030056</adminCode3>
+<adminName3>Marano Lagunare</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Rome</timezone>
+<bbox>
+<west>13.07045</west>
+<north>45.70899</north>
+<east>13.09621</east>
+<south>45.69101</south>
+</bbox>
+<score>29.401948928833008</score>
+</geoname>
+<geoname>
+<toponymName>San Marco</toponymName>
+<name>San Marco</name>
+<lat>44.6</lat>
+<lng>11.41667</lng>
+<geonameId>3168085</geonameId>
+<countryCode>IT</countryCode>
+<countryName>Italy</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="45">05</adminCode1>
+<adminName1>Emilia-Romagna</adminName1>
+<adminCode2>BO</adminCode2>
+<adminName2>Provincia di Bologna</adminName2>
+<adminCode3>037005</adminCode3>
+<adminName3>Bentivoglio</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Rome</timezone>
+<bbox>
+<west>11.40403</west>
+<north>44.60899</north>
+<east>11.4293</east>
+<south>44.59101</south>
+</bbox>
+<score>29.401948928833008</score>
+</geoname>
+</geonames>

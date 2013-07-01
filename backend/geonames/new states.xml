@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>New Estates</toponymName>
+<name>New Estates</name>
+<lat>39.38594</lat>
+<lng>-77.1747</lng>
+<geonameId>4363625</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>228</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MD">MD</adminCode1>
+<adminName1>Maryland</adminName1>
+<adminCode2>021</adminCode2>
+<adminName2>Frederick County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-77.18634</west>
+<north>39.39493</north>
+<east>-77.16307</east>
+<south>39.37694</south>
+</bbox>
+<score>34.3702392578125</score>
+</geoname>
+<geoname>
+<toponymName>New State</toponymName>
+<name>New State</name>
+<lat>39.90578</lat>
+<lng>-112.093</lng>
+<geonameId>5543890</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>MN</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>mine(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1972</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="UT">UT</adminCode1>
+<adminName1>Utah</adminName1>
+<adminCode2>023</adminCode2>
+<adminName2>Juab County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<score>9.547290802001953</score>
+</geoname>
+</geonames>

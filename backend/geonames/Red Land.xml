@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>25</totalResultsCount>
+<geoname>
+<toponymName>Red Lane</toponymName>
+<name>Red Lane</name>
+<lat>37.54682</lat>
+<lng>-77.84944</lng>
+<geonameId>4781252</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>109</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>145</adminCode2>
+<adminName2>Powhatan County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Red_Lane%2C_Virginia</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-77.86079</west>
+<north>37.55581</north>
+<east>-77.8381</east>
+<south>37.53782</south>
+</bbox>
+<score>35.71036148071289</score>
+</geoname>
+<geoname>
+<toponymName>Redland</toponymName>
+<name>Redland</name>
+<lat>-27.56434</lat>
+<lng>153.35912</lng>
+<geonameId>7839387</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="QLD">04</adminCode1>
+<adminName1>Queensland</adminName1>
+<adminCode2>36250</adminCode2>
+<adminName2>Redland</adminName2>
+<timezone dstOffset="10.0" gmtOffset="10.0">Australia/Brisbane</timezone>
+<bbox>
+<west>153.17152</west>
+<north>-27.38791</north>
+<east>153.54672</east>
+<south>-27.74078</south>
+</bbox>
+<score>34.66433334350586</score>
+</geoname>
+<geoname>
+<toponymName>Redland</toponymName>
+<name>Redland</name>
+<lat>39.14539</lat>
+<lng>-77.14415</lng>
+<geonameId>4366593</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population>17242</population>
+<alternateNames/>
+<elevation>150</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MD">MD</adminCode1>
+<adminName1>Maryland</adminName1>
+<adminCode2>031</adminCode2>
+<adminName2>Montgomery County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Redland%2C_Maryland</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-77.16585</west>
+<north>39.16221</north>
+<east>-77.12245</east>
+<south>39.12856</south>
+</bbox>
+<score>27.73146629333496</score>
+</geoname>
+<geoname>
+<toponymName>Red Lane</toponymName>
+<name>Red Lane</name>
+<lat>43.67857</lat>
+<lng>-108.20593</lng>
+<geonameId>5836272</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1315</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WY">WY</adminCode1>
+<adminName1>Wyoming</adminName1>
+<adminCode2>017</adminCode2>
+<adminName2>Hot Springs County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<bbox>
+<west>-108.21837</west>
+<north>43.68756</north>
+<east>-108.19349</east>
+<south>43.66957</south>
+</bbox>
+<score>23.806907653808594</score>
+</geoname>
+<geoname>
+<toponymName>Redland</toponymName>
+<name>Redland</name>
+<lat>25.52844</lat>
+<lng>-80.49033</lng>
+<geonameId>4169813</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>2</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="FL">FL</adminCode1>
+<adminName1>Florida</adminName1>
+<adminCode2>086</adminCode2>
+<adminName2>Miami-Dade</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Redland%2C_Florida</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-80.5003</west>
+<north>25.53744</north>
+<east>-80.48037</east>
+<south>25.51945</south>
+</bbox>
+<score>20.798599243164062</score>
+</geoname>
+<geoname>
+<toponymName>Redland</toponymName>
+<name>Redland</name>
+<lat>37.95403</lat>
+<lng>-78.52946</lng>
+<geonameId>4781318</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>192</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>003</adminCode2>
+<adminName2>Albemarle County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Redland%2C_Virginia</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-78.54086</west>
+<north>37.96302</north>
+<east>-78.51805</east>
+<south>37.94504</south>
+</bbox>
+<score>20.798599243164062</score>
+</geoname>
+<geoname>
+<toponymName>Redland</toponymName>
+<name>Redland</name>
+<lat>45.34346</lat>
+<lng>-122.49287</lng>
+<geonameId>5747881</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>106</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OR">OR</adminCode1>
+<adminName1>Oregon</adminName1>
+<adminCode2>005</adminCode2>
+<adminName2>Clackamas County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Redland%2C_Oregon</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-122.50566</west>
+<north>45.35245</north>
+<east>-122.48007</east>
+<south>45.33446</south>
+</bbox>
+<score>20.798599243164062</score>
+</geoname>
+<geoname>
+<toponymName>Redland</toponymName>
+<name>Redland</name>
+<lat>31.40435</lat>
+<lng>-94.72132</lng>
+<geonameId>4722038</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1047</population>
+<alternateNames/>
+<elevation>104</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>005</adminCode2>
+<adminName2>Angelina County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-94.72237</west>
+<north>31.40525</north>
+<east>-94.72027</east>
+<south>31.40345</south>
+</bbox>
+<score>17.33216667175293</score>
+</geoname>
+<geoname>
+<toponymName>Redland</toponymName>
+<name>Redland</name>
+<lat>51.30013</lat>
+<lng>-113.0019</lng>
+<geonameId>6118433</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>P</fcl>
+<fcode>PPLL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AB">01</adminCode1>
+<adminName1>Alberta</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Redland%2C_Alberta</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Edmonton</timezone>
+<bbox>
+<west>-113.00334</west>
+<north>51.30102</north>
+<east>-113.00046</east>
+<south>51.29923</south>
+</bbox>
+<score>17.33216667175293</score>
+</geoname>
+<geoname>
+<toponymName>Redland</toponymName>
+<name>Redland</name>
+<lat>59.1</lat>
+<lng>-3.06667</lng>
+<geonameId>3209937</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>V9</adminCode2>
+<adminName2>Orkney</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.08418</west>
+<north>59.10899</north>
+<east>-3.04915</east>
+<south>59.09101</south>
+</bbox>
+<score>13.86573314666748</score>
+</geoname>
+</geonames>

@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>10</totalResultsCount>
+<geoname>
+<toponymName>Gāndhīdhām</toponymName>
+<name>Gāndhīdhām</name>
+<lat>23.08333</lat>
+<lng>70.13333</lng>
+<geonameId>1271717</geonameId>
+<countryCode>IN</countryCode>
+<countryName>India</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>166388</population>
+<alternateNames>Gandhidham,Gandi Dham,Gāndhīdhām</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="GJ">09</adminCode1>
+<adminName1>Gujarāt</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Gandhidham</alternateName>
+<alternateName lang="unlc">GIN</alternateName>
+<timezone dstOffset="5.5" gmtOffset="5.5">Asia/Kolkata</timezone>
+<bbox>
+<west>70.07589</west>
+<north>23.13616</north>
+<east>70.19078</east>
+<south>23.03051</south>
+</bbox>
+<score>58.214805603027344</score>
+</geoname>
+<geoname>
+<toponymName>Guînes</toponymName>
+<name>Guînes</name>
+<lat>50.86708</lat>
+<lng>1.87025</lng>
+<geonameId>3014224</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>5342</population>
+<alternateNames>Gin,Gjuin,Guines,Guines-en-Calaisis,Guînes,Guînes-en-Calaisis,ji ne,Гин,Гюин,Гюїн,吉讷</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="O">B4</adminCode1>
+<adminName1>Nord-Pas-de-Calais</adminName1>
+<adminCode2>62</adminCode2>
+<adminName2>Pas-de-Calais</adminName2>
+<adminCode3>626</adminCode3>
+<adminName3>Arrondissement de Calais</adminName3>
+<adminCode4>62397</adminCode4>
+<adminName4>Guînes</adminName4>
+<alternateName lang="kk">Гюин</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Gu%C3%AEnes</alternateName>
+<alternateName lang="post">62340</alternateName>
+<alternateName lang="ru">Гин</alternateName>
+<alternateName lang="sr">Гин</alternateName>
+<alternateName lang="uk">Гюїн</alternateName>
+<alternateName lang="unlc">UNS</alternateName>
+<alternateName lang="zh">吉讷</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>1.856</west>
+<north>50.87607</north>
+<east>1.88451</east>
+<south>50.85809</south>
+</bbox>
+<score>44.113563537597656</score>
+</geoname>
+<geoname>
+<toponymName>Ginés</toponymName>
+<name>Ginés</name>
+<lat>37.38678</lat>
+<lng>-6.07743</lng>
+<geonameId>2517217</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>12934</population>
+<alternateNames>Gines,Ginés</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="AN">51</adminCode1>
+<adminName1>Andalusia</adminName1>
+<adminCode2>SE</adminCode2>
+<adminName2>Seville</adminName2>
+<adminCode3>41047</adminCode3>
+<adminName3>Gines</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Gines</alternateName>
+<alternateName lang="post">41960</alternateName>
+<alternateName lang="unlc">GIN</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Madrid</timezone>
+<bbox>
+<west>-6.09533</west>
+<north>37.401</north>
+<east>-6.05953</east>
+<south>37.37256</south>
+</bbox>
+<score>43.661102294921875</score>
+</geoname>
+<geoname>
+<toponymName>Goldingen</toponymName>
+<name>Goldingen</name>
+<lat>47.26277</lat>
+<lng>8.96627</lng>
+<geonameId>2660572</geonameId>
+<countryCode>CH</countryCode>
+<countryName>Switzerland</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1013</population>
+<alternateNames>Goldingen</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SG">SG</adminCode1>
+<adminName1>Saint Gallen</adminName1>
+<adminCode2>1726</adminCode2>
+<adminName2>Wahlkreis See-Gaster</adminName2>
+<adminCode3>3333</adminCode3>
+<adminName3>Goldingen</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Goldingen</alternateName>
+<alternateName lang="post">8638</alternateName>
+<alternateName lang="unlc">GIN</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Zurich</timezone>
+<bbox>
+<west>8.96494</west>
+<north>47.26367</north>
+<east>8.96759</east>
+<south>47.26187</south>
+</bbox>
+<score>36.384254455566406</score>
+</geoname>
+<geoname>
+<toponymName>Ginetes</toponymName>
+<name>Ginetes</name>
+<lat>37.85</lat>
+<lng>-25.83333</lng>
+<geonameId>3373014</geonameId>
+<countryCode>PT</countryCode>
+<countryName>Portugal</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Ginetes</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="20">23</adminCode1>
+<adminName1>Azores</adminName1>
+<adminCode2>4203</adminCode2>
+<adminName2>Ponta Delgada</adminName2>
+<adminCode3>420310</adminCode3>
+<adminName3>Ginetes</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ginetes</alternateName>
+<alternateName lang="unlc">GIN</alternateName>
+<timezone dstOffset="0.0" gmtOffset="-1.0">Atlantic/Azores</timezone>
+<bbox>
+<west>-25.84472</west>
+<north>37.85899</north>
+<east>-25.82194</east>
+<south>37.84101</south>
+</bbox>
+<score>36.384254455566406</score>
+</geoname>
+<geoname>
+<toponymName>Goyn</toponymName>
+<name>Goyn</name>
+<lat>26.42108</lat>
+<lng>58.30641</lng>
+<geonameId>133330</geonameId>
+<countryCode>IR</countryCode>
+<countryName>Iran</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Gin,Goyn,Gīn,gyn,گین</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="23">11</adminCode1>
+<adminName1>Hormozgān</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="fa">گین</alternateName>
+<timezone dstOffset="4.5" gmtOffset="3.5">Asia/Tehran</timezone>
+<bbox>
+<west>58.29636</west>
+<north>26.43007</north>
+<east>58.31645</east>
+<south>26.41209</south>
+</bbox>
+<score>36.01856994628906</score>
+</geoname>
+<geoname>
+<toponymName>Ginosa</toponymName>
+<name>Ginosa</name>
+<lat>40.58012</lat>
+<lng>16.75609</lng>
+<geonameId>3176097</geonameId>
+<countryCode>IT</countryCode>
+<countryName>Italy</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>22146</population>
+<alternateNames>Ginosa</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="75">13</adminCode1>
+<adminName1>Apulia</adminName1>
+<adminCode2>TA</adminCode2>
+<adminName2>Provincia di Taranto</adminName2>
+<adminCode3>073007</adminCode3>
+<adminName3>Ginosa</adminName3>
+<alternateName lang="en">Ginosa</alternateName>
+<alternateName lang="eo">Ginosa</alternateName>
+<alternateName lang="fr">Ginosa</alternateName>
+<alternateName lang="it">Ginosa</alternateName>
+<alternateName lang="nap">Ginosa</alternateName>
+<alternateName lang="nl">Ginosa</alternateName>
+<alternateName lang="pl">Ginosa</alternateName>
+<alternateName lang="pt">Ginosa</alternateName>
+<alternateName lang="unlc">GIN</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Rome</timezone>
+<bbox>
+<west>16.73096</west>
+<north>40.5992</north>
+<east>16.78122</east>
+<south>40.56104</south>
+</bbox>
+<score>29.107402801513672</score>
+</geoname>
+<geoname>
+<toponymName>Gallin</toponymName>
+<name>Gallin</name>
+<lat>53.5099</lat>
+<lng>12.1241</lng>
+<geonameId>2922815</geonameId>
+<countryCode>DE</countryCode>
+<countryName>Germany</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>573</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="MV">12</adminCode1>
+<adminName1>Mecklenburg-Vorpommern</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="unlc">GIN</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Berlin</timezone>
+<bbox>
+<west>12.12259</west>
+<north>53.5108</north>
+<east>12.12561</east>
+<south>53.509</south>
+</bbox>
+<score>21.830551147460938</score>
+</geoname>
+<geoname>
+<toponymName>Gilman</toponymName>
+<name>Gilman</name>
+<lat>41.57704</lat>
+<lng>-72.19925</lng>
+<geonameId>4834984</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>85</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CT">CT</adminCode1>
+<adminName1>Connecticut</adminName1>
+<adminCode2>011</adminCode2>
+<adminName2>New London County</adminName2>
+<alternateName lang="post">06336</alternateName>
+<alternateName lang="unlc">GIN</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-72.21127</west>
+<north>41.58604</north>
+<east>-72.18722</east>
+<south>41.56805</south>
+</bbox>
+<score>21.830551147460938</score>
+</geoname>
+<geoname>
+<toponymName>Giens</toponymName>
+<name>Giens</name>
+<lat>43.0382</lat>
+<lng>6.1318</lng>
+<geonameId>3016096</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Vieux Chateau Giens,Vieux Château Giens</alternateNames>
+<elevation>31</elevation>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="U">B8</adminCode1>
+<adminName1>Provence-Alpes-Côte d'Azur</adminName1>
+<adminCode2>83</adminCode2>
+<adminName2>Var</adminName2>
+<adminCode3>832</adminCode3>
+<adminName3>Arrondissement de Toulon</adminName3>
+<adminCode4>83069</adminCode4>
+<adminName4>Hyères</adminName4>
+<alternateName lang="unlc">GIN</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>6.11949</west>
+<north>43.04719</north>
+<east>6.14411</east>
+<south>43.02921</south>
+</bbox>
+<score>18.192127227783203</score>
+</geoname>
+</geonames>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Western Bank</toponymName>
+<name>Western Bank</name>
+<lat>52.2001</lat>
+<lng>-55.59798</lng>
+<geonameId>6178614</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>U</fcl>
+<fcode>SHSU</fcode>
+<fclName>undersea</fclName>
+<fcodeName>shoals</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NL">05</adminCode1>
+<adminName1>Newfoundland and Labrador</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-2.5" gmtOffset="-3.5">America/St_Johns</timezone>
+<score>21.24225425720215</score>
+</geoname>
+<geoname>
+<toponymName>Western Bank</toponymName>
+<name>Western Bank</name>
+<lat>47.41665</lat>
+<lng>-55.83163</lng>
+<geonameId>6178615</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>U</fcl>
+<fcode>SHSU</fcode>
+<fclName>undersea</fclName>
+<fcodeName>shoals</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NL">05</adminCode1>
+<adminName1>Newfoundland and Labrador</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-2.5" gmtOffset="-3.5">America/St_Johns</timezone>
+<score>21.24225425720215</score>
+</geoname>
+<geoname>
+<toponymName>Western Bank</toponymName>
+<name>Western Bank</name>
+<lat>49.54993</lat>
+<lng>-55.26486</lng>
+<geonameId>6178616</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>U</fcl>
+<fcode>SHSU</fcode>
+<fclName>undersea</fclName>
+<fcodeName>shoals</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NL">05</adminCode1>
+<adminName1>Newfoundland and Labrador</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-2.5" gmtOffset="-3.5">America/St_Johns</timezone>
+<score>21.24225425720215</score>
+</geoname>
+<geoname>
+<toponymName>Western Banks</toponymName>
+<name>Western Banks</name>
+<lat>-27.1</lat>
+<lng>153.28333</lng>
+<geonameId>2144027</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>H</fcl>
+<fcode>BNK</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>bank(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="QLD">04</adminCode1>
+<adminName1>Queensland</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="10.0" gmtOffset="10.0">Australia/Brisbane</timezone>
+<score>12.415862083435059</score>
+</geoname>
+<geoname>
+<toponymName>Western Tank</toponymName>
+<name>Western Tank</name>
+<lat>34.36059</lat>
+<lng>-110.72573</lng>
+<geonameId>5320431</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>RSVT</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>water tank</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>2219</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AZ">AZ</adminCode1>
+<adminName1>Arizona</adminName1>
+<adminCode2>017</adminCode2>
+<adminName2>Navajo County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-7.0">America/Phoenix</timezone>
+<score>2.0693085193634033</score>
+</geoname>
+</geonames>

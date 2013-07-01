@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>280</totalResultsCount>
+<geoname>
+<toponymName>San Fernando</toponymName>
+<name>San Fernando</name>
+<lat>10.28333</lat>
+<lng>-61.46667</lng>
+<geonameId>3573738</geonameId>
+<countryCode>TT</countryCode>
+<countryName>Trinidad and Tobago</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population>55419</population>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SFO">10</adminCode1>
+<adminName1>City of San Fernando</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/San_Fernando,_Trinidad_and_Tobago</alternateName>
+<alternateName lang="unlc">SFE</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Port_of_Spain</timezone>
+<bbox>
+<west>-61.49767</west>
+<north>10.31383</north>
+<east>-61.43567</east>
+<south>10.25283</south>
+</bbox>
+<score>109.991943359375</score>
+</geoname>
+<geoname>
+<toponymName>San Fernando</toponymName>
+<name>San Fernando</name>
+<lat>36.4759</lat>
+<lng>-6.19817</lng>
+<geonameId>2511388</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>96366</population>
+<alternateNames>San Fernanando,San Fernando,San Fernando i Spania,San-Fernando,san frnandw, qads,sheng fei er nan duo,Сан Фернандо,Сан-Фернандо,سان فرناندو، قادس,サン・フェルナンド,圣费尔南多</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="AN">51</adminCode1>
+<adminName1>Andalusia</adminName1>
+<adminCode2>CA</adminCode2>
+<adminName2>Cadiz</adminName2>
+<adminCode3>11031</adminCode3>
+<adminName3>San Fernando</adminName3>
+<alternateName lang="ar">سان فرناندو، قادس</alternateName>
+<alternateName lang="ca">San Fernando</alternateName>
+<alternateName lang="de">San Fernando</alternateName>
+<alternateName lang="en">San Fernando</alternateName>
+<alternateName lang="eo">San-Fernando</alternateName>
+<alternateName lang="es">San Fernando</alternateName>
+<alternateName lang="fr">San Fernando</alternateName>
+<alternateName lang="it">San Fernando</alternateName>
+<alternateName lang="ja">サン・フェルナンド</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/San_Fernando%2C_C%C3%A1diz</alternateName>
+<alternateName lang="nl">San Fernando</alternateName>
+<alternateName lang="nn">San Fernando i Spania</alternateName>
+<alternateName lang="pl">San Fernando</alternateName>
+<alternateName lang="post">11100</alternateName>
+<alternateName lang="pt">San Fernando</alternateName>
+<alternateName lang="ru">Сан-Фернандо</alternateName>
+<alternateName lang="sr">Сан Фернандо</alternateName>
+<alternateName lang="tr">San Fernando</alternateName>
+<alternateName lang="uk">Сан-Фернандо</alternateName>
+<alternateName lang="unlc">SFO</alternateName>
+<alternateName lang="zh">圣费尔南多</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Madrid</timezone>
+<bbox>
+<west>-6.24821</west>
+<north>36.51612</north>
+<east>-6.14812</east>
+<south>36.43568</south>
+</bbox>
+<score>67.8035888671875</score>
+</geoname>
+<geoname>
+<toponymName>San Fernando</toponymName>
+<name>San Fernando</name>
+<lat>16.61591</lat>
+<lng>120.31663</lng>
+<geonameId>1690033</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population>83003</population>
+<alternateNames>SFE,San Fernando</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="01">01</adminCode1>
+<adminName1>Ilocos Region</adminName1>
+<adminCode2>36</adminCode2>
+<adminName2>La Union</adminName2>
+<alternateName lang="iata">SFE</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/San_Fernando%2C_La_Union</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<bbox>
+<west>120.27764</west>
+<north>16.65326</north>
+<east>120.35562</east>
+<south>16.57856</south>
+</bbox>
+<score>67.35602569580078</score>
+</geoname>
+<geoname>
+<toponymName>San Fernando</toponymName>
+<name>San Fernando</name>
+<lat>9.08333</lat>
+<lng>-74.33333</lng>
+<geonameId>3669903</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="BOL">35</adminCode1>
+<adminName1>Bolívar</adminName1>
+<adminCode2>3669903</adminCode2>
+<adminName2>San Fernando</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<score>54.9959716796875</score>
+</geoname>
+<geoname>
+<toponymName>San Fernando</toponymName>
+<name>San Fernando</name>
+<lat>15.0286</lat>
+<lng>120.6898</lng>
+<geonameId>1690039</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>251248</population>
+<alternateNames>San Fernando,Santo Rosario</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="AGS">03</adminCode1>
+<adminName1>Central Luzon</adminName1>
+<adminCode2>50</adminCode2>
+<adminName2>Pampanga</adminName2>
+<adminCode3>1690065</adminCode3>
+<adminName3>City of San Fernando</adminName3>
+<alternateName lang="fil">San Fernando</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/San_Fernando%2C_Pampanga</alternateName>
+<alternateName lang="unlc">RSO</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<bbox>
+<west>120.62247</west>
+<north>15.09361</north>
+<east>120.75713</east>
+<south>14.96359</south>
+</bbox>
+<score>53.884822845458984</score>
+</geoname>
+<geoname>
+<toponymName>San Fernando</toponymName>
+<name>City of San Fernando</name>
+<lat>10.28333</lat>
+<lng>-61.45</lng>
+<geonameId>3573739</geonameId>
+<countryCode>TT</countryCode>
+<countryName>Trinidad and Tobago</countryName>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>first-order administrative division</fcodeName>
+<population>56380</population>
+<alternateNames>City of San Fernando,San Fernando</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SFO">10</adminCode1>
+<adminName1>City of San Fernando</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">City of San Fernando</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/San_Fernando%2C_Trinidad_and_Tobago</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Port_of_Spain</timezone>
+<score>53.884822845458984</score>
+</geoname>
+<geoname>
+<toponymName>San Fernando</toponymName>
+<name>San Fernando</name>
+<lat>14.68333</lat>
+<lng>-89.1</lng>
+<geonameId>3602340</geonameId>
+<countryCode>HN</countryCode>
+<countryName>Honduras</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>4988</population>
+<alternateNames>San Fernando</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OC">14</adminCode1>
+<adminName1>Ocotepeque</adminName1>
+<adminCode2>1410</adminCode2>
+<adminName2>San Fernando</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Tegucigalpa</timezone>
+<score>53.884822845458984</score>
+</geoname>
+<geoname>
+<toponymName>San Fernando</toponymName>
+<name>San Fernando</name>
+<lat>10.1624</lat>
+<lng>123.7076</lng>
+<geonameId>1690060</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>23706</population>
+<alternateNames>San Fernando</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="07">07</adminCode1>
+<adminName1>Central Visayas</adminName1>
+<adminCode2>21</adminCode2>
+<adminName2>Cebu</adminName2>
+<adminCode3>1690069</adminCode3>
+<adminName3>San Fernando</adminName3>
+<alternateName lang="en">San Fernando</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/San_Fernando%2C_Cebu</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<bbox>
+<west>123.68769</west>
+<north>10.182</north>
+<east>123.72751</east>
+<south>10.1428</south>
+</bbox>
+<score>47.14921951293945</score>
+</geoname>
+<geoname>
+<toponymName>San Fernando</toponymName>
+<name>San Fernando</name>
+<lat>14.68333</lat>
+<lng>-89.11667</lng>
+<geonameId>3602337</geonameId>
+<countryCode>HN</countryCode>
+<countryName>Honduras</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1026</population>
+<alternateNames>San Fernando</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OC">14</adminCode1>
+<adminName1>Ocotepeque</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/San_Fernando%2C_Ocotepeque</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Tegucigalpa</timezone>
+<bbox>
+<west>-89.1176</west>
+<north>14.68423</north>
+<east>-89.11574</east>
+<south>14.68243</south>
+</bbox>
+<score>47.14921951293945</score>
+</geoname>
+<geoname>
+<toponymName>San Fernando</toponymName>
+<name>San Fernando</name>
+<lat>13.6772</lat>
+<lng>-86.3153</lng>
+<geonameId>3616871</geonameId>
+<countryCode>NI</countryCode>
+<countryName>Nicaragua</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3899</population>
+<alternateNames>San Fernando</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NS">13</adminCode1>
+<adminName1>Nueva Segovia</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/San_Fernando%2C_Nueva_Segovia</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Managua</timezone>
+<bbox>
+<west>-86.32332</west>
+<north>13.68499</north>
+<east>-86.30729</east>
+<south>13.66942</south>
+</bbox>
+<score>47.14921951293945</score>
+</geoname>
+</geonames>

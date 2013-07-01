@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>52</totalResultsCount>
+<geoname>
+<toponymName>Red Banks</toponymName>
+<name>Red Banks</name>
+<lat>41.40071</lat>
+<lng>-122.19862</lng>
+<geonameId>5570064</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>RDGE</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>ridge(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>3994</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>093</adminCode2>
+<adminName2>Siskiyou County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>58.57065200805664</score>
+</geoname>
+<geoname>
+<toponymName>Red Banks</toponymName>
+<name>Red Banks</name>
+<lat>34.82815</lat>
+<lng>-89.56453</lng>
+<geonameId>4442946</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>137</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MS">MS</adminCode1>
+<adminName1>Mississippi</adminName1>
+<adminCode2>093</adminCode2>
+<adminName2>Marshall County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Red_Banks%2C_Mississippi</alternateName>
+<alternateName lang="post">38661</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-89.57548</west>
+<north>34.83715</north>
+<east>-89.55357</east>
+<south>34.81916</south>
+</bbox>
+<score>50.20341491699219</score>
+</geoname>
+<geoname>
+<toponymName>Red Banks</toponymName>
+<name>Red Banks</name>
+<lat>34.70294</lat>
+<lng>-79.25087</lng>
+<geonameId>4487349</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>54</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NC">NC</adminCode1>
+<adminName1>North Carolina</adminName1>
+<adminCode2>155</adminCode2>
+<adminName2>Robeson County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Red_Banks%2C_North_Carolina</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-79.26181</west>
+<north>34.71193</north>
+<east>-79.23993</east>
+<south>34.69395</south>
+</bbox>
+<score>50.20341491699219</score>
+</geoname>
+<geoname>
+<toponymName>Red Banks</toponymName>
+<name>Red Banks</name>
+<lat>-34.48333</lat>
+<lng>138.56667</lng>
+<geonameId>2062623</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="SA">05</adminCode1>
+<adminName1>South Australia</adminName1>
+<adminCode2>43920</adminCode2>
+<adminName2>Mallala</adminName2>
+<timezone dstOffset="9.5" gmtOffset="10.5">Australia/Adelaide</timezone>
+<bbox>
+<west>138.55576</west>
+<north>-34.47434</north>
+<east>138.57758</east>
+<south>-34.49233</south>
+</bbox>
+<score>33.46894454956055</score>
+</geoname>
+<geoname>
+<toponymName>Red Banks</toponymName>
+<name>Red Banks</name>
+<lat>34.98176</lat>
+<lng>-83.81295</lng>
+<geonameId>4218056</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>RDGE</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>ridge(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>607</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">GA</adminCode1>
+<adminName1>Georgia</adminName1>
+<adminCode2>281</adminCode2>
+<adminName2>Towns County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>33.46894454956055</score>
+</geoname>
+<geoname>
+<toponymName>Red Banks</toponymName>
+<name>Red Banks</name>
+<lat>38.53623</lat>
+<lng>-75.7566</lng>
+<geonameId>4366544</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>BAR</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>bar</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MD">MD</adminCode1>
+<adminName1>Maryland</adminName1>
+<adminCode2>019</adminCode2>
+<adminName2>Dorchester County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>33.46894454956055</score>
+</geoname>
+<geoname>
+<toponymName>Red Banks</toponymName>
+<name>Red Banks</name>
+<lat>44.6111</lat>
+<lng>-87.86316</lng>
+<geonameId>5268468</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>192</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WI">WI</adminCode1>
+<adminName1>Wisconsin</adminName1>
+<adminCode2>009</adminCode2>
+<adminName2>Brown County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-87.87579</west>
+<north>44.6201</north>
+<east>-87.85052</east>
+<south>44.60211</south>
+</bbox>
+<score>33.46894454956055</score>
+</geoname>
+<geoname>
+<toponymName>Red Banks</toponymName>
+<name>Red Banks</name>
+<lat>44.27692</lat>
+<lng>-88.85872</lng>
+<geonameId>5268469</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>234</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WI">WI</adminCode1>
+<adminName1>Wisconsin</adminName1>
+<adminCode2>135</adminCode2>
+<adminName2>Waupaca County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-88.87129</west>
+<north>44.28592</north>
+<east>-88.84616</east>
+<south>44.26793</south>
+</bbox>
+<score>33.46894454956055</score>
+</geoname>
+<geoname>
+<toponymName>Red Banks</toponymName>
+<name>Red Banks</name>
+<lat>41.90076</lat>
+<lng>-111.56271</lng>
+<geonameId>5780204</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>CLF</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>cliff(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1954</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="UT">UT</adminCode1>
+<adminName1>Utah</adminName1>
+<adminCode2>005</adminCode2>
+<adminName2>Cache County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<score>33.46894454956055</score>
+</geoname>
+<geoname>
+<toponymName>Red Bank</toponymName>
+<name>Red Bank</name>
+<lat>33.93209</lat>
+<lng>-81.23843</lng>
+<geonameId>4592453</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>9617</population>
+<alternateNames/>
+<elevation>104</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SC">SC</adminCode1>
+<adminName1>South Carolina</adminName1>
+<adminCode2>063</adminCode2>
+<adminName2>Lexington County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Red_Bank%2C_South_Carolina</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-81.25376</west>
+<north>33.94481</north>
+<east>-81.2231</east>
+<south>33.91937</south>
+</bbox>
+<score>21.007488250732422</score>
+</geoname>
+</geonames>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Province of the Western Cape</toponymName>
+<name>Province of the Western Cape</name>
+<lat>-34</lat>
+<lng>20</lng>
+<geonameId>1085599</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>first-order administrative division</fcodeName>
+<population>4988154</population>
+<alternateNames>Province of the Western Cape,Vaestra Kapprovinsen,Västra Kapprovinsen,Western Cape</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="WC">11</adminCode1>
+<adminName1>Western Cape</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Western_Cape</alternateName>
+<alternateName lang="sv">Västra Kapprovinsen</alternateName>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<bbox>
+<west>17.76671</west>
+<north>-30.42889</north>
+<east>37.98167</east>
+<south>-46.96973</south>
+</bbox>
+<score>33.31709289550781</score>
+</geoname>
+<geoname>
+<toponymName>Western Water</toponymName>
+<name>Western Water</name>
+<lat>44.53342</lat>
+<lng>-76.04936</lng>
+<geonameId>6178880</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>H</fcl>
+<fcode>BAY</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>bay</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ON">08</adminCode1>
+<adminName1>Ontario</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Toronto</timezone>
+<score>11.64993667602539</score>
+</geoname>
+</geonames>

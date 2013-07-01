@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>11</totalResultsCount>
+<geoname>
+<toponymName>Tacubaya</toponymName>
+<name>Tacubaya</name>
+<lat>19.4</lat>
+<lng>-99.2</lng>
+<geonameId>3516435</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Tacubaya</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="DIF">09</adminCode1>
+<adminName1>The Federal District</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Tacubaya</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-99.20954</west>
+<north>19.40899</north>
+<east>-99.19046</east>
+<south>19.39101</south>
+</bbox>
+<score>63.874176025390625</score>
+</geoname>
+<geoname>
+<toponymName>Tacubaya</toponymName>
+<name>Tacubaya</name>
+<lat>28.32386</lat>
+<lng>-104.55818</lng>
+<geonameId>3982661</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Rancho Tacubaya,Tacayuba,Tacubaya</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CHH">06</adminCode1>
+<adminName1>Chihuahua</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Chihuahua</timezone>
+<bbox>
+<west>-104.56839</west>
+<north>28.33286</north>
+<east>-104.54796</east>
+<south>28.31487</south>
+</bbox>
+<score>42.58278274536133</score>
+</geoname>
+<geoname>
+<toponymName>Tacubaya</toponymName>
+<name>Tacubaya</name>
+<lat>21.08333</lat>
+<lng>-89.88333</lng>
+<geonameId>3516434</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="YUC">31</adminCode1>
+<adminName1>Yucatán</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Merida</timezone>
+<bbox>
+<west>-89.89297</west>
+<north>21.09233</north>
+<east>-89.87369</east>
+<south>21.07434</south>
+</bbox>
+<score>34.76869583129883</score>
+</geoname>
+<geoname>
+<toponymName>Tacubaya</toponymName>
+<name>Tacubaya</name>
+<lat>16.02754</lat>
+<lng>-95.95926</lng>
+<geonameId>3516436</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OAX">20</adminCode1>
+<adminName1>Oaxaca</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-95.96862</west>
+<north>16.03653</north>
+<east>-95.9499</east>
+<south>16.01854</south>
+</bbox>
+<score>34.76869583129883</score>
+</geoname>
+<geoname>
+<toponymName>Tacubaya</toponymName>
+<name>Tacubaya</name>
+<lat>21.77794</lat>
+<lng>-101.9611</lng>
+<geonameId>3977176</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="JAL">14</adminCode1>
+<adminName1>Jalisco</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-101.97078</west>
+<north>21.78694</north>
+<east>-101.95141</east>
+<south>21.76895</south>
+</bbox>
+<score>34.76869583129883</score>
+</geoname>
+<geoname>
+<toponymName>Tacubaya</toponymName>
+<name>Tacubaya</name>
+<lat>20.30322</lat>
+<lng>-101.79298</lng>
+<geonameId>3982662</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GUA">11</adminCode1>
+<adminName1>Guanajuato</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-101.80257</west>
+<north>20.31221</north>
+<east>-101.78339</east>
+<south>20.29423</south>
+</bbox>
+<score>34.76869583129883</score>
+</geoname>
+<geoname>
+<toponymName>Tacubaya</toponymName>
+<name>Tacubaya</name>
+<lat>26.92005</lat>
+<lng>-98.27445</lng>
+<geonameId>4735449</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>82</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>047</adminCode2>
+<adminName2>Brooks County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-98.28454</west>
+<north>26.92904</north>
+<east>-98.26437</east>
+<south>26.91106</south>
+</bbox>
+<score>34.76869583129883</score>
+</geoname>
+<geoname>
+<toponymName>Tacuaya</toponymName>
+<name>Tacuaya</name>
+<lat>1.1</lat>
+<lng>-77.48333</lng>
+<geonameId>3667587</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Tacualla,Tacuaya</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="NAR">20</adminCode1>
+<adminName1>Nariño</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<bbox>
+<west>-77.49233</west>
+<north>1.10899</north>
+<east>-77.47434</east>
+<south>1.09101</south>
+</bbox>
+<score>14.773477554321289</score>
+</geoname>
+<geoname>
+<toponymName>Tanubaya</toponymName>
+<name>Tanubaya</name>
+<lat>-7.52722</lat>
+<lng>109.33444</lng>
+<geonameId>6375252</geonameId>
+<countryCode>ID</countryCode>
+<countryName>Indonesia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Tanubaya</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="JT">07</adminCode1>
+<adminName1>Central Java</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="id">Tanubaya</alternateName>
+<timezone dstOffset="7.0" gmtOffset="7.0">Asia/Jakarta</timezone>
+<bbox>
+<west>109.32537</west>
+<north>-7.51823</north>
+<east>109.34352</east>
+<south>-7.53622</south>
+</bbox>
+<score>14.54263973236084</score>
+</geoname>
+<geoname>
+<toponymName>Tacubaya</toponymName>
+<name>Tacubaya</name>
+<lat>25.68333</lat>
+<lng>-103.06667</lng>
+<geonameId>3982663</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>S</fcl>
+<fcode>AIRF</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>airfield</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="COA">07</adminCode1>
+<adminName1>Coahuila</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<score>10.865217208862305</score>
+</geoname>
+</geonames>

@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>77</totalResultsCount>
+<geoname>
+<toponymName>Albany</toponymName>
+<name>Albany</name>
+<lat>42.65258</lat>
+<lng>-73.75623</lng>
+<geonameId>5106834</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population>97856</population>
+<alternateNames>ALB,Albania,Albany,Albany i New York,Gorad Olbani,Olbani,Olbanis,Olmpani,albani,albany, nywywrk,albny,alpeni,ao er ba ni,olbeoni,orubani,xxlbani,Όλμπανι,Горад Олбані,Олбани,Олбані,Օլբանի,אולבני,אלבאני,آلبانی، نیویورک,ألباني، نيويورك,ئالبانی، نیویۆرک,البنی,अल्बानी,आल्बनी,ஆல்பெனி,ออลบานี,ალბანი,オールバニ,奥尔巴尼,올버니</alternateNames>
+<elevation>45</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>001</adminCode2>
+<adminName2>Albany County</adminName2>
+<alternateName lang="ar">ألباني، نيويورك</alternateName>
+<alternateName lang="be">Горад Олбані</alternateName>
+<alternateName lang="bg">Олбани</alternateName>
+<alternateName lang="ca">Albany</alternateName>
+<alternateName lang="ckb">ئالبانی، نیویۆرک</alternateName>
+<alternateName lang="cs">Albany</alternateName>
+<alternateName lang="da">Albany</alternateName>
+<alternateName lang="de">Albany</alternateName>
+<alternateName lang="el">Όλμπανι</alternateName>
+<alternateName lang="en">Albany</alternateName>
+<alternateName lang="eo">Albany</alternateName>
+<alternateName lang="es">Albany</alternateName>
+<alternateName lang="eu">Albany</alternateName>
+<alternateName lang="fa">آلبانی، نیویورک</alternateName>
+<alternateName lang="fi">Albany</alternateName>
+<alternateName lang="fr">Albany</alternateName>
+<alternateName lang="gl">Albany</alternateName>
+<alternateName lang="he">אולבני</alternateName>
+<alternateName lang="hy">Օլբանի</alternateName>
+<alternateName lang="iata">ALB</alternateName>
+<alternateName lang="id">Albany</alternateName>
+<alternateName lang="io">Albany</alternateName>
+<alternateName lang="it">Albany</alternateName>
+<alternateName lang="ja">オールバニ</alternateName>
+<alternateName lang="ka">ალბანი</alternateName>
+<alternateName lang="ko">올버니</alternateName>
+<alternateName lang="la">Albania</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Albany%2C_New_York</alternateName>
+<alternateName lang="lt">Olbanis</alternateName>
+<alternateName lang="lv">Olbani</alternateName>
+<alternateName lang="mk">Олбани</alternateName>
+<alternateName lang="mr">आल्बनी</alternateName>
+<alternateName lang="mrj">Олбани</alternateName>
+<alternateName lang="nl">Albany</alternateName>
+<alternateName lang="nn">Albany i New York</alternateName>
+<alternateName lang="no">Albany</alternateName>
+<alternateName lang="oc">Albany</alternateName>
+<alternateName lang="pl">Albany</alternateName>
+<alternateName lang="pnb">البنی</alternateName>
+<alternateName lang="post">12262</alternateName>
+<alternateName lang="pt">Albany</alternateName>
+<alternateName lang="ro">Albany</alternateName>
+<alternateName lang="ru">Олбани</alternateName>
+<alternateName lang="sa">अल्बानी</alternateName>
+<alternateName lang="sk">Albany</alternateName>
+<alternateName lang="sq">Albany</alternateName>
+<alternateName lang="sr">Олбани</alternateName>
+<alternateName lang="sv">Albany</alternateName>
+<alternateName lang="ta">ஆல்பெனி</alternateName>
+<alternateName lang="th">ออลบานี</alternateName>
+<alternateName lang="uk">Олбані</alternateName>
+<alternateName lang="unlc">ALB</alternateName>
+<alternateName lang="yi">אלבאני</alternateName>
+<alternateName lang="zh">奥尔巴尼</alternateName>
+<alternateName lang="zh-CN">奥尔巴尼</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-73.8981</west>
+<north>42.72238</north>
+<east>-73.72326</east>
+<south>42.61379</south>
+</bbox>
+<score>96.18000030517578</score>
+</geoname>
+<geoname>
+<toponymName>Albany</toponymName>
+<name>Albany</name>
+<lat>-34.7099</lat>
+<lng>118.12345</lng>
+<geonameId>7839657</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="WA">08</adminCode1>
+<adminName1>Western Australia</adminName1>
+<adminCode2>50080</adminCode2>
+<adminName2>Albany</adminName2>
+<timezone dstOffset="8.0" gmtOffset="8.0">Australia/Perth</timezone>
+<bbox>
+<west>117.33205</west>
+<north>-34.28494</north>
+<east>118.91486</east>
+<south>-35.13485</south>
+</bbox>
+<score>71.63304138183594</score>
+</geoname>
+<geoname>
+<toponymName>Albany</toponymName>
+<name>Albany</name>
+<lat>-35.0031</lat>
+<lng>117.86595</lng>
+<geonameId>2077963</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>23913</population>
+<alternateNames>ALH,Albani,Albany,Olbani,albany,ao ban ni,arubani,olbani,olbeoni,Албани,Албані,Олбани,ألباني,البانی,ოლბანი,アルバニー,奧班尼,올버니</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="WA">08</adminCode1>
+<adminName1>Western Australia</adminName1>
+<adminCode2>50080</adminCode2>
+<adminName2>Albany</adminName2>
+<alternateName lang="ar">ألباني</alternateName>
+<alternateName lang="iata">ALH</alternateName>
+<alternateName lang="ja">アルバニー</alternateName>
+<alternateName lang="ka">ოლბანი</alternateName>
+<alternateName lang="ko">올버니</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Albany%2C_Western_Australia</alternateName>
+<alternateName lang="pnb">البانی</alternateName>
+<alternateName lang="ru">Албани</alternateName>
+<alternateName lang="sr">Албани</alternateName>
+<alternateName lang="uk">Албані</alternateName>
+<alternateName lang="unlc">ALH</alternateName>
+<alternateName lang="zh">奧班尼</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Australia/Perth</timezone>
+<bbox>
+<west>117.84203</west>
+<north>-34.9835</north>
+<east>117.88988</east>
+<south>-35.0227</south>
+</bbox>
+<score>58.24440383911133</score>
+</geoname>
+<geoname>
+<toponymName>Republic of Albania</toponymName>
+<name>Albania</name>
+<lat>41</lat>
+<lng>20</lng>
+<geonameId>783754</geonameId>
+<countryCode>AL</countryCode>
+<countryName>Albania</countryName>
+<fcl>A</fcl>
+<fcode>PCLI</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>independent political entity</fcodeName>
+<population>2986952</population>
+<alternateNames>'Alipania,Al'banija,Albaani,Albaania,Albaaniya,Albaanje,Albainia,Albani,Albania,Albania - Shqiperia,Albania - Shqipëria,Albania nutome,Albanie,Albanien,Albanii,Albanija,Albanio,Albaniya,Albanië,Albanska,Albansko,Albanujo,Albanya,Albanìa,Albanía,Albanïi,Albenia,Albàinia,Albània,Albánia,Albánie,Albánsko,Albânia,Albānija,Alibani,Alibaniya,Alubani,Alubaniya,Alvania,An Albain,An Albáin,An-ba-ni,An-ba-ni (Albania),Arbainiya,Arnautluk,Arnavutluk,Arnavutluk Cumhuriyeti,Lalbanaen,Lalbanän,Orileede Alubaniani,Orílẹ́ède Àlùbàníánì,People's Socialist Republic of Albania,Peoples Republic of Albania,People’s Socialist Republic of Albania,Republic of Albania,Republika Popullore Socialiste e Shqiperise,Republika Popullore Socialiste e Shqipërisë,Republika Popullore e Shqiperise,Republika Popullore e Shqipërisë,Republika e Shqiperise,Republika e Shqipërisë,Sheypeni,Shkipeni,Shkiperiya,Shqipenia,Shqiperi,Shqiperia,Shqipni,Shqipnia,Shqipnie,Shqipnija,Shqipnië,Shqipri,Shqipria,Shqiprija,Shqipëri,Shqipëria,Shqypeni,Shqypni,Shqypëni,a er ba ni ya,alabani'a,alabeniya,alabyaniya,albaneti,albania,albaniya,albany,albanya,albanyh,albeniya,alpeniya,arubania,arubania gong he guo,aൽbeniya,i-Albania,ʻAlipania,Αλβανία,Албания,Албанија,Албанія,Альбанія,Ալբանիա,אלבניה,آلبانی,آلبانیا,ألبانيا,ئالبانىيە,ئەڵبانیا,البانیا,البانیه,البانیہ,ܐܠܒܢܝܐ,अल्बानिया,अल्बेनिया,আলবেনিয়া,আলব্যানিয়া,আলব্যানিয়া,અલ્બેનિયા,ଆଲବାନିଆ,அல்பேனியா,అల్బేనియా,ಅಲ್ಬೇನಿಯಾ,അൽബേനിയ,ඇල්බේනියාව,ประเทศแอลเบเนีย,แอลเบเนีย,ແອລເບເນຍ,ཨལ་བཱ་ནི་ཡ།,ალბანეთი,አልባኒያ,ᎠᎵᏇᏂᏯ,អាល់បានី,アルバニア,アルバニア共和国,阿尔巴尼亚,알바니아</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="af">Albanië</alternateName>
+<alternateName lang="ak">Albenia</alternateName>
+<alternateName lang="am">አልባኒያ</alternateName>
+<alternateName lang="an">Albania</alternateName>
+<alternateName lang="ang">Albania</alternateName>
+<alternateName lang="ar">ألبانيا</alternateName>
+<alternateName lang="arc">ܐܠܒܢܝܐ</alternateName>
+<alternateName lang="ast">Albania</alternateName>
+<alternateName lang="az">Albaniya</alternateName>
+<alternateName lang="be">Албанія</alternateName>
+<alternateName lang="bg">Албания</alternateName>
+<alternateName lang="bm">Alibani</alternateName>
+<alternateName lang="bn">আলব্যানিয়া</alternateName>
+<alternateName lang="bo">ཨལ་བཱ་ནི་ཡ།</alternateName>
+<alternateName lang="br">Albania</alternateName>
+<alternateName lang="bs">Albanija</alternateName>
+<alternateName lang="ca">Albània</alternateName>
+<alternateName lang="chr">ᎠᎵᏇᏂᏯ</alternateName>
+<alternateName lang="cs">Albánie</alternateName>
+<alternateName lang="cy">Albania</alternateName>
+<alternateName lang="da">Albanien</alternateName>
+<alternateName lang="de">Albanien</alternateName>
+<alternateName lang="ee">Albania nutome</alternateName>
+<alternateName lang="el">Αλβανία</alternateName>
+<alternateName lang="en">Albania</alternateName>
+<alternateName lang="eo">Albanio</alternateName>
+<alternateName lang="es">Albania</alternateName>
+<alternateName lang="et">Albaania</alternateName>
+<alternateName lang="eu">Albania</alternateName>
+<alternateName lang="fa">آلبانیا</alternateName>
+<alternateName lang="ff">Albanii</alternateName>
+<alternateName lang="fi">Albania</alternateName>
+<alternateName lang="fo">Albania</alternateName>
+<alternateName lang="fr">Albanie</alternateName>
+<alternateName lang="fur">Albanie</alternateName>
+<alternateName lang="fy">Albaanje</alternateName>
+<alternateName lang="ga">An Albáin</alternateName>
+<alternateName lang="gd">Albàinia</alternateName>
+<alternateName lang="gl">Albania</alternateName>
+<alternateName lang="gu">અલ્બેનિયા</alternateName>
+<alternateName lang="ha">Albaniya</alternateName>
+<alternateName lang="he">אלבניה</alternateName>
+<alternateName lang="hi">अल्बेनिया</alternateName>
+<alternateName lang="hr">Albanija</alternateName>
+<alternateName lang="hsb">Albanska</alternateName>
+<alternateName lang="ht">Albani</alternateName>
+<alternateName lang="hu">Albánia</alternateName>
+<alternateName lang="hy">Ալբանիա</alternateName>
+<alternateName lang="ia">Albania</alternateName>
+<alternateName lang="id">Albania</alternateName>
+<alternateName lang="ilo">Albania</alternateName>
+<alternateName lang="io">Albania</alternateName>
+<alternateName lang="is">Albanía</alternateName>
+<alternateName lang="it">Albania</alternateName>
+<alternateName lang="ja">アルバニア共和国</alternateName>
+<alternateName lang="ka">ალბანეთი</alternateName>
+<alternateName lang="ki">Albania</alternateName>
+<alternateName lang="kk">Албания</alternateName>
+<alternateName lang="kl">Albania</alternateName>
+<alternateName lang="km">អាល់បានី</alternateName>
+<alternateName lang="kn">ಅಲ್ಬೇನಿಯಾ</alternateName>
+<alternateName lang="ko">알바니아</alternateName>
+<alternateName lang="ku">ئەڵبانیا</alternateName>
+<alternateName lang="kw">Albani</alternateName>
+<alternateName lang="la">Albania</alternateName>
+<alternateName lang="lb">Albanien</alternateName>
+<alternateName lang="lg">Alibaniya</alternateName>
+<alternateName lang="li">Albanië</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Albania</alternateName>
+<alternateName lang="ln">Alibani</alternateName>
+<alternateName lang="lo">ແອລເບເນຍ</alternateName>
+<alternateName lang="lt">Albanija</alternateName>
+<alternateName lang="lu">Alubani</alternateName>
+<alternateName lang="lv">Albānija</alternateName>
+<alternateName lang="mg">Albania</alternateName>
+<alternateName lang="mk">Албанија</alternateName>
+<alternateName lang="ml">അൽബേനിയ</alternateName>
+<alternateName lang="mr">अल्बानिया</alternateName>
+<alternateName lang="ms">Albania</alternateName>
+<alternateName lang="mt">Albanija</alternateName>
+<alternateName lang="na">Arbainiya</alternateName>
+<alternateName lang="nb">Albania</alternateName>
+<alternateName lang="nd">Albania</alternateName>
+<alternateName lang="nds">Albanien</alternateName>
+<alternateName lang="ne">अल्बानिया</alternateName>
+<alternateName lang="nl">Albanië</alternateName>
+<alternateName lang="nn">Albania</alternateName>
+<alternateName lang="no">Albania</alternateName>
+<alternateName lang="nov">Albania</alternateName>
+<alternateName lang="oc">Albania</alternateName>
+<alternateName lang="or">ଆଲବାନିଆ</alternateName>
+<alternateName lang="pam">Albania</alternateName>
+<alternateName lang="pdc">Albaani</alternateName>
+<alternateName lang="pl">Albania</alternateName>
+<alternateName lang="pms">Albanìa</alternateName>
+<alternateName lang="ps">البانیه</alternateName>
+<alternateName lang="pt">Albânia</alternateName>
+<alternateName lang="qu">Albanya</alternateName>
+<alternateName lang="rm">Albania</alternateName>
+<alternateName lang="rmy">Shkiperiya</alternateName>
+<alternateName lang="rn">Alubaniya</alternateName>
+<alternateName lang="ro">Albania</alternateName>
+<alternateName lang="ru">Албания</alternateName>
+<alternateName lang="sa">अल्बेनिया</alternateName>
+<alternateName lang="scn">Albanìa</alternateName>
+<alternateName lang="se">Albánia</alternateName>
+<alternateName lang="sg">Albanïi</alternateName>
+<alternateName lang="si">ඇල්බේනියාව</alternateName>
+<alternateName lang="sk">Albánsko</alternateName>
+<alternateName lang="sl">Albanija</alternateName>
+<alternateName lang="sn">Albania</alternateName>
+<alternateName lang="so">Albaaniya</alternateName>
+<alternateName lang="sq">Shqipëria</alternateName>
+<alternateName lang="sr">Албанија</alternateName>
+<alternateName lang="sv">Albanien</alternateName>
+<alternateName lang="sw">Albania</alternateName>
+<alternateName lang="ta">அல்பேனியா</alternateName>
+<alternateName lang="te">అల్బేనియా</alternateName>
+<alternateName lang="th">ประเทศแอลเบเนีย</alternateName>
+<alternateName lang="ti">አልባኒያ</alternateName>
+<alternateName lang="tl">Albanya</alternateName>
+<alternateName lang="to">ʻAlipania</alternateName>
+<alternateName lang="tr">Arnavutluk</alternateName>
+<alternateName lang="udm">Албания</alternateName>
+<alternateName lang="ug">ئالبانىيە</alternateName>
+<alternateName lang="uk">Албанія</alternateName>
+<alternateName lang="ur">البانیہ</alternateName>
+<alternateName lang="vi">An-ba-ni (Albania)</alternateName>
+<alternateName lang="vo">Lalbanän</alternateName>
+<alternateName lang="yo">Orílẹ́ède Àlùbàníánì</alternateName>
+<alternateName lang="zh">阿尔巴尼亚</alternateName>
+<alternateName lang="zu">i-Albania</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Tirane</timezone>
+<bbox>
+<west>19.27561</west>
+<north>42.66561</north>
+<east>21.06847</east>
+<south>39.64836</south>
+</bbox>
+<score>44.744205474853516</score>
+</geoname>
+<geoname>
+<toponymName>Albany</toponymName>
+<name>Albany</name>
+<lat>-36.71667</lat>
+<lng>174.7</lng>
+<geonameId>2194046</geonameId>
+<countryCode>NZ</countryCode>
+<countryName>New Zealand</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="AUK">E7</adminCode1>
+<adminName1>Auckland</adminName1>
+<adminCode2>076</adminCode2>
+<adminName2>Auckland</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Albany%2C_New_Zealand</alternateName>
+<alternateName lang="unlc">ABY</alternateName>
+<timezone dstOffset="12.0" gmtOffset="13.0">Pacific/Auckland</timezone>
+<bbox>
+<west>174.68878</west>
+<north>-36.70767</north>
+<east>174.71122</east>
+<south>-36.72566</south>
+</bbox>
+<score>42.979827880859375</score>
+</geoname>
+<geoname>
+<toponymName>Albany</toponymName>
+<name>Albany</name>
+<lat>43.95785</lat>
+<lng>-71.16757</lng>
+<geonameId>5082554</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>697</population>
+<alternateNames/>
+<elevation>190</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NH">NH</adminCode1>
+<adminName1>New Hampshire</adminName1>
+<adminCode2>003</adminCode2>
+<adminName2>Carroll County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Albany%2C_New_Hampshire</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-71.16882</west>
+<north>43.95875</north>
+<east>-71.16632</east>
+<south>43.95695</south>
+</bbox>
+<score>42.979827880859375</score>
+</geoname>
+<geoname>
+<toponymName>Albany</toponymName>
+<name>Albany</name>
+<lat>37.88687</lat>
+<lng>-122.29775</lng>
+<geonameId>5322850</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>18539</population>
+<alternateNames>Olbani,Олбани</alternateNames>
+<elevation>13</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>001</adminCode2>
+<adminName2>Alameda County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Albany%2C_California</alternateName>
+<alternateName lang="post">94706</alternateName>
+<alternateName lang="ru">Олбани</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-122.31982</west>
+<north>37.90429</north>
+<east>-122.27567</east>
+<south>37.86945</south>
+</bbox>
+<score>42.979827880859375</score>
+</geoname>
+<geoname>
+<toponymName>Albany</toponymName>
+<name>Albany</name>
+<lat>44.80015</lat>
+<lng>-65.0488</lng>
+<geonameId>5883078</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NS">07</adminCode1>
+<adminName1>Nova Scotia</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Albany%2C_Nova_Scotia</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-4.0">America/Halifax</timezone>
+<bbox>
+<west>-65.06148</west>
+<north>44.80915</north>
+<east>-65.03612</east>
+<south>44.79116</south>
+</bbox>
+<score>42.979827880859375</score>
+</geoname>
+<geoname>
+<toponymName>Albany</toponymName>
+<name>Albany</name>
+<lat>31.57851</lat>
+<lng>-84.15574</lng>
+<geonameId>4179320</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>77434</population>
+<alternateNames>ABY,Olbani,ao er ba ni,olbeoni,Олбани,奧爾巴尼,올버니</alternateNames>
+<elevation>62</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">GA</adminCode1>
+<adminName1>Georgia</adminName1>
+<adminCode2>095</adminCode2>
+<adminName2>Dougherty County</adminName2>
+<alternateName lang="bg">Олбани</alternateName>
+<alternateName lang="iata">ABY</alternateName>
+<alternateName lang="ko">올버니</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Albany%2C_Georgia</alternateName>
+<alternateName lang="post">31702</alternateName>
+<alternateName lang="ru">Олбани</alternateName>
+<alternateName lang="sr">Олбани</alternateName>
+<alternateName lang="zh">奧爾巴尼</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-84.19798</west>
+<north>31.61448</north>
+<east>-84.1135</east>
+<south>31.54253</south>
+</bbox>
+<score>35.81652069091797</score>
+</geoname>
+<geoname>
+<toponymName>Albany</toponymName>
+<name>Albany</name>
+<lat>30.50436</lat>
+<lng>-90.58231</lng>
+<geonameId>4314498</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1088</population>
+<alternateNames>Olbani,Олбани</alternateNames>
+<elevation>12</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>063</adminCode2>
+<adminName2>Livingston Parish</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Albany%2C_Louisiana</alternateName>
+<alternateName lang="post">70711</alternateName>
+<alternateName lang="ru">Олбани</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.58336</west>
+<north>30.50526</north>
+<east>-90.58127</east>
+<south>30.50346</south>
+</bbox>
+<score>35.81652069091797</score>
+</geoname>
+</geonames>

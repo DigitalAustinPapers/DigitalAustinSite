@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1022</totalResultsCount>
+<geoname>
+<toponymName>Sandy Creek</toponymName>
+<name>Sandy Creek</name>
+<lat>34.28711</lat>
+<lng>-78.15083</lng>
+<geonameId>4490183</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>260</population>
+<alternateNames/>
+<elevation>11</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NC">NC</adminCode1>
+<adminName1>North Carolina</adminName1>
+<adminCode2>019</adminCode2>
+<adminName2>Brunswick County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Sandy_Creek%2C_North_Carolina</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-78.15192</west>
+<north>34.28801</north>
+<east>-78.14974</east>
+<south>34.28621</south>
+</bbox>
+<score>23.928871154785156</score>
+</geoname>
+<geoname>
+<toponymName>Sandy Creek</toponymName>
+<name>Sandy Creek</name>
+<lat>43.64424</lat>
+<lng>-76.08603</lng>
+<geonameId>5136263</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>771</population>
+<alternateNames/>
+<elevation>152</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>075</adminCode2>
+<adminName2>Oswego County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Sandy_Creek%2C_New_York</alternateName>
+<alternateName lang="post">13145</alternateName>
+<alternateName lang="unlc">SY3</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-76.08728</west>
+<north>43.64513</north>
+<east>-76.08479</east>
+<south>43.64334</south>
+</bbox>
+<score>19.940725326538086</score>
+</geoname>
+<geoname>
+<toponymName>Sandy Creek</toponymName>
+<name>Sandy Creek</name>
+<lat>-34.56667</lat>
+<lng>138.83333</lng>
+<geonameId>2061900</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>Sandy Creek</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="SA">05</adminCode1>
+<adminName1>South Australia</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Sandy_Creek%2C_South_Australia</alternateName>
+<timezone dstOffset="9.5" gmtOffset="10.5">Australia/Adelaide</timezone>
+<score>19.537841796875</score>
+</geoname>
+<geoname>
+<toponymName>Sandy Creek</toponymName>
+<name>Sandy Creek</name>
+<lat>24.8</lat>
+<lng>-77.86667</lng>
+<geonameId>3571503</geonameId>
+<countryCode>BS</countryCode>
+<countryName>Bahamas</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>Sandy Creek</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NS">47</adminCode1>
+<adminName1>North Andros</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Sandy_Creek_%28Bahamas%29</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Nassau</timezone>
+<score>19.537841796875</score>
+</geoname>
+<geoname>
+<toponymName>Sandy Creek</toponymName>
+<name>Sandy Creek</name>
+<lat>-36.3</lat>
+<lng>147.1</lng>
+<geonameId>2150437</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="VIC">07</adminCode1>
+<adminName1>Victoria</adminName1>
+<adminCode2>23350</adminCode2>
+<adminName2>Indigo</adminName2>
+<timezone dstOffset="10.0" gmtOffset="11.0">Australia/Melbourne</timezone>
+<bbox>
+<west>147.08884</west>
+<north>-36.29101</north>
+<east>147.11116</east>
+<south>-36.30899</south>
+</bbox>
+<score>15.952580451965332</score>
+</geoname>
+<geoname>
+<toponymName>Sandy Creek</toponymName>
+<name>Sandy Creek</name>
+<lat>33.49956</lat>
+<lng>-84.55854</lng>
+<geonameId>4221253</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>293</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">GA</adminCode1>
+<adminName1>Georgia</adminName1>
+<adminCode2>113</adminCode2>
+<adminName2>Fayette County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-84.56933</west>
+<north>33.50855</north>
+<east>-84.54775</east>
+<south>33.49056</south>
+</bbox>
+<score>15.952580451965332</score>
+</geoname>
+<geoname>
+<toponymName>Sandy Creek</toponymName>
+<name>Sandy Creek</name>
+<lat>33.67596</lat>
+<lng>-83.53017</lng>
+<geonameId>4221258</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>219</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">GA</adminCode1>
+<adminName1>Georgia</adminName1>
+<adminCode2>211</adminCode2>
+<adminName2>Morgan County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-83.54098</west>
+<north>33.68495</north>
+<east>-83.51936</east>
+<south>33.66696</south>
+</bbox>
+<score>15.952580451965332</score>
+</geoname>
+<geoname>
+<toponymName>Sandy Creek</toponymName>
+<name>Sandy Creek</name>
+<lat>44.02174</lat>
+<lng>-70.70784</lng>
+<geonameId>4977734</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>130</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ME">ME</adminCode1>
+<adminName1>Maine</adminName1>
+<adminCode2>005</adminCode2>
+<adminName2>Cumberland County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-70.72035</west>
+<north>44.03073</north>
+<east>-70.69533</east>
+<south>44.01274</south>
+</bbox>
+<score>15.952580451965332</score>
+</geoname>
+<geoname>
+<toponymName>Sandy Creek</toponymName>
+<name>Sandy Creek</name>
+<lat>40.47535</lat>
+<lng>-79.84838</lng>
+<geonameId>5210849</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>249</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PA">PA</adminCode1>
+<adminName1>Pennsylvania</adminName1>
+<adminCode2>003</adminCode2>
+<adminName2>Allegheny County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-79.86021</west>
+<north>40.48434</north>
+<east>-79.83656</east>
+<south>40.46635</south>
+</bbox>
+<score>15.952580451965332</score>
+</geoname>
+<geoname>
+<toponymName>Sandy Creek</toponymName>
+<name>Sandy Creek</name>
+<lat>45.96681</lat>
+<lng>-76.4827</lng>
+<geonameId>6140718</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="QC">10</adminCode1>
+<adminName1>Quebec</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Montreal</timezone>
+<score>15.952580451965332</score>
+</geoname>
+</geonames>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Salome Wilderness</toponymName>
+<name>Salome Wilderness</name>
+<lat>33.83838</lat>
+<lng>-111.06762</lng>
+<geonameId>5312690</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>L</fcl>
+<fcode>RES</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>reserve</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1250</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AZ">AZ</adminCode1>
+<adminName1>Arizona</adminName1>
+<adminCode2>007</adminCode2>
+<adminName2>Gila County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Salome_Wilderness</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-7.0">America/Phoenix</timezone>
+<score>68.978759765625</score>
+</geoname>
+</geonames>

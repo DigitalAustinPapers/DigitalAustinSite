@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>81</totalResultsCount>
+<geoname>
+<toponymName>Tanques</toponymName>
+<name>Tanques</name>
+<lat>22.13333</lat>
+<lng>-100.45</lng>
+<geonameId>3982480</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Tanque,Tanques</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SLP">24</adminCode1>
+<adminName1>San Luis Potosí</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-100.45971</west>
+<north>22.14233</north>
+<east>-100.44029</east>
+<south>22.12434</south>
+</bbox>
+<score>45.824188232421875</score>
+</geoname>
+<geoname>
+<toponymName>Tanques</toponymName>
+<name>Tanques</name>
+<lat>48.68669</lat>
+<lng>-0.07325</lng>
+<geonameId>2973411</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>168</population>
+<alternateNames>Tanques</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="P">99</adminCode1>
+<adminName1>Lower Normandy</adminName1>
+<adminCode2>61</adminCode2>
+<adminName2>Orne</adminName2>
+<adminCode3>612</adminCode3>
+<adminName3>Arrondissement d'Argentan</adminName3>
+<adminCode4>61479</adminCode4>
+<adminName4>Tanques</adminName4>
+<alternateName lang="post">61150</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>-0.07462</west>
+<north>48.68759</north>
+<east>-0.07189</east>
+<south>48.68579</south>
+</bbox>
+<score>42.32845687866211</score>
+</geoname>
+<geoname>
+<toponymName>Tanques</toponymName>
+<name>Tanques</name>
+<lat>-7.63333</lat>
+<lng>-37.56667</lng>
+<geonameId>3386789</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="PE">30</adminCode1>
+<adminName1>Pernambuco</adminName1>
+<adminCode2>2614402</adminCode2>
+<adminName2>Solidão</adminName2>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Recife</timezone>
+<bbox>
+<west>-37.57574</west>
+<north>-7.62434</north>
+<east>-37.55759</east>
+<south>-7.64233</south>
+</bbox>
+<score>34.56104278564453</score>
+</geoname>
+<geoname>
+<toponymName>Tanques</toponymName>
+<name>Tanques</name>
+<lat>-7.18333</lat>
+<lng>-40.53333</lng>
+<geonameId>3386790</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="CE">06</adminCode1>
+<adminName1>Ceará</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Fortaleza</timezone>
+<bbox>
+<west>-40.5424</west>
+<north>-7.17434</north>
+<east>-40.52427</east>
+<south>-7.19233</south>
+</bbox>
+<score>34.56104278564453</score>
+</geoname>
+<geoname>
+<toponymName>Tanques</toponymName>
+<name>Tanques</name>
+<lat>-5.16667</lat>
+<lng>-37.03333</lng>
+<geonameId>3386791</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="RN">22</adminCode1>
+<adminName1>Rio Grande do Norte</adminName1>
+<adminCode2>2413359</adminCode2>
+<adminName2>Serra do Mel</adminName2>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Fortaleza</timezone>
+<bbox>
+<west>-37.04236</west>
+<north>-5.15767</north>
+<east>-37.0243</east>
+<south>-5.17566</south>
+</bbox>
+<score>34.56104278564453</score>
+</geoname>
+<geoname>
+<toponymName>Tanques</toponymName>
+<name>Tanques</name>
+<lat>-3.26667</lat>
+<lng>-39.56667</lng>
+<geonameId>3386793</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="CE">06</adminCode1>
+<adminName1>Ceará</adminName1>
+<adminCode2>2306405</adminCode2>
+<adminName2>Itapipoca</adminName2>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Fortaleza</timezone>
+<bbox>
+<west>-39.57567</west>
+<north>-3.25767</north>
+<east>-39.55766</east>
+<south>-3.27566</south>
+</bbox>
+<score>34.56104278564453</score>
+</geoname>
+<geoname>
+<toponymName>Tanques</toponymName>
+<name>Tanques</name>
+<lat>-4.91667</lat>
+<lng>-38.61667</lng>
+<geonameId>3386794</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="CE">06</adminCode1>
+<adminName1>Ceará</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Fortaleza</timezone>
+<score>34.56104278564453</score>
+</geoname>
+<geoname>
+<toponymName>Tanques</toponymName>
+<name>Tanques</name>
+<lat>-4.78333</lat>
+<lng>-38.36667</lng>
+<geonameId>3386795</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="CE">06</adminCode1>
+<adminName1>Ceará</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Fortaleza</timezone>
+<score>34.56104278564453</score>
+</geoname>
+<geoname>
+<toponymName>Tanques</toponymName>
+<name>Tanques</name>
+<lat>-4.45</lat>
+<lng>-37.96667</lng>
+<geonameId>3386796</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="CE">06</adminCode1>
+<adminName1>Ceará</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Fortaleza</timezone>
+<score>34.56104278564453</score>
+</geoname>
+<geoname>
+<toponymName>Tanques</toponymName>
+<name>Tanques</name>
+<lat>-3.58333</lat>
+<lng>-39.83333</lng>
+<geonameId>3386797</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="CE">06</adminCode1>
+<adminName1>Ceará</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Fortaleza</timezone>
+<score>34.56104278564453</score>
+</geoname>
+</geonames>

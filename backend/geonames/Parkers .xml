@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>44</totalResultsCount>
+<geoname>
+<toponymName>Parkers</toponymName>
+<name>Parkers</name>
+<lat>34.61843</lat>
+<lng>-92.31571</lng>
+<geonameId>4125479</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>130</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">AR</adminCode1>
+<adminName1>Arkansas</adminName1>
+<adminCode2>119</adminCode2>
+<adminName2>Pulaski County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.32664</west>
+<north>34.62742</north>
+<east>-92.30478</east>
+<south>34.60943</south>
+</bbox>
+<score>40.69881820678711</score>
+</geoname>
+<geoname>
+<toponymName>Parkers</toponymName>
+<name>Parkers</name>
+<lat>32.69989</lat>
+<lng>-81.80983</lng>
+<geonameId>4214805</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>63</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">GA</adminCode1>
+<adminName1>Georgia</adminName1>
+<adminCode2>251</adminCode2>
+<adminName2>Screven County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-81.82052</west>
+<north>32.70888</north>
+<east>-81.79915</east>
+<south>32.6909</south>
+</bbox>
+<score>40.69881820678711</score>
+</geoname>
+<geoname>
+<toponymName>Parkers</toponymName>
+<name>Parkers</name>
+<lat>45.19172</lat>
+<lng>-68.89837</lng>
+<geonameId>4974659</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>99</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ME">ME</adminCode1>
+<adminName1>Maine</adminName1>
+<adminCode2>021</adminCode2>
+<adminName2>Piscataquis County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-68.91113</west>
+<north>45.20072</north>
+<east>-68.88561</east>
+<south>45.18273</south>
+</bbox>
+<score>40.69881820678711</score>
+</geoname>
+<geoname>
+<toponymName>Parkers</toponymName>
+<name>Parkers</name>
+<lat>43.73229</lat>
+<lng>-75.67074</lng>
+<geonameId>5130592</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>560</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>049</adminCode2>
+<adminName2>Lewis County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-75.68319</west>
+<north>43.74129</north>
+<east>-75.6583</east>
+<south>43.7233</south>
+</bbox>
+<score>40.69881820678711</score>
+</geoname>
+<geoname>
+<toponymName>Parkes</toponymName>
+<name>Parkes</name>
+<lat>-32.82318</lat>
+<lng>148.02514</lng>
+<geonameId>7839762</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="NSW">02</adminCode1>
+<adminName1>New South Wales</adminName1>
+<adminCode2>16200</adminCode2>
+<adminName2>Parkes</adminName2>
+<timezone dstOffset="10.0" gmtOffset="11.0">Australia/Sydney</timezone>
+<bbox>
+<west>147.54301</west>
+<north>-32.36895</north>
+<east>148.50726</east>
+<south>-33.2774</south>
+</bbox>
+<score>17.454696655273438</score>
+</geoname>
+<geoname>
+<toponymName>Parkes</toponymName>
+<name>Parkes</name>
+<lat>-33.1372</lat>
+<lng>148.1759</lng>
+<geonameId>2153778</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>11137</population>
+<alternateNames>PKE,Parkes</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="NSW">02</adminCode1>
+<adminName1>New South Wales</adminName1>
+<adminCode2>16200</adminCode2>
+<adminName2>Parkes</adminName2>
+<alternateName lang="iata">PKE</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Parkes%2C_New_South_Wales</alternateName>
+<alternateName lang="unlc">PKE</alternateName>
+<timezone dstOffset="10.0" gmtOffset="11.0">Australia/Sydney</timezone>
+<bbox>
+<west>148.08965</west>
+<north>-32.95916</north>
+<east>148.50726</east>
+<south>-33.27581</south>
+</bbox>
+<score>12.826530456542969</score>
+</geoname>
+<geoname>
+<toponymName>Parker</toponymName>
+<name>Parker</name>
+<lat>34.85067</lat>
+<lng>-82.45346</lng>
+<geonameId>4590476</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>11431</population>
+<alternateNames>Parker,Паркер</alternateNames>
+<elevation>309</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SC">SC</adminCode1>
+<adminName1>South Carolina</adminName1>
+<adminCode2>045</adminCode2>
+<adminName2>Greenville County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Parker%2C_South_Carolina</alternateName>
+<alternateName lang="ru">Паркер</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-82.4699</west>
+<north>34.86416</north>
+<east>-82.43702</east>
+<south>34.83718</south>
+</bbox>
+<score>12.745244979858398</score>
+</geoname>
+<geoname>
+<toponymName>Packers</toponymName>
+<name>Packers</name>
+<lat>13.08333</lat>
+<lng>-59.5</lng>
+<geonameId>3373641</geonameId>
+<countryCode>BB</countryCode>
+<countryName>Barbados</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="01">01</adminCode1>
+<adminName1>Christ Church</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Barbados</timezone>
+<bbox>
+<west>-59.50923</west>
+<north>13.09233</north>
+<east>-59.49077</east>
+<south>13.07434</south>
+</bbox>
+<score>12.415460586547852</score>
+</geoname>
+<geoname>
+<toponymName>Packers</toponymName>
+<name>Packers</name>
+<lat>47.49717</lat>
+<lng>-112.88699</lng>
+<geonameId>5670456</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1606</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MT">MT</adminCode1>
+<adminName1>Montana</adminName1>
+<adminCode2>049</adminCode2>
+<adminName2>Lewis and Clark County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<bbox>
+<west>-112.9003</west>
+<north>47.50616</north>
+<east>-112.87368</east>
+<south>47.48817</south>
+</bbox>
+<score>12.415460586547852</score>
+</geoname>
+<geoname>
+<toponymName>Parker</toponymName>
+<name>Parker</name>
+<lat>30.13104</lat>
+<lng>-85.60326</lng>
+<geonameId>4167797</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>4317</population>
+<alternateNames>Parker,Паркер</alternateNames>
+<elevation>6</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="FL">FL</adminCode1>
+<adminName1>Florida</adminName1>
+<adminCode2>005</adminCode2>
+<adminName2>Bay County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Parker%2C_Florida</alternateName>
+<alternateName lang="ru">Паркер</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-85.61227</west>
+<north>30.13882</north>
+<east>-85.59425</east>
+<south>30.12325</south>
+</bbox>
+<score>10.924495697021484</score>
+</geoname>
+</geonames>

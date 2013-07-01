@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Sabine Parish</toponymName>
+<name>Sabine Parish</name>
+<lat>31.56401</lat>
+<lng>-93.5547</lng>
+<geonameId>4339354</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>24233</population>
+<alternateNames>Paroisse de Sabine,Parokya han Sabine,Paroquia de Sabine,Parrocchia di Sabine,Parroquia de Sabine,Paróquia de Sabine,Quan Sabine,Quận Sabine,Sabin,Sabin srjan,Sabine Paroecia,sabin jun,sabine parisa,sabyn parsh,sha bin xian,Сабін,Սաբին շրջան,سابین پارش,সাবিনে পারিশ,サビーン郡,沙賓縣</alternateNames>
+<elevation>65</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>085</adminCode2>
+<adminName2>Sabine Parish</adminName2>
+<alternateName lang="bpy">সাবিনে পারিশ</alternateName>
+<alternateName lang="es">Parroquia de Sabine</alternateName>
+<alternateName lang="fr">Paroisse de Sabine</alternateName>
+<alternateName lang="hy">Սաբին շրջան</alternateName>
+<alternateName lang="it">Parrocchia di Sabine</alternateName>
+<alternateName lang="ja">サビーン郡</alternateName>
+<alternateName lang="la">Sabine Paroecia</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Sabine_Parish%2C_Louisiana</alternateName>
+<alternateName lang="pnb">سابین پارش</alternateName>
+<alternateName lang="pt">Paróquia de Sabine</alternateName>
+<alternateName lang="uk">Сабін</alternateName>
+<alternateName lang="vi">Quận Sabine</alternateName>
+<alternateName lang="war">Parokya han Sabine</alternateName>
+<alternateName lang="zh">沙賓縣</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-93.88017</west>
+<north>31.84603</north>
+<east>-93.23615</east>
+<south>31.16726</south>
+</bbox>
+<score>47.44896697998047</score>
+</geoname>
+</geonames>

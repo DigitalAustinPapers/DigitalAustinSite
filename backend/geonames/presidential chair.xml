@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Presidents Chair</toponymName>
+<name>Presidents Chair</name>
+<lat>61.85861</lat>
+<lng>-142.74083</lng>
+<geonameId>5872064</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>MT</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>mountain</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>2495</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AK">AK</adminCode1>
+<adminName1>Alaska</adminName1>
+<adminCode2>261</adminCode2>
+<adminName2>Valdez-Cordova Census Area</adminName2>
+<timezone dstOffset="-8.0" gmtOffset="-9.0">America/Anchorage</timezone>
+<score>57.48229217529297</score>
+</geoname>
+</geonames>

@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>23</totalResultsCount>
+<geoname>
+<toponymName>Yorketown</toponymName>
+<name>Yorketown</name>
+<lat>40.30789</lat>
+<lng>-74.33765</lng>
+<geonameId>5106645</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>6535</population>
+<alternateNames/>
+<elevation>29</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NJ">NJ</adminCode1>
+<adminName1>New Jersey</adminName1>
+<adminCode2>025</adminCode2>
+<adminName2>Monmouth County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Yorketown%2C_New_Jersey</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-74.35084</west>
+<north>40.31794</north>
+<east>-74.32446</east>
+<south>40.29783</south>
+</bbox>
+<score>55.619407653808594</score>
+</geoname>
+<geoname>
+<toponymName>Yorketown</toponymName>
+<name>Yorketown</name>
+<lat>-35.01845</lat>
+<lng>137.60486</lng>
+<geonameId>2057273</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>686</population>
+<alternateNames>Jorktaun,ORR,Yorketown,Йорктаун</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="SA">05</adminCode1>
+<adminName1>South Australia</adminName1>
+<adminCode2>48830</adminCode2>
+<adminName2>Yorke Peninsula</adminName2>
+<alternateName lang="iata">ORR</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Yorketown%2C_South_Australia</alternateName>
+<alternateName lang="ru">Йорктаун</alternateName>
+<alternateName lang="unlc">ORR</alternateName>
+<timezone dstOffset="9.5" gmtOffset="10.5">Australia/Adelaide</timezone>
+<bbox>
+<west>137.59477</west>
+<north>-35.01109</north>
+<east>137.61699</east>
+<south>-35.02546</south>
+</bbox>
+<score>34.059791564941406</score>
+</geoname>
+<geoname>
+<toponymName>Yorktown</toponymName>
+<name>Yorktown</name>
+<lat>40.17365</lat>
+<lng>-85.49414</lng>
+<geonameId>4928492</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>9405</population>
+<alternateNames/>
+<elevation>279</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IN">IN</adminCode1>
+<adminName1>Indiana</adminName1>
+<adminCode2>035</adminCode2>
+<adminName2>Delaware County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Yorktown%2C_Indiana</alternateName>
+<alternateName lang="post">47396</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Indiana/Indianapolis</timezone>
+<bbox>
+<west>-85.50971</west>
+<north>40.18555</north>
+<east>-85.47857</east>
+<south>40.16176</south>
+</bbox>
+<score>31.600767135620117</score>
+</geoname>
+<geoname>
+<toponymName>York Towne</toponymName>
+<name>York Towne</name>
+<lat>39.764</lat>
+<lng>-75.73299</lng>
+<geonameId>4145491</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>114</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="DE">DE</adminCode1>
+<adminName1>Delaware</adminName1>
+<adminCode2>003</adminCode2>
+<adminName2>New Castle County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-75.74469</west>
+<north>39.77299</north>
+<east>-75.72129</east>
+<south>39.75501</south>
+</bbox>
+<score>29.25044822692871</score>
+</geoname>
+<geoname>
+<toponymName>Yorktown</toponymName>
+<name>Yorktown</name>
+<lat>34.02093</lat>
+<lng>-91.8168</lng>
+<geonameId>4137321</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>56</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">AR</adminCode1>
+<adminName1>Arkansas</adminName1>
+<adminCode2>079</adminCode2>
+<adminName2>Lincoln County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Yorktown%2C_Arkansas</alternateName>
+<alternateName lang="post">71678</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-91.82765</west>
+<north>34.02993</north>
+<east>-91.80595</east>
+<south>34.01194</south>
+</bbox>
+<score>27.08637237548828</score>
+</geoname>
+<geoname>
+<toponymName>Yorktown</toponymName>
+<name>Yorktown</name>
+<lat>36.05764</lat>
+<lng>-80.06921</lng>
+<geonameId>4500262</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>288</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NC">NC</adminCode1>
+<adminName1>North Carolina</adminName1>
+<adminCode2>067</adminCode2>
+<adminName2>Forsyth County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Yorktown%2C_North_Carolina</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-80.08033</west>
+<north>36.06663</north>
+<east>-80.05808</east>
+<south>36.04864</south>
+</bbox>
+<score>27.08637237548828</score>
+</geoname>
+<geoname>
+<toponymName>Yorktown</toponymName>
+<name>Yorktown</name>
+<lat>28.98109</lat>
+<lng>-97.50277</lng>
+<geonameId>4743453</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2092</population>
+<alternateNames/>
+<elevation>84</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>123</adminCode2>
+<adminName2>DeWitt County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Yorktown%2C_Texas</alternateName>
+<alternateName lang="post">78164</alternateName>
+<alternateName lang="unlc">YKT</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-97.50791</west>
+<north>28.98559</north>
+<east>-97.49763</east>
+<south>28.97659</south>
+</bbox>
+<score>27.08637237548828</score>
+</geoname>
+<geoname>
+<toponymName>Yorktown</toponymName>
+<name>Yorktown</name>
+<lat>40.73333</lat>
+<lng>-95.15693</lng>
+<geonameId>4882638</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>85</population>
+<alternateNames/>
+<elevation>332</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IA">IA</adminCode1>
+<adminName1>Iowa</adminName1>
+<adminCode2>145</adminCode2>
+<adminName2>Page County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Yorktown%2C_Iowa</alternateName>
+<alternateName lang="post">51656</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-95.15811</west>
+<north>40.73423</north>
+<east>-95.15574</east>
+<south>40.73243</south>
+</bbox>
+<score>27.08637237548828</score>
+</geoname>
+<geoname>
+<toponymName>Yorktown</toponymName>
+<name>Yorktown</name>
+<lat>41.56976</lat>
+<lng>-89.85011</lng>
+<geonameId>4917294</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>195</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>011</adminCode2>
+<adminName2>Bureau County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Yorktown%2C_Illinois</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-89.86213</west>
+<north>41.57875</north>
+<east>-89.83808</east>
+<south>41.56076</south>
+</bbox>
+<score>27.08637237548828</score>
+</geoname>
+<geoname>
+<toponymName>Yorktown</toponymName>
+<name>Yorktown</name>
+<lat>41.29565</lat>
+<lng>-73.80819</lng>
+<geonameId>5145252</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>154</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>119</adminCode2>
+<adminName2>Westchester County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Yorktown%2C_New_York</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-73.82016</west>
+<north>41.30464</north>
+<east>-73.79622</east>
+<south>41.28666</south>
+</bbox>
+<score>27.08637237548828</score>
+</geoname>
+</geonames>

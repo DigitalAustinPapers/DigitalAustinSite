@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>10</totalResultsCount>
+<geoname>
+<toponymName>Quarter</toponymName>
+<name>Quarter</name>
+<lat>55.73835</lat>
+<lng>-4.03197</lng>
+<geonameId>2639800</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>959</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>W5</adminCode2>
+<adminName2>South Lanarkshire</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Quarter%2C_South_Lanarkshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.03357</west>
+<north>55.73925</north>
+<east>-4.03037</east>
+<south>55.73745</south>
+</bbox>
+<score>58.46329879760742</score>
+</geoname>
+<geoname>
+<toponymName>Quarten</toponymName>
+<name>Quarten</name>
+<lat>47.107</lat>
+<lng>9.24199</lng>
+<geonameId>2659122</geonameId>
+<countryCode>CH</countryCode>
+<countryName>Switzerland</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2715</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SG">SG</adminCode1>
+<adminName1>Saint Gallen</adminName1>
+<adminCode2>1725</adminCode2>
+<adminName2>Wahlkreis Sargans</adminName2>
+<adminCode3>3295</adminCode3>
+<adminName3>Quarten</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Quarten</alternateName>
+<alternateName lang="post">8883</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Zurich</timezone>
+<bbox>
+<west>9.23265</west>
+<north>47.11336</north>
+<east>9.25134</east>
+<south>47.10064</south>
+</bbox>
+<score>18.52788543701172</score>
+</geoname>
+<geoname>
+<toponymName>Quarten</toponymName>
+<name>Quarten</name>
+<lat>47.08433</lat>
+<lng>9.22094</lng>
+<geonameId>7286845</geonameId>
+<countryCode>CH</countryCode>
+<countryName>Switzerland</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population>2742</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SG">SG</adminCode1>
+<adminName1>Saint Gallen</adminName1>
+<adminCode2>1725</adminCode2>
+<adminName2>Wahlkreis Sargans</adminName2>
+<adminCode3>3295</adminCode3>
+<adminName3>Quarten</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Zurich</timezone>
+<bbox>
+<west>9.13807</west>
+<north>47.14875</north>
+<east>9.30369</east>
+<south>47.02592</south>
+</bbox>
+<score>18.52788543701172</score>
+</geoname>
+<geoname>
+<toponymName>Quartes</toponymName>
+<name>Quartes</name>
+<lat>50.65054</lat>
+<lng>3.51153</lng>
+<geonameId>2788493</geonameId>
+<countryCode>BE</countryCode>
+<countryName>Belgium</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Quartes</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WAL">WAL</adminCode1>
+<adminName1>Walloon Region</adminName1>
+<adminCode2>WHT</adminCode2>
+<adminName2>Hainaut Province</adminName2>
+<alternateName lang="post">7540</alternateName>
+<alternateName lang="unlc">QAR</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Brussels</timezone>
+<bbox>
+<west>3.49734</west>
+<north>50.65953</north>
+<east>3.52572</east>
+<south>50.64154</south>
+</bbox>
+<score>11.345966339111328</score>
+</geoname>
+<geoname>
+<toponymName>Quartier</toponymName>
+<name>Quartier</name>
+<lat>18.3</lat>
+<lng>-73.35</lng>
+<geonameId>3718280</geonameId>
+<countryCode>HT</countryCode>
+<countryName>Haiti</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SD">12</adminCode1>
+<adminName1>Sud</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Port-au-Prince</timezone>
+<bbox>
+<west>-73.35947</west>
+<north>18.30899</north>
+<east>-73.34053</east>
+<south>18.29101</south>
+</bbox>
+<score>11.135866165161133</score>
+</geoname>
+<geoname>
+<toponymName>Quartel</toponymName>
+<name>Quartel</name>
+<lat>12.16667</lat>
+<lng>-14.65</lng>
+<geonameId>2370485</geonameId>
+<countryCode>GW</countryCode>
+<countryName>Guinea-Bissau</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="0.0" gmtOffset="0.0">Africa/Bissau</timezone>
+<bbox>
+<west>-14.6592</west>
+<north>12.17566</north>
+<east>-14.6408</east>
+<south>12.15767</south>
+</bbox>
+<score>10.587363243103027</score>
+</geoname>
+<geoname>
+<toponymName>Quartes</toponymName>
+<name>Quartes</name>
+<lat>50.22444</lat>
+<lng>3.85038</lng>
+<geonameId>2984871</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="O">B4</adminCode1>
+<adminName1>Nord-Pas-de-Calais</adminName1>
+<adminCode2>59</adminCode2>
+<adminName2>North</adminName2>
+<adminCode3>591</adminCode3>
+<adminName3>Arrondissement d'Avesnes-sur-Helpe</adminName3>
+<adminCode4>59467</adminCode4>
+<adminName4>Pont-sur-Sambre</adminName4>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>3.83632</west>
+<north>50.23344</north>
+<east>3.86444</east>
+<south>50.21545</south>
+</bbox>
+<score>10.587363243103027</score>
+</geoname>
+<geoname>
+<toponymName>Quartel</toponymName>
+<name>Quartel</name>
+<lat>-2.78333</lat>
+<lng>-43.96667</lng>
+<geonameId>3391120</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="MA">13</adminCode1>
+<adminName1>Maranhão</adminName1>
+<adminCode2>2105104</adminCode2>
+<adminName2>Icatu</adminName2>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Fortaleza</timezone>
+<bbox>
+<west>-43.97567</west>
+<north>-2.77434</north>
+<east>-43.95766</east>
+<south>-2.79233</south>
+</bbox>
+<score>10.587363243103027</score>
+</geoname>
+<geoname>
+<toponymName>Quarters</toponymName>
+<name>Quarters</name>
+<lat>24.1</lat>
+<lng>-74.51667</lng>
+<geonameId>3571636</geonameId>
+<countryCode>BS</countryCode>
+<countryName>Bahamas</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SS">35</adminCode1>
+<adminName1>San Salvador</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Nassau</timezone>
+<bbox>
+<west>-74.52652</west>
+<north>24.10899</north>
+<east>-74.50681</east>
+<south>24.09101</south>
+</bbox>
+<score>10.587363243103027</score>
+</geoname>
+<geoname>
+<toponymName>Quarters</toponymName>
+<name>Quarters</name>
+<lat>-6.89109</lat>
+<lng>39.16653</lng>
+<geonameId>8128929</geonameId>
+<countryCode>TZ</countryCode>
+<countryName>Tanzania</countryName>
+<fcl>S</fcl>
+<fcode>HSE</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>house(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="02">23</adminCode1>
+<adminName1>Dar es Salaam</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="3.0" gmtOffset="3.0">Africa/Dar_es_Salaam</timezone>
+<score>3.308551073074341</score>
+</geoname>
+</geonames>

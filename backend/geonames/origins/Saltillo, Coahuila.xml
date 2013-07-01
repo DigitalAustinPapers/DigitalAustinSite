@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>12</totalResultsCount>
+<geoname>
+<toponymName>Saltillo</toponymName>
+<name>Saltillo</name>
+<lat>25.41942</lat>
+<lng>-101.00128</lng>
+<geonameId>3988086</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population>621250</population>
+<alternateNames>SLW,Sal'til'jo,Sal'til'o,Saltil'o,Saltillo,Saltilo,sa er di yue,saltyyw. kwawyla,sarutiyo,Салтилло,Салтильо,Салтиљо,Сальтильо,Сальтільйо,سالتییو٬ کواویلا,სალტილიო,サルティーヨ,萨尔蒂约</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="COA">07</adminCode1>
+<adminName1>Coahuila</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="bg">Салтильо</alternateName>
+<alternateName lang="ca">Saltillo</alternateName>
+<alternateName lang="da">Saltillo</alternateName>
+<alternateName lang="de">Saltillo</alternateName>
+<alternateName lang="en">Saltillo</alternateName>
+<alternateName lang="es">Saltillo</alternateName>
+<alternateName lang="fa">سالتییو٬ کواویلا</alternateName>
+<alternateName lang="fr">Saltillo</alternateName>
+<alternateName lang="iata">SLW</alternateName>
+<alternateName lang="it">Saltillo</alternateName>
+<alternateName lang="ja">サルティーヨ</alternateName>
+<alternateName lang="ka">სალტილიო</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Saltillo</alternateName>
+<alternateName lang="nl">Saltillo</alternateName>
+<alternateName lang="pl">Saltillo</alternateName>
+<alternateName lang="pt">Saltillo</alternateName>
+<alternateName lang="ru">Сальтильо</alternateName>
+<alternateName lang="sr">Салтиљо</alternateName>
+<alternateName lang="sv">Saltillo</alternateName>
+<alternateName lang="uk">Сальтільйо</alternateName>
+<alternateName lang="unlc">SLW</alternateName>
+<alternateName lang="zh">萨尔蒂约</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<bbox>
+<west>-101.11458</west>
+<north>25.52167</north>
+<east>-100.88798</east>
+<south>25.31717</south>
+</bbox>
+<score>87.31039428710938</score>
+</geoname>
+<geoname>
+<toponymName>Fiesta Inn Saltillo</toponymName>
+<name>Fiesta Inn Saltillo</name>
+<lat>25.4808</lat>
+<lng>-100.9732</lng>
+<geonameId>6469793</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>S</fcl>
+<fcode>HTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>hotel</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="COA">07</adminCode1>
+<adminName1>Coahuila</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<score>2.6440091133117676</score>
+</geoname>
+<geoname>
+<toponymName>Quinta Real Saltillo</toponymName>
+<name>Quinta Real Saltillo</name>
+<lat>25.479</lat>
+<lng>-100.9797</lng>
+<geonameId>6498901</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>S</fcl>
+<fcode>HTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>hotel</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="COA">07</adminCode1>
+<adminName1>Coahuila</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<score>2.6440091133117676</score>
+</geoname>
+<geoname>
+<toponymName>City Express Saltillo</toponymName>
+<name>City Express Saltillo</name>
+<lat>25.4166</lat>
+<lng>-101</lng>
+<geonameId>6531012</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>S</fcl>
+<fcode>HTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>hotel</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="COA">07</adminCode1>
+<adminName1>Coahuila</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<score>2.6440091133117676</score>
+</geoname>
+<geoname>
+<toponymName>Saltillo Old</toponymName>
+<name>Saltillo Old</name>
+<lat>25.45</lat>
+<lng>-101</lng>
+<geonameId>3988082</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>S</fcl>
+<fcode>AIRQ</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>abandoned airfield</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="COA">07</adminCode1>
+<adminName1>Coahuila</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<score>2.445824146270752</score>
+</geoname>
+<geoname>
+<toponymName>Saltillo New</toponymName>
+<name>Saltillo New</name>
+<lat>25.53333</lat>
+<lng>-100.91667</lng>
+<geonameId>3988083</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>S</fcl>
+<fcode>AIRF</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>airfield</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="COA">07</adminCode1>
+<adminName1>Coahuila</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<score>2.445824146270752</score>
+</geoname>
+<geoname>
+<toponymName>Camino Real Saltillo</toponymName>
+<name>Camino Real Saltillo</name>
+<lat>25.4312</lat>
+<lng>-100.9417</lng>
+<geonameId>6469481</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>S</fcl>
+<fcode>HTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>hotel</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="COA">07</adminCode1>
+<adminName1>Coahuila</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<score>2.445824146270752</score>
+</geoname>
+<geoname>
+<toponymName>Rancho El Saltrillo</toponymName>
+<name>Rancho El Saltrillo</name>
+<lat>26.4</lat>
+<lng>-101.38333</lng>
+<geonameId>4007641</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>S</fcl>
+<fcode>RNCH</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>ranch(es)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="COA">07</adminCode1>
+<adminName1>Coahuila</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<score>1.7962913513183594</score>
+</geoname>
+<geoname>
+<toponymName>QUINTA DORADA HOTEL AND SUITE</toponymName>
+<name>QUINTA DORADA HOTEL AND SUITE</name>
+<lat>25.4166</lat>
+<lng>-101</lng>
+<geonameId>6462145</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>S</fcl>
+<fcode>HTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>hotel</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="COA">07</adminCode1>
+<adminName1>Coahuila</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<score>1.6063001155853271</score>
+</geoname>
+<geoname>
+<toponymName>American Hotel Express</toponymName>
+<name>American Hotel Express</name>
+<lat>25.4166</lat>
+<lng>-101</lng>
+<geonameId>6519935</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>S</fcl>
+<fcode>HTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>hotel</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="COA">07</adminCode1>
+<adminName1>Coahuila</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<score>1.6063001155853271</score>
+</geoname>
+</geonames>

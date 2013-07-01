@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Netieh</toponymName>
+<name>Netieh</name>
+<lat>-21.48333</lat>
+<lng>167.85</lng>
+<geonameId>2139843</geonameId>
+<countryCode>NC</countryCode>
+<countryName>New Caledonia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Nece,Netche,Netché,Netieh,Nécé</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="11.0" gmtOffset="11.0">Pacific/Noumea</timezone>
+<bbox>
+<west>167.84034</west>
+<north>-21.47434</north>
+<east>167.85966</east>
+<south>-21.49233</south>
+</bbox>
+<score>39.234134674072266</score>
+</geoname>
+<geoname>
+<toponymName>Nachī</toponymName>
+<name>Nachī</name>
+<lat>35.6532</lat>
+<lng>46.1247</lng>
+<geonameId>122413</geonameId>
+<countryCode>IR</countryCode>
+<countryName>Iran</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Nachi,Nachī,Neche,Necheh,Nechi,Nechī,Neji,Nejī,Netche,nachy,nchy,nichi,nichih,nichy,nijy,nitchi,نَچی,نِتچِ,نِجی,نِچِ,نِچِه,نِچی,نچی</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="16">16</adminCode1>
+<adminName1>Kordestān</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="fa">نِچی</alternateName>
+<timezone dstOffset="4.5" gmtOffset="3.5">Asia/Tehran</timezone>
+<bbox>
+<west>46.11363</west>
+<north>35.66219</north>
+<east>46.13577</east>
+<south>35.64421</south>
+</bbox>
+<score>23.779476165771484</score>
+</geoname>
+</geonames>

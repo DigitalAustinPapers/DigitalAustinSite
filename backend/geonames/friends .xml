@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>9</totalResultsCount>
+<geoname>
+<toponymName>Friends</toponymName>
+<name>Friends</name>
+<lat>6.17351</lat>
+<lng>-57.55302</lng>
+<geonameId>3378672</geonameId>
+<countryCode>GY</countryCode>
+<countryName>Guyana</countryName>
+<fcl>S</fcl>
+<fcode>ESTSG</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>sugar plantation</fcodeName>
+<population/>
+<alternateNames>Friends,Friends Place,Friends Plantation</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="EB">13</adminCode1>
+<adminName1>East Berbice-Corentyne</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Guyana</timezone>
+<score>32.78395462036133</score>
+</geoname>
+<geoname>
+<toponymName>Two Friends</toponymName>
+<name>Two Friends</name>
+<lat>6.7075</lat>
+<lng>-57.95619</lng>
+<geonameId>3378673</geonameId>
+<countryCode>GY</countryCode>
+<countryName>Guyana</countryName>
+<fcl>S</fcl>
+<fcode>EST</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>estate(s)</fcodeName>
+<population/>
+<alternateNames>Friends,Two Friends</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="DE">12</adminCode1>
+<adminName1>Demerara-Mahaica</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Guyana</timezone>
+<score>15.142260551452637</score>
+</geoname>
+<geoname>
+<toponymName>Friens</toponymName>
+<name>Friens</name>
+<lat>53.09915</lat>
+<lng>5.79906</lng>
+<geonameId>2755820</geonameId>
+<countryCode>NL</countryCode>
+<countryName>Netherlands</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Friens</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="FR">02</adminCode1>
+<adminName1>Friesland</adminName1>
+<adminCode2>0055</adminCode2>
+<adminName2>Boarnsterhim</adminName2>
+<alternateName lang="fy">Friens</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Friens</alternateName>
+<alternateName lang="nl">Friens</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Amsterdam</timezone>
+<bbox>
+<west>5.78408</west>
+<north>53.10815</north>
+<east>5.81405</east>
+<south>53.09016</south>
+</bbox>
+<score>13.76740837097168</score>
+</geoname>
+<geoname>
+<toponymName>friends</toponymName>
+<name>friends</name>
+<lat>50.998</lat>
+<lng>6.995</lng>
+<geonameId>7114750</geonameId>
+<countryCode>DE</countryCode>
+<countryName>Germany</countryName>
+<fcl>S</fcl>
+<fcode>HTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>hotel</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="NW">07</adminCode1>
+<adminName1>North Rhine-Westphalia</adminName1>
+<adminCode2>053</adminCode2>
+<adminName2>Regierungsbezirk Köln</adminName2>
+<adminCode3>05315</adminCode3>
+<adminName3>Kreisfreie Stadt Köln</adminName3>
+<adminCode4>05315000</adminCode4>
+<adminName4>Köln</adminName4>
+<adminCode5>9</adminCode5>
+<adminName5>Köln</adminName5>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Berlin</timezone>
+<score>13.383994102478027</score>
+</geoname>
+<geoname>
+<toponymName>Friend</toponymName>
+<name>Friend</name>
+<lat>40.65362</lat>
+<lng>-97.28616</lng>
+<geonameId>5068780</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1027</population>
+<alternateNames/>
+<elevation>475</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NE">NE</adminCode1>
+<adminName1>Nebraska</adminName1>
+<adminCode2>151</adminCode2>
+<adminName2>Saline County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Friend%2C_Nebraska</alternateName>
+<alternateName lang="post">68359</alternateName>
+<alternateName lang="unlc">FD8</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-97.28734</west>
+<north>40.65452</north>
+<east>-97.28497</east>
+<south>40.65272</south>
+</bbox>
+<score>10.156621932983398</score>
+</geoname>
+<geoname>
+<toponymName>Friend</toponymName>
+<name>Friend</name>
+<lat>38.26002</lat>
+<lng>-100.91155</lng>
+<geonameId>5445429</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>887</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KS">KS</adminCode1>
+<adminName1>Kansas</adminName1>
+<adminCode2>055</adminCode2>
+<adminName2>Finney County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Friend%2C_Kansas</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-100.923</west>
+<north>38.26902</north>
+<east>-100.90009</east>
+<south>38.25103</south>
+</bbox>
+<score>10.156621932983398</score>
+</geoname>
+<geoname>
+<toponymName>Friend</toponymName>
+<name>Friend</name>
+<lat>45.34678</lat>
+<lng>-121.26729</lng>
+<geonameId>5727736</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>746</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OR">OR</adminCode1>
+<adminName1>Oregon</adminName1>
+<adminCode2>065</adminCode2>
+<adminName2>Wasco County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Friend%2C_Oregon</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-121.28009</west>
+<north>45.35578</north>
+<east>-121.25449</east>
+<south>45.33779</south>
+</bbox>
+<score>10.156621932983398</score>
+</geoname>
+<geoname>
+<toponymName>Friend</toponymName>
+<name>Friend</name>
+<lat>42.66285</lat>
+<lng>-77.18359</lng>
+<geonameId>5118026</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>303</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>123</adminCode2>
+<adminName2>Yates County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-77.19582</west>
+<north>42.67184</north>
+<east>-77.17135</east>
+<south>42.65385</south>
+</bbox>
+<score>6.771081447601318</score>
+</geoname>
+<geoname>
+<toponymName>Friend</toponymName>
+<name>Friend</name>
+<lat>40.65528</lat>
+<lng>-97.28644</lng>
+<geonameId>5068779</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>476</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NE">NE</adminCode1>
+<adminName1>Nebraska</adminName1>
+<adminCode2>151</adminCode2>
+<adminName2>Saline County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>2.1159629821777344</score>
+</geoname>
+</geonames>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Raside</toponymName>
+<name>Raside</name>
+<lat>32.59868</lat>
+<lng>74.20867</lng>
+<geonameId>1412855</geonameId>
+<countryCode>PK</countryCode>
+<countryName>Pakistan</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="PB">04</adminCode1>
+<adminName1>Punjab</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="5.0" gmtOffset="5.0">Asia/Karachi</timezone>
+<bbox>
+<west>74.19799</west>
+<north>32.60767</north>
+<east>74.21935</east>
+<south>32.58968</south>
+</bbox>
+<score>26.996883392333984</score>
+</geoname>
+<geoname>
+<toponymName>Radike</toponymName>
+<name>Radike</name>
+<lat>-9.8</lat>
+<lng>149.56667</lng>
+<geonameId>2087878</geonameId>
+<countryCode>PG</countryCode>
+<countryName>Papua New Guinea</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="MBA">03</adminCode1>
+<adminName1>Milne Bay</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="10.0" gmtOffset="10.0">Pacific/Port_Moresby</timezone>
+<bbox>
+<west>149.55754</west>
+<north>-9.79101</north>
+<east>149.57579</east>
+<south>-9.80899</south>
+</bbox>
+<score>25.667139053344727</score>
+</geoname>
+<geoname>
+<toponymName>Radiše</toponymName>
+<name>Radiše</name>
+<lat>44.19686</lat>
+<lng>17.48777</lng>
+<geonameId>3237863</geonameId>
+<countryCode>BA</countryCode>
+<countryName>Bosnia and Herzegovina</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="BIH">01</adminCode1>
+<adminName1>Federation of Bosnia and Herzegovina</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Sarajevo</timezone>
+<bbox>
+<west>17.47523</west>
+<north>44.20585</north>
+<east>17.50032</east>
+<south>44.18786</south>
+</bbox>
+<score>25.667139053344727</score>
+</geoname>
+<geoname>
+<toponymName>Radsberg</toponymName>
+<name>Radsberg</name>
+<lat>46.58722</lat>
+<lng>14.41889</lng>
+<geonameId>2768100</geonameId>
+<countryCode>AT</countryCode>
+<countryName>Austria</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Radise,Radiše,Radsberg</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="2">02</adminCode1>
+<adminName1>Carinthia</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="de">Radsberg</alternateName>
+<alternateName lang="sl">Radiše</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Vienna</timezone>
+<bbox>
+<west>14.4058</west>
+<north>46.59622</north>
+<east>14.43198</east>
+<south>46.57823</south>
+</bbox>
+<score>22.4587459564209</score>
+</geoname>
+<geoname>
+<toponymName>Radika</toponymName>
+<name>Lake Debar</name>
+<lat>41.48333</lat>
+<lng>20.51667</lng>
+<geonameId>786601</geonameId>
+<countryCode>MK</countryCode>
+<countryName>Macedonia</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>Lake Debar,Radika,Radike</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Lake Debar</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Radika</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Skopje</timezone>
+<score>13.612056732177734</score>
+</geoname>
+</geonames>

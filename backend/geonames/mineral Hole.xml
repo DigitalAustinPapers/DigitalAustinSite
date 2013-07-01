@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>36</totalResultsCount>
+<geoname>
+<toponymName>Mineral’noye</toponymName>
+<name>Mineral’noye</name>
+<lat>47.51667</lat>
+<lng>141.96667</lng>
+<geonameId>2123268</geonameId>
+<countryCode>RU</countryCode>
+<countryName>Russia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Aushi,Aushiniekannaibo,Mineral'noe,Mineral'noye,Mineralino,Mineralinoye,Mineral’noye,Минеральное</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SAK">64</adminCode1>
+<adminName1>Sakhalin</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ru">Минеральное</alternateName>
+<timezone dstOffset="11.0" gmtOffset="11.0">Asia/Sakhalin</timezone>
+<bbox>
+<west>141.95335</west>
+<north>47.52566</north>
+<east>141.97999</east>
+<south>47.50767</south>
+</bbox>
+<score>47.483497619628906</score>
+</geoname>
+<geoname>
+<toponymName>Mineral’noye</toponymName>
+<name>Mineral’noye</name>
+<lat>44.39345</lat>
+<lng>133.60309</lng>
+<geonameId>6269123</geonameId>
+<countryCode>RU</countryCode>
+<countryName>Russia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Mineral'noe,Mineral'noye,Mineral’noye,Минеральное</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="PRI">59</adminCode1>
+<adminName1>Primorskiy</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ru">Минеральное</alternateName>
+<timezone dstOffset="11.0" gmtOffset="11.0">Asia/Vladivostok</timezone>
+<bbox>
+<west>133.5905</west>
+<north>44.40245</north>
+<east>133.61568</east>
+<south>44.38446</south>
+</bbox>
+<score>47.483497619628906</score>
+</geoname>
+<geoname>
+<toponymName>Mineral Hill</toponymName>
+<name>Mineral Hill</name>
+<lat>-63.47987</lat>
+<lng>-57.05175</lng>
+<geonameId>6638162</geonameId>
+<countryCode>AQ</countryCode>
+<countryName>Antarctica</countryName>
+<fcl>T</fcl>
+<fcode>HLL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>hill</fcodeName>
+<population/>
+<alternateNames>Mineral Hill</alternateNames>
+<elevation>445</elevation>
+<continentCode>AN</continentCode>
+<adminCode1/>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Mineral Hill</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Mineral_Hill</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-3.0">Antarctica/Palmer</timezone>
+<score>40.9552001953125</score>
+</geoname>
+<geoname>
+<toponymName>Mineral Hill</toponymName>
+<name>Mineral Hill</name>
+<lat>39.48832</lat>
+<lng>-105.99418</lng>
+<geonameId>5431345</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>MT</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>mountain</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>3291</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CO">CO</adminCode1>
+<adminName1>Colorado</adminName1>
+<adminCode2>117</adminCode2>
+<adminName2>Summit County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<score>40.5435791015625</score>
+</geoname>
+<geoname>
+<toponymName>Mineral Hill</toponymName>
+<name>Mineral Hill</name>
+<lat>38.76443</lat>
+<lng>-105.17554</lng>
+<geonameId>5431346</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>MT</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>mountain</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>3119</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CO">CO</adminCode1>
+<adminName1>Colorado</adminName1>
+<adminCode2>119</adminCode2>
+<adminName2>Teller County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<score>40.5435791015625</score>
+</geoname>
+<geoname>
+<toponymName>Mineral’nyy</toponymName>
+<name>Mineral'noye</name>
+<lat>43.54549</lat>
+<lng>45.32759</lng>
+<geonameId>526481</geonameId>
+<countryCode>RU</countryCode>
+<countryName>Russia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Mineral'noe,Mineral'noye,Mineral'nyj,Mineral'nyy,Mineral’noye,Mineral’nyj,Mineral’nyy,Sovkhoz Mineral'nyy,Sovkhoz Mineral’nyy,Zebir-Jurt,Zibar-Yurt,Zibir-Yurt,Зебир-Юрт,Минеральное,Минеральный</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="CE">12</adminCode1>
+<adminName1>Chechnya</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Mineral'noye</alternateName>
+<alternateName lang="no">Zebir-Jurt</alternateName>
+<alternateName lang="ru">Минеральное</alternateName>
+<timezone dstOffset="4.0" gmtOffset="4.0">Europe/Moscow</timezone>
+<bbox>
+<west>45.31518</west>
+<north>43.55449</north>
+<east>45.34</east>
+<south>43.5365</south>
+</bbox>
+<score>29.395994186401367</score>
+</geoname>
+<geoname>
+<toponymName>Mineral Hill</toponymName>
+<name>Mineral Hill</name>
+<lat>39.49048</lat>
+<lng>-115.98506</lng>
+<geonameId>5508397</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>MT</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>mountain</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>2285</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NV">NV</adminCode1>
+<adminName1>Nevada</adminName1>
+<adminCode2>011</adminCode2>
+<adminName2>Eureka County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>28.959697723388672</score>
+</geoname>
+<geoname>
+<toponymName>Mineral Hill</toponymName>
+<name>Mineral Hill</name>
+<lat>38.46718</lat>
+<lng>-114.3186</lng>
+<geonameId>5508398</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>MT</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>mountain</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>2213</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NV">NV</adminCode1>
+<adminName1>Nevada</adminName1>
+<adminCode2>017</adminCode2>
+<adminName2>Lincoln County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>28.959697723388672</score>
+</geoname>
+<geoname>
+<toponymName>Mineral Hill</toponymName>
+<name>Mineral Hill</name>
+<lat>45.58935</lat>
+<lng>-115.66596</lng>
+<geonameId>5601115</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>MT</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>mountain</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>2550</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ID">ID</adminCode1>
+<adminName1>Idaho</adminName1>
+<adminCode2>049</adminCode2>
+<adminName2>Idaho County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>28.959697723388672</score>
+</geoname>
+<geoname>
+<toponymName>Mineral Hill</toponymName>
+<name>Mineral Hill</name>
+<lat>44.73354</lat>
+<lng>-113.40337</lng>
+<geonameId>5601126</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>MT</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>mountain</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>2036</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ID">ID</adminCode1>
+<adminName1>Idaho</adminName1>
+<adminCode2>059</adminCode2>
+<adminName2>Lemhi County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Boise</timezone>
+<score>28.959697723388672</score>
+</geoname>
+</geonames>

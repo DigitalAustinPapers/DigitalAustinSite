@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>6</totalResultsCount>
+<geoname>
+<toponymName>Branches</toponymName>
+<name>Branches</name>
+<lat>47.88356</lat>
+<lng>3.48136</lng>
+<geonameId>3030571</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>408</population>
+<alternateNames>Branches</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="D">A1</adminCode1>
+<adminName1>Bourgogne</adminName1>
+<adminCode2>89</adminCode2>
+<adminName2>Yonne</adminName2>
+<adminCode3>891</adminCode3>
+<adminName3>Arrondissement d'Auxerre</adminName3>
+<adminCode4>89053</adminCode4>
+<adminName4>Branches</adminName4>
+<alternateName lang="post">89113</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>3.48002</west>
+<north>47.88445</north>
+<east>3.48271</east>
+<south>47.88266</south>
+</bbox>
+<score>49.67298889160156</score>
+</geoname>
+<geoname>
+<toponymName>Branches</toponymName>
+<name>Branches</name>
+<lat>47.88417</lat>
+<lng>3.48167</lng>
+<geonameId>6451844</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population>415</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="D">A1</adminCode1>
+<adminName1>Bourgogne</adminName1>
+<adminCode2>89</adminCode2>
+<adminName2>Yonne</adminName2>
+<adminCode3>891</adminCode3>
+<adminName3>Arrondissement d'Auxerre</adminName3>
+<adminCode4>89053</adminCode4>
+<adminName4>Branches</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Branches%2C_Yonne</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>3.46226</west>
+<north>47.90563</north>
+<east>3.50503</east>
+<south>47.84328</south>
+</bbox>
+<score>40.55782699584961</score>
+</geoname>
+<geoname>
+<toponymName>Brinches</toponymName>
+<name>Brinches</name>
+<lat>38.04409</lat>
+<lng>-7.58229</lng>
+<geonameId>8010920</geonameId>
+<countryCode>PT</countryCode>
+<countryName>Portugal</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="02">03</adminCode1>
+<adminName1>Beja</adminName1>
+<adminCode2>0213</adminCode2>
+<adminName2>Serpa</adminName2>
+<adminCode3>021302</adminCode3>
+<adminName3>Brinches</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Lisbon</timezone>
+<bbox>
+<west>-7.65405</west>
+<north>38.10618</north>
+<east>-7.51052</east>
+<south>37.98199</south>
+</bbox>
+<score>26.616069793701172</score>
+</geoname>
+<geoname>
+<toponymName>Brinches</toponymName>
+<name>Brinches</name>
+<lat>38.03606</lat>
+<lng>-7.60432</lng>
+<geonameId>2270676</geonameId>
+<countryCode>PT</countryCode>
+<countryName>Portugal</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="02">03</adminCode1>
+<adminName1>Beja</adminName1>
+<adminCode2>0213</adminCode2>
+<adminName2>Serpa</adminName2>
+<adminCode3>021302</adminCode3>
+<adminName3>Brinches</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Lisbon</timezone>
+<bbox>
+<west>-7.61574</west>
+<north>38.04505</north>
+<east>-7.5929</east>
+<south>38.02706</south>
+</bbox>
+<score>15.209182739257812</score>
+</geoname>
+<geoname>
+<toponymName>Braches</toponymName>
+<name>Braches</name>
+<lat>49.73285</lat>
+<lng>2.50636</lng>
+<geonameId>3030630</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>204</population>
+<alternateNames>Braches</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="S">B6</adminCode1>
+<adminName1>Picardie</adminName1>
+<adminCode2>80</adminCode2>
+<adminName2>Somme</adminName2>
+<adminCode3>803</adminCode3>
+<adminName3>Arrondissement de Montdidier</adminName3>
+<adminCode4>80132</adminCode4>
+<adminName4>Braches</adminName4>
+<alternateName lang="post">80110</alternateName>
+<alternateName lang="unlc">BHE</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>2.50497</west>
+<north>49.73375</north>
+<east>2.50775</east>
+<south>49.73195</south>
+</bbox>
+<score>12.41824722290039</score>
+</geoname>
+<geoname>
+<toponymName>Braches</toponymName>
+<name>Braches</name>
+<lat>49.73306</lat>
+<lng>2.50639</lng>
+<geonameId>6444297</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population>223</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="S">B6</adminCode1>
+<adminName1>Picardie</adminName1>
+<adminCode2>80</adminCode2>
+<adminName2>Somme</adminName2>
+<adminCode3>803</adminCode3>
+<adminName3>Arrondissement de Montdidier</adminName3>
+<adminCode4>80132</adminCode4>
+<adminName4>Braches</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Braches</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>2.47562</west>
+<north>49.75051</north>
+<east>2.52095</east>
+<south>49.70725</south>
+</bbox>
+<score>11.587949752807617</score>
+</geoname>
+</geonames>

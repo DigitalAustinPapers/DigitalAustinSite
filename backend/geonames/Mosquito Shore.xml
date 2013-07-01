@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Mosquito Shoal</toponymName>
+<name>Mosquito Shoal</name>
+<lat>47.61665</lat>
+<lng>-56.21505</lng>
+<geonameId>6079261</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>U</fcl>
+<fcode>SHSU</fcode>
+<fclName>undersea</fclName>
+<fcodeName>shoals</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NL">05</adminCode1>
+<adminName1>Newfoundland and Labrador</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-2.5" gmtOffset="-3.5">America/St_Johns</timezone>
+<score>35.7742805480957</score>
+</geoname>
+<geoname>
+<toponymName>Mosquito Hole</toponymName>
+<name>Mosquito Hole</name>
+<lat>44.93345</lat>
+<lng>-64.61547</lng>
+<geonameId>6079214</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>H</fcl>
+<fcode>BAY</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>bay</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NS">07</adminCode1>
+<adminName1>Nova Scotia</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-3.0" gmtOffset="-4.0">America/Halifax</timezone>
+<score>9.029565811157227</score>
+</geoname>
+</geonames>

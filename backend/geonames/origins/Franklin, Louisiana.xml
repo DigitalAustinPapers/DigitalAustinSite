@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>443</totalResultsCount>
+<geoname>
+<toponymName>Franklin Parish</toponymName>
+<name>Franklin Parish</name>
+<lat>32.13322</lat>
+<lng>-91.67377</lng>
+<geonameId>4325158</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>20767</population>
+<alternateNames>Paroisse de Franklin</alternateNames>
+<elevation>24</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>041</adminCode2>
+<adminName2>Franklin Parish</adminName2>
+<alternateName lang="fr">Paroisse de Franklin</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Franklin_Parish%2C_Louisiana</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-91.9305</west>
+<north>32.40642</north>
+<east>-91.45074</east>
+<south>31.87229</south>
+</bbox>
+<score>12.567441940307617</score>
+</geoname>
+<geoname>
+<toponymName>Franklin</toponymName>
+<name>Franklin</name>
+<lat>29.79604</lat>
+<lng>-91.5015</lng>
+<geonameId>4325150</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>7660</population>
+<alternateNames>Franklin,Франклин</alternateNames>
+<elevation>3</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>101</adminCode2>
+<adminName2>Saint Mary Parish</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Franklin%2C_Louisiana</alternateName>
+<alternateName lang="post">70538</alternateName>
+<alternateName lang="ru">Франклин</alternateName>
+<alternateName lang="unlc">RNK</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-91.54691</west>
+<north>29.82295</north>
+<east>-91.47839</east>
+<south>29.75327</south>
+</bbox>
+<score>7.86297607421875</score>
+</geoname>
+<geoname>
+<toponymName>Baskin</toponymName>
+<name>Baskin</name>
+<lat>32.25904</lat>
+<lng>-91.74763</lng>
+<geonameId>4315520</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>254</population>
+<alternateNames/>
+<elevation>22</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>041</adminCode2>
+<adminName2>Franklin Parish</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Baskin%2C_Louisiana</alternateName>
+<alternateName lang="post">71219</alternateName>
+<alternateName lang="unlc">QBA</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-91.76213</west>
+<north>32.26876</north>
+<east>-91.73579</east>
+<south>32.24685</south>
+</bbox>
+<score>6.887326717376709</score>
+</geoname>
+<geoname>
+<toponymName>Batese Lake</toponymName>
+<name>Batese Lake</name>
+<lat>31.99096</lat>
+<lng>-91.54654</lng>
+<geonameId>4315558</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>LK</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>lake</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>15</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>041</adminCode2>
+<adminName2>Franklin Parish</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>6.887326717376709</score>
+</geoname>
+<geoname>
+<toponymName>Beeler Lake</toponymName>
+<name>Beeler Lake</name>
+<lat>32.11772</lat>
+<lng>-91.56319</lng>
+<geonameId>4316241</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>LK</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>lake</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>19</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>041</adminCode2>
+<adminName2>Franklin Parish</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>6.887326717376709</score>
+</geoname>
+<geoname>
+<toponymName>Bell Lake</toponymName>
+<name>Bell Lake</name>
+<lat>32.31053</lat>
+<lng>-91.76316</lng>
+<geonameId>4316307</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>LK</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>lake</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>17</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>041</adminCode2>
+<adminName2>Franklin Parish</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>6.887326717376709</score>
+</geoname>
+<geoname>
+<toponymName>Butler Landing</toponymName>
+<name>Butler Landing</name>
+<lat>32.36734</lat>
+<lng>-91.48499</lng>
+<geonameId>4318459</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>LK</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>lake</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>23</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>041</adminCode2>
+<adminName2>Franklin Parish</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>6.887326717376709</score>
+</geoname>
+<geoname>
+<toponymName>Calf Lake</toponymName>
+<name>Calf Lake</name>
+<lat>32.00784</lat>
+<lng>-91.51841</lng>
+<geonameId>4318606</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>LK</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>lake</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>16</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>041</adminCode2>
+<adminName2>Franklin Parish</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>6.887326717376709</score>
+</geoname>
+<geoname>
+<toponymName>Clarks Bayou</toponymName>
+<name>Clarks Bayou</name>
+<lat>31.93614</lat>
+<lng>-91.58582</lng>
+<geonameId>4320155</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>LK</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>lake</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>16</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>041</adminCode2>
+<adminName2>Franklin Parish</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>6.887326717376709</score>
+</geoname>
+<geoname>
+<toponymName>Dan Lake</toponymName>
+<name>Dan Lake</name>
+<lat>32.27759</lat>
+<lng>-91.76821</lng>
+<geonameId>4321623</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>LK</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>lake</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>17</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>041</adminCode2>
+<adminName2>Franklin Parish</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>6.887326717376709</score>
+</geoname>
+</geonames>

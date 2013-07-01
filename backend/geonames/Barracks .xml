@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>12</totalResultsCount>
+<geoname>
+<toponymName>Barracks</toponymName>
+<name>Barracks</name>
+<lat>38.05764</lat>
+<lng>-78.51335</lng>
+<geonameId>4745662</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>168</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>003</adminCode2>
+<adminName2>Albemarle County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Barracks%2C_Virginia</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-78.52477</west>
+<north>38.06663</north>
+<east>-78.50192</east>
+<south>38.04864</south>
+</bbox>
+<score>61.24699401855469</score>
+</geoname>
+<geoname>
+<toponymName>Barracas</toponymName>
+<name>Barracas</name>
+<lat>39.98375</lat>
+<lng>-0.68607</lng>
+<geonameId>6356978</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population>184</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="VC">60</adminCode1>
+<adminName1>Valencia</adminName1>
+<adminCode2>CS</adminCode2>
+<adminName2>Castellon</adminName2>
+<adminCode3>12020</adminCode3>
+<adminName3>Barracas</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Madrid</timezone>
+<bbox>
+<west>-0.74214</west>
+<north>40.04565</north>
+<east>-0.65448</east>
+<south>39.94835</south>
+</bbox>
+<score>22.88007354736328</score>
+</geoname>
+<geoname>
+<toponymName>Barracas</toponymName>
+<name>Barracas</name>
+<lat>40.01667</lat>
+<lng>-0.68333</lng>
+<geonameId>3128656</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>183</population>
+<alternateNames>Barracas,Barraques</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="VC">60</adminCode1>
+<adminName1>Valencia</adminName1>
+<adminCode2>CS</adminCode2>
+<adminName2>Castellon</adminName2>
+<adminCode3>12020</adminCode3>
+<adminName3>Barracas</adminName3>
+<alternateName lang="ca">Barraques</alternateName>
+<alternateName lang="es">Barracas</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Barracas%2C_Castell%C3%B3n</alternateName>
+<alternateName lang="post">12420</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Madrid</timezone>
+<bbox>
+<west>-0.68451</west>
+<north>40.01757</north>
+<east>-0.68216</east>
+<south>40.01577</south>
+</bbox>
+<score>16.178653717041016</score>
+</geoname>
+<geoname>
+<toponymName>Barracas</toponymName>
+<name>Barracas</name>
+<lat>-34.64966</lat>
+<lng>-58.38341</lng>
+<geonameId>3436134</geonameId>
+<countryCode>AR</countryCode>
+<countryName>Argentina</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames>Barakas,Barracas</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="C">07</adminCode1>
+<adminName1>Buenos Aires F.D.</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Barracas%2C_Buenos_Aires</alternateName>
+<alternateName lang="lt">Barakas</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Argentina/Buenos_Aires</timezone>
+<bbox>
+<west>-58.38778</west>
+<north>-34.64606</north>
+<east>-58.37903</east>
+<south>-34.65326</south>
+</bbox>
+<score>16.012714385986328</score>
+</geoname>
+<geoname>
+<toponymName>Barracas</toponymName>
+<name>Barracas</name>
+<lat>23.47506</lat>
+<lng>-109.45236</lng>
+<geonameId>4017480</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Barracas,Las Barracas</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="BCS">03</adminCode1>
+<adminName1>Baja California Sur</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Mazatlan</timezone>
+<bbox>
+<west>-109.46217</west>
+<north>23.48405</north>
+<east>-109.44256</east>
+<south>23.46607</south>
+</bbox>
+<score>16.012714385986328</score>
+</geoname>
+<geoname>
+<toponymName>Stony Hill Barracks</toponymName>
+<name>Stony Hill Barracks</name>
+<lat>18.06667</lat>
+<lng>-76.81667</lng>
+<geonameId>3488378</geonameId>
+<countryCode>JM</countryCode>
+<countryName>Jamaica</countryName>
+<fcl>S</fcl>
+<fcode>FT</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>fort</fcodeName>
+<population/>
+<alternateNames>Barracks,Stony Hill Barracks</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="02">08</adminCode1>
+<adminName1>Saint Andrew</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Jamaica</timezone>
+<score>14.436055183410645</score>
+</geoname>
+<geoname>
+<toponymName>Barracas</toponymName>
+<name>Barracas</name>
+<lat>-6.96667</lat>
+<lng>-38.88333</lng>
+<geonameId>3406358</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="CE">06</adminCode1>
+<adminName1>Ceará</adminName1>
+<adminCode2>2301703</adminCode2>
+<adminName2>Aurora</adminName2>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Fortaleza</timezone>
+<bbox>
+<west>-38.89239</west>
+<north>-6.95767</north>
+<east>-38.87427</east>
+<south>-6.97566</south>
+</bbox>
+<score>13.07432746887207</score>
+</geoname>
+<geoname>
+<toponymName>Barracas</toponymName>
+<name>Barracas</name>
+<lat>15.41667</lat>
+<lng>-88.83333</lng>
+<geonameId>3599572</geonameId>
+<countryCode>GT</countryCode>
+<countryName>Guatemala</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IZ">09</adminCode1>
+<adminName1>Izabal</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Guatemala</timezone>
+<bbox>
+<west>-88.84266</west>
+<north>15.42566</north>
+<east>-88.824</east>
+<south>15.40767</south>
+</bbox>
+<score>13.07432746887207</score>
+</geoname>
+<geoname>
+<toponymName>Barrack</toponymName>
+<name>Barrack</name>
+<lat>52.05028</lat>
+<lng>-8.5975</lng>
+<geonameId>3292054</geonameId>
+<countryCode>IE</countryCode>
+<countryName>Ireland</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="M">M</adminCode1>
+<adminName1>Munster</adminName1>
+<adminCode2>04</adminCode2>
+<adminName2>Cork</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Dublin</timezone>
+<bbox>
+<west>-8.61213</west>
+<north>52.05927</north>
+<east>-8.58287</east>
+<south>52.04128</south>
+</bbox>
+<score>12.27048397064209</score>
+</geoname>
+<geoname>
+<toponymName>Barracas</toponymName>
+<name>Barracas</name>
+<lat>-26.048</lat>
+<lng>-49.9166</lng>
+<geonameId>8306836</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames>Barracas</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="SC">26</adminCode1>
+<adminName1>Santa Catarina</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="pt">Barracas</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Sao_Paulo</timezone>
+<score>12.009535789489746</score>
+</geoname>
+</geonames>

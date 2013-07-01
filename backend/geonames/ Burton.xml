@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>120</totalResultsCount>
+<geoname>
+<toponymName>Burton</toponymName>
+<name>Burton</name>
+<lat>53.26667</lat>
+<lng>-0.56667</lng>
+<geonameId>2654216</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>4106</population>
+<alternateNames>Burton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UH</adminCode3>
+<adminName3>West Lindsey District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Burton%2C_Lincolnshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.57969</west>
+<north>53.27446</north>
+<east>-0.55364</east>
+<south>53.25888</south>
+</bbox>
+<score>56.38207244873047</score>
+</geoname>
+<geoname>
+<toponymName>Burton</toponymName>
+<name>Burton</name>
+<lat>51.7267</lat>
+<lng>-4.91895</lng>
+<geonameId>7292298</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS006</adminCode3>
+<adminName3>Burton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.95105</west>
+<north>51.74854</north>
+<east>-4.88685</east>
+<south>51.70486</south>
+</bbox>
+<score>46.0357666015625</score>
+</geoname>
+<geoname>
+<toponymName>Burton</toponymName>
+<name>Burton</name>
+<lat>51.71556</lat>
+<lng>-4.92222</lng>
+<geonameId>2654218</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Burton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS006</adminCode3>
+<adminName3>Burton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Burton%2C_Pembrokeshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.95127</west>
+<north>51.73354</north>
+<east>-4.89318</east>
+<south>51.69757</south>
+</bbox>
+<score>40.27290725708008</score>
+</geoname>
+<geoname>
+<toponymName>Burton</toponymName>
+<name>Burton</name>
+<lat>53.25954</lat>
+<lng>-3.02549</lng>
+<geonameId>2654217</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C5</adminCode2>
+<adminName2>GB.ENG.C5</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Burton%2C_Neston%2C_Cheshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.04053</west>
+<north>53.26853</north>
+<east>-3.01045</east>
+<south>53.25055</south>
+</bbox>
+<score>39.459228515625</score>
+</geoname>
+<geoname>
+<toponymName>Burton</toponymName>
+<name>Burton</name>
+<lat>50.75079</lat>
+<lng>-1.76502</lng>
+<geonameId>2654219</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UC</adminCode3>
+<adminName3>Christchurch District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Burton%2C_Dorset</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.77924</west>
+<north>50.75979</north>
+<east>-1.7508</east>
+<south>50.7418</south>
+</bbox>
+<score>39.459228515625</score>
+</geoname>
+<geoname>
+<toponymName>Burton</toponymName>
+<name>Burton</name>
+<lat>39.90477</lat>
+<lng>-91.24903</lng>
+<geonameId>4234892</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>200</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>001</adminCode2>
+<adminName2>Adams County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Burton%2C_Illinois</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-91.26076</west>
+<north>39.91376</north>
+<east>-91.23731</east>
+<south>39.89577</south>
+</bbox>
+<score>39.459228515625</score>
+</geoname>
+<geoname>
+<toponymName>Burton</toponymName>
+<name>Burton</name>
+<lat>37.35955</lat>
+<lng>-82.72377</lng>
+<geonameId>4286327</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>277</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>071</adminCode2>
+<adminName2>Floyd County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Burton%2C_Kentucky</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-82.73508</west>
+<north>37.36854</north>
+<east>-82.71245</east>
+<south>37.35055</south>
+</bbox>
+<score>39.459228515625</score>
+</geoname>
+<geoname>
+<toponymName>Burton</toponymName>
+<name>Burton</name>
+<lat>32.43575</lat>
+<lng>-80.724</lng>
+<geonameId>4572881</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>6976</population>
+<alternateNames>Berton,Бертон</alternateNames>
+<elevation>10</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SC">SC</adminCode1>
+<adminName1>South Carolina</adminName1>
+<adminCode2>013</adminCode2>
+<adminName2>Beaufort County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Burton%2C_South_Carolina</alternateName>
+<alternateName lang="ru">Бертон</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-80.73591</west>
+<north>32.4458</north>
+<east>-80.71208</east>
+<south>32.42569</south>
+</bbox>
+<score>39.459228515625</score>
+</geoname>
+<geoname>
+<toponymName>Burton</toponymName>
+<name>Burton</name>
+<lat>39.66397</lat>
+<lng>-80.43064</lng>
+<geonameId>4800910</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>327</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WV">WV</adminCode1>
+<adminName1>West Virginia</adminName1>
+<adminCode2>103</adminCode2>
+<adminName2>Wetzel County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Burton%2C_West_Virginia</alternateName>
+<alternateName lang="post">26562</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-80.44232</west>
+<north>39.67296</north>
+<east>-80.41895</east>
+<south>39.65498</south>
+</bbox>
+<score>39.459228515625</score>
+</geoname>
+<geoname>
+<toponymName>Burton</toponymName>
+<name>Burton</name>
+<lat>42.99947</lat>
+<lng>-83.61634</lng>
+<geonameId>4987482</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>29999</population>
+<alternateNames>Berton,Бертон</alternateNames>
+<elevation>235</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MI">MI</adminCode1>
+<adminName1>Michigan</adminName1>
+<adminCode2>049</adminCode2>
+<adminName2>Genesee County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Burton%2C_Michigan</alternateName>
+<alternateName lang="post">48509</alternateName>
+<alternateName lang="ru">Бертон</alternateName>
+<alternateName lang="unlc">QBU</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Detroit</timezone>
+<bbox>
+<west>-83.69283</west>
+<north>43.04821</north>
+<east>-83.57375</east>
+<south>42.95958</south>
+</bbox>
+<score>39.459228515625</score>
+</geoname>
+</geonames>

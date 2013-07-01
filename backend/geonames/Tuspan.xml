@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>54</totalResultsCount>
+<geoname>
+<toponymName>Tuspán</toponymName>
+<name>Tuspán</name>
+<lat>17.2304</lat>
+<lng>-90.62983</lng>
+<geonameId>8309994</geonameId>
+<countryCode>GT</countryCode>
+<countryName>Guatemala</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames>Tuspan,Tuspán</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PE">12</adminCode1>
+<adminName1>Petén</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="es">Tuspán</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Guatemala</timezone>
+<score>43.115455627441406</score>
+</geoname>
+<geoname>
+<toponymName>Tuxpan</toponymName>
+<name>Tuxpan</name>
+<lat>19.55555</lat>
+<lng>-103.37587</lng>
+<geonameId>3980844</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>32462</population>
+<alternateNames>Tuxpan</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="JAL">14</adminCode1>
+<adminName1>Jalisco</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Tuxpan%2C_Jalisco</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-103.40067</west>
+<north>19.57892</north>
+<east>-103.35107</east>
+<south>19.53219</south>
+</bbox>
+<score>12.860445022583008</score>
+</geoname>
+<geoname>
+<toponymName>Tulpan</toponymName>
+<name>Tulpan</name>
+<lat>61.35796</lat>
+<lng>57.41405</lng>
+<geonameId>480513</geonameId>
+<countryCode>RU</countryCode>
+<countryName>Russia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Tulpan,Тулпан</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="PER">90</adminCode1>
+<adminName1>Perm</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Tulpan</alternateName>
+<alternateName lang="no">Tulpan</alternateName>
+<alternateName lang="ru">Тулпан</alternateName>
+<timezone dstOffset="6.0" gmtOffset="6.0">Asia/Yekaterinburg</timezone>
+<bbox>
+<west>57.39528</west>
+<north>61.36696</north>
+<east>57.43282</east>
+<south>61.34897</south>
+</bbox>
+<score>10.755304336547852</score>
+</geoname>
+<geoname>
+<toponymName>Turpan</toponymName>
+<name>Turfan</name>
+<lat>42.93333</lat>
+<lng>89.16667</lng>
+<geonameId>1529114</geonameId>
+<countryCode>CN</countryCode>
+<countryName>China</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>254900</population>
+<alternateNames>Lukchun,T'u-lu-fan,T'u-lu-fan-chen,T'u-lu-fan-hsien,T'urfang,TLQ,Tourfan,Tufan,Turfan,Turfán,Turpan,T’u-lu-fan,T’u-lu-fan-chen,T’u-lu-fan-hsien,T’urfang,to~urufan,tu lu fan shi,tuleupan,Турпан,Турфан,تۇرپان,トゥルファン,吐鲁番市,투르판</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="65">13</adminCode1>
+<adminName1>Xinjiang Uygur Zizhiqu</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="be">Турфан</alternateName>
+<alternateName lang="bg">Турфан</alternateName>
+<alternateName lang="de">Turfan</alternateName>
+<alternateName lang="en">Turfan</alternateName>
+<alternateName lang="eo">Turfan</alternateName>
+<alternateName lang="es">Turfán</alternateName>
+<alternateName lang="fr">Tourfan</alternateName>
+<alternateName lang="iata">TLQ</alternateName>
+<alternateName lang="ja">トゥルファン</alternateName>
+<alternateName lang="ko">투르판</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Turpan</alternateName>
+<alternateName lang="nl">Turpan</alternateName>
+<alternateName lang="pl">Turpan</alternateName>
+<alternateName lang="ru">Турфан</alternateName>
+<alternateName lang="ug">تۇرپان</alternateName>
+<alternateName lang="zh-CN">吐鲁番市</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Urumqi</timezone>
+<bbox>
+<west>89.07714</west>
+<north>42.99881</north>
+<east>89.25619</east>
+<south>42.86786</south>
+</bbox>
+<score>9.995840072631836</score>
+</geoname>
+<geoname>
+<toponymName>Tussan</toponymName>
+<name>Tussan</name>
+<lat>62.86667</lat>
+<lng>7.55</lng>
+<geonameId>3133716</geonameId>
+<countryCode>NO</countryCode>
+<countryName>Norway</countryName>
+<fcl>T</fcl>
+<fcode>MT</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>mountain</fcodeName>
+<population/>
+<alternateNames>Tussan,Tussen</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="15">08</adminCode1>
+<adminName1>Møre og Romsdal</adminName1>
+<adminCode2>1557</adminCode2>
+<adminName2>Gjemnes</adminName2>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Oslo</timezone>
+<score>8.297566413879395</score>
+</geoname>
+<geoname>
+<toponymName>Tūstān</toponymName>
+<name>Tūstān</name>
+<lat>37.22679</lat>
+<lng>49.97977</lng>
+<geonameId>112459</geonameId>
+<countryCode>IR</countryCode>
+<countryName>Iran</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Toostan,Tustan,Tūstān,twstan,توستان</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="19">08</adminCode1>
+<adminName1>Gīlān</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="fa">توستان</alternateName>
+<timezone dstOffset="4.5" gmtOffset="3.5">Asia/Tehran</timezone>
+<bbox>
+<west>49.96848</west>
+<north>37.23578</north>
+<east>49.99107</east>
+<south>37.21779</south>
+</bbox>
+<score>7.97061824798584</score>
+</geoname>
+<geoname>
+<toponymName>Tulpan</toponymName>
+<name>Tulpan</name>
+<lat>19.55</lat>
+<lng>-99.23333</lng>
+<geonameId>3515048</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Tulipan,Tulpan</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MEX">15</adminCode1>
+<adminName1>México</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-99.24288</west>
+<north>19.55899</north>
+<east>-99.22379</east>
+<south>19.54101</south>
+</bbox>
+<score>7.605147838592529</score>
+</geoname>
+<geoname>
+<toponymName>Tuxpan de Rodríguez Cano</toponymName>
+<name>Tuxpan de Rodríguez Cano</name>
+<lat>20.95773</lat>
+<lng>-97.40798</lng>
+<geonameId>3515011</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>134394</population>
+<alternateNames>Tuxpam,Tuxpan,Tuxpan de Rodriguez Cano,Tuxpan de Rodríguez Cano,Túxpam</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VER">30</adminCode1>
+<adminName1>Veracruz-Llave</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="es">Túxpam</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Tuxpan%2C_Veracruz</alternateName>
+<alternateName lang="unlc">TUX</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-97.45873</west>
+<north>21.00511</north>
+<east>-97.35724</east>
+<south>20.91036</south>
+</bbox>
+<score>7.424981594085693</score>
+</geoname>
+<geoname>
+<toponymName>Turpan</toponymName>
+<name>Turpan</name>
+<lat>43.0303</lat>
+<lng>89.0972</lng>
+<geonameId>8260916</geonameId>
+<countryCode>CN</countryCode>
+<countryName>China</countryName>
+<fcl>S</fcl>
+<fcode>AIRP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>airport</fcodeName>
+<population/>
+<alternateNames>TLQ</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="65">13</adminCode1>
+<adminName1>Xinjiang Uygur Zizhiqu</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="iata">TLQ</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Urumqi</timezone>
+<score>7.213875770568848</score>
+</geoname>
+<geoname>
+<toponymName>Tuxpan</toponymName>
+<name>Tuxpan</name>
+<lat>19.56659</lat>
+<lng>-100.46221</lng>
+<geonameId>3980843</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>9324</population>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MIC">16</adminCode1>
+<adminName1>Michoacán</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-100.47484</west>
+<north>19.57848</north>
+<east>-100.44958</east>
+<south>19.55469</south>
+</bbox>
+<score>6.56281852722168</score>
+</geoname>
+</geonames>

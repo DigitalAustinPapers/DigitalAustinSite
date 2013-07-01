@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>7</totalResultsCount>
+<geoname>
+<toponymName>French Village</toponymName>
+<name>French Village</name>
+<lat>37.97255</lat>
+<lng>-90.38985</lng>
+<geonameId>4387321</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>274</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>187</adminCode2>
+<adminName2>Saint Francois County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/French_Village%2C_Missouri</alternateName>
+<alternateName lang="post">63036</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.40126</west>
+<north>37.98155</north>
+<east>-90.37843</east>
+<south>37.96356</south>
+</bbox>
+<score>63.09721374511719</score>
+</geoname>
+<geoname>
+<toponymName>French Village</toponymName>
+<name>French Village</name>
+<lat>44.63345</lat>
+<lng>-63.91542</lng>
+<geonameId>5958137</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NS">07</adminCode1>
+<adminName1>Nova Scotia</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/French_Village%2C_Nova_Scotia</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-4.0">America/Halifax</timezone>
+<score>63.09721374511719</score>
+</geoname>
+<geoname>
+<toponymName>French Village</toponymName>
+<name>French Village</name>
+<lat>38.60033</lat>
+<lng>-90.05011</lng>
+<geonameId>4239101</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>142</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>163</adminCode2>
+<adminName2>Saint Clair County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.06162</west>
+<north>38.60932</north>
+<east>-90.0386</east>
+<south>38.59133</south>
+</bbox>
+<score>42.0648078918457</score>
+</geoname>
+<geoname>
+<toponymName>French Village</toponymName>
+<name>French Village</name>
+<lat>45.43346</lat>
+<lng>-65.86554</lng>
+<geonameId>5958138</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NB">04</adminCode1>
+<adminName1>New Brunswick</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-3.0" gmtOffset="-4.0">America/Moncton</timezone>
+<score>42.0648078918457</score>
+</geoname>
+<geoname>
+<toponymName>French Village</toponymName>
+<name>French Village</name>
+<lat>45.95011</lat>
+<lng>-66.83218</lng>
+<geonameId>5958139</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NB">04</adminCode1>
+<adminName1>New Brunswick</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-3.0" gmtOffset="-4.0">America/Moncton</timezone>
+<score>42.0648078918457</score>
+</geoname>
+<geoname>
+<toponymName>French Village</toponymName>
+<name>French Village</name>
+<lat>46.40011</lat>
+<lng>-62.88197</lng>
+<geonameId>5958135</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>P</fcl>
+<fcode>PPLL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PE">09</adminCode1>
+<adminName1>Prince Edward Island</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-3.0" gmtOffset="-4.0">America/Halifax</timezone>
+<bbox>
+<west>-62.88327</west>
+<north>46.40101</north>
+<east>-62.88066</east>
+<south>46.39921</south>
+</bbox>
+<score>26.290504455566406</score>
+</geoname>
+<geoname>
+<toponymName>French Village</toponymName>
+<name>French Village</name>
+<lat>46.40012</lat>
+<lng>-63.4154</lng>
+<geonameId>5958136</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>P</fcl>
+<fcode>PPLL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PE">09</adminCode1>
+<adminName1>Prince Edward Island</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-3.0" gmtOffset="-4.0">America/Halifax</timezone>
+<bbox>
+<west>-63.41671</west>
+<north>46.40102</north>
+<east>-63.4141</east>
+<south>46.39922</south>
+</bbox>
+<score>26.290504455566406</score>
+</geoname>
+</geonames>

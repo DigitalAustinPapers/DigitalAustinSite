@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>188</totalResultsCount>
+<geoname>
+<toponymName>Sabinas</toponymName>
+<name>Sabinas</name>
+<lat>23.2</lat>
+<lng>-100.06667</lng>
+<geonameId>3988334</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Sabinal,Sabinas</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TAM">28</adminCode1>
+<adminName1>Tamaulipas</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<bbox>
+<west>-100.07645</west>
+<north>23.20899</north>
+<east>-100.05688</east>
+<south>23.19101</south>
+</bbox>
+<score>41.98323059082031</score>
+</geoname>
+<geoname>
+<toponymName>Sabinas</toponymName>
+<name>Sabinas</name>
+<lat>27.86667</lat>
+<lng>-101.11667</lng>
+<geonameId>3988336</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>S</fcl>
+<fcode>AIRF</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>airfield</fcodeName>
+<population/>
+<alternateNames>Sabinas</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="COA">07</adminCode1>
+<adminName1>Coahuila</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Sabinas</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<score>35.935672760009766</score>
+</geoname>
+<geoname>
+<toponymName>Sabinos</toponymName>
+<name>Sabinos</name>
+<lat>16.42892</lat>
+<lng>-97.08055</lng>
+<geonameId>3520133</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Sabinas,Sabinos</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OAX">20</adminCode1>
+<adminName1>Oaxaca</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-97.08993</west>
+<north>16.43792</north>
+<east>-97.07118</east>
+<south>16.41993</south>
+</bbox>
+<score>33.46619415283203</score>
+</geoname>
+<geoname>
+<toponymName>Ciudad Sabinas</toponymName>
+<name>Ciudad Sabinas</name>
+<lat>27.85591</lat>
+<lng>-101.11738</lng>
+<geonameId>3988333</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>49199</population>
+<alternateNames>Ciudad Sabinas,Sabinas</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="COA">07</adminCode1>
+<adminName1>Coahuila</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="es">Ciudad Sabinas</alternateName>
+<alternateName lang="unlc">SBN</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<bbox>
+<west>-101.14956</west>
+<north>27.88435</north>
+<east>-101.08521</east>
+<south>27.82747</south>
+</bbox>
+<score>31.121206283569336</score>
+</geoname>
+<geoname>
+<toponymName>Sabinas</toponymName>
+<name>Sabinas</name>
+<lat>23.02458</lat>
+<lng>-99.0965</lng>
+<geonameId>3520145</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TAM">28</adminCode1>
+<adminName1>Tamaulipas</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<bbox>
+<west>-99.10627</west>
+<north>23.03358</north>
+<east>-99.08672</east>
+<south>23.01559</south>
+</bbox>
+<score>29.341354370117188</score>
+</geoname>
+<geoname>
+<toponymName>Sabinas</toponymName>
+<name>Sabinas</name>
+<lat>19.96667</lat>
+<lng>-103.01667</lng>
+<geonameId>3988335</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MIC">16</adminCode1>
+<adminName1>Michoacán</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-103.02624</west>
+<north>19.97566</north>
+<east>-103.0071</east>
+<south>19.95767</south>
+</bbox>
+<score>29.341354370117188</score>
+</geoname>
+<geoname>
+<toponymName>Los Sabinos</toponymName>
+<name>Los Sabinos</name>
+<lat>25.98333</lat>
+<lng>-105.93333</lng>
+<geonameId>3997189</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Los Sabinos,Sabinas,Sabinos</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="DUR">10</adminCode1>
+<adminName1>Durango</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<bbox>
+<west>-105.94334</west>
+<north>25.99233</north>
+<east>-105.92333</east>
+<south>25.97434</south>
+</bbox>
+<score>28.09062957763672</score>
+</geoname>
+<geoname>
+<toponymName>San Juan de Sabinas</toponymName>
+<name>San Juan de Sabinas</name>
+<lat>27.92942</lat>
+<lng>-101.30495</lng>
+<geonameId>3985846</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Sabinas,San Juan Sabinas,San Juan de Sabinas</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="COA">07</adminCode1>
+<adminName1>Coahuila</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/San_Juan_de_Sabinas_Municipality</alternateName>
+<alternateName lang="unlc">DSS</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<bbox>
+<west>-101.31513</west>
+<north>27.93841</north>
+<east>-101.29477</east>
+<south>27.92042</south>
+</bbox>
+<score>20.74747085571289</score>
+</geoname>
+<geoname>
+<toponymName>Las Sabinas</toponymName>
+<name>Las Sabinas</name>
+<lat>25.49554</lat>
+<lng>-100.11338</lng>
+<geonameId>3999270</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Las Sabinas,Sabinas</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NLE">19</adminCode1>
+<adminName1>Nuevo León</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<bbox>
+<west>-100.12334</west>
+<north>25.50454</north>
+<east>-100.10341</east>
+<south>25.48655</south>
+</bbox>
+<score>20.74747085571289</score>
+</geoname>
+<geoname>
+<toponymName>Sabinas</toponymName>
+<name>Sabinas</name>
+<lat>26.84627</lat>
+<lng>-99.58403</lng>
+<geonameId>3520143</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>Rio Sabinas,Río Sabinas,Sabinas</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NLE">19</adminCode1>
+<adminName1>Nuevo León</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="es">Sabinas</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<score>15.721857070922852</score>
+</geoname>
+</geonames>

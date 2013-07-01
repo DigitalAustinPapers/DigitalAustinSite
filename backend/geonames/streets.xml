@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>13</totalResultsCount>
+<geoname>
+<toponymName>Strelets</toponymName>
+<name>Strelets</name>
+<lat>52.41088</lat>
+<lng>38.21927</lng>
+<geonameId>487287</geonameId>
+<countryCode>RU</countryCode>
+<countryName>Russia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Strel'tsy,Strelec,Strelets,Streletskoye,Strel’tsy,Stryeletskoe,Стрелец</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="LIP">43</adminCode1>
+<adminName1>Lipetsk</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Strelets</alternateName>
+<alternateName lang="no">Strelets</alternateName>
+<alternateName lang="ru">Стрелец</alternateName>
+<timezone dstOffset="4.0" gmtOffset="4.0">Europe/Moscow</timezone>
+<bbox>
+<west>38.20452</west>
+<north>52.41987</north>
+<east>38.23402</east>
+<south>52.40188</south>
+</bbox>
+<score>38.85462188720703</score>
+</geoname>
+<geoname>
+<toponymName>Street</toponymName>
+<name>Street</name>
+<lat>51.12472</lat>
+<lng>-2.74</lng>
+<geonameId>2636671</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>11929</population>
+<alternateNames>Street</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UB</adminCode3>
+<adminName3>Mendip District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Street%2C_Somerset</alternateName>
+<alternateName lang="unlc">STE</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.7615</west>
+<north>51.13821</north>
+<east>-2.7185</east>
+<south>51.11123</south>
+</bbox>
+<score>32.99434280395508</score>
+</geoname>
+<geoname>
+<toponymName>Strelets</toponymName>
+<name>Strelets</name>
+<lat>42.28333</lat>
+<lng>25.76667</lng>
+<geonameId>726719</geonameId>
+<countryCode>BG</countryCode>
+<countryName>Bulgaria</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Strelec,Strelets,Strelez,Stryelets,Talashmanlii,Talashmanliy,Стрелец</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="24">59</adminCode1>
+<adminName1>Stara Zagora</adminName1>
+<adminCode2>SZR31</adminCode2>
+<adminName2>Obshtina Stara Zagora</adminName2>
+<alternateName lang="bg">Стрелец</alternateName>
+<alternateName lang="post">6092</alternateName>
+<timezone dstOffset="3.0" gmtOffset="2.0">Europe/Sofia</timezone>
+<bbox>
+<west>25.75451</west>
+<north>42.29233</north>
+<east>25.77882</east>
+<south>42.27434</south>
+</bbox>
+<score>30.096656799316406</score>
+</geoname>
+<geoname>
+<toponymName>Streetz</toponymName>
+<name>Streetz</name>
+<lat>53.10948</lat>
+<lng>11.06031</lng>
+<geonameId>2826044</geonameId>
+<countryCode>DE</countryCode>
+<countryName>Germany</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="NI">06</adminCode1>
+<adminName1>Lower Saxony</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Berlin</timezone>
+<bbox>
+<west>11.04533</west>
+<north>53.11848</north>
+<east>11.0753</east>
+<south>53.10049</south>
+</bbox>
+<score>29.985660552978516</score>
+</geoname>
+<geoname>
+<toponymName>Streetz</toponymName>
+<name>Streetz</name>
+<lat>51.93097</lat>
+<lng>12.22727</lng>
+<geonameId>2826045</geonameId>
+<countryCode>DE</countryCode>
+<countryName>Germany</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ST">14</adminCode1>
+<adminName1>Saxony-Anhalt</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Berlin</timezone>
+<bbox>
+<west>12.21268</west>
+<north>51.93996</north>
+<east>12.24186</east>
+<south>51.92197</south>
+</bbox>
+<score>29.985660552978516</score>
+</geoname>
+<geoname>
+<toponymName>Street</toponymName>
+<name>Street</name>
+<lat>53.66667</lat>
+<lng>-7.48333</lng>
+<geonameId>2961328</geonameId>
+<countryCode>IE</countryCode>
+<countryName>Ireland</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Street</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="L">L</adminCode1>
+<adminName1>Leinster</adminName1>
+<adminCode2>29</adminCode2>
+<adminName2>County Westmeath</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Street%2C_County_Westmeath</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Dublin</timezone>
+<bbox>
+<west>-7.49852</west>
+<north>53.67566</north>
+<east>-7.46815</east>
+<south>53.65767</south>
+</bbox>
+<score>28.280864715576172</score>
+</geoname>
+<geoname>
+<toponymName>Strelets</toponymName>
+<name>Strelets</name>
+<lat>43.76667</lat>
+<lng>27.71667</lng>
+<geonameId>726717</geonameId>
+<countryCode>BG</countryCode>
+<countryName>Bulgaria</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames>Omulkioi,Omur K'oy,Omur K’oy,Strelec,Strelets,Viisoara,Стрелец</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="08">40</adminCode1>
+<adminName1>Dobrich</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="bg">Стрелец</alternateName>
+<timezone dstOffset="3.0" gmtOffset="2.0">Europe/Sofia</timezone>
+<bbox>
+<west>27.71168</west>
+<north>43.77026</north>
+<east>27.72165</east>
+<south>43.76307</south>
+</bbox>
+<score>25.797134399414062</score>
+</geoname>
+<geoname>
+<toponymName>Strelets</toponymName>
+<name>Strelets</name>
+<lat>43.3</lat>
+<lng>25.76667</lng>
+<geonameId>726718</geonameId>
+<countryCode>BG</countryCode>
+<countryName>Bulgaria</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Obchilari,Obcilar,Obcilari,Občilar,Občilari,Strelec,Strelets,Strelez,Стрелец</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="04">62</adminCode1>
+<adminName1>Veliko Tŭrnovo</adminName1>
+<adminCode2>VTR06</adminCode2>
+<adminName2>Obshtina Gorna Oryakhovitsa</adminName2>
+<adminCode3>VTR06-11</adminCode3>
+<adminName3>Strelec</adminName3>
+<alternateName lang="bg">Стрелец</alternateName>
+<alternateName lang="post">5133</alternateName>
+<timezone dstOffset="3.0" gmtOffset="2.0">Europe/Sofia</timezone>
+<bbox>
+<west>25.75431</west>
+<north>43.30899</north>
+<east>25.77903</east>
+<south>43.29101</south>
+</bbox>
+<score>25.797134399414062</score>
+</geoname>
+<geoname>
+<toponymName>Street</toponymName>
+<name>Street</name>
+<lat>39.66899</lat>
+<lng>-76.37941</lng>
+<geonameId>4370543</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>163</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MD">MD</adminCode1>
+<adminName1>Maryland</adminName1>
+<adminCode2>025</adminCode2>
+<adminName2>Harford County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Street%2C_Maryland</alternateName>
+<alternateName lang="post">21154</alternateName>
+<alternateName lang="unlc">ST6</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-76.39109</west>
+<north>39.67799</north>
+<east>-76.36772</east>
+<south>39.66</south>
+</bbox>
+<score>19.242691040039062</score>
+</geoname>
+<geoname>
+<toponymName>Street</toponymName>
+<name>Street</name>
+<lat>51.11898</lat>
+<lng>-2.74156</lng>
+<geonameId>7292391</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UB</adminCode3>
+<adminName3>Mendip District</adminName3>
+<adminCode4>40UB050</adminCode4>
+<adminName4>Street</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.77201</west>
+<north>51.14263</north>
+<east>-2.71112</east>
+<south>51.09534</south>
+</bbox>
+<score>19.242691040039062</score>
+</geoname>
+</geonames>

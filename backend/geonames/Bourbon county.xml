@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Bourbon County</toponymName>
+<name>Bourbon County</name>
+<lat>37.85523</lat>
+<lng>-94.8493</lng>
+<geonameId>4268552</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>15173</population>
+<alternateNames>Bourbon Comitatus,Burbon,Burbon srjan,Comte de Bourbon,Comté de Bourbon,Condado de Bourbon,Condado han Bourbon,Contea di Bourbon,Hrabstwo Bourbon,Okrug Burbon,Quan Bourbon,Quận Bourbon,babon jun,baurabona ka'unti,bo pang xian,Бурбон,Округ Бурбон,Բուրբոն շրջան,مقاطعة بوربون، كانزاس,বৌরবোন কাউন্টি,バーボン郡,波旁縣</alternateNames>
+<elevation>278</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KS">KS</adminCode1>
+<adminName1>Kansas</adminName1>
+<adminCode2>011</adminCode2>
+<adminName2>Bourbon County</adminName2>
+<alternateName lang="ar">مقاطعة بوربون، كانزاس</alternateName>
+<alternateName lang="bpy">বৌরবোন কাউন্টি</alternateName>
+<alternateName lang="es">Condado de Bourbon</alternateName>
+<alternateName lang="fr">Comté de Bourbon</alternateName>
+<alternateName lang="hy">Բուրբոն շրջան</alternateName>
+<alternateName lang="it">Contea di Bourbon</alternateName>
+<alternateName lang="ja">バーボン郡</alternateName>
+<alternateName lang="la">Bourbon Comitatus</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bourbon_County%2C_Kansas</alternateName>
+<alternateName lang="pl">Hrabstwo Bourbon</alternateName>
+<alternateName lang="pt">Condado de Bourbon</alternateName>
+<alternateName lang="ru">Бурбон</alternateName>
+<alternateName lang="sr">Округ Бурбон</alternateName>
+<alternateName lang="uk">Бурбон</alternateName>
+<alternateName lang="vi">Quận Bourbon</alternateName>
+<alternateName lang="war">Condado han Bourbon</alternateName>
+<alternateName lang="zh">波旁縣</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-95.08894</west>
+<north>38.0376</north>
+<east>-94.61481</east>
+<south>37.67361</south>
+</bbox>
+<score>33.62925720214844</score>
+</geoname>
+<geoname>
+<toponymName>Bourbon County</toponymName>
+<name>Bourbon County</name>
+<lat>38.20673</lat>
+<lng>-84.21715</lng>
+<geonameId>4285233</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>19985</population>
+<alternateNames>Burbon,Burbon srjan,Burbun,Comte de Bourbon,Comté de Bourbon,Condado de Bourbon,Condado han Bourbon,Contea di Bourbon,Hrabstwo Bourbon,Quan Bourbon,Quận Bourbon,babon jun,baurabana ka'unti,bo pang xian,Бурбон,Бърбън,Բուրբոն շրջան,بوربون کاؤنٹی,مقاطعة بوربون، كنتاكي,বৌরবন কাউন্টি,バーボン郡,波旁縣</alternateNames>
+<elevation>254</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>017</adminCode2>
+<adminName2>Bourbon County</adminName2>
+<alternateName lang="ar">مقاطعة بوربون، كنتاكي</alternateName>
+<alternateName lang="bg">Бърбън</alternateName>
+<alternateName lang="bpy">বৌরবন কাউন্টি</alternateName>
+<alternateName lang="es">Condado de Bourbon</alternateName>
+<alternateName lang="fr">Comté de Bourbon</alternateName>
+<alternateName lang="hy">Բուրբոն շրջան</alternateName>
+<alternateName lang="it">Contea di Bourbon</alternateName>
+<alternateName lang="ja">バーボン郡</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bourbon_County%2C_Kentucky</alternateName>
+<alternateName lang="pl">Hrabstwo Bourbon</alternateName>
+<alternateName lang="pnb">بوربون کاؤنٹی</alternateName>
+<alternateName lang="pt">Condado de Bourbon</alternateName>
+<alternateName lang="uk">Бурбон</alternateName>
+<alternateName lang="vi">Quận Bourbon</alternateName>
+<alternateName lang="war">Condado han Bourbon</alternateName>
+<alternateName lang="zh">波旁縣</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-84.44228</west>
+<north>38.37162</north>
+<east>-83.96947</east>
+<south>38.06706</south>
+</bbox>
+<score>33.62925720214844</score>
+</geoname>
+</geonames>

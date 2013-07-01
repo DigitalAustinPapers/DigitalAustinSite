@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Jones Ledge</toponymName>
+<name>Jones Ledge</name>
+<lat>43.71647</lat>
+<lng>-70.19838</lng>
+<geonameId>4968483</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>BAR</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>bar</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>0</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ME">ME</adminCode1>
+<adminName1>Maine</adminName1>
+<adminCode2>005</adminCode2>
+<adminName2>Cumberland County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>43.39418029785156</score>
+</geoname>
+<geoname>
+<toponymName>Jones Ledge</toponymName>
+<name>Jones Ledge</name>
+<lat>41.4626</lat>
+<lng>-71.42006</lng>
+<geonameId>5222930</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>BNCH</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>bench</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>0</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="RI">RI</adminCode1>
+<adminName1>Rhode Island</adminName1>
+<adminCode2>009</adminCode2>
+<adminName2>Washington County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>43.39418029785156</score>
+</geoname>
+<geoname>
+<toponymName>Jones Ledge</toponymName>
+<name>Jones Ledge</name>
+<lat>43.68346</lat>
+<lng>-65.88215</lng>
+<geonameId>5987816</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>U</fcl>
+<fcode>LDGU</fcode>
+<fclName>undersea</fclName>
+<fcodeName>ledge</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NS">07</adminCode1>
+<adminName1>Nova Scotia</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-3.0" gmtOffset="-4.0">America/Halifax</timezone>
+<score>43.39418029785156</score>
+</geoname>
+<geoname>
+<toponymName>Jones Ledge</toponymName>
+<name>Jones Ledge</name>
+<lat>45.71685</lat>
+<lng>-64.61546</lng>
+<geonameId>5987817</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>U</fcl>
+<fcode>LDGU</fcode>
+<fclName>undersea</fclName>
+<fcodeName>ledge</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NB">04</adminCode1>
+<adminName1>New Brunswick</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-3.0" gmtOffset="-4.0">America/Moncton</timezone>
+<score>43.39418029785156</score>
+</geoname>
+</geonames>

@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>19</totalResultsCount>
+<geoname>
+<toponymName>Sandy</toponymName>
+<name>Sandy</name>
+<lat>52.12927</lat>
+<lng>-0.28925</lng>
+<geonameId>2638530</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>11129</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z6</adminCode2>
+<adminName2>Central Bedfordshire</adminName2>
+<adminCode3>00KC056</adminCode3>
+<adminName3>Sandy</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Sandy%2C_Bedfordshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.31123</west>
+<north>52.14276</north>
+<east>-0.26727</east>
+<south>52.11578</south>
+</bbox>
+<score>78.9462890625</score>
+</geoname>
+<geoname>
+<toponymName>Sandy</toponymName>
+<name>Sandy</name>
+<lat>41.10784</lat>
+<lng>-78.77114</lng>
+<geonameId>5210847</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1429</population>
+<alternateNames/>
+<elevation>436</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PA">PA</adminCode1>
+<adminName1>Pennsylvania</adminName1>
+<adminCode2>033</adminCode2>
+<adminName2>Clearfield County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Sandy%2C_Pennsylvania</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-78.77711</west>
+<north>41.11234</north>
+<east>-78.76517</east>
+<south>41.10334</south>
+</bbox>
+<score>78.9462890625</score>
+</geoname>
+<geoname>
+<toponymName>Sandy</toponymName>
+<name>Sandy</name>
+<lat>45.39734</lat>
+<lng>-122.26148</lng>
+<geonameId>5750477</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>9570</population>
+<alternateNames/>
+<elevation>299</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OR">OR</adminCode1>
+<adminName1>Oregon</adminName1>
+<adminCode2>005</adminCode2>
+<adminName2>Clackamas County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Sandy%2C_Oregon</alternateName>
+<alternateName lang="post">97055</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-122.27842</west>
+<north>45.40924</north>
+<east>-122.24453</east>
+<south>45.38545</south>
+</bbox>
+<score>69.0780029296875</score>
+</geoname>
+<geoname>
+<toponymName>Sandy</toponymName>
+<name>Sandy</name>
+<lat>52.13122</lat>
+<lng>-0.27679</lng>
+<geonameId>7291391</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z6</adminCode2>
+<adminName2>Central Bedfordshire</adminName2>
+<adminCode3>00KC056</adminCode3>
+<adminName3>Sandy</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.31714</west>
+<north>52.15364</north>
+<east>-0.23644</east>
+<south>52.1088</south>
+</bbox>
+<score>69.0780029296875</score>
+</geoname>
+<geoname>
+<toponymName>Sandy City</toponymName>
+<name>Sandy</name>
+<lat>40.57204</lat>
+<lng>-111.86056</lng>
+<geonameId>5781061</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>87461</population>
+<alternateNames>Sandy,Sandy City</alternateNames>
+<elevation>1361</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="UT">UT</adminCode1>
+<adminName1>Utah</adminName1>
+<adminCode2>035</adminCode2>
+<adminName2>Salt Lake County</adminName2>
+<alternateName lang="en">Sandy</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Sandy%2C_Utah</alternateName>
+<alternateName lang="unlc">SJE</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<bbox>
+<west>-111.91082</west>
+<north>40.6102</north>
+<east>-111.8103</east>
+<south>40.53389</south>
+</bbox>
+<score>55.82345962524414</score>
+</geoname>
+<geoname>
+<toponymName>Sandy</toponymName>
+<name>Sandy</name>
+<lat>35.76591</lat>
+<lng>-90.43594</lng>
+<geonameId>4130184</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>68</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">AR</adminCode1>
+<adminName1>Arkansas</adminName1>
+<adminCode2>031</adminCode2>
+<adminName2>Craighead County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.44702</west>
+<north>35.7749</north>
+<east>-90.42485</east>
+<south>35.75692</south>
+</bbox>
+<score>39.47314453125</score>
+</geoname>
+<geoname>
+<toponymName>Sandy</toponymName>
+<name>Sandy</name>
+<lat>27.27366</lat>
+<lng>-82.11564</lng>
+<geonameId>4172008</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>18</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="FL">FL</adminCode1>
+<adminName1>Florida</adminName1>
+<adminCode2>081</adminCode2>
+<adminName2>Manatee County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-82.12576</west>
+<north>27.28265</north>
+<east>-82.10552</east>
+<south>27.26467</south>
+</bbox>
+<score>39.47314453125</score>
+</geoname>
+<geoname>
+<toponymName>Sandy</toponymName>
+<name>Sandy</name>
+<lat>33.23512</lat>
+<lng>-83.87629</lng>
+<geonameId>4221237</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>190</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">GA</adminCode1>
+<adminName1>Georgia</adminName1>
+<adminCode2>035</adminCode2>
+<adminName2>Butts County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-83.88705</west>
+<north>33.24412</north>
+<east>-83.86554</east>
+<south>33.22613</south>
+</bbox>
+<score>39.47314453125</score>
+</geoname>
+<geoname>
+<toponymName>Sandy</toponymName>
+<name>Sandy</name>
+<lat>37.30782</lat>
+<lng>-87.26833</lng>
+<geonameId>4307597</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>166</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>177</adminCode2>
+<adminName2>Muhlenberg County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-87.27964</west>
+<north>37.31682</north>
+<east>-87.25702</east>
+<south>37.29883</south>
+</bbox>
+<score>39.47314453125</score>
+</geoname>
+<geoname>
+<toponymName>Sandy</toponymName>
+<name>Sandy</name>
+<lat>34.81256</lat>
+<lng>-99.96483</lng>
+<geonameId>4550765</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>585</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OK">OK</adminCode1>
+<adminName1>Oklahoma</adminName1>
+<adminCode2>057</adminCode2>
+<adminName2>Harmon County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-99.97578</west>
+<north>34.82155</north>
+<east>-99.95387</east>
+<south>34.80356</south>
+</bbox>
+<score>39.47314453125</score>
+</geoname>
+</geonames>

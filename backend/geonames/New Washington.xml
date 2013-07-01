@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>6</totalResultsCount>
+<geoname>
+<toponymName>New Washington</toponymName>
+<name>New Washington</name>
+<lat>11.56667</lat>
+<lng>122.48333</lng>
+<geonameId>1697735</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population>36025</population>
+<alternateNames>New Washington</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="06">06</adminCode1>
+<adminName1>Western Visayas</adminName1>
+<adminCode2>04</adminCode2>
+<adminName2>Aklan</adminName2>
+<adminCode3>1697735</adminCode3>
+<adminName3>New Washington</adminName3>
+<alternateName lang="fil">New Washington</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<score>64.97652435302734</score>
+</geoname>
+<geoname>
+<toponymName>New Washington</toponymName>
+<name>New Washington</name>
+<lat>40.96228</lat>
+<lng>-82.85435</lng>
+<geonameId>5164445</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>967</population>
+<alternateNames/>
+<elevation>302</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>033</adminCode2>
+<adminName2>Crawford County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/New_Washington%2C_Ohio</alternateName>
+<alternateName lang="post">44854</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-82.85554</west>
+<north>40.96318</north>
+<east>-82.85316</east>
+<south>40.96138</south>
+</bbox>
+<score>63.663734436035156</score>
+</geoname>
+<geoname>
+<toponymName>New Washington</toponymName>
+<name>New Washington</name>
+<lat>40.8234</lat>
+<lng>-78.70531</lng>
+<geonameId>5203275</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>59</population>
+<alternateNames/>
+<elevation>516</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PA">PA</adminCode1>
+<adminName1>Pennsylvania</adminName1>
+<adminCode2>033</adminCode2>
+<adminName2>Clearfield County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/New_Washington%2C_Pennsylvania</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-78.70649</west>
+<north>40.8243</north>
+<east>-78.70412</east>
+<south>40.8225</south>
+</bbox>
+<score>63.663734436035156</score>
+</geoname>
+<geoname>
+<toponymName>New Washington</toponymName>
+<name>New Washington</name>
+<lat>38.56312</lat>
+<lng>-85.53968</lng>
+<geonameId>4262158</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>566</population>
+<alternateNames/>
+<elevation>219</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IN">IN</adminCode1>
+<adminName1>Indiana</adminName1>
+<adminCode2>019</adminCode2>
+<adminName2>Clark County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/New_Washington%2C_Indiana</alternateName>
+<alternateName lang="post">47162</alternateName>
+<alternateName lang="unlc">NYW</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Kentucky/Louisville</timezone>
+<bbox>
+<west>-85.54083</west>
+<north>38.56402</north>
+<east>-85.53853</east>
+<south>38.56222</south>
+</bbox>
+<score>53.0531120300293</score>
+</geoname>
+<geoname>
+<toponymName>New Washington</toponymName>
+<name>New Washington</name>
+<lat>11.6508</lat>
+<lng>122.4322</lng>
+<geonameId>1697734</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>5731</population>
+<alternateNames>New Washington,New Washington Town,Port Washington</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="06">06</adminCode1>
+<adminName1>Western Visayas</adminName1>
+<adminCode2>04</adminCode2>
+<adminName2>Aklan</adminName2>
+<adminCode3>1697735</adminCode3>
+<adminName3>New Washington</adminName3>
+<alternateName lang="en">New Washington</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/New_Washington%2C_Aklan</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<bbox>
+<west>122.42302</west>
+<north>11.65979</north>
+<east>122.44138</east>
+<south>11.64181</south>
+</bbox>
+<score>51.98122024536133</score>
+</geoname>
+<geoname>
+<toponymName>New Washington River</toponymName>
+<name>New Washington River</name>
+<lat>11.6127</lat>
+<lng>122.4601</lng>
+<geonameId>1697733</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>New Washington,New Washington River</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="06">06</adminCode1>
+<adminName1>Western Visayas</adminName1>
+<adminCode2>04</adminCode2>
+<adminName2>Aklan</adminName2>
+<alternateName lang="en">New Washington River</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<score>15.005685806274414</score>
+</geoname>
+</geonames>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Yellowbanks State Wildlife Management Area</toponymName>
+<name>Yellowbanks State Wildlife Management Area</name>
+<lat>42.04167</lat>
+<lng>-97.667</lng>
+<geonameId>5082362</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>L</fcl>
+<fcode>PRK</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>park</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>486</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NE">NE</adminCode1>
+<adminName1>Nebraska</adminName1>
+<adminCode2>119</adminCode2>
+<adminName2>Madison County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>9.47490406036377</score>
+</geoname>
+<geoname>
+<toponymName>Yellowbanks Ridge</toponymName>
+<name>Yellowbanks Ridge</name>
+<lat>47.76602</lat>
+<lng>-116.64991</lng>
+<geonameId>5613015</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>RDGE</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>ridge(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>856</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ID">ID</adminCode1>
+<adminName1>Idaho</adminName1>
+<adminCode2>055</adminCode2>
+<adminName2>Kootenai County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>9.47490406036377</score>
+</geoname>
+<geoname>
+<toponymName>Yellowbanks</toponymName>
+<name>Yellowbanks</name>
+<lat>41.32171</lat>
+<lng>-85.67888</lng>
+<geonameId>4928487</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>262</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IN">IN</adminCode1>
+<adminName1>Indiana</adminName1>
+<adminCode2>085</adminCode2>
+<adminName2>Kosciusko County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Indiana/Indianapolis</timezone>
+<bbox>
+<west>-85.69085</west>
+<north>41.33071</north>
+<east>-85.6669</east>
+<south>41.31272</south>
+</bbox>
+<score>7.579923152923584</score>
+</geoname>
+<geoname>
+<toponymName>Yellowbanks Creek</toponymName>
+<name>Yellowbanks Creek</name>
+<lat>47.76018</lat>
+<lng>-116.6788</lng>
+<geonameId>5613010</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>683</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ID">ID</adminCode1>
+<adminName1>Idaho</adminName1>
+<adminCode2>055</adminCode2>
+<adminName2>Kootenai County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>3.316216468811035</score>
+</geoname>
+<geoname>
+<toponymName>Yellowbanks Anchorage</toponymName>
+<name>Yellowbanks Anchorage</name>
+<lat>34.01195</lat>
+<lng>-119.54596</lng>
+<geonameId>5410825</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>BAY</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>bay</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>2</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>083</adminCode2>
+<adminName2>Santa Barbara County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>2.3687260150909424</score>
+</geoname>
+</geonames>

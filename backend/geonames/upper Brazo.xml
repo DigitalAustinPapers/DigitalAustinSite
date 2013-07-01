@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Upper Brogo</toponymName>
+<name>Upper Brogo</name>
+<lat>-36.46667</lat>
+<lng>149.75</lng>
+<geonameId>2145471</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="NSW">02</adminCode1>
+<adminName1>New South Wales</adminName1>
+<adminCode2>10550</adminCode2>
+<adminName2>Bega Valley</adminName2>
+<timezone dstOffset="10.0" gmtOffset="11.0">Australia/Sydney</timezone>
+<bbox>
+<west>149.73882</west>
+<north>-36.45767</north>
+<east>149.76118</east>
+<south>-36.47566</south>
+</bbox>
+<score>45.98583984375</score>
+</geoname>
+</geonames>

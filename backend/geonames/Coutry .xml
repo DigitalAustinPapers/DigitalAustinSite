@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>7</totalResultsCount>
+<geoname>
+<toponymName>Courry</toponymName>
+<name>Courry</name>
+<lat>44.29848</lat>
+<lng>4.15798</lng>
+<geonameId>3022967</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>279</population>
+<alternateNames>Courry</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="K">A9</adminCode1>
+<adminName1>Languedoc-Roussillon</adminName1>
+<adminCode2>30</adminCode2>
+<adminName2>Gard</adminName2>
+<adminCode3>301</adminCode3>
+<adminName3>Arrondissement d'Alès</adminName3>
+<adminCode4>30097</adminCode4>
+<adminName4>Courry</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Courry</alternateName>
+<alternateName lang="post">30500</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>4.15673</west>
+<north>44.29938</north>
+<east>4.15924</east>
+<south>44.29758</south>
+</bbox>
+<score>34.03610610961914</score>
+</geoname>
+<geoname>
+<toponymName>Courtry</toponymName>
+<name>Courtry</name>
+<lat>48.91906</lat>
+<lng>2.60431</lng>
+<geonameId>3022868</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>6610</population>
+<alternateNames>Courtry</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="J">A8</adminCode1>
+<adminName1>Île-de-France</adminName1>
+<adminCode2>77</adminCode2>
+<adminName2>Seine-et-Marne</adminName2>
+<adminCode3>775</adminCode3>
+<adminName3>Arrondissement de Torcy</adminName3>
+<adminCode4>77139</adminCode4>
+<adminName4>Courtry</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Courtry</alternateName>
+<alternateName lang="post">77181</alternateName>
+<alternateName lang="unlc">URT</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>2.58901</west>
+<north>48.92912</north>
+<east>2.61962</east>
+<south>48.90901</south>
+</bbox>
+<score>32.81201934814453</score>
+</geoname>
+<geoname>
+<toponymName>Courry</toponymName>
+<name>Courry</name>
+<lat>44.29917</lat>
+<lng>4.15583</lng>
+<geonameId>6448238</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population>309</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="K">A9</adminCode1>
+<adminName1>Languedoc-Roussillon</adminName1>
+<adminCode2>30</adminCode2>
+<adminName2>Gard</adminName2>
+<adminCode3>301</adminCode3>
+<adminName3>Arrondissement d'Alès</adminName3>
+<adminCode4>30097</adminCode4>
+<adminName4>Courry</adminName4>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>4.13791</west>
+<north>44.31775</north>
+<east>4.18658</east>
+<south>44.2892</south>
+</bbox>
+<score>27.790363311767578</score>
+</geoname>
+<geoname>
+<toponymName>Courtry</toponymName>
+<name>Courtry</name>
+<lat>48.9175</lat>
+<lng>2.60306</lng>
+<geonameId>6613908</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population>6043</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="J">A8</adminCode1>
+<adminName1>Île-de-France</adminName1>
+<adminCode2>77</adminCode2>
+<adminName2>Seine-et-Marne</adminName2>
+<adminCode3>775</adminCode3>
+<adminName3>Arrondissement de Torcy</adminName3>
+<adminCode4>77139</adminCode4>
+<adminName4>Courtry</adminName4>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>2.58905</west>
+<north>48.92936</north>
+<east>2.61621</east>
+<south>48.90433</south>
+</bbox>
+<score>26.790903091430664</score>
+</geoname>
+<geoname>
+<toponymName>Coultry</toponymName>
+<name>Coultry</name>
+<lat>53.42222</lat>
+<lng>-6.26722</lng>
+<geonameId>3316325</geonameId>
+<countryCode>IE</countryCode>
+<countryName>Ireland</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="L">L</adminCode1>
+<adminName1>Leinster</adminName1>
+<adminCode2>07</adminCode2>
+<adminName2>IE.L.07</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Dublin</timezone>
+<bbox>
+<west>-6.28232</west>
+<north>53.43122</north>
+<east>-6.25213</east>
+<south>53.41323</south>
+</bbox>
+<score>23.384084701538086</score>
+</geoname>
+<geoname>
+<toponymName>Couvry</toponymName>
+<name>Couvry</name>
+<lat>19.48333</lat>
+<lng>-72.01667</lng>
+<geonameId>3727185</geonameId>
+<countryCode>HT</countryCode>
+<countryName>Haiti</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NE">10</adminCode1>
+<adminName1>Nord-Est</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Port-au-Prince</timezone>
+<bbox>
+<west>-72.02621</west>
+<north>19.49233</north>
+<east>-72.00713</east>
+<south>19.47434</south>
+</bbox>
+<score>23.384084701538086</score>
+</geoname>
+<geoname>
+<toponymName>Courtry</toponymName>
+<name>Courtry</name>
+<lat>48.54276</lat>
+<lng>2.76814</lng>
+<geonameId>3022869</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Courtry</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="J">A8</adminCode1>
+<adminName1>Île-de-France</adminName1>
+<adminCode2>77</adminCode2>
+<adminName2>Seine-et-Marne</adminName2>
+<adminCode3>772</adminCode3>
+<adminName3>Arrondissement de Melun</adminName3>
+<adminCode4>77453</adminCode4>
+<adminName4>Sivry-Courtry</adminName4>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>2.75455</west>
+<north>48.55176</north>
+<east>2.78172</east>
+<south>48.53377</south>
+</bbox>
+<score>19.687210083007812</score>
+</geoname>
+</geonames>

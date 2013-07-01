@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Archivel</toponymName>
+<name>Archivel</name>
+<lat>38.07282</lat>
+<lng>-2.00605</lng>
+<geonameId>2521670</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Archivel</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="MC">31</adminCode1>
+<adminName1>Murcia</adminName1>
+<adminCode2>MU</adminCode2>
+<adminName2>Murcia</adminName2>
+<adminCode3>30028</adminCode3>
+<adminName3>Moratalla</adminName3>
+<alternateName lang="post">30195</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Madrid</timezone>
+<bbox>
+<west>-2.01748</west>
+<north>38.08181</north>
+<east>-1.99463</east>
+<south>38.06383</south>
+</bbox>
+<score>44.799442291259766</score>
+</geoname>
+<geoname>
+<toponymName>Archive</toponymName>
+<name>Archive</name>
+<lat>50.28335</lat>
+<lng>-105.61785</lng>
+<geonameId>5886722</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SK">11</adminCode1>
+<adminName1>Saskatchewan</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Regina</timezone>
+<bbox>
+<west>-105.63193</west>
+<north>50.29235</north>
+<east>-105.60377</east>
+<south>50.27436</south>
+</bbox>
+<score>27.86940574645996</score>
+</geoname>
+</geonames>

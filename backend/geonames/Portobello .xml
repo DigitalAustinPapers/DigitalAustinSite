@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>20</totalResultsCount>
+<geoname>
+<toponymName>Portobello</toponymName>
+<name>Portobello</name>
+<lat>-45.85</lat>
+<lng>170.65</lng>
+<geonameId>2184359</geonameId>
+<countryCode>NZ</countryCode>
+<countryName>New Zealand</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1200</population>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="OTA">F7</adminCode1>
+<adminName1>Otago Region</adminName1>
+<adminCode2>071</adminCode2>
+<adminName2>Dunedin City</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Portobello%2C_New_Zealand</alternateName>
+<timezone dstOffset="12.0" gmtOffset="13.0">Pacific/Auckland</timezone>
+<bbox>
+<west>170.64354</west>
+<north>-45.8455</north>
+<east>170.65646</east>
+<south>-45.8545</south>
+</bbox>
+<score>62.07994842529297</score>
+</geoname>
+<geoname>
+<toponymName>Portobelo</toponymName>
+<name>Portobelo</name>
+<lat>9.55</lat>
+<lng>-79.65</lng>
+<geonameId>3702577</geonameId>
+<countryCode>PA</countryCode>
+<countryName>Panama</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1274</population>
+<alternateNames>Portobello,Portobelo,Puerto Bello</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="3">04</adminCode1>
+<adminName1>Colón</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Portobelo%2C_Col%C3%B3n</alternateName>
+<alternateName lang="unlc">PBE</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Panama</timezone>
+<bbox>
+<west>-79.65456</west>
+<north>9.5545</north>
+<east>-79.64544</east>
+<south>9.5455</south>
+</bbox>
+<score>50.054386138916016</score>
+</geoname>
+<geoname>
+<toponymName>Portobello</toponymName>
+<name>Portobello</name>
+<lat>55.95386</lat>
+<lng>-3.1166</lng>
+<geonameId>2640016</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>U8</adminCode2>
+<adminName2>City of Edinburgh</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Portobello%2C_Edinburgh</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.13267</west>
+<north>55.96285</north>
+<east>-3.10053</east>
+<south>55.94487</south>
+</bbox>
+<score>46.559959411621094</score>
+</geoname>
+<geoname>
+<toponymName>Portobello</toponymName>
+<name>Portobello</name>
+<lat>53.33005</lat>
+<lng>-6.26435</lng>
+<geonameId>7870000</geonameId>
+<countryCode>IE</countryCode>
+<countryName>Ireland</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1/>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Portobello%2C_Dublin</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Dublin</timezone>
+<bbox>
+<west>-6.27942</west>
+<north>53.33905</north>
+<east>-6.24929</east>
+<south>53.32106</south>
+</bbox>
+<score>46.559959411621094</score>
+</geoname>
+<geoname>
+<toponymName>Portobello</toponymName>
+<name>Portobello</name>
+<lat>-30.99824</lat>
+<lng>30.26533</lng>
+<geonameId>964410</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="ZN">02</adminCode1>
+<adminName1>KwaZulu-Natal</adminName1>
+<adminCode2>DC21</adminCode2>
+<adminName2>Ugu District Municipality</adminName2>
+<adminCode3>KZN216</adminCode3>
+<adminName3>Hibiscus Coast</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<bbox>
+<west>30.25484</west>
+<north>-30.98925</north>
+<east>30.27582</east>
+<south>-31.00723</south>
+</bbox>
+<score>31.039974212646484</score>
+</geoname>
+<geoname>
+<toponymName>Portobello</toponymName>
+<name>Portobello</name>
+<lat>38.17568</lat>
+<lng>-76.45329</lng>
+<geonameId>4365985</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>10</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MD">MD</adminCode1>
+<adminName1>Maryland</adminName1>
+<adminCode2>037</adminCode2>
+<adminName2>Saint Mary's County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-76.46473</west>
+<north>38.18468</north>
+<east>-76.44184</east>
+<south>38.16669</south>
+</bbox>
+<score>31.039974212646484</score>
+</geoname>
+<geoname>
+<toponymName>Portobello</toponymName>
+<name>Portobello</name>
+<lat>44.73345</lat>
+<lng>-63.5487</lng>
+<geonameId>6111979</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NS">07</adminCode1>
+<adminName1>Nova Scotia</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-3.0" gmtOffset="-4.0">America/Halifax</timezone>
+<score>31.039974212646484</score>
+</geoname>
+<geoname>
+<toponymName>Portobello</toponymName>
+<name>Portobello</name>
+<lat>54.89495</lat>
+<lng>-1.5607</lng>
+<geonameId>6269328</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E5</adminCode2>
+<adminName2>Gateshead</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.57634</west>
+<north>54.90394</north>
+<east>-1.54506</east>
+<south>54.88595</south>
+</bbox>
+<score>31.039974212646484</score>
+</geoname>
+<geoname>
+<toponymName>Porto Belo</toponymName>
+<name>Porto Belo</name>
+<lat>-27.15778</lat>
+<lng>-48.55306</lng>
+<geonameId>3452900</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>14720</population>
+<alternateNames>Porto Bello</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="SC">26</adminCode1>
+<adminName1>Santa Catarina</adminName1>
+<adminCode2>4213500</adminCode2>
+<adminName2>Porto Belo</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Porto_Belo</alternateName>
+<alternateName lang="unlc">PBO</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Sao_Paulo</timezone>
+<bbox>
+<west>-48.57056</west>
+<north>-27.1422</north>
+<east>-48.53555</east>
+<south>-27.17336</south>
+</bbox>
+<score>20.151594161987305</score>
+</geoname>
+<geoname>
+<toponymName>Portobelo</toponymName>
+<name>Portobelo</name>
+<lat>4.88333</lat>
+<lng>-75.9</lng>
+<geonameId>3671882</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Portobelo,Puerto Velo</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="RIS">24</adminCode1>
+<adminName1>Risaralda</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<bbox>
+<west>-75.90903</west>
+<north>4.89233</north>
+<east>-75.89097</east>
+<south>4.87434</south>
+</bbox>
+<score>18.094932556152344</score>
+</geoname>
+</geonames>

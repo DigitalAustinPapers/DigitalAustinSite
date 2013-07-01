@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>17</totalResultsCount>
+<geoname>
+<toponymName>La Bahía</toponymName>
+<name>La Bahía</name>
+<lat>-14.42207</lat>
+<lng>-61.03145</lng>
+<geonameId>3912427</geonameId>
+<countryCode>BO</countryCode>
+<countryName>Bolivia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>La Bahia,La Bahia Blanca,La Bahía</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="S">08</adminCode1>
+<adminName1>Santa Cruz</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/La_Paz</timezone>
+<bbox>
+<west>-61.04074</west>
+<north>-14.41308</north>
+<east>-61.02216</east>
+<south>-14.43106</south>
+</bbox>
+<score>43.49567794799805</score>
+</geoname>
+<geoname>
+<toponymName>La Bahía</toponymName>
+<name>La Bahía</name>
+<lat>19.58184</lat>
+<lng>-71.72313</lng>
+<geonameId>3503656</geonameId>
+<countryCode>DO</countryCode>
+<countryName>Dominican Republic</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="05">04</adminCode1>
+<adminName1>Dajabón</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Santo_Domingo</timezone>
+<bbox>
+<west>-71.73267</west>
+<north>19.59084</north>
+<east>-71.71358</east>
+<south>19.57285</south>
+</bbox>
+<score>35.14981460571289</score>
+</geoname>
+<geoname>
+<toponymName>La Bahía</toponymName>
+<name>La Bahía</name>
+<lat>19.7509</lat>
+<lng>-71.67714</lng>
+<geonameId>3503657</geonameId>
+<countryCode>DO</countryCode>
+<countryName>Dominican Republic</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="15">15</adminCode1>
+<adminName1>Monte Cristi</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Santo_Domingo</timezone>
+<score>35.14981460571289</score>
+</geoname>
+<geoname>
+<toponymName>La Bahía</toponymName>
+<name>La Bahía</name>
+<lat>20.7</lat>
+<lng>-77.13333</lng>
+<geonameId>3555370</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="12">09</adminCode1>
+<adminName1>Granma</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>35.14981460571289</score>
+</geoname>
+<geoname>
+<toponymName>La Bahia</toponymName>
+<name>La Bahia</name>
+<lat>30.14438</lat>
+<lng>-96.63692</lng>
+<geonameId>4703875</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>145</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>477</adminCode2>
+<adminName2>Washington County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-96.64732</west>
+<north>30.15338</north>
+<east>-96.62652</east>
+<south>30.13539</south>
+</bbox>
+<score>35.14981460571289</score>
+</geoname>
+<geoname>
+<toponymName>La Babia</toponymName>
+<name>La Babia</name>
+<lat>28.55822</lat>
+<lng>-102.06018</lng>
+<geonameId>4003554</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CHH">06</adminCode1>
+<adminName1>Chihuahua</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<bbox>
+<west>-102.07042</west>
+<north>28.56722</north>
+<east>-102.04994</east>
+<south>28.54923</south>
+</bbox>
+<score>14.711758613586426</score>
+</geoname>
+<geoname>
+<toponymName>La Baría</toponymName>
+<name>La Baría</name>
+<lat>18.35327</lat>
+<lng>-70.25119</lng>
+<geonameId>3503619</geonameId>
+<countryCode>DO</countryCode>
+<countryName>Dominican Republic</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>La Baria,La Baría,Las Barias,Las Barías</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="17">35</adminCode1>
+<adminName1>Peravia</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Santo_Domingo</timezone>
+<bbox>
+<west>-70.26067</west>
+<north>18.36227</north>
+<east>-70.24171</east>
+<south>18.34428</south>
+</bbox>
+<score>13.516376495361328</score>
+</geoname>
+<geoname>
+<toponymName>La Baría</toponymName>
+<name>La Baría</name>
+<lat>22.71667</lat>
+<lng>-83.51667</lng>
+<geonameId>3555358</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="01">01</adminCode1>
+<adminName1>Pinar del Río</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>12.743361473083496</score>
+</geoname>
+<geoname>
+<toponymName>La Baría</toponymName>
+<name>La Baría</name>
+<lat>22.6</lat>
+<lng>-79.96667</lng>
+<geonameId>3555359</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="05">16</adminCode1>
+<adminName1>Villa Clara</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>12.743361473083496</score>
+</geoname>
+<geoname>
+<toponymName>La Baría</toponymName>
+<name>La Baría</name>
+<lat>22.33333</lat>
+<lng>-80.38333</lng>
+<geonameId>3555360</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="06">08</adminCode1>
+<adminName1>Cienfuegos</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>12.743361473083496</score>
+</geoname>
+</geonames>

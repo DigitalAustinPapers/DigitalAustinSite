@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>9</totalResultsCount>
+<geoname>
+<toponymName>Small Dam</toponymName>
+<name>Small Dam</name>
+<lat>38.02014</lat>
+<lng>-78.08639</lng>
+<geonameId>4786109</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>DAM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>dam</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>132</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>109</adminCode2>
+<adminName2>Louisa County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>12.948019027709961</score>
+</geoname>
+<geoname>
+<toponymName>Small Dam</toponymName>
+<name>Small Dam</name>
+<lat>-32.36225</lat>
+<lng>137.39812</lng>
+<geonameId>8190574</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>S</fcl>
+<fcode>DAM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>dam</fcodeName>
+<population/>
+<alternateNames>Small Dam</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="SA">05</adminCode1>
+<adminName1>South Australia</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Small Dam</alternateName>
+<timezone dstOffset="9.5" gmtOffset="10.5">Australia/Adelaide</timezone>
+<score>12.686415672302246</score>
+</geoname>
+<geoname>
+<toponymName>Small Dam</toponymName>
+<name>Small Dam</name>
+<lat>-23.2667</lat>
+<lng>133.85001</lng>
+<geonameId>8190616</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>S</fcl>
+<fcode>DAM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>dam</fcodeName>
+<population/>
+<alternateNames>Small Dam</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="NT">03</adminCode1>
+<adminName1>Northern Territory</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Small Dam</alternateName>
+<timezone dstOffset="9.5" gmtOffset="9.5">Australia/Darwin</timezone>
+<score>12.686415672302246</score>
+</geoname>
+<geoname>
+<toponymName>Small Dam</toponymName>
+<name>Small Dam</name>
+<lat>-29.58907</lat>
+<lng>138.29327</lng>
+<geonameId>8190710</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>S</fcl>
+<fcode>DAM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>dam</fcodeName>
+<population/>
+<alternateNames>Small Dam</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="SA">05</adminCode1>
+<adminName1>South Australia</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Small Dam</alternateName>
+<timezone dstOffset="9.5" gmtOffset="10.5">Australia/Adelaide</timezone>
+<score>12.686415672302246</score>
+</geoname>
+<geoname>
+<toponymName>Small Dam</toponymName>
+<name>Small Dam</name>
+<lat>-32.17603</lat>
+<lng>135.42883</lng>
+<geonameId>8190719</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>S</fcl>
+<fcode>DAM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>dam</fcodeName>
+<population/>
+<alternateNames>Small Dam</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="SA">05</adminCode1>
+<adminName1>South Australia</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Small Dam</alternateName>
+<timezone dstOffset="9.5" gmtOffset="10.5">Australia/Adelaide</timezone>
+<score>12.686415672302246</score>
+</geoname>
+<geoname>
+<toponymName>Small Dam</toponymName>
+<name>Small Dam</name>
+<lat>-33.15704</lat>
+<lng>140.02322</lng>
+<geonameId>8191381</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>S</fcl>
+<fcode>DAM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>dam</fcodeName>
+<population/>
+<alternateNames>Small Dam</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="SA">05</adminCode1>
+<adminName1>South Australia</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Small Dam</alternateName>
+<timezone dstOffset="9.5" gmtOffset="10.5">Australia/Adelaide</timezone>
+<score>12.686415672302246</score>
+</geoname>
+<geoname>
+<toponymName>Small Dam</toponymName>
+<name>Small Dam</name>
+<lat>-32.41124</lat>
+<lng>136.88358</lng>
+<geonameId>8191536</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>S</fcl>
+<fcode>DAM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>dam</fcodeName>
+<population/>
+<alternateNames>Small Dam</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="SA">05</adminCode1>
+<adminName1>South Australia</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Small Dam</alternateName>
+<timezone dstOffset="9.5" gmtOffset="10.5">Australia/Adelaide</timezone>
+<score>12.686415672302246</score>
+</geoname>
+<geoname>
+<toponymName>Small Dam</toponymName>
+<name>Small Dam</name>
+<lat>-33.75774</lat>
+<lng>140.89798</lng>
+<geonameId>8191578</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>S</fcl>
+<fcode>DAM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>dam</fcodeName>
+<population/>
+<alternateNames>Small Dam</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="SA">05</adminCode1>
+<adminName1>South Australia</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Small Dam</alternateName>
+<timezone dstOffset="9.5" gmtOffset="10.5">Australia/Adelaide</timezone>
+<score>12.686415672302246</score>
+</geoname>
+<geoname>
+<toponymName>Small Dam</toponymName>
+<name>Small Dam</name>
+<lat>-33.83402</lat>
+<lng>139.94641</lng>
+<geonameId>8191893</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>S</fcl>
+<fcode>DAM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>dam</fcodeName>
+<population/>
+<alternateNames>Small Dam</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="SA">05</adminCode1>
+<adminName1>South Australia</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Small Dam</alternateName>
+<timezone dstOffset="9.5" gmtOffset="10.5">Australia/Adelaide</timezone>
+<score>12.686415672302246</score>
+</geoname>
+</geonames>

@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>16</totalResultsCount>
+<geoname>
+<toponymName>Pike County</toponymName>
+<name>Pike County</name>
+<lat>31.80272</lat>
+<lng>-85.94092</lng>
+<geonameId>4083063</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>32899</population>
+<alternateNames>Comte de Pike,Comté de Pike</alternateNames>
+<elevation>119</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AL">AL</adminCode1>
+<adminName1>Alabama</adminName1>
+<adminCode2>109</adminCode2>
+<adminName2>Pike County</adminName2>
+<alternateName lang="fr">Comté de Pike</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Pike_County%2C_Alabama</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-86.19879</west>
+<north>32.06182</north>
+<east>-85.66014</east>
+<south>31.61665</south>
+</bbox>
+<score>60.39117431640625</score>
+</geoname>
+<geoname>
+<toponymName>Pike County</toponymName>
+<name>Pike County</name>
+<lat>33.09227</lat>
+<lng>-84.38923</lng>
+<geonameId>4215755</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>17869</population>
+<alternateNames>Comte de Pike,Comté de Pike</alternateNames>
+<elevation>255</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">GA</adminCode1>
+<adminName1>Georgia</adminName1>
+<adminCode2>231</adminCode2>
+<adminName2>Pike County</adminName2>
+<alternateName lang="fr">Comté de Pike</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Pike_County%2C_Georgia</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-84.53838</west>
+<north>33.20872</north>
+<east>-84.2479</east>
+<south>32.96838</south>
+</bbox>
+<score>60.39117431640625</score>
+</geoname>
+<geoname>
+<toponymName>Pike County</toponymName>
+<name>Pike County</name>
+<lat>39.34384</lat>
+<lng>-91.17136</lng>
+<geonameId>4403228</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>18516</population>
+<alternateNames>Comte de Pike,Comté de Pike</alternateNames>
+<elevation>267</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>163</adminCode2>
+<adminName2>Pike County</adminName2>
+<alternateName lang="fr">Comté de Pike</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Pike_County%2C_Missouri</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-91.46174</west>
+<north>39.60049</north>
+<east>-90.72118</east>
+<south>39.14194</south>
+</bbox>
+<score>60.39117431640625</score>
+</geoname>
+<geoname>
+<toponymName>Pike County</toponymName>
+<name>Pike County</name>
+<lat>31.17491</lat>
+<lng>-90.40416</lng>
+<geonameId>4441053</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>40404</population>
+<alternateNames>Comte de Pike,Comté de Pike</alternateNames>
+<elevation>129</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MS">MS</adminCode1>
+<adminName1>Mississippi</adminName1>
+<adminCode2>113</adminCode2>
+<adminName2>Pike County</adminName2>
+<alternateName lang="fr">Comté de Pike</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Pike_County%2C_Mississippi</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.55016</west>
+<north>31.3494</north>
+<east>-90.26366</east>
+<south>31.00005</south>
+</bbox>
+<score>60.39117431640625</score>
+</geoname>
+<geoname>
+<toponymName>Pike County</toponymName>
+<name>Pike County</name>
+<lat>39.07737</lat>
+<lng>-83.06685</lng>
+<geonameId>4521245</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>28709</population>
+<alternateNames>Comte de Pike,Comté de Pike</alternateNames>
+<elevation>262</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>131</adminCode2>
+<adminName2>Pike County</adminName2>
+<alternateName lang="fr">Comté de Pike</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Pike_County%2C_Ohio</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-83.38571</west>
+<north>39.19727</north>
+<east>-82.78593</east>
+<south>38.94827</south>
+</bbox>
+<score>60.39117431640625</score>
+</geoname>
+<geoname>
+<toponymName>Pike County</toponymName>
+<name>Pike County</name>
+<lat>34.1635</lat>
+<lng>-93.65634</lng>
+<geonameId>4126123</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>11291</population>
+<alternateNames>Comte de Pike,Comté de Pike,Condado de Pike,Condado han Pike,Contea di Pike,Hrabstwo Pike,Okrug Pajk,Pajk,Pike Comitatus,Quan Pike,Quận Pike,pa'ika ka'unti,pai ke xian,paiku jun,Округ Пајк,Пайк,Փայկի շրջան,مقاطعة بايك، أركنسو,پائک کاؤنٹی، آرکنساس,পাইক কাউন্টি,パイク郡,派克縣</alternateNames>
+<elevation>238</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">AR</adminCode1>
+<adminName1>Arkansas</adminName1>
+<adminCode2>109</adminCode2>
+<adminName2>Pike County</adminName2>
+<alternateName lang="ar">مقاطعة بايك، أركنسو</alternateName>
+<alternateName lang="bg">Пайк</alternateName>
+<alternateName lang="bpy">পাইক কাউন্টি</alternateName>
+<alternateName lang="es">Condado de Pike</alternateName>
+<alternateName lang="fr">Comté de Pike</alternateName>
+<alternateName lang="hy">Փայկի շրջան</alternateName>
+<alternateName lang="it">Contea di Pike</alternateName>
+<alternateName lang="ja">パイク郡</alternateName>
+<alternateName lang="la">Pike Comitatus</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Pike_County%2C_Arkansas</alternateName>
+<alternateName lang="pl">Hrabstwo Pike</alternateName>
+<alternateName lang="pnb">پائک کاؤنٹی، آرکنساس</alternateName>
+<alternateName lang="pt">Condado de Pike</alternateName>
+<alternateName lang="sr">Округ Пајк</alternateName>
+<alternateName lang="uk">Пайк</alternateName>
+<alternateName lang="vi">Quận Pike</alternateName>
+<alternateName lang="war">Condado han Pike</alternateName>
+<alternateName lang="zh">派克縣</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-93.93924</west>
+<north>34.34986</north>
+<east>-93.36721</east>
+<south>33.94367</south>
+</bbox>
+<score>25.88193130493164</score>
+</geoname>
+<geoname>
+<toponymName>Pike County</toponymName>
+<name>Pike County</name>
+<lat>39.6225</lat>
+<lng>-90.88629</lng>
+<geonameId>4246953</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>16430</population>
+<alternateNames>Comte de Pike,Comté de Pike,Condado de Pike,Condado han Pike,Contea di Pike,Hrabstwo Pike,Pajk,Pike Comitatus,Quan Pike,Quận Pike,pa'ika ka'unti,pai ke xian,paiku jun,Пайк,Փայկ շրջան,مقاطعة بايك، إلينوي,پائک کاؤنٹی، الینوۓ,পাইক কাউন্টি,パイク郡,派克縣</alternateNames>
+<elevation>249</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>149</adminCode2>
+<adminName2>Pike County</adminName2>
+<alternateName lang="ar">مقاطعة بايك، إلينوي</alternateName>
+<alternateName lang="bg">Пайк</alternateName>
+<alternateName lang="bpy">পাইক কাউন্টি</alternateName>
+<alternateName lang="es">Condado de Pike</alternateName>
+<alternateName lang="fr">Comté de Pike</alternateName>
+<alternateName lang="hy">Փայկ շրջան</alternateName>
+<alternateName lang="it">Contea di Pike</alternateName>
+<alternateName lang="ja">パイク郡</alternateName>
+<alternateName lang="la">Pike Comitatus</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Pike_County%2C_Illinois</alternateName>
+<alternateName lang="pl">Hrabstwo Pike</alternateName>
+<alternateName lang="pnb">پائک کاؤنٹی، الینوۓ</alternateName>
+<alternateName lang="pt">Condado de Pike</alternateName>
+<alternateName lang="uk">Пайк</alternateName>
+<alternateName lang="vi">Quận Pike</alternateName>
+<alternateName lang="war">Condado han Pike</alternateName>
+<alternateName lang="zh">派克縣</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-91.37016</west>
+<north>39.84417</north>
+<east>-90.56734</east>
+<south>39.39521</south>
+</bbox>
+<score>25.88193130493164</score>
+</geoname>
+<geoname>
+<toponymName>Pike County</toponymName>
+<name>Pike County</name>
+<lat>38.39878</lat>
+<lng>-87.23216</lng>
+<geonameId>4263024</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>12845</population>
+<alternateNames>Comte de Pike,Comté de Pike,Condado de Pike,Condado han Pike,Contea di Pike,Pajk,Quan Pike,Quận Pike,pa'ika ka'unti,pai ke xian,paiku jun,Пайк,Փայկ շրջան,পাইক কাউন্টি,パイク郡,派克縣</alternateNames>
+<elevation>147</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IN">IN</adminCode1>
+<adminName1>Indiana</adminName1>
+<adminCode2>125</adminCode2>
+<adminName2>Pike County</adminName2>
+<alternateName lang="bg">Пайк</alternateName>
+<alternateName lang="bpy">পাইক কাউন্টি</alternateName>
+<alternateName lang="es">Condado de Pike</alternateName>
+<alternateName lang="fr">Comté de Pike</alternateName>
+<alternateName lang="hy">Փայկ շրջան</alternateName>
+<alternateName lang="it">Contea di Pike</alternateName>
+<alternateName lang="ja">パイク郡</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Pike_County%2C_Indiana</alternateName>
+<alternateName lang="pt">Condado de Pike</alternateName>
+<alternateName lang="uk">Пайк</alternateName>
+<alternateName lang="vi">Quận Pike</alternateName>
+<alternateName lang="war">Condado han Pike</alternateName>
+<alternateName lang="zh">派克縣</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Indiana/Petersburg</timezone>
+<bbox>
+<west>-87.4642</west>
+<north>38.55252</north>
+<east>-87.07226</east>
+<south>38.23195</south>
+</bbox>
+<score>25.88193130493164</score>
+</geoname>
+<geoname>
+<toponymName>Pike County</toponymName>
+<name>Pike County</name>
+<lat>37.46902</lat>
+<lng>-82.39587</lng>
+<geonameId>4304226</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>65024</population>
+<alternateNames>Comte de Pike,Comté de Pike,Condado de Pike,Condado han Pike,Contea di Pike,Hrabstwo Pike,Pajk,Quan Pike,Quận Pike,pa'ika ka'unti,pai ke xian,paiku jun,Пайк,Փայկ շրջան,مقاطعة بايك، كنتاكي,پائک کاؤنٹی,পাইক কাউন্টি,パイク郡,派克縣</alternateNames>
+<elevation>561</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>195</adminCode2>
+<adminName2>Pike County</adminName2>
+<alternateName lang="ar">مقاطعة بايك، كنتاكي</alternateName>
+<alternateName lang="bg">Пайк</alternateName>
+<alternateName lang="bpy">পাইক কাউন্টি</alternateName>
+<alternateName lang="es">Condado de Pike</alternateName>
+<alternateName lang="fr">Comté de Pike</alternateName>
+<alternateName lang="hy">Փայկ շրջան</alternateName>
+<alternateName lang="it">Contea di Pike</alternateName>
+<alternateName lang="ja">パイク郡</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Pike_County%2C_Kentucky</alternateName>
+<alternateName lang="pl">Hrabstwo Pike</alternateName>
+<alternateName lang="pnb">پائک کاؤنٹی</alternateName>
+<alternateName lang="pt">Condado de Pike</alternateName>
+<alternateName lang="uk">Пайк</alternateName>
+<alternateName lang="vi">Quận Pike</alternateName>
+<alternateName lang="war">Condado han Pike</alternateName>
+<alternateName lang="zh">派克縣</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-82.73229</west>
+<north>37.74538</north>
+<east>-81.9642</east>
+<south>37.19685</south>
+</bbox>
+<score>25.88193130493164</score>
+</geoname>
+<geoname>
+<toponymName>Pike County</toponymName>
+<name>Pike County</name>
+<lat>41.33199</lat>
+<lng>-75.03383</lng>
+<geonameId>5205930</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>57369</population>
+<alternateNames>Comte de Pike,Comté de Pike,Condado de Pike,Condado han Pike,Contea di Pike,Hrabstwo Pike,Konteth Pike,Pajk,Pike Comitatus,Quan Pike,Quận Pike,pa'ika ka'unti,pai ke xian,Пайк,Փայկ շրջան,پائک کاؤنٹی، پنسلوانیا,পাইক কাউন্টি,派克縣</alternateNames>
+<elevation>413</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PA">PA</adminCode1>
+<adminName1>Pennsylvania</adminName1>
+<adminCode2>103</adminCode2>
+<adminName2>Pike County</adminName2>
+<alternateName lang="bg">Пайк</alternateName>
+<alternateName lang="bpy">পাইক কাউন্টি</alternateName>
+<alternateName lang="es">Condado de Pike</alternateName>
+<alternateName lang="fr">Comté de Pike</alternateName>
+<alternateName lang="hy">Փայկ շրջան</alternateName>
+<alternateName lang="it">Contea di Pike</alternateName>
+<alternateName lang="kw">Konteth Pike</alternateName>
+<alternateName lang="la">Pike Comitatus</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Pike_County%2C_Pennsylvania</alternateName>
+<alternateName lang="pl">Hrabstwo Pike</alternateName>
+<alternateName lang="pnb">پائک کاؤنٹی، پنسلوانیا</alternateName>
+<alternateName lang="pt">Condado de Pike</alternateName>
+<alternateName lang="uk">Пайк</alternateName>
+<alternateName lang="vi">Quận Pike</alternateName>
+<alternateName lang="war">Condado han Pike</alternateName>
+<alternateName lang="zh">派克縣</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-75.35088</west>
+<north>41.60196</north>
+<east>-74.69003</east>
+<south>41.08196</south>
+</bbox>
+<score>25.88193130493164</score>
+</geoname>
+</geonames>

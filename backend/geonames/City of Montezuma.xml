@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>City of Montezuma</toponymName>
+<name>City of Montezuma</name>
+<lat>37.59254</lat>
+<lng>-100.45033</lng>
+<geonameId>7163907</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>administrative division</fcodeName>
+<population>966</population>
+<alternateNames/>
+<elevation>846</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KS">KS</adminCode1>
+<adminName1>Kansas</adminName1>
+<adminCode2>069</adminCode2>
+<adminName2>Gray County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-100.47029</west>
+<north>37.60242</north>
+<east>-100.43266</east>
+<south>37.57674</south>
+</bbox>
+<score>77.0443115234375</score>
+</geoname>
+<geoname>
+<toponymName>City of Montezuma</toponymName>
+<name>City of Montezuma</name>
+<lat>41.58338</lat>
+<lng>-92.52738</lng>
+<geonameId>7317095</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>administrative division</fcodeName>
+<population>1462</population>
+<alternateNames/>
+<elevation>290</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IA">IA</adminCode1>
+<adminName1>Iowa</adminName1>
+<adminCode2>157</adminCode2>
+<adminName2>Poweshiek County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.54672</west>
+<north>41.59247</north>
+<east>-92.50488</east>
+<south>41.57421</south>
+</bbox>
+<score>77.0443115234375</score>
+</geoname>
+<geoname>
+<toponymName>City of Montezuma</toponymName>
+<name>City of Montezuma</name>
+<lat>32.29965</lat>
+<lng>-84.02461</lng>
+<geonameId>7317869</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>administrative division</fcodeName>
+<population>3460</population>
+<alternateNames/>
+<elevation>84</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">GA</adminCode1>
+<adminName1>Georgia</adminName1>
+<adminCode2>193</adminCode2>
+<adminName2>Macon County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-84.04684</west>
+<north>32.32402</north>
+<east>-84.00281</east>
+<south>32.27998</south>
+</bbox>
+<score>77.0443115234375</score>
+</geoname>
+</geonames>

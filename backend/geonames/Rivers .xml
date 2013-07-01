@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>68</totalResultsCount>
+<geoname>
+<toponymName>Rivers</toponymName>
+<name>Rivers</name>
+<lat>50.03081</lat>
+<lng>-100.24029</lng>
+<geonameId>6122707</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1165</population>
+<alternateNames>YYI</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MB">03</adminCode1>
+<adminName1>Manitoba</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="iata">YYI</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Rivers%2C_Manitoba</alternateName>
+<alternateName lang="unlc">YYI</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Winnipeg</timezone>
+<bbox>
+<west>-100.24169</west>
+<north>50.03171</north>
+<east>-100.23888</east>
+<south>50.02991</south>
+</bbox>
+<score>57.2523078918457</score>
+</geoname>
+<geoname>
+<toponymName>Rivers State</toponymName>
+<name>Rivers State</name>
+<lat>4.74974</lat>
+<lng>6.82766</lng>
+<geonameId>2324433</geonameId>
+<countryCode>NG</countryCode>
+<countryName>Nigeria</countryName>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>first-order administrative division</fcodeName>
+<population>6689087</population>
+<alternateNames>Rivers,Rivers State</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="RI">50</adminCode1>
+<adminName1>Rivers</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Rivers_State</alternateName>
+<timezone dstOffset="1.0" gmtOffset="1.0">Africa/Lagos</timezone>
+<bbox>
+<west>5.38389</west>
+<north>5.75942</north>
+<east>7.55194</east>
+<south>4.2725</south>
+</bbox>
+<score>53.97799301147461</score>
+</geoname>
+<geoname>
+<toponymName>Rivera</toponymName>
+<name>Rivera</name>
+<lat>-30.90534</lat>
+<lng>-55.55076</lng>
+<geonameId>3440781</geonameId>
+<countryCode>UY</countryCode>
+<countryName>Uruguay</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population>64631</population>
+<alternateNames>RVY,Rivera,Villa de Rivera,li wei la,Ривера,里韦拉</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="RV">13</adminCode1>
+<adminName1>Rivera</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="de">Rivera</alternateName>
+<alternateName lang="en">Rivera</alternateName>
+<alternateName lang="es">Rivera</alternateName>
+<alternateName lang="fr">Rivera</alternateName>
+<alternateName lang="iata">RVY</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Rivera</alternateName>
+<alternateName lang="nl">Rivera</alternateName>
+<alternateName lang="pl">Rivera</alternateName>
+<alternateName lang="pt">Rivera</alternateName>
+<alternateName lang="ru">Ривера</alternateName>
+<alternateName lang="unlc">RVY</alternateName>
+<alternateName lang="zh-CN">里韦拉</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Montevideo</timezone>
+<bbox>
+<west>-55.5889</west>
+<north>-30.8726</north>
+<east>-55.51262</east>
+<south>-30.93807</south>
+</bbox>
+<score>29.653926849365234</score>
+</geoname>
+<geoname>
+<toponymName>Rivers</toponymName>
+<name>Rivers</name>
+<lat>33.6746</lat>
+<lng>-108.77936</lng>
+<geonameId>7315321</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NM">NM</adminCode1>
+<adminName1>New Mexico</adminName1>
+<adminCode2>003</adminCode2>
+<adminName2>Catron County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<bbox>
+<west>-108.79089</west>
+<north>33.68776</north>
+<east>-108.76161</east>
+<south>33.66321</south>
+</bbox>
+<score>26.988996505737305</score>
+</geoname>
+<geoname>
+<toponymName>Rivera</toponymName>
+<name>Rivera</name>
+<lat>2.83333</lat>
+<lng>-75.16667</lng>
+<geonameId>3670693</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="HUI">16</adminCode1>
+<adminName1>Huila</adminName1>
+<adminCode2>3670693</adminCode2>
+<adminName2>Rivera</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<score>12.644475936889648</score>
+</geoname>
+<geoname>
+<toponymName>Rivers</toponymName>
+<name>Rivers</name>
+<lat>32.71129</lat>
+<lng>-80.2151</lng>
+<geonameId>4593000</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>5</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SC">SC</adminCode1>
+<adminName1>South Carolina</adminName1>
+<adminCode2>019</adminCode2>
+<adminName2>Charleston County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>11.92756462097168</score>
+</geoname>
+<geoname>
+<toponymName>Rivers</toponymName>
+<name>Rivers</name>
+<lat>47.78353</lat>
+<lng>-92.2735</lng>
+<geonameId>5043329</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>439</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MN">MN</adminCode1>
+<adminName1>Minnesota</adminName1>
+<adminCode2>137</adminCode2>
+<adminName2>Saint Louis County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>11.92756462097168</score>
+</geoname>
+<geoname>
+<toponymName>Rivera</toponymName>
+<name>Rivera</name>
+<lat>-37.15895</lat>
+<lng>-63.24464</lng>
+<geonameId>3838741</geonameId>
+<countryCode>AR</countryCode>
+<countryName>Argentina</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Rivera</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="B">01</adminCode1>
+<adminName1>Buenos Aires</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Rivera%2C_Buenos_Aires_Province</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Argentina/Buenos_Aires</timezone>
+<bbox>
+<west>-63.25593</west>
+<north>-37.14995</north>
+<east>-63.23336</east>
+<south>-37.16794</south>
+</bbox>
+<score>9.291753768920898</score>
+</geoname>
+<geoname>
+<toponymName>Rijvers</toponymName>
+<name>Rijvers</name>
+<lat>51.12582</lat>
+<lng>3.54191</lng>
+<geonameId>2788033</geonameId>
+<countryCode>BE</countryCode>
+<countryName>Belgium</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Rijvers,Rijvis,Ryvers</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="VLG">VLG</adminCode1>
+<adminName1>Flanders</adminName1>
+<adminCode2>VOV</adminCode2>
+<adminName2>East Flanders Province</adminName2>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Brussels</timezone>
+<bbox>
+<west>3.52758</west>
+<north>51.13482</north>
+<east>3.55625</east>
+<south>51.11683</south>
+</bbox>
+<score>8.961174011230469</score>
+</geoname>
+<geoname>
+<toponymName>Rivery</toponymName>
+<name>Rivery</name>
+<lat>49.90328</lat>
+<lng>2.32235</lng>
+<geonameId>2983397</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3454</population>
+<alternateNames>Rivery</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="S">B6</adminCode1>
+<adminName1>Picardie</adminName1>
+<adminCode2>80</adminCode2>
+<adminName2>Somme</adminName2>
+<adminCode3>802</adminCode3>
+<adminName3>Arrondissement d'Amiens</adminName3>
+<adminCode4>80674</adminCode4>
+<adminName4>Rivery</adminName4>
+<alternateName lang="post">80136</alternateName>
+<alternateName lang="unlc">RRY</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>2.31248</west>
+<north>49.90964</north>
+<east>2.33223</east>
+<south>49.89692</south>
+</bbox>
+<score>8.213377952575684</score>
+</geoname>
+</geonames>

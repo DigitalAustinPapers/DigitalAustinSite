@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>13</totalResultsCount>
+<geoname>
+<toponymName>Dardanelles</toponymName>
+<name>Dardanelles</name>
+<lat>40.21407</lat>
+<lng>26.4584</lng>
+<geonameId>749779</geonameId>
+<countryCode/>
+<countryName/>
+<fcl>H</fcl>
+<fcode>STRT</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>strait</fcodeName>
+<population/>
+<alternateNames>Bahr Sefid Boghazi,Boghazlar,Canakkale,Canakkale Bogazi,Chanaq Qal"e Boghazi,Chanaq Qal”e Boghazi,Dardanellen,Dardanelles,Dardanelli,Dardanellia,Dardanelos,Ellesponto,Ellespontos,Ellēspontos,Helespont,Hellespont,Çanakkale,Çanakkale Boğazı,Ελλήσποντος</alternateNames>
+<elevation/>
+<adminCode1/>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="el">Ελλήσποντος</alternateName>
+<alternateName lang="en">Dardanelles</alternateName>
+<alternateName lang="es">Dardanelos</alternateName>
+<alternateName lang="fr">Hellespont</alternateName>
+<alternateName lang="hbs">Helespont</alternateName>
+<alternateName lang="it">Ellesponto</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Dardanelles</alternateName>
+<alternateName lang="nl">Hellespont</alternateName>
+<alternateName lang="no">Hellespont</alternateName>
+<alternateName lang="pl">Hellespont</alternateName>
+<alternateName lang="tr">Çanakkale Boğazı</alternateName>
+<timezone dstOffset="3.0" gmtOffset="2.0">Europe/Istanbul</timezone>
+<score>24.348297119140625</score>
+</geoname>
+<geoname>
+<toponymName>Dardanelle</toponymName>
+<name>Dardanelle</name>
+<lat>38.34102</lat>
+<lng>-119.83379</lng>
+<geonameId>5341543</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1760</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>109</adminCode2>
+<adminName2>Tuolumne County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Dardanelle%2C_California</alternateName>
+<alternateName lang="post">95314</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-119.84526</west>
+<north>38.35002</north>
+<east>-119.82232</east>
+<south>38.33203</south>
+</bbox>
+<score>23.688106536865234</score>
+</geoname>
+<geoname>
+<toponymName>Dardanelos</toponymName>
+<name>Dardanelos</name>
+<lat>-10.7</lat>
+<lng>-66.48333</lng>
+<geonameId>3918493</geonameId>
+<countryCode>BO</countryCode>
+<countryName>Bolivia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Dardanelos,Puerto Ruiz</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="N">06</adminCode1>
+<adminName1>Pando</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/La_Paz</timezone>
+<bbox>
+<west>-66.49249</west>
+<north>-10.69101</north>
+<east>-66.47418</east>
+<south>-10.70899</south>
+</bbox>
+<score>18.114885330200195</score>
+</geoname>
+<geoname>
+<toponymName>Dardanelle</toponymName>
+<name>Dardanelle</name>
+<lat>35.22314</lat>
+<lng>-93.15795</lng>
+<geonameId>4107641</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>4745</population>
+<alternateNames/>
+<elevation>101</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">AR</adminCode1>
+<adminName1>Arkansas</adminName1>
+<adminCode2>149</adminCode2>
+<adminName2>Yell County</adminName2>
+<alternateName lang="post">72834</alternateName>
+<alternateName lang="unlc">DAR</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-93.16749</west>
+<north>35.23093</north>
+<east>-93.14842</east>
+<south>35.21535</south>
+</bbox>
+<score>15.792070388793945</score>
+</geoname>
+<geoname>
+<toponymName>Dardanelles</toponymName>
+<name>Dardanelles</name>
+<lat>3.74566</lat>
+<lng>-52.61897</lng>
+<geonameId>3381949</geonameId>
+<countryCode>GF</countryCode>
+<countryName>French Guiana</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Cayenne</timezone>
+<bbox>
+<west>-52.62798</west>
+<north>3.75466</north>
+<east>-52.60996</east>
+<south>3.73667</south>
+</bbox>
+<score>13.679130554199219</score>
+</geoname>
+<geoname>
+<toponymName>Dardanelles</toponymName>
+<name>Dardanelles</name>
+<lat>42.42901</lat>
+<lng>-123.0581</lng>
+<geonameId>5722137</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>325</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OR">OR</adminCode1>
+<adminName1>Oregon</adminName1>
+<adminCode2>029</adminCode2>
+<adminName2>Jackson County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-123.07029</west>
+<north>42.43801</north>
+<east>-123.04592</east>
+<south>42.42002</south>
+</bbox>
+<score>13.679130554199219</score>
+</geoname>
+<geoname>
+<toponymName>Dardanelles</toponymName>
+<name>Dardanelles</name>
+<lat>45.56681</lat>
+<lng>-76.64942</lng>
+<geonameId>5935117</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="QC">10</adminCode1>
+<adminName1>Quebec</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Montreal</timezone>
+<score>13.679130554199219</score>
+</geoname>
+<geoname>
+<toponymName>Dardanelles</toponymName>
+<name>Dardanelles</name>
+<lat>40.25</lat>
+<lng>26.41667</lng>
+<geonameId>630670</geonameId>
+<countryCode/>
+<countryName/>
+<fcl>H</fcl>
+<fcode>STRT</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>strait</fcodeName>
+<population/>
+<alternateNames>Canakkale Bogazi,Dardanelos,Çanakkale Boğazi</alternateNames>
+<elevation/>
+<adminCode1/>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="es">Dardanelos</alternateName>
+<alternateName lang="tr">Çanakkale Boğazi</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Skopje</timezone>
+<score>10.560272216796875</score>
+</geoname>
+<geoname>
+<toponymName>Los Dardanelos</toponymName>
+<name>Los Dardanelos</name>
+<lat>9.25877</lat>
+<lng>-73.90909</lng>
+<geonameId>3676187</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Dardanelos,Hacienda Los Dardanelos,Los Dardanelos</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="CES">10</adminCode1>
+<adminName1>Cesar</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<bbox>
+<west>-73.91821</west>
+<north>9.26777</north>
+<east>-73.89998</east>
+<south>9.24978</south>
+</bbox>
+<score>10.458634376525879</score>
+</geoname>
+<geoname>
+<toponymName>Dardanells</toponymName>
+<name>Dardanells</name>
+<lat>41.26315</lat>
+<lng>-72.5337</lng>
+<geonameId>4832423</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>CHN</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>channel</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CT">CT</adminCode1>
+<adminName1>Connecticut</adminName1>
+<adminCode2>007</adminCode2>
+<adminName2>Middlesex County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>10.381387710571289</score>
+</geoname>
+</geonames>

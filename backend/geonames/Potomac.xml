@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>10</totalResultsCount>
+<geoname>
+<toponymName>Potomac</toponymName>
+<name>Potomac</name>
+<lat>39.01817</lat>
+<lng>-77.20859</lng>
+<geonameId>4366001</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>44965</population>
+<alternateNames>Potomak,Potomak Khehjts,ptwwmk, mrylnd,Потомак,Потомак Хэйтс,پتوومک، مریلند</alternateNames>
+<elevation>110</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MD">MD</adminCode1>
+<adminName1>Maryland</adminName1>
+<adminCode2>031</adminCode2>
+<adminName2>Montgomery County</adminName2>
+<alternateName lang="fa">پتوومک، مریلند</alternateName>
+<alternateName lang="kk">Потомак Хэйтс</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Potomac%2C_Maryland</alternateName>
+<alternateName lang="post">20859</alternateName>
+<alternateName lang="ru">Потомак</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-77.25577</west>
+<north>39.06997</north>
+<east>-77.14162</east>
+<south>38.96673</south>
+</bbox>
+<score>58.901023864746094</score>
+</geoname>
+<geoname>
+<toponymName>Potomac</toponymName>
+<name>Potomac</name>
+<lat>40.30504</lat>
+<lng>-87.80058</lng>
+<geonameId>4906544</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>750</population>
+<alternateNames>Potomak,Потомак</alternateNames>
+<elevation>204</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>183</adminCode2>
+<adminName2>Vermilion County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Potomac%2C_Illinois</alternateName>
+<alternateName lang="post">61865</alternateName>
+<alternateName lang="ru">Потомак</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-87.80176</west>
+<north>40.30594</north>
+<east>-87.7994</east>
+<south>40.30414</south>
+</bbox>
+<score>47.120819091796875</score>
+</geoname>
+<geoname>
+<toponymName>Potomac</toponymName>
+<name>Potomac</name>
+<lat>39.56759</lat>
+<lng>-78.83891</lng>
+<geonameId>4366000</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>200</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MD">MD</adminCode1>
+<adminName1>Maryland</adminName1>
+<adminCode2>001</adminCode2>
+<adminName2>Allegany County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-78.85058</west>
+<north>39.57658</north>
+<east>-78.82724</east>
+<south>39.5586</south>
+</bbox>
+<score>35.72760772705078</score>
+</geoname>
+<geoname>
+<toponymName>Potomac</toponymName>
+<name>Potomac</name>
+<lat>40.15285</lat>
+<lng>-80.52924</lng>
+<geonameId>5280611</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>294</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WV">WV</adminCode1>
+<adminName1>West Virginia</adminName1>
+<adminCode2>069</adminCode2>
+<adminName2>Ohio County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-80.54101</west>
+<north>40.16184</north>
+<east>-80.51747</east>
+<south>40.14386</south>
+</bbox>
+<score>35.72760772705078</score>
+</geoname>
+<geoname>
+<toponymName>Potomac</toponymName>
+<name>Potomac</name>
+<lat>46.8816</lat>
+<lng>-113.57953</lng>
+<geonameId>5672273</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1103</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MT">MT</adminCode1>
+<adminName1>Montana</adminName1>
+<adminCode2>063</adminCode2>
+<adminName2>Missoula County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<bbox>
+<west>-113.59269</west>
+<north>46.89059</north>
+<east>-113.56637</east>
+<south>46.8726</south>
+</bbox>
+<score>35.72760772705078</score>
+</geoname>
+<geoname>
+<toponymName>Potomac</toponymName>
+<name>Potomac</name>
+<lat>38.3409</lat>
+<lng>-77.4131</lng>
+<geonameId>7198426</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>24</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>179</adminCode2>
+<adminName2>Stafford County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-77.42457</west>
+<north>38.34989</north>
+<east>-77.40163</east>
+<south>38.33191</south>
+</bbox>
+<score>35.72760772705078</score>
+</geoname>
+<geoname>
+<toponymName>Potočac</toponymName>
+<name>Potočac</name>
+<lat>43.81478</lat>
+<lng>21.3153</lng>
+<geonameId>786840</geonameId>
+<countryCode>RS</countryCode>
+<countryName>Serbia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Potocac,Potočac</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Poto%C4%8Dac</alternateName>
+<alternateName lang="sr">Potočac</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Belgrade</timezone>
+<bbox>
+<west>21.30284</west>
+<north>43.82378</north>
+<east>21.32777</east>
+<south>43.80579</south>
+</bbox>
+<score>21.183971405029297</score>
+</geoname>
+<geoname>
+<toponymName>Potomaco</toponymName>
+<name>Potomaco</name>
+<lat>-20.26667</lat>
+<lng>-65.78333</lng>
+<geonameId>3907587</geonameId>
+<countryCode>BO</countryCode>
+<countryName>Bolivia</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="P">07</adminCode1>
+<adminName1>Potosí</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/La_Paz</timezone>
+<score>11.983464241027832</score>
+</geoname>
+<geoname>
+<toponymName>Potoma</toponymName>
+<name>Potoma</name>
+<lat>4.99167</lat>
+<lng>-8.93944</lng>
+<geonameId>2274325</geonameId>
+<countryCode>LR</countryCode>
+<countryName>Liberia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="SI">10</adminCode1>
+<adminName1>Sinoe</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="0.0" gmtOffset="0.0">Africa/Monrovia</timezone>
+<bbox>
+<west>-8.94847</west>
+<north>5.00066</north>
+<east>-8.93042</east>
+<south>4.98267</south>
+</bbox>
+<score>6.990347862243652</score>
+</geoname>
+<geoname>
+<toponymName>Polomac</toponymName>
+<name>Polomac</name>
+<lat>45.05111</lat>
+<lng>16.30889</lng>
+<geonameId>3282244</geonameId>
+<countryCode>HR</countryCode>
+<countryName>Croatia</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Zagreb</timezone>
+<score>3.7448325157165527</score>
+</geoname>
+</geonames>

@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>63</totalResultsCount>
+<geoname>
+<toponymName>Damascus</toponymName>
+<name>Damascus</name>
+<lat>33.5102</lat>
+<lng>36.29128</lng>
+<geonameId>170654</geonameId>
+<countryCode>SY</countryCode>
+<countryName>Syria</countryName>
+<fcl>P</fcl>
+<fcode>PPLC</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>capital of a political entity</fcodeName>
+<population>1569394</population>
+<alternateNames>Al-Sham,Al-Shām,Cham,DAM,Damas,Damasc,Damasco,Damascu,Damascus,Damasek,Damask,Damask",Damaskas,Damasko,Damaskos,Damaskus,Damaszek,Damašek,Dammeseq,Dimaejk,Dimashk,Dimashk al-Sham,Dimashk al-Shām,Dimashq,Dimeshki esh Sham,Dimishq,Dimäjk,Esh Sham,Esh Shām,Sam,da ma shi ge,damaseukuseu,damasukasu,dmshq,dmsq,drmswq,Şam,Δαμασκός,Дамаск,Дамаскъ,Димишқ,Դամասկոս,דמשק,دمشق,ܕܪܡܣܘܩ,ደማስቆ,ダマスカス,大马士革,다마스쿠스</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="DI">13</adminCode1>
+<adminName1>Damascus City</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="am">ደማስቆ</alternateName>
+<alternateName lang="ar">دمشق</alternateName>
+<alternateName lang="arc">ܕܪܡܣܘܩ</alternateName>
+<alternateName lang="bg">Дамаск</alternateName>
+<alternateName lang="bs">Damask</alternateName>
+<alternateName lang="ca">Damasc</alternateName>
+<alternateName lang="cs">Damašek</alternateName>
+<alternateName lang="cu">Дамаскъ</alternateName>
+<alternateName lang="da">Damaskus</alternateName>
+<alternateName lang="de">Damaskus</alternateName>
+<alternateName lang="el">Δαμασκός</alternateName>
+<alternateName lang="en">Damascus</alternateName>
+<alternateName lang="eo">Damasko</alternateName>
+<alternateName lang="es">Damasco</alternateName>
+<alternateName lang="eu">Damasko</alternateName>
+<alternateName lang="fa">دمشق</alternateName>
+<alternateName lang="fi">Damaskos</alternateName>
+<alternateName lang="fr">Damas</alternateName>
+<alternateName lang="frp">Damas</alternateName>
+<alternateName lang="hbs">Damask</alternateName>
+<alternateName lang="he">דמשק</alternateName>
+<alternateName lang="hr">Damask</alternateName>
+<alternateName lang="hy">Դամասկոս</alternateName>
+<alternateName lang="iata">DAM</alternateName>
+<alternateName lang="id">Damaskus</alternateName>
+<alternateName lang="is">Damaskus</alternateName>
+<alternateName lang="it">Damasco</alternateName>
+<alternateName lang="ja">ダマスカス</alternateName>
+<alternateName lang="ko">다마스쿠스</alternateName>
+<alternateName lang="ku">Şam</alternateName>
+<alternateName lang="la">Damascus</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Damascus</alternateName>
+<alternateName lang="lt">Damaskas</alternateName>
+<alternateName lang="nl">Damascus</alternateName>
+<alternateName lang="no">Damaskus</alternateName>
+<alternateName lang="pl">Damaszek</alternateName>
+<alternateName lang="pt">Damasco</alternateName>
+<alternateName lang="ro">Damasc</alternateName>
+<alternateName lang="ru">Дамаск</alternateName>
+<alternateName lang="scn">Damascu</alternateName>
+<alternateName lang="sk">Damask</alternateName>
+<alternateName lang="sl">Damask</alternateName>
+<alternateName lang="sr">Дамаск</alternateName>
+<alternateName lang="sv">Damaskus</alternateName>
+<alternateName lang="tg">Димишқ</alternateName>
+<alternateName lang="tr">Şam</alternateName>
+<alternateName lang="unlc">DAM</alternateName>
+<alternateName lang="ur">دمشق</alternateName>
+<alternateName lang="vo">Dimäjk</alternateName>
+<alternateName lang="zh">大马士革</alternateName>
+<timezone dstOffset="3.0" gmtOffset="2.0">Asia/Damascus</timezone>
+<bbox>
+<west>36.09593</west>
+<north>33.67277</north>
+<east>36.48662</east>
+<south>33.34763</south>
+</bbox>
+<score>72.36651611328125</score>
+</geoname>
+<geoname>
+<toponymName>Dam</toponymName>
+<name>Dam</name>
+<lat>27.11667</lat>
+<lng>89.76667</lng>
+<geonameId>1252603</geonameId>
+<countryCode>BT</countryCode>
+<countryName>Bhutan</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Dam</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Dam%2C_Bhutan</alternateName>
+<timezone dstOffset="6.0" gmtOffset="6.0">Asia/Thimphu</timezone>
+<bbox>
+<west>89.75656</west>
+<north>27.12566</north>
+<east>89.77677</east>
+<south>27.10767</south>
+</bbox>
+<score>66.47289276123047</score>
+</geoname>
+<geoname>
+<toponymName>Dam</toponymName>
+<name>Dam</name>
+<lat>9.3373</lat>
+<lng>16.2874</lng>
+<geonameId>2434268</geonameId>
+<countryCode>TD</countryCode>
+<countryName>Chad</countryName>
+<fcl>H</fcl>
+<fcode>LK</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>lake</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="TA">14</adminCode1>
+<adminName1>Tandjilé</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="1.0">Africa/Ndjamena</timezone>
+<score>63.320701599121094</score>
+</geoname>
+<geoname>
+<toponymName>Dam</toponymName>
+<name>Dam</name>
+<lat>29.82361</lat>
+<lng>61.43722</lng>
+<geonameId>1144244</geonameId>
+<countryCode>AF</countryCode>
+<countryName>Afghanistan</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames>Dam,Ḏam</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="NIM">19</adminCode1>
+<adminName1>Nīmrūz</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="4.5" gmtOffset="4.5">Asia/Kabul</timezone>
+<score>50.05941390991211</score>
+</geoname>
+<geoname>
+<toponymName>Ḏam</toponymName>
+<name>Ḏam</name>
+<lat>33.6155</lat>
+<lng>69.48222</lng>
+<geonameId>1438178</geonameId>
+<countryCode>AF</countryCode>
+<countryName>Afghanistan</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames>Dam,dm,دم,ډم,Ḏam</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="PIA">36</adminCode1>
+<adminName1>Paktia</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="fa">دم</alternateName>
+<timezone dstOffset="4.5" gmtOffset="4.5">Asia/Kabul</timezone>
+<score>50.05941390991211</score>
+</geoname>
+<geoname>
+<toponymName>Ḏam</toponymName>
+<name>Ḏam</name>
+<lat>33.61063</lat>
+<lng>69.49023</lng>
+<geonameId>1144242</geonameId>
+<countryCode>AF</countryCode>
+<countryName>Afghanistan</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Dam,Dam Qal`eh,Dam Qala,Dam Qal‘eh,dm,دم,ډم,Ḏam</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="PIA">36</adminCode1>
+<adminName1>Paktia</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="fa">دم</alternateName>
+<timezone dstOffset="4.5" gmtOffset="4.5">Asia/Kabul</timezone>
+<bbox>
+<west>69.47943</west>
+<north>33.61962</north>
+<east>69.50103</east>
+<south>33.60164</south>
+</bbox>
+<score>44.774497985839844</score>
+</geoname>
+<geoname>
+<toponymName>Daman</toponymName>
+<name>Daman</name>
+<lat>20.41432</lat>
+<lng>72.83236</lng>
+<geonameId>1273618</geonameId>
+<countryCode>IN</countryCode>
+<countryName>India</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population>39737</population>
+<alternateNames>Daman,Damao,Damaun,Damão,Damān,Даман</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="DD">32</adminCode1>
+<adminName1>Daman and Diu</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Daman%2C_Daman_and_Diu</alternateName>
+<alternateName lang="ru">Даман</alternateName>
+<alternateName lang="unlc">DAM</alternateName>
+<timezone dstOffset="5.5" gmtOffset="5.5">Asia/Kolkata</timezone>
+<bbox>
+<west>72.80479</west>
+<north>20.44015</north>
+<east>72.85993</east>
+<south>20.38848</south>
+</bbox>
+<score>44.774497985839844</score>
+</geoname>
+<geoname>
+<toponymName>Damascus Int. Airport</toponymName>
+<name>Damascus Int. Airport</name>
+<lat>33.41064</lat>
+<lng>36.51427</lng>
+<geonameId>6300128</geonameId>
+<countryCode>SY</countryCode>
+<countryName>Syria</countryName>
+<fcl>S</fcl>
+<fcode>AIRP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>airport</fcodeName>
+<population/>
+<alternateNames>DAM,OSDI</alternateNames>
+<elevation>615</elevation>
+<continentCode>AS</continentCode>
+<adminCode1/>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="iata">DAM</alternateName>
+<alternateName lang="icao">OSDI</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Damascus_International_Airport</alternateName>
+<timezone dstOffset="3.0" gmtOffset="2.0">Asia/Damascus</timezone>
+<score>44.774497985839844</score>
+</geoname>
+<geoname>
+<toponymName>Dam</toponymName>
+<name>Dam</name>
+<lat>37.52052</lat>
+<lng>40.53331</lng>
+<geonameId>441192</geonameId>
+<countryCode>TR</countryCode>
+<countryName>Turkey</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Dam,Tavsi</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="47">72</adminCode1>
+<adminName1>Mardin</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="tr">Tavsi</alternateName>
+<timezone dstOffset="3.0" gmtOffset="2.0">Europe/Istanbul</timezone>
+<bbox>
+<west>40.52197</west>
+<north>37.52952</north>
+<east>40.54465</east>
+<south>37.51153</south>
+</bbox>
+<score>44.31526184082031</score>
+</geoname>
+<geoname>
+<toponymName>Dām</toponymName>
+<name>Dām</name>
+<lat>35.67315</lat>
+<lng>71.91997</lng>
+<geonameId>1348048</geonameId>
+<countryCode>PK</countryCode>
+<countryName>Pakistan</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Dam,Dām</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="NW">03</adminCode1>
+<adminName1>North-West Frontier Province</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Dām</alternateName>
+<timezone dstOffset="5.0" gmtOffset="5.0">Asia/Karachi</timezone>
+<bbox>
+<west>71.9089</west>
+<north>35.68214</north>
+<east>71.93104</east>
+<south>35.66415</south>
+</bbox>
+<score>38.378143310546875</score>
+</geoname>
+</geonames>

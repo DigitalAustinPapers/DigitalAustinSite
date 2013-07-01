@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Colorado River</toponymName>
+<name>Colorado River</name>
+<lat>31.9</lat>
+<lng>-114.95</lng>
+<geonameId>4013157</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>Blue River,Bunkara River,Colorado River,Grand River,Nah oon Kara,North Fork,North Fork of Grand River,Rio Colorado,Río Colorado</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Tijuana</timezone>
+<score>39.804256439208984</score>
+</geoname>
+<geoname>
+<toponymName>Colorado River</toponymName>
+<name>Colorado River</name>
+<lat>28.59472</lat>
+<lng>-95.98302</lng>
+<geonameId>4682632</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>321</adminCode2>
+<adminName2>Matagorda County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>13.541683197021484</score>
+</geoname>
+<geoname>
+<toponymName>Qolora</toponymName>
+<name>Qolora</name>
+<lat>-32.62922</lat>
+<lng>28.4319</lng>
+<geonameId>963657</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>Colora River,Qolora,Qolora River,Qotore</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="EC">05</adminCode1>
+<adminName1>Eastern Cape</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<score>4.177801132202148</score>
+</geoname>
+</geonames>

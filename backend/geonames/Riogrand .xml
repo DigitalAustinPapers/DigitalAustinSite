@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Ríogrande</toponymName>
+<name>Ríogrande</name>
+<lat>6.54001</lat>
+<lng>-75.39885</lng>
+<geonameId>3670750</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="ANT">02</adminCode1>
+<adminName1>Departamento de Antioquia</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<bbox>
+<west>-75.4079</west>
+<north>6.549</north>
+<east>-75.3898</east>
+<south>6.53101</south>
+</bbox>
+<score>31.303129196166992</score>
+</geoname>
+<geoname>
+<toponymName>El Retiro</toponymName>
+<name>El Retiro</name>
+<lat>5.65</lat>
+<lng>-74.63333</lng>
+<geonameId>3683221</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>El Retiro,Riogrande</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="CUN">33</adminCode1>
+<adminName1>Cundinamarca</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<bbox>
+<west>-74.64237</west>
+<north>5.65899</north>
+<east>-74.6243</east>
+<south>5.64101</south>
+</bbox>
+<score>22.134654998779297</score>
+</geoname>
+<geoname>
+<toponymName>Grand River</toponymName>
+<name>Grand River</name>
+<lat>42.85011</lat>
+<lng>-79.56631</lng>
+<geonameId>5964685</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>Grand,Rio Grand,Riviere Grand,Rivière Grand,nhr ghrand,نهر غراند</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ON">08</adminCode1>
+<adminName1>Ontario</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ar">نهر غراند</alternateName>
+<alternateName lang="fr">Rivière Grand</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Grand_River_%28Ontario%29</alternateName>
+<alternateName lang="pl">Grand</alternateName>
+<alternateName lang="pt">Rio Grand</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Toronto</timezone>
+<score>14.55086898803711</score>
+</geoname>
+</geonames>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Section</toponymName>
+<name>Section</name>
+<lat>34.57897</lat>
+<lng>-85.98664</lng>
+<geonameId>4089040</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>770</population>
+<alternateNames/>
+<elevation>409</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AL">AL</adminCode1>
+<adminName1>Alabama</adminName1>
+<adminCode2>071</adminCode2>
+<adminName2>Jackson County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Section%2C_Alabama</alternateName>
+<alternateName lang="post">35771</alternateName>
+<alternateName lang="unlc">S4E</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-86.00215</west>
+<north>34.61872</north>
+<east>-85.96704</east>
+<south>34.56408</south>
+</bbox>
+<score>56.04876708984375</score>
+</geoname>
+<geoname>
+<toponymName>Section</toponymName>
+<name>Section</name>
+<lat>34.70037</lat>
+<lng>-87.47641</lng>
+<geonameId>4089039</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>176</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AL">AL</adminCode1>
+<adminName1>Alabama</adminName1>
+<adminCode2>033</adminCode2>
+<adminName2>Colbert County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-87.48735</west>
+<north>34.70936</north>
+<east>-87.46547</east>
+<south>34.69137</south>
+</bbox>
+<score>44.839012145996094</score>
+</geoname>
+</geonames>

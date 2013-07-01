@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>7</totalResultsCount>
+<geoname>
+<toponymName>Ste. Antonio</toponymName>
+<name>Ste. Antonio</name>
+<lat>-25.07167</lat>
+<lng>32.95056</lng>
+<geonameId>1105526</geonameId>
+<countryCode>MZ</countryCode>
+<countryName>Mozambique</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="L">04</adminCode1>
+<adminName1>Maputo</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Maputo</timezone>
+<bbox>
+<west>32.94063</west>
+<north>-25.06267</north>
+<east>32.96048</east>
+<south>-25.08066</south>
+</bbox>
+<score>33.79275894165039</score>
+</geoname>
+<geoname>
+<toponymName>Sto. Antonio</toponymName>
+<name>Sto. Antonio</name>
+<lat>-25.91083</lat>
+<lng>32.38472</lng>
+<geonameId>1089933</geonameId>
+<countryCode>MZ</countryCode>
+<countryName>Mozambique</countryName>
+<fcl>S</fcl>
+<fcode>BLDG</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>building(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="L">04</adminCode1>
+<adminName1>Maputo</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Maputo</timezone>
+<score>8.995540618896484</score>
+</geoname>
+<geoname>
+<toponymName>Sto. Antonio</toponymName>
+<name>Sto. Antonio</name>
+<lat>-25.76111</lat>
+<lng>32.37556</lng>
+<geonameId>1089942</geonameId>
+<countryCode>MZ</countryCode>
+<countryName>Mozambique</countryName>
+<fcl>S</fcl>
+<fcode>BLDG</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>building(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="L">04</adminCode1>
+<adminName1>Maputo</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Maputo</timezone>
+<score>8.995540618896484</score>
+</geoname>
+<geoname>
+<toponymName>Sto. Antonio</toponymName>
+<name>Sto. Antonio</name>
+<lat>-25.97028</lat>
+<lng>32.1425</lng>
+<geonameId>1089959</geonameId>
+<countryCode>MZ</countryCode>
+<countryName>Mozambique</countryName>
+<fcl>S</fcl>
+<fcode>BLDG</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>building(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="L">04</adminCode1>
+<adminName1>Maputo</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Maputo</timezone>
+<score>8.995540618896484</score>
+</geoname>
+<geoname>
+<toponymName>Sto. Antonio</toponymName>
+<name>Sto. Antonio</name>
+<lat>-25.56167</lat>
+<lng>32.66778</lng>
+<geonameId>1090021</geonameId>
+<countryCode>MZ</countryCode>
+<countryName>Mozambique</countryName>
+<fcl>S</fcl>
+<fcode>BLDG</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>building(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="L">04</adminCode1>
+<adminName1>Maputo</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Maputo</timezone>
+<score>8.995540618896484</score>
+</geoname>
+<geoname>
+<toponymName>Sto. Antonio</toponymName>
+<name>Sto. Antonio</name>
+<lat>-25.42472</lat>
+<lng>32.90083</lng>
+<geonameId>1090072</geonameId>
+<countryCode>MZ</countryCode>
+<countryName>Mozambique</countryName>
+<fcl>S</fcl>
+<fcode>MSSN</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>mission</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="L">04</adminCode1>
+<adminName1>Maputo</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Maputo</timezone>
+<score>8.995540618896484</score>
+</geoname>
+<geoname>
+<toponymName>Sto. Antonio</toponymName>
+<name>Sto. Antonio</name>
+<lat>-25.2675</lat>
+<lng>32.21</lng>
+<geonameId>1105604</geonameId>
+<countryCode>MZ</countryCode>
+<countryName>Mozambique</countryName>
+<fcl>S</fcl>
+<fcode>MSSN</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>mission</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="L">04</adminCode1>
+<adminName1>Maputo</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Maputo</timezone>
+<score>8.995540618896484</score>
+</geoname>
+</geonames>

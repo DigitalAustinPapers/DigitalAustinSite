@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>7</totalResultsCount>
+<geoname>
+<toponymName>Parliament</toponymName>
+<name>Parliament</name>
+<lat>50.03352</lat>
+<lng>-81.56641</lng>
+<geonameId>6098672</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ON">08</adminCode1>
+<adminName1>Ontario</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Toronto</timezone>
+<score>39.55862045288086</score>
+</geoname>
+<geoname>
+<toponymName>Parlament</toponymName>
+<name>Parlament</name>
+<lat>54.63333</lat>
+<lng>8.6</lng>
+<geonameId>2855412</geonameId>
+<countryCode>DE</countryCode>
+<countryName>Germany</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SH">10</adminCode1>
+<adminName1>Schleswig-Holstein</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Berlin</timezone>
+<bbox>
+<west>8.58446</west>
+<north>54.64233</north>
+<east>8.61554</east>
+<south>54.62434</south>
+</bbox>
+<score>18.096757888793945</score>
+</geoname>
+<geoname>
+<toponymName>Parlament</toponymName>
+<name>Parliament House</name>
+<lat>-33.8673</lat>
+<lng>151.213</lng>
+<geonameId>6949413</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>S</fcl>
+<fcode>ADMF</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>administrative facility</fcodeName>
+<population/>
+<alternateNames>Parliament House</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="NSW">02</adminCode1>
+<adminName1>New South Wales</adminName1>
+<adminCode2>17200</adminCode2>
+<adminName2>City of Sydney</adminName2>
+<alternateName lang="en">Parliament House</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Parliament_House%2C_Sydney</alternateName>
+<timezone dstOffset="10.0" gmtOffset="11.0">Australia/Sydney</timezone>
+<score>18.096757888793945</score>
+</geoname>
+<geoname>
+<toponymName>Parliament</toponymName>
+<name>Parliament</name>
+<lat>-32.17543</lat>
+<lng>26.87855</lng>
+<geonameId>966187</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>S</fcl>
+<fcode>FRM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farm</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="EC">05</adminCode1>
+<adminName1>Eastern Cape</adminName1>
+<adminCode2>DC13</adminCode2>
+<adminName2>Chris Hani District Municipality</adminName2>
+<adminCode3>EC134</adminCode3>
+<adminName3>Lukanji</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<score>12.362069129943848</score>
+</geoname>
+<geoname>
+<toponymName>Parliament</toponymName>
+<name>Parliament</name>
+<lat>53.34417</lat>
+<lng>-6.26774</lng>
+<geonameId>6471554</geonameId>
+<countryCode>IE</countryCode>
+<countryName>Ireland</countryName>
+<fcl>S</fcl>
+<fcode>HTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>hotel</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1/>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Dublin</timezone>
+<score>12.362069129943848</score>
+</geoname>
+<geoname>
+<toponymName>Parliament</toponymName>
+<name>Parliament</name>
+<lat>51.49955</lat>
+<lng>-0.12478</lng>
+<geonameId>6930645</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>BLDG</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>building(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>P5</adminCode3>
+<adminName3>City of Westminster</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>12.362069129943848</score>
+</geoname>
+<geoname>
+<toponymName>Parlament</toponymName>
+<name>Parlament</name>
+<lat>48.20789</lat>
+<lng>16.35778</lng>
+<geonameId>6354986</geonameId>
+<countryCode>AT</countryCode>
+<countryName>Austria</countryName>
+<fcl>S</fcl>
+<fcode>ADMF</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>administrative facility</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="9">09</adminCode1>
+<adminName1>Vienna</adminName1>
+<adminCode2>900</adminCode2>
+<adminName2>Politischer Bezirk Wien (Stadt)</adminName2>
+<adminCode3>901</adminCode3>
+<adminName3>Gemeindebezirk Innere Stadt</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Vienna</timezone>
+<score>5.655236721038818</score>
+</geoname>
+</geonames>

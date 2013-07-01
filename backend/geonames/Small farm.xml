@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Small Farms</toponymName>
+<name>Small Farms</name>
+<lat>28.0219</lat>
+<lng>-82.1448</lng>
+<geonameId>7219439</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>36</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="FL">FL</adminCode1>
+<adminName1>Florida</adminName1>
+<adminCode2>057</adminCode2>
+<adminName2>Hillsborough County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-82.15499</west>
+<north>28.03089</north>
+<east>-82.13461</east>
+<south>28.01291</south>
+</bbox>
+<score>34.3702392578125</score>
+</geoname>
+<geoname>
+<toponymName>Small Arm</toponymName>
+<name>Small Arm</name>
+<lat>56.68639</lat>
+<lng>-134.99028</lng>
+<geonameId>5557360</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>BAY</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>bay</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>0</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AK">AK</adminCode1>
+<adminName1>Alaska</adminName1>
+<adminCode2>220</adminCode2>
+<adminName2>Sitka City and Borough</adminName2>
+<timezone dstOffset="-8.0" gmtOffset="-9.0">America/Sitka</timezone>
+<score>9.547290802001953</score>
+</geoname>
+</geonames>

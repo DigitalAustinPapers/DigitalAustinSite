@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Carancahua Bayou</toponymName>
+<name>Carancahua Bayou</name>
+<lat>29.23885</lat>
+<lng>-95.01354</lng>
+<geonameId>4678972</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>0</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>167</adminCode2>
+<adminName2>Galveston County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Indiana/Tell_City</timezone>
+<score>13.817651748657227</score>
+</geoname>
+<geoname>
+<toponymName>Carancahua Bay</toponymName>
+<name>Carancahua Bay</name>
+<lat>28.66833</lat>
+<lng>-96.39831</lng>
+<geonameId>4678971</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>BAY</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>bay</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>0</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>239</adminCode2>
+<adminName2>Jackson County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Carancahua_Bay</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>12.633280754089355</score>
+</geoname>
+</geonames>

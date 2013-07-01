@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Wythe</toponymName>
+<name>Wythe</name>
+<lat>37.0032</lat>
+<lng>-76.37772</lng>
+<geonameId>4794862</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>3</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>650</adminCode2>
+<adminName2>City of Hampton</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wythe_%28Hampton%2C_Virginia%29</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-76.38899</west>
+<north>37.0122</north>
+<east>-76.36646</east>
+<south>36.99421</south>
+</bbox>
+<score>68.97879791259766</score>
+</geoname>
+</geonames>

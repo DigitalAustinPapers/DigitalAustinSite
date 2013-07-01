@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Chrisman</toponymName>
+<name>Chrisman</name>
+<lat>39.80365</lat>
+<lng>-87.67364</lng>
+<geonameId>4235766</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1343</population>
+<alternateNames/>
+<elevation>196</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>045</adminCode2>
+<adminName2>Edgar County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Chrisman%2C_Illinois</alternateName>
+<alternateName lang="post">61924</alternateName>
+<alternateName lang="unlc">HJ9</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-87.67949</west>
+<north>39.80814</north>
+<east>-87.66778</east>
+<south>39.79915</south>
+</bbox>
+<score>42.1294059753418</score>
+</geoname>
+<geoname>
+<toponymName>Chrisman</toponymName>
+<name>Chrisman</name>
+<lat>39.83312</lat>
+<lng>-83.3727</lng>
+<geonameId>4508508</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>302</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>097</adminCode2>
+<adminName2>Madison County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Chrisman%2C_Ohio</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-83.38441</west>
+<north>39.84211</north>
+<east>-83.36098</east>
+<south>39.82412</south>
+</bbox>
+<score>42.1294059753418</score>
+</geoname>
+<geoname>
+<toponymName>Christmans</toponymName>
+<name>Christmans</name>
+<lat>40.96814</lat>
+<lng>-75.64408</lng>
+<geonameId>5184289</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>472</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PA">PA</adminCode1>
+<adminName1>Pennsylvania</adminName1>
+<adminCode2>025</adminCode2>
+<adminName2>Carbon County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-75.65599</west>
+<north>40.97714</north>
+<east>-75.63217</east>
+<south>40.95915</south>
+</bbox>
+<score>34.529258728027344</score>
+</geoname>
+<geoname>
+<toponymName>Chrisman</toponymName>
+<name>Chrisman</name>
+<lat>34.29778</lat>
+<lng>-119.30206</lng>
+<geonameId>5336690</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>20</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>111</adminCode2>
+<adminName2>Ventura County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-119.31294</west>
+<north>34.30677</north>
+<east>-119.29117</east>
+<south>34.28878</south>
+</bbox>
+<score>28.086271286010742</score>
+</geoname>
+<geoname>
+<toponymName>Christmans</toponymName>
+<name>Christmans</name>
+<lat>46.22044</lat>
+<lng>-116.35542</lng>
+<geonameId>5588834</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>1043</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ID">ID</adminCode1>
+<adminName1>Idaho</adminName1>
+<adminCode2>061</adminCode2>
+<adminName2>Lewis County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>10.790393829345703</score>
+</geoname>
+</geonames>

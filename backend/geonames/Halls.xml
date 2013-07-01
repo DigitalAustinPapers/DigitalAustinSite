@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>12</totalResultsCount>
+<geoname>
+<toponymName>Halls</toponymName>
+<name>Halls</name>
+<lat>35.87563</lat>
+<lng>-89.39618</lng>
+<geonameId>4627194</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2255</population>
+<alternateNames/>
+<elevation>95</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TN">TN</adminCode1>
+<adminName1>Tennessee</adminName1>
+<adminCode2>097</adminCode2>
+<adminName2>Lauderdale County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Halls%2C_Tennessee</alternateName>
+<alternateName lang="post">38040</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-89.42597</west>
+<north>35.91193</north>
+<east>-89.38344</east>
+<south>35.84925</south>
+</bbox>
+<score>71.21026611328125</score>
+</geoname>
+<geoname>
+<toponymName>Halls</toponymName>
+<name>Halls</name>
+<lat>60.31667</lat>
+<lng>17.45</lng>
+<geonameId>2708517</geonameId>
+<countryCode>SE</countryCode>
+<countryName>Sweden</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="C">21</adminCode1>
+<adminName1>Uppsala</adminName1>
+<adminCode2>0360</adminCode2>
+<adminName2>Tierp Municipality</adminName2>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Stockholm</timezone>
+<bbox>
+<west>17.43183</west>
+<north>60.32566</north>
+<east>17.46817</east>
+<south>60.30767</south>
+</bbox>
+<score>40.69158172607422</score>
+</geoname>
+<geoname>
+<toponymName>Halls</toponymName>
+<name>Halls</name>
+<lat>34.29843</lat>
+<lng>-84.93994</lng>
+<geonameId>4198859</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>235</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">GA</adminCode1>
+<adminName1>Georgia</adminName1>
+<adminCode2>015</adminCode2>
+<adminName2>Bartow County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-84.95083</west>
+<north>34.30742</north>
+<east>-84.92906</east>
+<south>34.28943</south>
+</bbox>
+<score>40.69158172607422</score>
+</geoname>
+<geoname>
+<toponymName>Halls</toponymName>
+<name>Halls</name>
+<lat>39.63333</lat>
+<lng>-94.9733</lng>
+<geonameId>4389284</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>245</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>021</adminCode2>
+<adminName2>Buchanan County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-94.98498</west>
+<north>39.64232</north>
+<east>-94.96162</east>
+<south>39.62433</south>
+</bbox>
+<score>40.69158172607422</score>
+</geoname>
+<geoname>
+<toponymName>Halls</toponymName>
+<name>Halls</name>
+<lat>34.33989</lat>
+<lng>-78.64363</lng>
+<geonameId>4469665</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>25</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NC">NC</adminCode1>
+<adminName1>North Carolina</adminName1>
+<adminCode2>047</adminCode2>
+<adminName2>Columbus County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-78.65452</west>
+<north>34.34888</north>
+<east>-78.63273</east>
+<south>34.3309</south>
+</bbox>
+<score>40.69158172607422</score>
+</geoname>
+<geoname>
+<toponymName>Halls</toponymName>
+<name>Halls</name>
+<lat>36.08203</lat>
+<lng>-83.93269</lng>
+<geonameId>4627193</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>310</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TN">TN</adminCode1>
+<adminName1>Tennessee</adminName1>
+<adminCode2>093</adminCode2>
+<adminName2>Knox County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-83.94382</west>
+<north>36.09102</north>
+<east>-83.92156</east>
+<south>36.07303</south>
+</bbox>
+<score>40.69158172607422</score>
+</geoname>
+<geoname>
+<toponymName>Halls</toponymName>
+<name>Halls</name>
+<lat>36.1345</lat>
+<lng>-88.17087</lng>
+<geonameId>4627192</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>134</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TN">TN</adminCode1>
+<adminName1>Tennessee</adminName1>
+<adminCode2>005</adminCode2>
+<adminName2>Benton County</adminName2>
+<alternateName lang="unlc">HLJ</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-88.18201</west>
+<north>36.1435</north>
+<east>-88.15974</east>
+<south>36.12551</south>
+</bbox>
+<score>30.518686294555664</score>
+</geoname>
+<geoname>
+<toponymName>Halls</toponymName>
+<name>Halls</name>
+<lat>53.98667</lat>
+<lng>-7.80806</lng>
+<geonameId>3311383</geonameId>
+<countryCode>IE</countryCode>
+<countryName>Ireland</countryName>
+<fcl>P</fcl>
+<fcode>PPLL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="C">C</adminCode1>
+<adminName1>Connaught</adminName1>
+<adminCode2>14</adminCode2>
+<adminName2>Leitrim</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Dublin</timezone>
+<bbox>
+<west>-7.80959</west>
+<north>53.98757</north>
+<east>-7.80653</east>
+<south>53.98577</south>
+</bbox>
+<score>25.432239532470703</score>
+</geoname>
+<geoname>
+<toponymName>Halls</toponymName>
+<name>Halls</name>
+<lat>39.16529</lat>
+<lng>-93.80522</lng>
+<geonameId>4389285</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>219</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>107</adminCode2>
+<adminName2>Lafayette County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>12.716119766235352</score>
+</geoname>
+<geoname>
+<toponymName>Halls</toponymName>
+<name>Halls</name>
+<lat>36.32571</lat>
+<lng>-76.95274</lng>
+<geonameId>4469666</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>13</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NC">NC</adminCode1>
+<adminName1>North Carolina</adminName1>
+<adminCode2>091</adminCode2>
+<adminName2>Hertford County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>12.716119766235352</score>
+</geoname>
+</geonames>

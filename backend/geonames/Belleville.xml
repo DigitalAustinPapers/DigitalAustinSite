@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>69</totalResultsCount>
+<geoname>
+<toponymName>Bell Ville</toponymName>
+<name>Bell Ville</name>
+<lat>-32.62591</lat>
+<lng>-62.68873</lng>
+<geonameId>3864331</geonameId>
+<countryCode>AR</countryCode>
+<countryName>Argentina</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>35105</population>
+<alternateNames>Bell Ville</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="X">05</adminCode1>
+<adminName1>Córdoba</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bell_Ville</alternateName>
+<alternateName lang="unlc">BVL</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Argentina/Cordoba</timezone>
+<bbox>
+<west>-62.71748</west>
+<north>-32.60169</north>
+<east>-62.65998</east>
+<south>-32.65012</south>
+</bbox>
+<score>43.561283111572266</score>
+</geoname>
+<geoname>
+<toponymName>Belleville</toponymName>
+<name>Belleville</name>
+<lat>21.95</lat>
+<lng>-79.6</lng>
+<geonameId>3567470</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames>Bellaville,Belleville</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="07">14</adminCode1>
+<adminName1>Sancti Spíritus</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>42.78965377807617</score>
+</geoname>
+<geoname>
+<toponymName>Belleville</toponymName>
+<name>Belleville</name>
+<lat>40.60507</lat>
+<lng>-77.72555</lng>
+<geonameId>5179809</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1827</population>
+<alternateNames/>
+<elevation>243</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PA">PA</adminCode1>
+<adminName1>Pennsylvania</adminName1>
+<adminCode2>087</adminCode2>
+<adminName2>Mifflin County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Belleville%2C_Pennsylvania</alternateName>
+<alternateName lang="post">17004</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-77.73147</west>
+<north>40.60957</north>
+<east>-77.71963</east>
+<south>40.60057</south>
+</bbox>
+<score>42.241817474365234</score>
+</geoname>
+<geoname>
+<toponymName>Belleville</toponymName>
+<name>Belleville</name>
+<lat>35.09315</lat>
+<lng>-93.44852</lng>
+<geonameId>4101139</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>441</population>
+<alternateNames/>
+<elevation>111</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">AR</adminCode1>
+<adminName1>Arkansas</adminName1>
+<adminCode2>149</adminCode2>
+<adminName2>Yell County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Belleville%2C_Arkansas</alternateName>
+<alternateName lang="post">72824</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-93.44962</west>
+<north>35.09404</north>
+<east>-93.44742</east>
+<south>35.09225</south>
+</bbox>
+<score>36.207271575927734</score>
+</geoname>
+<geoname>
+<toponymName>Belleville</toponymName>
+<name>Belleville</name>
+<lat>39.67727</lat>
+<lng>-86.48833</lng>
+<geonameId>4254358</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>272</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IN">IN</adminCode1>
+<adminName1>Indiana</adminName1>
+<adminCode2>063</adminCode2>
+<adminName2>Hendricks County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Belleville%2C_Indiana</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Indiana/Indianapolis</timezone>
+<bbox>
+<west>-86.50002</west>
+<north>39.68626</north>
+<east>-86.47664</east>
+<south>39.66827</south>
+</bbox>
+<score>36.207271575927734</score>
+</geoname>
+<geoname>
+<toponymName>Belleville</toponymName>
+<name>Belleville</name>
+<lat>36.86515</lat>
+<lng>-76.43578</lng>
+<geonameId>4746488</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>5</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>800</adminCode2>
+<adminName2>City of Suffolk</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Belleville%2C_Virginia</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-76.44702</west>
+<north>36.87414</north>
+<east>-76.42454</east>
+<south>36.85615</south>
+</bbox>
+<score>36.207271575927734</score>
+</geoname>
+<geoname>
+<toponymName>Belleville</toponymName>
+<name>Belleville</name>
+<lat>39.12424</lat>
+<lng>-81.73541</lng>
+<geonameId>4798572</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>181</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WV">WV</adminCode1>
+<adminName1>West Virginia</adminName1>
+<adminCode2>107</adminCode2>
+<adminName2>Wood County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Belleville%2C_West_Virginia</alternateName>
+<alternateName lang="post">26133</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-81.747</west>
+<north>39.13324</north>
+<east>-81.72381</east>
+<south>39.11525</south>
+</bbox>
+<score>36.207271575927734</score>
+</geoname>
+<geoname>
+<toponymName>Belleville</toponymName>
+<name>Belleville</name>
+<lat>42.20476</lat>
+<lng>-83.48521</lng>
+<geonameId>4985601</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3991</population>
+<alternateNames/>
+<elevation>206</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MI">MI</adminCode1>
+<adminName1>Michigan</adminName1>
+<adminCode2>163</adminCode2>
+<adminName2>Wayne County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Belleville%2C_Michigan</alternateName>
+<alternateName lang="post">48112</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Detroit</timezone>
+<bbox>
+<west>-83.49902</west>
+<north>42.21387</north>
+<east>-83.47222</east>
+<south>42.19006</south>
+</bbox>
+<score>36.207271575927734</score>
+</geoname>
+<geoname>
+<toponymName>Belleville</toponymName>
+<name>Belleville</name>
+<lat>40.79371</lat>
+<lng>-74.15014</lng>
+<geonameId>5095549</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>36878</population>
+<alternateNames/>
+<elevation>16</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NJ">NJ</adminCode1>
+<adminName1>New Jersey</adminName1>
+<adminCode2>013</adminCode2>
+<adminName2>Essex County</adminName2>
+<alternateName lang="post">07109</alternateName>
+<alternateName lang="unlc">UBU</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-74.18269</west>
+<north>40.81834</north>
+<east>-74.1176</east>
+<south>40.76908</south>
+</bbox>
+<score>36.207271575927734</score>
+</geoname>
+<geoname>
+<toponymName>Belleville</toponymName>
+<name>Belleville</name>
+<lat>42.85972</lat>
+<lng>-89.53818</lng>
+<geonameId>5245354</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2385</population>
+<alternateNames/>
+<elevation>266</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WI">WI</adminCode1>
+<adminName1>Wisconsin</adminName1>
+<adminCode2>025</adminCode2>
+<adminName2>Dane County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Belleville%2C_Wisconsin</alternateName>
+<alternateName lang="post">53508</alternateName>
+<alternateName lang="unlc">BVK</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-89.56093</west>
+<north>42.87857</north>
+<east>-89.52327</east>
+<south>42.85158</south>
+</bbox>
+<score>36.207271575927734</score>
+</geoname>
+</geonames>

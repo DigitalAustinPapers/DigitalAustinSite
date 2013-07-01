@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>11</totalResultsCount>
+<geoname>
+<toponymName>Moseley</toponymName>
+<name>Moseley</name>
+<lat>52.44686</lat>
+<lng>-1.88819</lng>
+<geonameId>2642149</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Moseley</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>A7</adminCode2>
+<adminName2>Birmingham</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Moseley</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.90295</west>
+<north>52.45585</north>
+<east>-1.87343</east>
+<south>52.43786</south>
+</bbox>
+<score>75.17112731933594</score>
+</geoname>
+<geoname>
+<toponymName>Moseley</toponymName>
+<name>Moseley</name>
+<lat>37.47515</lat>
+<lng>-77.77888</lng>
+<geonameId>4774026</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>95</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>145</adminCode2>
+<adminName2>Powhatan County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Moseley%2C_Virginia</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-77.79022</west>
+<north>37.48414</north>
+<east>-77.76755</east>
+<south>37.46616</south>
+</bbox>
+<score>61.3769645690918</score>
+</geoname>
+<geoname>
+<toponymName>Moseley</toponymName>
+<name>Moseley</name>
+<lat>-33.08333</lat>
+<lng>136.51667</lng>
+<geonameId>2065714</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="SA">05</adminCode1>
+<adminName1>South Australia</adminName1>
+<adminCode2>43220</adminCode2>
+<adminName2>Kimba</adminName2>
+<timezone dstOffset="9.5" gmtOffset="10.5">Australia/Adelaide</timezone>
+<bbox>
+<west>136.50593</west>
+<north>-33.07434</north>
+<east>136.5274</east>
+<south>-33.09233</south>
+</bbox>
+<score>40.91797637939453</score>
+</geoname>
+<geoname>
+<toponymName>Moseley</toponymName>
+<name>Moseley</name>
+<lat>32.45153</lat>
+<lng>-88.82922</lng>
+<geonameId>4436710</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>104</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MS">MS</adminCode1>
+<adminName1>Mississippi</adminName1>
+<adminCode2>075</adminCode2>
+<adminName2>Lauderdale County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-88.83988</west>
+<north>32.46052</north>
+<east>-88.81856</east>
+<south>32.44254</south>
+</bbox>
+<score>40.91797637939453</score>
+</geoname>
+<geoname>
+<toponymName>Moseley</toponymName>
+<name>Moseley</name>
+<lat>43.02947</lat>
+<lng>-85.35196</lng>
+<geonameId>5002587</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>261</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MI">MI</adminCode1>
+<adminName1>Michigan</adminName1>
+<adminCode2>081</adminCode2>
+<adminName2>Kent County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Detroit</timezone>
+<bbox>
+<west>-85.36427</west>
+<north>43.03847</north>
+<east>-85.33966</east>
+<south>43.02048</south>
+</bbox>
+<score>40.91797637939453</score>
+</geoname>
+<geoname>
+<toponymName>Moseley</toponymName>
+<name>Moseley</name>
+<lat>40.24887</lat>
+<lng>-103.75412</lng>
+<geonameId>5580077</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1312</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CO">CO</adminCode1>
+<adminName1>Colorado</adminName1>
+<adminCode2>087</adminCode2>
+<adminName2>Morgan County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<bbox>
+<west>-103.7659</west>
+<north>40.25786</north>
+<east>-103.74233</east>
+<south>40.23988</south>
+</bbox>
+<score>40.91797637939453</score>
+</geoname>
+<geoname>
+<toponymName>Moseley</toponymName>
+<name>Moseley</name>
+<lat>52.30005</lat>
+<lng>-105.03438</lng>
+<geonameId>6079054</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SK">11</adminCode1>
+<adminName1>Saskatchewan</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Regina</timezone>
+<score>40.91797637939453</score>
+</geoname>
+<geoname>
+<toponymName>Moseley</toponymName>
+<name>Moseley</name>
+<lat>-29.85</lat>
+<lng>30.88333</lng>
+<geonameId>973760</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>S</fcl>
+<fcode>RSD</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>railroad siding</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="ZN">02</adminCode1>
+<adminName1>KwaZulu-Natal</adminName1>
+<adminCode2>ETH</adminCode2>
+<adminName2>eThekwini Metropolitan Municipality</adminName2>
+<adminCode3>ETH</adminCode3>
+<adminName3>Ethekwini</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<score>12.786867141723633</score>
+</geoname>
+<geoname>
+<toponymName>Moseley</toponymName>
+<name>Moseley</name>
+<lat>-25.72439</lat>
+<lng>30.99098</lng>
+<geonameId>973761</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>S</fcl>
+<fcode>FRMT</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farmstead</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="MP">07</adminCode1>
+<adminName1>Mpumalanga</adminName1>
+<adminCode2>DC32</adminCode2>
+<adminName2>Ehlanzeni District</adminName2>
+<adminCode3>MP323</adminCode3>
+<adminName3>Umjindi</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<score>12.786867141723633</score>
+</geoname>
+<geoname>
+<toponymName>Moseley</toponymName>
+<name>Moseley</name>
+<lat>-29.31634</lat>
+<lng>25.41065</lng>
+<geonameId>973762</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>S</fcl>
+<fcode>FRM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farm</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="FS">03</adminCode1>
+<adminName1>Free State</adminName1>
+<adminCode2>DC16</adminCode2>
+<adminName2>Xhariep District Municipality</adminName2>
+<adminCode3>FS161</adminCode3>
+<adminName3>Letsemeng</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<score>12.786867141723633</score>
+</geoname>
+</geonames>

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>7</totalResultsCount>
+<geoname>
+<toponymName>Mississippi State University</toponymName>
+<name>Mississippi State University</name>
+<lat>33.45484</lat>
+<lng>-88.78866</lng>
+<geonameId>4436292</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>SCH</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>school</fcodeName>
+<population/>
+<alternateNames>Mississippi State,Universidade Estadual do Mississippi,Universite d'Etat du Mississippi,Université d'État du Mississippi,danshgah ayalty mysysypy,mi xi xi bi zhou li da xue,دانشگاه ایالتی میسیسیپی,密西西比州立大学</alternateNames>
+<elevation>118</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MS">MS</adminCode1>
+<adminName1>Mississippi</adminName1>
+<adminCode2>105</adminCode2>
+<adminName2>Oktibbeha County</adminName2>
+<alternateName lang="es">Mississippi State</alternateName>
+<alternateName lang="fa">دانشگاه ایالتی میسیسیپی</alternateName>
+<alternateName lang="fr">Université d'État du Mississippi</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Mississippi_State_University</alternateName>
+<alternateName lang="pt">Universidade Estadual do Mississippi</alternateName>
+<alternateName lang="zh">密西西比州立大学</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>15.903753280639648</score>
+</geoname>
+<geoname>
+<toponymName>Mississippi Slope</toponymName>
+<name>Mississippi Slope</name>
+<lat>27.75</lat>
+<lng>-89.83333</lng>
+<geonameId>3715408</geonameId>
+<countryCode/>
+<countryName/>
+<fcl>U</fcl>
+<fcode>SLPU</fcode>
+<fclName>undersea</fclName>
+<fcodeName>slope</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<adminCode1/>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Rankin_Inlet</timezone>
+<score>5.292071342468262</score>
+</geoname>
+<geoname>
+<toponymName>Mississippi Flats</toponymName>
+<name>Mississippi Flats</name>
+<lat>44.67915</lat>
+<lng>-101.1357</lng>
+<geonameId>5767159</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>PLN</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>plain(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>631</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SD">SD</adminCode1>
+<adminName1>South Dakota</adminName1>
+<adminCode2>117</adminCode2>
+<adminName2>Stanley County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<score>5.292071342468262</score>
+</geoname>
+<geoname>
+<toponymName>Mississippi Station</toponymName>
+<name>Mississippi Station</name>
+<lat>44.91681</lat>
+<lng>-76.68271</lng>
+<geonameId>6075373</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ON">08</adminCode1>
+<adminName1>Ontario</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Toronto</timezone>
+<bbox>
+<west>-76.69541</west>
+<north>44.92581</north>
+<east>-76.67001</east>
+<south>44.90782</south>
+</bbox>
+<score>5.292071342468262</score>
+</geoname>
+<geoname>
+<toponymName>Mississippi Lake</toponymName>
+<name>Mississippi Lake</name>
+<lat>45.08341</lat>
+<lng>-76.16608</lng>
+<geonameId>6075367</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>H</fcl>
+<fcode>LK</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>lake</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ON">08</adminCode1>
+<adminName1>Ontario</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Mississippi_Lake</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Toronto</timezone>
+<score>5.153604984283447</score>
+</geoname>
+<geoname>
+<toponymName>Mississippi Lake</toponymName>
+<name>Mississippi Lake</name>
+<lat>47.17194</lat>
+<lng>-93.40012</lng>
+<geonameId>5037886</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>LK</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>lake</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>380</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MN">MN</adminCode1>
+<adminName1>Minnesota</adminName1>
+<adminCode2>061</adminCode2>
+<adminName2>Itasca County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>4.509404182434082</score>
+</geoname>
+<geoname>
+<toponymName>Mississippi Lake</toponymName>
+<name>Mississippi Lake</name>
+<lat>44.46685</lat>
+<lng>-65.43212</lng>
+<geonameId>6075366</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>H</fcl>
+<fcode>LK</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>lake</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NS">07</adminCode1>
+<adminName1>Nova Scotia</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-3.0" gmtOffset="-4.0">America/Halifax</timezone>
+<score>4.509404182434082</score>
+</geoname>
+</geonames>

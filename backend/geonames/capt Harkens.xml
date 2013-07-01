@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Tanjung Tua</toponymName>
+<name>Tanjung Tua</name>
+<lat>-5.90598</lat>
+<lng>105.71747</lng>
+<geonameId>1623209</geonameId>
+<countryCode>ID</countryCode>
+<countryName>Indonesia</countryName>
+<fcl>T</fcl>
+<fcode>CAPE</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>cape</fcodeName>
+<population/>
+<alternateNames>Cape Varkens,Hog Point,Tandjoeng Toea,Tandjoeng Toeal,Tandjung Tual,Tanjung Tua,Varkenshoek,Verkenshoek</alternateNames>
+<elevation>21</elevation>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="LA">15</adminCode1>
+<adminName1>Lampung</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="id">Tanjung Tua</alternateName>
+<timezone dstOffset="7.0" gmtOffset="7.0">Asia/Jakarta</timezone>
+<score>32.51689910888672</score>
+</geoname>
+</geonames>

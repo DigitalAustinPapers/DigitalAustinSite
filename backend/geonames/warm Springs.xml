@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>150</totalResultsCount>
+<geoname>
+<toponymName>Warm Springs</toponymName>
+<name>Warm Springs</name>
+<lat>36.48034</lat>
+<lng>-91.05152</lng>
+<geonameId>4135335</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>131</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">AR</adminCode1>
+<adminName1>Arkansas</adminName1>
+<adminCode2>121</adminCode2>
+<adminName2>Randolph County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Warm_Springs%2C_Arkansas</alternateName>
+<alternateName lang="post">72478</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-91.0627</west>
+<north>36.48933</north>
+<east>-91.04033</east>
+<south>36.47135</south>
+</bbox>
+<score>39.111961364746094</score>
+</geoname>
+<geoname>
+<toponymName>Warm Springs</toponymName>
+<name>Warm Springs</name>
+<lat>32.89041</lat>
+<lng>-84.68104</lng>
+<geonameId>4229468</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>425</population>
+<alternateNames/>
+<elevation>277</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">GA</adminCode1>
+<adminName1>Georgia</adminName1>
+<adminCode2>199</adminCode2>
+<adminName2>Meriwether County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Warm_Springs%2C_Georgia</alternateName>
+<alternateName lang="post">31830</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-84.68211</west>
+<north>32.89131</north>
+<east>-84.67997</east>
+<south>32.88951</south>
+</bbox>
+<score>39.111961364746094</score>
+</geoname>
+<geoname>
+<toponymName>Warm Springs</toponymName>
+<name>Warm Springs</name>
+<lat>38.19049</lat>
+<lng>-116.37005</lng>
+<geonameId>5514592</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1653</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NV">NV</adminCode1>
+<adminName1>Nevada</adminName1>
+<adminCode2>023</adminCode2>
+<adminName2>Nye County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Warm_Springs%2C_Nevada</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-116.3815</west>
+<north>38.19948</north>
+<east>-116.35861</east>
+<south>38.1815</south>
+</bbox>
+<score>39.111961364746094</score>
+</geoname>
+<geoname>
+<toponymName>Warm Springs</toponymName>
+<name>Warm Springs</name>
+<lat>46.18131</lat>
+<lng>-112.78476</lng>
+<geonameId>5684927</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1467</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MT">MT</adminCode1>
+<adminName1>Montana</adminName1>
+<adminCode2>023</adminCode2>
+<adminName2>Deer Lodge County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Warm_Springs%2C_Montana</alternateName>
+<alternateName lang="post">59756</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<bbox>
+<west>-112.79775</west>
+<north>46.19031</north>
+<east>-112.77177</east>
+<south>46.17232</south>
+</bbox>
+<score>39.111961364746094</score>
+</geoname>
+<geoname>
+<toponymName>Warm Springs</toponymName>
+<name>Warm Springs</name>
+<lat>44.76345</lat>
+<lng>-121.26616</lng>
+<geonameId>5759199</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2945</population>
+<alternateNames/>
+<elevation>469</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OR">OR</adminCode1>
+<adminName1>Oregon</adminName1>
+<adminCode2>031</adminCode2>
+<adminName2>Jefferson County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Warm_Springs%2C_Oregon</alternateName>
+<alternateName lang="post">97761</alternateName>
+<alternateName lang="unlc">RMR</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-121.27512</west>
+<north>44.76981</north>
+<east>-121.2572</east>
+<south>44.75709</south>
+</bbox>
+<score>39.111961364746094</score>
+</geoname>
+<geoname>
+<toponymName>Warm Springs</toponymName>
+<name>Warm Springs</name>
+<lat>38.04624</lat>
+<lng>-79.79061</lng>
+<geonameId>4792225</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>123</population>
+<alternateNames/>
+<elevation>691</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>017</adminCode2>
+<adminName2>Bath County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Warm_Springs%2C_Virginia</alternateName>
+<alternateName lang="post">24484</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-79.79175</west>
+<north>38.04714</north>
+<east>-79.78946</east>
+<south>38.04534</south>
+</bbox>
+<score>32.59330368041992</score>
+</geoname>
+<geoname>
+<toponymName>Warm Springs</toponymName>
+<name>Warm Springs</name>
+<lat>33.1229</lat>
+<lng>-86.20386</lng>
+<geonameId>4096362</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>250</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AL">AL</adminCode1>
+<adminName1>Alabama</adminName1>
+<adminCode2>121</adminCode2>
+<adminName2>Talladega County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-86.2146</west>
+<north>33.13189</north>
+<east>-86.19312</east>
+<south>33.1139</south>
+</bbox>
+<score>26.074642181396484</score>
+</geoname>
+<geoname>
+<toponymName>Warm Springs</toponymName>
+<name>Warm Springs</name>
+<lat>34.12029</lat>
+<lng>-117.24699</lng>
+<geonameId>5407172</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>335</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>071</adminCode2>
+<adminName2>San Bernardino County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-117.25785</west>
+<north>34.12928</north>
+<east>-117.23612</east>
+<south>34.1113</south>
+</bbox>
+<score>26.074642181396484</score>
+</geoname>
+<geoname>
+<toponymName>Warm Springs</toponymName>
+<name>Warm Springs</name>
+<lat>34.10723</lat>
+<lng>-117.26393</lng>
+<geonameId>5407173</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>324</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>071</adminCode2>
+<adminName2>San Bernardino County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-117.27479</west>
+<north>34.11623</north>
+<east>-117.25307</east>
+<south>34.09824</south>
+</bbox>
+<score>26.074642181396484</score>
+</geoname>
+<geoname>
+<toponymName>Warm Springs</toponymName>
+<name>Warm Springs</name>
+<lat>39.65327</lat>
+<lng>-114.80252</lng>
+<geonameId>5514594</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1819</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NV">NV</adminCode1>
+<adminName1>Nevada</adminName1>
+<adminCode2>033</adminCode2>
+<adminName2>White Pine County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-114.8142</west>
+<north>39.66226</north>
+<east>-114.79084</east>
+<south>39.64428</south>
+</bbox>
+<score>26.074642181396484</score>
+</geoname>
+</geonames>

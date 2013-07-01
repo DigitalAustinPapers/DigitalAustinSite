@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>59</totalResultsCount>
+<geoname>
+<toponymName>Canals</toponymName>
+<name>Canals</name>
+<lat>38.96251</lat>
+<lng>-0.58443</lng>
+<geonameId>2520320</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>13941</population>
+<alternateNames>Canals,Canals de Canolas,Canals de Cañolas</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="VC">60</adminCode1>
+<adminName1>Valencia</adminName1>
+<adminCode2>V</adminCode2>
+<adminName2>Valencia</adminName2>
+<adminCode3>46081</adminCode3>
+<adminName3>Canals</adminName3>
+<alternateName lang="ca">Canals</alternateName>
+<alternateName lang="es">Canals</alternateName>
+<alternateName lang="post">46650</alternateName>
+<alternateName lang="unlc">CNS</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Madrid</timezone>
+<bbox>
+<west>-0.60362</west>
+<north>38.97742</north>
+<east>-0.56525</east>
+<south>38.94759</south>
+</bbox>
+<score>59.00703048706055</score>
+</geoname>
+<geoname>
+<toponymName>Canals</toponymName>
+<name>Canals</name>
+<lat>38.96939</lat>
+<lng>-0.58539</lng>
+<geonameId>6361946</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population>13941</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="VC">60</adminCode1>
+<adminName1>Valencia</adminName1>
+<adminCode2>V</adminCode2>
+<adminName2>Valencia</adminName2>
+<adminCode3>46081</adminCode3>
+<adminName3>Canals</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Canals%2C_Valencia</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Madrid</timezone>
+<bbox>
+<west>-0.61611</west>
+<north>38.99451</north>
+<east>-0.55266</east>
+<south>38.91205</south>
+</bbox>
+<score>46.64915084838867</score>
+</geoname>
+<geoname>
+<toponymName>Canals</toponymName>
+<name>Canals</name>
+<lat>43.85165</lat>
+<lng>1.29199</lng>
+<geonameId>3028881</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>569</population>
+<alternateNames>Canals</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="N">B3</adminCode1>
+<adminName1>Midi-Pyrénées</adminName1>
+<adminCode2>82</adminCode2>
+<adminName2>Tarn-et-Garonne</adminName2>
+<adminCode3>822</adminCode3>
+<adminName3>Arrondissement de Montauban</adminName3>
+<adminCode4>82028</adminCode4>
+<adminName4>Canals</adminName4>
+<alternateName lang="post">82170</alternateName>
+<alternateName lang="unlc">CNQ</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>1.29074</west>
+<north>43.85255</north>
+<east>1.29324</east>
+<south>43.85075</south>
+</bbox>
+<score>39.993316650390625</score>
+</geoname>
+<geoname>
+<toponymName>Canals</toponymName>
+<name>Canals</name>
+<lat>-33.56542</lat>
+<lng>-62.88927</lng>
+<geonameId>3862883</geonameId>
+<countryCode>AR</countryCode>
+<countryName>Argentina</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>8343</population>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="X">05</adminCode1>
+<adminName1>Córdoba</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="unlc">CNL</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Argentina/Cordoba</timezone>
+<bbox>
+<west>-62.90248</west>
+<north>-33.5544</north>
+<east>-62.87605</east>
+<south>-33.57643</south>
+</bbox>
+<score>37.31932067871094</score>
+</geoname>
+<geoname>
+<toponymName>Canals</toponymName>
+<name>Canals</name>
+<lat>43.85167</lat>
+<lng>1.29194</lng>
+<geonameId>6451405</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population>645</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="N">B3</adminCode1>
+<adminName1>Midi-Pyrénées</adminName1>
+<adminCode2>82</adminCode2>
+<adminName2>Tarn-et-Garonne</adminName2>
+<adminCode3>822</adminCode3>
+<adminName3>Arrondissement de Montauban</adminName3>
+<adminCode4>82028</adminCode4>
+<adminName4>Canals</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Canals%2C_Tarn-et-Garonne</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>1.27576</west>
+<north>43.87798</north>
+<east>1.31941</east>
+<south>43.84549</south>
+</bbox>
+<score>37.31932067871094</score>
+</geoname>
+<geoname>
+<toponymName>Canals</toponymName>
+<name>Canals</name>
+<lat>42.69373</lat>
+<lng>-0.43173</lng>
+<geonameId>6619136</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>T</fcl>
+<fcode>CRQS</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>cirques</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>2000</elevation>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="AR">52</adminCode1>
+<adminName1>Aragon</adminName1>
+<adminCode2>HU</adminCode2>
+<adminName2>Huesca</adminName2>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Madrid</timezone>
+<score>37.31932067871094</score>
+</geoname>
+<geoname>
+<toponymName>Canala</toponymName>
+<name>Canala</name>
+<lat>-21.51696</lat>
+<lng>165.96291</lng>
+<geonameId>2141656</geonameId>
+<countryCode>NC</countryCode>
+<countryName>New Caledonia</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="N">01</adminCode1>
+<adminName1>Province Nord</adminName1>
+<adminCode2>98804</adminCode2>
+<adminName2>Canala</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Canala</alternateName>
+<timezone dstOffset="11.0" gmtOffset="11.0">Pacific/Noumea</timezone>
+<score>12.696660041809082</score>
+</geoname>
+<geoname>
+<toponymName>Cazals</toponymName>
+<name>Cazals</name>
+<lat>44.122</lat>
+<lng>1.71677</lng>
+<geonameId>3028080</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>180</population>
+<alternateNames>Casals,Cazals</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="N">B3</adminCode1>
+<adminName1>Midi-Pyrénées</adminName1>
+<adminCode2>82</adminCode2>
+<adminName2>Tarn-et-Garonne</adminName2>
+<adminCode3>822</adminCode3>
+<adminName3>Arrondissement de Montauban</adminName3>
+<adminCode4>82041</adminCode4>
+<adminName4>Cazals</adminName4>
+<alternateName lang="post">82140</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>1.71552</west>
+<north>44.1229</north>
+<east>1.71803</east>
+<south>44.1211</south>
+</bbox>
+<score>12.68390941619873</score>
+</geoname>
+<geoname>
+<toponymName>Canale</toponymName>
+<name>Canale</name>
+<lat>44.79854</lat>
+<lng>7.99733</lng>
+<geonameId>3180898</geonameId>
+<countryCode>IT</countryCode>
+<countryName>Italy</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>5215</population>
+<alternateNames>Canal,Canale</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="21">12</adminCode1>
+<adminName1>Piedmont</adminName1>
+<adminCode2>CN</adminCode2>
+<adminName2>Provincia di Cuneo</adminName2>
+<adminCode3>004037</adminCode3>
+<adminName3>Canale</adminName3>
+<alternateName lang="de">Canale</alternateName>
+<alternateName lang="en">Canale</alternateName>
+<alternateName lang="eo">Canale</alternateName>
+<alternateName lang="fr">Canale</alternateName>
+<alternateName lang="it">Canale</alternateName>
+<alternateName lang="nap">Canale</alternateName>
+<alternateName lang="nl">Canale</alternateName>
+<alternateName lang="pl">Canale</alternateName>
+<alternateName lang="pms">Canal</alternateName>
+<alternateName lang="pt">Canale</alternateName>
+<alternateName lang="unlc">NCN</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Rome</timezone>
+<bbox>
+<west>7.98466</west>
+<north>44.80754</north>
+<east>8.01001</east>
+<south>44.78955</south>
+</bbox>
+<score>12.537405014038086</score>
+</geoname>
+<geoname>
+<toponymName>Canalı</toponymName>
+<name>Canalı</name>
+<lat>41.11686</lat>
+<lng>45.34422</lng>
+<geonameId>586670</geonameId>
+<countryCode>AZ</countryCode>
+<countryName>Azerbaijan</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Canali,Canalı,Dzhanaly</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="QAZ">40</adminCode1>
+<adminName1>Qazax</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Canal%C4%B1</alternateName>
+<timezone dstOffset="5.0" gmtOffset="4.0">Asia/Baku</timezone>
+<bbox>
+<west>45.33228</west>
+<north>41.12585</north>
+<east>45.35616</east>
+<south>41.10787</south>
+</bbox>
+<score>9.19513988494873</score>
+</geoname>
+</geonames>

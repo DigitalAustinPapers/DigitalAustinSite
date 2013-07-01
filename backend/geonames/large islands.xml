@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>14</totalResultsCount>
+<geoname>
+<toponymName>Large Island</toponymName>
+<name>Large Island</name>
+<lat>12.4</lat>
+<lng>-61.5</lng>
+<geonameId>3580181</geonameId>
+<countryCode>GD</countryCode>
+<countryName>Grenada</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames>Large Island,Large Islet</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Large_Island</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Grenada</timezone>
+<score>47.45061492919922</score>
+</geoname>
+<geoname>
+<toponymName>Large Island</toponymName>
+<name>Large Island</name>
+<lat>-21.295</lat>
+<lng>115.5028</lng>
+<geonameId>2067932</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames>Large Island,Large Islet</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="WA">08</adminCode1>
+<adminName1>Western Australia</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Large Island</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Australia/Perth</timezone>
+<score>43.83300018310547</score>
+</geoname>
+<geoname>
+<toponymName>Large Island</toponymName>
+<name>Large Island</name>
+<lat>-52.14142</lat>
+<lng>-59.00025</lng>
+<geonameId>3426919</geonameId>
+<countryCode>FK</countryCode>
+<countryName>Falkland Islands</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames>Isla Large,Large Island</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">Atlantic/Stanley</timezone>
+<bbox>
+<west>-59.01213</west>
+<north>-52.13821</north>
+<east>-58.97751</east>
+<south>-52.1512</south>
+</bbox>
+<score>37.96049118041992</score>
+</geoname>
+<geoname>
+<toponymName>Large Island</toponymName>
+<name>Large Island</name>
+<lat>35.81565</lat>
+<lng>-83.58878</lng>
+<geonameId>4635535</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>289</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TN">TN</adminCode1>
+<adminName1>Tennessee</adminName1>
+<adminCode2>155</adminCode2>
+<adminName2>Sevier County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>30.994611740112305</score>
+</geoname>
+<geoname>
+<toponymName>Pulau Lima</toponymName>
+<name>Pulau Lima</name>
+<lat>1.3655</lat>
+<lng>104.2927</lng>
+<geonameId>1757476</geonameId>
+<countryCode>MY</countryCode>
+<countryName>Malaysia</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames>Large Island,Pulau Lima</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="01">01</adminCode1>
+<adminName1>Johor</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ms">Pulau Lima</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Kuala_Lumpur</timezone>
+<score>21.916500091552734</score>
+</geoname>
+<geoname>
+<toponymName>Île du Large</toponymName>
+<name>Île du Large</name>
+<lat>9.96667</lat>
+<lng>104.48333</lng>
+<geonameId>1576227</geonameId>
+<countryCode>VN</countryCode>
+<countryName>Vietnam</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames>Ile du Large,Large Island,Île du Large</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="47">21</adminCode1>
+<adminName1>Kiến Giang</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="7.0" gmtOffset="7.0">Asia/Ho_Chi_Minh</timezone>
+<score>19.176937103271484</score>
+</geoname>
+<geoname>
+<toponymName>Largo Island</toponymName>
+<name>Largo Island</name>
+<lat>-63.30351</lat>
+<lng>-57.89561</lng>
+<geonameId>6636671</geonameId>
+<countryCode>AQ</countryCode>
+<countryName>Antarctica</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames>Largo Island</alternateNames>
+<elevation/>
+<continentCode>AN</continentCode>
+<adminCode1/>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Largo Island</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Largo_Island</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-3.0">Antarctica/Palmer</timezone>
+<score>19.09857940673828</score>
+</geoname>
+<geoname>
+<toponymName>Lake Islands</toponymName>
+<name>Lake Islands</name>
+<lat>29.7948</lat>
+<lng>-92.76738</lng>
+<geonameId>4328726</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>LK</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>lake</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>0</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>023</adminCode2>
+<adminName2>Cameron Parish</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>18.192913055419922</score>
+</geoname>
+<geoname>
+<toponymName>Lambe Islands</toponymName>
+<name>Lambe Islands</name>
+<lat>46.33336</lat>
+<lng>-83.89993</lng>
+<geonameId>6048950</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>T</fcl>
+<fcode>ISLS</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>islands</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ON">08</adminCode1>
+<adminName1>Ontario</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Toronto</timezone>
+<score>14.394405364990234</score>
+</geoname>
+<geoname>
+<toponymName>Larsen, islas</toponymName>
+<name>Larsen Islands</name>
+<lat>-60.6</lat>
+<lng>-46.083</lng>
+<geonameId>6636684</geonameId>
+<countryCode>AQ</countryCode>
+<countryName>Antarctica</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames>Larsen Islands,Larsen, islas</alternateNames>
+<elevation/>
+<continentCode>AN</continentCode>
+<adminCode1/>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Larsen Islands</alternateName>
+<alternateName lang="es">Larsen, islas</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Larsen_Islands</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">Antarctica/Rothera</timezone>
+<score>14.394405364990234</score>
+</geoname>
+</geonames>

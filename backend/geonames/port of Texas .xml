@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Tema Harbour</toponymName>
+<name>Tema Harbour</name>
+<lat>5.63333</lat>
+<lng>0.01667</lng>
+<geonameId>2294698</geonameId>
+<countryCode>GH</countryCode>
+<countryName>Ghana</countryName>
+<fcl>H</fcl>
+<fcode>HBR</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>harbor(s)</fcodeName>
+<population/>
+<alternateNames>Port of Tema,Tema Harbour</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="AA">01</adminCode1>
+<adminName1>Greater Accra</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="0.0" gmtOffset="0.0">Africa/Accra</timezone>
+<score>16.25844955444336</score>
+</geoname>
+</geonames>

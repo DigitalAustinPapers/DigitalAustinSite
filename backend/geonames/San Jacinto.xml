@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>136</totalResultsCount>
+<geoname>
+<toponymName>San Jacinto</toponymName>
+<name>San Jacinto</name>
+<lat>9.83333</lat>
+<lng>-75.08333</lng>
+<geonameId>3669739</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames>San Jacinto</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="BOL">35</adminCode1>
+<adminName1>Bolívar</adminName1>
+<adminCode2>3669739</adminCode2>
+<adminName2>San Jacinto</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/San_Jacinto%2C_Bol%C3%ADvar</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<score>67.59871673583984</score>
+</geoname>
+<geoname>
+<toponymName>San Jacinto</toponymName>
+<name>San Jacinto</name>
+<lat>16.0726</lat>
+<lng>120.4383</lng>
+<geonameId>1689603</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>10529</population>
+<alternateNames>San Jacinto</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="01">01</adminCode1>
+<adminName1>Ilocos Region</adminName1>
+<adminCode2>51</adminCode2>
+<adminName2>Pangasinan</adminName2>
+<adminCode3>1689610</adminCode3>
+<adminName3>San Jacinto</adminName3>
+<alternateName lang="fil">San Jacinto</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/San_Jacinto%2C_Pangasinan</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<bbox>
+<west>120.42506</west>
+<north>16.08532</north>
+<east>120.45154</east>
+<south>16.05988</south>
+</bbox>
+<score>59.14887619018555</score>
+</geoname>
+<geoname>
+<toponymName>San Jacinto</toponymName>
+<name>San Jacinto</name>
+<lat>-34.55</lat>
+<lng>-55.88333</lng>
+<geonameId>3440654</geonameId>
+<countryCode>UY</countryCode>
+<countryName>Uruguay</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3954</population>
+<alternateNames>San Jacinto</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="CA">02</adminCode1>
+<adminName1>Canelones</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/San_Jacinto%2C_Uruguay</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Montevideo</timezone>
+<bbox>
+<west>-55.89279</west>
+<north>-34.54221</north>
+<east>-55.87388</east>
+<south>-34.55779</south>
+</bbox>
+<score>59.14887619018555</score>
+</geoname>
+<geoname>
+<toponymName>San Jacinto</toponymName>
+<name>San Jacinto</name>
+<lat>14.66667</lat>
+<lng>-89.5</lng>
+<geonameId>3590127</geonameId>
+<countryCode>GT</countryCode>
+<countryName>Guatemala</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1519</population>
+<alternateNames>San Jacinto</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CQ">04</adminCode1>
+<adminName1>Chiquimula</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/San_Jacinto%2C_Chiquimula</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Guatemala</timezone>
+<bbox>
+<west>-89.50465</west>
+<north>14.67116</north>
+<east>-89.49535</east>
+<south>14.66217</south>
+</bbox>
+<score>59.14887619018555</score>
+</geoname>
+<geoname>
+<toponymName>San Jacinto</toponymName>
+<name>San Jacinto</name>
+<lat>-3.90594</lat>
+<lng>-80.51091</lng>
+<geonameId>8350670</geonameId>
+<countryCode>PE</countryCode>
+<countryName>Peru</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="TUM">24</adminCode1>
+<adminName1>Tumbes</adminName1>
+<adminCode2>2401</adminCode2>
+<adminName2>Provincia de Tumbes</adminName2>
+<adminCode3>240105</adminCode3>
+<adminName3>San Jacinto</adminName3>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Lima</timezone>
+<bbox>
+<west>-80.66646</west>
+<north>-3.62292</north>
+<east>-80.39828</east>
+<south>-4.2319</south>
+</bbox>
+<score>48.29485321044922</score>
+</geoname>
+<geoname>
+<toponymName>San Jacinto</toponymName>
+<name>San Jacinto</name>
+<lat>16.06667</lat>
+<lng>120.45</lng>
+<geonameId>1689610</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames>San Jacinto</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="01">01</adminCode1>
+<adminName1>Ilocos Region</adminName1>
+<adminCode2>51</adminCode2>
+<adminName2>Pangasinan</adminName2>
+<adminCode3>1689610</adminCode3>
+<adminName3>San Jacinto</adminName3>
+<alternateName lang="fil">San Jacinto</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<score>42.24919891357422</score>
+</geoname>
+<geoname>
+<toponymName>San Jacinto</toponymName>
+<name>San Jacinto</name>
+<lat>12.55</lat>
+<lng>123.7</lng>
+<geonameId>1689611</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames>San Jacinto</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="ALB">05</adminCode1>
+<adminName1>Bicol</adminName1>
+<adminCode2>39</adminCode2>
+<adminName2>Masbate</adminName2>
+<adminCode3>1689611</adminCode3>
+<adminName3>San Jacinto</adminName3>
+<alternateName lang="fil">San Jacinto</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/San_Jacinto%2C_Masbate</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<score>42.24919891357422</score>
+</geoname>
+<geoname>
+<toponymName>San Jacinto</toponymName>
+<name>San Jacinto</name>
+<lat>9.82767</lat>
+<lng>-75.1217</lng>
+<geonameId>3669736</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>20265</population>
+<alternateNames>San Jacinto</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="BOL">35</adminCode1>
+<adminName1>Bolívar</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<bbox>
+<west>-75.13996</west>
+<north>9.84566</north>
+<east>-75.10344</east>
+<south>9.80968</south>
+</bbox>
+<score>42.24919891357422</score>
+</geoname>
+<geoname>
+<toponymName>São Jacinto</toponymName>
+<name>São Jacinto</name>
+<lat>40.66268</lat>
+<lng>-8.72948</lng>
+<geonameId>2734499</geonameId>
+<countryCode>PT</countryCode>
+<countryName>Portugal</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Sao Jacinto,Sao Jascinto,Sao Jocinto,São Jacinto</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="01">02</adminCode1>
+<adminName1>Aveiro</adminName1>
+<adminCode2>0105</adminCode2>
+<adminName2>Aveiro</adminName2>
+<adminCode3>010511</adminCode3>
+<adminName3>São Jacinto</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Lisbon</timezone>
+<bbox>
+<west>-8.74134</west>
+<north>40.67167</north>
+<east>-8.71763</east>
+<south>40.65369</south>
+</bbox>
+<score>41.9532470703125</score>
+</geoname>
+<geoname>
+<toponymName>San Jacinto</toponymName>
+<name>San Jacinto</name>
+<lat>20.35968</lat>
+<lng>-103.93298</lng>
+<geonameId>3986640</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="JAL">14</adminCode1>
+<adminName1>Jalisco</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/San_Jacinto%2C_Jalisco</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-103.94257</west>
+<north>20.36867</north>
+<east>-103.92339</east>
+<south>20.35068</south>
+</bbox>
+<score>41.39558792114258</score>
+</geoname>
+</geonames>

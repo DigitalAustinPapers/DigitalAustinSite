@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Parrish Court</toponymName>
+<name>Parrish Court</name>
+<lat>37.75901</lat>
+<lng>-79.98756</lng>
+<geonameId>4778028</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>374</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>580</adminCode2>
+<adminName2>City of Covington</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-79.99893</west>
+<north>37.76801</north>
+<east>-79.97618</east>
+<south>37.75002</south>
+</bbox>
+<score>32.51689910888672</score>
+</geoname>
+<geoname>
+<toponymName>Parish Fork</toponymName>
+<name>Parish Fork</name>
+<lat>39.06702</lat>
+<lng>-81.35651</lng>
+<geonameId>4817607</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>186</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WV">WV</adminCode1>
+<adminName1>West Virginia</adminName1>
+<adminCode2>105</adminCode2>
+<adminName2>Wirt County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>10.161531448364258</score>
+</geoname>
+</geonames>

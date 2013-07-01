@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>10</totalResultsCount>
+<geoname>
+<toponymName>Bars</toponymName>
+<name>Bars</name>
+<lat>45.10076</lat>
+<lng>1.06509</lng>
+<geonameId>3034808</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>227</population>
+<alternateNames>Bars</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="B">97</adminCode1>
+<adminName1>Aquitaine</adminName1>
+<adminCode2>24</adminCode2>
+<adminName2>Dordogne</adminName2>
+<adminCode3>243</adminCode3>
+<adminName3>Arrondissement de Périgueux</adminName3>
+<adminCode4>24025</adminCode4>
+<adminName4>Bars</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bars%2C_Dordogne</alternateName>
+<alternateName lang="post">24210</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>1.06382</west>
+<north>45.10166</north>
+<east>1.06637</east>
+<south>45.09986</south>
+</bbox>
+<score>63.01937484741211</score>
+</geoname>
+<geoname>
+<toponymName>Bars</toponymName>
+<name>Bars</name>
+<lat>33.11764</lat>
+<lng>65.03509</lng>
+<geonameId>1146852</geonameId>
+<countryCode>AF</countryCode>
+<countryName>Afghanistan</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Bars,brs,Барс,برس</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="HEL">10</adminCode1>
+<adminName1>Helmand</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ru">Барс</alternateName>
+<timezone dstOffset="4.5" gmtOffset="4.5">Asia/Kabul</timezone>
+<bbox>
+<west>65.02435</west>
+<north>33.12663</north>
+<east>65.04583</east>
+<south>33.10865</south>
+</bbox>
+<score>56.95037078857422</score>
+</geoname>
+<geoname>
+<toponymName>Bars</toponymName>
+<name>Bars</name>
+<lat>45.09917</lat>
+<lng>1.06333</lng>
+<geonameId>6447755</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population>235</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="B">97</adminCode1>
+<adminName1>Aquitaine</adminName1>
+<adminCode2>24</adminCode2>
+<adminName2>Dordogne</adminName2>
+<adminCode3>243</adminCode3>
+<adminName3>Arrondissement de Périgueux</adminName3>
+<adminCode4>24025</adminCode4>
+<adminName4>Bars</adminName4>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>0.99371</west>
+<north>45.11372</north>
+<east>1.10598</east>
+<south>45.07293</south>
+</bbox>
+<score>51.455101013183594</score>
+</geoname>
+<geoname>
+<toponymName>Bars</toponymName>
+<name>Bars</name>
+<lat>43.51091</lat>
+<lng>0.29459</lng>
+<geonameId>3034810</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>132</population>
+<alternateNames>Bars</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="N">B3</adminCode1>
+<adminName1>Midi-Pyrénées</adminName1>
+<adminCode2>32</adminCode2>
+<adminName2>Gers</adminName2>
+<adminCode3>323</adminCode3>
+<adminName3>Arrondissement de Mirande</adminName3>
+<adminCode4>32030</adminCode4>
+<adminName4>Bars</adminName4>
+<alternateName lang="post">32300</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>0.29335</west>
+<north>43.51181</north>
+<east>0.29583</east>
+<south>43.51001</south>
+</bbox>
+<score>50.41550064086914</score>
+</geoname>
+<geoname>
+<toponymName>Deh Bārez</toponymName>
+<name>Deh Bārez</name>
+<lat>31.51718</lat>
+<lng>50.40135</lng>
+<geonameId>136962</geonameId>
+<countryCode>IR</countryCode>
+<countryName>Iran</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Bars,Barz Shovar,Bārs,Bārz Shovār,Deh Barez,Deh Bārez,Deh-e Barez,Deh-e Barz,Deh-e Bārez,Deh-e Bārz,bars,barz shuar,dh barz,dihi barz,بارز شُوار,بارس,ده بارز,دِهِ بارز</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="08">03</adminCode1>
+<adminName1>Chahār Maḩāll va Bakhtīārī</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="fa">بارس</alternateName>
+<timezone dstOffset="4.5" gmtOffset="3.5">Asia/Tehran</timezone>
+<bbox>
+<west>50.3908</west>
+<north>31.52617</north>
+<east>50.4119</east>
+<south>31.50818</south>
+</bbox>
+<score>43.661102294921875</score>
+</geoname>
+<geoname>
+<toponymName>Bars</toponymName>
+<name>Bars</name>
+<lat>44.7755</lat>
+<lng>2.66942</lng>
+<geonameId>3034809</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="N">B3</adminCode1>
+<adminName1>Midi-Pyrénées</adminName1>
+<adminCode2>12</adminCode2>
+<adminName2>Aveyron</adminName2>
+<adminCode3>122</adminCode3>
+<adminName3>Arrondissement de Rodez</adminName3>
+<adminCode4>12118</adminCode4>
+<adminName4>Lacroix-Barrez</adminName4>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>2.65675</west>
+<north>44.78449</north>
+<east>2.68209</east>
+<south>44.76651</south>
+</bbox>
+<score>41.16408157348633</score>
+</geoname>
+<geoname>
+<toponymName>Bars</toponymName>
+<name>Bars</name>
+<lat>43.51167</lat>
+<lng>0.29417</lng>
+<geonameId>6613249</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population>134</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="N">B3</adminCode1>
+<adminName1>Midi-Pyrénées</adminName1>
+<adminCode2>32</adminCode2>
+<adminName2>Gers</adminName2>
+<adminCode3>323</adminCode3>
+<adminName3>Arrondissement de Mirande</adminName3>
+<adminCode4>32030</adminCode4>
+<adminName4>Bars</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bars%2C_Gers</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>0.27203</west>
+<north>43.52779</north>
+<east>0.32745</east>
+<south>43.49722</south>
+</bbox>
+<score>41.16408157348633</score>
+</geoname>
+<geoname>
+<toponymName>Bärs</toponymName>
+<name>Bärs</name>
+<lat>63.43333</lat>
+<lng>22.6</lng>
+<geonameId>660764</geonameId>
+<countryCode>FI</countryCode>
+<countryName>Finland</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="12">15</adminCode1>
+<adminName1>Province of Western Finland</adminName1>
+<adminCode2>15</adminCode2>
+<adminName2>Ostrobothnia</adminName2>
+<adminCode3>893</adminCode3>
+<adminName3>Nykarleby</adminName3>
+<timezone dstOffset="3.0" gmtOffset="2.0">Europe/Helsinki</timezone>
+<bbox>
+<west>22.57988</west>
+<north>63.44233</north>
+<east>22.62012</east>
+<south>63.42434</south>
+</bbox>
+<score>30.873062133789062</score>
+</geoname>
+<geoname>
+<toponymName>Barsi</toponymName>
+<name>Barsi</name>
+<lat>42.3608</lat>
+<lng>43.91289</lng>
+<geonameId>615545</geonameId>
+<countryCode>GE</countryCode>
+<countryName>Georgia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Bars,Barsi</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="4.0" gmtOffset="4.0">Asia/Tbilisi</timezone>
+<bbox>
+<west>43.90071</west>
+<north>42.36979</north>
+<east>43.92506</east>
+<south>42.35181</south>
+</bbox>
+<score>29.107402801513672</score>
+</geoname>
+<geoname>
+<toponymName>Starý Tekov</toponymName>
+<name>Starý Tekov</name>
+<lat>48.24471</lat>
+<lng>18.53667</lng>
+<geonameId>3057466</geonameId>
+<countryCode>SK</countryCode>
+<countryName>Slovakia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Bars,O Bars,Stary Tekov,Starý Tekov,Ó Bars</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="NI">04</adminCode1>
+<adminName1>Nitriansky</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Star%C3%BD_Tekov</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Bratislava</timezone>
+<bbox>
+<west>18.52316</west>
+<north>48.2537</north>
+<east>18.55018</east>
+<south>48.23572</south>
+</bbox>
+<score>29.107402801513672</score>
+</geoname>
+</geonames>

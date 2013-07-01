@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>27</totalResultsCount>
+<geoname>
+<toponymName>New York City</toponymName>
+<name>New York</name>
+<lat>40.71427</lat>
+<lng>-74.00597</lng>
+<geonameId>5128581</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>8175133</population>
+<alternateNames>Aebura,Bandar Raya New York,Big Apple,Cathair Nua Eabhraic,Eabhraig Nuadh,Efrog Newydd,Evrek Nowydh,Gorad N'ju-Jork,Lungsod ng New York,Manhattan,N'ju-Jork,NYC,Nea Yorke,Nei Yarrick Schtadt,New York,New York City,New York Stad,New York borg,New York kenti,New York-borg,Niujorkas,Nju Jork,Njujork,Nouvieau York,Nov-Jorko,Nova Iorque,Nova York,Nova-York,Novjorko,Novum Eboracum,Nowy Jork,Nua-Eabhrac,Nueva York,Nujorka,Nyja Jorvik,Nyu York Shehiri,Nòva York,Nýja Jórvík,Thanh pho New York,The City of New York,Thành phố New York,York Berri,ni'u iyarka siti,niu yue,niu yue shi,niyuyark nakaram,nkhr niwyxrk,nyuyog,nyuyog si,nyuyoku,nyw ywrq,nywywrk,Ņujorka,Νέα Υόρκη,Њу Јорк,Њујорк,Горад Нью-Ёрк,Нью-Йорк,Ню Йорк,ניו יארק,ניו יורק,ניו־יאָרק,نيويورك,نیویارک شہر,نیویورک,নিউ ইয়র্ক সিটি,நியூயார்க் நகரம்,นครนิวยอร์ก,ნიუ-იორკი,ニューヨーク,紐約市,纽约,뉴욕,뉴욕 시</alternateNames>
+<elevation>10</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="af">New York Stad</alternateName>
+<alternateName lang="an">Nueva York</alternateName>
+<alternateName lang="ar">نيويورك</alternateName>
+<alternateName lang="be">Горад Нью-Ёрк</alternateName>
+<alternateName lang="bg">Ню Йорк</alternateName>
+<alternateName lang="bn">নিউ ইয়র্ক সিটি</alternateName>
+<alternateName lang="br">New York</alternateName>
+<alternateName lang="bs">New York City</alternateName>
+<alternateName lang="ca">Nova York</alternateName>
+<alternateName lang="cs">New York</alternateName>
+<alternateName lang="cy">Efrog Newydd</alternateName>
+<alternateName lang="da">New York</alternateName>
+<alternateName lang="de">New York City</alternateName>
+<alternateName lang="el">Νέα Υόρκη</alternateName>
+<alternateName lang="en">New York</alternateName>
+<alternateName lang="eo">Novjorko</alternateName>
+<alternateName lang="es">Nueva York</alternateName>
+<alternateName lang="et">New York</alternateName>
+<alternateName lang="eu">York Berri</alternateName>
+<alternateName lang="fa">نیویورک</alternateName>
+<alternateName lang="fi">New York</alternateName>
+<alternateName lang="fr">New York</alternateName>
+<alternateName lang="frp">New York</alternateName>
+<alternateName lang="ga">Nua-Eabhrac</alternateName>
+<alternateName lang="gd">Eabhraig Nuadh</alternateName>
+<alternateName lang="gl">Nova York</alternateName>
+<alternateName lang="hbs">New York</alternateName>
+<alternateName lang="he">ניו יורק</alternateName>
+<alternateName lang="hr">New York</alternateName>
+<alternateName lang="hu">New York</alternateName>
+<alternateName lang="ia">New York</alternateName>
+<alternateName lang="iata">NYC</alternateName>
+<alternateName lang="id">New York City</alternateName>
+<alternateName lang="io">Nova-York</alternateName>
+<alternateName lang="is">New York-borg</alternateName>
+<alternateName lang="it">New York</alternateName>
+<alternateName lang="ja">ニューヨーク</alternateName>
+<alternateName lang="ka">ნიუ-იორკი</alternateName>
+<alternateName lang="ko">뉴욕 시</alternateName>
+<alternateName lang="ku">New York City</alternateName>
+<alternateName lang="kw">Evrek Nowydh</alternateName>
+<alternateName lang="la">Novum Eboracum</alternateName>
+<alternateName lang="lb">New York City</alternateName>
+<alternateName lang="li">New York</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/New_York_City</alternateName>
+<alternateName lang="lt">Niujorkas</alternateName>
+<alternateName lang="lv">Ņujorka</alternateName>
+<alternateName lang="mk">Њу Јорк</alternateName>
+<alternateName lang="ms">Bandar Raya New York</alternateName>
+<alternateName lang="nb">New York</alternateName>
+<alternateName lang="nds">New York</alternateName>
+<alternateName lang="nl">New York</alternateName>
+<alternateName lang="nn">New York</alternateName>
+<alternateName lang="no">New York</alternateName>
+<alternateName lang="nrm">Nouvieau York</alternateName>
+<alternateName lang="oc">Nòva York</alternateName>
+<alternateName lang="os">Нью-Йорк</alternateName>
+<alternateName lang="pdc">Nei Yarrick Schtadt</alternateName>
+<alternateName lang="pl">Nowy Jork</alternateName>
+<alternateName lang="pms">New York</alternateName>
+<alternateName lang="post">10034</alternateName>
+<alternateName lang="pt">Nova Iorque</alternateName>
+<alternateName lang="qu">New York</alternateName>
+<alternateName lang="ro">New York</alternateName>
+<alternateName lang="ru">Нью-Йорк</alternateName>
+<alternateName lang="scn">Nova York</alternateName>
+<alternateName lang="sk">New York</alternateName>
+<alternateName lang="sl">New York</alternateName>
+<alternateName lang="sq">New York City</alternateName>
+<alternateName lang="sr">Њујорк</alternateName>
+<alternateName lang="sv">New York</alternateName>
+<alternateName lang="ta">நியூயார்க் நகரம்</alternateName>
+<alternateName lang="th">นครนิวยอร์ก</alternateName>
+<alternateName lang="tl">Lungsod ng New York</alternateName>
+<alternateName lang="tr">New York kenti</alternateName>
+<alternateName lang="ug">Nyu York Shehiri</alternateName>
+<alternateName lang="uk">Нью-Йорк</alternateName>
+<alternateName lang="unlc">MNH</alternateName>
+<alternateName lang="ur">نیویارک شہر</alternateName>
+<alternateName lang="vi">Thành phố New York</alternateName>
+<alternateName lang="yi">ניו יארק</alternateName>
+<alternateName lang="zh">纽约</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-74.49838</west>
+<north>41.08541</north>
+<east>-73.51356</east>
+<south>40.34312</south>
+</bbox>
+<score>117.02936553955078</score>
+</geoname>
+<geoname>
+<toponymName>New York</toponymName>
+<name>New York</name>
+<lat>53.07897</lat>
+<lng>-0.14008</lng>
+<geonameId>2641508</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>New York</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UC</adminCode3>
+<adminName3>East Lindsey District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/New_York%2C_Lincolnshire</alternateName>
+<alternateName lang="unlc">NWY</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.15505</west>
+<north>53.08796</north>
+<east>-0.1251</east>
+<south>53.06998</south>
+</bbox>
+<score>48.762237548828125</score>
+</geoname>
+<geoname>
+<toponymName>New York</toponymName>
+<name>New York</name>
+<lat>36.98894</lat>
+<lng>-88.95256</lng>
+<geonameId>4302486</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>140</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>007</adminCode2>
+<adminName2>Ballard County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/New_York%2C_Kentucky</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-88.96382</west>
+<north>36.99794</north>
+<east>-88.9413</east>
+<south>36.97995</south>
+</bbox>
+<score>47.77703857421875</score>
+</geoname>
+<geoname>
+<toponymName>New York</toponymName>
+<name>New York</name>
+<lat>43.00035</lat>
+<lng>-75.4999</lng>
+<geonameId>5128638</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>first-order administrative division</fcodeName>
+<population>19274244</population>
+<alternateNames>Cene Jork,Delstaten New York,Eabhraig Nuadh,Efrog Newydd,Empire State,Estado de Nova York,Estado de Nueva York,Estat de Nova York,Etat de New York,Ipinle New York,Kin Yótʼááh Deezʼá Hahoodzo,Mueva York,N'ju-Jork,NY,Nea Yorki,Neu-Yok,New Yorgi osariik,New York,New York Isifunda,New York State,New York suyu,New York-fylki,Niorche,Niu York,Niujorko valstija,Niwe Eoforwic,Nju Jork,Nju Yoorg,Njujork,Nou Yok,Nou Yòk,Nov-Jorkio,Nova Iorque,Nova York,Nova-York,Novum Eboracum,Nowy Jork,Nu Yok,Nua-Eabhrac,Nueva York,Nuioka,Nujorka,Nyu York,Nyuyork Shitati,Néu-Yok,Nòva York,Nú Yọk,Nīwe Eoforwic,Pyahu Iork,Shin Jork,Shtat N'ju-Jork,Stat Evrek Nowydh,State of New York,Stato di New York,Tchiaq York,Tieu bang New York,Tiểu bang New York,Yancuic York,Yancuīc York,York Noa,http://uk.wikipedia.org/wiki/%D0%9D%D1%8C%D1%8E-%D0%99%D0%BE%D1%80%D0%BA_(%D1%88%D1%82%D0%B0%D1%82),n'yu yark,n'yu yorka,n'yuyark rastram,n'yuyorka,ni'u iyarka,ni'uyaraka,niu,niu yue zhou,niu-iorkʼis shtʼatʼi,niyu york manilam,nyuyog ju,nyuyoku zhou,nyw yark,nyw ywrq,nywyark,nywywrk,rath niwyxrk,wlayt nywywrk,Çĕнĕ Йорк,État de New York,Ìpínlẹ̀ New York,Ņujorka,Νέα Υόρκη,Њујорк,Нью-Йорк,Ню Йорк,Шин Йорк,Штат Нью-Ёрк,Նյու Յորք,ניו יארק,ניו יורק,نيويورك,نیو یارک,نیویارک,نیویورک,نیویۆرک,ولاية نيويورك,ܢܝܘ ܝܘܪܩ,न्यू यार्क्,न्यू यॉर्क,न्यूयॉर्क,নিউ ইয়র্ক,ਨਿਊਯਾਰਕ,நியூ யோர்க் மாநிலம்,న్యూయార్క్ రాష్ట్రం,ನ್ಯೂ ಯಾರ್ಕ್,ന്യൂയോർക്ക്,รัฐนิวยอร์ก,နယူးယောက်ပြည်နယ်,ნიუ-იორკის შტატი,ኒው ዮርክ,ᏄᏯᎩ,ᓂᐅ ᐃᐅᕐᒃ,ញូវយ៉ក,ニューヨーク州,纽约州,뉴욕 주</alternateNames>
+<elevation>281</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="abbr">NY</alternateName>
+<alternateName lang="am">ኒው ዮርክ</alternateName>
+<alternateName lang="an">Nueva York</alternateName>
+<alternateName lang="ang">Nīwe Eoforwic</alternateName>
+<alternateName lang="ar">نيويورك</alternateName>
+<alternateName lang="arc">ܢܝܘ ܝܘܪܩ</alternateName>
+<alternateName lang="arz">ولاية نيويورك</alternateName>
+<alternateName lang="ast">Nueva York</alternateName>
+<alternateName lang="ay">New York suyu</alternateName>
+<alternateName lang="az">Nyu York</alternateName>
+<alternateName lang="bcl">Nueva York</alternateName>
+<alternateName lang="be">Штат Нью-Ёрк</alternateName>
+<alternateName lang="bg">Ню Йорк</alternateName>
+<alternateName lang="bi">Niu York</alternateName>
+<alternateName lang="bn">নিউ ইয়র্ক</alternateName>
+<alternateName lang="bpy">নিউ ইয়র্ক</alternateName>
+<alternateName lang="br">New York</alternateName>
+<alternateName lang="bs">New York</alternateName>
+<alternateName lang="ca">Nova York</alternateName>
+<alternateName lang="chr">ᏄᏯᎩ</alternateName>
+<alternateName lang="ckb">نیویۆرک</alternateName>
+<alternateName lang="cs">New York</alternateName>
+<alternateName lang="cv">Çĕнĕ Йорк</alternateName>
+<alternateName lang="cy">Efrog Newydd</alternateName>
+<alternateName lang="da">New York</alternateName>
+<alternateName lang="de">New York</alternateName>
+<alternateName lang="el">Νέα Υόρκη</alternateName>
+<alternateName lang="en">New York</alternateName>
+<alternateName lang="eo">Nov-Jorkio</alternateName>
+<alternateName lang="es">Nueva York</alternateName>
+<alternateName lang="et">New Yorgi osariik</alternateName>
+<alternateName lang="fa">نیویورک</alternateName>
+<alternateName lang="fi">New York</alternateName>
+<alternateName lang="fr">New York</alternateName>
+<alternateName lang="frp">New York</alternateName>
+<alternateName lang="ga">Nua-Eabhrac</alternateName>
+<alternateName lang="gd">Eabhraig Nuadh</alternateName>
+<alternateName lang="gl">Nova York</alternateName>
+<alternateName lang="gn">Pyahu Iork</alternateName>
+<alternateName lang="gv">York Noa</alternateName>
+<alternateName lang="hak">Néu-Yok</alternateName>
+<alternateName lang="haw">Nuioka</alternateName>
+<alternateName lang="he">ניו יורק</alternateName>
+<alternateName lang="hi">न्यूयॉर्क</alternateName>
+<alternateName lang="hr">New York</alternateName>
+<alternateName lang="ht">Nou Yòk</alternateName>
+<alternateName lang="hu">New York</alternateName>
+<alternateName lang="hy">Նյու Յորք</alternateName>
+<alternateName lang="id">New York</alternateName>
+<alternateName lang="ig">Nú Yọk</alternateName>
+<alternateName lang="ik">Tchiaq York</alternateName>
+<alternateName lang="io">Nova-York</alternateName>
+<alternateName lang="is">New York-fylki</alternateName>
+<alternateName lang="it">New York</alternateName>
+<alternateName lang="iu">ᓂᐅ ᐃᐅᕐᒃ</alternateName>
+<alternateName lang="ja">ニューヨーク州</alternateName>
+<alternateName lang="jbo">niu</alternateName>
+<alternateName lang="ka">ნიუ-იორკის შტატი</alternateName>
+<alternateName lang="kk">Нью-Йорк</alternateName>
+<alternateName lang="km">ញូវយ៉ក</alternateName>
+<alternateName lang="kn">ನ್ಯೂ ಯಾರ್ಕ್</alternateName>
+<alternateName lang="ko">뉴욕 주</alternateName>
+<alternateName lang="ku">New York</alternateName>
+<alternateName lang="kw">Stat Evrek Nowydh</alternateName>
+<alternateName lang="la">Novum Eboracum</alternateName>
+<alternateName lang="lad">Mueva York</alternateName>
+<alternateName lang="lij">Niorche</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/New_York</alternateName>
+<alternateName lang="lt">Niujorko valstija</alternateName>
+<alternateName lang="lv">Ņujorka</alternateName>
+<alternateName lang="mk">Њујорк</alternateName>
+<alternateName lang="ml">ന്യൂയോർക്ക്</alternateName>
+<alternateName lang="mr">न्यू यॉर्क</alternateName>
+<alternateName lang="mrj">Нью-Йорк</alternateName>
+<alternateName lang="ms">New York</alternateName>
+<alternateName lang="my">နယူးယောက်ပြည်နယ်</alternateName>
+<alternateName lang="nah">Yancuīc York</alternateName>
+<alternateName lang="nl">New York</alternateName>
+<alternateName lang="nn">Delstaten New York</alternateName>
+<alternateName lang="no">New York State</alternateName>
+<alternateName lang="nv">Kin Yótʼááh Deezʼá Hahoodzo</alternateName>
+<alternateName lang="oc">Nòva York</alternateName>
+<alternateName lang="os">Нью-Йорк</alternateName>
+<alternateName lang="pa">ਨਿਊਯਾਰਕ</alternateName>
+<alternateName lang="pfl">Nju Yoorg</alternateName>
+<alternateName lang="pl">Nowy Jork</alternateName>
+<alternateName lang="pnb">نیو یارک</alternateName>
+<alternateName lang="pt">Nova Iorque</alternateName>
+<alternateName lang="qu">New York suyu</alternateName>
+<alternateName lang="ro">New York</alternateName>
+<alternateName lang="ru">Нью-Йорк</alternateName>
+<alternateName lang="sa">न्यू यार्क्</alternateName>
+<alternateName lang="sk">New York</alternateName>
+<alternateName lang="sl">New York</alternateName>
+<alternateName lang="sq">New York</alternateName>
+<alternateName lang="sr">Њујорк</alternateName>
+<alternateName lang="sv">New York</alternateName>
+<alternateName lang="szl">Nowy Jork</alternateName>
+<alternateName lang="ta">நியூ யோர்க் மாநிலம்</alternateName>
+<alternateName lang="te">న్యూయార్క్ రాష్ట్రం</alternateName>
+<alternateName lang="th">รัฐนิวยอร์ก</alternateName>
+<alternateName lang="tl">New York</alternateName>
+<alternateName lang="tr">New York</alternateName>
+<alternateName lang="ug">Nyuyork Shitati</alternateName>
+<alternateName lang="uk">Нью-Йорк</alternateName>
+<alternateName lang="ur">نیویارک</alternateName>
+<alternateName lang="uz">Nyu York</alternateName>
+<alternateName lang="vi">Tiểu bang New York</alternateName>
+<alternateName lang="wuu">纽约州</alternateName>
+<alternateName lang="xal">Шин Йорк</alternateName>
+<alternateName lang="yi">ניו יארק</alternateName>
+<alternateName lang="yo">Ìpínlẹ̀ New York</alternateName>
+<alternateName lang="zh">纽约州</alternateName>
+<alternateName lang="zu">New York Isifunda</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-79.7626</west>
+<north>45.01587</north>
+<east>-71.77749</east>
+<south>40.4774</south>
+</bbox>
+<score>42.229331970214844</score>
+</geoname>
+<geoname>
+<toponymName>New York</toponymName>
+<name>New York</name>
+<lat>-23.61667</lat>
+<lng>27.96667</lng>
+<geonameId>971244</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>T</fcl>
+<fcode>HLL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>hill</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="LP">09</adminCode1>
+<adminName1>Limpopo</adminName1>
+<adminCode2>DC36</adminCode2>
+<adminName2>Waterberg District Municipality</adminName2>
+<adminCode3>LIM362</adminCode3>
+<adminName3>Lephalale</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<score>31.85135841369629</score>
+</geoname>
+<geoname>
+<toponymName>New York</toponymName>
+<name>New York</name>
+<lat>18.25</lat>
+<lng>-77.18333</lng>
+<geonameId>3489274</geonameId>
+<countryCode>JM</countryCode>
+<countryName>Jamaica</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="06">09</adminCode1>
+<adminName1>Saint Ann</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Jamaica</timezone>
+<bbox>
+<west>-77.1928</west>
+<north>18.25899</north>
+<east>-77.17386</east>
+<south>18.24101</south>
+</bbox>
+<score>31.85135841369629</score>
+</geoname>
+<geoname>
+<toponymName>New York</toponymName>
+<name>New York</name>
+<lat>18.11667</lat>
+<lng>-77.13333</lng>
+<geonameId>3489275</geonameId>
+<countryCode>JM</countryCode>
+<countryName>Jamaica</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="14">10</adminCode1>
+<adminName1>Saint Catherine</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Jamaica</timezone>
+<bbox>
+<west>-77.1428</west>
+<north>18.12566</north>
+<east>-77.12387</east>
+<south>18.10767</south>
+</bbox>
+<score>31.85135841369629</score>
+</geoname>
+<geoname>
+<toponymName>New York</toponymName>
+<name>New York</name>
+<lat>39.68529</lat>
+<lng>-93.92688</lng>
+<geonameId>4049286</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>244</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>025</adminCode2>
+<adminName2>Caldwell County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-93.93857</west>
+<north>39.69428</north>
+<east>-93.9152</east>
+<south>39.67629</south>
+</bbox>
+<score>31.85135841369629</score>
+</geoname>
+<geoname>
+<toponymName>New York</toponymName>
+<name>New York</name>
+<lat>30.83852</lat>
+<lng>-87.2008</lng>
+<geonameId>4165941</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>70</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="FL">FL</adminCode1>
+<adminName1>Florida</adminName1>
+<adminCode2>113</adminCode2>
+<adminName2>Santa Rosa County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-87.21128</west>
+<north>30.84751</north>
+<east>-87.19033</east>
+<south>30.82953</south>
+</bbox>
+<score>31.85135841369629</score>
+</geoname>
+<geoname>
+<toponymName>New York</toponymName>
+<name>New York</name>
+<lat>32.16793</lat>
+<lng>-95.66913</lng>
+<geonameId>4714635</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>N'ju-Jork,Нью-Йорк</alternateNames>
+<elevation>152</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>213</adminCode2>
+<adminName2>Henderson County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/New_York%2C_Texas</alternateName>
+<alternateName lang="uk">Нью-Йорк</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-95.67975</west>
+<north>32.17693</north>
+<east>-95.6585</east>
+<south>32.15894</south>
+</bbox>
+<score>31.85135841369629</score>
+</geoname>
+</geonames>

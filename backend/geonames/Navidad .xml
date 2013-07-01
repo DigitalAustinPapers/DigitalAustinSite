@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>21</totalResultsCount>
+<geoname>
+<toponymName>Navidad</toponymName>
+<name>Navidad</name>
+<lat>-34.01227</lat>
+<lng>-71.82026</lng>
+<geonameId>8261253</geonameId>
+<countryCode>CL</countryCode>
+<countryName>Chile</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="LI">08</adminCode1>
+<adminName1>O'Higgins</adminName1>
+<adminCode2>62</adminCode2>
+<adminName2>Provincia de Cardenal Caro</adminName2>
+<adminCode3>06205</adminCode3>
+<adminName3>Navidad</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Navidad%2C_Chile</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-3.0">America/Santiago</timezone>
+<bbox>
+<west>-71.94343</west>
+<north>-33.90114</north>
+<east>-71.69187</east>
+<south>-34.11188</south>
+</bbox>
+<score>47.16202163696289</score>
+</geoname>
+<geoname>
+<toponymName>Navidad</toponymName>
+<name>Navidad</name>
+<lat>25.07214</lat>
+<lng>-100.60396</lng>
+<geonameId>3995029</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Ejido Navidad,Navidad</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NLE">19</adminCode1>
+<adminName1>Nuevo León</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<bbox>
+<west>-100.61389</west>
+<north>25.08114</north>
+<east>-100.59403</east>
+<south>25.06315</south>
+</bbox>
+<score>46.20915603637695</score>
+</geoname>
+<geoname>
+<toponymName>Navidad</toponymName>
+<name>Navidad</name>
+<lat>-25.78333</lat>
+<lng>-55.88333</lng>
+<geonameId>3437679</geonameId>
+<countryCode>PY</countryCode>
+<countryName>Paraguay</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="4">10</adminCode1>
+<adminName1>Guairá</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-3.0">America/Asuncion</timezone>
+<bbox>
+<west>-55.89332</west>
+<north>-25.77434</north>
+<east>-55.87335</east>
+<south>-25.79233</south>
+</bbox>
+<score>37.729618072509766</score>
+</geoname>
+<geoname>
+<toponymName>Navidad</toponymName>
+<name>Navidad</name>
+<lat>15.03333</lat>
+<lng>-92.06667</lng>
+<geonameId>3592240</geonameId>
+<countryCode>GT</countryCode>
+<countryName>Guatemala</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SM">17</adminCode1>
+<adminName1>San Marcos</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Guatemala</timezone>
+<bbox>
+<west>-92.07598</west>
+<north>15.04233</north>
+<east>-92.05735</east>
+<south>15.02434</south>
+</bbox>
+<score>37.729618072509766</score>
+</geoname>
+<geoname>
+<toponymName>Navidad</toponymName>
+<name>Navidad</name>
+<lat>3.76667</lat>
+<lng>-73.01667</lng>
+<geonameId>3673995</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="MET">19</adminCode1>
+<adminName1>Meta</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<bbox>
+<west>-73.02568</west>
+<north>3.77566</north>
+<east>-73.00765</east>
+<south>3.75767</south>
+</bbox>
+<score>37.729618072509766</score>
+</geoname>
+<geoname>
+<toponymName>Navidad</toponymName>
+<name>Navidad</name>
+<lat>-33.95146</lat>
+<lng>-71.81791</lng>
+<geonameId>3878980</geonameId>
+<countryCode>CL</countryCode>
+<countryName>Chile</countryName>
+<fcl>T</fcl>
+<fcode>HLL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>hill</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="LI">08</adminCode1>
+<adminName1>O'Higgins</adminName1>
+<adminCode2>62</adminCode2>
+<adminName2>Provincia de Cardenal Caro</adminName2>
+<adminCode3>06205</adminCode3>
+<adminName3>Navidad</adminName3>
+<timezone dstOffset="-4.0" gmtOffset="-3.0">America/Santiago</timezone>
+<score>37.729618072509766</score>
+</geoname>
+<geoname>
+<toponymName>Navidad</toponymName>
+<name>Navidad</name>
+<lat>-13.08333</lat>
+<lng>-65.23333</lng>
+<geonameId>3909627</geonameId>
+<countryCode>BO</countryCode>
+<countryName>Bolivia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="B">03</adminCode1>
+<adminName1>El Beni</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/La_Paz</timezone>
+<bbox>
+<west>-65.24257</west>
+<north>-13.07434</north>
+<east>-65.2241</east>
+<south>-13.09233</south>
+</bbox>
+<score>37.729618072509766</score>
+</geoname>
+<geoname>
+<toponymName>Navidad</toponymName>
+<name>Navidad</name>
+<lat>25.43033</lat>
+<lng>-104.7917</lng>
+<geonameId>3978651</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="DUR">10</adminCode1>
+<adminName1>Durango</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<bbox>
+<west>-104.80166</west>
+<north>25.43933</north>
+<east>-104.78174</east>
+<south>25.42134</south>
+</bbox>
+<score>37.729618072509766</score>
+</geoname>
+<geoname>
+<toponymName>Navidad</toponymName>
+<name>Navidad</name>
+<lat>28.3</lat>
+<lng>-108.2</lng>
+<geonameId>3995028</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CHH">06</adminCode1>
+<adminName1>Chihuahua</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Chihuahua</timezone>
+<bbox>
+<west>-108.21022</west>
+<north>28.30899</north>
+<east>-108.18978</east>
+<south>28.29101</south>
+</bbox>
+<score>37.729618072509766</score>
+</geoname>
+<geoname>
+<toponymName>Navidad</toponymName>
+<name>Navidad</name>
+<lat>20.57251</lat>
+<lng>-104.67302</lng>
+<geonameId>3995030</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="JAL">14</adminCode1>
+<adminName1>Jalisco</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-104.68263</west>
+<north>20.5815</north>
+<east>-104.66342</east>
+<south>20.56352</south>
+</bbox>
+<score>37.729618072509766</score>
+</geoname>
+</geonames>

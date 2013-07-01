@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>45</totalResultsCount>
+<geoname>
+<toponymName>Vera Cruz</toponymName>
+<name>Vera Cruz</name>
+<lat>-6.03261</lat>
+<lng>-35.44416</lng>
+<geonameId>6320256</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>10725</population>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="RN">22</adminCode1>
+<adminName1>Rio Grande do Norte</adminName1>
+<adminCode2>2414803</adminCode2>
+<adminName2>Vera Cruz</adminName2>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Recife</timezone>
+<bbox>
+<west>-35.54674</west>
+<north>-5.98738</north>
+<east>-35.36514</east>
+<south>-6.07845</south>
+</bbox>
+<score>92.79338073730469</score>
+</geoname>
+<geoname>
+<toponymName>Vera Cruz</toponymName>
+<name>Vera Cruz</name>
+<lat>-13.0255</lat>
+<lng>-38.70906</lng>
+<geonameId>6321094</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>37587</population>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="BA">05</adminCode1>
+<adminName1>Estado de Bahía</adminName1>
+<adminCode2>2933208</adminCode2>
+<adminName2>Vera Cruz</adminName2>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Bahia</timezone>
+<bbox>
+<west>-38.8049</west>
+<north>-12.92324</north>
+<east>-38.55991</east>
+<south>-13.14101</south>
+</bbox>
+<score>92.79338073730469</score>
+</geoname>
+<geoname>
+<toponymName>Vera Cruz</toponymName>
+<name>Vera Cruz</name>
+<lat>-29.77275</lat>
+<lng>-52.52818</lng>
+<geonameId>6323702</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>23986</population>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="RS">23</adminCode1>
+<adminName1>Rio Grande do Sul</adminName1>
+<adminCode2>4322707</adminCode2>
+<adminName2>Vera Cruz</adminName2>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Sao_Paulo</timezone>
+<bbox>
+<west>-52.62687</west>
+<north>-29.58076</north>
+<east>-52.45599</east>
+<south>-29.8798</south>
+</bbox>
+<score>92.79338073730469</score>
+</geoname>
+<geoname>
+<toponymName>Vera Cruz</toponymName>
+<name>Vera Cruz</name>
+<lat>-22.2334</lat>
+<lng>-49.83281</lng>
+<geonameId>6324359</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>10769</population>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="SP">27</adminCode1>
+<adminName1>São Paulo</adminName1>
+<adminCode2>3556602</adminCode2>
+<adminName2>Vera Cruz</adminName2>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Sao_Paulo</timezone>
+<bbox>
+<west>-49.91401</west>
+<north>-22.098</north>
+<east>-49.74195</east>
+<south>-22.35766</south>
+</bbox>
+<score>92.79338073730469</score>
+</geoname>
+<geoname>
+<toponymName>Vera Cruz</toponymName>
+<name>Vera Cruz</name>
+<lat>-12.63333</lat>
+<lng>-41.03333</lng>
+<geonameId>3445307</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>30556</population>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="BA">05</adminCode1>
+<adminName1>Estado de Bahía</adminName1>
+<adminCode2>2901304</adminCode2>
+<adminName2>Andaraí</adminName2>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Bahia</timezone>
+<bbox>
+<west>-41.05637</west>
+<north>-12.61085</north>
+<east>-41.01029</east>
+<south>-12.65582</south>
+</bbox>
+<score>74.23470306396484</score>
+</geoname>
+<geoname>
+<toponymName>Vera Cruz</toponymName>
+<name>Vera Cruz</name>
+<lat>-8.59239</lat>
+<lng>125.56299</lng>
+<geonameId>7910183</geonameId>
+<countryCode>TL</countryCode>
+<countryName>East Timor</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="DI">DI</adminCode1>
+<adminName1>Distrito Díli</adminName1>
+<adminCode2>7910183</adminCode2>
+<adminName2>Vera Cruz</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Vera_Cruz_%28East_Timor%29</alternateName>
+<timezone dstOffset="9.0" gmtOffset="9.0">Asia/Dili</timezone>
+<score>74.23470306396484</score>
+</geoname>
+<geoname>
+<toponymName>Vera Cruz</toponymName>
+<name>Vera Cruz</name>
+<lat>40.67863</lat>
+<lng>-8.67914</lng>
+<geonameId>8010756</geonameId>
+<countryCode>PT</countryCode>
+<countryName>Portugal</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="01">02</adminCode1>
+<adminName1>Aveiro</adminName1>
+<adminCode2>0105</adminCode2>
+<adminName2>Aveiro</adminName2>
+<adminCode3>010512</adminCode3>
+<adminName3>Vera Cruz</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Lisbon</timezone>
+<bbox>
+<west>-8.72561</west>
+<north>40.721</north>
+<east>-8.63267</east>
+<south>40.63625</south>
+</bbox>
+<score>64.95536804199219</score>
+</geoname>
+<geoname>
+<toponymName>Vera Cruz</toponymName>
+<name>Vera Cruz</name>
+<lat>38.22783</lat>
+<lng>-7.69204</lng>
+<geonameId>8011953</geonameId>
+<countryCode>PT</countryCode>
+<countryName>Portugal</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="07">08</adminCode1>
+<adminName1>Évora</adminName1>
+<adminCode2>0709</adminCode2>
+<adminName2>Portel</adminName2>
+<adminCode3>070908</adminCode3>
+<adminName3>Vera Cruz</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Lisbon</timezone>
+<bbox>
+<west>-7.77172</west>
+<north>38.25543</north>
+<east>-7.61237</east>
+<south>38.20022</south>
+</bbox>
+<score>64.95536804199219</score>
+</geoname>
+<geoname>
+<toponymName>Vera Cruz</toponymName>
+<name>Vera Cruz</name>
+<lat>-6.04417</lat>
+<lng>-35.42833</lng>
+<geonameId>3385228</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="RN">22</adminCode1>
+<adminName1>Rio Grande do Norte</adminName1>
+<adminCode2>2414803</adminCode2>
+<adminName2>Vera Cruz</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Vera_Cruz%2C_Rio_Grande_do_Norte</alternateName>
+<alternateName lang="unlc">VCZ</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Fortaleza</timezone>
+<bbox>
+<west>-35.43738</west>
+<north>-6.03517</north>
+<east>-35.41929</east>
+<south>-6.05316</south>
+</bbox>
+<score>55.676025390625</score>
+</geoname>
+<geoname>
+<toponymName>Vera Cruz</toponymName>
+<name>Vera Cruz</name>
+<lat>-22.21972</lat>
+<lng>-49.81944</lng>
+<geonameId>3445304</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="SP">27</adminCode1>
+<adminName1>São Paulo</adminName1>
+<adminCode2>3556602</adminCode2>
+<adminName2>Vera Cruz</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Vera_Cruz%2C_S%C3%A3o_Paulo</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Sao_Paulo</timezone>
+<bbox>
+<west>-49.82916</west>
+<north>-22.21073</north>
+<east>-49.80973</east>
+<south>-22.22872</south>
+</bbox>
+<score>55.676025390625</score>
+</geoname>
+</geonames>

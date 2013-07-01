@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Herculaneum</toponymName>
+<name>Herculaneum</name>
+<lat>38.26839</lat>
+<lng>-90.38012</lng>
+<geonameId>4390204</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3468</population>
+<alternateNames/>
+<elevation>135</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>099</adminCode2>
+<adminName2>Jefferson County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Herculaneum%2C_Missouri</alternateName>
+<alternateName lang="post">63048</alternateName>
+<alternateName lang="unlc">HM4</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.38822</west>
+<north>38.27475</north>
+<east>-90.37202</east>
+<south>38.26203</south>
+</bbox>
+<score>14.667824745178223</score>
+</geoname>
+<geoname>
+<toponymName>City of Herculaneum</toponymName>
+<name>City of Herculaneum</name>
+<lat>38.2573</lat>
+<lng>-90.3935</lng>
+<geonameId>7163379</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>administrative division</fcodeName>
+<population>3468</population>
+<alternateNames/>
+<elevation>134</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>099</adminCode2>
+<adminName2>Jefferson County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.42801</west>
+<north>38.28059</north>
+<east>-90.36986</east>
+<south>38.23716</south>
+</bbox>
+<score>11.734259605407715</score>
+</geoname>
+<geoname>
+<toponymName>Herculaneum Wastewater Treatment Plant</toponymName>
+<name>Herculaneum Wastewater Treatment Plant</name>
+<lat>38.25551</lat>
+<lng>-90.37721</lng>
+<geonameId>7271191</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>SWT</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>sewage treatment plant</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>120</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>099</adminCode2>
+<adminName2>Jefferson County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>2.2001736164093018</score>
+</geoname>
+<geoname>
+<toponymName>Herculaneum Fire Department</toponymName>
+<name>Herculaneum Fire Department</name>
+<lat>38.26216</lat>
+<lng>-90.37803</lng>
+<geonameId>7721427</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>BLDG</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>building(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>144</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>099</adminCode2>
+<adminName2>Jefferson County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>2.2001736164093018</score>
+</geoname>
+</geonames>

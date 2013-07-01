@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>18</totalResultsCount>
+<geoname>
+<toponymName>New England</toponymName>
+<name>New England</name>
+<lat>39.20702</lat>
+<lng>-81.70874</lng>
+<geonameId>4816474</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>269</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WV">WV</adminCode1>
+<adminName1>West Virginia</adminName1>
+<adminCode2>107</adminCode2>
+<adminName2>Wood County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/New_England%2C_West_Virginia</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-81.72035</west>
+<north>39.21601</north>
+<east>-81.69713</east>
+<south>39.19803</south>
+</bbox>
+<score>59.427337646484375</score>
+</geoname>
+<geoname>
+<toponymName>New England</toponymName>
+<name>New England</name>
+<lat>46.53918</lat>
+<lng>-102.86822</lng>
+<geonameId>5690694</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>600</population>
+<alternateNames/>
+<elevation>791</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ND">ND</adminCode1>
+<adminName1>North Dakota</adminName1>
+<adminCode2>041</adminCode2>
+<adminName2>Hettinger County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/New_England%2C_North_Dakota</alternateName>
+<alternateName lang="post">58647</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<bbox>
+<west>-102.87904</west>
+<north>46.54674</north>
+<east>-102.85853</east>
+<south>46.53197</south>
+</bbox>
+<score>59.427337646484375</score>
+</geoname>
+<geoname>
+<toponymName>New England</toponymName>
+<name>New England</name>
+<lat>-29.6</lat>
+<lng>30.43333</lng>
+<geonameId>971405</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="ZN">02</adminCode1>
+<adminName1>KwaZulu-Natal</adminName1>
+<adminCode2>DC22</adminCode2>
+<adminName2>uMgungundlovu District Municipality</adminName2>
+<adminCode3>KZN225</adminCode3>
+<adminName3>The Msunduzi</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<bbox>
+<west>30.42299</west>
+<north>-29.59101</north>
+<east>30.44368</east>
+<south>-29.60899</south>
+</bbox>
+<score>39.61822509765625</score>
+</geoname>
+<geoname>
+<toponymName>New England</toponymName>
+<name>New England</name>
+<lat>-30.81667</lat>
+<lng>27.5</lng>
+<geonameId>971406</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>T</fcl>
+<fcode>MT</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>mountain</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="EC">05</adminCode1>
+<adminName1>Eastern Cape</adminName1>
+<adminCode2>DC14</adminCode2>
+<adminName2>Joe Gqabi District Municipality</adminName2>
+<adminCode3>EC142</adminCode3>
+<adminName3>Senqu</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<score>39.61822509765625</score>
+</geoname>
+<geoname>
+<toponymName>New England</toponymName>
+<name>New England</name>
+<lat>18.36667</lat>
+<lng>-77.16667</lng>
+<geonameId>3489307</geonameId>
+<countryCode>JM</countryCode>
+<countryName>Jamaica</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="06">09</adminCode1>
+<adminName1>Saint Ann</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Jamaica</timezone>
+<bbox>
+<west>-77.17614</west>
+<north>18.37566</north>
+<east>-77.15719</east>
+<south>18.35767</south>
+</bbox>
+<score>39.61822509765625</score>
+</geoname>
+<geoname>
+<toponymName>New England</toponymName>
+<name>New England</name>
+<lat>34.91036</lat>
+<lng>-85.48024</lng>
+<geonameId>4212112</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>220</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">GA</adminCode1>
+<adminName1>Georgia</adminName1>
+<adminCode2>083</adminCode2>
+<adminName2>Dade County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-85.49121</west>
+<north>34.91935</north>
+<east>-85.46927</east>
+<south>34.90136</south>
+</bbox>
+<score>39.61822509765625</score>
+</geoname>
+<geoname>
+<toponymName>New England</toponymName>
+<name>New England</name>
+<lat>39.33396</lat>
+<lng>-81.94097</lng>
+<geonameId>4519520</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>243</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>009</adminCode2>
+<adminName2>Athens County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-81.9526</west>
+<north>39.34296</north>
+<east>-81.92934</east>
+<south>39.32497</south>
+</bbox>
+<score>39.61822509765625</score>
+</geoname>
+<geoname>
+<toponymName>New England</toponymName>
+<name>New England</name>
+<lat>39.46147</lat>
+<lng>-80.17064</lng>
+<geonameId>4816473</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>320</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WV">WV</adminCode1>
+<adminName1>West Virginia</adminName1>
+<adminCode2>049</adminCode2>
+<adminName2>Marion County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-80.18229</west>
+<north>39.47047</north>
+<east>-80.15898</east>
+<south>39.45248</south>
+</bbox>
+<score>39.61822509765625</score>
+</geoname>
+<geoname>
+<toponymName>New England</toponymName>
+<name>New England</name>
+<lat>40.79617</lat>
+<lng>-81.50151</lng>
+<geonameId>5164269</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>329</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>151</adminCode2>
+<adminName2>Stark County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-81.51339</west>
+<north>40.80516</north>
+<east>-81.48963</east>
+<south>40.78718</south>
+</bbox>
+<score>39.61822509765625</score>
+</geoname>
+<geoname>
+<toponymName>New England</toponymName>
+<name>New England</name>
+<lat>40.33479</lat>
+<lng>-79.92699</lng>
+<geonameId>5203158</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>297</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PA">PA</adminCode1>
+<adminName1>Pennsylvania</adminName1>
+<adminCode2>003</adminCode2>
+<adminName2>Allegheny County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-79.93879</west>
+<north>40.34379</north>
+<east>-79.91519</east>
+<south>40.3258</south>
+</bbox>
+<score>39.61822509765625</score>
+</geoname>
+</geonames>

@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>116</totalResultsCount>
+<geoname>
+<toponymName>Alexandria</toponymName>
+<name>Alexandria</name>
+<lat>31.21564</lat>
+<lng>29.95527</lng>
+<geonameId>361058</geonameId>
+<countryCode>EG</countryCode>
+<countryName>Egypt</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population>3811516</population>
+<alternateNames>ALY,Al Iskandariyah,Al Iskandarīyah,Alegsandiri,Alegsàndiri,Alehandriya,Aleixandria,Aleixandría,Alejandria,Alejandría,Aleksandria,Aleksandrij,Aleksandrija,Aleksandrio,Aleksandrje,Aleksandryjo,Alesandria d'Egito,Alessandria,Alessandria d'Eggittu,Alessandria d'Egitto,Alexandreia,Alexandria,Alexandria Magna,Alexandrie,Alexandrië,Alexandría,Alexàndria,Ałesandria d'Egito,Cathair Alastair,El Iskandariya,El Iskandarīya,Gorad Aleksandryja,Iskandariah,Iskandariya,Iskandariyah,Iskenderiye,Iskindiriya,Iskindirîya,Ol'oksandrija,alaksantriya,alaskndryt,alegjandriya,alekajandriya,alekcantiriya,alekjhandriya,aleksandria,aleksandriya,allegsandeulia,arekusandoria,askndryh,elekjhandriya,sikandariya,xa lek san de riy,ya li shan da gang,ya li shan zhuo,İsgəndəriyyə,İskenderiye,Αλεξάνδρεια,Александрий,Александрия,Александрија,Александрія,Горад Александрыя,Ӧльӧксандрия,Ալեքսանդրիա,אלכסנדריה,אלעקסאנדריע,ئەسکەندەرییە,اسكندريه,اسکندریه,اسکندریہ,الإسكندرية,ܐܠܟܣܢܕܪܝܐ,अलेक्झांड्रिया,सिकन्दरिया,আলেকজান্দ্রিয়া,আলেক্সান্ড্রিয়া,એલેક્ઝાન્ડ્રિયા,அலெக்சாந்திரியா,అలెగ్జాండ్రియా,ಅಲೆಕ್ಸಾಂಡ್ರಿಯ,അലക്സാണ്ട്രിയ,อะเล็กซานเดรีย,ཡ་ལི་ཧྲན་ད,အလက်ဇန္ဒရီးယားမြို့,ალექსანდრია,እስክንድርያ,アレクサンドリア,亚历山大港,亞歷山卓,알렉산드리아</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="ALX">06</adminCode1>
+<adminName1>Alexandria</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="af">Alexandrië</alternateName>
+<alternateName lang="am">እስክንድርያ</alternateName>
+<alternateName lang="an">Aleixandría</alternateName>
+<alternateName lang="ar">الإسكندرية</alternateName>
+<alternateName lang="arc">ܐܠܟܣܢܕܪܝܐ</alternateName>
+<alternateName lang="arz">اسكندريه</alternateName>
+<alternateName lang="az">İsgəndəriyyə</alternateName>
+<alternateName lang="be">Горад Александрыя</alternateName>
+<alternateName lang="bg">Александрия</alternateName>
+<alternateName lang="bn">আলেকজান্দ্রিয়া</alternateName>
+<alternateName lang="bo">ཡ་ལི་ཧྲན་ད</alternateName>
+<alternateName lang="bpy">আলেক্সান্ড্রিয়া</alternateName>
+<alternateName lang="br">Aleksandria</alternateName>
+<alternateName lang="bs">Aleksandrija</alternateName>
+<alternateName lang="ca">Alexandria</alternateName>
+<alternateName lang="ckb">ئەسکەندەرییە</alternateName>
+<alternateName lang="cs">Alexandrie</alternateName>
+<alternateName lang="da">Alexandria</alternateName>
+<alternateName lang="de">Alexandria</alternateName>
+<alternateName lang="el">Αλεξάνδρεια</alternateName>
+<alternateName lang="en">Alexandria</alternateName>
+<alternateName lang="eo">Aleksandrio</alternateName>
+<alternateName lang="es">Alejandría</alternateName>
+<alternateName lang="et">Aleksandria</alternateName>
+<alternateName lang="eu">Alexandria</alternateName>
+<alternateName lang="ext">Alejandria</alternateName>
+<alternateName lang="fa">اسکندریه</alternateName>
+<alternateName lang="fi">Aleksandria</alternateName>
+<alternateName lang="fr">Alexandrie</alternateName>
+<alternateName lang="fy">Aleksandrje</alternateName>
+<alternateName lang="ga">Cathair Alastair</alternateName>
+<alternateName lang="gl">Alexandría</alternateName>
+<alternateName lang="gu">એલેક્ઝાન્ડ્રિયા</alternateName>
+<alternateName lang="hbs">Aleksandrija</alternateName>
+<alternateName lang="he">אלכסנדריה</alternateName>
+<alternateName lang="hi">सिकन्दरिया</alternateName>
+<alternateName lang="hr">Aleksandrija</alternateName>
+<alternateName lang="hu">Alexandria</alternateName>
+<alternateName lang="hy">Ալեքսանդրիա</alternateName>
+<alternateName lang="iata">ALY</alternateName>
+<alternateName lang="id">Iskandariyah</alternateName>
+<alternateName lang="is">Alexandría</alternateName>
+<alternateName lang="it">Alessandria d'Egitto</alternateName>
+<alternateName lang="ja">アレクサンドリア</alternateName>
+<alternateName lang="ka">ალექსანდრია</alternateName>
+<alternateName lang="kk">Александрия</alternateName>
+<alternateName lang="kn">ಅಲೆಕ್ಸಾಂಡ್ರಿಯ</alternateName>
+<alternateName lang="ko">알렉산드리아</alternateName>
+<alternateName lang="koi">Ӧльӧксандрия</alternateName>
+<alternateName lang="kv">Ӧльӧксандрия</alternateName>
+<alternateName lang="la">Alexandria Magna</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Alexandria</alternateName>
+<alternateName lang="lt">Aleksandrija</alternateName>
+<alternateName lang="lv">Aleksandrija</alternateName>
+<alternateName lang="mhr">Александрий</alternateName>
+<alternateName lang="mk">Александрија</alternateName>
+<alternateName lang="ml">അലക്സാണ്ട്രിയ</alternateName>
+<alternateName lang="mn">Александрия</alternateName>
+<alternateName lang="mr">अलेक्झांड्रिया</alternateName>
+<alternateName lang="ms">Iskandariah</alternateName>
+<alternateName lang="my">အလက်ဇန္ဒရီးယားမြို့</alternateName>
+<alternateName lang="nl">Alexandrië</alternateName>
+<alternateName lang="nn">Alexandria</alternateName>
+<alternateName lang="no">Alexandria</alternateName>
+<alternateName lang="oc">Alexàndria</alternateName>
+<alternateName lang="os">Александрия</alternateName>
+<alternateName lang="pl">Aleksandria</alternateName>
+<alternateName lang="pnb">اسکندریہ</alternateName>
+<alternateName lang="pt">Alexandria</alternateName>
+<alternateName lang="qu">Iskandariya</alternateName>
+<alternateName lang="ro">Alexandria</alternateName>
+<alternateName lang="ru">Александрия</alternateName>
+<alternateName lang="sc">Alessandria d'Egitto</alternateName>
+<alternateName lang="scn">Alessandria d'Eggittu</alternateName>
+<alternateName lang="sk">Alexandria</alternateName>
+<alternateName lang="sl">Aleksandrija</alternateName>
+<alternateName lang="sq">Aleksandria</alternateName>
+<alternateName lang="sr">Александрија</alternateName>
+<alternateName lang="sv">Alexandria</alternateName>
+<alternateName lang="sw">Aleksandria</alternateName>
+<alternateName lang="szl">Aleksandryjo</alternateName>
+<alternateName lang="ta">அலெக்சாந்திரியா</alternateName>
+<alternateName lang="te">అలెగ్జాండ్రియా</alternateName>
+<alternateName lang="tg">Александрия</alternateName>
+<alternateName lang="th">อะเล็กซานเดรีย</alternateName>
+<alternateName lang="tl">Alehandriya</alternateName>
+<alternateName lang="tr">İskenderiye</alternateName>
+<alternateName lang="tw">Aleksandria</alternateName>
+<alternateName lang="uk">Александрія</alternateName>
+<alternateName lang="unlc">ALY</alternateName>
+<alternateName lang="ur">اسکندریہ</alternateName>
+<alternateName lang="vec">Ałesandria d'Egito</alternateName>
+<alternateName lang="vi">Alexandria</alternateName>
+<alternateName lang="wo">Alegsàndiri</alternateName>
+<alternateName lang="yi">אלעקסאנדריע</alternateName>
+<alternateName lang="zh">亚历山大港</alternateName>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Cairo</timezone>
+<bbox>
+<west>29.65814</west>
+<north>31.46907</north>
+<east>30.25239</east>
+<south>30.96222</south>
+</bbox>
+<score>181.96356201171875</score>
+</geoname>
+<geoname>
+<toponymName>Alexandria</toponymName>
+<name>Alexandria</name>
+<lat>-6.39998</lat>
+<lng>-37.96862</lng>
+<geonameId>6319030</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>13475</population>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="RN">22</adminCode1>
+<adminName1>Rio Grande do Norte</adminName1>
+<adminCode2>2400505</adminCode2>
+<adminName2>Alexandria</adminName2>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Fortaleza</timezone>
+<bbox>
+<west>-38.12561</west>
+<north>-6.25645</north>
+<east>-37.83426</east>
+<south>-6.47585</south>
+</bbox>
+<score>48.633914947509766</score>
+</geoname>
+<geoname>
+<toponymName>Alexandria</toponymName>
+<name>Alexandria</name>
+<lat>43.98333</lat>
+<lng>25.33333</lng>
+<geonameId>686502</geonameId>
+<countryCode>RO</countryCode>
+<countryName>Romania</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population>49346</population>
+<alternateNames>Alexandria</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="TR">35</adminCode1>
+<adminName1>Teleorman</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Alexandria%2C_Romania</alternateName>
+<alternateName lang="unlc">ALX</alternateName>
+<timezone dstOffset="3.0" gmtOffset="2.0">Europe/Bucharest</timezone>
+<bbox>
+<west>25.2933</west>
+<north>44.01213</north>
+<east>25.37337</east>
+<south>43.95454</south>
+</bbox>
+<score>47.651309967041016</score>
+</geoname>
+<geoname>
+<toponymName>Alexandria</toponymName>
+<name>Alexandria</name>
+<lat>55.99379</lat>
+<lng>-4.5864</lng>
+<geonameId>2657513</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>13079</population>
+<alternateNames>Alexandria</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>W7</adminCode2>
+<adminName2>West Dunbartonshire</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Alexandria%2C_West_Dunbartonshire</alternateName>
+<alternateName lang="unlc">ALX</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.61184</west>
+<north>56.00801</north>
+<east>-4.56097</east>
+<south>55.97957</south>
+</bbox>
+<score>41.69489669799805</score>
+</geoname>
+<geoname>
+<toponymName>Alexandria</toponymName>
+<name>Alexandria</name>
+<lat>38.80484</lat>
+<lng>-77.04692</lng>
+<geonameId>4744091</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>139966</population>
+<alternateNames>Aleksandrija,Alexandria,alaskndryt, fyrjynya,allegsandeulia,arekusandoria,nywpwrt nywz, wyrjynya,ya li shan de li ya,Александрия,Александрија,Ալեքսանդրիա,الإسكندرية، فيرجينيا,نیوپورت نیوز، ویرجینیا,অ্যালেক্সান্ড্রিয়া,アレクサンドリア,亚历山德里亚,알렉산드리아</alternateNames>
+<elevation>12</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>510</adminCode2>
+<adminName2>City of Alexandria</adminName2>
+<alternateName lang="ar">الإسكندرية، فيرجينيا</alternateName>
+<alternateName lang="bg">Александрия</alternateName>
+<alternateName lang="bn">অ্যালেক্সান্ড্রিয়া</alternateName>
+<alternateName lang="de">Alexandria</alternateName>
+<alternateName lang="en">Alexandria</alternateName>
+<alternateName lang="fa">نیوپورت نیوز، ویرجینیا</alternateName>
+<alternateName lang="fr">Alexandria</alternateName>
+<alternateName lang="hy">Ալեքսանդրիա</alternateName>
+<alternateName lang="ja">アレクサンドリア</alternateName>
+<alternateName lang="ko">알렉산드리아</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Alexandria%2C_Virginia</alternateName>
+<alternateName lang="lt">Aleksandrija</alternateName>
+<alternateName lang="nl">Alexandria</alternateName>
+<alternateName lang="pl">Alexandria</alternateName>
+<alternateName lang="post">22314</alternateName>
+<alternateName lang="pt">Alexandria</alternateName>
+<alternateName lang="ru">Александрия</alternateName>
+<alternateName lang="sr">Александрија</alternateName>
+<alternateName lang="sv">Alexandria</alternateName>
+<alternateName lang="unlc">AXR</alternateName>
+<alternateName lang="zh">亚历山德里亚</alternateName>
+<alternateName lang="zh-CN">亚历山德里亚</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-77.14436</west>
+<north>38.84501</north>
+<east>-77.03728</east>
+<south>38.78521</south>
+</bbox>
+<score>41.26724624633789</score>
+</geoname>
+<geoname>
+<toponymName>Alexandria</toponymName>
+<name>Alexandria</name>
+<lat>-6.4125</lat>
+<lng>-38.01583</lng>
+<geonameId>3407977</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>9769</population>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="RN">22</adminCode1>
+<adminName1>Rio Grande do Norte</adminName1>
+<adminCode2>2400505</adminCode2>
+<adminName2>Alexandria</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Alexandria%2C_Rio_Grande_do_Norte</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Fortaleza</timezone>
+<bbox>
+<west>-38.02863</west>
+<north>-6.39978</north>
+<east>-38.00303</east>
+<south>-6.42522</south>
+</bbox>
+<score>38.90713119506836</score>
+</geoname>
+<geoname>
+<toponymName>Alexandria</toponymName>
+<name>Alexandria</name>
+<lat>43.61146</lat>
+<lng>-71.79286</lng>
+<geonameId>5082573</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1415</population>
+<alternateNames/>
+<elevation>189</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NH">NH</adminCode1>
+<adminName1>New Hampshire</adminName1>
+<adminCode2>009</adminCode2>
+<adminName2>Grafton County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Alexandria%2C_New_Hampshire</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-71.79907</west>
+<north>43.61596</north>
+<east>-71.78665</east>
+<south>43.60697</south>
+</bbox>
+<score>38.90713119506836</score>
+</geoname>
+<geoname>
+<toponymName>Alexándreia</toponymName>
+<name>Alexándreia</name>
+<lat>40.62667</lat>
+<lng>22.44417</lng>
+<geonameId>736929</geonameId>
+<countryCode>GR</countryCode>
+<countryName>Greece</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>13665</population>
+<alternateNames>Alexandreia,Alexandria,Alexándreia,Alexándria,Gida,Gidha,Gidhas,Gidhá,Gidhás,Yidha,Yidhas,Yidhá,Yidhás,Αλεξάνδρεια</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="B">ESYE12</adminCode1>
+<adminName1>Central Macedonia</adminName1>
+<adminCode2>12</adminCode2>
+<adminName2>Imathía</adminName2>
+<adminCode3>9023</adminCode3>
+<adminName3>Alexandreia</adminName3>
+<alternateName lang="el">Αλεξάνδρεια</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Alexandreia</alternateName>
+<alternateName lang="unlc">ALX</alternateName>
+<timezone dstOffset="3.0" gmtOffset="2.0">Europe/Athens</timezone>
+<bbox>
+<west>22.42451</west>
+<north>40.64158</north>
+<east>22.46382</east>
+<south>40.61175</south>
+</bbox>
+<score>36.31275177001953</score>
+</geoname>
+<geoname>
+<toponymName>Alexandrina</toponymName>
+<name>Alexandrina</name>
+<lat>-35.33769</lat>
+<lng>138.83704</lng>
+<geonameId>7839646</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="SA">05</adminCode1>
+<adminName1>South Australia</adminName1>
+<adminCode2>40220</adminCode2>
+<adminName2>Alexandrina</adminName2>
+<timezone dstOffset="9.5" gmtOffset="10.5">Australia/Adelaide</timezone>
+<bbox>
+<west>138.51575</west>
+<north>-35.11282</north>
+<east>139.15833</east>
+<south>-35.56256</south>
+</bbox>
+<score>32.39743423461914</score>
+</geoname>
+<geoname>
+<toponymName>Alexandrița</toponymName>
+<name>Alexandrița</name>
+<lat>46.2345</lat>
+<lng>25.31562</lng>
+<geonameId>686498</geonameId>
+<countryCode>RO</countryCode>
+<countryName>Romania</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>49</population>
+<alternateNames>Alexandria,Alexandrita,Alexandriţa,Sandortelke,Sàndortelke</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="HR">20</adminCode1>
+<adminName1>Harghita</adminName1>
+<adminCode2>83197</adminCode2>
+<adminName2>Comuna Feliceni</adminName2>
+<timezone dstOffset="3.0" gmtOffset="2.0">Europe/Bucharest</timezone>
+<bbox>
+<west>25.31432</west>
+<north>46.2354</north>
+<east>25.31692</east>
+<south>46.2336</south>
+</bbox>
+<score>29.93425750732422</score>
+</geoname>
+</geonames>

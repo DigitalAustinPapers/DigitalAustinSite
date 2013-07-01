@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Tuscumbia</toponymName>
+<name>Tuscumbia</name>
+<lat>34.7312</lat>
+<lng>-87.70253</lng>
+<geonameId>4094484</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>8423</population>
+<alternateNames/>
+<elevation>142</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AL">AL</adminCode1>
+<adminName1>Alabama</adminName1>
+<adminCode2>033</adminCode2>
+<adminName2>Colbert County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Tuscumbia%2C_Alabama</alternateName>
+<alternateName lang="post">35674</alternateName>
+<alternateName lang="unlc">TSC</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-87.71701</west>
+<north>34.7431</north>
+<east>-87.68805</east>
+<south>34.7193</south>
+</bbox>
+<score>56.048797607421875</score>
+</geoname>
+<geoname>
+<toponymName>Tuscumbia</toponymName>
+<name>Tuscumbia</name>
+<lat>38.23309</lat>
+<lng>-92.45852</lng>
+<geonameId>4412325</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>203</population>
+<alternateNames/>
+<elevation>176</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>131</adminCode2>
+<adminName2>Miller County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Tuscumbia%2C_Missouri</alternateName>
+<alternateName lang="post">65082</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.45966</west>
+<north>38.23399</north>
+<east>-92.45737</east>
+<south>38.23219</south>
+</bbox>
+<score>56.048797607421875</score>
+</geoname>
+</geonames>

@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>10</totalResultsCount>
+<geoname>
+<toponymName>McLain</toponymName>
+<name>McLain</name>
+<lat>31.1088</lat>
+<lng>-88.82726</lng>
+<geonameId>4435513</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>441</population>
+<alternateNames/>
+<elevation>22</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MS">MS</adminCode1>
+<adminName1>Mississippi</adminName1>
+<adminCode2>041</adminCode2>
+<adminName2>Greene County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/McLain%2C_Mississippi</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-88.82831</west>
+<north>31.1097</north>
+<east>-88.82621</east>
+<south>31.1079</south>
+</bbox>
+<score>61.44580841064453</score>
+</geoname>
+<geoname>
+<toponymName>McLain</toponymName>
+<name>McLain</name>
+<lat>32.3682</lat>
+<lng>-92.1118</lng>
+<geonameId>4333013</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>22</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>073</adminCode2>
+<adminName2>Ouachita Parish</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.12245</west>
+<north>32.3772</north>
+<east>-92.10115</east>
+<south>32.35921</south>
+</bbox>
+<score>40.963871002197266</score>
+</geoname>
+<geoname>
+<toponymName>McLain</toponymName>
+<name>McLain</name>
+<lat>35.56649</lat>
+<lng>-95.26885</lng>
+<geonameId>4542485</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>163</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OK">OK</adminCode1>
+<adminName1>Oklahoma</adminName1>
+<adminCode2>101</adminCode2>
+<adminName2>Muskogee County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-95.27991</west>
+<north>35.57548</north>
+<east>-95.2578</east>
+<south>35.55749</south>
+</bbox>
+<score>40.963871002197266</score>
+</geoname>
+<geoname>
+<toponymName>McLain</toponymName>
+<name>McLain</name>
+<lat>10.68333</lat>
+<lng>122.63333</lng>
+<geonameId>1699908</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>McLain</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="06">06</adminCode1>
+<adminName1>Western Visayas</adminName1>
+<adminCode2>30</adminCode2>
+<adminName2>Iloilo</adminName2>
+<alternateName lang="fil">McLain</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<bbox>
+<west>122.62418</west>
+<north>10.69233</north>
+<east>122.64249</east>
+<south>10.67434</south>
+</bbox>
+<score>37.62771987915039</score>
+</geoname>
+<geoname>
+<toponymName>McBain</toponymName>
+<name>McBain</name>
+<lat>44.19362</lat>
+<lng>-85.21338</lng>
+<geonameId>5001236</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>656</population>
+<alternateNames/>
+<elevation>377</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MI">MI</adminCode1>
+<adminName1>Michigan</adminName1>
+<adminCode2>113</adminCode2>
+<adminName2>Missaukee County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/McBain%2C_Michigan</alternateName>
+<alternateName lang="unlc">KMZ</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Detroit</timezone>
+<bbox>
+<west>-85.21463</west>
+<north>44.19452</north>
+<east>-85.21212</east>
+<south>44.19272</south>
+</bbox>
+<score>11.500743865966797</score>
+</geoname>
+<geoname>
+<toponymName>McLains</toponymName>
+<name>McLains</name>
+<lat>37.99946</lat>
+<lng>-97.26309</lng>
+<geonameId>4275253</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>459</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KS">KS</adminCode1>
+<adminName1>Kansas</adminName1>
+<adminCode2>079</adminCode2>
+<adminName2>Harvey County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-97.27451</west>
+<north>38.00845</north>
+<east>-97.25168</east>
+<south>37.99046</south>
+</bbox>
+<score>7.6671624183654785</score>
+</geoname>
+<geoname>
+<toponymName>McClain</toponymName>
+<name>McClain</name>
+<lat>38.9948</lat>
+<lng>-81.53651</lng>
+<geonameId>4814076</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>332</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WV">WV</adminCode1>
+<adminName1>West Virginia</adminName1>
+<adminCode2>035</adminCode2>
+<adminName2>Jackson County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-81.54809</west>
+<north>39.0038</north>
+<east>-81.52494</east>
+<south>38.98581</south>
+</bbox>
+<score>7.02734899520874</score>
+</geoname>
+<geoname>
+<toponymName>McClain</toponymName>
+<name>McClain</name>
+<lat>46.70603</lat>
+<lng>-114.07789</lng>
+<geonameId>5665145</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>970</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MT">MT</adminCode1>
+<adminName1>Montana</adminName1>
+<adminCode2>063</adminCode2>
+<adminName2>Missoula County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<bbox>
+<west>-114.091</west>
+<north>46.71503</north>
+<east>-114.06477</east>
+<south>46.69704</south>
+</bbox>
+<score>7.02734899520874</score>
+</geoname>
+<geoname>
+<toponymName>McCain</toponymName>
+<name>McCain</name>
+<lat>35.06072</lat>
+<lng>-79.34559</lng>
+<geonameId>4478474</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>173</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NC">NC</adminCode1>
+<adminName1>North Carolina</adminName1>
+<adminCode2>093</adminCode2>
+<adminName2>Hoke County</adminName2>
+<alternateName lang="post">28361</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-79.35658</west>
+<north>35.06971</north>
+<east>-79.3346</east>
+<south>35.05172</south>
+</bbox>
+<score>5.750371932983398</score>
+</geoname>
+<geoname>
+<toponymName>McClain</toponymName>
+<name>McClain</name>
+<lat>38.40797</lat>
+<lng>-120.4452</lng>
+<geonameId>5371381</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>974</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>009</adminCode2>
+<adminName2>Calaveras County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>2.1960465908050537</score>
+</geoname>
+</geonames>

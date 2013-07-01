@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>4th</toponymName>
+<name>4th</name>
+<lat>33.77104</lat>
+<lng>-84.38248</lng>
+<geonameId>7288971</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>REST</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>restaurant</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">GA</adminCode1>
+<adminName1>Georgia</adminName1>
+<adminCode2>121</adminCode2>
+<adminName2>Fulton County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>14.370574951171875</score>
+</geoname>
+</geonames>

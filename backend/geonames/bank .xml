@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>18</totalResultsCount>
+<geoname>
+<toponymName>Bánk</toponymName>
+<name>Bánk</name>
+<lat>47.92503</lat>
+<lng>19.17356</lng>
+<geonameId>3055461</geonameId>
+<countryCode>HU</countryCode>
+<countryName>Hungary</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Bank,Bánk</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="NO">14</adminCode1>
+<adminName1>Nógrád</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/B%C3%A1nk</alternateName>
+<alternateName lang="unlc">BND</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Budapest</timezone>
+<bbox>
+<west>19.16014</west>
+<north>47.93403</north>
+<east>19.18698</east>
+<south>47.91604</south>
+</bbox>
+<score>56.02863311767578</score>
+</geoname>
+<geoname>
+<toponymName>Banak</toponymName>
+<name>Banak</name>
+<lat>27.871</lat>
+<lng>52.0274</lng>
+<geonameId>141702</geonameId>
+<countryCode>IR</countryCode>
+<countryName>Iran</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Banak,Bank,bank,bnk,بنك,بَنك</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="06">22</adminCode1>
+<adminName1>Bushehr</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="fa">بَنك</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bank%2C_Iran</alternateName>
+<timezone dstOffset="4.5" gmtOffset="3.5">Asia/Tehran</timezone>
+<bbox>
+<west>52.01723</west>
+<north>27.87999</north>
+<east>52.03757</east>
+<south>27.86201</south>
+</bbox>
+<score>48.522220611572266</score>
+</geoname>
+<geoname>
+<toponymName>Bānak</toponymName>
+<name>Bānak</name>
+<lat>27.12316</lat>
+<lng>54.48823</lng>
+<geonameId>7613545</geonameId>
+<countryCode>IR</countryCode>
+<countryName>Iran</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames>Banak,Bānak,bank,بانک</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="23">11</adminCode1>
+<adminName1>Hormozgān</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="fa">بانک</alternateName>
+<timezone dstOffset="4.5" gmtOffset="3.5">Asia/Tehran</timezone>
+<score>42.45694351196289</score>
+</geoname>
+<geoname>
+<toponymName>Bank</toponymName>
+<name>Bank</name>
+<lat>-5.36667</lat>
+<lng>144.71667</lng>
+<geonameId>2099897</geonameId>
+<countryCode>PG</countryCode>
+<countryName>Papua New Guinea</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="MPM">12</adminCode1>
+<adminName1>Madang</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="10.0" gmtOffset="10.0">Pacific/Port_Moresby</timezone>
+<bbox>
+<west>144.70763</west>
+<north>-5.35767</north>
+<east>144.7257</east>
+<south>-5.37566</south>
+</bbox>
+<score>39.61822509765625</score>
+</geoname>
+<geoname>
+<toponymName>Bank</toponymName>
+<name>Bank</name>
+<lat>50.8294</lat>
+<lng>6.06972</lng>
+<geonameId>2952940</geonameId>
+<countryCode>DE</countryCode>
+<countryName>Germany</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="NW">07</adminCode1>
+<adminName1>North Rhine-Westphalia</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Berlin</timezone>
+<bbox>
+<west>6.05548</west>
+<north>50.83839</north>
+<east>6.08396</east>
+<south>50.8204</south>
+</bbox>
+<score>39.61822509765625</score>
+</geoname>
+<geoname>
+<toponymName>Bank</toponymName>
+<name>Bank</name>
+<lat>42.75036</lat>
+<lng>-71.83702</lng>
+<geonameId>5082992</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>287</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NH">NH</adminCode1>
+<adminName1>New Hampshire</adminName1>
+<adminCode2>011</adminCode2>
+<adminName2>Hillsborough County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-71.84927</west>
+<north>42.75936</north>
+<east>-71.82477</east>
+<south>42.74137</south>
+</bbox>
+<score>39.61822509765625</score>
+</geoname>
+<geoname>
+<toponymName>Bānk</toponymName>
+<name>Bānk</name>
+<lat>27.65708</lat>
+<lng>79.66622</lng>
+<geonameId>6994502</geonameId>
+<countryCode>IN</countryCode>
+<countryName>India</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="UP">36</adminCode1>
+<adminName1>Uttar Pradesh</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="5.5" gmtOffset="5.5">Asia/Kolkata</timezone>
+<bbox>
+<west>79.65606</west>
+<north>27.66608</north>
+<east>79.67637</east>
+<south>27.64809</south>
+</bbox>
+<score>39.61822509765625</score>
+</geoname>
+<geoname>
+<toponymName>Bānak</toponymName>
+<name>Bānak</name>
+<lat>34.6225</lat>
+<lng>65.87775</lng>
+<geonameId>1147233</geonameId>
+<countryCode>AF</countryCode>
+<countryName>Afghanistan</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Banak,Bānak,bank,بانک</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="GHO">09</adminCode1>
+<adminName1>Ghowr</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="4.5" gmtOffset="4.5">Asia/Kabul</timezone>
+<bbox>
+<west>65.86682</west>
+<north>34.6315</north>
+<east>65.88868</east>
+<south>34.61351</south>
+</bbox>
+<score>29.713668823242188</score>
+</geoname>
+<geoname>
+<toponymName>Severo-Vostotchnyi Bank</toponymName>
+<name>Severo-Vostotchnyi Bank</name>
+<lat>39.41117</lat>
+<lng>49.24792</lng>
+<geonameId>148375</geonameId>
+<countryCode>AZ</countryCode>
+<countryName>Azerbaijan</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>7075</population>
+<alternateNames>Bank,Banka,Bankov,Bankə,Imeni Kirova,Rybokombinat Imeni Kirova,Severo-Vostochnyy Bank,Severo-Vostotchnyi Bank</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="NEF">36</adminCode1>
+<adminName1>Neftçala</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bank%C9%99</alternateName>
+<timezone dstOffset="5.0" gmtOffset="4.0">Asia/Baku</timezone>
+<bbox>
+<west>49.2349</west>
+<north>39.42122</north>
+<east>49.26094</east>
+<south>39.40111</south>
+</bbox>
+<score>28.01431655883789</score>
+</geoname>
+<geoname>
+<toponymName>Bánk</toponymName>
+<name>Bánk</name>
+<lat>47.46667</lat>
+<lng>21.73333</lng>
+<geonameId>722598</geonameId>
+<countryCode>HU</countryCode>
+<countryName>Hungary</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="DE">07</adminCode1>
+<adminName1>Debrecen</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Budapest</timezone>
+<bbox>
+<west>21.72801</west>
+<north>47.47026</north>
+<east>21.73866</east>
+<south>47.46307</south>
+</bbox>
+<score>24.761390686035156</score>
+</geoname>
+</geonames>

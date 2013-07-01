@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>13</totalResultsCount>
+<geoname>
+<toponymName>Prices</toponymName>
+<name>Prices</name>
+<lat>33.89038</lat>
+<lng>-85.6958</lng>
+<geonameId>4084877</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>220</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AL">AL</adminCode1>
+<adminName1>Alabama</adminName1>
+<adminCode2>015</adminCode2>
+<adminName2>Calhoun County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-85.70663</west>
+<north>33.89937</north>
+<east>-85.68496</east>
+<south>33.88139</south>
+</bbox>
+<score>40.94585418701172</score>
+</geoname>
+<geoname>
+<toponymName>Prices</toponymName>
+<name>Prices</name>
+<lat>31.89933</lat>
+<lng>-95.42745</lng>
+<geonameId>4720646</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>85</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>073</adminCode2>
+<adminName2>Cherokee County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-95.43805</west>
+<north>31.90833</north>
+<east>-95.41686</east>
+<south>31.89034</south>
+</bbox>
+<score>40.94585418701172</score>
+</geoname>
+<geoname>
+<toponymName>Prites</toponymName>
+<name>Prites</name>
+<lat>58.05098</lat>
+<lng>50.71382</lng>
+<geonameId>505143</geonameId>
+<countryCode>RU</countryCode>
+<countryName>Russia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Prites,Притес</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="KIR">33</adminCode1>
+<adminName1>Kirov</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Prites</alternateName>
+<alternateName lang="no">Prites</alternateName>
+<alternateName lang="ru">Притес</alternateName>
+<timezone dstOffset="4.0" gmtOffset="4.0">Europe/Volgograd</timezone>
+<bbox>
+<west>50.69682</west>
+<north>58.05997</north>
+<east>50.73083</east>
+<south>58.04198</south>
+</bbox>
+<score>14.355703353881836</score>
+</geoname>
+<geoname>
+<toponymName>Prisces</toponymName>
+<name>Prisces</name>
+<lat>49.7791</lat>
+<lng>3.86209</lng>
+<geonameId>2985297</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>110</population>
+<alternateNames>Prisces</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="S">B6</adminCode1>
+<adminName1>Picardie</adminName1>
+<adminCode2>02</adminCode2>
+<adminName2>Aisne</adminName2>
+<adminCode3>025</adminCode3>
+<adminName3>Arrondissement de Vervins</adminName3>
+<adminCode4>02623</adminCode4>
+<adminName4>Prisces</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Prisces</alternateName>
+<alternateName lang="post">02140</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>3.8607</west>
+<north>49.78</north>
+<east>3.86348</east>
+<south>49.7782</south>
+</bbox>
+<score>10.447539329528809</score>
+</geoname>
+<geoname>
+<toponymName>Prinés</toponymName>
+<name>Prinés</name>
+<lat>35.32458</lat>
+<lng>23.81901</lng>
+<geonameId>254689</geonameId>
+<countryCode>GR</countryCode>
+<countryName>Greece</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Prines,Prinés,Πρινές</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="M">ESYE43</adminCode1>
+<adminName1>Crete</adminName1>
+<adminCode2>43</adminCode2>
+<adminName2>Chaníon</adminName2>
+<adminCode3>9321</adminCode3>
+<adminName3>Kantanos-Selino</adminName3>
+<alternateName lang="el">Πρινές</alternateName>
+<timezone dstOffset="3.0" gmtOffset="2.0">Europe/Athens</timezone>
+<bbox>
+<west>23.80798</west>
+<north>35.33357</north>
+<east>23.83003</east>
+<south>35.31558</south>
+</bbox>
+<score>9.101846694946289</score>
+</geoname>
+<geoname>
+<toponymName>Prisces</toponymName>
+<name>Prisces</name>
+<lat>49.77917</lat>
+<lng>3.86222</lng>
+<geonameId>6425162</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population>113</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="S">B6</adminCode1>
+<adminName1>Picardie</adminName1>
+<adminCode2>02</adminCode2>
+<adminName2>Aisne</adminName2>
+<adminCode3>025</adminCode3>
+<adminName3>Arrondissement de Vervins</adminName3>
+<adminCode4>02623</adminCode4>
+<adminName4>Prisces</adminName4>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>3.83314</west>
+<north>49.78677</north>
+<east>3.88918</east>
+<south>49.75723</south>
+</bbox>
+<score>8.530379295349121</score>
+</geoname>
+<geoname>
+<toponymName>Pričel</toponymName>
+<name>Pričel</name>
+<lat>43.53917</lat>
+<lng>22.34028</lng>
+<geonameId>853428</geonameId>
+<countryCode>RS</countryCode>
+<countryName>Serbia</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames>Pricel,Pričel</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="sr">Pričel</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Belgrade</timezone>
+<score>7.6132612228393555</score>
+</geoname>
+<geoname>
+<toponymName>Archaía Eléftherna</toponymName>
+<name>Archaía Eléftherna</name>
+<lat>35.32361</lat>
+<lng>24.67642</lng>
+<geonameId>254688</geonameId>
+<countryCode>GR</countryCode>
+<countryName>Greece</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Archaia Eleftherna,Archaía Eléftherna,Prines,Prinés,Αρχαία Ελεύθερνα,Πρινές</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="M">ESYE43</adminCode1>
+<adminName1>Crete</adminName1>
+<adminCode2>44</adminCode2>
+<adminName2>Rethýmnis</adminName2>
+<adminCode3>9317</adminCode3>
+<adminName3>Mylopotamos</adminName3>
+<alternateName lang="el">Πρινές</alternateName>
+<timezone dstOffset="3.0" gmtOffset="2.0">Europe/Athens</timezone>
+<bbox>
+<west>24.6654</west>
+<north>35.3326</north>
+<east>24.68745</east>
+<south>35.31462</south>
+</bbox>
+<score>7.050259590148926</score>
+</geoname>
+<geoname>
+<toponymName>Príles</toponymName>
+<name>Príles</name>
+<lat>48.95148</lat>
+<lng>18.13537</lng>
+<geonameId>3057995</geonameId>
+<countryCode>SK</countryCode>
+<countryName>Slovakia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="NI">04</adminCode1>
+<adminName1>Nitriansky</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Bratislava</timezone>
+<bbox>
+<west>18.12167</west>
+<north>48.96047</north>
+<east>18.14907</east>
+<south>48.94248</south>
+</bbox>
+<score>6.82430362701416</score>
+</geoname>
+<geoname>
+<toponymName>Priles</toponymName>
+<name>Priles</name>
+<lat>46.27778</lat>
+<lng>16.60361</lng>
+<geonameId>3192393</geonameId>
+<countryCode>HR</countryCode>
+<countryName>Croatia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="05">16</adminCode1>
+<adminName1>Varaždinska</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Zagreb</timezone>
+<bbox>
+<west>16.5906</west>
+<north>46.28677</north>
+<east>16.61663</east>
+<south>46.26878</south>
+</bbox>
+<score>6.82430362701416</score>
+</geoname>
+</geonames>

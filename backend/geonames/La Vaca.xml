@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>55</totalResultsCount>
+<geoname>
+<toponymName>La Vaca</toponymName>
+<name>La Vaca</name>
+<lat>15.8</lat>
+<lng>-88.78333</lng>
+<geonameId>3593482</geonameId>
+<countryCode>GT</countryCode>
+<countryName>Guatemala</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Cocinero de Brea,La Vaca</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IZ">09</adminCode1>
+<adminName1>Izabal</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Guatemala</timezone>
+<bbox>
+<west>-88.79268</west>
+<north>15.80899</north>
+<east>-88.77399</east>
+<south>15.79101</south>
+</bbox>
+<score>32.38188552856445</score>
+</geoname>
+<geoname>
+<toponymName>La Vaca</toponymName>
+<name>La Vaca</name>
+<lat>11.18705</lat>
+<lng>-68.85093</lng>
+<geonameId>3635020</geonameId>
+<countryCode>VE</countryCode>
+<countryName>Venezuela</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>La Vaca,Marcillal de La Vaca,Marcillar de Vaca,Marsillal de la Vaca</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="I">11</adminCode1>
+<adminName1>Estado Falcón</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.5" gmtOffset="-4.5">America/Caracas</timezone>
+<bbox>
+<west>-68.8601</west>
+<north>11.19604</north>
+<east>-68.84176</east>
+<south>11.17805</south>
+</bbox>
+<score>32.38188552856445</score>
+</geoname>
+<geoname>
+<toponymName>La Vaca</toponymName>
+<name>La Vaca</name>
+<lat>25.58333</lat>
+<lng>-101.25</lng>
+<geonameId>3998896</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>La Vaca,Las Vacas,Vacas</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="COA">07</adminCode1>
+<adminName1>Coahuila</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<bbox>
+<west>-101.25997</west>
+<north>25.59233</north>
+<east>-101.24003</east>
+<south>25.57434</south>
+</bbox>
+<score>32.38188552856445</score>
+</geoname>
+<geoname>
+<toponymName>La Vaca</toponymName>
+<name>La Vaca</name>
+<lat>19.0303</lat>
+<lng>-70.47916</lng>
+<geonameId>3500009</geonameId>
+<countryCode>DO</countryCode>
+<countryName>Dominican Republic</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="28">31</adminCode1>
+<adminName1>Monseñor Nouel</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Santo_Domingo</timezone>
+<bbox>
+<west>-70.48867</west>
+<north>19.0393</north>
+<east>-70.46964</east>
+<south>19.02131</south>
+</bbox>
+<score>26.439697265625</score>
+</geoname>
+<geoname>
+<toponymName>La Vaca</toponymName>
+<name>La Vaca</name>
+<lat>18.91667</lat>
+<lng>-70.5</lng>
+<geonameId>3500010</geonameId>
+<countryCode>DO</countryCode>
+<countryName>Dominican Republic</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="28">31</adminCode1>
+<adminName1>Monseñor Nouel</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Santo_Domingo</timezone>
+<bbox>
+<west>-70.50951</west>
+<north>18.92566</north>
+<east>-70.49049</east>
+<south>18.90767</south>
+</bbox>
+<score>26.439697265625</score>
+</geoname>
+<geoname>
+<toponymName>La Vaca</toponymName>
+<name>La Vaca</name>
+<lat>17.96667</lat>
+<lng>-71.28333</lng>
+<geonameId>3500011</geonameId>
+<countryCode>DO</countryCode>
+<countryName>Dominican Republic</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="04">03</adminCode1>
+<adminName1>Barahona</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Santo_Domingo</timezone>
+<bbox>
+<west>-71.29279</west>
+<north>17.97566</north>
+<east>-71.27388</east>
+<south>17.95767</south>
+</bbox>
+<score>26.439697265625</score>
+</geoname>
+<geoname>
+<toponymName>La Vaca</toponymName>
+<name>La Vaca</name>
+<lat>24.73333</lat>
+<lng>-99.41667</lng>
+<geonameId>3524492</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TAM">28</adminCode1>
+<adminName1>Tamaulipas</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<bbox>
+<west>-99.42657</west>
+<north>24.74233</north>
+<east>-99.40676</east>
+<south>24.72434</south>
+</bbox>
+<score>26.439697265625</score>
+</geoname>
+<geoname>
+<toponymName>La Vaca</toponymName>
+<name>La Vaca</name>
+<lat>20.41667</lat>
+<lng>-75.16667</lng>
+<geonameId>3550312</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="14">10</adminCode1>
+<adminName1>Guantánamo</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>26.439697265625</score>
+</geoname>
+<geoname>
+<toponymName>La Vaca</toponymName>
+<name>La Vaca</name>
+<lat>20.03333</lat>
+<lng>-76.25</lng>
+<geonameId>3550313</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="13">15</adminCode1>
+<adminName1>Santiago de Cuba</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>26.439697265625</score>
+</geoname>
+<geoname>
+<toponymName>La Vaca</toponymName>
+<name>La Vaca</name>
+<lat>12.84995</lat>
+<lng>-87.5391</lng>
+<geonameId>3618069</geonameId>
+<countryCode>NI</countryCode>
+<countryName>Nicaragua</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CI">03</adminCode1>
+<adminName1>Chinandega</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Managua</timezone>
+<bbox>
+<west>-87.54832</west>
+<north>12.85894</north>
+<east>-87.52987</east>
+<south>12.84095</south>
+</bbox>
+<score>26.439697265625</score>
+</geoname>
+</geonames>

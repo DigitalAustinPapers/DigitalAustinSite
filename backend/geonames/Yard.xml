@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Pardar</toponymName>
+<name>Pardar</name>
+<lat>35.98342</lat>
+<lng>52.47657</lng>
+<geonameId>32554</geonameId>
+<countryCode>IR</countryCode>
+<countryName>Iran</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Pard,Pardar,Yard,pard,prdr,yard,يَرد,پردر,پَرد</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="21">35</adminCode1>
+<adminName1>Māzandarān</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="fa">پَرد</alternateName>
+<timezone dstOffset="4.5" gmtOffset="3.5">Asia/Tehran</timezone>
+<bbox>
+<west>52.46545</west>
+<north>35.99241</north>
+<east>52.48769</east>
+<south>35.97443</south>
+</bbox>
+<score>47.17984390258789</score>
+</geoname>
+<geoname>
+<toponymName>Yard</toponymName>
+<name>Yard</name>
+<lat>31.86155</lat>
+<lng>-95.97108</lng>
+<geonameId>4743341</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>85</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>001</adminCode2>
+<adminName2>Anderson County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-95.98167</west>
+<north>31.87055</north>
+<east>-95.96049</east>
+<south>31.85256</south>
+</bbox>
+<score>44.025352478027344</score>
+</geoname>
+<geoname>
+<toponymName>Yard</toponymName>
+<name>Yard</name>
+<lat>31.86528</lat>
+<lng>-95.96682</lng>
+<geonameId>4743342</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>88</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>001</adminCode2>
+<adminName2>Anderson County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-95.97741</west>
+<north>31.87427</north>
+<east>-95.95623</east>
+<south>31.85628</south>
+</bbox>
+<score>44.025352478027344</score>
+</geoname>
+</geonames>

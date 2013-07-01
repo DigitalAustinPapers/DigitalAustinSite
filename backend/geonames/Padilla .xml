@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>37</totalResultsCount>
+<geoname>
+<toponymName>Padilla</toponymName>
+<name>Padilla</name>
+<lat>3.06667</lat>
+<lng>-76.31667</lng>
+<geonameId>3673408</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="CAU">09</adminCode1>
+<adminName1>Cauca</adminName1>
+<adminCode2>3673408</adminCode2>
+<adminName2>Padilla</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<score>74.4918441772461</score>
+</geoname>
+<geoname>
+<toponymName>Padilla</toponymName>
+<name>Padilla</name>
+<lat>3.22038</lat>
+<lng>-76.31385</lng>
+<geonameId>3673407</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>4472</population>
+<alternateNames>Padilla</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="CAU">09</adminCode1>
+<adminName1>Cauca</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Padilla%2C_Cauca</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<bbox>
+<west>-76.32165</west>
+<north>3.22816</north>
+<east>-76.30605</east>
+<south>3.21259</south>
+</bbox>
+<score>63.86344909667969</score>
+</geoname>
+<geoname>
+<toponymName>Padilla</toponymName>
+<name>Padilla</name>
+<lat>-19.30878</lat>
+<lng>-64.30273</lng>
+<geonameId>3909038</geonameId>
+<countryCode>BO</countryCode>
+<countryName>Bolivia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2920</population>
+<alternateNames>Padilla</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="H">01</adminCode1>
+<adminName1>Chuquisaca</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Padilla%2C_Bolivia</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/La_Paz</timezone>
+<bbox>
+<west>-64.30947</west>
+<north>-19.30242</north>
+<east>-64.29599</east>
+<south>-19.31514</south>
+</bbox>
+<score>63.86344909667969</score>
+</geoname>
+<geoname>
+<toponymName>Padilla</toponymName>
+<name>Padilla</name>
+<lat>-19.72227</lat>
+<lng>-64.35346</lng>
+<geonameId>6621206</geonameId>
+<countryCode>BO</countryCode>
+<countryName>Bolivia</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="H">01</adminCode1>
+<adminName1>Chuquisaca</adminName1>
+<adminCode2>0104</adminCode2>
+<adminName2>Provincia Tomina</adminName2>
+<adminCode3>01</adminCode3>
+<adminName3>Padilla</adminName3>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/La_Paz</timezone>
+<score>52.144290924072266</score>
+</geoname>
+<geoname>
+<toponymName>Padilla</toponymName>
+<name>Padilla</name>
+<lat>-19.72227</lat>
+<lng>-64.35346</lng>
+<geonameId>6621295</geonameId>
+<countryCode>BO</countryCode>
+<countryName>Bolivia</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="H">01</adminCode1>
+<adminName1>Chuquisaca</adminName1>
+<adminCode2>0104</adminCode2>
+<adminName2>Provincia Tomina</adminName2>
+<adminCode3>01</adminCode3>
+<adminName3>Padilla</adminName3>
+<adminCode4>01</adminCode4>
+<adminName4>Padilla</adminName4>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/La_Paz</timezone>
+<score>37.24592208862305</score>
+</geoname>
+<geoname>
+<toponymName>Padilla</toponymName>
+<name>Padilla</name>
+<lat>22.85</lat>
+<lng>-80.13333</lng>
+<geonameId>3545375</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="05">16</adminCode1>
+<adminName1>Villa Clara</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>29.796737670898438</score>
+</geoname>
+<geoname>
+<toponymName>Padilla</toponymName>
+<name>Padilla</name>
+<lat>22.8</lat>
+<lng>-82</lng>
+<geonameId>3545376</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1>MA</adminCode1>
+<adminName1>Provincia Mayabeque</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>29.796737670898438</score>
+</geoname>
+<geoname>
+<toponymName>Padilla</toponymName>
+<name>Padilla</name>
+<lat>21.56667</lat>
+<lng>-78.03333</lng>
+<geonameId>3545377</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="09">05</adminCode1>
+<adminName1>Camagüey</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>29.796737670898438</score>
+</geoname>
+<geoname>
+<toponymName>Padilla</toponymName>
+<name>Padilla</name>
+<lat>-27.02266</lat>
+<lng>-65.39216</lng>
+<geonameId>3842414</geonameId>
+<countryCode>AR</countryCode>
+<countryName>Argentina</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="T">24</adminCode1>
+<adminName1>Tucumán</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Argentina/Tucuman</timezone>
+<bbox>
+<west>-65.40225</west>
+<north>-27.01367</north>
+<east>-65.38206</east>
+<south>-27.03165</south>
+</bbox>
+<score>29.796737670898438</score>
+</geoname>
+<geoname>
+<toponymName>Padilla</toponymName>
+<name>Padilla</name>
+<lat>-16.56667</lat>
+<lng>-67.3</lng>
+<geonameId>3909039</geonameId>
+<countryCode>BO</countryCode>
+<countryName>Bolivia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="L">04</adminCode1>
+<adminName1>La Paz</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/La_Paz</timezone>
+<bbox>
+<west>-67.30938</west>
+<north>-16.55767</north>
+<east>-67.29062</east>
+<south>-16.57566</south>
+</bbox>
+<score>29.796737670898438</score>
+</geoname>
+</geonames>

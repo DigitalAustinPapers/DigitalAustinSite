@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Walasia</toponymName>
+<name>Walasia</name>
+<lat>-1.60374</lat>
+<lng>38.17006</lng>
+<geonameId>178418</geonameId>
+<countryCode>KE</countryCode>
+<countryName>Kenya</countryName>
+<fcl>T</fcl>
+<fcode>HLL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>hill</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="400">03</adminCode1>
+<adminName1>KE.03</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="3.0" gmtOffset="3.0">Africa/Nairobi</timezone>
+<score>35.65121841430664</score>
+</geoname>
+<geoname>
+<toponymName>Walāti</toponymName>
+<name>Walāti</name>
+<lat>27.08156</lat>
+<lng>68.991</lng>
+<geonameId>1403591</geonameId>
+<countryCode>PK</countryCode>
+<countryName>Pakistan</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="SD">05</adminCode1>
+<adminName1>Sindh</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="5.0" gmtOffset="5.0">Asia/Karachi</timezone>
+<bbox>
+<west>68.9809</west>
+<north>27.09055</north>
+<east>69.0011</east>
+<south>27.07256</south>
+</bbox>
+<score>19.77218246459961</score>
+</geoname>
+<geoname>
+<toponymName>Walati</toponymName>
+<name>Walati</name>
+<lat>-8.15</lat>
+<lng>139.23333</lng>
+<geonameId>1622221</geonameId>
+<countryCode>ID</countryCode>
+<countryName>Indonesia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="9.0" gmtOffset="9.0">Asia/Jayapura</timezone>
+<bbox>
+<west>139.22425</west>
+<north>-8.14101</north>
+<east>139.24242</east>
+<south>-8.15899</south>
+</bbox>
+<score>19.77218246459961</score>
+</geoname>
+<geoname>
+<toponymName>Oualâta</toponymName>
+<name>Oualâta</name>
+<lat>17.3014</lat>
+<lng>-7.0256</lng>
+<geonameId>2377327</geonameId>
+<countryCode>MR</countryCode>
+<countryName>Mauritania</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Oualata,Oualâta,Ualata,Walata</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="01">01</adminCode1>
+<adminName1>Hodh ech Chargui</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Oualata</alternateName>
+<timezone dstOffset="0.0" gmtOffset="0.0">Africa/Nouakchott</timezone>
+<bbox>
+<west>-7.03502</west>
+<north>17.31039</north>
+<east>-7.01618</east>
+<south>17.29241</south>
+</bbox>
+<score>14.705364227294922</score>
+</geoname>
+</geonames>

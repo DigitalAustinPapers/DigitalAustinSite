@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Siding B</toponymName>
+<name>Siding B</name>
+<lat>-28.89174</lat>
+<lng>31.43892</lng>
+<geonameId>1021863</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>S</fcl>
+<fcode>RSTNQ</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>abandoned railroad station</fcodeName>
+<population/>
+<alternateNames>B,Siding B</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="ZN">02</adminCode1>
+<adminName1>KwaZulu-Natal</adminName1>
+<adminCode2>DC28</adminCode2>
+<adminName2>uThungulu District Municipality</adminName2>
+<adminCode3>KZN284</adminCode3>
+<adminName3>uMlalazi</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<score>16.25844955444336</score>
+</geoname>
+</geonames>

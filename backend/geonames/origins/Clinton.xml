@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>201</totalResultsCount>
+<geoname>
+<toponymName>Clinton</toponymName>
+<name>Clinton</name>
+<lat>42.58698</lat>
+<lng>-82.91992</lng>
+<geonameId>4989133</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>99753</population>
+<alternateNames/>
+<elevation>183</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MI">MI</adminCode1>
+<adminName1>Michigan</adminName1>
+<adminCode2>099</adminCode2>
+<adminName2>Macomb County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Charter_Township_of_Clinton%2C_Michigan</alternateName>
+<alternateName lang="unlc">CNC</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Detroit</timezone>
+<bbox>
+<west>-82.9756</west>
+<north>42.62795</north>
+<east>-82.86424</east>
+<south>42.54601</south>
+</bbox>
+<score>77.48383331298828</score>
+</geoname>
+<geoname>
+<toponymName>Clinton</toponymName>
+<name>Clinton</name>
+<lat>38.76511</lat>
+<lng>-76.89831</lng>
+<geonameId>4351871</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>35970</population>
+<alternateNames>Klinton,Клинтон</alternateNames>
+<elevation>76</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MD">MD</adminCode1>
+<adminName1>Maryland</adminName1>
+<adminCode2>033</adminCode2>
+<adminName2>Prince Georges County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Clinton%2C_Maryland</alternateName>
+<alternateName lang="post">20735</alternateName>
+<alternateName lang="ru">Клинтон</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-76.92937</west>
+<north>38.78933</north>
+<east>-76.86724</east>
+<south>38.7409</south>
+</bbox>
+<score>54.238685607910156</score>
+</geoname>
+<geoname>
+<toponymName>Clinton</toponymName>
+<name>Clinton</name>
+<lat>38.91167</lat>
+<lng>-95.39053</lng>
+<geonameId>4269733</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>285</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KS">KS</adminCode1>
+<adminName1>Kansas</adminName1>
+<adminCode2>045</adminCode2>
+<adminName2>Douglas County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Clinton%2C_Kansas</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-95.40209</west>
+<north>38.92066</north>
+<east>-95.37897</east>
+<south>38.90268</south>
+</bbox>
+<score>46.49030303955078</score>
+</geoname>
+<geoname>
+<toponymName>Clinton</toponymName>
+<name>Clinton</name>
+<lat>32.34153</lat>
+<lng>-90.32176</lng>
+<geonameId>4422133</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>25216</population>
+<alternateNames>Klinton,Клинтон</alternateNames>
+<elevation>109</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MS">MS</adminCode1>
+<adminName1>Mississippi</adminName1>
+<adminCode2>049</adminCode2>
+<adminName2>Hinds County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Clinton%2C_Mississippi</alternateName>
+<alternateName lang="post">39056</alternateName>
+<alternateName lang="ru">Клинтон</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.34615</west>
+<north>32.36214</north>
+<east>-90.29736</east>
+<south>32.32093</south>
+</bbox>
+<score>46.49030303955078</score>
+</geoname>
+<geoname>
+<toponymName>Clinton</toponymName>
+<name>Clinton</name>
+<lat>37.54265</lat>
+<lng>-78.12555</lng>
+<geonameId>4753228</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>113</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>049</adminCode2>
+<adminName2>Cumberland County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Clinton%2C_Virginia</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-78.1369</west>
+<north>37.55164</north>
+<east>-78.11421</east>
+<south>37.53366</south>
+</bbox>
+<score>46.49030303955078</score>
+</geoname>
+<geoname>
+<toponymName>Clinton</toponymName>
+<name>Clinton</name>
+<lat>40.48951</lat>
+<lng>-80.29451</lng>
+<geonameId>5184621</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>434</population>
+<alternateNames/>
+<elevation>368</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PA">PA</adminCode1>
+<adminName1>Pennsylvania</adminName1>
+<adminCode2>003</adminCode2>
+<adminName2>Allegheny County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Clinton%2C_Pennsylvania</alternateName>
+<alternateName lang="post">15026</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-80.29569</west>
+<north>40.49041</north>
+<east>-80.29332</east>
+<south>40.48861</south>
+</bbox>
+<score>46.49030303955078</score>
+</geoname>
+<geoname>
+<toponymName>Clinton</toponymName>
+<name>Clinton</name>
+<lat>40.12396</lat>
+<lng>-80.62619</lng>
+<geonameId>5280183</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>295</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WV">WV</adminCode1>
+<adminName1>West Virginia</adminName1>
+<adminCode2>069</adminCode2>
+<adminName2>Ohio County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Clinton%2C_West_Virginia</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-80.63795</west>
+<north>40.13295</north>
+<east>-80.61442</east>
+<south>40.11497</south>
+</bbox>
+<score>46.49030303955078</score>
+</geoname>
+<geoname>
+<toponymName>Clinton</toponymName>
+<name>Clinton</name>
+<lat>38.37602</lat>
+<lng>-120.66826</lng>
+<geonameId>5338028</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>601</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>005</adminCode2>
+<adminName2>Amador County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Clinton%2C_California</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-120.67974</west>
+<north>38.38502</north>
+<east>-120.65679</east>
+<south>38.36703</south>
+</bbox>
+<score>46.49030303955078</score>
+</geoname>
+<geoname>
+<toponymName>Clinton</toponymName>
+<name>Clinton</name>
+<lat>41.13967</lat>
+<lng>-112.0505</lng>
+<geonameId>5773001</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>20426</population>
+<alternateNames>Klinton,Клинтон</alternateNames>
+<elevation>1339</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="UT">UT</adminCode1>
+<adminName1>Utah</adminName1>
+<adminCode2>011</adminCode2>
+<adminName2>Davis County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Clinton%2C_Utah</alternateName>
+<alternateName lang="ru">Клинтон</alternateName>
+<alternateName lang="unlc">JCL</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<bbox>
+<west>-112.07512</west>
+<north>41.15821</north>
+<east>-112.02587</east>
+<south>41.12113</south>
+</bbox>
+<score>46.49030303955078</score>
+</geoname>
+<geoname>
+<toponymName>Clinton</toponymName>
+<name>Clinton</name>
+<lat>43.61679</lat>
+<lng>-81.53307</lng>
+<geonameId>5924039</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ON">08</adminCode1>
+<adminName1>Ontario</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Clinton%2C_Ontario</alternateName>
+<alternateName lang="unlc">CLI</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Toronto</timezone>
+<bbox>
+<west>-81.54549</west>
+<north>43.62578</north>
+<east>-81.52064</east>
+<south>43.60779</south>
+</bbox>
+<score>46.49030303955078</score>
+</geoname>
+</geonames>

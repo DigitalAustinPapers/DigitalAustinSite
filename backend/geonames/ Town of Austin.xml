@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>7</totalResultsCount>
+<geoname>
+<toponymName>Town of Dustin</toponymName>
+<name>Town of Dustin</name>
+<lat>35.27121</lat>
+<lng>-96.03197</lng>
+<geonameId>7174874</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>administrative division</fcodeName>
+<population>395</population>
+<alternateNames/>
+<elevation>220</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OK">OK</adminCode1>
+<adminName1>Oklahoma</adminName1>
+<adminCode2>063</adminCode2>
+<adminName2>Hughes County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-96.03939</west>
+<north>35.27891</north>
+<east>-96.02493</east>
+<south>35.26459</south>
+</bbox>
+<score>55.316062927246094</score>
+</geoname>
+<geoname>
+<toponymName>Town of Eustis</toponymName>
+<name>Town of Eustis</name>
+<lat>45.18057</lat>
+<lng>-70.49176</lng>
+<geonameId>4963863</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>436</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ME">ME</adminCode1>
+<adminName1>Maine</adminName1>
+<adminCode2>007</adminCode2>
+<adminName2>Franklin County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>24.58492088317871</score>
+</geoname>
+<geoname>
+<toponymName>Town of Tusten</toponymName>
+<name>Town of Tusten</name>
+<lat>41.58364</lat>
+<lng>-74.983</lng>
+<geonameId>5141639</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>345</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>105</adminCode2>
+<adminName2>Sullivan County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>24.58492088317871</score>
+</geoname>
+<geoname>
+<toponymName>Town of Alston</toponymName>
+<name>Town of Alston</name>
+<lat>32.08097</lat>
+<lng>-82.47892</lng>
+<geonameId>7170517</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>administrative division</fcodeName>
+<population>159</population>
+<alternateNames/>
+<elevation>70</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">GA</adminCode1>
+<adminName1>Georgia</adminName1>
+<adminCode2>209</adminCode2>
+<adminName2>Montgomery County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-82.49477</west>
+<north>32.09523</north>
+<east>-82.46378</east>
+<south>32.06638</south>
+</bbox>
+<score>24.58492088317871</score>
+</geoname>
+<geoname>
+<toponymName>Town of Ruston</toponymName>
+<name>Town of Ruston</name>
+<lat>47.29818</lat>
+<lng>-122.51032</lng>
+<geonameId>7175003</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>administrative division</fcodeName>
+<population>749</population>
+<alternateNames/>
+<elevation>30</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WA">WA</adminCode1>
+<adminName1>Washington</adminName1>
+<adminCode2>053</adminCode2>
+<adminName2>Pierce County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-122.51571</west>
+<north>47.31002</north>
+<east>-122.48982</east>
+<south>47.29435</south>
+</bbox>
+<score>24.58492088317871</score>
+</geoname>
+<geoname>
+<toponymName>Town of Gustine</toponymName>
+<name>Town of Gustine</name>
+<lat>31.84569</lat>
+<lng>-98.40253</lng>
+<geonameId>7175131</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>administrative division</fcodeName>
+<population>476</population>
+<alternateNames/>
+<elevation>363</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>093</adminCode2>
+<adminName2>Comanche County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-98.4132</west>
+<north>31.85405</north>
+<east>-98.39188</east>
+<south>31.83727</south>
+</bbox>
+<score>24.58492088317871</score>
+</geoname>
+<geoname>
+<toponymName>Town of Busti</toponymName>
+<name>Town of Busti</name>
+<lat>42.0459</lat>
+<lng>-79.3119</lng>
+<geonameId>5110929</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>486</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>013</adminCode2>
+<adminName2>Chautauqua County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>19.857053756713867</score>
+</geoname>
+</geonames>

@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>16</totalResultsCount>
+<geoname>
+<toponymName>Chauter</toponymName>
+<name>Chauter</name>
+<lat>30.35331</lat>
+<lng>67.93954</lng>
+<geonameId>1181362</geonameId>
+<countryCode>PK</countryCode>
+<countryName>Pakistan</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Chauter,Chotair</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="BA">02</adminCode1>
+<adminName1>Balochistān</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="5.0" gmtOffset="5.0">Asia/Karachi</timezone>
+<bbox>
+<west>67.92912</west>
+<north>30.3623</north>
+<east>67.94997</east>
+<south>30.34432</south>
+</bbox>
+<score>12.983610153198242</score>
+</geoname>
+<geoname>
+<toponymName>Charter</toponymName>
+<name>Charter</name>
+<lat>-20.54136</lat>
+<lng>29.25532</lng>
+<geonameId>7506558</geonameId>
+<countryCode>ZW</countryCode>
+<countryName>Zimbabwe</countryName>
+<fcl>S</fcl>
+<fcode>MN</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>mine(s)</fcodeName>
+<population/>
+<alternateNames>Charter</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="MS">07</adminCode1>
+<adminName1>Matabeleland South</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Charter</alternateName>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Harare</timezone>
+<score>10.8010835647583</score>
+</geoname>
+<geoname>
+<toponymName>Charter</toponymName>
+<name>Charter</name>
+<lat>-20.54004</lat>
+<lng>29.09462</lng>
+<geonameId>7506564</geonameId>
+<countryCode>ZW</countryCode>
+<countryName>Zimbabwe</countryName>
+<fcl>S</fcl>
+<fcode>FRM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farm</fcodeName>
+<population/>
+<alternateNames>Charter</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="MS">07</adminCode1>
+<adminName1>Matabeleland South</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Charter</alternateName>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Harare</timezone>
+<score>10.8010835647583</score>
+</geoname>
+<geoname>
+<toponymName>Chartes</toponymName>
+<name>Chartes</name>
+<lat>18.63333</lat>
+<lng>-74.28333</lng>
+<geonameId>3727848</geonameId>
+<countryCode>HT</countryCode>
+<countryName>Haiti</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">14</adminCode1>
+<adminName1>GrandʼAnse</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Port-au-Prince</timezone>
+<bbox>
+<west>-74.29282</west>
+<north>18.64233</north>
+<east>-74.27384</east>
+<south>18.62434</south>
+</bbox>
+<score>10.601073265075684</score>
+</geoname>
+<geoname>
+<toponymName>Charier</toponymName>
+<name>Charier</name>
+<lat>19.72611</lat>
+<lng>-72.24</lng>
+<geonameId>3727896</geonameId>
+<countryCode>HT</countryCode>
+<countryName>Haiti</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ND">09</adminCode1>
+<adminName1>Nord</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Port-au-Prince</timezone>
+<score>10.078911781311035</score>
+</geoname>
+<geoname>
+<toponymName>Charters</toponymName>
+<name>Charters</name>
+<lat>38.57369</lat>
+<lng>-83.43324</lng>
+<geonameId>4287570</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>178</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>135</adminCode2>
+<adminName2>Lewis County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-83.44475</west>
+<north>38.58268</north>
+<east>-83.42174</east>
+<south>38.56469</south>
+</bbox>
+<score>9.7164306640625</score>
+</geoname>
+<geoname>
+<toponymName>Charters</toponymName>
+<name>Charters</name>
+<lat>47.55016</lat>
+<lng>-80.71646</lng>
+<geonameId>5920339</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ON">08</adminCode1>
+<adminName1>Ontario</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Toronto</timezone>
+<score>9.7164306640625</score>
+</geoname>
+<geoname>
+<toponymName>Chahār Tīr</toponymName>
+<name>Chahār Tīr</name>
+<lat>33.29953</lat>
+<lng>67.22745</lng>
+<geonameId>1450478</geonameId>
+<countryCode>AF</countryCode>
+<countryName>Afghanistan</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Cartir,Chahar Tir,Chahār Tīr,Chartir,Chāṟtīṟ,chhar tyr,Čārtīr,چهار تیر</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="GHA">08</adminCode1>
+<adminName1>Ghaznī</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="4.5" gmtOffset="4.5">Asia/Kabul</timezone>
+<bbox>
+<west>67.21669</west>
+<north>33.30852</north>
+<east>67.23821</east>
+<south>33.29054</south>
+</bbox>
+<score>7.950804710388184</score>
+</geoname>
+<geoname>
+<toponymName>Charters</toponymName>
+<name>Charters</name>
+<lat>6.13839</lat>
+<lng>-58.26333</lng>
+<geonameId>3379138</geonameId>
+<countryCode>GY</countryCode>
+<countryName>Guyana</countryName>
+<fcl>S</fcl>
+<fcode>EST</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>estate(s)</fcodeName>
+<population/>
+<alternateNames>Charters,Lot 46,Suyd Beveland</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="ES">14</adminCode1>
+<adminName1>Essequibo Islands-West Demerara</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Guyana</timezone>
+<score>7.437592506408691</score>
+</geoname>
+<geoname>
+<toponymName>Charrier</toponymName>
+<name>Charrier</name>
+<lat>18.95</lat>
+<lng>-72.35</lng>
+<geonameId>3727855</geonameId>
+<countryCode>HT</countryCode>
+<countryName>Haiti</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Charier,Charrier</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">06</adminCode1>
+<adminName1>Artibonite</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Port-au-Prince</timezone>
+<bbox>
+<west>-72.35951</west>
+<north>18.95899</north>
+<east>-72.34049</east>
+<south>18.94101</south>
+</bbox>
+<score>7.126867294311523</score>
+</geoname>
+</geonames>

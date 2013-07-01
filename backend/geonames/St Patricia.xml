@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>St. Patricks</toponymName>
+<name>St. Patricks</name>
+<lat>13.1</lat>
+<lng>-59.5</lng>
+<geonameId>3373496</geonameId>
+<countryCode>BB</countryCode>
+<countryName>Barbados</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="01">01</adminCode1>
+<adminName1>Christ Church</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Barbados</timezone>
+<bbox>
+<west>-59.50923</west>
+<north>13.10899</north>
+<east>-59.49077</east>
+<south>13.09101</south>
+</bbox>
+<score>43.39418029785156</score>
+</geoname>
+<geoname>
+<toponymName>St. Patricks</toponymName>
+<name>St. Patricks</name>
+<lat>49.56666</lat>
+<lng>-55.98149</lng>
+<geonameId>6157789</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NL">05</adminCode1>
+<adminName1>Newfoundland and Labrador</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-2.5" gmtOffset="-3.5">America/St_Johns</timezone>
+<score>43.39418029785156</score>
+</geoname>
+<geoname>
+<toponymName>St Patricks</toponymName>
+<name>St Patricks</name>
+<lat>-45.7984</lat>
+<lng>168.51008</lng>
+<geonameId>6204955</geonameId>
+<countryCode>NZ</countryCode>
+<countryName>New Zealand</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="STL">F8</adminCode1>
+<adminName1>Southland Region</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="12.0" gmtOffset="13.0">Pacific/Auckland</timezone>
+<score>43.39418029785156</score>
+</geoname>
+<geoname>
+<toponymName>St. Patricks</toponymName>
+<name>St. Patricks</name>
+<lat>46.40012</lat>
+<lng>-63.382</lng>
+<geonameId>6157790</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>P</fcl>
+<fcode>PPLL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PE">09</adminCode1>
+<adminName1>Prince Edward Island</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-3.0" gmtOffset="-4.0">America/Halifax</timezone>
+<bbox>
+<west>-63.3833</west>
+<north>46.40102</north>
+<east>-63.38069</east>
+<south>46.39922</south>
+</bbox>
+<score>27.121362686157227</score>
+</geoname>
+</geonames>

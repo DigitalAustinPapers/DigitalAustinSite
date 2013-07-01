@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Mihai Viteazu</toponymName>
+<name>Mihai Viteazu</name>
+<lat>47.9285</lat>
+<lng>26.78267</lng>
+<geonameId>673364</geonameId>
+<countryCode>RO</countryCode>
+<countryName>Romania</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>519</population>
+<alternateNames>Colonisti,Colonişti,Mihai Viteasu,Mihai Viteazu</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="BT">07</adminCode1>
+<adminName1>Botoşani</adminName1>
+<adminCode2>39417</adminCode2>
+<adminName2>Comuna Ungureni</adminName2>
+<timezone dstOffset="3.0" gmtOffset="2.0">Europe/Bucharest</timezone>
+<bbox>
+<west>26.78133</west>
+<north>47.9294</north>
+<east>26.78401</east>
+<south>47.9276</south>
+</bbox>
+<score>44.025325775146484</score>
+</geoname>
+<geoname>
+<toponymName>Colonişti</toponymName>
+<name>Colonişti</name>
+<lat>44.45</lat>
+<lng>26.16667</lng>
+<geonameId>681060</geonameId>
+<countryCode>RO</countryCode>
+<countryName>Romania</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="3.0" gmtOffset="2.0">Europe/Bucharest</timezone>
+<bbox>
+<west>26.16163</west>
+<north>44.4536</north>
+<east>26.17171</east>
+<south>44.4464</south>
+</bbox>
+<score>27.51582908630371</score>
+</geoname>
+<geoname>
+<toponymName>Colonişti</toponymName>
+<name>Colonişti</name>
+<lat>44.41667</lat>
+<lng>27.8</lng>
+<geonameId>681061</geonameId>
+<countryCode>RO</countryCode>
+<countryName>Romania</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="3.0" gmtOffset="2.0">Europe/Bucharest</timezone>
+<bbox>
+<west>27.79496</west>
+<north>44.42026</north>
+<east>27.80504</east>
+<south>44.41307</south>
+</bbox>
+<score>27.51582908630371</score>
+</geoname>
+</geonames>

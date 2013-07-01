@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>12</totalResultsCount>
+<geoname>
+<toponymName>Caledonia</toponymName>
+<name>Caledonia</name>
+<lat>42.36946</lat>
+<lng>-88.8926</lng>
+<geonameId>4886237</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>197</population>
+<alternateNames>Kaledonija,Каледония</alternateNames>
+<elevation>283</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>007</adminCode2>
+<adminName2>Boone County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Caledonia%2C_Illinois</alternateName>
+<alternateName lang="post">61011</alternateName>
+<alternateName lang="ru">Каледония</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-88.89382</west>
+<north>42.37036</north>
+<east>-88.89139</east>
+<south>42.36856</south>
+</bbox>
+<score>5.175332546234131</score>
+</geoname>
+<geoname>
+<toponymName>Township of Caledonia</toponymName>
+<name>Caledonia Township</name>
+<lat>42.37074</lat>
+<lng>-88.90093</lng>
+<geonameId>4886243</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>administrative division</fcodeName>
+<population/>
+<alternateNames>Caledonia Township</alternateNames>
+<elevation>279</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>007</adminCode2>
+<adminName2>Boone County</adminName2>
+<alternateName lang="en">Caledonia Township</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Caledonia_Township%2C_Boone_County%2C_Illinois</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>4.78687858581543</score>
+</geoname>
+<geoname>
+<toponymName>Village of Caledonia</toponymName>
+<name>Village of Caledonia</name>
+<lat>42.36689</lat>
+<lng>-88.89546</lng>
+<geonameId>7165292</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>administrative division</fcodeName>
+<population>197</population>
+<alternateNames/>
+<elevation>289</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>007</adminCode2>
+<adminName2>Boone County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-88.91043</west>
+<north>42.37839</north>
+<east>-88.8805</east>
+<south>42.3629</south>
+</bbox>
+<score>4.528415679931641</score>
+</geoname>
+<geoname>
+<toponymName>Caledonia (historical)</toponymName>
+<name>Caledonia (historical)</name>
+<lat>41.11837</lat>
+<lng>-89.25036</lng>
+<geonameId>4886238</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLQ</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>abandoned populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>211</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>155</adminCode2>
+<adminName2>Putnam County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-89.25275</west>
+<north>41.12017</north>
+<east>-89.24798</east>
+<south>41.11657</south>
+</bbox>
+<score>2.2642078399658203</score>
+</geoname>
+<geoname>
+<toponymName>North Caledonia (historical)</toponymName>
+<name>North Caledonia (historical)</name>
+<lat>42.36946</lat>
+<lng>-88.8926</lng>
+<geonameId>4903852</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLQ</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>abandoned populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>284</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>007</adminCode2>
+<adminName2>Boone County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-88.89504</west>
+<north>42.37126</north>
+<east>-88.89017</east>
+<south>42.36766</south>
+</bbox>
+<score>1.6172914505004883</score>
+</geoname>
+<geoname>
+<toponymName>Caledonia Campground</toponymName>
+<name>Caledonia Campground</name>
+<lat>37.1745</lat>
+<lng>-89.08591</lng>
+<geonameId>4235008</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>CMP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>camp(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>107</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>153</adminCode2>
+<adminName2>Pulaski County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>1.1321039199829102</score>
+</geoname>
+<geoname>
+<toponymName>Caledonia Landing</toponymName>
+<name>Caledonia Landing</name>
+<lat>37.17922</lat>
+<lng>-89.07202</lng>
+<geonameId>4235010</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>91</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>153</adminCode2>
+<adminName2>Pulaski County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>1.1321039199829102</score>
+</geoname>
+<geoname>
+<toponymName>Caledonia Cemetery</toponymName>
+<name>Caledonia Cemetery</name>
+<lat>41.12948</lat>
+<lng>-89.24953</lng>
+<geonameId>4886239</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>CMTY</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>cemetery</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>202</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>155</adminCode2>
+<adminName2>Putnam County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>1.1321039199829102</score>
+</geoname>
+<geoname>
+<toponymName>Caledonia Cemetery</toponymName>
+<name>Caledonia Cemetery</name>
+<lat>38.12505</lat>
+<lng>-89.67982</lng>
+<geonameId>4235009</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>CMTY</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>cemetery</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>153</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>157</adminCode2>
+<adminName2>Randolph County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>0.9703748226165771</score>
+</geoname>
+<geoname>
+<toponymName>Caledonia Junction (historical)</toponymName>
+<name>Caledonia Junction (historical)</name>
+<lat>42.36557</lat>
+<lng>-88.8851</lng>
+<geonameId>4886241</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>280</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>007</adminCode2>
+<adminName2>Boone County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>0.9703748226165771</score>
+</geoname>
+</geonames>

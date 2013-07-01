@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Nation</toponymName>
+<name>Nation</name>
+<lat>48.84896</lat>
+<lng>2.39835</lng>
+<geonameId>6545268</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="J">A8</adminCode1>
+<adminName1>Île-de-France</adminName1>
+<adminCode2>75</adminCode2>
+<adminName2>Paris</adminName2>
+<adminCode3>751</adminCode3>
+<adminName3>Paris</adminName3>
+<adminCode4>75056</adminCode4>
+<adminName4>Paris</adminName4>
+<adminCode5>75111</adminCode5>
+<adminName5>Paris</adminName5>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>2.39288</west>
+<north>48.85256</north>
+<east>2.40381</east>
+<south>48.84536</south>
+</bbox>
+<score>28.024383544921875</score>
+</geoname>
+<geoname>
+<toponymName>Nation</toponymName>
+<name>Nation</name>
+<lat>48.84842</lat>
+<lng>2.39588</lng>
+<geonameId>6295669</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>R</fcl>
+<fcode>RJCT</fcode>
+<fclName>road, railroad </fclName>
+<fcodeName>railroad junction</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="J">A8</adminCode1>
+<adminName1>Île-de-France</adminName1>
+<adminCode2>75</adminCode2>
+<adminName2>Paris</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Nation_%28Paris_M%C3%A9tro_and_RER%29</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<score>22.419506072998047</score>
+</geoname>
+</geonames>

@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>68</totalResultsCount>
+<geoname>
+<toponymName>Charleston</toponymName>
+<name>Charleston</name>
+<lat>32.77657</lat>
+<lng>-79.93092</lng>
+<geonameId>4574324</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>120083</population>
+<alternateNames>Carolopolis,Charl'ston,Charleston,Charleston i Sor-Carolina,Charleston i Sør-Carolina,Charlston,Charlstun,cha er si dun,chalseuteon,charlstwn, karwlynay jnwby,charusuton,tsharlstwn, karwlayna aljnwbyt,Чарлстон,Чарлстън,Чарльстон,צ'ארלסטון,تشارلستون، كارولاينا الجنوبية,چارلستون، کارولینای جنوبی,チャールストン,查尔斯顿,찰스턴</alternateNames>
+<elevation>6</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SC">SC</adminCode1>
+<adminName1>South Carolina</adminName1>
+<adminCode2>019</adminCode2>
+<adminName2>Charleston County</adminName2>
+<alternateName lang="ar">تشارلستون، كارولاينا الجنوبية</alternateName>
+<alternateName lang="bg">Чарлстън</alternateName>
+<alternateName lang="da">Charleston</alternateName>
+<alternateName lang="de">Charleston</alternateName>
+<alternateName lang="en">Charleston</alternateName>
+<alternateName lang="fa">چارلستون، کارولینای جنوبی</alternateName>
+<alternateName lang="fi">Charleston</alternateName>
+<alternateName lang="fr">Charleston</alternateName>
+<alternateName lang="he">צ'ארלסטון</alternateName>
+<alternateName lang="ja">チャールストン</alternateName>
+<alternateName lang="ko">찰스턴</alternateName>
+<alternateName lang="la">Carolopolis</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Charleston%2C_South_Carolina</alternateName>
+<alternateName lang="nn">Charleston i Sør-Carolina</alternateName>
+<alternateName lang="no">Charleston</alternateName>
+<alternateName lang="pl">Charleston</alternateName>
+<alternateName lang="post">29414</alternateName>
+<alternateName lang="pt">Charleston</alternateName>
+<alternateName lang="ru">Чарлстон</alternateName>
+<alternateName lang="sr">Чарлстон</alternateName>
+<alternateName lang="sv">Charleston</alternateName>
+<alternateName lang="uk">Чарлстон</alternateName>
+<alternateName lang="zh">查尔斯顿</alternateName>
+<alternateName lang="zh-CN">查尔斯顿</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-79.98443</west>
+<north>32.82153</north>
+<east>-79.87741</east>
+<south>32.7316</south>
+</bbox>
+<score>100.43468475341797</score>
+</geoname>
+<geoname>
+<toponymName>Charleston</toponymName>
+<name>Charleston</name>
+<lat>38.34982</lat>
+<lng>-81.63262</lng>
+<geonameId>4801859</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population>51400</population>
+<alternateNames>CRW,Carlstona,Carlstonas,Carolopolis,Charleston,Charleston i Vest-Virginia,Charlston,Charlstun,carlstan,carlstana,cha er si dun,chalseuteon,charlstwn,charusuton,tsharlstwn, fyrjynya alghrbyt,Čarlstonas,Čārlstona,Чарлстон,Чарлстън,Չարլսթոն,צ'ארלסטון,تشارلستون، فيرجينيا الغربية,چارلستون,چارلسٹن,चार्ल्स्टन,சார்ல்ஸ்டன்,チャールストン,查尔斯顿,찰스턴</alternateNames>
+<elevation>182</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WV">WV</adminCode1>
+<adminName1>West Virginia</adminName1>
+<adminCode2>039</adminCode2>
+<adminName2>Kanawha County</adminName2>
+<alternateName lang="ar">تشارلستون، فيرجينيا الغربية</alternateName>
+<alternateName lang="bg">Чарлстън</alternateName>
+<alternateName lang="da">Charleston</alternateName>
+<alternateName lang="de">Charleston</alternateName>
+<alternateName lang="en">Charleston</alternateName>
+<alternateName lang="eo">Charleston</alternateName>
+<alternateName lang="es">Charleston</alternateName>
+<alternateName lang="fa">چارلستون</alternateName>
+<alternateName lang="fi">Charleston</alternateName>
+<alternateName lang="fr">Charleston</alternateName>
+<alternateName lang="he">צ'ארלסטון</alternateName>
+<alternateName lang="hy">Չարլսթոն</alternateName>
+<alternateName lang="iata">CRW</alternateName>
+<alternateName lang="id">Charleston</alternateName>
+<alternateName lang="io">Charleston</alternateName>
+<alternateName lang="it">Charleston</alternateName>
+<alternateName lang="ja">チャールストン</alternateName>
+<alternateName lang="ko">찰스턴</alternateName>
+<alternateName lang="kw">Charleston</alternateName>
+<alternateName lang="la">Carolopolis</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Charleston%2C_West_Virginia</alternateName>
+<alternateName lang="lt">Čarlstonas</alternateName>
+<alternateName lang="lv">Čārlstona</alternateName>
+<alternateName lang="mk">Чарлстон</alternateName>
+<alternateName lang="mr">चार्ल्स्टन</alternateName>
+<alternateName lang="mrj">Чарлстон</alternateName>
+<alternateName lang="nl">Charleston</alternateName>
+<alternateName lang="nn">Charleston i Vest-Virginia</alternateName>
+<alternateName lang="no">Charleston</alternateName>
+<alternateName lang="oc">Charleston</alternateName>
+<alternateName lang="os">Чарлстон</alternateName>
+<alternateName lang="pl">Charleston</alternateName>
+<alternateName lang="pnb">چارلسٹن</alternateName>
+<alternateName lang="post">25332</alternateName>
+<alternateName lang="pt">Charleston</alternateName>
+<alternateName lang="ru">Чарлстон</alternateName>
+<alternateName lang="sr">Чарлстон</alternateName>
+<alternateName lang="sv">Charleston</alternateName>
+<alternateName lang="ta">சார்ல்ஸ்டன்</alternateName>
+<alternateName lang="uk">Чарлстон</alternateName>
+<alternateName lang="unlc">CRW</alternateName>
+<alternateName lang="zh">查尔斯顿</alternateName>
+<alternateName lang="zh-CN">查尔斯顿</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-81.72778</west>
+<north>38.40576</north>
+<east>-81.5593</east>
+<south>38.28114</south>
+</bbox>
+<score>91.09477996826172</score>
+</geoname>
+<geoname>
+<toponymName>Charlestown</toponymName>
+<name>Charlestown</name>
+<lat>17.13333</lat>
+<lng>-62.61667</lng>
+<geonameId>3575479</geonameId>
+<countryCode>KN</countryCode>
+<countryName>Saint Kitts and Nevis</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1538</population>
+<alternateNames>Charlestown,NEV</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="10">10</adminCode1>
+<adminName1>Saint Paul Charlestown</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="iata">NEV</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Charlestown%2C_Saint_Kitts_and_Nevis</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/St_Kitts</timezone>
+<bbox>
+<west>-62.62137</west>
+<north>17.13783</north>
+<east>-62.61196</east>
+<south>17.12884</south>
+</bbox>
+<score>65.32442474365234</score>
+</geoname>
+<geoname>
+<toponymName>Charleston</toponymName>
+<name>Charleston</name>
+<lat>39.49615</lat>
+<lng>-88.17615</lng>
+<geonameId>4235668</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>21838</population>
+<alternateNames>Charlston,Чарлстон</alternateNames>
+<elevation>204</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>029</adminCode2>
+<adminName2>Coles County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Charleston%2C_Illinois</alternateName>
+<alternateName lang="post">61920</alternateName>
+<alternateName lang="ru">Чарлстон</alternateName>
+<alternateName lang="sr">Чарлстон</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-88.20088</west>
+<north>39.51522</north>
+<east>-88.15142</east>
+<south>39.47707</south>
+</bbox>
+<score>52.601959228515625</score>
+</geoname>
+<geoname>
+<toponymName>Charleston</toponymName>
+<name>Charleston</name>
+<lat>35.29704</lat>
+<lng>-94.03632</lng>
+<geonameId>4105377</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2494</population>
+<alternateNames>Charlston,Чарлстон</alternateNames>
+<elevation>158</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">AR</adminCode1>
+<adminName1>Arkansas</adminName1>
+<adminCode2>047</adminCode2>
+<adminName2>Franklin County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Charleston%2C_Arkansas</alternateName>
+<alternateName lang="post">72933</alternateName>
+<alternateName lang="ru">Чарлстон</alternateName>
+<alternateName lang="unlc">ZB4</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-94.04411</west>
+<north>35.30339</north>
+<east>-94.02852</east>
+<south>35.29068</south>
+</bbox>
+<score>48.82552719116211</score>
+</geoname>
+<geoname>
+<toponymName>Charleston</toponymName>
+<name>Charleston</name>
+<lat>34.00678</lat>
+<lng>-90.05676</lng>
+<geonameId>4421338</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2193</population>
+<alternateNames>Charlston,Чарлстон</alternateNames>
+<elevation>66</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MS">MS</adminCode1>
+<adminName1>Mississippi</adminName1>
+<adminCode2>135</adminCode2>
+<adminName2>Tallahatchie County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Charleston%2C_Mississippi</alternateName>
+<alternateName lang="post">38921</alternateName>
+<alternateName lang="ru">Чарлстон</alternateName>
+<alternateName lang="unlc">HRS</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.06218</west>
+<north>34.01128</north>
+<east>-90.05133</east>
+<south>34.00228</south>
+</bbox>
+<score>48.82552719116211</score>
+</geoname>
+<geoname>
+<toponymName>Charleston</toponymName>
+<name>Charleston</name>
+<lat>45.08506</lat>
+<lng>-69.04059</lng>
+<geonameId>4960682</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1452</population>
+<alternateNames>Charlston,Чарлстон</alternateNames>
+<elevation>149</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ME">ME</adminCode1>
+<adminName1>Maine</adminName1>
+<adminCode2>019</adminCode2>
+<adminName2>Penobscot County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Charleston%2C_Maine</alternateName>
+<alternateName lang="post">04422</alternateName>
+<alternateName lang="ru">Чарлстон</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-69.04696</west>
+<north>45.08956</north>
+<east>-69.03423</east>
+<south>45.08056</south>
+</bbox>
+<score>48.82552719116211</score>
+</geoname>
+<geoname>
+<toponymName>Charleston</toponymName>
+<name>Charleston</name>
+<lat>40.46634</lat>
+<lng>-111.46991</lng>
+<geonameId>5772720</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>415</population>
+<alternateNames>Charlston,Чарлстон</alternateNames>
+<elevation>1658</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="UT">UT</adminCode1>
+<adminName1>Utah</adminName1>
+<adminCode2>051</adminCode2>
+<adminName2>Wasatch County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Charleston%2C_Utah</alternateName>
+<alternateName lang="ru">Чарлстон</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<bbox>
+<west>-111.47109</west>
+<north>40.46724</north>
+<east>-111.46873</east>
+<south>40.46545</south>
+</bbox>
+<score>48.82552719116211</score>
+</geoname>
+<geoname>
+<toponymName>Charleston</toponymName>
+<name>Charleston</name>
+<lat>36.92089</lat>
+<lng>-89.35063</lng>
+<geonameId>4380997</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>5947</population>
+<alternateNames>Charlston,Чарлстон</alternateNames>
+<elevation>98</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>133</adminCode2>
+<adminName2>Mississippi County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Charleston%2C_Missouri</alternateName>
+<alternateName lang="post">63834</alternateName>
+<alternateName lang="ru">Чарлстон</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-89.36188</west>
+<north>36.92988</north>
+<east>-89.33938</east>
+<south>36.91189</south>
+</bbox>
+<score>39.0604248046875</score>
+</geoname>
+<geoname>
+<toponymName>Charleston</toponymName>
+<name>Charleston</name>
+<lat>35.2873</lat>
+<lng>-84.75827</lng>
+<geonameId>4612805</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>651</population>
+<alternateNames>Charlston,Чарлстон</alternateNames>
+<elevation>222</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TN">TN</adminCode1>
+<adminName1>Tennessee</adminName1>
+<adminCode2>011</adminCode2>
+<adminName2>Bradley County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Charleston%2C_Tennessee</alternateName>
+<alternateName lang="post">37310</alternateName>
+<alternateName lang="ru">Чарлстон</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-84.75938</west>
+<north>35.28819</north>
+<east>-84.75717</east>
+<south>35.2864</south>
+</bbox>
+<score>39.0604248046875</score>
+</geoname>
+</geonames>

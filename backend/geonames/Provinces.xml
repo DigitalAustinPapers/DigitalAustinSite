@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Provinces</toponymName>
+<name>Provinces</name>
+<lat>39.13733</lat>
+<lng>-76.72941</lng>
+<geonameId>4366232</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>64</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MD">MD</adminCode1>
+<adminName1>Maryland</adminName1>
+<adminCode2>003</adminCode2>
+<adminName2>Anne Arundel County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-76.74101</west>
+<north>39.14632</north>
+<east>-76.71782</east>
+<south>39.12834</south>
+</bbox>
+<score>43.057884216308594</score>
+</geoname>
+<geoname>
+<toponymName>Province</toponymName>
+<name>Province</name>
+<lat>18.43333</lat>
+<lng>-72.83333</lng>
+<geonameId>3718298</geonameId>
+<countryCode>HT</countryCode>
+<countryName>Haiti</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OU">11</adminCode1>
+<adminName1>Ouest</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Port-au-Prince</timezone>
+<bbox>
+<west>-72.84281</west>
+<north>18.44233</north>
+<east>-72.82385</east>
+<south>18.42434</south>
+</bbox>
+<score>16.146705627441406</score>
+</geoname>
+</geonames>

@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>9</totalResultsCount>
+<geoname>
+<toponymName>Kutay</toponymName>
+<name>Kutay</name>
+<lat>31.28959</lat>
+<lng>67.30127</lng>
+<geonameId>1135603</geonameId>
+<countryCode>AF</countryCode>
+<countryName>Afghanistan</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Kotay,Kutay,kty,کتی</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="KAN">23</adminCode1>
+<adminName1>Kandahār</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="4.5" gmtOffset="4.5">Asia/Kabul</timezone>
+<bbox>
+<west>67.29075</west>
+<north>31.29858</north>
+<east>67.3118</east>
+<south>31.28059</south>
+</bbox>
+<score>41.43366241455078</score>
+</geoname>
+<geoname>
+<toponymName>Kęty</toponymName>
+<name>Kęty</name>
+<lat>49.88214</lat>
+<lng>19.22333</lng>
+<geonameId>3096328</geonameId>
+<countryCode>PL</countryCode>
+<countryName>Poland</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>19249</population>
+<alternateNames>Kety,Kęty</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="MA">77</adminCode1>
+<adminName1>Lesser Poland Voivodeship</adminName1>
+<adminCode2>1213</adminCode2>
+<adminName2>Powiat oświęcimski</adminName2>
+<adminCode3>121304</adminCode3>
+<adminName3>Kęty</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/K%C4%99ty</alternateName>
+<alternateName lang="unlc">KTY</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Warsaw</timezone>
+<bbox>
+<west>19.1954</west>
+<north>49.90012</north>
+<east>19.25125</east>
+<south>49.86415</south>
+</bbox>
+<score>36.622528076171875</score>
+</geoname>
+<geoname>
+<toponymName>Sonora</toponymName>
+<name>Sonora</name>
+<lat>37.52423</lat>
+<lng>-85.89302</lng>
+<geonameId>4308931</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>513</population>
+<alternateNames/>
+<elevation>221</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>093</adminCode2>
+<adminName2>Hardin County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Sonora%2C_Kentucky</alternateName>
+<alternateName lang="post">42776</alternateName>
+<alternateName lang="unlc">KTY</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-85.89415</west>
+<north>37.52513</north>
+<east>-85.89189</east>
+<south>37.52333</south>
+</bbox>
+<score>36.622528076171875</score>
+</geoname>
+<geoname>
+<toponymName>Katukurunda</toponymName>
+<name>Katukurunda</name>
+<lat>6.55639</lat>
+<lng>79.9822</lng>
+<geonameId>8299039</geonameId>
+<countryCode>LK</countryCode>
+<countryName>Sri Lanka</countryName>
+<fcl>S</fcl>
+<fcode>AIRP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>airport</fcodeName>
+<population/>
+<alternateNames>KTY</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1/>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="iata">KTY</alternateName>
+<timezone dstOffset="5.5" gmtOffset="5.5">Asia/Colombo</timezone>
+<score>36.622528076171875</score>
+</geoname>
+<geoname>
+<toponymName>Kitī</toponymName>
+<name>Kitī</name>
+<lat>33.55647</lat>
+<lng>65.70195</lng>
+<geonameId>1135872</geonameId>
+<countryCode>AF</countryCode>
+<countryName>Afghanistan</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames>Kiti,Kitī,kty,کتی</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="DAY">41</adminCode1>
+<adminName1>Wilāyat-e Dāykundī</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="4.5" gmtOffset="4.5">Asia/Kabul</timezone>
+<score>36.25445556640625</score>
+</geoname>
+<geoname>
+<toponymName>Kütahya</toponymName>
+<name>Kütahya</name>
+<lat>39.42417</lat>
+<lng>29.98333</lng>
+<geonameId>305268</geonameId>
+<countryCode>TR</countryCode>
+<countryName>Turkey</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population>185008</population>
+<alternateNames>Cotiaeum,Cotyaeum,KZR,Kjutakh'ja,Kuetahya,Kutahiyah,Kutahya,Kutaia,Kutaya,Kütahya,Кютахья</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="43">43</adminCode1>
+<adminName1>Kütahya</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="de">Kütahya</alternateName>
+<alternateName lang="en">Kütahya</alternateName>
+<alternateName lang="eo">Kütahya</alternateName>
+<alternateName lang="fr">Kütahya</alternateName>
+<alternateName lang="iata">KZR</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/K%C3%BCtahya</alternateName>
+<alternateName lang="pl">Kütahya</alternateName>
+<alternateName lang="ru">Кютахья</alternateName>
+<alternateName lang="sv">Kütahya</alternateName>
+<alternateName lang="tr">Kütahya</alternateName>
+<alternateName lang="unlc">KTY</alternateName>
+<timezone dstOffset="3.0" gmtOffset="2.0">Europe/Istanbul</timezone>
+<bbox>
+<west>29.91103</west>
+<north>39.47997</north>
+<east>30.05563</east>
+<south>39.36836</south>
+</bbox>
+<score>29.298023223876953</score>
+</geoname>
+<geoname>
+<toponymName>Khatyrka</toponymName>
+<name>Khatyrka</name>
+<lat>62.06221</lat>
+<lng>175.28804</lng>
+<geonameId>2124718</geonameId>
+<countryCode>RU</countryCode>
+<countryName>Russia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>375</population>
+<alternateNames>Khatyrka,Хатырка</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="CHU">15</adminCode1>
+<adminName1>Chukotskiy Avtonomnyy Okrug</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Khatyrka</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Khatyrka</alternateName>
+<alternateName lang="no">Khatyrka</alternateName>
+<alternateName lang="ru">Хатырка</alternateName>
+<alternateName lang="unlc">KTY</alternateName>
+<timezone dstOffset="12.0" gmtOffset="12.0">Asia/Anadyr</timezone>
+<bbox>
+<west>175.28612</west>
+<north>62.06311</north>
+<east>175.28996</east>
+<south>62.06131</south>
+</bbox>
+<score>29.298023223876953</score>
+</geoname>
+<geoname>
+<toponymName>Katī</toponymName>
+<name>Katī</name>
+<lat>26.3576</lat>
+<lng>59.8504</lng>
+<geonameId>133886</geonameId>
+<countryCode>IR</countryCode>
+<countryName>Iran</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Gati Pa'in,Gati-ye Pa'in,Gatī Pā’īn,Gatī-ye Pā’īn,Kati,Katī,kty,کتی</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="13">04</adminCode1>
+<adminName1>Sīstān va Balūchestān</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="fa">کتی</alternateName>
+<timezone dstOffset="4.5" gmtOffset="3.5">Asia/Tehran</timezone>
+<bbox>
+<west>59.84036</west>
+<north>26.36659</north>
+<east>59.86044</east>
+<south>26.34861</south>
+</bbox>
+<score>25.896038055419922</score>
+</geoname>
+<geoname>
+<toponymName>Khlong Toei</toponymName>
+<name>Khlong Toei</name>
+<lat>13.71668</lat>
+<lng>100.57159</lng>
+<geonameId>6908641</geonameId>
+<countryCode>TH</countryCode>
+<countryName>Thailand</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population/>
+<alternateNames>Khlong Toei,khlxngtey,คลองเตย</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="10">40</adminCode1>
+<adminName1>Bangkok</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="th">คลองเตย</alternateName>
+<alternateName lang="unlc">KTY</alternateName>
+<timezone dstOffset="7.0" gmtOffset="7.0">Asia/Bangkok</timezone>
+<bbox>
+<west>100.55307</west>
+<north>13.73467</north>
+<east>100.59011</east>
+<south>13.6987</south>
+</bbox>
+<score>14.649011611938477</score>
+</geoname>
+</geonames>

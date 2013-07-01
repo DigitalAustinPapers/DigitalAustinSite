@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Nursery</toponymName>
+<name>Nursery</name>
+<lat>49.01649</lat>
+<lng>-118.40229</lng>
+<geonameId>6091756</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="BC">02</adminCode1>
+<adminName1>British Columbia</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Nursery%2C_British_Columbia</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Vancouver</timezone>
+<score>64.09916687011719</score>
+</geoname>
+<geoname>
+<toponymName>Nursery</toponymName>
+<name>Nursery</name>
+<lat>28.9236</lat>
+<lng>-97.0986</lng>
+<geonameId>4715697</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>40</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>469</adminCode2>
+<adminName2>Victoria County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Nursery%2C_Texas</alternateName>
+<alternateName lang="post">77976</alternateName>
+<alternateName lang="unlc">NFU</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-97.10888</west>
+<north>28.93259</north>
+<east>-97.08832</east>
+<south>28.9146</south>
+</bbox>
+<score>53.415977478027344</score>
+</geoname>
+<geoname>
+<toponymName>Nursery</toponymName>
+<name>Nursery</name>
+<lat>5.93333</lat>
+<lng>-56.96667</lng>
+<geonameId>3383404</geonameId>
+<countryCode>SR</countryCode>
+<countryName>Suriname</countryName>
+<fcl>T</fcl>
+<fcode>PLDR</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>polder</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="NI">14</adminCode1>
+<adminName1>Nickerie</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Paramaribo</timezone>
+<score>42.73278045654297</score>
+</geoname>
+<geoname>
+<toponymName>Nursery</toponymName>
+<name>Nursery</name>
+<lat>28.12047</lat>
+<lng>83.70626</lng>
+<geonameId>7978520</geonameId>
+<countryCode>NP</countryCode>
+<countryName>Nepal</countryName>
+<fcl>P</fcl>
+<fcode>PPLL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="3">WR</adminCode1>
+<adminName1>Western Region</adminName1>
+<adminCode2>03</adminCode2>
+<adminName2>Dhawalāgiri Zone</adminName2>
+<adminCode3>44</adminCode3>
+<adminName3>Parbat</adminName3>
+<adminCode4>440022</adminCode4>
+<adminName4>Falamkhani</adminName4>
+<adminCode5>44002208</adminCode5>
+<adminName5>Falamkhani</adminName5>
+<timezone dstOffset="5.75" gmtOffset="5.75">Asia/Kathmandu</timezone>
+<bbox>
+<west>83.70524</west>
+<north>28.12137</north>
+<east>83.70728</east>
+<south>28.11957</south>
+</bbox>
+<score>26.707988739013672</score>
+</geoname>
+<geoname>
+<toponymName>Nursey</toponymName>
+<name>Nursey</name>
+<lat>47.90015</lat>
+<lng>-81.41651</lng>
+<geonameId>6091761</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ON">08</adminCode1>
+<adminName1>Ontario</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Toronto</timezone>
+<score>7.998246192932129</score>
+</geoname>
+</geonames>

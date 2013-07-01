@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>15</totalResultsCount>
+<geoname>
+<toponymName>New Providence District</toponymName>
+<name>New Providence District</name>
+<lat>25.03333</lat>
+<lng>-77.28333</lng>
+<geonameId>3571815</geonameId>
+<countryCode>BS</countryCode>
+<countryName>Bahamas</countryName>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>first-order administrative division</fcodeName>
+<population>228334</population>
+<alternateNames>New Providence</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="HT">23</adminCode1>
+<adminName1>New Providence</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/New_Providence</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Nassau</timezone>
+<score>70.8950424194336</score>
+</geoname>
+<geoname>
+<toponymName>New Providence</toponymName>
+<name>New Providence</name>
+<lat>40.69843</lat>
+<lng>-74.40154</lng>
+<geonameId>5101775</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>12171</population>
+<alternateNames>N'ju-Providens,Нью-Провиденс</alternateNames>
+<elevation>67</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NJ">NJ</adminCode1>
+<adminName1>New Jersey</adminName1>
+<adminCode2>039</adminCode2>
+<adminName2>Union County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/New_Providence%2C_New_Jersey</alternateName>
+<alternateName lang="post">07974</alternateName>
+<alternateName lang="ru">Нью-Провиденс</alternateName>
+<alternateName lang="unlc">NPX</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-74.42902</west>
+<north>40.71809</north>
+<east>-74.38174</east>
+<south>40.67923</south>
+</bbox>
+<score>50.13036346435547</score>
+</geoname>
+<geoname>
+<toponymName>New Providence</toponymName>
+<name>New Providence</name>
+<lat>33.01901</lat>
+<lng>-85.98524</lng>
+<geonameId>4080015</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>220</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AL">AL</adminCode1>
+<adminName1>Alabama</adminName1>
+<adminCode2>123</adminCode2>
+<adminName2>Tallapoosa County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-85.99597</west>
+<north>33.028</north>
+<east>-85.97452</east>
+<south>33.01002</south>
+</bbox>
+<score>40.10429000854492</score>
+</geoname>
+<geoname>
+<toponymName>New Providence</toponymName>
+<name>New Providence</name>
+<lat>36.52894</lat>
+<lng>-88.23698</lng>
+<geonameId>4302449</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>166</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>035</adminCode2>
+<adminName2>Calloway County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-88.24818</west>
+<north>36.53794</north>
+<east>-88.22579</east>
+<south>36.51995</south>
+</bbox>
+<score>40.10429000854492</score>
+</geoname>
+<geoname>
+<toponymName>New Providence</toponymName>
+<name>New Providence</name>
+<lat>32.35764</lat>
+<lng>-88.92061</lng>
+<geonameId>4438621</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>130</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MS">MS</adminCode1>
+<adminName1>Mississippi</adminName1>
+<adminCode2>101</adminCode2>
+<adminName2>Newton County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-88.93126</west>
+<north>32.36664</north>
+<east>-88.90996</east>
+<south>32.34865</south>
+</bbox>
+<score>40.10429000854492</score>
+</geoname>
+<geoname>
+<toponymName>New Providence</toponymName>
+<name>New Providence</name>
+<lat>36.41321</lat>
+<lng>-76.09354</lng>
+<geonameId>4481967</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>4</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NC">NC</adminCode1>
+<adminName1>North Carolina</adminName1>
+<adminCode2>053</adminCode2>
+<adminName2>Currituck County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-76.10472</west>
+<north>36.4222</north>
+<east>-76.08236</east>
+<south>36.40422</south>
+</bbox>
+<score>40.10429000854492</score>
+</geoname>
+<geoname>
+<toponymName>New Providence</toponymName>
+<name>New Providence</name>
+<lat>35.77785</lat>
+<lng>-84.34965</lng>
+<geonameId>4645345</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>241</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TN">TN</adminCode1>
+<adminName1>Tennessee</adminName1>
+<adminCode2>105</adminCode2>
+<adminName2>Loudon County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-84.36073</west>
+<north>35.78685</north>
+<east>-84.33856</east>
+<south>35.76886</south>
+</bbox>
+<score>40.10429000854492</score>
+</geoname>
+<geoname>
+<toponymName>New Providence</toponymName>
+<name>New Providence</name>
+<lat>36.54866</lat>
+<lng>-87.37918</lng>
+<geonameId>4645346</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>160</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TN">TN</adminCode1>
+<adminName1>Tennessee</adminName1>
+<adminCode2>125</adminCode2>
+<adminName2>Montgomery County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-87.39037</west>
+<north>36.55765</north>
+<east>-87.36798</east>
+<south>36.53967</south>
+</bbox>
+<score>40.10429000854492</score>
+</geoname>
+<geoname>
+<toponymName>New Providence</toponymName>
+<name>New Providence</name>
+<lat>42.2811</lat>
+<lng>-93.17159</lng>
+<geonameId>4868798</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>228</population>
+<alternateNames>N'ju-Providens,Нью-Провиденс</alternateNames>
+<elevation>344</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IA">IA</adminCode1>
+<adminName1>Iowa</adminName1>
+<adminCode2>083</adminCode2>
+<adminName2>Hardin County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/New_Providence%2C_Iowa</alternateName>
+<alternateName lang="post">50206</alternateName>
+<alternateName lang="ru">Нью-Провиденс</alternateName>
+<alternateName lang="unlc">NPG</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-93.17281</west>
+<north>42.28199</north>
+<east>-93.17038</east>
+<south>42.2802</south>
+</bbox>
+<score>40.10429000854492</score>
+</geoname>
+<geoname>
+<toponymName>New Providence</toponymName>
+<name>New Providence</name>
+<lat>37.9468</lat>
+<lng>-83.9887</lng>
+<geonameId>7232346</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>226</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>049</adminCode2>
+<adminName2>Clark County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-84.00011</west>
+<north>37.95579</north>
+<east>-83.97729</east>
+<south>37.93781</south>
+</bbox>
+<score>40.10429000854492</score>
+</geoname>
+</geonames>

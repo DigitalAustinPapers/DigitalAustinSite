@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Floors</toponymName>
+<name>Floors</name>
+<lat>50.11061</lat>
+<lng>-100.30008</lng>
+<geonameId>5954832</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>P</fcl>
+<fcode>PPLL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MB">03</adminCode1>
+<adminName1>Manitoba</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Winnipeg</timezone>
+<bbox>
+<west>-100.30149</west>
+<north>50.11151</north>
+<east>-100.29868</east>
+<south>50.10971</south>
+</bbox>
+<score>27.97458267211914</score>
+</geoname>
+<geoname>
+<toponymName>Floore</toponymName>
+<name>Floore</name>
+<lat>60.64306</lat>
+<lng>21.38694</lng>
+<geonameId>854539</geonameId>
+<countryCode>FI</countryCode>
+<countryName>Finland</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="12">15</adminCode1>
+<adminName1>Province of Western Finland</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="3.0" gmtOffset="2.0">Europe/Helsinki</timezone>
+<score>7.45988130569458</score>
+</geoname>
+<geoname>
+<toponymName>Floods</toponymName>
+<name>Floods</name>
+<lat>49.36639</lat>
+<lng>-121.51924</lng>
+<geonameId>5954823</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="BC">02</adminCode1>
+<adminName1>British Columbia</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Vancouver</timezone>
+<score>7.45988130569458</score>
+</geoname>
+</geonames>

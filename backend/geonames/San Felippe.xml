@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>348</totalResultsCount>
+<geoname>
+<toponymName>San Felipe</toponymName>
+<name>San Felipe</name>
+<lat>10.33991</lat>
+<lng>-68.74247</lng>
+<geonameId>3628423</geonameId>
+<countryCode>VE</countryCode>
+<countryName>Venezuela</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population>76766</population>
+<alternateNames>SNF,San Felipe</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="U">22</adminCode1>
+<adminName1>Estado Yaracuy</adminName1>
+<adminCode2>2211</adminCode2>
+<adminName2>Municipio San Felipe</adminName2>
+<alternateName lang="iata">SNF</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/San_Felipe%2C_Yaracuy</alternateName>
+<alternateName lang="unlc">SNF</alternateName>
+<timezone dstOffset="-4.5" gmtOffset="-4.5">America/Caracas</timezone>
+<bbox>
+<west>-68.77875</west>
+<north>10.37561</north>
+<east>-68.70618</east>
+<south>10.30422</south>
+</bbox>
+<score>39.56374740600586</score>
+</geoname>
+<geoname>
+<toponymName>San Felipe</toponymName>
+<name>San Felipe</name>
+<lat>-32.74976</lat>
+<lng>-70.72584</lng>
+<geonameId>3872255</geonameId>
+<countryCode>CL</countryCode>
+<countryName>Chile</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>59294</population>
+<alternateNames>San Felipe</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="VS">01</adminCode1>
+<adminName1>Valparaíso</adminName1>
+<adminCode2>57</adminCode2>
+<adminName2>Provincia de San Felipe</adminName2>
+<adminCode3>05701</adminCode3>
+<adminName3>San Felipe</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/San_Felipe%2C_Chile</alternateName>
+<alternateName lang="unlc">SFP</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-3.0">America/Santiago</timezone>
+<bbox>
+<west>-70.76325</west>
+<north>-32.71828</north>
+<east>-70.68843</east>
+<south>-32.78124</south>
+</bbox>
+<score>31.650997161865234</score>
+</geoname>
+<geoname>
+<toponymName>San Felipe</toponymName>
+<name>San Felipe</name>
+<lat>14.61667</lat>
+<lng>-91.6</lng>
+<geonameId>3590288</geonameId>
+<countryCode>GT</countryCode>
+<countryName>Guatemala</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>8921</population>
+<alternateNames>San Felipe</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="RE">15</adminCode1>
+<adminName1>Retalhuleu</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/San_Felipe%2C_Retalhuleu</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Guatemala</timezone>
+<bbox>
+<west>-91.6123</west>
+<north>14.62856</north>
+<east>-91.5877</east>
+<south>14.60477</south>
+</bbox>
+<score>27.694622039794922</score>
+</geoname>
+<geoname>
+<toponymName>San Felipe</toponymName>
+<name>San Felipe</name>
+<lat>31.02468</lat>
+<lng>-114.83919</lng>
+<geonameId>3987224</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>15386</population>
+<alternateNames>SFH,San Felipe</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="BCN">02</adminCode1>
+<adminName1>Baja California</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="iata">SFH</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/San_Felipe%2C_Baja_California</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Tijuana</timezone>
+<bbox>
+<west>-114.85737</west>
+<north>31.04026</north>
+<east>-114.82101</east>
+<south>31.0091</south>
+</bbox>
+<score>27.694622039794922</score>
+</geoname>
+<geoname>
+<toponymName>Eirunepé</toponymName>
+<name>Eirunepé</name>
+<lat>-6.66028</lat>
+<lng>-69.87361</lng>
+<geonameId>3664321</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>17175</population>
+<alternateNames>Joao Pessoa,João Pessôa,Sao Felipe,Sao Felippe,Sao Filipe,Sao Phelippe,São Felipe,São Felippe,São Filipe,São Phelippe</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="AM">04</adminCode1>
+<adminName1>Amazonas</adminName1>
+<adminCode2>1301407</adminCode2>
+<adminName2>Eirunepé</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Eirunep%C3%A9</alternateName>
+<alternateName lang="unlc">ERN</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Eirunepe</timezone>
+<bbox>
+<west>-69.89055</west>
+<north>-6.64345</north>
+<east>-69.85667</east>
+<south>-6.6771</south>
+</bbox>
+<score>26.791444778442383</score>
+</geoname>
+<geoname>
+<toponymName>Marapé</toponymName>
+<name>Marapé</name>
+<lat>-20.91667</lat>
+<lng>-41.18333</lng>
+<geonameId>3457831</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Marape,Marapé,Sao Felipe,Sao Felippe,São Felipe,São Felippe</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="ES">08</adminCode1>
+<adminName1>Espírito Santo</adminName1>
+<adminCode2>3200706</adminCode2>
+<adminName2>Atilio Vivacqua</adminName2>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Sao_Paulo</timezone>
+<bbox>
+<west>-41.19296</west>
+<north>-20.90767</north>
+<east>-41.17371</east>
+<south>-20.92566</south>
+</bbox>
+<score>23.442514419555664</score>
+</geoname>
+<geoname>
+<toponymName>San Felipe</toponymName>
+<name>San Felipe</name>
+<lat>9.90488</lat>
+<lng>-84.10551</lng>
+<geonameId>3621922</geonameId>
+<countryCode>CR</countryCode>
+<countryName>Costa Rica</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>24985</population>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SJ">08</adminCode1>
+<adminName1>San José</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Costa_Rica</timezone>
+<bbox>
+<west>-84.12593</west>
+<north>9.92499</north>
+<east>-84.0851</east>
+<south>9.88477</south>
+</bbox>
+<score>22.612565994262695</score>
+</geoname>
+<geoname>
+<toponymName>San Felipe</toponymName>
+<name>San Felipe</name>
+<lat>-32.73642</lat>
+<lng>-70.75368</lng>
+<geonameId>8261220</geonameId>
+<countryCode>CL</countryCode>
+<countryName>Chile</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="VS">01</adminCode1>
+<adminName1>Valparaíso</adminName1>
+<adminCode2>57</adminCode2>
+<adminName2>Provincia de San Felipe</adminName2>
+<adminCode3>05701</adminCode3>
+<adminName3>San Felipe</adminName3>
+<timezone dstOffset="-4.0" gmtOffset="-3.0">America/Santiago</timezone>
+<bbox>
+<west>-70.87191</west>
+<north>-32.64479</north>
+<east>-70.63557</east>
+<south>-32.82543</south>
+</bbox>
+<score>22.612565994262695</score>
+</geoname>
+<geoname>
+<toponymName>San Felipe</toponymName>
+<name>San Felipe</name>
+<lat>-5.78624</lat>
+<lng>-79.30978</lng>
+<geonameId>8349792</geonameId>
+<countryCode>PE</countryCode>
+<countryName>Peru</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="CAJ">06</adminCode1>
+<adminName1>Cajamarca</adminName1>
+<adminCode2>0608</adminCode2>
+<adminName2>Provincia de Jaén</adminName2>
+<adminCode3>060810</adminCode3>
+<adminName3>San Felipe</adminName3>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Lima</timezone>
+<bbox>
+<west>-79.40084</west>
+<north>-5.68096</north>
+<east>-79.20005</east>
+<south>-5.89684</south>
+</bbox>
+<score>22.612565994262695</score>
+</geoname>
+<geoname>
+<toponymName>São Felipe</toponymName>
+<name>São Felipe</name>
+<lat>-12.84722</lat>
+<lng>-39.08944</lng>
+<geonameId>3449194</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Sao Felippe,São Felippe</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="BA">05</adminCode1>
+<adminName1>Estado de Bahía</adminName1>
+<adminCode2>2929107</adminCode2>
+<adminName2>São Felipe</adminName2>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Bahia</timezone>
+<bbox>
+<west>-39.09867</west>
+<north>-12.83823</north>
+<east>-39.08022</east>
+<south>-12.85622</south>
+</bbox>
+<score>20.093584060668945</score>
+</geoname>
+</geonames>

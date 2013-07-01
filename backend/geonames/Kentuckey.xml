@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>23</totalResultsCount>
+<geoname>
+<toponymName>Kentucky</toponymName>
+<name>Kentucky</name>
+<lat>20.01417</lat>
+<lng>-75.5975</lng>
+<geonameId>3555595</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames>Kentucky,Kentuki</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="13">15</adminCode1>
+<adminName1>Santiago de Cuba</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>14.531549453735352</score>
+</geoname>
+<geoname>
+<toponymName>Kentuckey</toponymName>
+<name>Kentuckey</name>
+<lat>-31.7496</lat>
+<lng>116.6023</lng>
+<geonameId>8352937</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>S</fcl>
+<fcode>HMSD</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>homestead</fcodeName>
+<population/>
+<alternateNames>Kentuckey</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="WA">08</adminCode1>
+<adminName1>Western Australia</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Kentuckey</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Australia/Perth</timezone>
+<score>13.41553020477295</score>
+</geoname>
+<geoname>
+<toponymName>Kentucky</toponymName>
+<name>Kentucky</name>
+<lat>-30.76667</lat>
+<lng>151.45</lng>
+<geonameId>2161599</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="NSW">02</adminCode1>
+<adminName1>New South Wales</adminName1>
+<adminCode2>17650</adminCode2>
+<adminName2>Uralla</adminName2>
+<timezone dstOffset="10.0" gmtOffset="11.0">Australia/Sydney</timezone>
+<bbox>
+<west>151.24786</west>
+<north>-30.67026</north>
+<east>151.51845</east>
+<south>-30.89703</south>
+</bbox>
+<score>11.864960670471191</score>
+</geoname>
+<geoname>
+<toponymName>Kentucky</toponymName>
+<name>Kentucky</name>
+<lat>-28.23333</lat>
+<lng>19.4</lng>
+<geonameId>3356237</geonameId>
+<countryCode>NA</countryCode>
+<countryName>Namibia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="KA">31</adminCode1>
+<adminName1>Karas</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="2.0">Africa/Windhoek</timezone>
+<bbox>
+<west>19.38979</west>
+<north>-28.22434</north>
+<east>19.41021</east>
+<south>-28.24233</south>
+</bbox>
+<score>11.864960670471191</score>
+</geoname>
+<geoname>
+<toponymName>Kentucky</toponymName>
+<name>Kentucky</name>
+<lat>20.15</lat>
+<lng>-75.53333</lng>
+<geonameId>3555594</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="13">15</adminCode1>
+<adminName1>Santiago de Cuba</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>11.864960670471191</score>
+</geoname>
+<geoname>
+<toponymName>Kentucky</toponymName>
+<name>Kentucky</name>
+<lat>34.60843</lat>
+<lng>-92.66127</lng>
+<geonameId>4117366</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>105</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">AR</adminCode1>
+<adminName1>Arkansas</adminName1>
+<adminCode2>125</adminCode2>
+<adminName2>Saline County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.6722</west>
+<north>34.61742</north>
+<east>-92.65035</east>
+<south>34.59943</south>
+</bbox>
+<score>11.864960670471191</score>
+</geoname>
+<geoname>
+<toponymName>Kentucky</toponymName>
+<name>Kentucky</name>
+<lat>39.59337</lat>
+<lng>-87.61114</lng>
+<geonameId>4242183</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>209</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>045</adminCode2>
+<adminName2>Edgar County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-87.62281</west>
+<north>39.60236</north>
+<east>-87.59946</east>
+<south>39.58437</south>
+</bbox>
+<score>11.864960670471191</score>
+</geoname>
+<geoname>
+<toponymName>Kentucky</toponymName>
+<name>Kentucky</name>
+<lat>46.26523</lat>
+<lng>-86.63099</lng>
+<geonameId>4998016</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>261</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MI">MI</adminCode1>
+<adminName1>Michigan</adminName1>
+<adminCode2>003</adminCode2>
+<adminName2>Alger County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Detroit</timezone>
+<bbox>
+<west>-86.644</west>
+<north>46.27423</north>
+<east>-86.61798</east>
+<south>46.25624</south>
+</bbox>
+<score>11.864960670471191</score>
+</geoname>
+<geoname>
+<toponymName>Kentucky</toponymName>
+<name>Kentucky</name>
+<lat>38.20042</lat>
+<lng>-84.87762</lng>
+<geonameId>6254925</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>first-order administrative division</fcodeName>
+<population>4206074</population>
+<alternateNames>Blue Grass State,KY,Kenekuke,Kentaki,Kentakii Hahoodzo,Kentakki,Kentoki,Kentorki,Kentucky,Kentucky suyu,Kentuki,Kentukia,Kentukio,Kentukis,Kentukki,Kentukki Shitati,Kentákii Hahoodzo,Kentórkị,Khen-thap-ki,Khén-thap-kî,Kintaaki,Kèntòki,Kéntukki Shitati,Shtat Kentuki,ken ta ji zhou,kenrakki,kentaki,kentakki,kentakki zhou,kenteoki ju,kntaky,kyntaky,qntqy,rath khenthakki,Κεντάκι,Кентаки,Кентакки,Кентуки,Кентукки,Кентуккі,Кентъки,Кинтааки,Штат Кентукі,Կենտուկի,קנטקי,קענטאקי,كنتاكى,كنتاكي,کنتاکی,کینتاکی,کینٹکی,केंटकी,केन्‍टकी,কেন্টাকি,கென்டக்கி,കെന്റക്കി,รัฐเคนทักกี,ကင်တပ်ကီပြည်နယ်,კენტუკი,ケンタッキー州,肯塔基州,켄터키 주</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="abbr">KY</alternateName>
+<alternateName lang="ar">كنتاكي</alternateName>
+<alternateName lang="arz">كنتاكى</alternateName>
+<alternateName lang="ay">Kentucky suyu</alternateName>
+<alternateName lang="az">Kentukki</alternateName>
+<alternateName lang="be">Штат Кентукі</alternateName>
+<alternateName lang="bg">Кентъки</alternateName>
+<alternateName lang="bn">কেন্টাকি</alternateName>
+<alternateName lang="bpy">কেন্টাকি</alternateName>
+<alternateName lang="ckb">کینتاکی</alternateName>
+<alternateName lang="cv">Кентукки</alternateName>
+<alternateName lang="el">Κεντάκι</alternateName>
+<alternateName lang="en">Kentucky</alternateName>
+<alternateName lang="eo">Kentukio</alternateName>
+<alternateName lang="fa">کنتاکی</alternateName>
+<alternateName lang="hak">Khén-thap-kî</alternateName>
+<alternateName lang="haw">Kenekuke</alternateName>
+<alternateName lang="he">קנטקי</alternateName>
+<alternateName lang="ht">Kèntòki</alternateName>
+<alternateName lang="hy">Կենտուկի</alternateName>
+<alternateName lang="ig">Kentórkị</alternateName>
+<alternateName lang="ja">ケンタッキー州</alternateName>
+<alternateName lang="ka">კენტუკი</alternateName>
+<alternateName lang="ko">켄터키 주</alternateName>
+<alternateName lang="la">Kentukia</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kentucky</alternateName>
+<alternateName lang="lt">Kentukis</alternateName>
+<alternateName lang="lv">Kentuki</alternateName>
+<alternateName lang="mk">Кентаки</alternateName>
+<alternateName lang="ml">കെന്റക്കി</alternateName>
+<alternateName lang="mn">Кентакки</alternateName>
+<alternateName lang="mr">केंटकी</alternateName>
+<alternateName lang="mrj">Кентукки</alternateName>
+<alternateName lang="my">ကင်တပ်ကီပြည်နယ်</alternateName>
+<alternateName lang="nv">Kentákii Hahoodzo</alternateName>
+<alternateName lang="os">Кентукки</alternateName>
+<alternateName lang="pnb">کینٹکی</alternateName>
+<alternateName lang="qu">Kentucky suyu</alternateName>
+<alternateName lang="ru">Кентукки</alternateName>
+<alternateName lang="sa">केन्‍टकी</alternateName>
+<alternateName lang="sr">Кентаки</alternateName>
+<alternateName lang="ta">கென்டக்கி</alternateName>
+<alternateName lang="th">รัฐเคนทักกี</alternateName>
+<alternateName lang="tl">Kentaki</alternateName>
+<alternateName lang="tt">Кентукки</alternateName>
+<alternateName lang="ug">Kéntukki Shitati</alternateName>
+<alternateName lang="uk">Кентуккі</alternateName>
+<alternateName lang="ur">کینٹکی</alternateName>
+<alternateName lang="uz">Kentukki</alternateName>
+<alternateName lang="xal">Кинтааки</alternateName>
+<alternateName lang="yi">קענטאקי</alternateName>
+<alternateName lang="zh">肯塔基州</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-89.57151</west>
+<north>39.14746</north>
+<east>-81.96487</east>
+<south>36.49713</south>
+</bbox>
+<score>10.487242698669434</score>
+</geoname>
+<geoname>
+<toponymName>Kentucky</toponymName>
+<name>Kentucky</name>
+<lat>-18.15</lat>
+<lng>30.28333</lng>
+<geonameId>888993</geonameId>
+<countryCode>ZW</countryCode>
+<countryName>Zimbabwe</countryName>
+<fcl>S</fcl>
+<fcode>MN</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>mine(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Harare</timezone>
+<score>3.7078001499176025</score>
+</geoname>
+</geonames>

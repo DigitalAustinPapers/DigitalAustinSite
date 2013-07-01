@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>171</totalResultsCount>
+<geoname>
+<toponymName>Colorado</toponymName>
+<name>Colorado</name>
+<lat>-28.4832</lat>
+<lng>-52.99088</lng>
+<geonameId>6323403</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>3550</population>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="RS">23</adminCode1>
+<adminName1>Rio Grande do Sul</adminName1>
+<adminCode2>4305603</adminCode2>
+<adminName2>Colorado</adminName2>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Sao_Paulo</timezone>
+<bbox>
+<west>-53.07905</west>
+<north>-28.33444</north>
+<east>-52.91415</east>
+<south>-28.58982</south>
+</bbox>
+<score>45.10152816772461</score>
+</geoname>
+<geoname>
+<toponymName>Colloredo</toponymName>
+<name>Colloredo</name>
+<lat>46.13389</lat>
+<lng>13.38583</lng>
+<geonameId>3219919</geonameId>
+<countryCode>IT</countryCode>
+<countryName>Italy</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="36">06</adminCode1>
+<adminName1>Friuli Venezia Giulia</adminName1>
+<adminCode2>UD</adminCode2>
+<adminName2>Provincia di Udine</adminName2>
+<adminCode3>030036</adminCode3>
+<adminName3>Faedis</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Rome</timezone>
+<bbox>
+<west>13.37285</west>
+<north>46.14288</north>
+<east>13.39881</east>
+<south>46.1249</south>
+</bbox>
+<score>37.067466735839844</score>
+</geoname>
+<geoname>
+<toponymName>Colloredo</toponymName>
+<name>Colloredo</name>
+<lat>45.33556</lat>
+<lng>11.51101</lng>
+<geonameId>8435857</geonameId>
+<countryCode>IT</countryCode>
+<countryName>Italy</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="34">20</adminCode1>
+<adminName1>Veneto</adminName1>
+<adminCode2>VI</adminCode2>
+<adminName2>Provincia di Vicenza</adminName2>
+<adminCode3>024102</adminCode3>
+<adminName3>Sossano</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Rome</timezone>
+<bbox>
+<west>11.49822</west>
+<north>45.34455</north>
+<east>11.52381</east>
+<south>45.32656</south>
+</bbox>
+<score>37.067466735839844</score>
+</geoname>
+<geoname>
+<toponymName>Colorado</toponymName>
+<name>Colorado</name>
+<lat>-22.83827</lat>
+<lng>-51.98015</lng>
+<geonameId>6322738</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>22347</population>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="PR">18</adminCode1>
+<adminName1>Paraná</adminName1>
+<adminCode2>4105904</adminCode2>
+<adminName2>Colorado</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Colorado%2C_Paran%C3%A1</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Sao_Paulo</timezone>
+<bbox>
+<west>-52.08994</west>
+<north>-22.6773</north>
+<east>-51.8324</east>
+<south>-22.95795</south>
+</bbox>
+<score>36.08122253417969</score>
+</geoname>
+<geoname>
+<toponymName>Colorado</toponymName>
+<name>Colorado</name>
+<lat>29.98578</lat>
+<lng>-97.13415</lng>
+<geonameId>4682620</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>107</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>021</adminCode2>
+<adminName2>Bastrop County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Colorado%2C_Texas</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-97.14454</west>
+<north>29.99477</north>
+<east>-97.12377</east>
+<south>29.97678</south>
+</bbox>
+<score>27.060916900634766</score>
+</geoname>
+<geoname>
+<toponymName>Colloredo di Prato</toponymName>
+<name>Colloredo di Prato</name>
+<lat>46.05444</lat>
+<lng>13.14472</lng>
+<geonameId>3178298</geonameId>
+<countryCode>IT</countryCode>
+<countryName>Italy</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Colloredo,Colloredo di Prato</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="36">06</adminCode1>
+<adminName1>Friuli Venezia Giulia</adminName1>
+<adminCode2>UD</adminCode2>
+<adminName2>Provincia di Udine</adminName2>
+<adminCode3>030072</adminCode3>
+<adminName3>Pasian di Prato</adminName3>
+<alternateName lang="unlc">UCP</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Rome</timezone>
+<bbox>
+<west>13.13176</west>
+<north>46.06344</north>
+<east>13.15768</east>
+<south>46.04545</south>
+</bbox>
+<score>22.934324264526367</score>
+</geoname>
+<geoname>
+<toponymName>Colorado</toponymName>
+<name>Colorado</name>
+<lat>-28.52389</lat>
+<lng>-52.99417</lng>
+<geonameId>3465880</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Boa Esperanca,Boa Esperança</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="RS">23</adminCode1>
+<adminName1>Rio Grande do Sul</adminName1>
+<adminCode2>4305603</adminCode2>
+<adminName2>Colorado</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Colorado%2C_Rio_Grande_do_Sul</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Sao_Paulo</timezone>
+<bbox>
+<west>-53.0044</west>
+<north>-28.5149</north>
+<east>-52.98393</east>
+<south>-28.53288</south>
+</bbox>
+<score>22.550764083862305</score>
+</geoname>
+<geoname>
+<toponymName>Colorado</toponymName>
+<name>Colorado</name>
+<lat>-22.8375</lat>
+<lng>-51.97306</lng>
+<geonameId>3465881</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>20449</population>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="PR">18</adminCode1>
+<adminName1>Paraná</adminName1>
+<adminCode2>4105904</adminCode2>
+<adminName2>Colorado</adminName2>
+<alternateName lang="unlc">CRO</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Sao_Paulo</timezone>
+<bbox>
+<west>-51.99317</west>
+<north>-22.81896</north>
+<east>-51.95294</east>
+<south>-22.85604</south>
+</bbox>
+<score>22.550764083862305</score>
+</geoname>
+<geoname>
+<toponymName>Colorado</toponymName>
+<name>Colorado</name>
+<lat>19.83558</lat>
+<lng>-96.93301</lng>
+<geonameId>3529123</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Colorado,El Colorado</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VER">30</adminCode1>
+<adminName1>Veracruz-Llave</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-96.94257</west>
+<north>19.84458</north>
+<east>-96.92345</east>
+<south>19.82659</south>
+</bbox>
+<score>22.09514617919922</score>
+</geoname>
+<geoname>
+<toponymName>Colorado</toponymName>
+<name>Colorado</name>
+<lat>17.6113</lat>
+<lng>-97.06565</lng>
+<geonameId>3530415</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Colorado,Tierra Colorada</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OAX">20</adminCode1>
+<adminName1>Oaxaca</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-97.07509</west>
+<north>17.6203</north>
+<east>-97.05622</east>
+<south>17.60231</south>
+</bbox>
+<score>22.09514617919922</score>
+</geoname>
+</geonames>

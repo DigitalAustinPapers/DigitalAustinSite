@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>25</totalResultsCount>
+<geoname>
+<toponymName>Troy</toponymName>
+<name>Troy</name>
+<lat>38.97949</lat>
+<lng>-90.9807</lng>
+<geonameId>4412089</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>10540</population>
+<alternateNames>Troja,Троя</alternateNames>
+<elevation>165</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>113</adminCode2>
+<adminName2>Lincoln County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Troy%2C_Missouri</alternateName>
+<alternateName lang="post">63379</alternateName>
+<alternateName lang="ru">Троя</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.99706</west>
+<north>38.99221</north>
+<east>-90.96433</east>
+<south>38.96677</south>
+</bbox>
+<score>14.484107971191406</score>
+</geoname>
+<geoname>
+<toponymName>City of Troy</toponymName>
+<name>City of Troy</name>
+<lat>38.97161</lat>
+<lng>-90.97205</lng>
+<geonameId>7165005</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>administrative division</fcodeName>
+<population>10540</population>
+<alternateNames/>
+<elevation>157</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>113</adminCode2>
+<adminName2>Lincoln County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-91.02348</west>
+<north>39.00324</north>
+<east>-90.93459</east>
+<south>38.93258</south>
+</bbox>
+<score>11.587285995483398</score>
+</geoname>
+<geoname>
+<toponymName>Troy Airpark</toponymName>
+<name>Troy Airpark</name>
+<lat>39.04668</lat>
+<lng>-91.02964</lng>
+<geonameId>8256969</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>AIRP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>airport</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>190</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>113</adminCode2>
+<adminName2>Lincoln County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>11.587285995483398</score>
+</geoname>
+<geoname>
+<toponymName>Township of Parsippany-Troy Hills</toponymName>
+<name>Parsippany-Troy Hills Township</name>
+<lat>40.86008</lat>
+<lng>-74.42385</lng>
+<geonameId>5102430</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>administrative division</fcodeName>
+<population/>
+<alternateNames>Parsippany-Troy Hills Township</alternateNames>
+<elevation>92</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NJ">NJ</adminCode1>
+<adminName1>New Jersey</adminName1>
+<adminCode2>027</adminCode2>
+<adminName2>Morris County</adminName2>
+<alternateName lang="en">Parsippany-Troy Hills Township</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>7.352390289306641</score>
+</geoname>
+<geoname>
+<toponymName>South Troy</toponymName>
+<name>South Troy</name>
+<lat>38.95727</lat>
+<lng>-90.99431</lng>
+<geonameId>4409520</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>190</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>113</adminCode2>
+<adminName2>Lincoln County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-91.00587</west>
+<north>38.96626</north>
+<east>-90.98274</east>
+<south>38.94828</south>
+</bbox>
+<score>7.242053985595703</score>
+</geoname>
+<geoname>
+<toponymName>Troy Mills</toponymName>
+<name>Troy Mills</name>
+<lat>40.1467</lat>
+<lng>-92.60047</lng>
+<geonameId>5057583</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>297</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>001</adminCode2>
+<adminName2>Adair County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.61224</west>
+<north>40.15569</north>
+<east>-92.5887</east>
+<south>40.1377</south>
+</bbox>
+<score>7.242053985595703</score>
+</geoname>
+<geoname>
+<toponymName>Troy Island</toponymName>
+<name>Troy Island</name>
+<lat>38.00512</lat>
+<lng>-76.02077</lng>
+<geonameId>4371783</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>0</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MD">MD</adminCode1>
+<adminName1>Maryland</adminName1>
+<adminCode2>039</adminCode2>
+<adminName2>Somerset County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>5.328083515167236</score>
+</geoname>
+<geoname>
+<toponymName>Troy Meadows</toponymName>
+<name>Troy Meadows</name>
+<lat>40.84593</lat>
+<lng>-74.37626</lng>
+<geonameId>5105563</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>SWMP</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>swamp</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>53</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NJ">NJ</adminCode1>
+<adminName1>New Jersey</adminName1>
+<adminCode2>027</adminCode2>
+<adminName2>Morris County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Troy_Meadows</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>5.328083515167236</score>
+</geoname>
+<geoname>
+<toponymName>WXMC-AM (Parsippany-Troy Hill)</toponymName>
+<name>WXMC-AM (Parsippany-Troy Hill)</name>
+<lat>40.86427</lat>
+<lng>-74.35126</lng>
+<geonameId>5105948</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>TOWR</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>tower</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>53</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NJ">NJ</adminCode1>
+<adminName1>New Jersey</adminName1>
+<adminCode2>027</adminCode2>
+<adminName2>Morris County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/WXMC</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>5.328083515167236</score>
+</geoname>
+<geoname>
+<toponymName>Old Troy Park</toponymName>
+<name>Old Troy Park</name>
+<lat>40.84232</lat>
+<lng>-74.40154</lng>
+<geonameId>5102194</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>L</fcl>
+<fcode>PRK</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>park</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>64</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NJ">NJ</adminCode1>
+<adminName1>New Jersey</adminName1>
+<adminCode2>027</adminCode2>
+<adminName2>Morris County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>4.662073135375977</score>
+</geoname>
+</geonames>

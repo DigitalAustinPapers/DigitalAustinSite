@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>17</totalResultsCount>
+<geoname>
+<toponymName>Bend</toponymName>
+<name>Bend</name>
+<lat>44.05817</lat>
+<lng>-121.31531</lng>
+<geonameId>5713587</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>76639</population>
+<alternateNames>Behnd,Bend,ben de,bendo,bnd, awrgn,Бенд,Бэнд,بند، اورگن,ベンド,本德</alternateNames>
+<elevation>1106</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OR">OR</adminCode1>
+<adminName1>Oregon</adminName1>
+<adminCode2>017</adminCode2>
+<adminName2>Deschutes County</adminName2>
+<alternateName lang="bg">Бенд</alternateName>
+<alternateName lang="de">Bend</alternateName>
+<alternateName lang="en">Bend</alternateName>
+<alternateName lang="fa">بند، اورگن</alternateName>
+<alternateName lang="io">Bend</alternateName>
+<alternateName lang="ja">ベンド</alternateName>
+<alternateName lang="kk">Бэнд</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bend%2C_Oregon</alternateName>
+<alternateName lang="mrj">Бенд</alternateName>
+<alternateName lang="post">97707</alternateName>
+<alternateName lang="ru">Бенд</alternateName>
+<alternateName lang="unlc">BZO</alternateName>
+<alternateName lang="zh">本德</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-121.36501</west>
+<north>44.09387</north>
+<east>-121.26561</east>
+<south>44.02248</south>
+</bbox>
+<score>99.42787170410156</score>
+</geoname>
+<geoname>
+<toponymName>Bend</toponymName>
+<name>Bend</name>
+<lat>31.09961</lat>
+<lng>-98.5117</lng>
+<geonameId>4673490</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>339</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>411</adminCode2>
+<adminName2>San Saba County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bend%2C_Texas</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-98.52221</west>
+<north>31.10861</north>
+<east>-98.5012</east>
+<south>31.09062</south>
+</bbox>
+<score>59.65672302246094</score>
+</geoname>
+<geoname>
+<toponymName>Bend</toponymName>
+<name>Bend</name>
+<lat>40.25516</lat>
+<lng>-122.20861</lng>
+<geonameId>5559593</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>619</population>
+<alternateNames/>
+<elevation>102</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>103</adminCode2>
+<adminName2>Tehama County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bend%2C_California</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-122.20979</west>
+<north>40.25605</north>
+<east>-122.20743</east>
+<south>40.25426</south>
+</bbox>
+<score>59.65672302246094</score>
+</geoname>
+<geoname>
+<toponymName>Bend</toponymName>
+<name>Bend</name>
+<lat>53.76664</lat>
+<lng>-121.06953</lng>
+<geonameId>5898264</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="BC">02</adminCode1>
+<adminName1>British Columbia</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bend%2C_British_Columbia</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Vancouver</timezone>
+<bbox>
+<west>-121.08475</west>
+<north>53.77563</north>
+<east>-121.05431</east>
+<south>53.75765</south>
+</bbox>
+<score>59.65672302246094</score>
+</geoname>
+<geoname>
+<toponymName>Bend</toponymName>
+<name>Bend</name>
+<lat>-23.31667</lat>
+<lng>30.68333</lng>
+<geonameId>1020151</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Bend,Bend Store</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="LP">09</adminCode1>
+<adminName1>Limpopo</adminName1>
+<adminCode2>DC33</adminCode2>
+<adminName2>Mopani District Municipality</adminName2>
+<adminCode3>LIM331</adminCode3>
+<adminName3>Greater Giyani</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<bbox>
+<west>30.67354</west>
+<north>-23.30767</north>
+<east>30.69313</east>
+<south>-23.32566</south>
+</bbox>
+<score>48.709510803222656</score>
+</geoname>
+<geoname>
+<toponymName>Bend</toponymName>
+<name>Bend</name>
+<lat>41.92833</lat>
+<lng>19.47028</lng>
+<geonameId>3342578</geonameId>
+<countryCode>AL</countryCode>
+<countryName>Albania</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Bend,Bendi</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="10">49</adminCode1>
+<adminName1>Shkodër</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Tirane</timezone>
+<bbox>
+<west>19.45819</west>
+<north>41.93733</north>
+<east>19.48237</east>
+<south>41.91934</south>
+</bbox>
+<score>48.709510803222656</score>
+</geoname>
+<geoname>
+<toponymName>Bend</toponymName>
+<name>Bend</name>
+<lat>35.35425</lat>
+<lng>-93.3874</lng>
+<geonameId>4101215</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>117</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">AR</adminCode1>
+<adminName1>Arkansas</adminName1>
+<adminCode2>071</adminCode2>
+<adminName2>Johnson County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-93.39843</west>
+<north>35.36325</north>
+<east>-93.37638</east>
+<south>35.34526</south>
+</bbox>
+<score>39.771148681640625</score>
+</geoname>
+<geoname>
+<toponymName>Bend</toponymName>
+<name>Bend</name>
+<lat>30.02104</lat>
+<lng>-90.75259</lng>
+<geonameId>4316424</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>3</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>093</adminCode2>
+<adminName2>Saint James Parish</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.76298</west>
+<north>30.03003</north>
+<east>-90.7422</east>
+<south>30.01204</south>
+</bbox>
+<score>39.771148681640625</score>
+</geoname>
+<geoname>
+<toponymName>Bend</toponymName>
+<name>Bend</name>
+<lat>38.19449</lat>
+<lng>-91.84655</lng>
+<geonameId>4376512</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>267</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>125</adminCode2>
+<adminName2>Maries County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-91.858</west>
+<north>38.20348</north>
+<east>-91.83511</east>
+<south>38.18549</south>
+</bbox>
+<score>39.771148681640625</score>
+</geoname>
+<geoname>
+<toponymName>Bend</toponymName>
+<name>Bend</name>
+<lat>31.09934</lat>
+<lng>-98.51281</lng>
+<geonameId>4673491</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>339</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>411</adminCode2>
+<adminName2>San Saba County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-98.52332</west>
+<north>31.10833</north>
+<east>-98.50231</east>
+<south>31.09034</south>
+</bbox>
+<score>39.771148681640625</score>
+</geoname>
+</geonames>

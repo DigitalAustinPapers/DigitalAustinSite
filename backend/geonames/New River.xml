@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>45</totalResultsCount>
+<geoname>
+<toponymName>New River</toponymName>
+<name>New River</name>
+<lat>33.91587</lat>
+<lng>-112.13599</lng>
+<geonameId>5306523</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>14952</population>
+<alternateNames/>
+<elevation>614</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AZ">AZ</adminCode1>
+<adminName1>Arizona</adminName1>
+<adminCode2>013</adminCode2>
+<adminName2>Maricopa County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/New_River%2C_Arizona</alternateName>
+<alternateName lang="post">85087</alternateName>
+<alternateName lang="unlc">NZR</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-7.0">America/Phoenix</timezone>
+<bbox>
+<west>-112.14707</west>
+<north>33.97546</north>
+<east>-112.02156</east>
+<south>33.79902</south>
+</bbox>
+<score>41.987117767333984</score>
+</geoname>
+<geoname>
+<toponymName>New River</toponymName>
+<name>New River</name>
+<lat>37.13346</lat>
+<lng>-80.59145</lng>
+<geonameId>4775912</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>244</population>
+<alternateNames/>
+<elevation>591</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>155</adminCode2>
+<adminName2>Pulaski County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/New_River%2C_Virginia</alternateName>
+<alternateName lang="post">24129</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-80.59258</west>
+<north>37.13436</north>
+<east>-80.59032</east>
+<south>37.13256</south>
+</bbox>
+<score>35.98896026611328</score>
+</geoname>
+<geoname>
+<toponymName>New River</toponymName>
+<name>New River</name>
+<lat>3.38333</lat>
+<lng>-57.6</lng>
+<geonameId>3376743</geonameId>
+<countryCode>GY</countryCode>
+<countryName>Guyana</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>Boven Corantijn Rivier,New River</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="EB">13</adminCode1>
+<adminName1>East Berbice-Corentyne</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/New_River_%28South_America%29</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Guyana</timezone>
+<score>25.711755752563477</score>
+</geoname>
+<geoname>
+<toponymName>New River</toponymName>
+<name>New River</name>
+<lat>-29.62588</lat>
+<lng>30.88896</lng>
+<geonameId>971290</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="ZN">02</adminCode1>
+<adminName1>KwaZulu-Natal</adminName1>
+<adminCode2>ETH</adminCode2>
+<adminName2>eThekwini Metropolitan Municipality</adminName2>
+<adminCode3>ETH</adminCode3>
+<adminName3>Ethekwini</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<bbox>
+<west>30.87862</west>
+<north>-29.61689</north>
+<east>30.89931</east>
+<south>-29.63488</south>
+</bbox>
+<score>23.992639541625977</score>
+</geoname>
+<geoname>
+<toponymName>New River</toponymName>
+<name>New River</name>
+<lat>17.13333</lat>
+<lng>-62.55</lng>
+<geonameId>3575257</geonameId>
+<countryCode>KN</countryCode>
+<countryName>Saint Kitts and Nevis</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="04">04</adminCode1>
+<adminName1>Saint George Gingerland</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/St_Kitts</timezone>
+<bbox>
+<west>-62.55941</west>
+<north>17.14233</north>
+<east>-62.54059</east>
+<south>17.12434</south>
+</bbox>
+<score>23.992639541625977</score>
+</geoname>
+<geoname>
+<toponymName>New River</toponymName>
+<name>New River</name>
+<lat>29.96107</lat>
+<lng>-82.26539</lng>
+<geonameId>4165878</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>44</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="FL">FL</adminCode1>
+<adminName1>Florida</adminName1>
+<adminCode2>007</adminCode2>
+<adminName2>Bradford County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-82.27577</west>
+<north>29.97007</north>
+<east>-82.25501</east>
+<south>29.95208</south>
+</bbox>
+<score>23.992639541625977</score>
+</geoname>
+<geoname>
+<toponymName>New River</toponymName>
+<name>New River</name>
+<lat>26.11092</lat>
+<lng>-80.11227</lng>
+<geonameId>4165879</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>3</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="FL">FL</adminCode1>
+<adminName1>Florida</adminName1>
+<adminCode2>011</adminCode2>
+<adminName2>Broward County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/New_River_%28Broward_County%2C_Florida%29</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>23.992639541625977</score>
+</geoname>
+<geoname>
+<toponymName>New River</toponymName>
+<name>New River</name>
+<lat>36.38258</lat>
+<lng>-84.54855</lng>
+<geonameId>4645366</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>364</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TN">TN</adminCode1>
+<adminName1>Tennessee</adminName1>
+<adminCode2>151</adminCode2>
+<adminName2>Scott County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-84.55972</west>
+<north>36.39157</north>
+<east>-84.53738</east>
+<south>36.37358</south>
+</bbox>
+<score>23.992639541625977</score>
+</geoname>
+<geoname>
+<toponymName>New River</toponymName>
+<name>New River</name>
+<lat>44.25507</lat>
+<lng>-71.25424</lng>
+<geonameId>5090203</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>616</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NH">NH</adminCode1>
+<adminName1>New Hampshire</adminName1>
+<adminCode2>007</adminCode2>
+<adminName2>Coos County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/New_River_%28New_Hampshire%29</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>23.992639541625977</score>
+</geoname>
+<geoname>
+<toponymName>New River</toponymName>
+<name>New River</name>
+<lat>43.00066</lat>
+<lng>-124.45845</lng>
+<geonameId>5742716</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OR">OR</adminCode1>
+<adminName1>Oregon</adminName1>
+<adminCode2>011</adminCode2>
+<adminName2>Coos County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/New_River_%28Oregon%29</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>23.992639541625977</score>
+</geoname>
+</geonames>

@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>11</totalResultsCount>
+<geoname>
+<toponymName>Austinville</toponymName>
+<name>Austinville</name>
+<lat>36.85123</lat>
+<lng>-80.91202</lng>
+<geonameId>4745055</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>650</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>197</adminCode2>
+<adminName2>Wythe County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Austinville%2C_Virginia</alternateName>
+<alternateName lang="post">24312</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-80.92326</west>
+<north>36.86023</north>
+<east>-80.90078</east>
+<south>36.84224</south>
+</bbox>
+<score>62.47760772705078</score>
+</geoname>
+<geoname>
+<toponymName>Austinville</toponymName>
+<name>Austinville</name>
+<lat>42.58581</lat>
+<lng>-92.95714</lng>
+<geonameId>4847486</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>305</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IA">IA</adminCode1>
+<adminName1>Iowa</adminName1>
+<adminCode2>023</adminCode2>
+<adminName2>Butler County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Austinville%2C_Iowa</alternateName>
+<alternateName lang="post">50608</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.96936</west>
+<north>42.5948</north>
+<east>-92.94493</east>
+<south>42.57682</south>
+</bbox>
+<score>62.47760772705078</score>
+</geoname>
+<geoname>
+<toponymName>Austinville</toponymName>
+<name>Austinville</name>
+<lat>34.57481</lat>
+<lng>-87.00862</lng>
+<geonameId>4830733</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>188</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AL">AL</adminCode1>
+<adminName1>Alabama</adminName1>
+<adminCode2>103</adminCode2>
+<adminName2>Morgan County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-87.01954</west>
+<north>34.58381</north>
+<east>-86.9977</east>
+<south>34.56582</south>
+</bbox>
+<score>41.651737213134766</score>
+</geoname>
+<geoname>
+<toponymName>Austinville</toponymName>
+<name>Austinville</name>
+<lat>41.83896</lat>
+<lng>-76.87385</lng>
+<geonameId>5178722</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>392</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PA">PA</adminCode1>
+<adminName1>Pennsylvania</adminName1>
+<adminCode2>015</adminCode2>
+<adminName2>Bradford County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-76.88592</west>
+<north>41.84796</north>
+<east>-76.86178</east>
+<south>41.82997</south>
+</bbox>
+<score>41.651737213134766</score>
+</geoname>
+<geoname>
+<toponymName>Austinville</toponymName>
+<name>Austinville</name>
+<lat>-28.15452</lat>
+<lng>153.30917</lng>
+<geonameId>8348501</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="QLD">04</adminCode1>
+<adminName1>Queensland</adminName1>
+<adminCode2>33430</adminCode2>
+<adminName2>Gold Coast</adminName2>
+<timezone dstOffset="10.0" gmtOffset="10.0">Australia/Brisbane</timezone>
+<bbox>
+<west>153.28839</west>
+<north>-28.11586</north>
+<east>153.33029</east>
+<south>-28.19988</south>
+</bbox>
+<score>26.03233528137207</score>
+</geoname>
+<geoname>
+<toponymName>Austinville</toponymName>
+<name>Austinville</name>
+<lat>42.58553</lat>
+<lng>-92.95853</lng>
+<geonameId>4847485</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>305</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IA">IA</adminCode1>
+<adminName1>Iowa</adminName1>
+<adminCode2>023</adminCode2>
+<adminName2>Butler County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>13.016167640686035</score>
+</geoname>
+<geoname>
+<toponymName>Autainville</toponymName>
+<name>Autainville</name>
+<lat>47.88177</lat>
+<lng>1.41662</lng>
+<geonameId>3035978</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>331</population>
+<alternateNames>Autainville</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="F">A3</adminCode1>
+<adminName1>Centre</adminName1>
+<adminCode2>41</adminCode2>
+<adminName2>Loir-et-Cher</adminName2>
+<adminCode3>411</adminCode3>
+<adminName3>Arrondissement de Blois</adminName3>
+<adminCode4>41006</adminCode4>
+<adminName4>Autainville</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Autainville</alternateName>
+<alternateName lang="post">41240</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>1.41527</west>
+<north>47.88267</north>
+<east>1.41796</east>
+<south>47.88087</south>
+</bbox>
+<score>6.47002649307251</score>
+</geoname>
+<geoname>
+<toponymName>Autainville</toponymName>
+<name>Autainville</name>
+<lat>47.88111</lat>
+<lng>1.41556</lng>
+<geonameId>6452309</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population>358</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="F">A3</adminCode1>
+<adminName1>Centre</adminName1>
+<adminCode2>41</adminCode2>
+<adminName2>Loir-et-Cher</adminName2>
+<adminCode3>411</adminCode3>
+<adminName3>Arrondissement de Blois</adminName3>
+<adminCode4>41006</adminCode4>
+<adminName4>Autainville</adminName4>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>1.38758</west>
+<north>47.92017</north>
+<east>1.45774</east>
+<south>47.84765</south>
+</bbox>
+<score>5.282754421234131</score>
+</geoname>
+<geoname>
+<toponymName>Auzainville</toponymName>
+<name>Auzainville</name>
+<lat>48.41109</lat>
+<lng>1.66684</lng>
+<geonameId>3035820</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="F">A3</adminCode1>
+<adminName1>Centre</adminName1>
+<adminCode2>28</adminCode2>
+<adminName2>Eure-et-Loir</adminName2>
+<adminCode3>281</adminCode3>
+<adminName3>Arrondissement de Chartres</adminName3>
+<adminCode4>28160</adminCode4>
+<adminName4>Francourville</adminName4>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>1.65329</west>
+<north>48.42009</north>
+<east>1.68039</east>
+<south>48.4021</south>
+</bbox>
+<score>4.4451518058776855</score>
+</geoname>
+<geoname>
+<toponymName>Aunainville</toponymName>
+<name>Aunainville</name>
+<lat>48.41787</lat>
+<lng>1.80693</lng>
+<geonameId>3036089</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="F">A3</adminCode1>
+<adminName1>Centre</adminName1>
+<adminCode2>28</adminCode2>
+<adminName2>Eure-et-Loir</adminName2>
+<adminCode3>281</adminCode3>
+<adminName3>Arrondissement de Chartres</adminName3>
+<adminCode4>28074</adminCode4>
+<adminName4>La Chapelle-d'Aunainville</adminName4>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>1.79338</west>
+<north>48.42686</north>
+<east>1.82049</east>
+<south>48.40888</south>
+</bbox>
+<score>4.4451518058776855</score>
+</geoname>
+</geonames>

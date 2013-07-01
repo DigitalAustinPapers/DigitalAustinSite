@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Memorial</toponymName>
+<name>Memorial</name>
+<lat>41.09138</lat>
+<lng>-8.24571</lng>
+<geonameId>2737736</geonameId>
+<countryCode>PT</countryCode>
+<countryName>Portugal</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="13">17</adminCode1>
+<adminName1>Porto</adminName1>
+<adminCode2>1307</adminCode2>
+<adminName2>Marco de Canaveses</adminName2>
+<adminCode3>130701</adminCode3>
+<adminName3>Alpendurada e Matos</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Lisbon</timezone>
+<bbox>
+<west>-8.25764</west>
+<north>41.10037</north>
+<east>-8.23377</east>
+<south>41.08238</south>
+</bbox>
+<score>43.17241287231445</score>
+</geoname>
+<geoname>
+<toponymName>Memória</toponymName>
+<name>Memória</name>
+<lat>39.79327</lat>
+<lng>-8.65518</lng>
+<geonameId>8012377</geonameId>
+<countryCode>PT</countryCode>
+<countryName>Portugal</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="10">13</adminCode1>
+<adminName1>Leiria</adminName1>
+<adminCode2>1009</adminCode2>
+<adminName2>Leiria</adminName2>
+<adminCode3>100927</adminCode3>
+<adminName3>Memória</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Lisbon</timezone>
+<bbox>
+<west>-8.68702</west>
+<north>39.81163</north>
+<east>-8.62333</east>
+<south>39.77491</south>
+</bbox>
+<score>20.80986976623535</score>
+</geoname>
+<geoname>
+<toponymName>Memorial</toponymName>
+<name>Memorial</name>
+<lat>-33.24693</lat>
+<lng>20.48052</lng>
+<geonameId>977077</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>S</fcl>
+<fcode>RSD</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>railroad siding</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="WC">11</adminCode1>
+<adminName1>Western Cape</adminName1>
+<adminCode2>DC5</adminCode2>
+<adminName2>Central Karoo District Municipality</adminName2>
+<adminCode3>WC051</adminCode3>
+<adminName3>Laingsburg</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<score>13.491378784179688</score>
+</geoname>
+<geoname>
+<toponymName>Memória</toponymName>
+<name>Memória</name>
+<lat>-2.84258</lat>
+<lng>-61.99319</lng>
+<geonameId>8515460</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPLL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated locality</fcodeName>
+<population/>
+<alternateNames>Memoria,Memória</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="AM">04</adminCode1>
+<adminName1>Amazonas</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="pt">Memória</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Manaus</timezone>
+<bbox>
+<west>-61.99409</west>
+<north>-2.84169</north>
+<east>-61.99229</east>
+<south>-2.84348</south>
+</bbox>
+<score>8.40845775604248</score>
+</geoname>
+<geoname>
+<toponymName>Memória</toponymName>
+<name>Memória</name>
+<lat>38.70833</lat>
+<lng>-9.2</lng>
+<geonameId>2572227</geonameId>
+<countryCode>PT</countryCode>
+<countryName>Portugal</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="11">14</adminCode1>
+<adminName1>Lisbon</adminName1>
+<adminCode2>1106</adminCode2>
+<adminName2>Lisbon</adminName2>
+<adminCode3>110601</adminCode3>
+<adminName3>Ajuda</adminName3>
+<alternateName lang="unlc">MEM</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Lisbon</timezone>
+<bbox>
+<west>-9.20461</west>
+<north>38.71193</north>
+<east>-9.19539</east>
+<south>38.70474</south>
+</bbox>
+<score>5.945677280426025</score>
+</geoname>
+</geonames>

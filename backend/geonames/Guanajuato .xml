@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>11</totalResultsCount>
+<geoname>
+<toponymName>Guanajuato</toponymName>
+<name>Guanajuato</name>
+<lat>21.01858</lat>
+<lng>-101.2591</lng>
+<geonameId>4005270</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population>78364</population>
+<alternateNames>Ciudad Guanajuato,Guanajuato,Guanakhuato,guanafuato shi,Гуанахуато,グアナフアト市</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GUA">11</adminCode1>
+<adminName1>Guanajuato</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ca">Guanajuato</alternateName>
+<alternateName lang="da">Guanajuato</alternateName>
+<alternateName lang="de">Guanajuato</alternateName>
+<alternateName lang="en">Guanajuato</alternateName>
+<alternateName lang="es">Guanajuato</alternateName>
+<alternateName lang="fr">Guanajuato</alternateName>
+<alternateName lang="ja">グアナフアト市</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Guanajuato%2C_Guanajuato</alternateName>
+<alternateName lang="nl">Guanajuato</alternateName>
+<alternateName lang="pl">Guanajuato</alternateName>
+<alternateName lang="pt">Guanajuato</alternateName>
+<alternateName lang="ru">Гуанахуато</alternateName>
+<alternateName lang="sv">Guanajuato</alternateName>
+<alternateName lang="unlc">GUA</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-101.29795</west>
+<north>21.05483</north>
+<east>-101.22025</east>
+<south>20.98232</south>
+</bbox>
+<score>182.56137084960938</score>
+</geoname>
+<geoname>
+<toponymName>Estado de Guanajuato</toponymName>
+<name>Guanajuato</name>
+<lat>21</lat>
+<lng>-101</lng>
+<geonameId>4005267</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>first-order administrative division</fcodeName>
+<population>4908056</population>
+<alternateNames>Estado de Guanajuato,Estat de Guanajuato,Etat de Guanajuato,GUA,Gto,Guanajuato,Guanajuato osariik,gua na hua tuo zhou,guanafuato zhou,État de Guanajuato,グアナフアト州,瓜納華托州</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GUA">11</adminCode1>
+<adminName1>Guanajuato</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="abbr">GUA</alternateName>
+<alternateName lang="ca">Estat de Guanajuato</alternateName>
+<alternateName lang="cs">Guanajuato</alternateName>
+<alternateName lang="da">Guanajuato</alternateName>
+<alternateName lang="de">Guanajuato</alternateName>
+<alternateName lang="en">Guanajuato</alternateName>
+<alternateName lang="eo">Guanajuato</alternateName>
+<alternateName lang="es">Guanajuato</alternateName>
+<alternateName lang="et">Guanajuato osariik</alternateName>
+<alternateName lang="eu">Guanajuato</alternateName>
+<alternateName lang="fi">Guanajuato</alternateName>
+<alternateName lang="fr">État de Guanajuato</alternateName>
+<alternateName lang="gl">Guanajuato</alternateName>
+<alternateName lang="id">Guanajuato</alternateName>
+<alternateName lang="it">Guanajuato</alternateName>
+<alternateName lang="ja">グアナフアト州</alternateName>
+<alternateName lang="kw">Guanajuato</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Guanajuato</alternateName>
+<alternateName lang="nl">Guanajuato</alternateName>
+<alternateName lang="no">Guanajuato</alternateName>
+<alternateName lang="pl">Guanajuato</alternateName>
+<alternateName lang="pt">Guanajuato</alternateName>
+<alternateName lang="zh">瓜納華托州</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-102.1089</west>
+<north>21.86222</north>
+<east>-99.72168</east>
+<south>19.90139</south>
+</bbox>
+<score>104.38345336914062</score>
+</geoname>
+<geoname>
+<toponymName>Guanajuato</toponymName>
+<name>Guanajuato</name>
+<lat>32.51857</lat>
+<lng>-115.33847</lng>
+<geonameId>4011592</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Ejido Guanajuato,Guanajuato</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="BCN">02</adminCode1>
+<adminName1>Baja California</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Tijuana</timezone>
+<bbox>
+<west>-115.34913</west>
+<north>32.52756</north>
+<east>-115.3278</east>
+<south>32.50957</south>
+</bbox>
+<score>50.11408233642578</score>
+</geoname>
+<geoname>
+<toponymName>Guanajuato</toponymName>
+<name>Guanajuato</name>
+<lat>26.52108</lat>
+<lng>-100.78103</lng>
+<geonameId>4022827</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Guanajuato,Rancho Guanajuato</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NLE">19</adminCode1>
+<adminName1>Nuevo León</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="es">Guanajuato</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<bbox>
+<west>-100.79109</west>
+<north>26.53007</north>
+<east>-100.77098</east>
+<south>26.51208</south>
+</bbox>
+<score>50.11408233642578</score>
+</geoname>
+<geoname>
+<toponymName>Guanajuato</toponymName>
+<name>Guanajuato</name>
+<lat>15.10592</lat>
+<lng>-92.25265</lng>
+<geonameId>3527270</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CHP">05</adminCode1>
+<adminName1>Chiapas</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-92.26196</west>
+<north>15.11491</north>
+<east>-92.24333</east>
+<south>15.09693</south>
+</bbox>
+<score>40.91797637939453</score>
+</geoname>
+<geoname>
+<toponymName>Guanajuato</toponymName>
+<name>Guanajuato</name>
+<lat>15.64786</lat>
+<lng>-93.15652</lng>
+<geonameId>3816852</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CHP">05</adminCode1>
+<adminName1>Chiapas</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-93.16586</west>
+<north>15.65685</north>
+<east>-93.14718</east>
+<south>15.63887</south>
+</bbox>
+<score>40.91797637939453</score>
+</geoname>
+<geoname>
+<toponymName>Guanajuato</toponymName>
+<name>Guanajuato</name>
+<lat>25.5602</lat>
+<lng>-107.36696</lng>
+<geonameId>3976716</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SIN">25</adminCode1>
+<adminName1>Sinaloa</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Mazatlan</timezone>
+<bbox>
+<west>-107.37693</west>
+<north>25.56919</north>
+<east>-107.35699</east>
+<south>25.55121</south>
+</bbox>
+<score>40.91797637939453</score>
+</geoname>
+<geoname>
+<toponymName>Guanajuato</toponymName>
+<name>Guanajuato</name>
+<lat>25.52253</lat>
+<lng>-100.93599</lng>
+<geonameId>4005268</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="COA">07</adminCode1>
+<adminName1>Coahuila</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<bbox>
+<west>-100.94595</west>
+<north>25.53152</north>
+<east>-100.92602</east>
+<south>25.51353</south>
+</bbox>
+<score>40.91797637939453</score>
+</geoname>
+<geoname>
+<toponymName>Guanajuato</toponymName>
+<name>Guanajuato</name>
+<lat>23.09047</lat>
+<lng>-103.08561</lng>
+<geonameId>4005269</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ZAC">32</adminCode1>
+<adminName1>Zacatecas</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-103.09539</west>
+<north>23.09946</north>
+<east>-103.07583</east>
+<south>23.08147</south>
+</bbox>
+<score>40.91797637939453</score>
+</geoname>
+<geoname>
+<toponymName>Guanajuato</toponymName>
+<name>Guanajuato</name>
+<lat>19.8</lat>
+<lng>-104.35</lng>
+<geonameId>4005271</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="JAL">14</adminCode1>
+<adminName1>Jalisco</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-104.35956</west>
+<north>19.80899</north>
+<east>-104.34044</east>
+<south>19.79101</south>
+</bbox>
+<score>40.91797637939453</score>
+</geoname>
+</geonames>

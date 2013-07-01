@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>21</totalResultsCount>
+<geoname>
+<toponymName>Point</toponymName>
+<name>Point</name>
+<lat>32.93151</lat>
+<lng>-95.87135</lng>
+<geonameId>4719860</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>820</population>
+<alternateNames/>
+<elevation>161</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>379</adminCode2>
+<adminName2>Rains County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Point%2C_Texas</alternateName>
+<alternateName lang="post">75472</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-95.87243</west>
+<north>32.93241</north>
+<east>-95.87028</east>
+<south>32.93061</south>
+</bbox>
+<score>58.80535125732422</score>
+</geoname>
+<geoname>
+<toponymName>Point</toponymName>
+<name>Point</name>
+<lat>-34.10762</lat>
+<lng>23.41256</lng>
+<geonameId>964646</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>T</fcl>
+<fcode>PT</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>point</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="WC">11</adminCode1>
+<adminName1>Western Cape</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<score>39.20356750488281</score>
+</geoname>
+<geoname>
+<toponymName>Point</toponymName>
+<name>Point</name>
+<lat>48.41667</lat>
+<lng>16.06667</lng>
+<geonameId>2599158</geonameId>
+<countryCode>AT</countryCode>
+<countryName>Austria</countryName>
+<fcl>L</fcl>
+<fcode>FLD</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>field(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="3">03</adminCode1>
+<adminName1>Lower Austria</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Vienna</timezone>
+<score>39.20356750488281</score>
+</geoname>
+<geoname>
+<toponymName>Point</toponymName>
+<name>Point</name>
+<lat>47.41667</lat>
+<lng>13.78333</lng>
+<geonameId>2608723</geonameId>
+<countryCode>AT</countryCode>
+<countryName>Austria</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="6">06</adminCode1>
+<adminName1>Styria</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Vienna</timezone>
+<score>39.20356750488281</score>
+</geoname>
+<geoname>
+<toponymName>Point</toponymName>
+<name>Point</name>
+<lat>47.35034</lat>
+<lng>12.80817</lng>
+<geonameId>2768603</geonameId>
+<countryCode>AT</countryCode>
+<countryName>Austria</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="5">05</adminCode1>
+<adminName1>Salzburg</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Vienna</timezone>
+<bbox>
+<west>12.79489</west>
+<north>47.35933</north>
+<east>12.82145</east>
+<south>47.34134</south>
+</bbox>
+<score>39.20356750488281</score>
+</geoname>
+<geoname>
+<toponymName>Point</toponymName>
+<name>Point</name>
+<lat>47.28333</lat>
+<lng>16</lng>
+<geonameId>2768604</geonameId>
+<countryCode>AT</countryCode>
+<countryName>Austria</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="6">06</adminCode1>
+<adminName1>Styria</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Vienna</timezone>
+<bbox>
+<west>15.98674</west>
+<north>47.29233</north>
+<east>16.01326</east>
+<south>47.27434</south>
+</bbox>
+<score>39.20356750488281</score>
+</geoname>
+<geoname>
+<toponymName>Point</toponymName>
+<name>Point</name>
+<lat>47.77876</lat>
+<lng>11.68182</lng>
+<geonameId>2852932</geonameId>
+<countryCode>DE</countryCode>
+<countryName>Germany</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="BY">02</adminCode1>
+<adminName1>Bavaria</adminName1>
+<adminCode2>091</adminCode2>
+<adminName2>Upper Bavaria</adminName2>
+<adminCode3>09182</adminCode3>
+<adminName3>Landkreis Miesbach</adminName3>
+<adminCode4>09182134</adminCode4>
+<adminName4>Waakirchen</adminName4>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Berlin</timezone>
+<bbox>
+<west>11.66844</west>
+<north>47.78775</north>
+<east>11.69521</east>
+<south>47.76976</south>
+</bbox>
+<score>39.20356750488281</score>
+</geoname>
+<geoname>
+<toponymName>Point</toponymName>
+<name>Point</name>
+<lat>47.71877</lat>
+<lng>11.94274</lng>
+<geonameId>2852933</geonameId>
+<countryCode>DE</countryCode>
+<countryName>Germany</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="BY">02</adminCode1>
+<adminName1>Bavaria</adminName1>
+<adminCode2>091</adminCode2>
+<adminName2>Upper Bavaria</adminName2>
+<adminCode3>09182</adminCode3>
+<adminName3>Landkreis Miesbach</adminName3>
+<adminCode4>09182114</adminCode4>
+<adminName4>Fischbachau</adminName4>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Berlin</timezone>
+<bbox>
+<west>11.92937</west>
+<north>47.72776</north>
+<east>11.95611</east>
+<south>47.70978</south>
+</bbox>
+<score>39.20356750488281</score>
+</geoname>
+<geoname>
+<toponymName>Point</toponymName>
+<name>Point</name>
+<lat>47.66166</lat>
+<lng>11.74343</lng>
+<geonameId>2852934</geonameId>
+<countryCode>DE</countryCode>
+<countryName>Germany</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="BY">02</adminCode1>
+<adminName1>Bavaria</adminName1>
+<adminCode2>091</adminCode2>
+<adminName2>Upper Bavaria</adminName2>
+<adminCode3>09182</adminCode3>
+<adminName3>Landkreis Miesbach</adminName3>
+<adminCode4>09182124</adminCode4>
+<adminName4>Kreuth</adminName4>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Berlin</timezone>
+<bbox>
+<west>11.73008</west>
+<north>47.67065</north>
+<east>11.75679</east>
+<south>47.65267</south>
+</bbox>
+<score>39.20356750488281</score>
+</geoname>
+<geoname>
+<toponymName>Point</toponymName>
+<name>Point</name>
+<lat>47.6</lat>
+<lng>11.45</lng>
+<geonameId>2852935</geonameId>
+<countryCode>DE</countryCode>
+<countryName>Germany</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="BY">02</adminCode1>
+<adminName1>Bavaria</adminName1>
+<adminCode2>091</adminCode2>
+<adminName2>Upper Bavaria</adminName2>
+<adminCode3>09173</adminCode3>
+<adminName3>Landkreis Bad Tölz-Wolfratshausen</adminName3>
+<adminCode4>09173131</adminCode4>
+<adminName4>Jachenau</adminName4>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Berlin</timezone>
+<bbox>
+<west>11.43666</west>
+<north>47.60899</north>
+<east>11.46334</east>
+<south>47.59101</south>
+</bbox>
+<score>39.20356750488281</score>
+</geoname>
+</geonames>

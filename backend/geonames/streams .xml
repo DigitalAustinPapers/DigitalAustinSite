@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Stream</toponymName>
+<name>Stream</name>
+<lat>53.14806</lat>
+<lng>-8.00167</lng>
+<geonameId>3314113</geonameId>
+<countryCode>IE</countryCode>
+<countryName>Ireland</countryName>
+<fcl>P</fcl>
+<fcode>PPLL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="L">L</adminCode1>
+<adminName1>Leinster</adminName1>
+<adminCode2>23</adminCode2>
+<adminName2>County Offaly</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Dublin</timezone>
+<bbox>
+<west>-8.00317</west>
+<north>53.14895</north>
+<east>-8.00017</east>
+<south>53.14716</south>
+</bbox>
+<score>28.74114990234375</score>
+</geoname>
+</geonames>

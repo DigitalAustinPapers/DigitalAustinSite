@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>14</totalResultsCount>
+<geoname>
+<toponymName>Russian Federation</toponymName>
+<name>Russia</name>
+<lat>60</lat>
+<lng>100</lng>
+<geonameId>2017370</geonameId>
+<countryCode>RU</countryCode>
+<countryName>Russia</countryName>
+<fcl>A</fcl>
+<fcode>PCLI</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>independent political entity</fcodeName>
+<population>140702000</population>
+<alternateNames>Conaidhm na Ruise,Cónaidhm na Rúise,Den russiske foderasjon,Den russiske føderasjon,Errusia,Federatia Rusa,Federazione Russa,Federația Rusă,Irisi,Krievija,Lasa,Lusia,Lūsia,Nga,Orileede Rosia,Oros,Oroszorszagi Foederacio,Oroszországi Föderáció,Orílẹ́ède Rọṣia,Rasha,Rashiya,Rasia,Rasijskaa Federacya,Resej,Riisii,Risi,Risí,Rosia,Rosijs'ka Federacija,Rosja,Rossija,Rossijskaja Federacija,Rossiya,Rossiyskaya Federatsiya,Rossiyskaya Sovetskaya Federativnaya Sotsialisticheskaya Respublika,Ruossa,Ruošša,Rusastan,Rusi,Rusia,Rusii,Rusija,Rusijos Federacija,Rusiya,Ruska Federacija,Ruska federacia,Ruska federacija,Rusko,Ruská federácia,Rusland,Ruslandi,Russi,Russia,Russia nutome,Russian Federation,Russian Socialist Federative Soviet Republic,Russian Soviet Federated Socialist Republic,Russian Soviet Federative Socialist Republic,Russie,Russische Federatie,Russische Foederation,Russische Föderation,Russja,Russland,Rusujo,Rusya,Rusya Federasyonu,Rusïi,Ruush,Rwsia,Ryssland,Rússia,Rússland,Rɔhyea,Uburusiya,Urusi,Venaejae,Venemaa,Venäjä,e luo si,hbr hmdynwt hrwsywt,i-Russia,leosia,rasiya,rasiyana phedaresana,rasseiy,rasya,rauca,roshia,rusa,ruseti,rusi'a,rwsy,rwsya,rwsyh,rwsyh, hpdrzyh sl,Ρωσία,Орос,Расійская Федэрацыя,Расія,Ресей,Российская Федерация,Россия,Російська Федерація,Росія,Русия,Русија,Руска Федерация,Ռուսաստան,חבר המדינות הרוסיות,רוסיה, הפדרציה של,روسيا,روسی,روسیه,ڕووسیا,रशिया,रूस,রাশিয়া,রাশিয়া,ৰুচ,રશિયન ફેડરેશન,ରୁଷିଆ,ரஷ்யா,రష్య,ರಶಿಯಾ,റഷ്യ,රුසියාව,รัสเซีย,ລັດເຊຍ,ཨུ་རུ་སུ་,ရုရှ,რუსეთი,ራሺያ,រូស្ស៊ី,ロシア,俄罗斯,ꊉꇆꌦ,러시아</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="aa">Russia</alternateName>
+<alternateName lang="af">Rusland</alternateName>
+<alternateName lang="ak">Rɔhyea</alternateName>
+<alternateName lang="am">ራሺያ</alternateName>
+<alternateName lang="ar">روسيا</alternateName>
+<alternateName lang="as">ৰুচ</alternateName>
+<alternateName lang="az">Rusiya</alternateName>
+<alternateName lang="be">Расійская Федэрацыя</alternateName>
+<alternateName lang="bg">Русия</alternateName>
+<alternateName lang="bm">Irisi</alternateName>
+<alternateName lang="bn">রাশিয়া</alternateName>
+<alternateName lang="bo">ཨུ་རུ་སུ་</alternateName>
+<alternateName lang="br">Rusia</alternateName>
+<alternateName lang="bs">Rusija</alternateName>
+<alternateName lang="ca">Rússia</alternateName>
+<alternateName lang="cs">Rusko</alternateName>
+<alternateName lang="cy">Rwsia</alternateName>
+<alternateName lang="da">Rusland</alternateName>
+<alternateName lang="de">Russland</alternateName>
+<alternateName lang="ee">Russia nutome</alternateName>
+<alternateName lang="el">Ρωσία</alternateName>
+<alternateName lang="en">Russia</alternateName>
+<alternateName lang="eo">Rusujo</alternateName>
+<alternateName lang="es">Rusia</alternateName>
+<alternateName lang="et">Venemaa</alternateName>
+<alternateName lang="eu">Errusia</alternateName>
+<alternateName lang="fa">روسیه</alternateName>
+<alternateName lang="ff">Riisii</alternateName>
+<alternateName lang="fi">Venäjä</alternateName>
+<alternateName lang="fo">Russland</alternateName>
+<alternateName lang="fr">Russie</alternateName>
+<alternateName lang="ga">Cónaidhm na Rúise</alternateName>
+<alternateName lang="gl">Rusia</alternateName>
+<alternateName lang="gu">રશિયન ફેડરેશન</alternateName>
+<alternateName lang="ha">Rasha</alternateName>
+<alternateName lang="he">חבר המדינות הרוסיות</alternateName>
+<alternateName lang="hi">रूस</alternateName>
+<alternateName lang="hr">Rusija</alternateName>
+<alternateName lang="hu">Oroszországi Föderáció</alternateName>
+<alternateName lang="hy">Ռուսաստան</alternateName>
+<alternateName lang="id">Rusia</alternateName>
+<alternateName lang="ii">ꊉꇆꌦ</alternateName>
+<alternateName lang="is">Rússland</alternateName>
+<alternateName lang="it">Russia</alternateName>
+<alternateName lang="ja">ロシア</alternateName>
+<alternateName lang="ka">რუსეთი</alternateName>
+<alternateName lang="ki">Urusi</alternateName>
+<alternateName lang="kk">Ресей</alternateName>
+<alternateName lang="kl">Ruslandi</alternateName>
+<alternateName lang="km">រូស្ស៊ី</alternateName>
+<alternateName lang="kn">ರಶಿಯಾ</alternateName>
+<alternateName lang="ko">러시아</alternateName>
+<alternateName lang="ku">ڕووسیا</alternateName>
+<alternateName lang="kw">Russi</alternateName>
+<alternateName lang="lg">Lasa</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Russia</alternateName>
+<alternateName lang="ln">Risí</alternateName>
+<alternateName lang="lo">ລັດເຊຍ</alternateName>
+<alternateName lang="lt">Rusijos Federacija</alternateName>
+<alternateName lang="lu">Risi</alternateName>
+<alternateName lang="lv">Krievija</alternateName>
+<alternateName lang="mg">Rosia</alternateName>
+<alternateName lang="mk">Русија</alternateName>
+<alternateName lang="ml">റഷ്യ</alternateName>
+<alternateName lang="mn">Орос</alternateName>
+<alternateName lang="mr">रशिया</alternateName>
+<alternateName lang="ms">Rusia</alternateName>
+<alternateName lang="mt">Russja</alternateName>
+<alternateName lang="my">ရုရှ</alternateName>
+<alternateName lang="nb">Russland</alternateName>
+<alternateName lang="nd">Rashiya</alternateName>
+<alternateName lang="ne">रूस</alternateName>
+<alternateName lang="nl">Rusland</alternateName>
+<alternateName lang="nn">Russland</alternateName>
+<alternateName lang="no">Russland</alternateName>
+<alternateName lang="oc">Russia</alternateName>
+<alternateName lang="om">Russia</alternateName>
+<alternateName lang="or">ରୁଷିଆ</alternateName>
+<alternateName lang="pl">Rosja</alternateName>
+<alternateName lang="ps">روسیه</alternateName>
+<alternateName lang="pt">Rússia</alternateName>
+<alternateName lang="rm">Russia</alternateName>
+<alternateName lang="rn">Uburusiya</alternateName>
+<alternateName lang="ro">Federația Rusă</alternateName>
+<alternateName lang="ru">Россия</alternateName>
+<alternateName lang="se">Ruošša</alternateName>
+<alternateName lang="sg">Rusïi</alternateName>
+<alternateName lang="si">රුසියාව</alternateName>
+<alternateName lang="sk">Rusko</alternateName>
+<alternateName lang="sl">Rusija</alternateName>
+<alternateName lang="sn">Russia</alternateName>
+<alternateName lang="so">Ruush</alternateName>
+<alternateName lang="sq">Rusi</alternateName>
+<alternateName lang="sr">Русија</alternateName>
+<alternateName lang="sv">Ryssland</alternateName>
+<alternateName lang="sw">Urusi</alternateName>
+<alternateName lang="ta">ரஷ்யா</alternateName>
+<alternateName lang="te">రష్య</alternateName>
+<alternateName lang="th">รัสเซีย</alternateName>
+<alternateName lang="ti">ራሺያ</alternateName>
+<alternateName lang="to">Lūsia</alternateName>
+<alternateName lang="tr">Rusya</alternateName>
+<alternateName lang="tt">Россия</alternateName>
+<alternateName lang="uk">Російська Федерація</alternateName>
+<alternateName lang="ur">روسی</alternateName>
+<alternateName lang="uz">Россия</alternateName>
+<alternateName lang="vi">Nga</alternateName>
+<alternateName lang="yo">Orílẹ́ède Rọṣia</alternateName>
+<alternateName lang="zh">俄罗斯</alternateName>
+<alternateName lang="zu">i-Russia</alternateName>
+<bbox>
+<west>19.63816</west>
+<north>81.85737</north>
+<east>-169.00235</east>
+<south>-43.12078</south>
+</bbox>
+<score>80.24070739746094</score>
+</geoname>
+<geoname>
+<toponymName>Russia</toponymName>
+<name>Russia</name>
+<lat>43.25868</lat>
+<lng>-75.08211</lng>
+<geonameId>5134662</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>344</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>043</adminCode2>
+<adminName2>Herkimer County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Russia%2C_New_York</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-75.09446</west>
+<north>43.26767</north>
+<east>-75.06975</east>
+<south>43.24969</south>
+</bbox>
+<score>57.496337890625</score>
+</geoname>
+<geoname>
+<toponymName>Russia</toponymName>
+<name>Russia</name>
+<lat>40.23449</lat>
+<lng>-84.40939</lng>
+<geonameId>5168839</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>640</population>
+<alternateNames/>
+<elevation>295</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>149</adminCode2>
+<adminName2>Shelby County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Russia%2C_Ohio</alternateName>
+<alternateName lang="post">45363</alternateName>
+<alternateName lang="unlc">USS</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-84.41057</west>
+<north>40.23539</north>
+<east>-84.40822</east>
+<south>40.23359</south>
+</bbox>
+<score>47.913612365722656</score>
+</geoname>
+<geoname>
+<toponymName>Russia</toponymName>
+<name>Russia</name>
+<lat>41.04065</lat>
+<lng>-74.53266</lng>
+<geonameId>5103567</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>288</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NJ">NJ</adminCode1>
+<adminName1>New Jersey</adminName1>
+<adminCode2>027</adminCode2>
+<adminName2>Morris County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-74.54458</west>
+<north>41.04965</north>
+<east>-74.52073</east>
+<south>41.03166</south>
+</bbox>
+<score>38.33089065551758</score>
+</geoname>
+<geoname>
+<toponymName>Russia</toponymName>
+<name>Russia</name>
+<lat>44.67365</lat>
+<lng>-73.78209</lng>
+<geonameId>5134661</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>453</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>019</adminCode2>
+<adminName2>Clinton County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-73.79474</west>
+<north>44.68265</north>
+<east>-73.76944</east>
+<south>44.66466</south>
+</bbox>
+<score>38.33089065551758</score>
+</geoname>
+<geoname>
+<toponymName>Russin</toponymName>
+<name>Russin</name>
+<lat>46.19387</lat>
+<lng>6.01397</lng>
+<geonameId>7286993</geonameId>
+<countryCode>CH</countryCode>
+<countryName>Switzerland</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population>467</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="GE">GE</adminCode1>
+<adminName1>Geneva</adminName1>
+<adminCode2>2500</adminCode2>
+<adminName2>Geneva</adminName2>
+<adminCode3>6637</adminCode3>
+<adminName3>Russin</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Zurich</timezone>
+<bbox>
+<west>5.99231</west>
+<north>46.20985</north>
+<east>6.03143</east>
+<south>46.1768</south>
+</bbox>
+<score>12.225546836853027</score>
+</geoname>
+<geoname>
+<toponymName>Russka</toponymName>
+<name>Russka</name>
+<lat>58.98945</lat>
+<lng>28.48931</lng>
+<geonameId>500492</geonameId>
+<countryCode>RU</countryCode>
+<countryName>Russia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Russka,Русска</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="LEN">42</adminCode1>
+<adminName1>Leningrad</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ru">Русска</alternateName>
+<timezone dstOffset="4.0" gmtOffset="4.0">Europe/Moscow</timezone>
+<bbox>
+<west>28.47185</west>
+<north>58.99845</north>
+<east>28.50677</east>
+<south>58.98046</south>
+</bbox>
+<score>10.64862060546875</score>
+</geoname>
+<geoname>
+<toponymName>Russin</toponymName>
+<name>Russin</name>
+<lat>46.18696</lat>
+<lng>6.01381</lng>
+<geonameId>2658916</geonameId>
+<countryCode>CH</countryCode>
+<countryName>Switzerland</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>406</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="GE">GE</adminCode1>
+<adminName1>Geneva</adminName1>
+<adminCode2>2500</adminCode2>
+<adminName2>Geneva</adminName2>
+<adminCode3>6637</adminCode3>
+<adminName3>Russin</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Russin</alternateName>
+<alternateName lang="post">1281</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Zurich</timezone>
+<bbox>
+<west>6.01251</west>
+<north>46.18786</north>
+<east>6.01511</east>
+<south>46.18606</south>
+</bbox>
+<score>10.479040145874023</score>
+</geoname>
+<geoname>
+<toponymName>Ruasia</toponymName>
+<name>Ruasia</name>
+<lat>-0.65</lat>
+<lng>36.86667</lng>
+<geonameId>181065</geonameId>
+<countryCode>KE</countryCode>
+<countryName>Kenya</countryName>
+<fcl>T</fcl>
+<fcode>HLL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>hill</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="200">01</adminCode1>
+<adminName1>KE.01</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="3.0" gmtOffset="3.0">Africa/Nairobi</timezone>
+<score>7.347953796386719</score>
+</geoname>
+<geoname>
+<toponymName>Russua</toponymName>
+<name>Russua</name>
+<lat>-14.70944</lat>
+<lng>38.42278</lng>
+<geonameId>1027810</geonameId>
+<countryCode>MZ</countryCode>
+<countryName>Mozambique</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="N">06</adminCode1>
+<adminName1>Nampula</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Maputo</timezone>
+<bbox>
+<west>38.41348</west>
+<north>-14.70045</north>
+<east>38.43208</east>
+<south>-14.71844</south>
+</bbox>
+<score>7.347953796386719</score>
+</geoname>
+</geonames>

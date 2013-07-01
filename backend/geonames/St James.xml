@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>6</totalResultsCount>
+<geoname>
+<toponymName>St. James</toponymName>
+<name>St. James</name>
+<lat>49.8858</lat>
+<lng>-97.24345</lng>
+<geonameId>6156868</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MB">03</adminCode1>
+<adminName1>Manitoba</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Winnipeg</timezone>
+<score>42.44248962402344</score>
+</geoname>
+<geoname>
+<toponymName>St. James</toponymName>
+<name>St. James</name>
+<lat>49.9006</lat>
+<lng>-97.14234</lng>
+<geonameId>6156869</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MB">03</adminCode1>
+<adminName1>Manitoba</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Winnipeg</timezone>
+<score>42.44248962402344</score>
+</geoname>
+<geoname>
+<toponymName>Saint James</toponymName>
+<name>Saint James</name>
+<lat>39.5626</lat>
+<lng>-77.75805</lng>
+<geonameId>4367872</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2953</population>
+<alternateNames>Sent-Dzhejms,St. James,Сент-Джеймс</alternateNames>
+<elevation>139</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MD">MD</adminCode1>
+<adminName1>Maryland</adminName1>
+<adminCode2>043</adminCode2>
+<adminName2>Washington County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/St._James%2C_Maryland</alternateName>
+<alternateName lang="post">21781</alternateName>
+<alternateName lang="ru">Сент-Джеймс</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-77.7663</west>
+<north>39.56896</north>
+<east>-77.7498</east>
+<south>39.55624</south>
+</bbox>
+<score>37.51421356201172</score>
+</geoname>
+<geoname>
+<toponymName>Saint James</toponymName>
+<name>Saint James</name>
+<lat>40.87899</lat>
+<lng>-73.15678</lng>
+<geonameId>5135192</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>13338</population>
+<alternateNames>Sent-Dzhejms,St. James,Сент-Джеймс</alternateNames>
+<elevation>46</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>103</adminCode2>
+<adminName2>Suffolk County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/St._James%2C_New_York</alternateName>
+<alternateName lang="post">11780</alternateName>
+<alternateName lang="ru">Сент-Джеймс</alternateName>
+<alternateName lang="unlc">TJS</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-73.17651</west>
+<north>40.8939</north>
+<east>-73.13705</east>
+<south>40.86407</south>
+</bbox>
+<score>37.51421356201172</score>
+</geoname>
+<geoname>
+<toponymName>St James</toponymName>
+<name>St James</name>
+<lat>-32.00004</lat>
+<lng>115.9098</lng>
+<geonameId>8349362</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="WA">08</adminCode1>
+<adminName1>Western Australia</adminName1>
+<adminCode2>58510</adminCode2>
+<adminName2>Victoria Park</adminName2>
+<timezone dstOffset="8.0" gmtOffset="8.0">Australia/Perth</timezone>
+<bbox>
+<west>115.89995</west>
+<north>-31.99229</north>
+<east>115.92066</east>
+<south>-32.00673</south>
+</bbox>
+<score>26.52655601501465</score>
+</geoname>
+<geoname>
+<toponymName>St James</toponymName>
+<name>St James</name>
+<lat>54.97407</lat>
+<lng>-1.62098</lng>
+<geonameId>7677047</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>MTRO</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>metro station</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I7</adminCode2>
+<adminName2>Newcastle upon Tyne</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>13.263278007507324</score>
+</geoname>
+</geonames>

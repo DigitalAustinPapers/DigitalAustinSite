@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>56</totalResultsCount>
+<geoname>
+<toponymName>Maryland</toponymName>
+<name>Maryland</name>
+<lat>39.00039</lat>
+<lng>-76.74997</lng>
+<geonameId>4361885</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>first-order administrative division</fcodeName>
+<population>5624246</population>
+<alternateNames>MD,Ma-li-lan,Marianland,Marilando,Marylan,Maryland,Maryland Shitati,Maryland suyu,Marylân,Meelin Hahoodzo,Mehrilehnd,Mehrilend,Melelana,Meriland,Merilandas,Merilann,Merilant,Merilend,Merilenda,Mâ-lî-làn,Méelin Hahoodzo,Mérílạnd,Mērilenda,Old Line State,Shtat Mehrylend,State of Maryland,Terra Mariae,Tir Maria,ma li lan zhou,mairilainda,maryland,melillaendeu ju,merilamda,merilantu,merilendi,merilyand,merilyanda,merirando zhou,mrylnd,Μέριλαντ,Мериленд,Меріленд,Мэриленд,Мэрилэнд,Штат Мэрыленд,Մերիլենդ,מארילאנד,מרילנד,ماريلاند,مریلند,میرِلَنڈ,میری لینڈ,مەریلەند,ܡܐܪܝܠܐܢܕ,मेरीलँड,मैरीलैंड,মেরিল্যান্ড,மேரிலாந்து,మేరీల్యాండ్,ಮೇರಿಲ್ಯಾಂಡ್,മെരിലാൻ‌ഡ്,รัฐแมริแลนด์,མ་རིས་ལེན་ཌ།,မေရီလန်းပြည်နယ်,მერილენდი,ሜሪላንድ,メリーランド州,马里兰州,메릴랜드 주</alternateNames>
+<elevation>42</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MD">MD</adminCode1>
+<adminName1>Maryland</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="abbr">MD</alternateName>
+<alternateName lang="am">ሜሪላንድ</alternateName>
+<alternateName lang="ang">Marianland</alternateName>
+<alternateName lang="ar">ماريلاند</alternateName>
+<alternateName lang="arc">ܡܐܪܝܠܐܢܕ</alternateName>
+<alternateName lang="arz">ماريلاند</alternateName>
+<alternateName lang="ay">Maryland suyu</alternateName>
+<alternateName lang="az">Merilend</alternateName>
+<alternateName lang="be">Штат Мэрыленд</alternateName>
+<alternateName lang="bg">Мериленд</alternateName>
+<alternateName lang="bn">মেরিল্যান্ড</alternateName>
+<alternateName lang="bo">མ་རིས་ལེན་ཌ།</alternateName>
+<alternateName lang="bpy">মেরিল্যান্ড</alternateName>
+<alternateName lang="br">Maryland</alternateName>
+<alternateName lang="bs">Maryland</alternateName>
+<alternateName lang="ca">Maryland</alternateName>
+<alternateName lang="ckb">مەریلەند</alternateName>
+<alternateName lang="cs">Maryland</alternateName>
+<alternateName lang="da">Maryland</alternateName>
+<alternateName lang="de">Maryland</alternateName>
+<alternateName lang="el">Μέριλαντ</alternateName>
+<alternateName lang="en">Maryland</alternateName>
+<alternateName lang="eo">Marilando</alternateName>
+<alternateName lang="es">Maryland</alternateName>
+<alternateName lang="et">Maryland</alternateName>
+<alternateName lang="eu">Maryland</alternateName>
+<alternateName lang="fa">مریلند</alternateName>
+<alternateName lang="fi">Maryland</alternateName>
+<alternateName lang="fr">Maryland</alternateName>
+<alternateName lang="frp">Maryland</alternateName>
+<alternateName lang="fy">Marylân</alternateName>
+<alternateName lang="ga">Maryland</alternateName>
+<alternateName lang="gd">Maryland</alternateName>
+<alternateName lang="gl">Maryland</alternateName>
+<alternateName lang="hak">Mâ-lî-làn</alternateName>
+<alternateName lang="haw">Melelana</alternateName>
+<alternateName lang="he">מרילנד</alternateName>
+<alternateName lang="hi">मैरीलैंड</alternateName>
+<alternateName lang="hr">Maryland</alternateName>
+<alternateName lang="ht">Merilann</alternateName>
+<alternateName lang="hu">Maryland</alternateName>
+<alternateName lang="hy">Մերիլենդ</alternateName>
+<alternateName lang="id">Maryland</alternateName>
+<alternateName lang="ig">Mérílạnd</alternateName>
+<alternateName lang="io">Maryland</alternateName>
+<alternateName lang="is">Maryland</alternateName>
+<alternateName lang="it">Maryland</alternateName>
+<alternateName lang="ja">メリーランド州</alternateName>
+<alternateName lang="ka">მერილენდი</alternateName>
+<alternateName lang="kk">Мэриленд</alternateName>
+<alternateName lang="kn">ಮೇರಿಲ್ಯಾಂಡ್</alternateName>
+<alternateName lang="ko">메릴랜드 주</alternateName>
+<alternateName lang="ks">میرِلَنڈ</alternateName>
+<alternateName lang="ku">Maryland</alternateName>
+<alternateName lang="kw">Tir Maria</alternateName>
+<alternateName lang="la">Terra Mariae</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Maryland</alternateName>
+<alternateName lang="lt">Merilandas</alternateName>
+<alternateName lang="lv">Mērilenda</alternateName>
+<alternateName lang="mk">Мериленд</alternateName>
+<alternateName lang="ml">മെരിലാൻ‌ഡ്</alternateName>
+<alternateName lang="mn">Мэрилэнд</alternateName>
+<alternateName lang="mr">मेरीलँड</alternateName>
+<alternateName lang="mrj">Мэриленд</alternateName>
+<alternateName lang="ms">Maryland</alternateName>
+<alternateName lang="my">မေရီလန်းပြည်နယ်</alternateName>
+<alternateName lang="nds">Maryland</alternateName>
+<alternateName lang="nl">Maryland</alternateName>
+<alternateName lang="nn">Maryland</alternateName>
+<alternateName lang="no">Maryland</alternateName>
+<alternateName lang="nv">Méelin Hahoodzo</alternateName>
+<alternateName lang="oc">Maryland</alternateName>
+<alternateName lang="os">Мэриленд</alternateName>
+<alternateName lang="pl">Maryland</alternateName>
+<alternateName lang="pnb">میری لینڈ</alternateName>
+<alternateName lang="pt">Maryland</alternateName>
+<alternateName lang="qu">Maryland suyu</alternateName>
+<alternateName lang="ro">Maryland</alternateName>
+<alternateName lang="ru">Мэриленд</alternateName>
+<alternateName lang="sk">Maryland</alternateName>
+<alternateName lang="sl">Maryland</alternateName>
+<alternateName lang="sq">Maryland</alternateName>
+<alternateName lang="sr">Мериленд</alternateName>
+<alternateName lang="sv">Maryland</alternateName>
+<alternateName lang="ta">மேரிலாந்து</alternateName>
+<alternateName lang="te">మేరీల్యాండ్</alternateName>
+<alternateName lang="th">รัฐแมริแลนด์</alternateName>
+<alternateName lang="tr">Maryland</alternateName>
+<alternateName lang="tt">Мэриленд</alternateName>
+<alternateName lang="ug">Maryland Shitati</alternateName>
+<alternateName lang="uk">Меріленд</alternateName>
+<alternateName lang="ur">میری لینڈ</alternateName>
+<alternateName lang="vi">Maryland</alternateName>
+<alternateName lang="xal">Мэрилэнд</alternateName>
+<alternateName lang="yi">מארילאנד</alternateName>
+<alternateName lang="zh">马里兰州</alternateName>
+<alternateName lang="zh-CN">马里兰州</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-79.48766</west>
+<north>39.72304</north>
+<east>-74.98627</east>
+<south>37.8866</south>
+</bbox>
+<score>53.673519134521484</score>
+</geoname>
+<geoname>
+<toponymName>Maryland</toponymName>
+<name>Maryland</name>
+<lat>42.53647</lat>
+<lng>-74.88655</lng>
+<geonameId>5126153</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>375</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>077</adminCode2>
+<adminName2>Otsego County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Maryland%2C_New_York</alternateName>
+<alternateName lang="post">12116</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-74.89875</west>
+<north>42.54546</north>
+<east>-74.87434</east>
+<south>42.52747</south>
+</bbox>
+<score>36.016326904296875</score>
+</geoname>
+<geoname>
+<toponymName>Maryland County</toponymName>
+<name>Maryland County</name>
+<lat>4.75</lat>
+<lng>-7.75</lng>
+<geonameId>2275099</geonameId>
+<countryCode>LR</countryCode>
+<countryName>Liberia</countryName>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>first-order administrative division</fcodeName>
+<population/>
+<alternateNames>Maryland,Maryland County</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="MY">13</adminCode1>
+<adminName1>Maryland</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Maryland_County</alternateName>
+<timezone dstOffset="0.0" gmtOffset="0.0">Africa/Monrovia</timezone>
+<bbox>
+<west>-8.10083</west>
+<north>5.1129</north>
+<east>-7.5254</east>
+<south>4.34333</south>
+</bbox>
+<score>33.95651626586914</score>
+</geoname>
+<geoname>
+<toponymName>Maryland</toponymName>
+<name>Maryland</name>
+<lat>4.61671</lat>
+<lng>-74.20011</lng>
+<geonameId>3675189</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames>Mariland,Maryland</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="DC">34</adminCode1>
+<adminName1>Bogota D.C.</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<bbox>
+<west>-74.20372</west>
+<north>4.62031</north>
+<east>-74.1965</east>
+<south>4.61312</south>
+</bbox>
+<score>28.4742488861084</score>
+</geoname>
+<geoname>
+<toponymName>Maryland</toponymName>
+<name>Maryland</name>
+<lat>-31.51137</lat>
+<lng>25.5747</lng>
+<geonameId>978546</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="EC">05</adminCode1>
+<adminName1>Eastern Cape</adminName1>
+<adminCode2>DC13</adminCode2>
+<adminName2>Chris Hani District Municipality</adminName2>
+<adminCode3>EC131</adminCode3>
+<adminName3>Inxuba Yethemba</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<bbox>
+<west>25.56415</west>
+<north>-31.50237</north>
+<east>25.58525</east>
+<south>-31.52036</south>
+</bbox>
+<score>24.010883331298828</score>
+</geoname>
+<geoname>
+<toponymName>Maryland</toponymName>
+<name>Maryland</name>
+<lat>-28.55</lat>
+<lng>152</lng>
+<geonameId>2158554</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="NSW">02</adminCode1>
+<adminName1>New South Wales</adminName1>
+<adminCode2>17400</adminCode2>
+<adminName2>Tenterfield Municipality</adminName2>
+<timezone dstOffset="10.0" gmtOffset="11.0">Australia/Sydney</timezone>
+<bbox>
+<west>151.98976</west>
+<north>-28.54101</north>
+<east>152.01024</east>
+<south>-28.55899</south>
+</bbox>
+<score>24.010883331298828</score>
+</geoname>
+<geoname>
+<toponymName>Maryland</toponymName>
+<name>Maryland</name>
+<lat>6.57111</lat>
+<lng>3.37167</lng>
+<geonameId>2330706</geonameId>
+<countryCode>NG</countryCode>
+<countryName>Nigeria</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="LA">05</adminCode1>
+<adminName1>Lagos</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="1.0">Africa/Lagos</timezone>
+<bbox>
+<west>3.36261</west>
+<north>6.5801</north>
+<east>3.38072</east>
+<south>6.56212</south>
+</bbox>
+<score>24.010883331298828</score>
+</geoname>
+<geoname>
+<toponymName>Maryland</toponymName>
+<name>Maryland</name>
+<lat>53.9</lat>
+<lng>-9.63333</lng>
+<geonameId>2962691</geonameId>
+<countryCode>IE</countryCode>
+<countryName>Ireland</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="C">C</adminCode1>
+<adminName1>Connaught</adminName1>
+<adminCode2>20</adminCode2>
+<adminName2>County Mayo</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Dublin</timezone>
+<bbox>
+<west>-9.6486</west>
+<north>53.90899</north>
+<east>-9.61807</east>
+<south>53.89101</south>
+</bbox>
+<score>24.010883331298828</score>
+</geoname>
+<geoname>
+<toponymName>Maryland</toponymName>
+<name>Maryland</name>
+<lat>18.38941</lat>
+<lng>-78.12945</lng>
+<geonameId>3489544</geonameId>
+<countryCode>JM</countryCode>
+<countryName>Jamaica</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="09">02</adminCode1>
+<adminName1>Hanover Parish</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Jamaica</timezone>
+<bbox>
+<west>-78.13893</west>
+<north>18.3984</north>
+<east>-78.11997</east>
+<south>18.38041</south>
+</bbox>
+<score>24.010883331298828</score>
+</geoname>
+<geoname>
+<toponymName>Maryland</toponymName>
+<name>Maryland</name>
+<lat>30.54602</lat>
+<lng>-91.17594</lng>
+<geonameId>4332742</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>21</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>033</adminCode2>
+<adminName2>East Baton Rouge Parish</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-91.18638</west>
+<north>30.55502</north>
+<east>-91.1655</east>
+<south>30.53703</south>
+</bbox>
+<score>24.010883331298828</score>
+</geoname>
+</geonames>

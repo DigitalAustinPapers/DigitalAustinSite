@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>House</toponymName>
+<name>House</name>
+<lat>35.6546</lat>
+<lng>-77.36497</lng>
+<geonameId>4472130</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>9</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NC">NC</adminCode1>
+<adminName1>North Carolina</adminName1>
+<adminCode2>147</adminCode2>
+<adminName2>Pitt County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/House%2C_North_Carolina</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-77.37604</west>
+<north>35.6636</north>
+<east>-77.3539</east>
+<south>35.64561</south>
+</bbox>
+<score>64.31774139404297</score>
+</geoname>
+<geoname>
+<toponymName>House</toponymName>
+<name>House</name>
+<lat>34.64673</lat>
+<lng>-103.90441</lng>
+<geonameId>5552261</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>68</population>
+<alternateNames/>
+<elevation>1434</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NM">NM</adminCode1>
+<adminName1>New Mexico</adminName1>
+<adminCode2>037</adminCode2>
+<adminName2>Quay County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/House%2C_New_Mexico</alternateName>
+<alternateName lang="post">88121</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<bbox>
+<west>-103.9055</west>
+<north>34.64763</north>
+<east>-103.90332</east>
+<south>34.64583</south>
+</bbox>
+<score>64.31774139404297</score>
+</geoname>
+<geoname>
+<toponymName>House</toponymName>
+<name>House</name>
+<lat>32.62875</lat>
+<lng>-88.99478</lng>
+<geonameId>4430516</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>174</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MS">MS</adminCode1>
+<adminName1>Mississippi</adminName1>
+<adminCode2>099</adminCode2>
+<adminName2>Neshoba County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-89.00546</west>
+<north>32.63774</north>
+<east>-88.9841</east>
+<south>32.61975</south>
+</bbox>
+<score>42.87849426269531</score>
+</geoname>
+<geoname>
+<toponymName>House</toponymName>
+<name>House</name>
+<lat>34.34037</lat>
+<lng>-96.79501</lng>
+<geonameId>4539091</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>296</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OK">OK</adminCode1>
+<adminName1>Oklahoma</adminName1>
+<adminCode2>069</adminCode2>
+<adminName2>Johnston County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>13.399529457092285</score>
+</geoname>
+<geoname>
+<toponymName>House</toponymName>
+<name>House</name>
+<lat>29.47385</lat>
+<lng>-95.49744</lng>
+<geonameId>4699013</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>19</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>157</adminCode2>
+<adminName2>Fort Bend County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>13.399529457092285</score>
+</geoname>
+</geonames>

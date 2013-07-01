@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>283</totalResultsCount>
+<geoname>
+<toponymName>Lake Creek</toponymName>
+<name>Lake Creek</name>
+<lat>45.67107</lat>
+<lng>-89.4093</lng>
+<geonameId>5249711</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>LK</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>lake</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>474</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WI">WI</adminCode1>
+<adminName1>Wisconsin</adminName1>
+<adminCode2>085</adminCode2>
+<adminName2>Oneida County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>26.290605545043945</score>
+</geoname>
+<geoname>
+<toponymName>Lake Creek</toponymName>
+<name>Lake Creek</name>
+<lat>38.51141</lat>
+<lng>-93.13354</lng>
+<geonameId>4394148</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>297</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>015</adminCode2>
+<adminName2>Benton County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lake_Creek%2C_Missouri</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-93.14503</west>
+<north>38.5204</north>
+<east>-93.12204</east>
+<south>38.50242</south>
+</bbox>
+<score>22.534805297851562</score>
+</geoname>
+<geoname>
+<toponymName>Lake Creek</toponymName>
+<name>Lake Creek</name>
+<lat>42.42083</lat>
+<lng>-122.62278</lng>
+<geonameId>5554779</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>497</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OR">OR</adminCode1>
+<adminName1>Oregon</adminName1>
+<adminCode2>029</adminCode2>
+<adminName2>Jackson County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lake_Creek%2C_Oregon</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-122.63496</west>
+<north>42.42983</north>
+<east>-122.61059</east>
+<south>42.41184</south>
+</bbox>
+<score>22.534805297851562</score>
+</geoname>
+<geoname>
+<toponymName>Lake Creek</toponymName>
+<name>Lake Creek</name>
+<lat>34.07038</lat>
+<lng>-85.21717</lng>
+<geonameId>4204379</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>247</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">GA</adminCode1>
+<adminName1>Georgia</adminName1>
+<adminCode2>233</adminCode2>
+<adminName2>Polk County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-85.22803</west>
+<north>34.07937</north>
+<east>-85.20631</east>
+<south>34.06138</south>
+</bbox>
+<score>15.023202896118164</score>
+</geoname>
+<geoname>
+<toponymName>Lake Creek</toponymName>
+<name>Lake Creek</name>
+<lat>37.87616</lat>
+<lng>-89.02702</lng>
+<geonameId>4242489</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>118</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>055</adminCode2>
+<adminName2>Franklin County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-89.03841</west>
+<north>37.88515</north>
+<east>-89.01562</east>
+<south>37.86717</south>
+</bbox>
+<score>15.023202896118164</score>
+</geoname>
+<geoname>
+<toponymName>Lake Creek</toponymName>
+<name>Lake Creek</name>
+<lat>35.0295</lat>
+<lng>-99.41342</lng>
+<geonameId>4540497</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>506</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OK">OK</adminCode1>
+<adminName1>Oklahoma</adminName1>
+<adminCode2>055</adminCode2>
+<adminName2>Greer County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-99.4244</west>
+<north>35.03849</north>
+<east>-99.40244</east>
+<south>35.02051</south>
+</bbox>
+<score>15.023202896118164</score>
+</geoname>
+<geoname>
+<toponymName>Lake Creek</toponymName>
+<name>Lake Creek</name>
+<lat>31.50934</lat>
+<lng>-96.95055</lng>
+<geonameId>4704466</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>149</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>309</adminCode2>
+<adminName2>McLennan County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-96.9611</west>
+<north>31.51833</north>
+<east>-96.94</east>
+<south>31.50034</south>
+</bbox>
+<score>15.023202896118164</score>
+</geoname>
+<geoname>
+<toponymName>Lakes Creek</toponymName>
+<name>Lakes Creek</name>
+<lat>-23.38333</lat>
+<lng>150.56667</lng>
+<geonameId>2160737</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="QLD">04</adminCode1>
+<adminName1>Queensland</adminName1>
+<adminCode2>36360</adminCode2>
+<adminName2>Rockhampton</adminName2>
+<timezone dstOffset="10.0" gmtOffset="10.0">Australia/Brisbane</timezone>
+<bbox>
+<west>150.54878</west>
+<north>-23.3446</north>
+<east>150.5876</east>
+<south>-23.3991</south>
+</bbox>
+<score>13.166942596435547</score>
+</geoname>
+<geoname>
+<toponymName>Lake Creek</toponymName>
+<name>Lake Creek</name>
+<lat>33.44733</lat>
+<lng>-95.58801</lng>
+<geonameId>4704462</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>135</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>119</adminCode2>
+<adminName2>Delta County</adminName2>
+<alternateName lang="post">75450</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-95.59879</west>
+<north>33.45632</north>
+<east>-95.57723</east>
+<south>33.43834</south>
+</bbox>
+<score>11.267402648925781</score>
+</geoname>
+<geoname>
+<toponymName>Lame Creek</toponymName>
+<name>Lame Creek</name>
+<lat>51.93889</lat>
+<lng>177.43083</lng>
+<geonameId>4045551</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AK">AK</adminCode1>
+<adminName1>Alaska</adminName1>
+<adminCode2>016</adminCode2>
+<adminName2>Aleutians West Census Area</adminName2>
+<timezone dstOffset="-9.0" gmtOffset="-10.0">America/Adak</timezone>
+<score>4.732646465301514</score>
+</geoname>
+</geonames>

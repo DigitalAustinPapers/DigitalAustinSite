@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>7</totalResultsCount>
+<geoname>
+<toponymName>San Antonio de Baja</toponymName>
+<name>San Antonio de Baja</name>
+<lat>20.2</lat>
+<lng>-76.9</lng>
+<geonameId>3540902</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>P</fcl>
+<fcode>PPLL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="12">09</adminCode1>
+<adminName1>Granma</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<bbox>
+<west>-76.90096</west>
+<north>20.2009</north>
+<east>-76.89904</east>
+<south>20.1991</south>
+</bbox>
+<score>24.662248611450195</score>
+</geoname>
+<geoname>
+<toponymName>San Antonio de Nevares</toponymName>
+<name>San Antonio de Nevares</name>
+<lat>24.88333</lat>
+<lng>-105.36667</lng>
+<geonameId>3987644</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>San Antonio de Navares,San Antonio de Nebares,San Antonio de Nevares</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="DUR">10</adminCode1>
+<adminName1>Durango</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<bbox>
+<west>-105.37658</west>
+<north>24.89233</north>
+<east>-105.35675</east>
+<south>24.87434</south>
+</bbox>
+<score>17.242521286010742</score>
+</geoname>
+<geoname>
+<toponymName>San Antonio de Caparo</toponymName>
+<name>Caparo</name>
+<lat>7.57955</lat>
+<lng>-71.46574</lng>
+<geonameId>3628560</geonameId>
+<countryCode>VE</countryCode>
+<countryName>Venezuela</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Caparo,San Antonio de Caparo</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="S">20</adminCode1>
+<adminName1>Estado Táchira</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Caparo</alternateName>
+<alternateName lang="es">Caparo</alternateName>
+<alternateName lang="pt">Caparo</alternateName>
+<timezone dstOffset="-4.5" gmtOffset="-4.5">America/Caracas</timezone>
+<bbox>
+<west>-71.47482</west>
+<north>7.58854</north>
+<east>-71.45667</east>
+<south>7.57056</south>
+</bbox>
+<score>15.459221839904785</score>
+</geoname>
+<geoname>
+<toponymName>San Antonio de Jíbaro</toponymName>
+<name>San Antonio de Jíbaro</name>
+<lat>20.54889</lat>
+<lng>-76.62861</lng>
+<geonameId>3540894</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames>San Antonio,San Antonio de Jibaro,San Antonio de Jíbaro</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="12">09</adminCode1>
+<adminName1>Granma</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>11.044601440429688</score>
+</geoname>
+<geoname>
+<toponymName>San Antonio de Chuaré</toponymName>
+<name>San Antonio de Chuaré</name>
+<lat>2.87432</lat>
+<lng>-77.25667</lng>
+<geonameId>3670067</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="CAU">09</adminCode1>
+<adminName1>Cauca</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<bbox>
+<west>-77.26568</west>
+<north>2.88331</north>
+<east>-77.24767</east>
+<south>2.86533</south>
+</bbox>
+<score>8.925385475158691</score>
+</geoname>
+<geoname>
+<toponymName>San Antonio Majada</toponymName>
+<name>San Antonio Majada</name>
+<lat>15.26667</lat>
+<lng>-88.16667</lng>
+<geonameId>3602417</geonameId>
+<countryCode>HN</countryCode>
+<countryName>Honduras</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>San Antonio Majada,San Antonio de Majada</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SB">16</adminCode1>
+<adminName1>Santa Bárbara</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Tegucigalpa</timezone>
+<bbox>
+<west>-88.17599</west>
+<north>15.27566</north>
+<east>-88.15734</east>
+<south>15.25767</south>
+</bbox>
+<score>6.3112006187438965</score>
+</geoname>
+<geoname>
+<toponymName>San Antonio de Mascaró</toponymName>
+<name>San Antonio de Mascaró</name>
+<lat>21.48333</lat>
+<lng>-78.2</lng>
+<geonameId>3540879</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames>San Antonio de Macaro,San Antonio de Mascaro,San Antonio de Mascaró</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="09">05</adminCode1>
+<adminName1>Camagüey</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>5.522300720214844</score>
+</geoname>
+</geonames>

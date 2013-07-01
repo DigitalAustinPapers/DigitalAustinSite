@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>81</totalResultsCount>
+<geoname>
+<toponymName>Brownsville</toponymName>
+<name>Brownsville</name>
+<lat>25.90175</lat>
+<lng>-97.49748</lng>
+<geonameId>4676740</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>175023</population>
+<alternateNames>BRO,Braunsvil,Braunsvill,Brownsville,beulaunjeubil,brawnzfyl, tksas,brawnzwl,brawnzwyl, tgzas,bu lang si wei er,buraunzubiru,Браунсвил,Браунсвилл,בראונסוויל,براؤنزول,براونزفيل، تكساس,براونزویل، تگزاس,ブラウンズビル,布朗斯維爾,브라운즈빌</alternateNames>
+<elevation>10</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>061</adminCode2>
+<adminName2>Cameron County</adminName2>
+<alternateName lang="ar">براونزفيل، تكساس</alternateName>
+<alternateName lang="bg">Браунсвил</alternateName>
+<alternateName lang="da">Brownsville</alternateName>
+<alternateName lang="de">Brownsville</alternateName>
+<alternateName lang="en">Brownsville</alternateName>
+<alternateName lang="es">Brownsville</alternateName>
+<alternateName lang="fa">براونزویل، تگزاس</alternateName>
+<alternateName lang="fi">Brownsville</alternateName>
+<alternateName lang="fr">Brownsville</alternateName>
+<alternateName lang="he">בראונסוויל</alternateName>
+<alternateName lang="iata">BRO</alternateName>
+<alternateName lang="ja">ブラウンズビル</alternateName>
+<alternateName lang="ko">브라운즈빌</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brownsville%2C_Texas</alternateName>
+<alternateName lang="nl">Brownsville</alternateName>
+<alternateName lang="pl">Brownsville</alternateName>
+<alternateName lang="pnb">براؤنزول</alternateName>
+<alternateName lang="post">78523</alternateName>
+<alternateName lang="pt">Brownsville</alternateName>
+<alternateName lang="ru">Браунсвилл</alternateName>
+<alternateName lang="sr">Браунсвил</alternateName>
+<alternateName lang="sv">Brownsville</alternateName>
+<alternateName lang="uk">Браунсвилл</alternateName>
+<alternateName lang="unlc">BRO</alternateName>
+<alternateName lang="zh">布朗斯維爾</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-97.55771</west>
+<north>25.9559</north>
+<east>-97.43726</east>
+<south>25.8476</south>
+</bbox>
+<score>77.19585418701172</score>
+</geoname>
+<geoname>
+<toponymName>Brownsville</toponymName>
+<name>Brownsville</name>
+<lat>25.82176</lat>
+<lng>-80.24116</lng>
+<geonameId>4149077</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>15313</population>
+<alternateNames/>
+<elevation>3</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="FL">FL</adminCode1>
+<adminName1>Florida</adminName1>
+<adminCode2>086</adminCode2>
+<adminName2>Miami-Dade</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brownsville%2C_Florida</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-80.25742</west>
+<north>25.83165</north>
+<east>-80.22513</east>
+<south>25.81071</south>
+</bbox>
+<score>63.030147552490234</score>
+</geoname>
+<geoname>
+<toponymName>Brownsville</toponymName>
+<name>Brownsville</name>
+<lat>35.59397</lat>
+<lng>-89.26229</lng>
+<geonameId>4609116</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>10292</population>
+<alternateNames/>
+<elevation>119</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TN">TN</adminCode1>
+<adminName1>Tennessee</adminName1>
+<adminCode2>075</adminCode2>
+<adminName2>Haywood County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brownsville%2C_Tennessee</alternateName>
+<alternateName lang="post">38012</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-89.27793</west>
+<north>35.60669</north>
+<east>-89.24665</east>
+<south>35.58125</south>
+</bbox>
+<score>55.1513786315918</score>
+</geoname>
+<geoname>
+<toponymName>Brownsville</toponymName>
+<name>Brownsville</name>
+<lat>40.02369</lat>
+<lng>-79.88394</lng>
+<geonameId>5181946</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2331</population>
+<alternateNames/>
+<elevation>243</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PA">PA</adminCode1>
+<adminName1>Pennsylvania</adminName1>
+<adminCode2>051</adminCode2>
+<adminName2>Fayette County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brownsville%2C_Pennsylvania</alternateName>
+<alternateName lang="post">15417</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-79.88981</west>
+<north>40.02818</north>
+<east>-79.87806</east>
+<south>40.01919</south>
+</bbox>
+<score>55.1513786315918</score>
+</geoname>
+<geoname>
+<toponymName>Brownsville</toponymName>
+<name>Brownsville</name>
+<lat>44.39346</lat>
+<lng>-122.98481</lng>
+<geonameId>5716061</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1668</population>
+<alternateNames/>
+<elevation>109</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OR">OR</adminCode1>
+<adminName1>Oregon</adminName1>
+<adminCode2>043</adminCode2>
+<adminName2>Linn County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brownsville%2C_Oregon</alternateName>
+<alternateName lang="post">97327</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-122.9911</west>
+<north>44.39795</north>
+<east>-122.97852</east>
+<south>44.38896</south>
+</bbox>
+<score>55.1513786315918</score>
+</geoname>
+<geoname>
+<toponymName>Brownsville</toponymName>
+<name>Brownsville</name>
+<lat>38.04144</lat>
+<lng>-88.24476</lng>
+<geonameId>4234582</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>126</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>193</adminCode2>
+<adminName2>White County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brownsville%2C_Illinois</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-88.25618</west>
+<north>38.05043</north>
+<east>-88.23334</east>
+<south>38.03244</south>
+</bbox>
+<score>47.27260971069336</score>
+</geoname>
+<geoname>
+<toponymName>Brownsville</toponymName>
+<name>Brownsville</name>
+<lat>39.38205</lat>
+<lng>-77.66027</lng>
+<geonameId>4349694</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>89</population>
+<alternateNames/>
+<elevation>166</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MD">MD</adminCode1>
+<adminName1>Maryland</adminName1>
+<adminCode2>043</adminCode2>
+<adminName2>Washington County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brownsville%2C_Maryland</alternateName>
+<alternateName lang="post">21715</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-77.6692</west>
+<north>39.38466</north>
+<east>-77.65548</east>
+<south>39.37128</south>
+</bbox>
+<score>47.27260971069336</score>
+</geoname>
+<geoname>
+<toponymName>Brownsville</toponymName>
+<name>Brownsville</name>
+<lat>32.44875</lat>
+<lng>-90.43704</lng>
+<geonameId>4419649</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>90</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MS">MS</adminCode1>
+<adminName1>Mississippi</adminName1>
+<adminCode2>049</adminCode2>
+<adminName2>Hinds County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brownsville%2C_Mississippi</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.4477</west>
+<north>32.45775</north>
+<east>-90.42638</east>
+<south>32.43976</south>
+</bbox>
+<score>47.27260971069336</score>
+</geoname>
+<geoname>
+<toponymName>Brownsville</toponymName>
+<name>Brownsville</name>
+<lat>39.94701</lat>
+<lng>-82.25654</lng>
+<geonameId>4507254</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>220</population>
+<alternateNames/>
+<elevation>287</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>089</adminCode2>
+<adminName2>Licking County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brownsville%2C_Ohio</alternateName>
+<alternateName lang="post">43721</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-82.25771</west>
+<north>39.94791</north>
+<east>-82.25536</east>
+<south>39.94611</south>
+</bbox>
+<score>47.27260971069336</score>
+</geoname>
+<geoname>
+<toponymName>Brownsville</toponymName>
+<name>Brownsville</name>
+<lat>38.0518</lat>
+<lng>-78.69919</lng>
+<geonameId>4749348</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>206</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>003</adminCode2>
+<adminName2>Albemarle County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brownsville%2C_Virginia</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-78.71061</west>
+<north>38.0608</north>
+<east>-78.68776</east>
+<south>38.04281</south>
+</bbox>
+<score>47.27260971069336</score>
+</geoname>
+</geonames>

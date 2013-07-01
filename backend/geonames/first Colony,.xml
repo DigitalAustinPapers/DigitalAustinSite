@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>First Colony</toponymName>
+<name>First Colony</name>
+<lat>29.57468</lat>
+<lng>-95.60856</lng>
+<geonameId>4690925</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>20</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>157</adminCode2>
+<adminName2>Fort Bend County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/First_Colony</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-95.6189</west>
+<north>29.58367</north>
+<east>-95.59822</east>
+<south>29.56569</south>
+</bbox>
+<score>8.12922477722168</score>
+</geoname>
+</geonames>

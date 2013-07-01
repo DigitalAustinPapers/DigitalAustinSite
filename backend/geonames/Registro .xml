@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>11</totalResultsCount>
+<geoname>
+<toponymName>Registro</toponymName>
+<name>Registro</name>
+<lat>-24.5216</lat>
+<lng>-47.86017</lng>
+<geonameId>6322505</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>54279</population>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="SP">27</adminCode1>
+<adminName1>São Paulo</adminName1>
+<adminCode2>3542602</adminCode2>
+<adminName2>Registro</adminName2>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Sao_Paulo</timezone>
+<bbox>
+<west>-48.08501</west>
+<north>-24.35171</north>
+<east>-47.62666</east>
+<south>-24.63844</south>
+</bbox>
+<score>102.29493713378906</score>
+</geoname>
+<geoname>
+<toponymName>Registro</toponymName>
+<name>Registro</name>
+<lat>-24.4875</lat>
+<lng>-47.84361</lng>
+<geonameId>3451704</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>45697</population>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="SP">27</adminCode1>
+<adminName1>São Paulo</adminName1>
+<adminCode2>3542602</adminCode2>
+<adminName2>Registro</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Registro</alternateName>
+<alternateName lang="unlc">RGI</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Sao_Paulo</timezone>
+<bbox>
+<west>-47.87406</west>
+<north>-24.45978</north>
+<east>-47.81316</east>
+<south>-24.51522</south>
+</bbox>
+<score>81.83595275878906</score>
+</geoname>
+<geoname>
+<toponymName>Registro</toponymName>
+<name>Registro</name>
+<lat>-23.11667</lat>
+<lng>-47.56667</lng>
+<geonameId>3451705</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Registro</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="SP">27</adminCode1>
+<adminName1>São Paulo</adminName1>
+<adminCode2>3540606</adminCode2>
+<adminName2>Porto Feliz</adminName2>
+<alternateName lang="pt">Registro</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Sao_Paulo</timezone>
+<bbox>
+<west>-47.57644</west>
+<north>-23.10767</north>
+<east>-47.55689</east>
+<south>-23.12566</south>
+</bbox>
+<score>37.58556365966797</score>
+</geoname>
+<geoname>
+<toponymName>Registro</toponymName>
+<name>Registro</name>
+<lat>-25.4846</lat>
+<lng>-48.7092</lng>
+<geonameId>7691523</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames>Registro</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="PR">18</adminCode1>
+<adminName1>Paraná</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="pt">Registro</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Sao_Paulo</timezone>
+<score>37.58556365966797</score>
+</geoname>
+<geoname>
+<toponymName>Abelardo Luz</toponymName>
+<name>Abelardo Luz</name>
+<lat>-26.56472</lat>
+<lng>-52.32833</lng>
+<geonameId>3473252</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Registro</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="SC">26</adminCode1>
+<adminName1>Santa Catarina</adminName1>
+<adminCode2>4200101</adminCode2>
+<adminName2>Abelardo Luz</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Abelardo_Luz</alternateName>
+<alternateName lang="unlc">ADL</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Sao_Paulo</timezone>
+<bbox>
+<west>-52.33839</west>
+<north>-26.55573</north>
+<east>-52.31828</east>
+<south>-26.57372</south>
+</bbox>
+<score>36.166725158691406</score>
+</geoname>
+<geoname>
+<toponymName>Registro do Jauru</toponymName>
+<name>Registro do Jauru</name>
+<lat>-15.75</lat>
+<lng>-58.55</lng>
+<geonameId>3451702</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Registro,Registro do Jauru</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="MT">14</adminCode1>
+<adminName1>Mato Grosso</adminName1>
+<adminCode2>5106828</adminCode2>
+<adminName2>Porto Esperidião</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-3.0">America/Cuiaba</timezone>
+<bbox>
+<west>-58.55934</west>
+<north>-15.74101</north>
+<east>-58.54066</east>
+<south>-15.75899</south>
+</bbox>
+<score>28.933380126953125</score>
+</geoname>
+<geoname>
+<toponymName>El Registro</toponymName>
+<name>El Registro</name>
+<lat>24.002</lat>
+<lng>-104.41314</lng>
+<geonameId>4007997</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>El Registro,Registro</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="DUR">10</adminCode1>
+<adminName1>Durango</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<bbox>
+<west>-104.42299</west>
+<north>24.01099</north>
+<east>-104.4033</east>
+<south>23.99301</south>
+</bbox>
+<score>28.933380126953125</score>
+</geoname>
+<geoname>
+<toponymName>Registro</toponymName>
+<name>Registro</name>
+<lat>-23.10151</lat>
+<lng>-47.6101</lng>
+<geonameId>3476190</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPLL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated locality</fcodeName>
+<population/>
+<alternateNames>Registro</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="SP">27</adminCode1>
+<adminName1>São Paulo</adminName1>
+<adminCode2>3540606</adminCode2>
+<adminName2>Porto Feliz</adminName2>
+<alternateName lang="pt">Registro</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Sao_Paulo</timezone>
+<bbox>
+<west>-47.61108</west>
+<north>-23.10061</north>
+<east>-47.60912</east>
+<south>-23.10241</south>
+</bbox>
+<score>25.05704116821289</score>
+</geoname>
+<geoname>
+<toponymName>Registro</toponymName>
+<name>Registro</name>
+<lat>24.01226</lat>
+<lng>-104.43392</lng>
+<geonameId>3988827</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>S</fcl>
+<fcode>RSTN</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>railroad station</fcodeName>
+<population/>
+<alternateNames>Estacion Registro,Estación Registro,Registro</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="DUR">10</adminCode1>
+<adminName1>Durango</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<score>21.924911499023438</score>
+</geoname>
+<geoname>
+<toponymName>Registro do Araguaia</toponymName>
+<name>Registro do Araguaia</name>
+<lat>-15.73861</lat>
+<lng>-51.82639</lng>
+<geonameId>3451703</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPLL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated locality</fcodeName>
+<population/>
+<alternateNames>Registro,Registro do Araguaya</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="GO">29</adminCode1>
+<adminName1>Goiás</adminName1>
+<adminCode2>5213707</adminCode2>
+<adminName2>Montes Claros de Goiás</adminName2>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Sao_Paulo</timezone>
+<bbox>
+<west>-51.82732</west>
+<north>-15.73771</north>
+<east>-51.82545</east>
+<south>-15.73951</south>
+</bbox>
+<score>21.700035095214844</score>
+</geoname>
+</geonames>

@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>100</totalResultsCount>
+<geoname>
+<toponymName>Americana</toponymName>
+<name>Americana</name>
+<lat>-22.71408</lat>
+<lng>-47.29009</lng>
+<geonameId>3472342</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>210701</population>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="SP">27</adminCode1>
+<adminName1>São Paulo</adminName1>
+<adminCode2>3501608</adminCode2>
+<adminName2>Americana</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Americana%2C_S%C3%A3o_Paulo</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Sao_Paulo</timezone>
+<bbox>
+<west>-47.38807</west>
+<north>-22.66306</north>
+<east>-47.19349</east>
+<south>-22.78503</south>
+</bbox>
+<score>25.26228141784668</score>
+</geoname>
+<geoname>
+<toponymName>Americana</toponymName>
+<name>Americana</name>
+<lat>-22.73917</lat>
+<lng>-47.33139</lng>
+<geonameId>3472343</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>196022</population>
+<alternateNames>Amerikana,QWJ,Vila Americana,Villa Americana,Американа</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="SP">27</adminCode1>
+<adminName1>São Paulo</adminName1>
+<adminCode2>3501608</adminCode2>
+<adminName2>Americana</adminName2>
+<alternateName lang="iata">QWJ</alternateName>
+<alternateName lang="ru">Американа</alternateName>
+<alternateName lang="unlc">AME</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Sao_Paulo</timezone>
+<bbox>
+<west>-47.39361</west>
+<north>-22.68176</north>
+<east>-47.26916</east>
+<south>-22.79658</south>
+</bbox>
+<score>22.104496002197266</score>
+</geoname>
+<geoname>
+<toponymName>La Americana</toponymName>
+<name>La Americana</name>
+<lat>18.51473</lat>
+<lng>-69.25817</lng>
+<geonameId>3503695</geonameId>
+<countryCode>DO</countryCode>
+<countryName>Dominican Republic</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Americana,Americano,La Americana</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="23">24</adminCode1>
+<adminName1>San Pedro de Macorís</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Santo_Domingo</timezone>
+<bbox>
+<west>-69.26766</west>
+<north>18.52372</north>
+<east>-69.24869</east>
+<south>18.50573</south>
+</bbox>
+<score>18.36077117919922</score>
+</geoname>
+<geoname>
+<toponymName>Americano</toponymName>
+<name>Americano</name>
+<lat>22.95944</lat>
+<lng>-81.685</lng>
+<geonameId>3568957</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1>MA</adminCode1>
+<adminName1>Provincia Mayabeque</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>13.334912300109863</score>
+</geoname>
+<geoname>
+<toponymName>Amerikan</toponymName>
+<name>Amerikan</name>
+<lat>59.0867</lat>
+<lng>142.18261</lng>
+<geonameId>2127219</geonameId>
+<countryCode>RU</countryCode>
+<countryName>Russia</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>Amerikan,Marekan,Американ</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="KHA">30</adminCode1>
+<adminName1>Khabarovsk Krai</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="no">Amerikan</alternateName>
+<alternateName lang="ru">Американ</alternateName>
+<timezone dstOffset="11.0" gmtOffset="11.0">Asia/Vladivostok</timezone>
+<score>13.282811164855957</score>
+</geoname>
+<geoname>
+<toponymName>Americana</toponymName>
+<name>Americana</name>
+<lat>28.0485</lat>
+<lng>-82.5765</lng>
+<geonameId>7216716</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>6</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="FL">FL</adminCode1>
+<adminName1>Florida</adminName1>
+<adminCode2>057</adminCode2>
+<adminName2>Hillsborough County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-82.58669</west>
+<north>28.05749</north>
+<east>-82.56631</east>
+<south>28.03951</south>
+</bbox>
+<score>12.63114070892334</score>
+</geoname>
+<geoname>
+<toponymName>Americano</toponymName>
+<name>Americano</name>
+<lat>-23.32591</lat>
+<lng>-47.7768</lng>
+<geonameId>7593850</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Americano</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="SP">27</adminCode1>
+<adminName1>São Paulo</adminName1>
+<adminCode2>3554003</adminCode2>
+<adminName2>Tatuí</adminName2>
+<alternateName lang="pt">Americano</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Sao_Paulo</timezone>
+<bbox>
+<west>-47.78659</west>
+<north>-23.31691</north>
+<east>-47.767</east>
+<south>-23.3349</south>
+</bbox>
+<score>12.248899459838867</score>
+</geoname>
+<geoname>
+<toponymName>American River</toponymName>
+<name>American River</name>
+<lat>38.5974</lat>
+<lng>-121.50801</lng>
+<geonameId>5323754</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>American,Amerikan-River,An Abhainn Mheiriceanach,An Abhainn Mheiriceánach,Rio American,Rio de los Americanos,Río de los Americanos,Американ-Ривер</alternateNames>
+<elevation>7</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>067</adminCode2>
+<adminName2>Sacramento County</adminName2>
+<alternateName lang="es">Río de los Americanos</alternateName>
+<alternateName lang="ga">An Abhainn Mheiriceánach</alternateName>
+<alternateName lang="hbs">American</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/American_River</alternateName>
+<alternateName lang="pt">Rio American</alternateName>
+<alternateName lang="ru">Американ-Ривер</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>12.099645614624023</score>
+</geoname>
+<geoname>
+<toponymName>American</toponymName>
+<name>American</name>
+<lat>-23.82306</lat>
+<lng>35.34722</lng>
+<geonameId>1102883</geonameId>
+<countryCode>MZ</countryCode>
+<countryName>Mozambique</countryName>
+<fcl>S</fcl>
+<fcode>CH</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>church</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="I">03</adminCode1>
+<adminName1>Inhambane</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Maputo</timezone>
+<score>10.694676399230957</score>
+</geoname>
+<geoname>
+<toponymName>American</toponymName>
+<name>American</name>
+<lat>36.57645</lat>
+<lng>-91.58764</lng>
+<geonameId>4374758</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>243</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>149</adminCode2>
+<adminName2>Oregon County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>10.694676399230957</score>
+</geoname>
+</geonames>

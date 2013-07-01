@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>12</totalResultsCount>
+<geoname>
+<toponymName>Bayou Petre</toponymName>
+<name>Bayou Petre</name>
+<lat>29.82909</lat>
+<lng>-89.42033</lng>
+<geonameId>4336952</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>INLT</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>inlet</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>0</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>087</adminCode2>
+<adminName2>Saint Bernard Parish</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>13.66329574584961</score>
+</geoname>
+<geoname>
+<toponymName>Bayou Pierre</toponymName>
+<name>Bayou Pierre</name>
+<lat>32.08488</lat>
+<lng>-93.69546</lng>
+<geonameId>4315910</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>80</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>031</adminCode2>
+<adminName2>DeSoto Parish</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-93.70607</west>
+<north>32.09388</north>
+<east>-93.68484</east>
+<south>32.07589</south>
+</bbox>
+<score>6.001187324523926</score>
+</geoname>
+<geoname>
+<toponymName>Bayou Pierre</toponymName>
+<name>Bayou Pierre</name>
+<lat>32.14849</lat>
+<lng>-93.48018</lng>
+<geonameId>4315911</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>43</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>081</adminCode2>
+<adminName2>Red River Parish</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-93.4908</west>
+<north>32.15749</north>
+<east>-93.46955</east>
+<south>32.1395</south>
+</bbox>
+<score>6.001187324523926</score>
+</geoname>
+<geoname>
+<toponymName>Bayou Pedro</toponymName>
+<name>Bayou Pedro</name>
+<lat>31.66489</lat>
+<lng>-93.35156</lng>
+<geonameId>4336771</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>51</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>085</adminCode2>
+<adminName2>Sabine Parish</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>2.277214765548706</score>
+</geoname>
+<geoname>
+<toponymName>Bayou Perry</toponymName>
+<name>Bayou Perry</name>
+<lat>30.26325</lat>
+<lng>-91.73845</lng>
+<geonameId>4336882</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>3</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>099</adminCode2>
+<adminName2>Saint Martin Parish</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>2.277214765548706</score>
+</geoname>
+<geoname>
+<toponymName>Bayou Pirre</toponymName>
+<name>Bayou Pirre</name>
+<lat>29.74549</lat>
+<lng>-91.8629</lng>
+<geonameId>4337362</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>0</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>045</adminCode2>
+<adminName2>Iberia Parish</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>2.277214765548706</score>
+</geoname>
+<geoname>
+<toponymName>Bayou Pierre</toponymName>
+<name>Bayou Pierre</name>
+<lat>30.24159</lat>
+<lng>-90.75093</lng>
+<geonameId>4337058</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>0</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>063</adminCode2>
+<adminName2>Livingston Parish</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>1.875370979309082</score>
+</geoname>
+<geoname>
+<toponymName>Bayou Pierre</toponymName>
+<name>Bayou Pierre</name>
+<lat>31.87155</lat>
+<lng>-93.24989</lng>
+<geonameId>4337060</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>32</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>069</adminCode2>
+<adminName2>Natchitoches Parish</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>1.875370979309082</score>
+</geoname>
+<geoname>
+<toponymName>Bayou Pierre</toponymName>
+<name>Bayou Pierre</name>
+<lat>31.84655</lat>
+<lng>-93.09794</lng>
+<geonameId>4337061</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>29</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>069</adminCode2>
+<adminName2>Natchitoches Parish</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>1.875370979309082</score>
+</geoname>
+<geoname>
+<toponymName>Bayou Pierre</toponymName>
+<name>Bayou Pierre</name>
+<lat>31.47712</lat>
+<lng>-92.92877</lng>
+<geonameId>4337062</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>29</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>069</adminCode2>
+<adminName2>Natchitoches Parish</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>1.875370979309082</score>
+</geoname>
+</geonames>

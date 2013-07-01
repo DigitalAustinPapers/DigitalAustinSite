@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>23</totalResultsCount>
+<geoname>
+<toponymName>Ware</toponymName>
+<name>Ware</name>
+<lat>51.81265</lat>
+<lng>-0.02832</lng>
+<geonameId>2634777</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>17576</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F8</adminCode2>
+<adminName2>Hertfordshire</adminName2>
+<adminCode3>26UD</adminCode3>
+<adminName3>East Hertfordshire District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ware%2C_Hertfordshire</alternateName>
+<alternateName lang="unlc">WAR</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.05555</west>
+<north>51.82947</north>
+<east>-0.0011</east>
+<south>51.79582</south>
+</bbox>
+<score>77.91492462158203</score>
+</geoname>
+<geoname>
+<toponymName>Ware</toponymName>
+<name>Ware</name>
+<lat>37.20869</lat>
+<lng>-84.76884</lng>
+<geonameId>4312714</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>345</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>045</adminCode2>
+<adminName2>Casey County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ware%2C_Kentucky</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-84.78013</west>
+<north>37.21768</north>
+<east>-84.75754</east>
+<south>37.19969</south>
+</bbox>
+<score>58.436195373535156</score>
+</geoname>
+<geoname>
+<toponymName>Ware</toponymName>
+<name>Ware</name>
+<lat>42.79025</lat>
+<lng>-94.75915</lng>
+<geonameId>4880683</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>393</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IA">IA</adminCode1>
+<adminName1>Iowa</adminName1>
+<adminCode2>151</adminCode2>
+<adminName2>Pocahontas County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ware%2C_Iowa</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-94.77141</west>
+<north>42.79924</north>
+<east>-94.74689</east>
+<south>42.78126</south>
+</bbox>
+<score>58.436195373535156</score>
+</geoname>
+<geoname>
+<toponymName>Ware</toponymName>
+<name>Ware</name>
+<lat>42.25981</lat>
+<lng>-72.2398</lng>
+<geonameId>4954477</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>6170</population>
+<alternateNames/>
+<elevation>129</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MA">MA</adminCode1>
+<adminName1>Massachusetts</adminName1>
+<adminCode2>015</adminCode2>
+<adminName2>Hampshire County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ware_%28CDP%29%2C_Massachusetts</alternateName>
+<alternateName lang="post">01082</alternateName>
+<alternateName lang="unlc">UWA</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-72.25339</west>
+<north>42.26987</north>
+<east>-72.22621</east>
+<south>42.24976</south>
+</bbox>
+<score>58.436195373535156</score>
+</geoname>
+<geoname>
+<toponymName>Ware</toponymName>
+<name>Ware</name>
+<lat>51.81223</lat>
+<lng>-0.03055</lng>
+<geonameId>7293706</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F8</adminCode2>
+<adminName2>Hertfordshire</adminName2>
+<adminCode3>26UD</adminCode3>
+<adminName3>East Hertfordshire District</adminName3>
+<adminCode4>26UD045</adminCode4>
+<adminName4>Ware</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.0523</west>
+<north>51.82741</north>
+<east>-0.00881</east>
+<south>51.79704</south>
+</bbox>
+<score>48.69682693481445</score>
+</geoname>
+<geoname>
+<toponymName>Ware</toponymName>
+<name>Ware</name>
+<lat>36.35467</lat>
+<lng>44.62239</lng>
+<geonameId>89714</geonameId>
+<countryCode>IQ</countryCode>
+<countryName>Iraq</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Wara,Warah,Ware,Wāra,Wārah,وارە</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="SU">05</adminCode1>
+<adminName1>As Sulaymānīyah</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ar">Wāra</alternateName>
+<alternateName lang="ku">وارە</alternateName>
+<timezone dstOffset="3.0" gmtOffset="3.0">Asia/Baghdad</timezone>
+<bbox>
+<west>44.61122</west>
+<north>36.36366</north>
+<east>44.63356</east>
+<south>36.34567</south>
+</bbox>
+<score>47.71295166015625</score>
+</geoname>
+<geoname>
+<toponymName>Ware</toponymName>
+<name>Ware</name>
+<lat>21.51581</lat>
+<lng>93.92515</lng>
+<geonameId>1286653</geonameId>
+<countryCode>MM</countryCode>
+<countryName>Myanmar [Burma]</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="14">02</adminCode1>
+<adminName1>Chin</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="6.5" gmtOffset="6.5">Asia/Rangoon</timezone>
+<bbox>
+<west>93.91549</west>
+<north>21.5248</north>
+<east>93.93482</east>
+<south>21.50682</south>
+</bbox>
+<score>38.957462310791016</score>
+</geoname>
+<geoname>
+<toponymName>Ware</toponymName>
+<name>Ware</name>
+<lat>30.91292</lat>
+<lng>69.20874</lng>
+<geonameId>1397196</geonameId>
+<countryCode>PK</countryCode>
+<countryName>Pakistan</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="BA">02</adminCode1>
+<adminName1>Balochistān</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="5.0" gmtOffset="5.0">Asia/Karachi</timezone>
+<score>38.957462310791016</score>
+</geoname>
+<geoname>
+<toponymName>Ware</toponymName>
+<name>Ware</name>
+<lat>34.79722</lat>
+<lng>72.68333</lng>
+<geonameId>1421084</geonameId>
+<countryCode>PK</countryCode>
+<countryName>Pakistan</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="NW">03</adminCode1>
+<adminName1>North-West Frontier Province</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="5.0" gmtOffset="5.0">Asia/Karachi</timezone>
+<bbox>
+<west>72.67238</west>
+<north>34.80622</north>
+<east>72.69429</east>
+<south>34.78823</south>
+</bbox>
+<score>38.957462310791016</score>
+</geoname>
+<geoname>
+<toponymName>Ware</toponymName>
+<name>Ware</name>
+<lat>11.81408</lat>
+<lng>6.76005</lng>
+<geonameId>2319156</geonameId>
+<countryCode>NG</countryCode>
+<countryName>Nigeria</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="ZA">57</adminCode1>
+<adminName1>Zamfara</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="1.0">Africa/Lagos</timezone>
+<bbox>
+<west>6.75086</west>
+<north>11.82308</north>
+<east>6.76924</east>
+<south>11.80509</south>
+</bbox>
+<score>38.957462310791016</score>
+</geoname>
+</geonames>

@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>32</totalResultsCount>
+<geoname>
+<toponymName>Norfolk</toponymName>
+<name>Norfolk</name>
+<lat>36.84681</lat>
+<lng>-76.28522</lng>
+<geonameId>4776222</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>242803</population>
+<alternateNames>Gorad Norfalk,Norfok,Norfolk,Norfolkas,Norfolko,ORF,nofoku,nopeog,nuo fu ke,nwrfwk, wyrjynya,nwrfwlk, fyrjynya,nwrpwq,Горад Норфалк,Норфок,Норфолк,נורפוק,نورفولك، فيرجينيا,نورفوک، ویرجینیا,ノーフォーク,諾福克,노퍽</alternateNames>
+<elevation>2</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>710</adminCode2>
+<adminName2>City of Norfolk</adminName2>
+<alternateName lang="ar">نورفولك، فيرجينيا</alternateName>
+<alternateName lang="be">Горад Норфалк</alternateName>
+<alternateName lang="bg">Норфолк</alternateName>
+<alternateName lang="de">Norfolk</alternateName>
+<alternateName lang="en">Norfolk</alternateName>
+<alternateName lang="eo">Norfolko</alternateName>
+<alternateName lang="fa">نورفوک، ویرجینیا</alternateName>
+<alternateName lang="fi">Norfolk</alternateName>
+<alternateName lang="fr">Norfolk</alternateName>
+<alternateName lang="he">נורפוק</alternateName>
+<alternateName lang="iata">ORF</alternateName>
+<alternateName lang="ja">ノーフォーク</alternateName>
+<alternateName lang="ko">노퍽</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Norfolk%2C_Virginia</alternateName>
+<alternateName lang="lt">Norfolkas</alternateName>
+<alternateName lang="nl">Norfolk</alternateName>
+<alternateName lang="pl">Norfolk</alternateName>
+<alternateName lang="post">23519</alternateName>
+<alternateName lang="pt">Norfolk</alternateName>
+<alternateName lang="ru">Норфолк</alternateName>
+<alternateName lang="sr">Норфок</alternateName>
+<alternateName lang="sv">Norfolk</alternateName>
+<alternateName lang="uk">Норфолк</alternateName>
+<alternateName lang="unlc">ORF</alternateName>
+<alternateName lang="zh">諾福克</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-76.34557</west>
+<north>37.04089</north>
+<east>-76.13387</east>
+<south>36.82076</south>
+</bbox>
+<score>84.2234115600586</score>
+</geoname>
+<geoname>
+<toponymName>Norfolk</toponymName>
+<name>Norfolk</name>
+<lat>52.66667</lat>
+<lng>1</lng>
+<geonameId>2641455</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>832500</population>
+<alternateNames>County of Norfolk,NFK,Norfolk</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<alternateName lang="abbr">NFK</alternateName>
+<alternateName lang="en">Norfolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.15356</west>
+<north>52.9927</north>
+<east>1.74546</east>
+<south>52.35533</south>
+</bbox>
+<score>66.2884521484375</score>
+</geoname>
+<geoname>
+<toponymName>Norfolk</toponymName>
+<name>Norfolk</name>
+<lat>42.11954</lat>
+<lng>-71.32506</lng>
+<geonameId>4945453</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>10386</population>
+<alternateNames>Norfolk,Норфолк</alternateNames>
+<elevation>63</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MA">MA</adminCode1>
+<adminName1>Massachusetts</adminName1>
+<adminCode2>021</adminCode2>
+<adminName2>Norfolk County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Norfolk%2C_Massachusetts</alternateName>
+<alternateName lang="post">02056</alternateName>
+<alternateName lang="ru">Норфолк</alternateName>
+<alternateName lang="unlc">NFJ</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-71.34221</west>
+<north>42.13226</north>
+<east>-71.30791</east>
+<south>42.10682</south>
+</bbox>
+<score>66.2884521484375</score>
+</geoname>
+<geoname>
+<toponymName>Norfolk</toponymName>
+<name>Norfolk</name>
+<lat>44.80089</lat>
+<lng>-74.99103</lng>
+<geonameId>5128862</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1327</population>
+<alternateNames>Norfolk,Норфолк</alternateNames>
+<elevation>79</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>089</adminCode2>
+<adminName2>St. Lawrence County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Norfolk%2C_New_York</alternateName>
+<alternateName lang="post">13667</alternateName>
+<alternateName lang="ru">Норфолк</alternateName>
+<alternateName lang="unlc">NFK</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-74.99737</west>
+<north>44.80538</north>
+<east>-74.9847</east>
+<south>44.79639</south>
+</bbox>
+<score>55.240379333496094</score>
+</geoname>
+<geoname>
+<toponymName>Norfolk</toponymName>
+<name>Norfolk</name>
+<lat>42.02834</lat>
+<lng>-97.417</lng>
+<geonameId>5073965</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>24210</population>
+<alternateNames>Norfolk,OFK,nwrfwk, nbraska,nwrfwlk, nbraska,Норфолк,نورفولك، نبراسكا,نورفوک، نبراسکا</alternateNames>
+<elevation>464</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NE">NE</adminCode1>
+<adminName1>Nebraska</adminName1>
+<adminCode2>119</adminCode2>
+<adminName2>Madison County</adminName2>
+<alternateName lang="ar">نورفولك، نبراسكا</alternateName>
+<alternateName lang="fa">نورفوک، نبراسکا</alternateName>
+<alternateName lang="iata">OFK</alternateName>
+<alternateName lang="kk">Норфолк</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Norfolk%2C_Nebraska</alternateName>
+<alternateName lang="post">68702</alternateName>
+<alternateName lang="ru">Норфолк</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-97.44408</west>
+<north>42.04845</north>
+<east>-97.38991</east>
+<south>42.00823</south>
+</bbox>
+<score>49.40849685668945</score>
+</geoname>
+<geoname>
+<toponymName>Norfolk</toponymName>
+<name>Norfolk</name>
+<lat>40.91082</lat>
+<lng>-104.96969</lng>
+<geonameId>5580331</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1798</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CO">CO</adminCode1>
+<adminName1>Colorado</adminName1>
+<adminCode2>069</adminCode2>
+<adminName2>Larimer County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Norfolk%2C_Colorado</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<bbox>
+<west>-104.9816</west>
+<north>40.91981</north>
+<east>-104.95779</east>
+<south>40.90182</south>
+</bbox>
+<score>46.873016357421875</score>
+</geoname>
+<geoname>
+<toponymName>Norfolk</toponymName>
+<name>Norfolk</name>
+<lat>41.99398</lat>
+<lng>-73.20206</lng>
+<geonameId>4831748</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>553</population>
+<alternateNames>Norfolk,Норфолк</alternateNames>
+<elevation>351</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CT">CT</adminCode1>
+<adminName1>Connecticut</adminName1>
+<adminCode2>005</adminCode2>
+<adminName2>Litchfield County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Norfolk%2C_Connecticut</alternateName>
+<alternateName lang="post">06058</alternateName>
+<alternateName lang="ru">Норфолк</alternateName>
+<alternateName lang="unlc">NFF</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-73.20327</west>
+<north>41.99488</north>
+<east>-73.20085</east>
+<south>41.99308</south>
+</bbox>
+<score>44.19230270385742</score>
+</geoname>
+<geoname>
+<toponymName>Norfolk Island</toponymName>
+<name>Norfolk Island</name>
+<lat>-29.03333</lat>
+<lng>167.95</lng>
+<geonameId>2155116</geonameId>
+<countryCode>NF</countryCode>
+<countryName>Norfolk Island</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames>Ila Norfolk,Ile Norfolk,Ilha Norfolk,Illa Norfolk,Insula Norfolk,Isla Norfolk,Isola Norfolk,Isula Norfolk,Nesi Norpholk,Norfolk,Norfolk Adasi,Norfolk Adası,Norfolk Island,Norfolk-sziget,Norfolkeiland,Norfolkeyja,Norfolkinsaari,Norfolkinsel,Norfolkinsulo,Norfolko sala,Norfolkoen,Norfolkoya,Norfolkön,Norfolkøya,Norfuk Ailen,Ostrov Norfolk,Ostrvo Norfok,Ostrvo Norfolk,Otok Norfolk,Pulau Norfolk,Ynys Norfolk,nofoku dao,nopeog seom,nuo fu ke dao,nwrpwq,Ìsula Norfolk,Île Norfolk,Νησί Νόρφολκ,Норфолк,Острво Норфок,Острво Норфолк,Остров Норфолк,נורפוק,ノーフォーク島,诺福克岛,노퍽 섬</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1/>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="bg">Норфолк</alternateName>
+<alternateName lang="ca">Illa Norfolk</alternateName>
+<alternateName lang="cs">Norfolk</alternateName>
+<alternateName lang="de">Norfolkinsel</alternateName>
+<alternateName lang="el">Νησί Νόρφολκ</alternateName>
+<alternateName lang="en">Norfolk Island</alternateName>
+<alternateName lang="eo">Norfolkinsulo</alternateName>
+<alternateName lang="es">Isla Norfolk</alternateName>
+<alternateName lang="fi">Norfolkinsaari</alternateName>
+<alternateName lang="fr">Île Norfolk</alternateName>
+<alternateName lang="frp">Ila Norfolk</alternateName>
+<alternateName lang="hbs">Otok Norfolk</alternateName>
+<alternateName lang="he">נורפוק</alternateName>
+<alternateName lang="hu">Norfolk-sziget</alternateName>
+<alternateName lang="id">Pulau Norfolk</alternateName>
+<alternateName lang="is">Norfolkeyja</alternateName>
+<alternateName lang="it">Isola Norfolk</alternateName>
+<alternateName lang="ja">ノーフォーク島</alternateName>
+<alternateName lang="ko">노퍽 섬</alternateName>
+<alternateName lang="kw">Ynys Norfolk</alternateName>
+<alternateName lang="la">Insula Norfolk</alternateName>
+<alternateName lang="link">http://ru.wikipedia.org/wiki/%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2_%D0%9D%D0%BE%D1%80%D1%84%D0%BE%D0%BB%D0%BA</alternateName>
+<alternateName lang="lt">Norfolko sala</alternateName>
+<alternateName lang="nl">Norfolk</alternateName>
+<alternateName lang="no">Norfolkøya</alternateName>
+<alternateName lang="pam">Norfolk Island</alternateName>
+<alternateName lang="pih">Norfuk Ailen</alternateName>
+<alternateName lang="pl">Norfolk</alternateName>
+<alternateName lang="pt">Ilha Norfolk</alternateName>
+<alternateName lang="ro">Insula Norfolk</alternateName>
+<alternateName lang="ru">Остров Норфолк</alternateName>
+<alternateName lang="scn">Ìsula Norfolk</alternateName>
+<alternateName lang="sk">Norfolk</alternateName>
+<alternateName lang="sr">Острво Норфолк</alternateName>
+<alternateName lang="sv">Norfolkön</alternateName>
+<alternateName lang="tr">Norfolk Adası</alternateName>
+<alternateName lang="unlc">NLK</alternateName>
+<alternateName lang="zh">诺福克岛</alternateName>
+<timezone dstOffset="11.5" gmtOffset="11.5">Pacific/Norfolk</timezone>
+<bbox>
+<west>167.91542</west>
+<north>-28.99517</north>
+<east>167.99774</east>
+<south>-29.06308</south>
+</bbox>
+<score>33.82768630981445</score>
+</geoname>
+<geoname>
+<toponymName>Norfolk</toponymName>
+<name>Norfolk</name>
+<lat>17.9</lat>
+<lng>-77.68333</lng>
+<geonameId>3489265</geonameId>
+<countryCode>JM</countryCode>
+<countryName>Jamaica</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="11">11</adminCode1>
+<adminName1>St. Elizabeth</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Jamaica</timezone>
+<bbox>
+<west>-77.69278</west>
+<north>17.90899</north>
+<east>-77.67388</east>
+<south>17.89101</south>
+</bbox>
+<score>31.248676300048828</score>
+</geoname>
+<geoname>
+<toponymName>Norfolk</toponymName>
+<name>Norfolk</name>
+<lat>34.95148</lat>
+<lng>-90.23065</lng>
+<geonameId>4438897</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>64</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MS">MS</adminCode1>
+<adminName1>Mississippi</adminName1>
+<adminCode2>033</adminCode2>
+<adminName2>DeSoto County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.24162</west>
+<north>34.96048</north>
+<east>-90.21968</east>
+<south>34.94249</south>
+</bbox>
+<score>31.248676300048828</score>
+</geoname>
+</geonames>

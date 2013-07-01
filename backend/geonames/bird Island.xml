@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>296</totalResultsCount>
+<geoname>
+<toponymName>Bird Island</toponymName>
+<name>Bird Island</name>
+<lat>-54.00444</lat>
+<lng>-38.05972</lng>
+<geonameId>3426579</geonameId>
+<countryCode>GS</countryCode>
+<countryName>South Georgia and the South Sandwich Islands</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames>Bird Island,Vogel Insel</alternateNames>
+<elevation/>
+<continentCode>AN</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bird_Island%2C_South_Georgia</alternateName>
+<timezone dstOffset="-2.0" gmtOffset="-2.0">Atlantic/South_Georgia</timezone>
+<bbox>
+<west>-38.08052</west>
+<north>-53.99458</north>
+<east>-38.0101</east>
+<south>-54.01954</south>
+</bbox>
+<score>29.062768936157227</score>
+</geoname>
+<geoname>
+<toponymName>Bird Island</toponymName>
+<name>Bird Island</name>
+<lat>33.85712</lat>
+<lng>-78.53862</lng>
+<geonameId>4456040</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NC">NC</adminCode1>
+<adminName1>North Carolina</adminName1>
+<adminCode2>019</adminCode2>
+<adminName2>Brunswick County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bird_Island%2C_North_Carolina</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>28.475582122802734</score>
+</geoname>
+<geoname>
+<toponymName>Bird Island</toponymName>
+<name>Bird Island</name>
+<lat>41.66955</lat>
+<lng>-70.71726</lng>
+<geonameId>4930616</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>0</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MA">MA</adminCode1>
+<adminName1>Massachusetts</adminName1>
+<adminCode2>023</adminCode2>
+<adminName2>Plymouth County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bird_Island_%28Massachusetts%29</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>28.475582122802734</score>
+</geoname>
+<geoname>
+<toponymName>Bird Island</toponymName>
+<name>Bird Island</name>
+<lat>37.8241</lat>
+<lng>-122.53664</lng>
+<geonameId>5328763</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>13</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>041</adminCode2>
+<adminName2>Marin County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bird_Island_%28Marin_County%2C_California%29</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>28.475582122802734</score>
+</geoname>
+<geoname>
+<toponymName>Bird Island</toponymName>
+<name>Bird Island</name>
+<lat>58.49028</lat>
+<lng>-134.84806</lng>
+<geonameId>5844750</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>0</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AK">AK</adminCode1>
+<adminName1>Alaska</adminName1>
+<adminCode2>110</adminCode2>
+<adminName2>Juneau City and Borough</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bird_Island_%28Juneau%2C_Alaska%29</alternateName>
+<timezone dstOffset="-8.0" gmtOffset="-9.0">America/Juneau</timezone>
+<score>28.475582122802734</score>
+</geoname>
+<geoname>
+<toponymName>Bird Island</toponymName>
+<name>Bird Island</name>
+<lat>-14.08414</lat>
+<lng>125.7129</lng>
+<geonameId>2076538</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames>Bird Island,Bird Islet</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="WA">08</adminCode1>
+<adminName1>Western Australia</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Bird Island</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Australia/Perth</timezone>
+<score>26.847036361694336</score>
+</geoname>
+<geoname>
+<toponymName>Bird Island</toponymName>
+<name>Bird Island</name>
+<lat>-40.6</lat>
+<lng>144.72</lng>
+<geonameId>2175713</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames>Bird Island,Bird Islet</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="TAS">06</adminCode1>
+<adminName1>Tasmania</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Bird Island</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bird_Island_%28Tasmania%29</alternateName>
+<timezone dstOffset="10.0" gmtOffset="11.0">Australia/Hobart</timezone>
+<score>26.847036361694336</score>
+</geoname>
+<geoname>
+<toponymName>Bird Island</toponymName>
+<name>Bird Island</name>
+<lat>-20.09028</lat>
+<lng>148.87334</lng>
+<geonameId>2175716</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames>Bird Island,Bird Islet</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="QLD">04</adminCode1>
+<adminName1>Queensland</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Bird Island</alternateName>
+<timezone dstOffset="10.0" gmtOffset="10.0">Australia/Brisbane</timezone>
+<score>26.847036361694336</score>
+</geoname>
+<geoname>
+<toponymName>Bird Island</toponymName>
+<name>Bird Island</name>
+<lat>-32.08716</lat>
+<lng>18.29918</lng>
+<geonameId>3370049</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames>Bird,Bird Eiland,Bird Island,Penguin Islet</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="WC">11</adminCode1>
+<adminName1>Western Cape</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<score>25.494529724121094</score>
+</geoname>
+<geoname>
+<toponymName>Biri Island</toponymName>
+<name>Biri Island</name>
+<lat>12.66806</lat>
+<lng>124.37694</lng>
+<geonameId>1724798</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames>Beri Island,Biri Island</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="08">08</adminCode1>
+<adminName1>Eastern Visayas</adminName1>
+<adminCode2>67</adminCode2>
+<adminName2>Northern Samar</adminName2>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<bbox>
+<west>124.35561</west>
+<north>12.69783</north>
+<east>124.3957</east>
+<south>12.64403</south>
+</bbox>
+<score>23.3236026763916</score>
+</geoname>
+</geonames>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Kaskaskia</toponymName>
+<name>Kaskaskia</name>
+<lat>37.92144</lat>
+<lng>-89.91316</lng>
+<geonameId>4242091</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>14</population>
+<alternateNames/>
+<elevation>114</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>157</adminCode2>
+<adminName2>Randolph County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kaskaskia%2C_Illinois</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-89.92031</west>
+<north>37.92428</north>
+<east>-89.91231</east>
+<south>37.91666</south>
+</bbox>
+<score>43.355926513671875</score>
+</geoname>
+<geoname>
+<toponymName>Kalkaska</toponymName>
+<name>Kalkaska</name>
+<lat>44.73417</lat>
+<lng>-85.17589</lng>
+<geonameId>4997805</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>2020</population>
+<alternateNames/>
+<elevation>315</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MI">MI</adminCode1>
+<adminName1>Michigan</adminName1>
+<adminCode2>079</adminCode2>
+<adminName2>Kalkaska County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kalkaska%2C_Michigan</alternateName>
+<alternateName lang="post">49646</alternateName>
+<alternateName lang="unlc">KLK</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Detroit</timezone>
+<bbox>
+<west>-85.21186</west>
+<north>44.75208</north>
+<east>-85.1382</east>
+<south>44.71384</south>
+</bbox>
+<score>34.350337982177734</score>
+</geoname>
+<geoname>
+<toponymName>Kakaska</toponymName>
+<name>Kakaska</name>
+<lat>48.01667</lat>
+<lng>21.38333</lng>
+<geonameId>719522</geonameId>
+<countryCode>HU</countryCode>
+<countryName>Hungary</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames>Kakaska,Kakaskaitelep</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SZ">18</adminCode1>
+<adminName1>Szabolcs-Szatmár-Bereg</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Budapest</timezone>
+<score>26.971403121948242</score>
+</geoname>
+<geoname>
+<toponymName>Kalkaska County</toponymName>
+<name>Kalkaska County</name>
+<lat>44.68466</lat>
+<lng>-85.09023</lng>
+<geonameId>4997807</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>17153</population>
+<alternateNames>Comte de Kalkaska,Comté de Kalkaska,Condado de Kalkaska,Condado han Kalkaska,Contea di Kalkaska,Kalkaska,Kalkaska Comitatus,Quan Kalkaska,Quận Kalkaska,ka er ka si ka xian,kalakaska ka'unti,karukasuka jun,Калкаска,کالاکاسکا کاؤنٹی,কালকাস্কা কাউন্টি,カルカスカ郡,卡爾卡斯卡縣</alternateNames>
+<elevation>353</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MI">MI</adminCode1>
+<adminName1>Michigan</adminName1>
+<adminCode2>079</adminCode2>
+<adminName2>Kalkaska County</adminName2>
+<alternateName lang="bg">Калкаска</alternateName>
+<alternateName lang="bpy">কালকাস্কা কাউন্টি</alternateName>
+<alternateName lang="es">Condado de Kalkaska</alternateName>
+<alternateName lang="fr">Comté de Kalkaska</alternateName>
+<alternateName lang="it">Contea di Kalkaska</alternateName>
+<alternateName lang="ja">カルカスカ郡</alternateName>
+<alternateName lang="la">Kalkaska Comitatus</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kalkaska_County%2C_Michigan</alternateName>
+<alternateName lang="pnb">کالاکاسکا کاؤنٹی</alternateName>
+<alternateName lang="pt">Condado de Kalkaska</alternateName>
+<alternateName lang="uk">Калкаска</alternateName>
+<alternateName lang="vi">Quận Kalkaska</alternateName>
+<alternateName lang="war">Condado han Kalkaska</alternateName>
+<alternateName lang="zh">卡爾卡斯卡縣</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Detroit</timezone>
+<bbox>
+<west>-85.3363</west>
+<north>44.85839</north>
+<east>-84.84869</east>
+<south>44.5097</south>
+</bbox>
+<score>25.24224090576172</score>
+</geoname>
+</geonames>

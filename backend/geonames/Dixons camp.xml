@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Dixon Camp</toponymName>
+<name>Dixon Camp</name>
+<lat>33.47894</lat>
+<lng>-110.91095</lng>
+<geonameId>5292830</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>CMP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>camp(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1193</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AZ">AZ</adminCode1>
+<adminName1>Arizona</adminName1>
+<adminCode2>007</adminCode2>
+<adminName2>Gila County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-7.0">America/Phoenix</timezone>
+<score>14.370574951171875</score>
+</geoname>
+</geonames>

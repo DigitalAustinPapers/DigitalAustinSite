@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>6</totalResultsCount>
+<geoname>
+<toponymName>Hotel</toponymName>
+<name>Hotel</name>
+<lat>10.3749</lat>
+<lng>-85.1214</lng>
+<geonameId>3623435</geonameId>
+<countryCode>CR</countryCode>
+<countryName>Costa Rica</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="G">03</adminCode1>
+<adminName1>Guanacaste</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Costa_Rica</timezone>
+<bbox>
+<west>-85.13054</west>
+<north>10.38389</north>
+<east>-85.11226</east>
+<south>10.36591</south>
+</bbox>
+<score>42.44248962402344</score>
+</geoname>
+<geoname>
+<toponymName>Hotel</toponymName>
+<name>Hotel</name>
+<lat>1.40049</lat>
+<lng>-74.80662</lng>
+<geonameId>3792228</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="CAQ">08</adminCode1>
+<adminName1>Caquetá</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<bbox>
+<west>-74.81562</west>
+<north>1.40949</north>
+<east>-74.79763</east>
+<south>1.3915</south>
+</bbox>
+<score>42.44248962402344</score>
+</geoname>
+<geoname>
+<toponymName>Chotel</toponymName>
+<name>Chotel</name>
+<lat>52.40946</lat>
+<lng>18.81236</lng>
+<geonameId>3101612</geonameId>
+<countryCode>PL</countryCode>
+<countryName>Poland</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Chotel,Hotel</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="KP">73</adminCode1>
+<adminName1>Kujawsko-Pomorskie</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Warsaw</timezone>
+<bbox>
+<west>18.79761</west>
+<north>52.41845</north>
+<east>18.8271</east>
+<south>52.40046</south>
+</bbox>
+<score>30.011371612548828</score>
+</geoname>
+<geoname>
+<toponymName>Les Hôtelleries</toponymName>
+<name>Les Hôtelleries</name>
+<lat>44.06039</lat>
+<lng>6.21022</lng>
+<geonameId>3000625</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Hotel,Les Hotelleries,Les Hotellieres,Les Hôtelleries,Les Hôtellieres</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="U">B8</adminCode1>
+<adminName1>Provence-Alpes-Côte d'Azur</adminName1>
+<adminCode2>04</adminCode2>
+<adminName2>Alpes-de-Haute-Provence</adminName2>
+<adminCode3>043</adminCode3>
+<adminName3>Arrondissement de Digne</adminName3>
+<adminCode4>04070</adminCode4>
+<adminName4>Digne-les-Bains</adminName4>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>6.1977</west>
+<north>44.06938</north>
+<east>6.22274</east>
+<south>44.0514</south>
+</bbox>
+<score>26.259950637817383</score>
+</geoname>
+<geoname>
+<toponymName>Hotel</toponymName>
+<name>Hotel</name>
+<lat>-20.93149</lat>
+<lng>28.92096</lng>
+<geonameId>7523843</geonameId>
+<countryCode>ZW</countryCode>
+<countryName>Zimbabwe</countryName>
+<fcl>S</fcl>
+<fcode>FRM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farm</fcodeName>
+<population/>
+<alternateNames>Hotel</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="MS">07</adminCode1>
+<adminName1>Matabeleland South</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Hotel</alternateName>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Harare</timezone>
+<score>12.995305061340332</score>
+</geoname>
+<geoname>
+<toponymName>Hotel</toponymName>
+<name>Hotel</name>
+<lat>-34.93448</lat>
+<lng>138.6029</lng>
+<geonameId>8358543</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>S</fcl>
+<fcode>SCH</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>school</fcodeName>
+<population/>
+<alternateNames>Hotel</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="SA">05</adminCode1>
+<adminName1>South Australia</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Hotel</alternateName>
+<timezone dstOffset="9.5" gmtOffset="10.5">Australia/Adelaide</timezone>
+<score>12.995305061340332</score>
+</geoname>
+</geonames>

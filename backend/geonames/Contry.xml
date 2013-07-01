@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>16</totalResultsCount>
+<geoname>
+<toponymName>Contra</toponymName>
+<name>Contra</name>
+<lat>37.7607</lat>
+<lng>-76.84357</lng>
+<geonameId>4753916</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>39</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>097</adminCode2>
+<adminName2>King and Queen County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Contra%2C_Virginia</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-76.85495</west>
+<north>37.76969</north>
+<east>-76.8322</east>
+<south>37.7517</south>
+</bbox>
+<score>26.585250854492188</score>
+</geoname>
+<geoname>
+<toponymName>Contay</toponymName>
+<name>Contay</name>
+<lat>50.00448</lat>
+<lng>2.47543</lng>
+<geonameId>3023848</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>356</population>
+<alternateNames>Contay</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="S">B6</adminCode1>
+<adminName1>Picardie</adminName1>
+<adminCode2>80</adminCode2>
+<adminName2>Somme</adminName2>
+<adminCode3>802</adminCode3>
+<adminName3>Arrondissement d'Amiens</adminName3>
+<adminCode4>80207</adminCode4>
+<adminName4>Contay</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Contay</alternateName>
+<alternateName lang="post">80560</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>2.47403</west>
+<north>50.00538</north>
+<east>2.47683</east>
+<south>50.00358</south>
+</bbox>
+<score>25.738256454467773</score>
+</geoname>
+<geoname>
+<toponymName>Contré</toponymName>
+<name>Contré</name>
+<lat>46.01259</lat>
+<lng>-0.28419</lng>
+<geonameId>3023817</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>153</population>
+<alternateNames>Contre,Contré</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="T">B7</adminCode1>
+<adminName1>Poitou-Charentes</adminName1>
+<adminCode2>17</adminCode2>
+<adminName2>Charente-Maritime</adminName2>
+<adminCode3>175</adminCode3>
+<adminName3>Arrondissement de Saint-Jean-d'Angély</adminName3>
+<adminCode4>17117</adminCode4>
+<adminName4>Contré</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Contr%C3%A9</alternateName>
+<alternateName lang="post">17470</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>-0.28549</west>
+<north>46.01349</north>
+<east>-0.2829</east>
+<south>46.01169</south>
+</bbox>
+<score>23.775983810424805</score>
+</geoname>
+<geoname>
+<toponymName>Contré</toponymName>
+<name>Contré</name>
+<lat>46.0125</lat>
+<lng>-0.28306</lng>
+<geonameId>6427925</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population>130</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="T">B7</adminCode1>
+<adminName1>Poitou-Charentes</adminName1>
+<adminCode2>17</adminCode2>
+<adminName2>Charente-Maritime</adminName2>
+<adminCode3>175</adminCode3>
+<adminName3>Arrondissement de Saint-Jean-d'Angély</adminName3>
+<adminCode4>17117</adminCode4>
+<adminName4>Contré</adminName4>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>-0.30168</west>
+<north>46.03435</north>
+<east>-0.22434</east>
+<south>45.99321</south>
+</bbox>
+<score>21.01519775390625</score>
+</geoname>
+<geoname>
+<toponymName>Contay</toponymName>
+<name>Contay</name>
+<lat>50.00444</lat>
+<lng>2.47639</lng>
+<geonameId>6444360</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population>370</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="S">B6</adminCode1>
+<adminName1>Picardie</adminName1>
+<adminCode2>80</adminCode2>
+<adminName2>Somme</adminName2>
+<adminCode3>802</adminCode3>
+<adminName3>Arrondissement d'Amiens</adminName3>
+<adminCode4>80207</adminCode4>
+<adminName4>Contay</adminName4>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>2.43658</west>
+<north>50.03253</north>
+<east>2.49534</east>
+<south>49.9871</south>
+</bbox>
+<score>21.01519775390625</score>
+</geoname>
+<geoname>
+<toponymName>Contre</toponymName>
+<name>Contre</name>
+<lat>49.74772</lat>
+<lng>2.09629</lng>
+<geonameId>3023816</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>92</population>
+<alternateNames>Contre</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="S">B6</adminCode1>
+<adminName1>Picardie</adminName1>
+<adminCode2>80</adminCode2>
+<adminName2>Somme</adminName2>
+<adminCode3>802</adminCode3>
+<adminName3>Arrondissement d'Amiens</adminName3>
+<adminCode4>80210</adminCode4>
+<adminName4>Contre</adminName4>
+<alternateName lang="post">80160</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>2.09489</west>
+<north>49.74862</north>
+<east>2.09768</east>
+<south>49.74682</south>
+</bbox>
+<score>20.590604782104492</score>
+</geoname>
+<geoname>
+<toponymName>Contray</toponymName>
+<name>Contray</name>
+<lat>47.12289</lat>
+<lng>0.2002</lng>
+<geonameId>3023819</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="F">A3</adminCode1>
+<adminName1>Centre</adminName1>
+<adminCode2>37</adminCode2>
+<adminName2>Indre and Loire</adminName2>
+<adminCode3>371</adminCode3>
+<adminName3>Arrondissement de Chinon</adminName3>
+<adminCode4>37202</adminCode4>
+<adminName4>La Roche-Clermault</adminName4>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>0.18698</west>
+<north>47.13188</north>
+<east>0.21342</east>
+<south>47.1139</south>
+</bbox>
+<score>19.337156295776367</score>
+</geoname>
+<geoname>
+<toponymName>Conery</toponymName>
+<name>Conery</name>
+<lat>48.59409</lat>
+<lng>-3.32129</lng>
+<geonameId>3023934</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="E">A2</adminCode1>
+<adminName1>Brittany</adminName1>
+<adminCode2>22</adminCode2>
+<adminName2>Côtes-d'Armor</adminName2>
+<adminCode3>222</adminCode3>
+<adminName3>Arrondissement de Guingamp</adminName3>
+<adminCode4>22164</adminCode4>
+<adminName4>Pédernec</adminName4>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>-3.33489</west>
+<north>48.60309</north>
+<east>-3.30769</east>
+<south>48.5851</south>
+</bbox>
+<score>19.337156295776367</score>
+</geoname>
+<geoname>
+<toponymName>Contuy</toponymName>
+<name>Contuy</name>
+<lat>-42.83566</lat>
+<lng>-73.60557</lng>
+<geonameId>3969871</geonameId>
+<countryCode>CL</countryCode>
+<countryName>Chile</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="LL">14</adminCode1>
+<adminName1>Los Lagos</adminName1>
+<adminCode2>102</adminCode2>
+<adminName2>Provincia de Chiloé</adminName2>
+<adminCode3>10207</adminCode3>
+<adminName3>Queilen</adminName3>
+<timezone dstOffset="-4.0" gmtOffset="-3.0">America/Santiago</timezone>
+<bbox>
+<west>-73.61783</west>
+<north>-42.82666</north>
+<east>-73.59331</east>
+<south>-42.84465</south>
+</bbox>
+<score>19.337156295776367</score>
+</geoname>
+<geoname>
+<toponymName>Contra</toponymName>
+<name>Contra</name>
+<lat>-11.05</lat>
+<lng>-69.25</lng>
+<geonameId>3919203</geonameId>
+<countryCode>BO</countryCode>
+<countryName>Bolivia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="N">06</adminCode1>
+<adminName1>Pando</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/La_Paz</timezone>
+<bbox>
+<west>-69.25916</west>
+<north>-11.04101</north>
+<east>-69.24084</east>
+<south>-11.05899</south>
+</bbox>
+<score>17.723501205444336</score>
+</geoname>
+</geonames>

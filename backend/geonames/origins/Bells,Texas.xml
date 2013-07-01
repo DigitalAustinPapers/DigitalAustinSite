@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>9</totalResultsCount>
+<geoname>
+<toponymName>Bells</toponymName>
+<name>Bells</name>
+<lat>33.61038</lat>
+<lng>-96.41082</lng>
+<geonameId>4673390</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1392</population>
+<alternateNames/>
+<elevation>210</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>181</adminCode2>
+<adminName2>Grayson County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bells%2C_Texas</alternateName>
+<alternateName lang="post">75414</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-96.41622</west>
+<north>33.61488</north>
+<east>-96.40542</east>
+<south>33.60589</south>
+</bbox>
+<score>15.777650833129883</score>
+</geoname>
+<geoname>
+<toponymName>Town of Bells</toponymName>
+<name>Town of Bells</name>
+<lat>33.61657</lat>
+<lng>-96.41277</lng>
+<geonameId>7174280</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>administrative division</fcodeName>
+<population>1392</population>
+<alternateNames/>
+<elevation>204</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>181</adminCode2>
+<adminName2>Grayson County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-96.44501</west>
+<north>33.6482</north>
+<east>-96.38919</east>
+<south>33.5933</south>
+</bbox>
+<score>11.044355392456055</score>
+</geoname>
+<geoname>
+<toponymName>Bells Island</toponymName>
+<name>Bells Island</name>
+<lat>33.2829</lat>
+<lng>-94.1963</lng>
+<geonameId>4673394</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>70</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>067</adminCode2>
+<adminName2>Cass County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>7.888825416564941</score>
+</geoname>
+<geoname>
+<toponymName>Bells Elementary School</toponymName>
+<name>Bells Elementary School</name>
+<lat>33.60872</lat>
+<lng>-96.40999</lng>
+<geonameId>4673391</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>SCH</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>school</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>212</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>181</adminCode2>
+<adminName2>Grayson County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>1.9722063541412354</score>
+</geoname>
+<geoname>
+<toponymName>Bells Hill Elementary School</toponymName>
+<name>Bells Hill Elementary School</name>
+<lat>31.53739</lat>
+<lng>-97.13917</lng>
+<geonameId>4673392</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>SCH</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>school</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>149</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>309</adminCode2>
+<adminName2>McLennan County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>1.9722063541412354</score>
+</geoname>
+<geoname>
+<toponymName>Bells Hill School</toponymName>
+<name>Bells Hill School</name>
+<lat>31.53767</lat>
+<lng>-97.13889</lng>
+<geonameId>4673393</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>SCH</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>school</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>148</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>309</adminCode2>
+<adminName2>McLennan County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>1.9722063541412354</score>
+</geoname>
+<geoname>
+<toponymName>Chapel of the Bells Church</toponymName>
+<name>Chapel of the Bells Church</name>
+<lat>32.85207</lat>
+<lng>-96.95917</lng>
+<geonameId>4680448</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>CH</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>church</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>168</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>113</adminCode2>
+<adminName2>Dallas County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>1.9722063541412354</score>
+</geoname>
+<geoname>
+<toponymName>Bells Fire Department</toponymName>
+<name>Bells Fire Department</name>
+<lat>33.61018</lat>
+<lng>-96.40899</lng>
+<geonameId>7246788</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>BLDG</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>building(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>210</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>181</adminCode2>
+<adminName2>Grayson County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>1.9722063541412354</score>
+</geoname>
+<geoname>
+<toponymName>Bells - Savoy Emergency Medical Services</toponymName>
+<name>Bells - Savoy Emergency Medical Services</name>
+<lat>33.60493</lat>
+<lng>-96.3921</lng>
+<geonameId>8099087</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>BLDG</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>building(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>215</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>181</adminCode2>
+<adminName2>Grayson County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>1.9722063541412354</score>
+</geoname>
+</geonames>

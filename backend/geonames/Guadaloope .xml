@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Guadaloupe</toponymName>
+<name>Guadaloupe</name>
+<lat>10.1191</lat>
+<lng>125.6608</lng>
+<geonameId>1712650</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Guadaloupe</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="BUL">13</adminCode1>
+<adminName1>Caraga</adminName1>
+<adminCode2>61</adminCode2>
+<adminName2>Surigao del Norte</adminName2>
+<alternateName lang="fil">Guadaloupe</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<bbox>
+<west>125.65166</west>
+<north>10.12809</north>
+<east>125.66994</east>
+<south>10.11011</south>
+</bbox>
+<score>40.439842224121094</score>
+</geoname>
+<geoname>
+<toponymName>Guadaloupe River</toponymName>
+<name>Guadaloupe River</name>
+<lat>10.1118</lat>
+<lng>125.6685</lng>
+<geonameId>1712649</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>Guadaloupe,Guadaloupe River</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="BUL">13</adminCode1>
+<adminName1>Caraga</adminName1>
+<adminCode2>61</adminCode2>
+<adminName2>Surigao del Norte</adminName2>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<score>15.565301895141602</score>
+</geoname>
+<geoname>
+<toponymName>Guadaloupe</toponymName>
+<name>Guadaloupe</name>
+<lat>-29.12639</lat>
+<lng>29.5377</lng>
+<geonameId>998666</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>S</fcl>
+<fcode>FRM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farm</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="ZN">02</adminCode1>
+<adminName1>KwaZulu-Natal</adminName1>
+<adminCode2>DC23</adminCode2>
+<adminName2>uThukela District Municipality</adminName2>
+<adminCode3>KZN236</adminCode3>
+<adminName3>Imbabazane</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<score>13.757913589477539</score>
+</geoname>
+</geonames>

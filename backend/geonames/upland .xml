@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>37</totalResultsCount>
+<geoname>
+<toponymName>Upland</toponymName>
+<name>Upland</name>
+<lat>34.09751</lat>
+<lng>-117.64839</lng>
+<geonameId>5404915</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>73732</population>
+<alternateNames>CCB,Upland</alternateNames>
+<elevation>377</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>071</adminCode2>
+<adminName2>San Bernardino County</adminName2>
+<alternateName lang="de">Upland</alternateName>
+<alternateName lang="en">Upland</alternateName>
+<alternateName lang="fr">Upland</alternateName>
+<alternateName lang="iata">CCB</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Upland%2C_California</alternateName>
+<alternateName lang="post">91786</alternateName>
+<alternateName lang="unlc">CCB</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-117.7046</west>
+<north>34.15199</north>
+<east>-117.61928</east>
+<south>34.08695</south>
+</bbox>
+<score>91.94160461425781</score>
+</geoname>
+<geoname>
+<toponymName>Upland</toponymName>
+<name>Upland</name>
+<lat>39.85261</lat>
+<lng>-75.38269</lng>
+<geonameId>4561874</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3239</population>
+<alternateNames/>
+<elevation>10</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PA">PA</adminCode1>
+<adminName1>Pennsylvania</adminName1>
+<adminCode2>045</adminCode2>
+<adminName2>Delaware County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Upland%2C_Pennsylvania</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-75.39098</west>
+<north>39.85897</north>
+<east>-75.37441</east>
+<south>39.84625</south>
+</bbox>
+<score>77.53196716308594</score>
+</geoname>
+<geoname>
+<toponymName>Upland</toponymName>
+<name>Upland</name>
+<lat>40.4756</lat>
+<lng>-85.49442</lng>
+<geonameId>4927510</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3845</population>
+<alternateNames/>
+<elevation>285</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IN">IN</adminCode1>
+<adminName1>Indiana</adminName1>
+<adminCode2>053</adminCode2>
+<adminName2>Grant County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Upland%2C_Indiana</alternateName>
+<alternateName lang="post">46989</alternateName>
+<alternateName lang="unlc">UPL</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Indiana/Indianapolis</timezone>
+<bbox>
+<west>-85.50466</west>
+<north>40.48339</north>
+<east>-85.48418</east>
+<south>40.46781</south>
+</bbox>
+<score>58.14897537231445</score>
+</geoname>
+<geoname>
+<toponymName>Upland</toponymName>
+<name>Upland</name>
+<lat>40.31862</lat>
+<lng>-98.90119</lng>
+<geonameId>5080895</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>143</population>
+<alternateNames/>
+<elevation>659</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NE">NE</adminCode1>
+<adminName1>Nebraska</adminName1>
+<adminCode2>061</adminCode2>
+<adminName2>Franklin County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Upland%2C_Nebraska</alternateName>
+<alternateName lang="post">68981</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-98.90237</west>
+<north>40.31952</north>
+<east>-98.90001</east>
+<south>40.31773</south>
+</bbox>
+<score>58.14897537231445</score>
+</geoname>
+<geoname>
+<toponymName>Upland</toponymName>
+<name>Upland</name>
+<lat>39.8865</lat>
+<lng>-75.77439</lng>
+<geonameId>4561873</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2895</population>
+<alternateNames/>
+<elevation>162</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PA">PA</adminCode1>
+<adminName1>Pennsylvania</adminName1>
+<adminCode2>029</adminCode2>
+<adminName2>Chester County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-75.78267</west>
+<north>39.89286</north>
+<east>-75.7661</east>
+<south>39.88014</south>
+</bbox>
+<score>48.457481384277344</score>
+</geoname>
+<geoname>
+<toponymName>Upland</toponymName>
+<name>Upland</name>
+<lat>51.29694</lat>
+<lng>8.67949</lng>
+<geonameId>2818270</geonameId>
+<countryCode>DE</countryCode>
+<countryName>Germany</countryName>
+<fcl>L</fcl>
+<fcode>RGN</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>region</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="HE">05</adminCode1>
+<adminName1>Hesse</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Berlin</timezone>
+<score>38.76598358154297</score>
+</geoname>
+<geoname>
+<toponymName>Upland</toponymName>
+<name>Upland</name>
+<lat>39.08889</lat>
+<lng>-97.01918</lng>
+<geonameId>4280881</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>385</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KS">KS</adminCode1>
+<adminName1>Kansas</adminName1>
+<adminCode2>041</adminCode2>
+<adminName2>Dickinson County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-97.03077</west>
+<north>39.09788</north>
+<east>-97.00759</east>
+<south>39.07989</south>
+</bbox>
+<score>38.76598358154297</score>
+</geoname>
+<geoname>
+<toponymName>Upland</toponymName>
+<name>Upland</name>
+<lat>39.82445</lat>
+<lng>-96.55585</lng>
+<geonameId>4280882</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>372</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KS">KS</adminCode1>
+<adminName1>Kansas</adminName1>
+<adminCode2>117</adminCode2>
+<adminName2>Marshall County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-96.56756</west>
+<north>39.83344</north>
+<east>-96.54414</east>
+<south>39.81545</south>
+</bbox>
+<score>38.76598358154297</score>
+</geoname>
+<geoname>
+<toponymName>Upland</toponymName>
+<name>Upland</name>
+<lat>32.73125</lat>
+<lng>-91.88318</lng>
+<geonameId>4344372</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>45</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>067</adminCode2>
+<adminName2>Morehouse Parish</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-91.89388</west>
+<north>32.74024</north>
+<east>-91.87249</east>
+<south>32.72225</south>
+</bbox>
+<score>38.76598358154297</score>
+</geoname>
+<geoname>
+<toponymName>Upland</toponymName>
+<name>Upland</name>
+<lat>38.5687</lat>
+<lng>-82.07292</lng>
+<geonameId>4825565</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>220</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WV">WV</adminCode1>
+<adminName1>West Virginia</adminName1>
+<adminCode2>053</adminCode2>
+<adminName2>Mason County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-82.08442</west>
+<north>38.57769</north>
+<east>-82.06141</east>
+<south>38.5597</south>
+</bbox>
+<score>38.76598358154297</score>
+</geoname>
+</geonames>

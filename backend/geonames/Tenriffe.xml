@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>8</totalResultsCount>
+<geoname>
+<toponymName>Teneriffe</toponymName>
+<name>Teneriffe</name>
+<lat>-27.45587</lat>
+<lng>153.04696</lng>
+<geonameId>8348131</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="QLD">04</adminCode1>
+<adminName1>Queensland</adminName1>
+<adminCode2>31000</adminCode2>
+<adminName2>Brisbane</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Teneriffe%2C_Queensland</alternateName>
+<timezone dstOffset="10.0" gmtOffset="10.0">Australia/Brisbane</timezone>
+<bbox>
+<west>153.03993</west>
+<north>-27.45012</north>
+<east>153.05116</east>
+<south>-27.46302</south>
+</bbox>
+<score>52.164615631103516</score>
+</geoname>
+<geoname>
+<toponymName>Teneriffe</toponymName>
+<name>Teneriffe</name>
+<lat>-31.35425</lat>
+<lng>25.82078</lng>
+<geonameId>949837</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="EC">05</adminCode1>
+<adminName1>Eastern Cape</adminName1>
+<adminCode2>DC14</adminCode2>
+<adminName2>Joe Gqabi District Municipality</adminName2>
+<adminCode3>EC144</adminCode3>
+<adminName3>Gariep</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<bbox>
+<west>25.81025</west>
+<north>-31.34526</north>
+<east>25.83131</east>
+<south>-31.36325</south>
+</bbox>
+<score>41.731693267822266</score>
+</geoname>
+<geoname>
+<toponymName>Teneriffe</toponymName>
+<name>Teneriffe</name>
+<lat>-30.71703</lat>
+<lng>26.66679</lng>
+<geonameId>949838</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="EC">05</adminCode1>
+<adminName1>Eastern Cape</adminName1>
+<adminCode2>DC14</adminCode2>
+<adminName2>Joe Gqabi District Municipality</adminName2>
+<adminCode3>EC143</adminCode3>
+<adminName3>Maletswai</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<bbox>
+<west>26.65633</west>
+<north>-30.70804</north>
+<east>26.67725</east>
+<south>-30.72602</south>
+</bbox>
+<score>41.731693267822266</score>
+</geoname>
+<geoname>
+<toponymName>Teneriffe</toponymName>
+<name>Teneriffe</name>
+<lat>-17.73528</lat>
+<lng>30.91528</lng>
+<geonameId>1085458</geonameId>
+<countryCode>ZW</countryCode>
+<countryName>Zimbabwe</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Harare</timezone>
+<bbox>
+<west>30.90584</west>
+<north>-17.72628</north>
+<east>30.92472</east>
+<south>-17.74427</south>
+</bbox>
+<score>41.731693267822266</score>
+</geoname>
+<geoname>
+<toponymName>Teneriffe</toponymName>
+<name>Teneriffe</name>
+<lat>-27.45</lat>
+<lng>153.05</lng>
+<geonameId>2147129</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>T</fcl>
+<fcode>HLL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>hill</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="QLD">04</adminCode1>
+<adminName1>Queensland</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="10.0" gmtOffset="10.0">Australia/Brisbane</timezone>
+<score>41.731693267822266</score>
+</geoname>
+<geoname>
+<toponymName>Teneriffe</toponymName>
+<name>Teneriffe</name>
+<lat>-27.45833</lat>
+<lng>153.04167</lng>
+<geonameId>2207248</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames>Teneriffe</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="QLD">04</adminCode1>
+<adminName1>Queensland</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="10.0" gmtOffset="10.0">Australia/Brisbane</timezone>
+<score>38.3330078125</score>
+</geoname>
+<geoname>
+<toponymName>Teneriffe</toponymName>
+<name>Teneriffe</name>
+<lat>35.28428</lat>
+<lng>-82.47512</lng>
+<geonameId>4494720</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>651</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NC">NC</adminCode1>
+<adminName1>North Carolina</adminName1>
+<adminCode2>089</adminCode2>
+<adminName2>Henderson County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-82.47953</west>
+<north>35.28788</north>
+<east>-82.47071</east>
+<south>35.28069</south>
+</bbox>
+<score>26.082307815551758</score>
+</geoname>
+<geoname>
+<toponymName>Teneriffe</toponymName>
+<name>Teneriffe</name>
+<lat>-23.52534</lat>
+<lng>28.859</lng>
+<geonameId>949839</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>S</fcl>
+<fcode>FRM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farm</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="LP">09</adminCode1>
+<adminName1>Limpopo</adminName1>
+<adminCode2>DC36</adminCode2>
+<adminName2>Waterberg District Municipality</adminName2>
+<adminCode3>LIM367</adminCode3>
+<adminName3>Mogalakwena</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<score>13.041153907775879</score>
+</geoname>
+</geonames>

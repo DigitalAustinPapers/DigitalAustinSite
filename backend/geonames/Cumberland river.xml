@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>9</totalResultsCount>
+<geoname>
+<toponymName>Cumberland River</toponymName>
+<name>Cumberland River</name>
+<lat>37.14339</lat>
+<lng>-88.40754</lng>
+<geonameId>4289255</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>92</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>139</adminCode2>
+<adminName2>Livingston County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cumberland_River</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>44.39422607421875</score>
+</geoname>
+<geoname>
+<toponymName>Cumberland River</toponymName>
+<name>Cumberland River</name>
+<lat>30.89218</lat>
+<lng>-81.50593</lng>
+<geonameId>4190370</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>CHN</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>channel</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>-3</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">GA</adminCode1>
+<adminName1>Georgia</adminName1>
+<adminCode2>039</adminCode2>
+<adminName2>Camden County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Kentucky/Monticello</timezone>
+<score>13.87319564819336</score>
+</geoname>
+<geoname>
+<toponymName>Cumberland Levee</toponymName>
+<name>Cumberland Levee</name>
+<lat>34.10204</lat>
+<lng>-96.56861</lng>
+<geonameId>4534637</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>LEV</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>levee</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>189</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OK">OK</adminCode1>
+<adminName1>Oklahoma</adminName1>
+<adminCode2>013</adminCode2>
+<adminName2>Bryan County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>2.9183833599090576</score>
+</geoname>
+<geoname>
+<toponymName>Cumberland Grove</toponymName>
+<name>Cumberland Grove</name>
+<lat>36.38451</lat>
+<lng>-84.92495</lng>
+<geonameId>4616693</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>513</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TN">TN</adminCode1>
+<adminName1>Tennessee</adminName1>
+<adminCode2>049</adminCode2>
+<adminName2>Fentress County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-84.93612</west>
+<north>36.39351</north>
+<east>-84.91378</east>
+<south>36.37552</south>
+</bbox>
+<score>2.9183833599090576</score>
+</geoname>
+<geoname>
+<toponymName>Cumberland Ridge</toponymName>
+<name>Cumberland Ridge</name>
+<lat>36.94591</lat>
+<lng>-84.84634</lng>
+<geonameId>4289254</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>RDGE</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>ridge(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>284</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>231</adminCode2>
+<adminName2>Wayne County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Kentucky/Monticello</timezone>
+<score>2.774636745452881</score>
+</geoname>
+<geoname>
+<toponymName>Cumberland Ridge</toponymName>
+<name>Cumberland Ridge</name>
+<lat>39.93889</lat>
+<lng>-85.99306</lng>
+<geonameId>7121971</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>249</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IN">IN</adminCode1>
+<adminName1>Indiana</adminName1>
+<adminCode2>057</adminCode2>
+<adminName2>Hamilton County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Indiana/Indianapolis</timezone>
+<bbox>
+<west>-86.00479</west>
+<north>39.94788</north>
+<east>-85.98132</east>
+<south>39.9299</south>
+</bbox>
+<score>2.774636745452881</score>
+</geoname>
+<geoname>
+<toponymName>Cumberland Tower</toponymName>
+<name>Cumberland Tower</name>
+<lat>34.74028</lat>
+<lng>-92.26889</lng>
+<geonameId>8500393</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>BLDG</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>building(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>96</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">AR</adminCode1>
+<adminName1>Arkansas</adminName1>
+<adminCode2>119</adminCode2>
+<adminName2>Pulaski County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>0.9119948148727417</score>
+</geoname>
+<geoname>
+<toponymName>Cumberland Mines</toponymName>
+<name>Cumberland Mines</name>
+<lat>36.27283</lat>
+<lng>-87.37168</lng>
+<geonameId>4616709</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>MN</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>mine(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>225</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TN">TN</adminCode1>
+<adminName1>Tennessee</adminName1>
+<adminCode2>043</adminCode2>
+<adminName2>Dickson County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>0.8670740127563477</score>
+</geoname>
+<geoname>
+<toponymName>Cumberland Mines</toponymName>
+<name>Cumberland Mines</name>
+<lat>46.45355</lat>
+<lng>-110.68381</lng>
+<geonameId>5647388</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>MN</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>mine(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1976</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MT">MT</adminCode1>
+<adminName1>Montana</adminName1>
+<adminCode2>059</adminCode2>
+<adminName2>Meagher County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<score>0.8670740127563477</score>
+</geoname>
+</geonames>

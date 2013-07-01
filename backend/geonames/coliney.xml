@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>11</totalResultsCount>
+<geoname>
+<toponymName>Colinet</toponymName>
+<name>Colinet</name>
+<lat>47.2166</lat>
+<lng>-53.5481</lng>
+<geonameId>5925267</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NL">05</adminCode1>
+<adminName1>Newfoundland and Labrador</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Colinet%2C_Newfoundland_and_Labrador</alternateName>
+<timezone dstOffset="-2.5" gmtOffset="-3.5">America/St_Johns</timezone>
+<bbox>
+<west>-53.56135</west>
+<north>47.22559</north>
+<east>-53.53486</east>
+<south>47.2076</south>
+</bbox>
+<score>52.68299102783203</score>
+</geoname>
+<geoname>
+<toponymName>Colinet</toponymName>
+<name>Colinet</name>
+<lat>50.65675</lat>
+<lng>4.47362</lng>
+<geonameId>2800217</geonameId>
+<countryCode>BE</countryCode>
+<countryName>Belgium</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WAL">WAL</adminCode1>
+<adminName1>Walloon Region</adminName1>
+<adminCode2>WBR</adminCode2>
+<adminName2>Walloon Brabant Province</adminName2>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Brussels</timezone>
+<bbox>
+<west>4.45944</west>
+<north>50.66575</north>
+<east>4.48781</east>
+<south>50.64776</south>
+</bbox>
+<score>35.12199401855469</score>
+</geoname>
+<geoname>
+<toponymName>Colney</toponymName>
+<name>Colney</name>
+<lat>52.62517</lat>
+<lng>1.22236</lng>
+<geonameId>2652540</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UH</adminCode3>
+<adminName3>South Norfolk District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Colney</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.20754</west>
+<north>52.63416</north>
+<east>1.23718</east>
+<south>52.61618</south>
+</bbox>
+<score>28.783111572265625</score>
+</geoname>
+<geoname>
+<toponymName>Colney</toponymName>
+<name>Colney</name>
+<lat>52.62352</lat>
+<lng>1.21506</lng>
+<geonameId>7294995</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UH</adminCode3>
+<adminName3>South Norfolk District</adminName3>
+<adminCode4>33UH027</adminCode4>
+<adminName4>Colney</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.19738</west>
+<north>52.63713</north>
+<east>1.23274</east>
+<south>52.60992</south>
+</bbox>
+<score>23.98592758178711</score>
+</geoname>
+<geoname>
+<toponymName>Coline</toponymName>
+<name>Coline</name>
+<lat>-17.16773</lat>
+<lng>-70.15847</lng>
+<geonameId>3942788</geonameId>
+<countryCode>PE</countryCode>
+<countryName>Peru</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="TAC">23</adminCode1>
+<adminName1>Tacna Region</adminName1>
+<adminCode2>2302</adminCode2>
+<adminName2>Candarave</adminName2>
+<adminCode3>230201</adminCode3>
+<adminName3>Candarave</adminName3>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Lima</timezone>
+<bbox>
+<west>-70.16788</west>
+<north>-17.15873</north>
+<east>-70.14906</east>
+<south>-17.17672</south>
+</bbox>
+<score>18.73538589477539</score>
+</geoname>
+<geoname>
+<toponymName>Coline</toponymName>
+<name>Coline</name>
+<lat>-15.98281</lat>
+<lng>-70.83845</lng>
+<geonameId>3942789</geonameId>
+<countryCode>PE</countryCode>
+<countryName>Peru</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="PUN">21</adminCode1>
+<adminName1>Puno Region</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Lima</timezone>
+<bbox>
+<west>-70.8478</west>
+<north>-15.97382</north>
+<east>-70.82909</east>
+<south>-15.9918</south>
+</bbox>
+<score>18.73538589477539</score>
+</geoname>
+<geoname>
+<toponymName>Coline</toponymName>
+<name>Coline</name>
+<lat>-15.93942</lat>
+<lng>-70.85478</lng>
+<geonameId>3942790</geonameId>
+<countryCode>PE</countryCode>
+<countryName>Peru</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="PUN">21</adminCode1>
+<adminName1>Puno Region</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Lima</timezone>
+<score>18.73538589477539</score>
+</geoname>
+<geoname>
+<toponymName>Coline</toponymName>
+<name>Coline</name>
+<lat>-16.7225</lat>
+<lng>-69.40583</lng>
+<geonameId>6309944</geonameId>
+<countryCode>PE</countryCode>
+<countryName>Peru</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="PUN">21</adminCode1>
+<adminName1>Puno Region</adminName1>
+<adminCode2>2104</adminCode2>
+<adminName2>Provincia de Chucuito</adminName2>
+<adminCode3>210403</adminCode3>
+<adminName3>Huacullani</adminName3>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Lima</timezone>
+<bbox>
+<west>-69.41522</west>
+<north>-16.71351</north>
+<east>-69.39644</east>
+<south>-16.73149</south>
+</bbox>
+<score>18.73538589477539</score>
+</geoname>
+<geoname>
+<toponymName>Coline</toponymName>
+<name>Coline</name>
+<lat>-17.05241</lat>
+<lng>-69.83226</lng>
+<geonameId>6392648</geonameId>
+<countryCode>PE</countryCode>
+<countryName>Peru</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="PUN">21</adminCode1>
+<adminName1>Puno Region</adminName1>
+<adminCode2>2105</adminCode2>
+<adminName2>El Collao</adminName2>
+<adminCode3>210504</adminCode3>
+<adminName3>Santa Rosa</adminName3>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Lima</timezone>
+<bbox>
+<west>-69.84167</west>
+<north>-17.04342</north>
+<east>-69.82286</east>
+<south>-17.06141</south>
+</bbox>
+<score>18.73538589477539</score>
+</geoname>
+<geoname>
+<toponymName>Colney</toponymName>
+<name>Colney</name>
+<lat>-27.52056</lat>
+<lng>22.83784</lng>
+<geonameId>1013042</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>S</fcl>
+<fcode>FRMT</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farmstead</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="NC">08</adminCode1>
+<adminName1>Northern Cape</adminName1>
+<adminCode2>DC45</adminCode2>
+<adminName2>John Taolo Gaetsewe District Municipality</adminName2>
+<adminCode3>NC451</adminCode3>
+<adminName3>Joe Morolong</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<score>5.996481895446777</score>
+</geoname>
+</geonames>

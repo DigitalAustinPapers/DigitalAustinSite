@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Råhede</toponymName>
+<name>Råhede</name>
+<lat>55.26707</lat>
+<lng>8.69501</lng>
+<geonameId>2615031</geonameId>
+<countryCode>DK</countryCode>
+<countryName>Denmark</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Raahede,Rahede,Råhede</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="83">21</adminCode1>
+<adminName1>South Denmark</adminName1>
+<adminCode2>561</adminCode2>
+<adminName2>Esbjerg Kommune</adminName2>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Copenhagen</timezone>
+<bbox>
+<west>8.67922</west>
+<north>55.27607</north>
+<east>8.7108</east>
+<south>55.25808</south>
+</bbox>
+<score>40.23760986328125</score>
+</geoname>
+<geoname>
+<toponymName>Rrapëz-Fshat</toponymName>
+<name>Rrapëz-Fshat</name>
+<lat>40.84583</lat>
+<lng>19.63028</lng>
+<geonameId>3184282</geonameId>
+<countryCode>AL</countryCode>
+<countryName>Albania</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Rapez,Rapeza,Rapeze,Rapëza,Rapëzë,Rrapez,Rrapez-Fshat,Rrapeza,Rrapeze,Rrapëz,Rrapëz-Fshat,Rrapëza,Rrapëzë</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="04">44</adminCode1>
+<adminName1>Fier</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Tirane</timezone>
+<bbox>
+<west>19.61839</west>
+<north>40.85483</north>
+<east>19.64217</east>
+<south>40.83684</south>
+</bbox>
+<score>24.38767433166504</score>
+</geoname>
+</geonames>

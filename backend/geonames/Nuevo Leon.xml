@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>17</totalResultsCount>
+<geoname>
+<toponymName>Estado de Nuevo León</toponymName>
+<name>Nuevo León</name>
+<lat>25.66667</lat>
+<lng>-100</lng>
+<geonameId>3522542</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>first-order administrative division</fcodeName>
+<population>4123418</population>
+<alternateNames>Estado de Nuevo Leon,Estado de Nuevo León,Leon Baru,León Baru,NL,NLE,Nuevo Leon,Nuevo León,xin lai ang zhou,Нуево Леон,ヌエボ・レオン州,新萊昂州</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NLE">19</adminCode1>
+<adminName1>Nuevo León</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="abbr">NL</alternateName>
+<alternateName lang="ast">Nuevo León</alternateName>
+<alternateName lang="bg">Нуево Леон</alternateName>
+<alternateName lang="ca">Nuevo León</alternateName>
+<alternateName lang="cs">Nuevo León</alternateName>
+<alternateName lang="da">Nuevo León</alternateName>
+<alternateName lang="de">Nuevo León</alternateName>
+<alternateName lang="en">Nuevo León</alternateName>
+<alternateName lang="eo">Nuevo León</alternateName>
+<alternateName lang="es">Nuevo León</alternateName>
+<alternateName lang="eu">Nuevo Leon</alternateName>
+<alternateName lang="fi">Nuevo León</alternateName>
+<alternateName lang="fr">Nuevo León</alternateName>
+<alternateName lang="id">León Baru</alternateName>
+<alternateName lang="it">Nuevo León</alternateName>
+<alternateName lang="ja">ヌエボ・レオン州</alternateName>
+<alternateName lang="kw">Nuevo León</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Nuevo_Le%C3%B3n</alternateName>
+<alternateName lang="nl">Nuevo León</alternateName>
+<alternateName lang="no">Nuevo León</alternateName>
+<alternateName lang="pl">Nuevo León</alternateName>
+<alternateName lang="pt">Nuevo León</alternateName>
+<alternateName lang="zh">新萊昂州</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<bbox>
+<west>-101.21861</west>
+<north>27.79417</north>
+<east>-98.44389</east>
+<south>23.19444</south>
+</bbox>
+<score>97.62358093261719</score>
+</geoname>
+<geoname>
+<toponymName>Nuevo León</toponymName>
+<name>Nuevo León</name>
+<lat>32.41103</lat>
+<lng>-115.18827</lng>
+<geonameId>4011493</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Ejido Nuevo Leon,Ejido Nuevo León,Nuehvo-Leon,Nuevo Leon,Nuevo León,Нуэво-Леон</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="BCN">02</adminCode1>
+<adminName1>Baja California</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ru">Нуэво-Леон</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Tijuana</timezone>
+<bbox>
+<west>-115.19892</west>
+<north>32.42003</north>
+<east>-115.17761</east>
+<south>32.40204</south>
+</bbox>
+<score>62.74560546875</score>
+</geoname>
+<geoname>
+<toponymName>Nuevo León</toponymName>
+<name>Nuevo León</name>
+<lat>17.96667</lat>
+<lng>-92.13333</lng>
+<geonameId>3802833</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Nuevo Leon,Nuevo León</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TAB">27</adminCode1>
+<adminName1>Tabasco</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="es">Nuevo León</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-92.14279</west>
+<north>17.97566</north>
+<east>-92.12388</east>
+<south>17.95767</south>
+</bbox>
+<score>36.51979064941406</score>
+</geoname>
+<geoname>
+<toponymName>Nuevo León</toponymName>
+<name>Nuevo León</name>
+<lat>21.26667</lat>
+<lng>-87.61667</lng>
+<geonameId>3522544</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="YUC">31</adminCode1>
+<adminName1>Yucatán</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Merida</timezone>
+<bbox>
+<west>-87.62632</west>
+<north>21.27566</north>
+<east>-87.60702</east>
+<south>21.25767</south>
+</bbox>
+<score>34.43118667602539</score>
+</geoname>
+<geoname>
+<toponymName>Nuevo León</toponymName>
+<name>Nuevo León</name>
+<lat>19.3</lat>
+<lng>-90.71667</lng>
+<geonameId>3522545</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CAM">04</adminCode1>
+<adminName1>Campeche</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Merida</timezone>
+<bbox>
+<west>-90.7262</west>
+<north>19.30899</north>
+<east>-90.70714</east>
+<south>19.29101</south>
+</bbox>
+<score>34.43118667602539</score>
+</geoname>
+<geoname>
+<toponymName>Nuevo León</toponymName>
+<name>Nuevo León</name>
+<lat>17.75</lat>
+<lng>-91.13333</lng>
+<geonameId>3522546</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TAB">27</adminCode1>
+<adminName1>Tabasco</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-91.14278</west>
+<north>17.75899</north>
+<east>-91.12389</east>
+<south>17.74101</south>
+</bbox>
+<score>34.43118667602539</score>
+</geoname>
+<geoname>
+<toponymName>Nuevo León</toponymName>
+<name>Nuevo León</name>
+<lat>16.63333</lat>
+<lng>-92.55</lng>
+<geonameId>3522547</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CHP">05</adminCode1>
+<adminName1>Chiapas</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-92.55939</west>
+<north>16.64233</north>
+<east>-92.54061</east>
+<south>16.62434</south>
+</bbox>
+<score>34.43118667602539</score>
+</geoname>
+<geoname>
+<toponymName>Nuevo León</toponymName>
+<name>Nuevo León</name>
+<lat>16.48534</lat>
+<lng>-92.5725</lng>
+<geonameId>3816572</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CHP">05</adminCode1>
+<adminName1>Chiapas</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-92.58187</west>
+<north>16.49433</north>
+<east>-92.56312</east>
+<south>16.47634</south>
+</bbox>
+<score>34.43118667602539</score>
+</geoname>
+<geoname>
+<toponymName>Nuevo León</toponymName>
+<name>Nuevo León</name>
+<lat>16.46667</lat>
+<lng>-93.25556</lng>
+<geonameId>3816651</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CHP">05</adminCode1>
+<adminName1>Chiapas</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-93.26493</west>
+<north>16.47566</north>
+<east>-93.24618</east>
+<south>16.45767</south>
+</bbox>
+<score>34.43118667602539</score>
+</geoname>
+<geoname>
+<toponymName>Nuevo León</toponymName>
+<name>Nuevo León</name>
+<lat>17.67135</lat>
+<lng>-93.85983</lng>
+<geonameId>3825407</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VER">30</adminCode1>
+<adminName1>Veracruz-Llave</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-93.86927</west>
+<north>17.68035</north>
+<east>-93.85039</east>
+<south>17.66236</south>
+</bbox>
+<score>34.43118667602539</score>
+</geoname>
+</geonames>

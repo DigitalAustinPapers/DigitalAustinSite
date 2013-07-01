@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>31</totalResultsCount>
+<geoname>
+<toponymName>Guadalajara</toponymName>
+<name>Guadalajara</name>
+<lat>20.66682</lat>
+<lng>-103.39182</lng>
+<geonameId>4005539</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population>1640589</population>
+<alternateNames>Atemaxac,GDL,Gorad Gvadalakhara,Gouadalachara,Guadalajara,Guadalajara i Jalisco,Guadalakhara,Guadalaxara,Gvadalachara,Gvadalahara,Gvadalaharo,Gvadalakhara,Gvadalakharae,ghwadalakhara,gua da la ha la,guadarahara,gvadalahara,gvadalakhara,gwadalakhara, khalyskw,gwadallahala,gwwdlhrh,kwa da la ha ra,Ātemaxac,Γουαδαλαχάρα,Гвадалахарæ,Гвадалахара,Горад Гвадалахара,Гуадалахара,גוודלחרה,غوادالاخارا,گوادالاخارا، خالیسکو,ग्वादालाहारा,กวาดาลาฮารา,გვადალახარა,グアダラハラ,瓜达拉哈拉,과달라하라</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="JAL">14</adminCode1>
+<adminName1>Jalisco</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ar">غوادالاخارا</alternateName>
+<alternateName lang="ast">Guadalaxara</alternateName>
+<alternateName lang="be">Горад Гвадалахара</alternateName>
+<alternateName lang="bg">Гуадалахара</alternateName>
+<alternateName lang="ca">Guadalajara</alternateName>
+<alternateName lang="cs">Guadalajara</alternateName>
+<alternateName lang="de">Guadalajara</alternateName>
+<alternateName lang="el">Γουαδαλαχάρα</alternateName>
+<alternateName lang="en">Guadalajara</alternateName>
+<alternateName lang="eo">Gvadalaharo</alternateName>
+<alternateName lang="es">Guadalajara</alternateName>
+<alternateName lang="fa">گوادالاخارا، خالیسکو</alternateName>
+<alternateName lang="fi">Guadalajara</alternateName>
+<alternateName lang="fr">Guadalajara</alternateName>
+<alternateName lang="gl">Guadalaxara</alternateName>
+<alternateName lang="he">גוודלחרה</alternateName>
+<alternateName lang="hu">Guadalajara</alternateName>
+<alternateName lang="iata">GDL</alternateName>
+<alternateName lang="id">Guadalajara</alternateName>
+<alternateName lang="it">Guadalajara</alternateName>
+<alternateName lang="ja">グアダラハラ</alternateName>
+<alternateName lang="ka">გვადალახარა</alternateName>
+<alternateName lang="ko">과달라하라</alternateName>
+<alternateName lang="la">Guadalaxara</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Guadalajara</alternateName>
+<alternateName lang="lt">Gvadalachara</alternateName>
+<alternateName lang="lv">Gvadalahara</alternateName>
+<alternateName lang="mk">Гвадалахара</alternateName>
+<alternateName lang="mr">ग्वादालाहारा</alternateName>
+<alternateName lang="nah">Ātemaxac</alternateName>
+<alternateName lang="nl">Guadalajara</alternateName>
+<alternateName lang="nn">Guadalajara i Jalisco</alternateName>
+<alternateName lang="no">Guadalajara</alternateName>
+<alternateName lang="os">Гвадалахарæ</alternateName>
+<alternateName lang="pl">Guadalajara</alternateName>
+<alternateName lang="pt">Guadalajara</alternateName>
+<alternateName lang="ru">Гвадалахара</alternateName>
+<alternateName lang="sr">Гвадалахара</alternateName>
+<alternateName lang="sv">Guadalajara</alternateName>
+<alternateName lang="th">กวาดาลาฮารา</alternateName>
+<alternateName lang="uk">Гвадалахара</alternateName>
+<alternateName lang="unlc">GDL</alternateName>
+<alternateName lang="xmf">გვადალახარა</alternateName>
+<alternateName lang="zh">瓜达拉哈拉</alternateName>
+<alternateName lang="zh-CN">瓜达拉哈拉</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-103.56972</west>
+<north>20.83308</north>
+<east>-103.21393</east>
+<south>20.50056</south>
+</bbox>
+<score>263.057373046875</score>
+</geoname>
+<geoname>
+<toponymName>Guadalajara</toponymName>
+<name>Guadalajara</name>
+<lat>40.63333</lat>
+<lng>-3.16667</lng>
+<geonameId>3121070</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>83039</population>
+<alternateNames>GDU,Guadalajara,Gvadalaharo,Gvadalakhara,guadarahara,Гвадалахара,グアダラハラ</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="CM">54</adminCode1>
+<adminName1>Castille-La Mancha</adminName1>
+<adminCode2>GU</adminCode2>
+<adminName2>Guadalajara</adminName2>
+<adminCode3>19130</adminCode3>
+<adminName3>Guadalajara</adminName3>
+<alternateName lang="ca">Guadalajara</alternateName>
+<alternateName lang="de">Guadalajara</alternateName>
+<alternateName lang="en">Guadalajara</alternateName>
+<alternateName lang="eo">Gvadalaharo</alternateName>
+<alternateName lang="es">Guadalajara</alternateName>
+<alternateName lang="fr">Guadalajara</alternateName>
+<alternateName lang="iata">GDU</alternateName>
+<alternateName lang="it">Guadalajara</alternateName>
+<alternateName lang="ja">グアダラハラ</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Guadalajara,_Castile-La_Mancha</alternateName>
+<alternateName lang="nl">Guadalajara</alternateName>
+<alternateName lang="pl">Guadalajara</alternateName>
+<alternateName lang="post">19004</alternateName>
+<alternateName lang="pt">Guadalajara</alternateName>
+<alternateName lang="ru">Гвадалахара</alternateName>
+<alternateName lang="unlc">GUA</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Madrid</timezone>
+<bbox>
+<west>-3.21592</west>
+<north>40.67069</north>
+<east>-3.11742</east>
+<south>40.59598</south>
+</bbox>
+<score>81.78018188476562</score>
+</geoname>
+<geoname>
+<toponymName>Provincia de Guadalajara</toponymName>
+<name>Guadalajara</name>
+<lat>40.83333</lat>
+<lng>-2.5</lng>
+<geonameId>3121069</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>246151</population>
+<alternateNames>Guadalachara,Guadalajara,Guadalaxara,Provincia de Guadalajara,guadarahara,グアダラハラ</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="CM">54</adminCode1>
+<adminName1>Castille-La Mancha</adminName1>
+<adminCode2>GU</adminCode2>
+<adminName2>Guadalajara</adminName2>
+<alternateName lang="an">Guadalachara</alternateName>
+<alternateName lang="ast">Guadalaxara</alternateName>
+<alternateName lang="de">Guadalajara</alternateName>
+<alternateName lang="en">Guadalajara</alternateName>
+<alternateName lang="es">Guadalajara</alternateName>
+<alternateName lang="fr">Guadalajara</alternateName>
+<alternateName lang="gl">Guadalaxara</alternateName>
+<alternateName lang="ja">グアダラハラ</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Province_of_Guadalajara</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Madrid</timezone>
+<bbox>
+<west>-3.5411</west>
+<north>41.32763</north>
+<east>-1.53564</east>
+<south>40.15271</south>
+</bbox>
+<score>79.9731216430664</score>
+</geoname>
+<geoname>
+<toponymName>Guadalajara</toponymName>
+<name>Guadalajara</name>
+<lat>32.54572</lat>
+<lng>-114.86495</lng>
+<geonameId>4011597</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Ejido Guadalajara,Guadalajara,Gvadalakhara,Гвадалахара</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="BCN">02</adminCode1>
+<adminName1>Baja California</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ru">Гвадалахара</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Tijuana</timezone>
+<bbox>
+<west>-114.87562</west>
+<north>32.55472</north>
+<east>-114.85428</east>
+<south>32.53673</south>
+</bbox>
+<score>39.02439498901367</score>
+</geoname>
+<geoname>
+<toponymName>Guadalajara</toponymName>
+<name>Guadalajara</name>
+<lat>9.69706</lat>
+<lng>-64.54141</lng>
+<geonameId>3485415</geonameId>
+<countryCode>VE</countryCode>
+<countryName>Venezuela</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="B">02</adminCode1>
+<adminName1>Estado Anzoátegui</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.5" gmtOffset="-4.5">America/Caracas</timezone>
+<bbox>
+<west>-64.55053</west>
+<north>9.70605</north>
+<east>-64.53228</east>
+<south>9.68807</south>
+</bbox>
+<score>31.863283157348633</score>
+</geoname>
+<geoname>
+<toponymName>Guadalajara</toponymName>
+<name>Guadalajara</name>
+<lat>14.1</lat>
+<lng>-86.93333</lng>
+<geonameId>3609424</geonameId>
+<countryCode>HN</countryCode>
+<countryName>Honduras</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="EP">07</adminCode1>
+<adminName1>El Paraíso</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Tegucigalpa</timezone>
+<bbox>
+<west>-86.94261</west>
+<north>14.10899</north>
+<east>-86.92406</east>
+<south>14.09101</south>
+</bbox>
+<score>31.863283157348633</score>
+</geoname>
+<geoname>
+<toponymName>Guadalajara</toponymName>
+<name>Guadalajara</name>
+<lat>12.21667</lat>
+<lng>-71.45</lng>
+<geonameId>3681737</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="LAG">17</adminCode1>
+<adminName1>La Guajira</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<bbox>
+<west>-71.4592</west>
+<north>12.22566</north>
+<east>-71.4408</east>
+<south>12.20767</south>
+</bbox>
+<score>31.863283157348633</score>
+</geoname>
+<geoname>
+<toponymName>Guadalajara</toponymName>
+<name>Guadalajara</name>
+<lat>5.36157</lat>
+<lng>-72.3193</lng>
+<geonameId>3681738</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="CAS">32</adminCode1>
+<adminName1>Casanare</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<bbox>
+<west>-72.32833</west>
+<north>5.37056</north>
+<east>-72.31027</east>
+<south>5.35258</south>
+</bbox>
+<score>31.863283157348633</score>
+</geoname>
+<geoname>
+<toponymName>Guadalajara</toponymName>
+<name>Guadalajara</name>
+<lat>5.15</lat>
+<lng>-72.51667</lng>
+<geonameId>3681739</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="CAS">32</adminCode1>
+<adminName1>Casanare</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<bbox>
+<west>-72.5257</west>
+<north>5.15899</north>
+<east>-72.50764</east>
+<south>5.14101</south>
+</bbox>
+<score>31.863283157348633</score>
+</geoname>
+<geoname>
+<toponymName>Guadalajara</toponymName>
+<name>Guadalajara</name>
+<lat>4.76338</lat>
+<lng>-74.14514</lng>
+<geonameId>3681740</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="CUN">33</adminCode1>
+<adminName1>Cundinamarca</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<bbox>
+<west>-74.15417</west>
+<north>4.77238</north>
+<east>-74.13612</east>
+<south>4.75439</south>
+</bbox>
+<score>31.863283157348633</score>
+</geoname>
+</geonames>

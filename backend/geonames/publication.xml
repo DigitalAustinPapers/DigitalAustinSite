@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Estancia Mulak Aike</toponymName>
+<name>Estancia Mulak Aike</name>
+<lat>-48.81035</lat>
+<lng>-68.40255</lng>
+<geonameId>3843554</geonameId>
+<countryCode>AR</countryCode>
+<countryName>Argentina</countryName>
+<fcl>S</fcl>
+<fcode>RNCH</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>ranch(es)</fcodeName>
+<population/>
+<alternateNames>Estancia Mulak Aike,Publicacion,Publicación</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="Z">20</adminCode1>
+<adminName1>Santa Cruz</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Argentina/Rio_Gallegos</timezone>
+<score>20.118804931640625</score>
+</geoname>
+</geonames>

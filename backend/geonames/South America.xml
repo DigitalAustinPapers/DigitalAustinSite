@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>South America</toponymName>
+<name>South America</name>
+<lat>-14.60485</lat>
+<lng>-57.65625</lng>
+<geonameId>6255150</geonameId>
+<countryCode/>
+<countryName/>
+<fcl>L</fcl>
+<fcode>CONT</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>continent</fcodeName>
+<population>357000000</population>
+<alternateNames>Abya Yala,America Meridional,America del Sud,America del Sur,America do Sul,America meridionale,Amerika Selatan,Amerique du Sud,Ameryka Poludniowa,Ameryka Południowa,Amèrica del Sud,América Meridional,América del Sud,América del Sur,América do Sul,Amérique du Sud,De America,Del-Amerika,Dienvidamerika,Dél-Amerika,Etelae-Amerikka,Etelä-Amerikka,Gueney Amerika,Güney Amerika,Hego-Amerika,Hegoamerika,Jizni Amerika,Jižní Amerika,Juzhna Amerika,Juzhnaja Amerika,Juzna Amerika,Južna Amerika,Lulli-Amerihkka,Lulli-Amerihkká,Meiricea Theas,Meiriceá Theas,Nam My,Nam Mỹ,Notia Amerike,Pietu Amerika,Pietų Amerika,Pivdenna Amerika,Sor-Amerika,South America,Sudamerica,Sudameriko,Sudamérica,Sudur-Amerika,Suedamerika,Suramerica,Suramérica,Suður-Ameríka,Sydamerika,Sør-Amerika,Südamerika,Zuid-Amerika,amryka aljnwbyt,daksini amarika,nan mei zhou,nanamerika,Νότια Αμερική,Південна Америка,Южна Америка,Южная Америка,אמריקה הדרומית,أمريكا الجنوبية,दक्षिणी अमरीका,อเมริกาใต้,南アメリカ,南美洲</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1/>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ar">أمريكا الجنوبية</alternateName>
+<alternateName lang="bg">Южна Америка</alternateName>
+<alternateName lang="bs">Južna Amerika</alternateName>
+<alternateName lang="ca">Amèrica del Sud</alternateName>
+<alternateName lang="cai">Abya Yala</alternateName>
+<alternateName lang="cs">Jižní Amerika</alternateName>
+<alternateName lang="cy">De America</alternateName>
+<alternateName lang="da">Sydamerika</alternateName>
+<alternateName lang="de">Südamerika</alternateName>
+<alternateName lang="el">Νότια Αμερική</alternateName>
+<alternateName lang="en">South America</alternateName>
+<alternateName lang="eo">Sudameriko</alternateName>
+<alternateName lang="es">Sudamérica</alternateName>
+<alternateName lang="eu">Hego-Amerika</alternateName>
+<alternateName lang="fi">Etelä-Amerikka</alternateName>
+<alternateName lang="fr">Amérique du Sud</alternateName>
+<alternateName lang="ga">Meiriceá Theas</alternateName>
+<alternateName lang="he">אמריקה הדרומית</alternateName>
+<alternateName lang="hi">दक्षिणी अमरीका</alternateName>
+<alternateName lang="hu">Dél-Amerika</alternateName>
+<alternateName lang="id">Amerika Selatan</alternateName>
+<alternateName lang="is">Suður-Ameríka</alternateName>
+<alternateName lang="it">America meridionale</alternateName>
+<alternateName lang="ja">南アメリカ</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/South_America</alternateName>
+<alternateName lang="lt">Pietų Amerika</alternateName>
+<alternateName lang="lv">Dienvidamerika</alternateName>
+<alternateName lang="nb">Sør-Amerika</alternateName>
+<alternateName lang="nl">Zuid-Amerika</alternateName>
+<alternateName lang="no">Sør-Amerika</alternateName>
+<alternateName lang="pl">Ameryka Południowa</alternateName>
+<alternateName lang="pt">América do Sul</alternateName>
+<alternateName lang="ru">Южная Америка</alternateName>
+<alternateName lang="se">Lulli-Amerihkká</alternateName>
+<alternateName lang="sv">Sydamerika</alternateName>
+<alternateName lang="th">อเมริกาใต้</alternateName>
+<alternateName lang="tr">Güney Amerika</alternateName>
+<alternateName lang="uk">Південна Америка</alternateName>
+<alternateName lang="vi">Nam Mỹ</alternateName>
+<alternateName lang="zh">南美洲</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Recife</timezone>
+<bbox>
+<west>-91.66389</west>
+<north>13.37861</north>
+<east>-29.84</east>
+<south>-55.91972</south>
+</bbox>
+<score>96.03833770751953</score>
+</geoname>
+<geoname>
+<toponymName>South Amenia</toponymName>
+<name>South Amenia</name>
+<lat>41.79898</lat>
+<lng>-73.53596</lng>
+<geonameId>5138715</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>141</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>027</adminCode2>
+<adminName2>Dutchess County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-73.54802</west>
+<north>41.80798</north>
+<east>-73.52389</east>
+<south>41.78999</south>
+</bbox>
+<score>7.468086242675781</score>
+</geoname>
+<geoname>
+<toponymName>South Africa</toponymName>
+<name>South Africa</name>
+<lat>-31.3096</lat>
+<lng>18.357</lng>
+<geonameId>8335359</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>283</elevation>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="WC">11</adminCode1>
+<adminName1>Western Cape</adminName1>
+<adminCode2>DC1</adminCode2>
+<adminName2>West Coast District Municipality</adminName2>
+<adminCode3>WC011</adminCode3>
+<adminName3>Matzikama</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<bbox>
+<west>18.34647</west>
+<north>-31.3006</north>
+<east>18.36752</east>
+<south>-31.31859</south>
+</bbox>
+<score>6.844886302947998</score>
+</geoname>
+<geoname>
+<toponymName>Republic of South Africa</toponymName>
+<name>South Africa</name>
+<lat>-29</lat>
+<lng>24</lng>
+<geonameId>953987</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>A</fcl>
+<fcode>PCLI</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>independent political entity</fcodeName>
+<population>49000000</population>
+<alternateNames>'Afilika tonga,Aferika Borwa,Afirka Ta Kudu,Aforika Borwa,Afraga a Deas,Africa Australis,Africa dal Sid,Africa de Sud,Africa del Sud,Africa do Sul,Africa du Sud,Afrik Disid,Afrik bn Worgo,Afrik bŋ Worgo,Afrik disid,Afrika Anaafo,Afrika Atsimo,Afrika Borwa,Afrika Dhyhow,Afrika Dzonga,Afrika Kusini,Afrika Selatan,Afrika e Jugut,Afrika t'Isfel,Afrika t’Isfel,Afrika ya Kusini,Afrika ya Sudi,Afrika ya Súdi,Afrika-Borwa,Afrikaya Basur,Afrique du Sud,Afryka Poludniowa,Afryka Południowa,Afríka ya Súdi,Afrîkaya Başûr,Afurika Tshipembe,Afurika y'Epfo,An Afraic Theas,Anyiehe Afrika nutome,Awherika ki te Tonga,Awherika-ki-te-tonga,Cong hoa Nam Phi,Cənub Afrika,Cộng hòa Nam Phi,De Affrica,Del-Afrika,Del-afrikai Koeztarsasag,Dienvidafrika,Dienvidafrikas Republika,Dienvidāfrika,Dienvidāfrikas Republika,Dél-Afrika,Dél-afrikai Köztársaság,Etelae-Afrikka,Etelä-Afrikka,Gueney Afrika,Gueney Afrika Cumhuriyeti,Güney Afrika,Güney Afrika Cumhuriyeti,Haravayin Afrika,Hego Afrika,Hegoafrika,IRiphabliki yaseNingizimu Afrika,JUAR,Jihoafricka republika,Jihoafrická republika,Jizni Afrika,Jižní Afrika,Juzhna Afrika,Juzhno-Afrikanskaja Respublika,Juzhnoafrichka Republika,Juzhnoafrikanska republika,Juzna Afrika,Juznoafricka Republika,Juznoafriska republika,Južna Afrika,Južnoafrička Republika,Južnoafriška republika,Južná Afrika,Koonfur Afrika,Louna-Aafrika,Louna-Aafrika Vabariik,Lõuna-Aafrika,Lõuna-Aafrika Vabariik,Matta-Afrihka,Mauling Aprika,Mbongo-Afrika,Mbongo-Afrîka,Mzansi ye Afrika,Mátta-Afrihká,Nam Phi,Notia Aphrike,Orileede Ariwa Afirika,Orílẹ́ède Ariwa Afirika,PAR,Paudneva-Afrykanskaa Respublika,Pietu Afrika,Pietu Afrikos Respublika,Pietų Afrika,Pietų Afrikos Respublika,Pivdenna Afrika,Pivdenno-Afrikans'ka Respublika,Repabliki ya Afrika-Borwa,Rephaboliki ya Aforika Borwa,Rephaboliki ya Afrika Borwa,Republic of South Africa,Republica Sudafricana,Republiek van Suid-Afrika,Republik Suedafrika,Republik Südafrika,Republika Juzhna Afrika,Republika Juzna Afrika,Republika Južna Afrika,Republika Poludniowej Afryki,Republika Południowej Afryki,República Sudafricana,Riphabliki ra Afrika Dzonga,Riphabuliki ya Afurika Tshipembe,Saut Aprika,Sawusafirika,Sor-Afrika,South Africa,Suafrika,Sud Afrika,Sud-Africa,Sud-Afrika,Sud-Afriko,Sud-africa,Sud-àfrica,Sudaffrica,Sudafrica,Sudafrica - Ningizimu Afrika,Sudur-Afrika,Sudurafrika,Sudàfrica,Sudáfrica,Sudáfrica - Ningizimu Afrika,Suedafrika,Sueuedafrika,Suid-Afrika,Suður-Afríka,Suðurafrika,Sydafrika,Sør-Afrika,Südafrika,Süüdafrika,Sūðaffrica,Timog Aprika,UMzantsi Afrika,Unie van Suid-Afrika,Union of South Africa,Worodugu Afriki,Zuid-Afrika,afryqay jnwby,daksina afrika,daksina aphrika,daksina aphrika rajyam,daksina-aphrika,daksinaphrikka,iNingizimu Afrika,iRiphabhulikhi ye Ningizimu Afrika,iRiphabhuliki yase Ningizimu Afrika,iRiphabliki ye Sewula Afrika,iRiphabliki yom Zantsi Afrika,iSewula Afrika,jmhwryt jnwb afryqya,jnwb afryqya,nam-agong,nam-apeulika,nam-apeulika gonghwagug,nan fei,nanafurika,nanafurika gong he guo,ten appirikka,tennappirikka,umZantsi Afrika,Àfrica dû Sud,África do Sul,Āwherika-ki-te-tonga,ʻAfilika tonga,Νότια Αφρική,Јужна Африка,Јужноафричка Република,Африқои Ҷанубӣ,Оңтүстік Африка республикасы,ПАР,Паўднёва-Афрыканская Рэспубліка,Південна Африка,Південно-Африканська Республіка,Република Южна Африка,ЮАР,Южна Африка,Южно-Африканская Республика,Южноафриканска република,Հարավային Աֆրիկա,דרום אפריקה,آفریقای جنوبی,ئەفریقای باشوور,افریقای جنوبی,جمهورية جنوب افريقيا,جنوب أفريقيا,جنوب افريقيا,جنوبی افریقہ,جٔنوٗبی اَفریٖقہ,جەنۇبىي ئافرىقا,दक्षिण अफ़्रीका,दक्षिण अफ्रिका,दक्षिण अफ्रीका,दक्षिण-आफ्रिका,দক্ষিণ আফ্রিকা,દક્ષિણ આફ્રિકા,ଦକ୍ଷିଣ ଆଫ୍ରିକା,தென் ஆப்பிரிக்கா,தென்னாப்பிரிக்கா,దక్షిణ ఆఫ్రికా రాజ్యం,ದಕ್ಷಿಣ ಆಫ್ರಿಕಾ,ദക്ഷിണാഫ്രിക്ക,දකුණු අප්‍රිකාව,ประเทศแอฟริกาใต้,แอฟริกาใต้,ອາຟະລິກາໃຕ້,ལྷོ་ ཨཕྲི་ཀ།,སའུཐ་ཨཕ་རི་ཀ,တောင်အာဖရိက,სამხრეთ აფრიკა,სამხრეთ აფრიკის რესპუბლიკა,ደቡብ አፍሪካ,អាហ្វ្រិកខាងត្បូង,南アフリカ,南アフリカ共和国,南非,남아공,남아프리카,남아프리카 공화국</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="af">Suid-Afrika</alternateName>
+<alternateName lang="ak">Afrika Anaafo</alternateName>
+<alternateName lang="am">ደቡብ አፍሪካ</alternateName>
+<alternateName lang="an">Sudafrica</alternateName>
+<alternateName lang="ang">Sūðaffrica</alternateName>
+<alternateName lang="ar">جمهورية جنوب افريقيا</alternateName>
+<alternateName lang="ast">República Sudafricana</alternateName>
+<alternateName lang="az">Cənub Afrika</alternateName>
+<alternateName lang="be">Паўднёва-Афрыканская Рэспубліка</alternateName>
+<alternateName lang="bg">ЮАР</alternateName>
+<alternateName lang="bm">Worodugu Afriki</alternateName>
+<alternateName lang="bn">দক্ষিণ আফ্রিকা</alternateName>
+<alternateName lang="bo">ལྷོ་ ཨཕྲི་ཀ།</alternateName>
+<alternateName lang="br">Suafrika</alternateName>
+<alternateName lang="bs">Južna Afrika</alternateName>
+<alternateName lang="ca">Sudàfrica</alternateName>
+<alternateName lang="cs">Jihoafrická republika</alternateName>
+<alternateName lang="cy">De Affrica</alternateName>
+<alternateName lang="da">Sydafrika</alternateName>
+<alternateName lang="de">Republik Südafrika</alternateName>
+<alternateName lang="dz">སའུཐ་ཨཕ་རི་ཀ</alternateName>
+<alternateName lang="ee">Anyiehe Afrika nutome</alternateName>
+<alternateName lang="el">Νότια Αφρική</alternateName>
+<alternateName lang="en">South Africa</alternateName>
+<alternateName lang="eo">Sud-Afriko</alternateName>
+<alternateName lang="es">Sudáfrica</alternateName>
+<alternateName lang="et">Lõuna-Aafrika</alternateName>
+<alternateName lang="eu">Hego Afrika</alternateName>
+<alternateName lang="fa">افریقای جنوبی</alternateName>
+<alternateName lang="ff">Afrik bŋ Worgo</alternateName>
+<alternateName lang="fi">Etelä-Afrikka</alternateName>
+<alternateName lang="fo">Suðurafrika</alternateName>
+<alternateName lang="fr">Afrique du Sud</alternateName>
+<alternateName lang="frp">Africa du Sud</alternateName>
+<alternateName lang="ga">An Afraic Theas</alternateName>
+<alternateName lang="gd">Afraga a Deas</alternateName>
+<alternateName lang="gl">Sudáfrica</alternateName>
+<alternateName lang="gu">દક્ષિણ આફ્રિકા</alternateName>
+<alternateName lang="ha">Afirka Ta Kudu</alternateName>
+<alternateName lang="hbs">Južna Afrika</alternateName>
+<alternateName lang="he">דרום אפריקה</alternateName>
+<alternateName lang="hi">दक्षिण अफ़्रीका</alternateName>
+<alternateName lang="hr">Južna Afrika</alternateName>
+<alternateName lang="ht">Afrik disid</alternateName>
+<alternateName lang="hu">Dél-Afrika</alternateName>
+<alternateName lang="hy">Հարավային Աֆրիկա</alternateName>
+<alternateName lang="ia">Africa del Sud</alternateName>
+<alternateName lang="id">Afrika Selatan</alternateName>
+<alternateName lang="io">Sud-Afrika</alternateName>
+<alternateName lang="is">Suður-Afríka</alternateName>
+<alternateName lang="it">Sudafrica</alternateName>
+<alternateName lang="ja">南アフリカ</alternateName>
+<alternateName lang="ka">სამხრეთ აფრიკის რესპუბლიკა</alternateName>
+<alternateName lang="ki">Afrika Kusini</alternateName>
+<alternateName lang="kk">Оңтүстік Африка республикасы</alternateName>
+<alternateName lang="km">អាហ្វ្រិកខាងត្បូង</alternateName>
+<alternateName lang="kn">ದಕ್ಷಿಣ ಆಫ್ರಿಕಾ</alternateName>
+<alternateName lang="ko">남아공</alternateName>
+<alternateName lang="ks">جٔنوٗبی اَفریٖقہ</alternateName>
+<alternateName lang="ku">ئەفریقای باشوور</alternateName>
+<alternateName lang="kw">Afrika Dhyhow</alternateName>
+<alternateName lang="la">Africa Australis</alternateName>
+<alternateName lang="lb">Südafrika</alternateName>
+<alternateName lang="lg">Sawusafirika</alternateName>
+<alternateName lang="li">Zuid-Afrika</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/South_Africa</alternateName>
+<alternateName lang="ln">Afríka ya Súdi</alternateName>
+<alternateName lang="lo">ອາຟະລິກາໃຕ້</alternateName>
+<alternateName lang="lt">Pietų Afrika</alternateName>
+<alternateName lang="lu">Afrika ya Súdi</alternateName>
+<alternateName lang="lv">Dienvidāfrika</alternateName>
+<alternateName lang="mg">Afrika Atsimo</alternateName>
+<alternateName lang="mi">Awherika ki te Tonga</alternateName>
+<alternateName lang="mk">Јужна Африка</alternateName>
+<alternateName lang="ml">ദക്ഷിണാഫ്രിക്ക</alternateName>
+<alternateName lang="mr">दक्षिण अफ्रिका</alternateName>
+<alternateName lang="ms">Afrika Selatan</alternateName>
+<alternateName lang="mt">Afrika t’Isfel</alternateName>
+<alternateName lang="my">တောင်အာဖရိက</alternateName>
+<alternateName lang="nb">Sør-Afrika</alternateName>
+<alternateName lang="nd">Mzansi ye Afrika</alternateName>
+<alternateName lang="nds">Süüdafrika</alternateName>
+<alternateName lang="ne">दक्षिण अफ्रिका</alternateName>
+<alternateName lang="nl">Zuid-Afrika</alternateName>
+<alternateName lang="nn">Sør-Afrika</alternateName>
+<alternateName lang="no">Sør-Afrika</alternateName>
+<alternateName lang="nov">Sud Afrika</alternateName>
+<alternateName lang="nrm">Afrique du Sud</alternateName>
+<alternateName lang="nso">Afrika-Borwa</alternateName>
+<alternateName lang="oc">Sud-Africa</alternateName>
+<alternateName lang="or">ଦକ୍ଷିଣ ଆଫ୍ରିକା</alternateName>
+<alternateName lang="pam">Mauling Aprika</alternateName>
+<alternateName lang="pl">Republika Południowej Afryki</alternateName>
+<alternateName lang="pms">Sudàfrica</alternateName>
+<alternateName lang="pt">África do Sul</alternateName>
+<alternateName lang="rm">Africa dal Sid</alternateName>
+<alternateName lang="rn">Afurika y'Epfo</alternateName>
+<alternateName lang="ro">Africa de Sud</alternateName>
+<alternateName lang="ru">ЮАР</alternateName>
+<alternateName lang="sa">दक्षिण-आफ्रिका</alternateName>
+<alternateName lang="scn">Àfrica dû Sud</alternateName>
+<alternateName lang="se">Mátta-Afrihká</alternateName>
+<alternateName lang="sg">Mbongo-Afrîka</alternateName>
+<alternateName lang="si">දකුණු අප්‍රිකාව</alternateName>
+<alternateName lang="sk">Južná Afrika</alternateName>
+<alternateName lang="sl">Južnoafriška republika</alternateName>
+<alternateName lang="sn">South Africa</alternateName>
+<alternateName lang="so">Koonfur Afrika</alternateName>
+<alternateName lang="sq">Afrika e Jugut</alternateName>
+<alternateName lang="sr">Јужна Африка</alternateName>
+<alternateName lang="ss">iRiphabhulikhi ye Ningizimu Afrika</alternateName>
+<alternateName lang="st">Afrika Borwa</alternateName>
+<alternateName lang="sv">Sydafrika</alternateName>
+<alternateName lang="sw">Afrika ya Kusini</alternateName>
+<alternateName lang="ta">தென் ஆப்பிரிக்கா</alternateName>
+<alternateName lang="te">దక్షిణ ఆఫ్రికా రాజ్యం</alternateName>
+<alternateName lang="tg">Африқои Ҷанубӣ</alternateName>
+<alternateName lang="th">ประเทศแอฟริกาใต้</alternateName>
+<alternateName lang="ti">ደቡብ አፍሪካ</alternateName>
+<alternateName lang="tl">Timog Aprika</alternateName>
+<alternateName lang="tn">Rephaboliki ya Aforika Borwa</alternateName>
+<alternateName lang="to">ʻAfilika tonga</alternateName>
+<alternateName lang="tpi">Saut Aprika</alternateName>
+<alternateName lang="tr">Güney Afrika Cumhuriyeti</alternateName>
+<alternateName lang="ts">Riphabliki ra Afrika Dzonga</alternateName>
+<alternateName lang="ug">جەنۇبىي ئافرىقا</alternateName>
+<alternateName lang="uk">Південна Африка</alternateName>
+<alternateName lang="ur">جنوبی افریقہ</alternateName>
+<alternateName lang="vi">Cộng hòa Nam Phi</alternateName>
+<alternateName lang="xh">umZantsi Afrika</alternateName>
+<alternateName lang="yo">Orílẹ́ède Ariwa Afirika</alternateName>
+<alternateName lang="zh">南非</alternateName>
+<alternateName lang="zu">iNingizimu Afrika</alternateName>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<bbox>
+<west>16.45802</west>
+<north>-22.12661</north>
+<east>38.00047</east>
+<south>-46.97893</south>
+</bbox>
+<score>4.2780537605285645</score>
+</geoname>
+<geoname>
+<toponymName>Janūb Afrīqiyā</toponymName>
+<name>Janūb Afrīqiyā</name>
+<lat>24.48721</lat>
+<lng>54.37045</lng>
+<geonameId>8053918</geonameId>
+<countryCode>AE</countryCode>
+<countryName>United Arab Emirates</countryName>
+<fcl>S</fcl>
+<fcode>DIP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>diplomatic facility</fcodeName>
+<population/>
+<alternateNames>Janub Afriqiya,Janūb Afrīqiyā,South Africa,jnwb afryqya,جنوب أفريقيا</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="AZ">01</adminCode1>
+<adminName1>Abu Dhabi</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ar">جنوب أفريقيا</alternateName>
+<timezone dstOffset="4.0" gmtOffset="4.0">Asia/Dubai</timezone>
+<score>2.4200327396392822</score>
+</geoname>
+</geonames>

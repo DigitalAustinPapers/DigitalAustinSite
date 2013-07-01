@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4964</totalResultsCount>
+<geoname>
+<toponymName>Baltimore</toponymName>
+<name>Baltimore</name>
+<lat>39.29038</lat>
+<lng>-76.61219</lng>
+<geonameId>4347778</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>620961</population>
+<alternateNames>BWI,Baltimor,Baltimora,Baltimore,Baltimorė,Gorad Baltymar,Valtimori,ba er de mo,baltimor,baltimora,baltimori,baltymwr,baltymwr, maryland,boltimo-eo,boltimora,boruchimoa,bwltymwr,bxl thim xr,palttimor,Βαλτιμόρη,Балтимор,Горад Балтымар,Բալթիմոր,באלטימאר,בולטימור,بالتيمور، ماريلاند,بالتیمور,بالٹیمور,बाल्टीमोर,बॉल्टिमोर,বাল্টিমোর,பால்ட்டிமோர்,ಬಾಲ್ಟಿಮೋರ್,ബാൾട്ടിമോർ,บอลทิมอร์,བྷལ་ཏྲི་མོར།,ဘော်လ်တီမိုးမြို့,ბალთიმორი,ბალტიმორი,ボルチモア,巴爾的摩,볼티모어</alternateNames>
+<elevation>10</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MD">MD</adminCode1>
+<adminName1>Maryland</adminName1>
+<adminCode2>510</adminCode2>
+<adminName2>City of Baltimore</adminName2>
+<alternateName lang="ar">بالتيمور، ماريلاند</alternateName>
+<alternateName lang="az">Baltimor</alternateName>
+<alternateName lang="be">Горад Балтымар</alternateName>
+<alternateName lang="bg">Балтимор</alternateName>
+<alternateName lang="bn">বাল্টিমোর</alternateName>
+<alternateName lang="bo">བྷལ་ཏྲི་མོར།</alternateName>
+<alternateName lang="cs">Baltimore</alternateName>
+<alternateName lang="da">Baltimore</alternateName>
+<alternateName lang="de">Baltimore</alternateName>
+<alternateName lang="el">Βαλτιμόρη</alternateName>
+<alternateName lang="en">Baltimore</alternateName>
+<alternateName lang="eo">Baltimore</alternateName>
+<alternateName lang="es">Baltimore</alternateName>
+<alternateName lang="fa">بالتیمور</alternateName>
+<alternateName lang="fi">Baltimore</alternateName>
+<alternateName lang="fr">Baltimore</alternateName>
+<alternateName lang="gl">Baltimore</alternateName>
+<alternateName lang="he">בולטימור</alternateName>
+<alternateName lang="hi">बाल्टीमोर</alternateName>
+<alternateName lang="hy">Բալթիմոր</alternateName>
+<alternateName lang="iata">BWI</alternateName>
+<alternateName lang="is">Baltimore</alternateName>
+<alternateName lang="it">Baltimora</alternateName>
+<alternateName lang="ja">ボルチモア</alternateName>
+<alternateName lang="ka">ბალტიმორი</alternateName>
+<alternateName lang="kn">ಬಾಲ್ಟಿಮೋರ್</alternateName>
+<alternateName lang="ko">볼티모어</alternateName>
+<alternateName lang="la">Baltimora</alternateName>
+<alternateName lang="lij">Baltimora</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Baltimore</alternateName>
+<alternateName lang="lt">Baltimorė</alternateName>
+<alternateName lang="lv">Baltimora</alternateName>
+<alternateName lang="mk">Балтимор</alternateName>
+<alternateName lang="ml">ബാൾട്ടിമോർ</alternateName>
+<alternateName lang="mr">बॉल्टिमोर</alternateName>
+<alternateName lang="mrj">Балтимор</alternateName>
+<alternateName lang="my">ဘော်လ်တီမိုးမြို့</alternateName>
+<alternateName lang="nl">Baltimore</alternateName>
+<alternateName lang="no">Baltimore</alternateName>
+<alternateName lang="os">Балтимор</alternateName>
+<alternateName lang="pl">Baltimore</alternateName>
+<alternateName lang="pnb">بالٹیمور</alternateName>
+<alternateName lang="post">21211</alternateName>
+<alternateName lang="pt">Baltimore</alternateName>
+<alternateName lang="ru">Балтимор</alternateName>
+<alternateName lang="sk">Baltimore</alternateName>
+<alternateName lang="sl">Baltimore</alternateName>
+<alternateName lang="sr">Балтимор</alternateName>
+<alternateName lang="sv">Baltimore</alternateName>
+<alternateName lang="ta">பால்ட்டிமோர்</alternateName>
+<alternateName lang="th">บอลทิมอร์</alternateName>
+<alternateName lang="tr">Baltimore</alternateName>
+<alternateName lang="ug">Baltimor</alternateName>
+<alternateName lang="uk">Балтимор</alternateName>
+<alternateName lang="unlc">BAL</alternateName>
+<alternateName lang="uz">Baltimor</alternateName>
+<alternateName lang="vi">Baltimore</alternateName>
+<alternateName lang="xmf">ბალთიმორი</alternateName>
+<alternateName lang="yi">באלטימאר</alternateName>
+<alternateName lang="zh">巴爾的摩</alternateName>
+<alternateName lang="zh-TW">巴爾的摩</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-76.74449</west>
+<north>39.39263</north>
+<east>-76.47988</east>
+<south>39.18814</south>
+</bbox>
+<score>52.60067367553711</score>
+</geoname>
+<geoname>
+<toponymName>Baltimore-Towson</toponymName>
+<name>Baltimore-Towson</name>
+<lat>39.28808</lat>
+<lng>-76.61076</lng>
+<geonameId>6955120</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>L</fcl>
+<fcode>RGNE</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>economic region</fcodeName>
+<population>2667117</population>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MD">MD</adminCode1>
+<adminName1>Maryland</adminName1>
+<adminCode2>510</adminCode2>
+<adminName2>City of Baltimore</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>15.115285873413086</score>
+</geoname>
+<geoname>
+<toponymName>Baltimore County</toponymName>
+<name>Baltimore County</name>
+<lat>39.44307</lat>
+<lng>-76.61632</lng>
+<geonameId>4347790</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>805029</population>
+<alternateNames>Comte de Baltimore,Comté de Baltimore</alternateNames>
+<elevation>110</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MD">MD</adminCode1>
+<adminName1>Maryland</adminName1>
+<adminCode2>005</adminCode2>
+<adminName2>Baltimore County</adminName2>
+<alternateName lang="fr">Comté de Baltimore</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Baltimore_County%2C_Maryland</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-76.89699</west>
+<north>39.72134</north>
+<east>-76.31815</east>
+<south>39.19991</south>
+</bbox>
+<score>9.815008163452148</score>
+</geoname>
+<geoname>
+<toponymName>Dundalk</toponymName>
+<name>Dundalk</name>
+<lat>39.25066</lat>
+<lng>-76.52052</lng>
+<geonameId>4353765</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>63597</population>
+<alternateNames>Dandolk,Dundalk,Дандолк</alternateNames>
+<elevation>5</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MD">MD</adminCode1>
+<adminName1>Maryland</adminName1>
+<adminCode2>005</adminCode2>
+<adminName2>Baltimore County</adminName2>
+<alternateName lang="en">Dundalk</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Dundalk%2C_Maryland</alternateName>
+<alternateName lang="post">21222</alternateName>
+<alternateName lang="ru">Дандолк</alternateName>
+<alternateName lang="unlc">DDQ</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-76.56241</west>
+<north>39.28309</north>
+<east>-76.47862</east>
+<south>39.21824</south>
+</bbox>
+<score>9.527286529541016</score>
+</geoname>
+<geoname>
+<toponymName>Lochearn</toponymName>
+<name>Lochearn</name>
+<lat>39.34066</lat>
+<lng>-76.72219</lng>
+<geonameId>4360954</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>25333</population>
+<alternateNames/>
+<elevation>126</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MD">MD</adminCode1>
+<adminName1>Maryland</adminName1>
+<adminCode2>005</adminCode2>
+<adminName2>Baltimore County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lochearn%2C_Maryland</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-76.74885</west>
+<north>39.36127</north>
+<east>-76.69554</east>
+<south>39.32005</south>
+</bbox>
+<score>9.527286529541016</score>
+</geoname>
+<geoname>
+<toponymName>Parkville</toponymName>
+<name>Parkville</name>
+<lat>39.37733</lat>
+<lng>-76.53969</lng>
+<geonameId>4364946</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>30734</population>
+<alternateNames/>
+<elevation>101</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MD">MD</adminCode1>
+<adminName1>Maryland</adminName1>
+<adminCode2>005</adminCode2>
+<adminName2>Baltimore County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Parkville%2C_Maryland</alternateName>
+<alternateName lang="post">21234</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-76.56878</west>
+<north>39.39981</north>
+<east>-76.51059</east>
+<south>39.35485</south>
+</bbox>
+<score>9.527286529541016</score>
+</geoname>
+<geoname>
+<toponymName>Randallstown</toponymName>
+<name>Randallstown</name>
+<lat>39.36733</lat>
+<lng>-76.79525</lng>
+<geonameId>4366476</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>32430</population>
+<alternateNames/>
+<elevation>176</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MD">MD</adminCode1>
+<adminName1>Maryland</adminName1>
+<adminCode2>005</adminCode2>
+<adminName2>Baltimore County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Randallstown%2C_Maryland</alternateName>
+<alternateName lang="post">21133</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-76.82549</west>
+<north>39.39069</north>
+<east>-76.76502</east>
+<south>39.34396</south>
+</bbox>
+<score>9.527286529541016</score>
+</geoname>
+<geoname>
+<toponymName>City of Baltimore</toponymName>
+<name>City of Baltimore</name>
+<lat>39.29038</lat>
+<lng>-76.61219</lng>
+<geonameId>4347820</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>620961</population>
+<alternateNames>Ville de Baltimore</alternateNames>
+<elevation>10</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MD">MD</adminCode1>
+<adminName1>Maryland</adminName1>
+<adminCode2>510</adminCode2>
+<adminName2>City of Baltimore</adminName2>
+<alternateName lang="fr">Ville de Baltimore</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-76.71179</west>
+<north>39.37254</north>
+<east>-76.52962</east>
+<south>39.19716</south>
+</bbox>
+<score>9.453778266906738</score>
+</geoname>
+<geoname>
+<toponymName>Baltimore Highlands</toponymName>
+<name>Baltimore Highlands</name>
+<lat>39.23316</lat>
+<lng>-76.63663</lng>
+<geonameId>4347800</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>7019</population>
+<alternateNames/>
+<elevation>11</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MD">MD</adminCode1>
+<adminName1>Maryland</adminName1>
+<adminCode2>005</adminCode2>
+<adminName2>Baltimore County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Baltimore_Highlands%2C_Maryland</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-76.64962</west>
+<north>39.24322</north>
+<east>-76.62365</east>
+<south>39.22311</south>
+</bbox>
+<score>9.069171905517578</score>
+</geoname>
+<geoname>
+<toponymName>Arbutus</toponymName>
+<name>Arbutus</name>
+<lat>39.25455</lat>
+<lng>-76.69997</lng>
+<geonameId>4347371</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>20483</population>
+<alternateNames/>
+<elevation>46</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MD">MD</adminCode1>
+<adminName1>Maryland</adminName1>
+<adminCode2>005</adminCode2>
+<adminName2>Baltimore County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Arbutus%2C_Maryland</alternateName>
+<alternateName lang="unlc">JBM</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-76.72392</west>
+<north>39.27309</north>
+<east>-76.67602</east>
+<south>39.23601</south>
+</bbox>
+<score>8.336376190185547</score>
+</geoname>
+</geonames>

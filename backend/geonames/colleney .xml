@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Kollenbey</toponymName>
+<name>Kollenbey</name>
+<lat>51.39434</lat>
+<lng>12.0052</lng>
+<geonameId>2886359</geonameId>
+<countryCode>DE</countryCode>
+<countryName>Germany</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Collenbey,Kollenbey</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ST">14</adminCode1>
+<adminName1>Saxony-Anhalt</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Berlin</timezone>
+<bbox>
+<west>11.99078</west>
+<north>51.40334</north>
+<east>12.01962</east>
+<south>51.38535</south>
+</bbox>
+<score>32.51689910888672</score>
+</geoname>
+</geonames>

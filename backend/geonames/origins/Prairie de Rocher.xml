@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Prairie du Rocher</toponymName>
+<name>Prairie du Rocher</name>
+<lat>38.08311</lat>
+<lng>-90.09595</lng>
+<geonameId>4247545</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>604</population>
+<alternateNames/>
+<elevation>120</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>157</adminCode2>
+<adminName2>Randolph County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Prairie_du_Rocher%2C_Illinois</alternateName>
+<alternateName lang="post">62277</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.10766</west>
+<north>38.08987</north>
+<east>-90.08846</east>
+<south>38.07271</south>
+</bbox>
+<score>67.25851440429688</score>
+</geoname>
+<geoname>
+<toponymName>Prairie Du Rocher</toponymName>
+<name>Prairie Du Rocher</name>
+<lat>38.06477</lat>
+<lng>-90.09872</lng>
+<geonameId>4247495</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>PLN</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>plain(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>116</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>157</adminCode2>
+<adminName2>Randolph County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>44.83900833129883</score>
+</geoname>
+</geonames>

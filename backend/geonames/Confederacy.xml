@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Confederate</toponymName>
+<name>Confederate</name>
+<lat>36.992</lat>
+<lng>-87.99752</lng>
+<geonameId>4288455</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>178</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>143</adminCode2>
+<adminName2>Lyon County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-88.00878</west>
+<north>37.00099</north>
+<east>-87.98626</east>
+<south>36.983</south>
+</bbox>
+<score>45.98583984375</score>
+</geoname>
+</geonames>

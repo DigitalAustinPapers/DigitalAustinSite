@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>370</totalResultsCount>
+<geoname>
+<toponymName>San Andrés</toponymName>
+<name>San Andrés</name>
+<lat>12.58472</lat>
+<lng>-81.70056</lng>
+<geonameId>3670218</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population>58257</population>
+<alternateNames>San Andres,San Andrés</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="SAP">25</adminCode1>
+<adminName1>Archipiélago de San Andrés, Providencia y Santa Catalina</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/San_Andr%C3%A9s%2C_San_Andr%C3%A9s_y_Providencia</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<bbox>
+<west>-81.73248</west>
+<north>12.61588</north>
+<east>-81.66863</east>
+<south>12.55357</south>
+</bbox>
+<score>64.50231170654297</score>
+</geoname>
+<geoname>
+<toponymName>San Andrés</toponymName>
+<name>San Andrés</name>
+<lat>14.2</lat>
+<lng>-88.5</lng>
+<geonameId>3602538</geonameId>
+<countryCode>HN</countryCode>
+<countryName>Honduras</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>10224</population>
+<alternateNames>San Andres,San Andrés</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LE">13</adminCode1>
+<adminName1>Lempira</adminName1>
+<adminCode2>1316</adminCode2>
+<adminName2>San Andrés</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Tegucigalpa</timezone>
+<score>51.60184860229492</score>
+</geoname>
+<geoname>
+<toponymName>San Andrés</toponymName>
+<name>San Andrés</name>
+<lat>12.55</lat>
+<lng>-81.7</lng>
+<geonameId>3670229</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames>San Andres,San Andrés</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="SAP">25</adminCode1>
+<adminName1>Archipiélago de San Andrés, Providencia y Santa Catalina</adminName1>
+<adminCode2>3670229</adminCode2>
+<adminName2>San Andrés</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<score>51.60184860229492</score>
+</geoname>
+<geoname>
+<toponymName>San Andrés</toponymName>
+<name>San Andrés</name>
+<lat>6.91667</lat>
+<lng>-75.66667</lng>
+<geonameId>3670230</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="ANT">02</adminCode1>
+<adminName1>Departamento de Antioquia</adminName1>
+<adminCode2>3670230</adminCode2>
+<adminName2>San Andrés</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<score>45.610023498535156</score>
+</geoname>
+<geoname>
+<toponymName>San Andrés</toponymName>
+<name>San Andrés</name>
+<lat>6.83333</lat>
+<lng>-72.75</lng>
+<geonameId>3670231</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="SAN">26</adminCode1>
+<adminName1>Santander</adminName1>
+<adminCode2>3670231</adminCode2>
+<adminName2>San Andrés</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<score>45.610023498535156</score>
+</geoname>
+<geoname>
+<toponymName>San Andres</toponymName>
+<name>San Andres</name>
+<lat>15.58434</lat>
+<lng>120.65805</lng>
+<geonameId>1690429</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>San Andes,San Andres</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="AGS">03</adminCode1>
+<adminName1>Central Luzon</adminName1>
+<adminCode2>63</adminCode2>
+<adminName2>Tarlac</adminName2>
+<alternateName lang="fil">San Andres</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<bbox>
+<west>120.64872</west>
+<north>15.59334</north>
+<east>120.66739</east>
+<south>15.57535</south>
+</bbox>
+<score>43.34062957763672</score>
+</geoname>
+<geoname>
+<toponymName>San Andres</toponymName>
+<name>San Andres</name>
+<lat>13.3227</lat>
+<lng>122.6779</lng>
+<geonameId>1690438</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>5192</population>
+<alternateNames>San Andres</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="MDC">40</adminCode1>
+<adminName1>Calabarzon</adminName1>
+<adminCode2>H2</adminCode2>
+<adminName2>Quezon</adminName2>
+<alternateName lang="fil">San Andres</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/San_Andres%2C_Quezon</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<bbox>
+<west>122.66866</west>
+<north>13.33169</north>
+<east>122.68714</east>
+<south>13.31371</south>
+</bbox>
+<score>39.102447509765625</score>
+</geoname>
+<geoname>
+<toponymName>San Andrés</toponymName>
+<name>San Andrés</name>
+<lat>6.81148</lat>
+<lng>-72.84929</lng>
+<geonameId>3670224</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3032</population>
+<alternateNames>San Andres,San Andrés</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="SAN">26</adminCode1>
+<adminName1>Santander</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/San_Andr%C3%A9s%2C_Santander</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<bbox>
+<west>-72.8557</west>
+<north>6.81784</north>
+<east>-72.84289</east>
+<south>6.80512</south>
+</bbox>
+<score>38.701385498046875</score>
+</geoname>
+<geoname>
+<toponymName>San Andrés</toponymName>
+<name>San Andrés</name>
+<lat>6.90333</lat>
+<lng>-75.6825</lng>
+<geonameId>3787727</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3154</population>
+<alternateNames>San Andres,San Andrés</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="ANT">02</adminCode1>
+<adminName1>Departamento de Antioquia</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/San_Andr%C3%A9s%2C_Antioquia</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<bbox>
+<west>-75.68891</west>
+<north>6.90969</north>
+<east>-75.67609</east>
+<south>6.89697</south>
+</bbox>
+<score>38.701385498046875</score>
+</geoname>
+<geoname>
+<toponymName>San Andrés</toponymName>
+<name>San Andrés</name>
+<lat>8.6</lat>
+<lng>-82.73333</lng>
+<geonameId>3701578</geonameId>
+<countryCode>PA</countryCode>
+<countryName>Panama</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1242</population>
+<alternateNames>San Andreas,San Andres,San Andrés</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="4">02</adminCode1>
+<adminName1>Chiriquí</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Panama</timezone>
+<bbox>
+<west>-82.73788</west>
+<north>8.6045</north>
+<east>-82.72879</east>
+<south>8.5955</south>
+</bbox>
+<score>38.22529602050781</score>
+</geoname>
+</geonames>

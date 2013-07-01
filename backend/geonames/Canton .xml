@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>137</totalResultsCount>
+<geoname>
+<toponymName>Canton</toponymName>
+<name>Canton</name>
+<lat>40.55809</lat>
+<lng>-90.03512</lng>
+<geonameId>4831990</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>14704</population>
+<alternateNames/>
+<elevation>197</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>057</adminCode2>
+<adminName2>Fulton County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Canton%2C_Illinois</alternateName>
+<alternateName lang="post">61520</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.05562</west>
+<north>40.57367</north>
+<east>-90.01461</east>
+<south>40.54252</south>
+</bbox>
+<score>52.32742691040039</score>
+</geoname>
+<geoname>
+<toponymName>Canton</toponymName>
+<name>Canton</name>
+<lat>42.15843</lat>
+<lng>-71.14477</lng>
+<geonameId>4932214</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>21679</population>
+<alternateNames/>
+<elevation>35</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MA">MA</adminCode1>
+<adminName1>Massachusetts</adminName1>
+<adminCode2>021</adminCode2>
+<adminName2>Norfolk County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Canton%2C_Massachusetts</alternateName>
+<alternateName lang="post">02021</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-71.17052</west>
+<north>42.17751</north>
+<east>-71.11903</east>
+<south>42.13935</south>
+</bbox>
+<score>52.32742691040039</score>
+</geoname>
+<geoname>
+<toponymName>Canton</toponymName>
+<name>Canton</name>
+<lat>42.30865</lat>
+<lng>-83.48216</lng>
+<geonameId>4987990</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>86825</population>
+<alternateNames/>
+<elevation>207</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MI">MI</adminCode1>
+<adminName1>Michigan</adminName1>
+<adminCode2>163</adminCode2>
+<adminName2>Wayne County</adminName2>
+<alternateName lang="post">48187</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Detroit</timezone>
+<bbox>
+<west>-83.53379</west>
+<north>42.34681</north>
+<east>-83.43053</east>
+<south>42.27049</south>
+</bbox>
+<score>52.32742691040039</score>
+</geoname>
+<geoname>
+<toponymName>Canton</toponymName>
+<name>Canton</name>
+<lat>40.79895</lat>
+<lng>-81.37845</lng>
+<geonameId>5149222</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>73007</population>
+<alternateNames>Canton</alternateNames>
+<elevation>323</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>151</adminCode2>
+<adminName2>Stark County</adminName2>
+<alternateName lang="de">Canton</alternateName>
+<alternateName lang="en">Canton</alternateName>
+<alternateName lang="fi">Canton</alternateName>
+<alternateName lang="io">Canton</alternateName>
+<alternateName lang="pl">Canton</alternateName>
+<alternateName lang="post">44799</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-81.42448</west>
+<north>40.83378</north>
+<east>-81.33241</east>
+<south>40.76412</south>
+</bbox>
+<score>48.94782638549805</score>
+</geoname>
+<geoname>
+<toponymName>Canton</toponymName>
+<name>Canton</name>
+<lat>32.61264</lat>
+<lng>-90.03675</lng>
+<geonameId>4420617</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>13189</population>
+<alternateNames/>
+<elevation>71</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MS">MS</adminCode1>
+<adminName1>Mississippi</adminName1>
+<adminCode2>089</adminCode2>
+<adminName2>Madison County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Canton%2C_Mississippi</alternateName>
+<alternateName lang="post">39046</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.05364</west>
+<north>32.62686</north>
+<east>-90.01987</east>
+<south>32.59842</south>
+</bbox>
+<score>45.7864990234375</score>
+</geoname>
+<geoname>
+<toponymName>Canton</toponymName>
+<name>Canton</name>
+<lat>35.53288</lat>
+<lng>-82.83736</lng>
+<geonameId>4459120</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>4227</population>
+<alternateNames/>
+<elevation>797</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NC">NC</adminCode1>
+<adminName1>North Carolina</adminName1>
+<adminCode2>087</adminCode2>
+<adminName2>Haywood County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Canton%2C_North_Carolina</alternateName>
+<alternateName lang="post">28716</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-82.84693</west>
+<north>35.54067</north>
+<east>-82.82778</east>
+<south>35.5251</south>
+</bbox>
+<score>45.7864990234375</score>
+</geoname>
+<geoname>
+<toponymName>Canton</toponymName>
+<name>Canton</name>
+<lat>44.44062</lat>
+<lng>-70.31534</lng>
+<geonameId>4960064</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1165</population>
+<alternateNames/>
+<elevation>121</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ME">ME</adminCode1>
+<adminName1>Maine</adminName1>
+<adminCode2>017</adminCode2>
+<adminName2>Oxford County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Canton%2C_Maine</alternateName>
+<alternateName lang="post">04221</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-70.3166</west>
+<north>44.44152</north>
+<east>-70.31408</east>
+<south>44.43972</south>
+</bbox>
+<score>45.7864990234375</score>
+</geoname>
+<geoname>
+<toponymName>Guangzhou</toponymName>
+<name>Guangzhou</name>
+<lat>23.11667</lat>
+<lng>113.25</lng>
+<geonameId>1809858</geonameId>
+<countryCode>CN</countryCode>
+<countryName>China</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population>3152825</population>
+<alternateNames>CAN,Cantao,Canton,Cantão,Cantón,Fan-yu,Fan-yü,Gorad Guanchzhou,Guanchzhou,Guand'ou,Guandzhou,Guandzou,Guandžou,Guangdzou,Guangdžou,Guangzhou,Guangzhou Shi,Gvangjcouh,Kanton,Kantono,Kong-chiu-su,Kouan'nktsoou,Kouang-chou,Kuang-chou,Kuang-chou-shih,Kwang-chowfu,Kwangchow,Kwangtsjou,Kóng-chiu-sṳ,P'an-yu,Puyun,Puyün,P’an-yü,Quancheum,Quancjou,Quang Chau,Quançjou,Quảng Châu,Shengcheng,gu'angazu,guang zhou,guang zhou shi,guanjou,gvangajho'u,gvanjea,gwangjeou si,gwangzhw,kvangacau,kwang cow,qwanghtshw,shynyang,Κουανγκτσόου,Горад Гуанчжоў,Гуангџоу,Гуанджоу,Гуандьоу,Гуанчжоу,Кантон,Գուանչժոու,גואנגג'ואו,شینیانگ,قوانغتشو,گوانگژو,گوانگ‌ژو,گۇاڭجۇ شەھىرى,क्वांगचौ,ग्वांगझोउ,ਗੁਆਂਗਜ਼ੂ,ഗ്വാങ്ജോ,กว่างโจว,ཀོང་ཀྲོའུ་གྲོང་ཁྱེར།,ကွမ်ကျိုးမြို့,გუანჯოუ,广州,广州市,広州,広州市,廣州,광저우 시</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="44">30</adminCode1>
+<adminName1>Guangdong Province</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="af">Kwangtsjou</alternateName>
+<alternateName lang="ar">قوانغتشو</alternateName>
+<alternateName lang="az">Quançjou</alternateName>
+<alternateName lang="be">Горад Гуанчжоў</alternateName>
+<alternateName lang="bg">Гуанджоу</alternateName>
+<alternateName lang="bo">ཀོང་ཀྲོའུ་གྲོང་ཁྱེར།</alternateName>
+<alternateName lang="bs">Kanton</alternateName>
+<alternateName lang="ca">Canton</alternateName>
+<alternateName lang="cs">Kanton</alternateName>
+<alternateName lang="da">Guangzhou</alternateName>
+<alternateName lang="de">Guangzhou</alternateName>
+<alternateName lang="el">Κουανγκτσόου</alternateName>
+<alternateName lang="en">Guangzhou</alternateName>
+<alternateName lang="eo">Kantono</alternateName>
+<alternateName lang="es">Cantón</alternateName>
+<alternateName lang="eu">Guangzhou</alternateName>
+<alternateName lang="ext">Cantón</alternateName>
+<alternateName lang="fa">گوانگ‌ژو</alternateName>
+<alternateName lang="fi">Kanton</alternateName>
+<alternateName lang="fr">Canton</alternateName>
+<alternateName lang="gan">廣州</alternateName>
+<alternateName lang="gl">Guangzhou</alternateName>
+<alternateName lang="hak">Kóng-chiu-sṳ</alternateName>
+<alternateName lang="he">גואנגג'ואו</alternateName>
+<alternateName lang="hi">ग्वांगझोउ</alternateName>
+<alternateName lang="hu">Kanton</alternateName>
+<alternateName lang="hy">Գուանչժոու</alternateName>
+<alternateName lang="iata">CAN</alternateName>
+<alternateName lang="id">Guangzhou</alternateName>
+<alternateName lang="it">Guangzhou</alternateName>
+<alternateName lang="ja">広州市</alternateName>
+<alternateName lang="ka">გუანჯოუ</alternateName>
+<alternateName lang="kk">Гуанчжоу</alternateName>
+<alternateName lang="ko">광저우 시</alternateName>
+<alternateName lang="krc">Гуанчжоу</alternateName>
+<alternateName lang="la">Quancheum</alternateName>
+<alternateName lang="lb">Guangzhou</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Guangzhou</alternateName>
+<alternateName lang="lt">Guangdžou</alternateName>
+<alternateName lang="lv">Guandžou</alternateName>
+<alternateName lang="ml">ഗ്വാങ്ജോ</alternateName>
+<alternateName lang="mr">क्वांगचौ</alternateName>
+<alternateName lang="ms">Guangzhou</alternateName>
+<alternateName lang="my">ကွမ်ကျိုးမြို့</alternateName>
+<alternateName lang="nl">Kanton</alternateName>
+<alternateName lang="no">Guangzhou</alternateName>
+<alternateName lang="os">Гуанчжоу</alternateName>
+<alternateName lang="pa">ਗੁਆਂਗਜ਼ੂ</alternateName>
+<alternateName lang="pl">Kanton</alternateName>
+<alternateName lang="pnb">شینیانگ</alternateName>
+<alternateName lang="pt">Cantão</alternateName>
+<alternateName lang="ro">Guangzhou</alternateName>
+<alternateName lang="ru">Гуанчжоу</alternateName>
+<alternateName lang="sah">Гуандьоу</alternateName>
+<alternateName lang="sk">Kanton</alternateName>
+<alternateName lang="sr">Гуангџоу</alternateName>
+<alternateName lang="sv">Guangzhou</alternateName>
+<alternateName lang="th">กว่างโจว</alternateName>
+<alternateName lang="tt">Kanton</alternateName>
+<alternateName lang="ug">گۇاڭجۇ شەھىرى</alternateName>
+<alternateName lang="uk">Гуанчжоу</alternateName>
+<alternateName lang="unlc">CAN</alternateName>
+<alternateName lang="ur">گوانگژو</alternateName>
+<alternateName lang="vi">Quảng Châu</alternateName>
+<alternateName lang="wuu">广州</alternateName>
+<alternateName lang="za">Gvangjcouh</alternateName>
+<alternateName lang="zh">广州</alternateName>
+<alternateName lang="zh-CN">广州市</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Shanghai</timezone>
+<bbox>
+<west>112.99896</west>
+<north>23.34715</north>
+<east>113.50104</east>
+<south>22.88619</south>
+</bbox>
+<score>45.3168830871582</score>
+</geoname>
+<geoname>
+<toponymName>Canton</toponymName>
+<name>Canton</name>
+<lat>34.23676</lat>
+<lng>-84.49076</lng>
+<geonameId>4186213</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>22958</population>
+<alternateNames/>
+<elevation>295</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">GA</adminCode1>
+<adminName1>Georgia</adminName1>
+<adminCode2>057</adminCode2>
+<adminName2>Cherokee County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Canton%2C_Georgia</alternateName>
+<alternateName lang="post">30115</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-84.51448</west>
+<north>34.25636</north>
+<east>-84.46705</east>
+<south>34.21716</south>
+</bbox>
+<score>39.24557113647461</score>
+</geoname>
+<geoname>
+<toponymName>Canton</toponymName>
+<name>Canton</name>
+<lat>36.79894</lat>
+<lng>-87.96086</lng>
+<geonameId>4286926</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>122</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>221</adminCode2>
+<adminName2>Trigg County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Canton%2C_Kentucky</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-87.97209</west>
+<north>36.80793</north>
+<east>-87.94962</east>
+<south>36.78995</south>
+</bbox>
+<score>39.24557113647461</score>
+</geoname>
+</geonames>

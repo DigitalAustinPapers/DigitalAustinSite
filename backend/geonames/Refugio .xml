@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>88</totalResultsCount>
+<geoname>
+<toponymName>Refugio</toponymName>
+<name>Refugio</name>
+<lat>28.30528</lat>
+<lng>-97.27527</lng>
+<geonameId>4722145</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>2890</population>
+<alternateNames>RFG</alternateNames>
+<elevation>14</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>391</adminCode2>
+<adminName2>Refugio County</adminName2>
+<alternateName lang="iata">RFG</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Refugio%2C_Texas</alternateName>
+<alternateName lang="post">78377</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-97.28249</west>
+<north>28.31164</north>
+<east>-97.26805</east>
+<south>28.29892</south>
+</bbox>
+<score>44.0632209777832</score>
+</geoname>
+<geoname>
+<toponymName>Refugio</toponymName>
+<name>Refugio</name>
+<lat>25.05794</lat>
+<lng>-100.5816</lng>
+<geonameId>3988847</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>El Refugio,Refugio</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NLE">19</adminCode1>
+<adminName1>Nuevo León</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<bbox>
+<west>-100.59153</west>
+<north>25.06694</north>
+<east>-100.57167</east>
+<south>25.04895</south>
+</bbox>
+<score>43.17295837402344</score>
+</geoname>
+<geoname>
+<toponymName>Refugio</toponymName>
+<name>Refugio</name>
+<lat>23.57363</lat>
+<lng>-104.37167</lng>
+<geonameId>3988854</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>El Refugio,Refugio</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="DUR">10</adminCode1>
+<adminName1>Durango</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<bbox>
+<west>-104.38148</west>
+<north>23.58263</north>
+<east>-104.36186</east>
+<south>23.56464</south>
+</bbox>
+<score>43.17295837402344</score>
+</geoname>
+<geoname>
+<toponymName>Refúgio</toponymName>
+<name>Refúgio</name>
+<lat>40.27071</lat>
+<lng>-7.50616</lng>
+<geonameId>2735337</geonameId>
+<countryCode>PT</countryCode>
+<countryName>Portugal</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="05">06</adminCode1>
+<adminName1>Castelo Branco</adminName1>
+<adminCode2>0503</adminCode2>
+<adminName2>Covilhã</adminName2>
+<adminCode3>050319</adminCode3>
+<adminName3>Covilhã (São Martinho)</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Lisbon</timezone>
+<bbox>
+<west>-7.51794</west>
+<north>40.27971</north>
+<east>-7.49437</east>
+<south>40.26172</south>
+</bbox>
+<score>35.25057601928711</score>
+</geoname>
+<geoname>
+<toponymName>Refúgio</toponymName>
+<name>Refúgio</name>
+<lat>-2.85</lat>
+<lng>-45.25</lng>
+<geonameId>3390704</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="MA">13</adminCode1>
+<adminName1>Maranhão</adminName1>
+<adminCode2>2108256</adminCode2>
+<adminName2>Pedro do Rosário</adminName2>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Fortaleza</timezone>
+<bbox>
+<west>-45.259</west>
+<north>-2.84101</north>
+<east>-45.241</east>
+<south>-2.85899</south>
+</bbox>
+<score>35.25057601928711</score>
+</geoname>
+<geoname>
+<toponymName>Refugio</toponymName>
+<name>Refugio</name>
+<lat>25.84056</lat>
+<lng>-97.35555</lng>
+<geonameId>3520395</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TAM">28</adminCode1>
+<adminName1>Tamaulipas</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Matamoros</timezone>
+<bbox>
+<west>-97.36555</west>
+<north>25.84955</north>
+<east>-97.34556</east>
+<south>25.83156</south>
+</bbox>
+<score>35.25057601928711</score>
+</geoname>
+<geoname>
+<toponymName>Refugio</toponymName>
+<name>Refugio</name>
+<lat>22.56667</lat>
+<lng>-99.91667</lng>
+<geonameId>3520396</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SLP">24</adminCode1>
+<adminName1>San Luis Potosí</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-99.92641</west>
+<north>22.57566</north>
+<east>-99.90693</east>
+<south>22.55767</south>
+</bbox>
+<score>35.25057601928711</score>
+</geoname>
+<geoname>
+<toponymName>Refugio</toponymName>
+<name>Refugio</name>
+<lat>20.81667</lat>
+<lng>-97.58333</lng>
+<geonameId>3520397</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VER">30</adminCode1>
+<adminName1>Veracruz-Llave</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-97.59296</west>
+<north>20.82566</north>
+<east>-97.57371</east>
+<south>20.80767</south>
+</bbox>
+<score>35.25057601928711</score>
+</geoname>
+<geoname>
+<toponymName>Refugio</toponymName>
+<name>Refugio</name>
+<lat>20.0048</lat>
+<lng>-99.18834</lng>
+<geonameId>3520398</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="HID">13</adminCode1>
+<adminName1>Hidalgo</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-99.19792</west>
+<north>20.01379</north>
+<east>-99.17877</east>
+<south>19.99581</south>
+</bbox>
+<score>35.25057601928711</score>
+</geoname>
+<geoname>
+<toponymName>Refugio</toponymName>
+<name>Refugio</name>
+<lat>22.56083</lat>
+<lng>-79.63778</lng>
+<geonameId>3542526</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="05">16</adminCode1>
+<adminName1>Villa Clara</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<bbox>
+<west>-79.64752</west>
+<north>22.56983</north>
+<east>-79.62804</east>
+<south>22.55184</south>
+</bbox>
+<score>35.25057601928711</score>
+</geoname>
+</geonames>

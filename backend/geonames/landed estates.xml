@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Ladd Estates</toponymName>
+<name>Ladd Estates</name>
+<lat>35.95008</lat>
+<lng>-84.48743</lng>
+<geonameId>4635081</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>235</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TN">TN</adminCode1>
+<adminName1>Tennessee</adminName1>
+<adminCode2>145</adminCode2>
+<adminName2>Roane County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-84.49854</west>
+<north>35.95907</north>
+<east>-84.47632</east>
+<south>35.94108</south>
+</bbox>
+<score>45.98583984375</score>
+</geoname>
+</geonames>

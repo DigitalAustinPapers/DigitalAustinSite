@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>11</totalResultsCount>
+<geoname>
+<toponymName>Philadelphia Peak</toponymName>
+<name>Philadelphia Peak</name>
+<lat>43.90006</lat>
+<lng>-72.88594</lng>
+<geonameId>5239787</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>MT</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>mountain</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>973</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VT">VT</adminCode1>
+<adminName1>Vermont</adminName1>
+<adminCode2>001</adminCode2>
+<adminName2>Addison County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>41.50539779663086</score>
+</geoname>
+<geoname>
+<toponymName>Philadelphia Park</toponymName>
+<name>Philadelphia Park</name>
+<lat>35.67869</lat>
+<lng>-84.38465</lng>
+<geonameId>4649033</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>L</fcl>
+<fcode>PRK</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>park</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>283</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TN">TN</adminCode1>
+<adminName1>Tennessee</adminName1>
+<adminCode2>105</adminCode2>
+<adminName2>Loudon County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>11.858685493469238</score>
+</geoname>
+<geoname>
+<toponymName>Philadelphia Point</toponymName>
+<name>Philadelphia Point</name>
+<lat>30.1577</lat>
+<lng>-91.01288</lng>
+<geonameId>4336977</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>6</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>005</adminCode2>
+<adminName2>Ascension Parish</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-91.02328</west>
+<north>30.16669</north>
+<east>-91.00248</east>
+<south>30.1487</south>
+</bbox>
+<score>11.274579048156738</score>
+</geoname>
+<geoname>
+<toponymName>Philadelphia Point</toponymName>
+<name>Philadelphia Point</name>
+<lat>50.94964</lat>
+<lng>-126.45305</lng>
+<geonameId>6103736</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>T</fcl>
+<fcode>PT</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>point</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="BC">02</adminCode1>
+<adminName1>British Columbia</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Vancouver</timezone>
+<score>11.274579048156738</score>
+</geoname>
+<geoname>
+<toponymName>Philadelphia Mine</toponymName>
+<name>Philadelphia Mine</name>
+<lat>34.21614</lat>
+<lng>-112.33961</lng>
+<geonameId>5308640</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>MN</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>mine(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1815</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AZ">AZ</adminCode1>
+<adminName1>Arizona</adminName1>
+<adminCode2>025</adminCode2>
+<adminName2>Yavapai County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-7.0">America/Phoenix</timezone>
+<score>3.1008169651031494</score>
+</geoname>
+<geoname>
+<toponymName>Philadelphia Mine</toponymName>
+<name>Philadelphia Mine</name>
+<lat>31.63842</lat>
+<lng>-110.80092</lng>
+<geonameId>5308643</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>MN</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>mine(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1482</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AZ">AZ</adminCode1>
+<adminName1>Arizona</adminName1>
+<adminCode2>023</adminCode2>
+<adminName2>Santa Cruz County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-7.0">America/Phoenix</timezone>
+<score>3.1008169651031494</score>
+</geoname>
+<geoname>
+<toponymName>Philadelphia Mine</toponymName>
+<name>Philadelphia Mine</name>
+<lat>39.98971</lat>
+<lng>-105.455</lng>
+<geonameId>5434435</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>MN</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>mine(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>2501</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CO">CO</adminCode1>
+<adminName1>Colorado</adminName1>
+<adminCode2>013</adminCode2>
+<adminName2>Boulder County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<score>3.1008169651031494</score>
+</geoname>
+<geoname>
+<toponymName>Philadelphia Mine</toponymName>
+<name>Philadelphia Mine</name>
+<lat>38.22527</lat>
+<lng>-108.52731</lng>
+<geonameId>5434436</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>MN</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>mine(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1687</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CO">CO</adminCode1>
+<adminName1>Colorado</adminName1>
+<adminCode2>085</adminCode2>
+<adminName2>Montrose County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<score>3.1008169651031494</score>
+</geoname>
+<geoname>
+<toponymName>Philadelphia Mine</toponymName>
+<name>Philadelphia Mine</name>
+<lat>37.80722</lat>
+<lng>-107.5745</lng>
+<geonameId>5434437</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>MN</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>mine(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>3311</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CO">CO</adminCode1>
+<adminName1>Colorado</adminName1>
+<adminCode2>111</adminCode2>
+<adminName2>San Juan County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<score>3.1008169651031494</score>
+</geoname>
+<geoname>
+<toponymName>Philadelphia Mine</toponymName>
+<name>Philadelphia Mine</name>
+<lat>39.89027</lat>
+<lng>-105.54444</lng>
+<geonameId>5434442</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>MN</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>mine(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>2915</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CO">CO</adminCode1>
+<adminName1>Colorado</adminName1>
+<adminCode2>047</adminCode2>
+<adminName2>Gilpin County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<score>3.1008169651031494</score>
+</geoname>
+</geonames>

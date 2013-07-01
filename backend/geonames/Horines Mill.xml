@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Horners Mill</toponymName>
+<name>Horners Mill</name>
+<lat>40.10924</lat>
+<lng>-79.31476</lng>
+<geonameId>5194252</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>483</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PA">PA</adminCode1>
+<adminName1>Pennsylvania</adminName1>
+<adminCode2>051</adminCode2>
+<adminName2>Fayette County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-79.32652</west>
+<north>40.11823</north>
+<east>-79.303</east>
+<south>40.10025</south>
+</bbox>
+<score>45.98583984375</score>
+</geoname>
+</geonames>

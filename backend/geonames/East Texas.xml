@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>East Texas</toponymName>
+<name>East Texas</name>
+<lat>40.5476</lat>
+<lng>-75.5613</lng>
+<geonameId>5188085</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>136</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PA">PA</adminCode1>
+<adminName1>Pennsylvania</adminName1>
+<adminCode2>077</adminCode2>
+<adminName2>Lehigh County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/East_Texas%2C_Pennsylvania</alternateName>
+<alternateName lang="post">18046</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-75.57313</west>
+<north>40.55659</north>
+<east>-75.54946</east>
+<south>40.5386</south>
+</bbox>
+<score>68.978759765625</score>
+</geoname>
+</geonames>

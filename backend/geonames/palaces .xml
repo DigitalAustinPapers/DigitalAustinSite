@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>18</totalResultsCount>
+<geoname>
+<toponymName>Palames</toponymName>
+<name>Palames</name>
+<lat>40.19945</lat>
+<lng>-8.6453</lng>
+<geonameId>2736831</geonameId>
+<countryCode>PT</countryCode>
+<countryName>Portugal</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="06">07</adminCode1>
+<adminName1>Coimbra</adminName1>
+<adminCode2>0610</adminCode2>
+<adminName2>Montemor-O-Velho</adminName2>
+<adminCode3>061003</adminCode3>
+<adminName3>Carapinheira</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Lisbon</timezone>
+<bbox>
+<west>-8.65708</west>
+<north>40.20845</north>
+<east>-8.63352</east>
+<south>40.19046</south>
+</bbox>
+<score>21.431747436523438</score>
+</geoname>
+<geoname>
+<toponymName>Palayes</toponymName>
+<name>Palayes</name>
+<lat>45.34339</lat>
+<lng>3.61922</lng>
+<geonameId>2988741</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="C">98</adminCode1>
+<adminName1>Auvergne</adminName1>
+<adminCode2>63</adminCode2>
+<adminName2>Puy-de-Dôme</adminName2>
+<adminCode3>631</adminCode3>
+<adminName3>Arrondissement d'Ambert</adminName3>
+<adminCode4>63312</adminCode4>
+<adminName4>Saint-Alyre-d'Arlanc</adminName4>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>3.60642</west>
+<north>45.35238</north>
+<east>3.63202</east>
+<south>45.3344</south>
+</bbox>
+<score>21.431747436523438</score>
+</geoname>
+<geoname>
+<toponymName>Palanes</toponymName>
+<name>Palanes</name>
+<lat>11.6541</lat>
+<lng>124.8735</lng>
+<geonameId>7633152</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Palanes</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="08">08</adminCode1>
+<adminName1>Eastern Visayas</adminName1>
+<adminCode2>55</adminCode2>
+<adminName2>Samar</adminName2>
+<alternateName lang="fil">Palanes</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<bbox>
+<west>124.86432</west>
+<north>11.66309</north>
+<east>124.88268</east>
+<south>11.64511</south>
+</bbox>
+<score>19.686317443847656</score>
+</geoname>
+<geoname>
+<toponymName>Palaes</toponymName>
+<name>Palaes</name>
+<lat>1.65889</lat>
+<lng>124.97</lng>
+<geonameId>1633136</geonameId>
+<countryCode>ID</countryCode>
+<countryName>Indonesia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Palaes,Paloes</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="SA">31</adminCode1>
+<adminName1>North Sulawesi</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Makassar</timezone>
+<bbox>
+<west>124.961</west>
+<north>1.66788</north>
+<east>124.979</east>
+<south>1.6499</south>
+</bbox>
+<score>15.311567306518555</score>
+</geoname>
+<geoname>
+<toponymName>Palāles</toponymName>
+<name>Palāles</name>
+<lat>35.92834</lat>
+<lng>52.33145</lng>
+<geonameId>32684</geonameId>
+<countryCode>IR</countryCode>
+<countryName>Iran</countryName>
+<fcl>S</fcl>
+<fcode>CRRL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>corral(s)</fcodeName>
+<population/>
+<alternateNames>Darreh Palalesh,Darreh Palālesh,Palales,Palāles,darih palalish,plals,دَرِّه پَلالِش,پلالس</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="21">35</adminCode1>
+<adminName1>Māzandarān</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="fa">دَرِّه پَلالِش</alternateName>
+<timezone dstOffset="4.5" gmtOffset="3.5">Asia/Tehran</timezone>
+<bbox>
+<west>52.33889</west>
+<north>35.94233</north>
+<east>52.36111</east>
+<south>35.92434</south>
+</bbox>
+<score>13.260217666625977</score>
+</geoname>
+<geoname>
+<toponymName>Palace</toponymName>
+<name>Palace</name>
+<lat>52.41806</lat>
+<lng>-6.81528</lng>
+<geonameId>3302598</geonameId>
+<countryCode>IE</countryCode>
+<countryName>Ireland</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="L">L</adminCode1>
+<adminName1>Leinster</adminName1>
+<adminCode2>30</adminCode2>
+<adminName2>County Wexford</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Dublin</timezone>
+<score>9.688334465026855</score>
+</geoname>
+<geoname>
+<toponymName>Palace</toponymName>
+<name>Palace</name>
+<lat>37.62032</lat>
+<lng>-92.13988</lng>
+<geonameId>4402348</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>361</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>169</adminCode2>
+<adminName2>Pulaski County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.15124</west>
+<north>37.62931</north>
+<east>-92.12853</east>
+<south>37.61133</south>
+</bbox>
+<score>9.688334465026855</score>
+</geoname>
+<geoname>
+<toponymName>Palasset</toponymName>
+<name>Palasset</name>
+<lat>78.83333</lat>
+<lng>13.5</lng>
+<geonameId>2729350</geonameId>
+<countryCode>SJ</countryCode>
+<countryName>Svalbard and Jan Mayen</countryName>
+<fcl>T</fcl>
+<fcode>MT</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>mountain</fcodeName>
+<population/>
+<alternateNames>Mount Dauphin,Palace,Palasset,Slottet</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="21">21</adminCode1>
+<adminName1>Svalbard</adminName1>
+<adminCode2>2111</adminCode2>
+<adminName2>Spitsbergen</adminName2>
+<timezone dstOffset="2.0" gmtOffset="1.0">Arctic/Longyearbyen</timezone>
+<score>6.850687026977539</score>
+</geoname>
+<geoname>
+<toponymName>Paleispark</toponymName>
+<name>Paleispark</name>
+<lat>52.23873</lat>
+<lng>5.93682</lng>
+<geonameId>2748764</geonameId>
+<countryCode>NL</countryCode>
+<countryName>Netherlands</countryName>
+<fcl>L</fcl>
+<fcode>PRK</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>park</fcodeName>
+<population/>
+<alternateNames>Palace,Paleis,Paleis Het Loo,Paleis't Loo</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="GE">03</adminCode1>
+<adminName1>Gelderland</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Amsterdam</timezone>
+<score>5.994351387023926</score>
+</geoname>
+<geoname>
+<toponymName>Palace</toponymName>
+<name>Palace</name>
+<lat>29.56517</lat>
+<lng>34.94277</lng>
+<geonameId>8470006</geonameId>
+<countryCode>IL</countryCode>
+<countryName>Israel</countryName>
+<fcl>S</fcl>
+<fcode>HTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>hotel</fcodeName>
+<population/>
+<alternateNames>Palace,pʼlʼs,פאלאס</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="D">01</adminCode1>
+<adminName1>Southern District</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="he">פאלאס</alternateName>
+<timezone dstOffset="3.0" gmtOffset="2.0">Asia/Jerusalem</timezone>
+<score>5.19126033782959</score>
+</geoname>
+</geonames>

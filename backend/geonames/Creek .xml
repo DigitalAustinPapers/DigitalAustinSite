@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Creek</toponymName>
+<name>Creek</name>
+<lat>19.75</lat>
+<lng>-79.76667</lng>
+<geonameId>3580692</geonameId>
+<countryCode>KY</countryCode>
+<countryName>Cayman Islands</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Cayman</timezone>
+<bbox>
+<west>-79.77622</west>
+<north>19.75899</north>
+<east>-79.75711</east>
+<south>19.74101</south>
+</bbox>
+<score>42.87849426269531</score>
+</geoname>
+<geoname>
+<toponymName>Creek</toponymName>
+<name>Creek</name>
+<lat>31.16713</lat>
+<lng>-95.61161</lng>
+<geonameId>4684135</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>85</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>225</adminCode2>
+<adminName2>Houston County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Creek%2C_Texas</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>42.87849426269531</score>
+</geoname>
+<geoname>
+<toponymName>Creek</toponymName>
+<name>Creek</name>
+<lat>6.20167</lat>
+<lng>125.05917</lng>
+<geonameId>1716722</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Creek</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="12">12</adminCode1>
+<adminName1>Soccsksargen</adminName1>
+<adminCode2>70</adminCode2>
+<adminName2>South Cotabato</adminName2>
+<alternateName lang="fil">Creek</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<bbox>
+<west>125.05012</west>
+<north>6.21066</north>
+<east>125.06821</east>
+<south>6.19267</south>
+</bbox>
+<score>39.38641357421875</score>
+</geoname>
+<geoname>
+<toponymName>Creek</toponymName>
+<name>Creek</name>
+<lat>32.00071</lat>
+<lng>-88.48059</lng>
+<geonameId>4423049</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>88</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MS">MS</adminCode1>
+<adminName1>Mississippi</adminName1>
+<adminCode2>023</adminCode2>
+<adminName2>Clarke County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>13.399529457092285</score>
+</geoname>
+<geoname>
+<toponymName>Creek</toponymName>
+<name>Creek</name>
+<lat>36.30793</lat>
+<lng>-78.08999</lng>
+<geonameId>4462450</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>82</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NC">NC</adminCode1>
+<adminName1>North Carolina</adminName1>
+<adminCode2>185</adminCode2>
+<adminName2>Warren County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>13.399529457092285</score>
+</geoname>
+</geonames>

@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>14</totalResultsCount>
+<geoname>
+<toponymName>Eastern Park</toponymName>
+<name>Eastern Park</name>
+<lat>36.61205</lat>
+<lng>-82.1668</lng>
+<geonameId>4757039</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>L</fcl>
+<fcode>PRK</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>park</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>556</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>520</adminCode2>
+<adminName2>City of Bristol</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>40.4153938293457</score>
+</geoname>
+<geoname>
+<toponymName>Eastern Park</toponymName>
+<name>Eastern Park</name>
+<lat>41.79336</lat>
+<lng>-87.94756</lng>
+<geonameId>4890594</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>L</fcl>
+<fcode>PRK</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>park</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>219</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>043</adminCode2>
+<adminName2>DuPage County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>40.4153938293457</score>
+</geoname>
+<geoname>
+<toponymName>Eastern Park</toponymName>
+<name>Eastern Park</name>
+<lat>43.06113</lat>
+<lng>-86.20394</lng>
+<geonameId>4991714</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>L</fcl>
+<fcode>PRK</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>park</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>183</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MI">MI</adminCode1>
+<adminName1>Michigan</adminName1>
+<adminCode2>139</adminCode2>
+<adminName2>Ottawa County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Detroit</timezone>
+<score>40.4153938293457</score>
+</geoname>
+<geoname>
+<toponymName>Eastern Park</toponymName>
+<name>Eastern Park</name>
+<lat>40.06507</lat>
+<lng>-80.71286</lng>
+<geonameId>5280236</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>L</fcl>
+<fcode>PRK</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>park</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>217</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WV">WV</adminCode1>
+<adminName1>West Virginia</adminName1>
+<adminCode2>069</adminCode2>
+<adminName2>Ohio County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>40.4153938293457</score>
+</geoname>
+<geoname>
+<toponymName>Eastern Park</toponymName>
+<name>Eastern Park</name>
+<lat>36.84806</lat>
+<lng>-76.07333</lng>
+<geonameId>6332268</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>4</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>810</adminCode2>
+<adminName2>City of Virginia Beach</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-76.08457</west>
+<north>36.85705</north>
+<east>-76.06209</east>
+<south>36.83906</south>
+</bbox>
+<score>40.4153938293457</score>
+</geoname>
+<geoname>
+<toponymName>Eastern Park</toponymName>
+<name>Eastern Park</name>
+<lat>43.045</lat>
+<lng>-74.85278</lng>
+<geonameId>7155987</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>L</fcl>
+<fcode>PRK</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>park</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>136</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>043</adminCode2>
+<adminName2>Herkimer County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>40.4153938293457</score>
+</geoname>
+<geoname>
+<toponymName>Eastern Park</toponymName>
+<name>Eastern Park</name>
+<lat>-35.3485</lat>
+<lng>145.7179</lng>
+<geonameId>8152697</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>L</fcl>
+<fcode>PRK</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>park</fcodeName>
+<population/>
+<alternateNames>Eastern Park</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="NSW">02</adminCode1>
+<adminName1>New South Wales</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Eastern Park</alternateName>
+<timezone dstOffset="10.0" gmtOffset="11.0">Australia/Sydney</timezone>
+<score>37.12390899658203</score>
+</geoname>
+<geoname>
+<toponymName>Eastern Bar</toponymName>
+<name>Eastern Bar</name>
+<lat>45.16685</lat>
+<lng>-64.21545</lng>
+<geonameId>5945416</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>T</fcl>
+<fcode>BCH</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>beach</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NS">07</adminCode1>
+<adminName1>Nova Scotia</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-3.0" gmtOffset="-4.0">America/Halifax</timezone>
+<score>7.527440547943115</score>
+</geoname>
+<geoname>
+<toponymName>Eastern Yar</toponymName>
+<name>Eastern Yar</name>
+<lat>50.69292</lat>
+<lng>-1.10988</lng>
+<geonameId>8050973</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G2</adminCode2>
+<adminName2>Isle of Wight</adminName2>
+<adminCode3>00MW002</adminCode3>
+<adminName3>Bembridge</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Eastern_Yar</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>7.527440547943115</score>
+</geoname>
+<geoname>
+<toponymName>Eastern Arm</toponymName>
+<name>Eastern Arm</name>
+<lat>49.39992</lat>
+<lng>-54.18141</lng>
+<geonameId>5945404</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>H</fcl>
+<fcode>BAY</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>bay</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NL">05</adminCode1>
+<adminName1>Newfoundland and Labrador</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-2.5" gmtOffset="-3.5">America/St_Johns</timezone>
+<score>2.0451643466949463</score>
+</geoname>
+</geonames>

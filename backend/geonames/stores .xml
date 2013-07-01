@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>43</totalResultsCount>
+<geoname>
+<toponymName>Stores</toponymName>
+<name>Stores</name>
+<lat>41.74364</lat>
+<lng>-89.62816</lng>
+<geonameId>4912651</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>200</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>195</adminCode2>
+<adminName2>Whiteside County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>12.555022239685059</score>
+</geoname>
+<geoname>
+<toponymName>Store Skagastølstind</toponymName>
+<name>Store Skagastølstind</name>
+<lat>61.46133</lat>
+<lng>7.87136</lng>
+<geonameId>6544502</geonameId>
+<countryCode>NO</countryCode>
+<countryName>Norway</countryName>
+<fcl>T</fcl>
+<fcode>PK</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>peak</fcodeName>
+<population/>
+<alternateNames>Storen</alternateNames>
+<elevation>2405</elevation>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="14">15</adminCode1>
+<adminName1>Sogn og Fjordane</adminName1>
+<adminCode2>1426</adminCode2>
+<adminName2>Luster</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Store_Skagast%C3%B8lstind</alternateName>
+<alternateName lang="no">Storen</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Oslo</timezone>
+<score>12.349602699279785</score>
+</geoname>
+<geoname>
+<toponymName>Storrs</toponymName>
+<name>Storrs</name>
+<lat>41.80843</lat>
+<lng>-72.24952</lng>
+<geonameId>4843786</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>15344</population>
+<alternateNames/>
+<elevation>187</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CT">CT</adminCode1>
+<adminName1>Connecticut</adminName1>
+<adminCode2>013</adminCode2>
+<adminName2>Tolland County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Storrs%2C_Connecticut</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-72.27043</west>
+<north>41.82401</north>
+<east>-72.22862</east>
+<south>41.79285</south>
+</bbox>
+<score>12.274470329284668</score>
+</geoname>
+<geoname>
+<toponymName>Storey</toponymName>
+<name>Storey</name>
+<lat>36.97411</lat>
+<lng>-120.01905</lng>
+<geonameId>5399236</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>88</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>039</adminCode2>
+<adminName2>Madera County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Storey%2C_California</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-120.03031</west>
+<north>36.98311</north>
+<east>-120.00779</east>
+<south>36.96512</south>
+</bbox>
+<score>9.549287796020508</score>
+</geoname>
+<geoname>
+<toponymName>Storås</toponymName>
+<name>Storås</name>
+<lat>63.09588</lat>
+<lng>9.59771</lng>
+<geonameId>3136606</geonameId>
+<countryCode>NO</countryCode>
+<countryName>Norway</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>309</population>
+<alternateNames>Storaas,Storas,Storås</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="16">16</adminCode1>
+<adminName1>Sør-Trøndelag</adminName1>
+<adminCode2>1636</adminCode2>
+<adminName2>Meldal</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stor%C3%A5s</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Oslo</timezone>
+<bbox>
+<west>9.59572</west>
+<north>63.09678</north>
+<east>9.5997</east>
+<south>63.09498</south>
+</bbox>
+<score>8.679361343383789</score>
+</geoname>
+<geoname>
+<toponymName>Stokes</toponymName>
+<name>Stokes</name>
+<lat>35.71655</lat>
+<lng>-77.26469</lng>
+<geonameId>4493536</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>376</population>
+<alternateNames/>
+<elevation>16</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NC">NC</adminCode1>
+<adminName1>North Carolina</adminName1>
+<adminCode2>147</adminCode2>
+<adminName2>Pitt County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stokes%2C_North_Carolina</alternateName>
+<alternateName lang="post">27884</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-77.28651</west>
+<north>35.73518</north>
+<east>-77.24005</east>
+<south>35.69298</south>
+</bbox>
+<score>7.864446640014648</score>
+</geoname>
+<geoname>
+<toponymName>Storås</toponymName>
+<name>Storås</name>
+<lat>59.64152</lat>
+<lng>10.31889</lng>
+<geonameId>3136607</geonameId>
+<countryCode>NO</countryCode>
+<countryName>Norway</countryName>
+<fcl>T</fcl>
+<fcode>HLL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>hill</fcodeName>
+<population/>
+<alternateNames>Storaas,Storas,Storås</alternateNames>
+<elevation>380</elevation>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="07">20</adminCode1>
+<adminName1>Vestfold county</adminName1>
+<adminCode2>0713</adminCode2>
+<adminName2>Sande</adminName2>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Oslo</timezone>
+<score>7.5944414138793945</score>
+</geoname>
+<geoname>
+<toponymName>Støren</toponymName>
+<name>Støren</name>
+<lat>63.0391</lat>
+<lng>10.28501</lng>
+<geonameId>7626379</geonameId>
+<countryCode>NO</countryCode>
+<countryName>Norway</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="16">16</adminCode1>
+<adminName1>Sør-Trøndelag</adminName1>
+<adminCode2>1648</adminCode2>
+<adminName2>Midtre Gauldal</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/St%C3%B8ren</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Oslo</timezone>
+<bbox>
+<west>10.24531</west>
+<north>63.05709</north>
+<east>10.32471</east>
+<south>63.02111</south>
+</bbox>
+<score>7.277073383331299</score>
+</geoname>
+<geoname>
+<toponymName>Støren</toponymName>
+<name>Støren</name>
+<lat>63.05224</lat>
+<lng>10.28498</lng>
+<geonameId>3136370</geonameId>
+<countryCode>NO</countryCode>
+<countryName>Norway</countryName>
+<fcl>S</fcl>
+<fcode>RSTN</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>railroad station</fcodeName>
+<population/>
+<alternateNames>Storen,Støren</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="16">16</adminCode1>
+<adminName1>Sør-Trøndelag</adminName1>
+<adminCode2>1648</adminCode2>
+<adminName2>Midtre Gauldal</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/St%C3%B8ren_Station</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Oslo</timezone>
+<score>7.203934669494629</score>
+</geoname>
+<geoname>
+<toponymName>Stoies</toponymName>
+<name>Stoies</name>
+<lat>48.78333</lat>
+<lng>15.2</lng>
+<geonameId>2764255</geonameId>
+<countryCode>AT</countryCode>
+<countryName>Austria</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="3">03</adminCode1>
+<adminName1>Lower Austria</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Vienna</timezone>
+<bbox>
+<west>15.18635</west>
+<north>48.79233</north>
+<east>15.21365</east>
+<south>48.77434</south>
+</bbox>
+<score>6.696005821228027</score>
+</geoname>
+</geonames>

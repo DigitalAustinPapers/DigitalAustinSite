@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Ministre</toponymName>
+<name>Ministre</name>
+<lat>19.51667</lat>
+<lng>-72.55</lng>
+<geonameId>3720831</geonameId>
+<countryCode>HT</countryCode>
+<countryName>Haiti</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">06</adminCode1>
+<adminName1>Artibonite</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Port-au-Prince</timezone>
+<bbox>
+<west>-72.55954</west>
+<north>19.52566</north>
+<east>-72.54046</east>
+<south>19.50767</south>
+</bbox>
+<score>32.92485809326172</score>
+</geoname>
+<geoname>
+<toponymName>Ministro</toponymName>
+<name>Ministro</name>
+<lat>22.71667</lat>
+<lng>-82.4</lng>
+<geonameId>3546866</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1>MA</adminCode1>
+<adminName1>Provincia Mayabeque</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>31.303129196166992</score>
+</geoname>
+<geoname>
+<toponymName>Ministro</toponymName>
+<name>Ministro</name>
+<lat>21.13333</lat>
+<lng>-76.88333</lng>
+<geonameId>3546865</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>S</fcl>
+<fcode>RSTP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>railroad stop</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="10">13</adminCode1>
+<adminName1>Las Tunas</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>9.782227516174316</score>
+</geoname>
+</geonames>

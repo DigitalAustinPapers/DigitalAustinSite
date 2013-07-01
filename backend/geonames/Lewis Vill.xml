@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>18</totalResultsCount>
+<geoname>
+<toponymName>Lewis Mill</toponymName>
+<name>Lewis Mill</name>
+<lat>39.3726</lat>
+<lng>-77.55943</lng>
+<geonameId>4360579</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>95</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MD">MD</adminCode1>
+<adminName1>Maryland</adminName1>
+<adminCode2>021</adminCode2>
+<adminName2>Frederick County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-77.57107</west>
+<north>39.3816</north>
+<east>-77.5478</east>
+<south>39.36361</south>
+</bbox>
+<score>25.726791381835938</score>
+</geoname>
+<geoname>
+<toponymName>Lewis Mill</toponymName>
+<name>Lewis Mill</name>
+<lat>39.25753</lat>
+<lng>-92.85296</lng>
+<geonameId>4395017</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>200</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>041</adminCode2>
+<adminName2>Chariton County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.86458</west>
+<north>39.26652</north>
+<east>-92.84135</east>
+<south>39.24854</south>
+</bbox>
+<score>25.726791381835938</score>
+</geoname>
+<geoname>
+<toponymName>Lewis Hill</toponymName>
+<name>Lewis Hill</name>
+<lat>-41.81667</lat>
+<lng>147.98333</lng>
+<geonameId>2160275</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="TAS">06</adminCode1>
+<adminName1>Tasmania</adminName1>
+<adminCode2>64610</adminCode2>
+<adminName2>Northern Midlands</adminName2>
+<timezone dstOffset="10.0" gmtOffset="11.0">Australia/Hobart</timezone>
+<bbox>
+<west>147.97127</west>
+<north>-41.80767</north>
+<east>147.9954</east>
+<south>-41.82566</south>
+</bbox>
+<score>21.543027877807617</score>
+</geoname>
+<geoname>
+<toponymName>Lewis Hill</toponymName>
+<name>Lewis Hill</name>
+<lat>-37.81667</lat>
+<lng>145.43333</lng>
+<geonameId>2160276</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>T</fcl>
+<fcode>HLL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>hill</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="VIC">07</adminCode1>
+<adminName1>Victoria</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="10.0" gmtOffset="11.0">Australia/Melbourne</timezone>
+<score>21.543027877807617</score>
+</geoname>
+<geoname>
+<toponymName>Lewis Hill</toponymName>
+<name>Lewis Hill</name>
+<lat>37.207</lat>
+<lng>-88.41143</lng>
+<geonameId>4297970</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>MT</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>mountain</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>176</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>139</adminCode2>
+<adminName2>Livingston County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>21.543027877807617</score>
+</geoname>
+<geoname>
+<toponymName>Lewis Hill</toponymName>
+<name>Lewis Hill</name>
+<lat>37.68755</lat>
+<lng>-90.25512</lng>
+<geonameId>4395000</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>MT</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>mountain</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>374</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>187</adminCode2>
+<adminName2>Saint Francois County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>21.543027877807617</score>
+</geoname>
+<geoname>
+<toponymName>Lewis Hill</toponymName>
+<name>Lewis Hill</name>
+<lat>29.728</lat>
+<lng>-98.54419</lng>
+<geonameId>4706039</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>MT</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>mountain</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>429</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>029</adminCode2>
+<adminName2>Bexar County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>21.543027877807617</score>
+</geoname>
+<geoname>
+<toponymName>Lewis Hill</toponymName>
+<name>Lewis Hill</name>
+<lat>41.50649</lat>
+<lng>-73.09205</lng>
+<geonameId>4837707</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>MT</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>mountain</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>184</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CT">CT</adminCode1>
+<adminName1>Connecticut</adminName1>
+<adminCode2>009</adminCode2>
+<adminName2>New Haven County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>21.543027877807617</score>
+</geoname>
+<geoname>
+<toponymName>Lewis Hill</toponymName>
+<name>Lewis Hill</name>
+<lat>42.61869</lat>
+<lng>-73.02954</lng>
+<geonameId>4941920</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>MT</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>mountain</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>655</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MA">MA</adminCode1>
+<adminName1>Massachusetts</adminName1>
+<adminCode2>003</adminCode2>
+<adminName2>Berkshire County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>21.543027877807617</score>
+</geoname>
+<geoname>
+<toponymName>Lewis Hill</toponymName>
+<name>Lewis Hill</name>
+<lat>44.03968</lat>
+<lng>-70.77117</lng>
+<geonameId>4969393</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>MT</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>mountain</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>282</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ME">ME</adminCode1>
+<adminName1>Maine</adminName1>
+<adminCode2>005</adminCode2>
+<adminName2>Cumberland County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>21.543027877807617</score>
+</geoname>
+</geonames>

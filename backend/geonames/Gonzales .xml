@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>70</totalResultsCount>
+<geoname>
+<toponymName>Gonzales</toponymName>
+<name>Gonzales</name>
+<lat>36.50663</lat>
+<lng>-121.44438</lng>
+<geonameId>5352997</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>8187</population>
+<alternateNames/>
+<elevation>41</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>053</adminCode2>
+<adminName2>Monterey County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Gonzales%2C_California</alternateName>
+<alternateName lang="post">93926</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-121.45809</west>
+<north>36.51764</north>
+<east>-121.43067</east>
+<south>36.49561</south>
+</bbox>
+<score>58.46047592163086</score>
+</geoname>
+<geoname>
+<toponymName>González</toponymName>
+<name>González</name>
+<lat>8.38944</lat>
+<lng>-73.37989</lng>
+<geonameId>3681990</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>5634</population>
+<alternateNames>Gonzales,Gonzalez,Gonzáles,González</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="CES">10</adminCode1>
+<adminName1>Cesar</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<bbox>
+<west>-73.38898</west>
+<north>8.39844</north>
+<east>-73.3708</east>
+<south>8.38045</south>
+</bbox>
+<score>49.69619369506836</score>
+</geoname>
+<geoname>
+<toponymName>Gonzales</toponymName>
+<name>Gonzales</name>
+<lat>30.23853</lat>
+<lng>-90.9201</lng>
+<geonameId>4325889</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>9781</population>
+<alternateNames/>
+<elevation>3</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>005</adminCode2>
+<adminName2>Ascension Parish</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Gonzales%2C_Louisiana</alternateName>
+<alternateName lang="post">70737</alternateName>
+<alternateName lang="unlc">GNZ</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.93482</west>
+<north>30.25125</north>
+<east>-90.90537</east>
+<south>30.22581</south>
+</bbox>
+<score>41.757484436035156</score>
+</geoname>
+<geoname>
+<toponymName>Gonzales</toponymName>
+<name>Gonzales</name>
+<lat>29.50163</lat>
+<lng>-97.45249</lng>
+<geonameId>4693940</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>7237</population>
+<alternateNames/>
+<elevation>87</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>177</adminCode2>
+<adminName2>Gonzales County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Gonzales%2C_Texas</alternateName>
+<alternateName lang="post">78629</alternateName>
+<alternateName lang="unlc">GOZ</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-97.46515</west>
+<north>29.51264</north>
+<east>-97.43984</east>
+<south>29.49061</south>
+</bbox>
+<score>41.757484436035156</score>
+</geoname>
+<geoname>
+<toponymName>González</toponymName>
+<name>González</name>
+<lat>22.91667</lat>
+<lng>-81.98333</lng>
+<geonameId>3558224</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames>Gonzales,Gonzalez,Gonzáles,González</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1>MA</adminCode1>
+<adminName1>Provincia Mayabeque</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>37.27214431762695</score>
+</geoname>
+<geoname>
+<toponymName>Gonzales County</toponymName>
+<name>Gonzales County</name>
+<lat>29.45673</lat>
+<lng>-97.49252</lng>
+<geonameId>4693951</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>19807</population>
+<alternateNames>Comte de Gonzales,Comté de Gonzales,Condado de Gonzales,Condado han Gonzales,Contea di Gonzales,County Gonzales,Gonsales,Gonzales,Gonzales srjan,Hrabstwo Gonzales,Okrug Gonzales,Quan Gonzales,Quận Gonzales,gang sa lei si xian,ganjalesa ka'unti,gonzaresu jun,Гонзалес,Округ Гонзалес,Ґонсалес,Գոնզալես շրջան,مقاطعة غونزاليس، تكساس,گونزالس کاؤنٹی,গন্জালেস কাউন্টি,ゴンザレス郡,岡薩雷斯縣</alternateNames>
+<elevation>90</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>177</adminCode2>
+<adminName2>Gonzales County</adminName2>
+<alternateName lang="ar">مقاطعة غونزاليس، تكساس</alternateName>
+<alternateName lang="bg">Гонзалес</alternateName>
+<alternateName lang="bpy">গন্জালেস কাউন্টি</alternateName>
+<alternateName lang="es">Condado de Gonzales</alternateName>
+<alternateName lang="fr">Comté de Gonzales</alternateName>
+<alternateName lang="hy">Գոնզալես շրջան</alternateName>
+<alternateName lang="id">County Gonzales</alternateName>
+<alternateName lang="it">Contea di Gonzales</alternateName>
+<alternateName lang="ja">ゴンザレス郡</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Gonzales_County%2C_Texas</alternateName>
+<alternateName lang="pl">Hrabstwo Gonzales</alternateName>
+<alternateName lang="pnb">گونزالس کاؤنٹی</alternateName>
+<alternateName lang="pt">Condado de Gonzales</alternateName>
+<alternateName lang="ru">Гонзалес</alternateName>
+<alternateName lang="sr">Округ Гонзалес</alternateName>
+<alternateName lang="uk">Ґонсалес</alternateName>
+<alternateName lang="vi">Quận Gonzales</alternateName>
+<alternateName lang="war">Condado han Gonzales</alternateName>
+<alternateName lang="zh">岡薩雷斯縣</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-97.85755</west>
+<north>29.7849</north>
+<east>-97.12885</east>
+<south>29.10955</south>
+</bbox>
+<score>36.72892761230469</score>
+</geoname>
+<geoname>
+<toponymName>González</toponymName>
+<name>González</name>
+<lat>20.23333</lat>
+<lng>-76.25</lng>
+<geonameId>3558232</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames>Gonzales,Gonzalez,González</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="13">15</adminCode1>
+<adminName1>Santiago de Cuba</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>34.92283248901367</score>
+</geoname>
+<geoname>
+<toponymName>González</toponymName>
+<name>González</name>
+<lat>-11.53333</lat>
+<lng>-67.63333</lng>
+<geonameId>3915567</geonameId>
+<countryCode>BO</countryCode>
+<countryName>Bolivia</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames>Gonzales,Gonzalez,González</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="N">06</adminCode1>
+<adminName1>Pando</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/La_Paz</timezone>
+<score>34.92283248901367</score>
+</geoname>
+<geoname>
+<toponymName>Gonzáles</toponymName>
+<name>Gonzáles</name>
+<lat>22.82683</lat>
+<lng>-98.42911</lng>
+<geonameId>3482929</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TAM">28</adminCode1>
+<adminName1>Tamaulipas</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<bbox>
+<west>-98.43887</west>
+<north>22.83582</north>
+<east>-98.41935</east>
+<south>22.81783</south>
+</bbox>
+<score>33.40598678588867</score>
+</geoname>
+<geoname>
+<toponymName>Gonzáles</toponymName>
+<name>Gonzáles</name>
+<lat>28.16309</lat>
+<lng>-106.99412</lng>
+<geonameId>4005770</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CHH">06</adminCode1>
+<adminName1>Chihuahua</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Chihuahua</timezone>
+<bbox>
+<west>-107.00432</west>
+<north>28.17208</north>
+<east>-106.98392</east>
+<south>28.15409</south>
+</bbox>
+<score>33.40598678588867</score>
+</geoname>
+</geonames>

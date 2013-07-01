@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>6</totalResultsCount>
+<geoname>
+<toponymName>Location</toponymName>
+<name>Location</name>
+<lat>39.21399</lat>
+<lng>-79.63701</lng>
+<geonameId>4812781</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>739</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WV">WV</adminCode1>
+<adminName1>West Virginia</adminName1>
+<adminCode2>093</adminCode2>
+<adminName2>Tucker County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Location%2C_West_Virginia</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-79.64862</west>
+<north>39.22299</north>
+<east>-79.6254</east>
+<south>39.205</south>
+</bbox>
+<score>63.663734436035156</score>
+</geoname>
+<geoname>
+<toponymName>Location</toponymName>
+<name>Location</name>
+<lat>-29.33333</lat>
+<lng>21.15</lng>
+<geonameId>982504</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="NC">08</adminCode1>
+<adminName1>Northern Cape</adminName1>
+<adminCode2>DC8</adminCode2>
+<adminName2>Siyanda District Municipality</adminName2>
+<adminCode3>NC082</adminCode3>
+<adminName3>Kai !Garib</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<bbox>
+<west>21.13968</west>
+<north>-29.32434</north>
+<east>21.16032</east>
+<south>-29.34233</south>
+</bbox>
+<score>42.44248962402344</score>
+</geoname>
+<geoname>
+<toponymName>Location</toponymName>
+<name>Location</name>
+<lat>-27.93333</lat>
+<lng>27.55</lng>
+<geonameId>982505</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>S</fcl>
+<fcode>FRMT</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farmstead</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="FS">03</adminCode1>
+<adminName1>Free State</adminName1>
+<adminCode2>DC20</adminCode2>
+<adminName2>Fezile Dabi District Municipality</adminName2>
+<adminCode3>FS201</adminCode3>
+<adminName3>Moqhaka</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<score>13.263278007507324</score>
+</geoname>
+<geoname>
+<toponymName>Location</toponymName>
+<name>Location</name>
+<lat>-27.66667</lat>
+<lng>28.11667</lng>
+<geonameId>982506</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>S</fcl>
+<fcode>FRMT</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farmstead</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="FS">03</adminCode1>
+<adminName1>Free State</adminName1>
+<adminCode2>DC19</adminCode2>
+<adminName2>Thabo Mofutsanyana District Municipality</adminName2>
+<adminCode3>FS193</adminCode3>
+<adminName3>Nketoana</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<score>13.263278007507324</score>
+</geoname>
+<geoname>
+<toponymName>Location</toponymName>
+<name>Location</name>
+<lat>-27.65</lat>
+<lng>27.21667</lng>
+<geonameId>982507</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>S</fcl>
+<fcode>FRMT</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farmstead</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="FS">03</adminCode1>
+<adminName1>Free State</adminName1>
+<adminCode2>DC20</adminCode2>
+<adminName2>Fezile Dabi District Municipality</adminName2>
+<adminCode3>FS201</adminCode3>
+<adminName3>Moqhaka</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<score>13.263278007507324</score>
+</geoname>
+<geoname>
+<toponymName>Location</toponymName>
+<name>Location</name>
+<lat>-27.2</lat>
+<lng>26.71667</lng>
+<geonameId>982508</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>S</fcl>
+<fcode>FRMT</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farmstead</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="FS">03</adminCode1>
+<adminName1>Free State</adminName1>
+<adminCode2>DC20</adminCode2>
+<adminName2>Fezile Dabi District Municipality</adminName2>
+<adminCode3>FS201</adminCode3>
+<adminName3>Moqhaka</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<score>13.263278007507324</score>
+</geoname>
+</geonames>

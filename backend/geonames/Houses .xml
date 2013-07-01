@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Houser</toponymName>
+<name>Houser</name>
+<lat>46.50182</lat>
+<lng>-117.77631</lng>
+<geonameId>5797844</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>416</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WA">WA</adminCode1>
+<adminName1>Washington</adminName1>
+<adminCode2>023</adminCode2>
+<adminName2>Garfield County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-117.78938</west>
+<north>46.51081</north>
+<east>-117.76325</east>
+<south>46.49282</south>
+</bbox>
+<score>26.549936294555664</score>
+</geoname>
+<geoname>
+<toponymName>Hōsen</toponymName>
+<name>Hōsen</name>
+<lat>39.39093</lat>
+<lng>141.05568</lng>
+<geonameId>8438127</geonameId>
+<countryCode>JP</countryCode>
+<countryName>Japan</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Hosen,Hōsen,fa chuan,housen,ほうせん,ホウセン,法船</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="03">16</adminCode1>
+<adminName1>Iwate</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ja">法船</alternateName>
+<timezone dstOffset="9.0" gmtOffset="9.0">Asia/Tokyo</timezone>
+<bbox>
+<west>141.04404</west>
+<north>39.39992</north>
+<east>141.06732</east>
+<south>39.38193</south>
+</bbox>
+<score>24.387672424316406</score>
+</geoname>
+<geoname>
+<toponymName>De Haukes</toponymName>
+<name>De Haukes</name>
+<lat>52.88938</lat>
+<lng>4.93526</lng>
+<geonameId>2757576</geonameId>
+<countryCode>NL</countryCode>
+<countryName>Netherlands</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>De Houkes,Houkes</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="NH">07</adminCode1>
+<adminName1>North Holland</adminName1>
+<adminCode2>1911</adminCode2>
+<adminName2>Gemeente Hollands Kroon</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/De_Haukes</alternateName>
+<alternateName lang="unlc">DHK</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Amsterdam</timezone>
+<bbox>
+<west>4.92036</west>
+<north>52.89838</north>
+<east>4.95017</east>
+<south>52.88039</south>
+</bbox>
+<score>18.773639678955078</score>
+</geoname>
+</geonames>

@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>64</totalResultsCount>
+<geoname>
+<toponymName>San Isidro</toponymName>
+<name>San Isidro</name>
+<lat>15.4425</lat>
+<lng>120.72565</lng>
+<geonameId>1720094</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>4121</population>
+<alternateNames>Caluluan,Cululuan,San Isidro,Sitio</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="AGS">03</adminCode1>
+<adminName1>Central Luzon</adminName1>
+<adminCode2>63</adminCode2>
+<adminName2>Tarlac</adminName2>
+<alternateName lang="fil">Cululuan</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<bbox>
+<west>120.71757</west>
+<north>15.45028</north>
+<east>120.73373</east>
+<south>15.43471</south>
+</bbox>
+<score>45.174251556396484</score>
+</geoname>
+<geoname>
+<toponymName>Sítio</toponymName>
+<name>Sítio</name>
+<lat>-19.88333</lat>
+<lng>-44.16667</lng>
+<geonameId>3447524</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Sitio,Sítio</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="MG">15</adminCode1>
+<adminName1>Minas Gerais</adminName1>
+<adminCode2>3106705</adminCode2>
+<adminName2>Betim</adminName2>
+<alternateName lang="pt">Sítio</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Sao_Paulo</timezone>
+<bbox>
+<west>-44.17623</west>
+<north>-19.87434</north>
+<east>-44.1571</east>
+<south>-19.89233</south>
+</bbox>
+<score>38.331626892089844</score>
+</geoname>
+<geoname>
+<toponymName>Sítio</toponymName>
+<name>Sítio</name>
+<lat>-17.41667</lat>
+<lng>-43.8</lng>
+<geonameId>3447525</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Sitio,Sítio</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="MG">15</adminCode1>
+<adminName1>Minas Gerais</adminName1>
+<adminCode2>3107307</adminCode2>
+<adminName2>Bocaiúva</adminName2>
+<alternateName lang="pt">Sítio</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Sao_Paulo</timezone>
+<bbox>
+<west>-43.80943</west>
+<north>-17.40767</north>
+<east>-43.79057</east>
+<south>-17.42566</south>
+</bbox>
+<score>38.331626892089844</score>
+</geoname>
+<geoname>
+<toponymName>Sítio</toponymName>
+<name>Sítio</name>
+<lat>-16.25</lat>
+<lng>-39.66667</lng>
+<geonameId>3447526</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Sitio,Sítio</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="BA">05</adminCode1>
+<adminName1>Estado de Bahía</adminName1>
+<adminCode2>2910727</adminCode2>
+<adminName2>Eunápolis</adminName2>
+<alternateName lang="pt">Sítio</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Bahia</timezone>
+<bbox>
+<west>-39.67603</west>
+<north>-16.24101</north>
+<east>-39.6573</east>
+<south>-16.25899</south>
+</bbox>
+<score>38.331626892089844</score>
+</geoname>
+<geoname>
+<toponymName>Sítio</toponymName>
+<name>Sítio</name>
+<lat>39.60911</lat>
+<lng>-9.07468</lng>
+<geonameId>2262905</geonameId>
+<countryCode>PT</countryCode>
+<countryName>Portugal</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="10">13</adminCode1>
+<adminName1>Leiria</adminName1>
+<adminCode2>1011</adminCode2>
+<adminName2>Nazaré</adminName2>
+<adminCode3>101102</adminCode3>
+<adminName3>Nazaré</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Lisbon</timezone>
+<bbox>
+<west>-9.08636</west>
+<north>39.6181</north>
+<east>-9.063</east>
+<south>39.60011</south>
+</bbox>
+<score>36.139400482177734</score>
+</geoname>
+<geoname>
+<toponymName>Sítio</toponymName>
+<name>Sítio</name>
+<lat>-9.55</lat>
+<lng>-38.86667</lng>
+<geonameId>3387581</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="BA">05</adminCode1>
+<adminName1>Estado de Bahía</adminName1>
+<adminCode2>2919900</adminCode2>
+<adminName2>Macururé</adminName2>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Bahia</timezone>
+<bbox>
+<west>-38.87579</west>
+<north>-9.54101</north>
+<east>-38.85755</east>
+<south>-9.55899</south>
+</bbox>
+<score>36.139400482177734</score>
+</geoname>
+<geoname>
+<toponymName>Sítio</toponymName>
+<name>Sítio</name>
+<lat>-9.48333</lat>
+<lng>-39.01667</lng>
+<geonameId>3387582</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="BA">05</adminCode1>
+<adminName1>Estado de Bahía</adminName1>
+<adminCode2>2907707</adminCode2>
+<adminName2>Chorrochó</adminName2>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Bahia</timezone>
+<bbox>
+<west>-39.02578</west>
+<north>-9.47434</north>
+<east>-39.00755</east>
+<south>-9.49233</south>
+</bbox>
+<score>36.139400482177734</score>
+</geoname>
+<geoname>
+<toponymName>Sítio</toponymName>
+<name>Sítio</name>
+<lat>-9.25</lat>
+<lng>-38.86667</lng>
+<geonameId>3387583</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="BA">05</adminCode1>
+<adminName1>Estado de Bahía</adminName1>
+<adminCode2>2919900</adminCode2>
+<adminName2>Macururé</adminName2>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Bahia</timezone>
+<bbox>
+<west>-38.87578</west>
+<north>-9.24101</north>
+<east>-38.85755</east>
+<south>-9.25899</south>
+</bbox>
+<score>36.139400482177734</score>
+</geoname>
+<geoname>
+<toponymName>Sítio</toponymName>
+<name>Sítio</name>
+<lat>-8.95</lat>
+<lng>-38.85</lng>
+<geonameId>3387584</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="BA">05</adminCode1>
+<adminName1>Estado de Bahía</adminName1>
+<adminCode2>2927101</adminCode2>
+<adminName2>Rodelas</adminName2>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Bahia</timezone>
+<bbox>
+<west>-38.8591</west>
+<north>-8.94101</north>
+<east>-38.8409</east>
+<south>-8.95899</south>
+</bbox>
+<score>36.139400482177734</score>
+</geoname>
+<geoname>
+<toponymName>Sítio</toponymName>
+<name>Sítio</name>
+<lat>-8.9</lat>
+<lng>-37.6</lng>
+<geonameId>3387585</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="PE">30</adminCode1>
+<adminName1>Pernambuco</adminName1>
+<adminCode2>2609154</adminCode2>
+<adminName2>Manari</adminName2>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Recife</timezone>
+<bbox>
+<west>-37.6091</west>
+<north>-8.89101</north>
+<east>-37.5909</east>
+<south>-8.90899</south>
+</bbox>
+<score>36.139400482177734</score>
+</geoname>
+</geonames>

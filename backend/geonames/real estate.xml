@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Regal Estates</toponymName>
+<name>Regal Estates</name>
+<lat>33.95066</lat>
+<lng>-84.00713</lng>
+<geonameId>4218356</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>326</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">GA</adminCode1>
+<adminName1>Georgia</adminName1>
+<adminCode2>135</adminCode2>
+<adminName2>Gwinnett County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-84.01147</west>
+<north>33.95426</north>
+<east>-84.00279</east>
+<south>33.94706</south>
+</bbox>
+<score>14.370574951171875</score>
+</geoname>
+<geoname>
+<toponymName>Ladang Repah</toponymName>
+<name>Ladang Repah</name>
+<lat>2.5076</lat>
+<lng>102.2515</lng>
+<geonameId>1748562</geonameId>
+<countryCode>MY</countryCode>
+<countryName>Malaysia</countryName>
+<fcl>S</fcl>
+<fcode>EST</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>estate(s)</fcodeName>
+<population/>
+<alternateNames>Ladang Repah,Repah Estate</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="05">05</adminCode1>
+<adminName1>Negeri Sembilan</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ms">Ladang Repah</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Kuala_Lumpur</timezone>
+<score>8.12922477722168</score>
+</geoname>
+<geoname>
+<toponymName>Reed Estate</toponymName>
+<name>Reed Estate</name>
+<lat>41.02722</lat>
+<lng>-73.71806</lng>
+<geonameId>7275543</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>76</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>119</adminCode2>
+<adminName2>Westchester County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>7.1852874755859375</score>
+</geoname>
+<geoname>
+<toponymName>Relau Estate</toponymName>
+<name>Relau Estate</name>
+<lat>5.37903</lat>
+<lng>100.29177</lng>
+<geonameId>1748723</geonameId>
+<countryCode>MY</countryCode>
+<countryName>Malaysia</countryName>
+<fcl>S</fcl>
+<fcode>EST</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>estate(s)</fcodeName>
+<population/>
+<alternateNames>Relau Estate</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="07">09</adminCode1>
+<adminName1>Pulau Pinang</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ms">Relau Estate</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Kuala_Lumpur</timezone>
+<score>7.040114879608154</score>
+</geoname>
+</geonames>

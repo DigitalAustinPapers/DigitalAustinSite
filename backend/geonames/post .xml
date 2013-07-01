@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>14</totalResultsCount>
+<geoname>
+<toponymName>Post</toponymName>
+<name>Post</name>
+<lat>33.19093</lat>
+<lng>-101.37819</lng>
+<geonameId>5528596</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>5376</population>
+<alternateNames/>
+<elevation>794</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>169</adminCode2>
+<adminName2>Garza County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Post%2C_Texas</alternateName>
+<alternateName lang="post">79356</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-101.38894</west>
+<north>33.19992</north>
+<east>-101.36745</east>
+<south>33.18193</south>
+</bbox>
+<score>60.43024444580078</score>
+</geoname>
+<geoname>
+<toponymName>Post</toponymName>
+<name>Post</name>
+<lat>44.16235</lat>
+<lng>-120.49</lng>
+<geonameId>5746587</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1031</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OR">OR</adminCode1>
+<adminName1>Oregon</adminName1>
+<adminCode2>013</adminCode2>
+<adminName2>Crook County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Post%2C_Oregon</alternateName>
+<alternateName lang="post">97752</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-120.50254</west>
+<north>44.17135</north>
+<east>-120.47747</east>
+<south>44.15336</south>
+</bbox>
+<score>60.43024444580078</score>
+</geoname>
+<geoname>
+<toponymName>Post</toponymName>
+<name>Post</name>
+<lat>37.73333</lat>
+<lng>44.83333</lng>
+<geonameId>20939</geonameId>
+<countryCode>IR</countryCode>
+<countryName>Iran</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Post,pust,پُست</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="02">01</adminCode1>
+<adminName1>Āz̄ārbāyjān-e Gharbī</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="fa">پُست</alternateName>
+<timezone dstOffset="4.5" gmtOffset="3.5">Asia/Tehran</timezone>
+<bbox>
+<west>44.82196</west>
+<north>37.74233</north>
+<east>44.84471</east>
+<south>37.72434</south>
+</bbox>
+<score>43.1734504699707</score>
+</geoname>
+<geoname>
+<toponymName>Post’</toponymName>
+<name>Post’</name>
+<lat>63.10875</lat>
+<lng>53.89019</lng>
+<geonameId>506000</geonameId>
+<countryCode>RU</countryCode>
+<countryName>Russia</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>Post',Post’,Пость</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="KO">34</adminCode1>
+<adminName1>Komi Republic</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ru">Пость</alternateName>
+<timezone dstOffset="4.0" gmtOffset="4.0">Europe/Moscow</timezone>
+<score>42.73063659667969</score>
+</geoname>
+<geoname>
+<toponymName>Post</toponymName>
+<name>Post</name>
+<lat>42.31694</lat>
+<lng>22.35278</lng>
+<geonameId>861946</geonameId>
+<countryCode>RS</countryCode>
+<countryName>Serbia</countryName>
+<fcl>T</fcl>
+<fcode>MT</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>mountain</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Belgrade</timezone>
+<score>40.28683090209961</score>
+</geoname>
+<geoname>
+<toponymName>Post</toponymName>
+<name>Post</name>
+<lat>7.75</lat>
+<lng>13.93333</lng>
+<geonameId>2222500</geonameId>
+<countryCode>CM</countryCode>
+<countryName>Cameroon</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="NO">13</adminCode1>
+<adminName1>North Province</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="1.0">Africa/Douala</timezone>
+<bbox>
+<west>13.92426</west>
+<north>7.75899</north>
+<east>13.94241</east>
+<south>7.74101</south>
+</bbox>
+<score>40.28683090209961</score>
+</geoname>
+<geoname>
+<toponymName>Post</toponymName>
+<name>Post</name>
+<lat>49.7512</lat>
+<lng>5.7665</lng>
+<geonameId>2788710</geonameId>
+<countryCode>BE</countryCode>
+<countryName>Belgium</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WAL">WAL</adminCode1>
+<adminName1>Walloon Region</adminName1>
+<adminCode2>WLX</adminCode2>
+<adminName2>Luxembourg Province</adminName2>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Brussels</timezone>
+<bbox>
+<west>5.75257</west>
+<north>49.76019</north>
+<east>5.78042</east>
+<south>49.7422</south>
+</bbox>
+<score>40.28683090209961</score>
+</geoname>
+<geoname>
+<toponymName>Post</toponymName>
+<name>Post</name>
+<lat>37.47311</lat>
+<lng>-86.47554</lng>
+<geonameId>4305023</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>187</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>085</adminCode2>
+<adminName2>Grayson County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-86.48687</west>
+<north>37.4821</north>
+<east>-86.4642</east>
+<south>37.46411</south>
+</bbox>
+<score>40.28683090209961</score>
+</geoname>
+<geoname>
+<toponymName>Post</toponymName>
+<name>Post</name>
+<lat>32.53542</lat>
+<lng>-88.90727</lng>
+<geonameId>4442238</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>151</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MS">MS</adminCode1>
+<adminName1>Mississippi</adminName1>
+<adminCode2>075</adminCode2>
+<adminName2>Lauderdale County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>12.589634895324707</score>
+</geoname>
+<geoname>
+<toponymName>Post</toponymName>
+<name>Post</name>
+<lat>34.65443</lat>
+<lng>-120.53683</lng>
+<geonameId>5384539</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>13</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>083</adminCode2>
+<adminName2>Santa Barbara County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>12.589634895324707</score>
+</geoname>
+</geonames>

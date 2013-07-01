@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>64</totalResultsCount>
+<geoname>
+<toponymName>Dauis Point</toponymName>
+<name>Dauis Point</name>
+<lat>11.8877</lat>
+<lng>121.5541</lng>
+<geonameId>1715361</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>T</fcl>
+<fcode>PT</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>point</fcodeName>
+<population/>
+<alternateNames>Dauis Point,Davis Point</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="06">06</adminCode1>
+<adminName1>Western Visayas</adminName1>
+<adminCode2>06</adminCode2>
+<adminName2>Antique</adminName2>
+<alternateName lang="en">Dauis Point</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<score>32.94990921020508</score>
+</geoname>
+<geoname>
+<toponymName>Davis Point</toponymName>
+<name>Davis Point</name>
+<lat>39.6222</lat>
+<lng>-108.13147</lng>
+<geonameId>5419017</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>RDGE</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>ridge(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>2516</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CO">CO</adminCode1>
+<adminName1>Colorado</adminName1>
+<adminCode2>045</adminCode2>
+<adminName2>Garfield</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<score>22.80072784423828</score>
+</geoname>
+<geoname>
+<toponymName>Davis Point</toponymName>
+<name>Davis Point</name>
+<lat>38.41665</lat>
+<lng>-108.21035</lng>
+<geonameId>5419018</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>MT</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>mountain</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>2545</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CO">CO</adminCode1>
+<adminName1>Colorado</adminName1>
+<adminCode2>085</adminCode2>
+<adminName2>Montrose County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<score>22.80072784423828</score>
+</geoname>
+<geoname>
+<toponymName>Davis Point</toponymName>
+<name>Davis Point</name>
+<lat>37.8086</lat>
+<lng>-111.81296</lng>
+<geonameId>5537887</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>MT</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>mountain</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>2333</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="UT">UT</adminCode1>
+<adminName1>Utah</adminName1>
+<adminCode2>017</adminCode2>
+<adminName2>Garfield County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<score>22.80072784423828</score>
+</geoname>
+<geoname>
+<toponymName>Davis Point</toponymName>
+<name>Davis Point</name>
+<lat>-54.65</lat>
+<lng>158.85</lng>
+<geonameId>2169303</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>T</fcl>
+<fcode>PT</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>point</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="TAS">06</adminCode1>
+<adminName1>Tasmania</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="11.0" gmtOffset="11.0">Antarctica/Macquarie</timezone>
+<score>18.240581512451172</score>
+</geoname>
+<geoname>
+<toponymName>Davis Point</toponymName>
+<name>Davis Point</name>
+<lat>-32.7</lat>
+<lng>151.96667</lng>
+<geonameId>2169304</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>T</fcl>
+<fcode>PT</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>point</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="NSW">02</adminCode1>
+<adminName1>New South Wales</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="10.0" gmtOffset="11.0">Australia/Sydney</timezone>
+<score>18.240581512451172</score>
+</geoname>
+<geoname>
+<toponymName>Davis Point</toponymName>
+<name>Davis Point</name>
+<lat>-52.56667</lat>
+<lng>169.21667</lng>
+<geonameId>2191885</geonameId>
+<countryCode>NZ</countryCode>
+<countryName>New Zealand</countryName>
+<fcl>T</fcl>
+<fcode>PT</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>point</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="12.0" gmtOffset="13.0">Pacific/Auckland</timezone>
+<score>18.240581512451172</score>
+</geoname>
+<geoname>
+<toponymName>Davis Point</toponymName>
+<name>Davis Point</name>
+<lat>26.71667</lat>
+<lng>-77.45</lng>
+<geonameId>3572527</geonameId>
+<countryCode>BS</countryCode>
+<countryName>Bahamas</countryName>
+<fcl>T</fcl>
+<fcode>PT</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>point</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NO">46</adminCode1>
+<adminName1>North Abaco</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Nassau</timezone>
+<score>18.240581512451172</score>
+</geoname>
+<geoname>
+<toponymName>Davis Point</toponymName>
+<name>Davis Point</name>
+<lat>30.03465</lat>
+<lng>-85.48353</lng>
+<geonameId>4152847</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>CAPE</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>cape</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="FL">FL</adminCode1>
+<adminName1>Florida</adminName1>
+<adminCode2>005</adminCode2>
+<adminName2>Bay County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>18.240581512451172</score>
+</geoname>
+<geoname>
+<toponymName>Davis Point</toponymName>
+<name>Davis Point</name>
+<lat>28.74999</lat>
+<lng>-81.18951</lng>
+<geonameId>4152848</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>CAPE</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>cape</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>0</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="FL">FL</adminCode1>
+<adminName1>Florida</adminName1>
+<adminCode2>117</adminCode2>
+<adminName2>Seminole County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>18.240581512451172</score>
+</geoname>
+</geonames>

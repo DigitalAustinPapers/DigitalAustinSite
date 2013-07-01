@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>myhouse</toponymName>
+<name>myhouse</name>
+<lat>44.55425</lat>
+<lng>4.7183</lng>
+<geonameId>7115991</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>S</fcl>
+<fcode>HSE</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>house(s)</fcodeName>
+<population>2</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="V">B9</adminCode1>
+<adminName1>Rhône-Alpes</adminName1>
+<adminCode2>26</adminCode2>
+<adminName2>Drôme</adminName2>
+<adminCode3>262</adminCode3>
+<adminName3>Arrondissement de Nyons</adminName3>
+<adminCode4>26198</adminCode4>
+<adminName4>Montélimar</adminName4>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<score>14.370574951171875</score>
+</geoname>
+</geonames>

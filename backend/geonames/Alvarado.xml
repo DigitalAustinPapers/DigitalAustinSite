@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>24</totalResultsCount>
+<geoname>
+<toponymName>Alvarado</toponymName>
+<name>Alvarado</name>
+<lat>4.58333</lat>
+<lng>-75</lng>
+<geonameId>3690031</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames>Alvarado</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="TOL">28</adminCode1>
+<adminName1>Tolima</adminName1>
+<adminCode2>3690031</adminCode2>
+<adminName2>Alvarado</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<score>77.12882995605469</score>
+</geoname>
+<geoname>
+<toponymName>Alvarado</toponymName>
+<name>Alvarado</name>
+<lat>18.77072</lat>
+<lng>-95.76063</lng>
+<geonameId>3532964</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>21518</population>
+<alternateNames>Al'varado,Alvarado,Heroica Alvarado,Альварадо</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VER">30</adminCode1>
+<adminName1>Veracruz-Llave</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Alvarado%2C_Veracruz</alternateName>
+<alternateName lang="ru">Альварадо</alternateName>
+<alternateName lang="unlc">AVD</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-95.78021</west>
+<north>18.78926</north>
+<east>-95.74104</east>
+<south>18.75218</south>
+</bbox>
+<score>75.83587646484375</score>
+</geoname>
+<geoname>
+<toponymName>Alvarado</toponymName>
+<name>Alvarado</name>
+<lat>4.56612</lat>
+<lng>-74.96229</lng>
+<geonameId>3690030</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2049</population>
+<alternateNames>Alvarado</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="TOL">28</adminCode1>
+<adminName1>Tolima</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Alvarado%2C_Tolima</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<bbox>
+<west>-74.96681</west>
+<north>4.57062</north>
+<east>-74.95778</east>
+<south>4.56163</south>
+</bbox>
+<score>67.48772430419922</score>
+</geoname>
+<geoname>
+<toponymName>Alvarado</toponymName>
+<name>Alvarado</name>
+<lat>32.40653</lat>
+<lng>-97.21168</lng>
+<geonameId>4670582</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3785</population>
+<alternateNames/>
+<elevation>233</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>251</adminCode2>
+<adminName2>Johnson County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Alvarado%2C_Texas</alternateName>
+<alternateName lang="post">76009</alternateName>
+<alternateName lang="unlc">ZAD</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-97.2209</west>
+<north>32.41432</north>
+<east>-97.20245</east>
+<south>32.39874</south>
+</bbox>
+<score>47.2315673828125</score>
+</geoname>
+<geoname>
+<toponymName>Alvarado</toponymName>
+<name>Alvarado</name>
+<lat>36.65067</lat>
+<lng>-81.88679</lng>
+<geonameId>4744292</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>533</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>191</adminCode2>
+<adminName2>Washington County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Alvarado%2C_Virginia</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-81.898</west>
+<north>36.65966</north>
+<east>-81.87558</east>
+<south>36.64168</south>
+</bbox>
+<score>47.2315673828125</score>
+</geoname>
+<geoname>
+<toponymName>Alvarado</toponymName>
+<name>Alvarado</name>
+<lat>48.19415</lat>
+<lng>-96.99618</lng>
+<geonameId>5016233</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>363</population>
+<alternateNames/>
+<elevation>248</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MN">MN</adminCode1>
+<adminName1>Minnesota</adminName1>
+<adminCode2>089</adminCode2>
+<adminName2>Marshall County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Alvarado%2C_Minnesota</alternateName>
+<alternateName lang="post">56710</alternateName>
+<alternateName lang="unlc">AR2</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-96.99753</west>
+<north>48.19505</north>
+<east>-96.99483</east>
+<south>48.19325</south>
+</bbox>
+<score>39.35963821411133</score>
+</geoname>
+<geoname>
+<toponymName>Alvarado</toponymName>
+<name>Alvarado</name>
+<lat>14.55</lat>
+<lng>-89.78333</lng>
+<geonameId>3599763</geonameId>
+<countryCode>GT</countryCode>
+<countryName>Guatemala</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="JA">10</adminCode1>
+<adminName1>Jalapa</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Guatemala</timezone>
+<bbox>
+<west>-89.79263</west>
+<north>14.55899</north>
+<east>-89.77404</east>
+<south>14.54101</south>
+</bbox>
+<score>31.48771095275879</score>
+</geoname>
+<geoname>
+<toponymName>Alvarado</toponymName>
+<name>Alvarado</name>
+<lat>15.43333</lat>
+<lng>-86.56667</lng>
+<geonameId>3615224</geonameId>
+<countryCode>HN</countryCode>
+<countryName>Honduras</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="YO">18</adminCode1>
+<adminName1>Yoro</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Tegucigalpa</timezone>
+<bbox>
+<west>-86.576</west>
+<north>15.44233</north>
+<east>-86.55734</east>
+<south>15.42434</south>
+</bbox>
+<score>31.48771095275879</score>
+</geoname>
+<geoname>
+<toponymName>Alvarado</toponymName>
+<name>Alvarado</name>
+<lat>-2.85</lat>
+<lng>-78.76667</lng>
+<geonameId>3660717</geonameId>
+<countryCode>EC</countryCode>
+<countryName>Ecuador</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="A">02</adminCode1>
+<adminName1>Azuay</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Guayaquil</timezone>
+<bbox>
+<west>-78.77567</west>
+<north>-2.84101</north>
+<east>-78.75766</east>
+<south>-2.85899</south>
+</bbox>
+<score>31.48771095275879</score>
+</geoname>
+<geoname>
+<toponymName>Alvarado</toponymName>
+<name>Alvarado</name>
+<lat>19.38574</lat>
+<lng>-98.43897</lng>
+<geonameId>3815111</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TLA">29</adminCode1>
+<adminName1>Tlaxcala</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-98.44851</west>
+<north>19.39473</north>
+<east>-98.42944</east>
+<south>19.37674</south>
+</bbox>
+<score>31.48771095275879</score>
+</geoname>
+</geonames>

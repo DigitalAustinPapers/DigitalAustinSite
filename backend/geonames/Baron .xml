@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>47</totalResultsCount>
+<geoname>
+<toponymName>Baron</toponymName>
+<name>Baron</name>
+<lat>35.9237</lat>
+<lng>-94.61633</lng>
+<geonameId>4529977</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>267</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OK">OK</adminCode1>
+<adminName1>Oklahoma</adminName1>
+<adminCode2>001</adminCode2>
+<adminName2>Adair County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Baron%2C_Oklahoma</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-94.62744</west>
+<north>35.93269</north>
+<east>-94.60523</east>
+<south>35.9147</south>
+</bbox>
+<score>55.49541473388672</score>
+</geoname>
+<geoname>
+<toponymName>Barön</toponymName>
+<name>Barön</name>
+<lat>58.98333</lat>
+<lng>12.03333</lng>
+<geonameId>2723385</geonameId>
+<countryCode>SE</countryCode>
+<countryName>Sweden</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames>Baroen,Baron,Barön,Barøn</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="O">28</adminCode1>
+<adminName1>Västra Götaland</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="no">Barön</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Stockholm</timezone>
+<score>48.06044006347656</score>
+</geoname>
+<geoname>
+<toponymName>Barón</toponymName>
+<name>Barón</name>
+<lat>9.96125</lat>
+<lng>-84.61709</lng>
+<geonameId>3624763</geonameId>
+<countryCode>CR</countryCode>
+<countryName>Costa Rica</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Baron,Barón,El Baron,El Barón,El Jeron,El Jerón</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="P">07</adminCode1>
+<adminName1>Puntarenas</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Costa_Rica</timezone>
+<bbox>
+<west>-84.62622</west>
+<north>9.97025</north>
+<east>-84.60796</east>
+<south>9.95226</south>
+</bbox>
+<score>45.7813835144043</score>
+</geoname>
+<geoname>
+<toponymName>Baron</toponymName>
+<name>Baron</name>
+<lat>49.17301</lat>
+<lng>2.73054</lng>
+<geonameId>3034877</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>819</population>
+<alternateNames>Bar-sur-Nonette,Baron,La Montagne-des-Piques</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="S">B6</adminCode1>
+<adminName1>Picardie</adminName1>
+<adminCode2>60</adminCode2>
+<adminName2>Oise</adminName2>
+<adminCode3>604</adminCode3>
+<adminName3>Arrondissement de Senlis</adminName3>
+<adminCode4>60047</adminCode4>
+<adminName4>Baron</adminName4>
+<alternateName lang="fr_1793">Bar-sur-Nonette</alternateName>
+<alternateName lang="post">60300</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>2.72917</west>
+<north>49.17391</north>
+<east>2.73192</east>
+<south>49.17211</south>
+</bbox>
+<score>45.31181716918945</score>
+</geoname>
+<geoname>
+<toponymName>Baron</toponymName>
+<name>Baron</name>
+<lat>46.49314</lat>
+<lng>4.28114</lng>
+<geonameId>3034878</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>216</population>
+<alternateNames>Baron</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="D">A1</adminCode1>
+<adminName1>Bourgogne</adminName1>
+<adminCode2>71</adminCode2>
+<adminName2>Saône-et-Loire</adminName2>
+<adminCode3>713</adminCode3>
+<adminName3>Arrondissement de Charolles</adminName3>
+<adminCode4>71021</adminCode4>
+<adminName4>Baron</adminName4>
+<alternateName lang="post">71120</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>4.27984</west>
+<north>46.49404</north>
+<east>4.28245</east>
+<south>46.49224</south>
+</bbox>
+<score>45.31181716918945</score>
+</geoname>
+<geoname>
+<toponymName>Baron</toponymName>
+<name>Baron</name>
+<lat>44.82182</lat>
+<lng>-0.31233</lng>
+<geonameId>3034879</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>938</population>
+<alternateNames>Baron</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="B">97</adminCode1>
+<adminName1>Aquitaine</adminName1>
+<adminCode2>33</adminCode2>
+<adminName2>Gironde</adminName2>
+<adminCode3>335</adminCode3>
+<adminName3>Arrondissement de Libourne</adminName3>
+<adminCode4>33028</adminCode4>
+<adminName4>Baron</adminName4>
+<alternateName lang="post">33750</alternateName>
+<alternateName lang="unlc">BNZ</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>-0.3136</west>
+<north>44.82272</north>
+<east>-0.31106</east>
+<south>44.82092</south>
+</bbox>
+<score>39.6478385925293</score>
+</geoname>
+<geoname>
+<toponymName>Baron</toponymName>
+<name>Baron</name>
+<lat>9.4</lat>
+<lng>9.15</lng>
+<geonameId>2347590</geonameId>
+<countryCode>NG</countryCode>
+<countryName>Nigeria</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="1.0">Africa/Lagos</timezone>
+<bbox>
+<west>9.14088</west>
+<north>9.40899</north>
+<east>9.15912</east>
+<south>9.39101</south>
+</bbox>
+<score>36.996944427490234</score>
+</geoname>
+<geoname>
+<toponymName>Baron</toponymName>
+<name>Baron</name>
+<lat>44.04923</lat>
+<lng>4.28321</lng>
+<geonameId>3034880</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>248</population>
+<alternateNames>Dere-la-Montagne,Dère-la-Montagne,Union</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="K">A9</adminCode1>
+<adminName1>Languedoc-Roussillon</adminName1>
+<adminCode2>30</adminCode2>
+<adminName2>Gard</adminName2>
+<adminCode3>302</adminCode3>
+<adminName3>Arrondissement de Nîmes</adminName3>
+<adminCode4>30030</adminCode4>
+<adminName4>Baron</adminName4>
+<alternateName lang="fr_1793">Union</alternateName>
+<alternateName lang="post">30700</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>4.28196</west>
+<north>44.05013</north>
+<east>4.28446</east>
+<south>44.04833</south>
+</bbox>
+<score>36.996944427490234</score>
+</geoname>
+<geoname>
+<toponymName>Barón</toponymName>
+<name>Barón</name>
+<lat>12.25</lat>
+<lng>-68.35</lng>
+<geonameId>3513934</geonameId>
+<countryCode>BQ</countryCode>
+<countryName>Bonaire</countryName>
+<fcl>T</fcl>
+<fcode>HLL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>hill</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="BO">BO</adminCode1>
+<adminName1>Bonaire</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Kralendijk</timezone>
+<score>36.996944427490234</score>
+</geoname>
+<geoname>
+<toponymName>Baron</toponymName>
+<name>Baron</name>
+<lat>19.23333</lat>
+<lng>-72.23333</lng>
+<geonameId>3730754</geonameId>
+<countryCode>HT</countryCode>
+<countryName>Haiti</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CE">07</adminCode1>
+<adminName1>Centre</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Port-au-Prince</timezone>
+<bbox>
+<west>-72.24286</west>
+<north>19.24233</north>
+<east>-72.22381</east>
+<south>19.22434</south>
+</bbox>
+<score>36.996944427490234</score>
+</geoname>
+</geonames>

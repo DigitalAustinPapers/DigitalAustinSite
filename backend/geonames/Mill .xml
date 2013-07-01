@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>8</totalResultsCount>
+<geoname>
+<toponymName>Mill</toponymName>
+<name>Mill</name>
+<lat>51.68833</lat>
+<lng>5.77917</lng>
+<geonameId>2750802</geonameId>
+<countryCode>NL</countryCode>
+<countryName>Netherlands</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Mil</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="NB">06</adminCode1>
+<adminName1>North Brabant</adminName1>
+<adminCode2>0815</adminCode2>
+<adminName2>Mill en Sint Hubert</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Mill%2C_North_Brabant</alternateName>
+<alternateName lang="unlc">MLL</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Amsterdam</timezone>
+<bbox>
+<west>5.76466</west>
+<north>51.69733</north>
+<east>5.79368</east>
+<south>51.67934</south>
+</bbox>
+<score>52.164581298828125</score>
+</geoname>
+<geoname>
+<toponymName>Mill</toponymName>
+<name>Mill</name>
+<lat>30.49286</lat>
+<lng>77.94842</lng>
+<geonameId>1440736</geonameId>
+<countryCode>IN</countryCode>
+<countryName>India</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="UL">39</adminCode1>
+<adminName1>Uttarakhand</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="5.5" gmtOffset="5.5">Asia/Kolkata</timezone>
+<bbox>
+<west>77.93799</west>
+<north>30.50185</north>
+<east>77.95886</east>
+<south>30.48386</south>
+</bbox>
+<score>41.731666564941406</score>
+</geoname>
+<geoname>
+<toponymName>Mill</toponymName>
+<name>Mill</name>
+<lat>32.12266</lat>
+<lng>-92.84293</lng>
+<geonameId>4333354</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>54</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>127</adminCode2>
+<adminName2>Winn Parish</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.85355</west>
+<north>32.13165</north>
+<east>-92.83231</east>
+<south>32.11367</south>
+</bbox>
+<score>41.731666564941406</score>
+</geoname>
+<geoname>
+<toponymName>Mill</toponymName>
+<name>Mill</name>
+<lat>37.8895</lat>
+<lng>-90.34679</lng>
+<geonameId>4398243</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>294</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>186</adminCode2>
+<adminName2>Sainte Genevieve County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.35819</west>
+<north>37.89849</north>
+<east>-90.33539</east>
+<south>37.8805</south>
+</bbox>
+<score>41.731666564941406</score>
+</geoname>
+<geoname>
+<toponymName>Mill</toponymName>
+<name>Mill</name>
+<lat>29.8027</lat>
+<lng>67.9702</lng>
+<geonameId>7330934</geonameId>
+<countryCode>PK</countryCode>
+<countryName>Pakistan</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="BA">02</adminCode1>
+<adminName1>Balochistān</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="5.0" gmtOffset="5.0">Asia/Karachi</timezone>
+<bbox>
+<west>67.95983</west>
+<north>29.81169</north>
+<east>67.98057</east>
+<south>29.79371</south>
+</bbox>
+<score>41.731666564941406</score>
+</geoname>
+<geoname>
+<toponymName>Mill</toponymName>
+<name>Mill</name>
+<lat>35.47201</lat>
+<lng>45.21297</lng>
+<geonameId>383772</geonameId>
+<countryCode>IQ</countryCode>
+<countryName>Iraq</countryName>
+<fcl>S</fcl>
+<fcode>ML</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>mill(s)</fcodeName>
+<population/>
+<alternateNames>Mill,Tahunah,tahwnt,Ţāḩūnah,طاحونة</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="SU">05</adminCode1>
+<adminName1>As Sulaymānīyah</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ar">طاحونة</alternateName>
+<timezone dstOffset="3.0" gmtOffset="3.0">Asia/Baghdad</timezone>
+<score>25.555322647094727</score>
+</geoname>
+<geoname>
+<toponymName>Mill</toponymName>
+<name>Mill</name>
+<lat>34.14425</lat>
+<lng>-102.61965</lng>
+<geonameId>5526404</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>1162</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>017</adminCode2>
+<adminName2>Bailey County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>13.041145324707031</score>
+</geoname>
+<geoname>
+<toponymName>Mill</toponymName>
+<name>Mill</name>
+<lat>43.02016</lat>
+<lng>-116.86041</lng>
+<geonameId>5600962</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>1727</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ID">ID</adminCode1>
+<adminName1>Idaho</adminName1>
+<adminCode2>073</adminCode2>
+<adminName2>Owyhee County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Boise</timezone>
+<score>13.041145324707031</score>
+</geoname>
+</geonames>

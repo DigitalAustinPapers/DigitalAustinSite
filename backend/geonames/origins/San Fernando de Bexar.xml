@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>San Fernando de Henares</toponymName>
+<name>San Fernando de Henares</name>
+<lat>40.43776</lat>
+<lng>-3.48909</lng>
+<geonameId>6359351</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population>40981</population>
+<alternateNames>San-Fernando de Henaro,San-Fernando-de-Ehnares,San-Fernando-de-Enares,sheng fei er nan duo de ai na lei si,Сан-Фернандо-де-Енарес,Сан-Фернандо-де-Энарес,圣费尔南多德埃纳雷斯</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="MD">29</adminCode1>
+<adminName1>Madrid</adminName1>
+<adminCode2>M</adminCode2>
+<adminName2>Madrid</adminName2>
+<adminCode3>28130</adminCode3>
+<adminName3>San Fernando de Henares</adminName3>
+<alternateName lang="eo">San-Fernando de Henaro</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/San_Fernando_de_Henares%2C_Madrid</alternateName>
+<alternateName lang="ru">Сан-Фернандо-де-Энарес</alternateName>
+<alternateName lang="uk">Сан-Фернандо-де-Енарес</alternateName>
+<alternateName lang="zh">圣费尔南多德埃纳雷斯</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Madrid</timezone>
+<bbox>
+<west>-3.538</west>
+<north>40.4729</north>
+<east>-3.41063</east>
+<south>40.40653</south>
+</bbox>
+<score>34.22595977783203</score>
+</geoname>
+<geoname>
+<toponymName>San Fernando de Henares</toponymName>
+<name>San Fernando de Henares</name>
+<lat>40.42386</lat>
+<lng>-3.53261</lng>
+<geonameId>3110627</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>40981</population>
+<alternateNames>San Fernando de Henares</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="MD">29</adminCode1>
+<adminName1>Madrid</adminName1>
+<adminCode2>M</adminCode2>
+<adminName2>Madrid</adminName2>
+<adminCode3>28130</adminCode3>
+<adminName3>San Fernando de Henares</adminName3>
+<alternateName lang="post">28830</alternateName>
+<alternateName lang="unlc">SFH</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Madrid</timezone>
+<bbox>
+<west>-3.56707</west>
+<north>40.45008</north>
+<east>-3.49815</east>
+<south>40.39764</south>
+</bbox>
+<score>10.724714279174805</score>
+</geoname>
+<geoname>
+<toponymName>San Fernando</toponymName>
+<name>San Fernando</name>
+<lat>24.84749</lat>
+<lng>-98.14828</lng>
+<geonameId>3483197</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>29171</population>
+<alternateNames>San Fernando,San Fernando de Presas</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TAM">28</adminCode1>
+<adminName1>Tamaulipas</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="unlc">SFD</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<bbox>
+<west>-98.17256</west>
+<north>24.86952</north>
+<east>-98.12399</east>
+<south>24.82546</south>
+</bbox>
+<score>7.815243244171143</score>
+</geoname>
+</geonames>

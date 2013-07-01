@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>14</totalResultsCount>
+<geoname>
+<toponymName>Goliad</toponymName>
+<name>Goliad</name>
+<lat>28.66833</lat>
+<lng>-97.38833</lng>
+<geonameId>4693921</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>1908</population>
+<alternateNames/>
+<elevation>50</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>175</adminCode2>
+<adminName2>Goliad County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Goliad%2C_Texas</alternateName>
+<alternateName lang="post">77963</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-97.39345</west>
+<north>28.67282</north>
+<east>-97.3832</east>
+<south>28.66383</south>
+</bbox>
+<score>63.30797576904297</score>
+</geoname>
+<geoname>
+<toponymName>Golcad</toponymName>
+<name>Golcad</name>
+<lat>-0.4432</lat>
+<lng>42.4104</lng>
+<geonameId>58307</geonameId>
+<countryCode>SO</countryCode>
+<countryName>Somalia</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames>Gol"ad,Golcad,Gol”ad</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="JH">09</adminCode1>
+<adminName1>Lower Juba</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ru">Gol”ad</alternateName>
+<alternateName lang="so">Golcad</alternateName>
+<timezone dstOffset="3.0" gmtOffset="3.0">Africa/Mogadishu</timezone>
+<score>16.24262237548828</score>
+</geoname>
+<geoname>
+<toponymName>Golīān</toponymName>
+<name>Golīān</name>
+<lat>32.75</lat>
+<lng>59.23333</lng>
+<geonameId>68330</geonameId>
+<countryCode>IR</countryCode>
+<countryName>Iran</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Golian,Golīān,Gulian,Guliān,gulyan,گُليان</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="fa">گُليان</alternateName>
+<timezone dstOffset="4.5" gmtOffset="3.5">Asia/Tehran</timezone>
+<bbox>
+<west>59.22264</west>
+<north>32.75899</north>
+<east>59.24403</east>
+<south>32.74101</south>
+</bbox>
+<score>7.283299446105957</score>
+</geoname>
+<geoname>
+<toponymName>Goliat</toponymName>
+<name>Goliat</name>
+<lat>-14.28333</lat>
+<lng>31.36667</lng>
+<geonameId>917051</geonameId>
+<countryCode>ZM</countryCode>
+<countryName>Zambia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="03">03</adminCode1>
+<adminName1>Eastern</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Lusaka</timezone>
+<bbox>
+<west>31.35739</west>
+<north>-14.27434</north>
+<east>31.37595</east>
+<south>-14.29233</south>
+</bbox>
+<score>6.687739849090576</score>
+</geoname>
+<geoname>
+<toponymName>Goliat</toponymName>
+<name>Goliat</name>
+<lat>25.9</lat>
+<lng>-98.88333</lng>
+<geonameId>3527437</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TAM">28</adminCode1>
+<adminName1>Tamaulipas</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<bbox>
+<west>-98.89333</west>
+<north>25.90899</north>
+<east>-98.87333</east>
+<south>25.89101</south>
+</bbox>
+<score>6.687739849090576</score>
+</geoname>
+<geoname>
+<toponymName>Golīān</toponymName>
+<name>Golīān</name>
+<lat>34.4238</lat>
+<lng>48.241</lng>
+<geonameId>133004</geonameId>
+<countryCode>IR</countryCode>
+<countryName>Iran</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Golian,Goliyan,Golyan,Golyān,Golīyān,Golīān,glyan,gulyan,گلیان,گُليان,گُليّان</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="24">09</adminCode1>
+<adminName1>Hamadān</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="fa">گلیان</alternateName>
+<timezone dstOffset="4.5" gmtOffset="3.5">Asia/Tehran</timezone>
+<bbox>
+<west>48.2301</west>
+<north>34.43279</north>
+<east>48.2519</east>
+<south>34.41481</south>
+</bbox>
+<score>6.242827892303467</score>
+</geoname>
+<geoname>
+<toponymName>Golīān</toponymName>
+<name>Golīān</name>
+<lat>34.38472</lat>
+<lng>48.1875</lng>
+<geonameId>133005</geonameId>
+<countryCode>IR</countryCode>
+<countryName>Iran</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Golian,Goliyan,Golyan,Golyān,Golīān,gulyan,گُليان</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="24">09</adminCode1>
+<adminName1>Hamadān</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="fa">گُليان</alternateName>
+<timezone dstOffset="4.5" gmtOffset="3.5">Asia/Tehran</timezone>
+<bbox>
+<west>48.1766</west>
+<north>34.39372</north>
+<east>48.1984</east>
+<south>34.37573</south>
+</bbox>
+<score>6.242827892303467</score>
+</geoname>
+<geoname>
+<toponymName>Golīān</toponymName>
+<name>Golīān</name>
+<lat>32.63361</lat>
+<lng>59.96639</lng>
+<geonameId>133091</geonameId>
+<countryCode>IR</countryCode>
+<countryName>Iran</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Golian,Golīān,Gulian,Guliān</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="29">41</adminCode1>
+<adminName1>Khorāsān-e Jonūbī</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="fa">Golīān</alternateName>
+<timezone dstOffset="4.5" gmtOffset="3.5">Asia/Tehran</timezone>
+<bbox>
+<west>59.95571</west>
+<north>32.6426</north>
+<east>59.97707</east>
+<south>32.62462</south>
+</bbox>
+<score>6.242827892303467</score>
+</geoname>
+<geoname>
+<toponymName>Goliān</toponymName>
+<name>Goliān</name>
+<lat>32.20894</lat>
+<lng>74.34428</lng>
+<geonameId>1381347</geonameId>
+<countryCode>PK</countryCode>
+<countryName>Pakistan</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="PB">04</adminCode1>
+<adminName1>Punjab</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="5.0" gmtOffset="5.0">Asia/Karachi</timezone>
+<bbox>
+<west>74.33364</west>
+<north>32.21794</north>
+<east>74.35491</east>
+<south>32.19995</south>
+</bbox>
+<score>5.885794639587402</score>
+</geoname>
+<geoname>
+<toponymName>Guldād</toponymName>
+<name>Guldād</name>
+<lat>32.7653</lat>
+<lng>68.42749</lng>
+<geonameId>1140572</geonameId>
+<countryCode>AF</countryCode>
+<countryName>Afghanistan</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Goldad,Goldād,Guldad,Guldād,Gulḏāḏ,gldad,گلداد</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="PKA">29</adminCode1>
+<adminName1>Paktīkā</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="4.5" gmtOffset="4.5">Asia/Kabul</timezone>
+<bbox>
+<west>68.41679</west>
+<north>32.77429</north>
+<east>68.43818</east>
+<south>32.7563</south>
+</bbox>
+<score>5.275659561157227</score>
+</geoname>
+</geonames>

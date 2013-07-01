@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1114</totalResultsCount>
+<geoname>
+<toponymName>Exeter</toponymName>
+<name>Exeter</name>
+<lat>50.7236</lat>
+<lng>-3.52751</lng>
+<geonameId>2649808</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>113118</population>
+<alternateNames>Caerwysg,EXT,Ehkseter,Ekseter,Ekseteris,Eksetur,Exanceaster,Exeter,Exonia,Karesk,ai ke sai te,akstr,aksytr,egseoteo,ekuseta,xek se texr,xek si texr,Ексетер,Ексетър,Эксетер,עקסעטער,إكسيتر,اکستر,ایکسٹر,เอกเซเตอร์,เอ็กซิเตอร์,エクセター,埃克塞特,엑서터</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UC</adminCode3>
+<adminName3>Exeter District</adminName3>
+<alternateName lang="af">Exeter</alternateName>
+<alternateName lang="ang">Exanceaster</alternateName>
+<alternateName lang="ar">إكسيتر</alternateName>
+<alternateName lang="bg">Ексетър</alternateName>
+<alternateName lang="cy">Caerwysg</alternateName>
+<alternateName lang="de">Exeter</alternateName>
+<alternateName lang="en">Exeter</alternateName>
+<alternateName lang="eo">Exeter</alternateName>
+<alternateName lang="fa">اکستر</alternateName>
+<alternateName lang="fi">Exeter</alternateName>
+<alternateName lang="fr">Exeter</alternateName>
+<alternateName lang="iata">EXT</alternateName>
+<alternateName lang="it">Exeter</alternateName>
+<alternateName lang="ja">エクセター</alternateName>
+<alternateName lang="ko">엑서터</alternateName>
+<alternateName lang="kw">Karesk</alternateName>
+<alternateName lang="la">Exonia</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Exeter</alternateName>
+<alternateName lang="lt">Ekseteris</alternateName>
+<alternateName lang="mzn">اکستر</alternateName>
+<alternateName lang="nl">Exeter</alternateName>
+<alternateName lang="no">Exeter</alternateName>
+<alternateName lang="os">Эксетер</alternateName>
+<alternateName lang="pl">Exeter</alternateName>
+<alternateName lang="pnb">ایکسٹر</alternateName>
+<alternateName lang="ru">Эксетер</alternateName>
+<alternateName lang="sr">Ексетер</alternateName>
+<alternateName lang="sv">Exeter</alternateName>
+<alternateName lang="th">เอกเซเตอร์</alternateName>
+<alternateName lang="tr">Exeter</alternateName>
+<alternateName lang="uk">Ексетер</alternateName>
+<alternateName lang="unlc">EXE</alternateName>
+<alternateName lang="yi">עקסעטער</alternateName>
+<alternateName lang="zh">埃克塞特</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.59644</west>
+<north>50.7672</north>
+<east>-3.45857</east>
+<south>50.68</south>
+</bbox>
+<score>11.777558326721191</score>
+</geoname>
+<geoname>
+<toponymName>Devon</toponymName>
+<name>Devon</name>
+<lat>50.75</lat>
+<lng>-3.75</lng>
+<geonameId>2651292</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>1122100</population>
+<alternateNames>County of Devon,DEV,Devon,Devonshire</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<alternateName lang="abbr">DEV</alternateName>
+<alternateName lang="en">Devon</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Devon</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.68066</west>
+<north>51.24684</north>
+<east>-2.88664</east>
+<south>50.20146</south>
+</bbox>
+<score>9.002503395080566</score>
+</geoname>
+<geoname>
+<toponymName>Teignmouth</toponymName>
+<name>Teignmouth</name>
+<lat>50.54768</lat>
+<lng>-3.49637</lng>
+<geonameId>2636132</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>15498</population>
+<alternateNames>Taba,Teignmouth,Tinmut,Тинмут,Тінмут,Թինմութ</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UH</adminCode3>
+<adminName3>Teignbridge District</adminName3>
+<alternateName lang="hy">Թինմութ</alternateName>
+<alternateName lang="la">Taba</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Teignmouth</alternateName>
+<alternateName lang="os">Тинмут</alternateName>
+<alternateName lang="ru">Тинмут</alternateName>
+<alternateName lang="uk">Тінмут</alternateName>
+<alternateName lang="unlc">TNM</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.5209</west>
+<north>50.56326</north>
+<east>-3.47185</east>
+<south>50.5321</south>
+</bbox>
+<score>8.833168029785156</score>
+</geoname>
+<geoname>
+<toponymName>Exmouth</toponymName>
+<name>Exmouth</name>
+<lat>50.61723</lat>
+<lng>-3.40233</lng>
+<geonameId>2649800</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>32972</population>
+<alternateNames>Exmouth</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UB</adminCode3>
+<adminName3>East Devon District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Exmouth</alternateName>
+<alternateName lang="unlc">EXM</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.43917</west>
+<north>50.6406</north>
+<east>-3.36548</east>
+<south>50.59387</south>
+</bbox>
+<score>8.833168029785156</score>
+</geoname>
+<geoname>
+<toponymName>Barnstaple</toponymName>
+<name>Barnstaple</name>
+<lat>51.08022</lat>
+<lng>-4.05808</lng>
+<geonameId>2656281</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>32532</population>
+<alternateNames>Bardanstapol,Barnastapula,Barnstaple,Barnstupul,banseuteopeul,Барнстъпъл,반스터플</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UE</adminCode3>
+<adminName3>North Devon District</adminName3>
+<alternateName lang="ang">Bardanstapol</alternateName>
+<alternateName lang="bg">Барнстъпъл</alternateName>
+<alternateName lang="ko">반스터플</alternateName>
+<alternateName lang="la">Barnastapula</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Barnstaple</alternateName>
+<alternateName lang="unlc">BND</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.0953</west>
+<north>51.10358</north>
+<east>-4.02087</east>
+<south>51.05685</south>
+</bbox>
+<score>8.833168029785156</score>
+</geoname>
+<geoname>
+<toponymName>Tiverton</toponymName>
+<name>Tiverton</name>
+<lat>50.9</lat>
+<lng>-3.48333</lng>
+<geonameId>2635762</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>16799</population>
+<alternateNames>Tiverton,Tiverton i Devon,Tivertonia,Tivurtun,Тивъртън</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UD</adminCode3>
+<adminName3>Mid Devon District</adminName3>
+<alternateName lang="bg">Тивъртън</alternateName>
+<alternateName lang="la">Tivertonia</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Tiverton%2C_Devon</alternateName>
+<alternateName lang="nn">Tiverton i Devon</alternateName>
+<alternateName lang="unlc">TVN</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.50905</west>
+<north>50.91621</north>
+<east>-3.45762</east>
+<south>50.88379</south>
+</bbox>
+<score>7.360974311828613</score>
+</geoname>
+<geoname>
+<toponymName>Tavistock</toponymName>
+<name>Tavistock</name>
+<lat>50.54944</lat>
+<lng>-4.14418</lng>
+<geonameId>2636174</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>11493</population>
+<alternateNames>Taefingstoc,Tavistok,Tæfingstoc,tafystwk,Тависток,تافيستوك</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UL</adminCode3>
+<adminName3>West Devon District</adminName3>
+<alternateName lang="ang">Tæfingstoc</alternateName>
+<alternateName lang="arz">تافيستوك</alternateName>
+<alternateName lang="bg">Тависток</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Tavistock%2C_Devon</alternateName>
+<alternateName lang="ru">Тависток</alternateName>
+<alternateName lang="unlc">TAS</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.16542</west>
+<north>50.56293</north>
+<east>-4.12294</east>
+<south>50.53595</south>
+</bbox>
+<score>7.360974311828613</score>
+</geoname>
+<geoname>
+<toponymName>Sidmouth</toponymName>
+<name>Sidmouth</name>
+<lat>50.69094</lat>
+<lng>-3.2397</lng>
+<geonameId>2637853</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>11853</population>
+<alternateNames>Sidmouth,Sidmut,Сидмут,Сидмът</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UB</adminCode3>
+<adminName3>East Devon District</adminName3>
+<alternateName lang="bg">Сидмът</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Sidmouth</alternateName>
+<alternateName lang="ru">Сидмут</alternateName>
+<alternateName lang="unlc">SDM</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.261</west>
+<north>50.70443</north>
+<east>-3.2184</east>
+<south>50.67745</south>
+</bbox>
+<score>7.360974311828613</score>
+</geoname>
+<geoname>
+<toponymName>Plympton</toponymName>
+<name>Plympton Saint Mary</name>
+<lat>50.39074</lat>
+<lng>-4.06022</lng>
+<geonameId>2640192</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>8892</population>
+<alternateNames>Plympton,Plympton Erle,Plympton Maurice,Plympton Saint Mary,Plympton Saint Maurice,Plymton,Ridgeway</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<alternateName lang="en">Plympton Saint Mary</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Plympton</alternateName>
+<alternateName lang="unlc">PMT</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.07889</west>
+<north>50.40263</north>
+<east>-4.04155</east>
+<south>50.37884</south>
+</bbox>
+<score>7.360974311828613</score>
+</geoname>
+<geoname>
+<toponymName>Newton Abbot</toponymName>
+<name>Newton Abbot</name>
+<lat>50.52858</lat>
+<lng>-3.61186</lng>
+<geonameId>2641557</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>25789</population>
+<alternateNames>N'juton Ehbbot,Newton Abbot,Njutun Abut,Ньютон Эббот,Нютън Абът</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UH</adminCode3>
+<adminName3>Teignbridge District</adminName3>
+<alternateName lang="bg">Нютън Абът</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Newton_Abbot</alternateName>
+<alternateName lang="ru">Ньютон Эббот</alternateName>
+<alternateName lang="unlc">NBA</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.64429</west>
+<north>50.54919</north>
+<east>-3.57943</east>
+<south>50.50797</south>
+</bbox>
+<score>7.360974311828613</score>
+</geoname>
+</geonames>

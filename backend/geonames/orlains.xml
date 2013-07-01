@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Orleans County</toponymName>
+<name>Orleans County</name>
+<lat>44.82881</lat>
+<lng>-72.24381</lng>
+<geonameId>5239520</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>27231</population>
+<alternateNames>Comte d'Orleans,Comté d'Orleans,Condado de Orleans,Condado han Orleans,Contea di Orleans,Hrabstwo Orleans,Orlins,Orliuns,Quan Orleans,Quận Orleans,ao er liang xian,oralensa ka'unti,Орлиънс,Орлінс,اورلینز کاؤنٹی، ورمونٹ,ওরলেন্স কাউন্টি,奧爾良縣</alternateNames>
+<elevation>300</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VT">VT</adminCode1>
+<adminName1>Vermont</adminName1>
+<adminCode2>019</adminCode2>
+<adminName2>Orleans County</adminName2>
+<alternateName lang="bg">Орлиънс</alternateName>
+<alternateName lang="bpy">ওরলেন্স কাউন্টি</alternateName>
+<alternateName lang="es">Condado de Orleans</alternateName>
+<alternateName lang="fr">Comté d'Orleans</alternateName>
+<alternateName lang="it">Contea di Orleans</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Orleans_County%2C_Vermont</alternateName>
+<alternateName lang="pl">Hrabstwo Orleans</alternateName>
+<alternateName lang="pnb">اورلینز کاؤنٹی، ورمونٹ</alternateName>
+<alternateName lang="pt">Condado de Orleans</alternateName>
+<alternateName lang="uk">Орлінс</alternateName>
+<alternateName lang="vi">Quận Orleans</alternateName>
+<alternateName lang="war">Condado han Orleans</alternateName>
+<alternateName lang="zh">奧爾良縣</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-72.57865</west>
+<north>45.00974</north>
+<east>-71.87492</east>
+<south>44.54274</south>
+</bbox>
+<score>33.62925720214844</score>
+</geoname>
+<geoname>
+<toponymName>Orleans County</toponymName>
+<name>Orleans County</name>
+<lat>43.38228</lat>
+<lng>-78.23044</lng>
+<geonameId>5129995</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>42883</population>
+<alternateNames>Comte d'Orleans,Comté d'Orleans,Condado de Orleans,Condado han Orleans,Contea di Orleans,Hrabstwo Orleans,Okrug Orlins,Orleans,Orleans Comitatus,Orleans srjan,Orlins,Orliuns,Quan Orleans,Quận Orleans,ao er liang xian,oraliyensa ka'unti,Округ Орлинс,Орлеанс,Орлиънс,Орлінс,Օռլեանս շրջան,اورلینز کاؤنٹی,اورلینز کاؤنٹی، نیو یارک,مقاطعة أورلينز، نيويورك,ওরলিয়েন্স কাউন্টি,奧爾良縣</alternateNames>
+<elevation>75</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>073</adminCode2>
+<adminName2>Orleans County</adminName2>
+<alternateName lang="ar">مقاطعة أورلينز، نيويورك</alternateName>
+<alternateName lang="bg">Орлиънс</alternateName>
+<alternateName lang="bpy">ওরলিয়েন্স কাউন্টি</alternateName>
+<alternateName lang="es">Condado de Orleans</alternateName>
+<alternateName lang="fr">Comté d'Orleans</alternateName>
+<alternateName lang="hy">Օռլեանս շրջան</alternateName>
+<alternateName lang="it">Contea di Orleans</alternateName>
+<alternateName lang="la">Orleans Comitatus</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Orleans_County%2C_New_York</alternateName>
+<alternateName lang="pl">Hrabstwo Orleans</alternateName>
+<alternateName lang="pnb">اورلینز کاؤنٹی</alternateName>
+<alternateName lang="pt">Condado de Orleans</alternateName>
+<alternateName lang="ru">Орлеанс</alternateName>
+<alternateName lang="sr">Округ Орлинс</alternateName>
+<alternateName lang="uk">Орлінс</alternateName>
+<alternateName lang="ur">اورلینز کاؤنٹی، نیو یارک</alternateName>
+<alternateName lang="vi">Quận Orleans</alternateName>
+<alternateName lang="war">Condado han Orleans</alternateName>
+<alternateName lang="zh">奧爾良縣</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-78.46645</west>
+<north>43.37766</north>
+<east>-77.99586</east>
+<south>43.1301</south>
+</bbox>
+<score>28.024383544921875</score>
+</geoname>
+</geonames>

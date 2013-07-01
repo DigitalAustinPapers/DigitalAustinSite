@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>12</totalResultsCount>
+<geoname>
+<toponymName>Log Cabin</toponymName>
+<name>Log Cabin</name>
+<lat>32.22237</lat>
+<lng>-96.02191</lng>
+<geonameId>4707335</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>714</population>
+<alternateNames/>
+<elevation>113</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>213</adminCode2>
+<adminName2>Henderson County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Log_Cabin%2C_Texas</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-96.02298</west>
+<north>32.22327</north>
+<east>-96.02085</east>
+<south>32.22147</south>
+</bbox>
+<score>55.57586669921875</score>
+</geoname>
+<geoname>
+<toponymName>Log Cabin</toponymName>
+<name>Log Cabin</name>
+<lat>32.83291</lat>
+<lng>-91.87763</lng>
+<geonameId>4331564</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>36</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>067</adminCode2>
+<adminName2>Morehouse Parish</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-91.88833</west>
+<north>32.8419</north>
+<east>-91.86692</east>
+<south>32.82392</south>
+</bbox>
+<score>37.05057907104492</score>
+</geoname>
+<geoname>
+<toponymName>Log Cabin</toponymName>
+<name>Log Cabin</name>
+<lat>43.10092</lat>
+<lng>-71.13423</lng>
+<geonameId>5088903</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>79</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NH">NH</adminCode1>
+<adminName1>New Hampshire</adminName1>
+<adminCode2>015</adminCode2>
+<adminName2>Rockingham County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>37.05057907104492</score>
+</geoname>
+<geoname>
+<toponymName>Log Cabin</toponymName>
+<name>Log Cabin</name>
+<lat>59.76606</lat>
+<lng>-134.95365</lng>
+<geonameId>6058440</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="BC">02</adminCode1>
+<adminName1>British Columbia</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Vancouver</timezone>
+<score>37.05057907104492</score>
+</geoname>
+<geoname>
+<toponymName>Log Cabin</toponymName>
+<name>Log Cabin</name>
+<lat>30.70911</lat>
+<lng>-82.54846</lng>
+<geonameId>4206526</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>34</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">GA</adminCode1>
+<adminName1>Georgia</adminName1>
+<adminCode2>065</adminCode2>
+<adminName2>Clinch County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>11.578306198120117</score>
+</geoname>
+<geoname>
+<toponymName>Log Cabin</toponymName>
+<name>Log Cabin</name>
+<lat>39.44017</lat>
+<lng>-121.06773</lng>
+<geonameId>5367602</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>762</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>115</adminCode2>
+<adminName2>Yuba County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>11.578306198120117</score>
+</geoname>
+<geoname>
+<toponymName>Log Cabin</toponymName>
+<name>Log Cabin</name>
+<lat>32.86119</lat>
+<lng>-107.73392</lng>
+<geonameId>5476515</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>MN</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>mine(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>2099</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NM">NM</adminCode1>
+<adminName1>New Mexico</adminName1>
+<adminCode2>051</adminCode2>
+<adminName2>Sierra County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<score>11.578306198120117</score>
+</geoname>
+<geoname>
+<toponymName>Log Cabin</toponymName>
+<name>Log Cabin</name>
+<lat>40.7597</lat>
+<lng>-105.47194</lng>
+<geonameId>5579180</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>2360</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CO">CO</adminCode1>
+<adminName1>Colorado</adminName1>
+<adminCode2>069</adminCode2>
+<adminName2>Larimer County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<score>11.578306198120117</score>
+</geoname>
+<geoname>
+<toponymName>Log Cabin</toponymName>
+<name>Log Cabin</name>
+<lat>41.91351</lat>
+<lng>-118.33433</lng>
+<geonameId>5705841</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>1546</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NV">NV</adminCode1>
+<adminName1>Nevada</adminName1>
+<adminCode2>013</adminCode2>
+<adminName2>Humboldt County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>11.578306198120117</score>
+</geoname>
+<geoname>
+<toponymName>Log Cabin</toponymName>
+<name>Log Cabin</name>
+<lat>-45.24838</lat>
+<lng>167.65005</lng>
+<geonameId>6251753</geonameId>
+<countryCode>NZ</countryCode>
+<countryName>New Zealand</countryName>
+<fcl>S</fcl>
+<fcode>HUT</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>hut</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="STL">F8</adminCode1>
+<adminName1>Southland Region</adminName1>
+<adminCode2>073</adminCode2>
+<adminName2>Southland District</adminName2>
+<timezone dstOffset="12.0" gmtOffset="13.0">Pacific/Auckland</timezone>
+<score>11.578306198120117</score>
+</geoname>
+</geonames>

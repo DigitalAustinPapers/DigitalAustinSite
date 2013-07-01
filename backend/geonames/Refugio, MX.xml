@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>285</totalResultsCount>
+<geoname>
+<toponymName>El Refugio</toponymName>
+<name>El Refugio</name>
+<lat>26.1</lat>
+<lng>-100.25</lng>
+<geonameId>4008042</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>El Refugio,Rancho El Refugio,Refugio</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NLE">19</adminCode1>
+<adminName1>Nuevo León</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<bbox>
+<west>-100.26002</west>
+<north>26.10899</north>
+<east>-100.23998</east>
+<south>26.09101</south>
+</bbox>
+<score>15.376325607299805</score>
+</geoname>
+<geoname>
+<toponymName>El Refugio Mayor</toponymName>
+<name>El Refugio Mayor</name>
+<lat>23.55322</lat>
+<lng>-98.68288</lng>
+<geonameId>3528300</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>El Refugio,El Refugio Mayor,Refugio Mayor</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TAM">28</adminCode1>
+<adminName1>Tamaulipas</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<bbox>
+<west>-98.69269</west>
+<north>23.56221</north>
+<east>-98.67307</east>
+<south>23.54423</south>
+</bbox>
+<score>14.812410354614258</score>
+</geoname>
+<geoname>
+<toponymName>El Refugio</toponymName>
+<name>El Refugio</name>
+<lat>26.03333</lat>
+<lng>-98.05</lng>
+<geonameId>3528305</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>El Refugio,Refugio,San Pedro Retamal</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TAM">28</adminCode1>
+<adminName1>Tamaulipas</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<bbox>
+<west>-98.06001</west>
+<north>26.04233</north>
+<east>-98.03999</east>
+<south>26.02434</south>
+</bbox>
+<score>14.378532409667969</score>
+</geoname>
+<geoname>
+<toponymName>El Refugio</toponymName>
+<name>El Refugio</name>
+<lat>19.90596</lat>
+<lng>-99.12021</lng>
+<geonameId>3827547</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>El Refugio,El Tajo,Refugio</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MEX">15</adminCode1>
+<adminName1>México</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-99.12977</west>
+<north>19.91495</north>
+<east>-99.11064</east>
+<south>19.89696</south>
+</bbox>
+<score>13.814617156982422</score>
+</geoname>
+<geoname>
+<toponymName>Refugio Portilleño</toponymName>
+<name>Refugio Portilleño</name>
+<lat>25.85</lat>
+<lng>-97.66667</lng>
+<geonameId>3520394</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Refugio,Refugio Portilleno,Refugio Portilleño</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TAM">28</adminCode1>
+<adminName1>Tamaulipas</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Matamoros</timezone>
+<bbox>
+<west>-97.67666</west>
+<north>25.85899</north>
+<east>-97.65667</east>
+<south>25.84101</south>
+</bbox>
+<score>12.813605308532715</score>
+</geoname>
+<geoname>
+<toponymName>Del Refugio</toponymName>
+<name>Del Refugio</name>
+<lat>28.6</lat>
+<lng>-107.48333</lng>
+<geonameId>4012020</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Del Refugio,Rancho el Refugio,Refugio</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CHH">06</adminCode1>
+<adminName1>Chihuahua</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Chihuahua</timezone>
+<bbox>
+<west>-107.49358</west>
+<north>28.60899</north>
+<east>-107.47309</east>
+<south>28.59101</south>
+</bbox>
+<score>12.813605308532715</score>
+</geoname>
+<geoname>
+<toponymName>Norias del Refugio</toponymName>
+<name>Norias del Refugio</name>
+<lat>23.01334</lat>
+<lng>-100.47189</lng>
+<geonameId>3994749</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Noria del Refugio,Norias del Refugio,Refugio</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SLP">24</adminCode1>
+<adminName1>San Luis Potosí</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-100.48166</west>
+<north>23.02233</north>
+<east>-100.46212</east>
+<south>23.00435</south>
+</bbox>
+<score>12.343676567077637</score>
+</geoname>
+<geoname>
+<toponymName>El Refugio</toponymName>
+<name>El Refugio</name>
+<lat>27.55988</lat>
+<lng>-103.59212</lng>
+<geonameId>4008034</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>El Refugio,Rancho El Refugio,Refugio</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CHH">06</adminCode1>
+<adminName1>Chihuahua</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<bbox>
+<west>-103.60227</west>
+<north>27.56888</north>
+<east>-103.58198</east>
+<south>27.55089</south>
+</bbox>
+<score>12.343676567077637</score>
+</geoname>
+<geoname>
+<toponymName>El Refugio</toponymName>
+<name>El Refugio</name>
+<lat>26.83333</lat>
+<lng>-105.61667</lng>
+<geonameId>4008040</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>El Refugio,Rancho El Refugio,Refugio</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CHH">06</adminCode1>
+<adminName1>Chihuahua</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Chihuahua</timezone>
+<bbox>
+<west>-105.62675</west>
+<north>26.84233</north>
+<east>-105.60659</east>
+<south>26.82434</south>
+</bbox>
+<score>12.343676567077637</score>
+</geoname>
+<geoname>
+<toponymName>Refugio de Agua Zarca</toponymName>
+<name>Refugio de Agua Zarca</name>
+<lat>22.35955</lat>
+<lng>-102.27405</lng>
+<geonameId>4008069</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>El Refugio,Refugio,Refugio de Agua Zarca</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AGU">01</adminCode1>
+<adminName1>Aguascalientes</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-102.28377</west>
+<north>22.36855</north>
+<east>-102.26432</east>
+<south>22.35056</south>
+</bbox>
+<score>12.343676567077637</score>
+</geoname>
+</geonames>

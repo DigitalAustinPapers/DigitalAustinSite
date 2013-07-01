@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>33</totalResultsCount>
+<geoname>
+<toponymName>República</toponymName>
+<name>República</name>
+<lat>-7.43333</lat>
+<lng>-73.43333</lng>
+<geonameId>3662587</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Novo Recreio,Republica,República</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="AC">01</adminCode1>
+<adminName1>Acre</adminName1>
+<adminCode2>1200336</adminCode2>
+<adminName2>Mâncio Lima</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Rio_Branco</timezone>
+<bbox>
+<west>-73.4424</west>
+<north>-7.42434</north>
+<east>-73.42426</east>
+<south>-7.44233</south>
+</bbox>
+<score>37.75169372558594</score>
+</geoname>
+<geoname>
+<toponymName>República</toponymName>
+<name>República</name>
+<lat>-13.5</lat>
+<lng>-60.5</lng>
+<geonameId>3924841</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Barraca Republica,Republica,República</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="MT">14</adminCode1>
+<adminName1>Mato Grosso</adminName1>
+<adminCode2>5103304</adminCode2>
+<adminName2>Comodoro</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-3.0">America/Cuiaba</timezone>
+<bbox>
+<west>-60.50925</west>
+<north>-13.49101</north>
+<east>-60.49075</east>
+<south>-13.50899</south>
+</bbox>
+<score>37.75169372558594</score>
+</geoname>
+<geoname>
+<toponymName>República</toponymName>
+<name>República</name>
+<lat>-22.25</lat>
+<lng>-47.45</lng>
+<geonameId>3451671</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Republica,República</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="SP">27</adminCode1>
+<adminName1>São Paulo</adminName1>
+<adminCode2>3526704</adminCode2>
+<adminName2>Leme</adminName2>
+<alternateName lang="pt">República</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Sao_Paulo</timezone>
+<bbox>
+<west>-47.45972</west>
+<north>-22.24101</north>
+<east>-47.44028</east>
+<south>-22.25899</south>
+</bbox>
+<score>32.35859298706055</score>
+</geoname>
+<geoname>
+<toponymName>República</toponymName>
+<name>República</name>
+<lat>22.76667</lat>
+<lng>-80.38333</lng>
+<geonameId>3542374</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="05">16</adminCode1>
+<adminName1>Villa Clara</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<bbox>
+<west>-80.39309</west>
+<north>22.77566</north>
+<east>-80.37358</east>
+<south>22.75767</south>
+</bbox>
+<score>30.507972717285156</score>
+</geoname>
+<geoname>
+<toponymName>República</toponymName>
+<name>República</name>
+<lat>22.95</lat>
+<lng>-82.38333</lng>
+<geonameId>3542375</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1>MA</adminCode1>
+<adminName1>Provincia Mayabeque</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>30.507972717285156</score>
+</geoname>
+<geoname>
+<toponymName>República</toponymName>
+<name>República</name>
+<lat>22.78333</lat>
+<lng>-80.36667</lng>
+<geonameId>3542376</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="05">16</adminCode1>
+<adminName1>Villa Clara</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>30.507972717285156</score>
+</geoname>
+<geoname>
+<toponymName>República</toponymName>
+<name>República</name>
+<lat>22.76667</lat>
+<lng>-80.4</lng>
+<geonameId>3542377</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="05">16</adminCode1>
+<adminName1>Villa Clara</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>30.507972717285156</score>
+</geoname>
+<geoname>
+<toponymName>República</toponymName>
+<name>República</name>
+<lat>22.51667</lat>
+<lng>-80.08333</lng>
+<geonameId>3542378</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="05">16</adminCode1>
+<adminName1>Villa Clara</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>30.507972717285156</score>
+</geoname>
+<geoname>
+<toponymName>República</toponymName>
+<name>República</name>
+<lat>22.15</lat>
+<lng>-79.63333</lng>
+<geonameId>3542379</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="05">16</adminCode1>
+<adminName1>Villa Clara</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>30.507972717285156</score>
+</geoname>
+<geoname>
+<toponymName>República</toponymName>
+<name>República</name>
+<lat>21.95</lat>
+<lng>-79.21667</lng>
+<geonameId>3542380</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="07">14</adminCode1>
+<adminName1>Sancti Spíritus</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>30.507972717285156</score>
+</geoname>
+</geonames>

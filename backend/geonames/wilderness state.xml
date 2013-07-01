@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Wilderness Estate</toponymName>
+<name>Wilderness Estate</name>
+<lat>-18.74952</lat>
+<lng>32.38011</lng>
+<geonameId>880216</geonameId>
+<countryCode>ZW</countryCode>
+<countryName>Zimbabwe</countryName>
+<fcl>S</fcl>
+<fcode>FRM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farm</fcodeName>
+<population/>
+<alternateNames>The Wilderness,Wilderness Estate</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="MA">01</adminCode1>
+<adminName1>Manicaland</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Harare</timezone>
+<score>28.04482650756836</score>
+</geoname>
+<geoname>
+<toponymName>Wilderness Swamp</toponymName>
+<name>Wilderness Swamp</name>
+<lat>31.50919</lat>
+<lng>-88.07677</lng>
+<geonameId>4097730</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>SWMP</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>swamp</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>16</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AL">AL</adminCode1>
+<adminName1>Alabama</adminName1>
+<adminCode2>129</adminCode2>
+<adminName2>Washington County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>1.3010503053665161</score>
+</geoname>
+</geonames>

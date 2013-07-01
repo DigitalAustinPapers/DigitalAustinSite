@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>29</totalResultsCount>
+<geoname>
+<toponymName>Plattin</toponymName>
+<name>Plattin</name>
+<lat>38.13116</lat>
+<lng>-90.41151</lng>
+<geonameId>4403610</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>138</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>099</adminCode2>
+<adminName2>Jefferson County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.42295</west>
+<north>38.14016</north>
+<east>-90.40008</east>
+<south>38.12217</south>
+</bbox>
+<score>40.34595489501953</score>
+</geoname>
+<geoname>
+<toponymName>Platten</toponymName>
+<name>Platten</name>
+<lat>49.95</lat>
+<lng>6.96667</lng>
+<geonameId>2853350</geonameId>
+<countryCode>DE</countryCode>
+<countryName>Germany</countryName>
+<fcl>P</fcl>
+<fcode>PPLA4</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a fourth-order administrative division</fcodeName>
+<population>894</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="RP">08</adminCode1>
+<adminName1>Rheinland-Pfalz</adminName1>
+<adminCode2>00</adminCode2>
+<adminName2/>
+<adminCode3>07231</adminCode3>
+<adminName3>Landkreis Bernkastel-Wittlich</adminName3>
+<adminCode4>07231107</adminCode4>
+<adminName4>Platten</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Platten%2C_Germany</alternateName>
+<alternateName lang="unlc">TTP</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Berlin</timezone>
+<bbox>
+<west>6.96527</west>
+<north>49.9509</north>
+<east>6.96806</east>
+<south>49.9491</south>
+</bbox>
+<score>10.28009033203125</score>
+</geoname>
+<geoname>
+<toponymName>Platten</toponymName>
+<name>Platten</name>
+<lat>49.95</lat>
+<lng>6.96667</lng>
+<geonameId>6554366</geonameId>
+<countryCode>DE</countryCode>
+<countryName>Germany</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population>898</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="RP">08</adminCode1>
+<adminName1>Rheinland-Pfalz</adminName1>
+<adminCode2>00</adminCode2>
+<adminName2/>
+<adminCode3>07231</adminCode3>
+<adminName3>Landkreis Bernkastel-Wittlich</adminName3>
+<adminCode4>07231107</adminCode4>
+<adminName4>Platten</adminName4>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Berlin</timezone>
+<score>10.28009033203125</score>
+</geoname>
+<geoname>
+<toponymName>Plaştin</toponymName>
+<name>Plaştin</name>
+<lat>45.6</lat>
+<lng>22.75</lng>
+<geonameId>670554</geonameId>
+<countryCode>RO</countryCode>
+<countryName>Romania</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames>Plastin,Plaştin,Plostina</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="3.0" gmtOffset="2.0">Europe/Bucharest</timezone>
+<bbox>
+<west>22.74486</west>
+<north>45.6036</north>
+<east>22.75514</east>
+<south>45.5964</south>
+</bbox>
+<score>9.687033653259277</score>
+</geoname>
+<geoname>
+<toponymName>Blatno</toponymName>
+<name>Blatno</name>
+<lat>50.51169</lat>
+<lng>13.35806</lng>
+<geonameId>3079241</geonameId>
+<countryCode>CZ</countryCode>
+<countryName>Czechia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>342</population>
+<alternateNames>Platten</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="US">89</adminCode1>
+<adminName1>Ústecký</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Blatno_%28Chomutov_District%29</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Prague</timezone>
+<bbox>
+<west>13.35664</west>
+<north>50.51259</north>
+<east>13.35947</east>
+<south>50.51079</south>
+</bbox>
+<score>8.722946166992188</score>
+</geoname>
+<geoname>
+<toponymName>Platten</toponymName>
+<name>Platten</name>
+<lat>65.76667</lat>
+<lng>22.46667</lng>
+<geonameId>451572</geonameId>
+<countryCode>SE</countryCode>
+<countryName>Sweden</countryName>
+<fcl>T</fcl>
+<fcode>RK</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>rock</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="BD">14</adminCode1>
+<adminName1>Norrbotten</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Stockholm</timezone>
+<score>8.224072456359863</score>
+</geoname>
+<geoname>
+<toponymName>Platten</toponymName>
+<name>Platten</name>
+<lat>48.43333</lat>
+<lng>16.03333</lng>
+<geonameId>2599150</geonameId>
+<countryCode>AT</countryCode>
+<countryName>Austria</countryName>
+<fcl>L</fcl>
+<fcode>FLD</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>field(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="3">03</adminCode1>
+<adminName1>Lower Austria</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Vienna</timezone>
+<score>8.224072456359863</score>
+</geoname>
+<geoname>
+<toponymName>Platten</toponymName>
+<name>Platten</name>
+<lat>47.63333</lat>
+<lng>13.78333</lng>
+<geonameId>2605035</geonameId>
+<countryCode>AT</countryCode>
+<countryName>Austria</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="6">06</adminCode1>
+<adminName1>Styria</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Vienna</timezone>
+<bbox>
+<west>13.76998</west>
+<north>47.64233</north>
+<east>13.79668</east>
+<south>47.62434</south>
+</bbox>
+<score>8.224072456359863</score>
+</geoname>
+<geoname>
+<toponymName>Platten</toponymName>
+<name>Platten</name>
+<lat>47.9</lat>
+<lng>14.63333</lng>
+<geonameId>2768695</geonameId>
+<countryCode>AT</countryCode>
+<countryName>Austria</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="4">04</adminCode1>
+<adminName1>Upper Austria</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Vienna</timezone>
+<bbox>
+<west>14.61992</west>
+<north>47.90899</north>
+<east>14.64675</east>
+<south>47.89101</south>
+</bbox>
+<score>8.224072456359863</score>
+</geoname>
+<geoname>
+<toponymName>Platten</toponymName>
+<name>Platten</name>
+<lat>47.3</lat>
+<lng>11.13333</lng>
+<geonameId>2768696</geonameId>
+<countryCode>AT</countryCode>
+<countryName>Austria</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="7">07</adminCode1>
+<adminName1>Tyrol</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Vienna</timezone>
+<bbox>
+<west>11.12007</west>
+<north>47.30899</north>
+<east>11.1466</east>
+<south>47.29101</south>
+</bbox>
+<score>8.224072456359863</score>
+</geoname>
+</geonames>

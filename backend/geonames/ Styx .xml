@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Styx</toponymName>
+<name>Styx</name>
+<lat>-22.58333</lat>
+<lng>149.63333</lng>
+<geonameId>2148015</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="QLD">04</adminCode1>
+<adminName1>Queensland</adminName1>
+<adminCode2>33980</adminCode2>
+<adminName2>Isaac</adminName2>
+<timezone dstOffset="10.0" gmtOffset="10.0">Australia/Brisbane</timezone>
+<bbox>
+<west>149.62359</west>
+<north>-22.57434</north>
+<east>149.64307</east>
+<south>-22.59233</south>
+</bbox>
+<score>43.39418029785156</score>
+</geoname>
+<geoname>
+<toponymName>Styx</toponymName>
+<name>Styx</name>
+<lat>32.3632</lat>
+<lng>-96.32804</lng>
+<geonameId>4734797</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>114</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>257</adminCode2>
+<adminName2>Kaufman County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-96.33868</west>
+<north>32.37219</north>
+<east>-96.31739</east>
+<south>32.35421</south>
+</bbox>
+<score>43.39418029785156</score>
+</geoname>
+<geoname>
+<toponymName>Styx</toponymName>
+<name>Styx</name>
+<lat>33.87807</lat>
+<lng>-114.79524</lng>
+<geonameId>5399464</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>315</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>065</adminCode2>
+<adminName2>Riverside County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-114.80608</west>
+<north>33.88707</north>
+<east>-114.78441</east>
+<south>33.86908</south>
+</bbox>
+<score>43.39418029785156</score>
+</geoname>
+<geoname>
+<toponymName>Styx</toponymName>
+<name>Styx</name>
+<lat>-46.46667</lat>
+<lng>51.78333</lng>
+<geonameId>936213</geonameId>
+<countryCode>TF</countryCode>
+<countryName>French Southern Territories</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>Le Styx,Styx</alternateNames>
+<elevation/>
+<continentCode>AN</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="5.0" gmtOffset="5.0">Indian/Kerguelen</timezone>
+<score>26.57339859008789</score>
+</geoname>
+</geonames>

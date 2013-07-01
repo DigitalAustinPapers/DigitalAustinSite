@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>6</totalResultsCount>
+<geoname>
+<toponymName>Elisium</toponymName>
+<name>Elisium</name>
+<lat>48.73353</lat>
+<lng>12.63845</lng>
+<geonameId>2931130</geonameId>
+<countryCode>DE</countryCode>
+<countryName>Germany</countryName>
+<fcl>S</fcl>
+<fcode>FRM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farm</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="BY">02</adminCode1>
+<adminName1>Bavaria</adminName1>
+<adminCode2>092</adminCode2>
+<adminName2>Lower Bavaria</adminName2>
+<adminCode3>09279</adminCode3>
+<adminName3>Landkreis Dingolfing-Landau</adminName3>
+<adminCode4>09279132</adminCode4>
+<adminName4>Pilsting, Markt</adminName4>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Berlin</timezone>
+<score>13.886245727539062</score>
+</geoname>
+<geoname>
+<toponymName>Elysium</toponymName>
+<name>Elysium</name>
+<lat>18.4</lat>
+<lng>-77.91667</lng>
+<geonameId>3490574</geonameId>
+<countryCode>JM</countryCode>
+<countryName>Jamaica</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="08">12</adminCode1>
+<adminName1>Saint James</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Jamaica</timezone>
+<bbox>
+<west>-77.92615</west>
+<north>18.40899</north>
+<east>-77.90719</east>
+<south>18.39101</south>
+</bbox>
+<score>11.03818416595459</score>
+</geoname>
+<geoname>
+<toponymName>Elysium</toponymName>
+<name>Elysium</name>
+<lat>30.16688</lat>
+<lng>-97.51528</lng>
+<geonameId>4689144</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>135</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>021</adminCode2>
+<adminName2>Bastrop County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-97.52568</west>
+<north>30.17587</north>
+<east>-97.50487</east>
+<south>30.15789</south>
+</bbox>
+<score>11.03818416595459</score>
+</geoname>
+<geoname>
+<toponymName>Elysium</toponymName>
+<name>Elysium</name>
+<lat>-30.46667</lat>
+<lng>30.63333</lng>
+<geonameId>1005692</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>S</fcl>
+<fcode>RSD</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>railroad siding</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="ZN">02</adminCode1>
+<adminName1>KwaZulu-Natal</adminName1>
+<adminCode2>DC21</adminCode2>
+<adminName2>Ugu District Municipality</adminName2>
+<adminCode3>KZN212</adminCode3>
+<adminName3>Umdoni</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<score>3.449432611465454</score>
+</geoname>
+<geoname>
+<toponymName>Elysium</toponymName>
+<name>Elysium</name>
+<lat>-24.01901</lat>
+<lng>27.29527</lng>
+<geonameId>1005693</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>S</fcl>
+<fcode>FRMT</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farmstead</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="LP">09</adminCode1>
+<adminName1>Limpopo</adminName1>
+<adminCode2>DC36</adminCode2>
+<adminName2>Waterberg District Municipality</adminName2>
+<adminCode3>LIM362</adminCode3>
+<adminName3>Lephalale</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<score>3.449432611465454</score>
+</geoname>
+<geoname>
+<toponymName>Elysium</toponymName>
+<name>Elysium</name>
+<lat>-23.99547</lat>
+<lng>27.32131</lng>
+<geonameId>1005694</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>S</fcl>
+<fcode>FRM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farm</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="LP">09</adminCode1>
+<adminName1>Limpopo</adminName1>
+<adminCode2>DC36</adminCode2>
+<adminName2>Waterberg District Municipality</adminName2>
+<adminCode3>LIM362</adminCode3>
+<adminName3>Lephalale</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<score>3.449432611465454</score>
+</geoname>
+</geonames>

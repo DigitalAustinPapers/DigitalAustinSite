@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Sainte Genevieve</toponymName>
+<name>St. Genevieve</name>
+<lat>37.98144</lat>
+<lng>-90.04178</lng>
+<geonameId>4407294</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>4410</population>
+<alternateNames>St. Genevieve</alternateNames>
+<elevation>117</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>186</adminCode2>
+<adminName2>Sainte Genevieve County</adminName2>
+<alternateName lang="en">St. Genevieve</alternateName>
+<alternateName lang="post">63670</alternateName>
+<alternateName lang="unlc">TGN</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.05166</west>
+<north>37.98923</north>
+<east>-90.0319</east>
+<south>37.97365</south>
+</bbox>
+<score>32.51691818237305</score>
+</geoname>
+</geonames>

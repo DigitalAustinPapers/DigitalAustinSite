@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>18</totalResultsCount>
+<geoname>
+<toponymName>Littlerock Lake</toponymName>
+<name>Littlerock Lake</name>
+<lat>48.14978</lat>
+<lng>-91.20022</lng>
+<geonameId>6057189</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>H</fcl>
+<fcode>LK</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>lake</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ON">08</adminCode1>
+<adminName1>Ontario</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Atikokan</timezone>
+<score>17.7755184173584</score>
+</geoname>
+<geoname>
+<toponymName>Littlerock</toponymName>
+<name>Littlerock</name>
+<lat>34.5211</lat>
+<lng>-117.98368</lng>
+<geonameId>5367308</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1377</population>
+<alternateNames/>
+<elevation>881</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>037</adminCode2>
+<adminName2>Los Angeles County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Littlerock%2C_California</alternateName>
+<alternateName lang="post">93543</alternateName>
+<alternateName lang="unlc">YLR</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-117.98914</west>
+<north>34.5256</north>
+<east>-117.97822</east>
+<south>34.51661</south>
+</bbox>
+<score>14.220414161682129</score>
+</geoname>
+<geoname>
+<toponymName>Littlerock</toponymName>
+<name>Littlerock</name>
+<lat>46.90177</lat>
+<lng>-123.01792</lng>
+<geonameId>5801396</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>44</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WA">WA</adminCode1>
+<adminName1>Washington</adminName1>
+<adminCode2>067</adminCode2>
+<adminName2>Thurston County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Littlerock%2C_Washington</alternateName>
+<alternateName lang="post">98556</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-123.03108</west>
+<north>46.91076</north>
+<east>-123.00475</east>
+<south>46.89277</south>
+</bbox>
+<score>14.220414161682129</score>
+</geoname>
+<geoname>
+<toponymName>Littlerock High School</toponymName>
+<name>Littlerock High School</name>
+<lat>34.57383</lat>
+<lng>-117.93876</lng>
+<geonameId>5367325</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>SCH</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>school</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>823</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>037</adminCode2>
+<adminName2>Los Angeles County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Littlerock_High_School</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>7.1102070808410645</score>
+</geoname>
+<geoname>
+<toponymName>Littlerock Creek</toponymName>
+<name>Littlerock Creek</name>
+<lat>44.89884</lat>
+<lng>-109.18709</lng>
+<geonameId>5830844</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1313</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WY">WY</adminCode1>
+<adminName1>Wyoming</adminName1>
+<adminCode2>029</adminCode2>
+<adminName2>Park County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<score>3.110715627670288</score>
+</geoname>
+<geoname>
+<toponymName>Littlebrook Air Park Airport</toponymName>
+<name>Littlebrook Air Park Airport</name>
+<lat>43.14267</lat>
+<lng>-70.76986</lng>
+<geonameId>4970189</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>AIRP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>airport</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>32</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ME">ME</adminCode1>
+<adminName1>Maine</adminName1>
+<adminCode2>031</adminCode2>
+<adminName2>York County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>2.7324907779693604</score>
+</geoname>
+<geoname>
+<toponymName>Littlerock Creek</toponymName>
+<name>Littlerock Creek</name>
+<lat>49.13313</lat>
+<lng>-117.80224</lng>
+<geonameId>6057185</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="BC">02</adminCode1>
+<adminName1>British Columbia</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Vancouver</timezone>
+<score>2.2219398021698</score>
+</geoname>
+<geoname>
+<toponymName>Jehovah's Witnesses of Littlerock</toponymName>
+<name>Jehovah's Witnesses of Littlerock</name>
+<lat>34.55833</lat>
+<lng>-117.94056</lng>
+<geonameId>6334328</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>CH</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>church</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>835</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>037</adminCode2>
+<adminName2>Los Angeles County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>1.987363338470459</score>
+</geoname>
+<geoname>
+<toponymName>Littlerock Branch County of Los Angeles Public Library</toponymName>
+<name>Littlerock Branch County of Los Angeles Public Library</name>
+<lat>34.52138</lat>
+<lng>-117.98396</lng>
+<geonameId>5367309</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>LIBR</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>library</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>881</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>037</adminCode2>
+<adminName2>Los Angeles County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>1.7775517702102661</score>
+</geoname>
+<geoname>
+<toponymName>Littlerock Post Office</toponymName>
+<name>Littlerock Post Office</name>
+<lat>34.52138</lat>
+<lng>-117.99174</lng>
+<geonameId>5367311</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>PO</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>post office</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>887</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>037</adminCode2>
+<adminName2>Los Angeles County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>1.7775517702102661</score>
+</geoname>
+</geonames>

@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>14</totalResultsCount>
+<geoname>
+<toponymName>Brown County</toponymName>
+<name>Brown County</name>
+<lat>38.93405</lat>
+<lng>-83.86743</lng>
+<geonameId>4507215</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>44846</population>
+<alternateNames>Comte de Brown,Comté de Brown</alternateNames>
+<elevation>291</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>015</adminCode2>
+<adminName2>Brown County</adminName2>
+<alternateName lang="fr">Comté de Brown</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brown_County%2C_Ohio</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-84.05282</west>
+<north>39.25424</north>
+<east>-83.67313</east>
+<south>38.63872</south>
+</bbox>
+<score>69.9259033203125</score>
+</geoname>
+<geoname>
+<toponymName>Brown County</toponymName>
+<name>Brown County</name>
+<lat>31.77426</lat>
+<lng>-98.99979</lng>
+<geonameId>4676632</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>38106</population>
+<alternateNames>Comte de Brown,Comté de Brown</alternateNames>
+<elevation>417</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>049</adminCode2>
+<adminName2>Brown County</adminName2>
+<alternateName lang="fr">Comté de Brown</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brown_County%2C_Texas</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-99.20506</west>
+<north>32.08384</north>
+<east>-98.67102</east>
+<south>31.44903</south>
+</bbox>
+<score>69.9259033203125</score>
+</geoname>
+<geoname>
+<toponymName>Brown County</toponymName>
+<name>Brown County</name>
+<lat>42.43002</lat>
+<lng>-99.92951</lng>
+<geonameId>5064663</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>3145</population>
+<alternateNames>Comte de Brown,Comté de Brown</alternateNames>
+<elevation>830</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NE">NE</adminCode1>
+<adminName1>Nebraska</adminName1>
+<adminCode2>017</adminCode2>
+<adminName2>Brown County</adminName2>
+<alternateName lang="fr">Comté de Brown</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brown_County%2C_Nebraska</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-100.19855</west>
+<north>42.84605</north>
+<east>-99.66283</east>
+<south>42.08517</south>
+</bbox>
+<score>69.9259033203125</score>
+</geoname>
+<geoname>
+<toponymName>Brown County</toponymName>
+<name>Brown County</name>
+<lat>45.58972</lat>
+<lng>-98.35161</lng>
+<geonameId>5226553</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>36531</population>
+<alternateNames>Comte de Brown,Comté de Brown</alternateNames>
+<elevation>397</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SD">SD</adminCode1>
+<adminName1>South Dakota</adminName1>
+<adminCode2>013</adminCode2>
+<adminName2>Brown County</adminName2>
+<alternateName lang="fr">Comté de Brown</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brown_County%2C_South_Dakota</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-98.73001</west>
+<north>45.93725</north>
+<east>-97.97746</east>
+<south>45.24086</south>
+</bbox>
+<score>69.9259033203125</score>
+</geoname>
+<geoname>
+<toponymName>Brown County</toponymName>
+<name>Brown County</name>
+<lat>44.47433</lat>
+<lng>-87.99287</lng>
+<geonameId>5246898</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>248007</population>
+<alternateNames>Comte de Brown,Comté de Brown</alternateNames>
+<elevation>180</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WI">WI</adminCode1>
+<adminName1>Wisconsin</adminName1>
+<adminCode2>009</adminCode2>
+<adminName2>Brown County</adminName2>
+<alternateName lang="fr">Comté de Brown</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brown_County%2C_Wisconsin</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-88.25283</west>
+<north>44.6846</north>
+<east>-87.76277</east>
+<south>44.24015</south>
+</bbox>
+<score>69.9259033203125</score>
+</geoname>
+<geoname>
+<toponymName>Brown County</toponymName>
+<name>Brown County</name>
+<lat>39.19621</lat>
+<lng>-86.22737</lng>
+<geonameId>4255024</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>15242</population>
+<alternateNames>Braun,Braun srjan,Comitatul Brown,Comte de Brown,Comté de Brown,Condado de Brown,Condado han Brown,Contea di Brown,Hrabstwo Brown,Quan Brown,Quận Brown,bra'una ka'unti,bu lang xian,buraun jun,Браун,Բրաուն շրջան,ব্রাউন কাউন্টি,ブラウン郡,布朗縣</alternateNames>
+<elevation>196</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IN">IN</adminCode1>
+<adminName1>Indiana</adminName1>
+<adminCode2>013</adminCode2>
+<adminName2>Brown County</adminName2>
+<alternateName lang="bg">Браун</alternateName>
+<alternateName lang="bpy">ব্রাউন কাউন্টি</alternateName>
+<alternateName lang="es">Condado de Brown</alternateName>
+<alternateName lang="fr">Comté de Brown</alternateName>
+<alternateName lang="hy">Բրաուն շրջան</alternateName>
+<alternateName lang="it">Contea di Brown</alternateName>
+<alternateName lang="ja">ブラウン郡</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brown_County%2C_Indiana</alternateName>
+<alternateName lang="pl">Hrabstwo Brown</alternateName>
+<alternateName lang="pt">Condado de Brown</alternateName>
+<alternateName lang="ro">Comitatul Brown</alternateName>
+<alternateName lang="uk">Браун</alternateName>
+<alternateName lang="vi">Quận Brown</alternateName>
+<alternateName lang="war">Condado han Brown</alternateName>
+<alternateName lang="zh">布朗縣</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Indiana/Indianapolis</timezone>
+<bbox>
+<west>-86.38162</west>
+<north>39.34526</north>
+<east>-86.08053</east>
+<south>39.04694</south>
+</bbox>
+<score>29.968242645263672</score>
+</geoname>
+<geoname>
+<toponymName>Brown County</toponymName>
+<name>Brown County</name>
+<lat>39.8265</lat>
+<lng>-95.56422</lng>
+<geonameId>4268687</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>9984</population>
+<alternateNames>Braun,Braun srjan,Brown Comitatus,Comte de Brown,Comté de Brown,Condado de Brown,Condado han Brown,Contea di Brown,Hrabstwo Brown,Okrug Braun,Quan Brown,Quận Brown,bra'una ka'unti,bu lang xian,buraun jun,Браун,Округ Браун,Բրաուն շրջան,مقاطعة براون، كانزاس,ব্রাউন কাউন্টি,ブラウン郡,布朗縣</alternateNames>
+<elevation>346</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KS">KS</adminCode1>
+<adminName1>Kansas</adminName1>
+<adminCode2>013</adminCode2>
+<adminName2>Brown County</adminName2>
+<alternateName lang="ar">مقاطعة براون، كانزاس</alternateName>
+<alternateName lang="bg">Браун</alternateName>
+<alternateName lang="bpy">ব্রাউন কাউন্টি</alternateName>
+<alternateName lang="es">Condado de Brown</alternateName>
+<alternateName lang="fr">Comté de Brown</alternateName>
+<alternateName lang="hy">Բրաուն շրջան</alternateName>
+<alternateName lang="it">Contea di Brown</alternateName>
+<alternateName lang="ja">ブラウン郡</alternateName>
+<alternateName lang="la">Brown Comitatus</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brown_County%2C_Kansas</alternateName>
+<alternateName lang="pl">Hrabstwo Brown</alternateName>
+<alternateName lang="pt">Condado de Brown</alternateName>
+<alternateName lang="sr">Округ Браун</alternateName>
+<alternateName lang="uk">Браун</alternateName>
+<alternateName lang="vi">Quận Brown</alternateName>
+<alternateName lang="war">Condado han Brown</alternateName>
+<alternateName lang="zh">布朗縣</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-95.78823</west>
+<north>40.00159</north>
+<east>-95.33968</east>
+<south>39.65181</south>
+</bbox>
+<score>29.968242645263672</score>
+</geoname>
+<geoname>
+<toponymName>Brown County</toponymName>
+<name>Brown County</name>
+<lat>44.24217</lat>
+<lng>-94.72748</lng>
+<geonameId>5019385</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>25893</population>
+<alternateNames>Braun,Brown Comitatus,Brownin piirikunta,Comte de Brown,Comté de Brown,Condado de Brown,Condado han Brown,Contea di Brown,Hrabstwo Brown,Quan Brown,Quận Brown,bra'una ka'unti,bu lang xian,buraun jun,Браун,براؤن کاؤنٹی، منسسوٹا,مقاطعة براون، مينيسوتا,ব্রাউন কাউন্টি,ブラウン郡,布朗縣</alternateNames>
+<elevation>302</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MN">MN</adminCode1>
+<adminName1>Minnesota</adminName1>
+<adminCode2>015</adminCode2>
+<adminName2>Brown County</adminName2>
+<alternateName lang="ar">مقاطعة براون، مينيسوتا</alternateName>
+<alternateName lang="bg">Браун</alternateName>
+<alternateName lang="bpy">ব্রাউন কাউন্টি</alternateName>
+<alternateName lang="es">Condado de Brown</alternateName>
+<alternateName lang="fi">Brownin piirikunta</alternateName>
+<alternateName lang="fr">Comté de Brown</alternateName>
+<alternateName lang="it">Contea di Brown</alternateName>
+<alternateName lang="ja">ブラウン郡</alternateName>
+<alternateName lang="la">Brown Comitatus</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brown_County%2C_Minnesota</alternateName>
+<alternateName lang="pl">Hrabstwo Brown</alternateName>
+<alternateName lang="pnb">براؤن کاؤنٹی، منسسوٹا</alternateName>
+<alternateName lang="pt">Condado de Brown</alternateName>
+<alternateName lang="ru">Браун</alternateName>
+<alternateName lang="uk">Браун</alternateName>
+<alternateName lang="vi">Quận Brown</alternateName>
+<alternateName lang="war">Condado han Brown</alternateName>
+<alternateName lang="zh">布朗縣</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-95.1062</west>
+<north>44.49771</north>
+<east>-94.36724</east>
+<south>44.10888</south>
+</bbox>
+<score>29.968242645263672</score>
+</geoname>
+<geoname>
+<toponymName>Brown County</toponymName>
+<name>Brown County</name>
+<lat>39.96181</lat>
+<lng>-90.75034</lng>
+<geonameId>4234528</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>6937</population>
+<alternateNames>Braun,Braun srjan,Brown Comitatus,Comitatul Brown,Comte de Brown,Comté de Brown,Condado de Brown,Condado han Brown,Contea di Brown,Hrabstwo Brown,Quan Brown,Quận Brown,bra'una ka'unti,bu lang xian,buraun jun,Браун,Բրաուն շրջան,براؤن کاؤنٹی,مقاطعة براون، إلينوي,ব্রাউন কাউন্টি,ブラウン郡,布朗縣</alternateNames>
+<elevation>215</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>009</adminCode2>
+<adminName2>Brown County</adminName2>
+<alternateName lang="ar">مقاطعة براون، إلينوي</alternateName>
+<alternateName lang="bg">Браун</alternateName>
+<alternateName lang="bpy">ব্রাউন কাউন্টি</alternateName>
+<alternateName lang="es">Condado de Brown</alternateName>
+<alternateName lang="fr">Comté de Brown</alternateName>
+<alternateName lang="hy">Բրաուն շրջան</alternateName>
+<alternateName lang="it">Contea di Brown</alternateName>
+<alternateName lang="ja">ブラウン郡</alternateName>
+<alternateName lang="la">Brown Comitatus</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brown_County%2C_Illinois</alternateName>
+<alternateName lang="pl">Hrabstwo Brown</alternateName>
+<alternateName lang="pnb">براؤن کاؤنٹی</alternateName>
+<alternateName lang="pt">Condado de Brown</alternateName>
+<alternateName lang="ro">Comitatul Brown</alternateName>
+<alternateName lang="ru">Браун</alternateName>
+<alternateName lang="uk">Браун</alternateName>
+<alternateName lang="vi">Quận Brown</alternateName>
+<alternateName lang="war">Condado han Brown</alternateName>
+<alternateName lang="zh">布朗縣</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.91611</west>
+<north>40.10618</north>
+<east>-90.51245</east>
+<south>39.83895</south>
+</bbox>
+<score>24.973535537719727</score>
+</geoname>
+<geoname>
+<toponymName>Borough of Bronx</toponymName>
+<name>Bronx</name>
+<lat>40.84985</lat>
+<lng>-73.86641</lng>
+<geonameId>5110266</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>1385108</population>
+<alternateNames>Bronx,Bronx County,The Bronx</alternateNames>
+<elevation>23</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>005</adminCode2>
+<adminName2>Bronx County</adminName2>
+<alternateName lang="en">Bronx</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/The_Bronx</alternateName>
+<alternateName lang="unlc">BRX</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-74.06882</west>
+<north>41.00261</north>
+<east>-73.66399</east>
+<south>40.69709</south>
+</bbox>
+<score>19.302204132080078</score>
+</geoname>
+</geonames>

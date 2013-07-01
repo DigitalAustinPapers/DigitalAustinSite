@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Arkansaw</toponymName>
+<name>Arkansaw</name>
+<lat>44.63385</lat>
+<lng>-92.03128</lng>
+<geonameId>5244143</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>177</population>
+<alternateNames/>
+<elevation>228</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WI">WI</adminCode1>
+<adminName1>Wisconsin</adminName1>
+<adminCode2>091</adminCode2>
+<adminName2>Pepin County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Arkansaw%2C_Wisconsin</alternateName>
+<alternateName lang="post">54721</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.03255</west>
+<north>44.63475</north>
+<east>-92.03002</east>
+<south>44.63296</south>
+</bbox>
+<score>68.978759765625</score>
+</geoname>
+</geonames>

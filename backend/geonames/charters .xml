@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>9</totalResultsCount>
+<geoname>
+<toponymName>Charters</toponymName>
+<name>Charters</name>
+<lat>38.57369</lat>
+<lng>-83.43324</lng>
+<geonameId>4287570</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>178</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>135</adminCode2>
+<adminName2>Lewis County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-83.44475</west>
+<north>38.58268</north>
+<east>-83.42174</east>
+<south>38.56469</south>
+</bbox>
+<score>36.273956298828125</score>
+</geoname>
+<geoname>
+<toponymName>Charters</toponymName>
+<name>Charters</name>
+<lat>47.55016</lat>
+<lng>-80.71646</lng>
+<geonameId>5920339</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ON">08</adminCode1>
+<adminName1>Ontario</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Toronto</timezone>
+<score>36.273956298828125</score>
+</geoname>
+<geoname>
+<toponymName>Charters</toponymName>
+<name>Charters</name>
+<lat>6.13839</lat>
+<lng>-58.26333</lng>
+<geonameId>3379138</geonameId>
+<countryCode>GY</countryCode>
+<countryName>Guyana</countryName>
+<fcl>S</fcl>
+<fcode>EST</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>estate(s)</fcodeName>
+<population/>
+<alternateNames>Charters,Lot 46,Suyd Beveland</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="ES">14</adminCode1>
+<adminName1>Essequibo Islands-West Demerara</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Guyana</timezone>
+<score>27.766464233398438</score>
+</geoname>
+<geoname>
+<toponymName>Charteris</toponymName>
+<name>Charteris</name>
+<lat>45.68341</lat>
+<lng>-76.4494</lng>
+<geonameId>5920338</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="QC">10</adminCode1>
+<adminName1>Quebec</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Montreal</timezone>
+<score>14.841209411621094</score>
+</geoname>
+<geoname>
+<toponymName>Chartiers</toponymName>
+<name>Chartiers</name>
+<lat>39.95813</lat>
+<lng>-80.05089</lng>
+<geonameId>4557121</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>305</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PA">PA</adminCode1>
+<adminName1>Pennsylvania</adminName1>
+<adminCode2>059</adminCode2>
+<adminName2>Greene County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-80.06262</west>
+<north>39.96712</north>
+<east>-80.03915</east>
+<south>39.94914</south>
+</bbox>
+<score>14.110197067260742</score>
+</geoname>
+<geoname>
+<toponymName>Chartes</toponymName>
+<name>Chartes</name>
+<lat>18.63333</lat>
+<lng>-74.28333</lng>
+<geonameId>3727848</geonameId>
+<countryCode>HT</countryCode>
+<countryName>Haiti</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">14</adminCode1>
+<adminName1>GrandʼAnse</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Port-au-Prince</timezone>
+<bbox>
+<west>-74.29282</west>
+<north>18.64233</north>
+<east>-74.27384</east>
+<south>18.62434</south>
+</bbox>
+<score>11.307588577270508</score>
+</geoname>
+<geoname>
+<toponymName>Chartiers</toponymName>
+<name>Chartiers</name>
+<lat>40.46062</lat>
+<lng>-80.07644</lng>
+<geonameId>5183910</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>236</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PA">PA</adminCode1>
+<adminName1>Pennsylvania</adminName1>
+<adminCode2>003</adminCode2>
+<adminName2>Allegheny County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-80.08117</west>
+<north>40.46422</north>
+<east>-80.07172</east>
+<south>40.45703</south>
+</bbox>
+<score>8.818873405456543</score>
+</geoname>
+<geoname>
+<toponymName>Charter</toponymName>
+<name>Charter</name>
+<lat>-20.54136</lat>
+<lng>29.25532</lng>
+<geonameId>7506558</geonameId>
+<countryCode>ZW</countryCode>
+<countryName>Zimbabwe</countryName>
+<fcl>S</fcl>
+<fcode>MN</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>mine(s)</fcodeName>
+<population/>
+<alternateNames>Charter</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="MS">07</adminCode1>
+<adminName1>Matabeleland South</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Charter</alternateName>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Harare</timezone>
+<score>3.291693925857544</score>
+</geoname>
+<geoname>
+<toponymName>Charter</toponymName>
+<name>Charter</name>
+<lat>-20.54004</lat>
+<lng>29.09462</lng>
+<geonameId>7506564</geonameId>
+<countryCode>ZW</countryCode>
+<countryName>Zimbabwe</countryName>
+<fcl>S</fcl>
+<fcode>FRM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farm</fcodeName>
+<population/>
+<alternateNames>Charter</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="MS">07</adminCode1>
+<adminName1>Matabeleland South</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Charter</alternateName>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Harare</timezone>
+<score>3.291693925857544</score>
+</geoname>
+</geonames>

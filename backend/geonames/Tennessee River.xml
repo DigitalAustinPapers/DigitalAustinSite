@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Tennessee River</toponymName>
+<name>Tennessee River</name>
+<lat>37.06728</lat>
+<lng>-88.56477</lng>
+<geonameId>4310681</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>92</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>139</adminCode2>
+<adminName2>Livingston County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Tennessee_River</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>45.98583984375</score>
+</geoname>
+</geonames>

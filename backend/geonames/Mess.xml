@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Maisse</toponymName>
+<name>Maisse</name>
+<lat>48.39524</lat>
+<lng>2.37902</lng>
+<geonameId>2996559</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2776</population>
+<alternateNames>Maisse,Mess,mai si,Месс,迈斯</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="J">A8</adminCode1>
+<adminName1>Île-de-France</adminName1>
+<adminCode2>91</adminCode2>
+<adminName2>Essonne</adminName2>
+<adminCode3>912</adminCode3>
+<adminName3>Arrondissement d'Évry</adminName3>
+<adminCode4>91359</adminCode4>
+<adminName4>Maisse</adminName4>
+<alternateName lang="kk">Месс</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Maisse</alternateName>
+<alternateName lang="post">91720</alternateName>
+<alternateName lang="uk">Месс</alternateName>
+<alternateName lang="unlc">MIQ</alternateName>
+<alternateName lang="zh">迈斯</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>2.36944</west>
+<north>48.4016</north>
+<east>2.3886</east>
+<south>48.38889</south>
+</bbox>
+<score>54.916343688964844</score>
+</geoname>
+<geoname>
+<toponymName>Mess</toponymName>
+<name>Mess</name>
+<lat>49.51389</lat>
+<lng>6.04556</lng>
+<geonameId>2960269</geonameId>
+<countryCode>LU</countryCode>
+<countryName>Luxembourg</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>Mess,Mess Ruisseau,Messe,Messe Riviere,Messe Rivière</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="L">03</adminCode1>
+<adminName1>Luxembourg</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Luxembourg</timezone>
+<score>27.458171844482422</score>
+</geoname>
+</geonames>

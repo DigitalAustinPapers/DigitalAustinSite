@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>6</totalResultsCount>
+<geoname>
+<toponymName>Jurisdiction</toponymName>
+<name>Jurisdiction</name>
+<lat>18.23425</lat>
+<lng>121.67884</lng>
+<geonameId>1710025</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Jurisdiccion,Jurisdiction</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="02">02</adminCode1>
+<adminName1>Cagayan Valley</adminName1>
+<adminCode2>14</adminCode2>
+<adminName2>Cagayan</adminName2>
+<alternateName lang="fil">Jurisdiccion</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<bbox>
+<west>121.66937</west>
+<north>18.24324</north>
+<east>121.68831</east>
+<south>18.22525</south>
+</bbox>
+<score>66.68360900878906</score>
+</geoname>
+<geoname>
+<toponymName>Jurisdiction</toponymName>
+<name>Jurisdiction</name>
+<lat>17.88136</lat>
+<lng>121.68828</lng>
+<geonameId>1710026</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Jurisdiccion,Jurisdiction</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="02">02</adminCode1>
+<adminName1>Cagayan Valley</adminName1>
+<adminCode2>14</adminCode2>
+<adminName2>Cagayan</adminName2>
+<alternateName lang="fil">Jurisdiccion</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<bbox>
+<west>121.67883</west>
+<north>17.89035</north>
+<east>121.69773</east>
+<south>17.87236</south>
+</bbox>
+<score>60.513702392578125</score>
+</geoname>
+<geoname>
+<toponymName>Jurisdiccion</toponymName>
+<name>Jurisdiccion</name>
+<lat>17.7912</lat>
+<lng>121.72585</lng>
+<geonameId>1710027</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Jurisdiccion,Turisdiccion</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="02">02</adminCode1>
+<adminName1>Cagayan Valley</adminName1>
+<adminCode2>14</adminCode2>
+<adminName2>Cagayan</adminName2>
+<alternateName lang="fil">Turisdiccion</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<bbox>
+<west>121.7164</west>
+<north>17.8002</north>
+<east>121.73529</east>
+<south>17.78221</south>
+</bbox>
+<score>35.733577728271484</score>
+</geoname>
+<geoname>
+<toponymName>Sabana Abajo</toponymName>
+<name>Sabana Abajo</name>
+<lat>20.18278</lat>
+<lng>-75.50639</lng>
+<geonameId>3555632</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Jurisdiccion,Jurisdicción,Poblado Jurisdiccion,Sabana Abajo</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="13">15</adminCode1>
+<adminName1>Santiago de Cuba</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<bbox>
+<west>-75.51597</west>
+<north>20.19177</north>
+<east>-75.49681</east>
+<south>20.17378</south>
+</bbox>
+<score>29.17634391784668</score>
+</geoname>
+<geoname>
+<toponymName>Jurisdicción</toponymName>
+<name>Jurisdicción</name>
+<lat>22.23333</lat>
+<lng>-80.26667</lng>
+<geonameId>3555633</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="06">08</adminCode1>
+<adminName1>Cienfuegos</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>29.17634391784668</score>
+</geoname>
+<geoname>
+<toponymName>Jurisdicción de Arriba</toponymName>
+<name>Jurisdicción de Arriba</name>
+<lat>25.26667</lat>
+<lng>-107.71667</lng>
+<geonameId>4003673</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Jurisdiccion,Jurisdiccion de Arriba,Jurisdicción,Jurisdicción de Arriba,Jursan</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SIN">25</adminCode1>
+<adminName1>Sinaloa</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Mazatlan</timezone>
+<bbox>
+<west>-107.72661</west>
+<north>25.27566</north>
+<east>-107.70672</east>
+<south>25.25767</south>
+</bbox>
+<score>25.529300689697266</score>
+</geoname>
+</geonames>

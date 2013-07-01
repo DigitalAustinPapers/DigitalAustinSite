@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Allegheny County</toponymName>
+<name>Allegheny County</name>
+<lat>40.46883</lat>
+<lng>-79.98119</lng>
+<geonameId>5178040</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>1223348</population>
+<alternateNames>Alegeni,Alegini srjan,Allegejni,Allegeni,Comitatul Allegheny,Comitatus Alleghenia,Comte d'Allegheny,Comté d'Allegheny,Condado de Allegheny,Condado han Allegheny,Contea di Allegheny,Hrabstwo Allegheny,Konteth Allegheny,Quan Allegheny,Quận Allegheny,a li gen ni xian,aregeni jun,Алегени,Аллегейни,Аллеґені,Ալեգինի շրջան,الگنی کاؤنٹی، پنسلوانیا,অ্যলেঘেনি কাউন্টি,アレゲニー郡,阿利根尼縣</alternateNames>
+<elevation>282</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PA">PA</adminCode1>
+<adminName1>Pennsylvania</adminName1>
+<adminCode2>003</adminCode2>
+<adminName2>Allegheny County</adminName2>
+<alternateName lang="bg">Алегени</alternateName>
+<alternateName lang="bpy">অ্যলেঘেনি কাউন্টি</alternateName>
+<alternateName lang="es">Condado de Allegheny</alternateName>
+<alternateName lang="fr">Comté d'Allegheny</alternateName>
+<alternateName lang="hy">Ալեգինի շրջան</alternateName>
+<alternateName lang="it">Contea di Allegheny</alternateName>
+<alternateName lang="ja">アレゲニー郡</alternateName>
+<alternateName lang="kw">Konteth Allegheny</alternateName>
+<alternateName lang="la">Comitatus Alleghenia</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Allegheny_County%2C_Pennsylvania</alternateName>
+<alternateName lang="pl">Hrabstwo Allegheny</alternateName>
+<alternateName lang="pnb">الگنی کاؤنٹی، پنسلوانیا</alternateName>
+<alternateName lang="pt">Condado de Allegheny</alternateName>
+<alternateName lang="ro">Comitatul Allegheny</alternateName>
+<alternateName lang="ru">Аллегейни</alternateName>
+<alternateName lang="uk">Аллеґені</alternateName>
+<alternateName lang="vi">Quận Allegheny</alternateName>
+<alternateName lang="war">Condado han Allegheny</alternateName>
+<alternateName lang="zh">阿利根尼縣</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-80.35873</west>
+<north>40.67585</north>
+<east>-79.68911</east>
+<south>40.19551</south>
+</bbox>
+<score>23.048200607299805</score>
+</geoname>
+<geoname>
+<toponymName>Alleghany County</toponymName>
+<name>Alleghany County</name>
+<lat>36.49134</lat>
+<lng>-81.12719</lng>
+<geonameId>4452391</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>11155</population>
+<alternateNames>Alegeni,Allegeni,Comitatul Alleghany,Comte d'Alleghany,Comté d'Alleghany,Condado de Alleghany,Condado han Alleghany,Contea di Alleghany,Quan Alleghany,Quận Alleghany,a li gen ni xian,aleghani ka'unti,Алегени,Аллеґені,الفنی کاؤنٹی,مقاطعة أليغاني، كارولاينا الشمالية,আলেঘানি কাউন্টি,阿利根尼縣</alternateNames>
+<elevation>968</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NC">NC</adminCode1>
+<adminName1>North Carolina</adminName1>
+<adminCode2>005</adminCode2>
+<adminName2>Alleghany County</adminName2>
+<alternateName lang="ar">مقاطعة أليغاني، كارولاينا الشمالية</alternateName>
+<alternateName lang="bg">Алегени</alternateName>
+<alternateName lang="bpy">আলেঘানি কাউন্টি</alternateName>
+<alternateName lang="es">Condado de Alleghany</alternateName>
+<alternateName lang="fr">Comté d'Alleghany</alternateName>
+<alternateName lang="it">Contea di Alleghany</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Alleghany_County%2C_North_Carolina</alternateName>
+<alternateName lang="pnb">الفنی کاؤنٹی</alternateName>
+<alternateName lang="pt">Condado de Alleghany</alternateName>
+<alternateName lang="ro">Comitatul Alleghany</alternateName>
+<alternateName lang="uk">Аллеґені</alternateName>
+<alternateName lang="vi">Quận Alleghany</alternateName>
+<alternateName lang="war">Condado han Alleghany</alternateName>
+<alternateName lang="zh">阿利根尼縣</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-81.35275</west>
+<north>36.57287</north>
+<east>-80.9072</east>
+<south>36.37034</south>
+</bbox>
+<score>18.078182220458984</score>
+</geoname>
+<geoname>
+<toponymName>Alleghany County</toponymName>
+<name>Alleghany County</name>
+<lat>37.7876</lat>
+<lng>-80.00699</lng>
+<geonameId>4744139</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>16250</population>
+<alternateNames>Alegeni,Allegeni,Comitatul Alleghany,Comte d'Alleghany,Comté d'Alleghany,Condado de Alleghany,Condado han Alleghany,Contea di Alleghany,Hrabstwo Alleghany,Konteth Alleghany,Quan Alleghany,Quận Alleghany,a li gen ni xian,aleghani ka'unti,Алегени,Аллегені,الیگانی کاؤنٹی,الیگھانی کاؤنٹی، ورجینیا,مقاطعة أليغاني,আলেঘানি কাউন্টি,阿利根尼縣</alternateNames>
+<elevation>464</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>005</adminCode2>
+<adminName2>Alleghany County</adminName2>
+<alternateName lang="ar">مقاطعة أليغاني</alternateName>
+<alternateName lang="bg">Алегени</alternateName>
+<alternateName lang="bpy">আলেঘানি কাউন্টি</alternateName>
+<alternateName lang="es">Condado de Alleghany</alternateName>
+<alternateName lang="fr">Comté d'Alleghany</alternateName>
+<alternateName lang="it">Contea di Alleghany</alternateName>
+<alternateName lang="kw">Konteth Alleghany</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Alleghany_County%2C_Virginia</alternateName>
+<alternateName lang="pl">Hrabstwo Alleghany</alternateName>
+<alternateName lang="pnb">الیگانی کاؤنٹی</alternateName>
+<alternateName lang="pt">Condado de Alleghany</alternateName>
+<alternateName lang="ro">Comitatul Alleghany</alternateName>
+<alternateName lang="uk">Аллегені</alternateName>
+<alternateName lang="ur">الیگھانی کاؤنٹی، ورجینیا</alternateName>
+<alternateName lang="vi">Quận Alleghany</alternateName>
+<alternateName lang="war">Condado han Alleghany</alternateName>
+<alternateName lang="zh">阿利根尼縣</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-80.30747</west>
+<north>37.96062</north>
+<east>-79.60702</east>
+<south>37.60049</south>
+</bbox>
+<score>18.078182220458984</score>
+</geoname>
+<geoname>
+<toponymName>Allegany County</toponymName>
+<name>Allegany County</name>
+<lat>39.62148</lat>
+<lng>-78.6989</lng>
+<geonameId>4347094</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>75087</population>
+<alternateNames>Alegani srjan,Alegeni,Allegejni,Allegeni,Comitatul Allegany,Comitatus Allegany,Comte d'Allegany,Comté d'Allegany,Condado de Allegany,Condado han Allegany,Contea di Allegany,Hrabstwo Allegany,Konteth Allegany,Okres Allegany,a li gen ni xian,alegan'ya ka'unti,Алегени,Аллегейни,Аллеґені,Ալեգանի շրջան,الگنی کاؤنٹی، میری لینڈ,আলেগান্য কাউন্টি,阿利根尼縣</alternateNames>
+<elevation>422</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MD">MD</adminCode1>
+<adminName1>Maryland</adminName1>
+<adminCode2>001</adminCode2>
+<adminName2>Allegany County</adminName2>
+<alternateName lang="bg">Алегени</alternateName>
+<alternateName lang="bpy">আলেগান্য কাউন্টি</alternateName>
+<alternateName lang="cs">Okres Allegany</alternateName>
+<alternateName lang="es">Condado de Allegany</alternateName>
+<alternateName lang="fr">Comté d'Allegany</alternateName>
+<alternateName lang="hy">Ալեգանի շրջան</alternateName>
+<alternateName lang="it">Contea di Allegany</alternateName>
+<alternateName lang="kw">Konteth Allegany</alternateName>
+<alternateName lang="la">Comitatus Allegany</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Allegany_County%2C_Maryland</alternateName>
+<alternateName lang="pl">Hrabstwo Allegany</alternateName>
+<alternateName lang="pnb">الگنی کاؤنٹی، میری لینڈ</alternateName>
+<alternateName lang="pt">Condado de Allegany</alternateName>
+<alternateName lang="ro">Comitatul Allegany</alternateName>
+<alternateName lang="ru">Аллегейни</alternateName>
+<alternateName lang="uk">Аллеґені</alternateName>
+<alternateName lang="war">Condado han Allegany</alternateName>
+<alternateName lang="zh">阿利根尼縣</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-79.06585</west>
+<north>39.72385</north>
+<east>-78.31387</east>
+<south>39.43926</south>
+</bbox>
+<score>7.304317474365234</score>
+</geoname>
+<geoname>
+<toponymName>Allegany County</toponymName>
+<name>Allegany County</name>
+<lat>42.25739</lat>
+<lng>-78.02756</lng>
+<geonameId>5106997</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>48946</population>
+<alternateNames>Alegani srjan,Alegeni,Allegany Comitatus,Allegany, okrug,Allegejni,Allegeni,Comitatul Allegany,Comte d'Allegany,Comté d'Allegany,Condado de Allegany,Condado han Allegany,Contea di Allegany,Hrabstwo Allegany,Okrug Alegejni,a li gen ni xian,alegani ka'unti,Алегени,Аллегейни,Аллеґені,Округ Алегејни,Ալեգանի շրջան,الگنی کاؤنٹی,الیگانی کاؤنٹی، نیویارک,مقاطعة ألليغاني، نيويورك,আলেগানী কাউন্টি,阿利根尼縣</alternateNames>
+<elevation>568</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>003</adminCode2>
+<adminName2>Allegany County</adminName2>
+<alternateName lang="ar">مقاطعة ألليغاني، نيويورك</alternateName>
+<alternateName lang="bg">Алегени</alternateName>
+<alternateName lang="bpy">আলেগানী কাউন্টি</alternateName>
+<alternateName lang="es">Condado de Allegany</alternateName>
+<alternateName lang="fr">Comté d'Allegany</alternateName>
+<alternateName lang="hr">Allegany, okrug</alternateName>
+<alternateName lang="hy">Ալեգանի շրջան</alternateName>
+<alternateName lang="it">Contea di Allegany</alternateName>
+<alternateName lang="la">Allegany Comitatus</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Allegany_County%2C_New_York</alternateName>
+<alternateName lang="pl">Hrabstwo Allegany</alternateName>
+<alternateName lang="pnb">الگنی کاؤنٹی</alternateName>
+<alternateName lang="pt">Condado de Allegany</alternateName>
+<alternateName lang="ro">Comitatul Allegany</alternateName>
+<alternateName lang="ru">Аллегейни</alternateName>
+<alternateName lang="sr">Округ Алегејни</alternateName>
+<alternateName lang="uk">Аллеґені</alternateName>
+<alternateName lang="ur">الیگانی کاؤنٹی، نیویارک</alternateName>
+<alternateName lang="war">Condado han Allegany</alternateName>
+<alternateName lang="zh">阿利根尼縣</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-78.3101</west>
+<north>42.52144</north>
+<east>-77.72433</east>
+<south>41.99881</south>
+</bbox>
+<score>7.304317474365234</score>
+</geoname>
+</geonames>

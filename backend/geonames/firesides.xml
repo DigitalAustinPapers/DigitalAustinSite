@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Fireside</toponymName>
+<name>Fireside</name>
+<lat>41.22644</lat>
+<lng>-82.91186</lng>
+<geonameId>5154010</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>247</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>147</adminCode2>
+<adminName2>Seneca County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-82.92382</west>
+<north>41.23544</north>
+<east>-82.8999</east>
+<south>41.21745</south>
+</bbox>
+<score>44.025325775146484</score>
+</geoname>
+<geoname>
+<toponymName>Fireside</toponymName>
+<name>Fireside</name>
+<lat>33.58094</lat>
+<lng>-84.58132</lng>
+<geonameId>4195113</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>304</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">GA</adminCode1>
+<adminName1>Georgia</adminName1>
+<adminCode2>121</adminCode2>
+<adminName2>Fulton County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-84.58564</west>
+<north>33.58454</north>
+<east>-84.577</east>
+<south>33.57735</south>
+</bbox>
+<score>27.51582908630371</score>
+</geoname>
+<geoname>
+<toponymName>Fireside</toponymName>
+<name>Fireside</name>
+<lat>59.66631</lat>
+<lng>-127.1532</lng>
+<geonameId>5953023</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>P</fcl>
+<fcode>PPLL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="BC">02</adminCode1>
+<adminName1>British Columbia</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Vancouver</timezone>
+<bbox>
+<west>-127.15498</west>
+<north>59.66721</north>
+<east>-127.15142</east>
+<south>59.66541</south>
+</bbox>
+<score>27.51582908630371</score>
+</geoname>
+</geonames>

@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>14</totalResultsCount>
+<geoname>
+<toponymName>Lake Anahuac</toponymName>
+<name>Lake Anahuac</name>
+<lat>29.80256</lat>
+<lng>-94.68429</lng>
+<geonameId>4670713</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>LK</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>lake</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>2</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>071</adminCode2>
+<adminName2>Chambers County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lake_Anahuac</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>15.043975830078125</score>
+</geoname>
+<geoname>
+<toponymName>Anahuac</toponymName>
+<name>Anahuac</name>
+<lat>29.773</lat>
+<lng>-94.6827</lng>
+<geonameId>4670707</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>2243</population>
+<alternateNames/>
+<elevation>9</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>071</adminCode2>
+<adminName2>Chambers County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Anahuac%2C_Texas</alternateName>
+<alternateName lang="post">77514</alternateName>
+<alternateName lang="unlc">AQH</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-94.68788</west>
+<north>29.7775</north>
+<east>-94.67752</east>
+<south>29.7685</south>
+</bbox>
+<score>12.03518009185791</score>
+</geoname>
+<geoname>
+<toponymName>Anahuac National Wildlife Refuge</toponymName>
+<name>Anahuac National Wildlife Refuge</name>
+<lat>29.5669</lat>
+<lng>-94.53352</lng>
+<geonameId>4670710</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>L</fcl>
+<fcode>PRK</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>park</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>2</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>071</adminCode2>
+<adminName2>Chambers County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Anahuac_National_Wildlife_Refuge</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>12.03518009185791</score>
+</geoname>
+<geoname>
+<toponymName>City of Anahuac</toponymName>
+<name>City of Anahuac</name>
+<lat>29.76493</lat>
+<lng>-94.67868</lng>
+<geonameId>7172929</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>administrative division</fcodeName>
+<population>2243</population>
+<alternateNames/>
+<elevation>6</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>071</adminCode2>
+<adminName2>Chambers County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-94.69008</west>
+<north>29.78408</north>
+<east>-94.66791</east>
+<south>29.74624</south>
+</bbox>
+<score>10.530782699584961</score>
+</geoname>
+<geoname>
+<toponymName>Anahuac Oil Field</toponymName>
+<name>Anahuac Oil Field</name>
+<lat>29.78161</lat>
+<lng>-94.56103</lng>
+<geonameId>4670712</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>L</fcl>
+<fcode>OILF</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>oilfield</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>7</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>071</adminCode2>
+<adminName2>Chambers County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>6.017590045928955</score>
+</geoname>
+<geoname>
+<toponymName>Fort Anahuac Park</toponymName>
+<name>Fort Anahuac Park</name>
+<lat>29.75633</lat>
+<lng>-94.68547</lng>
+<geonameId>4691847</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>L</fcl>
+<fcode>PRK</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>park</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>6</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>071</adminCode2>
+<adminName2>Chambers County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>6.017590045928955</score>
+</geoname>
+<geoname>
+<toponymName>Anahuac National Wildlife Refuge Trail</toponymName>
+<name>Anahuac National Wildlife Refuge Trail</name>
+<lat>29.5669</lat>
+<lng>-94.53352</lng>
+<geonameId>4670711</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>R</fcl>
+<fcode>TRL</fcode>
+<fclName>road, railroad </fclName>
+<fcodeName>trail</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>2</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>167</adminCode2>
+<adminName2>Galveston County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>3.7609939575195312</score>
+</geoname>
+<geoname>
+<toponymName>Anahuac Cemetery</toponymName>
+<name>Anahuac Cemetery</name>
+<lat>29.78633</lat>
+<lng>-94.66742</lng>
+<geonameId>4670708</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>CMTY</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>cemetery</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>7</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>071</adminCode2>
+<adminName2>Chambers County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>2.256596326828003</score>
+</geoname>
+<geoname>
+<toponymName>Anahuac Channel</toponymName>
+<name>Anahuac Channel</name>
+<lat>29.74439</lat>
+<lng>-94.7027</lng>
+<geonameId>4670709</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>CHN</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>channel</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>071</adminCode2>
+<adminName2>Chambers County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>2.256596326828003</score>
+</geoname>
+<geoname>
+<toponymName>Fort Anahuac</toponymName>
+<name>Fort Anahuac</name>
+<lat>29.75606</lat>
+<lng>-94.68881</lng>
+<geonameId>4691883</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>1</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>071</adminCode2>
+<adminName2>Chambers County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>2.256596326828003</score>
+</geoname>
+</geonames>

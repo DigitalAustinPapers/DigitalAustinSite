@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Wythe County</toponymName>
+<name>Wythe County</name>
+<lat>36.91713</lat>
+<lng>-81.07859</lng>
+<geonameId>4794827</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>29235</population>
+<alternateNames>Comte de Wythe,Comté de Wythe</alternateNames>
+<elevation>798</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>197</adminCode2>
+<adminName2>Wythe County</adminName2>
+<alternateName lang="fr">Comté de Wythe</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wythe_County%2C_Virginia</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-81.38007</west>
+<north>37.07438</north>
+<east>-80.7373</east>
+<south>36.75969</south>
+</bbox>
+<score>80.4752197265625</score>
+</geoname>
+</geonames>

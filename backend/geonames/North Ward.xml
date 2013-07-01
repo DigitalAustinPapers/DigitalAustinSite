@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>North Ward</toponymName>
+<name>North Ward</name>
+<lat>-19.24885</lat>
+<lng>146.80804</lng>
+<geonameId>8348456</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="QLD">04</adminCode1>
+<adminName1>Queensland</adminName1>
+<adminCode2>37010</adminCode2>
+<adminName2>Townsville</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/North_Ward%2C_Queensland</alternateName>
+<timezone dstOffset="10.0" gmtOffset="10.0">Australia/Brisbane</timezone>
+<bbox>
+<west>146.79831</west>
+<north>-19.23837</north>
+<east>146.82169</east>
+<south>-19.259</south>
+</bbox>
+<score>49.03919982910156</score>
+</geoname>
+<geoname>
+<toponymName>North Ward</toponymName>
+<name>North Ward</name>
+<lat>19.28333</lat>
+<lng>-81.26667</lng>
+<geonameId>3580571</geonameId>
+<countryCode>KY</countryCode>
+<countryName>Cayman Islands</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Cayman</timezone>
+<bbox>
+<west>-81.2762</west>
+<north>19.29233</north>
+<east>-81.25714</east>
+<south>19.27434</south>
+</bbox>
+<score>39.231361389160156</score>
+</geoname>
+<geoname>
+<toponymName>North Ward</toponymName>
+<name>North Ward</name>
+<lat>42.67509</lat>
+<lng>-81.21784</lng>
+<geonameId>6090803</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ON">08</adminCode1>
+<adminName1>Ontario</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Toronto</timezone>
+<score>39.231361389160156</score>
+</geoname>
+<geoname>
+<toponymName>North Yard</toponymName>
+<name>North Yard</name>
+<lat>37.06117</lat>
+<lng>-88.60949</lng>
+<geonameId>4302749</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>104</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>145</adminCode2>
+<adminName2>McCracken County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>6.358581066131592</score>
+</geoname>
+<geoname>
+<toponymName>North Yard</toponymName>
+<name>North Yard</name>
+<lat>29.76384</lat>
+<lng>-95.29327</lng>
+<geonameId>4715400</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>13</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>201</adminCode2>
+<adminName2>Harris County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>6.358581066131592</score>
+</geoname>
+</geonames>

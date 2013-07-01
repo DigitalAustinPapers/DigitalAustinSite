@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>70</totalResultsCount>
+<geoname>
+<toponymName>Álamo</toponymName>
+<name>Álamo</name>
+<lat>20.90992</lat>
+<lng>-97.67469</lng>
+<geonameId>3533107</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>22740</population>
+<alternateNames>Alamo,Álamo</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VER">30</adminCode1>
+<adminName1>Veracruz-Llave</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/%C3%81lamo%2C_Veracruz</alternateName>
+<alternateName lang="unlc">ALO</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-97.69512</west>
+<north>20.929</north>
+<east>-97.65426</east>
+<south>20.89084</south>
+</bbox>
+<score>76.13349914550781</score>
+</geoname>
+<geoname>
+<toponymName>Alamo</toponymName>
+<name>Alamo</name>
+<lat>37.8502</lat>
+<lng>-122.03218</lng>
+<geonameId>5322794</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>14570</population>
+<alternateNames/>
+<elevation>79</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>013</adminCode2>
+<adminName2>Contra Costa County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Alamo%2C_California</alternateName>
+<alternateName lang="post">94507</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-122.05192</west>
+<north>37.86578</north>
+<east>-122.01245</east>
+<south>37.83463</south>
+</bbox>
+<score>71.77935028076172</score>
+</geoname>
+<geoname>
+<toponymName>Alamo</toponymName>
+<name>Alamo</name>
+<lat>34.42089</lat>
+<lng>-107.51088</lng>
+<geonameId>5454546</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1085</population>
+<alternateNames/>
+<elevation>1885</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NM">NM</adminCode1>
+<adminName1>New Mexico</adminName1>
+<adminCode2>053</adminCode2>
+<adminName2>Socorro County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Alamo%2C_New_Mexico</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<bbox>
+<west>-107.56367</west>
+<north>34.48162</north>
+<east>-107.46484</east>
+<south>34.3384</south>
+</bbox>
+<score>71.77935028076172</score>
+</geoname>
+<geoname>
+<toponymName>Alamo</toponymName>
+<name>Alamo</name>
+<lat>26.18369</lat>
+<lng>-98.12306</lng>
+<geonameId>4670074</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>18353</population>
+<alternateNames/>
+<elevation>30</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>215</adminCode2>
+<adminName2>Hidalgo County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Alamo%2C_Texas</alternateName>
+<alternateName lang="post">78516</alternateName>
+<alternateName lang="unlc">AMO</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-98.14247</west>
+<north>26.2011</north>
+<east>-98.10365</east>
+<south>26.16627</south>
+</bbox>
+<score>62.80693054199219</score>
+</geoname>
+<geoname>
+<toponymName>Alamo</toponymName>
+<name>Alamo</name>
+<lat>32.14712</lat>
+<lng>-82.77792</lng>
+<geonameId>4179313</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>2797</population>
+<alternateNames/>
+<elevation>70</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">GA</adminCode1>
+<adminName1>Georgia</adminName1>
+<adminCode2>309</adminCode2>
+<adminName2>Wheeler County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Alamo%2C_Georgia</alternateName>
+<alternateName lang="post">30411</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-82.78543</west>
+<north>32.15348</north>
+<east>-82.77041</east>
+<south>32.14076</south>
+</bbox>
+<score>53.834510803222656</score>
+</geoname>
+<geoname>
+<toponymName>Alamo</toponymName>
+<name>Alamo</name>
+<lat>39.98199</lat>
+<lng>-87.05723</lng>
+<geonameId>4253766</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>66</population>
+<alternateNames/>
+<elevation>248</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IN">IN</adminCode1>
+<adminName1>Indiana</adminName1>
+<adminCode2>107</adminCode2>
+<adminName2>Montgomery County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Alamo%2C_Indiana</alternateName>
+<alternateName lang="post">47916</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Indiana/Indianapolis</timezone>
+<bbox>
+<west>-87.05841</west>
+<north>39.98289</north>
+<east>-87.05606</east>
+<south>39.98109</south>
+</bbox>
+<score>53.834510803222656</score>
+</geoname>
+<geoname>
+<toponymName>Alamo</toponymName>
+<name>Alamo</name>
+<lat>35.78479</lat>
+<lng>-89.11729</lng>
+<geonameId>4602167</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>2461</population>
+<alternateNames/>
+<elevation>110</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TN">TN</adminCode1>
+<adminName1>Tennessee</adminName1>
+<adminCode2>033</adminCode2>
+<adminName2>Crockett County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Alamo%2C_Tennessee</alternateName>
+<alternateName lang="post">38001</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-89.12513</west>
+<north>35.79115</north>
+<east>-89.10945</east>
+<south>35.77844</south>
+</bbox>
+<score>53.834510803222656</score>
+</geoname>
+<geoname>
+<toponymName>Alamo</toponymName>
+<name>Alamo</name>
+<lat>37.36496</lat>
+<lng>-115.16446</lng>
+<geonameId>5499105</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1080</population>
+<alternateNames/>
+<elevation>1057</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NV">NV</adminCode1>
+<adminName1>Nevada</adminName1>
+<adminCode2>017</adminCode2>
+<adminName2>Lincoln County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Alamo%2C_Nevada</alternateName>
+<alternateName lang="post">89001</alternateName>
+<alternateName lang="unlc">AM8</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-115.23306</west>
+<north>37.43163</north>
+<east>-115.09784</east>
+<south>37.31756</south>
+</bbox>
+<score>53.834510803222656</score>
+</geoname>
+<geoname>
+<toponymName>Alamo</toponymName>
+<name>Alamo</name>
+<lat>48.58169</lat>
+<lng>-103.46991</lng>
+<geonameId>5687663</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>57</population>
+<alternateNames/>
+<elevation>647</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ND">ND</adminCode1>
+<adminName1>North Dakota</adminName1>
+<adminCode2>105</adminCode2>
+<adminName2>Williams County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Alamo%2C_North_Dakota</alternateName>
+<alternateName lang="post">58830</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-103.47127</west>
+<north>48.58259</north>
+<east>-103.46855</east>
+<south>48.5808</south>
+</bbox>
+<score>53.834510803222656</score>
+</geoname>
+<geoname>
+<toponymName>Álamo</toponymName>
+<name>Álamo</name>
+<lat>37.3899</lat>
+<lng>-7.44502</lng>
+<geonameId>2272253</geonameId>
+<countryCode>PT</countryCode>
+<countryName>Portugal</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Alamo,Almo,Álamo</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="08">09</adminCode1>
+<adminName1>Faro</adminName1>
+<adminCode2>0802</adminCode2>
+<adminName2>Alcoutim</adminName2>
+<adminCode3>080201</adminCode3>
+<adminName3>Alcoutim</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Lisbon</timezone>
+<bbox>
+<west>-7.45634</west>
+<north>37.39889</north>
+<east>-7.4337</east>
+<south>37.38091</south>
+</bbox>
+<score>44.41120910644531</score>
+</geoname>
+</geonames>

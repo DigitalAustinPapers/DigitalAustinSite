@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>50</totalResultsCount>
+<geoname>
+<toponymName>Howard</toponymName>
+<name>Howard</name>
+<lat>44.5436</lat>
+<lng>-88.08816</lng>
+<geonameId>5257029</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>17399</population>
+<alternateNames/>
+<elevation>187</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WI">WI</adminCode1>
+<adminName1>Wisconsin</adminName1>
+<adminCode2>009</adminCode2>
+<adminName2>Brown County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Howard%2C_Wisconsin</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-88.11177</west>
+<north>44.56043</north>
+<east>-88.06454</east>
+<south>44.52678</south>
+</bbox>
+<score>67.58840942382812</score>
+</geoname>
+<geoname>
+<toponymName>Howard</toponymName>
+<name>Howard</name>
+<lat>25.64733</lat>
+<lng>-80.33422</lng>
+<geonameId>4159276</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>3</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="FL">FL</adminCode1>
+<adminName1>Florida</adminName1>
+<adminCode2>086</adminCode2>
+<adminName2>Miami-Dade</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Howard%2C_Florida</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-80.3442</west>
+<north>25.65632</north>
+<east>-80.32424</east>
+<south>25.63833</south>
+</bbox>
+<score>50.691307067871094</score>
+</geoname>
+<geoname>
+<toponymName>Howard</toponymName>
+<name>Howard</name>
+<lat>39.91615</lat>
+<lng>-87.37557</lng>
+<geonameId>4259198</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>169</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IN">IN</adminCode1>
+<adminName1>Indiana</adminName1>
+<adminCode2>121</adminCode2>
+<adminName2>Parke County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Howard%2C_Indiana</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Indiana/Indianapolis</timezone>
+<bbox>
+<west>-87.3873</west>
+<north>39.92514</north>
+<east>-87.36384</east>
+<south>39.90716</south>
+</bbox>
+<score>50.691307067871094</score>
+</geoname>
+<geoname>
+<toponymName>Howard</toponymName>
+<name>Howard</name>
+<lat>33.1229</lat>
+<lng>-90.19092</lng>
+<geonameId>4430552</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>42</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MS">MS</adminCode1>
+<adminName1>Mississippi</adminName1>
+<adminCode2>051</adminCode2>
+<adminName2>Holmes County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Howard%2C_Mississippi</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.20166</west>
+<north>33.1319</north>
+<east>-90.18018</east>
+<south>33.11391</south>
+</bbox>
+<score>50.691307067871094</score>
+</geoname>
+<geoname>
+<toponymName>Howard</toponymName>
+<name>Howard</name>
+<lat>39.73119</lat>
+<lng>-80.64259</lng>
+<geonameId>4809364</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>418</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WV">WV</adminCode1>
+<adminName1>West Virginia</adminName1>
+<adminCode2>051</adminCode2>
+<adminName2>Marshall County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Howard%2C_West_Virginia</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-80.65428</west>
+<north>39.74018</north>
+<east>-80.63089</east>
+<south>39.7222</south>
+</bbox>
+<score>50.691307067871094</score>
+</geoname>
+<geoname>
+<toponymName>Howard</toponymName>
+<name>Howard</name>
+<lat>42.36424</lat>
+<lng>-77.50888</lng>
+<geonameId>5121406</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>503</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>101</adminCode2>
+<adminName2>Steuben County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Howard%2C_New_York</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-77.52105</west>
+<north>42.37323</north>
+<east>-77.4967</east>
+<south>42.35524</south>
+</bbox>
+<score>50.691307067871094</score>
+</geoname>
+<geoname>
+<toponymName>Howard</toponymName>
+<name>Howard</name>
+<lat>41.74232</lat>
+<lng>-71.45422</lng>
+<geonameId>5222700</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>28</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="RI">RI</adminCode1>
+<adminName1>Rhode Island</adminName1>
+<adminCode2>007</adminCode2>
+<adminName2>Providence County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Howard%2C_Rhode_Island</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-71.46628</west>
+<north>41.75132</north>
+<east>-71.44217</east>
+<south>41.73333</south>
+</bbox>
+<score>50.691307067871094</score>
+</geoname>
+<geoname>
+<toponymName>Howard</toponymName>
+<name>Howard</name>
+<lat>44.95052</lat>
+<lng>-91.53766</lng>
+<geonameId>5257030</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>299</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WI">WI</adminCode1>
+<adminName1>Wisconsin</adminName1>
+<adminCode2>017</adminCode2>
+<adminName2>Chippewa County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Howard%2C_Chippewa_County%2C_Wisconsin</alternateName>
+<alternateName lang="unlc">HXW</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-91.55037</west>
+<north>44.95951</north>
+<east>-91.52495</east>
+<south>44.94152</south>
+</bbox>
+<score>50.691307067871094</score>
+</geoname>
+<geoname>
+<toponymName>Howard</toponymName>
+<name>Howard</name>
+<lat>38.44861</lat>
+<lng>-105.83529</lng>
+<geonameId>5425680</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>723</population>
+<alternateNames/>
+<elevation>2047</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CO">CO</adminCode1>
+<adminName1>Colorado</adminName1>
+<adminCode2>043</adminCode2>
+<adminName2>Fremont County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Howard%2C_Colorado</alternateName>
+<alternateName lang="post">81233</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<bbox>
+<west>-105.83643</west>
+<north>38.44951</north>
+<east>-105.83414</east>
+<south>38.44771</south>
+</bbox>
+<score>50.691307067871094</score>
+</geoname>
+<geoname>
+<toponymName>Howard</toponymName>
+<name>Howard</name>
+<lat>46.66681</lat>
+<lng>-65.78206</lng>
+<geonameId>5977813</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NB">04</adminCode1>
+<adminName1>New Brunswick</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Howard%2C_New_Brunswick</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-4.0">America/Moncton</timezone>
+<score>50.691307067871094</score>
+</geoname>
+</geonames>

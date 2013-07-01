@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Southport Country</toponymName>
+<name>Southport Country</name>
+<lat>32.38571</lat>
+<lng>-93.80185</lng>
+<geonameId>4342156</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>59</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>017</adminCode2>
+<adminName2>Caddo Parish</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-93.80611</west>
+<north>32.38931</north>
+<east>-93.79759</east>
+<south>32.38211</south>
+</bbox>
+<score>28.741146087646484</score>
+</geoname>
+</geonames>

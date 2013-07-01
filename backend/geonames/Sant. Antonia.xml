@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>341</totalResultsCount>
+<geoname>
+<toponymName>Soio</toponymName>
+<name>Soyo</name>
+<lat>-6.1349</lat>
+<lng>12.36894</lng>
+<geonameId>2236967</geonameId>
+<countryCode>AO</countryCode>
+<countryName>Angola</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>67491</population>
+<alternateNames>Saint Antonio do Zaire,San Antonio,Santo Antoni,Santo Antonio do Zaire,Santo António do Zaire,Santo-Antonio,Santo-António,Sao Antonio,Sazaire,Soio,Soju,Soyo,São Antônio,Сойу</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="ZAI">16</adminCode1>
+<adminName1>Zaire</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Soyo</alternateName>
+<alternateName lang="fi">Soyo</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Soyo</alternateName>
+<alternateName lang="ru">Сойу</alternateName>
+<alternateName lang="unlc">SZA</alternateName>
+<timezone dstOffset="1.0" gmtOffset="1.0">Africa/Luanda</timezone>
+<bbox>
+<west>12.33509</west>
+<north>-6.10125</north>
+<east>12.40278</east>
+<south>-6.16855</south>
+</bbox>
+<score>55.71101379394531</score>
+</geoname>
+<geoname>
+<toponymName>Santo Antônio</toponymName>
+<name>Santo Antônio</name>
+<lat>-6.30945</lat>
+<lng>-35.54881</lng>
+<geonameId>6320222</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>22214</population>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="RN">22</adminCode1>
+<adminName1>Rio Grande do Norte</adminName1>
+<adminCode2>2411502</adminCode2>
+<adminName2>Santo Antônio</adminName2>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Recife</timezone>
+<bbox>
+<west>-35.64323</west>
+<north>-6.23075</north>
+<east>-35.38848</east>
+<south>-6.41738</south>
+</bbox>
+<score>33.578697204589844</score>
+</geoname>
+<geoname>
+<toponymName>Itaguatins</toponymName>
+<name>Itaguatins</name>
+<lat>-5.76889</lat>
+<lng>-47.48333</lng>
+<geonameId>3397985</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Santa Antonio,Santo Antonio,Santo Antonio da Cachoeira</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="TO">31</adminCode1>
+<adminName1>Tocantins</adminName1>
+<adminCode2>1710706</adminCode2>
+<adminName2>Itaguatins</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Itaguatins</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Araguaina</timezone>
+<bbox>
+<west>-47.49237</west>
+<north>-5.7599</north>
+<east>-47.47429</east>
+<south>-5.77788</south>
+</bbox>
+<score>29.469242095947266</score>
+</geoname>
+<geoname>
+<toponymName>Santo Antônio</toponymName>
+<name>Santo Antônio</name>
+<lat>-6.31056</lat>
+<lng>-35.47889</lng>
+<geonameId>3389134</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>12529</population>
+<alternateNames>Padre Miguelinho</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="RN">22</adminCode1>
+<adminName1>Rio Grande do Norte</adminName1>
+<adminCode2>2411502</adminCode2>
+<adminName2>Santo Antônio</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Santo_Ant%C3%B4nio%2C_Rio_Grande_do_Norte</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Fortaleza</timezone>
+<bbox>
+<west>-35.4932</west>
+<north>-6.29634</north>
+<east>-35.46458</east>
+<south>-6.32478</south>
+</bbox>
+<score>26.862957000732422</score>
+</geoname>
+<geoname>
+<toponymName>Sant'Antonio</toponymName>
+<name>Sant'Antonio</name>
+<lat>46.15311</lat>
+<lng>9.10143</lng>
+<geonameId>7287675</geonameId>
+<countryCode>CH</countryCode>
+<countryName>Switzerland</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population>207</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="TI">TI</adminCode1>
+<adminName1>Ticino</adminName1>
+<adminCode2>2101</adminCode2>
+<adminName2>Distretto di Bellinzona</adminName2>
+<adminCode3>5018</adminCode3>
+<adminName3>Sant'Antonio</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Zurich</timezone>
+<bbox>
+<west>9.04315</west>
+<north>46.185</north>
+<east>9.15971</east>
+<south>46.12122</south>
+</bbox>
+<score>25.183330535888672</score>
+</geoname>
+<geoname>
+<toponymName>Santo António</toponymName>
+<name>Santo António</name>
+<lat>32.65</lat>
+<lng>-16.93333</lng>
+<geonameId>2263432</geonameId>
+<countryCode>PT</countryCode>
+<countryName>Portugal</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Santo Antonio,Santo António</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="30">10</adminCode1>
+<adminName1>Madeira</adminName1>
+<adminCode2>3103</adminCode2>
+<adminName2>Funchal</adminName2>
+<adminCode3>310307</adminCode3>
+<adminName3>São Martinho</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Santo_Ant%C3%B3nio_%28Funchal%29</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Atlantic/Madeira</timezone>
+<bbox>
+<west>-16.94402</west>
+<north>32.65899</north>
+<east>-16.92265</east>
+<south>32.64101</south>
+</bbox>
+<score>23.743724822998047</score>
+</geoname>
+<geoname>
+<toponymName>Sant'Antonio</toponymName>
+<name>Sant'Antonio</name>
+<lat>41.03333</lat>
+<lng>9.16667</lng>
+<geonameId>3167415</geonameId>
+<countryCode>IT</countryCode>
+<countryName>Italy</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Sant'Antonio,Santo Antonio</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="88">14</adminCode1>
+<adminName1>Sardinia</adminName1>
+<adminCode2>OT</adminCode2>
+<adminName2>Provincia di Olbia-Tempio</adminName2>
+<adminCode3>104014</adminCode3>
+<adminName3>Luogosanto</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Rome</timezone>
+<bbox>
+<west>9.15474</west>
+<north>41.04233</north>
+<east>9.17859</east>
+<south>41.02434</south>
+</bbox>
+<score>23.73188018798828</score>
+</geoname>
+<geoname>
+<toponymName>Santo António</toponymName>
+<name>Santo António</name>
+<lat>32.69185</lat>
+<lng>-16.94563</lng>
+<geonameId>8014022</geonameId>
+<countryCode>PT</countryCode>
+<countryName>Portugal</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="30">10</adminCode1>
+<adminName1>Madeira</adminName1>
+<adminCode2>3103</adminCode2>
+<adminName2>Funchal</adminName2>
+<adminCode3>310305</adminCode3>
+<adminName3>Santo António</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Atlantic/Madeira</timezone>
+<bbox>
+<west>-16.96739</west>
+<north>32.73026</north>
+<east>-16.92388</east>
+<south>32.65345</south>
+</bbox>
+<score>23.50508689880371</score>
+</geoname>
+<geoname>
+<toponymName>Santo Antônio</toponymName>
+<name>Santo Antônio</name>
+<lat>-8.8</lat>
+<lng>-63.93333</lng>
+<geonameId>3662409</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Alto Madeira,Santo Antonio,Santo Antônio</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="RO">24</adminCode1>
+<adminName1>Rondônia</adminName1>
+<adminCode2>1100205</adminCode2>
+<adminName2>Porto Velho</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Porto_Velho</timezone>
+<bbox>
+<west>-63.94243</west>
+<north>-8.79101</north>
+<east>-63.92423</east>
+<south>-8.80899</south>
+</bbox>
+<score>21.23703384399414</score>
+</geoname>
+<geoname>
+<toponymName>Santo Antônio do Sudoeste</toponymName>
+<name>Santo Antônio do Sudoeste</name>
+<lat>-26.07361</lat>
+<lng>-53.72528</lng>
+<geonameId>3449479</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>11723</population>
+<alternateNames>San Antonio,San Antônio,Santo Antonio,Santo Antônio</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="PR">18</adminCode1>
+<adminName1>Paraná</adminName1>
+<adminCode2>4124400</adminCode2>
+<adminName2>Santo Antônio do Sudoeste</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Santo_Ant%C3%B4nio_do_Sudoeste</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Sao_Paulo</timezone>
+<bbox>
+<west>-53.7403</west>
+<north>-26.06012</north>
+<east>-53.71026</east>
+<south>-26.0871</south>
+</bbox>
+<score>20.147216796875</score>
+</geoname>
+</geonames>

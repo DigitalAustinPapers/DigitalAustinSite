@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>38</totalResultsCount>
+<geoname>
+<toponymName>Houston</toponymName>
+<name>Houston</name>
+<lat>29.76328</lat>
+<lng>-95.36327</lng>
+<geonameId>4699066</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>2099451</population>
+<alternateNames>Chiouston,Gorad Kh'justan,HOU,Hiu-su-tun,Hiustonas,Hiû-sṳ̂-tûn,Hjustona,Hjūstona,Houston,Hustonia,Hyuston,Kh'juston,Khjust"n,Khjuston,hi'ustana,hiustoni,hiws tan,hiyustan,hyuseuteon,hyustan,hyustana,hyusuton,hywstn,hywstn, tksas,hywstwn,xiu si dun,ywstwn,Χιούστον,Горад Х'юстан,Х'юстон,Хьюстон,Хюстън,Хјустон,Հյուստոն,היוסטן,יוסטון,هيوستن، تكساس,هیوستون,ھیووستن,ہywsٹn,ہیوسٹن,ह्युस्टन,হিউস্টন,હ્યુસ્ટન,ஹியூஸ்டன்,హ్యూస్టన్,ഹ്യൂസ്റ്റൺ,ฮิวสตัน,ဟူစတန်မြို့,ჰიუსთონი,ჰიუსტონი,ሂውስተን,ヒューストン,休斯敦,휴스턴</alternateNames>
+<elevation>12</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>201</adminCode2>
+<adminName2>Harris County</adminName2>
+<alternateName lang="af">Houston</alternateName>
+<alternateName lang="am">ሂውስተን</alternateName>
+<alternateName lang="ar">هيوستن، تكساس</alternateName>
+<alternateName lang="az">Hyuston</alternateName>
+<alternateName lang="be">Горад Х'юстан</alternateName>
+<alternateName lang="bg">Хюстън</alternateName>
+<alternateName lang="bn">হিউস্টন</alternateName>
+<alternateName lang="bs">Houston</alternateName>
+<alternateName lang="ca">Houston</alternateName>
+<alternateName lang="ce">Хьюстон</alternateName>
+<alternateName lang="ckb">ھیووستن</alternateName>
+<alternateName lang="cs">Houston</alternateName>
+<alternateName lang="da">Houston</alternateName>
+<alternateName lang="el">Χιούστον</alternateName>
+<alternateName lang="eo">Houston</alternateName>
+<alternateName lang="et">Houston</alternateName>
+<alternateName lang="eu">Houston</alternateName>
+<alternateName lang="fa">هیوستون</alternateName>
+<alternateName lang="fi">Houston</alternateName>
+<alternateName lang="fr">Houston</alternateName>
+<alternateName lang="gl">Houston</alternateName>
+<alternateName lang="gu">હ્યુસ્ટન</alternateName>
+<alternateName lang="hak">Hiû-sṳ̂-tûn</alternateName>
+<alternateName lang="he">יוסטון</alternateName>
+<alternateName lang="hi">ह्युस्टन</alternateName>
+<alternateName lang="hy">Հյուստոն</alternateName>
+<alternateName lang="iata">HOU</alternateName>
+<alternateName lang="id">Houston</alternateName>
+<alternateName lang="is">Houston</alternateName>
+<alternateName lang="it">Houston</alternateName>
+<alternateName lang="ja">ヒューストン</alternateName>
+<alternateName lang="ka">ჰიუსტონი</alternateName>
+<alternateName lang="kk">Хьюстон</alternateName>
+<alternateName lang="ko">휴스턴</alternateName>
+<alternateName lang="la">Hustonia</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Houston</alternateName>
+<alternateName lang="lt">Hiustonas</alternateName>
+<alternateName lang="lv">Hjūstona</alternateName>
+<alternateName lang="mk">Хјустон</alternateName>
+<alternateName lang="ml">ഹ്യൂസ്റ്റൺ</alternateName>
+<alternateName lang="mr">ह्युस्टन</alternateName>
+<alternateName lang="mrj">Хьюстон</alternateName>
+<alternateName lang="my">ဟူစတန်မြို့</alternateName>
+<alternateName lang="ne">ह्युस्टन</alternateName>
+<alternateName lang="nl">Houston</alternateName>
+<alternateName lang="no">Houston</alternateName>
+<alternateName lang="os">Хьюстон</alternateName>
+<alternateName lang="pl">Houston</alternateName>
+<alternateName lang="pnb">ہیوسٹن</alternateName>
+<alternateName lang="post">77042</alternateName>
+<alternateName lang="pt">Houston</alternateName>
+<alternateName lang="ro">Houston</alternateName>
+<alternateName lang="ru">Хьюстон</alternateName>
+<alternateName lang="sah">Хьюстон</alternateName>
+<alternateName lang="sk">Houston</alternateName>
+<alternateName lang="sr">Хјустон</alternateName>
+<alternateName lang="sv">Houston</alternateName>
+<alternateName lang="ta">ஹியூஸ்டன்</alternateName>
+<alternateName lang="te">హ్యూస్టన్</alternateName>
+<alternateName lang="th">ฮิวสตัน</alternateName>
+<alternateName lang="tr">Houston</alternateName>
+<alternateName lang="ug">Hyuston</alternateName>
+<alternateName lang="uk">Х'юстон</alternateName>
+<alternateName lang="unlc">HOU</alternateName>
+<alternateName lang="ur">ہیوسٹن</alternateName>
+<alternateName lang="vi">Houston</alternateName>
+<alternateName lang="xmf">ჰიუსთონი</alternateName>
+<alternateName lang="yi">היוסטן</alternateName>
+<alternateName lang="zh">休斯敦</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-95.58032</west>
+<north>29.95135</north>
+<east>-95.14622</east>
+<south>29.57522</south>
+</bbox>
+<score>92.73182678222656</score>
+</geoname>
+<geoname>
+<toponymName>Houston</toponymName>
+<name>Houston</name>
+<lat>55.86859</lat>
+<lng>-4.55201</lng>
+<geonameId>2646507</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>7031</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>W2</adminCode2>
+<adminName2>Renfrewshire</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Houston%2C_Renfrewshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.56994</west>
+<north>55.87864</north>
+<east>-4.53409</east>
+<south>55.85853</south>
+</bbox>
+<score>59.950904846191406</score>
+</geoname>
+<geoname>
+<toponymName>Houston</toponymName>
+<name>Houston</name>
+<lat>54.39976</lat>
+<lng>-126.67008</lng>
+<geonameId>5977783</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2884</population>
+<alternateNames>ZHO</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="BC">02</adminCode1>
+<adminName1>British Columbia</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="iata">ZHO</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Houston%2C_British_Columbia</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Vancouver</timezone>
+<bbox>
+<west>-126.68101</west>
+<north>54.40612</north>
+<east>-126.65916</east>
+<south>54.3934</south>
+</bbox>
+<score>52.4570426940918</score>
+</geoname>
+<geoname>
+<toponymName>Houston</toponymName>
+<name>Houston</name>
+<lat>39.01644</lat>
+<lng>-86.19082</lng>
+<geonameId>4259193</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>181</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IN">IN</adminCode1>
+<adminName1>Indiana</adminName1>
+<adminCode2>071</adminCode2>
+<adminName2>Jackson County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Houston%2C_Indiana</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Indiana/Indianapolis</timezone>
+<bbox>
+<west>-86.2024</west>
+<north>39.02543</north>
+<east>-86.17924</east>
+<south>39.00745</south>
+</bbox>
+<score>44.96318054199219</score>
+</geoname>
+<geoname>
+<toponymName>Houston</toponymName>
+<name>Houston</name>
+<lat>35.24147</lat>
+<lng>-87.91781</lng>
+<geonameId>4630935</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>164</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TN">TN</adminCode1>
+<adminName1>Tennessee</adminName1>
+<adminCode2>181</adminCode2>
+<adminName2>Wayne County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Houston%2C_Tennessee</alternateName>
+<alternateName lang="unlc">HUW</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-87.92882</west>
+<north>35.25046</north>
+<east>-87.90679</east>
+<south>35.23247</south>
+</bbox>
+<score>44.96318054199219</score>
+</geoname>
+<geoname>
+<toponymName>Houston</toponymName>
+<name>Houston</name>
+<lat>33.89845</lat>
+<lng>-88.99923</lng>
+<geonameId>4430529</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3623</population>
+<alternateNames>Kh'juston,Хьюстон</alternateNames>
+<elevation>108</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MS">MS</adminCode1>
+<adminName1>Mississippi</adminName1>
+<adminCode2>017</adminCode2>
+<adminName2>Chickasaw County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Houston%2C_Mississippi</alternateName>
+<alternateName lang="post">38851</alternateName>
+<alternateName lang="ru">Хьюстон</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-89.00861</west>
+<north>33.90623</north>
+<east>-88.98984</east>
+<south>33.89066</south>
+</bbox>
+<score>37.46931457519531</score>
+</geoname>
+<geoname>
+<toponymName>Houston</toponymName>
+<name>Houston</name>
+<lat>40.24646</lat>
+<lng>-80.21145</lng>
+<geonameId>5194369</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1296</population>
+<alternateNames>Kh'juston,Хьюстон</alternateNames>
+<elevation>302</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PA">PA</adminCode1>
+<adminName1>Pennsylvania</adminName1>
+<adminCode2>125</adminCode2>
+<adminName2>Washington County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Houston%2C_Pennsylvania</alternateName>
+<alternateName lang="post">15342</alternateName>
+<alternateName lang="ru">Хьюстон</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-80.21734</west>
+<north>40.25096</north>
+<east>-80.20556</east>
+<south>40.24196</south>
+</bbox>
+<score>37.46931457519531</score>
+</geoname>
+<geoname>
+<toponymName>Houstons</toponymName>
+<name>Houstons</name>
+<lat>17.38333</lat>
+<lng>-62.78333</lng>
+<geonameId>3575353</geonameId>
+<countryCode>KN</countryCode>
+<countryName>Saint Kitts and Nevis</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Houston,Houstons</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="06">06</adminCode1>
+<adminName1>Saint John Capesterre</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/St_Kitts</timezone>
+<bbox>
+<west>-62.79276</west>
+<north>17.39233</north>
+<east>-62.77391</east>
+<south>17.37434</south>
+</bbox>
+<score>35.48119354248047</score>
+</geoname>
+<geoname>
+<toponymName>Houston</toponymName>
+<name>Houston</name>
+<lat>6.78811</lat>
+<lng>-58.17124</lng>
+<geonameId>3378354</geonameId>
+<countryCode>GY</countryCode>
+<countryName>Guyana</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="DE">12</adminCode1>
+<adminName1>Demerara-Mahaica</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Guyana</timezone>
+<bbox>
+<west>-58.18029</west>
+<north>6.7971</north>
+<east>-58.16218</east>
+<south>6.77912</south>
+</bbox>
+<score>29.975452423095703</score>
+</geoname>
+<geoname>
+<toponymName>Houston</toponymName>
+<name>Houston</name>
+<lat>34.14149</lat>
+<lng>-87.25807</lng>
+<geonameId>4068284</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Kh'juston,Хьюстон</alternateNames>
+<elevation>232</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AL">AL</adminCode1>
+<adminName1>Alabama</adminName1>
+<adminCode2>133</adminCode2>
+<adminName2>Winston County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Houston%2C_Alabama</alternateName>
+<alternateName lang="post">35572</alternateName>
+<alternateName lang="ru">Хьюстон</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-87.26894</west>
+<north>34.15049</north>
+<east>-87.2472</east>
+<south>34.1325</south>
+</bbox>
+<score>29.975452423095703</score>
+</geoname>
+</geonames>

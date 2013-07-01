@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>867</totalResultsCount>
+<geoname>
+<toponymName>Monroe</toponymName>
+<name>Monroe</name>
+<lat>32.50931</lat>
+<lng>-92.1193</lng>
+<geonameId>4333669</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>48815</population>
+<alternateNames>MLU,Monro,men luo,meonlo,mnrww, lwyyzyana,mwnrw,Монро,מונרו,منروو، لوئیزیانا,门罗,먼로</alternateNames>
+<elevation>23</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>073</adminCode2>
+<adminName2>Ouachita Parish</adminName2>
+<alternateName lang="fa">منروو، لوئیزیانا</alternateName>
+<alternateName lang="he">מונרו</alternateName>
+<alternateName lang="iata">MLU</alternateName>
+<alternateName lang="ko">먼로</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Monroe%2C_Louisiana</alternateName>
+<alternateName lang="post">71212</alternateName>
+<alternateName lang="ru">Монро</alternateName>
+<alternateName lang="unlc">MLU</alternateName>
+<alternateName lang="zh">门罗</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.13551</west>
+<north>32.62104</north>
+<east>-91.98882</east>
+<south>32.42969</south>
+</bbox>
+<score>8.181307792663574</score>
+</geoname>
+<geoname>
+<toponymName>Ouachita Parish</toponymName>
+<name>Ouachita Parish</name>
+<lat>32.47831</lat>
+<lng>-92.15487</lng>
+<geonameId>4336232</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>153720</population>
+<alternateNames>Ouachita Paroecia,Paroisse d'Ouachita,Parokya han Ouachita,Paroquia de Ouachita,Parrocchia di Ouachita,Parroquia de Ouachita,Paróquia de Ouachita,Quan Ouachita,Quận Ouachita,Vachita,Vasita srjan,auyacita parisa,washita jun,wo xi tuo xian,Вачіта,Վաշիտա շրջան,اوچیٹا پارش,ঔয়াচিতা পারিশ,ワシタ郡,沃希托縣</alternateNames>
+<elevation>22</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>073</adminCode2>
+<adminName2>Ouachita Parish</adminName2>
+<alternateName lang="bpy">ঔয়াচিতা পারিশ</alternateName>
+<alternateName lang="es">Parroquia de Ouachita</alternateName>
+<alternateName lang="fr">Paroisse d'Ouachita</alternateName>
+<alternateName lang="hy">Վաշիտա շրջան</alternateName>
+<alternateName lang="it">Parrocchia di Ouachita</alternateName>
+<alternateName lang="ja">ワシタ郡</alternateName>
+<alternateName lang="la">Ouachita Paroecia</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ouachita_Parish%2C_Louisiana</alternateName>
+<alternateName lang="pnb">اوچیٹا پارش</alternateName>
+<alternateName lang="pt">Paróquia de Ouachita</alternateName>
+<alternateName lang="uk">Вачіта</alternateName>
+<alternateName lang="vi">Quận Ouachita</alternateName>
+<alternateName lang="war">Parokya han Ouachita</alternateName>
+<alternateName lang="zh">沃希托縣</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.41554</west>
+<north>32.72296</north>
+<east>-91.90699</east>
+<south>32.26308</south>
+</bbox>
+<score>7.845413684844971</score>
+</geoname>
+<geoname>
+<toponymName>Claiborne</toponymName>
+<name>Claiborne</name>
+<lat>32.51598</lat>
+<lng>-92.1918</lng>
+<geonameId>4320107</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>11507</population>
+<alternateNames/>
+<elevation>48</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>073</adminCode2>
+<adminName2>Ouachita Parish</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Claiborne%2C_Louisiana</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.2078</west>
+<north>32.52947</north>
+<east>-92.1758</east>
+<south>32.50249</south>
+</bbox>
+<score>6.817756652832031</score>
+</geoname>
+<geoname>
+<toponymName>Monroe Regional Airport</toponymName>
+<name>Monroe Regional Airport</name>
+<lat>32.5107</lat>
+<lng>-92.03763</lng>
+<geonameId>4333683</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>AIRP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>airport</fcodeName>
+<population/>
+<alternateNames>KMLU,MLU</alternateNames>
+<elevation>23</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>073</adminCode2>
+<adminName2>Ouachita Parish</adminName2>
+<alternateName lang="iata">MLU</alternateName>
+<alternateName lang="icao">KMLU</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Monroe_Regional_Airport%2C_Louisiana</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>6.817756652832031</score>
+</geoname>
+<geoname>
+<toponymName>West Monroe</toponymName>
+<name>West Monroe</name>
+<lat>32.51848</lat>
+<lng>-92.14764</lng>
+<geonameId>4345850</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>13065</population>
+<alternateNames/>
+<elevation>25</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>073</adminCode2>
+<adminName2>Ouachita Parish</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/West_Monroe%2C_Louisiana</alternateName>
+<alternateName lang="post">71294</alternateName>
+<alternateName lang="unlc">WMX</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.1645</west>
+<north>32.5327</north>
+<east>-92.13077</east>
+<south>32.50426</south>
+</bbox>
+<score>6.817756652832031</score>
+</geoname>
+<geoname>
+<toponymName>Calhoun</toponymName>
+<name>Calhoun</name>
+<lat>32.51265</lat>
+<lng>-92.35847</lng>
+<geonameId>4318610</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>679</population>
+<alternateNames/>
+<elevation>54</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>073</adminCode2>
+<adminName2>Ouachita Parish</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Calhoun%2C_Louisiana</alternateName>
+<alternateName lang="post">71225</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.381</west>
+<north>32.5216</north>
+<east>-92.32505</east>
+<south>32.50788</south>
+</bbox>
+<score>5.45420503616333</score>
+</geoname>
+<geoname>
+<toponymName>Richwood</toponymName>
+<name>Richwood</name>
+<lat>32.44876</lat>
+<lng>-92.08486</lng>
+<geonameId>4338720</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3392</population>
+<alternateNames/>
+<elevation>22</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>073</adminCode2>
+<adminName2>Ouachita Parish</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Richwood%2C_Louisiana</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.09239</west>
+<north>32.45512</north>
+<east>-92.07732</east>
+<south>32.4424</south>
+</bbox>
+<score>5.45420503616333</score>
+</geoname>
+<geoname>
+<toponymName>Sterlington</toponymName>
+<name>Sterlington</name>
+<lat>32.69625</lat>
+<lng>-92.08597</lng>
+<geonameId>4342638</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1594</population>
+<alternateNames/>
+<elevation>18</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>073</adminCode2>
+<adminName2>Ouachita Parish</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Sterlington%2C_Louisiana</alternateName>
+<alternateName lang="post">71280</alternateName>
+<alternateName lang="unlc">SEX</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.09131</west>
+<north>32.70075</north>
+<east>-92.08062</east>
+<south>32.69175</south>
+</bbox>
+<score>5.45420503616333</score>
+</geoname>
+<geoname>
+<toponymName>Swartz</toponymName>
+<name>Swartz</name>
+<lat>32.56875</lat>
+<lng>-91.98513</lng>
+<geonameId>4342984</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>4536</population>
+<alternateNames/>
+<elevation>28</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>073</adminCode2>
+<adminName2>Ouachita Parish</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Swartz%2C_Louisiana</alternateName>
+<alternateName lang="post">71281</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-91.99437</west>
+<north>32.57654</north>
+<east>-91.97589</east>
+<south>32.56096</south>
+</bbox>
+<score>5.45420503616333</score>
+</geoname>
+<geoname>
+<toponymName>Brownsville-Bawcomville</toponymName>
+<name>Brownsville-Bawcomville</name>
+<lat>32.47979</lat>
+<lng>-92.16494</lng>
+<geonameId>7259997</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>26</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>073</adminCode2>
+<adminName2>Ouachita Parish</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brownsville-Bawcomville%2C_Louisiana</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.1756</west>
+<north>32.48878</north>
+<east>-92.15428</east>
+<south>32.47079</south>
+</bbox>
+<score>5.45420503616333</score>
+</geoname>
+</geonames>

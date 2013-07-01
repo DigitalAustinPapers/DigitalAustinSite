@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>41</totalResultsCount>
+<geoname>
+<toponymName>Manaco</toponymName>
+<name>Manaco</name>
+<lat>15.13333</lat>
+<lng>-89.06667</lng>
+<geonameId>3592720</geonameId>
+<countryCode>GT</countryCode>
+<countryName>Guatemala</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Cerro del Manaco,Manaco,Monaco</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IZ">09</adminCode1>
+<adminName1>Izabal</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Guatemala</timezone>
+<bbox>
+<west>-89.07598</west>
+<north>15.14233</north>
+<east>-89.05735</east>
+<south>15.12434</south>
+</bbox>
+<score>16.689634323120117</score>
+</geoname>
+<geoname>
+<toponymName>Mapaço</toponymName>
+<name>Mapaço</name>
+<lat>-13.99639</lat>
+<lng>37.83278</lng>
+<geonameId>1032884</geonameId>
+<countryCode>MZ</countryCode>
+<countryName>Mozambique</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Mapaco,Mapaço,Napaco,Napaço</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="A">07</adminCode1>
+<adminName1>Niassa</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Maputo</timezone>
+<bbox>
+<west>37.82351</west>
+<north>-13.9874</north>
+<east>37.84205</east>
+<south>-14.00538</south>
+</bbox>
+<score>13.741724967956543</score>
+</geoname>
+<geoname>
+<toponymName>Mavaco</toponymName>
+<name>Mavaco</name>
+<lat>-1.28333</lat>
+<lng>11.3</lng>
+<geonameId>2399041</geonameId>
+<countryCode>GA</countryCode>
+<countryName>Gabon</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="4">04</adminCode1>
+<adminName1>Ngounié</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="1.0">Africa/Libreville</timezone>
+<bbox>
+<west>11.291</west>
+<north>-1.27434</north>
+<east>11.309</east>
+<south>-1.29233</south>
+</bbox>
+<score>13.627029418945312</score>
+</geoname>
+<geoname>
+<toponymName>Mataco</toponymName>
+<name>Mataco</name>
+<lat>-11.34722</lat>
+<lng>39.68111</lng>
+<geonameId>1040108</geonameId>
+<countryCode>MZ</countryCode>
+<countryName>Mozambique</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="P">01</adminCode1>
+<adminName1>Cabo Delgado</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Maputo</timezone>
+<bbox>
+<west>39.67194</west>
+<north>-11.33823</north>
+<east>39.69028</east>
+<south>-11.35622</south>
+</bbox>
+<score>12.955821990966797</score>
+</geoname>
+<geoname>
+<toponymName>Mayaco</toponymName>
+<name>Mayaco</name>
+<lat>19.63608</lat>
+<lng>-70.82871</lng>
+<geonameId>3496544</geonameId>
+<countryCode>DO</countryCode>
+<countryName>Dominican Republic</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="25">25</adminCode1>
+<adminName1>Santiago</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Santo_Domingo</timezone>
+<bbox>
+<west>-70.83826</west>
+<north>19.64507</north>
+<east>-70.81916</east>
+<south>19.62708</south>
+</bbox>
+<score>12.955821990966797</score>
+</geoname>
+<geoname>
+<toponymName>Mamaco</toponymName>
+<name>Mamaco</name>
+<lat>-13.4225</lat>
+<lng>-72.45028</lng>
+<geonameId>6393841</geonameId>
+<countryCode>PE</countryCode>
+<countryName>Peru</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="CUS">08</adminCode1>
+<adminName1>Cusco</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Lima</timezone>
+<score>12.955821990966797</score>
+</geoname>
+<geoname>
+<toponymName>Mapaco</toponymName>
+<name>Mapaco</name>
+<lat>17.56066</lat>
+<lng>121.4337</lng>
+<geonameId>8476187</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="CAN">15</adminCode1>
+<adminName1>Cordillera Administrative Region</adminName1>
+<adminCode2>32</adminCode2>
+<adminName2>Kalinga</adminName2>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<bbox>
+<west>121.42427</west>
+<north>17.56966</north>
+<east>121.44313</east>
+<south>17.55167</south>
+</bbox>
+<score>12.955821990966797</score>
+</geoname>
+<geoname>
+<toponymName>Malaco</toponymName>
+<name>Malaco</name>
+<lat>-16.96833</lat>
+<lng>38.57389</lng>
+<geonameId>1095374</geonameId>
+<countryCode>MZ</countryCode>
+<countryName>Mozambique</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="Q">09</adminCode1>
+<adminName1>Zambézia</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Maputo</timezone>
+<bbox>
+<west>38.56449</west>
+<north>-16.95934</north>
+<east>38.58329</east>
+<south>-16.97733</south>
+</bbox>
+<score>12.489874839782715</score>
+</geoname>
+<geoname>
+<toponymName>Malaco</toponymName>
+<name>Malaco</name>
+<lat>-17.02861</lat>
+<lng>38.47806</lng>
+<geonameId>1096555</geonameId>
+<countryCode>MZ</countryCode>
+<countryName>Mozambique</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="Q">09</adminCode1>
+<adminName1>Zambézia</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Maputo</timezone>
+<bbox>
+<west>38.46865</west>
+<north>-17.01962</north>
+<east>38.48746</east>
+<south>-17.0376</south>
+</bbox>
+<score>12.489874839782715</score>
+</geoname>
+<geoname>
+<toponymName>Malacó</toponymName>
+<name>Malacó</name>
+<lat>20.41667</lat>
+<lng>-76.86667</lng>
+<geonameId>3548359</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="12">09</adminCode1>
+<adminName1>Granma</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<bbox>
+<west>-76.87626</west>
+<north>20.42566</north>
+<east>-76.85707</east>
+<south>20.40767</south>
+</bbox>
+<score>12.489874839782715</score>
+</geoname>
+</geonames>

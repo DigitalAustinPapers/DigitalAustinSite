@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>149</totalResultsCount>
+<geoname>
+<toponymName>La Baza</toponymName>
+<name>La Baza</name>
+<lat>13.55</lat>
+<lng>-89.08333</lng>
+<geonameId>3585368</geonameId>
+<countryCode>SV</countryCode>
+<countryName>El Salvador</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>La Basa,La Baza</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PA">06</adminCode1>
+<adminName1>La Paz</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/El_Salvador</timezone>
+<bbox>
+<west>-89.09258</west>
+<north>13.55899</north>
+<east>-89.07408</east>
+<south>13.54101</south>
+</bbox>
+<score>22.2342529296875</score>
+</geoname>
+<geoname>
+<toponymName>La Saca</toponymName>
+<name>La Saca</name>
+<lat>10</lat>
+<lng>-84.06667</lng>
+<geonameId>3623145</geonameId>
+<countryCode>CR</countryCode>
+<countryName>Costa Rica</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>La Saca,La Zaca</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="H">04</adminCode1>
+<adminName1>Heredia</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Costa_Rica</timezone>
+<bbox>
+<west>-84.0758</west>
+<north>10.00899</north>
+<east>-84.05753</east>
+<south>9.99101</south>
+</bbox>
+<score>21.527202606201172</score>
+</geoname>
+<geoname>
+<toponymName>La Barca</toponymName>
+<name>La Barca</name>
+<lat>20.29028</lat>
+<lng>-102.54565</lng>
+<geonameId>4003526</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>34449</population>
+<alternateNames>La Barca</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="JAL">14</adminCode1>
+<adminName1>Jalisco</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/La_Barca_%28municipality%29</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-102.57102</west>
+<north>20.31407</north>
+<east>-102.52028</east>
+<south>20.26648</south>
+</bbox>
+<score>21.47403907775879</score>
+</geoname>
+<geoname>
+<toponymName>La Zaca</toponymName>
+<name>La Zaca</name>
+<lat>34.75276</lat>
+<lng>-120.1232</lng>
+<geonameId>5364153</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>433</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>083</adminCode2>
+<adminName2>Santa Barbara County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>19.500774383544922</score>
+</geoname>
+<geoname>
+<toponymName>La Baña</toponymName>
+<name>La Baña</name>
+<lat>37.62947</lat>
+<lng>-1.01407</lng>
+<geonameId>2516173</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Casa La Bana,Casa La Baña,Caserio La Bana,Caserío La Baña,La Bana,La Baña</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="MC">31</adminCode1>
+<adminName1>Murcia</adminName1>
+<adminCode2>MU</adminCode2>
+<adminName2>Murcia</adminName2>
+<adminCode3>30016</adminCode3>
+<adminName3>Cartagena</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Madrid</timezone>
+<bbox>
+<west>-1.02543</west>
+<north>37.63846</north>
+<east>-1.00272</east>
+<south>37.62047</south>
+</bbox>
+<score>13.789131164550781</score>
+</geoname>
+<geoname>
+<toponymName>La Paca</toponymName>
+<name>La Paca</name>
+<lat>37.87228</lat>
+<lng>-1.83606</lng>
+<geonameId>2515683</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>La Paca</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="MC">31</adminCode1>
+<adminName1>Murcia</adminName1>
+<adminCode2>MU</adminCode2>
+<adminName2>Murcia</adminName2>
+<adminCode3>30024</adminCode3>
+<adminName3>Lorca</adminName3>
+<alternateName lang="post">30812</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Madrid</timezone>
+<bbox>
+<west>-1.84746</west>
+<north>37.88127</north>
+<east>-1.82467</east>
+<south>37.86328</south>
+</bbox>
+<score>13.647699356079102</score>
+</geoname>
+<geoname>
+<toponymName>La Banca</toponymName>
+<name>La Banca</name>
+<lat>36.8</lat>
+<lng>15.1</lng>
+<geonameId>2524487</geonameId>
+<countryCode>IT</countryCode>
+<countryName>Italy</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Balsamo,La Banca</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="82">15</adminCode1>
+<adminName1>Sicily</adminName1>
+<adminCode2>SR</adminCode2>
+<adminName2>Syracuse</adminName2>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Rome</timezone>
+<bbox>
+<west>15.08877</west>
+<north>36.80899</north>
+<east>15.11123</east>
+<south>36.79101</south>
+</bbox>
+<score>12.782340049743652</score>
+</geoname>
+<geoname>
+<toponymName>La Baña</toponymName>
+<name>La Baña</name>
+<lat>42.2691</lat>
+<lng>-6.67158</lng>
+<geonameId>3119983</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>La Bana,La Baña</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="CL">55</adminCode1>
+<adminName1>Castille and León</adminName1>
+<adminCode2>LE</adminCode2>
+<adminName2>Leon</adminName2>
+<adminCode3>24067</adminCode3>
+<adminName3>Encinedo</adminName3>
+<alternateName lang="post">24746</alternateName>
+<alternateName lang="unlc">LBA</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Madrid</timezone>
+<bbox>
+<west>-6.68374</west>
+<north>42.2781</north>
+<east>-6.65943</east>
+<south>42.26011</south>
+</bbox>
+<score>11.819254875183105</score>
+</geoname>
+<geoname>
+<toponymName>La Bama</toponymName>
+<name>La Bama</name>
+<lat>33.80622</lat>
+<lng>-84.58854</lng>
+<geonameId>4048078</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>309</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">GA</adminCode1>
+<adminName1>Georgia</adminName1>
+<adminCode2>067</adminCode2>
+<adminName2>Cobb County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-84.59937</west>
+<north>33.81521</north>
+<east>-84.57772</east>
+<south>33.79722</south>
+</bbox>
+<score>11.720603942871094</score>
+</geoname>
+<geoname>
+<toponymName>La Paca</toponymName>
+<name>La Paca</name>
+<lat>21.16833</lat>
+<lng>-76.64028</lng>
+<geonameId>3552377</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="10">13</adminCode1>
+<adminName1>Las Tunas</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>11.14330005645752</score>
+</geoname>
+</geonames>

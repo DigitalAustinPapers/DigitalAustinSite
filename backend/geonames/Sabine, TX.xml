@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>399</totalResultsCount>
+<geoname>
+<toponymName>Sabine County</toponymName>
+<name>Sabine County</name>
+<lat>31.3432</lat>
+<lng>-93.8518</lng>
+<geonameId>4724540</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>10834</population>
+<alternateNames>Comte de Sabine,Comté de Sabine</alternateNames>
+<elevation>81</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>403</adminCode2>
+<adminName2>Sabine County</adminName2>
+<alternateName lang="fr">Comté de Sabine</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Sabine_County%2C_Texas</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-94.04892</west>
+<north>31.60922</north>
+<east>-93.59683</east>
+<south>31.13365</south>
+</bbox>
+<score>14.084300994873047</score>
+</geoname>
+<geoname>
+<toponymName>Sabine Lake</toponymName>
+<name>Sabine Lake</name>
+<lat>29.98875</lat>
+<lng>-93.79043</lng>
+<geonameId>4339351</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>LK</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>lake</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>0</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>361</adminCode2>
+<adminName2>Orange County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Sabine_Lake</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>10.058399200439453</score>
+</geoname>
+<geoname>
+<toponymName>Milam</toponymName>
+<name>Milam</name>
+<lat>31.4324</lat>
+<lng>-93.84574</lng>
+<geonameId>4711255</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1480</population>
+<alternateNames/>
+<elevation>95</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>403</adminCode2>
+<adminName2>Sabine County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Milam%2C_Texas</alternateName>
+<alternateName lang="post">75959</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-93.84654</west>
+<north>31.52346</north>
+<east>-93.73448</east>
+<south>31.38135</south>
+</bbox>
+<score>8.979662895202637</score>
+</geoname>
+<geoname>
+<toponymName>Bronson</toponymName>
+<name>Bronson</name>
+<lat>31.34407</lat>
+<lng>-94.01352</lng>
+<geonameId>4676501</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>287</population>
+<alternateNames/>
+<elevation>97</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>403</adminCode2>
+<adminName2>Sabine County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bronson%2C_Texas</alternateName>
+<alternateName lang="post">75930</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-94.01458</west>
+<north>31.34497</north>
+<east>-94.01247</east>
+<south>31.34317</south>
+</bbox>
+<score>7.483052730560303</score>
+</geoname>
+<geoname>
+<toponymName>Brookeland</toponymName>
+<name>Brookeland</name>
+<lat>31.15269</lat>
+<lng>-93.99352</lng>
+<geonameId>4676539</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>57</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>403</adminCode2>
+<adminName2>Sabine County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brookeland%2C_Texas</alternateName>
+<alternateName lang="post">75931</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-94.00403</west>
+<north>31.16169</north>
+<east>-93.98301</east>
+<south>31.1437</south>
+</bbox>
+<score>7.483052730560303</score>
+</geoname>
+<geoname>
+<toponymName>Hemphill</toponymName>
+<name>Hemphill</name>
+<lat>31.34074</lat>
+<lng>-93.84685</lng>
+<geonameId>4697054</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>1198</population>
+<alternateNames/>
+<elevation>85</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>403</adminCode2>
+<adminName2>Sabine County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hemphill%2C_Texas</alternateName>
+<alternateName lang="post">75948</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-93.84791</west>
+<north>31.34164</north>
+<east>-93.8458</east>
+<south>31.33984</south>
+</bbox>
+<score>7.483052730560303</score>
+</geoname>
+<geoname>
+<toponymName>Pineland</toponymName>
+<name>Pineland</name>
+<lat>31.24797</lat>
+<lng>-93.97436</lng>
+<geonameId>4719252</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>850</population>
+<alternateNames/>
+<elevation>81</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>403</adminCode2>
+<adminName2>Sabine County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Pineland%2C_Texas</alternateName>
+<alternateName lang="post">75968</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-93.97541</west>
+<north>31.24887</north>
+<east>-93.9733</east>
+<south>31.24707</south>
+</bbox>
+<score>7.483052730560303</score>
+</geoname>
+<geoname>
+<toponymName>Rosevine</toponymName>
+<name>Rosevine</name>
+<lat>31.42046</lat>
+<lng>-93.97519</lng>
+<geonameId>4723934</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>94</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>403</adminCode2>
+<adminName2>Sabine County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Rosevine%2C_Texas</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-93.98573</west>
+<north>31.42945</north>
+<east>-93.96465</east>
+<south>31.41147</south>
+</bbox>
+<score>7.483052730560303</score>
+</geoname>
+<geoname>
+<toponymName>Sabine</toponymName>
+<name>Sabine</name>
+<lat>29.71994</lat>
+<lng>-93.87155</lng>
+<geonameId>4724542</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>245</adminCode2>
+<adminName2>Jefferson County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Sabine_River_%28Texas%E2%80%93Louisiana%29</alternateName>
+<alternateName lang="unlc">SAB</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-93.88191</west>
+<north>29.72894</north>
+<east>-93.8612</east>
+<south>29.71095</south>
+</bbox>
+<score>6.705600261688232</score>
+</geoname>
+<geoname>
+<toponymName>Alligator Lake</toponymName>
+<name>Alligator Lake</name>
+<lat>31.2263</lat>
+<lng>-93.60129</lng>
+<geonameId>4670432</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>LK</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>lake</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>52</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>403</adminCode2>
+<adminName2>Sabine County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>5.9864420890808105</score>
+</geoname>
+</geonames>

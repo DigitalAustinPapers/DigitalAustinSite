@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>8</totalResultsCount>
+<geoname>
+<toponymName>Westfall</toponymName>
+<name>Westfall</name>
+<lat>43.99182</lat>
+<lng>-117.70908</lng>
+<geonameId>5760130</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>913</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OR">OR</adminCode1>
+<adminName1>Oregon</adminName1>
+<adminCode2>045</adminCode2>
+<adminName2>Malheur County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Westfall%2C_Oregon</alternateName>
+<alternateName lang="post">97920</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Boise</timezone>
+<bbox>
+<west>-117.72158</west>
+<north>44.00082</north>
+<east>-117.69657</east>
+<south>43.98283</south>
+</bbox>
+<score>35.71158218383789</score>
+</geoname>
+<geoname>
+<toponymName>Westhall</toponymName>
+<name>Westhall</name>
+<lat>52.37872</lat>
+<lng>1.54644</lng>
+<geonameId>7292622</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UH</adminCode3>
+<adminName3>Waveney District</adminName3>
+<adminCode4>42UH052</adminCode4>
+<adminName4>Westhall</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Westhall</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.51162</west>
+<north>52.3994</north>
+<east>1.58127</east>
+<south>52.35804</south>
+</bbox>
+<score>26.034595489501953</score>
+</geoname>
+<geoname>
+<toponymName>Westfall</toponymName>
+<name>Westfall</name>
+<lat>38.93001</lat>
+<lng>-98.01144</lng>
+<geonameId>4281599</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>432</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KS">KS</adminCode1>
+<adminName1>Kansas</adminName1>
+<adminCode2>105</adminCode2>
+<adminName2>Lincoln County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-98.023</west>
+<north>38.939</north>
+<east>-97.99987</east>
+<south>38.92101</south>
+</bbox>
+<score>23.807722091674805</score>
+</geoname>
+<geoname>
+<toponymName>Westfall</toponymName>
+<name>Westfall</name>
+<lat>39.55812</lat>
+<lng>-82.99907</lng>
+<geonameId>4528123</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>202</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>129</adminCode2>
+<adminName2>Pickaway County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-83.01074</west>
+<north>39.56711</north>
+<east>-82.9874</east>
+<south>39.54912</south>
+</bbox>
+<score>23.807722091674805</score>
+</geoname>
+<geoname>
+<toponymName>Westfall</toponymName>
+<name>Westfall</name>
+<lat>47.12104</lat>
+<lng>-114.78791</lng>
+<geonameId>5685804</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>859</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MT">MT</adminCode1>
+<adminName1>Montana</adminName1>
+<adminCode2>061</adminCode2>
+<adminName2>Mineral County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<bbox>
+<west>-114.80112</west>
+<north>47.13003</north>
+<east>-114.77469</east>
+<south>47.11204</south>
+</bbox>
+<score>23.807722091674805</score>
+</geoname>
+<geoname>
+<toponymName>Wescall</toponymName>
+<name>Wescall</name>
+<lat>40.58273</lat>
+<lng>-111.98244</lng>
+<geonameId>5784499</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1415</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="UT">UT</adminCode1>
+<adminName1>Utah</adminName1>
+<adminCode2>035</adminCode2>
+<adminName2>Salt Lake County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<bbox>
+<west>-111.98717</west>
+<north>40.58632</north>
+<east>-111.9777</east>
+<south>40.57913</south>
+</bbox>
+<score>17.114606857299805</score>
+</geoname>
+<geoname>
+<toponymName>Westhall Group</toponymName>
+<name>Westhall Group</name>
+<lat>6.9958</lat>
+<lng>80.5628</lng>
+<geonameId>1223418</geonameId>
+<countryCode>LK</countryCode>
+<countryName>Sri Lanka</countryName>
+<fcl>S</fcl>
+<fcode>EST</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>estate(s)</fcodeName>
+<population/>
+<alternateNames>Sinna Kadiansayne,Westhall,Westhall Group</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="2">29</adminCode1>
+<adminName1>Central</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="5.5" gmtOffset="5.5">Asia/Colombo</timezone>
+<score>11.50577449798584</score>
+</geoname>
+<geoname>
+<toponymName>Westfall</toponymName>
+<name>Westfall</name>
+<lat>43.11423</lat>
+<lng>-77.63278</lng>
+<geonameId>5144081</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>163</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>055</adminCode2>
+<adminName2>Monroe County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>7.439913272857666</score>
+</geoname>
+</geonames>

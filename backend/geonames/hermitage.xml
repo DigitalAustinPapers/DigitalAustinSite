@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>74</totalResultsCount>
+<geoname>
+<toponymName>Hermitage</toponymName>
+<name>Hermitage</name>
+<lat>51.4554</lat>
+<lng>-1.26823</lng>
+<geonameId>2647062</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1571</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P4</adminCode2>
+<adminName2>West Berkshire</adminName2>
+<adminCode3>00MB031</adminCode3>
+<adminName3>Hermitage</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hermitage%2C_Berkshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.27545</west>
+<north>51.45989</north>
+<east>-1.26102</east>
+<south>51.4509</south>
+</bbox>
+<score>53.76769256591797</score>
+</geoname>
+<geoname>
+<toponymName>Hermitage</toponymName>
+<name>Hermitage</name>
+<lat>12.45</lat>
+<lng>-61.46667</lng>
+<geonameId>3580219</geonameId>
+<countryCode>GD</countryCode>
+<countryName>Grenada</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Hermitage</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hermitage_%28Carriacou%29</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Grenada</timezone>
+<bbox>
+<west>-61.47588</west>
+<north>12.45899</north>
+<east>-61.45746</east>
+<south>12.44101</south>
+</bbox>
+<score>49.38877868652344</score>
+</geoname>
+<geoname>
+<toponymName>Hermitage</toponymName>
+<name>Hermitage</name>
+<lat>41.23339</lat>
+<lng>-80.44868</lng>
+<geonameId>5193309</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>16220</population>
+<alternateNames/>
+<elevation>328</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PA">PA</adminCode1>
+<adminName1>Pennsylvania</adminName1>
+<adminCode2>085</adminCode2>
+<adminName2>Mercer County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hermitage%2C_Pennsylvania</alternateName>
+<alternateName lang="post">16148</alternateName>
+<alternateName lang="unlc">HGX</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-80.47025</west>
+<north>41.2496</north>
+<east>-80.42711</east>
+<south>41.21718</south>
+</bbox>
+<score>47.046730041503906</score>
+</geoname>
+<geoname>
+<toponymName>Hermitage</toponymName>
+<name>Hermitage</name>
+<lat>51.45012</lat>
+<lng>-1.25947</lng>
+<geonameId>7301521</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P4</adminCode2>
+<adminName2>West Berkshire</adminName2>
+<adminCode3>00MB031</adminCode3>
+<adminName3>Hermitage</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.28074</west>
+<north>51.46565</north>
+<east>-1.2382</east>
+<south>51.43459</south>
+</bbox>
+<score>47.046730041503906</score>
+</geoname>
+<geoname>
+<toponymName>Hermitage</toponymName>
+<name>Hermitage</name>
+<lat>33.4465</lat>
+<lng>-92.17403</lng>
+<geonameId>4114413</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>830</population>
+<alternateNames/>
+<elevation>56</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">AR</adminCode1>
+<adminName1>Arkansas</adminName1>
+<adminCode2>011</adminCode2>
+<adminName2>Bradley County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hermitage%2C_Arkansas</alternateName>
+<alternateName lang="post">71647</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.17511</west>
+<north>33.4474</north>
+<east>-92.17295</east>
+<south>33.4456</south>
+</bbox>
+<score>40.325767517089844</score>
+</geoname>
+<geoname>
+<toponymName>Hermitage</toponymName>
+<name>Hermitage</name>
+<lat>30.64519</lat>
+<lng>-91.33844</lng>
+<geonameId>4327297</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>10</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>077</adminCode2>
+<adminName2>Pointe Coupee Parish</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hermitage%2C_Louisiana</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-91.3489</west>
+<north>30.65418</north>
+<east>-91.32799</east>
+<south>30.63619</south>
+</bbox>
+<score>40.325767517089844</score>
+</geoname>
+<geoname>
+<toponymName>Hermitage</toponymName>
+<name>Hermitage</name>
+<lat>47.53325</lat>
+<lng>-55.93164</lng>
+<geonameId>5974193</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NL">05</adminCode1>
+<adminName1>Newfoundland and Labrador</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hermitage%E2%80%93Sandyville</alternateName>
+<timezone dstOffset="-2.5" gmtOffset="-3.5">America/St_Johns</timezone>
+<bbox>
+<west>-55.94496</west>
+<north>47.54224</north>
+<east>-55.91832</east>
+<south>47.52425</south>
+</bbox>
+<score>40.325767517089844</score>
+</geoname>
+<geoname>
+<toponymName>Hermitage</toponymName>
+<name>Hermitage</name>
+<lat>37.34139</lat>
+<lng>-76.59583</lng>
+<geonameId>6332357</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>5</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>073</adminCode2>
+<adminName2>Gloucester County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hermitage%2C_Virginia</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-76.60715</west>
+<north>37.35038</north>
+<east>-76.58452</east>
+<south>37.3324</south>
+</bbox>
+<score>40.325767517089844</score>
+</geoname>
+<geoname>
+<toponymName>Hermitage</toponymName>
+<name>Hermitage</name>
+<lat>37.94142</lat>
+<lng>-93.31631</lng>
+<geonameId>4390229</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>467</population>
+<alternateNames/>
+<elevation>250</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>085</adminCode2>
+<adminName2>Hickory County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hermitage%2C_Missouri</alternateName>
+<alternateName lang="post">65668</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-93.31745</west>
+<north>37.94232</north>
+<east>-93.31517</east>
+<south>37.94052</south>
+</bbox>
+<score>33.60480880737305</score>
+</geoname>
+<geoname>
+<toponymName>Hermitage</toponymName>
+<name>Hermitage</name>
+<lat>36.19617</lat>
+<lng>-86.6225</lng>
+<geonameId>4628929</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>148</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TN">TN</adminCode1>
+<adminName1>Tennessee</adminName1>
+<adminCode2>037</adminCode2>
+<adminName2>Davidson County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hermitage%2C_Tennessee</alternateName>
+<alternateName lang="post">37076</alternateName>
+<alternateName lang="unlc">HRA</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-86.63364</west>
+<north>36.20516</north>
+<east>-86.61135</east>
+<south>36.18717</south>
+</bbox>
+<score>33.60480880737305</score>
+</geoname>
+</geonames>

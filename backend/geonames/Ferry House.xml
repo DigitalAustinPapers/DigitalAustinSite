@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Ferry House</toponymName>
+<name>Ferry House</name>
+<lat>52.10111</lat>
+<lng>-9.71444</lng>
+<geonameId>3290721</geonameId>
+<countryCode>IE</countryCode>
+<countryName>Ireland</countryName>
+<fcl>S</fcl>
+<fcode>HSEC</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>country house</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="M">M</adminCode1>
+<adminName1>Munster</adminName1>
+<adminCode2>11</adminCode2>
+<adminName2>Co Kerry</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Dublin</timezone>
+<score>13.69630241394043</score>
+</geoname>
+<geoname>
+<toponymName>Ferry House</toponymName>
+<name>Ferry House</name>
+<lat>54.60583</lat>
+<lng>-7.85806</lng>
+<geonameId>3308462</geonameId>
+<countryCode>IE</countryCode>
+<countryName>Ireland</countryName>
+<fcl>S</fcl>
+<fcode>HSEC</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>country house</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="U">U</adminCode1>
+<adminName1>Ulster</adminName1>
+<adminCode2>06</adminCode2>
+<adminName2>Donegal</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Dublin</timezone>
+<score>13.69630241394043</score>
+</geoname>
+<geoname>
+<toponymName>Ferry House</toponymName>
+<name>Ferry House</name>
+<lat>41.68611</lat>
+<lng>-73.89444</lng>
+<geonameId>7203782</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>BLDG</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>building(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>49</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>027</adminCode2>
+<adminName2>Dutchess County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>13.69630241394043</score>
+</geoname>
+<geoname>
+<toponymName>Ferrel House</toponymName>
+<name>Ferrel House</name>
+<lat>37.74139</lat>
+<lng>-79.34861</lng>
+<geonameId>6339908</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>BLDG</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>building(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>287</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>530</adminCode2>
+<adminName2>City of Buena Vista</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>1.358480453491211</score>
+</geoname>
+</geonames>

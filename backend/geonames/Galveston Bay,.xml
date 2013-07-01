@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Galveston Bay</toponymName>
+<name>Galveston Bay</name>
+<lat>29.56967</lat>
+<lng>-94.93659</lng>
+<geonameId>4692847</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>BAY</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>bay</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>0</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>071</adminCode2>
+<adminName2>Chambers County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Galveston_Bay</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Indiana/Petersburg</timezone>
+<score>5.080765724182129</score>
+</geoname>
+</geonames>

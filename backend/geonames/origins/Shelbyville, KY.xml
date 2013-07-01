@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>11</totalResultsCount>
+<geoname>
+<toponymName>Shelbyville</toponymName>
+<name>Shelbyville</name>
+<lat>38.21201</lat>
+<lng>-85.22357</lng>
+<geonameId>4308122</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>14045</population>
+<alternateNames>Shelbivll,shlbywyl, kntaky,Шелбивлл,شلبیویل، کنتاکی</alternateNames>
+<elevation>232</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>211</adminCode2>
+<adminName2>Shelby County</adminName2>
+<alternateName lang="fa">شلبیویل، کنتاکی</alternateName>
+<alternateName lang="kk">Шелбивлл</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Shelbyville%2C_Kentucky</alternateName>
+<alternateName lang="post">40066</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-85.24255</west>
+<north>38.22693</north>
+<east>-85.20458</east>
+<south>38.1971</south>
+</bbox>
+<score>20.27432632446289</score>
+</geoname>
+<geoname>
+<toponymName>City of Shelbyville</toponymName>
+<name>City of Shelbyville</name>
+<lat>38.20607</lat>
+<lng>-85.23015</lng>
+<geonameId>7170811</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>administrative division</fcodeName>
+<population>14045</population>
+<alternateNames/>
+<elevation>232</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>211</adminCode2>
+<adminName2>Shelby County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-85.28295</west>
+<north>38.23782</north>
+<east>-85.19028</east>
+<south>38.16165</south>
+</bbox>
+<score>13.516218185424805</score>
+</geoname>
+<geoname>
+<toponymName>Days Inn Shelbyville</toponymName>
+<name>Days Inn Shelbyville</name>
+<lat>38.1996</lat>
+<lng>-85.2672</lng>
+<geonameId>6478055</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>HTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>hotel</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>211</adminCode2>
+<adminName2>Shelby County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>3.2455854415893555</score>
+</geoname>
+<geoname>
+<toponymName>Ramada Shelbyville</toponymName>
+<name>Ramada Shelbyville</name>
+<lat>38.22</lat>
+<lng>-85.2</lng>
+<geonameId>6493537</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>HTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>hotel</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>211</adminCode2>
+<adminName2>Shelby County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>3.2455854415893555</score>
+</geoname>
+<geoname>
+<toponymName>Best Western Shelbyville Lodge</toponymName>
+<name>Best Western Shelbyville Lodge</name>
+<lat>38.2027</lat>
+<lng>-85.267</lng>
+<geonameId>6531875</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>HTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>hotel</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>211</adminCode2>
+<adminName2>Shelby County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>3.2455854415893555</score>
+</geoname>
+<geoname>
+<toponymName>WCKP-FM (Shelbyville)</toponymName>
+<name>WCKP-FM (Shelbyville)</name>
+<lat>38.2134</lat>
+<lng>-85.17107</lng>
+<geonameId>4312172</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>TOWR</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>tower</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>247</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>211</adminCode2>
+<adminName2>Shelby County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>2.9566726684570312</score>
+</geoname>
+<geoname>
+<toponymName>WCND-AM (Shelbyville)</toponymName>
+<name>WCND-AM (Shelbyville)</name>
+<lat>38.2134</lat>
+<lng>-85.17107</lng>
+<geonameId>4312178</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>TOWR</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>tower</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>247</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>211</adminCode2>
+<adminName2>Shelby County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>2.9566726684570312</score>
+</geoname>
+<geoname>
+<toponymName>WCND-AM (Shelbyville)</toponymName>
+<name>WCND-AM (Shelbyville)</name>
+<lat>38.21674</lat>
+<lng>-85.16245</lng>
+<geonameId>4312179</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>TOWR</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>tower</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>249</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>211</adminCode2>
+<adminName2>Shelby County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>2.9566726684570312</score>
+</geoname>
+<geoname>
+<toponymName>Shelbyville Fire Dept</toponymName>
+<name>Shelbyville Fire Dept</name>
+<lat>38.18013</lat>
+<lng>-85.21402</lng>
+<geonameId>8087594</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>BLDG</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>building(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>251</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>211</adminCode2>
+<adminName2>Shelby County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>2.9566726684570312</score>
+</geoname>
+<geoname>
+<toponymName>Shelbyville Fire Department</toponymName>
+<name>Shelbyville Fire Department</name>
+<lat>38.21205</lat>
+<lng>-85.2252</lng>
+<geonameId>8087907</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>BLDG</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>building(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>233</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>211</adminCode2>
+<adminName2>Shelby County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>2.9566726684570312</score>
+</geoname>
+</geonames>

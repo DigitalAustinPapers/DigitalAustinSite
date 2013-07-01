@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>6</totalResultsCount>
+<geoname>
+<toponymName>Comargo</toponymName>
+<name>Comargo</name>
+<lat>36.67758</lat>
+<lng>-84.54133</lng>
+<geonameId>4288372</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>344</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>147</adminCode2>
+<adminName2>McCreary County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Comargo%2C_Kentucky</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-84.55254</west>
+<north>36.68657</north>
+<east>-84.53011</east>
+<south>36.66858</south>
+</bbox>
+<score>60.07725524902344</score>
+</geoname>
+<geoname>
+<toponymName>Comargo</toponymName>
+<name>Comargo</name>
+<lat>39.29034</lat>
+<lng>-84.16382</lng>
+<geonameId>4509212</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>269</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>165</adminCode2>
+<adminName2>Warren County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-84.17545</west>
+<north>39.29933</north>
+<east>-84.1522</east>
+<south>39.28134</south>
+</bbox>
+<score>40.0515022277832</score>
+</geoname>
+<geoname>
+<toponymName>Conargo</toponymName>
+<name>Conargo</name>
+<lat>-35.23387</lat>
+<lng>144.82349</lng>
+<geonameId>7839714</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="NSW">02</adminCode1>
+<adminName1>New South Wales</adminName1>
+<adminCode2>11860</adminCode2>
+<adminName2>Conargo</adminName2>
+<timezone dstOffset="10.0" gmtOffset="11.0">Australia/Sydney</timezone>
+<bbox>
+<west>144.04861</west>
+<north>-34.74033</north>
+<east>145.59837</east>
+<south>-35.7274</south>
+</bbox>
+<score>28.60821533203125</score>
+</geoname>
+<geoname>
+<toponymName>Conargo</toponymName>
+<name>Conargo</name>
+<lat>-35.31667</lat>
+<lng>145.15</lng>
+<geonameId>2170857</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>189</population>
+<alternateNames>Conargo</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="NSW">02</adminCode1>
+<adminName1>New South Wales</adminName1>
+<adminCode2>11860</adminCode2>
+<adminName2>Conargo</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Conargo</alternateName>
+<timezone dstOffset="10.0" gmtOffset="11.0">Australia/Sydney</timezone>
+<bbox>
+<west>145.1489</west>
+<north>-35.31577</north>
+<east>145.1511</east>
+<south>-35.31757</south>
+</bbox>
+<score>21.022659301757812</score>
+</geoname>
+<geoname>
+<toponymName>Cobargo</toponymName>
+<name>Cobargo</name>
+<lat>-36.38788</lat>
+<lng>149.88634</lng>
+<geonameId>2171213</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>426</population>
+<alternateNames>Cobargo,Kobargo,Кобарго</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="NSW">02</adminCode1>
+<adminName1>New South Wales</adminName1>
+<adminCode2>10550</adminCode2>
+<adminName2>Bega Valley</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cobargo%2C_New_South_Wales</alternateName>
+<alternateName lang="ru">Кобарго</alternateName>
+<timezone dstOffset="10.0" gmtOffset="11.0">Australia/Sydney</timezone>
+<bbox>
+<west>149.79729</west>
+<north>-36.34652</north>
+<east>149.89886</east>
+<south>-36.43939</south>
+</bbox>
+<score>14.741189956665039</score>
+</geoname>
+<geoname>
+<toponymName>Kopargo</toponymName>
+<name>Kopargo</name>
+<lat>9.84108</lat>
+<lng>1.54231</lng>
+<geonameId>2394822</geonameId>
+<countryCode>BJ</countryCode>
+<countryName>Benin</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Copargo,Kopargo</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="DO">13</adminCode1>
+<adminName1>Donga</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Copargo</alternateName>
+<timezone dstOffset="1.0" gmtOffset="1.0">Africa/Porto-Novo</timezone>
+<bbox>
+<west>1.53318</west>
+<north>9.85008</north>
+<east>1.55143</east>
+<south>9.83209</south>
+</bbox>
+<score>10.638537406921387</score>
+</geoname>
+</geonames>

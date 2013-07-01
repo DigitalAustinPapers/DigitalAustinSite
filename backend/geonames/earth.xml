@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Earth</toponymName>
+<name>Earth</name>
+<lat>0</lat>
+<lng>0</lng>
+<geonameId>6295630</geonameId>
+<countryCode/>
+<countryName/>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population>6814400000</population>
+<alternateNames>Aarde,Earth,Erde,Foeld,Föld,Ge,Globe,Globo,Jorden,Lurra,Maa,Monde,Mondo,Mundo,Mundua,Orbs,Pamant,Pamânt,Pianeta Terra,Planeta Tierra,Tero,Terra,Terre,Tierra,Welt,World,Ydrogeios,Yeryuezue,Yeryüzü,Zeme,Zemlja,Ziemia,el mon,el món,el planeta,nuestro planeta,prthvi,Γη,Υδρόγειος,Земля,पृथ्वी</alternateNames>
+<elevation/>
+<adminCode1/>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ca">el món</alternateName>
+<alternateName lang="de">Erde</alternateName>
+<alternateName lang="el">Γη</alternateName>
+<alternateName lang="en">Earth</alternateName>
+<alternateName lang="eo">Mondo</alternateName>
+<alternateName lang="es">Mundo</alternateName>
+<alternateName lang="eu">Mundua</alternateName>
+<alternateName lang="fi">Maa</alternateName>
+<alternateName lang="fr">Monde</alternateName>
+<alternateName lang="hi">पृथ्वी</alternateName>
+<alternateName lang="hu">Föld</alternateName>
+<alternateName lang="it">Terra</alternateName>
+<alternateName lang="la">Orbs</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Earth</alternateName>
+<alternateName lang="lv">Zeme</alternateName>
+<alternateName lang="nl">Aarde</alternateName>
+<alternateName lang="no">Jorden</alternateName>
+<alternateName lang="pl">Ziemia</alternateName>
+<alternateName lang="ro">Pamânt</alternateName>
+<alternateName lang="ru">Земля</alternateName>
+<alternateName lang="tr">Yeryüzü</alternateName>
+<score>219.66537475585938</score>
+</geoname>
+<geoname>
+<toponymName>Earth, TX</toponymName>
+<name>Earth, TX</name>
+<lat>34.23314</lat>
+<lng>-102.41075</lng>
+<geonameId>5520687</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1065</population>
+<alternateNames>Earth</alternateNames>
+<elevation>1126</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>279</adminCode2>
+<adminName2>Lamb County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Earth%2C_Texas</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-102.41184</west>
+<north>34.23404</north>
+<east>-102.40966</east>
+<south>34.23224</south>
+</bbox>
+<score>55.485443115234375</score>
+</geoname>
+</geonames>

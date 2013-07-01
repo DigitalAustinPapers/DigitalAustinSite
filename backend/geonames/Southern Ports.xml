@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Southern Points</toponymName>
+<name>Southern Points</name>
+<lat>36.86209</lat>
+<lng>-76.05521</lng>
+<geonameId>4786764</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>0</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>810</adminCode2>
+<adminName2>City of Virginia Beach</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-76.06645</west>
+<north>36.87109</north>
+<east>-76.04397</east>
+<south>36.8531</south>
+</bbox>
+<score>32.51689910888672</score>
+</geoname>
+<geoname>
+<toponymName>Southern Ponds</toponymName>
+<name>Southern Ponds</name>
+<lat>47.04989</lat>
+<lng>-52.98136</lng>
+<geonameId>6152093</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>H</fcl>
+<fcode>PNDS</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>ponds</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NL">05</adminCode1>
+<adminName1>Newfoundland and Labrador</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-2.5" gmtOffset="-3.5">America/St_Johns</timezone>
+<score>10.161531448364258</score>
+</geoname>
+</geonames>

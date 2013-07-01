@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>152</totalResultsCount>
+<geoname>
+<toponymName>Saline</toponymName>
+<name>Saline</name>
+<lat>56.11399</lat>
+<lng>-3.57034</lng>
+<geonameId>2638665</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1161</population>
+<alternateNames>Saline</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>V1</adminCode2>
+<adminName2>Fife</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Saline%2C_Fife</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.57195</west>
+<north>56.11489</north>
+<east>-3.56873</east>
+<south>56.11309</south>
+</bbox>
+<score>57.28219985961914</score>
+</geoname>
+<geoname>
+<toponymName>Saline</toponymName>
+<name>Saline</name>
+<lat>32.1646</lat>
+<lng>-92.97433</lng>
+<geonameId>4340667</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>277</population>
+<alternateNames/>
+<elevation>56</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>013</adminCode2>
+<adminName2>Bienville Parish</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Saline%2C_Louisiana</alternateName>
+<alternateName lang="post">71070</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.97539</west>
+<north>32.1655</north>
+<east>-92.97326</east>
+<south>32.1637</south>
+</bbox>
+<score>40.08919143676758</score>
+</geoname>
+<geoname>
+<toponymName>Saline</toponymName>
+<name>Saline</name>
+<lat>42.16671</lat>
+<lng>-83.78161</lng>
+<geonameId>5008768</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>8810</population>
+<alternateNames/>
+<elevation>250</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MI">MI</adminCode1>
+<adminName1>Michigan</adminName1>
+<adminCode2>161</adminCode2>
+<adminName2>Washtenaw County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Saline%2C_Michigan</alternateName>
+<alternateName lang="post">48176</alternateName>
+<alternateName lang="unlc">SJI</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Detroit</timezone>
+<bbox>
+<west>-83.80274</west>
+<north>42.19959</north>
+<east>-83.75322</east>
+<south>42.15345</south>
+</bbox>
+<score>40.08919143676758</score>
+</geoname>
+<geoname>
+<toponymName>Saline</toponymName>
+<name>Saline</name>
+<lat>43.36667</lat>
+<lng>10.81667</lng>
+<geonameId>3168650</geonameId>
+<countryCode>IT</countryCode>
+<countryName>Italy</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Saline,Saline di Volterra</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="52">16</adminCode1>
+<adminName1>Tuscany</adminName1>
+<adminCode2>PI</adminCode2>
+<adminName2>Pisa</adminName2>
+<adminCode3>050039</adminCode3>
+<adminName3>Volterra</adminName3>
+<alternateName lang="unlc">SDI</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Rome</timezone>
+<bbox>
+<west>10.80429</west>
+<north>43.37566</north>
+<east>10.82904</east>
+<south>43.35767</south>
+</bbox>
+<score>28.64109992980957</score>
+</geoname>
+<geoname>
+<toponymName>Saline</toponymName>
+<name>Saline</name>
+<lat>37.95</lat>
+<lng>15.7</lng>
+<geonameId>2523547</geonameId>
+<countryCode>IT</countryCode>
+<countryName>Italy</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="78">03</adminCode1>
+<adminName1>Calabria</adminName1>
+<adminCode2>RC</adminCode2>
+<adminName2>Provincia di Reggio Calabria</adminName2>
+<adminCode3>080053</adminCode3>
+<adminName3>Montebello Ionico</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Rome</timezone>
+<bbox>
+<west>15.68859</west>
+<north>37.95899</north>
+<east>15.71141</east>
+<south>37.94101</south>
+</bbox>
+<score>26.72612762451172</score>
+</geoname>
+<geoname>
+<toponymName>Saline</toponymName>
+<name>Saline</name>
+<lat>49.46667</lat>
+<lng>8.18333</lng>
+<geonameId>2842284</geonameId>
+<countryCode>DE</countryCode>
+<countryName>Germany</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="RP">08</adminCode1>
+<adminName1>Rheinland-Pfalz</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Berlin</timezone>
+<bbox>
+<west>8.16949</west>
+<north>49.47566</north>
+<east>8.19717</east>
+<south>49.45767</south>
+</bbox>
+<score>26.72612762451172</score>
+</geoname>
+<geoname>
+<toponymName>Saline</toponymName>
+<name>Saline</name>
+<lat>46.25</lat>
+<lng>9.48333</lng>
+<geonameId>3168649</geonameId>
+<countryCode>IT</countryCode>
+<countryName>Italy</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="25">09</adminCode1>
+<adminName1>Lombardy</adminName1>
+<adminCode2>SO</adminCode2>
+<adminName2>Provincia di Sondrio</adminName2>
+<adminCode3>014046</adminCode3>
+<adminName3>Novate Mezzola</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Rome</timezone>
+<bbox>
+<west>9.47033</west>
+<north>46.25899</north>
+<east>9.49634</east>
+<south>46.24101</south>
+</bbox>
+<score>26.72612762451172</score>
+</geoname>
+<geoname>
+<toponymName>Saline</toponymName>
+<name>Saline</name>
+<lat>42.19991</lat>
+<lng>11.72241</lng>
+<geonameId>3168651</geonameId>
+<countryCode>IT</countryCode>
+<countryName>Italy</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="62">07</adminCode1>
+<adminName1>Latium</adminName1>
+<adminCode2>VT</adminCode2>
+<adminName2>Provincia di Viterbo</adminName2>
+<adminCode3>056050</adminCode3>
+<adminName3>Tarquinia</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Rome</timezone>
+<bbox>
+<west>11.71027</west>
+<north>42.2089</north>
+<east>11.73455</east>
+<south>42.19092</south>
+</bbox>
+<score>26.72612762451172</score>
+</geoname>
+<geoname>
+<toponymName>Saline</toponymName>
+<name>Saline</name>
+<lat>18.91667</lat>
+<lng>-73.05</lng>
+<geonameId>3717522</geonameId>
+<countryCode>HT</countryCode>
+<countryName>Haiti</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OU">11</adminCode1>
+<adminName1>Ouest</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Port-au-Prince</timezone>
+<score>26.72612762451172</score>
+</geoname>
+<geoname>
+<toponymName>Saline</toponymName>
+<name>Saline</name>
+<lat>33.87344</lat>
+<lng>-92.26709</lng>
+<geonameId>4130031</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>51</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">AR</adminCode1>
+<adminName1>Arkansas</adminName1>
+<adminCode2>025</adminCode2>
+<adminName2>Cleveland County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.27793</west>
+<north>33.88243</north>
+<east>-92.25626</east>
+<south>33.86444</south>
+</bbox>
+<score>26.72612762451172</score>
+</geoname>
+</geonames>

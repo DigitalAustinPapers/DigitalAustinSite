@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>65</totalResultsCount>
+<geoname>
+<toponymName>Augusta</toponymName>
+<name>Augusta</name>
+<lat>37.23655</lat>
+<lng>15.21969</lng>
+<geonameId>2525646</geonameId>
+<countryCode>IT</countryCode>
+<countryName>Italy</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>33820</population>
+<alternateNames>Augusta,Austa,augusuta,アウグスタ</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="82">15</adminCode1>
+<adminName1>Sicily</adminName1>
+<adminCode2>SR</adminCode2>
+<adminName2>Syracuse</adminName2>
+<adminCode3>089001</adminCode3>
+<adminName3>Augusta</adminName3>
+<alternateName lang="de">Augusta</alternateName>
+<alternateName lang="en">Augusta</alternateName>
+<alternateName lang="es">Augusta</alternateName>
+<alternateName lang="fr">Augusta</alternateName>
+<alternateName lang="hu">Augusta</alternateName>
+<alternateName lang="it">Augusta</alternateName>
+<alternateName lang="ja">アウグスタ</alternateName>
+<alternateName lang="nap">Augusta</alternateName>
+<alternateName lang="nl">Augusta</alternateName>
+<alternateName lang="pt">Augusta</alternateName>
+<alternateName lang="scn">Austa</alternateName>
+<alternateName lang="sv">Augusta</alternateName>
+<alternateName lang="unlc">AUG</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Rome</timezone>
+<bbox>
+<west>15.1898</west>
+<north>37.26034</north>
+<east>15.24959</east>
+<south>37.21275</south>
+</bbox>
+<score>88.74398040771484</score>
+</geoname>
+<geoname>
+<toponymName>Augusta</toponymName>
+<name>Augusta</name>
+<lat>44.31062</lat>
+<lng>-69.77949</lng>
+<geonameId>4957003</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population>19136</population>
+<alternateNames>AUG,Aounkousta,Augusta,Gorad Agasta,Ogasta,Ogusta,agasta,agwsta,akasta,ao gu si ta,awghwsta, myn,ogasta,ogasuta,ogeoseuta,Αουγκούστα,Аугуста,Горад Агаста,Огаста,Огъста,Օգաստա,אוגוסטה,آگوستا,أوغوستا، مين,ऑगस्टा,অগাস্টা,அகஸ்தா,オーガスタ,奥古斯塔,오거스타</alternateNames>
+<elevation>38</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ME">ME</adminCode1>
+<adminName1>Maine</adminName1>
+<adminCode2>011</adminCode2>
+<adminName2>Kennebec County</adminName2>
+<alternateName lang="ar">أوغوستا، مين</alternateName>
+<alternateName lang="be">Горад Агаста</alternateName>
+<alternateName lang="bg">Огъста</alternateName>
+<alternateName lang="bn">অগাস্টা</alternateName>
+<alternateName lang="da">Augusta</alternateName>
+<alternateName lang="de">Augusta</alternateName>
+<alternateName lang="el">Αουγκούστα</alternateName>
+<alternateName lang="en">Augusta</alternateName>
+<alternateName lang="eo">Augusta</alternateName>
+<alternateName lang="es">Augusta</alternateName>
+<alternateName lang="et">Augusta</alternateName>
+<alternateName lang="eu">Augusta</alternateName>
+<alternateName lang="fa">آگوستا</alternateName>
+<alternateName lang="fi">Augusta</alternateName>
+<alternateName lang="fr">Augusta</alternateName>
+<alternateName lang="he">אוגוסטה</alternateName>
+<alternateName lang="hy">Օգաստա</alternateName>
+<alternateName lang="iata">AUG</alternateName>
+<alternateName lang="id">Augusta</alternateName>
+<alternateName lang="io">Augusta</alternateName>
+<alternateName lang="it">Augusta</alternateName>
+<alternateName lang="ja">オーガスタ</alternateName>
+<alternateName lang="kk">Аугуста</alternateName>
+<alternateName lang="ko">오거스타</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Augusta%2C_Maine</alternateName>
+<alternateName lang="lt">Ogasta</alternateName>
+<alternateName lang="lv">Ogasta</alternateName>
+<alternateName lang="mk">Огаста</alternateName>
+<alternateName lang="mr">ऑगस्टा</alternateName>
+<alternateName lang="mrj">Огаста</alternateName>
+<alternateName lang="nl">Augusta</alternateName>
+<alternateName lang="no">Augusta</alternateName>
+<alternateName lang="oc">Augusta</alternateName>
+<alternateName lang="pl">Augusta</alternateName>
+<alternateName lang="post">04332</alternateName>
+<alternateName lang="pt">Augusta</alternateName>
+<alternateName lang="ru">Огаста</alternateName>
+<alternateName lang="sr">Огаста</alternateName>
+<alternateName lang="sv">Augusta</alternateName>
+<alternateName lang="ta">அகஸ்தா</alternateName>
+<alternateName lang="uk">Огаста</alternateName>
+<alternateName lang="unlc">AUG</alternateName>
+<alternateName lang="zh">奥古斯塔</alternateName>
+<alternateName lang="zh-CN">奥古斯塔</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-69.80384</west>
+<north>44.32804</north>
+<east>-69.75514</east>
+<south>44.29321</south>
+</bbox>
+<score>87.40214538574219</score>
+</geoname>
+<geoname>
+<toponymName>Augusta</toponymName>
+<name>Augusta</name>
+<lat>33.47097</lat>
+<lng>-81.97484</lng>
+<geonameId>4180531</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>43459</population>
+<alternateNames>AGS,Augusta,Ogasta,Ogusta,agasta,agwsta, jwrjya,ao gu si ta,awghsta, jwrjya,ogasuta,ogeoseuta,Огаста,Огъста,אוגוסטה,آگوستا، جورجیا,أوغستا، جورجيا,अगस्टा,অগাস্টা,オーガスタ,奥古斯塔,오거스타</alternateNames>
+<elevation>43</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">GA</adminCode1>
+<adminName1>Georgia</adminName1>
+<adminCode2>245</adminCode2>
+<adminName2>Richmond County</adminName2>
+<alternateName lang="ar">أوغستا، جورجيا</alternateName>
+<alternateName lang="bg">Огъста</alternateName>
+<alternateName lang="bn">অগাস্টা</alternateName>
+<alternateName lang="da">Augusta</alternateName>
+<alternateName lang="de">Augusta</alternateName>
+<alternateName lang="en">Augusta</alternateName>
+<alternateName lang="es">Augusta</alternateName>
+<alternateName lang="fa">آگوستا، جورجیا</alternateName>
+<alternateName lang="fi">Augusta</alternateName>
+<alternateName lang="fr">Augusta</alternateName>
+<alternateName lang="gl">Augusta</alternateName>
+<alternateName lang="he">אוגוסטה</alternateName>
+<alternateName lang="iata">AGS</alternateName>
+<alternateName lang="ja">オーガスタ</alternateName>
+<alternateName lang="ko">오거스타</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Augusta%2C_Georgia</alternateName>
+<alternateName lang="nl">Augusta</alternateName>
+<alternateName lang="no">Augusta</alternateName>
+<alternateName lang="pl">Augusta</alternateName>
+<alternateName lang="post">30916</alternateName>
+<alternateName lang="pt">Augusta</alternateName>
+<alternateName lang="ru">Огаста</alternateName>
+<alternateName lang="sa">अगस्टा</alternateName>
+<alternateName lang="sr">Огаста</alternateName>
+<alternateName lang="sv">Augusta</alternateName>
+<alternateName lang="uk">Огаста</alternateName>
+<alternateName lang="zh">奥古斯塔</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-82.00719</west>
+<north>33.49795</north>
+<east>-81.94248</east>
+<south>33.44399</south>
+</bbox>
+<score>61.16876220703125</score>
+</geoname>
+<geoname>
+<toponymName>Augusta</toponymName>
+<name>Augusta</name>
+<lat>-34.31566</lat>
+<lng>115.15922</lng>
+<geonameId>2077476</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1349</population>
+<alternateNames>Augusta</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="WA">08</adminCode1>
+<adminName1>Western Australia</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Augusta%2C_Western_Australia</alternateName>
+<alternateName lang="unlc">AGS</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Australia/Perth</timezone>
+<bbox>
+<west>115.088</west>
+<north>-34.2705</north>
+<east>115.17307</east>
+<south>-34.34668</south>
+</bbox>
+<score>56.631263732910156</score>
+</geoname>
+<geoname>
+<toponymName>Augusta</toponymName>
+<name>Augusta</name>
+<lat>38.33144</lat>
+<lng>-87.19084</lng>
+<geonameId>4254001</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>169</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IN">IN</adminCode1>
+<adminName1>Indiana</adminName1>
+<adminCode2>125</adminCode2>
+<adminName2>Pike County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Augusta%2C_Indiana</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Indiana/Petersburg</timezone>
+<bbox>
+<west>-87.20231</west>
+<north>38.34043</north>
+<east>-87.17937</east>
+<south>38.32245</south>
+</bbox>
+<score>46.239234924316406</score>
+</geoname>
+<geoname>
+<toponymName>Augusta</toponymName>
+<name>Augusta</name>
+<lat>31.53157</lat>
+<lng>-95.33078</lng>
+<geonameId>4671637</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>114</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>225</adminCode2>
+<adminName2>Houston County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Augusta%2C_Texas</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-95.34133</west>
+<north>31.54056</north>
+<east>-95.32023</east>
+<south>31.52257</south>
+</bbox>
+<score>46.239234924316406</score>
+</geoname>
+<geoname>
+<toponymName>Augusta</toponymName>
+<name>Augusta</name>
+<lat>37.68668</lat>
+<lng>-96.9767</lng>
+<geonameId>4267773</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>9274</population>
+<alternateNames>Ogasta,Огаста</alternateNames>
+<elevation>389</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KS">KS</adminCode1>
+<adminName1>Kansas</adminName1>
+<adminCode2>015</adminCode2>
+<adminName2>Butler County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Augusta%2C_Kansas</alternateName>
+<alternateName lang="post">67010</alternateName>
+<alternateName lang="ru">Огаста</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-96.99174</west>
+<north>37.69858</north>
+<east>-96.96167</east>
+<south>37.67479</south>
+</bbox>
+<score>38.53269577026367</score>
+</geoname>
+<geoname>
+<toponymName>Augusta</toponymName>
+<name>Augusta</name>
+<lat>40.75809</lat>
+<lng>-91.27571</lng>
+<geonameId>4847451</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Ogasta,Огаста</alternateNames>
+<elevation>177</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IA">IA</adminCode1>
+<adminName1>Iowa</adminName1>
+<adminCode2>057</adminCode2>
+<adminName2>Des Moines County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Augusta%2C_Iowa</alternateName>
+<alternateName lang="ru">Огаста</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-91.28758</west>
+<north>40.76709</north>
+<east>-91.26383</east>
+<south>40.7491</south>
+</bbox>
+<score>38.53269577026367</score>
+</geoname>
+<geoname>
+<toponymName>Augusta</toponymName>
+<name>Augusta</name>
+<lat>42.97479</lat>
+<lng>-75.50129</lng>
+<geonameId>5107518</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Ogasta,Огаста</alternateNames>
+<elevation>291</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>065</adminCode2>
+<adminName2>Oneida County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Augusta%2C_New_York</alternateName>
+<alternateName lang="ru">Огаста</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-75.51358</west>
+<north>42.98379</north>
+<east>-75.48899</east>
+<south>42.9658</south>
+</bbox>
+<score>38.53269577026367</score>
+</geoname>
+<geoname>
+<toponymName>Augusta</toponymName>
+<name>Augusta</name>
+<lat>44.68024</lat>
+<lng>-91.11988</lng>
+<geonameId>5244365</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1550</population>
+<alternateNames>Ogasta,Огаста</alternateNames>
+<elevation>293</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WI">WI</adminCode1>
+<adminName1>Wisconsin</adminName1>
+<adminCode2>035</adminCode2>
+<adminName2>Eau Claire County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Augusta%2C_Wisconsin</alternateName>
+<alternateName lang="post">54722</alternateName>
+<alternateName lang="ru">Огаста</alternateName>
+<alternateName lang="unlc">UUA</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-91.14503</west>
+<north>44.69143</north>
+<east>-91.09506</east>
+<south>44.66627</south>
+</bbox>
+<score>38.53269577026367</score>
+</geoname>
+</geonames>

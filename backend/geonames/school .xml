@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>21</totalResultsCount>
+<geoname>
+<toponymName>School</toponymName>
+<name>School</name>
+<lat>36.96506</lat>
+<lng>-93.46741</lng>
+<geonameId>4407776</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>396</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>209</adminCode2>
+<adminName2>Stone County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-93.47867</west>
+<north>36.97405</north>
+<east>-93.45616</east>
+<south>36.95606</south>
+</bbox>
+<score>40.00886154174805</score>
+</geoname>
+<geoname>
+<toponymName>Stroppare</toponymName>
+<name>Stroppare</name>
+<lat>45.15</lat>
+<lng>11.81667</lng>
+<geonameId>3166080</geonameId>
+<countryCode>IT</countryCode>
+<countryName>Italy</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>School,Stroppare</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="34">20</adminCode1>
+<adminName1>Veneto</adminName1>
+<adminCode2>PD</adminCode2>
+<adminName2>Padua</adminName2>
+<adminCode3>028070</adminCode3>
+<adminName3>Pozzonovo</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Rome</timezone>
+<bbox>
+<west>11.80391</west>
+<north>45.15899</north>
+<east>11.82942</east>
+<south>45.14101</south>
+</bbox>
+<score>28.290536880493164</score>
+</geoname>
+<geoname>
+<toponymName>Schoos</toponymName>
+<name>Schoos</name>
+<lat>49.74417</lat>
+<lng>6.17083</lng>
+<geonameId>2960088</geonameId>
+<countryCode>LU</countryCode>
+<countryName>Luxembourg</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>164</population>
+<alternateNames>Schoos</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="L">03</adminCode1>
+<adminName1>Luxembourg</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Schoos</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Luxembourg</timezone>
+<bbox>
+<west>6.16944</west>
+<north>49.74507</north>
+<east>6.17223</east>
+<south>49.74327</south>
+</bbox>
+<score>13.757094383239746</score>
+</geoname>
+<geoname>
+<toponymName>School</toponymName>
+<name>School</name>
+<lat>53.5882</lat>
+<lng>-2.3338</lng>
+<geonameId>6288579</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>STDM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>stadium</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C1</adminCode2>
+<adminName2>Bury</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>12.502769470214844</score>
+</geoname>
+<geoname>
+<toponymName>school</toponymName>
+<name>school</name>
+<lat>43.93917</lat>
+<lng>19.87333</lng>
+<geonameId>3337045</geonameId>
+<countryCode>RS</countryCode>
+<countryName>Serbia</countryName>
+<fcl>S</fcl>
+<fcode>SCH</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>school</fcodeName>
+<population/>
+<alternateNames>school</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="sr">school</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Belgrade</timezone>
+<score>12.250161170959473</score>
+</geoname>
+<geoname>
+<toponymName>Schoorl</toponymName>
+<name>Schoorl</name>
+<lat>52.70167</lat>
+<lng>4.69722</lng>
+<geonameId>2747492</geonameId>
+<countryCode>NL</countryCode>
+<countryName>Netherlands</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="NH">07</adminCode1>
+<adminName1>North Holland</adminName1>
+<adminCode2>0373</adminCode2>
+<adminName2>Bergen</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Schoorl</alternateName>
+<alternateName lang="unlc">SRL</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Amsterdam</timezone>
+<bbox>
+<west>4.68238</west>
+<north>52.71066</north>
+<east>4.71207</east>
+<south>52.69267</south>
+</bbox>
+<score>11.232620239257812</score>
+</geoname>
+<geoname>
+<toponymName>Schoot</toponymName>
+<name>Schoot</name>
+<lat>51.40083</lat>
+<lng>5.37917</lng>
+<geonameId>2747485</geonameId>
+<countryCode>NL</countryCode>
+<countryName>Netherlands</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="NB">06</adminCode1>
+<adminName1>North Brabant</adminName1>
+<adminCode2>0861</adminCode2>
+<adminName2>Gemeente Veldhoven</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Schoot%2C_Veldhoven</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Amsterdam</timezone>
+<bbox>
+<west>5.36475</west>
+<north>51.40983</north>
+<east>5.39359</east>
+<south>51.39184</south>
+</bbox>
+<score>9.568294525146484</score>
+</geoname>
+<geoname>
+<toponymName>Schiol</toponymName>
+<name>Schiol</name>
+<lat>54.75</lat>
+<lng>9.73333</lng>
+<geonameId>2839104</geonameId>
+<countryCode>DE</countryCode>
+<countryName>Germany</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SH">10</adminCode1>
+<adminName1>Schleswig-Holstein</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Berlin</timezone>
+<bbox>
+<west>9.71775</west>
+<north>54.75899</north>
+<east>9.74892</east>
+<south>54.74101</south>
+</bbox>
+<score>7.4884138107299805</score>
+</geoname>
+<geoname>
+<toponymName>Schoor</toponymName>
+<name>Schoor</name>
+<lat>51.05</lat>
+<lng>4.18333</lng>
+<geonameId>2786990</geonameId>
+<countryCode>BE</countryCode>
+<countryName>Belgium</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>'t Schoor,Schoor</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="VLG">VLG</adminCode1>
+<adminName1>Flanders</adminName1>
+<adminCode2>VOV</adminCode2>
+<adminName2>East Flanders Province</adminName2>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Brussels</timezone>
+<bbox>
+<west>4.16902</west>
+<north>51.05899</north>
+<east>4.19764</east>
+<south>51.04101</south>
+</bbox>
+<score>6.8359198570251465</score>
+</geoname>
+<geoname>
+<toponymName>Schoor</toponymName>
+<name>Schoor</name>
+<lat>51.265</lat>
+<lng>5.7625</lng>
+<geonameId>2747495</geonameId>
+<countryCode>NL</countryCode>
+<countryName>Netherlands</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="LI">05</adminCode1>
+<adminName1>Limburg</adminName1>
+<adminCode2>0946</adminCode2>
+<adminName2>Gemeente Nederweert</adminName2>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Amsterdam</timezone>
+<bbox>
+<west>5.74812</west>
+<north>51.27399</north>
+<east>5.77688</east>
+<south>51.25601</south>
+</bbox>
+<score>6.378863334655762</score>
+</geoname>
+</geonames>

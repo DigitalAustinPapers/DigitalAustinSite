@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>8</totalResultsCount>
+<geoname>
+<toponymName>Grande Rivière de Jacmel</toponymName>
+<name>Grande Rivière de Jacmel</name>
+<lat>18.23139</lat>
+<lng>-72.54694</lng>
+<geonameId>3723775</geonameId>
+<countryCode>HT</countryCode>
+<countryName>Haiti</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>Grand Riviere de Jacmel,Grand Rivière de Jacmel,Grande Riviere,Grande Riviere de Jacmel,Grande Rivière,Grande Rivière de Jacmel,River Grande</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SE">13</adminCode1>
+<adminName1>Sud-Est</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Grand_Rivi%C3%A8re_de_Jacmel</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Port-au-Prince</timezone>
+<score>18.382904052734375</score>
+</geoname>
+<geoname>
+<toponymName>River Guanda</toponymName>
+<name>River Guanda</name>
+<lat>11.04532</lat>
+<lng>6.9818</lng>
+<geonameId>2339815</geonameId>
+<countryCode>NG</countryCode>
+<countryName>Nigeria</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>River Guanda,River Gwanda</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="KD">23</adminCode1>
+<adminName1>Kaduna</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="1.0">Africa/Lagos</timezone>
+<score>6.696399688720703</score>
+</geoname>
+<geoname>
+<toponymName>Grand River</toponymName>
+<name>Grand River</name>
+<lat>42.85011</lat>
+<lng>-79.56631</lng>
+<geonameId>5964685</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>Grand,Rio Grand,Riviere Grand,Rivière Grand,nhr ghrand,نهر غراند</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ON">08</adminCode1>
+<adminName1>Ontario</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ar">نهر غراند</alternateName>
+<alternateName lang="fr">Rivière Grand</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Grand_River_%28Ontario%29</alternateName>
+<alternateName lang="pl">Grand</alternateName>
+<alternateName lang="pt">Rio Grand</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Toronto</timezone>
+<score>4.332889556884766</score>
+</geoname>
+<geoname>
+<toponymName>River Randa</toponymName>
+<name>River Randa</name>
+<lat>11.23516</lat>
+<lng>8.62611</lng>
+<geonameId>2347463</geonameId>
+<countryCode>NG</countryCode>
+<countryName>Nigeria</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>Bauda River,River Randa</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="KD">23</adminCode1>
+<adminName1>Kaduna</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="1.0">Africa/Lagos</timezone>
+<score>4.245347023010254</score>
+</geoname>
+<geoname>
+<toponymName>River Gwandu</toponymName>
+<name>River Gwandu</name>
+<lat>11.37782</lat>
+<lng>3.67608</lng>
+<geonameId>6960458</geonameId>
+<countryCode>NG</countryCode>
+<countryName>Nigeria</countryName>
+<fcl>H</fcl>
+<fcode>STMI</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>intermittent stream</fcodeName>
+<population/>
+<alternateNames>Gwandu River,River Gwandu</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="KE">40</adminCode1>
+<adminName1>Kebbi</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="1.0">Africa/Lagos</timezone>
+<score>4.245347023010254</score>
+</geoname>
+<geoname>
+<toponymName>Nahr Atbara</toponymName>
+<name>Atbarah River</name>
+<lat>17.677</lat>
+<lng>33.9717</lng>
+<geonameId>343242</geonameId>
+<countryCode>SD</countryCode>
+<countryName>Sudan</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>Astaboras,Atbara,Atbarah River,Nahr Atbara,Nahr `Atbarah,Nahr ‘Aţbarah,River Atbara,River Goang,a te ba la he,atobara chuan,アトバラ川,阿特巴拉河</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="cs">Atbara</alternateName>
+<alternateName lang="de">Atbara</alternateName>
+<alternateName lang="en">Atbarah River</alternateName>
+<alternateName lang="fr">Atbara</alternateName>
+<alternateName lang="ja">アトバラ川</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Atbarah_River</alternateName>
+<alternateName lang="ro">Atbara</alternateName>
+<alternateName lang="sw">Atbara</alternateName>
+<alternateName lang="zh">阿特巴拉河</alternateName>
+<timezone dstOffset="3.0" gmtOffset="3.0">Africa/Khartoum</timezone>
+<score>3.0638155937194824</score>
+</geoname>
+<geoname>
+<toponymName>River Graney</toponymName>
+<name>River Graney</name>
+<lat>52.96417</lat>
+<lng>-8.64028</lng>
+<geonameId>2963897</geonameId>
+<countryCode>IE</countryCode>
+<countryName>Ireland</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="M">M</adminCode1>
+<adminName1>Munster</adminName1>
+<adminCode2>03</adminCode2>
+<adminName2>Co Clare</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Dublin</timezone>
+<score>2.166444778442383</score>
+</geoname>
+<geoname>
+<toponymName>River Grange</toponymName>
+<name>River Grange</name>
+<lat>-44.72836</lat>
+<lng>171.14009</lng>
+<geonameId>6214834</geonameId>
+<countryCode>NZ</countryCode>
+<countryName>New Zealand</countryName>
+<fcl>S</fcl>
+<fcode>FRMT</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farmstead</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="CAN">E9</adminCode1>
+<adminName1>Canterbury Region</adminName1>
+<adminCode2>066</adminCode2>
+<adminName2>Waimate District</adminName2>
+<timezone dstOffset="12.0" gmtOffset="13.0">Pacific/Auckland</timezone>
+<score>2.166444778442383</score>
+</geoname>
+</geonames>

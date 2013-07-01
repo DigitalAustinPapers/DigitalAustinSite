@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Municipality of Baloi</toponymName>
+<name>Municipality of Baloi</name>
+<lat>8.08056</lat>
+<lng>124.22361</lng>
+<geonameId>6569494</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Baloi,Municipality of Baloi</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="10">10</adminCode1>
+<adminName1>Northern Mindanao</adminName1>
+<adminCode2>34</adminCode2>
+<adminName2>Lanao del Norte</adminName2>
+<adminCode3>6569494</adminCode3>
+<adminName3>Municipality of Baloi</adminName3>
+<alternateName lang="fil">Municipality of Baloi</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<score>70.4011459350586</score>
+</geoname>
+</geonames>

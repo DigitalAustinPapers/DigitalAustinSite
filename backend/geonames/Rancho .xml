@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>55</totalResultsCount>
+<geoname>
+<toponymName>Ranchi</toponymName>
+<name>Ranchi</name>
+<lat>23.34777</lat>
+<lng>85.33856</lng>
+<geonameId>1258526</geonameId>
+<countryCode>IN</countryCode>
+<countryName>India</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population>846454</population>
+<alternateNames>Ranchi,Ranci,Ranĉi,Ráňčí,Rānchi,Rānchī,lan qi,lanchi,raci,ramci,ranchi,ranchy,ranci,ranci jilla,Ранчи,Ранчі,ראנצ'י,رانچی,राँची,रांची,रांची जिल्ला,राञ्ची,রাঁচি,রাচি,રાંચી,ରାଞ୍ଚି,ராஞ்சி,రాంచీ,ರಾಂಚಿ,റാഞ്ചി,ラーンチー,蘭契,란치</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="JH">38</adminCode1>
+<adminName1>Jharkhand</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="bn">রাঁচি</alternateName>
+<alternateName lang="bpy">রাচি</alternateName>
+<alternateName lang="cs">Ráňčí</alternateName>
+<alternateName lang="de">Ranchi</alternateName>
+<alternateName lang="en">Ranchi</alternateName>
+<alternateName lang="eo">Ranĉi</alternateName>
+<alternateName lang="et">Rānchi</alternateName>
+<alternateName lang="fa">رانچی</alternateName>
+<alternateName lang="gu">રાંચી</alternateName>
+<alternateName lang="he">ראנצ'י</alternateName>
+<alternateName lang="hi">राँची</alternateName>
+<alternateName lang="id">Ranchi</alternateName>
+<alternateName lang="ja">ラーンチー</alternateName>
+<alternateName lang="kn">ರಾಂಚಿ</alternateName>
+<alternateName lang="ko">란치</alternateName>
+<alternateName lang="la">Ranci</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ranchi</alternateName>
+<alternateName lang="ml">റാഞ്ചി</alternateName>
+<alternateName lang="mr">रांची</alternateName>
+<alternateName lang="ne">राँची</alternateName>
+<alternateName lang="new">रांची जिल्ला</alternateName>
+<alternateName lang="nl">Ranchi</alternateName>
+<alternateName lang="or">ରାଞ୍ଚି</alternateName>
+<alternateName lang="pl">Ranchi</alternateName>
+<alternateName lang="pnb">رانچی</alternateName>
+<alternateName lang="pt">Ranchi</alternateName>
+<alternateName lang="ro">Ranchi</alternateName>
+<alternateName lang="ru">Ранчи</alternateName>
+<alternateName lang="sa">राञ्ची</alternateName>
+<alternateName lang="sr">Ранчи</alternateName>
+<alternateName lang="sv">Ranchi</alternateName>
+<alternateName lang="ta">ராஞ்சி</alternateName>
+<alternateName lang="te">రాంచీ</alternateName>
+<alternateName lang="uk">Ранчі</alternateName>
+<alternateName lang="ur">رانچی</alternateName>
+<alternateName lang="zh">蘭契</alternateName>
+<timezone dstOffset="5.5" gmtOffset="5.5">Asia/Kolkata</timezone>
+<bbox>
+<west>85.2084</west>
+<north>23.46717</north>
+<east>85.46873</east>
+<south>23.22837</south>
+</bbox>
+<score>45.82771682739258</score>
+</geoname>
+<geoname>
+<toponymName>Rancho</toponymName>
+<name>Rancho</name>
+<lat>29.95</lat>
+<lng>-107.55</lng>
+<geonameId>3990969</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Grande,Rancho</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CHH">06</adminCode1>
+<adminName1>Chihuahua</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Chihuahua</timezone>
+<bbox>
+<west>-107.56038</west>
+<north>29.95899</north>
+<east>-107.53962</east>
+<south>29.94101</south>
+</bbox>
+<score>36.587257385253906</score>
+</geoname>
+<geoname>
+<toponymName>Rancho</toponymName>
+<name>Rancho</name>
+<lat>-23.1</lat>
+<lng>-54.76667</lng>
+<geonameId>3451847</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="MS">11</adminCode1>
+<adminName1>Estado de Mato Grosso do Sul</adminName1>
+<adminCode2>5000609</adminCode2>
+<adminName2>Amambaí</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-3.0">America/Campo_Grande</timezone>
+<bbox>
+<west>-54.77644</west>
+<north>-23.09101</north>
+<east>-54.75689</east>
+<south>-23.10899</south>
+</bbox>
+<score>29.873369216918945</score>
+</geoname>
+<geoname>
+<toponymName>Rancho</toponymName>
+<name>Rancho</name>
+<lat>12.15</lat>
+<lng>-68.91667</lng>
+<geonameId>3513351</geonameId>
+<countryCode>CW</countryCode>
+<countryName>Curacao</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Curacao</timezone>
+<bbox>
+<west>-68.92587</west>
+<north>12.15899</north>
+<east>-68.90747</east>
+<south>12.14101</south>
+</bbox>
+<score>29.873369216918945</score>
+</geoname>
+<geoname>
+<toponymName>Rancho</toponymName>
+<name>Rancho</name>
+<lat>17.95</lat>
+<lng>-88.36667</lng>
+<geonameId>3581366</geonameId>
+<countryCode>BZ</countryCode>
+<countryName>Belize</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OW">04</adminCode1>
+<adminName1>Orange Walk</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Belize</timezone>
+<bbox>
+<west>-88.37612</west>
+<north>17.95899</north>
+<east>-88.35721</east>
+<south>17.94101</south>
+</bbox>
+<score>29.873369216918945</score>
+</geoname>
+<geoname>
+<toponymName>Rancho</toponymName>
+<name>Rancho</name>
+<lat>17.16667</lat>
+<lng>-90.03333</lng>
+<geonameId>3590913</geonameId>
+<countryCode>GT</countryCode>
+<countryName>Guatemala</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PE">12</adminCode1>
+<adminName1>Petén</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Guatemala</timezone>
+<score>29.873369216918945</score>
+</geoname>
+<geoname>
+<toponymName>Rancho</toponymName>
+<name>Rancho</name>
+<lat>-0.5</lat>
+<lng>-78.58333</lng>
+<geonameId>3652429</geonameId>
+<countryCode>EC</countryCode>
+<countryName>Ecuador</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="P">18</adminCode1>
+<adminName1>Pichincha</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Guayaquil</timezone>
+<bbox>
+<west>-78.59233</west>
+<north>-0.49101</north>
+<east>-78.57434</east>
+<south>-0.50899</south>
+</bbox>
+<score>29.873369216918945</score>
+</geoname>
+<geoname>
+<toponymName>Rancho</toponymName>
+<name>Rancho</name>
+<lat>-32.41667</lat>
+<lng>-71.23333</lng>
+<geonameId>3873764</geonameId>
+<countryCode>CL</countryCode>
+<countryName>Chile</countryName>
+<fcl>T</fcl>
+<fcode>HLL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>hill</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="VS">01</adminCode1>
+<adminName1>Valparaíso</adminName1>
+<adminCode2>54</adminCode2>
+<adminName2>Petorca Province</adminName2>
+<adminCode3>05401</adminCode3>
+<adminName3>La Ligua</adminName3>
+<timezone dstOffset="-4.0" gmtOffset="-3.0">America/Santiago</timezone>
+<score>29.873369216918945</score>
+</geoname>
+<geoname>
+<toponymName>Rancho</toponymName>
+<name>Rancho</name>
+<lat>-14.33333</lat>
+<lng>-66.5</lng>
+<geonameId>3906597</geonameId>
+<countryCode>BO</countryCode>
+<countryName>Bolivia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="B">03</adminCode1>
+<adminName1>El Beni</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/La_Paz</timezone>
+<bbox>
+<west>-66.50928</west>
+<north>-14.32434</north>
+<east>-66.49072</east>
+<south>-14.34233</south>
+</bbox>
+<score>29.873369216918945</score>
+</geoname>
+<geoname>
+<toponymName>Rancho</toponymName>
+<name>Rancho</name>
+<lat>30.91667</lat>
+<lng>-108.65</lng>
+<geonameId>3974751</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CHH">06</adminCode1>
+<adminName1>Chihuahua</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Chihuahua</timezone>
+<bbox>
+<west>-108.66048</west>
+<north>30.92566</north>
+<east>-108.63952</east>
+<south>30.90767</south>
+</bbox>
+<score>29.873369216918945</score>
+</geoname>
+</geonames>

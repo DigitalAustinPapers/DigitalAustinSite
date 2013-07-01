@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Province of Northern Cape</toponymName>
+<name>Northern Cape</name>
+<lat>-29.5</lat>
+<lng>22</lng>
+<geonameId>1085596</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>first-order administrative division</fcodeName>
+<population>819380</population>
+<alternateNames>Norra Kapprovinsen,Northern Cape,Province of Northern Cape</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="NC">08</adminCode1>
+<adminName1>Northern Cape</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Northern Cape</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Northern_Cape</alternateName>
+<alternateName lang="sv">Norra Kapprovinsen</alternateName>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<bbox>
+<west>16.48333</west>
+<north>-24.76541</north>
+<east>25.52472</east>
+<south>-32.93695</south>
+</bbox>
+<score>91.9716796875</score>
+</geoname>
+</geonames>

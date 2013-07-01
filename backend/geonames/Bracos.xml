@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>19</totalResultsCount>
+<geoname>
+<toponymName>Braços</toponymName>
+<name>Braços</name>
+<lat>40.17662</lat>
+<lng>-8.32625</lng>
+<geonameId>2742035</geonameId>
+<countryCode>PT</countryCode>
+<countryName>Portugal</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="06">07</adminCode1>
+<adminName1>Coimbra</adminName1>
+<adminCode2>0609</adminCode2>
+<adminName2>Miranda do Corvo</adminName2>
+<adminCode3>060904</adminCode3>
+<adminName3>Semide</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Lisbon</timezone>
+<bbox>
+<west>-8.33802</west>
+<north>40.18561</north>
+<east>-8.31448</east>
+<south>40.16762</south>
+</bbox>
+<score>41.32014083862305</score>
+</geoname>
+<geoname>
+<toponymName>Bravos</toponymName>
+<name>Bravos</name>
+<lat>43.58128</lat>
+<lng>-7.65934</lng>
+<geonameId>3127667</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Brabos,Bravos,Santiago</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="GA">58</adminCode1>
+<adminName1>Galicia</adminName1>
+<adminCode2>LU</adminCode2>
+<adminName2>Lugo</adminName2>
+<adminCode3>27038</adminCode3>
+<adminName3>Ourol</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Madrid</timezone>
+<bbox>
+<west>-7.67176</west>
+<north>43.59027</north>
+<east>-7.64692</east>
+<south>43.57228</south>
+</bbox>
+<score>12.482248306274414</score>
+</geoname>
+<geoname>
+<toponymName>Brálos</toponymName>
+<name>Brálos</name>
+<lat>38.71667</lat>
+<lng>22.46667</lng>
+<geonameId>263374</geonameId>
+<countryCode>GR</countryCode>
+<countryName>Greece</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Brallos,Bralos,Brállos,Brálos,Kato Brallos,Káto Brállos</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="H">ESYE24</adminCode1>
+<adminName1>Central Greece</adminName1>
+<adminCode2>29</adminCode2>
+<adminName2>Phthiotis</adminName2>
+<adminCode3>9158</adminCode3>
+<adminName3>Amfikleia-Elateia</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bralos</alternateName>
+<timezone dstOffset="3.0" gmtOffset="2.0">Europe/Athens</timezone>
+<bbox>
+<west>22.45514</west>
+<north>38.72566</north>
+<east>22.47819</east>
+<south>38.70767</south>
+</bbox>
+<score>9.739242553710938</score>
+</geoname>
+<geoname>
+<toponymName>Brazos</toponymName>
+<name>Brazos</name>
+<lat>32.66152</lat>
+<lng>-98.12199</lng>
+<geonameId>4676148</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>251</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>363</adminCode2>
+<adminName2>Palo Pinto County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brazos%2C_Texas</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-98.13267</west>
+<north>32.67051</north>
+<east>-98.1113</east>
+<south>32.65253</south>
+</bbox>
+<score>8.981158256530762</score>
+</geoname>
+<geoname>
+<toponymName>Brazos</toponymName>
+<name>Brazos</name>
+<lat>38.20825</lat>
+<lng>-122.30608</lng>
+<geonameId>5284780</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>055</adminCode2>
+<adminName2>Napa County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brazos%2C_California</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-122.31753</west>
+<north>38.21724</north>
+<east>-122.29464</east>
+<south>38.19926</south>
+</bbox>
+<score>8.981158256530762</score>
+</geoname>
+<geoname>
+<toponymName>Bracon</toponymName>
+<name>Bracon</name>
+<lat>46.93073</lat>
+<lng>5.88165</lng>
+<geonameId>3030627</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>349</population>
+<alternateNames>Bracon</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="I">A6</adminCode1>
+<adminName1>Franche-Comté</adminName1>
+<adminCode2>39</adminCode2>
+<adminName2>Jura</adminName2>
+<adminCode3>392</adminCode3>
+<adminName3>Arrondissement de Lons-le-Saunier</adminName3>
+<adminCode4>39072</adminCode4>
+<adminName4>Bracon</adminName4>
+<alternateName lang="post">39110</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>5.88034</west>
+<north>46.93163</north>
+<east>5.88297</east>
+<south>46.92983</south>
+</bbox>
+<score>8.018988609313965</score>
+</geoname>
+<geoname>
+<toponymName>Brabos</toponymName>
+<name>Brabos</name>
+<lat>40.7604</lat>
+<lng>-4.92669</lng>
+<geonameId>6355648</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population>60</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="CL">55</adminCode1>
+<adminName1>Castille and León</adminName1>
+<adminCode2>AV</adminCode2>
+<adminName2>Avila</adminName2>
+<adminCode3>05039</adminCode3>
+<adminName3>Brabos</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brabos</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Madrid</timezone>
+<bbox>
+<west>-4.96823</west>
+<north>40.78355</north>
+<east>-4.90134</east>
+<south>40.71762</south>
+</bbox>
+<score>7.890002250671387</score>
+</geoname>
+<geoname>
+<toponymName>Bračas</toponymName>
+<name>Bračas</name>
+<lat>56.60165</lat>
+<lng>22.10861</lng>
+<geonameId>460865</geonameId>
+<countryCode>LV</countryCode>
+<countryName>Latvia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="050">15</adminCode1>
+<adminName1>Kuldīgas Rajons</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="3.0" gmtOffset="2.0">Europe/Riga</timezone>
+<bbox>
+<west>22.09227</west>
+<north>56.61064</north>
+<east>22.12495</east>
+<south>56.59266</south>
+</bbox>
+<score>6.886684417724609</score>
+</geoname>
+<geoname>
+<toponymName>Brocos</toponymName>
+<name>Brocos</name>
+<lat>42.8318</lat>
+<lng>-8.11779</lng>
+<geonameId>3127609</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="GA">58</adminCode1>
+<adminName1>Galicia</adminName1>
+<adminCode2>PO</adminCode2>
+<adminName2>Pontevedra</adminName2>
+<adminCode3>36059</adminCode3>
+<adminName3>Vila de Cruces</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Madrid</timezone>
+<bbox>
+<west>-8.13005</west>
+<north>42.8408</north>
+<east>-8.10552</east>
+<south>42.82281</south>
+</bbox>
+<score>6.5474772453308105</score>
+</geoname>
+<geoname>
+<toponymName>Brocós</toponymName>
+<name>Brocós</name>
+<lat>-5.08333</lat>
+<lng>-43.81667</lng>
+<geonameId>3404790</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="MA">13</adminCode1>
+<adminName1>Maranhão</adminName1>
+<adminCode2>2111078</adminCode2>
+<adminName2>São João do Soter</adminName2>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Fortaleza</timezone>
+<bbox>
+<west>-43.8257</west>
+<north>-5.07434</north>
+<east>-43.80764</east>
+<south>-5.09233</south>
+</bbox>
+<score>6.5474772453308105</score>
+</geoname>
+</geonames>

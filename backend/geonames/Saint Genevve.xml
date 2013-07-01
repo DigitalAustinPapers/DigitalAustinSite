@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Saint Genevieve</toponymName>
+<name>Saint Genevieve</name>
+<lat>31.52656</lat>
+<lng>-91.52568</lng>
+<geonameId>4339699</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>20</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>029</adminCode2>
+<adminName2>Concordia Parish</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-91.53623</west>
+<north>31.53555</north>
+<east>-91.51512</east>
+<south>31.51756</south>
+</bbox>
+<score>45.98583984375</score>
+</geoname>
+</geonames>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Braşov</toponymName>
+<name>Braşov</name>
+<lat>45.64861</lat>
+<lng>25.60613</lng>
+<geonameId>683844</geonameId>
+<countryCode>RO</countryCode>
+<countryName>Romania</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population>276088</population>
+<alternateNames>Brashov,Brasov,Brasso,Brassó,Braszow,Braszów,Brazov,Braşov,Brašov,Kronstadt,Kronstant,Orasu Stalin,Orasul Stalin,Oraşu Stalin,Oraşul Stalin,XHV,beulasyobeu,brswb,burashofu,Брашов,ברשוב,ブラショフ,브라쇼브</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="BV">09</adminCode1>
+<adminName1>Braşov</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="bg">Брашов</alternateName>
+<alternateName lang="br">Braşov</alternateName>
+<alternateName lang="ca">Braşov</alternateName>
+<alternateName lang="cs">Braşov</alternateName>
+<alternateName lang="da">Brasov</alternateName>
+<alternateName lang="de">Kronstadt</alternateName>
+<alternateName lang="en">Braşov</alternateName>
+<alternateName lang="eo">Braşov</alternateName>
+<alternateName lang="es">Braşov</alternateName>
+<alternateName lang="fi">Braşov</alternateName>
+<alternateName lang="fr">Braşov</alternateName>
+<alternateName lang="he">ברשוב</alternateName>
+<alternateName lang="hu">Brassó</alternateName>
+<alternateName lang="iata">XHV</alternateName>
+<alternateName lang="it">Braşov</alternateName>
+<alternateName lang="ja">ブラショフ</alternateName>
+<alternateName lang="ko">브라쇼브</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bra%C8%99ov</alternateName>
+<alternateName lang="nl">Braşov</alternateName>
+<alternateName lang="no">Braşov</alternateName>
+<alternateName lang="pl">Braszów</alternateName>
+<alternateName lang="pt">Braşov</alternateName>
+<alternateName lang="ro">Брашов</alternateName>
+<alternateName lang="ru">Брашов</alternateName>
+<alternateName lang="scn">Braşov</alternateName>
+<alternateName lang="sk">Brašov</alternateName>
+<alternateName lang="sr">Брашов</alternateName>
+<alternateName lang="sv">Braşov</alternateName>
+<alternateName lang="unlc">BRV</alternateName>
+<timezone dstOffset="3.0" gmtOffset="2.0">Europe/Bucharest</timezone>
+<bbox>
+<west>25.50845</west>
+<north>45.71681</north>
+<east>25.7038</east>
+<south>45.58041</south>
+</bbox>
+<score>37.56541442871094</score>
+</geoname>
+<geoname>
+<toponymName>Brassø</toponymName>
+<name>Brassø</name>
+<lat>56.14196</lat>
+<lng>9.58452</lng>
+<geonameId>2623526</geonameId>
+<countryCode>DK</countryCode>
+<countryName>Denmark</countryName>
+<fcl>H</fcl>
+<fcode>LK</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>lake</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="82">18</adminCode1>
+<adminName1>Central Jutland</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Copenhagen</timezone>
+<score>37.56541442871094</score>
+</geoname>
+<geoname>
+<toponymName>Brasso</toponymName>
+<name>Brasso</name>
+<lat>10.41201</lat>
+<lng>-61.32113</lng>
+<geonameId>3574938</geonameId>
+<countryCode>TT</countryCode>
+<countryName>Trinidad and Tobago</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Brasso Village</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CTT">CTT</adminCode1>
+<adminName1>Couva-Tabaquite-Talparo</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Port_of_Spain</timezone>
+<bbox>
+<west>-61.33028</west>
+<north>10.42101</north>
+<east>-61.31199</east>
+<south>10.40302</south>
+</bbox>
+<score>16.099462509155273</score>
+</geoname>
+<geoname>
+<toponymName>Brascos</toponymName>
+<name>Brascos</name>
+<lat>35.36835</lat>
+<lng>24.47452</lng>
+<geonameId>6472968</geonameId>
+<countryCode>GR</countryCode>
+<countryName>Greece</countryName>
+<fcl>S</fcl>
+<fcode>HTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>hotel</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="M">ESYE43</adminCode1>
+<adminName1>Crete</adminName1>
+<adminCode2>44</adminCode2>
+<adminName2>Rethýmnis</adminName2>
+<adminCode3>9318</adminCode3>
+<adminName3>Rethymno</adminName3>
+<timezone dstOffset="3.0" gmtOffset="2.0">Europe/Athens</timezone>
+<score>12.546621322631836</score>
+</geoname>
+</geonames>

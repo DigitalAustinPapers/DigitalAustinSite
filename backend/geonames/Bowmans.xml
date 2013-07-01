@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>18</totalResultsCount>
+<geoname>
+<toponymName>Bowmans</toponymName>
+<name>Bowmans</name>
+<lat>-34.15</lat>
+<lng>138.26667</lng>
+<geonameId>2075930</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>200</population>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="SA">05</adminCode1>
+<adminName1>South Australia</adminName1>
+<adminCode2>48130</adminCode2>
+<adminName2>Wakefield</adminName2>
+<timezone dstOffset="9.5" gmtOffset="10.5">Australia/Adelaide</timezone>
+<bbox>
+<west>138.09401</west>
+<north>-34.11699</north>
+<east>138.38571</east>
+<south>-34.34636</south>
+</bbox>
+<score>44.35308837890625</score>
+</geoname>
+<geoname>
+<toponymName>Bowmans</toponymName>
+<name>Bowmans</name>
+<lat>40.82398</lat>
+<lng>-76.13938</lng>
+<geonameId>5181320</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>400</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PA">PA</adminCode1>
+<adminName1>Pennsylvania</adminName1>
+<adminCode2>107</adminCode2>
+<adminName2>Schuylkill County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-76.15127</west>
+<north>40.83297</north>
+<east>-76.12749</east>
+<south>40.81498</south>
+</bbox>
+<score>44.35308837890625</score>
+</geoname>
+<geoname>
+<toponymName>Bowman</toponymName>
+<name>Bowman</name>
+<lat>33.454</lat>
+<lng>-91.30317</lng>
+<geonameId>4102706</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>40</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">AR</adminCode1>
+<adminName1>Arkansas</adminName1>
+<adminCode2>017</adminCode2>
+<adminName2>Chicot County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bowman%2C_Chicot_County%2C_Arkansas</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-91.31395</west>
+<north>33.463</north>
+<east>-91.29239</east>
+<south>33.44501</south>
+</bbox>
+<score>8.79450511932373</score>
+</geoname>
+<geoname>
+<toponymName>Bowman</toponymName>
+<name>Bowman</name>
+<lat>36.06118</lat>
+<lng>-85.02829</lng>
+<geonameId>4607949</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>302</population>
+<alternateNames/>
+<elevation>552</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TN">TN</adminCode1>
+<adminName1>Tennessee</adminName1>
+<adminCode2>035</adminCode2>
+<adminName2>Cumberland County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bowman%2C_Tennessee</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-85.0294</west>
+<north>36.06208</north>
+<east>-85.02718</east>
+<south>36.06028</south>
+</bbox>
+<score>8.79450511932373</score>
+</geoname>
+<geoname>
+<toponymName>Bowman</toponymName>
+<name>Bowman</name>
+<lat>38.94184</lat>
+<lng>-121.04744</lng>
+<geonameId>5330333</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>493</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>061</adminCode2>
+<adminName2>Placer County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bowman%2C_California</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-121.05901</west>
+<north>38.95084</north>
+<east>-121.03588</east>
+<south>38.93285</south>
+</bbox>
+<score>8.79450511932373</score>
+</geoname>
+<geoname>
+<toponymName>Bowman</toponymName>
+<name>Bowman</name>
+<lat>46.18306</lat>
+<lng>-103.39491</lng>
+<geonameId>5688127</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>1650</population>
+<alternateNames/>
+<elevation>903</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ND">ND</adminCode1>
+<adminName1>North Dakota</adminName1>
+<adminCode2>011</adminCode2>
+<adminName2>Bowman County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bowman%2C_North_Dakota</alternateName>
+<alternateName lang="post">58623</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<bbox>
+<west>-103.42276</west>
+<north>46.19353</north>
+<east>-103.38316</east>
+<south>46.17451</south>
+</bbox>
+<score>8.79450511932373</score>
+</geoname>
+<geoname>
+<toponymName>Bowman</toponymName>
+<name>Bowman</name>
+<lat>45.9168</lat>
+<lng>-75.66603</lng>
+<geonameId>5906808</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="QC">10</adminCode1>
+<adminName1>Quebec</adminName1>
+<adminCode2>07</adminCode2>
+<adminName2>Outaouais</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bowman%2C_Quebec</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Montreal</timezone>
+<bbox>
+<west>-75.67896</west>
+<north>45.9258</north>
+<east>-75.6531</east>
+<south>45.90781</south>
+</bbox>
+<score>8.79450511932373</score>
+</geoname>
+<geoname>
+<toponymName>Bowman</toponymName>
+<name>Bowman</name>
+<lat>34.20483</lat>
+<lng>-83.0307</lng>
+<geonameId>4183954</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>862</population>
+<alternateNames/>
+<elevation>238</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">GA</adminCode1>
+<adminName1>Georgia</adminName1>
+<adminCode2>105</adminCode2>
+<adminName2>Elbert County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bowman%2C_Georgia</alternateName>
+<alternateName lang="post">30624</alternateName>
+<alternateName lang="unlc">OWM</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-83.04834</west>
+<north>34.21964</north>
+<east>-83.0134</east>
+<south>34.19063</south>
+</bbox>
+<score>7.32875394821167</score>
+</geoname>
+<geoname>
+<toponymName>Bowman</toponymName>
+<name>Bowman</name>
+<lat>33.34877</lat>
+<lng>-80.68287</lng>
+<geonameId>4571994</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>968</population>
+<alternateNames/>
+<elevation>43</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SC">SC</adminCode1>
+<adminName1>South Carolina</adminName1>
+<adminCode2>075</adminCode2>
+<adminName2>Orangeburg County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bowman%2C_South_Carolina</alternateName>
+<alternateName lang="post">29018</alternateName>
+<alternateName lang="unlc">QWM</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-80.68395</west>
+<north>33.34967</north>
+<east>-80.68179</east>
+<south>33.34787</south>
+</bbox>
+<score>7.32875394821167</score>
+</geoname>
+<geoname>
+<toponymName>Bowman</toponymName>
+<name>Bowman</name>
+<lat>-22.65</lat>
+<lng>149.66667</lng>
+<geonameId>2174412</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="QLD">04</adminCode1>
+<adminName1>Queensland</adminName1>
+<adminCode2>36360</adminCode2>
+<adminName2>Rockhampton</adminName2>
+<timezone dstOffset="10.0" gmtOffset="10.0">Australia/Brisbane</timezone>
+<bbox>
+<west>149.65692</west>
+<north>-22.64101</north>
+<east>149.67641</east>
+<south>-22.65899</south>
+</bbox>
+<score>5.863003253936768</score>
+</geoname>
+</geonames>

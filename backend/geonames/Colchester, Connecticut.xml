@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>11</totalResultsCount>
+<geoname>
+<toponymName>Colchester</toponymName>
+<name>Colchester</name>
+<lat>41.57565</lat>
+<lng>-72.33203</lng>
+<geonameId>5284283</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>4781</population>
+<alternateNames>Kolchester,Колчестер</alternateNames>
+<elevation>144</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CT">CT</adminCode1>
+<adminName1>Connecticut</adminName1>
+<adminCode2>011</adminCode2>
+<adminName2>New London County</adminName2>
+<alternateName lang="kk">Колчестер</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Colchester%2C_Connecticut</alternateName>
+<alternateName lang="post">06415</alternateName>
+<alternateName lang="unlc">CE7</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-72.34244</west>
+<north>41.58344</north>
+<east>-72.32161</east>
+<south>41.56787</south>
+</bbox>
+<score>13.005735397338867</score>
+</geoname>
+<geoname>
+<toponymName>Town of Colchester</toponymName>
+<name>Town of Colchester</name>
+<lat>41.56206</lat>
+<lng>-72.34748</lng>
+<geonameId>5284289</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>106</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CT">CT</adminCode1>
+<adminName1>Connecticut</adminName1>
+<adminCode2>011</adminCode2>
+<adminName2>New London County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>9.754301071166992</score>
+</geoname>
+<geoname>
+<toponymName>Colchester Fire Marshal's Office</toponymName>
+<name>Colchester Fire Marshal's Office</name>
+<lat>41.576</lat>
+<lng>-72.32865</lng>
+<geonameId>7178552</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>BLDG</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>building(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>142</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CT">CT</adminCode1>
+<adminName1>Connecticut</adminName1>
+<adminCode2>011</adminCode2>
+<adminName2>New London County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>2.1868975162506104</score>
+</geoname>
+<geoname>
+<toponymName>Colchester Bible Baptist Church</toponymName>
+<name>Colchester Bible Baptist Church</name>
+<lat>41.57343</lat>
+<lng>-72.3048</lng>
+<geonameId>5284276</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>CH</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>church</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>153</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CT">CT</adminCode1>
+<adminName1>Connecticut</adminName1>
+<adminCode2>011</adminCode2>
+<adminName2>New London County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>2.0321459770202637</score>
+</geoname>
+<geoname>
+<toponymName>Colchester Assembly of God Church</toponymName>
+<name>Colchester Assembly of God Church</name>
+<lat>41.57899</lat>
+<lng>-72.34036</lng>
+<geonameId>5284280</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>CH</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>church</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>132</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CT">CT</adminCode1>
+<adminName1>Connecticut</adminName1>
+<adminCode2>011</adminCode2>
+<adminName2>New London County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>2.0321459770202637</score>
+</geoname>
+<geoname>
+<toponymName>Colchester Post Office</toponymName>
+<name>Colchester Post Office</name>
+<lat>41.5726</lat>
+<lng>-72.33064</lng>
+<geonameId>5284284</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>PO</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>post office</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>140</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CT">CT</adminCode1>
+<adminName1>Connecticut</adminName1>
+<adminCode2>011</adminCode2>
+<adminName2>New London County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>2.0321459770202637</score>
+</geoname>
+<geoname>
+<toponymName>Colchester Federated Church</toponymName>
+<name>Colchester Federated Church</name>
+<lat>41.57343</lat>
+<lng>-72.33258</lng>
+<geonameId>5284285</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>CH</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>church</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>140</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CT">CT</adminCode1>
+<adminName1>Connecticut</adminName1>
+<adminCode2>011</adminCode2>
+<adminName2>New London County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>2.0321459770202637</score>
+</geoname>
+<geoname>
+<toponymName>Colchester Intermediate School</toponymName>
+<name>Colchester Intermediate School</name>
+<lat>41.5751</lat>
+<lng>-72.31953</lng>
+<geonameId>5284286</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>SCH</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>school</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>155</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CT">CT</adminCode1>
+<adminName1>Connecticut</adminName1>
+<adminCode2>011</adminCode2>
+<adminName2>New London County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>2.0321459770202637</score>
+</geoname>
+<geoname>
+<toponymName>Colchester Town Hall</toponymName>
+<name>Colchester Town Hall</name>
+<lat>41.5751</lat>
+<lng>-72.32675</lng>
+<geonameId>5284288</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>BLDG</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>building(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>142</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CT">CT</adminCode1>
+<adminName1>Connecticut</adminName1>
+<adminCode2>011</adminCode2>
+<adminName2>New London County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>2.0321459770202637</score>
+</geoname>
+<geoname>
+<toponymName>Colchester Hayward Volunteer Fire Company Station 1 Headquarters</toponymName>
+<name>Colchester Hayward Volunteer Fire Company Station 1 Headquarters</name>
+<lat>41.5797</lat>
+<lng>-72.34013</lng>
+<geonameId>7178536</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>BLDG</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>building(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>134</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CT">CT</adminCode1>
+<adminName1>Connecticut</adminName1>
+<adminCode2>011</adminCode2>
+<adminName2>New London County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>2.0321459770202637</score>
+</geoname>
+</geonames>

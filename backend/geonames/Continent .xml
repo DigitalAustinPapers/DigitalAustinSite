@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Continent</toponymName>
+<name>Continent</name>
+<lat>18.45</lat>
+<lng>-73.3</lng>
+<geonameId>3727449</geonameId>
+<countryCode>HT</countryCode>
+<countryName>Haiti</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1>15</adminCode1>
+<adminName1>Nippes</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Port-au-Prince</timezone>
+<bbox>
+<west>-73.30948</west>
+<north>18.45899</north>
+<east>-73.29052</east>
+<south>18.44101</south>
+</bbox>
+<score>42.31462478637695</score>
+</geoname>
+<geoname>
+<toponymName>El Continente</toponymName>
+<name>El Continente</name>
+<lat>9.88862</lat>
+<lng>-74.42066</lng>
+<geonameId>3684461</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Continente,El Continente,Hacienda El Continente</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="MAG">38</adminCode1>
+<adminName1>Magdalena</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<bbox>
+<west>-74.42979</west>
+<north>9.89761</north>
+<east>-74.41153</east>
+<south>9.87962</south>
+</bbox>
+<score>12.188488006591797</score>
+</geoname>
+<geoname>
+<toponymName>El Continente</toponymName>
+<name>El Continente</name>
+<lat>9.47834</lat>
+<lng>-74.26127</lng>
+<geonameId>3684462</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Continente,El Continente,Hacienda El Continente</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="MAG">38</adminCode1>
+<adminName1>Magdalena</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<bbox>
+<west>-74.27039</west>
+<north>9.48734</north>
+<east>-74.25215</east>
+<south>9.46935</south>
+</bbox>
+<score>12.188488006591797</score>
+</geoname>
+<geoname>
+<toponymName>Continente</toponymName>
+<name>Continente</name>
+<lat>-24.61609</lat>
+<lng>-48.45043</lng>
+<geonameId>7616912</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPLL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated locality</fcodeName>
+<population/>
+<alternateNames>Continente</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="SP">27</adminCode1>
+<adminName1>São Paulo</adminName1>
+<adminCode2>3514809</adminCode2>
+<adminName2>Eldorado</adminName2>
+<alternateName lang="pt">Continente</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Sao_Paulo</timezone>
+<bbox>
+<west>-48.45142</west>
+<north>-24.61519</north>
+<east>-48.44944</east>
+<south>-24.61699</south>
+</bbox>
+<score>10.555540084838867</score>
+</geoname>
+</geonames>

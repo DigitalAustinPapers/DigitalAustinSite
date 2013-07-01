@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Arkénia</toponymName>
+<name>Arkénia</name>
+<lat>19.46667</lat>
+<lng>19.28333</lng>
+<geonameId>2436508</geonameId>
+<countryCode>TD</countryCode>
+<countryName>Chad</countryName>
+<fcl>T</fcl>
+<fcode>HLL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>hill</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="BO">23</adminCode1>
+<adminName1>Borkou Region</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="1.0">Africa/Ndjamena</timezone>
+<score>28.175642013549805</score>
+</geoname>
+<geoname>
+<toponymName>Arkansas</toponymName>
+<name>Arkansas</name>
+<lat>34.75037</lat>
+<lng>-92.50044</lng>
+<geonameId>4099753</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>first-order administrative division</fcodeName>
+<population>2757631</population>
+<alternateNames>'Akanaka,A-khen-set,AR,Aakinsoo Hahoodzo,Akennsas,Arcansas,Arcansia,Arkansas,Arkansas suyu,Arkansaso,Arkanzas,Arkanzas Shtati,Arkanzasa,Arkanzasas,Arkinso,Arkinsọ,Land of Opportunity,Shtat Arkanzas,State of Arkansas,a ken se zhou,akanso ju,akanso zhou,arakanasasa,arakansasa,arkanca,arkansa,arkansah,arkansas,arkanzas,arknsas,rath xarkhansx,yarkansas,Áákinsoo Hahoodzo,Â-khén-set,Ārkanzasa,Αρκάνσας,Арканзас,Штат Арканзас,Әркәнзә,Արկանզաս,ארקנסו,ארקענסא,آرکانزاس,آرکانساس,آرکنساس,أركنساس,ئارکانساس,اركنساس,ܐܪܟܢܣܐܣ,अरकांसास,अर्कान्स,आर्कान्सः,आर्कान्सा,আরকান্‌সাস,আর্কান্‌স,અરકાનસાસ,ஆர்கன்சா,ఆర్కాన్సా,ಅರ್ಕಾನ್ಸಾಸ್,അർക്കൻസാസ്,รัฐอาร์คันซอ,ཨར་ཁན་སཱ་སི།,အာကင်ဆောပြည်နယ်,არკანზასი,‘Akanaka,アーカンソー州,阿肯色州,아칸소 주</alternateNames>
+<elevation>185</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">AR</adminCode1>
+<adminName1>Arkansas</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="abbr">AR</alternateName>
+<alternateName lang="ang">Arkansas</alternateName>
+<alternateName lang="ar">أركنساس</alternateName>
+<alternateName lang="arc">ܐܪܟܢܣܐܣ</alternateName>
+<alternateName lang="arz">اركنساس</alternateName>
+<alternateName lang="ast">Arkansas</alternateName>
+<alternateName lang="ay">Arkansas suyu</alternateName>
+<alternateName lang="az">Arkanzas</alternateName>
+<alternateName lang="be">Штат Арканзас</alternateName>
+<alternateName lang="bg">Арканзас</alternateName>
+<alternateName lang="bn">আর্কান্‌স</alternateName>
+<alternateName lang="bo">ཨར་ཁན་སཱ་སི།</alternateName>
+<alternateName lang="bpy">আরকান্‌সাস</alternateName>
+<alternateName lang="br">Arkansas</alternateName>
+<alternateName lang="bs">Arkansas</alternateName>
+<alternateName lang="ca">Arkansas</alternateName>
+<alternateName lang="ckb">ئارکانساس</alternateName>
+<alternateName lang="co">Arkansas</alternateName>
+<alternateName lang="cs">Arkansas</alternateName>
+<alternateName lang="cv">Арканзас</alternateName>
+<alternateName lang="da">Arkansas</alternateName>
+<alternateName lang="de">Arkansas</alternateName>
+<alternateName lang="el">Αρκάνσας</alternateName>
+<alternateName lang="en">Arkansas</alternateName>
+<alternateName lang="eo">Arkansaso</alternateName>
+<alternateName lang="es">Arkansas</alternateName>
+<alternateName lang="et">Arkansas</alternateName>
+<alternateName lang="eu">Arkansas</alternateName>
+<alternateName lang="fa">آرکانزاس</alternateName>
+<alternateName lang="fi">Arkansas</alternateName>
+<alternateName lang="fr">Arkansas</alternateName>
+<alternateName lang="frp">Arkansas</alternateName>
+<alternateName lang="ga">Arkansas</alternateName>
+<alternateName lang="gd">Arkansas</alternateName>
+<alternateName lang="gl">Arcansas</alternateName>
+<alternateName lang="gu">અરકાનસાસ</alternateName>
+<alternateName lang="hak">Â-khén-set</alternateName>
+<alternateName lang="haw">‘Akanaka</alternateName>
+<alternateName lang="he">ארקנסו</alternateName>
+<alternateName lang="hi">अरकांसास</alternateName>
+<alternateName lang="hr">Arkansas</alternateName>
+<alternateName lang="ht">Akennsas</alternateName>
+<alternateName lang="hu">Arkansas</alternateName>
+<alternateName lang="hy">Արկանզաս</alternateName>
+<alternateName lang="id">Arkansas</alternateName>
+<alternateName lang="ig">Arkinsọ</alternateName>
+<alternateName lang="io">Arkansas</alternateName>
+<alternateName lang="is">Arkansas</alternateName>
+<alternateName lang="it">Arkansas</alternateName>
+<alternateName lang="ja">アーカンソー州</alternateName>
+<alternateName lang="ka">არკანზასი</alternateName>
+<alternateName lang="kk">Арканзас</alternateName>
+<alternateName lang="kn">ಅರ್ಕಾನ್ಸಾಸ್</alternateName>
+<alternateName lang="ko">아칸소 주</alternateName>
+<alternateName lang="ku">Arkansas</alternateName>
+<alternateName lang="kw">Arkansas</alternateName>
+<alternateName lang="la">Arcansia</alternateName>
+<alternateName lang="lb">Arkansas</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Arkansas</alternateName>
+<alternateName lang="lt">Arkanzasas</alternateName>
+<alternateName lang="lv">Ārkanzasa</alternateName>
+<alternateName lang="mk">Арканзас</alternateName>
+<alternateName lang="ml">അർക്കൻസാസ്</alternateName>
+<alternateName lang="mn">Арканзас</alternateName>
+<alternateName lang="mr">आर्कान्सा</alternateName>
+<alternateName lang="mrj">Арканзас</alternateName>
+<alternateName lang="ms">Arkansas</alternateName>
+<alternateName lang="my">အာကင်ဆောပြည်နယ်</alternateName>
+<alternateName lang="new">आर्कान्सः</alternateName>
+<alternateName lang="nl">Arkansas</alternateName>
+<alternateName lang="nn">Arkansas</alternateName>
+<alternateName lang="no">Arkansas</alternateName>
+<alternateName lang="nv">Áákinsoo Hahoodzo</alternateName>
+<alternateName lang="oc">Arkansas</alternateName>
+<alternateName lang="os">Арканзас</alternateName>
+<alternateName lang="pl">Arkansas</alternateName>
+<alternateName lang="pnb">آرکانساس</alternateName>
+<alternateName lang="pt">Arkansas</alternateName>
+<alternateName lang="qu">Arkansas suyu</alternateName>
+<alternateName lang="ro">Arkansas</alternateName>
+<alternateName lang="ru">Арканзас</alternateName>
+<alternateName lang="sa">अर्कान्स</alternateName>
+<alternateName lang="sah">Арканзас</alternateName>
+<alternateName lang="scn">Arkansas</alternateName>
+<alternateName lang="sk">Arkansas</alternateName>
+<alternateName lang="sl">Arkansas</alternateName>
+<alternateName lang="sq">Arkansas</alternateName>
+<alternateName lang="sr">Арканзас</alternateName>
+<alternateName lang="sv">Arkansas</alternateName>
+<alternateName lang="ta">ஆர்கன்சா</alternateName>
+<alternateName lang="te">ఆర్కాన్సా</alternateName>
+<alternateName lang="th">รัฐอาร์คันซอ</alternateName>
+<alternateName lang="tr">Arkansas</alternateName>
+<alternateName lang="tt">Арканзас</alternateName>
+<alternateName lang="ug">Arkanzas Shtati</alternateName>
+<alternateName lang="uk">Арканзас</alternateName>
+<alternateName lang="ur">آرکنساس</alternateName>
+<alternateName lang="uz">Arkanzas</alternateName>
+<alternateName lang="vi">Arkansas</alternateName>
+<alternateName lang="xal">Әркәнзә</alternateName>
+<alternateName lang="yi">ארקענסא</alternateName>
+<alternateName lang="zh">阿肯色州</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-94.61792</west>
+<north>36.49975</north>
+<east>-89.64439</east>
+<south>33.0041</south>
+</bbox>
+<score>17.432788848876953</score>
+</geoname>
+<geoname>
+<toponymName>Arkens</toponymName>
+<name>Arkens</name>
+<lat>53.19333</lat>
+<lng>5.55179</lng>
+<geonameId>2759670</geonameId>
+<countryCode>NL</countryCode>
+<countryName>Netherlands</countryName>
+<fcl>P</fcl>
+<fcode>PPLL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated locality</fcodeName>
+<population/>
+<alternateNames>Arkens,Erkens</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="FR">02</adminCode1>
+<adminName1>Friesland</adminName1>
+<adminCode2>0070</adminCode2>
+<adminName2>Franekeradeel</adminName2>
+<alternateName lang="fy">Erkens</alternateName>
+<alternateName lang="nl">Arkens</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Amsterdam</timezone>
+<bbox>
+<west>5.55029</west>
+<north>53.19423</north>
+<east>5.55329</east>
+<south>53.19243</south>
+</bbox>
+<score>14.35360336303711</score>
+</geoname>
+<geoname>
+<toponymName>Arkéna</toponymName>
+<name>Arkéna</name>
+<lat>14.77555</lat>
+<lng>15.12986</lng>
+<geonameId>6983782</geonameId>
+<countryCode>TD</countryCode>
+<countryName>Chad</countryName>
+<fcl>H</fcl>
+<fcode>PNDI</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>intermittent pond</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="KA">06</adminCode1>
+<adminName1>Kanem</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="1.0">Africa/Ndjamena</timezone>
+<score>5.1361799240112305</score>
+</geoname>
+<geoname>
+<toponymName>Arkens</toponymName>
+<name>Arkens</name>
+<lat>53.18778</lat>
+<lng>5.5575</lng>
+<geonameId>6949767</geonameId>
+<countryCode>NL</countryCode>
+<countryName>Netherlands</countryName>
+<fcl>S</fcl>
+<fcode>MLWND</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>windmill</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="FR">02</adminCode1>
+<adminName1>Friesland</adminName1>
+<adminCode2>0070</adminCode2>
+<adminName2>Franekeradeel</adminName2>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Amsterdam</timezone>
+<score>4.883194923400879</score>
+</geoname>
+</geonames>

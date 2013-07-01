@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Outpost</toponymName>
+<name>Outpost</name>
+<lat>-17.93333</lat>
+<lng>29.73333</lng>
+<geonameId>883097</geonameId>
+<countryCode>ZW</countryCode>
+<countryName>Zimbabwe</countryName>
+<fcl>S</fcl>
+<fcode>FRM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farm</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Harare</timezone>
+<score>13.446793556213379</score>
+</geoname>
+<geoname>
+<toponymName>Outpost</toponymName>
+<name>Outpost</name>
+<lat>-26.37552</lat>
+<lng>22.32336</lng>
+<geonameId>966989</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>S</fcl>
+<fcode>FRM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farm</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="NC">08</adminCode1>
+<adminName1>Northern Cape</adminName1>
+<adminCode2>DC45</adminCode2>
+<adminName2>John Taolo Gaetsewe District Municipality</adminName2>
+<adminCode3>NC451</adminCode3>
+<adminName3>Joe Morolong</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<score>13.446793556213379</score>
+</geoname>
+<geoname>
+<toponymName>Oupos</toponymName>
+<name>Oupos</name>
+<lat>-33.26258</lat>
+<lng>18.59393</lng>
+<geonameId>3363142</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>S</fcl>
+<fcode>FRMT</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farmstead</fcodeName>
+<population/>
+<alternateNames>Ou Post,Oude Post,Oupos</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="WC">11</adminCode1>
+<adminName1>Western Cape</adminName1>
+<adminCode2>DC1</adminCode2>
+<adminName2>West Coast District Municipality</adminName2>
+<adminCode3>WC015</adminCode3>
+<adminName3>Swartland</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<score>5.7148118019104</score>
+</geoname>
+</geonames>

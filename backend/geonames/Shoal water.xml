@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Shoalwater</toponymName>
+<name>Shoalwater</name>
+<lat>-32.29088</lat>
+<lng>115.71101</lng>
+<geonameId>7932538</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="WA">08</adminCode1>
+<adminName1>Western Australia</adminName1>
+<adminCode2>57490</adminCode2>
+<adminName2>Rockingham</adminName2>
+<timezone dstOffset="8.0" gmtOffset="8.0">Australia/Perth</timezone>
+<bbox>
+<west>115.68916</west>
+<north>-32.28624</north>
+<east>115.72704</east>
+<south>-32.30908</south>
+</bbox>
+<score>44.53710174560547</score>
+</geoname>
+<geoname>
+<toponymName>Shoal Baker</toponymName>
+<name>Shoal Baker</name>
+<lat>5.73333</lat>
+<lng>102.81667</lng>
+<geonameId>1781779</geonameId>
+<countryCode>MY</countryCode>
+<countryName>Malaysia</countryName>
+<fcl>H</fcl>
+<fcode>SHOL</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>shoal(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="11">13</adminCode1>
+<adminName1>Terengganu</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Kuala_Lumpur</timezone>
+<score>2.530515432357788</score>
+</geoname>
+<geoname>
+<toponymName>Short Water</toponymName>
+<name>Short Water</name>
+<lat>39.51442</lat>
+<lng>-108.07785</lng>
+<geonameId>5438631</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1929</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CO">CO</adminCode1>
+<adminName1>Colorado</adminName1>
+<adminCode2>045</adminCode2>
+<adminName2>Garfield</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<score>2.530515432357788</score>
+</geoname>
+</geonames>

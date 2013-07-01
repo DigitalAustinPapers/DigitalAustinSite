@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>844</totalResultsCount>
+<geoname>
+<toponymName>Jefferson City</toponymName>
+<name>Jefferson City</name>
+<lat>38.5767</lat>
+<lng>-92.17352</lng>
+<geonameId>4392388</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population>43079</population>
+<alternateNames>Dinas Jefferson,Dzeferson Siti,Dzeferson Sitis,Dzefersonsitija,Dzhefersun Siti,Dzhefferson Siti,Dzhefferson-Siti,Dzhehfersan-Sici,Džeferson Sitis,Džefersonsitija,JEF,Jefferson City,Jeffersonurbo,Lungsod ng Jefferson,g'prswn syty,jefasonshiti,jeparcan nakaram,jepeoseunsiti,jepharasana siti,jepharsana siti,jfrswn syty, myzwry,jie fei xun cheng,Џеферсон Сити,Джеферсън Сити,Джефферсон Сити,Джефферсон-Сити,Джефферсон-Сіті,Джэферсан-Сіці,Ջեֆերսոն Սիթի,ג'פרסון סיטי,جفرسون سيتي، ميزوري,جفرسون‌سیتی,جیفرسن سٹی,जेफरसन सिटी,जेफर्सन सिटी,ஜெபர்சன் நகரம்,ジェファーソンシティ,杰斐逊城,제퍼슨시티</alternateNames>
+<elevation>192</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>051</adminCode2>
+<adminName2>Cole County</adminName2>
+<alternateName lang="ar">جفرسون سيتي، ميزوري</alternateName>
+<alternateName lang="be">Джэферсан-Сіці</alternateName>
+<alternateName lang="bg">Джеферсън Сити</alternateName>
+<alternateName lang="cy">Dinas Jefferson</alternateName>
+<alternateName lang="da">Jefferson City</alternateName>
+<alternateName lang="de">Jefferson City</alternateName>
+<alternateName lang="en">Jefferson City</alternateName>
+<alternateName lang="eo">Jeffersonurbo</alternateName>
+<alternateName lang="es">Jefferson City</alternateName>
+<alternateName lang="eu">Jefferson City</alternateName>
+<alternateName lang="fa">جفرسون‌سیتی</alternateName>
+<alternateName lang="fi">Jefferson City</alternateName>
+<alternateName lang="fr">Jefferson City</alternateName>
+<alternateName lang="he">ג'פרסון סיטי</alternateName>
+<alternateName lang="hi">जेफर्सन सिटी</alternateName>
+<alternateName lang="hy">Ջեֆերսոն Սիթի</alternateName>
+<alternateName lang="iata">JEF</alternateName>
+<alternateName lang="id">Jefferson City</alternateName>
+<alternateName lang="io">Jefferson City</alternateName>
+<alternateName lang="it">Jefferson City</alternateName>
+<alternateName lang="ja">ジェファーソンシティ</alternateName>
+<alternateName lang="kk">Джефферсон Сити</alternateName>
+<alternateName lang="ko">제퍼슨시티</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Jefferson_City%2C_Missouri</alternateName>
+<alternateName lang="lt">Džeferson Sitis</alternateName>
+<alternateName lang="lv">Džefersonsitija</alternateName>
+<alternateName lang="mk">Џеферсон Сити</alternateName>
+<alternateName lang="mr">जेफरसन सिटी</alternateName>
+<alternateName lang="mrj">Джефферсон-Сити</alternateName>
+<alternateName lang="nl">Jefferson City</alternateName>
+<alternateName lang="no">Jefferson City</alternateName>
+<alternateName lang="oc">Jefferson City</alternateName>
+<alternateName lang="pl">Jefferson City</alternateName>
+<alternateName lang="pnb">جیفرسن سٹی</alternateName>
+<alternateName lang="post">65101</alternateName>
+<alternateName lang="pt">Jefferson City</alternateName>
+<alternateName lang="ru">Джефферсон-Сити</alternateName>
+<alternateName lang="sr">Џеферсон Сити</alternateName>
+<alternateName lang="sv">Jefferson City</alternateName>
+<alternateName lang="ta">ஜெபர்சன் நகரம்</alternateName>
+<alternateName lang="tl">Lungsod ng Jefferson</alternateName>
+<alternateName lang="uk">Джефферсон-Сіті</alternateName>
+<alternateName lang="unlc">JEF</alternateName>
+<alternateName lang="zh">杰斐逊城</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.20756</west>
+<north>38.60331</north>
+<east>-92.13947</east>
+<south>38.5501</south>
+</bbox>
+<score>17.286813735961914</score>
+</geoname>
+<geoname>
+<toponymName>Bessemer</toponymName>
+<name>Bessemer</name>
+<lat>33.40178</lat>
+<lng>-86.95444</lng>
+<geonameId>4048023</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>27456</population>
+<alternateNames>Besemer,Bessemer,bei se mo,beseomeo,bsmr,bysmyr, alabama,Бесемер,Бессемер,بسمر,بيسمير، ألاباما,贝瑟默,베서머</alternateNames>
+<elevation>155</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AL">AL</adminCode1>
+<adminName1>Alabama</adminName1>
+<adminCode2>073</adminCode2>
+<adminName2>Jefferson County</adminName2>
+<alternateName lang="ar">بيسمير، ألاباما</alternateName>
+<alternateName lang="fa">بسمر</alternateName>
+<alternateName lang="ko">베서머</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bessemer%2C_Alabama</alternateName>
+<alternateName lang="post">35022</alternateName>
+<alternateName lang="sr">Бесемер</alternateName>
+<alternateName lang="uk">Бессемер</alternateName>
+<alternateName lang="unlc">BMV</alternateName>
+<alternateName lang="zh">贝瑟默</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-87.07129</west>
+<north>33.44987</north>
+<east>-86.85609</east>
+<south>33.30018</south>
+</bbox>
+<score>10.692951202392578</score>
+</geoname>
+<geoname>
+<toponymName>Jefferson County</toponymName>
+<name>Jefferson County</name>
+<lat>38.26107</lat>
+<lng>-90.53769</lng>
+<geonameId>4392394</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>218733</population>
+<alternateNames>Comte de Jefferson,Comté de Jefferson</alternateNames>
+<elevation>220</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>099</adminCode2>
+<adminName2>Jefferson County</adminName2>
+<alternateName lang="fr">Comté de Jefferson</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Jefferson_County%2C_Missouri</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.77876</west>
+<north>38.50638</north>
+<east>-90.24932</east>
+<south>38.00896</south>
+</bbox>
+<score>8.474939346313477</score>
+</geoname>
+<geoname>
+<toponymName>Jefferson City Memorial Airport</toponymName>
+<name>Jefferson City Memorial Airport</name>
+<lat>38.59254</lat>
+<lng>-92.15211</lng>
+<geonameId>4392390</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>AIRP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>airport</fcodeName>
+<population/>
+<alternateNames>JEF,KJEF</alternateNames>
+<elevation>169</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>027</adminCode2>
+<adminName2>Callaway County</adminName2>
+<alternateName lang="iata">JEF</alternateName>
+<alternateName lang="icao">KJEF</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Jefferson_City_Memorial_Airport</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>6.417213439941406</score>
+</geoname>
+<geoname>
+<toponymName>Arnold</toponymName>
+<name>Arnold</name>
+<lat>38.43283</lat>
+<lng>-90.37762</lng>
+<geonameId>4375087</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>20808</population>
+<alternateNames>Arnol'd,Арнольд</alternateNames>
+<elevation>184</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>099</adminCode2>
+<adminName2>Jefferson County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Arnold%2C_Missouri</alternateName>
+<alternateName lang="post">63010</alternateName>
+<alternateName lang="ru">Арнольд</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.40129</west>
+<north>38.45137</north>
+<east>-90.35394</east>
+<south>38.41429</south>
+</bbox>
+<score>5.865846633911133</score>
+</geoname>
+<geoname>
+<toponymName>Festus</toponymName>
+<name>Festus</name>
+<lat>38.22061</lat>
+<lng>-90.39595</lng>
+<geonameId>4386419</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>11602</population>
+<alternateNames/>
+<elevation>132</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>099</adminCode2>
+<adminName2>Jefferson County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Festus%2C_Missouri</alternateName>
+<alternateName lang="post">63028</alternateName>
+<alternateName lang="unlc">FUS</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.41313</west>
+<north>38.2341</north>
+<east>-90.37878</east>
+<south>38.20712</south>
+</bbox>
+<score>5.865846633911133</score>
+</geoname>
+<geoname>
+<toponymName>Barnhart</toponymName>
+<name>Barnhart</name>
+<lat>38.34422</lat>
+<lng>-90.39345</lng>
+<geonameId>4375832</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>5682</population>
+<alternateNames/>
+<elevation>132</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>099</adminCode2>
+<adminName2>Jefferson County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Barnhart%2C_Missouri</alternateName>
+<alternateName lang="post">63012</alternateName>
+<alternateName lang="unlc">BHT</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.40492</west>
+<north>38.35321</north>
+<east>-90.38198</east>
+<south>38.33523</south>
+</bbox>
+<score>4.888205528259277</score>
+</geoname>
+<geoname>
+<toponymName>Byrnes Mill</toponymName>
+<name>Byrnes Mill</name>
+<lat>38.43783</lat>
+<lng>-90.58179</lng>
+<geonameId>4379436</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2781</population>
+<alternateNames/>
+<elevation>143</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>099</adminCode2>
+<adminName2>Jefferson County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Byrnes_Mill%2C_Missouri</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.58991</west>
+<north>38.44419</north>
+<east>-90.57367</east>
+<south>38.43147</south>
+</bbox>
+<score>4.888205528259277</score>
+</geoname>
+<geoname>
+<toponymName>Cedar Hill</toponymName>
+<name>Cedar Hill</name>
+<lat>38.35339</lat>
+<lng>-90.64124</lng>
+<geonameId>4380570</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1721</population>
+<alternateNames/>
+<elevation>168</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>099</adminCode2>
+<adminName2>Jefferson County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cedar_Hill%2C_Missouri</alternateName>
+<alternateName lang="post">63016</alternateName>
+<alternateName lang="unlc">VRH</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.64697</west>
+<north>38.35788</north>
+<east>-90.6355</east>
+<south>38.34889</south>
+</bbox>
+<score>4.888205528259277</score>
+</geoname>
+<geoname>
+<toponymName>Crystal City</toponymName>
+<name>Crystal City</name>
+<lat>38.22117</lat>
+<lng>-90.37901</lng>
+<geonameId>4383041</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>4855</population>
+<alternateNames/>
+<elevation>135</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>099</adminCode2>
+<adminName2>Jefferson County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Crystal_City%2C_Missouri</alternateName>
+<alternateName lang="post">63019</alternateName>
+<alternateName lang="unlc">CCM</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.39046</west>
+<north>38.23016</north>
+<east>-90.36756</east>
+<south>38.21217</south>
+</bbox>
+<score>4.888205528259277</score>
+</geoname>
+</geonames>

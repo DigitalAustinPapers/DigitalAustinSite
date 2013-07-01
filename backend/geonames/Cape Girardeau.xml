@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Cape Girardeau</toponymName>
+<name>Cape Girardeau</name>
+<lat>37.30588</lat>
+<lng>-89.51815</lng>
+<geonameId>4379966</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>37941</population>
+<alternateNames>CGI,Cap-Girardeau,Kejp Zhirardo,kab jyrardw, myzwry,keipeujilado,kepujirado,kyp zhrardw, myzwry,Кейп Жирардо,كاب جيراردو، ميزوري,کیپ ژراردو، میزوری,ケープジラード,케이프지라도</alternateNames>
+<elevation>108</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>031</adminCode2>
+<adminName2>Cape Girardeau County</adminName2>
+<alternateName lang="ar">كاب جيراردو، ميزوري</alternateName>
+<alternateName lang="fa">کیپ ژراردو، میزوری</alternateName>
+<alternateName lang="fr">Cap-Girardeau</alternateName>
+<alternateName lang="iata">CGI</alternateName>
+<alternateName lang="ja">ケープジラード</alternateName>
+<alternateName lang="kk">Кейп Жирардо</alternateName>
+<alternateName lang="ko">케이프지라도</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cape_Girardeau%2C_Missouri</alternateName>
+<alternateName lang="post">63705</alternateName>
+<alternateName lang="unlc">CGI</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-89.54964</west>
+<north>37.33092</north>
+<east>-89.48666</east>
+<south>37.28085</south>
+</bbox>
+<score>56.20624542236328</score>
+</geoname>
+</geonames>

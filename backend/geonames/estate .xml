@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>8</totalResultsCount>
+<geoname>
+<toponymName>Estate</toponymName>
+<name>Estate</name>
+<lat>-23.78333</lat>
+<lng>30.16667</lng>
+<geonameId>1004966</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>S</fcl>
+<fcode>RSD</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>railroad siding</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="LP">09</adminCode1>
+<adminName1>Limpopo</adminName1>
+<adminCode2>DC33</adminCode2>
+<adminName2>Mopani District Municipality</adminName2>
+<adminCode3>LIM333</adminCode3>
+<adminName3>Greater Tzaneen</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<score>13.312376022338867</score>
+</geoname>
+<geoname>
+<toponymName>Esmate</toponymName>
+<name>Esmate</name>
+<lat>45.78333</lat>
+<lng>10.01667</lng>
+<geonameId>3177343</geonameId>
+<countryCode>IT</countryCode>
+<countryName>Italy</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="25">09</adminCode1>
+<adminName1>Lombardy</adminName1>
+<adminCode2>BG</adminCode2>
+<adminName2>Provincia di Bergamo</adminName2>
+<adminCode3>016200</adminCode3>
+<adminName3>Solto Collina</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Rome</timezone>
+<bbox>
+<west>10.00377</west>
+<north>45.79233</north>
+<east>10.02957</east>
+<south>45.77434</south>
+</bbox>
+<score>7.09992790222168</score>
+</geoname>
+<geoname>
+<toponymName>Estatoe</toponymName>
+<name>Estatoe</name>
+<lat>35.90345</lat>
+<lng>-82.11956</lng>
+<geonameId>4465490</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>803</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NC">NC</adminCode1>
+<adminName1>North Carolina</adminName1>
+<adminCode2>121</adminCode2>
+<adminName2>Mitchell County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-82.13067</west>
+<north>35.91245</north>
+<east>-82.10846</east>
+<south>35.89446</south>
+</bbox>
+<score>7.09992790222168</score>
+</geoname>
+<geoname>
+<toponymName>Estata</toponymName>
+<name>Estata</name>
+<lat>-21.89972</lat>
+<lng>34.17889</lng>
+<geonameId>1046555</geonameId>
+<countryCode>MZ</countryCode>
+<countryName>Mozambique</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="I">03</adminCode1>
+<adminName1>Inhambane</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Maputo</timezone>
+<bbox>
+<west>34.1692</west>
+<north>-21.89073</north>
+<east>34.18858</east>
+<south>-21.90872</south>
+</bbox>
+<score>6.750217437744141</score>
+</geoname>
+<geoname>
+<toponymName>Estata</toponymName>
+<name>Estata</name>
+<lat>-21.79472</lat>
+<lng>34.28222</lng>
+<geonameId>1046556</geonameId>
+<countryCode>MZ</countryCode>
+<countryName>Mozambique</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="I">03</adminCode1>
+<adminName1>Inhambane</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Maputo</timezone>
+<bbox>
+<west>34.27254</west>
+<north>-21.78573</north>
+<east>34.29191</east>
+<south>-21.80372</south>
+</bbox>
+<score>6.750217437744141</score>
+</geoname>
+<geoname>
+<toponymName>El Estante</toponymName>
+<name>El Estante</name>
+<lat>22.69833</lat>
+<lng>-81.56528</lng>
+<geonameId>3561041</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>El Estante,Estante</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="04">03</adminCode1>
+<adminName1>Matanzas</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<bbox>
+<west>-81.57503</west>
+<north>22.70733</north>
+<east>-81.55553</east>
+<south>22.68934</south>
+</bbox>
+<score>5.020407199859619</score>
+</geoname>
+<geoname>
+<toponymName>Estates</toponymName>
+<name>Estates</name>
+<lat>-23.61667</lat>
+<lng>30.13333</lng>
+<geonameId>1004964</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>S</fcl>
+<fcode>FRMT</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farmstead</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="LP">09</adminCode1>
+<adminName1>Limpopo</adminName1>
+<adminCode2>DC33</adminCode2>
+<adminName2>Mopani District Municipality</adminName2>
+<adminCode3>LIM332</adminCode3>
+<adminName3>Greater Letaba</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<score>2.2187275886535645</score>
+</geoname>
+<geoname>
+<toponymName>Estapé</toponymName>
+<name>Estapé</name>
+<lat>21.70111</lat>
+<lng>-78.76722</lng>
+<geonameId>3559138</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>S</fcl>
+<fcode>RSTP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>railroad stop</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="08">07</adminCode1>
+<adminName1>Ciego de Ávila</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>2.2187275886535645</score>
+</geoname>
+</geonames>

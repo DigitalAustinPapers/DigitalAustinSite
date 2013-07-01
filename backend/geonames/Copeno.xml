@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Cobeño</toponymName>
+<name>Cobeño</name>
+<lat>27.01667</lat>
+<lng>-105.53333</lng>
+<geonameId>4013649</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Cobeno,Cobeño,Seccion Cobeno,Sección Cobeño</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CHH">06</adminCode1>
+<adminName1>Chihuahua</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Chihuahua</timezone>
+<bbox>
+<west>-105.54343</west>
+<north>27.02566</north>
+<east>-105.52324</east>
+<south>27.00767</south>
+</bbox>
+<score>24.38767433166504</score>
+</geoname>
+<geoname>
+<toponymName>Komen</toponymName>
+<name>Komen</name>
+<lat>45.81528</lat>
+<lng>13.74833</lng>
+<geonameId>3197842</geonameId>
+<countryCode>SI</countryCode>
+<countryName>Slovenia</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population/>
+<alternateNames>Comen,Comeno,Komen</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="049">49</adminCode1>
+<adminName1>Komen</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Ljubljana</timezone>
+<bbox>
+<west>13.72252</west>
+<north>45.83327</north>
+<east>13.77415</east>
+<south>45.79729</south>
+</bbox>
+<score>20.323062896728516</score>
+</geoname>
+<geoname>
+<toponymName>Capeio</toponymName>
+<name>Capeio</name>
+<lat>-11.53333</lat>
+<lng>14.7</lng>
+<geonameId>3350608</geonameId>
+<countryCode>AO</countryCode>
+<countryName>Angola</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Capeio,Copeio</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="CUS">06</adminCode1>
+<adminName1>Cuanza Sul</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="1.0">Africa/Luanda</timezone>
+<bbox>
+<west>14.69082</west>
+<north>-11.52434</north>
+<east>14.70918</east>
+<south>-11.54233</south>
+</bbox>
+<score>16.25844955444336</score>
+</geoname>
+<geoname>
+<toponymName>Copano</toponymName>
+<name>Copano</name>
+<lat>-37.56559</lat>
+<lng>-73.38259</lng>
+<geonameId>3893669</geonameId>
+<countryCode>CL</countryCode>
+<countryName>Chile</countryName>
+<fcl>S</fcl>
+<fcode>FRM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farm</fcodeName>
+<population/>
+<alternateNames>Copano,Cupano</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="BI">06</adminCode1>
+<adminName1>Biobío</adminName1>
+<adminCode2>82</adminCode2>
+<adminName2>Provincia de Arauco</adminName2>
+<adminCode3>08206</adminCode3>
+<adminName3>Los Alamos</adminName3>
+<timezone dstOffset="-4.0" gmtOffset="-3.0">America/Santiago</timezone>
+<score>14.080229759216309</score>
+</geoname>
+</geonames>

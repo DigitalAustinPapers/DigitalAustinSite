@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>19</totalResultsCount>
+<geoname>
+<toponymName>Ohio</toponymName>
+<name>Ohio</name>
+<lat>43.32229</lat>
+<lng>-74.97849</lng>
+<geonameId>5129633</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>418</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>043</adminCode2>
+<adminName2>Herkimer County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ohio%2C_New_York</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-74.99086</west>
+<north>43.33128</north>
+<east>-74.96613</east>
+<south>43.3133</south>
+</bbox>
+<score>59.209716796875</score>
+</geoname>
+<geoname>
+<toponymName>Ohio</toponymName>
+<name>Ohio</name>
+<lat>41.55753</lat>
+<lng>-89.46093</lng>
+<geonameId>4904612</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>513</population>
+<alternateNames/>
+<elevation>275</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>011</adminCode2>
+<adminName2>Bureau County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ohio%2C_Illinois</alternateName>
+<alternateName lang="post">61349</alternateName>
+<alternateName lang="unlc">OH3</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-89.46213</west>
+<north>41.55843</north>
+<east>-89.45973</east>
+<south>41.55664</south>
+</bbox>
+<score>49.3414306640625</score>
+</geoname>
+<geoname>
+<toponymName>Ohio</toponymName>
+<name>Ohio</name>
+<lat>-30.96667</lat>
+<lng>151.61667</lng>
+<geonameId>2154459</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="NSW">02</adminCode1>
+<adminName1>New South Wales</adminName1>
+<adminCode2>17850</adminCode2>
+<adminName2>Walcha</adminName2>
+<timezone dstOffset="10.0" gmtOffset="11.0">Australia/Sydney</timezone>
+<bbox>
+<west>151.60618</west>
+<north>-30.95767</north>
+<east>151.62715</east>
+<south>-30.97566</south>
+</bbox>
+<score>39.47314453125</score>
+</geoname>
+<geoname>
+<toponymName>Ohio</toponymName>
+<name>Ohio</name>
+<lat>6.80132</lat>
+<lng>8.60485</lng>
+<geonameId>2327471</geonameId>
+<countryCode>NG</countryCode>
+<countryName>Nigeria</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="BE">26</adminCode1>
+<adminName1>Benue State</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="1.0">Africa/Lagos</timezone>
+<bbox>
+<west>8.5958</west>
+<north>6.81032</north>
+<east>8.61391</east>
+<south>6.79233</south>
+</bbox>
+<score>39.47314453125</score>
+</geoname>
+<geoname>
+<toponymName>Ohío</toponymName>
+<name>Ohío</name>
+<lat>21.68333</lat>
+<lng>-82.86667</lng>
+<geonameId>3545718</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="99">04</adminCode1>
+<adminName1>Isla de la Juventud</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>39.47314453125</score>
+</geoname>
+<geoname>
+<toponymName>Ohio</toponymName>
+<name>Ohio</name>
+<lat>32.58292</lat>
+<lng>-83.81574</lng>
+<geonameId>4213959</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>119</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">GA</adminCode1>
+<adminName1>Georgia</adminName1>
+<adminCode2>225</adminCode2>
+<adminName2>Peach County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-83.82642</west>
+<north>32.59192</north>
+<east>-83.80507</east>
+<south>32.57393</south>
+</bbox>
+<score>39.47314453125</score>
+</geoname>
+<geoname>
+<toponymName>Ohio</toponymName>
+<name>Ohio</name>
+<lat>38.15558</lat>
+<lng>-93.85188</lng>
+<geonameId>4401695</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>255</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>185</adminCode2>
+<adminName2>Saint Clair County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-93.86332</west>
+<north>38.16458</north>
+<east>-93.84044</east>
+<south>38.14659</south>
+</bbox>
+<score>39.47314453125</score>
+</geoname>
+<geoname>
+<toponymName>Ohio</toponymName>
+<name>Ohio</name>
+<lat>31.53933</lat>
+<lng>-98.08614</lng>
+<geonameId>4716163</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>322</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>193</adminCode2>
+<adminName2>Hamilton County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-98.0967</west>
+<north>31.54832</north>
+<east>-98.07559</east>
+<south>31.53033</south>
+</bbox>
+<score>39.47314453125</score>
+</geoname>
+<geoname>
+<toponymName>Ohio</toponymName>
+<name>Ohio</name>
+<lat>38.56666</lat>
+<lng>-106.6117</lng>
+<geonameId>5433306</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>2612</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CO">CO</adminCode1>
+<adminName1>Colorado</adminName1>
+<adminCode2>051</adminCode2>
+<adminName2>Gunnison County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<bbox>
+<west>-106.6232</west>
+<north>38.57565</north>
+<east>-106.60019</east>
+<south>38.55767</south>
+</bbox>
+<score>39.47314453125</score>
+</geoname>
+<geoname>
+<toponymName>Ohio</toponymName>
+<name>Ohio</name>
+<lat>43.91685</lat>
+<lng>-66.06557</lng>
+<geonameId>6092821</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NS">07</adminCode1>
+<adminName1>Nova Scotia</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-3.0" gmtOffset="-4.0">America/Halifax</timezone>
+<score>39.47314453125</score>
+</geoname>
+</geonames>

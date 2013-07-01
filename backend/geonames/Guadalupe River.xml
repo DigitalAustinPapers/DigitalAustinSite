@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>6</totalResultsCount>
+<geoname>
+<toponymName>Guadalupe River</toponymName>
+<name>Guadalupe River</name>
+<lat>10.55</lat>
+<lng>124.76667</lng>
+<geonameId>1712631</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>Guadalope River,Guadalupe River</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="08">08</adminCode1>
+<adminName1>Eastern Visayas</adminName1>
+<adminCode2>37</adminCode2>
+<adminName2>Leyte</adminName2>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<score>26.637969970703125</score>
+</geoname>
+<geoname>
+<toponymName>Guadaloupe River</toponymName>
+<name>Guadaloupe River</name>
+<lat>10.1118</lat>
+<lng>125.6685</lng>
+<geonameId>1712649</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>Guadaloupe,Guadaloupe River</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="BUL">13</adminCode1>
+<adminName1>Caraga</adminName1>
+<adminCode2>61</adminCode2>
+<adminName2>Surigao del Norte</adminName2>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<score>14.157958030700684</score>
+</geoname>
+<geoname>
+<toponymName>Guadalupe River</toponymName>
+<name>Guadalupe River</name>
+<lat>10.3</lat>
+<lng>123.9</lng>
+<geonameId>1712632</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2>B7</adminCode2>
+<adminName2>Cebu City</adminName2>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<score>9.422304153442383</score>
+</geoname>
+<geoname>
+<toponymName>Guadalupe River</toponymName>
+<name>Guadalupe River</name>
+<lat>28.43472</lat>
+<lng>-96.80443</lng>
+<geonameId>4695373</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>2</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>057</adminCode2>
+<adminName2>Calhoun County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>9.422304153442383</score>
+</geoname>
+<geoname>
+<toponymName>Guadalupe River</toponymName>
+<name>Guadalupe River</name>
+<lat>37.42577</lat>
+<lng>-121.9794</lng>
+<geonameId>5354619</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>2</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>085</adminCode2>
+<adminName2>Santa Clara County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>9.422304153442383</score>
+</geoname>
+<geoname>
+<toponymName>Guadalupe River</toponymName>
+<name>Guadalupe River</name>
+<lat>29.68157</lat>
+<lng>-98.07409</lng>
+<geonameId>7602109</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>187</adminCode2>
+<adminName2>Guadalupe County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>9.422304153442383</score>
+</geoname>
+</geonames>

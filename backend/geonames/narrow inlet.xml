@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Narrow Inlet</toponymName>
+<name>Narrow Inlet</name>
+<lat>-74.98333</lat>
+<lng>163.7</lng>
+<geonameId>6622079</geonameId>
+<countryCode>AQ</countryCode>
+<countryName>Antarctica</countryName>
+<fcl>H</fcl>
+<fcode>COVE</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>cove(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AN</continentCode>
+<adminCode1/>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="12.0" gmtOffset="13.0">Antarctica/McMurdo</timezone>
+<score>12.286331176757812</score>
+</geoname>
+<geoname>
+<toponymName>Narrows Inlet</toponymName>
+<name>Narrows Inlet</name>
+<lat>49.68297</lat>
+<lng>-123.81946</lng>
+<geonameId>6086074</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>H</fcl>
+<fcode>INLT</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>inlet</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="BC">02</adminCode1>
+<adminName1>British Columbia</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Vancouver</timezone>
+<score>7.167028427124023</score>
+</geoname>
+<geoname>
+<toponymName>Narrows Islet</toponymName>
+<name>Narrows Islet</name>
+<lat>50.71632</lat>
+<lng>-126.70307</lng>
+<geonameId>6086083</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="BC">02</adminCode1>
+<adminName1>British Columbia</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Vancouver</timezone>
+<score>6.552704811096191</score>
+</geoname>
+</geonames>

@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>9</totalResultsCount>
+<geoname>
+<toponymName>Bayou</toponymName>
+<name>Bayou</name>
+<lat>27.56583</lat>
+<lng>111.12083</lng>
+<geonameId>1986872</geonameId>
+<countryCode>CN</countryCode>
+<countryName>China</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Bayou,ba you,巴油</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="43">11</adminCode1>
+<adminName1>Hunan</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="zh">巴油</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Shanghai</timezone>
+<bbox>
+<west>111.11069</west>
+<north>27.57483</north>
+<east>111.13098</east>
+<south>27.55684</south>
+</bbox>
+<score>44.4024543762207</score>
+</geoname>
+<geoname>
+<toponymName>Bayou</toponymName>
+<name>Bayou</name>
+<lat>25.03333</lat>
+<lng>104.86667</lng>
+<geonameId>1551033</geonameId>
+<countryCode>CN</countryCode>
+<countryName>China</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="52">18</adminCode1>
+<adminName1>Guizhou Sheng</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Chongqing</timezone>
+<bbox>
+<west>104.85674</west>
+<north>25.04233</north>
+<east>104.87659</east>
+<south>25.02434</south>
+</bbox>
+<score>41.43366241455078</score>
+</geoname>
+<geoname>
+<toponymName>Bayou</toponymName>
+<name>Bayou</name>
+<lat>11.88333</lat>
+<lng>109</lng>
+<geonameId>1588099</geonameId>
+<countryCode>VN</countryCode>
+<countryName>Vietnam</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="36">60</adminCode1>
+<adminName1>Ninh Thuận</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="7.0" gmtOffset="7.0">Asia/Ho_Chi_Minh</timezone>
+<bbox>
+<west>108.99081</west>
+<north>11.89233</north>
+<east>109.00919</east>
+<south>11.87434</south>
+</bbox>
+<score>41.43366241455078</score>
+</geoname>
+<geoname>
+<toponymName>Bayou</toponymName>
+<name>Bayou</name>
+<lat>27.85861</lat>
+<lng>110.85444</lng>
+<geonameId>1983012</geonameId>
+<countryCode>CN</countryCode>
+<countryName>China</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="43">11</adminCode1>
+<adminName1>Hunan</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Shanghai</timezone>
+<bbox>
+<west>110.84427</west>
+<north>27.8676</north>
+<east>110.86462</east>
+<south>27.84962</south>
+</bbox>
+<score>41.43366241455078</score>
+</geoname>
+<geoname>
+<toponymName>Bayou</toponymName>
+<name>Bayou</name>
+<lat>36.56667</lat>
+<lng>5.1</lng>
+<geonameId>2505556</geonameId>
+<countryCode>DZ</countryCode>
+<countryName>Algeria</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="06">18</adminCode1>
+<adminName1>Bejaïa</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="1.0">Africa/Algiers</timezone>
+<bbox>
+<west>5.0888</west>
+<north>36.57566</north>
+<east>5.1112</east>
+<south>36.55767</south>
+</bbox>
+<score>41.43366241455078</score>
+</geoname>
+<geoname>
+<toponymName>Bayou</toponymName>
+<name>Bayou</name>
+<lat>37.24478</lat>
+<lng>-88.47504</lng>
+<geonameId>4283358</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>105</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>139</adminCode2>
+<adminName2>Livingston County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-88.48634</west>
+<north>37.25377</north>
+<east>-88.46374</east>
+<south>37.23578</south>
+</bbox>
+<score>41.43366241455078</score>
+</geoname>
+<geoname>
+<toponymName>Bayou</toponymName>
+<name>Bayou</name>
+<lat>29.09392</lat>
+<lng>109.60586</lng>
+<geonameId>7006589</geonameId>
+<countryCode>CN</countryCode>
+<countryName>China</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Bayou</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="43">11</adminCode1>
+<adminName1>Hunan</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Shanghai</timezone>
+<bbox>
+<west>109.59557</west>
+<north>29.10291</north>
+<east>109.61615</east>
+<south>29.08492</south>
+</bbox>
+<score>38.05924606323242</score>
+</geoname>
+<geoname>
+<toponymName>Tan Kau</toponymName>
+<name>Tan Kau</name>
+<lat>16.31667</lat>
+<lng>106.9</lng>
+<geonameId>1652832</geonameId>
+<countryCode>LA</countryCode>
+<countryName>Laos</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Bayou,Tan Kau</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="SL">19</adminCode1>
+<adminName1>Salavan</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="7.0" gmtOffset="7.0">Asia/Vientiane</timezone>
+<bbox>
+<west>106.89063</west>
+<north>16.32566</north>
+<east>106.90937</east>
+<south>16.30767</south>
+</bbox>
+<score>29.298023223876953</score>
+</geoname>
+<geoname>
+<toponymName>Bayou</toponymName>
+<name>Bayou</name>
+<lat>-38.2</lat>
+<lng>145.18333</lng>
+<geonameId>2176570</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>S</fcl>
+<fcode>FRM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farm</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="VIC">07</adminCode1>
+<adminName1>Victoria</adminName1>
+<adminCode2>25340</adminCode2>
+<adminName2>Mornington Peninsula</adminName2>
+<timezone dstOffset="10.0" gmtOffset="11.0">Australia/Melbourne</timezone>
+<score>12.948019027709961</score>
+</geoname>
+</geonames>

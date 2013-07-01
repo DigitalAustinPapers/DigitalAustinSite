@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>104</totalResultsCount>
+<geoname>
+<toponymName>Meaux</toponymName>
+<name>Meaux</name>
+<lat>48.96014</lat>
+<lng>2.87885</lng>
+<geonameId>2994798</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>53811</population>
+<alternateNames>Meldis,Mo,mo,mo cheng,mw,Мо,مو,モー,莫城</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="J">A8</adminCode1>
+<adminName1>Île-de-France</adminName1>
+<adminCode2>77</adminCode2>
+<adminName2>Seine-et-Marne</adminName2>
+<adminCode3>771</adminCode3>
+<adminName3>Arrondissement de Meaux</adminName3>
+<adminCode4>77284</adminCode4>
+<adminName4>Meaux</adminName4>
+<alternateName lang="ar">مو</alternateName>
+<alternateName lang="ja">モー</alternateName>
+<alternateName lang="kk">Мо</alternateName>
+<alternateName lang="la">Meldis</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Meaux</alternateName>
+<alternateName lang="lt">Mo</alternateName>
+<alternateName lang="post">77100</alternateName>
+<alternateName lang="ru">Мо</alternateName>
+<alternateName lang="uk">Мо</alternateName>
+<alternateName lang="unlc">MEA</alternateName>
+<alternateName lang="zh">莫城</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>2.83339</west>
+<north>48.98997</north>
+<east>2.9243</east>
+<south>48.93032</south>
+</bbox>
+<score>65.0729751586914</score>
+</geoname>
+<geoname>
+<toponymName>Mo</toponymName>
+<name>Mo</name>
+<lat>63.37691</lat>
+<lng>18.46122</lng>
+<geonameId>8133053</geonameId>
+<countryCode>SE</countryCode>
+<countryName>Sweden</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population>1284</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="Y">24</adminCode1>
+<adminName1>Västernorrland</adminName1>
+<adminCode2>2284</adminCode2>
+<adminName2>Örnsköldsviks Kommun</adminName2>
+<adminCode3>228409</adminCode3>
+<adminName3>Mo</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Stockholm</timezone>
+<score>60.87019348144531</score>
+</geoname>
+<geoname>
+<toponymName>Mo</toponymName>
+<name>Mo</name>
+<lat>59.1</lat>
+<lng>12.63333</lng>
+<geonameId>8133303</geonameId>
+<countryCode>SE</countryCode>
+<countryName>Sweden</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population>294</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="O">28</adminCode1>
+<adminName1>Västra Götaland</adminName1>
+<adminCode2>1492</adminCode2>
+<adminName2>Åmåls Kommun</adminName2>
+<adminCode3>149203</adminCode3>
+<adminName3>Mo</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Stockholm</timezone>
+<score>60.87019348144531</score>
+</geoname>
+<geoname>
+<toponymName>Mo</toponymName>
+<name>Mo</name>
+<lat>60.81625</lat>
+<lng>5.80575</lng>
+<geonameId>3145716</geonameId>
+<countryCode>NO</countryCode>
+<countryName>Norway</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="12">07</adminCode1>
+<adminName1>Hordaland</adminName1>
+<adminCode2>1252</adminCode2>
+<adminName2>Modalen</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Mo%2C_Hordaland</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Oslo</timezone>
+<bbox>
+<west>5.76884</west>
+<north>60.83424</north>
+<east>5.84266</east>
+<south>60.79826</south>
+</bbox>
+<score>43.47870635986328</score>
+</geoname>
+<geoname>
+<toponymName>Mo</toponymName>
+<name>Mo</name>
+<lat>60.42894</lat>
+<lng>11.63576</lng>
+<geonameId>3145740</geonameId>
+<countryCode>NO</countryCode>
+<countryName>Norway</countryName>
+<fcl>S</fcl>
+<fcode>CH</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>church</fcodeName>
+<population/>
+<alternateNames>Mo</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="04">06</adminCode1>
+<adminName1>Hedmark county</adminName1>
+<adminCode2>0418</adminCode2>
+<adminName2>Nord-Odal</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Mo%2C_Hedmark</alternateName>
+<alternateName lang="no">Mo</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Oslo</timezone>
+<score>43.041725158691406</score>
+</geoname>
+<geoname>
+<toponymName>Mo</toponymName>
+<name>Mo</name>
+<lat>34.3508</lat>
+<lng>72.88986</lng>
+<geonameId>1378885</geonameId>
+<countryCode>PK</countryCode>
+<countryName>Pakistan</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="NW">03</adminCode1>
+<adminName1>North-West Frontier Province</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="5.0" gmtOffset="5.0">Asia/Karachi</timezone>
+<bbox>
+<west>72.87896</west>
+<north>34.3598</north>
+<east>72.90075</east>
+<south>34.34181</south>
+</bbox>
+<score>34.78296661376953</score>
+</geoname>
+<geoname>
+<toponymName>Mỏ</toponymName>
+<name>Mỏ</name>
+<lat>21.8</lat>
+<lng>103.95</lng>
+<geonameId>1574591</geonameId>
+<countryCode>VN</countryCode>
+<countryName>Vietnam</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1>19</adminCode1>
+<adminName1>(VM19)</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="7.0" gmtOffset="7.0">Asia/Ho_Chi_Minh</timezone>
+<bbox>
+<west>103.94031</west>
+<north>21.80899</north>
+<east>103.95969</east>
+<south>21.79101</south>
+</bbox>
+<score>34.78296661376953</score>
+</geoname>
+<geoname>
+<toponymName>Mo</toponymName>
+<name>Mo</name>
+<lat>-7.745</lat>
+<lng>147.58662</lng>
+<geonameId>2090675</geonameId>
+<countryCode>PG</countryCode>
+<countryName>Papua New Guinea</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="MPL">14</adminCode1>
+<adminName1>Morobe</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="10.0" gmtOffset="10.0">Pacific/Port_Moresby</timezone>
+<bbox>
+<west>147.57755</west>
+<north>-7.73601</north>
+<east>147.5957</east>
+<south>-7.75399</south>
+</bbox>
+<score>34.78296661376953</score>
+</geoname>
+<geoname>
+<toponymName>Mo</toponymName>
+<name>Mo</name>
+<lat>-6.25</lat>
+<lng>145.03333</lng>
+<geonameId>2090676</geonameId>
+<countryCode>PG</countryCode>
+<countryName>Papua New Guinea</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="CPK">08</adminCode1>
+<adminName1>Chimbu</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="10.0" gmtOffset="10.0">Pacific/Port_Moresby</timezone>
+<bbox>
+<west>145.02429</west>
+<north>-6.24101</north>
+<east>145.04238</east>
+<south>-6.25899</south>
+</bbox>
+<score>34.78296661376953</score>
+</geoname>
+<geoname>
+<toponymName>Mo</toponymName>
+<name>Mo</name>
+<lat>-0.23722</lat>
+<lng>15.96806</lng>
+<geonameId>2257072</geonameId>
+<countryCode>CG</countryCode>
+<countryName>Republic of the Congo</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="8">13</adminCode1>
+<adminName1>Cuvette</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="1.0">Africa/Brazzaville</timezone>
+<bbox>
+<west>15.95906</west>
+<north>-0.22823</north>
+<east>15.97705</east>
+<south>-0.24622</south>
+</bbox>
+<score>34.78296661376953</score>
+</geoname>
+</geonames>

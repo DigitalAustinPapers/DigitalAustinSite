@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>64</totalResultsCount>
+<geoname>
+<toponymName>Peterborough</toponymName>
+<name>Peterborough</name>
+<lat>-32.97205</lat>
+<lng>138.84073</lng>
+<geonameId>2063518</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1689</population>
+<alternateNames>Peterborough,Petersburgh</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="SA">05</adminCode1>
+<adminName1>South Australia</adminName1>
+<adminCode2>45540</adminCode2>
+<adminName2>Peterborough</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Peterborough%2C_South_Australia</alternateName>
+<timezone dstOffset="9.5" gmtOffset="10.5">Australia/Adelaide</timezone>
+<bbox>
+<west>138.81902</west>
+<north>-32.95761</north>
+<east>138.85645</east>
+<south>-32.9847</south>
+</bbox>
+<score>43.92516326904297</score>
+</geoname>
+<geoname>
+<toponymName>Petersburgh</toponymName>
+<name>Petersburgh</name>
+<lat>40.51395</lat>
+<lng>-81.11232</lng>
+<geonameId>5166565</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>301</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>019</adminCode2>
+<adminName2>Carroll County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-81.12415</west>
+<north>40.52295</north>
+<east>-81.10049</east>
+<south>40.50496</south>
+</bbox>
+<score>41.41304397583008</score>
+</geoname>
+<geoname>
+<toponymName>Saint Petersburg</toponymName>
+<name>Saint-Petersburg</name>
+<lat>59.89444</lat>
+<lng>30.26417</lng>
+<geonameId>498817</geonameId>
+<countryCode>RU</countryCode>
+<countryName>Russia</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population>4039745</population>
+<alternateNames>Agia Petroupole,Betuyrbukh,LED,Leningrad,Leningrado,Lungsod ng Sankt-Peterburg,Peterburg,Peterburgo,Peterburi,Petersburg,Petrograd,Petrogrado,Petrohrad,Petropolis,Petursborg,Pietari,Piter,Pétursborg,SPb,Saint Petersbourg,Saint Petersburg,Saint Pétersbourg,Saint-Petersbourg,Saint-Petersburg,Saint-Pétersbourg,San Petersburgo,San Pietroburgo,San Pietruburgu,Sankt Peitersbuerg,Sankt Peterburg,Sankt Peterburgas,Sankt Petersborg,Sankt Petersburg,Sankt Peterzburg,Sankt Péitersbuerg,Sankt-Peterburg,Sankt-Peterburgo,Sankt-Petersburg,Sankti Petursborg,Sankti Pétursborg,Sanktpeterburga,Sanktpēterburga,Sant Petersburg,Sant Petersburgo,Sant-Petersbourg,Sao Petersburgo,Sint Petersbork,Sint-Petersburg,St Peterburg,St Petersburg,St. Petersburg,St.-Petersburg,Szentpetervar,Szentpétervár,São Petersburgo,sangteupeteleubuleukeu,sankt. peterburg,sankutopeteruburuku,sant btrsbrgh,sent pi te xrs beirk,sheng bi de bao,sn ptrzbwrg,snqt ptrbwrg,Αγία Πετρούπολη,Бетъырбух,Ленинград,Петербург,Петроград,Питер,СПб,Санкт Петербург,Санкт Петерзбург,Санкт-Петербург,Սանկտ Պետերբուրգ,סנקט פטרבורג,سانت بطرسبرغ,سن پترزبورگ,เซนต์ปีเตอร์สเบิร์ก,სანკტ-პეტერბურგი,სანქტ-პეტერბურგი,サンクトペテルブルク,圣彼得堡,상트페테르부르크</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SPE">66</adminCode1>
+<adminName1>St.-Petersburg</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="als">Sankt-Petersburg</alternateName>
+<alternateName lang="an">Sant Petersburgo</alternateName>
+<alternateName lang="ar">سانت بطرسبرغ</alternateName>
+<alternateName lang="bg">Санкт Петербург</alternateName>
+<alternateName lang="br">Sant-Petersbourg</alternateName>
+<alternateName lang="bs">Sankt Peterburg</alternateName>
+<alternateName lang="ca">Sant Petersburg</alternateName>
+<alternateName lang="cs">Petrohrad</alternateName>
+<alternateName lang="cv">Санкт-Петербург</alternateName>
+<alternateName lang="cy">St Petersburg</alternateName>
+<alternateName lang="da">Sankt Petersborg</alternateName>
+<alternateName lang="de">Sankt Petersburg</alternateName>
+<alternateName lang="el">Αγία Πετρούπολη</alternateName>
+<alternateName lang="en">Saint-Petersburg</alternateName>
+<alternateName lang="eo">Sankt-Peterburgo</alternateName>
+<alternateName lang="es">San Petersburgo</alternateName>
+<alternateName lang="et">Peterburi</alternateName>
+<alternateName lang="eu">San Petersburgo</alternateName>
+<alternateName lang="fa">سن پترزبورگ</alternateName>
+<alternateName lang="fi">Pietari</alternateName>
+<alternateName lang="fr">Saint-Pétersbourg</alternateName>
+<alternateName lang="gl">San Petersburgo</alternateName>
+<alternateName lang="hbs">Sankt Peterburg</alternateName>
+<alternateName lang="he">סנקט פטרבורג</alternateName>
+<alternateName lang="hr">Sankt Peterburg</alternateName>
+<alternateName lang="hu">Szentpétervár</alternateName>
+<alternateName lang="hy">Սանկտ Պետերբուրգ</alternateName>
+<alternateName lang="iata">LED</alternateName>
+<alternateName lang="id">St. Petersburg</alternateName>
+<alternateName lang="io">St Peterburg</alternateName>
+<alternateName lang="is">Sankti Pétursborg</alternateName>
+<alternateName lang="it">San Pietroburgo</alternateName>
+<alternateName lang="ja">サンクトペテルブルク</alternateName>
+<alternateName lang="jbo">sankt. peterburg</alternateName>
+<alternateName lang="ka">სანკტ-პეტერბურგი</alternateName>
+<alternateName lang="ko">상트페테르부르크</alternateName>
+<alternateName lang="la">Petropolis</alternateName>
+<alternateName lang="lb">Sankt Péitersbuerg</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Saint_Petersburg</alternateName>
+<alternateName lang="lt">Sankt Peterburgas</alternateName>
+<alternateName lang="lv">Sanktpēterburga</alternateName>
+<alternateName lang="nds">Sankt Petersborg</alternateName>
+<alternateName lang="nl">Sint-Petersburg</alternateName>
+<alternateName lang="nn">St. Petersburg</alternateName>
+<alternateName lang="no">St. Petersburg</alternateName>
+<alternateName lang="nrm">Saint Pétersbourg</alternateName>
+<alternateName lang="os">Бетъырбух</alternateName>
+<alternateName lang="pl">Sankt Petersburg</alternateName>
+<alternateName lang="pt">São Petersburgo</alternateName>
+<alternateName lang="ro">Санкт-Петербург</alternateName>
+<alternateName lang="ru">СПб</alternateName>
+<alternateName lang="scn">San Pietruburgu</alternateName>
+<alternateName lang="sk">Petrohrad</alternateName>
+<alternateName lang="sl">Sankt-Peterburg</alternateName>
+<alternateName lang="sr">Санкт Петерзбург</alternateName>
+<alternateName lang="sv">Sankt Petersburg</alternateName>
+<alternateName lang="th">เซนต์ปีเตอร์สเบิร์ก</alternateName>
+<alternateName lang="tl">San Petersburgo</alternateName>
+<alternateName lang="tr">St. Petersburg</alternateName>
+<alternateName lang="tt">Sankt-Peterburg</alternateName>
+<alternateName lang="uk">Санкт-Петербург</alternateName>
+<alternateName lang="vi">Sankt-Peterburg</alternateName>
+<alternateName lang="wa">Sint Petersbork</alternateName>
+<alternateName lang="zh-CN">圣彼得堡</alternateName>
+<timezone dstOffset="4.0" gmtOffset="4.0">Europe/Moscow</timezone>
+<bbox>
+<west>29.73992</west>
+<north>60.15534</north>
+<east>30.78842</east>
+<south>59.63355</south>
+</bbox>
+<score>20.32612419128418</score>
+</geoname>
+<geoname>
+<toponymName>Petersburg</toponymName>
+<name>Petersburg</name>
+<lat>39.04928</lat>
+<lng>-75.64826</lng>
+<geonameId>4144085</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>17</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="DE">DE</adminCode1>
+<adminName1>Delaware</adminName1>
+<adminCode2>001</adminCode2>
+<adminName2>Kent County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Petersburg%2C_Delaware</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-75.65984</west>
+<north>39.05827</north>
+<east>-75.63668</east>
+<south>39.04029</south>
+</bbox>
+<score>20.32612419128418</score>
+</geoname>
+<geoname>
+<toponymName>Petersburg</toponymName>
+<name>Petersburg</name>
+<lat>39.06922</lat>
+<lng>-84.86828</lng>
+<geonameId>4304035</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>620</population>
+<alternateNames/>
+<elevation>156</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>015</adminCode2>
+<adminName2>Boone County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Petersburg%2C_Kentucky</alternateName>
+<alternateName lang="post">41080</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-84.86944</west>
+<north>39.07012</north>
+<east>-84.86713</east>
+<south>39.06833</south>
+</bbox>
+<score>20.32612419128418</score>
+</geoname>
+<geoname>
+<toponymName>Petersburg</toponymName>
+<name>Petersburg</name>
+<lat>38.17868</lat>
+<lng>-85.6594</lng>
+<geonameId>4304036</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>152</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>111</adminCode2>
+<adminName2>Jefferson County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Petersburg%2C_Louisville</alternateName>
+<alternateName lang="unlc">RUG</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Kentucky/Louisville</timezone>
+<bbox>
+<west>-85.67085</west>
+<north>38.18767</north>
+<east>-85.64796</east>
+<south>38.16969</south>
+</bbox>
+<score>20.32612419128418</score>
+</geoname>
+<geoname>
+<toponymName>Petersburg</toponymName>
+<name>Petersburg</name>
+<lat>41.56003</lat>
+<lng>-90.79403</lng>
+<geonameId>4871078</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>235</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IA">IA</adminCode1>
+<adminName1>Iowa</adminName1>
+<adminCode2>139</adminCode2>
+<adminName2>Muscatine County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Petersburg%2C_Muscatine_County%2C_Iowa</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.80605</west>
+<north>41.56902</north>
+<east>-90.78201</east>
+<south>41.55104</south>
+</bbox>
+<score>20.32612419128418</score>
+</geoname>
+<geoname>
+<toponymName>Petersburg</toponymName>
+<name>Petersburg</name>
+<lat>43.2722</lat>
+<lng>-90.83763</lng>
+<geonameId>5266696</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>214</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WI">WI</adminCode1>
+<adminName1>Wisconsin</adminName1>
+<adminCode2>023</adminCode2>
+<adminName2>Crawford County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Petersburg%2C_Wisconsin</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.84998</west>
+<north>43.2812</north>
+<east>-90.82527</east>
+<south>43.26321</south>
+</bbox>
+<score>20.32612419128418</score>
+</geoname>
+<geoname>
+<toponymName>Petersburg</toponymName>
+<name>Petersburg</name>
+<lat>41.90116</lat>
+<lng>-83.71494</lng>
+<geonameId>5005450</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1146</population>
+<alternateNames>Peterburg,Петербург</alternateNames>
+<elevation>206</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MI">MI</adminCode1>
+<adminName1>Michigan</adminName1>
+<adminCode2>115</adminCode2>
+<adminName2>Monroe County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Petersburg%2C_Michigan</alternateName>
+<alternateName lang="post">49270</alternateName>
+<alternateName lang="ru">Петербург</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Detroit</timezone>
+<bbox>
+<west>-83.72567</west>
+<north>41.90623</north>
+<east>-83.70527</east>
+<south>41.89156</south>
+</bbox>
+<score>16.93843650817871</score>
+</geoname>
+<geoname>
+<toponymName>Petersburg</toponymName>
+<name>Petersburg</name>
+<lat>33.86952</lat>
+<lng>-101.59739</lng>
+<geonameId>5528302</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1202</population>
+<alternateNames>Peterburg,Петербург</alternateNames>
+<elevation>992</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>189</adminCode2>
+<adminName2>Hale County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Petersburg%2C_Texas</alternateName>
+<alternateName lang="post">79250</alternateName>
+<alternateName lang="ru">Петербург</alternateName>
+<alternateName lang="unlc">PBB</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-101.6028</west>
+<north>33.87402</north>
+<east>-101.59197</east>
+<south>33.86503</south>
+</bbox>
+<score>16.93843650817871</score>
+</geoname>
+</geonames>

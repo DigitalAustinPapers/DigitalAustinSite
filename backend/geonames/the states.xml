@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>The Estates</toponymName>
+<name>The Estates</name>
+<lat>38.4719</lat>
+<lng>-77.5141</lng>
+<geonameId>7198527</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>83</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>179</adminCode2>
+<adminName2>Stafford County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-77.52559</west>
+<north>38.48089</north>
+<east>-77.50261</east>
+<south>38.46291</south>
+</bbox>
+<score>45.98586654663086</score>
+</geoname>
+</geonames>

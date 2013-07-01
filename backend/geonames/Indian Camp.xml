@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>13</totalResultsCount>
+<geoname>
+<toponymName>Indian Camp</toponymName>
+<name>Indian Camp</name>
+<lat>40.09452</lat>
+<lng>-81.64568</lng>
+<geonameId>5158426</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>317</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>059</adminCode2>
+<adminName2>Guernsey County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-81.65744</west>
+<north>40.10351</north>
+<east>-81.63392</east>
+<south>40.08552</south>
+</bbox>
+<score>42.509010314941406</score>
+</geoname>
+<geoname>
+<toponymName>Indian Camp</toponymName>
+<name>Indian Camp</name>
+<lat>26.48285</lat>
+<lng>-80.32866</lng>
+<geonameId>4159587</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>CMP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>camp(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>4</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="FL">FL</adminCode1>
+<adminName1>Florida</adminName1>
+<adminCode2>099</adminCode2>
+<adminName2>Palm Beach</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>13.284065246582031</score>
+</geoname>
+<geoname>
+<toponymName>Indian Camp</toponymName>
+<name>Indian Camp</name>
+<lat>37.07411</lat>
+<lng>-116.6909</lng>
+<geonameId>5505972</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>CMP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>camp(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1213</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NV">NV</adminCode1>
+<adminName1>Nevada</adminName1>
+<adminCode2>023</adminCode2>
+<adminName2>Nye County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>13.284065246582031</score>
+</geoname>
+<geoname>
+<toponymName>Indian Camp</toponymName>
+<name>Indian Camp</name>
+<lat>43.65544</lat>
+<lng>-117.62323</lng>
+<geonameId>5732806</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>CMP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>camp(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1174</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OR">OR</adminCode1>
+<adminName1>Oregon</adminName1>
+<adminCode2>045</adminCode2>
+<adminName2>Malheur County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Boise</timezone>
+<score>13.284065246582031</score>
+</geoname>
+<geoname>
+<toponymName>Indian Camp</toponymName>
+<name>Indian Camp</name>
+<lat>45.05514</lat>
+<lng>-119.64501</lng>
+<geonameId>5732807</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>CMP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>camp(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1184</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OR">OR</adminCode1>
+<adminName1>Oregon</adminName1>
+<adminCode2>049</adminCode2>
+<adminName2>Morrow County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>13.284065246582031</score>
+</geoname>
+<geoname>
+<toponymName>Indian Cave</toponymName>
+<name>Indian Cave</name>
+<lat>36.15925</lat>
+<lng>-83.60129</lng>
+<geonameId>4829126</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>275</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TN">TN</adminCode1>
+<adminName1>Tennessee</adminName1>
+<adminCode2>057</adminCode2>
+<adminName2>Grainger County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>1.3890154361724854</score>
+</geoname>
+<geoname>
+<toponymName>Indian Swamp</toponymName>
+<name>Indian Swamp</name>
+<lat>31.24208</lat>
+<lng>-82.06524</lng>
+<geonameId>4202029</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>SWMP</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>swamp</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>20</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">GA</adminCode1>
+<adminName1>Georgia</adminName1>
+<adminCode2>025</adminCode2>
+<adminName2>Brantley County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>1.1622421741485596</score>
+</geoname>
+<geoname>
+<toponymName>Indian Swamp</toponymName>
+<name>Indian Swamp</name>
+<lat>31.27989</lat>
+<lng>-81.98646</lng>
+<geonameId>4202030</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>SWMP</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>swamp</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>13</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">GA</adminCode1>
+<adminName1>Georgia</adminName1>
+<adminCode2>025</adminCode2>
+<adminName2>Brantley County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>1.1622421741485596</score>
+</geoname>
+<geoname>
+<toponymName>Indian Swamp</toponymName>
+<name>Indian Swamp</name>
+<lat>30.80827</lat>
+<lng>-82.5493</lng>
+<geonameId>4202031</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>SWMP</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>swamp</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>36</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">GA</adminCode1>
+<adminName1>Georgia</adminName1>
+<adminCode2>065</adminCode2>
+<adminName2>Clinch County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>1.1622421741485596</score>
+</geoname>
+<geoname>
+<toponymName>Indian Swamp</toponymName>
+<name>Indian Swamp</name>
+<lat>34.371</lat>
+<lng>-79.07642</lng>
+<geonameId>4472684</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>20</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NC">NC</adminCode1>
+<adminName1>North Carolina</adminName1>
+<adminCode2>155</adminCode2>
+<adminName2>Robeson County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>1.1622421741485596</score>
+</geoname>
+</geonames>

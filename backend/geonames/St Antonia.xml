@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Sankt Antoni</toponymName>
+<name>St. Antoni</name>
+<lat>46.82207</lat>
+<lng>7.26091</lng>
+<geonameId>2658826</geonameId>
+<countryCode>CH</countryCode>
+<countryName>Switzerland</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1849</population>
+<alternateNames>Saint-Antoine,Sankt Antoni,St. Antoni,St. Antoni FR</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="FR">FR</adminCode1>
+<adminName1>Fribourg</adminName1>
+<adminCode2>1006</adminCode2>
+<adminName2>Bezirk Sense</adminName2>
+<adminCode3>2302</adminCode3>
+<adminName3>St. Antoni</adminName3>
+<alternateName lang="de">St. Antoni FR</alternateName>
+<alternateName lang="en">St. Antoni</alternateName>
+<alternateName lang="es">Sankt Antoni</alternateName>
+<alternateName lang="fr">Saint-Antoine</alternateName>
+<alternateName lang="it">Sankt Antoni</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/St._Antoni</alternateName>
+<alternateName lang="pt">Sankt Antoni</alternateName>
+<alternateName lang="sv">St. Antoni</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Zurich</timezone>
+<bbox>
+<west>7.25433</west>
+<north>46.82656</north>
+<east>7.26748</east>
+<south>46.81757</south>
+</bbox>
+<score>88.05070495605469</score>
+</geoname>
+<geoname>
+<toponymName>St. Antoni</toponymName>
+<name>St. Antoni</name>
+<lat>46.81674</lat>
+<lng>7.26437</lng>
+<geonameId>7287219</geonameId>
+<countryCode>CH</countryCode>
+<countryName>Switzerland</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population>1925</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="FR">FR</adminCode1>
+<adminName1>Fribourg</adminName1>
+<adminCode2>1006</adminCode2>
+<adminName2>Bezirk Sense</adminName2>
+<adminCode3>2302</adminCode3>
+<adminName3>St. Antoni</adminName3>
+<alternateName lang="post">1713</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Zurich</timezone>
+<bbox>
+<west>7.25117</west>
+<north>46.85568</north>
+<east>7.32089</east>
+<south>46.79368</south>
+</bbox>
+<score>55.03169250488281</score>
+</geoname>
+<geoname>
+<toponymName>Sankt Antoni</toponymName>
+<name>Sankt Antoni</name>
+<lat>48.59232</lat>
+<lng>12.72914</lng>
+<geonameId>2841654</geonameId>
+<countryCode>DE</countryCode>
+<countryName>Germany</countryName>
+<fcl>S</fcl>
+<fcode>FRM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farm</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="BY">02</adminCode1>
+<adminName1>Bavaria</adminName1>
+<adminCode2>092</adminCode2>
+<adminName2>Lower Bavaria</adminName2>
+<adminCode3>09279</adminCode3>
+<adminName3>Landkreis Dingolfing-Landau</adminName3>
+<adminCode4>09279135</adminCode4>
+<adminName4>Simbach, Markt</adminName4>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Berlin</timezone>
+<score>13.757923126220703</score>
+</geoname>
+</geonames>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Neighbour</toponymName>
+<name>Neighbour</name>
+<lat>49.48334</lat>
+<lng>-109.00145</lng>
+<geonameId>6086737</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SK">11</adminCode1>
+<adminName1>Saskatchewan</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Regina</timezone>
+<score>32.516902923583984</score>
+</geoname>
+<geoname>
+<toponymName>Neighbors</toponymName>
+<name>Neighbors</name>
+<lat>33.57364</lat>
+<lng>-114.65662</lng>
+<geonameId>5376422</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>78</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>065</adminCode2>
+<adminName2>Riverside County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>10.161532402038574</score>
+</geoname>
+</geonames>

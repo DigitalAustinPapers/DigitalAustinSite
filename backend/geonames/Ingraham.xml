@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Ingraham</toponymName>
+<name>Ingraham</name>
+<lat>38.83616</lat>
+<lng>-88.33393</lng>
+<geonameId>4241438</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>148</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>025</adminCode2>
+<adminName2>Clay County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ingraham%2C_Illinois</alternateName>
+<alternateName lang="post">62434</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-88.34548</west>
+<north>38.84515</north>
+<east>-88.32239</east>
+<south>38.82716</south>
+</bbox>
+<score>67.25851440429688</score>
+</geoname>
+<geoname>
+<toponymName>Ingraham</toponymName>
+<name>Ingraham</name>
+<lat>44.81087</lat>
+<lng>-73.43458</lng>
+<geonameId>5121938</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>50</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>019</adminCode2>
+<adminName2>Clinton County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-73.44726</west>
+<north>44.81987</north>
+<east>-73.4219</east>
+<south>44.80188</south>
+</bbox>
+<score>44.83900833129883</score>
+</geoname>
+</geonames>

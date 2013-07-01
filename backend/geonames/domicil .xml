@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Domicile</toponymName>
+<name>Domicile</name>
+<lat>18.78333</lat>
+<lng>-72.98333</lng>
+<geonameId>3726284</geonameId>
+<countryCode>HT</countryCode>
+<countryName>Haiti</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OU">11</adminCode1>
+<adminName1>Ouest</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Port-au-Prince</timezone>
+<bbox>
+<west>-72.99283</west>
+<north>18.79233</north>
+<east>-72.97383</east>
+<south>18.77434</south>
+</bbox>
+<score>30.060100555419922</score>
+</geoname>
+<geoname>
+<toponymName>Domisilmoonow</toponymName>
+<name>Domisilmoonow</name>
+<lat>0.8285</lat>
+<lng>123.7572</lng>
+<geonameId>1645125</geonameId>
+<countryCode>ID</countryCode>
+<countryName>Indonesia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Doemisil,Domisil,Domisilmoonow,Dumisil</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="SA">31</adminCode1>
+<adminName1>North Sulawesi</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="id">Domisilmoonow</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Makassar</timezone>
+<bbox>
+<west>123.74821</west>
+<north>0.83749</north>
+<east>123.76619</east>
+<south>0.81951</south>
+</bbox>
+<score>21.255701065063477</score>
+</geoname>
+<geoname>
+<toponymName>Domići</toponymName>
+<name>Domići</name>
+<lat>43.47883</lat>
+<lng>17.26882</lng>
+<geonameId>3284389</geonameId>
+<countryCode>BA</countryCode>
+<countryName>Bosnia and Herzegovina</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="BIH">01</adminCode1>
+<adminName1>Federation of Bosnia and Herzegovina</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Sarajevo</timezone>
+<bbox>
+<west>17.25643</west>
+<north>43.48782</north>
+<east>17.28122</east>
+<south>43.46983</south>
+</bbox>
+<score>17.535043716430664</score>
+</geoname>
+</geonames>

@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>26</totalResultsCount>
+<geoname>
+<toponymName>Europe</toponymName>
+<name>Europe</name>
+<lat>48.69096</lat>
+<lng>9.14062</lng>
+<geonameId>6255148</geonameId>
+<countryCode/>
+<countryName/>
+<fcl>L</fcl>
+<fcode>CONT</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>continent</fcodeName>
+<population/>
+<alternateNames>Avrupa,Chau Au,Châu Âu,Eiropa,El viejo continente,Eropa,Eurohpa,Eurohpá,Eurooppa,Europa,Europe,Europo,Európa,Evropa,Evrópa,Ewrop,Eŭropo,an Eoraip,awrwba,ou zhou,yoroppa,yurop,yuropa,Ευρώπη,Європа,Европа,אירופה,أوروبا,यूरोप,ยุโรป,ヨーロッパ,欧洲</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1/>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ar">أوروبا</alternateName>
+<alternateName lang="bg">Европа</alternateName>
+<alternateName lang="bs">Evropa</alternateName>
+<alternateName lang="ca">Europa</alternateName>
+<alternateName lang="cs">Evropa</alternateName>
+<alternateName lang="cy">Ewrop</alternateName>
+<alternateName lang="da">Europa</alternateName>
+<alternateName lang="de">Europa</alternateName>
+<alternateName lang="el">Ευρώπη</alternateName>
+<alternateName lang="en">Europe</alternateName>
+<alternateName lang="eo">Eŭropo</alternateName>
+<alternateName lang="es">Europa</alternateName>
+<alternateName lang="eu">Europa</alternateName>
+<alternateName lang="fi">Eurooppa</alternateName>
+<alternateName lang="fr">Europe</alternateName>
+<alternateName lang="ga">an Eoraip</alternateName>
+<alternateName lang="he">אירופה</alternateName>
+<alternateName lang="hi">यूरोप</alternateName>
+<alternateName lang="hu">Európa</alternateName>
+<alternateName lang="id">Eropa</alternateName>
+<alternateName lang="is">Evrópa</alternateName>
+<alternateName lang="it">Europa</alternateName>
+<alternateName lang="ja">ヨーロッパ</alternateName>
+<alternateName lang="la">Europa</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Europe</alternateName>
+<alternateName lang="lt">Europa</alternateName>
+<alternateName lang="lv">Eiropa</alternateName>
+<alternateName lang="nb">Europa</alternateName>
+<alternateName lang="nl">Europa</alternateName>
+<alternateName lang="no">Europa</alternateName>
+<alternateName lang="pl">Europa</alternateName>
+<alternateName lang="pt">Europa</alternateName>
+<alternateName lang="ro">Europa</alternateName>
+<alternateName lang="ru">Европа</alternateName>
+<alternateName lang="se">Eurohpá</alternateName>
+<alternateName lang="sv">Europa</alternateName>
+<alternateName lang="th">ยุโรป</alternateName>
+<alternateName lang="tr">Avrupa</alternateName>
+<alternateName lang="uk">Європа</alternateName>
+<alternateName lang="vi">Châu Âu</alternateName>
+<alternateName lang="zh">欧洲</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Vaduz</timezone>
+<bbox>
+<west>-24.54222</west>
+<north>80.76416</north>
+<east>41.73304</east>
+<south>27.63779</south>
+</bbox>
+<score>57.14155578613281</score>
+</geoname>
+<geoname>
+<toponymName>Europe</toponymName>
+<name>Europe</name>
+<lat>43.5333</lat>
+<lng>3.9833</lng>
+<geonameId>6529468</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>S</fcl>
+<fcode>HTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>hotel</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="K">A9</adminCode1>
+<adminName1>Languedoc-Roussillon</adminName1>
+<adminCode2>34</adminCode2>
+<adminName2>Hérault</adminName2>
+<adminCode3>343</adminCode3>
+<adminName3>Arrondissement of Montpellier</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<score>13.414034843444824</score>
+</geoname>
+<geoname>
+<toponymName>Europe</toponymName>
+<name>Europe</name>
+<lat>45.73713</lat>
+<lng>7.32137</lng>
+<geonameId>6944144</geonameId>
+<countryCode>IT</countryCode>
+<countryName>Italy</countryName>
+<fcl>S</fcl>
+<fcode>HTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>hotel</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="23">19</adminCode1>
+<adminName1>Aosta Valley</adminName1>
+<adminCode2>AO</adminCode2>
+<adminName2>Valla d'Aosta</adminName2>
+<adminCode3>007003</adminCode3>
+<adminName3>Aosta</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Rome</timezone>
+<score>13.414034843444824</score>
+</geoname>
+<geoname>
+<toponymName>Île Europa</toponymName>
+<name>Europa Island</name>
+<lat>-22.33333</lat>
+<lng>40.36667</lng>
+<geonameId>933909</geonameId>
+<countryCode>TF</countryCode>
+<countryName>French Southern Territories</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames>Europa,Europa Island,Europa-eiland,Europaoya,Europaøya,Europe Adasi,Europe Adası,Europinsulo,Evropa,Eŭropinsulo,Ile Europa,Ilha Europa,Insula Europa,Isla Europa,Ostrov Europa,yuropa dao,Île Europa,Європа,Европа,ユローパ島</alternateNames>
+<elevation/>
+<continentCode>AN</continentCode>
+<adminCode1 ISO3166-2=" ">05</adminCode1>
+<adminName1>Îles Éparses</adminName1>
+<adminCode2>EU</adminCode2>
+<adminName2>Europa Island</adminName2>
+<alternateName lang="ast">Europa</alternateName>
+<alternateName lang="cs">Ostrov Europa</alternateName>
+<alternateName lang="de">Europa</alternateName>
+<alternateName lang="en">Europa Island</alternateName>
+<alternateName lang="eo">Eŭropinsulo</alternateName>
+<alternateName lang="es">Isla Europa</alternateName>
+<alternateName lang="fr">Île Europa</alternateName>
+<alternateName lang="hr">Europa</alternateName>
+<alternateName lang="it">Europa</alternateName>
+<alternateName lang="ja">ユローパ島</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Europa_Island</alternateName>
+<alternateName lang="nl">Europa-eiland</alternateName>
+<alternateName lang="no">Europaøya</alternateName>
+<alternateName lang="pl">Europa</alternateName>
+<alternateName lang="pt">Ilha Europa</alternateName>
+<alternateName lang="ro">Insula Europa</alternateName>
+<alternateName lang="ru">Европа</alternateName>
+<alternateName lang="sk">Europa</alternateName>
+<alternateName lang="sv">Europa</alternateName>
+<alternateName lang="tr">Europe Adası</alternateName>
+<alternateName lang="uk">Європа</alternateName>
+<timezone dstOffset="5.0" gmtOffset="5.0">Indian/Kerguelen</timezone>
+<bbox>
+<west>40.29555</west>
+<north>-22.28241</north>
+<east>40.42607</east>
+<south>-22.39109</south>
+</bbox>
+<score>7.8135986328125</score>
+</geoname>
+<geoname>
+<toponymName>Europa</toponymName>
+<name>Europa</name>
+<lat>22.61667</lat>
+<lng>-81.33333</lng>
+<geonameId>3559059</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames>Europa,Peralta</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="04">03</adminCode1>
+<adminName1>Matanzas</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>6.820268154144287</score>
+</geoname>
+<geoname>
+<toponymName>Europa</toponymName>
+<name>Europa</name>
+<lat>22.61667</lat>
+<lng>-81.31667</lng>
+<geonameId>3559060</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="04">03</adminCode1>
+<adminName1>Matanzas</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>5.5687255859375</score>
+</geoname>
+<geoname>
+<toponymName>Europa</toponymName>
+<name>Europa</name>
+<lat>-7.5</lat>
+<lng>-73.01667</lng>
+<geonameId>3664248</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="AC">01</adminCode1>
+<adminName1>Acre</adminName1>
+<adminCode2>1200336</adminCode2>
+<adminName2>Mâncio Lima</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Rio_Branco</timezone>
+<bbox>
+<west>-73.02574</west>
+<north>-7.49101</north>
+<east>-73.0076</east>
+<south>-7.50899</south>
+</bbox>
+<score>5.5687255859375</score>
+</geoname>
+<geoname>
+<toponymName>Europa</toponymName>
+<name>Europa</name>
+<lat>9.67013</lat>
+<lng>-74.42872</lng>
+<geonameId>3682524</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="MAG">38</adminCode1>
+<adminName1>Magdalena</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<bbox>
+<west>-74.43784</west>
+<north>9.67912</north>
+<east>-74.4196</east>
+<south>9.66113</south>
+</bbox>
+<score>5.5687255859375</score>
+</geoname>
+<geoname>
+<toponymName>Europa</toponymName>
+<name>Europa</name>
+<lat>6.61667</lat>
+<lng>-71.73333</lng>
+<geonameId>3682525</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="ARA">03</adminCode1>
+<adminName1>Arauca</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<bbox>
+<west>-71.74239</west>
+<north>6.62566</north>
+<east>-71.72428</east>
+<south>6.60767</south>
+</bbox>
+<score>5.5687255859375</score>
+</geoname>
+<geoname>
+<toponymName>Europa</toponymName>
+<name>Europa</name>
+<lat>4.38333</lat>
+<lng>-73.26667</lng>
+<geonameId>3682526</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="CUN">33</adminCode1>
+<adminName1>Cundinamarca</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<bbox>
+<west>-73.27569</west>
+<north>4.39233</north>
+<east>-73.25765</east>
+<south>4.37434</south>
+</bbox>
+<score>5.5687255859375</score>
+</geoname>
+</geonames>

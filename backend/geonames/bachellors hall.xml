@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>7</totalResultsCount>
+<geoname>
+<toponymName>Bachelors Hall</toponymName>
+<name>Bachelors Hall</name>
+<lat>17.13333</lat>
+<lng>-62.51667</lng>
+<geonameId>3575558</geonameId>
+<countryCode>KN</countryCode>
+<countryName>Saint Kitts and Nevis</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Bachelor Hall,Bachelors Hall</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="04">04</adminCode1>
+<adminName1>Saint George Gingerland</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/St_Kitts</timezone>
+<bbox>
+<west>-62.52608</west>
+<north>17.14233</north>
+<east>-62.50725</east>
+<south>17.12434</south>
+</bbox>
+<score>55.07329177856445</score>
+</geoname>
+<geoname>
+<toponymName>Bachelors Hall</toponymName>
+<name>Bachelors Hall</name>
+<lat>36.60319</lat>
+<lng>-79.53114</lng>
+<geonameId>4745123</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>225</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>143</adminCode2>
+<adminName2>Pittsylvania County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bachelors_Hall%2C_Virginia</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-79.54234</west>
+<north>36.61219</north>
+<east>-79.51993</east>
+<south>36.5942</south>
+</bbox>
+<score>54.98822021484375</score>
+</geoname>
+<geoname>
+<toponymName>Bachelors Hall</toponymName>
+<name>Bachelors Hall</name>
+<lat>18.4371</lat>
+<lng>-78.17655</lng>
+<geonameId>3491513</geonameId>
+<countryCode>JM</countryCode>
+<countryName>Jamaica</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="09">02</adminCode1>
+<adminName1>Hanover Parish</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Jamaica</timezone>
+<bbox>
+<west>-78.18603</west>
+<north>18.4461</north>
+<east>-78.16707</east>
+<south>18.42811</south>
+</bbox>
+<score>36.6588134765625</score>
+</geoname>
+<geoname>
+<toponymName>Bachelors Hall</toponymName>
+<name>Bachelors Hall</name>
+<lat>18.31667</lat>
+<lng>-77.08333</lng>
+<geonameId>3491514</geonameId>
+<countryCode>JM</countryCode>
+<countryName>Jamaica</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="06">09</adminCode1>
+<adminName1>Saint Ann</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Jamaica</timezone>
+<bbox>
+<west>-77.09281</west>
+<north>18.32566</north>
+<east>-77.07386</east>
+<south>18.30767</south>
+</bbox>
+<score>36.6588134765625</score>
+</geoname>
+<geoname>
+<toponymName>Bachelors Hall</toponymName>
+<name>Bachelors Hall</name>
+<lat>17.95311</lat>
+<lng>-76.31675</lng>
+<geonameId>3491515</geonameId>
+<countryCode>JM</countryCode>
+<countryName>Jamaica</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="03">14</adminCode1>
+<adminName1>Saint Thomas</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Jamaica</timezone>
+<bbox>
+<west>-76.32621</west>
+<north>17.9621</north>
+<east>-76.3073</east>
+<south>17.94411</south>
+</bbox>
+<score>36.6588134765625</score>
+</geoname>
+<geoname>
+<toponymName>Bachelor Hall</toponymName>
+<name>Bachelor Hall</name>
+<lat>39.50728</lat>
+<lng>-84.72968</lng>
+<geonameId>4505636</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>BLDG</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>building(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>267</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>017</adminCode2>
+<adminName2>Butler County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bachelor_Hall_%28Miami_University%29</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>14.390467643737793</score>
+</geoname>
+<geoname>
+<toponymName>Bachelor’s Hill</toponymName>
+<name>Bachelor’s Hill</name>
+<lat>-30.97421</lat>
+<lng>28.24002</lng>
+<geonameId>1021819</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>T</fcl>
+<fcode>MT</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>mountain</fcodeName>
+<population/>
+<alternateNames>Bachelor's Hill,Bachelor’s Hill,Malherbeskop</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="EC">05</adminCode1>
+<adminName1>Eastern Cape</adminName1>
+<adminCode2>DC14</adminCode2>
+<adminName2>Joe Gqabi District Municipality</adminName2>
+<adminCode3>EC141</adminCode3>
+<adminName3>Elundini</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<score>9.938283920288086</score>
+</geoname>
+</geonames>

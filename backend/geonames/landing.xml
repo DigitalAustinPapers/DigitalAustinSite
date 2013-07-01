@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>96</totalResultsCount>
+<geoname>
+<toponymName>Landing</toponymName>
+<name>Landing</name>
+<lat>40.9051</lat>
+<lng>-74.66516</lng>
+<geonameId>5100308</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>281</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NJ">NJ</adminCode1>
+<adminName1>New Jersey</adminName1>
+<adminCode2>027</adminCode2>
+<adminName2>Morris County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Landing%2C_New_Jersey</alternateName>
+<alternateName lang="post">07850</alternateName>
+<alternateName lang="unlc">LZV</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-74.67706</west>
+<north>40.91409</north>
+<east>-74.65326</east>
+<south>40.89611</south>
+</bbox>
+<score>31.966739654541016</score>
+</geoname>
+<geoname>
+<toponymName>Landing</toponymName>
+<name>Landing</name>
+<lat>48.41667</lat>
+<lng>12.33333</lng>
+<geonameId>2881544</geonameId>
+<countryCode>DE</countryCode>
+<countryName>Germany</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="BY">02</adminCode1>
+<adminName1>Bavaria</adminName1>
+<adminCode2>092</adminCode2>
+<adminName2>Lower Bavaria</adminName2>
+<adminCode3>09274</adminCode3>
+<adminName3>Landkreis Landshut</adminName3>
+<adminCode4>09274184</adminCode4>
+<adminName4>Vilsbiburg</adminName4>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Berlin</timezone>
+<bbox>
+<west>12.31978</west>
+<north>48.42566</north>
+<east>12.34689</east>
+<south>48.40767</south>
+</bbox>
+<score>25.57339096069336</score>
+</geoname>
+<geoname>
+<toponymName>Landing</toponymName>
+<name>Landing</name>
+<lat>47.91128</lat>
+<lng>12.28168</lng>
+<geonameId>2881545</geonameId>
+<countryCode>DE</countryCode>
+<countryName>Germany</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="BY">02</adminCode1>
+<adminName1>Bavaria</adminName1>
+<adminCode2>091</adminCode2>
+<adminName2>Upper Bavaria</adminName2>
+<adminCode3>09187</adminCode3>
+<adminName3>Landkreis Rosenheim</adminName3>
+<adminCode4>09187128</adminCode4>
+<adminName4>Bad Endorf, Markt</adminName4>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Berlin</timezone>
+<bbox>
+<west>12.26826</west>
+<north>47.92027</north>
+<east>12.2951</east>
+<south>47.90229</south>
+</bbox>
+<score>25.57339096069336</score>
+</geoname>
+<geoname>
+<toponymName>Landing</toponymName>
+<name>Landing</name>
+<lat>16.6</lat>
+<lng>-88.38333</lng>
+<geonameId>3581836</geonameId>
+<countryCode>BZ</countryCode>
+<countryName>Belize</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SC">05</adminCode1>
+<adminName1>Stann Creek</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Belize</timezone>
+<score>25.57339096069336</score>
+</geoname>
+<geoname>
+<toponymName>Landing</toponymName>
+<name>Landing</name>
+<lat>16.3</lat>
+<lng>-88.93333</lng>
+<geonameId>3581837</geonameId>
+<countryCode>BZ</countryCode>
+<countryName>Belize</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TOL">06</adminCode1>
+<adminName1>Toledo</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Belize</timezone>
+<score>25.57339096069336</score>
+</geoname>
+<geoname>
+<toponymName>Landing</toponymName>
+<name>Landing</name>
+<lat>24.71667</lat>
+<lng>-111.91667</lng>
+<geonameId>4001191</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="BCS">03</adminCode1>
+<adminName1>Baja California Sur</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Mazatlan</timezone>
+<bbox>
+<west>-111.92657</west>
+<north>24.72566</north>
+<east>-111.90677</east>
+<south>24.70767</south>
+</bbox>
+<score>25.57339096069336</score>
+</geoname>
+<geoname>
+<toponymName>Landing</toponymName>
+<name>Landing</name>
+<lat>45.597</lat>
+<lng>-75.41822</lng>
+<geonameId>6049217</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="QC">10</adminCode1>
+<adminName1>Quebec</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Montreal</timezone>
+<score>25.57339096069336</score>
+</geoname>
+<geoname>
+<toponymName>Lansing</toponymName>
+<name>Lansing</name>
+<lat>42.73254</lat>
+<lng>-84.55553</lng>
+<geonameId>4998830</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population>114297</population>
+<alternateNames>Gorad Lansing,LAN,Lansin'nk,Lansing,Lansinga,Lansingas,Lehnsing,Lensing,laensing,lan xin,lancin,lansinga,lansng,lansngh, myshyghan,lnsyng,ranshingu,Λάνσινγκ,Горад Лансінг,Лансинг,Ленсинг,Лэнсинг,Լանսինգ,לאנסינג,لانسنغ، ميشيغان,لانسنگ,لنسینگ,लान्सिंग,லான்சிங்,ランシング,兰辛,랜싱</alternateNames>
+<elevation>260</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MI">MI</adminCode1>
+<adminName1>Michigan</adminName1>
+<adminCode2>065</adminCode2>
+<adminName2>Ingham County</adminName2>
+<alternateName lang="ar">لانسنغ، ميشيغان</alternateName>
+<alternateName lang="be">Горад Лансінг</alternateName>
+<alternateName lang="bg">Лансинг</alternateName>
+<alternateName lang="da">Lansing</alternateName>
+<alternateName lang="de">Lansing</alternateName>
+<alternateName lang="el">Λάνσινγκ</alternateName>
+<alternateName lang="en">Lansing</alternateName>
+<alternateName lang="eo">Lansing</alternateName>
+<alternateName lang="es">Lansing</alternateName>
+<alternateName lang="et">Lansing</alternateName>
+<alternateName lang="eu">Lansing</alternateName>
+<alternateName lang="fa">لنسینگ</alternateName>
+<alternateName lang="fi">Lansing</alternateName>
+<alternateName lang="fr">Lansing</alternateName>
+<alternateName lang="he">לאנסינג</alternateName>
+<alternateName lang="hy">Լանսինգ</alternateName>
+<alternateName lang="iata">LAN</alternateName>
+<alternateName lang="id">Lansing</alternateName>
+<alternateName lang="io">Lansing</alternateName>
+<alternateName lang="it">Lansing</alternateName>
+<alternateName lang="ja">ランシング</alternateName>
+<alternateName lang="ko">랜싱</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lansing%2C_Michigan</alternateName>
+<alternateName lang="lt">Lansingas</alternateName>
+<alternateName lang="lv">Lansinga</alternateName>
+<alternateName lang="mk">Ленсинг</alternateName>
+<alternateName lang="mr">लान्सिंग</alternateName>
+<alternateName lang="mrj">Лэнсинг</alternateName>
+<alternateName lang="nl">Lansing</alternateName>
+<alternateName lang="nn">Lansing</alternateName>
+<alternateName lang="no">Lansing</alternateName>
+<alternateName lang="oc">Lansing</alternateName>
+<alternateName lang="pl">Lansing</alternateName>
+<alternateName lang="pnb">لانسنگ</alternateName>
+<alternateName lang="post">48933</alternateName>
+<alternateName lang="pt">Lansing</alternateName>
+<alternateName lang="ru">Лансинг</alternateName>
+<alternateName lang="sah">Ленсинг</alternateName>
+<alternateName lang="sr">Лансинг</alternateName>
+<alternateName lang="sv">Lansing</alternateName>
+<alternateName lang="ta">லான்சிங்</alternateName>
+<alternateName lang="uk">Лансинг</alternateName>
+<alternateName lang="unlc">LAN</alternateName>
+<alternateName lang="zh">兰辛</alternateName>
+<alternateName lang="zh-CN">兰辛</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Detroit</timezone>
+<bbox>
+<west>-84.61525</west>
+<north>42.77636</north>
+<east>-84.49582</east>
+<south>42.68871</south>
+</bbox>
+<score>24.581907272338867</score>
+</geoname>
+<geoname>
+<toponymName>Landing</toponymName>
+<name>Landing</name>
+<lat>14.66667</lat>
+<lng>120.56667</lng>
+<geonameId>1707634</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Landing</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="AGS">03</adminCode1>
+<adminName1>Central Luzon</adminName1>
+<adminCode2>07</adminCode2>
+<adminName2>Bataan</adminName2>
+<alternateName lang="fil">Landing</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<bbox>
+<west>120.55737</west>
+<north>14.67566</north>
+<east>120.57596</east>
+<south>14.65767</south>
+</bbox>
+<score>23.490659713745117</score>
+</geoname>
+<geoname>
+<toponymName>Landina</toponymName>
+<name>Landina</name>
+<lat>59.2</lat>
+<lng>67.03333</lng>
+<geonameId>1500897</geonameId>
+<countryCode>RU</countryCode>
+<countryName>Russia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Landina,Ландина</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="KHM">32</adminCode1>
+<adminName1>Khanty-Mansiyskiy Avtonomnyy Okrug</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Landina</alternateName>
+<alternateName lang="no">Landina</alternateName>
+<alternateName lang="ru">Ландина</alternateName>
+<timezone dstOffset="6.0" gmtOffset="6.0">Asia/Yekaterinburg</timezone>
+<bbox>
+<west>67.01576</west>
+<north>59.20899</north>
+<east>67.0509</east>
+<south>59.19101</south>
+</bbox>
+<score>16.59858512878418</score>
+</geoname>
+</geonames>

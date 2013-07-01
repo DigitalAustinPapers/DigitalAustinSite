@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>877</totalResultsCount>
+<geoname>
+<toponymName>Pearland</toponymName>
+<name>Pearland</name>
+<lat>29.56357</lat>
+<lng>-95.28605</lng>
+<geonameId>4718097</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>91252</population>
+<alternateNames/>
+<elevation>15</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>039</adminCode2>
+<adminName2>Brazoria County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Pearland%2C_Texas</alternateName>
+<alternateName lang="post">77581</alternateName>
+<alternateName lang="unlc">PND</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-95.33114</west>
+<north>29.60277</north>
+<east>-95.24096</east>
+<south>29.52436</south>
+</bbox>
+<score>26.426162719726562</score>
+</geoname>
+<geoname>
+<toponymName>Lake Jackson</toponymName>
+<name>Lake Jackson</name>
+<lat>29.03386</lat>
+<lng>-95.43439</lng>
+<geonameId>4704628</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>26849</population>
+<alternateNames/>
+<elevation>4</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>039</adminCode2>
+<adminName2>Brazoria County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lake_Jackson%2C_Texas</alternateName>
+<alternateName lang="post">77566</alternateName>
+<alternateName lang="unlc">LJN</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-95.51321</west>
+<north>29.12119</north>
+<east>-95.36765</east>
+<south>28.97469</south>
+</bbox>
+<score>22.650997161865234</score>
+</geoname>
+<geoname>
+<toponymName>Texas Gulf Coast Regional Airport</toponymName>
+<name>Texas Gulf Coast Regional Airport</name>
+<lat>29.11028</lat>
+<lng>-95.45993</lng>
+<geonameId>4676138</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>AIRP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>airport</fcodeName>
+<population/>
+<alternateNames>KLBX,LBX,LJN,Texas Gulf Coast Regional Airport</alternateNames>
+<elevation>7</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>039</adminCode2>
+<adminName2>Brazoria County</adminName2>
+<alternateName lang="en">Texas Gulf Coast Regional Airport</alternateName>
+<alternateName lang="faac">LBX</alternateName>
+<alternateName lang="iata">LJN</alternateName>
+<alternateName lang="icao">KLBX</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Texas_Gulf_Coast_Regional_Airport</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>21.407569885253906</score>
+</geoname>
+<geoname>
+<toponymName>Brazoria County</toponymName>
+<name>Brazoria County</name>
+<lat>29.16783</lat>
+<lng>-95.43426</lng>
+<geonameId>4676137</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>313166</population>
+<alternateNames>Brazoria,Brazoria Comitatus,Brazoria srjan,Brazorija,Comte de Brazoria,Comté de Brazoria,Condado de Brazoria,Condado han Brazoria,Contea di Brazoria,County Brazoria,Hrabstwo Brazoria,Okrug Brazorija,Quan Brazoria,Quận Brazoria,brajoriya ka'unti,bu la zuo li ya xian,burazoria jun,Бразориа,Бразория,Бразорія,Округ Бразорија,Բրազորիա շրջան,بریزوریا کاؤنٹی,مقاطعة برازوريا، تكساس,ব্রাজোরিয়া কাউন্টি,ブラゾリア郡,布拉佐里亞縣</alternateNames>
+<elevation>9</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>039</adminCode2>
+<adminName2>Brazoria County</adminName2>
+<alternateName lang="ar">مقاطعة برازوريا، تكساس</alternateName>
+<alternateName lang="bg">Бразория</alternateName>
+<alternateName lang="bpy">ব্রাজোরিয়া কাউন্টি</alternateName>
+<alternateName lang="es">Condado de Brazoria</alternateName>
+<alternateName lang="fr">Comté de Brazoria</alternateName>
+<alternateName lang="hy">Բրազորիա շրջան</alternateName>
+<alternateName lang="id">County Brazoria</alternateName>
+<alternateName lang="it">Contea di Brazoria</alternateName>
+<alternateName lang="ja">ブラゾリア郡</alternateName>
+<alternateName lang="la">Brazoria Comitatus</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brazoria_County%2C_Texas</alternateName>
+<alternateName lang="pl">Hrabstwo Brazoria</alternateName>
+<alternateName lang="pnb">بریزوریا کاؤنٹی</alternateName>
+<alternateName lang="pt">Condado de Brazoria</alternateName>
+<alternateName lang="ru">Бразориа</alternateName>
+<alternateName lang="sr">Округ Бразорија</alternateName>
+<alternateName lang="uk">Бразорія</alternateName>
+<alternateName lang="vi">Quận Brazoria</alternateName>
+<alternateName lang="war">Condado han Brazoria</alternateName>
+<alternateName lang="zh">布拉佐里亞縣</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-95.87212</west>
+<north>29.59832</north>
+<east>-95.05606</east>
+<south>28.8214</south>
+</bbox>
+<score>21.301511764526367</score>
+</geoname>
+<geoname>
+<toponymName>Brazoria</toponymName>
+<name>Brazoria</name>
+<lat>29.04441</lat>
+<lng>-95.56911</lng>
+<geonameId>4676131</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3019</population>
+<alternateNames>BZT</alternateNames>
+<elevation>9</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>039</adminCode2>
+<adminName2>Brazoria County</adminName2>
+<alternateName lang="iata">BZT</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brazoria%2C_Texas</alternateName>
+<alternateName lang="post">77422</alternateName>
+<alternateName lang="unlc">BZT</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-95.57639</west>
+<north>29.05077</north>
+<east>-95.56184</east>
+<south>29.03806</south>
+</bbox>
+<score>20.850378036499023</score>
+</geoname>
+<geoname>
+<toponymName>Alvin</toponymName>
+<name>Alvin</name>
+<lat>29.42385</lat>
+<lng>-95.2441</lng>
+<geonameId>4670592</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>24236</population>
+<alternateNames>Ehlvin,Элвин</alternateNames>
+<elevation>13</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>039</adminCode2>
+<adminName2>Brazoria County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Alvin%2C_Texas</alternateName>
+<alternateName lang="post">77511</alternateName>
+<alternateName lang="ru">Элвин</alternateName>
+<alternateName lang="unlc">AZC</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-95.26719</west>
+<north>29.44396</north>
+<east>-95.22101</east>
+<south>29.40374</south>
+</bbox>
+<score>18.875831604003906</score>
+</geoname>
+<geoname>
+<toponymName>Flyin' B Airport</toponymName>
+<name>Flyin' B Airport</name>
+<lat>29.53773</lat>
+<lng>-95.42383</lng>
+<geonameId>4672795</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>AIRP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>airport</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>20</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>039</adminCode2>
+<adminName2>Brazoria County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Flyin%27_B_Airport</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>18.875831604003906</score>
+</geoname>
+<geoname>
+<toponymName>Brookside Village</toponymName>
+<name>Brookside Village</name>
+<lat>29.5869</lat>
+<lng>-95.32522</lng>
+<geonameId>4676580</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1523</population>
+<alternateNames/>
+<elevation>16</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>039</adminCode2>
+<adminName2>Brazoria County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brookside_Village%2C_Texas</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-95.33039</west>
+<north>29.5914</north>
+<east>-95.32004</east>
+<south>29.5824</south>
+</bbox>
+<score>18.875831604003906</score>
+</geoname>
+<geoname>
+<toponymName>Pearland Regional Airport</toponymName>
+<name>Pearland Regional Airport</name>
+<lat>29.52131</lat>
+<lng>-95.24217</lng>
+<geonameId>4682119</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>AIRP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>airport</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>13</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>039</adminCode2>
+<adminName2>Brazoria County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Pearland_Regional_Airport</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>18.875831604003906</score>
+</geoname>
+<geoname>
+<toponymName>Clute</toponymName>
+<name>Clute</name>
+<lat>29.02469</lat>
+<lng>-95.39883</lng>
+<geonameId>4682163</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>11211</population>
+<alternateNames/>
+<elevation>4</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>039</adminCode2>
+<adminName2>Brazoria County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Clute%2C_Texas</alternateName>
+<alternateName lang="post">77531</alternateName>
+<alternateName lang="unlc">CU2</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-95.41426</west>
+<north>29.03818</north>
+<east>-95.3834</east>
+<south>29.0112</south>
+</bbox>
+<score>18.875831604003906</score>
+</geoname>
+</geonames>

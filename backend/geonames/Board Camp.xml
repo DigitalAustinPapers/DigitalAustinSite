@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Board Camp</toponymName>
+<name>Board Camp</name>
+<lat>34.53788</lat>
+<lng>-94.09548</lng>
+<geonameId>4102425</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>292</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">AR</adminCode1>
+<adminName1>Arkansas</adminName1>
+<adminCode2>113</adminCode2>
+<adminName2>Polk County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Board_Camp%2C_Arkansas</alternateName>
+<alternateName lang="post">71932</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-94.1064</west>
+<north>34.54688</north>
+<east>-94.08456</east>
+<south>34.52889</south>
+</bbox>
+<score>63.03358840942383</score>
+</geoname>
+<geoname>
+<toponymName>Boar Camp</toponymName>
+<name>Boar Camp</name>
+<lat>44.92262</lat>
+<lng>-122.45536</lng>
+<geonameId>5714939</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>CMP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>camp(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>879</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OR">OR</adminCode1>
+<adminName1>Oregon</adminName1>
+<adminCode2>005</adminCode2>
+<adminName2>Clackamas County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>5.836442947387695</score>
+</geoname>
+</geonames>

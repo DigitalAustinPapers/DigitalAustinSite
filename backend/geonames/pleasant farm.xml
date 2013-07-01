@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>12</totalResultsCount>
+<geoname>
+<toponymName>Pleasant Farms</toponymName>
+<name>Pleasant Farms</name>
+<lat>31.67597</lat>
+<lng>-102.37264</lng>
+<geonameId>5528497</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>901</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>135</adminCode2>
+<adminName2>Ector County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Pleasant_Farms%2C_Texas</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-102.38321</west>
+<north>31.68496</north>
+<east>-102.36207</east>
+<south>31.66697</south>
+</bbox>
+<score>35.964698791503906</score>
+</geoname>
+<geoname>
+<toponymName>Pleasant Farm</toponymName>
+<name>Pleasant Farm</name>
+<lat>32.40992</lat>
+<lng>-80.76983</lng>
+<geonameId>4591500</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>6</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SC">SC</adminCode1>
+<adminName1>South Carolina</adminName1>
+<adminCode2>013</adminCode2>
+<adminName2>Beaufort County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-80.78048</west>
+<north>32.41891</north>
+<east>-80.75918</east>
+<south>32.40092</south>
+</bbox>
+<score>35.71045684814453</score>
+</geoname>
+<geoname>
+<toponymName>Pleasant Farm</toponymName>
+<name>Pleasant Farm</name>
+<lat>-16.11667</lat>
+<lng>28</lng>
+<geonameId>899785</geonameId>
+<countryCode>ZM</countryCode>
+<countryName>Zambia</countryName>
+<fcl>S</fcl>
+<fcode>FRM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farm</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="07">07</adminCode1>
+<adminName1>Southern</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Lusaka</timezone>
+<score>11.159517288208008</score>
+</geoname>
+<geoname>
+<toponymName>Pleasant Farm</toponymName>
+<name>Pleasant Farm</name>
+<lat>43.5272</lat>
+<lng>-90.62235</lng>
+<geonameId>5267347</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>FRM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farm</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>360</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WI">WI</adminCode1>
+<adminName1>Wisconsin</adminName1>
+<adminCode2>103</adminCode2>
+<adminName2>Richland County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>11.159517288208008</score>
+</geoname>
+<geoname>
+<toponymName>Pleasant Park</toponymName>
+<name>Pleasant Park</name>
+<lat>39.51277</lat>
+<lng>-105.27027</lng>
+<geonameId>5434859</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>PLN</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>plain(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>2537</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CO">CO</adminCode1>
+<adminName1>Colorado</adminName1>
+<adminCode2>059</adminCode2>
+<adminName2>Jefferson County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<score>9.404072761535645</score>
+</geoname>
+<geoname>
+<toponymName>Pleasant Park</toponymName>
+<name>Pleasant Park</name>
+<lat>27.22976</lat>
+<lng>-98.13667</lng>
+<geonameId>4719651</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>L</fcl>
+<fcode>PRK</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>park</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>35</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>047</adminCode2>
+<adminName2>Brooks County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>7.523258209228516</score>
+</geoname>
+<geoname>
+<toponymName>Pleasant Park</toponymName>
+<name>Pleasant Park</name>
+<lat>42.18538</lat>
+<lng>-71.19589</lng>
+<geonameId>4947528</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>L</fcl>
+<fcode>PRK</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>park</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>17</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MA">MA</adminCode1>
+<adminName1>Massachusetts</adminName1>
+<adminCode2>021</adminCode2>
+<adminName2>Norfolk County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>7.523258209228516</score>
+</geoname>
+<geoname>
+<toponymName>Pleasant Park</toponymName>
+<name>Pleasant Park</name>
+<lat>43.60691</lat>
+<lng>-95.61751</lng>
+<geonameId>5041854</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>L</fcl>
+<fcode>PRK</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>park</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>489</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MN">MN</adminCode1>
+<adminName1>Minnesota</adminName1>
+<adminCode2>105</adminCode2>
+<adminName2>Nobles County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>7.523258209228516</score>
+</geoname>
+<geoname>
+<toponymName>Pleasant Park</toponymName>
+<name>Pleasant Park</name>
+<lat>38.62832</lat>
+<lng>-107.82562</lng>
+<geonameId>5434860</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>PLN</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>plain(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1863</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CO">CO</adminCode1>
+<adminName1>Colorado</adminName1>
+<adminCode2>085</adminCode2>
+<adminName2>Montrose County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<score>7.523258209228516</score>
+</geoname>
+<geoname>
+<toponymName>Pleasant Park</toponymName>
+<name>Pleasant Park</name>
+<lat>42.21678</lat>
+<lng>-82.81653</lng>
+<geonameId>6106321</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ON">08</adminCode1>
+<adminName1>Ontario</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Toronto</timezone>
+<score>7.523258209228516</score>
+</geoname>
+</geonames>

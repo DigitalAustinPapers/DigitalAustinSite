@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>7</totalResultsCount>
+<geoname>
+<toponymName>Port Gibson</toponymName>
+<name>Port Gibson</name>
+<lat>31.96099</lat>
+<lng>-90.98399</lng>
+<geonameId>4442187</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>1567</population>
+<alternateNames/>
+<elevation>36</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MS">MS</adminCode1>
+<adminName1>Mississippi</adminName1>
+<adminCode2>021</adminCode2>
+<adminName2>Claiborne County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Port_Gibson%2C_Mississippi</alternateName>
+<alternateName lang="post">39150</alternateName>
+<alternateName lang="unlc">PGB</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.98929</west>
+<north>31.96549</north>
+<east>-90.97869</east>
+<south>31.95649</south>
+</bbox>
+<score>43.05134582519531</score>
+</geoname>
+<geoname>
+<toponymName>Port Gibson</toponymName>
+<name>Port Gibson</name>
+<lat>43.03451</lat>
+<lng>-77.15748</lng>
+<geonameId>5132010</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>453</population>
+<alternateNames/>
+<elevation>145</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>069</adminCode2>
+<adminName2>Ontario County</adminName2>
+<alternateName lang="post">14537</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-77.15871</west>
+<north>43.03541</north>
+<east>-77.15625</east>
+<south>43.03361</south>
+</bbox>
+<score>32.288509368896484</score>
+</geoname>
+<geoname>
+<toponymName>Port Simpson</toponymName>
+<name>Port Simpson</name>
+<lat>54.55</lat>
+<lng>-130.417</lng>
+<geonameId>8299068</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>S</fcl>
+<fcode>AIRP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>airport</fcodeName>
+<population/>
+<alternateNames>YPI</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="BC">02</adminCode1>
+<adminName1>British Columbia</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="iata">YPI</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Vancouver</timezone>
+<score>8.969025611877441</score>
+</geoname>
+<geoname>
+<toponymName>Port Dikson</toponymName>
+<name>Port Dikson</name>
+<lat>73.50778</lat>
+<lng>80.54639</lng>
+<geonameId>1544013</geonameId>
+<countryCode>RU</countryCode>
+<countryName>Russia</countryName>
+<fcl>L</fcl>
+<fcode>PRT</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>port</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="KYA">91</adminCode1>
+<adminName1>Krasnoyarskiy</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Krasnoyarsk</timezone>
+<score>7.54694938659668</score>
+</geoname>
+<geoname>
+<toponymName>Port Gibbon</toponymName>
+<name>Port Gibbon</name>
+<lat>-33.78333</lat>
+<lng>136.78333</lng>
+<geonameId>2063043</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="SA">05</adminCode1>
+<adminName1>South Australia</adminName1>
+<adminCode2>41960</adminCode2>
+<adminName2>Franklin Harbour</adminName2>
+<timezone dstOffset="9.5" gmtOffset="10.5">Australia/Adelaide</timezone>
+<bbox>
+<west>136.77251</west>
+<north>-33.77434</north>
+<east>136.79415</east>
+<south>-33.79233</south>
+</bbox>
+<score>7.175220489501953</score>
+</geoname>
+<geoname>
+<toponymName>Port Gibbon</toponymName>
+<name>Port Gibbon</name>
+<lat>-33.79722</lat>
+<lng>136.80278</lng>
+<geonameId>2078475</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>182</population>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="SA">05</adminCode1>
+<adminName1>South Australia</adminName1>
+<adminCode2>41960</adminCode2>
+<adminName2>Franklin Harbour</adminName2>
+<timezone dstOffset="9.5" gmtOffset="10.5">Australia/Adelaide</timezone>
+<bbox>
+<west>136.8017</west>
+<north>-33.79632</north>
+<east>136.80386</east>
+<south>-33.79812</south>
+</bbox>
+<score>7.175220489501953</score>
+</geoname>
+<geoname>
+<toponymName>Port Simpson</toponymName>
+<name>Port Simpson</name>
+<lat>54.5827</lat>
+<lng>-130.42015</lng>
+<geonameId>6112024</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>H</fcl>
+<fcode>BAY</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>bay</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="BC">02</adminCode1>
+<adminName1>British Columbia</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Vancouver</timezone>
+<score>2.2422564029693604</score>
+</geoname>
+</geonames>

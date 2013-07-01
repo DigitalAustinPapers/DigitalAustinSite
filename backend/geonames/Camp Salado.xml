@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>22</totalResultsCount>
+<geoname>
+<toponymName>Campo Salado</toponymName>
+<name>Campo Salado</name>
+<lat>4.2225</lat>
+<lng>-72.22278</lng>
+<geonameId>3687738</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="MET">19</adminCode1>
+<adminName1>Meta</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<bbox>
+<west>-72.2318</west>
+<north>4.23149</north>
+<east>-72.21376</east>
+<south>4.21351</south>
+</bbox>
+<score>44.9182014465332</score>
+</geoname>
+<geoname>
+<toponymName>Caño Salado</toponymName>
+<name>Caño Salado</name>
+<lat>19.07376</lat>
+<lng>-69.48411</lng>
+<geonameId>3510305</geonameId>
+<countryCode>DO</countryCode>
+<countryName>Dominican Republic</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="30">29</adminCode1>
+<adminName1>Hato Mayor</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Santo_Domingo</timezone>
+<score>5.477522373199463</score>
+</geoname>
+<geoname>
+<toponymName>Caño Salado</toponymName>
+<name>Caño Salado</name>
+<lat>10.8025</lat>
+<lng>-68.36722</lng>
+<geonameId>3646917</geonameId>
+<countryCode>VE</countryCode>
+<countryName>Venezuela</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="I">11</adminCode1>
+<adminName1>Estado Falcón</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.5" gmtOffset="-4.5">America/Caracas</timezone>
+<bbox>
+<west>-68.37638</west>
+<north>10.81149</north>
+<east>-68.35807</east>
+<south>10.79351</south>
+</bbox>
+<score>5.477522373199463</score>
+</geoname>
+<geoname>
+<toponymName>Cayo Sal</toponymName>
+<name>Cayo Sal</name>
+<lat>10.93333</lat>
+<lng>-68.25</lng>
+<geonameId>3628780</geonameId>
+<countryCode>VE</countryCode>
+<countryName>Venezuela</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames>Cayo Sal,Cayo Salado</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="W">24</adminCode1>
+<adminName1>Dependencias Federales</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.5" gmtOffset="-4.5">America/Caracas</timezone>
+<score>5.29365873336792</score>
+</geoname>
+<geoname>
+<toponymName>Puerto Badel</toponymName>
+<name>Puerto Badel</name>
+<lat>10.11875</lat>
+<lng>-75.4757</lng>
+<geonameId>3671548</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Cano Salado,Caño Salado,Corregimiento Cano Salado,Corregimiento Caño Salado,Corregimiento Salado,Puerto Badel</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="BOL">35</adminCode1>
+<adminName1>Bolívar</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<bbox>
+<west>-75.48483</west>
+<north>10.12774</north>
+<east>-75.46656</east>
+<south>10.10976</south>
+</bbox>
+<score>4.792831897735596</score>
+</geoname>
+<geoname>
+<toponymName>Caño Salado</toponymName>
+<name>Caño Salado</name>
+<lat>10.59028</lat>
+<lng>-74.6825</lng>
+<geonameId>3670396</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>Cano Barranquito,Cano Paraco,Cano Salado,Caño Barranquito,Caño Paraco,Caño Salado</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="MAG">38</adminCode1>
+<adminName1>Magdalena</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<score>3.8731932640075684</score>
+</geoname>
+<geoname>
+<toponymName>Caño El Salado</toponymName>
+<name>Caño El Salado</name>
+<lat>-0.75404</lat>
+<lng>-72.3666</lng>
+<geonameId>3670398</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>Cano El Salado,Cano Salado,Caño El Salado,Caño Salado</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="AMA">01</adminCode1>
+<adminName1>Amazonas</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<score>2.0540709495544434</score>
+</geoname>
+<geoname>
+<toponymName>Caño Aguas Negras</toponymName>
+<name>Caño Aguas Negras</name>
+<lat>10.87845</lat>
+<lng>-74.62204</lng>
+<geonameId>3690344</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>Cano Aguas Negras,Cano Salado,Caño Aguas Negras,Caño Salado</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="MAG">38</adminCode1>
+<adminName1>Magdalena</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<score>2.0540709495544434</score>
+</geoname>
+<geoname>
+<toponymName>Caño Salado</toponymName>
+<name>Caño Salado</name>
+<lat>8.87944</lat>
+<lng>-68.92056</lng>
+<geonameId>3798567</geonameId>
+<countryCode>VE</countryCode>
+<countryName>Venezuela</countryName>
+<fcl>H</fcl>
+<fcode>STMI</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>intermittent stream</fcodeName>
+<population/>
+<alternateNames>Cano Salado,Caño Salado</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="P">18</adminCode1>
+<adminName1>Estado Portuguesa</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="es">Caño Salado</alternateName>
+<timezone dstOffset="-4.5" gmtOffset="-4.5">America/Caracas</timezone>
+<score>1.9365966320037842</score>
+</geoname>
+<geoname>
+<toponymName>Caño Salado</toponymName>
+<name>Caño Salado</name>
+<lat>19.80648</lat>
+<lng>-71.54901</lng>
+<geonameId>3493304</geonameId>
+<countryCode>DO</countryCode>
+<countryName>Dominican Republic</countryName>
+<fcl>H</fcl>
+<fcode>STMI</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>intermittent stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="15">15</adminCode1>
+<adminName1>Monte Cristi</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Santo_Domingo</timezone>
+<score>1.7117257118225098</score>
+</geoname>
+</geonames>

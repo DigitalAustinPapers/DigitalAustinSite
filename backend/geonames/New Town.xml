@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>165</totalResultsCount>
+<geoname>
+<toponymName>New Town</toponymName>
+<name>New Town</name>
+<lat>-42.86</lat>
+<lng>147.30833</lng>
+<geonameId>2206068</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>5870</population>
+<alternateNames>New Town</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="TAS">06</adminCode1>
+<adminName1>Tasmania</adminName1>
+<adminCode2>62810</adminCode2>
+<adminName2>Hobart</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/New_Town%2C_Tasmania</alternateName>
+<timezone dstOffset="10.0" gmtOffset="11.0">Australia/Hobart</timezone>
+<bbox>
+<west>147.29007</west>
+<north>-42.84459</north>
+<east>147.32857</east>
+<south>-42.86777</south>
+</bbox>
+<score>66.4215087890625</score>
+</geoname>
+<geoname>
+<toponymName>New Town</toponymName>
+<name>New Town</name>
+<lat>34.53064</lat>
+<lng>-84.90578</lng>
+<geonameId>4212602</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>204</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">GA</adminCode1>
+<adminName1>Georgia</adminName1>
+<adminCode2>129</adminCode2>
+<adminName2>Gordon County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/New_Town%2C_Georgia</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-84.91669</west>
+<north>34.53964</north>
+<east>-84.89486</east>
+<south>34.52165</south>
+</bbox>
+<score>46.48536682128906</score>
+</geoname>
+<geoname>
+<toponymName>New Town</toponymName>
+<name>New Town</name>
+<lat>47.98085</lat>
+<lng>-102.49018</lng>
+<geonameId>5690711</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1925</population>
+<alternateNames/>
+<elevation>579</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ND">ND</adminCode1>
+<adminName1>North Dakota</adminName1>
+<adminCode2>061</adminCode2>
+<adminName2>Mountrail County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/New_Town%2C_North_Dakota</alternateName>
+<alternateName lang="post">58763</alternateName>
+<alternateName lang="unlc">OZW</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-102.4969</west>
+<north>47.98535</north>
+<east>-102.48346</east>
+<south>47.97635</south>
+</bbox>
+<score>46.48536682128906</score>
+</geoname>
+<geoname>
+<toponymName>New Town</toponymName>
+<name>New Town</name>
+<lat>8.1689</lat>
+<lng>80.9698</lng>
+<geonameId>8303895</geonameId>
+<countryCode>LK</countryCode>
+<countryName>Sri Lanka</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="7">30</adminCode1>
+<adminName1>North Central</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="5.5" gmtOffset="5.5">Asia/Colombo</timezone>
+<score>38.73780822753906</score>
+</geoname>
+<geoname>
+<toponymName>New Town</toponymName>
+<name>New Town</name>
+<lat>24.88512</lat>
+<lng>67.04584</lng>
+<geonameId>1184599</geonameId>
+<countryCode>PK</countryCode>
+<countryName>Pakistan</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames>Allama Binori Town,New Town</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="SD">05</adminCode1>
+<adminName1>Sindh</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">New Town</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Allama_Banuri_Town</alternateName>
+<timezone dstOffset="5.0" gmtOffset="5.0">Asia/Karachi</timezone>
+<bbox>
+<west>67.04187</west>
+<north>24.88872</north>
+<east>67.0498</east>
+<south>24.88153</south>
+</bbox>
+<score>37.95514678955078</score>
+</geoname>
+<geoname>
+<toponymName>New Town</toponymName>
+<name>New Town</name>
+<lat>55.9541</lat>
+<lng>-3.19754</lng>
+<geonameId>7644904</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames>Cidade Nova de Edimburgo,Ciudad nueva de Edimburgo,Ciutat Nova d'Edimburg,Edinburgheko Hiri Berria,New Toun,Novyj gorod,ai ding bao xin cheng,edinbara xin shi jie,Новый город,העיר החדשה של אדינבורו,エディンバラ新市街,愛丁堡新城</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>U8</adminCode2>
+<adminName2>City of Edinburgh</adminName2>
+<alternateName lang="ca">Ciutat Nova d'Edimburg</alternateName>
+<alternateName lang="es">Ciudad nueva de Edimburgo</alternateName>
+<alternateName lang="eu">Edinburgheko Hiri Berria</alternateName>
+<alternateName lang="he">העיר החדשה של אדינבורו</alternateName>
+<alternateName lang="ja">エディンバラ新市街</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/New_Town%2C_Edinburgh</alternateName>
+<alternateName lang="pt">Cidade Nova de Edimburgo</alternateName>
+<alternateName lang="ru">Новый город</alternateName>
+<alternateName lang="sco">New Toun</alternateName>
+<alternateName lang="zh">愛丁堡新城</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.20396</west>
+<north>55.9577</north>
+<east>-3.19111</east>
+<south>55.9505</south>
+</bbox>
+<score>32.433265686035156</score>
+</geoname>
+<geoname>
+<toponymName>New Town</toponymName>
+<name>New Town</name>
+<lat>7.91667</lat>
+<lng>81</lng>
+<geonameId>1233163</geonameId>
+<countryCode>LK</countryCode>
+<countryName>Sri Lanka</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="7">30</adminCode1>
+<adminName1>North Central</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="5.5" gmtOffset="5.5">Asia/Colombo</timezone>
+<bbox>
+<west>80.99092</west>
+<north>7.92566</north>
+<east>81.00908</east>
+<south>7.90767</south>
+</bbox>
+<score>30.990245819091797</score>
+</geoname>
+<geoname>
+<toponymName>New Town</toponymName>
+<name>New Town</name>
+<lat>2.03333</lat>
+<lng>15.21667</lng>
+<geonameId>2224920</geonameId>
+<countryCode>CM</countryCode>
+<countryName>Cameroon</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="ES">04</adminCode1>
+<adminName1>East Province</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="1.0">Africa/Douala</timezone>
+<bbox>
+<west>15.20767</west>
+<north>2.04233</north>
+<east>15.22567</east>
+<south>2.02434</south>
+</bbox>
+<score>30.990245819091797</score>
+</geoname>
+<geoname>
+<toponymName>New Town</toponymName>
+<name>New Town</name>
+<lat>6.8</lat>
+<lng>-9.28333</lng>
+<geonameId>2274739</geonameId>
+<countryCode>LR</countryCode>
+<countryName>Liberia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="BG">01</adminCode1>
+<adminName1>Bong</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="0.0" gmtOffset="0.0">Africa/Monrovia</timezone>
+<bbox>
+<west>-9.29239</west>
+<north>6.80899</north>
+<east>-9.27428</east>
+<south>6.79101</south>
+</bbox>
+<score>30.990245819091797</score>
+</geoname>
+<geoname>
+<toponymName>New Town</toponymName>
+<name>New Town</name>
+<lat>6.72889</lat>
+<lng>-9.2525</lng>
+<geonameId>2274740</geonameId>
+<countryCode>LR</countryCode>
+<countryName>Liberia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="BG">01</adminCode1>
+<adminName1>Bong</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="0.0" gmtOffset="0.0">Africa/Monrovia</timezone>
+<bbox>
+<west>-9.26156</west>
+<north>6.73788</north>
+<east>-9.24344</east>
+<south>6.7199</south>
+</bbox>
+<score>30.990245819091797</score>
+</geoname>
+</geonames>

@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>23</totalResultsCount>
+<geoname>
+<toponymName>Grayson</toponymName>
+<name>Grayson</name>
+<lat>33.89427</lat>
+<lng>-83.95574</lng>
+<geonameId>4197968</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2666</population>
+<alternateNames/>
+<elevation>334</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">GA</adminCode1>
+<adminName1>Georgia</adminName1>
+<adminCode2>135</adminCode2>
+<adminName2>Gwinnett County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Grayson%2C_Georgia</alternateName>
+<alternateName lang="post">30017</alternateName>
+<alternateName lang="unlc">YYG</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-83.9634</west>
+<north>33.90063</north>
+<east>-83.94808</east>
+<south>33.88791</south>
+</bbox>
+<score>50.598426818847656</score>
+</geoname>
+<geoname>
+<toponymName>Grayson</toponymName>
+<name>Grayson</name>
+<lat>32.04988</lat>
+<lng>-92.1093</lng>
+<geonameId>4326343</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>532</population>
+<alternateNames/>
+<elevation>50</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>021</adminCode2>
+<adminName2>Caldwell Parish</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Grayson%2C_Louisiana</alternateName>
+<alternateName lang="post">71435</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.11036</west>
+<north>32.05078</north>
+<east>-92.10824</east>
+<south>32.04898</south>
+</bbox>
+<score>50.598426818847656</score>
+</geoname>
+<geoname>
+<toponymName>Grayson</toponymName>
+<name>Grayson</name>
+<lat>36.53623</lat>
+<lng>-81.68372</lng>
+<geonameId>4468832</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1017</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NC">NC</adminCode1>
+<adminName1>North Carolina</adminName1>
+<adminCode2>009</adminCode2>
+<adminName2>Ashe County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Grayson%2C_North_Carolina</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-81.69492</west>
+<north>36.54522</north>
+<east>-81.67253</east>
+<south>36.52724</south>
+</bbox>
+<score>50.598426818847656</score>
+</geoname>
+<geoname>
+<toponymName>Grayson</toponymName>
+<name>Grayson</name>
+<lat>35.50316</lat>
+<lng>-95.87277</lng>
+<geonameId>4537968</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>159</population>
+<alternateNames/>
+<elevation>200</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OK">OK</adminCode1>
+<adminName1>Oklahoma</adminName1>
+<adminCode2>111</adminCode2>
+<adminName2>Okmulgee County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Grayson%2C_Oklahoma</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-95.87388</west>
+<north>35.50406</north>
+<east>-95.87167</east>
+<south>35.50226</south>
+</bbox>
+<score>50.598426818847656</score>
+</geoname>
+<geoname>
+<toponymName>Grayson</toponymName>
+<name>Grayson</name>
+<lat>37.56382</lat>
+<lng>-121.17938</lng>
+<geonameId>5353910</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>952</population>
+<alternateNames/>
+<elevation>16</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>099</adminCode2>
+<adminName2>Stanislaus County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Grayson%2C_California</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-121.18052</west>
+<north>37.56472</north>
+<east>-121.17825</east>
+<south>37.56292</south>
+</bbox>
+<score>50.598426818847656</score>
+</geoname>
+<geoname>
+<toponymName>Grayson</toponymName>
+<name>Grayson</name>
+<lat>50.71671</lat>
+<lng>-102.65099</lng>
+<geonameId>5965711</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SK">11</adminCode1>
+<adminName1>Saskatchewan</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Grayson%2C_Saskatchewan</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Regina</timezone>
+<bbox>
+<west>-102.6652</west>
+<north>50.72571</north>
+<east>-102.63678</east>
+<south>50.70772</south>
+</bbox>
+<score>50.598426818847656</score>
+</geoname>
+<geoname>
+<toponymName>Grayson</toponymName>
+<name>Grayson</name>
+<lat>38.33258</lat>
+<lng>-82.9485</lng>
+<geonameId>4293311</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>4217</population>
+<alternateNames/>
+<elevation>193</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>043</adminCode2>
+<adminName2>Carter County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Grayson%2C_Kentucky</alternateName>
+<alternateName lang="post">41143</alternateName>
+<alternateName lang="unlc">GYO</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-82.95843</west>
+<north>38.34037</north>
+<east>-82.93857</east>
+<south>38.32479</south>
+</bbox>
+<score>42.16535568237305</score>
+</geoname>
+<geoname>
+<toponymName>Grayson</toponymName>
+<name>Grayson</name>
+<lat>-28.3</lat>
+<lng>152.26667</lng>
+<geonameId>2164634</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="QLD">04</adminCode1>
+<adminName1>Queensland</adminName1>
+<adminCode2>36660</adminCode2>
+<adminName2>Southern Downs</adminName2>
+<timezone dstOffset="10.0" gmtOffset="10.0">Australia/Brisbane</timezone>
+<bbox>
+<west>152.25645</west>
+<north>-28.29101</north>
+<east>152.27688</east>
+<south>-28.30899</south>
+</bbox>
+<score>33.73228454589844</score>
+</geoname>
+<geoname>
+<toponymName>Grayson</toponymName>
+<name>Grayson</name>
+<lat>34.28038</lat>
+<lng>-87.31946</lng>
+<geonameId>4065019</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>258</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AL">AL</adminCode1>
+<adminName1>Alabama</adminName1>
+<adminCode2>133</adminCode2>
+<adminName2>Winston County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-87.33035</west>
+<north>34.28937</north>
+<east>-87.30858</east>
+<south>34.27138</south>
+</bbox>
+<score>33.73228454589844</score>
+</geoname>
+<geoname>
+<toponymName>Grayson</toponymName>
+<name>Grayson</name>
+<lat>35.05565</lat>
+<lng>-93.86965</lng>
+<geonameId>4112941</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>160</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">AR</adminCode1>
+<adminName1>Arkansas</adminName1>
+<adminCode2>083</adminCode2>
+<adminName2>Logan County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-93.88063</west>
+<north>35.06464</north>
+<east>-93.85866</east>
+<south>35.04666</south>
+</bbox>
+<score>33.73228454589844</score>
+</geoname>
+</geonames>

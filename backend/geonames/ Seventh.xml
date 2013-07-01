@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Sūntū</toponymName>
+<name>Sūntū</name>
+<lat>36.4839</lat>
+<lng>47.7786</lng>
+<geonameId>1797</geonameId>
+<countryCode>IR</countryCode>
+<countryName>Iran</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Seventu,Seventū,Suntu,Sūntū,siwintw,swntw,سونتو,سِوِنتو</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="11">36</adminCode1>
+<adminName1>Zanjan</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="fa">سونتو</alternateName>
+<timezone dstOffset="4.5" gmtOffset="3.5">Asia/Tehran</timezone>
+<bbox>
+<west>47.76741</west>
+<north>36.49289</north>
+<east>47.78979</east>
+<south>36.47491</south>
+</bbox>
+<score>34.4893798828125</score>
+</geoname>
+</geonames>

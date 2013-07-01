@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>20</totalResultsCount>
+<geoname>
+<toponymName>East Side</toponymName>
+<name>East Side</name>
+<lat>38.35426</lat>
+<lng>-81.64068</lng>
+<geonameId>4804760</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>180</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WV">WV</adminCode1>
+<adminName1>West Virginia</adminName1>
+<adminCode2>039</adminCode2>
+<adminName2>Kanawha County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/East_Side%2C_West_Virginia</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-81.65215</west>
+<north>38.36326</north>
+<east>-81.62921</east>
+<south>38.34527</south>
+</bbox>
+<score>56.20320510864258</score>
+</geoname>
+<geoname>
+<toponymName>East Side</toponymName>
+<name>East Side</name>
+<lat>41.06147</lat>
+<lng>-75.76936</lng>
+<geonameId>5188061</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>317</population>
+<alternateNames/>
+<elevation>343</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PA">PA</adminCode1>
+<adminName1>Pennsylvania</adminName1>
+<adminCode2>025</adminCode2>
+<adminName2>Carbon County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/East_Side%2C_Pennsylvania</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-75.77055</west>
+<north>41.06237</north>
+<east>-75.76817</east>
+<south>41.06057</south>
+</bbox>
+<score>56.20320510864258</score>
+</geoname>
+<geoname>
+<toponymName>East Side</toponymName>
+<name>East Side</name>
+<lat>41.71226</lat>
+<lng>-87.53199</lng>
+<geonameId>4890570</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>183</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>031</adminCode2>
+<adminName2>Cook County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/East_Side,_Chicago</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-87.53681</west>
+<north>41.71585</north>
+<east>-87.52717</east>
+<south>41.70866</south>
+</bbox>
+<score>46.83600616455078</score>
+</geoname>
+<geoname>
+<toponymName>East Side</toponymName>
+<name>East Side</name>
+<lat>36.03201</lat>
+<lng>-87.26751</lng>
+<geonameId>4050586</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>242</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TN">TN</adminCode1>
+<adminName1>Tennessee</adminName1>
+<adminCode2>043</adminCode2>
+<adminName2>Dickson County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-87.27863</west>
+<north>36.041</north>
+<east>-87.25639</east>
+<south>36.02301</south>
+</bbox>
+<score>37.46880340576172</score>
+</geoname>
+<geoname>
+<toponymName>East Side</toponymName>
+<name>East Side</name>
+<lat>31.14352</lat>
+<lng>-93.25933</lng>
+<geonameId>4323445</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>72</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>115</adminCode2>
+<adminName2>Vernon Parish</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-93.26984</west>
+<north>31.15251</north>
+<east>-93.24882</east>
+<south>31.13453</south>
+</bbox>
+<score>37.46880340576172</score>
+</geoname>
+<geoname>
+<toponymName>East Side</toponymName>
+<name>East Side</name>
+<lat>31.3549</lat>
+<lng>-88.91116</lng>
+<geonameId>4425208</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>52</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MS">MS</adminCode1>
+<adminName1>Mississippi</adminName1>
+<adminCode2>111</adminCode2>
+<adminName2>Perry County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-88.92169</west>
+<north>31.36389</north>
+<east>-88.90063</east>
+<south>31.3459</south>
+</bbox>
+<score>37.46880340576172</score>
+</geoname>
+<geoname>
+<toponymName>East Side</toponymName>
+<name>East Side</name>
+<lat>36.33844</lat>
+<lng>-82.19874</lng>
+<geonameId>4620151</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>502</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TN">TN</adminCode1>
+<adminName1>Tennessee</adminName1>
+<adminCode2>019</adminCode2>
+<adminName2>Carter County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-82.20991</west>
+<north>36.34744</north>
+<east>-82.18758</east>
+<south>36.32945</south>
+</bbox>
+<score>37.46880340576172</score>
+</geoname>
+<geoname>
+<toponymName>East Side</toponymName>
+<name>East Side</name>
+<lat>41.10061</lat>
+<lng>-80.63674</lng>
+<geonameId>5152773</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>264</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>099</adminCode2>
+<adminName2>Mahoning County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-80.64868</west>
+<north>41.10961</north>
+<east>-80.6248</east>
+<south>41.09162</south>
+</bbox>
+<score>37.46880340576172</score>
+</geoname>
+<geoname>
+<toponymName>East Side</toponymName>
+<name>East Side</name>
+<lat>38.1352</lat>
+<lng>-121.24328</lng>
+<geonameId>5345094</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>19</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>077</adminCode2>
+<adminName2>San Joaquin County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-121.25472</west>
+<north>38.14419</north>
+<east>-121.23184</east>
+<south>38.1262</south>
+</bbox>
+<score>37.46880340576172</score>
+</geoname>
+<geoname>
+<toponymName>East Side</toponymName>
+<name>East Side</name>
+<lat>28.0231</lat>
+<lng>-82.1119</lng>
+<geonameId>7216895</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>40</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="FL">FL</adminCode1>
+<adminName1>Florida</adminName1>
+<adminCode2>057</adminCode2>
+<adminName2>Hillsborough County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-82.12209</west>
+<north>28.03209</north>
+<east>-82.10171</east>
+<south>28.01411</south>
+</bbox>
+<score>37.46880340576172</score>
+</geoname>
+</geonames>

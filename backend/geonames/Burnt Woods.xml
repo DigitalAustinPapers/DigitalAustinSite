@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Burnt Woods</toponymName>
+<name>Burnt Woods</name>
+<lat>39.27788</lat>
+<lng>-76.9972</lng>
+<geonameId>4349893</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>190</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MD">MD</adminCode1>
+<adminName1>Maryland</adminName1>
+<adminCode2>027</adminCode2>
+<adminName2>Howard County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-77.00882</west>
+<north>39.28688</north>
+<east>-76.98558</east>
+<south>39.26889</south>
+</bbox>
+<score>43.633644104003906</score>
+</geoname>
+<geoname>
+<toponymName>Burnt Woods</toponymName>
+<name>Burnt Woods</name>
+<lat>44.60373</lat>
+<lng>-123.62289</lng>
+<geonameId>5716931</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>210</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OR">OR</adminCode1>
+<adminName1>Oregon</adminName1>
+<adminCode2>041</adminCode2>
+<adminName2>Lincoln County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-123.63552</west>
+<north>44.61272</north>
+<east>-123.61025</east>
+<south>44.59474</south>
+</bbox>
+<score>43.633644104003906</score>
+</geoname>
+<geoname>
+<toponymName>Burnt Woods</toponymName>
+<name>Burnt Woods</name>
+<lat>36.42729</lat>
+<lng>-89.36702</lng>
+<geonameId>4610069</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>86</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TN">TN</adminCode1>
+<adminName1>Tennessee</adminName1>
+<adminCode2>131</adminCode2>
+<adminName2>Obion County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>13.635513305664062</score>
+</geoname>
+<geoname>
+<toponymName>Burnett Woods</toponymName>
+<name>Burnett Woods</name>
+<lat>39.13867</lat>
+<lng>-84.51717</lng>
+<geonameId>4507508</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>L</fcl>
+<fcode>PRK</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>park</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>227</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>061</adminCode2>
+<adminName2>Hamilton County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>4.327843189239502</score>
+</geoname>
+<geoname>
+<toponymName>Burma Woods</toponymName>
+<name>Burma Woods</name>
+<lat>43.182</lat>
+<lng>-78.25419</lng>
+<geonameId>5110793</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>211</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>073</adminCode2>
+<adminName2>Orleans County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-78.26652</west>
+<north>43.191</north>
+<east>-78.24185</east>
+<south>43.17301</south>
+</bbox>
+<score>4.327843189239502</score>
+</geoname>
+</geonames>

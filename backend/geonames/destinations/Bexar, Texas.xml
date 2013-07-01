@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3560</totalResultsCount>
+<geoname>
+<toponymName>San Antonio</toponymName>
+<name>San Antonio</name>
+<lat>29.42412</lat>
+<lng>-98.49363</lng>
+<geonameId>4726206</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>1327407</population>
+<alternateNames>Gorad San-Antonia,SAT,San Antonijas,San Antonio,San-Antonio,Sanantonio,Sanctus Antonius,can antoniyo,saen-antonio,saina entoniyo,san antoniyo,san antwnyw, tksas,san ‌antwnyw,san'antonio,san-antonio,sena amtoniyo,sheng an dong ni ao,Σαν Αντόνιο,Горад Сан-Антоніа,Сан Антонио,Сан-Антонио,Сан-Антоніо,Սան Անտոնիո,סן אנטוניו,سان أنطونيو، تكساس,سان انٹونیو,سان ‌آنتونیو,सॅन अँटोनियो,सैन एन्टोनियो,சான் அன்டோனியோ,శాన్ అంటోనియో,സാൻ അന്റോണിയോ,แซนแอนโทนีโอ,სან-ანთონიო,სან-ანტონიო,サンアントニオ,圣安东尼奥,샌안토니오</alternateNames>
+<elevation>198</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>029</adminCode2>
+<adminName2>Bexar County</adminName2>
+<alternateName lang="ar">سان أنطونيو، تكساس</alternateName>
+<alternateName lang="be">Горад Сан-Антоніа</alternateName>
+<alternateName lang="bg">Сан Антонио</alternateName>
+<alternateName lang="ce">Сан-Антонио</alternateName>
+<alternateName lang="cs">San Antonio</alternateName>
+<alternateName lang="da">San Antonio</alternateName>
+<alternateName lang="de">San Antonio</alternateName>
+<alternateName lang="el">Σαν Αντόνιο</alternateName>
+<alternateName lang="en">San Antonio</alternateName>
+<alternateName lang="eo">San Antonio</alternateName>
+<alternateName lang="es">San Antonio</alternateName>
+<alternateName lang="et">San Antonio</alternateName>
+<alternateName lang="fa">سان ‌آنتونیو</alternateName>
+<alternateName lang="fi">San Antonio</alternateName>
+<alternateName lang="fr">San Antonio</alternateName>
+<alternateName lang="he">סן אנטוניו</alternateName>
+<alternateName lang="hi">सैन एन्टोनियो</alternateName>
+<alternateName lang="hy">Սան Անտոնիո</alternateName>
+<alternateName lang="iata">SAT</alternateName>
+<alternateName lang="is">San Antonio</alternateName>
+<alternateName lang="it">San Antonio</alternateName>
+<alternateName lang="ja">サンアントニオ</alternateName>
+<alternateName lang="ka">სან-ანტონიო</alternateName>
+<alternateName lang="ko">샌안토니오</alternateName>
+<alternateName lang="la">Sanctus Antonius</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/San_Antonio</alternateName>
+<alternateName lang="lt">San Antonijas</alternateName>
+<alternateName lang="lv">Sanantonio</alternateName>
+<alternateName lang="mk">Сан Антонио</alternateName>
+<alternateName lang="ml">സാൻ അന്റോണിയോ</alternateName>
+<alternateName lang="mr">सॅन अँटोनियो</alternateName>
+<alternateName lang="nl">San Antonio</alternateName>
+<alternateName lang="no">San Antonio</alternateName>
+<alternateName lang="os">Сан-Антонио</alternateName>
+<alternateName lang="pl">San Antonio</alternateName>
+<alternateName lang="pnb">سان انٹونیو</alternateName>
+<alternateName lang="post">78280</alternateName>
+<alternateName lang="pt">San Antonio</alternateName>
+<alternateName lang="ro">San Antonio</alternateName>
+<alternateName lang="ru">Сан-Антонио</alternateName>
+<alternateName lang="sk">San Antonio</alternateName>
+<alternateName lang="sr">Сан Антонио</alternateName>
+<alternateName lang="sv">San Antonio</alternateName>
+<alternateName lang="ta">சான் அன்டோனியோ</alternateName>
+<alternateName lang="te">శాన్ అంటోనియో</alternateName>
+<alternateName lang="th">แซนแอนโทนีโอ</alternateName>
+<alternateName lang="tr">San Antonio</alternateName>
+<alternateName lang="uk">Сан-Антоніо</alternateName>
+<alternateName lang="unlc">SAT</alternateName>
+<alternateName lang="xmf">სან-ანთონიო</alternateName>
+<alternateName lang="zh">圣安东尼奥</alternateName>
+<alternateName lang="zh-CN">圣安东尼奥</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-98.66558</west>
+<north>29.57367</north>
+<east>-98.32168</east>
+<south>29.27457</south>
+</bbox>
+<score>40.22829055786133</score>
+</geoname>
+<geoname>
+<toponymName>Bexar County</toponymName>
+<name>Bexar County</name>
+<lat>29.44896</lat>
+<lng>-98.52002</lng>
+<geonameId>4674023</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>1714773</population>
+<alternateNames>Bear,Bekhar,Beur,Bexar Comitatus,Bexar srjan,Comte de Bexar,Comté de Bexar,Condado de Bexar,Condado han Bexar,Contea di Bexar,County Bexar,Hrabstwo Bexar,Kantono Bexar,Okrug Ber,Quan Bexar,Quận Bexar,bea jun,beksara ka'unti,bi er xian,byksar,shhrstan byr, tgzas,Беар,Бехар,Беър,Округ Бер,Բեխար շրջան,بیکسار,شهرستان بیر، تگزاس,مقاطعة بيكسار، تكساس,বেক্সার কাউন্টি,ベア郡,比爾縣</alternateNames>
+<elevation>206</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>029</adminCode2>
+<adminName2>Bexar County</adminName2>
+<alternateName lang="ar">مقاطعة بيكسار، تكساس</alternateName>
+<alternateName lang="bg">Беър</alternateName>
+<alternateName lang="bpy">বেক্সার কাউন্টি</alternateName>
+<alternateName lang="eo">Kantono Bexar</alternateName>
+<alternateName lang="es">Condado de Bexar</alternateName>
+<alternateName lang="fa">شهرستان بیر، تگزاس</alternateName>
+<alternateName lang="fr">Comté de Bexar</alternateName>
+<alternateName lang="hy">Բեխար շրջան</alternateName>
+<alternateName lang="id">County Bexar</alternateName>
+<alternateName lang="it">Contea di Bexar</alternateName>
+<alternateName lang="ja">ベア郡</alternateName>
+<alternateName lang="la">Bexar Comitatus</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bexar_County%2C_Texas</alternateName>
+<alternateName lang="pl">Hrabstwo Bexar</alternateName>
+<alternateName lang="pnb">بیکسار</alternateName>
+<alternateName lang="pt">Condado de Bexar</alternateName>
+<alternateName lang="ru">Бехар</alternateName>
+<alternateName lang="sr">Округ Бер</alternateName>
+<alternateName lang="uk">Беар</alternateName>
+<alternateName lang="vi">Quận Bexar</alternateName>
+<alternateName lang="war">Condado han Bexar</alternateName>
+<alternateName lang="zh">比爾縣</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-98.80561</west>
+<north>29.76064</north>
+<east>-98.11926</east>
+<south>29.11039</south>
+</bbox>
+<score>23.623125076293945</score>
+</geoname>
+<geoname>
+<toponymName>Converse</toponymName>
+<name>Converse</name>
+<lat>29.51801</lat>
+<lng>-98.31612</lng>
+<geonameId>4683021</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>18198</population>
+<alternateNames/>
+<elevation>219</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>029</adminCode2>
+<adminName2>Bexar County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Converse%2C_Texas</alternateName>
+<alternateName lang="post">78109</alternateName>
+<alternateName lang="unlc">VTX</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-98.33614</west>
+<north>29.53542</north>
+<east>-98.29611</east>
+<south>29.50059</south>
+</bbox>
+<score>20.114145278930664</score>
+</geoname>
+<geoname>
+<toponymName>Elmendorf</toponymName>
+<name>Elmendorf</name>
+<lat>29.25607</lat>
+<lng>-98.33279</lng>
+<geonameId>4689077</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1488</population>
+<alternateNames/>
+<elevation>152</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>029</adminCode2>
+<adminName2>Bexar County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Elmendorf%2C_Texas</alternateName>
+<alternateName lang="post">78112</alternateName>
+<alternateName lang="unlc">XRW</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-98.33794</west>
+<north>29.26057</north>
+<east>-98.32764</east>
+<south>29.25158</south>
+</bbox>
+<score>20.114145278930664</score>
+</geoname>
+<geoname>
+<toponymName>Horizon Airport</toponymName>
+<name>Horizon Airport</name>
+<lat>29.28597</lat>
+<lng>-98.4982</lng>
+<geonameId>4698780</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>AIRP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>airport</fcodeName>
+<population/>
+<alternateNames>Horizon Airport (San Antonio)</alternateNames>
+<elevation>167</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>029</adminCode2>
+<adminName2>Bexar County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Horizon_Airport_%28San_Antonio%2C_Texas%29</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>20.114145278930664</score>
+</geoname>
+<geoname>
+<toponymName>Kirby</toponymName>
+<name>Kirby</name>
+<lat>29.46329</lat>
+<lng>-98.38557</lng>
+<geonameId>4703415</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>8000</population>
+<alternateNames/>
+<elevation>209</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>029</adminCode2>
+<adminName2>Bexar County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kirby%2C_Texas</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-98.39822</west>
+<north>29.4743</north>
+<east>-98.37292</east>
+<south>29.45227</south>
+</bbox>
+<score>20.114145278930664</score>
+</geoname>
+<geoname>
+<toponymName>Leon Valley</toponymName>
+<name>Leon Valley</name>
+<lat>29.49523</lat>
+<lng>-98.61863</lng>
+<geonameId>4705923</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>10151</population>
+<alternateNames/>
+<elevation>252</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>029</adminCode2>
+<adminName2>Bexar County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Leon_Valley%2C_Texas</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-98.63325</west>
+<north>29.50795</north>
+<east>-98.60402</east>
+<south>29.48251</south>
+</bbox>
+<score>20.114145278930664</score>
+</geoname>
+<geoname>
+<toponymName>Live Oak</toponymName>
+<name>Live Oak</name>
+<lat>29.56523</lat>
+<lng>-98.3364</lng>
+<geonameId>4707055</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>13131</population>
+<alternateNames/>
+<elevation>278</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>029</adminCode2>
+<adminName2>Bexar County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Live_Oak%2C_Texas</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-98.35275</west>
+<north>29.57945</north>
+<east>-98.32005</east>
+<south>29.55101</south>
+</bbox>
+<score>20.114145278930664</score>
+</geoname>
+<geoname>
+<toponymName>San Antonio International Airport</toponymName>
+<name>San Antonio International Airport</name>
+<lat>29.53384</lat>
+<lng>-98.47002</lng>
+<geonameId>4726234</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>AIRP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>airport</fcodeName>
+<population/>
+<alternateNames>KSAT,SAT,San Antonio International Airport</alternateNames>
+<elevation>238</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>029</adminCode2>
+<adminName2>Bexar County</adminName2>
+<alternateName lang="en">San Antonio International Airport</alternateName>
+<alternateName lang="iata">SAT</alternateName>
+<alternateName lang="icao">KSAT</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/San_Antonio_International_Airport</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>20.114145278930664</score>
+</geoname>
+<geoname>
+<toponymName>Stinson Municipal Airport</toponymName>
+<name>Stinson Municipal Airport</name>
+<lat>29.33863</lat>
+<lng>-98.46833</lng>
+<geonameId>4734513</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>AIRP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>airport</fcodeName>
+<population/>
+<alternateNames>KSSF,SSF</alternateNames>
+<elevation>172</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>029</adminCode2>
+<adminName2>Bexar County</adminName2>
+<alternateName lang="iata">SSF</alternateName>
+<alternateName lang="icao">KSSF</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stinson_Municipal_Airport</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>20.114145278930664</score>
+</geoname>
+</geonames>

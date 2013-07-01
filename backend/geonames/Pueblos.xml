@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>10</totalResultsCount>
+<geoname>
+<toponymName>El Pueblo</toponymName>
+<name>El Pueblo</name>
+<lat>25.34163</lat>
+<lng>-106.73133</lng>
+<geonameId>4008295</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>El Pueblo,Pueblo,Pueblos</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="DUR">10</adminCode1>
+<adminName1>Durango</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<bbox>
+<west>-106.74128</west>
+<north>25.35063</north>
+<east>-106.72138</east>
+<south>25.33264</south>
+</bbox>
+<score>36.45597839355469</score>
+</geoname>
+<geoname>
+<toponymName>Pueblo</toponymName>
+<name>Pueblo</name>
+<lat>38.25445</lat>
+<lng>-104.60914</lng>
+<geonameId>5435464</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>106595</population>
+<alternateNames>PUB,Pueblo,Puehblo,peblo,pu wei bu luo,puebeullo,pueburo,pwablw, klradw,pywblw,Пуебло,Пуэбло,پوابلو، کلرادو,پیوبلو,पेब्लो,プエブロ,普韋布洛,푸에블로</alternateNames>
+<elevation>1430</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CO">CO</adminCode1>
+<adminName1>Colorado</adminName1>
+<adminCode2>101</adminCode2>
+<adminName2>Pueblo County</adminName2>
+<alternateName lang="bg">Пуебло</alternateName>
+<alternateName lang="de">Pueblo</alternateName>
+<alternateName lang="en">Pueblo</alternateName>
+<alternateName lang="fa">پوابلو، کلرادو</alternateName>
+<alternateName lang="fi">Pueblo</alternateName>
+<alternateName lang="iata">PUB</alternateName>
+<alternateName lang="ja">プエブロ</alternateName>
+<alternateName lang="ko">푸에블로</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Pueblo%2C_Colorado</alternateName>
+<alternateName lang="mr">पेब्लो</alternateName>
+<alternateName lang="nl">Pueblo</alternateName>
+<alternateName lang="pnb">پیوبلو</alternateName>
+<alternateName lang="post">81012</alternateName>
+<alternateName lang="ru">Пуэбло</alternateName>
+<alternateName lang="unlc">PUB</alternateName>
+<alternateName lang="zh">普韋布洛</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<bbox>
+<west>-104.66289</west>
+<north>38.29663</north>
+<east>-104.55539</east>
+<south>38.21226</south>
+</bbox>
+<score>11.363574028015137</score>
+</geoname>
+<geoname>
+<toponymName>Pueblo</toponymName>
+<name>Pueblo</name>
+<lat>13.8</lat>
+<lng>-87.83333</lng>
+<geonameId>3584008</geonameId>
+<countryCode>SV</countryCode>
+<countryName>El Salvador</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Canton Pueblo,Cantón Pueblo,Pueblo</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="UN">07</adminCode1>
+<adminName1>La Unión</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/El_Salvador</timezone>
+<bbox>
+<west>-87.84259</west>
+<north>13.80899</north>
+<east>-87.82407</east>
+<south>13.79101</south>
+</bbox>
+<score>6.509304523468018</score>
+</geoname>
+<geoname>
+<toponymName>Pueblo</toponymName>
+<name>Pueblo</name>
+<lat>37.82616</lat>
+<lng>-87.11028</lng>
+<geonameId>4263424</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>116</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IN">IN</adminCode1>
+<adminName1>Indiana</adminName1>
+<adminCode2>147</adminCode2>
+<adminName2>Spencer County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-87.12166</west>
+<north>37.83515</north>
+<east>-87.09889</east>
+<south>37.81717</south>
+</bbox>
+<score>6.074085712432861</score>
+</geoname>
+<geoname>
+<toponymName>Pueblo</toponymName>
+<name>Pueblo</name>
+<lat>36.8098</lat>
+<lng>-84.70827</lng>
+<geonameId>4305360</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>256</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>231</adminCode2>
+<adminName2>Wayne County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Kentucky/Monticello</timezone>
+<bbox>
+<west>-84.71951</west>
+<north>36.81879</north>
+<east>-84.69704</east>
+<south>36.8008</south>
+</bbox>
+<score>6.074085712432861</score>
+</geoname>
+<geoname>
+<toponymName>Pueblo</toponymName>
+<name>Pueblo</name>
+<lat>32.49902</lat>
+<lng>-99.12146</lng>
+<geonameId>4720916</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>435</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>059</adminCode2>
+<adminName2>Callahan County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-99.13213</west>
+<north>32.50801</north>
+<east>-99.1108</east>
+<south>32.49002</south>
+</bbox>
+<score>6.074085712432861</score>
+</geoname>
+<geoname>
+<toponymName>Nicanor E. Molinas</toponymName>
+<name>Nicanor E. Molinas</name>
+<lat>-29.15</lat>
+<lng>-59.85</lng>
+<geonameId>3430430</geonameId>
+<countryCode>AR</countryCode>
+<countryName>Argentina</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Colonia N. Molinas,Nicanor E. Molinas,Nicanor Molina,Pueblo</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="S">21</adminCode1>
+<adminName1>Santa Fe</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Argentina/Cordoba</timezone>
+<bbox>
+<west>-59.8603</west>
+<north>-29.14101</north>
+<east>-59.8397</east>
+<south>-29.15899</south>
+</bbox>
+<score>4.295027256011963</score>
+</geoname>
+<geoname>
+<toponymName>Pueblo Viejo</toponymName>
+<name>Pueblo Viejo</name>
+<lat>19.81609</lat>
+<lng>-96.8737</lng>
+<geonameId>3521059</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Pueblo,Pueblo Viejo</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VER">30</adminCode1>
+<adminName1>Veracruz-Llave</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-96.88327</west>
+<north>19.82508</north>
+<east>-96.86414</east>
+<south>19.80709</south>
+</bbox>
+<score>4.295027256011963</score>
+</geoname>
+<geoname>
+<toponymName>Pueblito</toponymName>
+<name>Pueblito</name>
+<lat>8.16667</lat>
+<lng>-72.35</lng>
+<geonameId>3671676</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Pueblito,Pueblo</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="NSA">21</adminCode1>
+<adminName1>Norte de Santander</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<bbox>
+<west>-72.35909</west>
+<north>8.17566</north>
+<east>-72.34091</east>
+<south>8.15767</south>
+</bbox>
+<score>4.295027256011963</score>
+</geoname>
+<geoname>
+<toponymName>Cañada del Pueblo</toponymName>
+<name>Cañada del Pueblo</name>
+<lat>-31.96667</lat>
+<lng>-57.18333</lng>
+<geonameId>3440960</geonameId>
+<countryCode>UY</countryCode>
+<countryName>Uruguay</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>Canada del Pueblo,Canada del Sauce,Cañada del Pueblo,Cañada del Sauce,Pueblo,Sauce</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="PA">11</adminCode1>
+<adminName1>Paysandú</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Montevideo</timezone>
+<score>2.1475136280059814</score>
+</geoname>
+</geonames>

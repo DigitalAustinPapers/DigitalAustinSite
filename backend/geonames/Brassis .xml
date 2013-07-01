@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Brassi</toponymName>
+<name>Brassi</name>
+<lat>-35.5</lat>
+<lng>144.75</lng>
+<geonameId>2174189</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="NSW">02</adminCode1>
+<adminName1>New South Wales</adminName1>
+<adminCode2>15500</adminCode2>
+<adminName2>Murray Shire</adminName2>
+<timezone dstOffset="10.0" gmtOffset="11.0">Australia/Sydney</timezone>
+<bbox>
+<west>144.73895</west>
+<north>-35.49101</north>
+<east>144.76105</east>
+<south>-35.50899</south>
+</bbox>
+<score>45.98583984375</score>
+</geoname>
+</geonames>

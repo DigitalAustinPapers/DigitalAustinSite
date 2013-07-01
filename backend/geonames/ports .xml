@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Ports</toponymName>
+<name>Ports</name>
+<lat>47.01576</lat>
+<lng>0.55398</lng>
+<geonameId>2985938</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>359</population>
+<alternateNames>Ports</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="F">A3</adminCode1>
+<adminName1>Centre</adminName1>
+<adminCode2>37</adminCode2>
+<adminName2>Indre and Loire</adminName2>
+<adminCode3>371</adminCode3>
+<adminName3>Arrondissement de Chinon</adminName3>
+<adminCode4>37187</adminCode4>
+<adminName4>Ports</adminName4>
+<alternateName lang="post">37800</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>0.55266</west>
+<north>47.01666</north>
+<east>0.5553</east>
+<south>47.01486</south>
+</bbox>
+<score>54.916343688964844</score>
+</geoname>
+<geoname>
+<toponymName>Ports</toponymName>
+<name>Ports</name>
+<lat>47.01556</lat>
+<lng>0.55389</lng>
+<geonameId>6433084</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population>356</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="F">A3</adminCode1>
+<adminName1>Centre</adminName1>
+<adminCode2>37</adminCode2>
+<adminName2>Indre and Loire</adminName2>
+<adminCode3>371</adminCode3>
+<adminName3>Arrondissement de Chinon</adminName3>
+<adminCode4>37187</adminCode4>
+<adminName4>Ports</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ports%2C_Indre-et-Loire</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>0.499</west>
+<north>47.03617</north>
+<east>0.56774</east>
+<south>46.99632</south>
+</bbox>
+<score>44.83900833129883</score>
+</geoname>
+</geonames>

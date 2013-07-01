@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>26</totalResultsCount>
+<geoname>
+<toponymName>Lombardy</toponymName>
+<name>Lombardy</name>
+<lat>44.81681</lat>
+<lng>-76.08267</lng>
+<geonameId>6058537</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ON">08</adminCode1>
+<adminName1>Ontario</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lombardy%2C_Ontario</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Toronto</timezone>
+<score>53.39743423461914</score>
+</geoname>
+<geoname>
+<toponymName>Lombardy</toponymName>
+<name>Lombardy</name>
+<lat>-31.70758</lat>
+<lng>26.32038</lng>
+<geonameId>982333</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="EC">05</adminCode1>
+<adminName1>Eastern Cape</adminName1>
+<adminCode2>DC13</adminCode2>
+<adminName2>Chris Hani District Municipality</adminName2>
+<adminCode3>EC132</adminCode3>
+<adminName3>Tsolwana</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<bbox>
+<west>26.30981</west>
+<north>-31.69858</north>
+<east>26.33096</east>
+<south>-31.71657</south>
+</bbox>
+<score>35.598289489746094</score>
+</geoname>
+<geoname>
+<toponymName>Lombardy</toponymName>
+<name>Lombardy</name>
+<lat>33.90567</lat>
+<lng>-90.60704</lng>
+<geonameId>4434036</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>43</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MS">MS</adminCode1>
+<adminName1>Mississippi</adminName1>
+<adminCode2>133</adminCode2>
+<adminName2>Sunflower County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.61788</west>
+<north>33.91466</north>
+<east>-90.5962</east>
+<south>33.89667</south>
+</bbox>
+<score>35.598289489746094</score>
+</geoname>
+<geoname>
+<toponymName>Regione Lombardia</toponymName>
+<name>Lombardy</name>
+<lat>45.66667</lat>
+<lng>9.5</lng>
+<geonameId>3174618</geonameId>
+<countryCode>IT</countryCode>
+<countryName>Italy</countryName>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>first-order administrative division</fcodeName>
+<population>9826141</population>
+<alternateNames>Llombardia,Lombardei,Lombardia,Lombardie,Lombardiet,Lombardije,Lombardy,Lombardía,Region de Lombardia,Región de Lombardía</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="25">09</adminCode1>
+<adminName1>Lombardy</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ca">Llombardia</alternateName>
+<alternateName lang="de">Lombardei</alternateName>
+<alternateName lang="en">Lombardy</alternateName>
+<alternateName lang="es">Lombardía</alternateName>
+<alternateName lang="fr">Lombardie</alternateName>
+<alternateName lang="it">Lombardia</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lombardy</alternateName>
+<alternateName lang="nl">Lombardije</alternateName>
+<alternateName lang="sv">Lombardiet</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Rome</timezone>
+<bbox>
+<west>8.49941</west>
+<north>46.63608</north>
+<east>11.42868</east>
+<south>44.6809</south>
+</bbox>
+<score>31.464738845825195</score>
+</geoname>
+<geoname>
+<toponymName>Lombardi</toponymName>
+<name>Lombardi</name>
+<lat>38.44602</lat>
+<lng>-120.0663</lng>
+<geonameId>5367758</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>2111</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>009</adminCode2>
+<adminName2>Calaveras County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lombardi%2C_California</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-120.07778</west>
+<north>38.45502</north>
+<east>-120.05481</east>
+<south>38.43703</south>
+</bbox>
+<score>21.93405532836914</score>
+</geoname>
+<geoname>
+<toponymName>Lombard</toponymName>
+<name>Lombard</name>
+<lat>41.88003</lat>
+<lng>-88.00784</lng>
+<geonameId>4900373</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>43165</population>
+<alternateNames>Lombard,Ломбард</alternateNames>
+<elevation>219</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>043</adminCode2>
+<adminName2>DuPage County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lombard%2C_Illinois</alternateName>
+<alternateName lang="post">60148</alternateName>
+<alternateName lang="ru">Ломбард</alternateName>
+<alternateName lang="unlc">LOM</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-88.05154</west>
+<north>41.91507</north>
+<east>-87.98725</east>
+<south>41.83161</south>
+</bbox>
+<score>19.611520767211914</score>
+</geoname>
+<geoname>
+<toponymName>Lombardi</toponymName>
+<name>Lombardi</name>
+<lat>41.25</lat>
+<lng>14.46667</lng>
+<geonameId>3174619</geonameId>
+<countryCode>IT</countryCode>
+<countryName>Italy</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="72">04</adminCode1>
+<adminName1>Campania</adminName1>
+<adminCode2>BN</adminCode2>
+<adminName2>Provincia di Benevento</adminName2>
+<adminCode3>062029</adminCode3>
+<adminName3>Faicchio</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Rome</timezone>
+<bbox>
+<west>14.4547</west>
+<north>41.25899</north>
+<east>14.47863</east>
+<south>41.24101</south>
+</bbox>
+<score>14.622703552246094</score>
+</geoname>
+<geoname>
+<toponymName>Lombard</toponymName>
+<name>Lombard</name>
+<lat>44.95913</lat>
+<lng>-90.7393</lng>
+<geonameId>5260728</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>375</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WI">WI</adminCode1>
+<adminName1>Wisconsin</adminName1>
+<adminCode2>019</adminCode2>
+<adminName2>Clark County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lombard%2C_Wisconsin</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.75201</west>
+<north>44.96813</north>
+<east>-90.72659</east>
+<south>44.95014</south>
+</bbox>
+<score>13.867439270019531</score>
+</geoname>
+<geoname>
+<toponymName>Lombard</toponymName>
+<name>Lombard</name>
+<lat>38.19075</lat>
+<lng>-122.25608</lng>
+<geonameId>5367755</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>19</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>055</adminCode2>
+<adminName2>Napa County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lombard%2C_California</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-122.26753</west>
+<north>38.19974</north>
+<east>-122.24464</east>
+<south>38.18176</south>
+</bbox>
+<score>13.867439270019531</score>
+</geoname>
+<geoname>
+<toponymName>Lombard</toponymName>
+<name>Lombard</name>
+<lat>46.10743</lat>
+<lng>-111.39885</lng>
+<geonameId>5663284</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1218</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MT">MT</adminCode1>
+<adminName1>Montana</adminName1>
+<adminCode2>007</adminCode2>
+<adminName2>Broadwater County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lombard%2C_Montana</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<bbox>
+<west>-111.41183</west>
+<north>46.11642</north>
+<east>-111.38588</east>
+<south>46.09844</south>
+</bbox>
+<score>13.867439270019531</score>
+</geoname>
+</geonames>

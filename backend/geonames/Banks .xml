@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>20</totalResultsCount>
+<geoname>
+<toponymName>Banks</toponymName>
+<name>Banks</name>
+<lat>53.68333</lat>
+<lng>-2.91667</lng>
+<geonameId>2656388</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3434</population>
+<alternateNames>Banks</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H2</adminCode2>
+<adminName2>Lancashire</adminName2>
+<adminCode3>30UP</adminCode3>
+<adminName3>West Lancashire District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Banks%2C_Lancashire</alternateName>
+<alternateName lang="unlc">BQK</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.92741</west>
+<north>53.68969</north>
+<east>-2.90593</east>
+<south>53.67697</south>
+</bbox>
+<score>72.26327514648438</score>
+</geoname>
+<geoname>
+<toponymName>Banks</toponymName>
+<name>Banks</name>
+<lat>33.57483</lat>
+<lng>-92.26903</lng>
+<geonameId>4100255</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>124</population>
+<alternateNames/>
+<elevation>63</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">AR</adminCode1>
+<adminName1>Arkansas</adminName1>
+<adminCode2>011</adminCode2>
+<adminName2>Bradley County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Banks%2C_Arkansas</alternateName>
+<alternateName lang="post">71631</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.27011</west>
+<north>33.57573</north>
+<east>-92.26795</east>
+<south>33.57393</south>
+</bbox>
+<score>59.002716064453125</score>
+</geoname>
+<geoname>
+<toponymName>Banks</toponymName>
+<name>Banks</name>
+<lat>34.82593</lat>
+<lng>-90.22982</lng>
+<geonameId>4416927</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>61</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MS">MS</adminCode1>
+<adminName1>Mississippi</adminName1>
+<adminCode2>143</adminCode2>
+<adminName2>Tunica County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Banks%2C_Mississippi</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.24077</west>
+<north>34.83493</north>
+<east>-90.21886</east>
+<south>34.81694</south>
+</bbox>
+<score>59.002716064453125</score>
+</geoname>
+<geoname>
+<toponymName>Banks</toponymName>
+<name>Banks</name>
+<lat>31.81516</lat>
+<lng>-85.843</lng>
+<geonameId>4831273</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>179</population>
+<alternateNames/>
+<elevation>169</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AL">AL</adminCode1>
+<adminName1>Alabama</adminName1>
+<adminCode2>109</adminCode2>
+<adminName2>Pike County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Banks%2C_Alabama</alternateName>
+<alternateName lang="post">36005</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-85.84406</west>
+<north>31.81606</north>
+<east>-85.84195</east>
+<south>31.81426</south>
+</bbox>
+<score>59.002716064453125</score>
+</geoname>
+<geoname>
+<toponymName>Banks</toponymName>
+<name>Banks</name>
+<lat>44.08045</lat>
+<lng>-116.12402</lng>
+<geonameId>5584615</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>17</population>
+<alternateNames/>
+<elevation>878</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ID">ID</adminCode1>
+<adminName1>Idaho</adminName1>
+<adminCode2>015</adminCode2>
+<adminName2>Boise County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Banks%2C_Idaho</alternateName>
+<alternateName lang="post">83602</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Boise</timezone>
+<bbox>
+<west>-116.14153</west>
+<north>44.099</north>
+<east>-116.11205</east>
+<south>44.05771</south>
+</bbox>
+<score>59.002716064453125</score>
+</geoname>
+<geoname>
+<toponymName>Banks</toponymName>
+<name>Banks</name>
+<lat>45.61872</lat>
+<lng>-123.11428</lng>
+<geonameId>5712430</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1777</population>
+<alternateNames/>
+<elevation>65</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OR">OR</adminCode1>
+<adminName1>Oregon</adminName1>
+<adminCode2>067</adminCode2>
+<adminName2>Washington County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Banks%2C_Oregon</alternateName>
+<alternateName lang="post">97106</alternateName>
+<alternateName lang="unlc">NKS</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-123.12071</west>
+<north>45.62322</north>
+<east>-123.10785</east>
+<south>45.61423</south>
+</bbox>
+<score>59.002716064453125</score>
+</geoname>
+<geoname>
+<toponymName>Banks</toponymName>
+<name>Banks</name>
+<lat>54.9737</lat>
+<lng>-2.67152</lng>
+<geonameId>7698772</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C9</adminCode2>
+<adminName2>Cumbria</adminName2>
+<adminCode3>16UD</adminCode3>
+<adminName3>Carlisle District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Banks%2C_Cumbria</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.6872</west>
+<north>54.98269</north>
+<east>-2.65585</east>
+<south>54.9647</south>
+</bbox>
+<score>59.002716064453125</score>
+</geoname>
+<geoname>
+<toponymName>Banks</toponymName>
+<name>Banks</name>
+<lat>-35.47194</lat>
+<lng>149.09965</lng>
+<geonameId>8348388</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="ACT">01</adminCode1>
+<adminName1>Australian Capital Territory</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Banks%2C_Australian_Capital_Territory</alternateName>
+<timezone dstOffset="10.0" gmtOffset="11.0">Australia/Sydney</timezone>
+<bbox>
+<west>149.09079</west>
+<north>-35.46339</north>
+<east>149.11102</east>
+<south>-35.48034</south>
+</bbox>
+<score>49.16893005371094</score>
+</geoname>
+<geoname>
+<toponymName>Banks</toponymName>
+<name>Banks</name>
+<lat>59.08333</lat>
+<lng>-3.03333</lng>
+<geonameId>2656387</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>T</fcl>
+<fcode>PT</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>point</fcodeName>
+<population/>
+<alternateNames>Banks,Banks Point</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>V9</adminCode2>
+<adminName2>Orkney</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>48.17551803588867</score>
+</geoname>
+<geoname>
+<toponymName>Banks</toponymName>
+<name>Banks</name>
+<lat>18.45</lat>
+<lng>-77.23333</lng>
+<geonameId>3491471</geonameId>
+<countryCode>JM</countryCode>
+<countryName>Jamaica</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="06">09</adminCode1>
+<adminName1>Saint Ann</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Jamaica</timezone>
+<bbox>
+<west>-77.24281</west>
+<north>18.45899</north>
+<east>-77.22385</east>
+<south>18.44101</south>
+</bbox>
+<score>39.33514404296875</score>
+</geoname>
+</geonames>

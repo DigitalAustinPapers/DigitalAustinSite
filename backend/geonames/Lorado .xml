@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>12</totalResultsCount>
+<geoname>
+<toponymName>Lorado</toponymName>
+<name>Lorado</name>
+<lat>37.79566</lat>
+<lng>-81.71484</lng>
+<geonameId>4813096</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>378</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WV">WV</adminCode1>
+<adminName1>West Virginia</adminName1>
+<adminCode2>045</adminCode2>
+<adminName2>Logan County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lorado%2C_West_Virginia</alternateName>
+<alternateName lang="post">25630</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-81.72622</west>
+<north>37.80466</north>
+<east>-81.70345</east>
+<south>37.78667</south>
+</bbox>
+<score>62.503944396972656</score>
+</geoname>
+<geoname>
+<toponymName>Lorado</toponymName>
+<name>Lorado</name>
+<lat>35.98924</lat>
+<lng>-90.71761</lng>
+<geonameId>4119853</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>115</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">AR</adminCode1>
+<adminName1>Arkansas</adminName1>
+<adminCode2>055</adminCode2>
+<adminName2>Greene County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.72873</west>
+<north>35.99823</north>
+<east>-90.7065</east>
+<south>35.98024</south>
+</bbox>
+<score>41.66929626464844</score>
+</geoname>
+<geoname>
+<toponymName>Lorado</toponymName>
+<name>Lorado</name>
+<lat>59.50043</lat>
+<lng>-108.6682</lng>
+<geonameId>6060250</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>P</fcl>
+<fcode>PPLL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SK">11</adminCode1>
+<adminName1>Saskatchewan</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Regina</timezone>
+<bbox>
+<west>-108.66997</west>
+<north>59.50132</north>
+<east>-108.66643</east>
+<south>59.49953</south>
+</bbox>
+<score>26.043310165405273</score>
+</geoname>
+<geoname>
+<toponymName>Loredo</toponymName>
+<name>Loredo</name>
+<lat>43.46054</lat>
+<lng>-3.72003</lng>
+<geonameId>3118088</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Loredo</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="CB">39</adminCode1>
+<adminName1>Cantabria</adminName1>
+<adminCode2>S</adminCode2>
+<adminName2>Cantabria</adminName2>
+<adminCode3>39061</adminCode3>
+<adminName3>Ribamontán al Mar</adminName3>
+<alternateName lang="post">39160</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Madrid</timezone>
+<bbox>
+<west>-3.73243</west>
+<north>43.46953</north>
+<east>-3.70764</east>
+<south>43.45154</south>
+</bbox>
+<score>7.765023708343506</score>
+</geoname>
+<geoname>
+<toponymName>Lorawdo</toponymName>
+<name>Lorawdo</name>
+<lat>19.32657</lat>
+<lng>96.80067</lng>
+<geonameId>1312990</geonameId>
+<countryCode>MM</countryCode>
+<countryName>Myanmar [Burma]</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="13">05</adminCode1>
+<adminName1>Kayin</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="6.5" gmtOffset="6.5">Asia/Rangoon</timezone>
+<bbox>
+<west>96.79114</west>
+<north>19.33556</north>
+<east>96.8102</east>
+<south>19.31758</south>
+</bbox>
+<score>7.5771803855896</score>
+</geoname>
+<geoname>
+<toponymName>Loredo</toponymName>
+<name>Loredo</name>
+<lat>-33.93569</lat>
+<lng>23.50847</lng>
+<geonameId>982130</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>S</fcl>
+<fcode>FRMT</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farmstead</fcodeName>
+<population/>
+<alternateNames>Loredo,Lorido</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="WC">11</adminCode1>
+<adminName1>Western Cape</adminName1>
+<adminCode2>DC4</adminCode2>
+<adminName2>Eden District Municipality</adminName2>
+<adminCode3>WC047</adminCode3>
+<adminName3>Bitou</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<score>6.561450004577637</score>
+</geoname>
+<geoname>
+<toponymName>Loredo</toponymName>
+<name>Loredo</name>
+<lat>43.40278</lat>
+<lng>-6.74479</lng>
+<geonameId>3118089</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="AS">34</adminCode1>
+<adminName1>Asturias</adminName1>
+<adminCode2>O</adminCode2>
+<adminName2>Asturias</adminName2>
+<adminCode3>33077</adminCode3>
+<adminName3>Villayón</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Madrid</timezone>
+<bbox>
+<west>-6.75717</west>
+<north>43.41177</north>
+<east>-6.73241</east>
+<south>43.39379</south>
+</bbox>
+<score>6.340115070343018</score>
+</geoname>
+<geoname>
+<toponymName>Loredo</toponymName>
+<name>Loredo</name>
+<lat>43.32249</lat>
+<lng>-6.06527</lng>
+<geonameId>3118090</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="AS">34</adminCode1>
+<adminName1>Asturias</adminName1>
+<adminCode2>O</adminCode2>
+<adminName2>Asturias</adminName2>
+<adminCode3>33026</adminCode3>
+<adminName3>Grado</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Madrid</timezone>
+<bbox>
+<west>-6.07764</west>
+<north>43.33148</north>
+<east>-6.05291</east>
+<south>43.31349</south>
+</bbox>
+<score>6.340115070343018</score>
+</geoname>
+<geoname>
+<toponymName>Loredo</toponymName>
+<name>Loredo</name>
+<lat>-6.46667</lat>
+<lng>-38.93333</lng>
+<geonameId>3396154</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="CE">06</adminCode1>
+<adminName1>Ceará</adminName1>
+<adminCode2>2305407</adminCode2>
+<adminName2>Icó</adminName2>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Fortaleza</timezone>
+<bbox>
+<west>-38.94238</west>
+<north>-6.45767</north>
+<east>-38.92428</east>
+<south>-6.47566</south>
+</bbox>
+<score>6.340115070343018</score>
+</geoname>
+<geoname>
+<toponymName>Lonadu</toponymName>
+<name>Lonadu</name>
+<lat>2.04695</lat>
+<lng>30.81939</lng>
+<geonameId>211317</geonameId>
+<countryCode>CD</countryCode>
+<countryName>Democratic Republic of the Congo</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Lonadu,Loradu</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="OR">09</adminCode1>
+<adminName1>Eastern Province</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Lubumbashi</timezone>
+<bbox>
+<west>30.81039</west>
+<north>2.05594</north>
+<east>30.82839</east>
+<south>2.03796</south>
+</bbox>
+<score>5.357875823974609</score>
+</geoname>
+</geonames>

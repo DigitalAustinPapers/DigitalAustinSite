@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>7</totalResultsCount>
+<geoname>
+<toponymName>Lawyer</toponymName>
+<name>Lawyer</name>
+<lat>17.48333</lat>
+<lng>-62.95</lng>
+<geonameId>3513542</geonameId>
+<countryCode>BQ</countryCode>
+<countryName>Bonaire</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SE">SE</adminCode1>
+<adminName1>Sint Eustatius</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Kralendijk</timezone>
+<score>44.24394607543945</score>
+</geoname>
+<geoname>
+<toponymName>Lawler</toponymName>
+<name>Lawler</name>
+<lat>43.07053</lat>
+<lng>-92.15017</lng>
+<geonameId>4864287</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>439</population>
+<alternateNames/>
+<elevation>330</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IA">IA</adminCode1>
+<adminName1>Iowa</adminName1>
+<adminCode2>037</adminCode2>
+<adminName2>Chickasaw County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lawler%2C_Iowa</alternateName>
+<alternateName lang="post">52154</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.1514</west>
+<north>43.07143</north>
+<east>-92.14894</east>
+<south>43.06963</south>
+</bbox>
+<score>9.849364280700684</score>
+</geoname>
+<geoname>
+<toponymName>Lawler</toponymName>
+<name>Lawler</name>
+<lat>37.7281</lat>
+<lng>-88.28587</lng>
+<geonameId>4242754</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>112</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>059</adminCode2>
+<adminName2>Gallatin County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-88.29725</west>
+<north>37.7371</north>
+<east>-88.2745</east>
+<south>37.71911</south>
+</bbox>
+<score>6.566242694854736</score>
+</geoname>
+<geoname>
+<toponymName>Lawler</toponymName>
+<name>Lawler</name>
+<lat>46.53606</lat>
+<lng>-93.1705</lng>
+<geonameId>5034266</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>401</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MN">MN</adminCode1>
+<adminName1>Minnesota</adminName1>
+<adminCode2>001</adminCode2>
+<adminName2>Aitkin County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-93.18358</west>
+<north>46.54505</north>
+<east>-93.15743</east>
+<south>46.52706</south>
+</bbox>
+<score>6.566242694854736</score>
+</geoname>
+<geoname>
+<toponymName>Lawyers</toponymName>
+<name>Lawyers</name>
+<lat>37.29987</lat>
+<lng>-79.21169</lng>
+<geonameId>4768914</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>242</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>031</adminCode2>
+<adminName2>Campbell County</adminName2>
+<alternateName lang="unlc">LW2</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-79.223</west>
+<north>37.30886</north>
+<east>-79.20038</east>
+<south>37.29087</south>
+</bbox>
+<score>5.530488014221191</score>
+</geoname>
+<geoname>
+<toponymName>Lagernyy</toponymName>
+<name>Lagernyy</name>
+<lat>73.33389</lat>
+<lng>54.36111</lng>
+<geonameId>537182</geonameId>
+<countryCode>RU</countryCode>
+<countryName>Russia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Lagernoe,Lagernoye,Lagernyj,Lagernyy,Lagyer,Stanovische Lagernoye,Stanovishche Lagernoye,Лагерный</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ARK">06</adminCode1>
+<adminName1>Arkhangelskaya</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Lagernyy</alternateName>
+<alternateName lang="no">Lagernyj</alternateName>
+<alternateName lang="ru">Лагерный</alternateName>
+<timezone dstOffset="4.0" gmtOffset="4.0">Europe/Moscow</timezone>
+<bbox>
+<west>54.32974</west>
+<north>73.34288</north>
+<east>54.39249</east>
+<south>73.3249</south>
+</bbox>
+<score>4.562419891357422</score>
+</geoname>
+<geoname>
+<toponymName>Lawler</toponymName>
+<name>Lawler</name>
+<lat>43.0697</lat>
+<lng>-92.15295</lng>
+<geonameId>4864286</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>331</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IA">IA</adminCode1>
+<adminName1>Iowa</adminName1>
+<adminCode2>037</adminCode2>
+<adminName2>Chickasaw County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>2.0519509315490723</score>
+</geoname>
+</geonames>

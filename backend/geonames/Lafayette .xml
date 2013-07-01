@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>31</totalResultsCount>
+<geoname>
+<toponymName>Lafayette</toponymName>
+<name>Lafayette</name>
+<lat>30.22409</lat>
+<lng>-92.01984</lng>
+<geonameId>4330145</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>120623</population>
+<alternateNames>LFT,Lafajet,Lafajett,Lafayette,la fa ye,lapeies,lfyt, lwyyzyana,rafaietto,Лафайет,Лафайетт,لفیت، لوئیزیانا,ラファイエット,拉法葉,라페이엣</alternateNames>
+<elevation>11</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>055</adminCode2>
+<adminName2>Lafayette Parish</adminName2>
+<alternateName lang="de">Lafayette</alternateName>
+<alternateName lang="en">Lafayette</alternateName>
+<alternateName lang="fa">لفیت، لوئیزیانا</alternateName>
+<alternateName lang="fr">Lafayette</alternateName>
+<alternateName lang="iata">LFT</alternateName>
+<alternateName lang="ja">ラファイエット</alternateName>
+<alternateName lang="ko">라페이엣</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lafayette%2C_Louisiana</alternateName>
+<alternateName lang="nl">Lafayette</alternateName>
+<alternateName lang="pl">Lafayette</alternateName>
+<alternateName lang="post">70508</alternateName>
+<alternateName lang="pt">Lafayette</alternateName>
+<alternateName lang="ru">Лафайет</alternateName>
+<alternateName lang="sv">Lafayette</alternateName>
+<alternateName lang="unlc">LFT</alternateName>
+<alternateName lang="zh">拉法葉</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.10777</west>
+<north>30.2965</north>
+<east>-91.96938</east>
+<south>30.12749</south>
+</bbox>
+<score>71.92208862304688</score>
+</geoname>
+<geoname>
+<toponymName>Lafayette</toponymName>
+<name>Lafayette</name>
+<lat>40.4167</lat>
+<lng>-86.87529</lng>
+<geonameId>4922462</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>67140</population>
+<alternateNames>LAF,Lafajet,Lafayette,la fei te,lapeies,lfyt, ayndyana,rafaietto,Лафайет,لفیت، ایندیانا,ラファイエット,拉斐特,라페이엣</alternateNames>
+<elevation>211</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IN">IN</adminCode1>
+<adminName1>Indiana</adminName1>
+<adminCode2>157</adminCode2>
+<adminName2>Tippecanoe County</adminName2>
+<alternateName lang="bg">Лафайет</alternateName>
+<alternateName lang="en">Lafayette</alternateName>
+<alternateName lang="fa">لفیت، ایندیانا</alternateName>
+<alternateName lang="fr">Lafayette</alternateName>
+<alternateName lang="iata">LAF</alternateName>
+<alternateName lang="io">Lafayette</alternateName>
+<alternateName lang="ja">ラファイエット</alternateName>
+<alternateName lang="ko">라페이엣</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lafayette%2C_Indiana</alternateName>
+<alternateName lang="pl">Lafayette</alternateName>
+<alternateName lang="post">47903</alternateName>
+<alternateName lang="ru">Лафайет</alternateName>
+<alternateName lang="zh">拉斐特</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Indiana/Indianapolis</timezone>
+<bbox>
+<west>-86.91911</west>
+<north>40.45005</north>
+<east>-86.83146</east>
+<south>40.38335</south>
+</bbox>
+<score>58.72414016723633</score>
+</geoname>
+<geoname>
+<toponymName>Lafayette</toponymName>
+<name>Lafayette</name>
+<lat>32.89985</lat>
+<lng>-85.40106</lng>
+<geonameId>4071267</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>3003</population>
+<alternateNames>La Fayette,LaFayette,Lafajet,Лафайет</alternateNames>
+<elevation>257</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AL">AL</adminCode1>
+<adminName1>Alabama</adminName1>
+<adminCode2>017</adminCode2>
+<adminName2>Chambers County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/LaFayette%2C_Alabama</alternateName>
+<alternateName lang="post">36862</alternateName>
+<alternateName lang="ru">Лафайет</alternateName>
+<alternateName lang="unlc">YTF</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-85.42655</west>
+<north>32.92189</north>
+<east>-85.37439</east>
+<south>32.87778</south>
+</bbox>
+<score>56.1790657043457</score>
+</geoname>
+<geoname>
+<toponymName>LaFayette</toponymName>
+<name>LaFayette</name>
+<lat>34.7048</lat>
+<lng>-85.2819</lng>
+<geonameId>4204241</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>7121</population>
+<alternateNames/>
+<elevation>250</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">GA</adminCode1>
+<adminName1>Georgia</adminName1>
+<adminCode2>295</adminCode2>
+<adminName2>Walker County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/LaFayette%2C_Georgia</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-85.29413</west>
+<north>34.71486</north>
+<east>-85.26967</east>
+<south>34.69475</south>
+</bbox>
+<score>50.85659408569336</score>
+</geoname>
+<geoname>
+<toponymName>LaFayette</toponymName>
+<name>LaFayette</name>
+<lat>36.68116</lat>
+<lng>-87.62029</lng>
+<geonameId>4297241</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>165</population>
+<alternateNames/>
+<elevation>182</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>047</adminCode2>
+<adminName2>Christian County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/LaFayette%2C_Kentucky</alternateName>
+<alternateName lang="unlc">QLK</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-87.62141</west>
+<north>36.68206</north>
+<east>-87.61917</east>
+<south>36.68026</south>
+</bbox>
+<score>50.85659408569336</score>
+</geoname>
+<geoname>
+<toponymName>Lafayette</toponymName>
+<name>Lafayette</name>
+<lat>37.23624</lat>
+<lng>-80.21143</lng>
+<geonameId>4768134</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>449</population>
+<alternateNames/>
+<elevation>366</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>121</adminCode2>
+<adminName2>Montgomery County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lafayette%2C_Virginia</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-80.21256</west>
+<north>37.23714</north>
+<east>-80.2103</east>
+<south>37.23534</south>
+</bbox>
+<score>50.85659408569336</score>
+</geoname>
+<geoname>
+<toponymName>LaFayette</toponymName>
+<name>LaFayette</name>
+<lat>42.89229</lat>
+<lng>-76.1052</lng>
+<geonameId>5123704</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>345</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>067</adminCode2>
+<adminName2>Onondaga County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/LaFayette%2C_New_York</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-76.11748</west>
+<north>42.90128</north>
+<east>-76.09292</east>
+<south>42.8833</south>
+</bbox>
+<score>50.85659408569336</score>
+</geoname>
+<geoname>
+<toponymName>Lafayette</toponymName>
+<name>Lafayette</name>
+<lat>37.88576</lat>
+<lng>-122.11802</lng>
+<geonameId>5364226</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>23893</population>
+<alternateNames>Lafajet,Лафайет</alternateNames>
+<elevation>94</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>013</adminCode2>
+<adminName2>Contra Costa County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lafayette%2C_California</alternateName>
+<alternateName lang="post">94549</alternateName>
+<alternateName lang="ru">Лафайет</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-122.14286</west>
+<north>37.90536</north>
+<east>-122.09318</east>
+<south>37.86616</south>
+</bbox>
+<score>50.85659408569336</score>
+</geoname>
+<geoname>
+<toponymName>Lafayette</toponymName>
+<name>Lafayette</name>
+<lat>39.9936</lat>
+<lng>-105.08971</lng>
+<geonameId>5427771</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>24453</population>
+<alternateNames>Lafajet,Лафайет</alternateNames>
+<elevation>1588</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CO">CO</adminCode1>
+<adminName1>Colorado</adminName1>
+<adminCode2>013</adminCode2>
+<adminName2>Boulder County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lafayette%2C_Colorado</alternateName>
+<alternateName lang="post">80026</alternateName>
+<alternateName lang="ru">Лафайет</alternateName>
+<alternateName lang="unlc">LFY</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<bbox>
+<west>-105.11596</west>
+<north>40.01371</north>
+<east>-105.06345</east>
+<south>39.97349</south>
+</bbox>
+<score>50.85659408569336</score>
+</geoname>
+<geoname>
+<toponymName>Bougaa</toponymName>
+<name>Bougaa</name>
+<lat>36.33293</lat>
+<lng>5.08843</lng>
+<geonameId>2503156</geonameId>
+<countryCode>DZ</countryCode>
+<countryName>Algeria</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>38597</population>
+<alternateNames>Bougaa,Lafayette</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="19">12</adminCode1>
+<adminName1>Sétif</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bougaa</alternateName>
+<timezone dstOffset="1.0" gmtOffset="1.0">Africa/Algiers</timezone>
+<bbox>
+<west>5.05684</west>
+<north>36.35837</north>
+<east>5.12001</east>
+<south>36.30749</south>
+</bbox>
+<score>47.94805908203125</score>
+</geoname>
+</geonames>

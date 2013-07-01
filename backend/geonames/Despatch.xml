@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Despatch</toponymName>
+<name>Despatch</name>
+<lat>-33.80172</lat>
+<lng>25.46284</lng>
+<geonameId>1010717</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Despatch</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="EC">05</adminCode1>
+<adminName1>Eastern Cape</adminName1>
+<adminCode2>NMA</adminCode2>
+<adminName2>Nelson Mandela Bay Metropolitan Municipality</adminName2>
+<adminCode3>NMA</adminCode3>
+<adminName3>Nelson Mandela Bay</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Despatch%2C_Eastern_Cape</alternateName>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<bbox>
+<west>25.45202</west>
+<north>-33.79273</north>
+<east>25.47366</east>
+<south>-33.81071</south>
+</bbox>
+<score>79.72019958496094</score>
+</geoname>
+<geoname>
+<toponymName>Despatch Rock</toponymName>
+<name>Despatch Rock</name>
+<lat>-33.98175</lat>
+<lng>25.6967</lng>
+<geonameId>1010715</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>T</fcl>
+<fcode>RK</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>rock</fcodeName>
+<population/>
+<alternateNames>Despatch,Despatch Rock,Roman Rock</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="EC">05</adminCode1>
+<adminName1>Eastern Cape</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<score>30.68431854248047</score>
+</geoname>
+<geoname>
+<toponymName>Despatch</toponymName>
+<name>Despatch</name>
+<lat>-33.8</lat>
+<lng>25.46667</lng>
+<geonameId>1010716</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>S</fcl>
+<fcode>RSTN</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>railroad station</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="EC">05</adminCode1>
+<adminName1>Eastern Cape</adminName1>
+<adminCode2>NMA</adminCode2>
+<adminName2>Nelson Mandela Bay Metropolitan Municipality</adminName2>
+<adminCode3>NMA</adminCode3>
+<adminName3>Nelson Mandela Bay</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<score>13.560681343078613</score>
+</geoname>
+<geoname>
+<toponymName>Despatch</toponymName>
+<name>Despatch</name>
+<lat>-20.8182</lat>
+<lng>28.17981</lng>
+<geonameId>892444</geonameId>
+<countryCode>ZW</countryCode>
+<countryName>Zimbabwe</countryName>
+<fcl>S</fcl>
+<fcode>FRM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farm</fcodeName>
+<population/>
+<alternateNames>Despatch</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="MS">07</adminCode1>
+<adminName1>Matabeleland South</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Despatch</alternateName>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Harare</timezone>
+<score>13.286699295043945</score>
+</geoname>
+</geonames>

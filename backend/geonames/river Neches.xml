@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>River Sèche</toponymName>
+<name>River Sèche</name>
+<lat>-20.25806</lat>
+<lng>57.78611</lng>
+<geonameId>934011</geonameId>
+<countryCode>MU</countryCode>
+<countryName>Mauritius</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>River Seche,River Sèche,Riviere Seche,Rivière Sèche,Seche,Séché</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="FL">13</adminCode1>
+<adminName1>Flacq</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="4.0" gmtOffset="4.0">Indian/Mauritius</timezone>
+<score>31.130605697631836</score>
+</geoname>
+<geoname>
+<toponymName>River Sèche</toponymName>
+<name>River Sèche</name>
+<lat>-20.24861</lat>
+<lng>57.48194</lng>
+<geonameId>934012</geonameId>
+<countryCode>MU</countryCode>
+<countryName>Mauritius</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>River Seche,River Sèche,Riviere Seche,Rivière Sèche</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="PW">17</adminCode1>
+<adminName1>Plaines Wilhems</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="4.0" gmtOffset="4.0">Indian/Mauritius</timezone>
+<score>23.34795379638672</score>
+</geoname>
+<geoname>
+<toponymName>River Sèche Station</toponymName>
+<name>River Sèche Station</name>
+<lat>-20.25361</lat>
+<lng>57.77417</lng>
+<geonameId>934099</geonameId>
+<countryCode>MU</countryCode>
+<countryName>Mauritius</countryName>
+<fcl>S</fcl>
+<fcode>RSTNQ</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>abandoned railroad station</fcodeName>
+<population/>
+<alternateNames>River Seche,River Seche Station,River Sèche Station,River Séche,Riviere Seche,Rivière Seche</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="FL">13</adminCode1>
+<adminName1>Flacq</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="4.0" gmtOffset="4.0">Indian/Mauritius</timezone>
+<score>22.012662887573242</score>
+</geoname>
+</geonames>

@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>402</totalResultsCount>
+<geoname>
+<toponymName>Holguín</toponymName>
+<name>Holguín</name>
+<lat>20.88722</lat>
+<lng>-76.26306</lng>
+<geonameId>3556969</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population>319102</population>
+<alternateNames>HOG,Holguin,Holguín,Holquin,Ol'gin,hwlgyn,orugin,Ольгин,הולגין,オルギン</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="11">12</adminCode1>
+<adminName1>Holguín</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="de">Holguín</alternateName>
+<alternateName lang="en">Holguín</alternateName>
+<alternateName lang="es">Holguín</alternateName>
+<alternateName lang="fr">Holguín</alternateName>
+<alternateName lang="he">הולגין</alternateName>
+<alternateName lang="iata">HOG</alternateName>
+<alternateName lang="ja">オルギン</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Holgu%C3%ADn</alternateName>
+<alternateName lang="pl">Holguín</alternateName>
+<alternateName lang="ru">Ольгин</alternateName>
+<alternateName lang="unlc">HOG</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<bbox>
+<west>-76.34145</west>
+<north>20.96043</north>
+<east>-76.18467</east>
+<south>20.81402</south>
+</bbox>
+<score>38.334312438964844</score>
+</geoname>
+<geoname>
+<toponymName>Ganj Gīn</toponymName>
+<name>Ganj Gīn</name>
+<lat>32.46998</lat>
+<lng>62.11565</lng>
+<geonameId>1141932</geonameId>
+<countryCode>AF</countryCode>
+<countryName>Afghanistan</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Gaj Kan,Gajkin,Gandzhgin,Ganj Gin,Ganj Gīn,Ganjgin,Ganjgīn,Ganjkin,Ganjkīn,Konj Gin,Konj Gīn,gnj gyn,gnjkyn,گنج گین,گنجكين</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="FRA">06</adminCode1>
+<adminName1>Farah</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="4.5" gmtOffset="4.5">Asia/Kabul</timezone>
+<bbox>
+<west>62.10499</west>
+<north>32.47897</north>
+<east>62.12631</east>
+<south>32.46098</south>
+</bbox>
+<score>30.978801727294922</score>
+</geoname>
+<geoname>
+<toponymName>Deh Gīn</toponymName>
+<name>Deh Gīn</name>
+<lat>27.7657</lat>
+<lng>57.1952</lng>
+<geonameId>6988388</geonameId>
+<countryCode>IR</countryCode>
+<countryName>Iran</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Deh Gin,Deh Gīn,dh gyn,ده گین</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="fa">ده گین</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Deh_Gin</alternateName>
+<timezone dstOffset="4.5" gmtOffset="3.5">Asia/Tehran</timezone>
+<bbox>
+<west>57.18504</west>
+<north>27.77469</north>
+<east>57.20536</east>
+<south>27.75671</south>
+</bbox>
+<score>26.82843017578125</score>
+</geoname>
+<geoname>
+<toponymName>Gāndhīdhām</toponymName>
+<name>Gāndhīdhām</name>
+<lat>23.08333</lat>
+<lng>70.13333</lng>
+<geonameId>1271717</geonameId>
+<countryCode>IN</countryCode>
+<countryName>India</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>166388</population>
+<alternateNames>Gandhidham,Gandi Dham,Gāndhīdhām</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="GJ">09</adminCode1>
+<adminName1>Gujarāt</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Gandhidham</alternateName>
+<alternateName lang="unlc">GIN</alternateName>
+<timezone dstOffset="5.5" gmtOffset="5.5">Asia/Kolkata</timezone>
+<bbox>
+<west>70.07589</west>
+<north>23.13616</north>
+<east>70.19078</east>
+<south>23.03051</south>
+</bbox>
+<score>21.90532112121582</score>
+</geoname>
+<geoname>
+<toponymName>Lac du Gin</toponymName>
+<name>Lac du Gin</name>
+<lat>49.29728</lat>
+<lng>-70.87542</lng>
+<geonameId>6016217</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>H</fcl>
+<fcode>LK</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>lake</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="QC">10</adminCode1>
+<adminName1>Quebec</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Montreal</timezone>
+<score>21.90532112121582</score>
+</geoname>
+<geoname>
+<toponymName>Lac Gin</toponymName>
+<name>Lac Gin</name>
+<lat>48.76683</lat>
+<lng>-74.06582</lng>
+<geonameId>6022777</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>H</fcl>
+<fcode>LK</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>lake</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="QC">10</adminCode1>
+<adminName1>Quebec</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Montreal</timezone>
+<score>21.90532112121582</score>
+</geoname>
+<geoname>
+<toponymName>Lac Gin-Jos</toponymName>
+<name>Lac Gin-Jos</name>
+<lat>48.05093</lat>
+<lng>-74.28725</lng>
+<geonameId>6022806</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>H</fcl>
+<fcode>LK</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>lake</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="QC">10</adminCode1>
+<adminName1>Quebec</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Montreal</timezone>
+<score>21.90532112121582</score>
+</geoname>
+<geoname>
+<toponymName>Gin Gin</toponymName>
+<name>Gin Gin</name>
+<lat>-24.98333</lat>
+<lng>151.95</lng>
+<geonameId>2165530</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>S</fcl>
+<fcode>FRM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farm</fcodeName>
+<population/>
+<alternateNames>Gin Gin</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="QLD">04</adminCode1>
+<adminName1>Queensland</adminName1>
+<adminCode2>31820</adminCode2>
+<adminName2>Bundaberg</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Gin_Gin%2C_Queensland</alternateName>
+<timezone dstOffset="10.0" gmtOffset="10.0">Australia/Brisbane</timezone>
+<score>21.6470947265625</score>
+</geoname>
+<geoname>
+<toponymName>Spil Gin Naray</toponymName>
+<name>Spil Gin Naray</name>
+<lat>33.09972</lat>
+<lng>69.57611</lng>
+<geonameId>1123920</geonameId>
+<countryCode>AF</countryCode>
+<countryName>Afghanistan</countryName>
+<fcl>T</fcl>
+<fcode>PASS</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>pass</fcodeName>
+<population/>
+<alternateNames>Dadam,Dadam Narai,Pereval Spil'ginnaray,Pereval Spil’ginnaray,Spalgin Narai,Spil Gin Naray,Spilgin Narai,spl gyn nry,splgyn nry,سپل گین نری,سپلگین نری</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="fa">سپل گین نری</alternateName>
+<alternateName lang="ru">Pereval Spil’ginnaray</alternateName>
+<timezone dstOffset="4.5" gmtOffset="4.5">Asia/Kabul</timezone>
+<score>21.429533004760742</score>
+</geoname>
+<geoname>
+<toponymName>Gol Gīn</toponymName>
+<name>Gol Gīn</name>
+<lat>34.2858</lat>
+<lng>47.7711</lng>
+<geonameId>133114</geonameId>
+<countryCode>IR</countryCode>
+<countryName>Iran</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Gol Gin,Gol Gīn,Golgin,Golgini,Golgīn,Golgīnī,Gulgin,Gulgīn,gl gyn,gulgyn,gulgyny,گل گین,گُلگين,گُلگينی</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="20">23</adminCode1>
+<adminName1>Lorestān</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="fa">گُلگينی</alternateName>
+<timezone dstOffset="4.5" gmtOffset="3.5">Asia/Tehran</timezone>
+<bbox>
+<west>47.76021</west>
+<north>34.29479</north>
+<east>47.78199</east>
+<south>34.27681</south>
+</bbox>
+<score>20.121322631835938</score>
+</geoname>
+</geonames>

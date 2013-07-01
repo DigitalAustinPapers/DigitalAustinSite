@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>59</totalResultsCount>
+<geoname>
+<toponymName>Monterrey</toponymName>
+<name>Monterrey</name>
+<lat>25.67506</lat>
+<lng>-100.31846</lng>
+<geonameId>3995465</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population>1122874</population>
+<alternateNames>Gorad Mantehrehj,MTY,Monterej,Monterejo,Monterejus,Monterrei,Monterrej,Monterreja,Monterrey,Monterrey City,Monterrey i Nuevo Leon,Monterrey i Nuevo León,Monterėjus,Tlahtoantepec,Tlahtoāntepēc,mamtere,meng te lei,montelei,monterei,mwntrry. nwyww lywn,mwntryy,mwntyry,mxn terrey,Μοντερρέι,Горад Мантэрэй,Монтерей,Монтереј,Монтеррей,מונטריי,مونترری٬ نوئوو لئون,مونتيري,माँतेरे,มอนเตร์เรย์,མཱོན་ཊི་རེ།,მონტერეი,モンテレイ,蒙特雷,몬테레이</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NLE">19</adminCode1>
+<adminName1>Nuevo León</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ar">مونتيري</alternateName>
+<alternateName lang="be">Горад Мантэрэй</alternateName>
+<alternateName lang="bg">Монтерей</alternateName>
+<alternateName lang="bo">མཱོན་ཊི་རེ།</alternateName>
+<alternateName lang="ca">Monterrey</alternateName>
+<alternateName lang="da">Monterrey</alternateName>
+<alternateName lang="de">Monterrey</alternateName>
+<alternateName lang="el">Μοντερρέι</alternateName>
+<alternateName lang="en">Monterrey</alternateName>
+<alternateName lang="eo">Monterejo</alternateName>
+<alternateName lang="es">Monterrey</alternateName>
+<alternateName lang="fa">مونترری٬ نوئوو لئون</alternateName>
+<alternateName lang="fi">Monterrey</alternateName>
+<alternateName lang="fr">Monterrey</alternateName>
+<alternateName lang="he">מונטריי</alternateName>
+<alternateName lang="iata">MTY</alternateName>
+<alternateName lang="id">Monterrey</alternateName>
+<alternateName lang="ja">モンテレイ</alternateName>
+<alternateName lang="ka">მონტერეი</alternateName>
+<alternateName lang="ko">몬테레이</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Monterrey</alternateName>
+<alternateName lang="lt">Monterėjus</alternateName>
+<alternateName lang="lv">Monterreja</alternateName>
+<alternateName lang="mr">माँतेरे</alternateName>
+<alternateName lang="nah">Tlahtoāntepēc</alternateName>
+<alternateName lang="nl">Monterrey</alternateName>
+<alternateName lang="nn">Monterrey i Nuevo León</alternateName>
+<alternateName lang="no">Monterrey</alternateName>
+<alternateName lang="os">Монтеррей</alternateName>
+<alternateName lang="pl">Monterrey</alternateName>
+<alternateName lang="pt">Monterrei</alternateName>
+<alternateName lang="ru">Монтеррей</alternateName>
+<alternateName lang="sr">Монтереј</alternateName>
+<alternateName lang="sv">Monterrey</alternateName>
+<alternateName lang="th">มอนเตร์เรย์</alternateName>
+<alternateName lang="uk">Монтеррей</alternateName>
+<alternateName lang="unlc">MTY</alternateName>
+<alternateName lang="zh">蒙特雷</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<bbox>
+<west>-100.47121</west>
+<north>25.81257</north>
+<east>-100.16572</east>
+<south>25.53756</south>
+</bbox>
+<score>64.6885757446289</score>
+</geoname>
+<geoname>
+<toponymName>Monterrey</toponymName>
+<name>Monterrey</name>
+<lat>4.91667</lat>
+<lng>-72.83333</lng>
+<geonameId>3674446</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames>Monterrey</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="CAS">32</adminCode1>
+<adminName1>Casanare</adminName1>
+<adminCode2>3674446</adminCode2>
+<adminName2>Monterrey</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Monterrey%2C_Casanare</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<score>46.287376403808594</score>
+</geoname>
+<geoname>
+<toponymName>Monte Ray</toponymName>
+<name>Monte Ray</name>
+<lat>44.22986</lat>
+<lng>7.36144</lng>
+<geonameId>7871223</geonameId>
+<countryCode>IT</countryCode>
+<countryName>Italy</countryName>
+<fcl>T</fcl>
+<fcode>PK</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>peak</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>2318</elevation>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="21">12</adminCode1>
+<adminName1>Piedmont</adminName1>
+<adminCode2>CN</adminCode2>
+<adminName2>Provincia di Cuneo</adminName2>
+<adminCode3>004233</adminCode3>
+<adminName3>Valdieri</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Rome</timezone>
+<score>37.572635650634766</score>
+</geoname>
+<geoname>
+<toponymName>Monteray</toponymName>
+<name>Monteray</name>
+<lat>-34.01667</lat>
+<lng>18.35</lng>
+<geonameId>3363980</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="WC">11</adminCode1>
+<adminName1>Western Cape</adminName1>
+<adminCode2>CPT</adminCode2>
+<adminName2>City of Cape Town</adminName2>
+<adminCode3>CPT</adminCode3>
+<adminName3>City of Cape Town</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<bbox>
+<west>18.33915</west>
+<north>-34.00767</north>
+<east>18.36085</east>
+<south>-34.02566</south>
+</bbox>
+<score>25.361528396606445</score>
+</geoname>
+<geoname>
+<toponymName>Monterrey</toponymName>
+<name>Monterrey</name>
+<lat>4.87206</lat>
+<lng>-72.89879</lng>
+<geonameId>3769932</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>7759</population>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="CAS">32</adminCode1>
+<adminName1>Casanare</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<bbox>
+<west>-72.90985</west>
+<north>4.88307</north>
+<east>-72.88774</east>
+<south>4.86104</south>
+</bbox>
+<score>23.620927810668945</score>
+</geoname>
+<geoname>
+<toponymName>Monterrey</toponymName>
+<name>Monterrey</name>
+<lat>43.50259</lat>
+<lng>-6.07539</lng>
+<geonameId>3116319</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Monterrey</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="AS">34</adminCode1>
+<adminName1>Asturias</adminName1>
+<adminCode2>O</adminCode2>
+<adminName2>Asturias</adminName2>
+<adminCode3>33051</adminCode3>
+<adminName3>Pravia</adminName3>
+<alternateName lang="post">33127</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Madrid</timezone>
+<bbox>
+<west>-6.08779</west>
+<north>43.51158</north>
+<east>-6.06299</east>
+<south>43.49359</south>
+</bbox>
+<score>23.143688201904297</score>
+</geoname>
+<geoname>
+<toponymName>Monterrey</toponymName>
+<name>Monterrey</name>
+<lat>15.58333</lat>
+<lng>-87.88333</lng>
+<geonameId>3604614</geonameId>
+<countryCode>HN</countryCode>
+<countryName>Honduras</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2234</population>
+<alternateNames>Monte-Rey,Monterey del Norte,Monterrey,Monterrey Sur</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CR">06</adminCode1>
+<adminName1>Cortés</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Tegucigalpa</timezone>
+<bbox>
+<west>-87.888</west>
+<north>15.58783</north>
+<east>-87.87866</east>
+<south>15.57884</south>
+</bbox>
+<score>23.143688201904297</score>
+</geoname>
+<geoname>
+<toponymName>Monterrey</toponymName>
+<name>Monterrey</name>
+<lat>-37.27369</lat>
+<lng>-72.75426</lng>
+<geonameId>3879427</geonameId>
+<countryCode>CL</countryCode>
+<countryName>Chile</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Monterei,Monterrey</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="BI">06</adminCode1>
+<adminName1>Biobío</adminName1>
+<adminCode2>81</adminCode2>
+<adminName2>Provincia de Concepción</adminName2>
+<adminCode3>08109</adminCode3>
+<adminName3>Santa Juana</adminName3>
+<timezone dstOffset="-4.0" gmtOffset="-3.0">America/Santiago</timezone>
+<bbox>
+<west>-72.76556</west>
+<north>-37.2647</north>
+<east>-72.74296</east>
+<south>-37.28268</south>
+</bbox>
+<score>23.143688201904297</score>
+</geoname>
+<geoname>
+<toponymName>Monterrey</toponymName>
+<name>Monterrey</name>
+<lat>10.00083</lat>
+<lng>-74.1536</lng>
+<geonameId>3674440</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Hacienda Monterrey,Monterrey</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="MAG">38</adminCode1>
+<adminName1>Magdalena</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="unlc">MOY</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<bbox>
+<west>-74.16274</west>
+<north>10.00982</north>
+<east>-74.14447</east>
+<south>9.99183</south>
+</bbox>
+<score>20.2507266998291</score>
+</geoname>
+<geoname>
+<toponymName>Monterrey</toponymName>
+<name>Monterrey</name>
+<lat>32.54806</lat>
+<lng>-115.07056</lng>
+<geonameId>4029710</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Bataquez,Batáquez,Monterej,Monterrey,Монтерей</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="BCN">02</adminCode1>
+<adminName1>Baja California</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ru">Монтерей</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Tijuana</timezone>
+<bbox>
+<west>-115.08123</west>
+<north>32.55705</north>
+<east>-115.05989</east>
+<south>32.53906</south>
+</bbox>
+<score>20.2507266998291</score>
+</geoname>
+</geonames>

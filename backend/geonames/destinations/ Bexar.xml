@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Bexar</toponymName>
+<name>Bexar</name>
+<lat>34.19094</lat>
+<lng>-88.14726</lng>
+<geonameId>4049305</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>158</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AL">AL</adminCode1>
+<adminName1>Alabama</adminName1>
+<adminCode2>093</adminCode2>
+<adminName2>Marion County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bexar%2C_Alabama</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-88.15814</west>
+<north>34.19993</north>
+<east>-88.13639</east>
+<south>34.18194</south>
+</bbox>
+<score>65.09127044677734</score>
+</geoname>
+<geoname>
+<toponymName>Bexar</toponymName>
+<name>Bexar</name>
+<lat>36.28673</lat>
+<lng>-91.99571</lng>
+<geonameId>4101575</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>270</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">AR</adminCode1>
+<adminName1>Arkansas</adminName1>
+<adminCode2>049</adminCode2>
+<adminName2>Fulton County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bexar%2C_Arkansas</alternateName>
+<alternateName lang="post">72515</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.00687</west>
+<north>36.29573</north>
+<east>-91.98455</east>
+<south>36.27774</south>
+</bbox>
+<score>65.09127044677734</score>
+</geoname>
+<geoname>
+<toponymName>Bexar</toponymName>
+<name>Bexar</name>
+<lat>29.48329</lat>
+<lng>-98.17084</lng>
+<geonameId>4674020</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>182</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>029</adminCode2>
+<adminName2>Bexar County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-98.18118</west>
+<north>29.49228</north>
+<east>-98.16051</east>
+<south>29.47429</south>
+</bbox>
+<score>43.39418029785156</score>
+</geoname>
+<geoname>
+<toponymName>Bexar</toponymName>
+<name>Bexar</name>
+<lat>29.22552</lat>
+<lng>-98.6878</lng>
+<geonameId>4674021</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>200</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>029</adminCode2>
+<adminName2>Bexar County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-98.69811</west>
+<north>29.23451</north>
+<east>-98.67749</east>
+<south>29.21652</south>
+</bbox>
+<score>43.39418029785156</score>
+</geoname>
+</geonames>

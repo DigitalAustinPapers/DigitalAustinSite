@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Juzbado</toponymName>
+<name>Juzbado</name>
+<lat>41.08862</lat>
+<lng>-5.88763</lng>
+<geonameId>6360409</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population>170</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="CL">55</adminCode1>
+<adminName1>Castille and León</adminName1>
+<adminCode2>SA</adminCode2>
+<adminName2>Salamanca</adminName2>
+<adminCode3>37167</adminCode3>
+<adminName3>Juzbado</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Madrid</timezone>
+<bbox>
+<west>-5.94229</west>
+<north>41.10933</north>
+<east>-5.83596</east>
+<south>41.06535</south>
+</bbox>
+<score>54.78047561645508</score>
+</geoname>
+<geoname>
+<toponymName>Juzbado</toponymName>
+<name>Juzbado</name>
+<lat>41.07791</lat>
+<lng>-5.8614</lng>
+<geonameId>3120050</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>186</population>
+<alternateNames>Juzbado</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="CL">55</adminCode1>
+<adminName1>Castille and León</adminName1>
+<adminCode2>SA</adminCode2>
+<adminName2>Salamanca</adminName2>
+<adminCode3>37167</adminCode3>
+<adminName3>Juzbado</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Juzbado</alternateName>
+<alternateName lang="post">37115</alternateName>
+<alternateName lang="unlc">JZB</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Madrid</timezone>
+<bbox>
+<west>-5.86259</west>
+<north>41.07881</north>
+<east>-5.86021</east>
+<south>41.07701</south>
+</bbox>
+<score>38.33834457397461</score>
+</geoname>
+<geoname>
+<toponymName>Juzgados</toponymName>
+<name>Juzgados</name>
+<lat>38.34228</lat>
+<lng>-0.50209</lng>
+<geonameId>6255140</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>S</fcl>
+<fcode>ADMF</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>administrative facility</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="VC">60</adminCode1>
+<adminName1>Valencia</adminName1>
+<adminCode2>A</adminCode2>
+<adminName2>Alicante</adminName2>
+<adminCode3>03014</adminCode3>
+<adminName3>Alicante</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Madrid</timezone>
+<score>10.289018630981445</score>
+</geoname>
+</geonames>

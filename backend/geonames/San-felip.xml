@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>402</totalResultsCount>
+<geoname>
+<toponymName>San Felipe</toponymName>
+<name>San Felipe</name>
+<lat>10.33991</lat>
+<lng>-68.74247</lng>
+<geonameId>3628423</geonameId>
+<countryCode>VE</countryCode>
+<countryName>Venezuela</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population>76766</population>
+<alternateNames>SNF,San Felipe</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="U">22</adminCode1>
+<adminName1>Estado Yaracuy</adminName1>
+<adminCode2>2211</adminCode2>
+<adminName2>Municipio San Felipe</adminName2>
+<alternateName lang="iata">SNF</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/San_Felipe%2C_Yaracuy</alternateName>
+<alternateName lang="unlc">SNF</alternateName>
+<timezone dstOffset="-4.5" gmtOffset="-4.5">America/Caracas</timezone>
+<bbox>
+<west>-68.77875</west>
+<north>10.37561</north>
+<east>-68.70618</east>
+<south>10.30422</south>
+</bbox>
+<score>33.4833869934082</score>
+</geoname>
+<geoname>
+<toponymName>San Felix</toponymName>
+<name>San Felix</name>
+<lat>14.07306</lat>
+<lng>121.19639</lng>
+<geonameId>1690074</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>San Felix,San Feliz</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="MDC">40</adminCode1>
+<adminName1>Calabarzon</adminName1>
+<adminCode2>09</adminCode2>
+<adminName2>Batangas</adminName2>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<bbox>
+<west>121.18712</west>
+<north>14.08205</north>
+<east>121.20566</east>
+<south>14.06406</south>
+</bbox>
+<score>32.27397155761719</score>
+</geoname>
+<geoname>
+<toponymName>San Félix</toponymName>
+<name>San Félix</name>
+<lat>-32.33333</lat>
+<lng>-58.13333</lng>
+<geonameId>3440684</geonameId>
+<countryCode>UY</countryCode>
+<countryName>Uruguay</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1161</population>
+<alternateNames>San Felix,San Félix</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="PA">11</adminCode1>
+<adminName1>Paysandú</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/San_F%C3%A9lix%2C_Uruguay</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Montevideo</timezone>
+<bbox>
+<west>-58.1344</west>
+<north>-32.33243</north>
+<east>-58.13227</east>
+<south>-32.33423</south>
+</bbox>
+<score>31.045869827270508</score>
+</geoname>
+<geoname>
+<toponymName>San Félix</toponymName>
+<name>San Félix</name>
+<lat>8.37011</lat>
+<lng>-62.65919</lng>
+<geonameId>3628407</geonameId>
+<countryCode>VE</countryCode>
+<countryName>Venezuela</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames>Las Tablas,Puerto Tablas,SFX,San Felis,San Felix,San Félix,Seccion San Felix</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="F">06</adminCode1>
+<adminName1>Estado Bolívar</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="iata">SFX</alternateName>
+<timezone dstOffset="-4.5" gmtOffset="-4.5">America/Caracas</timezone>
+<bbox>
+<west>-62.66283</west>
+<north>8.37371</north>
+<east>-62.65556</east>
+<south>8.36651</south>
+</bbox>
+<score>27.901519775390625</score>
+</geoname>
+<geoname>
+<toponymName>San Felipe</toponymName>
+<name>San Felipe</name>
+<lat>-32.74976</lat>
+<lng>-70.72584</lng>
+<geonameId>3872255</geonameId>
+<countryCode>CL</countryCode>
+<countryName>Chile</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>59294</population>
+<alternateNames>San Felipe</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="VS">01</adminCode1>
+<adminName1>Valparaíso</adminName1>
+<adminCode2>57</adminCode2>
+<adminName2>Provincia de San Felipe</adminName2>
+<adminCode3>05701</adminCode3>
+<adminName3>San Felipe</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/San_Felipe%2C_Chile</alternateName>
+<alternateName lang="unlc">SFP</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-3.0">America/Santiago</timezone>
+<bbox>
+<west>-70.76325</west>
+<north>-32.71828</north>
+<east>-70.68843</east>
+<south>-32.78124</south>
+</bbox>
+<score>26.78670883178711</score>
+</geoname>
+<geoname>
+<toponymName>San Feliz</toponymName>
+<name>San Feliz</name>
+<lat>43.54271</lat>
+<lng>-5.46243</lng>
+<geonameId>3110633</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>San Feliz</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="AS">34</adminCode1>
+<adminName1>Asturias</adminName1>
+<adminCode2>O</adminCode2>
+<adminName2>Asturias</adminName2>
+<adminCode3>33076</adminCode3>
+<adminName3>Villaviciosa</adminName3>
+<alternateName lang="post">33785</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Madrid</timezone>
+<bbox>
+<west>-5.47484</west>
+<north>43.55171</north>
+<east>-5.45002</east>
+<south>43.53372</south>
+</bbox>
+<score>24.854284286499023</score>
+</geoname>
+<geoname>
+<toponymName>San Felipe</toponymName>
+<name>San Felipe</name>
+<lat>14.61667</lat>
+<lng>-91.6</lng>
+<geonameId>3590288</geonameId>
+<countryCode>GT</countryCode>
+<countryName>Guatemala</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>8921</population>
+<alternateNames>San Felipe</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="RE">15</adminCode1>
+<adminName1>Retalhuleu</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/San_Felipe%2C_Retalhuleu</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Guatemala</timezone>
+<bbox>
+<west>-91.6123</west>
+<north>14.62856</north>
+<east>-91.5877</east>
+<south>14.60477</south>
+</bbox>
+<score>23.438369750976562</score>
+</geoname>
+<geoname>
+<toponymName>San Felipe</toponymName>
+<name>San Felipe</name>
+<lat>31.02468</lat>
+<lng>-114.83919</lng>
+<geonameId>3987224</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>15386</population>
+<alternateNames>SFH,San Felipe</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="BCN">02</adminCode1>
+<adminName1>Baja California</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="iata">SFH</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/San_Felipe%2C_Baja_California</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Tijuana</timezone>
+<bbox>
+<west>-114.85737</west>
+<north>31.04026</north>
+<east>-114.82101</east>
+<south>31.0091</south>
+</bbox>
+<score>23.438369750976562</score>
+</geoname>
+<geoname>
+<toponymName>Sant Feliu</toponymName>
+<name>Sant Feliu</name>
+<lat>42.46667</lat>
+<lng>0.53333</lng>
+<geonameId>3110647</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>San Feliu,San Feliú,Sant Feliu</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="AR">52</adminCode1>
+<adminName1>Aragon</adminName1>
+<adminCode2>HU</adminCode2>
+<adminName2>Huesca</adminName2>
+<adminCode3>22062</adminCode3>
+<adminName3>Bisaurri</adminName3>
+<alternateName lang="ca">Sant Feliu</alternateName>
+<alternateName lang="es">San Feliu</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Madrid</timezone>
+<bbox>
+<west>0.52114</west>
+<north>42.47566</north>
+<east>0.54553</east>
+<south>42.45767</south>
+</bbox>
+<score>21.39349365234375</score>
+</geoname>
+<geoname>
+<toponymName>San Feliú</toponymName>
+<name>San Feliú</name>
+<lat>22.7</lat>
+<lng>-79.68333</lng>
+<geonameId>3540495</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="05">16</adminCode1>
+<adminName1>Villa Clara</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>21.39349365234375</score>
+</geoname>
+</geonames>

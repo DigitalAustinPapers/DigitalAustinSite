@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Clinch</toponymName>
+<name>Clinch</name>
+<lat>29.57441</lat>
+<lng>-82.39205</lng>
+<geonameId>4151379</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>20</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="FL">FL</adminCode1>
+<adminName1>Florida</adminName1>
+<adminCode2>001</adminCode2>
+<adminName2>Alachua County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-82.40239</west>
+<north>29.58341</north>
+<east>-82.38171</east>
+<south>29.56542</south>
+</bbox>
+<score>44.839012145996094</score>
+</geoname>
+<geoname>
+<toponymName>Clinch</toponymName>
+<name>Clinch</name>
+<lat>36.81649</lat>
+<lng>-82.49765</lng>
+<geonameId>4753190</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>393</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>169</adminCode2>
+<adminName2>Scott County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-82.50889</west>
+<north>36.82548</north>
+<east>-82.48642</east>
+<south>36.8075</south>
+</bbox>
+<score>44.839012145996094</score>
+</geoname>
+</geonames>

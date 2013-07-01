@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>14</totalResultsCount>
+<geoname>
+<toponymName>Channel</toponymName>
+<name>Channel</name>
+<lat>36.05979</lat>
+<lng>-89.94092</lng>
+<geonameId>4380915</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>76</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>155</adminCode2>
+<adminName2>Pemiscot County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-89.95205</west>
+<north>36.06879</north>
+<east>-89.92979</east>
+<south>36.0508</south>
+</bbox>
+<score>34.09683609008789</score>
+</geoname>
+<geoname>
+<toponymName>Channel</toponymName>
+<name>Channel</name>
+<lat>45.21319</lat>
+<lng>-72.2313</lng>
+<geonameId>5919777</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="QC">10</adminCode1>
+<adminName1>Quebec</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Montreal</timezone>
+<score>34.09683609008789</score>
+</geoname>
+<geoname>
+<toponymName>Chanel</toponymName>
+<name>Chanel</name>
+<lat>19.1</lat>
+<lng>-72.51667</lng>
+<geonameId>3727948</geonameId>
+<countryCode>HT</countryCode>
+<countryName>Haiti</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Chanel,Channel</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">06</adminCode1>
+<adminName1>Artibonite</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Port-au-Prince</timezone>
+<bbox>
+<west>-72.52618</west>
+<north>19.10899</north>
+<east>-72.50715</east>
+<south>19.09101</south>
+</bbox>
+<score>32.11539840698242</score>
+</geoname>
+<geoname>
+<toponymName>Channel Islands</toponymName>
+<name>channel</name>
+<lat>49.3466</lat>
+<lng>-2.36206</lng>
+<geonameId>3042400</geonameId>
+<countryCode>GG</countryCode>
+<countryName>Guernsey</countryName>
+<fcl>T</fcl>
+<fcode>ISLS</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>islands</fcodeName>
+<population>158000</population>
+<alternateNames>Channel Islands,channel</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">channel</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Channel_Islands</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Guernsey</timezone>
+<score>30.137632369995117</score>
+</geoname>
+<geoname>
+<toponymName>Chanzel</toponymName>
+<name>Chanzel</name>
+<lat>46.49231</lat>
+<lng>7.85622</lng>
+<geonameId>6934652</geonameId>
+<countryCode>CH</countryCode>
+<countryName>Switzerland</countryName>
+<fcl>T</fcl>
+<fcode>PK</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>peak</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>3003</elevation>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="BE">BE</adminCode1>
+<adminName1>Bern</adminName1>
+<adminCode2>250</adminCode2>
+<adminName2>Interlaken-Oberhasli</adminName2>
+<adminCode3>584</adminCode3>
+<adminName3>Lauterbrunnen</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Zurich</timezone>
+<score>18.643054962158203</score>
+</geoname>
+<geoname>
+<toponymName>Chanzel</toponymName>
+<name>Chanzel</name>
+<lat>46.91456</lat>
+<lng>8.76986</lng>
+<geonameId>6937862</geonameId>
+<countryCode>CH</countryCode>
+<countryName>Switzerland</countryName>
+<fcl>T</fcl>
+<fcode>PK</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>peak</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>2014</elevation>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="UR">UR</adminCode1>
+<adminName1>Uri</adminName1>
+<adminCode2>400</adminCode2>
+<adminName2>Uri</adminName2>
+<adminCode3>1205</adminCode3>
+<adminName3>Bürglen (UR)</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Zurich</timezone>
+<score>13.316468238830566</score>
+</geoname>
+<geoname>
+<toponymName>Channes</toponymName>
+<name>Channes</name>
+<lat>47.93996</lat>
+<lng>4.25447</lng>
+<geonameId>3026918</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>147</population>
+<alternateNames>Channes</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="G">A4</adminCode1>
+<adminName1>Champagne-Ardenne</adminName1>
+<adminCode2>10</adminCode2>
+<adminName2>Aube</adminName2>
+<adminCode3>103</adminCode3>
+<adminName3>Arrondissement de Troyes</adminName3>
+<adminCode4>10079</adminCode4>
+<adminName4>Channes</adminName4>
+<alternateName lang="post">10340</alternateName>
+<alternateName lang="unlc">NNH</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>4.25312</west>
+<north>47.94086</north>
+<east>4.25581</east>
+<south>47.93906</south>
+</bbox>
+<score>11.416492462158203</score>
+</geoname>
+<geoname>
+<toponymName>Chandel</toponymName>
+<name>Chandel</name>
+<lat>15.72711</lat>
+<lng>73.89549</lng>
+<geonameId>1274758</geonameId>
+<countryCode>IN</countryCode>
+<countryName>India</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="5.5" gmtOffset="5.5">Asia/Kolkata</timezone>
+<bbox>
+<west>73.88615</west>
+<north>15.7361</north>
+<east>73.90483</east>
+<south>15.71811</south>
+</bbox>
+<score>11.205086708068848</score>
+</geoname>
+<geoname>
+<toponymName>Channel</toponymName>
+<name>Channel</name>
+<lat>8.7296</lat>
+<lng>80.6796</lng>
+<geonameId>7440127</geonameId>
+<countryCode>LK</countryCode>
+<countryName>Sri Lanka</countryName>
+<fcl>H</fcl>
+<fcode>CNLQ</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>abandoned canal</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="7">30</adminCode1>
+<adminName1>North Central</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="5.5" gmtOffset="5.5">Asia/Colombo</timezone>
+<score>10.655261039733887</score>
+</geoname>
+<geoname>
+<toponymName>Chancel</toponymName>
+<name>Chancel</name>
+<lat>45.14887</lat>
+<lng>1.04349</lng>
+<geonameId>3026970</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="B">97</adminCode1>
+<adminName1>Aquitaine</adminName1>
+<adminCode2>24</adminCode2>
+<adminName2>Dordogne</adminName2>
+<adminCode3>243</adminCode3>
+<adminName3>Arrondissement de Périgueux</adminName3>
+<adminCode4>24004</adminCode4>
+<adminName4>Ajat</adminName4>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>1.03073</west>
+<north>45.15787</north>
+<east>1.05624</east>
+<south>45.13988</south>
+</bbox>
+<score>10.65317440032959</score>
+</geoname>
+</geonames>

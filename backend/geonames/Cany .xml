@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Cany-Barville</toponymName>
+<name>Cany-Barville</name>
+<lat>49.78885</lat>
+<lng>0.63704</lng>
+<geonameId>3028754</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3463</population>
+<alternateNames>Cany,Cany-Barville</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="Q">A7</adminCode1>
+<adminName1>Upper Normandy</adminName1>
+<adminCode2>76</adminCode2>
+<adminName2>Seine-Maritime</adminName2>
+<adminCode3>761</adminCode3>
+<adminName3>Arrondissement de Dieppe</adminName3>
+<adminCode4>76159</adminCode4>
+<adminName4>Cany-Barville</adminName4>
+<alternateName lang="post">76450</alternateName>
+<alternateName lang="unlc">CBV</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>0.62718</west>
+<north>49.79521</north>
+<east>0.64689</east>
+<south>49.78249</south>
+</bbox>
+<score>32.51689910888672</score>
+</geoname>
+</geonames>

@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>10</totalResultsCount>
+<geoname>
+<toponymName>Here</toponymName>
+<name>Here</name>
+<lat>8.65995</lat>
+<lng>45.85414</lng>
+<geonameId>57134</geonameId>
+<countryCode>SO</countryCode>
+<countryName>Somalia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Here,Khere</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="TO">19</adminCode1>
+<adminName1>Togdheer Region</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="3.0" gmtOffset="3.0">Africa/Mogadishu</timezone>
+<bbox>
+<west>45.84504</west>
+<north>8.66894</north>
+<east>45.86324</east>
+<south>8.65095</south>
+</bbox>
+<score>50.41550064086914</score>
+</geoname>
+<geoname>
+<toponymName>Here</toponymName>
+<name>Here</name>
+<lat>31.36694</lat>
+<lng>74.00389</lng>
+<geonameId>1330657</geonameId>
+<countryCode>PK</countryCode>
+<countryName>Pakistan</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="PB">04</adminCode1>
+<adminName1>Punjab</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="5.0" gmtOffset="5.0">Asia/Karachi</timezone>
+<bbox>
+<west>73.99335</west>
+<north>31.37594</north>
+<east>74.01442</east>
+<south>31.35795</south>
+</bbox>
+<score>41.16408157348633</score>
+</geoname>
+<geoname>
+<toponymName>Héré</toponymName>
+<name>Héré</name>
+<lat>46.33333</lat>
+<lng>1.85</lng>
+<geonameId>3013466</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="L">B1</adminCode1>
+<adminName1>Limousin</adminName1>
+<adminCode2>23</adminCode2>
+<adminName2>Creuse</adminName2>
+<adminCode3>232</adminCode3>
+<adminName3>Arrondissement de Guéret</adminName3>
+<adminCode4>23062</adminCode4>
+<adminName4>Chéniers</adminName4>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>1.83697</west>
+<north>46.34233</north>
+<east>1.86303</east>
+<south>46.32434</south>
+</bbox>
+<score>41.16408157348633</score>
+</geoname>
+<geoname>
+<toponymName>Here</toponymName>
+<name>Here</name>
+<lat>43.82251</lat>
+<lng>17.68955</lng>
+<geonameId>3199388</geonameId>
+<countryCode>BA</countryCode>
+<countryName>Bosnia and Herzegovina</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="BIH">01</adminCode1>
+<adminName1>Federation of Bosnia and Herzegovina</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Sarajevo</timezone>
+<bbox>
+<west>17.67708</west>
+<north>43.8315</north>
+<east>17.70201</east>
+<south>43.81352</south>
+</bbox>
+<score>41.16408157348633</score>
+</geoname>
+<geoname>
+<toponymName>Here</toponymName>
+<name>Here</name>
+<lat>44.12977</lat>
+<lng>19.09462</lng>
+<geonameId>3274143</geonameId>
+<countryCode>BA</countryCode>
+<countryName>Bosnia and Herzegovina</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SRP">02</adminCode1>
+<adminName1>Republika Srpska</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Sarajevo</timezone>
+<bbox>
+<west>19.08208</west>
+<north>44.13876</north>
+<east>19.10715</east>
+<south>44.12077</south>
+</bbox>
+<score>41.16408157348633</score>
+</geoname>
+<geoname>
+<toponymName>Here</toponymName>
+<name>Here</name>
+<lat>43.81</lat>
+<lng>17.80528</lng>
+<geonameId>3290282</geonameId>
+<countryCode>BA</countryCode>
+<countryName>Bosnia and Herzegovina</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="BIH">01</adminCode1>
+<adminName1>Federation of Bosnia and Herzegovina</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Sarajevo</timezone>
+<bbox>
+<west>17.79281</west>
+<north>43.81899</north>
+<east>17.81774</east>
+<south>43.80101</south>
+</bbox>
+<score>41.16408157348633</score>
+</geoname>
+<geoname>
+<toponymName>Here</toponymName>
+<name>Here</name>
+<lat>13.63182</lat>
+<lng>5.4484</lng>
+<geonameId>7015671</geonameId>
+<countryCode>NG</countryCode>
+<countryName>Nigeria</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="SO">51</adminCode1>
+<adminName1>Sokoto</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="1.0">Africa/Lagos</timezone>
+<bbox>
+<west>5.43914</west>
+<north>13.64081</north>
+<east>5.45765</east>
+<south>13.62282</south>
+</bbox>
+<score>41.16408157348633</score>
+</geoname>
+<geoname>
+<toponymName>Hèrre</toponymName>
+<name>Hèrre</name>
+<lat>50.304</lat>
+<lng>1.64448</lng>
+<geonameId>3013391</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Here,Herre,Hère,Hèrre</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="S">B6</adminCode1>
+<adminName1>Picardie</adminName1>
+<adminCode2>80</adminCode2>
+<adminName2>Somme</adminName2>
+<adminCode3>801</adminCode3>
+<adminName3>Arrondissement d'Abbeville</adminName3>
+<adminCode4>80688</adminCode4>
+<adminName4>Rue</adminName4>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>1.6304</west>
+<north>50.31299</north>
+<east>1.65857</east>
+<south>50.29501</south>
+</bbox>
+<score>30.873062133789062</score>
+</geoname>
+<geoname>
+<toponymName>Here</toponymName>
+<name>Here</name>
+<lat>29.31502</lat>
+<lng>82.21181</lng>
+<geonameId>7956084</geonameId>
+<countryCode>NP</countryCode>
+<countryName>Nepal</countryName>
+<fcl>P</fcl>
+<fcode>PPLL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="2">MR</adminCode1>
+<adminName1>Mid Western Region</adminName1>
+<adminCode2>06</adminCode2>
+<adminName2>Karnālī Zone</adminName2>
+<adminCode3>63</adminCode3>
+<adminName3>Jumla</adminName3>
+<adminCode4>630026</adminCode4>
+<adminName4>Patmara</adminName4>
+<adminCode5>63002607</adminCode5>
+<adminName5>Patmara</adminName5>
+<timezone dstOffset="5.75" gmtOffset="5.75">Asia/Kathmandu</timezone>
+<bbox>
+<west>82.21078</west>
+<north>29.31592</north>
+<east>82.21285</east>
+<south>29.31412</south>
+</bbox>
+<score>25.727550506591797</score>
+</geoname>
+<geoname>
+<toponymName>Hora</toponymName>
+<name>Hora</name>
+<lat>29.2</lat>
+<lng>95.2</lng>
+<geonameId>7931375</geonameId>
+<countryCode>CN</countryCode>
+<countryName>China</countryName>
+<fcl>P</fcl>
+<fcode>PPLF</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>farm village</fcodeName>
+<population/>
+<alternateNames>Here,Hora,he re,荷热</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="54">14</adminCode1>
+<adminName1>Tibet Autonomous Region</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="bo">Hora</alternateName>
+<alternateName lang="zh">荷热</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Urumqi</timezone>
+<bbox>
+<west>95.17939</west>
+<north>29.21799</north>
+<east>95.22061</east>
+<south>29.18201</south>
+</bbox>
+<score>21.830551147460938</score>
+</geoname>
+</geonames>

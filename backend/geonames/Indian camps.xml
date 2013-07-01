@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Indian Camp</toponymName>
+<name>Indian Camp</name>
+<lat>40.09452</lat>
+<lng>-81.64568</lng>
+<geonameId>5158426</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>317</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>059</adminCode2>
+<adminName2>Guernsey County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-81.65744</west>
+<north>40.10351</north>
+<east>-81.63392</east>
+<south>40.08552</south>
+</bbox>
+<score>42.87849426269531</score>
+</geoname>
+<geoname>
+<toponymName>Indian Camp</toponymName>
+<name>Indian Camp</name>
+<lat>26.48285</lat>
+<lng>-80.32866</lng>
+<geonameId>4159587</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>CMP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>camp(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>4</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="FL">FL</adminCode1>
+<adminName1>Florida</adminName1>
+<adminCode2>099</adminCode2>
+<adminName2>Palm Beach</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>13.399529457092285</score>
+</geoname>
+<geoname>
+<toponymName>Indian Camp</toponymName>
+<name>Indian Camp</name>
+<lat>37.07411</lat>
+<lng>-116.6909</lng>
+<geonameId>5505972</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>CMP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>camp(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1213</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NV">NV</adminCode1>
+<adminName1>Nevada</adminName1>
+<adminCode2>023</adminCode2>
+<adminName2>Nye County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>13.399529457092285</score>
+</geoname>
+<geoname>
+<toponymName>Indian Camp</toponymName>
+<name>Indian Camp</name>
+<lat>43.65544</lat>
+<lng>-117.62323</lng>
+<geonameId>5732806</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>CMP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>camp(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1174</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OR">OR</adminCode1>
+<adminName1>Oregon</adminName1>
+<adminCode2>045</adminCode2>
+<adminName2>Malheur County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Boise</timezone>
+<score>13.399529457092285</score>
+</geoname>
+<geoname>
+<toponymName>Indian Camp</toponymName>
+<name>Indian Camp</name>
+<lat>45.05514</lat>
+<lng>-119.64501</lng>
+<geonameId>5732807</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>CMP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>camp(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1184</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OR">OR</adminCode1>
+<adminName1>Oregon</adminName1>
+<adminCode2>049</adminCode2>
+<adminName2>Morrow County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>13.399529457092285</score>
+</geoname>
+</geonames>

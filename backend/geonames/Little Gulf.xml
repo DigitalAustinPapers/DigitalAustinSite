@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>13</totalResultsCount>
+<geoname>
+<toponymName>Little Bull</toponymName>
+<name>Little Bull</name>
+<lat>44.86685</lat>
+<lng>-62.2986</lng>
+<geonameId>6055099</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>U</fcl>
+<fcode>SHSU</fcode>
+<fclName>undersea</fclName>
+<fcodeName>shoals</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NS">07</adminCode1>
+<adminName1>Nova Scotia</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-3.0" gmtOffset="-4.0">America/Halifax</timezone>
+<score>21.124570846557617</score>
+</geoname>
+<geoname>
+<toponymName>Little Gully</toponymName>
+<name>Little Gully</name>
+<lat>43.09858</lat>
+<lng>-93.10215</lng>
+<geonameId>4865070</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>VAL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>valley</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>319</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IA">IA</adminCode1>
+<adminName1>Iowa</adminName1>
+<adminCode2>033</adminCode2>
+<adminName2>Cerro Gordo County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>18.36617660522461</score>
+</geoname>
+<geoname>
+<toponymName>Little Gulch</toponymName>
+<name>Little Gulch</name>
+<lat>46.87716</lat>
+<lng>-112.59087</lng>
+<geonameId>5662805</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>VAL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>valley</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1533</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MT">MT</adminCode1>
+<adminName1>Montana</adminName1>
+<adminCode2>049</adminCode2>
+<adminName2>Lewis and Clark County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<score>18.36617660522461</score>
+</geoname>
+<geoname>
+<toponymName>Little Gulch</toponymName>
+<name>Little Gulch</name>
+<lat>45.98715</lat>
+<lng>-112.74475</lng>
+<geonameId>5662806</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>VAL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>valley</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1671</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MT">MT</adminCode1>
+<adminName1>Montana</adminName1>
+<adminCode2>093</adminCode2>
+<adminName2>Silver Bow County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<score>18.36617660522461</score>
+</geoname>
+<geoname>
+<toponymName>Little Gulch</toponymName>
+<name>Little Gulch</name>
+<lat>45.13541</lat>
+<lng>-120.46476</lng>
+<geonameId>5737043</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>VAL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>valley</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>326</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OR">OR</adminCode1>
+<adminName1>Oregon</adminName1>
+<adminCode2>055</adminCode2>
+<adminName2>Sherman County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>18.36617660522461</score>
+</geoname>
+<geoname>
+<toponymName>Little Gulch</toponymName>
+<name>Little Gulch</name>
+<lat>64.62083</lat>
+<lng>-165.34278</lng>
+<geonameId>5867545</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>VAL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>valley</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>94</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AK">AK</adminCode1>
+<adminName1>Alaska</adminName1>
+<adminCode2>180</adminCode2>
+<adminName2>Nome Census Area</adminName2>
+<timezone dstOffset="-8.0" gmtOffset="-9.0">America/Nome</timezone>
+<score>18.36617660522461</score>
+</geoname>
+<geoname>
+<toponymName>Little Gulch</toponymName>
+<name>Little Gulch</name>
+<lat>64.81139</lat>
+<lng>-165.22528</lng>
+<geonameId>5867546</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>VAL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>valley</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>121</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AK">AK</adminCode1>
+<adminName1>Alaska</adminName1>
+<adminCode2>180</adminCode2>
+<adminName2>Nome Census Area</adminName2>
+<timezone dstOffset="-8.0" gmtOffset="-9.0">America/Nome</timezone>
+<score>18.36617660522461</score>
+</geoname>
+<geoname>
+<toponymName>Little Gully</toponymName>
+<name>Little Gully</name>
+<lat>47.68319</lat>
+<lng>-52.83135</lng>
+<geonameId>6055856</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>U</fcl>
+<fcode>GLYU</fcode>
+<fclName>undersea</fclName>
+<fcodeName>gully</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NL">05</adminCode1>
+<adminName1>Newfoundland and Labrador</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-2.5" gmtOffset="-3.5">America/St_Johns</timezone>
+<score>18.36617660522461</score>
+</geoname>
+<geoname>
+<toponymName>Little Gully</toponymName>
+<name>Little Gully</name>
+<lat>47.93319</lat>
+<lng>-53.33278</lng>
+<geonameId>6055857</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>U</fcl>
+<fcode>GLYU</fcode>
+<fclName>undersea</fclName>
+<fcodeName>gully</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NL">05</adminCode1>
+<adminName1>Newfoundland and Labrador</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-2.5" gmtOffset="-3.5">America/St_Johns</timezone>
+<score>18.36617660522461</score>
+</geoname>
+<geoname>
+<toponymName>Little Gully</toponymName>
+<name>Little Gully</name>
+<lat>47.5318</lat>
+<lng>-53.63</lng>
+<geonameId>6055858</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>U</fcl>
+<fcode>GLYU</fcode>
+<fclName>undersea</fclName>
+<fcodeName>gully</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NL">05</adminCode1>
+<adminName1>Newfoundland and Labrador</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-2.5" gmtOffset="-3.5">America/St_Johns</timezone>
+<score>18.36617660522461</score>
+</geoname>
+</geonames>

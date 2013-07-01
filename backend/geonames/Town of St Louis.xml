@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Town of Saint Louis</toponymName>
+<name>Town of Saint Louis</name>
+<lat>35.08121</lat>
+<lng>-96.85966</lng>
+<geonameId>7175012</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>administrative division</fcodeName>
+<population>158</population>
+<alternateNames/>
+<elevation>289</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OK">OK</adminCode1>
+<adminName1>Oklahoma</adminName1>
+<adminCode2>125</adminCode2>
+<adminName2>Pottawatomie County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-96.88866</west>
+<north>35.10163</north>
+<east>-96.82668</east>
+<south>35.05801</south>
+</bbox>
+<score>56.904571533203125</score>
+</geoname>
+<geoname>
+<toponymName>Town of San Luis</toponymName>
+<name>Town of San Luis</name>
+<lat>37.20234</lat>
+<lng>-105.42247</lng>
+<geonameId>7175654</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>administrative division</fcodeName>
+<population>629</population>
+<alternateNames/>
+<elevation>2435</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CO">CO</adminCode1>
+<adminName1>Colorado</adminName1>
+<adminCode2>023</adminCode2>
+<adminName2>Costilla County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<bbox>
+<west>-105.43047</west>
+<north>37.2112</north>
+<east>-105.41364</east>
+<south>37.19095</south>
+</bbox>
+<score>56.904571533203125</score>
+</geoname>
+</geonames>

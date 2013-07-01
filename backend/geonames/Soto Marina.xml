@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Sottomarina</toponymName>
+<name>Sottomarina</name>
+<lat>45.21389</lat>
+<lng>12.29472</lng>
+<geonameId>3166328</geonameId>
+<countryCode>IT</countryCode>
+<countryName>Italy</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Sottomarina</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="34">20</adminCode1>
+<adminName1>Veneto</adminName1>
+<adminCode2>VE</adminCode2>
+<adminName2>Venice</adminName2>
+<adminCode3>027008</adminCode3>
+<adminName3>Chioggia</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Sottomarina</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Rome</timezone>
+<bbox>
+<west>12.28195</west>
+<north>45.22288</north>
+<east>12.30749</east>
+<south>45.2049</south>
+</bbox>
+<score>84.48137664794922</score>
+</geoname>
+</geonames>

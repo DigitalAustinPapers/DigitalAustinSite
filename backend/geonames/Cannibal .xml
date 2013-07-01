@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Caníbal</toponymName>
+<name>Caníbal</name>
+<lat>15.4</lat>
+<lng>-92.03333</lng>
+<geonameId>3599096</geonameId>
+<countryCode>GT</countryCode>
+<countryName>Guatemala</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="HU">08</adminCode1>
+<adminName1>Huehuetenango</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Guatemala</timezone>
+<bbox>
+<west>-92.04266</west>
+<north>15.40899</north>
+<east>-92.024</east>
+<south>15.39101</south>
+</bbox>
+<score>45.98583984375</score>
+</geoname>
+</geonames>

@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>60</totalResultsCount>
+<geoname>
+<toponymName>Lavaca</toponymName>
+<name>Lavaca</name>
+<lat>35.3362</lat>
+<lng>-94.17326</lng>
+<geonameId>4118450</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2289</population>
+<alternateNames/>
+<elevation>129</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">AR</adminCode1>
+<adminName1>Arkansas</adminName1>
+<adminCode2>131</adminCode2>
+<adminName2>Sebastian County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lavaca%2C_Arkansas</alternateName>
+<alternateName lang="post">72941</alternateName>
+<alternateName lang="unlc">AC4</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-94.17878</west>
+<north>35.3407</north>
+<east>-94.16775</east>
+<south>35.3317</south>
+</bbox>
+<score>55.213645935058594</score>
+</geoname>
+<geoname>
+<toponymName>Lavaca</toponymName>
+<name>Lavaca</name>
+<lat>32.14042</lat>
+<lng>-88.08002</lng>
+<geonameId>4071922</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>31</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AL">AL</adminCode1>
+<adminName1>Alabama</adminName1>
+<adminCode2>023</adminCode2>
+<adminName2>Choctaw County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-88.09064</west>
+<north>32.14942</north>
+<east>-88.06939</east>
+<south>32.13143</south>
+</bbox>
+<score>36.80909729003906</score>
+</geoname>
+<geoname>
+<toponymName>Havana</toponymName>
+<name>Havana</name>
+<lat>23.13302</lat>
+<lng>-82.38304</lng>
+<geonameId>3553478</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>P</fcl>
+<fcode>PPLC</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>capital of a political entity</fcodeName>
+<population>2163824</population>
+<alternateNames>A Habana,Abana,Gavana,Gavanae,Gorad Gavana,HAV,Habana,Hafana,Hahvaxnaz,Havana,Havanna,Havano,Hawana,Khavana,L'Avan-a,L'Avana,L'Avann-a,L'Habana,L'Havana,La Ahuana,La Avan,La Avàn,La Habana,La Havane,S'Avana,abana,avana,ha wa na,habana,habhana,hafana,havana,hawana,Ħavana,Ł'Avana,Αβάνα,Гаванæ,Гавана,Горад Гавана,Хавана,Ҳавана,Հավանա,הוואנה,هافانا,هاوانا,ہوانا,हवाना,ਹਵਾਨਾ,ହାଭାନା,அவானா,ഹവാന,ฮาวานา,ཧ་ཝན,ჰავანა,ሀቫና,ሀኖይ,ハバナ,哈瓦那,아바나</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="03">02</adminCode1>
+<adminName1>Ciudad de La Habana</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="am">ሀኖይ</alternateName>
+<alternateName lang="an">L'Habana</alternateName>
+<alternateName lang="ang">Hafana</alternateName>
+<alternateName lang="ar">هافانا</alternateName>
+<alternateName lang="ast">L'Habana</alternateName>
+<alternateName lang="be">Горад Гавана</alternateName>
+<alternateName lang="bg">Хавана</alternateName>
+<alternateName lang="bo">ཧ་ཝན</alternateName>
+<alternateName lang="bs">Havana</alternateName>
+<alternateName lang="ca">L'Havana</alternateName>
+<alternateName lang="cs">Havana</alternateName>
+<alternateName lang="cv">Гавана</alternateName>
+<alternateName lang="da">Havana</alternateName>
+<alternateName lang="de">Havanna</alternateName>
+<alternateName lang="el">Αβάνα</alternateName>
+<alternateName lang="en">Havana</alternateName>
+<alternateName lang="eo">Havano</alternateName>
+<alternateName lang="es">La Habana</alternateName>
+<alternateName lang="et">Havanna</alternateName>
+<alternateName lang="eu">Habana</alternateName>
+<alternateName lang="ext">L'Avana</alternateName>
+<alternateName lang="fa">هاوانا</alternateName>
+<alternateName lang="fi">Havanna</alternateName>
+<alternateName lang="fo">Havanna</alternateName>
+<alternateName lang="fr">La Havane</alternateName>
+<alternateName lang="gl">A Habana</alternateName>
+<alternateName lang="hbs">Havana</alternateName>
+<alternateName lang="he">הוואנה</alternateName>
+<alternateName lang="hr">Havana</alternateName>
+<alternateName lang="ht">La Avàn</alternateName>
+<alternateName lang="hu">Havanna</alternateName>
+<alternateName lang="hy">Հավանա</alternateName>
+<alternateName lang="iata">HAV</alternateName>
+<alternateName lang="id">Havana</alternateName>
+<alternateName lang="io">Havana</alternateName>
+<alternateName lang="it">L'Avana</alternateName>
+<alternateName lang="ja">ハバナ</alternateName>
+<alternateName lang="ka">ჰავანა</alternateName>
+<alternateName lang="ko">아바나</alternateName>
+<alternateName lang="lb">Havanna</alternateName>
+<alternateName lang="lij">L'Avann-a</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Havana</alternateName>
+<alternateName lang="lmo">L'Avana</alternateName>
+<alternateName lang="lt">Havana</alternateName>
+<alternateName lang="lv">Havanna</alternateName>
+<alternateName lang="mk">Хавана</alternateName>
+<alternateName lang="ml">ഹവാന</alternateName>
+<alternateName lang="mr">हवाना</alternateName>
+<alternateName lang="mt">Ħavana</alternateName>
+<alternateName lang="nah">La Ahuana</alternateName>
+<alternateName lang="nb">Havanna</alternateName>
+<alternateName lang="nl">Havana</alternateName>
+<alternateName lang="nn">Havanna</alternateName>
+<alternateName lang="no">Havanna</alternateName>
+<alternateName lang="oc">L'Avana</alternateName>
+<alternateName lang="or">ହାଭାନା</alternateName>
+<alternateName lang="os">Гаванæ</alternateName>
+<alternateName lang="pa">ਹਵਾਨਾ</alternateName>
+<alternateName lang="pl">Hawana</alternateName>
+<alternateName lang="pms">L'Avan-a</alternateName>
+<alternateName lang="pnb">ہوانا</alternateName>
+<alternateName lang="pt">Havana</alternateName>
+<alternateName lang="ro">Havana</alternateName>
+<alternateName lang="ru">Гавана</alternateName>
+<alternateName lang="sah">Хавана</alternateName>
+<alternateName lang="sc">S'Avana</alternateName>
+<alternateName lang="scn">L'Avana</alternateName>
+<alternateName lang="sk">Havana</alternateName>
+<alternateName lang="sr">Хавана</alternateName>
+<alternateName lang="stq">Havanna</alternateName>
+<alternateName lang="sv">Havanna</alternateName>
+<alternateName lang="sw">Havana</alternateName>
+<alternateName lang="ta">அவானா</alternateName>
+<alternateName lang="tg">Ҳавана</alternateName>
+<alternateName lang="th">ฮาวานา</alternateName>
+<alternateName lang="tr">Havana</alternateName>
+<alternateName lang="uk">Гавана</alternateName>
+<alternateName lang="ur">ہوانا</alternateName>
+<alternateName lang="vec">Ł'Avana</alternateName>
+<alternateName lang="vi">La Habana</alternateName>
+<alternateName lang="za">Hahvaxnaz</alternateName>
+<alternateName lang="zh">哈瓦那</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<bbox>
+<west>-82.59098</west>
+<north>23.32396</north>
+<east>-82.17511</east>
+<south>22.94208</south>
+</bbox>
+<score>19.558629989624023</score>
+</geoname>
+<geoname>
+<toponymName>Layaca</toponymName>
+<name>Layaca</name>
+<lat>-19.71626</lat>
+<lng>-68.24926</lng>
+<geonameId>3911631</geonameId>
+<countryCode>BO</countryCode>
+<countryName>Bolivia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Laguacsa,Laguaosa,Lavaxa,Layaca</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="O">05</adminCode1>
+<adminName1>Oruro</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/La_Paz</timezone>
+<bbox>
+<west>-68.25881</west>
+<north>-19.70727</north>
+<east>-68.23971</east>
+<south>-19.72526</south>
+</bbox>
+<score>12.465609550476074</score>
+</geoname>
+<geoname>
+<toponymName>Lávara</toponymName>
+<name>Lávara</name>
+<lat>41.26667</lat>
+<lng>26.38333</lng>
+<geonameId>735474</geonameId>
+<countryCode>GR</countryCode>
+<countryName>Greece</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1447</population>
+<alternateNames>Labara,Lavara,Lávara,Λάβαρα</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="A">ESYE11</adminCode1>
+<adminName1>East Macedonia and Thrace</adminName1>
+<adminCode2>01</adminCode2>
+<adminName2>Évros</adminName2>
+<adminCode3>9010</adminCode3>
+<adminName3>Soufli</adminName3>
+<alternateName lang="el">Λάβαρα</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lavara</alternateName>
+<timezone dstOffset="3.0" gmtOffset="2.0">Europe/Athens</timezone>
+<bbox>
+<west>26.37735</west>
+<north>41.27116</north>
+<east>26.38932</east>
+<south>41.26217</south>
+</bbox>
+<score>12.125049591064453</score>
+</geoname>
+<geoname>
+<toponymName>Lavasa</toponymName>
+<name>Lavasa</name>
+<lat>18.40323</lat>
+<lng>73.5057</lng>
+<geonameId>8261100</geonameId>
+<countryCode>IN</countryCode>
+<countryName>India</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>lavasa,लवासा</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="MH">16</adminCode1>
+<adminName1>Mahārāshtra</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="hi">लवासा</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lavasa</alternateName>
+<alternateName lang="mr">लवासा</alternateName>
+<timezone dstOffset="5.5" gmtOffset="5.5">Asia/Kolkata</timezone>
+<bbox>
+<west>73.49622</west>
+<north>18.41223</north>
+<east>73.51518</east>
+<south>18.39424</south>
+</bbox>
+<score>10.202573776245117</score>
+</geoname>
+<geoname>
+<toponymName>Lamaca</toponymName>
+<name>Lamaca</name>
+<lat>-4.03886</lat>
+<lng>-79.84441</lng>
+<geonameId>3656773</geonameId>
+<countryCode>EC</countryCode>
+<countryName>Ecuador</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Hacienda La Hamaca,La Hamaca,Lamaca</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="L">12</adminCode1>
+<adminName1>Loja</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Guayaquil</timezone>
+<bbox>
+<west>-79.85343</west>
+<north>-4.02987</north>
+<east>-79.8354</east>
+<south>-4.04785</south>
+</bbox>
+<score>7.90287971496582</score>
+</geoname>
+<geoname>
+<toponymName>Lavala</toponymName>
+<name>Lavala</name>
+<lat>65.3</lat>
+<lng>29.5</lng>
+<geonameId>648621</geonameId>
+<countryCode>FI</countryCode>
+<countryName>Finland</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="OL">08</adminCode1>
+<adminName1>Oulu</adminName1>
+<adminCode2>18</adminCode2>
+<adminName2>Kainuu</adminName2>
+<adminCode3>777</adminCode3>
+<adminName3>Suomussalmi</adminName3>
+<timezone dstOffset="3.0" gmtOffset="2.0">Europe/Helsinki</timezone>
+<bbox>
+<west>29.47847</west>
+<north>65.30899</north>
+<east>29.52153</east>
+<south>65.29101</south>
+</bbox>
+<score>6.452674388885498</score>
+</geoname>
+<geoname>
+<toponymName>Lapaca</toponymName>
+<name>Lapaca</name>
+<lat>-14.35028</lat>
+<lng>39.65722</lng>
+<geonameId>1044042</geonameId>
+<countryCode>MZ</countryCode>
+<countryName>Mozambique</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="N">06</adminCode1>
+<adminName1>Nampula</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Maputo</timezone>
+<bbox>
+<west>39.64794</west>
+<north>-14.34128</north>
+<east>39.66651</east>
+<south>-14.35927</south>
+</bbox>
+<score>6.452674388885498</score>
+</geoname>
+<geoname>
+<toponymName>Lavava</toponymName>
+<name>Lavava</name>
+<lat>-7.38333</lat>
+<lng>155.58333</lng>
+<geonameId>2106914</geonameId>
+<countryCode>SB</countryCode>
+<countryName>Solomon Islands</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="11.0" gmtOffset="11.0">Pacific/Guadalcanal</timezone>
+<score>6.452674388885498</score>
+</geoname>
+</geonames>

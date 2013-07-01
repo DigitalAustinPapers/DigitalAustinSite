@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>38</totalResultsCount>
+<geoname>
+<toponymName>Mexico City</toponymName>
+<name>Mexico City</name>
+<lat>19.42847</lat>
+<lng>-99.12766</lng>
+<geonameId>3530597</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPLC</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>capital of a political entity</fcodeName>
+<population>12294193</population>
+<alternateNames>Cidade de Mexico,Cidade de México,Cidade do Mexico,Cidade do México,Cita du Messicu,Citta del Messico,Città del Messico,Cità dû Messicu,Cità dû Mèssicu,Ciudad Mexico,Ciudad de Mejico,Ciudad de Mexico,Ciudad de Méjico,Ciudad de México,Ciutat de Mexic,Ciutat de Mèxic,Lungsod ng Mexico,Lungsod ng México,MEX,Mehiko,Mekhiko,Meksikas,Meksiko,Meksiko Siti,Meksikurbo,Meksyk,Mexico,Mexico City,Mexico D.F.,Mexico DF,Mexico Distrito Federal,Mexico by,Mexico-stad,Mexicopolis,Mexiko,Mexiko Hiria,Mexiko-Stadt,Mexikoborg,Mexíkóborg,México,México Distrito Federal,Pole tou Mexikou,Valle de Mexico,Valle de México,mdynt mksykw,megsiko si,mekishikoshiti,meksiko siti,meksikositi,mkzykw,mkzykwsyty,mo xi ge cheng,mqsyqw syty,Πόλη του Μεξικού,Мексико,Мексико Сити,Мехико,Мехіко,מקסיקו סיטי,مدينة مكسيكو,مکزیکو,مکزیکوسیتی,مېكسىكا شەھىرى,मेक्सिको सिटी,เม็กซิโกซิตี,მეხიკო,メキシコシティ,墨西哥城,멕시코 시</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="DIF">09</adminCode1>
+<adminName1>The Federal District</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ar">مدينة مكسيكو</alternateName>
+<alternateName lang="bg">Мексико</alternateName>
+<alternateName lang="bs">Mexico City</alternateName>
+<alternateName lang="ca">Ciutat de Mèxic</alternateName>
+<alternateName lang="cs">Ciudad de México</alternateName>
+<alternateName lang="da">Mexico City</alternateName>
+<alternateName lang="de">Mexiko-Stadt</alternateName>
+<alternateName lang="el">Πόλη του Μεξικού</alternateName>
+<alternateName lang="en">Mexico City</alternateName>
+<alternateName lang="eo">Meksikurbo</alternateName>
+<alternateName lang="es">Ciudad de México</alternateName>
+<alternateName lang="et">México</alternateName>
+<alternateName lang="eu">Mexiko Hiria</alternateName>
+<alternateName lang="fa">مکزیکو</alternateName>
+<alternateName lang="fi">México</alternateName>
+<alternateName lang="fr">Mexico</alternateName>
+<alternateName lang="gl">Cidade de México</alternateName>
+<alternateName lang="hbs">Ciudad Mexico</alternateName>
+<alternateName lang="he">מקסיקו סיטי</alternateName>
+<alternateName lang="hr">Ciudad de México</alternateName>
+<alternateName lang="iata">MEX</alternateName>
+<alternateName lang="id">Ciudad de México</alternateName>
+<alternateName lang="io">Mexiko</alternateName>
+<alternateName lang="is">Mexíkóborg</alternateName>
+<alternateName lang="it">Città del Messico</alternateName>
+<alternateName lang="ja">メキシコシティ</alternateName>
+<alternateName lang="ka">მეხიკო</alternateName>
+<alternateName lang="ko">멕시코 시</alternateName>
+<alternateName lang="la">Mexicopolis</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Mexico_City</alternateName>
+<alternateName lang="lt">Meksikas</alternateName>
+<alternateName lang="lv">Mehiko</alternateName>
+<alternateName lang="mr">मेक्सिको सिटी</alternateName>
+<alternateName lang="nl">Mexico-stad</alternateName>
+<alternateName lang="nn">Mexico by</alternateName>
+<alternateName lang="no">Mexico by</alternateName>
+<alternateName lang="oc">Ciutat de Mexic</alternateName>
+<alternateName lang="pl">Meksyk</alternateName>
+<alternateName lang="pt">Cidade do México</alternateName>
+<alternateName lang="ro">Mexico</alternateName>
+<alternateName lang="ru">Мехико</alternateName>
+<alternateName lang="scn">Cità dû Messicu</alternateName>
+<alternateName lang="sk">Mexiko</alternateName>
+<alternateName lang="sl">Ciudad de México</alternateName>
+<alternateName lang="sr">Мексико</alternateName>
+<alternateName lang="sv">Mexico City</alternateName>
+<alternateName lang="sw">Mexico</alternateName>
+<alternateName lang="th">เม็กซิโกซิตี</alternateName>
+<alternateName lang="tl">México</alternateName>
+<alternateName lang="tr">Ciudad de Mexico</alternateName>
+<alternateName lang="ug">مېكسىكا شەھىرى</alternateName>
+<alternateName lang="uk">Мехіко</alternateName>
+<alternateName lang="unlc">MEX</alternateName>
+<alternateName lang="vi">Ciudad de Mexico</alternateName>
+<alternateName lang="zh">墨西哥城</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-99.61168</west>
+<north>19.88363</north>
+<east>-98.64365</east>
+<south>18.97331</south>
+</bbox>
+<score>97.18182373046875</score>
+</geoname>
+<geoname>
+<toponymName>Mexico</toponymName>
+<name>Mexico</name>
+<lat>15.0646</lat>
+<lng>120.7198</lng>
+<geonameId>1699805</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>43694</population>
+<alternateNames>Mexico</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="AGS">03</adminCode1>
+<adminName1>Central Luzon</adminName1>
+<adminCode2>50</adminCode2>
+<adminName2>Pampanga</adminName2>
+<adminCode3>1699806</adminCode3>
+<adminName3>Mexico</adminName3>
+<alternateName lang="fil">Mexico</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Mexico%2C_Pampanga</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<bbox>
+<west>120.69186</west>
+<north>15.09158</north>
+<east>120.74774</east>
+<south>15.03762</south>
+</bbox>
+<score>59.51146697998047</score>
+</geoname>
+<geoname>
+<toponymName>Estado de México</toponymName>
+<name>Estado de México</name>
+<lat>19.33333</lat>
+<lng>-99.5</lng>
+<geonameId>3523272</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>first-order administrative division</fcodeName>
+<population/>
+<alternateNames>Estado de Mexico,Estado de México,Estat de Mexic,Estat de Mèxic,MEX,Messico,Mexico,Mexikoko estatua,México,Stat Meksiko,mehiko zhou,mo xi ge zhou,メヒコ州,墨西哥州</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MEX">15</adminCode1>
+<adminName1>México</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="abbr">MEX</alternateName>
+<alternateName lang="ca">Estat de Mèxic</alternateName>
+<alternateName lang="cs">México</alternateName>
+<alternateName lang="da">Mexico</alternateName>
+<alternateName lang="de">México</alternateName>
+<alternateName lang="eo">Estado de México</alternateName>
+<alternateName lang="es">México</alternateName>
+<alternateName lang="eu">Mexikoko estatua</alternateName>
+<alternateName lang="fi">Estado de México</alternateName>
+<alternateName lang="it">Messico</alternateName>
+<alternateName lang="ja">メヒコ州</alternateName>
+<alternateName lang="kw">Stat Meksiko</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/State_of_Mexico</alternateName>
+<alternateName lang="nl">Mexico</alternateName>
+<alternateName lang="no">México</alternateName>
+<alternateName lang="pt">México</alternateName>
+<alternateName lang="zh">墨西哥州</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-100.58778</west>
+<north>20.27083</north>
+<east>-98.57973</east>
+<south>18.38972</south>
+</bbox>
+<score>54.326290130615234</score>
+</geoname>
+<geoname>
+<toponymName>Mexico</toponymName>
+<name>Mexico</name>
+<lat>23</lat>
+<lng>-102</lng>
+<geonameId>3996063</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>A</fcl>
+<fcode>PCLI</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>independent political entity</fcodeName>
+<population>112468855</population>
+<alternateNames>Estados Unidos Mexicanos,IMekisikho,IMekisiko,Maexikaen,Makasiko,Maxiko,Me Tay Co (Me-hi-co),Me'seeseve'ho'eveno,Me-hi-co,Meagsago,Mec'hiko,Mecsico,Mecʼhiko,Megizike,Mehhiko,Mehigo,Mehika,Mehiko,Mehksyka,Meicsiceo,Mejico,Mejicu,Mejiko,Mek-sa-go,Meketiko,Mekiko,Mekisiki,Mekisiko,Mekisikou,Mekisîki,Meksico,Meksico nutome,Meksik,Meksika,Meksikae,Meksike,Meksikeh,Meksikho,Meksiki,Meksiko,Meksikoe,Meksikokondre,Meksikoo,Meksikë,Meksyk,Meksîk,Mescico,Mesico,Messic,Messich,Messico,Messicu,Messiku,Met-si-ko,Mexic,Mexican Republic,Mexico,Mexicu,Mexicum,Mexihco,Mexikia,Mexiko,Mexikó,Mexiqo,Mexique,Mexíkó,Me̍t-sî-kô,Migizike,Mishiku,Mixiku,Mäxikän,Mèksiko,Mèsico,Mèssico,Mèssicu,Mèxic,Mé'šeeséve'ho'évenó,Méhigo,Méhiko,Méjico,Méjicu,Méjiko,Méksiko,Méssich,México,Méxicu,Mê-hi-cô,Mïxiku,Mēxihco,Mĕ̤k-să̤-gŏ̤,Mɛkisiki,Mɛksiko,Mẹ́ksíkò,Mễ Tây Cơ (Mê-hi-cô),Nueva Espana,Nueva España,Orileede Mesiko,Orílẹ́ède Mesiko,Republica Mejicana,Republica Mejico,Republica Mexicana,República Mejicana,República Méjico,United Mexican States,almksyk,almyksyk,el pais azteca,el país azteca,i-Mexico,maikasiko,maksiko,megsiko,mekcikko,mekciko,mekishiko,mekishiko he zhong guo,meksikkea,meksiko,mexygu'e,mksyqw,mkzyk,mo xi ge,mqsyqw,myksykw,mʻqsyqʼ,prathes meksiko,Μεξικό,Мексик,Мексикæ,Мексика,Мексико,Мексикудин Ниицәтә Орн Нутгуд,Мексикэ,Мексіка,Мексіко,Мэксыка,Մեքսիկա,מעקסיקא,מקסיקו,المكسيك,الميكسيك,مکزیک,میکسیکو,مېكسىكا,مەکسیک,ܡܟܣܝܩܘ,މެކްސިކޯ,मेक्सिको,মক্সিকো,মেক্সিকো,ਮੈਕਸੀਕੋ,મેક્સિકો,ମେକ୍ସିକୋ,மெக்சிகோ,மெக்சிக்கோ,మెక్సికో,ಮೆಕ್ಸಿಕೊ,ಮೆಕ್ಸಿಕೋ,മെക്സിക്കോ,മേക്സിക്കോ,මෙක්සිකෝව,ประเทศเม็กซิโก,เม็กซิโก,ແມັກຊິໂກ,མེཀ་སི་ཀོ,མེཀ་སི་ཀོ།,མེཀསི་ཀོ,མེག་སི་ཀོ།,မက္ကဆီကို,မက္ကဆီကိုနိုင်ငံ,მექსიკა,ሜክሲኮ,ᎺᏏᎪ,ᒦᒃᓰᖂ,ម៉ិចសិក,ម៉ិចស៊ិក,メキシコ,メキシコ合衆国,墨西哥,멕시코,&#66364;&#66352;&#66361;&#66359;&#66361;&#66362;&#66377;</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ace">Meksiko</alternateName>
+<alternateName lang="af">Meksiko</alternateName>
+<alternateName lang="ak">Mɛksiko</alternateName>
+<alternateName lang="am">ሜክሲኮ</alternateName>
+<alternateName lang="an">Mexico</alternateName>
+<alternateName lang="ar">المكسيك</alternateName>
+<alternateName lang="arc">ܡܟܣܝܩܘ</alternateName>
+<alternateName lang="arz">الميكسيك</alternateName>
+<alternateName lang="ast">Méxicu</alternateName>
+<alternateName lang="ay">Mïxiku</alternateName>
+<alternateName lang="az">Meksika</alternateName>
+<alternateName lang="ba">Мексика</alternateName>
+<alternateName lang="bcl">Mehiko</alternateName>
+<alternateName lang="be">Мексіка</alternateName>
+<alternateName lang="bg">Мексико</alternateName>
+<alternateName lang="bm">Meksiki</alternateName>
+<alternateName lang="bn">মেক্সিকো</alternateName>
+<alternateName lang="bo">མེཀ་སི་ཀོ།</alternateName>
+<alternateName lang="bpy">মেক্সিকো</alternateName>
+<alternateName lang="br">Mecʼhiko</alternateName>
+<alternateName lang="bs">Meksiko</alternateName>
+<alternateName lang="bxr">Мексико</alternateName>
+<alternateName lang="ca">Mèxic</alternateName>
+<alternateName lang="cdo">Mĕ̤k-să̤-gŏ̤</alternateName>
+<alternateName lang="ce">Мексика</alternateName>
+<alternateName lang="ceb">Mehiko</alternateName>
+<alternateName lang="chr">ᎺᏏᎪ</alternateName>
+<alternateName lang="chy">Mé'šeeséve'ho'évenó</alternateName>
+<alternateName lang="ckb">مەکسیک</alternateName>
+<alternateName lang="co">Messicu</alternateName>
+<alternateName lang="crh">Meksika</alternateName>
+<alternateName lang="cs">Mexiko</alternateName>
+<alternateName lang="cv">Мексика</alternateName>
+<alternateName lang="cy">México</alternateName>
+<alternateName lang="da">Mexico</alternateName>
+<alternateName lang="de">Mexiko</alternateName>
+<alternateName lang="diq">Meksika</alternateName>
+<alternateName lang="dv">މެކްސިކޯ</alternateName>
+<alternateName lang="dz">མེཀསི་ཀོ</alternateName>
+<alternateName lang="ee">Meksico nutome</alternateName>
+<alternateName lang="el">Μεξικό</alternateName>
+<alternateName lang="en">Mexico</alternateName>
+<alternateName lang="eo">Meksiko</alternateName>
+<alternateName lang="es">México</alternateName>
+<alternateName lang="et">Mehhiko</alternateName>
+<alternateName lang="eu">Mexiko</alternateName>
+<alternateName lang="ext">Méjicu</alternateName>
+<alternateName lang="fa">مکزیک</alternateName>
+<alternateName lang="ff">Meksik</alternateName>
+<alternateName lang="fi">Meksiko</alternateName>
+<alternateName lang="fo">Meksiko</alternateName>
+<alternateName lang="fr">Mexique</alternateName>
+<alternateName lang="frp">Mexique</alternateName>
+<alternateName lang="frr">Meksikoo</alternateName>
+<alternateName lang="fur">Messic</alternateName>
+<alternateName lang="fy">Meksiko</alternateName>
+<alternateName lang="ga">Meicsiceo</alternateName>
+<alternateName lang="gag">Meksika</alternateName>
+<alternateName lang="gan">墨西哥</alternateName>
+<alternateName lang="gd">Meagsago</alternateName>
+<alternateName lang="gl">México</alternateName>
+<alternateName lang="gn">Méjiko</alternateName>
+<alternateName lang="got">&#66364;&#66352;&#66361;&#66359;&#66361;&#66362;&#66377;</alternateName>
+<alternateName lang="gu">મેક્સિકો</alternateName>
+<alternateName lang="gv">Meksico</alternateName>
+<alternateName lang="ha">Makasiko</alternateName>
+<alternateName lang="hak">Me̍t-sî-kô</alternateName>
+<alternateName lang="haw">Mekiko</alternateName>
+<alternateName lang="hbs">Meksiko</alternateName>
+<alternateName lang="he">מקסיקו</alternateName>
+<alternateName lang="hi">मेक्सिको</alternateName>
+<alternateName lang="hr">Meksiko</alternateName>
+<alternateName lang="ht">Meksik</alternateName>
+<alternateName lang="hu">Mexikó</alternateName>
+<alternateName lang="hy">Մեքսիկա</alternateName>
+<alternateName lang="ia">Mexico</alternateName>
+<alternateName lang="id">Meksiko</alternateName>
+<alternateName lang="ik">Mexiqo</alternateName>
+<alternateName lang="ilo">Méhiko</alternateName>
+<alternateName lang="io">Mexikia</alternateName>
+<alternateName lang="is">Mexíkó</alternateName>
+<alternateName lang="it">Messico</alternateName>
+<alternateName lang="iu">ᒦᒃᓰᖂ</alternateName>
+<alternateName lang="ja">メキシコ合衆国</alternateName>
+<alternateName lang="jbo">mexygu'e</alternateName>
+<alternateName lang="jv">Mèksiko</alternateName>
+<alternateName lang="ka">მექსიკა</alternateName>
+<alternateName lang="kbd">Мексикэ</alternateName>
+<alternateName lang="ki">Meksiko</alternateName>
+<alternateName lang="kk">Мексика</alternateName>
+<alternateName lang="kl">Mexiko</alternateName>
+<alternateName lang="km">ម៉ិចសិក</alternateName>
+<alternateName lang="kn">ಮೆಕ್ಸಿಕೊ</alternateName>
+<alternateName lang="ko">멕시코</alternateName>
+<alternateName lang="krc">Мексика</alternateName>
+<alternateName lang="ku">مەکسیک</alternateName>
+<alternateName lang="kv">Мексика</alternateName>
+<alternateName lang="kw">Meksiko</alternateName>
+<alternateName lang="ky">Мексика</alternateName>
+<alternateName lang="la">Mexicum</alternateName>
+<alternateName lang="lad">Meksiko</alternateName>
+<alternateName lang="lb">Mexiko</alternateName>
+<alternateName lang="lez">Мексика</alternateName>
+<alternateName lang="lg">Mekisiko</alternateName>
+<alternateName lang="li">Mexico</alternateName>
+<alternateName lang="lij">Mescico</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Mexico</alternateName>
+<alternateName lang="lmo">Messich</alternateName>
+<alternateName lang="ln">Meksike</alternateName>
+<alternateName lang="lo">ແມັກຊິໂກ</alternateName>
+<alternateName lang="lt">Meksika</alternateName>
+<alternateName lang="ltg">Meksika</alternateName>
+<alternateName lang="lu">Meksike</alternateName>
+<alternateName lang="lv">Meksika</alternateName>
+<alternateName lang="mdf">Мексик</alternateName>
+<alternateName lang="mg">Meksika</alternateName>
+<alternateName lang="mhr">Мексика</alternateName>
+<alternateName lang="mi">Mehiko</alternateName>
+<alternateName lang="mk">Мексико</alternateName>
+<alternateName lang="ml">മേക്സിക്കോ</alternateName>
+<alternateName lang="mn">Мексик</alternateName>
+<alternateName lang="mr">मेक्सिको</alternateName>
+<alternateName lang="mrj">Мексика</alternateName>
+<alternateName lang="ms">Meksiko</alternateName>
+<alternateName lang="mt">Messiku</alternateName>
+<alternateName lang="mwl">México</alternateName>
+<alternateName lang="my">မက္ကဆီကို</alternateName>
+<alternateName lang="mzn">مکزیک</alternateName>
+<alternateName lang="na">Meketiko</alternateName>
+<alternateName lang="nah">Mēxihco</alternateName>
+<alternateName lang="nap">Messico</alternateName>
+<alternateName lang="nb">Mexico</alternateName>
+<alternateName lang="nd">Meksikho</alternateName>
+<alternateName lang="nds">Mexiko</alternateName>
+<alternateName lang="ne">मेक्सिको</alternateName>
+<alternateName lang="new">मेक्सिको</alternateName>
+<alternateName lang="nl">Mexico</alternateName>
+<alternateName lang="nn">Mexico</alternateName>
+<alternateName lang="no">Mexico</alternateName>
+<alternateName lang="nv">Méhigo</alternateName>
+<alternateName lang="oc">Mexic</alternateName>
+<alternateName lang="or">ମେକ୍ସିକୋ</alternateName>
+<alternateName lang="os">Мексикæ</alternateName>
+<alternateName lang="pa">ਮੈਕਸੀਕੋ</alternateName>
+<alternateName lang="pam">Mexico</alternateName>
+<alternateName lang="pih">Meksikoe</alternateName>
+<alternateName lang="pl">Meksyk</alternateName>
+<alternateName lang="pms">Méssich</alternateName>
+<alternateName lang="pnb">میکسیکو</alternateName>
+<alternateName lang="pt">México</alternateName>
+<alternateName lang="qu">Mishiku</alternateName>
+<alternateName lang="rm">Mexico</alternateName>
+<alternateName lang="rn">Migizike</alternateName>
+<alternateName lang="ro">Mexic</alternateName>
+<alternateName lang="ru">Мексика</alternateName>
+<alternateName lang="rue">Мексіко</alternateName>
+<alternateName lang="rw">Megizike</alternateName>
+<alternateName lang="sah">Мексика</alternateName>
+<alternateName lang="scn">Mèssicu</alternateName>
+<alternateName lang="se">Meksiko</alternateName>
+<alternateName lang="sg">Mekisîki</alternateName>
+<alternateName lang="si">මෙක්සිකෝව</alternateName>
+<alternateName lang="sk">Maxiko</alternateName>
+<alternateName lang="sl">Mehika</alternateName>
+<alternateName lang="sn">Mexico</alternateName>
+<alternateName lang="so">Meksiko</alternateName>
+<alternateName lang="sq">Meksika</alternateName>
+<alternateName lang="sr">Мексико</alternateName>
+<alternateName lang="srn">Meksikokondre</alternateName>
+<alternateName lang="ss">IMekisikho</alternateName>
+<alternateName lang="su">Méksiko</alternateName>
+<alternateName lang="sv">Mexiko</alternateName>
+<alternateName lang="sw">Mexiko</alternateName>
+<alternateName lang="szl">Meksyk</alternateName>
+<alternateName lang="ta">மெக்சிக்கோ</alternateName>
+<alternateName lang="te">మెక్సికో</alternateName>
+<alternateName lang="tg">Мексика</alternateName>
+<alternateName lang="th">เม็กซิโก</alternateName>
+<alternateName lang="ti">ሜክሲኮ</alternateName>
+<alternateName lang="tk">Meksika</alternateName>
+<alternateName lang="tl">Mehiko</alternateName>
+<alternateName lang="to">Mekisikou</alternateName>
+<alternateName lang="tpi">Meksiko</alternateName>
+<alternateName lang="tr">Meksika</alternateName>
+<alternateName lang="tt">Мексика</alternateName>
+<alternateName lang="ug">مېكسىكا</alternateName>
+<alternateName lang="uk">Мексика</alternateName>
+<alternateName lang="ur">میکسیکو</alternateName>
+<alternateName lang="uz">Meksika</alternateName>
+<alternateName lang="vec">Mèsico</alternateName>
+<alternateName lang="vep">Meksik</alternateName>
+<alternateName lang="vi">Mễ Tây Cơ (Mê-hi-cô)</alternateName>
+<alternateName lang="vo">Mäxikän</alternateName>
+<alternateName lang="war">Mehiko</alternateName>
+<alternateName lang="wo">Meksik</alternateName>
+<alternateName lang="wuu">墨西哥</alternateName>
+<alternateName lang="xal">Мексикудин Ниицәтә Орн Нутгуд</alternateName>
+<alternateName lang="xmf">მექსიკა</alternateName>
+<alternateName lang="yi">מעקסיקא</alternateName>
+<alternateName lang="yo">Orílẹ́ède Mesiko</alternateName>
+<alternateName lang="zh">墨西哥</alternateName>
+<alternateName lang="zu">i-Mexico</alternateName>
+<bbox>
+<west>-118.45396</west>
+<north>32.71676</north>
+<east>-86.70338</east>
+<south>14.53287</south>
+</bbox>
+<score>51.49368667602539</score>
+</geoname>
+<geoname>
+<toponymName>Mexico</toponymName>
+<name>Mexico</name>
+<lat>43.45951</lat>
+<lng>-76.22882</lng>
+<geonameId>5126705</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1624</population>
+<alternateNames/>
+<elevation>125</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>075</adminCode2>
+<adminName2>Oswego County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Mexico%2C_New_York</alternateName>
+<alternateName lang="post">13114</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-76.23501</west>
+<north>43.46401</north>
+<east>-76.22262</east>
+<south>43.45502</south>
+</bbox>
+<score>42.51704788208008</score>
+</geoname>
+<geoname>
+<toponymName>Mexico</toponymName>
+<name>Mexico</name>
+<lat>15.11667</lat>
+<lng>120.68333</lng>
+<geonameId>1699806</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population>124172</population>
+<alternateNames>Mexico</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="AGS">03</adminCode1>
+<adminName1>Central Luzon</adminName1>
+<adminCode2>50</adminCode2>
+<adminName2>Pampanga</adminName2>
+<adminCode3>1699806</adminCode3>
+<adminName3>Mexico</adminName3>
+<alternateName lang="fil">Mexico</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<score>37.19466781616211</score>
+</geoname>
+<geoname>
+<toponymName>Mexico</toponymName>
+<name>Mexico</name>
+<lat>37.22505</lat>
+<lng>-88.09669</lng>
+<geonameId>4300612</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>151</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>055</adminCode2>
+<adminName2>Crittenden County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Mexico%2C_Kentucky</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-88.10799</west>
+<north>37.23405</north>
+<east>-88.08539</east>
+<south>37.21606</south>
+</bbox>
+<score>36.44318389892578</score>
+</geoname>
+<geoname>
+<toponymName>Mexico</toponymName>
+<name>Mexico</name>
+<lat>39.16976</lat>
+<lng>-91.88295</lng>
+<geonameId>4398103</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>11543</population>
+<alternateNames/>
+<elevation>244</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>007</adminCode2>
+<adminName2>Audrain County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Mexico%2C_Missouri</alternateName>
+<alternateName lang="post">65265</alternateName>
+<alternateName lang="unlc">MXI</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-91.90035</west>
+<north>39.18325</north>
+<east>-91.86554</east>
+<south>39.15627</south>
+</bbox>
+<score>36.44318389892578</score>
+</geoname>
+<geoname>
+<toponymName>Mexico</toponymName>
+<name>Mexico</name>
+<lat>40.82226</lat>
+<lng>-86.11555</lng>
+<geonameId>4923509</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>836</population>
+<alternateNames/>
+<elevation>214</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IN">IN</adminCode1>
+<adminName1>Indiana</adminName1>
+<adminCode2>103</adminCode2>
+<adminName2>Miami County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Mexico%2C_Indiana</alternateName>
+<alternateName lang="post">46958</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Indiana/Indianapolis</timezone>
+<bbox>
+<west>-86.11674</west>
+<north>40.82316</north>
+<east>-86.11436</east>
+<south>40.82136</south>
+</bbox>
+<score>36.44318389892578</score>
+</geoname>
+<geoname>
+<toponymName>Mexico</toponymName>
+<name>Mexico</name>
+<lat>44.5609</lat>
+<lng>-70.54534</lng>
+<geonameId>4971871</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1743</population>
+<alternateNames/>
+<elevation>146</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ME">ME</adminCode1>
+<adminName1>Maine</adminName1>
+<adminCode2>017</adminCode2>
+<adminName2>Oxford County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Mexico%2C_Maine</alternateName>
+<alternateName lang="post">04257</alternateName>
+<alternateName lang="unlc">XXX</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-70.55166</west>
+<north>44.56539</north>
+<east>-70.53903</east>
+<south>44.5564</south>
+</bbox>
+<score>36.44318389892578</score>
+</geoname>
+</geonames>

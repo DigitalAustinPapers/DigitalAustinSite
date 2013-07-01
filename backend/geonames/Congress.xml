@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>10</totalResultsCount>
+<geoname>
+<toponymName>Congress</toponymName>
+<name>Congress</name>
+<lat>34.16253</lat>
+<lng>-112.85074</lng>
+<geonameId>5290559</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1975</population>
+<alternateNames/>
+<elevation>930</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AZ">AZ</adminCode1>
+<adminName1>Arizona</adminName1>
+<adminCode2>025</adminCode2>
+<adminName2>Yavapai County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Congress%2C_Arizona</alternateName>
+<alternateName lang="post">85332</alternateName>
+<alternateName lang="unlc">NZF</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-7.0">America/Phoenix</timezone>
+<bbox>
+<west>-112.85617</west>
+<north>34.16702</north>
+<east>-112.8453</east>
+<south>34.15803</south>
+</bbox>
+<score>62.16790771484375</score>
+</geoname>
+<geoname>
+<toponymName>Congress</toponymName>
+<name>Congress</name>
+<lat>49.76676</lat>
+<lng>-106.01786</lng>
+<geonameId>5926686</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>P</fcl>
+<fcode>PPLL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SK">11</adminCode1>
+<adminName1>Saskatchewan</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Congress%2C_Saskatchewan</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Regina</timezone>
+<bbox>
+<west>-106.01925</west>
+<north>49.76765</north>
+<east>-106.01647</east>
+<south>49.76586</south>
+</bbox>
+<score>51.80658721923828</score>
+</geoname>
+<geoname>
+<toponymName>Congress</toponymName>
+<name>Congress</name>
+<lat>40.92589</lat>
+<lng>-82.05293</lng>
+<geonameId>5150971</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>185</population>
+<alternateNames/>
+<elevation>354</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>169</adminCode2>
+<adminName2>Wayne County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-82.05412</west>
+<north>40.92679</north>
+<east>-82.05174</east>
+<south>40.92499</south>
+</bbox>
+<score>41.44527053833008</score>
+</geoname>
+<geoname>
+<toponymName>Congreso</toponymName>
+<name>Congreso</name>
+<lat>-34.60948</lat>
+<lng>-58.39225</lng>
+<geonameId>3435259</geonameId>
+<countryCode>AR</countryCode>
+<countryName>Argentina</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="C">07</adminCode1>
+<adminName1>Buenos Aires F.D.</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Congreso_%28Buenos_Aires_Metro%29</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Argentina/Buenos_Aires</timezone>
+<bbox>
+<west>-58.39662</west>
+<north>-34.60588</north>
+<east>-58.38788</east>
+<south>-34.61307</south>
+</bbox>
+<score>17.735721588134766</score>
+</geoname>
+<geoname>
+<toponymName>Congreso</toponymName>
+<name>Congreso</name>
+<lat>22.77528</lat>
+<lng>-81.62667</lng>
+<geonameId>3563568</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="04">03</adminCode1>
+<adminName1>Matanzas</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>14.188577651977539</score>
+</geoname>
+<geoname>
+<toponymName>Congreso</toponymName>
+<name>Congreso</name>
+<lat>16.05</lat>
+<lng>-93.79167</lng>
+<geonameId>3816749</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CHP">05</adminCode1>
+<adminName1>Chiapas</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-93.80103</west>
+<north>16.05899</north>
+<east>-93.78231</east>
+<south>16.04101</south>
+</bbox>
+<score>14.188577651977539</score>
+</geoname>
+<geoname>
+<toponymName>Congreso</toponymName>
+<name>Congreso</name>
+<lat>-10.81667</lat>
+<lng>-66.86667</lng>
+<geonameId>3919221</geonameId>
+<countryCode>BO</countryCode>
+<countryName>Bolivia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="N">06</adminCode1>
+<adminName1>Pando</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/La_Paz</timezone>
+<bbox>
+<west>-66.87582</west>
+<north>-10.80767</north>
+<east>-66.85751</east>
+<south>-10.82566</south>
+</bbox>
+<score>14.188577651977539</score>
+</geoname>
+<geoname>
+<toponymName>El Congreso</toponymName>
+<name>El Congreso</name>
+<lat>8.94635</lat>
+<lng>-74.76688</lng>
+<geonameId>3684488</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Congreso,Corregimiento El Congreso,El Congreso</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="SUC">27</adminCode1>
+<adminName1>Sucre</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<bbox>
+<west>-74.77599</west>
+<north>8.95535</north>
+<east>-74.75778</east>
+<south>8.93736</south>
+</bbox>
+<score>10.03283977508545</score>
+</geoname>
+<geoname>
+<toponymName>Congreso</toponymName>
+<name>Congreso</name>
+<lat>21.53333</lat>
+<lng>-77.6</lng>
+<geonameId>3563567</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>S</fcl>
+<fcode>RSTP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>railroad stop</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="09">05</adminCode1>
+<adminName1>Camagüey</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>4.433930397033691</score>
+</geoname>
+<geoname>
+<toponymName>Congreso</toponymName>
+<name>Congreso</name>
+<lat>-27.09332</lat>
+<lng>-70.5211</lng>
+<geonameId>3893779</geonameId>
+<countryCode>CL</countryCode>
+<countryName>Chile</countryName>
+<fcl>S</fcl>
+<fcode>MN</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>mine(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="AT">05</adminCode1>
+<adminName1>Atacama</adminName1>
+<adminCode2>31</adminCode2>
+<adminName2>Provincia de Copiapó</adminName2>
+<adminCode3>03102</adminCode3>
+<adminName3>Caldera</adminName3>
+<timezone dstOffset="-4.0" gmtOffset="-3.0">America/Santiago</timezone>
+<score>4.433930397033691</score>
+</geoname>
+</geonames>

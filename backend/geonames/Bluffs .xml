@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Bluffs</toponymName>
+<name>Bluffs</name>
+<lat>39.56894</lat>
+<lng>-86.2511</lng>
+<geonameId>4254739</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>213</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IN">IN</adminCode1>
+<adminName1>Indiana</adminName1>
+<adminCode2>109</adminCode2>
+<adminName2>Morgan County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bluffs%2C_Indiana</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Indiana/Indianapolis</timezone>
+<bbox>
+<west>-86.26277</west>
+<north>39.57793</north>
+<east>-86.23943</east>
+<south>39.55994</south>
+</bbox>
+<score>66.34339141845703</score>
+</geoname>
+<geoname>
+<toponymName>Bluffs</toponymName>
+<name>Bluffs</name>
+<lat>39.75199</lat>
+<lng>-90.53513</lng>
+<geonameId>4234125</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>715</population>
+<alternateNames/>
+<elevation>143</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>171</adminCode2>
+<adminName2>Scott County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bluffs%2C_Illinois</alternateName>
+<alternateName lang="post">62621</alternateName>
+<alternateName lang="unlc">BJU</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.54476</west>
+<north>39.75577</north>
+<east>-90.52572</east>
+<south>39.74281</south>
+</bbox>
+<score>55.28615951538086</score>
+</geoname>
+<geoname>
+<toponymName>Bluffy</toponymName>
+<name>Bluffy</name>
+<lat>45.86964</lat>
+<lng>6.2183</lng>
+<geonameId>3032188</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>318</population>
+<alternateNames>Bluffy</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="V">B9</adminCode1>
+<adminName1>Rhône-Alpes</adminName1>
+<adminCode2>74</adminCode2>
+<adminName2>Haute-Savoie</adminName2>
+<adminCode3>741</adminCode3>
+<adminName3>Arrondissement d'Annecy</adminName3>
+<adminCode4>74036</adminCode4>
+<adminName4>Bluffy</adminName4>
+<alternateName lang="post">74290</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>6.21701</west>
+<north>45.87054</north>
+<east>6.21959</east>
+<south>45.86874</south>
+</bbox>
+<score>9.028183937072754</score>
+</geoname>
+<geoname>
+<toponymName>Bluffy</toponymName>
+<name>Bluffy</name>
+<lat>45.86861</lat>
+<lng>6.21806</lng>
+<geonameId>6451020</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population>326</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="V">B9</adminCode1>
+<adminName1>Rhône-Alpes</adminName1>
+<adminCode2>74</adminCode2>
+<adminName2>Haute-Savoie</adminName2>
+<adminCode3>741</adminCode3>
+<adminName3>Arrondissement d'Annecy</adminName3>
+<adminCode4>74036</adminCode4>
+<adminName4>Bluffy</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bluffy%2C_Haute-Savoie</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>6.20708</west>
+<north>45.87767</north>
+<east>6.24106</east>
+<south>45.85665</south>
+</bbox>
+<score>7.371481418609619</score>
+</geoname>
+</geonames>

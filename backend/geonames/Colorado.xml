@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>200</totalResultsCount>
+<geoname>
+<toponymName>Colorado</toponymName>
+<name>Colorado</name>
+<lat>-28.4832</lat>
+<lng>-52.99088</lng>
+<geonameId>6323403</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>3550</population>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="RS">23</adminCode1>
+<adminName1>Rio Grande do Sul</adminName1>
+<adminCode2>4305603</adminCode2>
+<adminName2>Colorado</adminName2>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Sao_Paulo</timezone>
+<bbox>
+<west>-53.07905</west>
+<north>-28.33444</north>
+<east>-52.91415</east>
+<south>-28.58982</south>
+</bbox>
+<score>62.02586364746094</score>
+</geoname>
+<geoname>
+<toponymName>Colorado</toponymName>
+<name>Colorado</name>
+<lat>-22.83827</lat>
+<lng>-51.98015</lng>
+<geonameId>6322738</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>22347</population>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="PR">18</adminCode1>
+<adminName1>Paraná</adminName1>
+<adminCode2>4105904</adminCode2>
+<adminName2>Colorado</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Colorado%2C_Paran%C3%A1</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Sao_Paulo</timezone>
+<bbox>
+<west>-52.08994</west>
+<north>-22.6773</north>
+<east>-51.8324</east>
+<south>-22.95795</south>
+</bbox>
+<score>49.620689392089844</score>
+</geoname>
+<geoname>
+<toponymName>Colorado</toponymName>
+<name>Colorado</name>
+<lat>29.98578</lat>
+<lng>-97.13415</lng>
+<geonameId>4682620</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>107</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>021</adminCode2>
+<adminName2>Bastrop County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Colorado%2C_Texas</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-97.14454</west>
+<north>29.99477</north>
+<east>-97.12377</east>
+<south>29.97678</south>
+</bbox>
+<score>37.21551513671875</score>
+</geoname>
+<geoname>
+<toponymName>Colorados</toponymName>
+<name>Colorados</name>
+<lat>19.91667</lat>
+<lng>-77.68333</lng>
+<geonameId>3563755</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Colorado,Colorados,Las Colorados</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="12">09</adminCode1>
+<adminName1>Granma</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<bbox>
+<west>-77.6929</west>
+<north>19.92566</north>
+<east>-77.67377</east>
+<south>19.90767</south>
+</bbox>
+<score>34.24613571166992</score>
+</geoname>
+<geoname>
+<toponymName>Colorados</toponymName>
+<name>Colorados</name>
+<lat>3.81667</lat>
+<lng>-76.45</lng>
+<geonameId>3686069</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Colorado,Colorados</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="VAC">29</adminCode1>
+<adminName1>Valle del Cauca</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<bbox>
+<west>-76.45901</west>
+<north>3.82566</north>
+<east>-76.44099</east>
+<south>3.80767</south>
+</bbox>
+<score>34.24613571166992</score>
+</geoname>
+<geoname>
+<toponymName>Colorada</toponymName>
+<name>Colorada</name>
+<lat>25.97832</lat>
+<lng>-106.66457</lng>
+<geonameId>4013283</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Colorada,Colorado,La Colorada</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CHH">06</adminCode1>
+<adminName1>Chihuahua</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Chihuahua</timezone>
+<bbox>
+<west>-106.67458</west>
+<north>25.98731</north>
+<east>-106.65457</east>
+<south>25.96932</south>
+</bbox>
+<score>32.920265197753906</score>
+</geoname>
+<geoname>
+<toponymName>Colorada</toponymName>
+<name>Colorada</name>
+<lat>21.81667</lat>
+<lng>-101.63333</lng>
+<geonameId>4013285</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Colorada,Colorado</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="JAL">14</adminCode1>
+<adminName1>Jalisco</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-101.64302</west>
+<north>21.82566</north>
+<east>-101.62365</east>
+<south>21.80767</south>
+</bbox>
+<score>32.920265197753906</score>
+</geoname>
+<geoname>
+<toponymName>Colorado</toponymName>
+<name>Colorado</name>
+<lat>-28.52389</lat>
+<lng>-52.99417</lng>
+<geonameId>3465880</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Boa Esperanca,Boa Esperança</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="RS">23</adminCode1>
+<adminName1>Rio Grande do Sul</adminName1>
+<adminCode2>4305603</adminCode2>
+<adminName2>Colorado</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Colorado%2C_Rio_Grande_do_Sul</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Sao_Paulo</timezone>
+<bbox>
+<west>-53.0044</west>
+<north>-28.5149</north>
+<east>-52.98393</east>
+<south>-28.53288</south>
+</bbox>
+<score>31.01293182373047</score>
+</geoname>
+<geoname>
+<toponymName>Colorado</toponymName>
+<name>Colorado</name>
+<lat>-22.8375</lat>
+<lng>-51.97306</lng>
+<geonameId>3465881</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>20449</population>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="PR">18</adminCode1>
+<adminName1>Paraná</adminName1>
+<adminCode2>4105904</adminCode2>
+<adminName2>Colorado</adminName2>
+<alternateName lang="unlc">CRO</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Sao_Paulo</timezone>
+<bbox>
+<west>-51.99317</west>
+<north>-22.81896</north>
+<east>-51.95294</east>
+<south>-22.85604</south>
+</bbox>
+<score>31.01293182373047</score>
+</geoname>
+<geoname>
+<toponymName>Colorado</toponymName>
+<name>Colorado</name>
+<lat>19.83558</lat>
+<lng>-96.93301</lng>
+<geonameId>3529123</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Colorado,El Colorado</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VER">30</adminCode1>
+<adminName1>Veracruz-Llave</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-96.94257</west>
+<north>19.84458</north>
+<east>-96.92345</east>
+<south>19.82659</south>
+</bbox>
+<score>30.386343002319336</score>
+</geoname>
+</geonames>

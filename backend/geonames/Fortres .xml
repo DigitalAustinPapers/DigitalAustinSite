@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>13</totalResultsCount>
+<geoname>
+<toponymName>Forties</toponymName>
+<name>Forties</name>
+<lat>44.73345</lat>
+<lng>-64.54876</lng>
+<geonameId>5955861</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NS">07</adminCode1>
+<adminName1>Nova Scotia</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Forties%2C_Nova_Scotia</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-4.0">America/Halifax</timezone>
+<score>41.638450622558594</score>
+</geoname>
+<geoname>
+<toponymName>Long Forties</toponymName>
+<name>Long Forties</name>
+<lat>57</lat>
+<lng>0.5</lng>
+<geonameId>3163705</geonameId>
+<countryCode/>
+<countryName/>
+<fcl>U</fcl>
+<fcode>BNKU</fcode>
+<fclName>undersea</fclName>
+<fcodeName>bank</fcodeName>
+<population/>
+<alternateNames>Forties</alternateNames>
+<elevation/>
+<adminCode1/>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Long_Forties</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Atlantic/Faroe</timezone>
+<score>29.442829132080078</score>
+</geoname>
+<geoname>
+<toponymName>Forres</toponymName>
+<name>Forres</name>
+<lat>57.61125</lat>
+<lng>-3.61078</lng>
+<geonameId>2649192</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>9134</population>
+<alternateNames>FSS,Farrais,Forres</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>V6</adminCode2>
+<adminName2>Moray</adminName2>
+<alternateName lang="gd">Farrais</alternateName>
+<alternateName lang="iata">FSS</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Forres</alternateName>
+<alternateName lang="unlc">FRS</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.633</west>
+<north>57.62314</north>
+<east>-3.58856</east>
+<south>57.59935</south>
+</bbox>
+<score>22.210844039916992</score>
+</geoname>
+<geoname>
+<toponymName>Festningen</toponymName>
+<name>Festningen</name>
+<lat>78.1012</lat>
+<lng>13.92231</lng>
+<geonameId>2731267</geonameId>
+<countryCode>SJ</countryCode>
+<countryName>Svalbard and Jan Mayen</countryName>
+<fcl>T</fcl>
+<fcode>RK</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>rock</fcodeName>
+<population/>
+<alternateNames>Castle Rock,Faestninga,Fastningen,Festningen,Forteresse,Fortress,Fästningen,Fæstninga,Island Festningen,Mys Krepost,Sandstenskammen</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Arctic/Longyearbyen</timezone>
+<score>16.557296752929688</score>
+</geoname>
+<geoname>
+<toponymName>Fortes</toponymName>
+<name>Fortes</name>
+<lat>-17.29056</lat>
+<lng>35.34917</lng>
+<geonameId>1095628</geonameId>
+<countryCode>MZ</countryCode>
+<countryName>Mozambique</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="Q">09</adminCode1>
+<adminName1>Zambézia</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Maputo</timezone>
+<bbox>
+<west>35.33975</west>
+<north>-17.28156</north>
+<east>35.35859</east>
+<south>-17.29955</south>
+</bbox>
+<score>16.192718505859375</score>
+</geoname>
+<geoname>
+<toponymName>Fortes</toponymName>
+<name>Fortes</name>
+<lat>37.34998</lat>
+<lng>-7.61331</lng>
+<geonameId>2267965</geonameId>
+<countryCode>PT</countryCode>
+<countryName>Portugal</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="08">09</adminCode1>
+<adminName1>Faro</adminName1>
+<adminCode2>0804</adminCode2>
+<adminName2>Castro Marim</adminName2>
+<adminCode3>080403</adminCode3>
+<adminName3>Odeleite</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Lisbon</timezone>
+<bbox>
+<west>-7.62462</west>
+<north>37.35897</north>
+<east>-7.60199</east>
+<south>37.34099</south>
+</bbox>
+<score>16.192718505859375</score>
+</geoname>
+<geoname>
+<toponymName>Forres</toponymName>
+<name>Forres</name>
+<lat>-27.87452</lat>
+<lng>-63.97878</lng>
+<geonameId>3855467</geonameId>
+<countryCode>AR</countryCode>
+<countryName>Argentina</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="G">22</adminCode1>
+<adminName1>Santiago del Estero</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Argentina/Cordoba</timezone>
+<bbox>
+<west>-63.98895</west>
+<north>-27.86552</north>
+<east>-63.9686</east>
+<south>-27.88351</south>
+</bbox>
+<score>14.508061408996582</score>
+</geoname>
+<geoname>
+<toponymName>Forres</toponymName>
+<name>Forres</name>
+<lat>6.81667</lat>
+<lng>80.55</lng>
+<geonameId>1246688</geonameId>
+<countryCode>LK</countryCode>
+<countryName>Sri Lanka</countryName>
+<fcl>S</fcl>
+<fcode>EST</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>estate(s)</fcodeName>
+<population/>
+<alternateNames>Forres,Nugawatte</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="2">29</adminCode1>
+<adminName1>Central</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="5.5" gmtOffset="5.5">Asia/Colombo</timezone>
+<score>8.884337425231934</score>
+</geoname>
+<geoname>
+<toponymName>Fortress</toponymName>
+<name>Fortress</name>
+<lat>-28.67166</lat>
+<lng>32.10761</lng>
+<geonameId>1003903</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>S</fcl>
+<fcode>FRM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farm</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="ZN">02</adminCode1>
+<adminName1>KwaZulu-Natal</adminName1>
+<adminCode2>DC28</adminCode2>
+<adminName2>uThungulu District Municipality</adminName2>
+<adminCode3>KZN281</adminCode3>
+<adminName3>Mfolozi</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<score>8.36269760131836</score>
+</geoname>
+<geoname>
+<toponymName>Fortress</toponymName>
+<name>Fortress</name>
+<lat>-19.55105</lat>
+<lng>30.95286</lng>
+<geonameId>7393933</geonameId>
+<countryCode>ZW</countryCode>
+<countryName>Zimbabwe</countryName>
+<fcl>S</fcl>
+<fcode>FRM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farm</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="MV">08</adminCode1>
+<adminName1>Masvingo</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Harare</timezone>
+<score>8.36269760131836</score>
+</geoname>
+</geonames>

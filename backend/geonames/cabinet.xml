@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Cabinet</toponymName>
+<name>Cabinet</name>
+<lat>40.11812</lat>
+<lng>-81.21705</lng>
+<geonameId>5148871</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>378</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>013</adminCode2>
+<adminName2>Belmont County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-81.22881</west>
+<north>40.12712</north>
+<east>-81.20529</east>
+<south>40.10913</south>
+</bbox>
+<score>44.02532196044922</score>
+</geoname>
+<geoname>
+<toponymName>Cabinet</toponymName>
+<name>Cabinet</name>
+<lat>48.08437</lat>
+<lng>-116.07351</lng>
+<geonameId>5587646</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>669</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ID">ID</adminCode1>
+<adminName1>Idaho</adminName1>
+<adminCode2>017</adminCode2>
+<adminName2>Bonner County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-116.08697</west>
+<north>48.09337</north>
+<east>-116.06004</east>
+<south>48.07538</south>
+</bbox>
+<score>44.02532196044922</score>
+</geoname>
+<geoname>
+<toponymName>Majlis al Wuzarā’</toponymName>
+<name>Majlis al Wuzarā’</name>
+<lat>30.03938</lat>
+<lng>31.23602</lng>
+<geonameId>7922712</geonameId>
+<countryCode>EG</countryCode>
+<countryName>Egypt</countryName>
+<fcl>S</fcl>
+<fcode>ADMF</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>administrative facility</fcodeName>
+<population/>
+<alternateNames>Cabinet,Majlis al Wuzara',Majlis al Wuzarā’,مجلس الوزراء</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="C">11</adminCode1>
+<adminName1>Al Qāhirah</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ar">مجلس الوزراء</alternateName>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Cairo</timezone>
+<score>15.565301895141602</score>
+</geoname>
+</geonames>

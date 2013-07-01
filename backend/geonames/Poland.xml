@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>58</totalResultsCount>
+<geoname>
+<toponymName>Republic of Poland</toponymName>
+<name>Poland</name>
+<lat>52</lat>
+<lng>20</lng>
+<geonameId>798544</geonameId>
+<countryCode>PL</countryCode>
+<countryName>Poland</countryName>
+<fcl>A</fcl>
+<fcode>PCLI</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>independent political entity</fcodeName>
+<population>38500000</population>
+<alternateNames>A' Pholainn,A' Phòlainn,An Pholainn,Ba Lan,Booland,Gwlad Pwyl,Lehastan,Lengyelorszag,Lengyelország,Lenkija,Mpoloni,Orileede Polandi,Orílẹ́ède Polandi,Pholandi,Poalen,Poeloni,Pol'sha,Pol'shae,Pol'shcha,Pol'shha,Pol'ska,Polaen,Polaland,Polan,Poland,Poland nutome,Polandi,Polandia,Pole,Polen,Poleni,Polija,Polio,Polish People's Republic,Polish People’s Republic,Poljska,Polland,Pollando,Pologna,Pologne,Polon,Polona,Polongne,Polonha,Poloni,Polonia,Polonia - Polska,Polonie,Polonija,Polonja,Polonya,Polonye,Poloñ,Poloña,Poloɲi,Polsa,Polsha,Polska,Polska Rzeczpospolita Ludowa,Polsko,Polujo,Polän,Polònia,Polónia,Polônia,Polşa,Poola,Pooln,Poran,Poľsko,Pulonia,Pulonnia,Pulska,Pulunya,Puola,Pòlskô,Pólland,Pólska,Pôlôna,Pölôni,Republic of Poland,Rzeczpospolita Polska,Yn Pholynn,atrysh,bo lan,bwlnda,i-Poland,lhstan,pealant,polainda,poland,polanda,polantu,polenda,pollandeu,polskas,polyand,polyanda,porando,porando gong he guo,pwlnd,pwlsha,pwlyn,pwyln,Πολωνία,Лаҳистон,Полония,Полска,Полша,Польшæ,Польша,Польшча,Польща,Пол҄ьска,Пољска,Լեհաստան,פוילן,פולין,اتریش,بولندا,لهستان,پولشا,پولنډ,پولینڈ,پۆڵەندا,ܦܘܠܢܕ,पोलंड,पोलैंड,पोल्याण्ड,পোল্যাণ্ড,পোল্যান্ড,પોલેંડ,ପୋଲାଣ୍ଡ,போலந்து,పోలాండ్,ಪೋಲ್ಯಾಂಡ್,പോളണ്ട്,පෝලන්තය,ประเทศโปแลนด์,โปแลนด์,ໂປແລນ,པོ་ལནྜ།,ပိုလန်,პოლონეთი,ፖላንድ,ប៉ូលូញ,ポーランド,ポーランド共和国,波兰,폴란드</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="af">Pole</alternateName>
+<alternateName lang="ak">Poland</alternateName>
+<alternateName lang="am">ፖላንድ</alternateName>
+<alternateName lang="an">Polonia</alternateName>
+<alternateName lang="ang">Polaland</alternateName>
+<alternateName lang="ar">بولندا</alternateName>
+<alternateName lang="arc">ܦܘܠܢܕ</alternateName>
+<alternateName lang="ast">Polonia</alternateName>
+<alternateName lang="az">Polşa</alternateName>
+<alternateName lang="be">Польша</alternateName>
+<alternateName lang="bg">Полша</alternateName>
+<alternateName lang="bm">Poloɲi</alternateName>
+<alternateName lang="bn">পোল্যান্ড</alternateName>
+<alternateName lang="bo">པོ་ལནྜ།</alternateName>
+<alternateName lang="br">Polonia</alternateName>
+<alternateName lang="bs">Poljska</alternateName>
+<alternateName lang="ca">Polònia</alternateName>
+<alternateName lang="cs">Polsko</alternateName>
+<alternateName lang="csb">Pòlskô</alternateName>
+<alternateName lang="cu">Пол҄ьска</alternateName>
+<alternateName lang="cv">Польша</alternateName>
+<alternateName lang="cy">Gwlad Pwyl</alternateName>
+<alternateName lang="da">Polen</alternateName>
+<alternateName lang="de">Polen</alternateName>
+<alternateName lang="diq">Polonya</alternateName>
+<alternateName lang="ee">Poland nutome</alternateName>
+<alternateName lang="el">Πολωνία</alternateName>
+<alternateName lang="en">Poland</alternateName>
+<alternateName lang="eo">Pollando</alternateName>
+<alternateName lang="es">Polonia</alternateName>
+<alternateName lang="et">Poola</alternateName>
+<alternateName lang="eu">Polonia</alternateName>
+<alternateName lang="fa">اتریش</alternateName>
+<alternateName lang="ff">Poloñ</alternateName>
+<alternateName lang="fi">Puola</alternateName>
+<alternateName lang="fo">Pólland</alternateName>
+<alternateName lang="fr">Pologne</alternateName>
+<alternateName lang="frp">Pologne</alternateName>
+<alternateName lang="fur">Polonie</alternateName>
+<alternateName lang="fy">Poalen</alternateName>
+<alternateName lang="ga">An Pholainn</alternateName>
+<alternateName lang="gd">A' Phòlainn</alternateName>
+<alternateName lang="gl">Polonia</alternateName>
+<alternateName lang="gn">Poloña</alternateName>
+<alternateName lang="gu">પોલેંડ</alternateName>
+<alternateName lang="gv">Yn Pholynn</alternateName>
+<alternateName lang="ha">Polan</alternateName>
+<alternateName lang="hbs">Poljska</alternateName>
+<alternateName lang="he">פולין</alternateName>
+<alternateName lang="hi">पोलैंड</alternateName>
+<alternateName lang="hr">Poljska</alternateName>
+<alternateName lang="hsb">Pólska</alternateName>
+<alternateName lang="hu">Lengyelország</alternateName>
+<alternateName lang="hy">Լեհաստան</alternateName>
+<alternateName lang="ia">Polonia</alternateName>
+<alternateName lang="id">Polandia</alternateName>
+<alternateName lang="ilo">Polandia</alternateName>
+<alternateName lang="io">Polonia</alternateName>
+<alternateName lang="is">Pólland</alternateName>
+<alternateName lang="it">Polonia</alternateName>
+<alternateName lang="ja">ポーランド共和国</alternateName>
+<alternateName lang="jbo">polskas</alternateName>
+<alternateName lang="jv">Polandia</alternateName>
+<alternateName lang="ka">პოლონეთი</alternateName>
+<alternateName lang="ki">Polandi</alternateName>
+<alternateName lang="kk">Польша</alternateName>
+<alternateName lang="kl">Poleni</alternateName>
+<alternateName lang="km">ប៉ូលូញ</alternateName>
+<alternateName lang="kn">ಪೋಲ್ಯಾಂಡ್</alternateName>
+<alternateName lang="ko">폴란드</alternateName>
+<alternateName lang="ku">پۆڵەندا</alternateName>
+<alternateName lang="kw">Poloni</alternateName>
+<alternateName lang="la">Polonia</alternateName>
+<alternateName lang="lb">Polen</alternateName>
+<alternateName lang="lg">Polandi</alternateName>
+<alternateName lang="li">Pole</alternateName>
+<alternateName lang="lij">Polonia</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Poland</alternateName>
+<alternateName lang="ln">Poloni</alternateName>
+<alternateName lang="lo">ໂປແລນ</alternateName>
+<alternateName lang="lt">Lenkija</alternateName>
+<alternateName lang="lu">Mpoloni</alternateName>
+<alternateName lang="lv">Polija</alternateName>
+<alternateName lang="mg">Pôlôna</alternateName>
+<alternateName lang="mk">Полска</alternateName>
+<alternateName lang="ml">പോളണ്ട്</alternateName>
+<alternateName lang="mr">पोलंड</alternateName>
+<alternateName lang="ms">Poland</alternateName>
+<alternateName lang="mt">Polonja</alternateName>
+<alternateName lang="my">ပိုလန်</alternateName>
+<alternateName lang="na">Poran</alternateName>
+<alternateName lang="nap">Pulonnia</alternateName>
+<alternateName lang="nb">Polen</alternateName>
+<alternateName lang="nd">Pholandi</alternateName>
+<alternateName lang="nds">Polen</alternateName>
+<alternateName lang="ne">पोल्याण्ड</alternateName>
+<alternateName lang="nl">Polen</alternateName>
+<alternateName lang="nn">Polen</alternateName>
+<alternateName lang="no">Polen</alternateName>
+<alternateName lang="nov">Polonia</alternateName>
+<alternateName lang="nrm">Polongne</alternateName>
+<alternateName lang="oc">Polonha</alternateName>
+<alternateName lang="or">ପୋଲାଣ୍ଡ</alternateName>
+<alternateName lang="os">Польшæ</alternateName>
+<alternateName lang="pam">Polonya</alternateName>
+<alternateName lang="pl">Polska</alternateName>
+<alternateName lang="pms">Polònia</alternateName>
+<alternateName lang="ps">پولنډ</alternateName>
+<alternateName lang="pt">Polônia</alternateName>
+<alternateName lang="qu">Pulska</alternateName>
+<alternateName lang="rm">Pologna</alternateName>
+<alternateName lang="rn">Polonye</alternateName>
+<alternateName lang="ro">Полония</alternateName>
+<alternateName lang="ru">Польша</alternateName>
+<alternateName lang="sc">Polonia</alternateName>
+<alternateName lang="scn">Pulonia</alternateName>
+<alternateName lang="sco">Poland</alternateName>
+<alternateName lang="se">Polska</alternateName>
+<alternateName lang="sg">Pölôni</alternateName>
+<alternateName lang="si">පෝලන්තය</alternateName>
+<alternateName lang="sk">Poľsko</alternateName>
+<alternateName lang="sl">Poljska</alternateName>
+<alternateName lang="sn">Poland</alternateName>
+<alternateName lang="so">Booland</alternateName>
+<alternateName lang="sq">Polonia</alternateName>
+<alternateName lang="sr">Пољска</alternateName>
+<alternateName lang="sv">Polen</alternateName>
+<alternateName lang="sw">Polandi</alternateName>
+<alternateName lang="ta">போலந்து</alternateName>
+<alternateName lang="te">పోలాండ్</alternateName>
+<alternateName lang="tet">Polónia</alternateName>
+<alternateName lang="tg">Лаҳистон</alternateName>
+<alternateName lang="th">ประเทศโปแลนด์</alternateName>
+<alternateName lang="ti">ፖላንድ</alternateName>
+<alternateName lang="tl">poland</alternateName>
+<alternateName lang="to">Poleni</alternateName>
+<alternateName lang="tr">Polonya</alternateName>
+<alternateName lang="ug">پولشا</alternateName>
+<alternateName lang="uk">Польща</alternateName>
+<alternateName lang="ur">پولینڈ</alternateName>
+<alternateName lang="uz">Polsha</alternateName>
+<alternateName lang="vi">Ba Lan</alternateName>
+<alternateName lang="vls">Pooln</alternateName>
+<alternateName lang="vo">Polän</alternateName>
+<alternateName lang="war">Polonya</alternateName>
+<alternateName lang="yi">פוילן</alternateName>
+<alternateName lang="yo">Orílẹ́ède Polandi</alternateName>
+<alternateName lang="zh">波兰</alternateName>
+<alternateName lang="zu">i-Poland</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Warsaw</timezone>
+<bbox>
+<west>14.123</west>
+<north>54.83914</north>
+<east>24.15075</east>
+<south>49.00636</south>
+</bbox>
+<score>86.84156799316406</score>
+</geoname>
+<geoname>
+<toponymName>Poland</toponymName>
+<name>Poland</name>
+<lat>41.02423</lat>
+<lng>-80.6148</lng>
+<geonameId>5167196</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2555</population>
+<alternateNames/>
+<elevation>318</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>099</adminCode2>
+<adminName2>Mahoning County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Poland,_Ohio</alternateName>
+<alternateName lang="unlc">QPD</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-80.62323</west>
+<north>41.03059</north>
+<east>-80.60637</east>
+<south>41.01787</south>
+</bbox>
+<score>58.332664489746094</score>
+</geoname>
+<geoname>
+<toponymName>Poland</toponymName>
+<name>Poland</name>
+<lat>39.44421</lat>
+<lng>-86.95084</lng>
+<geonameId>4263238</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>212</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IN">IN</adminCode1>
+<adminName1>Indiana</adminName1>
+<adminCode2>021</adminCode2>
+<adminName2>Clay County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Poland%2C_Indiana</alternateName>
+<alternateName lang="post">47868</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Indiana/Indianapolis</timezone>
+<bbox>
+<west>-86.96249</west>
+<north>39.4532</north>
+<east>-86.9392</east>
+<south>39.43522</south>
+</bbox>
+<score>49.999427795410156</score>
+</geoname>
+<geoname>
+<toponymName>Poland</toponymName>
+<name>Poland</name>
+<lat>44.06063</lat>
+<lng>-70.39367</lng>
+<geonameId>4975603</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>5314</population>
+<alternateNames/>
+<elevation>101</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ME">ME</adminCode1>
+<adminName1>Maine</adminName1>
+<adminCode2>001</adminCode2>
+<adminName2>Androscoggin County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Poland%2C_Maine</alternateName>
+<alternateName lang="post">04274</alternateName>
+<alternateName lang="unlc">ZE6</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-70.40618</west>
+<north>44.06962</north>
+<east>-70.38115</east>
+<south>44.05163</south>
+</bbox>
+<score>49.999427795410156</score>
+</geoname>
+<geoname>
+<toponymName>Poland</toponymName>
+<name>Poland</name>
+<lat>43.22562</lat>
+<lng>-75.06127</lng>
+<geonameId>5131860</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>508</population>
+<alternateNames/>
+<elevation>216</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>043</adminCode2>
+<adminName2>Herkimer County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Poland%2C_Herkimer_County%2C_New_York</alternateName>
+<alternateName lang="post">13431</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-75.06251</west>
+<north>43.22652</north>
+<east>-75.06004</east>
+<south>43.22473</south>
+</bbox>
+<score>49.999427795410156</score>
+</geoname>
+<geoname>
+<toponymName>Poland</toponymName>
+<name>Poland</name>
+<lat>44.44361</lat>
+<lng>-87.82621</lng>
+<geonameId>5267637</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>249</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WI">WI</adminCode1>
+<adminName1>Wisconsin</adminName1>
+<adminCode2>009</adminCode2>
+<adminName2>Brown County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Poland%2C_Wisconsin</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-87.83881</west>
+<north>44.4526</north>
+<east>-87.81361</east>
+<south>44.43461</south>
+</bbox>
+<score>49.999427795410156</score>
+</geoname>
+<geoname>
+<toponymName>Poland</toponymName>
+<name>Poland</name>
+<lat>31.16713</lat>
+<lng>-92.27569</lng>
+<geonameId>4337728</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>21</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>079</adminCode2>
+<adminName2>Rapides Parish</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.2862</west>
+<north>31.17612</north>
+<east>-92.26517</east>
+<south>31.15814</south>
+</bbox>
+<score>33.332950592041016</score>
+</geoname>
+<geoname>
+<toponymName>Poland</toponymName>
+<name>Poland</name>
+<lat>48.19776</lat>
+<lng>-97.21841</lng>
+<geonameId>5061001</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>247</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ND">ND</adminCode1>
+<adminName1>North Dakota</adminName1>
+<adminCode2>099</adminCode2>
+<adminName2>Walsh County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-97.2319</west>
+<north>48.20676</north>
+<east>-97.20491</east>
+<south>48.18877</south>
+</bbox>
+<score>33.332950592041016</score>
+</geoname>
+<geoname>
+<toponymName>Poland</toponymName>
+<name>Poland</name>
+<lat>45.06681</lat>
+<lng>-76.5494</lng>
+<geonameId>6108903</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ON">08</adminCode1>
+<adminName1>Ontario</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Toronto</timezone>
+<score>33.332950592041016</score>
+</geoname>
+<geoname>
+<toponymName>Poland</toponymName>
+<name>Poland</name>
+<lat>48.93342</lat>
+<lng>-90.11685</lng>
+<geonameId>6108904</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>P</fcl>
+<fcode>PPLL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ON">08</adminCode1>
+<adminName1>Ontario</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Toronto</timezone>
+<bbox>
+<west>-90.11822</west>
+<north>48.93432</north>
+<east>-90.11548</east>
+<south>48.93252</south>
+</bbox>
+<score>20.833093643188477</score>
+</geoname>
+</geonames>

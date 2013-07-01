@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>14</totalResultsCount>
+<geoname>
+<toponymName>Eastern</toponymName>
+<name>Eastern</name>
+<lat>22.27722</lat>
+<lng>114.22519</lng>
+<geonameId>7533608</geonameId>
+<countryCode>HK</countryCode>
+<countryName>Hong Kong</countryName>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>first-order administrative division</fcodeName>
+<population>587690</population>
+<alternateNames/>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="HEA">HEA</adminCode1>
+<adminName1>Eastern</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Eastern_District,_Hong_Kong</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Hong_Kong</timezone>
+<score>120.82660675048828</score>
+</geoname>
+<geoname>
+<toponymName>Eastern</toponymName>
+<name>Eastern</name>
+<lat>52.16667</lat>
+<lng>1</lng>
+<geonameId>2650458</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>00</adminCode2>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>70.48218536376953</score>
+</geoname>
+<geoname>
+<toponymName>Eastern</toponymName>
+<name>Eastern</name>
+<lat>37.51704</lat>
+<lng>-82.80599</lng>
+<geonameId>4290800</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>205</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>071</adminCode2>
+<adminName2>Floyd County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Eastern%2C_Kentucky</alternateName>
+<alternateName lang="post">41622</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-82.81733</west>
+<north>37.52604</north>
+<east>-82.79465</east>
+<south>37.50805</south>
+</bbox>
+<score>60.41330337524414</score>
+</geoname>
+<geoname>
+<toponymName>Al Wilāyah ash Sharqīyah</toponymName>
+<name>Al Wilāyah ash Sharqīyah</name>
+<lat>18</lat>
+<lng>36</lng>
+<geonameId>378377</geonameId>
+<countryCode>SD</countryCode>
+<countryName>Sudan</countryName>
+<fcl>A</fcl>
+<fcode>ADM1H</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>historical first-order administrative division</fcodeName>
+<population/>
+<alternateNames>Al Iqlim ash Sharqi,Al Iqlīm ash Sharqī,Ash Sharqiyah,Eastern</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1>31</adminCode1>
+<adminName1>Ash Sharqiyah</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="nb">Ash Sharqiyah</alternateName>
+<alternateName lang="nn">Ash Sharqiyah</alternateName>
+<timezone dstOffset="3.0" gmtOffset="3.0">Africa/Khartoum</timezone>
+<bbox>
+<west>33.26749</west>
+<north>22.00111</north>
+<east>38.6075</east>
+<south>12.66611</south>
+</bbox>
+<score>56.95820999145508</score>
+</geoname>
+<geoname>
+<toponymName>Eastern Province</toponymName>
+<name>Eastern Province</name>
+<lat>-13.66667</lat>
+<lng>32</lng>
+<geonameId>917388</geonameId>
+<countryCode>ZM</countryCode>
+<countryName>Zambia</countryName>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>first-order administrative division</fcodeName>
+<population/>
+<alternateNames>Eastern,Eastern Province</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="03">03</adminCode1>
+<adminName1>Eastern</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Eastern_Province%2C_Zambia</alternateName>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Lusaka</timezone>
+<bbox>
+<west>29.9925</west>
+<north>-10.31</north>
+<east>33.70228</east>
+<south>-14.98172</south>
+</bbox>
+<score>56.95820999145508</score>
+</geoname>
+<geoname>
+<toponymName>Eastern Region</toponymName>
+<name>Eastern Region</name>
+<lat>6.5</lat>
+<lng>-0.5</lng>
+<geonameId>2301360</geonameId>
+<countryCode>GH</countryCode>
+<countryName>Ghana</countryName>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>first-order administrative division</fcodeName>
+<population/>
+<alternateNames>Eastern,Eastern Province,Eastern Region</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="EP">05</adminCode1>
+<adminName1>Eastern</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Eastern_Region_%28Ghana%29</alternateName>
+<timezone dstOffset="0.0" gmtOffset="0.0">Africa/Accra</timezone>
+<bbox>
+<west>-1.24023</west>
+<north>7.19278</north>
+<east>0.32238</east>
+<south>5.72571</south>
+</bbox>
+<score>56.95820999145508</score>
+</geoname>
+<geoname>
+<toponymName>Eastern Division</toponymName>
+<name>Eastern</name>
+<lat>-18.5</lat>
+<lng>180</lng>
+<geonameId>4036647</geonameId>
+<countryCode>FJ</countryCode>
+<countryName>Fiji</countryName>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>first-order administrative division</fcodeName>
+<population>37960</population>
+<alternateNames>Aust-Fiji,Eastern,Ost-Fiji,Øst-Fiji</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="E">02</adminCode1>
+<adminName1>Eastern</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Eastern</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Eastern_Division%2C_Fiji</alternateName>
+<alternateName lang="nn">Aust-Fiji</alternateName>
+<alternateName lang="no">Øst-Fiji</alternateName>
+<timezone dstOffset="12.0" gmtOffset="12.0">Pacific/Fiji</timezone>
+<score>49.83843231201172</score>
+</geoname>
+<geoname>
+<toponymName>Eastern Province</toponymName>
+<name>Eastern</name>
+<lat>0</lat>
+<lng>38</lng>
+<geonameId>400741</geonameId>
+<countryCode>KE</countryCode>
+<countryName>Kenya</countryName>
+<fcl>A</fcl>
+<fcode>ADM1H</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>historical first-order administrative division</fcodeName>
+<population>4631779</population>
+<alternateNames>Aust-Kenya,Eastern,Eastern Province,OEstprovinsen,Ost-Kenya,Östprovinsen,Øst-Kenya</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="400">03</adminCode1>
+<adminName1>KE.03</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Eastern</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Eastern_Province_%28Kenya%29</alternateName>
+<alternateName lang="nb">Øst-Kenya</alternateName>
+<alternateName lang="nn">Aust-Kenya</alternateName>
+<alternateName lang="sv">Östprovinsen</alternateName>
+<timezone dstOffset="3.0" gmtOffset="3.0">Africa/Nairobi</timezone>
+<bbox>
+<west>36.0425</west>
+<north>4.448</north>
+<east>39.45694</east>
+<south>-3.04444</south>
+</bbox>
+<score>42.718658447265625</score>
+</geoname>
+<geoname>
+<toponymName>Eastern Province</toponymName>
+<name>Eastern Province</name>
+<lat>8.25</lat>
+<lng>-11</lng>
+<geonameId>2409543</geonameId>
+<countryCode>SL</countryCode>
+<countryName>Sierra Leone</countryName>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>first-order administrative division</fcodeName>
+<population/>
+<alternateNames>Austprovinsen,Eastern,Eastern Province,Ostprovinsen,South East Province,South Eastern Province,Østprovinsen</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="E">01</adminCode1>
+<adminName1>Eastern Province</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Eastern Province</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Eastern_Province%2C_Sierra_Leone</alternateName>
+<alternateName lang="nb">Østprovinsen</alternateName>
+<alternateName lang="nn">Austprovinsen</alternateName>
+<timezone dstOffset="0.0" gmtOffset="0.0">Africa/Freetown</timezone>
+<bbox>
+<west>-11.58028</west>
+<north>9.07055</north>
+<east>-10.26417</east>
+<south>7.34356</south>
+</bbox>
+<score>42.718658447265625</score>
+</geoname>
+<geoname>
+<toponymName>Eastern Tigray Zone</toponymName>
+<name>Eastern Tigray Zone</name>
+<lat>14.1154</lat>
+<lng>39.58699</lng>
+<geonameId>7869879</geonameId>
+<countryCode>ET</countryCode>
+<countryName>Ethiopia</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames>Eastern,Eastern Tigray,Misraqawi</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1>37</adminCode1>
+<adminName1>Tigray</adminName1>
+<adminCode2>7869879</adminCode2>
+<adminName2>Eastern Tigray Zone</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Misraqawi_Zone</alternateName>
+<timezone dstOffset="3.0" gmtOffset="3.0">Africa/Addis_Ababa</timezone>
+<score>42.718658447265625</score>
+</geoname>
+</geonames>

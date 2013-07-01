@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Atascosito</toponymName>
+<name>Atascosito</name>
+<lat>30.09188</lat>
+<lng>-94.7627</lng>
+<geonameId>4671539</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>8</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>291</adminCode2>
+<adminName2>Liberty County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-94.7731</west>
+<north>30.10087</north>
+<east>-94.7523</east>
+<south>30.08289</south>
+</bbox>
+<score>45.98583984375</score>
+</geoname>
+</geonames>

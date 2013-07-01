@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2183</totalResultsCount>
+<geoname>
+<toponymName>Sant'Antonio</toponymName>
+<name>Sant'Antonio</name>
+<lat>46.15311</lat>
+<lng>9.10143</lng>
+<geonameId>7287675</geonameId>
+<countryCode>CH</countryCode>
+<countryName>Switzerland</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population>207</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="TI">TI</adminCode1>
+<adminName1>Ticino</adminName1>
+<adminCode2>2101</adminCode2>
+<adminName2>Distretto di Bellinzona</adminName2>
+<adminCode3>5018</adminCode3>
+<adminName3>Sant'Antonio</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Zurich</timezone>
+<bbox>
+<west>9.04315</west>
+<north>46.185</north>
+<east>9.15971</east>
+<south>46.12122</south>
+</bbox>
+<score>34.19511413574219</score>
+</geoname>
+<geoname>
+<toponymName>San Antonia</toponymName>
+<name>San Antonia</name>
+<lat>16.404</lat>
+<lng>120.4052</lng>
+<geonameId>1690302</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>San Antonia,San Antonio</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="01">01</adminCode1>
+<adminName1>Ilocos Region</adminName1>
+<adminCode2>36</adminCode2>
+<adminName2>La Union</adminName2>
+<alternateName lang="fil">San Antonia</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<bbox>
+<west>120.39582</west>
+<north>16.41299</north>
+<east>120.41458</east>
+<south>16.39501</south>
+</bbox>
+<score>29.274253845214844</score>
+</geoname>
+<geoname>
+<toponymName>Sant'Antonio</toponymName>
+<name>Sant'Antonio</name>
+<lat>46.17022</lat>
+<lng>9.08078</lng>
+<geonameId>2658799</geonameId>
+<countryCode>CH</countryCode>
+<countryName>Switzerland</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>S. Antonio (Val Morobbia),Sant'Antonio</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="TI">TI</adminCode1>
+<adminName1>Ticino</adminName1>
+<adminCode2>2101</adminCode2>
+<adminName2>Distretto di Bellinzona</adminName2>
+<adminCode3>5018</adminCode3>
+<adminName3>Sant'Antonio</adminName3>
+<alternateName lang="it">S. Antonio (Val Morobbia)</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Sant%27Antonio</alternateName>
+<alternateName lang="post">6583</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Zurich</timezone>
+<bbox>
+<west>9.06779</west>
+<north>46.17922</north>
+<east>9.09377</east>
+<south>46.16123</south>
+</bbox>
+<score>26.409507751464844</score>
+</geoname>
+<geoname>
+<toponymName>Sant'Antonio</toponymName>
+<name>Sant'Antonio</name>
+<lat>41.03333</lat>
+<lng>9.16667</lng>
+<geonameId>3167415</geonameId>
+<countryCode>IT</countryCode>
+<countryName>Italy</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Sant'Antonio,Santo Antonio</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="88">14</adminCode1>
+<adminName1>Sardinia</adminName1>
+<adminCode2>OT</adminCode2>
+<adminName2>Provincia di Olbia-Tempio</adminName2>
+<adminCode3>104014</adminCode3>
+<adminName3>Luogosanto</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Rome</timezone>
+<bbox>
+<west>9.15474</west>
+<north>41.04233</north>
+<east>9.17859</east>
+<south>41.02434</south>
+</bbox>
+<score>25.436784744262695</score>
+</geoname>
+<geoname>
+<toponymName>Sant Antoni</toponymName>
+<name>Sant Antoni</name>
+<lat>41.37897</lat>
+<lng>2.16295</lng>
+<geonameId>6690785</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>S</fcl>
+<fcode>MTRO</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>metro station</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="CT">56</adminCode1>
+<adminName1>Catalonia</adminName1>
+<adminCode2>B</adminCode2>
+<adminName2>Barcelona</adminName2>
+<adminCode3>08019</adminCode3>
+<adminName3>Barcelona</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Sant_Antoni_%28Barcelona_Metro%29</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Madrid</timezone>
+<score>24.623960494995117</score>
+</geoname>
+<geoname>
+<toponymName>Sant'Antonio</toponymName>
+<name>Sant'Antonio</name>
+<lat>45.51667</lat>
+<lng>12.66667</lng>
+<geonameId>3167407</geonameId>
+<countryCode>IT</countryCode>
+<countryName>Italy</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>San Antonio,Sant'Antonio</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="34">20</adminCode1>
+<adminName1>Veneto</adminName1>
+<adminCode2>VE</adminCode2>
+<adminName2>Venice</adminName2>
+<adminCode3>027019</adminCode3>
+<adminName3>Comune di Jesolo</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Rome</timezone>
+<bbox>
+<west>12.65383</west>
+<north>45.52566</north>
+<east>12.6795</east>
+<south>45.50767</south>
+</bbox>
+<score>24.008182525634766</score>
+</geoname>
+<geoname>
+<toponymName>Sant'Antonio</toponymName>
+<name>Sant'Antonio</name>
+<lat>42.08174</lat>
+<lng>9.36307</lng>
+<geonameId>2976124</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Saint-Antoine,Sant'Antonio</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="H">A5</adminCode1>
+<adminName1>Corsica</adminName1>
+<adminCode2>2B</adminCode2>
+<adminName2>Upper Corsica</adminName2>
+<adminCode3>2B3</adminCode3>
+<adminName3>Arrondissement de Corte</adminName3>
+<adminCode4>2B123</adminCode4>
+<adminName4>Ghisonaccia</adminName4>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>9.35095</west>
+<north>42.09073</north>
+<east>9.37519</east>
+<south>42.07274</south>
+</bbox>
+<score>23.108318328857422</score>
+</geoname>
+<geoname>
+<toponymName>Sant'Antonio</toponymName>
+<name>Sant'Antonio</name>
+<lat>42.81667</lat>
+<lng>11.26667</lng>
+<geonameId>3167414</geonameId>
+<countryCode>IT</countryCode>
+<countryName>Italy</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Case San Antonio,Sant'Antonio</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="52">16</adminCode1>
+<adminName1>Tuscany</adminName1>
+<adminCode2>GR</adminCode2>
+<adminName2>Provincia di Grosseto</adminName2>
+<adminCode3>053002</adminCode3>
+<adminName3>Campagnatico</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Rome</timezone>
+<bbox>
+<west>11.2544</west>
+<north>42.82566</north>
+<east>11.27893</east>
+<south>42.80767</south>
+</bbox>
+<score>23.108318328857422</score>
+</geoname>
+<geoname>
+<toponymName>San Antonia</toponymName>
+<name>San Antonia</name>
+<lat>25.11667</lat>
+<lng>-107.81667</lng>
+<geonameId>3987912</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SIN">25</adminCode1>
+<adminName1>Sinaloa</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Mazatlan</timezone>
+<bbox>
+<west>-107.8266</west>
+<north>25.12566</north>
+<east>-107.80673</east>
+<south>25.10767</south>
+</bbox>
+<score>23.062631607055664</score>
+</geoname>
+<geoname>
+<toponymName>Sveti Anton</toponymName>
+<name>Sveti Anton</name>
+<lat>45.52583</lat>
+<lng>13.83194</lng>
+<geonameId>3189368</geonameId>
+<countryCode>SI</countryCode>
+<countryName>Slovenia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>San Antonio di Capodistria,Sant'Antonio,Sant’Antonio,Sveti Anton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="050">50</adminCode1>
+<adminName1>Koper-Capodistria</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Sv._Anton%2C_Koper</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Ljubljana</timezone>
+<bbox>
+<west>13.8191</west>
+<north>45.53483</north>
+<east>13.84478</east>
+<south>45.51684</south>
+</bbox>
+<score>22.01797866821289</score>
+</geoname>
+</geonames>

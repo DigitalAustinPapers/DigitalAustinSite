@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>25</totalResultsCount>
+<geoname>
+<toponymName>Męcina</toponymName>
+<name>Męcina</name>
+<lat>49.67851</lat>
+<lng>20.5549</lng>
+<geonameId>765042</geonameId>
+<countryCode>PL</countryCode>
+<countryName>Poland</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="MA">77</adminCode1>
+<adminName1>Lesser Poland Voivodeship</adminName1>
+<adminCode2>1207</adminCode2>
+<adminName2>Powiat limanowski</adminName2>
+<adminCode3>120707</adminCode3>
+<adminName3>Limanowa</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/M%C4%99cina</alternateName>
+<alternateName lang="unlc">MEN</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Warsaw</timezone>
+<bbox>
+<west>20.541</west>
+<north>49.68751</north>
+<east>20.56881</east>
+<south>49.66952</south>
+</bbox>
+<score>41.08049774169922</score>
+</geoname>
+<geoname>
+<toponymName>Mendlesham</toponymName>
+<name>Mendlesham</name>
+<lat>52.25014</lat>
+<lng>1.0813</lng>
+<geonameId>2642750</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UE</adminCode3>
+<adminName3>Mid Suffolk District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Mendlesham</alternateName>
+<alternateName lang="unlc">MEN</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.0666</west>
+<north>52.25913</north>
+<east>1.09599</east>
+<south>52.24114</south>
+</bbox>
+<score>41.08049774169922</score>
+</geoname>
+<geoname>
+<toponymName>Mende-Brenoux</toponymName>
+<name>Mende-Brenoux</name>
+<lat>44.50211</lat>
+<lng>3.53282</lng>
+<geonameId>6299425</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>S</fcl>
+<fcode>AIRP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>airport</fcodeName>
+<population/>
+<alternateNames>LFNB,MEN</alternateNames>
+<elevation>1024</elevation>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="K">A9</adminCode1>
+<adminName1>Languedoc-Roussillon</adminName1>
+<adminCode2>48</adminCode2>
+<adminName2>Lozère</adminName2>
+<adminCode3>482</adminCode3>
+<adminName3>Arrondissement de Mende</adminName3>
+<adminCode4>48030</adminCode4>
+<adminName4>Brenoux</adminName4>
+<alternateName lang="iata">MEN</alternateName>
+<alternateName lang="icao">LFNB</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<score>41.08049774169922</score>
+</geoname>
+<geoname>
+<toponymName>Men</toponymName>
+<name>Men</name>
+<lat>21.42261</lat>
+<lng>93.87449</lng>
+<geonameId>1309682</geonameId>
+<countryCode>MM</countryCode>
+<countryName>Myanmar [Burma]</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="14">02</adminCode1>
+<adminName1>Chin</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="6.5" gmtOffset="6.5">Asia/Rangoon</timezone>
+<bbox>
+<west>93.86483</west>
+<north>21.4316</north>
+<east>93.88415</east>
+<south>21.41361</south>
+</bbox>
+<score>38.73106384277344</score>
+</geoname>
+<geoname>
+<toponymName>Men</toponymName>
+<name>Men</name>
+<lat>15.88333</lat>
+<lng>107.71667</lng>
+<geonameId>1574713</geonameId>
+<countryCode>VN</countryCode>
+<countryName>Vietnam</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="27">84</adminCode1>
+<adminName1>Quảng Nam</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="7.0" gmtOffset="7.0">Asia/Ho_Chi_Minh</timezone>
+<bbox>
+<west>107.70732</west>
+<north>15.89233</north>
+<east>107.72602</east>
+<south>15.87434</south>
+</bbox>
+<score>38.73106384277344</score>
+</geoname>
+<geoname>
+<toponymName>Mèn</toponymName>
+<name>Mèn</name>
+<lat>8.8093</lat>
+<lng>16.1508</lng>
+<geonameId>6909318</geonameId>
+<countryCode>TD</countryCode>
+<countryName>Chad</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="LO">08</adminCode1>
+<adminName1>Logone Occidental</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="1.0">Africa/Ndjamena</timezone>
+<bbox>
+<west>16.1417</west>
+<north>8.81829</north>
+<east>16.1599</east>
+<south>8.80031</south>
+</bbox>
+<score>38.73106384277344</score>
+</geoname>
+<geoname>
+<toponymName>Men</toponymName>
+<name>Men</name>
+<lat>51.48333</lat>
+<lng>89.1</lng>
+<geonameId>1499002</geonameId>
+<countryCode>RU</countryCode>
+<countryName>Russia</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>Men,Мен</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="TY">79</adminCode1>
+<adminName1>Tyva</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ru">Мен</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Krasnoyarsk</timezone>
+<score>38.27449417114258</score>
+</geoname>
+<geoname>
+<toponymName>Cumaovası</toponymName>
+<name>Cumaovası</name>
+<lat>38.24963</lat>
+<lng>27.13429</lng>
+<geonameId>317851</geonameId>
+<countryCode>TR</countryCode>
+<countryName>Turkey</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>21965</population>
+<alternateNames>Cumaovasi,Cumaovası,Menderes,Мендерес</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="35">35</adminCode1>
+<adminName1>İzmir</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Menderes%2C_%C4%B0zmir</alternateName>
+<alternateName lang="ru">Мендерес</alternateName>
+<alternateName lang="unlc">MEN</alternateName>
+<timezone dstOffset="3.0" gmtOffset="2.0">Europe/Istanbul</timezone>
+<bbox>
+<west>27.10999</west>
+<north>38.26871</north>
+<east>27.15859</east>
+<south>38.23055</south>
+</bbox>
+<score>34.23374938964844</score>
+</geoname>
+<geoname>
+<toponymName>Maria Enzersdorf</toponymName>
+<name>Maria Enzersdorf</name>
+<lat>48.1</lat>
+<lng>16.28333</lng>
+<geonameId>2771940</geonameId>
+<countryCode>AT</countryCode>
+<countryName>Austria</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>8085</population>
+<alternateNames>Maria Enzersdorf</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="3">03</adminCode1>
+<adminName1>Lower Austria</adminName1>
+<adminCode2>317</adminCode2>
+<adminName2>Politischer Bezirk Mödling</adminName2>
+<adminCode3>31716</adminCode3>
+<adminName3>Maria Enzersdorf</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Maria_Enzersdorf</alternateName>
+<alternateName lang="unlc">MEN</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Vienna</timezone>
+<bbox>
+<west>16.26684</west>
+<north>48.11101</north>
+<east>16.29983</east>
+<south>48.08899</south>
+</bbox>
+<score>34.23374938964844</score>
+</geoname>
+<geoname>
+<toponymName>Menen</toponymName>
+<name>Menen</name>
+<lat>50.79722</lat>
+<lng>3.12245</lng>
+<geonameId>2791343</geonameId>
+<countryCode>BE</countryCode>
+<countryName>Belgium</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>31916</population>
+<alternateNames>Meenen,Meenn,Menen,Menin,Mjeenn,Mêenn</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="VLG">VLG</adminCode1>
+<adminName1>Flanders</adminName1>
+<adminCode2>VWV</adminCode2>
+<adminName2>West Flanders Province</adminName2>
+<adminCode3>34</adminCode3>
+<adminName3>Arrondissement Kortrijk</adminName3>
+<adminCode4>34027</adminCode4>
+<adminName4>Menen</adminName4>
+<alternateName lang="de">Menen</alternateName>
+<alternateName lang="en">Menen</alternateName>
+<alternateName lang="eo">Menen</alternateName>
+<alternateName lang="es">Menen</alternateName>
+<alternateName lang="fr">Menin</alternateName>
+<alternateName lang="it">Menen</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Menen</alternateName>
+<alternateName lang="nl">Menen</alternateName>
+<alternateName lang="no">Menen</alternateName>
+<alternateName lang="post">8930</alternateName>
+<alternateName lang="unlc">MEN</alternateName>
+<alternateName lang="vls">Mjeenn</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Brussels</timezone>
+<bbox>
+<west>3.08615</west>
+<north>50.82015</north>
+<east>3.15874</east>
+<south>50.77429</south>
+</bbox>
+<score>34.23374938964844</score>
+</geoname>
+</geonames>

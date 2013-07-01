@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Southwest Corner</toponymName>
+<name>Southwest Corner</name>
+<lat>42.15333</lat>
+<lng>-70.31611</lng>
+<geonameId>4951633</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>BAR</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>bar</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>471</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MA">MA</adminCode1>
+<adminName1>Massachusetts</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Montreal</timezone>
+<score>43.332733154296875</score>
+</geoname>
+<geoname>
+<toponymName>South East Crater</toponymName>
+<name>South East Crater</name>
+<lat>-7.96667</lat>
+<lng>-14.35</lng>
+<geonameId>2411345</geonameId>
+<countryCode>SH</countryCode>
+<countryName>Saint Helena</countryName>
+<fcl>T</fcl>
+<fcode>CRTR</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>crater(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="AC">01</adminCode1>
+<adminName1>Ascension</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="0.0" gmtOffset="0.0">Atlantic/St_Helena</timezone>
+<score>13.594585418701172</score>
+</geoname>
+<geoname>
+<toponymName>South East Creek</toponymName>
+<name>South East Creek</name>
+<lat>-20.33333</lat>
+<lng>118.58333</lng>
+<geonameId>2079478</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="WA">08</adminCode1>
+<adminName1>Western Australia</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="8.0" gmtOffset="8.0">Australia/Perth</timezone>
+<score>2.2569117546081543</score>
+</geoname>
+</geonames>

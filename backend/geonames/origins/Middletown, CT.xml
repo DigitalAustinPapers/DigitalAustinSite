@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>19</totalResultsCount>
+<geoname>
+<toponymName>Middletown</toponymName>
+<name>Middletown</name>
+<lat>41.56232</lat>
+<lng>-72.65065</lng>
+<geonameId>4838633</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>47648</population>
+<alternateNames>Middeltaun,Middltoun,Midltaun,mi de er dui,midalata'una,midorutaun,Мидделтаун,Миддлтоун,Мидлтаун,मिडलटाउन,ミドルタウン,米德尔敦</alternateNames>
+<elevation>12</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CT">CT</adminCode1>
+<adminName1>Connecticut</adminName1>
+<adminCode2>007</adminCode2>
+<adminName2>Middlesex County</adminName2>
+<alternateName lang="ja">ミドルタウン</alternateName>
+<alternateName lang="kk">Миддлтоун</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Middletown%2C_Connecticut</alternateName>
+<alternateName lang="mr">मिडलटाउन</alternateName>
+<alternateName lang="post">06459</alternateName>
+<alternateName lang="ru">Мидделтаун</alternateName>
+<alternateName lang="sr">Мидлтаун</alternateName>
+<alternateName lang="zh">米德尔敦</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-72.6882</west>
+<north>41.5904</north>
+<east>-72.6131</east>
+<south>41.53424</south>
+</bbox>
+<score>11.955994606018066</score>
+</geoname>
+<geoname>
+<toponymName>Middletown Nature Gardens</toponymName>
+<name>Middletown Nature Gardens</name>
+<lat>41.53315</lat>
+<lng>-72.66704</lng>
+<geonameId>4838638</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>L</fcl>
+<fcode>PRK</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>park</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>69</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CT">CT</adminCode1>
+<adminName1>Connecticut</adminName1>
+<adminCode2>007</adminCode2>
+<adminName2>Middlesex County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Middletown_Nature_Gardens</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>7.970663070678711</score>
+</geoname>
+<geoname>
+<toponymName>Town of Middletown</toponymName>
+<name>Town of Middletown</name>
+<lat>41.54764</lat>
+<lng>-72.65488</lng>
+<geonameId>4838640</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>41</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CT">CT</adminCode1>
+<adminName1>Connecticut</adminName1>
+<adminCode2>007</adminCode2>
+<adminName2>Middlesex County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>6.974329948425293</score>
+</geoname>
+<geoname>
+<toponymName>City of Middletown</toponymName>
+<name>City of Middletown</name>
+<lat>41.54764</lat>
+<lng>-72.65488</lng>
+<geonameId>7316468</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>administrative division</fcodeName>
+<population>47648</population>
+<alternateNames/>
+<elevation>41</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CT">CT</adminCode1>
+<adminName1>Connecticut</adminName1>
+<adminCode2>007</adminCode2>
+<adminName2>Middlesex County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-72.75294</west>
+<north>41.60431</north>
+<east>-72.55094</east>
+<south>41.49483</south>
+</bbox>
+<score>6.974329948425293</score>
+</geoname>
+<geoname>
+<toponymName>Inn At Middletown</toponymName>
+<name>Inn At Middletown</name>
+<lat>41.6035</lat>
+<lng>-72.6819</lng>
+<geonameId>6529523</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>HTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>hotel</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CT">CT</adminCode1>
+<adminName1>Connecticut</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>1.898667812347412</score>
+</geoname>
+<geoname>
+<toponymName>Middletown Heliport</toponymName>
+<name>Middletown Heliport</name>
+<lat>41.59677</lat>
+<lng>-72.70398</lng>
+<geonameId>4838636</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>AIRH</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>heliport</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>4</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CT">CT</adminCode1>
+<adminName1>Connecticut</adminName1>
+<adminCode2>007</adminCode2>
+<adminName2>Middlesex County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>1.4944993257522583</score>
+</geoname>
+<geoname>
+<toponymName>Super 8 Motel - Cromwell/Middletown</toponymName>
+<name>Super 8 Motel - Cromwell/Middletown</name>
+<lat>41.6047</lat>
+<lng>-72.7063</lng>
+<geonameId>6512471</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>HTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>hotel</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CT">CT</adminCode1>
+<adminName1>Connecticut</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>1.4944993257522583</score>
+</geoname>
+<geoname>
+<toponymName>Middletown Bible Church</toponymName>
+<name>Middletown Bible Church</name>
+<lat>41.57593</lat>
+<lng>-72.70204</lng>
+<geonameId>4838634</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>CH</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>church</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>69</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CT">CT</adminCode1>
+<adminName1>Connecticut</adminName1>
+<adminCode2>007</adminCode2>
+<adminName2>Middlesex County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>1.2454160451889038</score>
+</geoname>
+<geoname>
+<toponymName>Middletown City Hall</toponymName>
+<name>Middletown City Hall</name>
+<lat>41.56177</lat>
+<lng>-72.64787</lng>
+<geonameId>4838635</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>BLDG</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>building(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>5</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CT">CT</adminCode1>
+<adminName1>Connecticut</adminName1>
+<adminCode2>007</adminCode2>
+<adminName2>Middlesex County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>1.2454160451889038</score>
+</geoname>
+<geoname>
+<toponymName>Middletown High School</toponymName>
+<name>Middletown High School</name>
+<lat>41.54093</lat>
+<lng>-72.66426</lng>
+<geonameId>4838637</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>SCH</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>school</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>56</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CT">CT</adminCode1>
+<adminName1>Connecticut</adminName1>
+<adminCode2>007</adminCode2>
+<adminName2>Middlesex County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>1.2454160451889038</score>
+</geoname>
+</geonames>

@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>16</totalResultsCount>
+<geoname>
+<toponymName>Ranches</toponymName>
+<name>Ranches</name>
+<lat>-19.95852</lat>
+<lng>31.87793</lng>
+<geonameId>7507424</geonameId>
+<countryCode>ZW</countryCode>
+<countryName>Zimbabwe</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="MV">08</adminCode1>
+<adminName1>Masvingo</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Harare</timezone>
+<bbox>
+<west>31.86836</west>
+<north>-19.94953</north>
+<east>31.88749</east>
+<south>-19.96751</south>
+</bbox>
+<score>40.10538101196289</score>
+</geoname>
+<geoname>
+<toponymName>Ranchos</toponymName>
+<name>Ranchos</name>
+<lat>-35.51619</lat>
+<lng>-58.31733</lng>
+<geonameId>3429610</geonameId>
+<countryCode>AR</countryCode>
+<countryName>Argentina</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>General Paz,Ranchos</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="B">01</adminCode1>
+<adminName1>Buenos Aires</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ranchos%2C_Buenos_Aires</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Argentina/Buenos_Aires</timezone>
+<bbox>
+<west>-58.32838</west>
+<north>-35.5072</north>
+<east>-58.30628</east>
+<south>-35.52519</south>
+</bbox>
+<score>16.07855987548828</score>
+</geoname>
+<geoname>
+<toponymName>Ranchas</toponymName>
+<name>Ranchas</name>
+<lat>-9.22077</lat>
+<lng>-76.98735</lng>
+<geonameId>6675469</geonameId>
+<countryCode>PE</countryCode>
+<countryName>Peru</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="ANC">02</adminCode1>
+<adminName1>Ancash Region</adminName1>
+<adminCode2>0203</adminCode2>
+<adminName2>Provincia de Antonio Raymondi</adminName2>
+<adminCode3>020306</adminCode3>
+<adminName3>San Juan De Rontoy</adminName3>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Lima</timezone>
+<bbox>
+<west>-76.99647</west>
+<north>-9.21178</north>
+<east>-76.97824</east>
+<south>-9.22977</south>
+</bbox>
+<score>11.458681106567383</score>
+</geoname>
+<geoname>
+<toponymName>Ranchos</toponymName>
+<name>Ranchos</name>
+<lat>-22.83333</lat>
+<lng>-63.76667</lng>
+<geonameId>3839384</geonameId>
+<countryCode>AR</countryCode>
+<countryName>Argentina</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="A">17</adminCode1>
+<adminName1>Salta</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Argentina/Salta</timezone>
+<bbox>
+<west>-63.77642</west>
+<north>-22.82434</north>
+<east>-63.75691</east>
+<south>-22.84233</south>
+</bbox>
+<score>10.502471923828125</score>
+</geoname>
+<geoname>
+<toponymName>Rances</toponymName>
+<name>Rances</name>
+<lat>46.76587</lat>
+<lng>6.50753</lng>
+<geonameId>7286854</geonameId>
+<countryCode>CH</countryCode>
+<countryName>Switzerland</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population>430</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="VD">VD</adminCode1>
+<adminName1>Vaud</adminName1>
+<adminCode2>2224</adminCode2>
+<adminName2>District du Jura-Nord vaudois</adminName2>
+<adminCode3>5760</adminCode3>
+<adminName3>Rances</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Zurich</timezone>
+<bbox>
+<west>6.45211</west>
+<north>46.77633</north>
+<east>6.55033</east>
+<south>46.75362</south>
+</bbox>
+<score>10.416068077087402</score>
+</geoname>
+<geoname>
+<toponymName>Râches</toponymName>
+<name>Râches</name>
+<lat>50.41706</lat>
+<lng>3.13635</lng>
+<geonameId>2984600</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2877</population>
+<alternateNames>Raches,Râches</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="O">B4</adminCode1>
+<adminName1>Nord-Pas-de-Calais</adminName1>
+<adminCode2>59</adminCode2>
+<adminName2>North</adminName2>
+<adminCode3>593</adminCode3>
+<adminName3>Arrondissement de Douai</adminName3>
+<adminCode4>59486</adminCode4>
+<adminName4>Râches</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/R%C3%A2ches</alternateName>
+<alternateName lang="post">59194</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>3.12637</west>
+<north>50.42342</north>
+<east>3.14633</east>
+<south>50.4107</south>
+</bbox>
+<score>10.27322769165039</score>
+</geoname>
+<geoname>
+<toponymName>Rances</toponymName>
+<name>Rances</name>
+<lat>46.76068</lat>
+<lng>6.52966</lng>
+<geonameId>2659108</geonameId>
+<countryCode>CH</countryCode>
+<countryName>Switzerland</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>434</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="VD">VD</adminCode1>
+<adminName1>Vaud</adminName1>
+<adminCode2>2224</adminCode2>
+<adminName2>District du Jura-Nord vaudois</adminName2>
+<adminCode3>5760</adminCode3>
+<adminName3>Rances</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Rances</alternateName>
+<alternateName lang="post">1429</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Zurich</timezone>
+<bbox>
+<west>6.52834</west>
+<north>46.76158</north>
+<east>6.53097</east>
+<south>46.75978</south>
+</bbox>
+<score>8.928058624267578</score>
+</geoname>
+<geoname>
+<toponymName>Raches</toponymName>
+<name>Raches</name>
+<lat>37.56091</lat>
+<lng>26.05279</lng>
+<geonameId>8131459</geonameId>
+<countryCode>GR</countryCode>
+<countryName>Greece</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="K">ESYE41</adminCode1>
+<adminName1>North Aegean</adminName1>
+<adminCode2>48</adminCode2>
+<adminName2>Samos Prefecture</adminName2>
+<adminCode3>9259</adminCode3>
+<adminName3>Ikaria</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Raches</alternateName>
+<timezone dstOffset="3.0" gmtOffset="2.0">Europe/Athens</timezone>
+<bbox>
+<west>26.04144</west>
+<north>37.5699</north>
+<east>26.06414</east>
+<south>37.55191</south>
+</bbox>
+<score>8.717123031616211</score>
+</geoname>
+<geoname>
+<toponymName>Rances</toponymName>
+<name>Rances</name>
+<lat>48.46615</lat>
+<lng>4.54661</lng>
+<geonameId>2984471</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>46</population>
+<alternateNames>Rances</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="G">A4</adminCode1>
+<adminName1>Champagne-Ardenne</adminName1>
+<adminCode2>10</adminCode2>
+<adminName2>Aube</adminName2>
+<adminCode3>101</adminCode3>
+<adminName3>Arrondissement de Bar-sur-Aube</adminName3>
+<adminCode4>10315</adminCode4>
+<adminName4>Rances</adminName4>
+<alternateName lang="post">10500</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>4.54525</west>
+<north>48.46705</north>
+<east>4.54797</east>
+<south>48.46525</south>
+</bbox>
+<score>7.28972864151001</score>
+</geoname>
+<geoname>
+<toponymName>Râches</toponymName>
+<name>Râches</name>
+<lat>50.41667</lat>
+<lng>3.13667</lng>
+<geonameId>6454420</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population>2737</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="O">B4</adminCode1>
+<adminName1>Nord-Pas-de-Calais</adminName1>
+<adminCode2>59</adminCode2>
+<adminName2>North</adminName2>
+<adminCode3>593</adminCode3>
+<adminName3>Arrondissement de Douai</adminName3>
+<adminCode4>59486</adminCode4>
+<adminName4>Râches</adminName4>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>3.11534</west>
+<north>50.43675</north>
+<east>3.1519</east>
+<south>50.40449</south>
+</bbox>
+<score>7.26426887512207</score>
+</geoname>
+</geonames>

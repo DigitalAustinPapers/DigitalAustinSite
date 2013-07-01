@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Incourt</toponymName>
+<name>Incourt</name>
+<lat>50.69151</lat>
+<lng>4.79816</lng>
+<geonameId>2795063</geonameId>
+<countryCode>BE</countryCode>
+<countryName>Belgium</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>4395</population>
+<alternateNames>Incourt</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WAL">WAL</adminCode1>
+<adminName1>Walloon Region</adminName1>
+<adminCode2>WBR</adminCode2>
+<adminName2>Walloon Brabant Province</adminName2>
+<adminCode3>25</adminCode3>
+<adminName3>Arrondissement de Nivelles</adminName3>
+<adminCode4>25043</adminCode4>
+<adminName4>Incourt</adminName4>
+<alternateName lang="post">1315</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Brussels</timezone>
+<bbox>
+<west>4.78586</west>
+<north>50.6993</north>
+<east>4.81046</east>
+<south>50.68372</south>
+</bbox>
+<score>66.4334945678711</score>
+</geoname>
+<geoname>
+<toponymName>Incourt</toponymName>
+<name>Incourt</name>
+<lat>50.39068</lat>
+<lng>2.15207</lng>
+<geonameId>3012810</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>95</population>
+<alternateNames>Incourt</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="O">B4</adminCode1>
+<adminName1>Nord-Pas-de-Calais</adminName1>
+<adminCode2>62</adminCode2>
+<adminName2>Pas-de-Calais</adminName2>
+<adminCode3>624</adminCode3>
+<adminName3>Arrondissement de Montreuil</adminName3>
+<adminCode4>62470</adminCode4>
+<adminName4>Incourt</adminName4>
+<alternateName lang="post">62770</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>2.15066</west>
+<north>50.39158</north>
+<east>2.15348</east>
+<south>50.38978</south>
+</bbox>
+<score>53.146793365478516</score>
+</geoname>
+<geoname>
+<toponymName>Incourt</toponymName>
+<name>Incourt</name>
+<lat>50.70222</lat>
+<lng>4.784</lng>
+<geonameId>2795064</geonameId>
+<countryCode>BE</countryCode>
+<countryName>Belgium</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population>4859</population>
+<alternateNames>Incourt</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WAL">WAL</adminCode1>
+<adminName1>Walloon Region</adminName1>
+<adminCode2>WBR</adminCode2>
+<adminName2>Walloon Brabant Province</adminName2>
+<adminCode3>25</adminCode3>
+<adminName3>Arrondissement de Nivelles</adminName3>
+<adminCode4>25043</adminCode4>
+<adminName4>Incourt</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Incourt%2C_Belgium</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Brussels</timezone>
+<score>46.50344467163086</score>
+</geoname>
+<geoname>
+<toponymName>Incourt</toponymName>
+<name>Incourt</name>
+<lat>50.39083</lat>
+<lng>2.15194</lng>
+<geonameId>6439639</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population>75</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="O">B4</adminCode1>
+<adminName1>Nord-Pas-de-Calais</adminName1>
+<adminCode2>62</adminCode2>
+<adminName2>Pas-de-Calais</adminName2>
+<adminCode3>624</adminCode3>
+<adminName3>Arrondissement de Montreuil</adminName3>
+<adminCode4>62470</adminCode4>
+<adminName4>Incourt</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Incourt%2C_Pas-de-Calais</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>2.13927</west>
+<north>50.39491</north>
+<east>2.16193</east>
+<south>50.37832</south>
+</bbox>
+<score>43.3941764831543</score>
+</geoname>
+</geonames>

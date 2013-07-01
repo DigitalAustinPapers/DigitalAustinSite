@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>19</totalResultsCount>
+<geoname>
+<toponymName>Bolivar Peninsula</toponymName>
+<name>Bolivar Peninsula</name>
+<lat>29.47829</lat>
+<lng>-94.57991</lng>
+<geonameId>4675536</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2417</population>
+<alternateNames/>
+<elevation>3</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>167</adminCode2>
+<adminName2>Galveston County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bolivar_Peninsula%2C_Texas</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-94.78238</west>
+<north>29.59826</north>
+<east>-94.37081</east>
+<south>29.3602</south>
+</bbox>
+<score>7.459531784057617</score>
+</geoname>
+<geoname>
+<toponymName>Bolivar</toponymName>
+<name>Bolivar</name>
+<lat>33.35845</lat>
+<lng>-97.24529</lng>
+<geonameId>4675527</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>208</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>121</adminCode2>
+<adminName2>Denton County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bolivar%2C_Texas</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-97.25606</west>
+<north>33.36744</north>
+<east>-97.23453</east>
+<south>33.34945</south>
+</bbox>
+<score>5.967625617980957</score>
+</geoname>
+<geoname>
+<toponymName>Port Bolivar</toponymName>
+<name>Port Bolivar</name>
+<lat>29.38079</lat>
+<lng>-94.76436</lng>
+<geonameId>4720048</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>2</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>167</adminCode2>
+<adminName2>Galveston County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Port_Bolivar%2C_Texas</alternateName>
+<alternateName lang="post">77650</alternateName>
+<alternateName lang="unlc">POB</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-94.77468</west>
+<north>29.38978</north>
+<east>-94.75404</east>
+<south>29.3718</south>
+</bbox>
+<score>5.967625617980957</score>
+</geoname>
+<geoname>
+<toponymName>Bolivar Hollow</toponymName>
+<name>Bolivar Hollow</name>
+<lat>33.89371</lat>
+<lng>-98.84951</lng>
+<geonameId>4675533</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>VAL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>valley</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>304</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>485</adminCode2>
+<adminName2>Wichita County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>3.7297658920288086</score>
+</geoname>
+<geoname>
+<toponymName>Point Bolivar Lighthouse</toponymName>
+<name>Point Bolivar Lighthouse</name>
+<lat>29.3669</lat>
+<lng>-94.76686</lng>
+<geonameId>4719845</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>LTHSE</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>lighthouse</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>2</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>167</adminCode2>
+<adminName2>Galveston County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Point_Bolivar_Lighthouse</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>3.7297658920288086</score>
+</geoname>
+<geoname>
+<toponymName>Bolivar Beach</toponymName>
+<name>Bolivar Beach</name>
+<lat>29.42329</lat>
+<lng>-94.68631</lng>
+<geonameId>4675528</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>2</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>167</adminCode2>
+<adminName2>Galveston County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-94.69663</west>
+<north>29.43228</north>
+<east>-94.67598</east>
+<south>29.4143</south>
+</bbox>
+<score>2.9838128089904785</score>
+</geoname>
+<geoname>
+<toponymName>Bolivar Beach</toponymName>
+<name>Bolivar Beach</name>
+<lat>29.41301</lat>
+<lng>-94.69936</lng>
+<geonameId>4675529</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>BCH</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>beach</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>2</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>167</adminCode2>
+<adminName2>Galveston County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>2.9838128089904785</score>
+</geoname>
+<geoname>
+<toponymName>Bolivar Peninsula</toponymName>
+<name>Bolivar Peninsula</name>
+<lat>29.43662</lat>
+<lng>-94.69019</lng>
+<geonameId>4675535</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>CAPE</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>cape</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>167</adminCode2>
+<adminName2>Galveston County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>2.9838128089904785</score>
+</geoname>
+<geoname>
+<toponymName>Bolivar Oil Field</toponymName>
+<name>Bolivar Oil Field</name>
+<lat>33.39122</lat>
+<lng>-97.30224</lng>
+<geonameId>4675561</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>L</fcl>
+<fcode>OILF</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>oilfield</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>228</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>121</adminCode2>
+<adminName2>Denton County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>2.9838128089904785</score>
+</geoname>
+<geoname>
+<toponymName>Bolivar Church</toponymName>
+<name>Bolivar Church</name>
+<lat>33.35817</lat>
+<lng>-97.24196</lng>
+<geonameId>4675534</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>CH</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>church</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>208</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>121</adminCode2>
+<adminName2>Denton County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>1.1189297437667847</score>
+</geoname>
+</geonames>

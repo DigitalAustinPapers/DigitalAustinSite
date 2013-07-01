@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>104</totalResultsCount>
+<geoname>
+<toponymName>Dog Island</toponymName>
+<name>Dog Island</name>
+<lat>13.36472</lat>
+<lng>-16.51139</lng>
+<geonameId>2413555</geonameId>
+<countryCode>GM</countryCode>
+<countryName>Gambia</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames>Charles Island,Dog Island</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="N">07</adminCode1>
+<adminName1>North Bank</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Dog_Island%2C_Gambia</alternateName>
+<timezone dstOffset="0.0" gmtOffset="0.0">Africa/Banjul</timezone>
+<score>27.864971160888672</score>
+</geoname>
+<geoname>
+<toponymName>Dog Island</toponymName>
+<name>Dog Island</name>
+<lat>18.28333</lat>
+<lng>-63.26667</lng>
+<geonameId>3573476</geonameId>
+<countryCode>AI</countryCode>
+<countryName>Anguilla</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames>Dog Island,Dog Islet</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Dog_Island%2C_Anguilla</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Anguilla</timezone>
+<score>27.864971160888672</score>
+</geoname>
+<geoname>
+<toponymName>Dog Island</toponymName>
+<name>Dog Island</name>
+<lat>29.80577</lat>
+<lng>-84.59435</lng>
+<geonameId>4153417</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>2</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="FL">FL</adminCode1>
+<adminName1>Florida</adminName1>
+<adminCode2>037</adminCode2>
+<adminName2>Franklin County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Dog_Island_%28Florida%29</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-84.67437</west>
+<north>29.82822</north>
+<east>-84.57136</east>
+<south>29.77589</south>
+</bbox>
+<score>27.301982879638672</score>
+</geoname>
+<geoname>
+<toponymName>Dog Island</toponymName>
+<name>Dog Island</name>
+<lat>63.31725</lat>
+<lng>-68.19782</lng>
+<geonameId>5940767</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NU">14</adminCode1>
+<adminName1>Nunavut</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Dog_Island_%28Nunavut%29</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Iqaluit</timezone>
+<score>27.301982879638672</score>
+</geoname>
+<geoname>
+<toponymName>Dog Island</toponymName>
+<name>Dog Island</name>
+<lat>-46.65</lat>
+<lng>168.4</lng>
+<geonameId>2191699</geonameId>
+<countryCode>NZ</countryCode>
+<countryName>New Zealand</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="12.0" gmtOffset="13.0">Pacific/Auckland</timezone>
+<score>18.201322555541992</score>
+</geoname>
+<geoname>
+<toponymName>Dog Island</toponymName>
+<name>Dog Island</name>
+<lat>53.23278</lat>
+<lng>-9.72694</lng>
+<geonameId>3311999</geonameId>
+<countryCode>IE</countryCode>
+<countryName>Ireland</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="C">C</adminCode1>
+<adminName1>Connaught</adminName1>
+<adminCode2>10</adminCode2>
+<adminName2>Galway</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Dublin</timezone>
+<bbox>
+<west>-9.76142</west>
+<north>53.25178</north>
+<east>-9.72119</east>
+<south>53.22878</south>
+</bbox>
+<score>18.201322555541992</score>
+</geoname>
+<geoname>
+<toponymName>Dog Island</toponymName>
+<name>Dog Island</name>
+<lat>53.56833</lat>
+<lng>-10.16583</lng>
+<geonameId>3315553</geonameId>
+<countryCode>IE</countryCode>
+<countryName>Ireland</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="C">C</adminCode1>
+<adminName1>Connaught</adminName1>
+<adminCode2>10</adminCode2>
+<adminName2>Galway</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Dublin</timezone>
+<score>18.201322555541992</score>
+</geoname>
+<geoname>
+<toponymName>Dog Island</toponymName>
+<name>Dog Island</name>
+<lat>30.46356</lat>
+<lng>-82.3579</lng>
+<geonameId>4153414</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>37</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="FL">FL</adminCode1>
+<adminName1>Florida</adminName1>
+<adminCode2>003</adminCode2>
+<adminName2>Baker County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>18.201322555541992</score>
+</geoname>
+<geoname>
+<toponymName>Dog Island</toponymName>
+<name>Dog Island</name>
+<lat>28.77276</lat>
+<lng>-82.69705</lng>
+<geonameId>4153415</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>0</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="FL">FL</adminCode1>
+<adminName1>Florida</adminName1>
+<adminCode2>017</adminCode2>
+<adminName2>Citrus County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>18.201322555541992</score>
+</geoname>
+<geoname>
+<toponymName>Dog Island</toponymName>
+<name>Dog Island</name>
+<lat>28.8122</lat>
+<lng>-82.69399</lng>
+<geonameId>4153416</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>0</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="FL">FL</adminCode1>
+<adminName1>Florida</adminName1>
+<adminCode2>017</adminCode2>
+<adminName2>Citrus County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>18.201322555541992</score>
+</geoname>
+</geonames>

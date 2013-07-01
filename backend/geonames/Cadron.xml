@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>21</totalResultsCount>
+<geoname>
+<toponymName>Cadrón</toponymName>
+<name>Cadrón</name>
+<lat>42.74198</lat>
+<lng>-8.05846</lng>
+<geonameId>3127097</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Cadron,Cadrón</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="GA">58</adminCode1>
+<adminName1>Galicia</adminName1>
+<adminCode2>PO</adminCode2>
+<adminName2>Pontevedra</adminName2>
+<adminCode3>36024</adminCode3>
+<adminName3>Partido Judicial de Lalín</adminName3>
+<alternateName lang="post">36514</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Madrid</timezone>
+<bbox>
+<west>-8.0707</west>
+<north>42.75098</north>
+<east>-8.04621</east>
+<south>42.73299</south>
+</bbox>
+<score>51.7411003112793</score>
+</geoname>
+<geoname>
+<toponymName>Cairon</toponymName>
+<name>Cairon</name>
+<lat>49.24017</lat>
+<lng>-0.45046</lng>
+<geonameId>3029178</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1674</population>
+<alternateNames>Cairon</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="P">99</adminCode1>
+<adminName1>Lower Normandy</adminName1>
+<adminCode2>14</adminCode2>
+<adminName2>Calvados</adminName2>
+<adminCode3>142</adminCode3>
+<adminName3>Arrondissement de Caen</adminName3>
+<adminCode4>14123</adminCode4>
+<adminName4>Cairon</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cairon</alternateName>
+<alternateName lang="post">14610</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>-0.45735</west>
+<north>49.24467</north>
+<east>-0.44357</east>
+<south>49.23567</south>
+</bbox>
+<score>11.734235763549805</score>
+</geoname>
+<geoname>
+<toponymName>Carron</toponymName>
+<name>Carron</name>
+<lat>57.45</lat>
+<lng>-3.26667</lng>
+<geonameId>2653668</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Carron</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>V6</adminCode2>
+<adminName2>Moray</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Carron%2C_Speyside</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.28339</west>
+<north>57.45899</north>
+<east>-3.24995</east>
+<south>57.44101</south>
+</bbox>
+<score>11.130860328674316</score>
+</geoname>
+<geoname>
+<toponymName>Carron</toponymName>
+<name>Carron</name>
+<lat>56.01667</lat>
+<lng>-3.78333</lng>
+<geonameId>2653669</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Carron</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>U9</adminCode2>
+<adminName2>Falkirk</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/River_Carron_%28Forth%29</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.79943</west>
+<north>56.02566</north>
+<east>-3.76724</east>
+<south>56.00767</south>
+</bbox>
+<score>11.130860328674316</score>
+</geoname>
+<geoname>
+<toponymName>Catron</toponymName>
+<name>Catron</name>
+<lat>36.61145</lat>
+<lng>-89.70314</lng>
+<geonameId>4380345</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>67</population>
+<alternateNames/>
+<elevation>86</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>143</adminCode2>
+<adminName2>New Madrid County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Catron%2C_Missouri</alternateName>
+<alternateName lang="post">63833</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-89.70426</west>
+<north>36.61235</north>
+<east>-89.70202</east>
+<south>36.61055</south>
+</bbox>
+<score>9.580963134765625</score>
+</geoname>
+<geoname>
+<toponymName>Capron</toponymName>
+<name>Capron</name>
+<lat>36.8967</lat>
+<lng>-98.57758</lng>
+<geonameId>4532311</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>23</population>
+<alternateNames/>
+<elevation>394</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OK">OK</adminCode1>
+<adminName1>Oklahoma</adminName1>
+<adminCode2>151</adminCode2>
+<adminName2>Woods County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Capron%2C_Oklahoma</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-98.57871</west>
+<north>36.8976</north>
+<east>-98.57646</east>
+<south>36.8958</south>
+</bbox>
+<score>9.308225631713867</score>
+</geoname>
+<geoname>
+<toponymName>Capron</toponymName>
+<name>Capron</name>
+<lat>36.71098</lat>
+<lng>-77.19997</lng>
+<geonameId>4750926</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>166</population>
+<alternateNames/>
+<elevation>34</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>175</adminCode2>
+<adminName2>Southampton County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Capron%2C_Virginia</alternateName>
+<alternateName lang="post">23829</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-77.20109</west>
+<north>36.71188</north>
+<east>-77.19885</east>
+<south>36.71008</south>
+</bbox>
+<score>9.308225631713867</score>
+</geoname>
+<geoname>
+<toponymName>Capron</toponymName>
+<name>Capron</name>
+<lat>42.39974</lat>
+<lng>-88.74038</lng>
+<geonameId>4886584</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1376</population>
+<alternateNames/>
+<elevation>278</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>007</adminCode2>
+<adminName2>Boone County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Capron%2C_Illinois</alternateName>
+<alternateName lang="post">61012</alternateName>
+<alternateName lang="unlc">CJ7</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-88.74647</west>
+<north>42.40424</north>
+<east>-88.73429</east>
+<south>42.39524</south>
+</bbox>
+<score>9.308225631713867</score>
+</geoname>
+<geoname>
+<toponymName>Cadran</toponymName>
+<name>Cadran</name>
+<lat>-7.47667</lat>
+<lng>110.40306</lng>
+<geonameId>1964385</geonameId>
+<countryCode>ID</countryCode>
+<countryName>Indonesia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Cadran,Candran Dua,Tjandran 2</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="JT">07</adminCode1>
+<adminName1>Central Java</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="7.0" gmtOffset="7.0">Asia/Jakarta</timezone>
+<bbox>
+<west>110.39399</west>
+<north>-7.46767</north>
+<east>110.41213</east>
+<south>-7.48566</south>
+</bbox>
+<score>8.114663124084473</score>
+</geoname>
+<geoname>
+<toponymName>Cairon</toponymName>
+<name>Cairon</name>
+<lat>49.24028</lat>
+<lng>-0.45028</lng>
+<geonameId>6427113</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population>1591</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="P">99</adminCode1>
+<adminName1>Lower Normandy</adminName1>
+<adminCode2>14</adminCode2>
+<adminName2>Calvados</adminName2>
+<adminCode3>142</adminCode3>
+<adminName3>Arrondissement de Caen</adminName3>
+<adminCode4>14123</adminCode4>
+<adminName4>Cairon</adminName4>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>-0.46398</west>
+<north>49.24606</north>
+<east>-0.41582</east>
+<south>49.21607</south>
+</bbox>
+<score>7.984136581420898</score>
+</geoname>
+</geonames>

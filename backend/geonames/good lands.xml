@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Goodlands</toponymName>
+<name>Goodlands</name>
+<lat>-20.035</lat>
+<lng>57.64306</lng>
+<geonameId>934488</geonameId>
+<countryCode>MU</countryCode>
+<countryName>Mauritius</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>20910</population>
+<alternateNames>Goodlands</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="RR">19</adminCode1>
+<adminName1>Rivière du Rempart</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Goodlands%2C_Mauritius</alternateName>
+<timezone dstOffset="4.0" gmtOffset="4.0">Indian/Mauritius</timezone>
+<bbox>
+<west>57.62332</west>
+<north>-20.01646</north>
+<east>57.66279</east>
+<south>-20.05354</south>
+</bbox>
+<score>210.0608673095703</score>
+</geoname>
+<geoname>
+<toponymName>Goodlands</toponymName>
+<name>Goodlands</name>
+<lat>49.09443</lat>
+<lng>-100.60477</lng>
+<geonameId>5962921</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MB">03</adminCode1>
+<adminName1>Manitoba</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Winnipeg</timezone>
+<bbox>
+<west>-100.6185</west>
+<north>49.10342</north>
+<east>-100.59103</east>
+<south>49.08543</south>
+</bbox>
+<score>42.87849426269531</score>
+</geoname>
+<geoname>
+<toponymName>Goodlands</toponymName>
+<name>Goodlands</name>
+<lat>-30.17664</lat>
+<lng>29.93054</lng>
+<geonameId>1000845</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>S</fcl>
+<fcode>FRMT</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farmstead</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="ZN">02</adminCode1>
+<adminName1>KwaZulu-Natal</adminName1>
+<adminCode2>DC43</adminCode2>
+<adminName2>Sisonke District Municipality</adminName2>
+<adminCode3>KZN434</adminCode3>
+<adminName3>Ubuhlebezwe</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<score>13.399529457092285</score>
+</geoname>
+<geoname>
+<toponymName>Goodlands</toponymName>
+<name>Goodlands</name>
+<lat>-30.64111</lat>
+<lng>25.5925</lng>
+<geonameId>1000846</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>S</fcl>
+<fcode>FRM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farm</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="FS">03</adminCode1>
+<adminName1>Free State</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<score>13.399529457092285</score>
+</geoname>
+<geoname>
+<toponymName>Goodlands</toponymName>
+<name>Goodlands</name>
+<lat>-40.95827</lat>
+<lng>175.7102</lng>
+<geonameId>6240993</geonameId>
+<countryCode>NZ</countryCode>
+<countryName>New Zealand</countryName>
+<fcl>S</fcl>
+<fcode>FRMT</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farmstead</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="WGN">G2</adminCode1>
+<adminName1>Wellington</adminName1>
+<adminCode2>048</adminCode2>
+<adminName2>Masterton</adminName2>
+<timezone dstOffset="12.0" gmtOffset="13.0">Pacific/Auckland</timezone>
+<score>13.399529457092285</score>
+</geoname>
+</geonames>

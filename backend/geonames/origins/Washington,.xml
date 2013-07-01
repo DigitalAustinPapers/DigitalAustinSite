@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>74409</totalResultsCount>
+<geoname>
+<toponymName>Washington</toponymName>
+<name>Washington</name>
+<lat>47.50012</lat>
+<lng>-120.50147</lng>
+<geonameId>5815135</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>first-order administrative division</fcodeName>
+<population>6271775</population>
+<alternateNames>Estado de Washington,Etat de Washington,Evergreen State,Hƿæsingatūn,Ipinle Washington,Ouasin'nkton,Shtat Vashyngton,Stat Washington,State of Washington,Tieu bang Washington,Tiểu bang Washington,Uashington,Vashington,Vasington,Vasingtona,Vasingtonas,Vasingtonia,Vasingtonio,Vasinqton,Vaŝingtonio,Vaşington,Vaşinqton,Vašingtona,Vašingtonas,Vooshinta,WA,Waashindoon Hahoodzo,Wachinton,Wachintòn,Wakinekona,Washin'giton Shitati,Washington,Washington suyu,Washingtoni osariik,Waszyngton,Wááshindoon Hahoodzo,ayalt washyngtn,hua sheng dun zhou,oyasintana,raasintana,rath wxchingtan,vashingtʼonis shtʼatʼi,vasingatana,vasintan,vosingtana,washinton zhou,washngtn,washntn,washyngtn,wlayt washntn,wosingteon ju,wwsyngtwn,État de Washington,Ìpínlẹ̀ Washington,Ουάσινγκτον,Вашингтон,Воошинта,Уашингтон,Штат Вашынгтон,Վաշինգտոն,וואשינגטאן,וושינגטון,ایالت واشینگتن,ریاست واشنگٹن,واشنطن,واشنگتن,واشنگٹن,واشینگتن,ولاية واشنطن,वाशिंगटन,वासिंगटन,वॉशिंग्टन,ওয়াশিংটন,ৱাশিংটন,வாஷிங்டன்,വാഷിങ്ടൺ,වොෂින්ටන්,รัฐวอชิงตัน,ཝ་ཤིན་ཏྲོན།,ဝါရှင်တန်ပြည်နယ်,ვაშინგტონის შტატი,ワシントン州,华盛顿州,워싱턴 주</alternateNames>
+<elevation>555</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WA">WA</adminCode1>
+<adminName1>Washington</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="abbr">WA</alternateName>
+<alternateName lang="ang">Hƿæsingatūn</alternateName>
+<alternateName lang="ar">واشنطن</alternateName>
+<alternateName lang="arz">ولاية واشنطن</alternateName>
+<alternateName lang="ay">Washington suyu</alternateName>
+<alternateName lang="az">Vaşinqton</alternateName>
+<alternateName lang="be">Штат Вашынгтон</alternateName>
+<alternateName lang="bg">Вашингтон</alternateName>
+<alternateName lang="bn">ওয়াশিংটন</alternateName>
+<alternateName lang="bo">ཝ་ཤིན་ཏྲོན།</alternateName>
+<alternateName lang="bpy">ৱাশিংটন</alternateName>
+<alternateName lang="ckb">واشینگتن</alternateName>
+<alternateName lang="cv">Вашингтон</alternateName>
+<alternateName lang="el">Ουάσινγκτον</alternateName>
+<alternateName lang="en">Washington</alternateName>
+<alternateName lang="eo">Vaŝingtonio</alternateName>
+<alternateName lang="es">Washington</alternateName>
+<alternateName lang="et">Washingtoni osariik</alternateName>
+<alternateName lang="fa">ایالت واشینگتن</alternateName>
+<alternateName lang="fr">État de Washington</alternateName>
+<alternateName lang="gl">Estado de Washington</alternateName>
+<alternateName lang="haw">Wakinekona</alternateName>
+<alternateName lang="he">וושינגטון</alternateName>
+<alternateName lang="hi">वाशिंगटन</alternateName>
+<alternateName lang="ht">Wachintòn</alternateName>
+<alternateName lang="hy">Վաշինգտոն</alternateName>
+<alternateName lang="ja">ワシントン州</alternateName>
+<alternateName lang="ka">ვაშინგტონის შტატი</alternateName>
+<alternateName lang="ko">워싱턴 주</alternateName>
+<alternateName lang="kw">Stat Washington</alternateName>
+<alternateName lang="la">Vasingtonia</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Washington_%28state%29</alternateName>
+<alternateName lang="lt">Vašingtonas</alternateName>
+<alternateName lang="lv">Vašingtona</alternateName>
+<alternateName lang="mk">Вашингтон</alternateName>
+<alternateName lang="ml">വാഷിങ്ടൺ</alternateName>
+<alternateName lang="mr">वॉशिंग्टन</alternateName>
+<alternateName lang="mrj">Вашингтон</alternateName>
+<alternateName lang="my">ဝါရှင်တန်ပြည်နယ်</alternateName>
+<alternateName lang="mzn">واشنگتن</alternateName>
+<alternateName lang="new">वासिंगटन</alternateName>
+<alternateName lang="nv">Wááshindoon Hahoodzo</alternateName>
+<alternateName lang="os">Вашингтон</alternateName>
+<alternateName lang="pl">Waszyngton</alternateName>
+<alternateName lang="pnb">واشنگٹن</alternateName>
+<alternateName lang="qu">Washington suyu</alternateName>
+<alternateName lang="ru">Вашингтон</alternateName>
+<alternateName lang="sah">Уашингтон</alternateName>
+<alternateName lang="si">වොෂින්ටන්</alternateName>
+<alternateName lang="sr">Вашингтон</alternateName>
+<alternateName lang="ta">வாஷிங்டன்</alternateName>
+<alternateName lang="tg">Вашингтон</alternateName>
+<alternateName lang="th">รัฐวอชิงตัน</alternateName>
+<alternateName lang="tr">Vaşington</alternateName>
+<alternateName lang="tt">Вашингтон</alternateName>
+<alternateName lang="ug">Washin'giton Shitati</alternateName>
+<alternateName lang="uk">Вашингтон</alternateName>
+<alternateName lang="ur">ریاست واشنگٹن</alternateName>
+<alternateName lang="vi">Tiểu bang Washington</alternateName>
+<alternateName lang="wuu">华盛顿州</alternateName>
+<alternateName lang="xal">Воошинта</alternateName>
+<alternateName lang="yi">וואשינגטאן</alternateName>
+<alternateName lang="yo">Ìpínlẹ̀ Washington</alternateName>
+<alternateName lang="zh">华盛顿州</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-124.84898</west>
+<north>49.00249</north>
+<east>-116.91557</east>
+<south>45.54354</south>
+</bbox>
+<score>14.4522705078125</score>
+</geoname>
+<geoname>
+<toponymName>Washington, D. C.</toponymName>
+<name>Washington</name>
+<lat>38.89511</lat>
+<lng>-77.03637</lng>
+<geonameId>4140963</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLC</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>capital of a political entity</fcodeName>
+<population>601723</population>
+<alternateNames>Ouasinkton,Vashington,Vasingtonia,WAS,Washington,Washington D.C.,Washington DC,Waszyngton,Ουάσιγκτον,Вашингтон</alternateNames>
+<elevation>7</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="DC">DC</adminCode1>
+<adminName1>Washington, D.C.</adminName1>
+<adminCode2>001</adminCode2>
+<adminName2>US.DC.001</adminName2>
+<alternateName lang="da">Washington</alternateName>
+<alternateName lang="de">Washington</alternateName>
+<alternateName lang="el">Ουάσιγκτον</alternateName>
+<alternateName lang="en">Washington</alternateName>
+<alternateName lang="es">Washington</alternateName>
+<alternateName lang="fi">Washington</alternateName>
+<alternateName lang="fr">Washington</alternateName>
+<alternateName lang="iata">WAS</alternateName>
+<alternateName lang="it">Washington</alternateName>
+<alternateName lang="la">Vasingtonia</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Washington%2C_D.C.</alternateName>
+<alternateName lang="pl">Waszyngton</alternateName>
+<alternateName lang="post">20201</alternateName>
+<alternateName lang="pt">Washington</alternateName>
+<alternateName lang="ru">Вашингтон</alternateName>
+<alternateName lang="sv">Washington</alternateName>
+<alternateName lang="unlc">WAS</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-77.16587</west>
+<north>38.99576</north>
+<east>-76.90686</east>
+<south>38.79446</south>
+</bbox>
+<score>14.239376068115234</score>
+</geoname>
+<geoname>
+<toponymName>Bellevue</toponymName>
+<name>Bellevue</name>
+<lat>47.61038</lat>
+<lng>-122.20068</lng>
+<geonameId>5786882</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>122363</population>
+<alternateNames>Bellevue,Belv'ju,Belvju,balfyw, washntn,bei er wei you,belavhyu,belbyu,berubyu,blwyw, washyngtn,Белв'ю,Белвью,Белвю,Белвју,بالفيو، واشنطن,بلویو، واشینگتن,बेलव्ह्यू,ベルビュー,贝尔维尤,벨뷰</alternateNames>
+<elevation>26</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WA">WA</adminCode1>
+<adminName1>Washington</adminName1>
+<adminCode2>033</adminCode2>
+<adminName2>King County</adminName2>
+<alternateName lang="ar">بالفيو، واشنطن</alternateName>
+<alternateName lang="bg">Белвю</alternateName>
+<alternateName lang="da">Bellevue</alternateName>
+<alternateName lang="de">Bellevue</alternateName>
+<alternateName lang="en">Bellevue</alternateName>
+<alternateName lang="eo">Bellevue</alternateName>
+<alternateName lang="fa">بلویو، واشینگتن</alternateName>
+<alternateName lang="ja">ベルビュー</alternateName>
+<alternateName lang="ko">벨뷰</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bellevue%2C_Washington</alternateName>
+<alternateName lang="lt">Belvju</alternateName>
+<alternateName lang="mr">बेलव्ह्यू</alternateName>
+<alternateName lang="nl">Bellevue</alternateName>
+<alternateName lang="post">98009</alternateName>
+<alternateName lang="pt">Bellevue</alternateName>
+<alternateName lang="ru">Белвью</alternateName>
+<alternateName lang="sr">Белвју</alternateName>
+<alternateName lang="uk">Белв'ю</alternateName>
+<alternateName lang="unlc">BVE</alternateName>
+<alternateName lang="zh">贝尔维尤</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-122.26777</west>
+<north>47.65557</north>
+<east>-122.13359</east>
+<south>47.56518</south>
+</bbox>
+<score>10.92945384979248</score>
+</geoname>
+<geoname>
+<toponymName>Seattle-Tacoma-Bellevue</toponymName>
+<name>Seattle-Tacoma-Bellevue</name>
+<lat>47.60014</lat>
+<lng>-122.3283</lng>
+<geonameId>6955116</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>L</fcl>
+<fcode>RGNE</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>economic region</fcodeName>
+<population>3344813</population>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WA">WA</adminCode1>
+<adminName1>Washington</adminName1>
+<adminCode2>033</adminCode2>
+<adminName2>King County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>10.92945384979248</score>
+</geoname>
+<geoname>
+<toponymName>Washington</toponymName>
+<name>Washington</name>
+<lat>-11.91667</lat>
+<lng>-67.88333</lng>
+<geonameId>3901295</geonameId>
+<countryCode>BO</countryCode>
+<countryName>Bolivia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Washington,Wasihington</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="L">04</adminCode1>
+<adminName1>La Paz</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/La_Paz</timezone>
+<bbox>
+<west>-67.89252</west>
+<north>-11.90767</north>
+<east>-67.87414</east>
+<south>-11.92566</south>
+</bbox>
+<score>9.958820343017578</score>
+</geoname>
+<geoname>
+<toponymName>Lake Washington</toponymName>
+<name>Lake Washington</name>
+<lat>47.61957</lat>
+<lng>-122.24544</lng>
+<geonameId>5815130</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>LK</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>lake</fcodeName>
+<population/>
+<alternateNames>Danau Washington,Lac Washington,Lago Washington,Vashington,Vasingtonas,Vašingtonas,Washingtoni jaerv,Washingtoni järv,Washingtonovo jezero,hua sheng dun hu,Вашингтон,华盛顿湖</alternateNames>
+<elevation>5</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WA">WA</adminCode1>
+<adminName1>Washington</adminName1>
+<adminCode2>033</adminCode2>
+<adminName2>King County</adminName2>
+<alternateName lang="cs">Washingtonovo jezero</alternateName>
+<alternateName lang="es">Lago Washington</alternateName>
+<alternateName lang="et">Washingtoni järv</alternateName>
+<alternateName lang="fr">Lac Washington</alternateName>
+<alternateName lang="id">Danau Washington</alternateName>
+<alternateName lang="it">Lago Washington</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lake_Washington</alternateName>
+<alternateName lang="lt">Vašingtonas</alternateName>
+<alternateName lang="pt">Lago Washington</alternateName>
+<alternateName lang="ru">Вашингтон</alternateName>
+<alternateName lang="zh">华盛顿湖</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>9.243597984313965</score>
+</geoname>
+<geoname>
+<toponymName>Bellingham</toponymName>
+<name>Bellingham</name>
+<lat>48.75955</lat>
+<lng>-122.48822</lng>
+<geonameId>5786899</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>80885</population>
+<alternateNames>BLI,Belingam,Belinghem,Belingkham,Bellingham,Bellingkhehm,bei ling e mu,bellinghaem,berinhamu,blyngham, washyngtn,bylyngham, washntn,Белингам,Белингхам,Беллингхэм,Բելինգհեմ,بلینگهام، واشینگتن,بيلينغام، واشنطن,بیلنگہام,ベリンハム,贝灵厄姆,벨링햄</alternateNames>
+<elevation>21</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WA">WA</adminCode1>
+<adminName1>Washington</adminName1>
+<adminCode2>073</adminCode2>
+<adminName2>Whatcom County</adminName2>
+<alternateName lang="ar">بيلينغام، واشنطن</alternateName>
+<alternateName lang="bg">Белингам</alternateName>
+<alternateName lang="de">Bellingham</alternateName>
+<alternateName lang="en">Bellingham</alternateName>
+<alternateName lang="fa">بلینگهام، واشینگتن</alternateName>
+<alternateName lang="hy">Բելինգհեմ</alternateName>
+<alternateName lang="iata">BLI</alternateName>
+<alternateName lang="ja">ベリンハム</alternateName>
+<alternateName lang="ko">벨링햄</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bellingham%2C_Washington</alternateName>
+<alternateName lang="pl">Bellingham</alternateName>
+<alternateName lang="pnb">بیلنگہام</alternateName>
+<alternateName lang="post">98225</alternateName>
+<alternateName lang="pt">Bellingham</alternateName>
+<alternateName lang="ru">Беллингхэм</alternateName>
+<alternateName lang="sr">Белингхам</alternateName>
+<alternateName lang="unlc">BLI</alternateName>
+<alternateName lang="zh">贝灵厄姆</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-122.5441</west>
+<north>48.79636</north>
+<east>-122.43235</east>
+<south>48.72274</south>
+</bbox>
+<score>8.743563652038574</score>
+</geoname>
+<geoname>
+<toponymName>Everett</toponymName>
+<name>Everett</name>
+<lat>47.97898</lat>
+<lng>-122.20208</lng>
+<geonameId>5793933</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>103019</population>
+<alternateNames>Ehverett,Everet,Everett,Evuret,PAE,ai fu li te,awrt, washyngtn,ebaretto,ebeoles,Еверет,Евърет,Эверетт,اورت، واشینگتن,ایورٹ,エバレット,埃弗里特,에버렛</alternateNames>
+<elevation>25</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WA">WA</adminCode1>
+<adminName1>Washington</adminName1>
+<adminCode2>061</adminCode2>
+<adminName2>Snohomish County</adminName2>
+<alternateName lang="bg">Евърет</alternateName>
+<alternateName lang="de">Everett</alternateName>
+<alternateName lang="en">Everett</alternateName>
+<alternateName lang="fa">اورت، واشینگتن</alternateName>
+<alternateName lang="fr">Everett</alternateName>
+<alternateName lang="iata">PAE</alternateName>
+<alternateName lang="ja">エバレット</alternateName>
+<alternateName lang="ko">에버렛</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Everett%2C_Washington</alternateName>
+<alternateName lang="pl">Everett</alternateName>
+<alternateName lang="pnb">ایورٹ</alternateName>
+<alternateName lang="post">98207</alternateName>
+<alternateName lang="pt">Everett</alternateName>
+<alternateName lang="ru">Эверетт</alternateName>
+<alternateName lang="sr">Еверет</alternateName>
+<alternateName lang="sv">Everett</alternateName>
+<alternateName lang="unlc">PAE</alternateName>
+<alternateName lang="zh">埃弗里特</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-122.26406</west>
+<north>48.02044</north>
+<east>-122.1401</east>
+<south>47.93753</south>
+</bbox>
+<score>8.743563652038574</score>
+</geoname>
+<geoname>
+<toponymName>Federal Way</toponymName>
+<name>Federal Way</name>
+<lat>47.32232</lat>
+<lng>-122.31262</lng>
+<geonameId>5794245</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>89306</population>
+<alternateNames>Federal Vej,Federal Way,Fedural Uej,fdral wy, washyngtn,federaruu~ei,fei de lei er wei,fydral way, washntn,pedeoleol-wei,Федерал Веј,Федърал Уей,فدرال وی، واشینگتن,فيدرال واي، واشنطن,فیڈرل وے,フェデラルウェイ,费德勒尔韦,페더럴웨이</alternateNames>
+<elevation>141</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WA">WA</adminCode1>
+<adminName1>Washington</adminName1>
+<adminCode2>033</adminCode2>
+<adminName2>King County</adminName2>
+<alternateName lang="ar">فيدرال واي، واشنطن</alternateName>
+<alternateName lang="bg">Федърал Уей</alternateName>
+<alternateName lang="de">Federal Way</alternateName>
+<alternateName lang="en">Federal Way</alternateName>
+<alternateName lang="fa">فدرال وی، واشینگتن</alternateName>
+<alternateName lang="ja">フェデラルウェイ</alternateName>
+<alternateName lang="ko">페더럴웨이</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Federal_Way%2C_Washington</alternateName>
+<alternateName lang="pnb">فیڈرل وے</alternateName>
+<alternateName lang="post">98093</alternateName>
+<alternateName lang="pt">Federal Way</alternateName>
+<alternateName lang="sr">Федерал Веј</alternateName>
+<alternateName lang="unlc">FDW</alternateName>
+<alternateName lang="zh">费德勒尔韦</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-122.36973</west>
+<north>47.36101</north>
+<east>-122.25551</east>
+<south>47.28364</south>
+</bbox>
+<score>8.743563652038574</score>
+</geoname>
+<geoname>
+<toponymName>Kennewick</toponymName>
+<name>Kennewick</name>
+<lat>46.21125</lat>
+<lng>-119.13723</lng>
+<geonameId>5799610</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>73917</population>
+<alternateNames>Kenevik,Keniuik,Kennevik,Kennewick,VSK,ken na wei ke,keneowig,keniu~ikku,kn wyk, washyngtn,kynwk,kynwyk, washntn,Кеневик,Кениуик,Кенневик,كينويك، واشنطن,کن ویک، واشینگتن,کینوک,ケニウィック,肯纳威克,케너윅</alternateNames>
+<elevation>124</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WA">WA</adminCode1>
+<adminName1>Washington</adminName1>
+<adminCode2>005</adminCode2>
+<adminName2>Benton County</adminName2>
+<alternateName lang="ar">كينويك، واشنطن</alternateName>
+<alternateName lang="bg">Кениуик</alternateName>
+<alternateName lang="en">Kennewick</alternateName>
+<alternateName lang="fa">کن ویک، واشینگتن</alternateName>
+<alternateName lang="fr">Kennewick</alternateName>
+<alternateName lang="iata">VSK</alternateName>
+<alternateName lang="ja">ケニウィック</alternateName>
+<alternateName lang="ko">케너윅</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kennewick%2C_Washington</alternateName>
+<alternateName lang="pnb">کینوک</alternateName>
+<alternateName lang="post">99336</alternateName>
+<alternateName lang="pt">Kennewick</alternateName>
+<alternateName lang="ru">Кенневик</alternateName>
+<alternateName lang="sr">Кеневик</alternateName>
+<alternateName lang="unlc">KWC</alternateName>
+<alternateName lang="zh">肯纳威克</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-119.18802</west>
+<north>46.24637</north>
+<east>-119.08645</east>
+<south>46.17612</south>
+</bbox>
+<score>8.743563652038574</score>
+</geoname>
+</geonames>

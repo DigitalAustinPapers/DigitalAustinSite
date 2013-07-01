@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Aiwo District</toponymName>
+<name>Aiwo</name>
+<lat>-0.53422</lat>
+<lng>166.90994</lng>
+<geonameId>2110451</geonameId>
+<countryCode>NR</countryCode>
+<countryName>Nauru</countryName>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>first-order administrative division</fcodeName>
+<population>1051</population>
+<alternateNames>Aewu,Aivum,Aiwo,Aiwo District,aiu~o de qu,アイウォ地区</alternateNames>
+<elevation>5</elevation>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="01">01</adminCode1>
+<adminName1>Aiwo</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="de">Aiwo</alternateName>
+<alternateName lang="en">Aiwo</alternateName>
+<alternateName lang="es">Aiwo</alternateName>
+<alternateName lang="fi">Aiwo</alternateName>
+<alternateName lang="fr">Aiwo</alternateName>
+<alternateName lang="id">Aiwo</alternateName>
+<alternateName lang="ja">アイウォ地区</alternateName>
+<alternateName lang="la">Aivum</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Aiwo_District</alternateName>
+<alternateName lang="na">Aiwo</alternateName>
+<alternateName lang="nl">Aiwo</alternateName>
+<alternateName lang="no">Aiwo</alternateName>
+<alternateName lang="pl">Aiwo</alternateName>
+<alternateName lang="pt">Aiwo</alternateName>
+<alternateName lang="sv">Aiwo</alternateName>
+<timezone dstOffset="12.0" gmtOffset="12.0">Pacific/Nauru</timezone>
+<score>56.320919036865234</score>
+</geoname>
+</geonames>
