@@ -98,15 +98,43 @@
 	}
 		
 	function getLetterBodyForCloud($row) {
-		return getLetterBodyNode($row)->textContent;
+		$raw_text = getLetterBodyNode($row)->textContent;
+		$cloud_text = str_replace("\n", " ", $raw_text); #cloud chokes on newlines
+		return $cloud_text;
 	}
 		
 	function getLetterBodyForDisplay($row) {
 		$doc = getDocXmlFromRow($row);
 		$body_node = getLetterBodyNode($row, $doc);
+		transformBodyForDisplay($doc, $body_node);
 		return $doc->saveXML($body_node);
 	}
 		
+	
+	function transformBodyForDisplay($doc, $body) {
+		# change people to links
+		transformPersonNames($doc, $body);
+		# change places to links
+	}
+	
+	function transformPersonNames($doc, $body) {
+		$all_persNames = $body->getElementsByTagName('persName');
+		foreach($all_persNames as $persName) {
+			$reference = $persName->textContent;
+			# clean up the reference for text search
+			$cleaned_reference = preg_replace('/^\s*/', '', $reference);
+			$cleaned_reference = preg_replace('/\s*$/', '', $cleaned_reference);
+			logString("reference [{$reference}] cleaned to [{$cleaned_reference}]");
+			
+			$search_target = urlencode($cleaned_reference);
+			$link = $doc->createElement('a', $reference);
+			$link->setAttribute('href', "/results.php?query={$cleaned_reference}");
+			logString($link->textContent);
+			$persName->parentNode->replaceChild($link, $persName);
+		}
+	}
+	
+	
 	
 	function peopleMentioned($row){
 		echo "<h3>People Mentioned:</h3><p>";
