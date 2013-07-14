@@ -40,6 +40,7 @@
 				<div id="cloud3"></div>
 			</div>
 			<div id="cite">Citation: <?php print getCitation($result) ?></div>
+			<div id="teixml"><a href="rawtei.php?id=<?php print $result['id'] ?>">TEI XML</a></div>
 			<div id = "footer">
 				<?php include('footer.php'); ?>
 			</div>
