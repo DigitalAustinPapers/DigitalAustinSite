@@ -53,11 +53,8 @@
 		# we're looking for contents like this:
 		#        <div1 type="body">
  		$all_bibls = $doc->getElementsByTagName('bibl');
-		logString("all_bibls->length = {$all_bibls->length}");
 		$bibl = $all_bibls->item(0);
-		$citeString = $doc->saveXML($bibl);
-		logString("bibl = {$citeString}");
-		
+		$citeString = $doc->saveXML($bibl);		
 	
 		// # now process the body
 		// logString($body_node->textContent);
@@ -115,25 +112,58 @@
 		# change people to links
 		transformPersonNames($doc, $body);
 		# change places to links
+		transformPlaceNames($doc, $body);
 	}
 	
 	function transformPersonNames($doc, $body) {
 		$all_persNames = $body->getElementsByTagName('persName');
-		foreach($all_persNames as $persName) {
-			$reference = $persName->textContent;
-			# clean up the reference for text search
-			$cleaned_reference = preg_replace('/^\s*/', '', $reference);
-			$cleaned_reference = preg_replace('/\s*$/', '', $cleaned_reference);
-			logString("reference [{$reference}] cleaned to [{$cleaned_reference}]");
-			
-			$search_target = urlencode($cleaned_reference);
-			$link = $doc->createElement('a', $reference);
-			$link->setAttribute('href', "/results.php?query={$cleaned_reference}");
-			logString($link->textContent);
-			$persName->parentNode->replaceChild($link, $persName);
+
+		while($all_persNames->length > 0) {
+			logString("persName count={$all_persNames->length}");
+			foreach($all_persNames as $persName) {
+				$reference = $persName->textContent;
+				# clean up the reference for text search
+				$cleaned_reference = preg_replace('/^\s*/', '', $reference);
+				$cleaned_reference = preg_replace('/\s*$/', '', $cleaned_reference);
+	#			logString("reference [{$reference}] cleaned to [{$cleaned_reference}]");
+				
+				$search_target = urlencode($cleaned_reference);
+				$link = $doc->createElement('a', $reference);
+				$link->setAttribute('href', "/results.php?query={$cleaned_reference}");
+	#			logString($link->textContent);
+				$result = $persName->parentNode->replaceChild($link, $persName);
+				
+			}
+			$all_persNames = $body->getElementsByTagName('persName');
+			# continue until they are all transformed
 		}
+		
 	}
 	
+	function transformPlaceNames($doc, $body) {
+		$all_placenames = $body->getElementsByTagName('placeName');
+
+		while($all_placenames->length > 0) {
+			logString("placename count={$all_placenames->length}");
+			foreach($all_placenames as $placename) {
+				$reference = $placename->textContent;
+				# clean up the reference for text search
+				$cleaned_reference = preg_replace('/^\s*/', '', $reference);
+				$cleaned_reference = preg_replace('/\s*$/', '', $cleaned_reference);
+	#			logString("reference [{$reference}] cleaned to [{$cleaned_reference}]");
+				
+				$search_target = urlencode($cleaned_reference);
+				$link = $doc->createElement('a', $reference);
+				$link->setAttribute('href', "/results.php?query={$cleaned_reference}");
+	#			logString($link->textContent);
+				$result = $placename->parentNode->replaceChild($link, $placename);
+				
+			}
+			$all_placenames = $body->getElementsByTagName('placeName');
+			# continue until they are all transformed
+		}
+		
+	}
 	
 	
 	function peopleMentioned($row){
