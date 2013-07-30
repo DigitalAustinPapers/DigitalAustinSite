@@ -1,999 +1,741 @@
-INSERT INTO NormalizedPerson (name) VALUES ("Robert M. Williamson"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Warren D. C. Hall"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("A. C. Buckner"); -- total=4
-INSERT INTO NormalizedPerson (name) VALUES ("A. Carnahan Dr."); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("A. Erwin Groce & Co"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("A. W. McLane"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Abrm Alley"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Achilles McPharlan"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Africans"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("A. J. Yates"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Alabamos"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Alexander Kilpatrick"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Allen White"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Andrew L Phinney"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Andrew Roach"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Andrew Valentine"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Andrw Boggs"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Anthony Soulard"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Anthony Butler"); -- total=6
-INSERT INTO NormalizedPerson (name) VALUES ("Anthony Winstons"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Anthony R. Clarke"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Anto L. de Santa Anna"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Antonio Manches"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Apadachy Chief"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Austin and Tailer"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Austin Elliott"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Ay. C. Buckner"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Ayuntamiento of the Capital of the District"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Ayuntamiento of the Jurisdiction of Brazoria"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Ayuntamto of Bexar"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("B. J. Thompson"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("B. R. Milam"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("B. Sims"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Barrett"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Bartlett Sims"); -- total=5
-INSERT INTO NormalizedPerson (name) VALUES ("Ben R. Milam"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Benjani Johnston"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Benjamin F. Smith"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Benjamin Beeson"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Benjamin Carrico"); -- total=3
-INSERT INTO NormalizedPerson (name) VALUES ("Benjamin Edwards"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Benjamin Ives Gilman"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Benjamin Long"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Bernardo Gutierris"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Bradly"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Brigham"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Brooks"); -- total=5
-INSERT INTO NormalizedPerson (name) VALUES ("Brother James"); -- total=10
-INSERT INTO NormalizedPerson (name) VALUES ("Burrill Thompson"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Caleb S Bostwick"); -- total=1
-
-INSERT INTO NormalizedPerson (name) VALUES ("Capt Alley"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Capt Barigan"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Capt DeWitt"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Capt Doons"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Capt Fanning"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Capt Harris"); -- total=4
-INSERT INTO NormalizedPerson (name) VALUES ("Capt Henry Austins family"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Capt Hiram"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Capt J Austin"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Capt Postlewhaite"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Capt Russell"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Capt. A. Thompson"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Capt. Brown"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Capt. Buckner"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Capt. Chrisman"); -- total=3
-INSERT INTO NormalizedPerson (name) VALUES ("Capt. Dickson"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Capt. Fuller"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Capt. J. W. Fanning"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Capt. James Bryant"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Capt. James Newell"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Capt. Jno Austin"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Capt. Offutt"); -- total=3
-INSERT INTO NormalizedPerson (name) VALUES ("Capt. Saviego"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Captain A Robinson"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Captain Brown of Schr liberty"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Captain Buckner"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Captain Ross"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Captains of the companies East of the Trinity"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Captn Bird"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Captn Chas"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Captn Fanning"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Captn Jones"); -- total=3
-
-INSERT INTO NormalizedPerson (name) VALUES ("Charles Elliott"); -- total=3
-INSERT INTO NormalizedPerson (name) VALUES ("Charles H. Burnett"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Cherokees"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Chickasaw Indian"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Choctaws"); -- total=3
-
-INSERT INTO NormalizedPerson (name) VALUES ("Col A"); -- total=4
-INSERT INTO NormalizedPerson (name) VALUES ("Col Quarles"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Col Stephen F. Auston"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Col. Antonio Martinez"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Col. Bradburn"); -- total=4
-INSERT INTO NormalizedPerson (name) VALUES ("Col. Butler"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Col. Bynum"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Col. Charles Morgan"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Col. L."); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Col. Langworthy"); -- total=3
-INSERT INTO NormalizedPerson (name) VALUES ("Col. Macomb"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Col. Milam"); -- total=4
-INSERT INTO NormalizedPerson (name) VALUES ("Col. Moore"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Col. Pitts"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Col. Stephen, F. Austin"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Col. U"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Col. W."); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Col: John Thompson Mason"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Col: S F Austin"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Col: Stephen F. Austin"); -- total=3
-INSERT INTO NormalizedPerson (name) VALUES ("Col: Wallace."); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Col: Wilson"); -- total=4
-INSERT INTO NormalizedPerson (name) VALUES ("Collins"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Coln Hall"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Coln Pettis"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Coln. Nicholas"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Colo Bradburn"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Colo Burleson"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Colo Erwin"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Colo Foster"); -- total=3
-INSERT INTO NormalizedPerson (name) VALUES ("Colo [Anthony] Butler"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Colo. Benjn F. Foster"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Colo. James Bowie"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Colo. Leftwitch"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Colo. Mathews"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Colo. S, F, Austin"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Colonal Ostin"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Colonel Perry"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Colonel Stephen F Austin"); -- total=4
-
-INSERT INTO NormalizedPerson (name) VALUES ("Don Pedro Lemus"); -- total=1
-
-INSERT INTO NormalizedPerson (name) VALUES ("Commodore Porter"); -- total=2
-
-INSERT INTO NormalizedPerson (name) VALUES ("Coushattas"); -- total=2
-
-INSERT INTO NormalizedPerson (name) VALUES ("Couzen E Sharp"); -- total=1
-
-INSERT INTO NormalizedPerson (name) VALUES ("Creek Indians"); -- total=1
-
-INSERT INTO NormalizedPerson (name) VALUES ("D G Burnett"); -- total=1
-
-INSERT INTO NormalizedPerson (name) VALUES ("D. G. and R Mills"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("D. G. Burnett"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("D. W. Anthony"); -- total=2
-
-
-INSERT INTO NormalizedPerson (name) VALUES ("Dalley"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Daniel Holoway"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Daniel Dunklin"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("David Bright"); -- total=5
-INSERT INTO NormalizedPerson (name) VALUES ("David H. Milburn"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("David McCormick"); -- total=1
-
-INSERT INTO NormalizedPerson (name) VALUES ("Dn Alexdro TreviÃ±o"); -- total=1
-
-INSERT INTO NormalizedPerson (name) VALUES ("Doct Elliott"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Doct Roberts"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Doct. Keep"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Doct. Pollard"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Doctor Beales"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Doctor farrar"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Doctor George Fisher"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Doctor Joseph Bowers"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Doctr Hoxey"); -- total=3
-INSERT INTO NormalizedPerson (name) VALUES ("Doctr Robertson"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Doctr Sibly"); -- total=1
-
-INSERT INTO NormalizedPerson (name) VALUES ("Domingo de Ugartechea"); -- total=1
-
-
-INSERT INTO NormalizedPerson (name) VALUES ("Don Felipe de la Garza"); -- total=1
-
-INSERT INTO NormalizedPerson (name) VALUES ("Don Juan Seguin"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Don Lucas Alaman"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Don Manuel Allouri"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Don Pedro Lemus"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Don Ramos Arispe"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Don Samuel M. Williams"); -- total=1
-
-INSERT INTO NormalizedPerson (name) VALUES ("Douglass Forsythe"); -- total=1
-
-INSERT INTO NormalizedPerson (name) VALUES ("Dudley R Tinker"); -- total=1
-
-INSERT INTO NormalizedPerson (name) VALUES ("E A Elliott"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("E Brooke"); -- total=2
-
-INSERT INTO NormalizedPerson (name) VALUES ("Ed. Waller"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Editor of the Nat. Gazette"); -- total=1
-
-INSERT INTO NormalizedPerson (name) VALUES ("Edmund St John Hawkins"); -- total=1
-
-INSERT INTO NormalizedPerson (name) VALUES ("Edward Bates"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Edward Burleson"); -- total=1
-
-INSERT INTO NormalizedPerson (name) VALUES ("Elias A. Eliott"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Eliza W. Austin"); -- total=1
-
-INSERT INTO NormalizedPerson (name) VALUES ("Emily. M. P"); -- total=1
-
-INSERT INTO NormalizedPerson (name) VALUES ("Sam Houston"); -- total=1
-
-INSERT INTO NormalizedPerson (name) VALUES ("F. Casey"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("F. Smith"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("F. Thorn"); -- total=2
-
-INSERT INTO NormalizedPerson (name) VALUES ("Felix Robertson"); -- total=2
-
-INSERT INTO NormalizedPerson (name) VALUES ("Fernando Rodriguiz"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Francis Murphy"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Francis Covoner"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Francis Smith"); -- total=1
-
-INSERT INTO NormalizedPerson (name) VALUES ("Francisco x Eliguem"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Francois VallÃ©e"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Francoise Janis"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Frano Pizarro Martinez"); -- total=1
-
-INSERT INTO NormalizedPerson (name) VALUES ("G. B. Dameron"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("G. Byrne"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("G. Edwards"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Gail Borden Jr."); -- total=1
-
-INSERT INTO NormalizedPerson (name) VALUES ("Gen M B Lamar"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Gen. Gains"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Gen. T. J. Rusk"); -- total=1
-
-INSERT INTO NormalizedPerson (name) VALUES ("Genl Chambers"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Genl Filisola"); -- total=3
-INSERT INTO NormalizedPerson (name) VALUES ("Genl Staff"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Genl Teran"); -- total=30
-INSERT INTO NormalizedPerson (name) VALUES ("Genl. Arthur G. Wavell"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Genl. Cortazar"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Genl. Guadalupe Victoria"); -- total=1
-
-INSERT INTO NormalizedPerson (name) VALUES ("Genl. Howard"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Genl. Long"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Genl. Pedraza"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Genl. Russell"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Genl. Trespalacios"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Genl. Wavell"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Genl. Zavalla"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Genl: Ganes"); -- total=2
-
-INSERT INTO NormalizedPerson (name) VALUES ("Gent Santana"); -- total=1
-
-INSERT INTO NormalizedPerson (name) VALUES ("Geo and Edward Curtis"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Geo. Tennell"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Geo: P. Digges"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("George Anne Hawkins"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("George Hammond"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("George Lauman"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("George Orr"); -- total=6
-INSERT INTO NormalizedPerson (name) VALUES ("George Robinson Jr"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("George Sutherland"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("George W Collier"); -- total=1
-
-INSERT INTO NormalizedPerson (name) VALUES ("Gilbert Legrass"); -- total=1
-
-INSERT INTO NormalizedPerson (name) VALUES ("George Harrison"); -- total=1
-
-INSERT INTO NormalizedPerson (name) VALUES ("Luciano Garcia"); -- total=1
-
-INSERT INTO NormalizedPerson (name) VALUES ("Govr. Trespalacios"); -- total=2
-
-INSERT INTO NormalizedPerson (name) VALUES ("Griffin H. Hollimon"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Guy M Bryan"); -- total=2
-
-INSERT INTO NormalizedPerson (name) VALUES ("H Elliott"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("H H League"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("H Meigs"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("H. Fullerton"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("H. H. League"); -- total=18
-INSERT INTO NormalizedPerson (name) VALUES ("H. J. Offutt"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("H. Johnson, Governor of the State of Louisiana."); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("H. M."); -- total=3
-INSERT INTO NormalizedPerson (name) VALUES ("H. Meigs Esqr"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Hanker"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Hardiman"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Harrison"); -- total=13
-INSERT INTO NormalizedPerson (name) VALUES ("Hary Elliot"); -- total=1
-
-INSERT INTO NormalizedPerson (name) VALUES ("Henry S Brown"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Henry Whiteside"); -- total=2
-
-
-INSERT INTO NormalizedPerson (name) VALUES ("Heydens"); -- total=1
-
-INSERT INTO NormalizedPerson (name) VALUES ("Baron Bastrop"); -- total=1
-
-INSERT INTO NormalizedPerson (name) VALUES ("Hotchkiss and Co."); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Hugh Bradly"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Humphry Jackson"); -- total=4
-INSERT INTO NormalizedPerson (name) VALUES ("I. Bledsoe"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("I. F. Wells"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Ignacio de Arispe"); -- total=1
-
-INSERT INTO NormalizedPerson (name) VALUES ("Imla Keep"); -- total=20
-
-INSERT INTO NormalizedPerson (name) VALUES ("Ira Lewis Esqr"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Isaac Lewis Baker"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Isurael Massie"); -- total=1
-
-INSERT INTO NormalizedPerson (name) VALUES ("Iturbide Emperor"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("J B Miller"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("J H Bell"); -- total=6
-
-INSERT INTO NormalizedPerson (name) VALUES ("J R. Nicholson"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("J W Fannin Jr"); -- total=3
-INSERT INTO NormalizedPerson (name) VALUES ("J. A. Wharton"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("J. Butler"); -- total=5
-INSERT INTO NormalizedPerson (name) VALUES ("J. C. Ludlows"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("J. F. Perry"); -- total=11
-INSERT INTO NormalizedPerson (name) VALUES ("J. F. Tong 6th"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("J. G Bond"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("J. Gamble"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("J. H. H."); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("J. H. Moore."); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("J. H. Polly"); -- total=3
-INSERT INTO NormalizedPerson (name) VALUES ("J. Iiams"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("J. Jones"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("J. Lester"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("J. M. Pennington"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("J. M. Wolfe Esqr"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("J. McArthur"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("J. P. Coles"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("J. Pinckney Henderson"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("J. Rankin Justice of the Peace"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("J. Thomas"); -- total=3
-INSERT INTO NormalizedPerson (name) VALUES ("J. W. Collins"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("J. W. F."); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("J. W. Fannin, jr."); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("J. W. Zacharie and Co"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("J.B.A"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("James Austin, J. P."); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("James B. Baily"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("James Bryan Esqr."); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("James Carr"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("James Cox"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("James Cummins"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("James E. Phelps"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("James F Perry Esq"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("James Frazure"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("James Gallagher"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("James Hewitson"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("James L. Curtis"); -- total=4
-INSERT INTO NormalizedPerson (name) VALUES ("James Neelly"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("James Nelson"); -- total=3
-INSERT INTO NormalizedPerson (name) VALUES ("James Newell"); -- total=5
-INSERT INTO NormalizedPerson (name) VALUES ("James Ross"); -- total=6
-INSERT INTO NormalizedPerson (name) VALUES ("James Smith"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("James Tong"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("James Wilkinson"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Jas Brown"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Jas Cummins"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Jas E. B. Austin"); -- total=3
-INSERT INTO NormalizedPerson (name) VALUES ("Jas. Bruffey"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Jas. F. Perry"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Jas. P. Caldwell"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("JÂ° Thomas"); -- total=2
-
-INSERT INTO NormalizedPerson (name) VALUES ("Jerret"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Jns S. Brickey"); -- total=1
-
-INSERT INTO NormalizedPerson (name) VALUES ("Jno Rice Jones"); -- total=2
-
-
-INSERT INTO NormalizedPerson (name) VALUES ("Jno. A. Williams"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Jno. Allcorn"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Jno. C Walker"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Jno. E. Jones"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Jno. H. Money."); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Jno. Linn"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Jno. R. Jones"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Jno. W Cole"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Joaquin de Arredondo"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("John A. Merle and Co."); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("John A. Wharton"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("John Crownover"); -- total=7
-INSERT INTO NormalizedPerson (name) VALUES ("John F. Merieult"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("John Findly"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("John Greig"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("John H. Fowler"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("John H. Money"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("John Hinkson"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("John Ingram"); -- total=3
-INSERT INTO NormalizedPerson (name) VALUES ("John Jones"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("John Kampf and Compy"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("John Kenny"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("John Linn"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("John McArthur"); -- total=3
-INSERT INTO NormalizedPerson (name) VALUES ("John Moody"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("John P, Erwin"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("John P. Austin."); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("John P. Coles Alcalde"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("John P. Hampton"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("John Perry"); -- total=5
-INSERT INTO NormalizedPerson (name) VALUES ("John Q. Adams"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("John S Bricky"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("John Sprowl Esqr"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("John Stuart"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("John W Carr"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("John W. Faulkner"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("John W. Hall"); -- total=3
-INSERT INTO NormalizedPerson (name) VALUES ("John W. Teten"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("John Williams"); -- total=6
-INSERT INTO NormalizedPerson (name) VALUES ("Johns Taylor"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Johnson Hunter"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Jona. Taylor and Co."); -- total=1
-
-INSERT INTO NormalizedPerson (name) VALUES ("Jorge"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Jorge Anto Nixon Sind[ico]"); -- total=2
-
-INSERT INTO NormalizedPerson (name) VALUES ("Jos. S. Johnston"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Jose Antonio Saucedo"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Joseph Callahan"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Joseph Dupong"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Joseph H. Hawkins"); -- total=4
-INSERT INTO NormalizedPerson (name) VALUES ("Joseph Kuykendall"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Joseph Rickey"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Joseph Seveson"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Joseph Stuart"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Joseph White"); -- total=1
-
-INSERT INTO NormalizedPerson (name) VALUES ("Juan Antonio Padilla"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Juan Davis Bradburn"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Juan Seguin"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Judge Cummins"); -- total=5
-INSERT INTO NormalizedPerson (name) VALUES ("Judge D. Martinez de Castro."); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Judge Murry Bullard"); -- total=1
-
-INSERT INTO NormalizedPerson (name) VALUES ("Kilpatrick"); -- total=4
-
-INSERT INTO NormalizedPerson (name) VALUES ("L. C. Mason"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("L. Furguson"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("L. L. Veeders"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("L. Lessassier"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("L. R. Kenny"); -- total=1
-
-INSERT INTO NormalizedPerson (name) VALUES ("Lafitte"); -- total=2
-
-INSERT INTO NormalizedPerson (name) VALUES ("Leroy X Furguson"); -- total=1
-
-INSERT INTO NormalizedPerson (name) VALUES ("Lieut. David M. Collinsworh"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Lipans"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Louis Holloway and Wife"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Lt. Branom"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Lucas Alaman"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Luke [Lesassier]"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("M A and Co"); -- total=3
-INSERT INTO NormalizedPerson (name) VALUES ("M and J Austin"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("M B Nuckols"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("M G. W. Treat"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("M. Allen"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("M. Austin Bryan"); -- total=3
-INSERT INTO NormalizedPerson (name) VALUES ("M. B. Nuckols"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("M. R. W."); -- total=1
-
-INSERT INTO NormalizedPerson (name) VALUES ("Majr Ira R. Lewis"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Majr Reynolds"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Majr. Benjn. W Smith"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Majr. Burnett"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Majr. Collinsworth"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Majr. Lewis"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Majr. W H Jack"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Male Children"); -- total=1
-
-INSERT INTO NormalizedPerson (name) VALUES ("Maria Louise Veillon"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Martha Marple"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Martin de Leon"); -- total=4
-INSERT INTO NormalizedPerson (name) VALUES ("Martin Perfecto de Cos"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Martins of Gonzales"); -- total=1
-
-INSERT INTO NormalizedPerson (name) VALUES ("Mathew Mullens"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mc Grady"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("McClenehan"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("McCormack"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("McDonald"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mcfarling"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("McK and A"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("McKinney"); -- total=44
-INSERT INTO NormalizedPerson (name) VALUES ("McKinney and Williams"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("McKinstry"); -- total=5
-INSERT INTO NormalizedPerson (name) VALUES ("McLarn"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("McNiels"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Monroe Edwards"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Morgan A Heard"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Morgan L. Smith"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Moris Callahan"); -- total=1
-
-INSERT INTO NormalizedPerson (name) VALUES ("Mosea Russaw"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Moses Austin"); -- total=4
-
-INSERT INTO NormalizedPerson (name) VALUES ("Mr Alexander Somervill"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr Allcorn"); -- total=3
-INSERT INTO NormalizedPerson (name) VALUES ("Mr Allen"); -- total=3
-INSERT INTO NormalizedPerson (name) VALUES ("Mr Andrew Robertson"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr Arnold"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr Atter"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Mr B. Johnson"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr Baldwin"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr Beardslee"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr Bent"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr Burr"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Mr B[ryan]"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Mr Cannings"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr Charlton Hunt"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr Coldwell"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr Collett"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr Daniel Phelps"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr Dunn"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr Duty"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr E. St. J Hawkins"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr Edward Hall"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr Edwards"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Mr Ellas A Elliott"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr Ellis"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr Fergusson"); -- total=3
-INSERT INTO NormalizedPerson (name) VALUES ("Mr Fisher, as Collector of Galveston"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr Fulcher"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Mr Furnash"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Mr G."); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Mr Garrett"); -- total=3
-INSERT INTO NormalizedPerson (name) VALUES ("Mr Grant"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr Hall"); -- total=17
-INSERT INTO NormalizedPerson (name) VALUES ("Mr Halliman"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Henry Clay"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Mr Hope"); -- total=3
-INSERT INTO NormalizedPerson (name) VALUES ("Mr Hopkins"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Hugh McGuffen"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr H[awkins]"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("J. Pratt"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("J. W. Bredlove"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("James Austin"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("James Cole"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Mr Jamson"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Jas. F. Perry"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Joel Tatum"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("John Andrews"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("John Cummins"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("John Francis Merieult"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("John G Bond"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("John M Henrie"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("John Staples"); -- total=4
-INSERT INTO NormalizedPerson (name) VALUES ("K Holliman"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr Kenney"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Lewis Morrison"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr McConnell"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr McNeels"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr McNeils son"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr Mitchell"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr Morris"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr Moseley"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mosley Baker"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr Pack"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr Penrose"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr Pettus"); -- total=7
-INSERT INTO NormalizedPerson (name) VALUES ("Mr Phelps"); -- total=4
-INSERT INTO NormalizedPerson (name) VALUES ("Mr Sims"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Mr Smith"); -- total=7
-INSERT INTO NormalizedPerson (name) VALUES ("Mr Stephen"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr Stephen F. Austin"); -- total=15
-INSERT INTO NormalizedPerson (name) VALUES ("Mr Treat"); -- total=6
-INSERT INTO NormalizedPerson (name) VALUES ("Mr Triplett"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr Valle"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Mr Weigh[t]man"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr Whittlesey"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr, Sayre"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr- Browne"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr- House"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. A."); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Alexander Greaves"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Almy"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. and Mrs. Penniman"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. and Mrs. Perry"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Barker"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Bartholomeu"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Beard"); -- total=4
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Bellier?"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Bolvan"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Bowie"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Bradley"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Caruthers"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Charles Carr"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Charles L. Bird"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Colt"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Cook"); -- total=6
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Cox"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Daleâ€”"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Durbin"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. E. Comstock"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Eaton"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Elias Austin Elliott"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Elijah Noble"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Forsythe"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Foster"); -- total=6
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Francis W. Johnson"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. G D Collier"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Geo: fisher"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. George Fisher"); -- total=3
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Givens"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Grayson"); -- total=4
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Gregory"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Groce"); -- total=15
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. H."); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Hays"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Holliman"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Hope"); -- total=4
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Hugh Connell"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Hughs"); -- total=3
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Iron"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. J Durst"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. J. P. Fessenden"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. James Brown"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. James F. Perry"); -- total=19
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. James McGarock, Senr"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. James Shields"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. John Iiams"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. John R. Harris"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Joseph Kent"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Joseph M. D. Carbajal"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Joseph Powel"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Joshua Pilcher"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Learning"); -- total=5
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Livingston"); -- total=4
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Marigney"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Mason"); -- total=7
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Mathew Adams"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Meigs"); -- total=3
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Miguel Arciniega"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Milligan"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Parrott"); -- total=3
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Penneman"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Perry"); -- total=29
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Pilcher"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Pilgram"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. President"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Ratliff"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Robert Le Roy"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. robidoux"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Robison"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Rogers"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. S"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Saml. Williams"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Samuel Carter"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Sanders"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Sawyer"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Sayre"); -- total=6
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Sharpe"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Smith"); -- total=4
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. St. John"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Strange"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Sumner"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Thomas"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Tornel"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Tornel, Mexican Minister at Washington"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. W."); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Wells"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. William Bryan Merchant of New Orleans"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Wm T. Austin"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Woods"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Ybarra"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Zavala"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Mr. Zenon Trudeau"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mrs A."); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Mrs Austen"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mrs Bell"); -- total=5
-INSERT INTO NormalizedPerson (name) VALUES ("Mrs Berry"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mrs Brady"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mrs Dickerson"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mrs Eliza Page widow"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mrs Elliott"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Mrs Estis"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mrs Evens"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mrs Hemphill"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mrs Lockhart"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mrs Long"); -- total=3
-INSERT INTO NormalizedPerson (name) VALUES ("Mrs M Austin Holley"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mrs Mary Hall"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mrs Meigs"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mrs Page"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Mrs Todd"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mrs Williams"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Mrs. C."); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mrs. Ellis"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mrs. Emily M. Perry"); -- total=5
-INSERT INTO NormalizedPerson (name) VALUES ("Mrs. Grafton"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mrs. H."); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mrs. Hawkins"); -- total=7
-INSERT INTO NormalizedPerson (name) VALUES ("Mrs. John Hall"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mrs. Long"); -- total=9
-INSERT INTO NormalizedPerson (name) VALUES ("Mrs. Marple"); -- total=6
-INSERT INTO NormalizedPerson (name) VALUES ("Mrs. McCormick"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Mrs. McKinstry"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mrs. Peyton"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Mrs. Phelps"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Mrs. Richards"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mrs. Robinsons"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mrs. Rumseys"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mrs. Skriggins"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mrs. Sweet"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Mrs. W"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Mrs: Fisher"); -- total=1
-
-INSERT INTO NormalizedPerson (name) VALUES ("N. Clopper"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("N. Pope Esqr"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("N. Rightor"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("N. TOWNSEND"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("N. Wilson and Co."); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Nancy Bates"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Nathaniel Cox"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Nathaniel Kimball"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Nicholas Clopper"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Nicolas Trammal"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("O D. McAlister"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("O. Halsted"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Owen H. Stout"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("P Green"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("P R Splane"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("P. B. Irvine"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("P. Dimitt Comd"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("P. Dimitt Comg"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("P. Dimmit Comandant at Goliad"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("P. Ellis Bean"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("P. G. and Co."); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("P. Gilbert"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("P. S. McNeil"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Padre Muldoon"); -- total=10
-INSERT INTO NormalizedPerson (name) VALUES ("Parker"); -- total=14
-INSERT INTO NormalizedPerson (name) VALUES ("Parrott and O"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Patrick Dowling"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Patrick Jack"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Patterson"); -- total=5
-INSERT INTO NormalizedPerson (name) VALUES ("Penrose & Co"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Peter De Moss"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Peter E. Bean"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Peter Powell"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Peter W. Grayson"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Philadelphian"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Phillip Redinger"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Phillip T Dimmit"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Poinsett"); -- total=6
-INSERT INTO NormalizedPerson (name) VALUES ("Powell"); -- total=5
-INSERT INTO NormalizedPerson (name) VALUES ("Powers"); -- total=4
-INSERT INTO NormalizedPerson (name) VALUES ("President Jackson"); -- total=7
-INSERT INTO NormalizedPerson (name) VALUES ("Antonio Lopez Santa Anna"); -- total=1
-
-INSERT INTO NormalizedPerson (name) VALUES ("R Easton"); -- total=4
-INSERT INTO NormalizedPerson (name) VALUES ("R L"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("R Price"); -- total=1
-
-INSERT INTO NormalizedPerson (name) VALUES ("R W Dunlap"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("R. Andrews"); -- total=3
-INSERT INTO NormalizedPerson (name) VALUES ("R. C. Langdon."); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("R. H. Williams"); -- total=2
-
-INSERT INTO NormalizedPerson (name) VALUES ("R. L. Kinny"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("R. M. Williamson Esq"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("R. R. R."); -- total=3
-INSERT INTO NormalizedPerson (name) VALUES ("R. R. Royall, Presd Genl Council."); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("R. R. Royall, President"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("R. Thirmond"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Rafael Gonzalez"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Ramey"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Rankin"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Rawson Alley"); -- total=3
-
-INSERT INTO NormalizedPerson (name) VALUES ("Renaut Clame"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Miguel Ramos de Arispe"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Reynolds Dr."); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Richard Lovelace"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Richard R Royall Attorney"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Richd Andrews"); -- total=1
-
-INSERT INTO NormalizedPerson (name) VALUES ("Richd Thurmond"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Richot Barrott"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Risdon H Price"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Robert Cartwright"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Robert Martin"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Robert Andrews"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Robertson"); -- total=6
-INSERT INTO NormalizedPerson (name) VALUES ("Robinson"); -- total=16
-
-INSERT INTO NormalizedPerson (name) VALUES ("Robt Robinson Esqr"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Robt. Brotherton"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Robt. Desha"); -- total=1
-
-INSERT INTO NormalizedPerson (name) VALUES ("Robt. M Williamson"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Robt. Millican"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Rodriguez"); -- total=1
-
-INSERT INTO NormalizedPerson (name) VALUES ("Ross"); -- total=4
-INSERT INTO NormalizedPerson (name) VALUES ("Royall"); -- total=7
-INSERT INTO NormalizedPerson (name) VALUES ("Ruggles"); -- total=4
-INSERT INTO NormalizedPerson (name) VALUES ("Russians"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("S Bacon"); -- total=1
-
-INSERT INTO NormalizedPerson (name) VALUES ("Saml M Williams"); -- total=3
-INSERT INTO NormalizedPerson (name) VALUES ("Saml. Gates"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Saml. Kennedy"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Saml. Swartwout"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Samuel May"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Samuel Parkman"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Samuel Patterson"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Samuel Pharr"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Samuel S Pearson"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Samuel Sexton"); -- total=3
-INSERT INTO NormalizedPerson (name) VALUES ("Samuel Staples"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Samuel Swartwout"); -- total=4
-INSERT INTO NormalizedPerson (name) VALUES ("Savages"); -- total=23
-INSERT INTO NormalizedPerson (name) VALUES ("scoundrels"); -- total=5
-
-INSERT INTO NormalizedPerson (name) VALUES ("Sen Placido Venevedas"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Seth Ingram"); -- total=17
-INSERT INTO NormalizedPerson (name) VALUES ("Sexton Morgan"); -- total=1
-
-INSERT INTO NormalizedPerson (name) VALUES ("Shawnees"); -- total=6
-INSERT INTO NormalizedPerson (name) VALUES ("Shields"); -- total=4
-
-INSERT INTO NormalizedPerson (name) VALUES ("Silas M. Stilwell"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Santiago Austin"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Solomon Brown"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Sor Jose Luis"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Sor Porter"); -- total=1
-
-INSERT INTO NormalizedPerson (name) VALUES ("Stephen F. Austin"); -- total=3
-
-INSERT INTO NormalizedPerson (name) VALUES ("Sterling Robertson"); -- total=1
-
-
-INSERT INTO NormalizedPerson (name) VALUES ("Sub Deacon Don Juan Manuel Sambrano"); -- total=1
-
-INSERT INTO NormalizedPerson (name) VALUES ("Susan. W. Maxwell"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Swiss Gentlemen"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Sylvanus Castleman"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("T. Douglass"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("T. Evans"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("T. F. McKinney"); -- total=8
-INSERT INTO NormalizedPerson (name) VALUES ("T. F. McKinny Esqr"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("T. H. Benton"); -- total=3
-INSERT INTO NormalizedPerson (name) VALUES ("T. Jamison"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("T. M. Duke"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("T. Newberry"); -- total=3
-INSERT INTO NormalizedPerson (name) VALUES ("T. Rector"); -- total=2
-
-INSERT INTO NormalizedPerson (name) VALUES ("Tancahue Indians"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Tawakanies"); -- total=5
-INSERT INTO NormalizedPerson (name) VALUES ("Taylor"); -- total=15
-INSERT INTO NormalizedPerson (name) VALUES ("Texians"); -- total=17
-
-INSERT INTO NormalizedPerson (name) VALUES ("Thomas Bibb"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Thomas C. Scott"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Thomas E. Davis"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Thomas F. Learning"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Thomas F. McKinney"); -- total=5
-INSERT INTO NormalizedPerson (name) VALUES ("Thomas Jefferson Chambers"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Thomas Norvell"); -- total=1
-
-INSERT INTO NormalizedPerson (name) VALUES ("Thomas Oliver"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Thomas Rabb"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Thomas V. Alley"); -- total=5
-INSERT INTO NormalizedPerson (name) VALUES ("Thomas Westall"); -- total=5
-INSERT INTO NormalizedPerson (name) VALUES ("Thomas Williams"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Thompson"); -- total=11
-INSERT INTO NormalizedPerson (name) VALUES ("Thos A. Smith"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Thos Earle"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Thos V. Alley"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Thos. Barnett"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Thos. Boatwright"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Thos. F. Learning"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Thos. F. McKinney"); -- total=4
-INSERT INTO NormalizedPerson (name) VALUES ("Thos. Gray"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Thos. H Borden"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Thos. Hill"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Thos. Hockley"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Thos. J. Rabb"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Thos. M. Duke"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Thos. P. Gazsley"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Thos. Williams and wife"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Timothy Mullins"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Timothy Phelps"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Tonkawa Indians"); -- total=2
-
-INSERT INTO NormalizedPerson (name) VALUES ("Tornell"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Ugartechea"); -- total=18
-INSERT INTO NormalizedPerson (name) VALUES ("V. Fernandez"); -- total=1
-
-INSERT INTO NormalizedPerson (name) VALUES ("Valentine"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Van Buren"); -- total=3
-INSERT INTO NormalizedPerson (name) VALUES ("Varner"); -- total=9
-INSERT INTO NormalizedPerson (name) VALUES ("Vaughn"); -- total=3
-INSERT INTO NormalizedPerson (name) VALUES ("Gomez Farias"); -- total=5
-INSERT INTO NormalizedPerson (name) VALUES ("Victor Blanco"); -- total=3
-INSERT INTO NormalizedPerson (name) VALUES ("W Bullock"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("W H Whitaker"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("W J Offutt y co"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("W K and C_"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("W Stevenson"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("W. B. Travis"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("W. B. Travis Esq"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("W. Brown"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("W. Bryan agent"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("W. C. White"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("W. D. C. Hall Adjt: Genl."); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("W. Dewees"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("W. F. Gibbon"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("W. H. Jack"); -- total=6
-INSERT INTO NormalizedPerson (name) VALUES ("W. H. Wharton"); -- total=9
-INSERT INTO NormalizedPerson (name) VALUES ("W. Wilson"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Walter Hogan"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Walter Sutherland"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Walter Wilinson"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Waters"); -- total=3
-INSERT INTO NormalizedPerson (name) VALUES ("Wavell"); -- total=6
-INSERT INTO NormalizedPerson (name) VALUES ("Wawfield"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Waco Indians"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Westover"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Wheeler"); -- total=3
-INSERT INTO NormalizedPerson (name) VALUES ("Whitlock"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Wiggins"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Wilkinson"); -- total=7
-INSERT INTO NormalizedPerson (name) VALUES ("Will C. Carr"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("William Bates"); -- total=5
-INSERT INTO NormalizedPerson (name) VALUES ("William Bryan"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("William Cooper"); -- total=4
-INSERT INTO NormalizedPerson (name) VALUES ("William D. Horton"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("William F. Gibbons"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("William Gilmore"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("William Jack"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("William Kincheloe"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("William Laughlin"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("William Little"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("William M Ohara"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("William Millican"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("William Moss"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("William Murraysole"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("William Perry"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("William Pettus"); -- total=10
-INSERT INTO NormalizedPerson (name) VALUES ("William Rabb"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("William Russell"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("William S Brown"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("William Shreve"); -- total=4
-INSERT INTO NormalizedPerson (name) VALUES ("William Smethers"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("William Smith"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("William Spence"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("William Taylor"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("William Waters"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Williams"); -- total=139
-INSERT INTO NormalizedPerson (name) VALUES ("Williamson"); -- total=13
-INSERT INTO NormalizedPerson (name) VALUES ("Willis J. Powell"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Wilm Vince"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Wm Ashbrook"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Wm Butler"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Wm C Carr"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Wm C. Carr Esq"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Wm Ficklin"); -- total=3
-INSERT INTO NormalizedPerson (name) VALUES ("Wm Griffin Senr"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Wm H. McCurdy Esqr"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Wm Harris Esqr"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Wm M Perry"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Wm Reese"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Wm Singer"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Wm Smeathers"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Wm Stafford"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Wm T Austin"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Wm Vince"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("WM- Anderson"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Wm. Bryan"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Wm. G. Hill"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Wm. H. Jack"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Wm. H. Smith"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Wm. H. Wharton"); -- total=12
-INSERT INTO NormalizedPerson (name) VALUES ("Wm. Laughlin"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Wm. N. Henderson"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Wm. P Scott"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Wm. P. Harris"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Wm. Perry"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("WM. PETTIS [Pettus]"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Wm. Purkins"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Wm. R. Leckie Dy Clk"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Wm. Roberts"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Wm. Robins"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Wm. S. Archer"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Wm. S. Lewis"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Wm. Shreve"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Wm. T. Austin"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Wm. W. Hunter"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Wm. W. Lea."); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Wm. Williamson"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Woodbury"); -- total=4
-INSERT INTO NormalizedPerson (name) VALUES ("Wra Scott"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Wyly Martin"); -- total=2
-INSERT INTO NormalizedPerson (name) VALUES ("Y. E."); -- total=4
-
-INSERT INTO NormalizedPerson (name) VALUES ("Ylario de la Garza"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Yorkino"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("young men"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Zadock Woods"); -- total=1
-INSERT INTO NormalizedPerson (name) VALUES ("Zenteno"); -- total=1
+INSERT INTO NormalizedPerson (name) VALUES ("J. F. Tong");
+INSERT INTO NormalizedPerson (name) VALUES ("John Q. Adams");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. Mathew Adams");
+INSERT INTO NormalizedPerson (name) VALUES ("Africans");
+INSERT INTO NormalizedPerson (name) VALUES ("W. Bryan");
+INSERT INTO NormalizedPerson (name) VALUES ("Alabamos");
+INSERT INTO NormalizedPerson (name) VALUES ("Lucas Alaman");
+INSERT INTO NormalizedPerson (name) VALUES ("John P. Coles");
+INSERT INTO NormalizedPerson (name) VALUES ("Jno. Allcorn");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr Allen");
+INSERT INTO NormalizedPerson (name) VALUES ("Thomas V. Alley");
+INSERT INTO NormalizedPerson (name) VALUES ("Rawson Alley");
+INSERT INTO NormalizedPerson (name) VALUES ("Abrm Alley");
+INSERT INTO NormalizedPerson (name) VALUES ("Manuel Allouri");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. Almy");
+INSERT INTO NormalizedPerson (name) VALUES ("Wm. Anderson");
+INSERT INTO NormalizedPerson (name) VALUES ("Robert Andrews");
+INSERT INTO NormalizedPerson (name) VALUES ("John Andrews");
+INSERT INTO NormalizedPerson (name) VALUES ("Antonio Lopez Santa Anna");
+INSERT INTO NormalizedPerson (name) VALUES ("D. W. Anthony");
+INSERT INTO NormalizedPerson (name) VALUES ("Wm. S. Archer");
+INSERT INTO NormalizedPerson (name) VALUES ("Miguel Arciniega");
+INSERT INTO NormalizedPerson (name) VALUES ("Ignacio de Arispe");
+INSERT INTO NormalizedPerson (name) VALUES ("Miguel Ramos de Arispe");
+INSERT INTO NormalizedPerson (name) VALUES ("Ramos Arispe");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr Arnold");
+INSERT INTO NormalizedPerson (name) VALUES ("Joaquin de Arredondo");
+INSERT INTO NormalizedPerson (name) VALUES ("Wm Ashbrook");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr Atter");
+INSERT INTO NormalizedPerson (name) VALUES ("Richard R Royall");
+INSERT INTO NormalizedPerson (name) VALUES ("Mrs Austen");
+INSERT INTO NormalizedPerson (name) VALUES ("Capt. Jno Austin");
+INSERT INTO NormalizedPerson (name) VALUES ("Moses Austin");
+INSERT INTO NormalizedPerson (name) VALUES ("Wm. T. Austin");
+INSERT INTO NormalizedPerson (name) VALUES ("Jas E. B. Austin");
+INSERT INTO NormalizedPerson (name) VALUES ("Santiago Austin");
+INSERT INTO NormalizedPerson (name) VALUES ("Stephen F. Austin");
+INSERT INTO NormalizedPerson (name) VALUES ("Eliza W. Austin");
+INSERT INTO NormalizedPerson (name) VALUES ("John P. Austin.");
+INSERT INTO NormalizedPerson (name) VALUES ("S Bacon");
+INSERT INTO NormalizedPerson (name) VALUES ("James B. Baily");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr Mosley Baker");
+INSERT INTO NormalizedPerson (name) VALUES ("Isaac Lewis Baker");
+INSERT INTO NormalizedPerson (name) VALUES ("Capt Barigan");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. Barker");
+INSERT INTO NormalizedPerson (name) VALUES ("Thos. Barnett");
+INSERT INTO NormalizedPerson (name) VALUES ("Richot Barrott");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. Bartholomeu");
+INSERT INTO NormalizedPerson (name) VALUES ("Baron Bastrop");
+INSERT INTO NormalizedPerson (name) VALUES ("William Bates");
+INSERT INTO NormalizedPerson (name) VALUES ("Edward Bates");
+INSERT INTO NormalizedPerson (name) VALUES ("Nancy Bates");
+INSERT INTO NormalizedPerson (name) VALUES ("Doctor Beales");
+INSERT INTO NormalizedPerson (name) VALUES ("Peter E. Bean");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. Beard");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr Beardslee");
+INSERT INTO NormalizedPerson (name) VALUES ("Benjamin Beeson");
+INSERT INTO NormalizedPerson (name) VALUES ("J H Bell");
+INSERT INTO NormalizedPerson (name) VALUES ("Mrs Bell");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. Bellier");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr Bent");
+INSERT INTO NormalizedPerson (name) VALUES ("T. H. Benton");
+INSERT INTO NormalizedPerson (name) VALUES ("Mrs Berry");
+INSERT INTO NormalizedPerson (name) VALUES ("Ayuntamto of Bexar");
+INSERT INTO NormalizedPerson (name) VALUES ("Thomas Bibb");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. Charles L. Bird");
+INSERT INTO NormalizedPerson (name) VALUES ("Captn Bird");
+INSERT INTO NormalizedPerson (name) VALUES ("Victor Blanco");
+INSERT INTO NormalizedPerson (name) VALUES ("I. Bledsoe");
+INSERT INTO NormalizedPerson (name) VALUES ("Thos. Boatwright");
+INSERT INTO NormalizedPerson (name) VALUES ("Andrw Boggs");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. Bolvan");
+INSERT INTO NormalizedPerson (name) VALUES ("J. G Bond");
+INSERT INTO NormalizedPerson (name) VALUES ("Thos. H Borden");
+INSERT INTO NormalizedPerson (name) VALUES ("Caleb S Bostwick");
+INSERT INTO NormalizedPerson (name) VALUES ("Doctor Joseph Bowers");
+INSERT INTO NormalizedPerson (name) VALUES ("Colo. James Bowie");
+INSERT INTO NormalizedPerson (name) VALUES ("Juan Davis Bradburn");
+INSERT INTO NormalizedPerson (name) VALUES ("Col. Bradburn");
+INSERT INTO NormalizedPerson (name) VALUES ("Hugh Bradly");
+INSERT INTO NormalizedPerson (name) VALUES ("Mrs Brady");
+INSERT INTO NormalizedPerson (name) VALUES ("Lt. Branom");
+INSERT INTO NormalizedPerson (name) VALUES ("Ayuntamiento of the Jurisdiction of Brazoria");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr J. W. Bredlove");
+INSERT INTO NormalizedPerson (name) VALUES ("John S Bricky");
+INSERT INTO NormalizedPerson (name) VALUES ("Brigham");
+INSERT INTO NormalizedPerson (name) VALUES ("David Bright");
+INSERT INTO NormalizedPerson (name) VALUES ("E Brooke");
+INSERT INTO NormalizedPerson (name) VALUES ("Robt. Brotherton");
+INSERT INTO NormalizedPerson (name) VALUES ("Capt. Brown");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. James Brown");
+INSERT INTO NormalizedPerson (name) VALUES ("Henry S Brown");
+INSERT INTO NormalizedPerson (name) VALUES ("Solomon Brown");
+INSERT INTO NormalizedPerson (name) VALUES ("William S Brown");
+INSERT INTO NormalizedPerson (name) VALUES ("Jas Brown");
+INSERT INTO NormalizedPerson (name) VALUES ("Jas. Bruffey");
+INSERT INTO NormalizedPerson (name) VALUES ("William Bryan");
+INSERT INTO NormalizedPerson (name) VALUES ("M. Austin Bryan");
+INSERT INTO NormalizedPerson (name) VALUES ("Guy M Bryan");
+INSERT INTO NormalizedPerson (name) VALUES ("Capt. James Bryant");
+INSERT INTO NormalizedPerson (name) VALUES ("A. C. Buckner");
+INSERT INTO NormalizedPerson (name) VALUES ("Judge Murry Bullard");
+INSERT INTO NormalizedPerson (name) VALUES ("W Bullock");
+INSERT INTO NormalizedPerson (name) VALUES ("Van Buren");
+INSERT INTO NormalizedPerson (name) VALUES ("Edward Burleson");
+INSERT INTO NormalizedPerson (name) VALUES ("Majr. Burnett");
+INSERT INTO NormalizedPerson (name) VALUES ("D. G. Burnett");
+INSERT INTO NormalizedPerson (name) VALUES ("Charles H. Burnett");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr Burr");
+INSERT INTO NormalizedPerson (name) VALUES ("Col. Butler");
+INSERT INTO NormalizedPerson (name) VALUES ("J. Butler");
+INSERT INTO NormalizedPerson (name) VALUES ("Wm Butler");
+INSERT INTO NormalizedPerson (name) VALUES ("Anthony Butler");
+INSERT INTO NormalizedPerson (name) VALUES ("Col. Bynum");
+INSERT INTO NormalizedPerson (name) VALUES ("G. Byrne");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr B[ryan]");
+INSERT INTO NormalizedPerson (name) VALUES ("Mrs. C.");
+INSERT INTO NormalizedPerson (name) VALUES ("Jas. P. Caldwell");
+INSERT INTO NormalizedPerson (name) VALUES ("Joseph Callahan");
+INSERT INTO NormalizedPerson (name) VALUES ("Moris Callahan");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr Cannings");
+INSERT INTO NormalizedPerson (name) VALUES ("Joseph M. D. Carbajal");
+INSERT INTO NormalizedPerson (name) VALUES ("Charles Carr");
+INSERT INTO NormalizedPerson (name) VALUES ("Will C. Carr");
+INSERT INTO NormalizedPerson (name) VALUES ("John W Carr");
+INSERT INTO NormalizedPerson (name) VALUES ("James Carr");
+INSERT INTO NormalizedPerson (name) VALUES ("Benjamin Carrico");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. Samuel Carter");
+INSERT INTO NormalizedPerson (name) VALUES ("Robert Cartwright");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. Caruthers");
+INSERT INTO NormalizedPerson (name) VALUES ("F. Casey");
+INSERT INTO NormalizedPerson (name) VALUES ("Sylvanus Castleman");
+INSERT INTO NormalizedPerson (name) VALUES ("Judge D. Martinez de Castro.");
+INSERT INTO NormalizedPerson (name) VALUES ("Thomas Jefferson Chambers");
+INSERT INTO NormalizedPerson (name) VALUES ("Captn Chas");
+INSERT INTO NormalizedPerson (name) VALUES ("Cherokees");
+INSERT INTO NormalizedPerson (name) VALUES ("Apadachy Chief");
+INSERT INTO NormalizedPerson (name) VALUES ("Choctaws");
+INSERT INTO NormalizedPerson (name) VALUES ("Capt. Chrisman");
+INSERT INTO NormalizedPerson (name) VALUES ("Renaut Clame");
+INSERT INTO NormalizedPerson (name) VALUES ("Anthony R. Clarke");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr Henry Clay");
+INSERT INTO NormalizedPerson (name) VALUES ("Wm. R. Leckie");
+INSERT INTO NormalizedPerson (name) VALUES ("Nicholas Clopper");
+INSERT INTO NormalizedPerson (name) VALUES ("Penrose");
+INSERT INTO NormalizedPerson (name) VALUES ("J. W. Zacharie");
+INSERT INTO NormalizedPerson (name) VALUES ("M A and Co");
+INSERT INTO NormalizedPerson (name) VALUES ("W J Offutt");
+INSERT INTO NormalizedPerson (name) VALUES ("A. Erwin Groce");
+INSERT INTO NormalizedPerson (name) VALUES ("Jona. Taylor");
+INSERT INTO NormalizedPerson (name) VALUES ("Hotchkiss");
+INSERT INTO NormalizedPerson (name) VALUES ("John A. Merle");
+INSERT INTO NormalizedPerson (name) VALUES ("N. Wilson");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr Coldwell");
+INSERT INTO NormalizedPerson (name) VALUES ("Jno. W Cole");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr James Cole");
+INSERT INTO NormalizedPerson (name) VALUES ("J. P. Coles");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr Collett");
+INSERT INTO NormalizedPerson (name) VALUES ("George W Collier");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. G D Collier");
+INSERT INTO NormalizedPerson (name) VALUES ("J. W. Collins");
+INSERT INTO NormalizedPerson (name) VALUES ("David M. Collinsworh");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. Colt");
+INSERT INTO NormalizedPerson (name) VALUES ("P. Dimitt");
+INSERT INTO NormalizedPerson (name) VALUES ("John Kampf");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. E. Comstock");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. Hugh Connell");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. Cook");
+INSERT INTO NormalizedPerson (name) VALUES ("William Cooper");
+INSERT INTO NormalizedPerson (name) VALUES ("Genl. Cortazar");
+INSERT INTO NormalizedPerson (name) VALUES ("Martin Perfecto de Cos");
+INSERT INTO NormalizedPerson (name) VALUES ("R. R. Royall, Presd Genl Council.");
+INSERT INTO NormalizedPerson (name) VALUES ("Coushattas");
+INSERT INTO NormalizedPerson (name) VALUES ("Francis Covoner");
+INSERT INTO NormalizedPerson (name) VALUES ("Nathaniel Cox");
+INSERT INTO NormalizedPerson (name) VALUES ("James Cox");
+INSERT INTO NormalizedPerson (name) VALUES ("John Crownover");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr John Cummins");
+INSERT INTO NormalizedPerson (name) VALUES ("Jas Cummins");
+INSERT INTO NormalizedPerson (name) VALUES ("Geo and Edward Curtis");
+INSERT INTO NormalizedPerson (name) VALUES ("James L. Curtis");
+INSERT INTO NormalizedPerson (name) VALUES ("Dalley");
+INSERT INTO NormalizedPerson (name) VALUES ("G. B. Dameron");
+INSERT INTO NormalizedPerson (name) VALUES ("Thomas E. Davis");
+INSERT INTO NormalizedPerson (name) VALUES ("Robt. Desha");
+INSERT INTO NormalizedPerson (name) VALUES ("W. Dewees");
+INSERT INTO NormalizedPerson (name) VALUES ("Capt DeWitt");
+INSERT INTO NormalizedPerson (name) VALUES ("Mrs Dickerson");
+INSERT INTO NormalizedPerson (name) VALUES ("Capt. Dickson");
+INSERT INTO NormalizedPerson (name) VALUES ("Geo: P. Digges");
+INSERT INTO NormalizedPerson (name) VALUES ("Phillip T Dimmit");
+INSERT INTO NormalizedPerson (name) VALUES ("Ayuntamiento of the Capital of the District");
+INSERT INTO NormalizedPerson (name) VALUES ("Capt Doons");
+INSERT INTO NormalizedPerson (name) VALUES ("T. Douglass");
+INSERT INTO NormalizedPerson (name) VALUES ("Patrick Dowling");
+INSERT INTO NormalizedPerson (name) VALUES ("Reynolds");
+INSERT INTO NormalizedPerson (name) VALUES ("A. Carnahan");
+INSERT INTO NormalizedPerson (name) VALUES ("Thos. M. Duke");
+INSERT INTO NormalizedPerson (name) VALUES ("Daniel Dunklin");
+INSERT INTO NormalizedPerson (name) VALUES ("R W Dunlap");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr Dunn");
+INSERT INTO NormalizedPerson (name) VALUES ("Joseph Dupong");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. Durbin");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. J Durst");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr Duty");
+INSERT INTO NormalizedPerson (name) VALUES ("Y. E.");
+INSERT INTO NormalizedPerson (name) VALUES ("Thos Earle");
+INSERT INTO NormalizedPerson (name) VALUES ("R Easton");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. Eaton");
+INSERT INTO NormalizedPerson (name) VALUES ("Monroe Edwards");
+INSERT INTO NormalizedPerson (name) VALUES ("Benjamin Edwards");
+INSERT INTO NormalizedPerson (name) VALUES ("G. Edwards");
+INSERT INTO NormalizedPerson (name) VALUES ("Francisco x Eliguem");
+INSERT INTO NormalizedPerson (name) VALUES ("Elias A. Eliott");
+INSERT INTO NormalizedPerson (name) VALUES ("Hary Elliot");
+INSERT INTO NormalizedPerson (name) VALUES ("Austin Elliott");
+INSERT INTO NormalizedPerson (name) VALUES ("Doct Elliott");
+INSERT INTO NormalizedPerson (name) VALUES ("H Elliott");
+INSERT INTO NormalizedPerson (name) VALUES ("Mrs Elliott");
+INSERT INTO NormalizedPerson (name) VALUES ("Charles Elliott");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr Ellis");
+INSERT INTO NormalizedPerson (name) VALUES ("Mrs. Ellis");
+INSERT INTO NormalizedPerson (name) VALUES ("Iturbide Emperor");
+INSERT INTO NormalizedPerson (name) VALUES ("John P, Erwin");
+INSERT INTO NormalizedPerson (name) VALUES ("R. M. Williamson");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr John G Bond");
+INSERT INTO NormalizedPerson (name) VALUES ("W. B. Travis");
+INSERT INTO NormalizedPerson (name) VALUES ("James F Perry");
+INSERT INTO NormalizedPerson (name) VALUES ("H. Meigs");
+INSERT INTO NormalizedPerson (name) VALUES ("N. Pope");
+INSERT INTO NormalizedPerson (name) VALUES ("T. F. McKinny");
+INSERT INTO NormalizedPerson (name) VALUES ("Wm H. McCurdy");
+INSERT INTO NormalizedPerson (name) VALUES ("Wm Harris");
+INSERT INTO NormalizedPerson (name) VALUES ("Robt Robinson");
+INSERT INTO NormalizedPerson (name) VALUES ("Ira Lewis");
+INSERT INTO NormalizedPerson (name) VALUES ("J. M. Wolfe");
+INSERT INTO NormalizedPerson (name) VALUES ("John Sprowl");
+INSERT INTO NormalizedPerson (name) VALUES ("James Bryan");
+INSERT INTO NormalizedPerson (name) VALUES ("Mrs Estis");
+INSERT INTO NormalizedPerson (name) VALUES ("T. Evans");
+INSERT INTO NormalizedPerson (name) VALUES ("Mrs Evens");
+INSERT INTO NormalizedPerson (name) VALUES ("J. W. F.");
+INSERT INTO NormalizedPerson (name) VALUES ("Capt Henry Austin");
+INSERT INTO NormalizedPerson (name) VALUES ("Capt. J. W. Fanning");
+INSERT INTO NormalizedPerson (name) VALUES ("Gomez Farias");
+INSERT INTO NormalizedPerson (name) VALUES ("Doctor Farrar");
+INSERT INTO NormalizedPerson (name) VALUES ("John W. Faulkner");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr Fergusson");
+INSERT INTO NormalizedPerson (name) VALUES ("V. Fernandez");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. J. P. Fessenden");
+INSERT INTO NormalizedPerson (name) VALUES ("Wm Ficklin");
+INSERT INTO NormalizedPerson (name) VALUES ("Genl Filisola");
+INSERT INTO NormalizedPerson (name) VALUES ("John Findly");
+INSERT INTO NormalizedPerson (name) VALUES ("Mrs: Fisher");
+INSERT INTO NormalizedPerson (name) VALUES ("George Fisher");
+INSERT INTO NormalizedPerson (name) VALUES ("Douglass Forsythe");
+INSERT INTO NormalizedPerson (name) VALUES ("Colo. Benjn F. Foster");
+INSERT INTO NormalizedPerson (name) VALUES ("John H. Fowler");
+INSERT INTO NormalizedPerson (name) VALUES ("James Frazure");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr Fulcher");
+INSERT INTO NormalizedPerson (name) VALUES ("Capt. Fuller");
+INSERT INTO NormalizedPerson (name) VALUES ("H. Fullerton");
+INSERT INTO NormalizedPerson (name) VALUES ("Leroy X Furguson");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr Furnash");
+INSERT INTO NormalizedPerson (name) VALUES ("Gen. Gains");
+INSERT INTO NormalizedPerson (name) VALUES ("James Gallagher");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr Fisher");
+INSERT INTO NormalizedPerson (name) VALUES ("J. Gamble");
+INSERT INTO NormalizedPerson (name) VALUES ("Luciano Garcia");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr Garrett");
+INSERT INTO NormalizedPerson (name) VALUES ("Ylario de la Garza");
+INSERT INTO NormalizedPerson (name) VALUES ("Don Felipe de la Garza");
+INSERT INTO NormalizedPerson (name) VALUES ("Saml. Gates");
+INSERT INTO NormalizedPerson (name) VALUES ("Editor of the Nat. Gazette");
+INSERT INTO NormalizedPerson (name) VALUES ("Thos. P. Gazsley");
+INSERT INTO NormalizedPerson (name) VALUES ("W. D. C. Hall");
+INSERT INTO NormalizedPerson (name) VALUES ("Swiss Gentlemen");
+INSERT INTO NormalizedPerson (name) VALUES ("William F. Gibbons");
+INSERT INTO NormalizedPerson (name) VALUES ("P. Gilbert");
+INSERT INTO NormalizedPerson (name) VALUES ("Benjamin Ives Gilman");
+INSERT INTO NormalizedPerson (name) VALUES ("William Gilmore");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. Givens");
+INSERT INTO NormalizedPerson (name) VALUES ("P. Dimmit");
+INSERT INTO NormalizedPerson (name) VALUES ("Martins of Gonzales");
+INSERT INTO NormalizedPerson (name) VALUES ("Rafael Gonzalez");
+INSERT INTO NormalizedPerson (name) VALUES ("Mc Grady");
+INSERT INTO NormalizedPerson (name) VALUES ("Mrs. Grafton");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr Grant");
+INSERT INTO NormalizedPerson (name) VALUES ("Thos. Gray");
+INSERT INTO NormalizedPerson (name) VALUES ("Peter W. Grayson");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. Alexander Greaves");
+INSERT INTO NormalizedPerson (name) VALUES ("P Green");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. Gregory");
+INSERT INTO NormalizedPerson (name) VALUES ("John Greig");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. Groce");
+INSERT INTO NormalizedPerson (name) VALUES ("Bernardo Gutierris");
+INSERT INTO NormalizedPerson (name) VALUES ("J. H. H.");
+INSERT INTO NormalizedPerson (name) VALUES ("Mrs. H.");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. H.");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr Hail");
+INSERT INTO NormalizedPerson (name) VALUES ("Warren D. C. Hall");
+INSERT INTO NormalizedPerson (name) VALUES ("Mrs. John Hall");
+INSERT INTO NormalizedPerson (name) VALUES ("John W. Hall");
+INSERT INTO NormalizedPerson (name) VALUES ("Mrs Mary Hall");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr Edward Hall");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr Halliman");
+INSERT INTO NormalizedPerson (name) VALUES ("O. Halsted");
+INSERT INTO NormalizedPerson (name) VALUES ("George Hammond");
+INSERT INTO NormalizedPerson (name) VALUES ("John P. Hampton");
+INSERT INTO NormalizedPerson (name) VALUES ("Hanker");
+INSERT INTO NormalizedPerson (name) VALUES ("Hardiman");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. John R. Harris");
+INSERT INTO NormalizedPerson (name) VALUES ("Wm. P. Harris");
+INSERT INTO NormalizedPerson (name) VALUES ("Capt Harris");
+INSERT INTO NormalizedPerson (name) VALUES ("George Harrison");
+INSERT INTO NormalizedPerson (name) VALUES ("Edmund St John Hawkins");
+INSERT INTO NormalizedPerson (name) VALUES ("Mrs. Hawkins");
+INSERT INTO NormalizedPerson (name) VALUES ("Joseph H. Hawkins");
+INSERT INTO NormalizedPerson (name) VALUES ("George Anne Hawkins");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. Hays");
+INSERT INTO NormalizedPerson (name) VALUES ("Morgan A Heard");
+INSERT INTO NormalizedPerson (name) VALUES ("Mrs Hemphill");
+INSERT INTO NormalizedPerson (name) VALUES ("J. Pinckney Henderson");
+INSERT INTO NormalizedPerson (name) VALUES ("Wm. N. Henderson");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr John M Henrie");
+INSERT INTO NormalizedPerson (name) VALUES ("James Hewitson");
+INSERT INTO NormalizedPerson (name) VALUES ("Heydens");
+INSERT INTO NormalizedPerson (name) VALUES ("Wm. G. Hill");
+INSERT INTO NormalizedPerson (name) VALUES ("Thos. Hill");
+INSERT INTO NormalizedPerson (name) VALUES ("John Hinkson");
+INSERT INTO NormalizedPerson (name) VALUES ("Capt Hiram");
+INSERT INTO NormalizedPerson (name) VALUES ("Thos. Hockley");
+INSERT INTO NormalizedPerson (name) VALUES ("Walter Hogan");
+INSERT INTO NormalizedPerson (name) VALUES ("Mrs M Austin Holley");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr K Holliman");
+INSERT INTO NormalizedPerson (name) VALUES ("Griffin H. Hollimon,");
+INSERT INTO NormalizedPerson (name) VALUES ("Daniel Holoway");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. Hope");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr Hopkins");
+INSERT INTO NormalizedPerson (name) VALUES ("William D. Horton");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr- House");
+INSERT INTO NormalizedPerson (name) VALUES ("Sam Houston");
+INSERT INTO NormalizedPerson (name) VALUES ("Genl. Howard");
+INSERT INTO NormalizedPerson (name) VALUES ("Doctr Hoxey");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. Hughs");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr Charlton Hunt");
+INSERT INTO NormalizedPerson (name) VALUES ("Johnson Hunter");
+INSERT INTO NormalizedPerson (name) VALUES ("Wm. W. Hunter");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. John Iiams");
+INSERT INTO NormalizedPerson (name) VALUES ("Chickasaw Indian");
+INSERT INTO NormalizedPerson (name) VALUES ("Creek Indians");
+INSERT INTO NormalizedPerson (name) VALUES ("Waco Indians");
+INSERT INTO NormalizedPerson (name) VALUES ("Tonkawa Indians");
+INSERT INTO NormalizedPerson (name) VALUES ("Tancahue Indians");
+INSERT INTO NormalizedPerson (name) VALUES ("Seth Ingram");
+INSERT INTO NormalizedPerson (name) VALUES ("John Ingram");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. Iron");
+INSERT INTO NormalizedPerson (name) VALUES ("P. B. Irvine");
+INSERT INTO NormalizedPerson (name) VALUES ("J.B.A");
+INSERT INTO NormalizedPerson (name) VALUES ("William Jack");
+INSERT INTO NormalizedPerson (name) VALUES ("Patrick Jack");
+IINSERT INTO NormalizedPerson (name) VALUES ("Humphry Jackson");
+INSERT INTO NormalizedPerson (name) VALUES ("President Jackson");
+INSERT INTO NormalizedPerson (name) VALUES ("Brother James");
+INSERT INTO NormalizedPerson (name) VALUES ("T. Jamison");
+IINSERT INTO NormalizedPerson (name) VALUES ("Francoise Janis");
+INSERT INTO NormalizedPerson (name) VALUES ("Jerret");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. St. John");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr B. Johnson");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. Francis W. Johnson");
+INSERT INTO NormalizedPerson (name) VALUES ("Jos. S. Johnston");
+INSERT INTO NormalizedPerson (name) VALUES ("Benjani Johnston");
+INSERT INTO NormalizedPerson (name) VALUES ("Captn Jones");
+INSERT INTO NormalizedPerson (name) VALUES ("Jno. Rice Jones");
+INSERT INTO NormalizedPerson (name) VALUES ("Jno. E. Jones");
+IINSERT INTO NormalizedPerson (name) VALUES ("Jorge");
+INSERT INTO NormalizedPerson (name) VALUES ("George Robinson Jr");
+INSERT INTO NormalizedPerson (name) VALUES ("J. W. Fannin, jr.");
+INSERT INTO NormalizedPerson (name) VALUES ("Gail Borden Jr.");
+INSERT INTO NormalizedPerson (name) VALUES ("Imla Keep");
+INSERT INTO NormalizedPerson (name) VALUES ("Doct. Keep");
+INSERT INTO NormalizedPerson (name) VALUES ("Saml. Kennedy");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr Kenney");
+INSERT INTO NormalizedPerson (name) VALUES ("John Kenny");
+INSERT INTO NormalizedPerson (name) VALUES ("L. R. Kenny");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. Joseph Kent");
+INSERT INTO NormalizedPerson (name) VALUES ("Alexander Kilpatrick");
+INSERT INTO NormalizedPerson (name) VALUES ("Nathaniel Kimball");
+INSERT INTO NormalizedPerson (name) VALUES ("William Kincheloe");
+INSERT INTO NormalizedPerson (name) VALUES ("R. L. Kinny");
+INSERT INTO NormalizedPerson (name) VALUES ("Joseph Kuykendall");
+INSERT INTO NormalizedPerson (name) VALUES ("Lafitte");
+INSERT INTO NormalizedPerson (name) VALUES ("Gen M B Lamar");
+INSERT INTO NormalizedPerson (name) VALUES ("R. C. Langdon.");
+INSERT INTO NormalizedPerson (name) VALUES ("Col. Langworthy");
+INSERT INTO NormalizedPerson (name) VALUES ("Wm. Laughlin");
+INSERT INTO NormalizedPerson (name) VALUES ("William Laughlin");
+INSERT INTO NormalizedPerson (name) VALUES ("George Lauman");
+INSERT INTO NormalizedPerson (name) VALUES ("Wm. W. Lea.");
+INSERT INTO NormalizedPerson (name) VALUES ("H. H. League");
+INSERT INTO NormalizedPerson (name) VALUES ("Thomas F. Learning");
+INSERT INTO NormalizedPerson (name) VALUES ("Colo. Leftwitch");
+INSERT INTO NormalizedPerson (name) VALUES ("Gilbert Legrass");
+INSERT INTO NormalizedPerson (name) VALUES ("Don Pedro Lemus");
+INSERT INTO NormalizedPerson (name) VALUES ("Martin de Leon");
+INSERT INTO NormalizedPerson (name) VALUES ("L. Lessassier");
+INSERT INTO NormalizedPerson (name) VALUES ("J. Lester");
+INSERT INTO NormalizedPerson (name) VALUES ("Majr Ira R. Lewis");
+INSERT INTO NormalizedPerson (name) VALUES ("Wm. S. Lewis");
+INSERT INTO NormalizedPerson (name) VALUES ("Captain Brown of Schr liberty");
+INSERT INTO NormalizedPerson (name) VALUES ("John Linn");
+INSERT INTO NormalizedPerson (name) VALUES ("Lipans");
+INSERT INTO NormalizedPerson (name) VALUES ("William Little");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. Livingston");
+INSERT INTO NormalizedPerson (name) VALUES ("Mrs Lockhart");
+INSERT INTO NormalizedPerson (name) VALUES ("Mrs. Long");
+INSERT INTO NormalizedPerson (name) VALUES ("Genl. Long");
+INSERT INTO NormalizedPerson (name) VALUES ("Benjamin Long");
+INSERT INTO NormalizedPerson (name) VALUES ("H. Johnson, Governor of the State of Louisiana.");
+INSERT INTO NormalizedPerson (name) VALUES ("Richard Lovelace");
+INSERT INTO NormalizedPerson (name) VALUES ("J. C. Ludlows");
+INSERT INTO NormalizedPerson (name) VALUES ("Sor Jose Luis");
+INSERT INTO NormalizedPerson (name) VALUES ("H. M.");
+INSERT INTO NormalizedPerson (name) VALUES ("Col. Macomb");
+INSERT INTO NormalizedPerson (name) VALUES ("Antonio Manches");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. Marigney");
+INSERT INTO NormalizedPerson (name) VALUES ("Martha Marple");
+INSERT INTO NormalizedPerson (name) VALUES ("Wyly Martin");
+INSERT INTO NormalizedPerson (name) VALUES ("Robert Martin");
+INSERT INTO NormalizedPerson (name) VALUES ("Frano Pizarro Martinez");
+INSERT INTO NormalizedPerson (name) VALUES ("Col. Antonio Martinez");
+INSERT INTO NormalizedPerson (name) VALUES ("L. C. Mason");
+INSERT INTO NormalizedPerson (name) VALUES ("Col: John Thompson Mason");
+INSERT INTO NormalizedPerson (name) VALUES ("Isurael Massie");
+INSERT INTO NormalizedPerson (name) VALUES ("Colo. Mathews");
+INSERT INTO NormalizedPerson (name) VALUES ("Susan. W. Maxwell");
+INSERT INTO NormalizedPerson (name) VALUES ("Samuel May");
+INSERT INTO NormalizedPerson (name) VALUES ("O D. McAlister");
+INSERT INTO NormalizedPerson (name) VALUES ("John McArthur");
+INSERT INTO NormalizedPerson (name) VALUES ("McClenehan");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr McConnell");
+INSERT INTO NormalizedPerson (name) VALUES ("McCormack");
+INSERT INTO NormalizedPerson (name) VALUES ("David McCormick");
+INSERT INTO NormalizedPerson (name) VALUES ("Mrs. McCormick");
+INSERT INTO NormalizedPerson (name) VALUES ("McDonald");
+INSERT INTO NormalizedPerson (name) VALUES ("McFarling");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr Hugh McGuffen");
+INSERT INTO NormalizedPerson (name) VALUES ("Thomas F. McKinney");
+INSERT INTO NormalizedPerson (name) VALUES ("Mrs. McKinstry");
+INSERT INTO NormalizedPerson (name) VALUES ("A. W. McLane");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr McNeels");
+INSERT INTO NormalizedPerson (name) VALUES ("P. S. McNeil");
+INSERT INTO NormalizedPerson (name) VALUES ("Achilles McPharlan");
+INSERT INTO NormalizedPerson (name) VALUES ("H Meigs");
+INSERT INTO NormalizedPerson (name) VALUES ("Mrs Meigs");
+INSERT INTO NormalizedPerson (name) VALUES ("young men");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr John Francis Merieult");
+INSERT INTO NormalizedPerson (name) VALUES ("Ben R. Milam");
+INSERT INTO NormalizedPerson (name) VALUES ("David H. Milburn");
+INSERT INTO NormalizedPerson (name) VALUES ("J B Miller");
+INSERT INTO NormalizedPerson (name) VALUES ("William Millican");
+INSERT INTO NormalizedPerson (name) VALUES ("Robt. Millican");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. Milligan");
+INSERT INTO NormalizedPerson (name) VALUES ("D. G. and R Mills");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr Mitchell");
+INSERT INTO NormalizedPerson (name) VALUES ("John H. Money");
+INSERT INTO NormalizedPerson (name) VALUES ("John Moody");
+INSERT INTO NormalizedPerson (name) VALUES ("J. H. Moore.");
+INSERT INTO NormalizedPerson (name) VALUES ("Col. Charles Morgan");
+INSERT INTO NormalizedPerson (name) VALUES ("Sexton Morgan");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr Morris");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr Lewis Morrison");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr Moseley");
+INSERT INTO NormalizedPerson (name) VALUES ("William Moss");
+INSERT INTO NormalizedPerson (name) VALUES ("Peter De Moss");
+INSERT INTO NormalizedPerson (name) VALUES ("Padre Muldoon");
+INSERT INTO NormalizedPerson (name) VALUES ("Mathew Mullens");
+INSERT INTO NormalizedPerson (name) VALUES ("Timothy Mullins");
+INSERT INTO NormalizedPerson (name) VALUES ("Francis Murphy");
+INSERT INTO NormalizedPerson (name) VALUES ("William Murraysole");
+INSERT INTO NormalizedPerson (name) VALUES ("James Neelly");
+INSERT INTO NormalizedPerson (name) VALUES ("James Nelson");
+INSERT INTO NormalizedPerson (name) VALUES ("T. Newberry");
+INSERT INTO NormalizedPerson (name) VALUES ("James Newell");
+INSERT INTO NormalizedPerson (name) VALUES ("Capt. James Newell");
+INSERT INTO NormalizedPerson (name) VALUES ("Coln. Nicholas");
+INSERT INTO NormalizedPerson (name) VALUES ("J R. Nicholson");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. Elijah Noble");
+INSERT INTO NormalizedPerson (name) VALUES ("Thomas Norvell");
+INSERT INTO NormalizedPerson (name) VALUES ("M. B. Nuckols");
+INSERT INTO NormalizedPerson (name) VALUES ("Parrott");
+INSERT INTO NormalizedPerson (name) VALUES ("H. J. Offutt");
+INSERT INTO NormalizedPerson (name) VALUES ("William M Ohara");
+INSERT INTO NormalizedPerson (name) VALUES ("Thomas Oliver");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. William Bryan");
+INSERT INTO NormalizedPerson (name) VALUES ("George Orr");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr Pack");
+INSERT INTO NormalizedPerson (name) VALUES ("Juan Antonio Padilla");
+INSERT INTO NormalizedPerson (name) VALUES ("Mrs Page");
+INSERT INTO NormalizedPerson (name) VALUES ("Parker");
+INSERT INTO NormalizedPerson (name) VALUES ("Samuel Parkman");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. Parrott");
+INSERT INTO NormalizedPerson (name) VALUES ("Samuel Patterson");
+INSERT INTO NormalizedPerson (name) VALUES ("J. Rankin");
+INSERT INTO NormalizedPerson (name) VALUES ("Samuel S Pearson");
+INSERT INTO NormalizedPerson (name) VALUES ("Genl. Pedraza");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. Penneman");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. and Mrs. Penniman");
+INSERT INTO NormalizedPerson (name) VALUES ("J. M. Pennington");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr Penrose");
+INSERT INTO NormalizedPerson (name) VALUES ("Mrs. Emily M. Perry");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. James F. Perry");
+INSERT INTO NormalizedPerson (name) VALUES ("Wm. Perry");
+INSERT INTO NormalizedPerson (name) VALUES ("Jas. F. Perry");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. Perry");
+INSERT INTO NormalizedPerson (name) VALUES ("William Perry");
+INSERT INTO NormalizedPerson (name) VALUES ("John Perry");
+INSERT INTO NormalizedPerson (name) VALUES ("Colonel Perry");
+INSERT INTO NormalizedPerson (name) VALUES ("William Pettus");
+INSERT INTO NormalizedPerson (name) VALUES ("Mrs. Peyton");
+INSERT INTO NormalizedPerson (name) VALUES ("Samuel Pharr");
+INSERT INTO NormalizedPerson (name) VALUES ("James E. Phelps");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr Daniel Phelps");
+INSERT INTO NormalizedPerson (name) VALUES ("Mrs. Phelps");
+INSERT INTO NormalizedPerson (name) VALUES ("Timothy Phelps");
+INSERT INTO NormalizedPerson (name) VALUES ("Philadelphian");
+INSERT INTO NormalizedPerson (name) VALUES ("Andrew L Phinney");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. Joshua Pilcher");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. Pilgram");
+INSERT INTO NormalizedPerson (name) VALUES ("Col. Pitts");
+INSERT INTO NormalizedPerson (name) VALUES ("Poinsett");
+INSERT INTO NormalizedPerson (name) VALUES ("Doct. Pollard");
+INSERT INTO NormalizedPerson (name) VALUES ("J. H. Polly");
+INSERT INTO NormalizedPerson (name) VALUES ("Sor Porter");
+INSERT INTO NormalizedPerson (name) VALUES ("Commodore Porter");
+INSERT INTO NormalizedPerson (name) VALUES ("Capt Postlewhaite");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. Joseph Powel");
+INSERT INTO NormalizedPerson (name) VALUES ("Peter Powell");
+INSERT INTO NormalizedPerson (name) VALUES ("Powell");
+INSERT INTO NormalizedPerson (name) VALUES ("Willis J. Powell");
+INSERT INTO NormalizedPerson (name) VALUES ("Powers");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr J. Pratt");
+INSERT INTO NormalizedPerson (name) VALUES ("R. R. Royall");
+INSERT INTO NormalizedPerson (name) VALUES ("R Price");
+INSERT INTO NormalizedPerson (name) VALUES ("Risdon H Price");
+INSERT INTO NormalizedPerson (name) VALUES ("Wm. Purkins");
+INSERT INTO NormalizedPerson (name) VALUES ("Col Quarles");
+INSERT INTO NormalizedPerson (name) VALUES ("Thomas Rabb");
+INSERT INTO NormalizedPerson (name) VALUES ("William Rabb");
+INSERT INTO NormalizedPerson (name) VALUES ("Ramey");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. Ratliff");
+INSERT INTO NormalizedPerson (name) VALUES ("T. Rector");
+INSERT INTO NormalizedPerson (name) VALUES ("Phillip Redinger");
+INSERT INTO NormalizedPerson (name) VALUES ("Wm Reese");
+INSERT INTO NormalizedPerson (name) VALUES ("Majr Reynolds");
+INSERT INTO NormalizedPerson (name) VALUES ("Mrs. Richards");
+INSERT INTO NormalizedPerson (name) VALUES ("Joseph Rickey");
+INSERT INTO NormalizedPerson (name) VALUES ("N. Rightor");
+INSERT INTO NormalizedPerson (name) VALUES ("Andrew Roach");
+INSERT INTO NormalizedPerson (name) VALUES ("Wm. Roberts");
+INSERT INTO NormalizedPerson (name) VALUES ("Robertson");
+INSERT INTO NormalizedPerson (name) VALUES ("Sterling Robertson");
+INSERT INTO NormalizedPerson (name) VALUES ("Felix Robertson");
+INSERT INTO NormalizedPerson (name) VALUES ("Doctr Robertson");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr Andrew Robertson");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. Robidoux");
+INSERT INTO NormalizedPerson (name) VALUES ("Wm. Robins,");
+INSERT INTO NormalizedPerson (name) VALUES ("Captain A Robinson");
+INSERT INTO NormalizedPerson (name) VALUES ("Robinson");
+INSERT INTO NormalizedPerson (name) VALUES ("Mrs. Robinsons");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. Robison");
+INSERT INTO NormalizedPerson (name) VALUES ("Fernando Rodriguiz");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. Rogers");
+INSERT INTO NormalizedPerson (name) VALUES ("James Ross");
+INSERT INTO NormalizedPerson (name) VALUES ("Captain Ross");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. Robert Le Roy");
+INSERT INTO NormalizedPerson (name) VALUES ("Ruggles");
+INSERT INTO NormalizedPerson (name) VALUES ("Mrs. Rumseys");
+INSERT INTO NormalizedPerson (name) VALUES ("Gen. T. J. Rusk");
+INSERT INTO NormalizedPerson (name) VALUES ("Mosea Russaw");
+INSERT INTO NormalizedPerson (name) VALUES ("William Russell");
+INSERT INTO NormalizedPerson (name) VALUES ("Russians");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. S");
+INSERT INTO NormalizedPerson (name) VALUES ("Sub Deacon Don Juan Manuel Sambrano");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. Sanders");
+INSERT INTO NormalizedPerson (name) VALUES ("Jose Antonio Saucedo");
+INSERT INTO NormalizedPerson (name) VALUES ("Savages");
+INSERT INTO NormalizedPerson (name) VALUES ("Capt. Saviego");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. Sawyer");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. Sayre");
+INSERT INTO NormalizedPerson (name) VALUES ("Wm. P Scott");
+INSERT INTO NormalizedPerson (name) VALUES ("Wra Scott");
+INSERT INTO NormalizedPerson (name) VALUES ("Thomas C. Scott");
+INSERT INTO NormalizedPerson (name) VALUES ("scoundrels");
+INSERT INTO NormalizedPerson (name) VALUES ("Juan Seguin");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. James McGarock, Senr");
+INSERT INTO NormalizedPerson (name) VALUES ("Wm Griffin Senr");
+INSERT INTO NormalizedPerson (name) VALUES ("Joseph Seveson");
+INSERT INTO NormalizedPerson (name) VALUES ("Samuel Sexton");
+INSERT INTO NormalizedPerson (name) VALUES ("Couzen E Sharp");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. Sharpe");
+INSERT INTO NormalizedPerson (name) VALUES ("Shawnees");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. James Shields");
+INSERT INTO NormalizedPerson (name) VALUES ("Shields");
+INSERT INTO NormalizedPerson (name) VALUES ("William Shreve");
+INSERT INTO NormalizedPerson (name) VALUES ("Wm. Shreve");
+INSERT INTO NormalizedPerson (name) VALUES ("Doctr Sibly");
+INSERT INTO NormalizedPerson (name) VALUES ("Bartlett Sims");
+INSERT INTO NormalizedPerson (name) VALUES ("Jorge Anto Nixon Sind[ico]");
+INSERT INTO NormalizedPerson (name) VALUES ("Wm Singer");
+INSERT INTO NormalizedPerson (name) VALUES ("Mrs. Skriggins");
+INSERT INTO NormalizedPerson (name) VALUES ("William Smethers");
+INSERT INTO NormalizedPerson (name) VALUES ("Morgan L. Smith");
+INSERT INTO NormalizedPerson (name) VALUES ("William Smith");
+INSERT INTO NormalizedPerson (name) VALUES ("James Smith");
+INSERT INTO NormalizedPerson (name) VALUES ("Majr. Benjn. W Smith");
+INSERT INTO NormalizedPerson (name) VALUES ("F. Smith");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr Smith");
+INSERT INTO NormalizedPerson (name) VALUES ("Benjamin F. Smith");
+INSERT INTO NormalizedPerson (name) VALUES ("Francis Smith");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. Smith");
+INSERT INTO NormalizedPerson (name) VALUES ("Wm. H. Smith");
+INSERT INTO NormalizedPerson (name) VALUES ("Thos A. Smith");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr Alexander Somervill");
+INSERT INTO NormalizedPerson (name) VALUES ("Anthony Soulard");
+INSERT INTO NormalizedPerson (name) VALUES ("William Spence");
+INSERT INTO NormalizedPerson (name) VALUES ("P R Splane");
+INSERT INTO NormalizedPerson (name) VALUES ("Wm Stafford");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr John Staples");
+INSERT INTO NormalizedPerson (name) VALUES ("Samuel Staples");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr Stephen");
+INSERT INTO NormalizedPerson (name) VALUES ("W Stevenson");
+INSERT INTO NormalizedPerson (name) VALUES ("Silas M. Stilwell");
+INSERT INTO NormalizedPerson (name) VALUES ("Owen H. Stout");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. Strange");
+INSERT INTO NormalizedPerson (name) VALUES ("Joseph Stuart");
+INSERT INTO NormalizedPerson (name) VALUES ("John Stuart");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. Sumner");
+INSERT INTO NormalizedPerson (name) VALUES ("Walter Sutherland");
+INSERT INTO NormalizedPerson (name) VALUES ("George Sutherland");
+INSERT INTO NormalizedPerson (name) VALUES ("Samuel Swartwout");
+INSERT INTO NormalizedPerson (name) VALUES ("Mrs. Sweet");
+INSERT INTO NormalizedPerson (name) VALUES ("Austin and Tailer");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr Joel Tatum");
+INSERT INTO NormalizedPerson (name) VALUES ("Tawakanies");
+INSERT INTO NormalizedPerson (name) VALUES ("William Taylor");
+INSERT INTO NormalizedPerson (name) VALUES ("Johns Taylor");
+INSERT INTO NormalizedPerson (name) VALUES ("Geo. Tennell");
+INSERT INTO NormalizedPerson (name) VALUES ("Genl Teran");
+INSERT INTO NormalizedPerson (name) VALUES ("John W. Teten");
+INSERT INTO NormalizedPerson (name) VALUES ("Texians");
+INSERT INTO NormalizedPerson (name) VALUES ("R. Thirmond");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. Thomas");
+INSERT INTO NormalizedPerson (name) VALUES ("J. Thomas");
+INSERT INTO NormalizedPerson (name) VALUES ("Capt. A. Thompson");
+INSERT INTO NormalizedPerson (name) VALUES ("Burrill Thompson");
+INSERT INTO NormalizedPerson (name) VALUES ("Thompson");
+INSERT INTO NormalizedPerson (name) VALUES ("F. Thorn");
+INSERT INTO NormalizedPerson (name) VALUES ("Richd Thurmond");
+INSERT INTO NormalizedPerson (name) VALUES ("Dudley R Tinker");
+INSERT INTO NormalizedPerson (name) VALUES ("Mrs Todd");
+INSERT INTO NormalizedPerson (name) VALUES ("James Tong");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. Tornel");
+INSERT INTO NormalizedPerson (name) VALUES ("N. Townsend");
+INSERT INTO NormalizedPerson (name) VALUES ("Nicolas Trammal");
+INSERT INTO NormalizedPerson (name) VALUES ("W. B. Travis");
+INSERT INTO NormalizedPerson (name) VALUES ("M G. W. Treat");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr Treat");
+INSERT INTO NormalizedPerson (name) VALUES ("Govr. Trespalacios");
+INSERT INTO NormalizedPerson (name) VALUES ("Dn Alexdro TreviÃ±o");
+INSERT INTO NormalizedPerson (name) VALUES ("Captains of the companies East of the Trinity");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr Triplett");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. Zenon Trudeau");
+INSERT INTO NormalizedPerson (name) VALUES ("Col. U");
+INSERT INTO NormalizedPerson (name) VALUES ("Domingo de Ugartechea");
+INSERT INTO NormalizedPerson (name) VALUES ("Andrew Valentine");
+INSERT INTO NormalizedPerson (name) VALUES ("Francois VallÃ©e");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr Valle");
+INSERT INTO NormalizedPerson (name) VALUES ("Varner");
+INSERT INTO NormalizedPerson (name) VALUES ("Vaughn");
+INSERT INTO NormalizedPerson (name) VALUES ("L. L. Veeders");
+INSERT INTO NormalizedPerson (name) VALUES ("Maria Louise Veillon");
+INSERT INTO NormalizedPerson (name) VALUES ("Sen Placido Venevedas");
+INSERT INTO NormalizedPerson (name) VALUES ("Genl. Guadalupe Victoria");
+INSERT INTO NormalizedPerson (name) VALUES ("William Vince");
+INSERT INTO NormalizedPerson (name) VALUES ("James Austin");
+INSERT INTO NormalizedPerson (name) VALUES ("Mrs. W");
+INSERT INTO NormalizedPerson (name) VALUES ("Col. W.");
+INSERT INTO NormalizedPerson (name) VALUES ("M. R. W.");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. W.");
+INSERT INTO NormalizedPerson (name) VALUES ("Jno. C Walker");
+INSERT INTO NormalizedPerson (name) VALUES ("Col: Wallace.");
+INSERT INTO NormalizedPerson (name) VALUES ("Ed. Waller");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. Tornel, Mexican Minister at Washington");
+INSERT INTO NormalizedPerson (name) VALUES ("William Waters");
+INSERT INTO NormalizedPerson (name) VALUES ("Genl. Arthur G. Wavell");
+INSERT INTO NormalizedPerson (name) VALUES ("Wawfield");
+INSERT INTO NormalizedPerson (name) VALUES ("I. F. Wells");
+INSERT INTO NormalizedPerson (name) VALUES ("Thomas Westall");
+INSERT INTO NormalizedPerson (name) VALUES ("Westover");
+INSERT INTO NormalizedPerson (name) VALUES ("John A. Wharton");
+INSERT INTO NormalizedPerson (name) VALUES ("Wm. H. Wharton");
+INSERT INTO NormalizedPerson (name) VALUES ("Wheeler");
+INSERT INTO NormalizedPerson (name) VALUES ("W H Whitaker");
+INSERT INTO NormalizedPerson (name) VALUES ("Allen White");
+INSERT INTO NormalizedPerson (name) VALUES ("W. C. White");
+INSERT INTO NormalizedPerson (name) VALUES ("Joseph White");
+INSERT INTO NormalizedPerson (name) VALUES ("Henry Whiteside");
+INSERT INTO NormalizedPerson (name) VALUES ("Whitlock");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr Whittlesey");
+INSERT INTO NormalizedPerson (name) VALUES ("Mrs Eliza Page widow");
+INSERT INTO NormalizedPerson (name) VALUES ("Louis Holloway");
+INSERT INTO NormalizedPerson (name) VALUES ("Thos. Williams");
+INSERT INTO NormalizedPerson (name) VALUES ("Wiggins");
+INSERT INTO NormalizedPerson (name) VALUES ("Walter Wilinson");
+INSERT INTO NormalizedPerson (name) VALUES ("James Wilkinson");
+INSERT INTO NormalizedPerson (name) VALUES ("Wilkinson");
+INSERT INTO NormalizedPerson (name) VALUES ("Thomas Williams");
+INSERT INTO NormalizedPerson (name) VALUES ("Samuel M. Williams");
+INSERT INTO NormalizedPerson (name) VALUES ("McKinney and Williams");
+INSERT INTO NormalizedPerson (name) VALUES ("John Williams");
+INSERT INTO NormalizedPerson (name) VALUES ("Williams");
+INSERT INTO NormalizedPerson (name) VALUES ("Mrs Williams");
+INSERT INTO NormalizedPerson (name) VALUES ("Jno. A. Williams");
+INSERT INTO NormalizedPerson (name) VALUES ("R. H. Williams");
+INSERT INTO NormalizedPerson (name) VALUES ("Robert M. Williamson");
+INSERT INTO NormalizedPerson (name) VALUES ("Wm. Williamson");
+INSERT INTO NormalizedPerson (name) VALUES ("Williamson");
+INSERT INTO NormalizedPerson (name) VALUES ("Col: Wilson");
+INSERT INTO NormalizedPerson (name) VALUES ("W. Wilson");
+INSERT INTO NormalizedPerson (name) VALUES ("Anthony Winstons");
+INSERT INTO NormalizedPerson (name) VALUES ("Woodbury");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. Woods");
+INSERT INTO NormalizedPerson (name) VALUES ("Zadock Woods");
+INSERT INTO NormalizedPerson (name) VALUES ("Charles Carr");
+INSERT INTO NormalizedPerson (name) VALUES ("A. J. Yates");
+INSERT INTO NormalizedPerson (name) VALUES ("Mr. Ybarra");
+INSERT INTO NormalizedPerson (name) VALUES ("Yorkino");
+INSERT INTO NormalizedPerson (name) VALUES ("Genl. Zavalla");
+INSERT INTO NormalizedPerson (name) VALUES ("Zenteno");
+INSERT INTO NormalizedPerson (name) VALUES ("Luke [Lesassier]");
