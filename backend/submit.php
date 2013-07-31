@@ -60,6 +60,8 @@ for ($i = 0; $i < $div1Elements->length; ++$i)
 }
 $summary = removeDuplicateSpaces($summary);
 
+#logString("loading normalized persons for some reason");
+
 $result = mysql_query("SELECT id, name FROM NormalizedPerson");
 $knownNames = array();
 while ($row = mysql_fetch_array($result))
@@ -69,13 +71,17 @@ while ($row = mysql_fetch_array($result))
 
 //Attach the chosen keys to the person tags
 //Also, build up an sql insert for person references
-$textElement = $doc->getElementsByTagName("text")->item(0);
-$people = $textElement->getElementsByTagName("persName");
+
+# BatchSubmit attempts to identify all persons within the document, not just the persons within the text!
+#$textElement = $doc->getElementsByTagName("text")->item(0);
+$people = $doc->getElementsByTagName("persName");
 $index = 0;
 $first = true;
 $personSql = '';
 foreach( $people as $person )
 {
+#	logString("looping on index={$index}, person={$person->textContent}");
+	
     if ($first)
     {
         $personSql = 'INSERT INTO PersonReference (docId, text, normalId) VALUES ';
@@ -100,6 +106,7 @@ foreach( $people as $person )
     }
     if ($_POST["personTag"][$index])
     {
+ #   	logString("reading $_POST[personTag][$index]={$_POST['personTag'][$index]}");
         $keyAttr = $doc->createAttribute("key");
         $keyAttr->value = strval($_POST["personTag"][$index]);
         $person->appendChild($keyAttr);

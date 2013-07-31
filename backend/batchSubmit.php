@@ -55,7 +55,7 @@ function getTag($personName, $key, $knownNames)
         }
     }
     $suggestion = "";
-    $bestScore = 0.8;
+    $bestScore = 0.3;
     $bestId = '';
     foreach($knownNames as $id => $forms)
     {
@@ -63,6 +63,7 @@ function getTag($personName, $key, $knownNames)
         foreach($forms as $form)
         {
             $score = jaccardSim($personName, $form);
+			//print "{$personName} compared to {$form} with a score of {$score}\n";
             if ($score > $bestScore)
             {
                 if ($form == $standardForm)
@@ -75,11 +76,13 @@ function getTag($personName, $key, $knownNames)
                 }
                 $bestId = $id;
                 $bestScore = $score;
+				$bestName=$form;
             }
         }
     }
     if ($bestId !== '')
     {
+#		logString("{$personName} matched to {$bestName} (id: {$bestId}) with a score of {$bestScore}");
         return $bestId;
     }
     return $key;
@@ -131,8 +134,10 @@ foreach ($files as $file)
         {
             $key = $keyNode->nodeValue;
         }
-//	    print "Posting name={$name} key={$key} as personTag[{$index}]\n";    	
+	    #logString("Posting name={$name} key={$key} as personTag[{$index}] = {getTag($name, $key, $knownNames)}\n");    	
         $_POST['personTag'][$index] = getTag($name, $key, $knownNames);
+		#logString("setting $_POST[personTag][$index]={$_POST['personTag'][$index]}");
+		
         $index += 1;
     }
 
