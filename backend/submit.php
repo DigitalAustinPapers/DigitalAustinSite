@@ -78,6 +78,9 @@ $people = $doc->getElementsByTagName("persName");
 $index = 0;
 $first = true;
 $personSql = '';
+$escapedQuotedSentToPersonKey = 'NULL';
+$escapedQuotedSentFromPersonKey = 'NULL';
+
 foreach( $people as $person )
 {
 #	logString("looping on index={$index}, person={$person->textContent}");
@@ -93,7 +96,7 @@ foreach( $people as $person )
     }
     $text = removeDuplicateSpaces($person->textContent);
     $type = '';
-    $typeNode = $place->attributes->getNamedItem("type");
+    $typeNode = $person->attributes->getNamedItem("type");
     if ($typeNode)
     {
         $type = $typeNode->nodeValue;
@@ -106,11 +109,23 @@ foreach( $people as $person )
     }
     if ($_POST["personTag"][$index])
     {
- #   	logString("reading $_POST[personTag][$index]={$_POST['personTag'][$index]}");
         $keyAttr = $doc->createAttribute("key");
         $keyAttr->value = strval($_POST["personTag"][$index]);
         $person->appendChild($keyAttr);
         $key = $_POST["personTag"][$index];
+		
+    	//logString("type={$type} and key={$key} for text={$text}");
+		if($type=="recipient" && $key != '') {
+			$escapedQuotedSentToPersonKey = $key;
+		}
+
+		$parentNodeName = $person->parentNode->nodeName;
+		if($parentNodeName=="author" && $key != '') {
+			$escapedQuotedSentFromPersonKey = $key;
+		}
+		
+
+
     }
     $escapedDocId = mysql_real_escape_string($docId);
     $escapedText = mysql_real_escape_string($text);
@@ -247,8 +262,8 @@ $escapedXml = mysql_real_escape_string($doc->saveXML());
 $escapedCreation = mysql_real_escape_string($creationDate); 
 $escapedSummary = mysql_real_escape_string($summary);
 $insertDocSql = "REPLACE INTO Document (id, title, xml,
-    creation, summary, sentToPlace, sentFromPlace) VALUES ('$escapedId', '$escapedTitle',
-    '$escapedXml', '$escapedCreation', '$escapedSummary', $escapedQuotedSentToKey, $escapedQuotedSentFromKey)";
+    creation, summary, sentToPlace, sentFromPlace, sentToPerson, sentFromPerson) VALUES ('$escapedId', '$escapedTitle',
+    '$escapedXml', '$escapedCreation', '$escapedSummary', $escapedQuotedSentToKey, $escapedQuotedSentFromKey, $escapedQuotedSentToPersonKey, $escapedQuotedSentFromPersonKey)";
 
 mysql_query($insertDocSql) or print(mysql_error());
 
