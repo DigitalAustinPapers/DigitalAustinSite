@@ -402,6 +402,10 @@ function requestData() {
     getParams += encodeURIComponent(document.getElementById('fromYear').value);
     getParams += '&toYear=';
     getParams += encodeURIComponent(document.getElementById('toYear').value);
+    getParams += '&fromPersonId=';
+    getParams += encodeURIComponent(document.getElementById('fromPersonId').value);
+    getParams += '&toPersonId=';
+    getParams += encodeURIComponent(document.getElementById('toPersonId').value);
     getParams += '&sort=';
     getParams += encodeURIComponent(sortKey);
 
@@ -512,6 +516,21 @@ function tabChanged(newView) {
         $toYear = '';
     } ?>
     <input type='hidden' name='toYear' id='toYear' value='<? print htmlentities($toYear)?>' />
+
+    
+    <? if (array_key_exists('fromPersonId', $_GET)) {
+    	$fromPersonId = $_GET['fromPersonId'];
+    } else {
+        $fromPersonId = '';
+    } ?>
+    <input type='hidden' name='fromPersonId' id='fromPersonId' value='<? print htmlentities($fromPersonId)?>' />
+
+    <? if (array_key_exists('toPersonId', $_GET)) {
+    	$toPersonId = $_GET['toPersonId'];
+    } else {
+        $toPersonId = '';
+    } ?>
+    <input type='hidden' name='toPersonId' id='toPersonId' value='<? print htmlentities($toPersonId)?>' />
 
     
     <input type='submit' value='Search' />

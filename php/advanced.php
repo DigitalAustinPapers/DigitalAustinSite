@@ -1,7 +1,7 @@
 <?php
 
-	$authorQuery = "SELECT author FROM authors ORDER BY author";
-	$recipientQuery = "SELECT recipient FROM recipients ORDER BY recipient";
+	$authorQuery = "SELECT name, id,  if(RIGHT(name, LOCATE(' ', REVERSE(name)) - 1)<>'',RIGHT(name, LOCATE(' ', REVERSE(name)) - 1) , name) surname FROM NormalizedPerson WHERE id in (SELECT sentFromPerson from Document) ORDER BY surname";
+	$recipientQuery = "SELECT name, id,  if(RIGHT(name, LOCATE(' ', REVERSE(name)) - 1)<>'',RIGHT(name, LOCATE(' ', REVERSE(name)) - 1) , name) surname FROM NormalizedPerson WHERE id in (SELECT sentToPerson from Document) ORDER BY surname";
 	$fromQuery = "SELECT DISTINCT sent_from FROM place ORDER BY sent_from";
 	$toQuery = "SELECT DISTINCT sent_to FROM place ORDER BY sent_to";
 	$yearQuery = "SELECT DISTINCT left(creation,4) FROM Document WHERE creation > '1' ORDER BY 1";
@@ -25,33 +25,29 @@
 	search: <input type="text" name="query" size="30"/>
 	<input type="submit" name="title" value="go"/>
 	<br><br>
-  			author: <select name="author" style="width:145px;">
+  			author: <select name="fromPersonId" style="width:145px;">
 		<option value="">any...</option>
 		<?php
 			$i=0;
 			while ($i < $numAuthors) {
-				$row = mysql_result($findAuthor,$i);
-				if (strlen($row) > 80){
-					$row = substr($row, 0, 80);
-				}
-				echo "<option value=\"$row\">$row</option>\n";
-				$option = $row;
+				$row = mysql_fetch_array($findRecipient);
+				$personId = $row['id'];
+				$personName = $row['name'];
+				echo "<option value=\"$personId\">$personName</option>\n";
 				$i++;
 			}
 		?>
 	</select>
 	<!-- <br><br> -->
-	recipient: <select name="recipient" style="width:150px;">
+	recipient: <select name="toPersonId" style="width:150px;">
 	<option value="">any...</option>
 		<?php
 			$i=0;
 			while ($i < $numRecipients) {
-				$row = mysql_result($findRecipient,$i);
-				if (strlen($row) > 80){
-					$row = substr($row, 0, 80);
-				}
-				echo "<option value=\"$row\">$row</option>\n";
-				$option = $row;
+				$row = mysql_fetch_array($findRecipient);
+				$personId = $row['id'];
+				$personName = $row['name'];
+				echo "<option value=\"$personId\">$personName</option>\n";
 				$i++;
 			}
 		?>

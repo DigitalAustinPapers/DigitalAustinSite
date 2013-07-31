@@ -34,7 +34,6 @@ logString("text={$text}");
 
 $words = preg_split('/[\W]+/', $text);
 //Stem each word
-logString("words={$words}");
 
 
 $stems = array_map(array($stemmer, 'Stem'), $words);
@@ -76,6 +75,24 @@ if (array_key_exists('toYear', $_GET) && ($_GET['toYear'] != ''))
     $toDateCondition = " AND creation < '$escapedToYear' ";
 }
 
+
+
+$fromPersonCondition = '';
+if (array_key_exists('fromPersonId', $_GET) && ($_GET['fromPersonId'] != ''))
+{
+    $escapedFromPersonId = mysql_real_escape_string($_GET['fromPersonId']);
+    $fromPersonCondition = " AND sentFromPerson = $escapedFromPersonId ";
+}
+
+$toPersonCondition = '';
+if (array_key_exists('toPersonId', $_GET) && ($_GET['toPersonId'] != ''))
+{
+    $escapedToPersonId = mysql_real_escape_string($_GET['toPersonId']);
+    $toPersonCondition = " AND sentToPerson = $escapedToPersonId ";
+}
+
+
+
 $orderBy = '';
 if (array_key_exists('sort', $_GET)) {
     if ($_GET['sort'] === 'similarity') {
@@ -103,6 +120,8 @@ $sql = "
     $locationCondition
     $fromDateCondition
     $toDateCondition
+    $fromPersonCondition
+    $toPersonCondition
         GROUP BY Document.Id
     $orderBy ;
 ";
