@@ -93,6 +93,23 @@ if (array_key_exists('toPersonId', $_GET) && ($_GET['toPersonId'] != ''))
 
 
 
+
+$fromPlaceCondition = '';
+if (array_key_exists('fromPlaceId', $_GET) && ($_GET['fromPlaceId'] != ''))
+{
+    $escapedFromPlaceId = mysql_real_escape_string($_GET['fromPlaceId']);
+    $fromPlaceCondition = " AND sentFromPlace = $escapedFromPlaceId ";
+}
+
+$toPlaceCondition = '';
+if (array_key_exists('toPlaceId', $_GET) && ($_GET['toPlaceId'] != ''))
+{
+    $escapedToPlaceId = mysql_real_escape_string($_GET['toPlaceId']);
+    $toPlaceCondition = " AND sentToPlace = $escapedToPlaceId ";
+}
+
+
+
 $orderBy = '';
 if (array_key_exists('sort', $_GET)) {
     if ($_GET['sort'] === 'similarity') {
@@ -122,7 +139,9 @@ $sql = "
     $toDateCondition
     $fromPersonCondition
     $toPersonCondition
-        GROUP BY Document.Id
+    $fromPlaceCondition
+    $toPlaceCondition
+            GROUP BY Document.Id
     $orderBy ;
 ";
 

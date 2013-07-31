@@ -406,6 +406,10 @@ function requestData() {
     getParams += encodeURIComponent(document.getElementById('fromPersonId').value);
     getParams += '&toPersonId=';
     getParams += encodeURIComponent(document.getElementById('toPersonId').value);
+    getParams += '&fromPlaceId=';
+    getParams += encodeURIComponent(document.getElementById('fromPlaceId').value);
+    getParams += '&toPlaceId=';
+    getParams += encodeURIComponent(document.getElementById('toPlaceId').value);
     getParams += '&sort=';
     getParams += encodeURIComponent(sortKey);
 
@@ -531,6 +535,22 @@ function tabChanged(newView) {
         $toPersonId = '';
     } ?>
     <input type='hidden' name='toPersonId' id='toPersonId' value='<? print htmlentities($toPersonId)?>' />
+
+
+    
+    <? if (array_key_exists('fromPlaceId', $_GET)) {
+    	$fromPlaceId = $_GET['fromPlaceId'];
+    } else {
+        $fromPlaceId = '';
+    } ?>
+    <input type='hidden' name='fromPlaceId' id='fromPlaceId' value='<? print htmlentities($fromPlaceId)?>' />
+
+    <? if (array_key_exists('toPlaceId', $_GET)) {
+    	$toPlaceId = $_GET['toPlaceId'];
+    } else {
+        $toPlaceId = '';
+    } ?>
+    <input type='hidden' name='toPlaceId' id='toPlaceId' value='<? print htmlentities($toPlaceId)?>' />
 
     
     <input type='submit' value='Search' />

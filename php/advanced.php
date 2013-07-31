@@ -2,8 +2,8 @@
 
 	$authorQuery = "SELECT name, id,  if(RIGHT(name, LOCATE(' ', REVERSE(name)) - 1)<>'',RIGHT(name, LOCATE(' ', REVERSE(name)) - 1) , name) surname FROM NormalizedPerson WHERE id in (SELECT sentFromPerson from Document) ORDER BY surname";
 	$recipientQuery = "SELECT name, id,  if(RIGHT(name, LOCATE(' ', REVERSE(name)) - 1)<>'',RIGHT(name, LOCATE(' ', REVERSE(name)) - 1) , name) surname FROM NormalizedPerson WHERE id in (SELECT sentToPerson from Document) ORDER BY surname";
-	$fromQuery = "SELECT DISTINCT sent_from FROM place ORDER BY sent_from";
-	$toQuery = "SELECT DISTINCT sent_to FROM place ORDER BY sent_to";
+	$fromQuery = "SELECT DISTINCT name, id FROM NormalizedPlace WHERE id IN (SELECT sentFromPlace from Document) ORDER BY name";
+	$toQuery = "SELECT DISTINCT name, id FROM NormalizedPlace WHERE id IN (SELECT sentToPlace from Document) ORDER BY name";
 	$yearQuery = "SELECT DISTINCT left(creation,4) FROM Document WHERE creation > '1' ORDER BY 1";
 		
 	$findAuthor=mysql_query($authorQuery, $connection);
@@ -79,32 +79,30 @@
 		?>
 	</select>
 	<br><br>
-	sent from: <select name="from" style="width:100px;">
+	sent from: <select name="fromPlaceId" style="width:100px;">
 		<option value="">any...</option>
 		<?php
 			$i=0;
 			while ($i < $numFrom) {
-				$row = mysql_result($findFrom,$i);
-				if (strlen($row) > 125){
-					$row = substr($row, 0, 125);
-				}
-				echo "<option value=\"$row\">$row</option>\n";
+				$row = mysql_fetch_array($findFrom);
+				$placeId = $row['id'];
+				$placeName = $row['name'];
+				echo "<option value=\"$placeId\">$placeName</option>\n";
 				$option = $row;
 				$i++;
 			}
 		?>
 	</select>
 	<!-- <br><br> -->
-	sent to: <select name="to" style="width:90px;">
+	sent to: <select name="toPlaceId" style="width:90px;">
 		<option value="">any...</option>
 		<?php
 			$i=0;
 			while ($i < $numTo) {
-				$row = mysql_result($findTo,$i);
-				if (strlen($row) > 40){
-					$row = substr($row, 0, 40);
-				}
-				echo "<option value=\"$row\">$row</option>\n";
+				$row = mysql_fetch_array($findTo);
+				$placeId = $row['id'];
+				$placeName = $row['name'];
+				echo "<option value=\"$placeId\">$placeName</option>\n";
 				$option = $row;
 				$i++;
 			}
