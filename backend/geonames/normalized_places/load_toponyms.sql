@@ -1,4 +1,3 @@
-
 INSERT INTO NormalizedPlace (name, lat, lng) VALUES ("Ajax, LA", 31.87655, -93.3899); -- US	NA	fc=PPL
 INSERT INTO NormalizedPlace (name, lat, lng) VALUES ("Alabama", 32.75041, -86.75026); -- US	NA	fc=ADM1
 INSERT INTO NormalizedPlace (name, lat, lng) VALUES ("Alexandria, LA", 31.31129, -92.44514); -- US	NA	fc=PPLA2
@@ -33,8 +32,7 @@ INSERT INTO NormalizedPlace (name, lat, lng) VALUES ("Camden, TN", 36.05895, -88
 INSERT INTO NormalizedPlace (name, lat, lng) VALUES ("Camp Hulen, TX", 28.70666, -96.2433); -- US	NA	fc=PPL
 INSERT INTO NormalizedPlace (name, lat, lng) VALUES ("Cerralvo, Nuevo León", 26.08548, -99.61631); -- Cerralvo, Nuevo León
 INSERT INTO NormalizedPlace (name, lat, lng) VALUES ("Charleston, SC", 32.77657, -79.93092); -- US	NA	fc=PPLA2
-INSERT INTO NormalizedPlace (name, lat, lng) VALUES ("Charleston, SC", 32.77657, ); -- Charleston, South Carolian
-INSERT INTO NormalizedPlace (name, lat, lng) VALUES ("Chihuahua, Chihuahua", 28.63333, -106.08333); -- MX	NA	fc=PPLA
+INSERT INTO NormalizedPlace (name, lat, lng) VALUES ("Chihuahua", 28.63333, -106.08333); -- MX	NA	fc=PPLA
 INSERT INTO NormalizedPlace (name, lat, lng) VALUES ("Chillicothe, OH", 39.33312, -82.9824); -- US	NA	fc=PPLA2
 INSERT INTO NormalizedPlace (name, lat, lng) VALUES ("China Grove, TX", 29.38885, -98.3489); -- China Grove, Texas
 INSERT INTO NormalizedPlace (name, lat, lng) VALUES ("Cincinnati, OH", 39.162, -84.45689); -- US	NA	fc=PPLA2
