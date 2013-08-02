@@ -1,11 +1,11 @@
-DELETE FROM NormalizedPlace;
+
 INSERT INTO NormalizedPlace (name, lat, lng) VALUES ("Ajax, LA", 31.87655, -93.3899); -- US	NA	fc=PPL
 INSERT INTO NormalizedPlace (name, lat, lng) VALUES ("Alabama", 32.75041, -86.75026); -- US	NA	fc=ADM1
 INSERT INTO NormalizedPlace (name, lat, lng) VALUES ("Alexandria, LA", 31.31129, -92.44514); -- US	NA	fc=PPLA2
 INSERT INTO NormalizedPlace (name, lat, lng) VALUES ("Alexandria, VA", 38.80484, -77.04692); -- US	NA	fc=PPLA2
 INSERT INTO NormalizedPlace (name, lat, lng) VALUES ("Ames, TX", 30.05383, -94.74353); -- US	NA	fc=PPL
 INSERT INTO NormalizedPlace (name, lat, lng) VALUES ("Anahuac, TX", 29.773, -94.6827); -- US	NA	fc=PPLA2
-INSERT INTO NormalizedPlace (name, lat, lng) VALUES ("Arkansas", 34.75037, -92.50044); -- US	NA	fc=PPL
+INSERT INTO NormalizedPlace (name, lat, lng) VALUES ("Arkansas, KY", 37.58288, -82.73238); -- US	NA	fc=PPL
 INSERT INTO NormalizedPlace (name, lat, lng) VALUES ("Atascosito, TX", 30.09188, -94.7627); -- US	NA	fc=PPL
 INSERT INTO NormalizedPlace (name, lat, lng) VALUES ("Attoyac, TX", 31.55879, -94.35798); -- US	NA	fc=PPL
 INSERT INTO NormalizedPlace (name, lat, lng) VALUES ("Austin, TX", 30.26715, -97.74306); -- US	NA	fc=PPLA
@@ -80,7 +80,8 @@ INSERT INTO NormalizedPlace (name, lat, lng) VALUES ("Louisville, MO", 39.24253,
 INSERT INTO NormalizedPlace (name, lat, lng) VALUES ("Lowell, MA", 42.63342, -71.31617); -- US	NA	fc=PPL
 INSERT INTO NormalizedPlace (name, lat, lng) VALUES ("Matagorda, TX", 28.69082, -95.96746); -- US	NA	fc=PPL
 INSERT INTO NormalizedPlace (name, lat, lng) VALUES ("Matamoros Banco Number 121, TX", 25.89369, -97.51498); -- US	NA	fc=LEV
-INSERT INTO NormalizedPlace (name, lat, lng) VALUES ("Mexico", 19.42847, -99.12766); -- MX	NA	fc=PPLC
+INSERT INTO NormalizedPlace (name, lat, lng) VALUES ("Mexico City, The Federal District", 19.42847, -99.12766); -- MX	NA	fc=PPLC
+INSERT INTO NormalizedPlace (name, lat, lng) VALUES ("Mexico, KY", 37.22505, -88.09669); -- US	NA	fc=PPL
 INSERT INTO NormalizedPlace (name, lat, lng) VALUES ("Middletown, CT", 41.56232, -72.65065); -- US	NA	fc=PPL
 INSERT INTO NormalizedPlace (name, lat, lng) VALUES ("Milam, TX", 31.4324, -93.84574); -- US	NA	fc=PPL
 INSERT INTO NormalizedPlace (name, lat, lng) VALUES ("Millcreek, TX", 30.0098, -95.3054); -- US	NA	fc=PPL
@@ -151,6 +152,7 @@ INSERT INTO NormalizedPlace (name, lat, lng) VALUES ("Transylvania University, K
 INSERT INTO NormalizedPlace (name, lat, lng) VALUES ("Trinity, TX", 30.94519, -95.3755); -- US	NA	fc=PPL
 INSERT INTO NormalizedPlace (name, lat, lng) VALUES ("Troy, MO", 38.97949, -90.9807); -- US	NA	fc=PPLA2
 INSERT INTO NormalizedPlace (name, lat, lng) VALUES ("Tuscumbia, AL", 34.7312, -87.70253); -- US	NA	fc=PPLA2
+-- INSERT INTO NormalizedPlace (name, lat, lng) VALUES ("Unknown, SC", 35.1604, -81.9171); -- US	NA	fc=BLDG
 INSERT INTO NormalizedPlace (name, lat, lng) VALUES ("Velasco, TX", 28.96191, -95.3605); -- US	NA	fc=PPL
 INSERT INTO NormalizedPlace (name, lat, lng) VALUES ("Veracruz, Veracruz-Llave", 19.18074, -96.13405); -- MX	NA	fc=PPL
 INSERT INTO NormalizedPlace (name, lat, lng) VALUES ("Victoria, TX", 28.80527, -97.0036); -- US	NA	fc=PPLA2
@@ -177,4 +179,3 @@ INSERT INTO NormalizedPlace (name, lat, lng) VALUES ("Zanesville, OH", 39.94035,
 -- MANUAL RESEARCH: nothing acceptible for geonames/origins/London, England.xml
 -- MANUAL RESEARCH: nothing acceptible for geonames/origins/Province of Tais.xml
 -- MANUAL RESEARCH: nothing acceptible for geonames/origins/Unsent.xml
-
