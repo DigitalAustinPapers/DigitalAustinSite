@@ -1,4 +1,3 @@
-
 INSERT INTO NormalizedPlace (name, lat, lng) VALUES ("Ajax, LA", 31.87655, -93.3899); -- US	NA	fc=PPL
 INSERT INTO NormalizedPlace (name, lat, lng) VALUES ("Alabama", 32.75041, -86.75026); -- US	NA	fc=ADM1
 INSERT INTO NormalizedPlace (name, lat, lng) VALUES ("Alexandria, LA", 31.31129, -92.44514); -- US	NA	fc=PPLA2
@@ -152,7 +151,6 @@ INSERT INTO NormalizedPlace (name, lat, lng) VALUES ("Transylvania University, K
 INSERT INTO NormalizedPlace (name, lat, lng) VALUES ("Trinity, TX", 30.94519, -95.3755); -- US	NA	fc=PPL
 INSERT INTO NormalizedPlace (name, lat, lng) VALUES ("Troy, MO", 38.97949, -90.9807); -- US	NA	fc=PPLA2
 INSERT INTO NormalizedPlace (name, lat, lng) VALUES ("Tuscumbia, AL", 34.7312, -87.70253); -- US	NA	fc=PPLA2
--- INSERT INTO NormalizedPlace (name, lat, lng) VALUES ("Unknown, SC", 35.1604, -81.9171); -- US	NA	fc=BLDG
 INSERT INTO NormalizedPlace (name, lat, lng) VALUES ("Velasco, TX", 28.96191, -95.3605); -- US	NA	fc=PPL
 INSERT INTO NormalizedPlace (name, lat, lng) VALUES ("Veracruz, Veracruz-Llave", 19.18074, -96.13405); -- MX	NA	fc=PPL
 INSERT INTO NormalizedPlace (name, lat, lng) VALUES ("Victoria, TX", 28.80527, -97.0036); -- US	NA	fc=PPLA2
@@ -169,13 +167,4 @@ INSERT INTO NormalizedPlace (name, lat, lng) VALUES ("Woodville, KY", 37.09672, 
 INSERT INTO NormalizedPlace (name, lat, lng) VALUES ("Woodville, MS", 31.10462, -91.29956); -- US	NA	fc=PPLA2
 INSERT INTO NormalizedPlace (name, lat, lng) VALUES ("Yellowbanks State Wildlife Management Area, NE", 42.04167, -97.667); -- US	NA	fc=PRK
 INSERT INTO NormalizedPlace (name, lat, lng) VALUES ("Zanesville, OH", 39.94035, -82.01319); -- US	NA	fc=PPLA2
--- MANUAL RESEARCH: nothing acceptible for geonames/destinations/Pilon,.xml
--- MANUAL RESEARCH: nothing acceptible for geonames/destinations/Province of Texas.xml
--- MANUAL RESEARCH: nothing acceptible for geonames/destinations/St. Antonio.xml
--- MANUAL RESEARCH: nothing acceptible for geonames/destinations/Unsent.xml
--- MANUAL RESEARCH: nothing acceptible for geonames/origins/Caney,.xml
--- MANUAL RESEARCH: nothing acceptible for geonames/origins/Devonshire, England.xml
--- MANUAL RESEARCH: nothing acceptible for geonames/origins/Lebanon,.xml
--- MANUAL RESEARCH: nothing acceptible for geonames/origins/London, England.xml
--- MANUAL RESEARCH: nothing acceptible for geonames/origins/Province of Tais.xml
--- MANUAL RESEARCH: nothing acceptible for geonames/origins/Unsent.xml
+
