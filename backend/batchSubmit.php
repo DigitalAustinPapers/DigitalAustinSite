@@ -30,103 +30,6 @@ function nCharGrams($targetString, $n)
 }
 
 
-function pruneAffixes($raw) {
-	$prefixes = array(
-		'Genl:',
-		'Corporals',
-		'Doc',
-		'Co1',
-		'Corporal',
-		'Mess.',
-		'Prince',
-		'Docr',
-		'Doctr.',
-		'Sr.',
-		'Dn.',
-		'Honble.',
-		'Colnl',
-		'comr',
-		'Gov.',
-		'Esqr',
-		'Lt',
-		'Sor.',
-		'Com.',
-		'Captn.',
-		'Govt,',
-		'Mess',
-		'mr,',
-		'Messrs.',
-		'Justice',
-		'Majr.',
-		'Representative',
-		'Coln.',
-		'Gen:',
-		'Capn',
-		'Govt.',
-		'Lieutenant',
-		'ColÂ°',
-		'Honble',
-		'Court',
-		'Lieut',
-		'SeÃ±or',
-		'Cap',
-		'Mr-',
-		'Cap.',
-		'Maj',
-		'Govr.',
-		'Messrs',
-		'Lieut.',
-		'Sor',
-		'Lt.',
-		'Doctr',
-		'Maj.',
-		'Col:',
-		'Captn',
-		'Hon.',
-		'Lordship',
-		'Ayto',
-		'Major',
-		'Coln',
-		'Miss',
-		'Doct',
-		'Commandant',
-		'Majr',
-		'Colo.',
-		'commander',
-		'Dn',
-		'Govr',
-		'Gen',
-		'Dr.',
-		'Dr',
-		'Doctor',
-		'Captain',
-		'Don',
-		'Colo',
-		'Colonel',
-		'Gen.',
-		'Sister',
-		'Capt.',
-		'Governor',
-		'Capt',
-		'Judge',
-		'Mrs.',
-		'alcalde',
-		'Genl.',
-		'General',
-		'Mrs',
-		'President',
-		'Genl',
-		'Col',
-		'Col.',
-		'Mr.',
-		'Mr');	
-	foreach($prefixes as $prefix) {
-		$pattern = "/^{$prefix}\s*/";
-		$raw = preg_replace($pattern, '', $raw);
-	}
-	return $raw;
-}
-
 #Returns the Jaccard Similarity Coefficient of two strings
 #http://en.wikipedia.org/wiki/Jaccard_index
 #a and b are short strings, approximately equal in length,
@@ -134,7 +37,6 @@ function pruneAffixes($raw) {
 #Identical strings return 1.
 function jaccardSim($a, $b)
 {
-	$a = pruneAffixes($a);
     $gramsA = nCharGrams(strtolower($a), 2);
     $gramsB = nCharGrams(strtolower($b), 2);
     $intersect = count(array_unique(array_intersect($gramsA, $gramsB)));
@@ -162,7 +64,7 @@ function getTag($personName, $key, $knownNames)
         foreach($forms as $form)
         {
             $score = jaccardSim($personName, $form);
-			print "{$personName} compared to {$form} with a score of {$score}\n";
+#			print "{$personName} compared to {$form} with a score of {$score}\n";
             if ($score > $bestScore)
             {
                 if ($form == $standardForm)
@@ -206,7 +108,7 @@ foreach ($files as $file)
     $result = mysql_query("SELECT id, name FROM NormalizedPerson ORDER BY name");
     while ($row = mysql_fetch_array($result))
     {
-        $knownNames[$row['id']] = array(pruneAffixes($row['name']));
+        $knownNames[$row['id']] = array($row['name']);
     }
     $knownPlaces = array();
     $result = mysql_query("SELECT id, name FROM NormalizedPlace ORDER BY name");

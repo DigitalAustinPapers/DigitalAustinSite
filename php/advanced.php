@@ -30,7 +30,7 @@
 		<?php
 			$i=0;
 			while ($i < $numAuthors) {
-				$row = mysql_fetch_array($findRecipient);
+				$row = mysql_fetch_array($findAuthor);
 				$personId = $row['id'];
 				$personName = $row['name'];
 				echo "<option value=\"$personId\">$personName</option>\n";
@@ -47,6 +47,8 @@
 				$row = mysql_fetch_array($findRecipient);
 				$personId = $row['id'];
 				$personName = $row['name'];
+				$rowstring = serialize($row);
+				logString("row={$rowstring}");
 				echo "<option value=\"$personId\">$personName</option>\n";
 				$i++;
 			}
