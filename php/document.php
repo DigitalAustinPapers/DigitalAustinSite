@@ -28,7 +28,29 @@
 		$id = $_GET['id'];
 		$new_id = str_replace(".xml", "", $id);
 		//$query = "SELECT * FROM Document NATURAL JOIN Place NATURAL JOIN Text WHERE idDocument = '$id'";
-		$query = "SELECT * FROM Document WHERE id = '$new_id'";
+		$query = 
+		"SELECT d.id id, 
+				d.xml xml, 
+				d.title title, 
+				d.summary summary, 
+				d.creation creation,
+				d.vectorLength vectorLength,
+				op.name origin,
+				dp.name destination,
+				ap.name author,
+				rp.name recipient,
+				rp.id  toPersonId,
+				ap.id fromPersonId
+		 FROM Document d 
+		 LEFT OUTER JOIN NormalizedPlace op
+		 	ON d.sentFromPlace = op.id
+ 		 LEFT OUTER JOIN NormalizedPlace dp
+		 	ON d.sentFromPlace = dp.id
+ 		 LEFT OUTER JOIN NormalizedPerson ap
+		 	ON d.sentFromPerson = ap.id
+ 		 LEFT OUTER JOIN NormalizedPerson rp
+		 	ON d.sentToPerson = rp.id
+ 		 WHERE d.id = '$new_id'";
 		//$query =   "SELECT * FROM document NATURAL JOIN text                    WHERE idDocument = '$id'";
 
 		$result = mysql_query($query) or die(mysql_error());;
@@ -38,8 +60,8 @@
 
 	function getTitleStatusSummary($row){
 		echo "<div id='title'>" . $row["title"] . "</div>";
-		//echo "<div id='metadata'>Sent from: " . $row["sent_from"] . " to: " . $row["sent_to"] . ", Original Language: " . "English" . ", Status: " . $row["status"] . " " . $row["type"] . "</div>";
-		echo "<div id='summary'>Summary: " . $row["summary"] . "</div>";
+		echo "<div id='summary'>Summary: " . $row["summary"] . 
+			"<!-- <br/>" . "Sent from: " . $row["author"] . " to: " . $row["recipient"] .  "--> </div>";
 	}
 	
 	
