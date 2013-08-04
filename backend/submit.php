@@ -83,20 +83,20 @@ $escapedQuotedSentFromPersonKey = 'NULL';
 
 foreach( $people as $person )
 {
+	$skip = false;
 #	logString("looping on index={$index}, person={$person->textContent}");
 	
-    if ($first)
-    {
-        $personSql = 'INSERT INTO PersonReference (docId, text, normalId) VALUES ';
-        $first = false;
-    }
-    else
-    {
-        $personSql .= ", ";
-    }
     $text = removeDuplicateSpaces($person->textContent);
     $type = '';
     $typeNode = $person->attributes->getNamedItem("type");
+	$parentNodeName = $person->parentNode->nodeName;
+
+	if($parentNodeName=="respStmt") {
+		$skip = true;
+	}
+
+
+	logString("parentNodename for {$text} was {$parentNodeName}");
     if ($typeNode)
     {
         $type = $typeNode->nodeValue;
@@ -119,7 +119,6 @@ foreach( $people as $person )
 			$escapedQuotedSentToPersonKey = $key;
 		}
 
-		$parentNodeName = $person->parentNode->nodeName;
 		if($parentNodeName=="author" && $key != '') {
 			$escapedQuotedSentFromPersonKey = $key;
 		}
@@ -127,18 +126,29 @@ foreach( $people as $person )
 
 
     }
-    $escapedDocId = mysql_real_escape_string($docId);
-    $escapedText = mysql_real_escape_string($text);
-    $personSql .= "('$escapedDocId', '$escapedText', ";
-    if ($key == NULL)
-    {
-        $personSql .= "NULL)";
-    }
-    else
-    {
-        $escapedKey = mysql_real_escape_string($key);
-        $personSql .= "$escapedKey)";
-    }
+	if(!$skip) {
+	    if ($first)
+	    {
+	        $personSql = 'INSERT INTO PersonReference (docId, text, normalId) VALUES ';
+	        $first = false;
+	    }
+	    else
+	    {
+	        $personSql .= ", ";
+	    }
+	    $escapedDocId = mysql_real_escape_string($docId);
+	    $escapedText = mysql_real_escape_string($text);
+	    $personSql .= "('$escapedDocId', '$escapedText', ";
+	    if ($key == NULL)
+	    {
+	        $personSql .= "NULL)";
+	    }
+	    else
+	    {
+	        $escapedKey = mysql_real_escape_string($key);
+	        $personSql .= "$escapedKey)";
+	    }
+	}
     $index += 1;
 }
 
@@ -268,6 +278,7 @@ $insertDocSql = "REPLACE INTO Document (id, title, xml,
 mysql_query($insertDocSql) or print(mysql_error());
 
 //Perform the PersonReference insert
+logString($personSql);
 mysql_query($personSql) or print(mysql_error());
 
 //Perform the PlaceReference insert
