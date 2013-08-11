@@ -1,10 +1,50 @@
 <?php
 
-	$authorQuery = "SELECT name, id,  if(RIGHT(name, LOCATE(' ', REVERSE(name)) - 1)<>'',RIGHT(name, LOCATE(' ', REVERSE(name)) - 1) , name) surname FROM NormalizedPerson WHERE id in (SELECT sentFromPerson from Document) ORDER BY surname";
-	$recipientQuery = "SELECT name, id,  if(RIGHT(name, LOCATE(' ', REVERSE(name)) - 1)<>'',RIGHT(name, LOCATE(' ', REVERSE(name)) - 1) , name) surname FROM NormalizedPerson WHERE id in (SELECT sentToPerson from Document) ORDER BY surname";
-	$fromQuery = "SELECT DISTINCT name, id FROM NormalizedPlace WHERE id IN (SELECT sentFromPlace from Document) ORDER BY name";
-	$toQuery = "SELECT DISTINCT name, id FROM NormalizedPlace WHERE id IN (SELECT sentToPlace from Document) ORDER BY name";
-	$yearQuery = "SELECT DISTINCT left(creation,4) FROM Document WHERE creation > '1' ORDER BY 1";
+	$authorQuery = "SELECT np.name name, 
+						np.id id,  
+						if(RIGHT(np.name, 
+								LOCATE(' ', REVERSE(np.name)) - 1)
+							<>'',
+							RIGHT(np.name, 
+								LOCATE(' ', REVERSE(np.name)) - 1) , 
+								np.name) surname,
+						count(*) frequency 
+					FROM NormalizedPerson np
+					INNER JOIN Document d 
+					ON np.id=d.sentFromPerson 
+					GROUP BY id, name, surname 
+					ORDER BY surname";
+	$recipientQuery = "SELECT np.name name, 
+						np.id id,  
+						if(RIGHT(np.name, 
+								LOCATE(' ', REVERSE(np.name)) - 1)
+							<>'',
+							RIGHT(np.name, 
+								LOCATE(' ', REVERSE(np.name)) - 1) , 
+								np.name) surname,
+						count(*) frequency 
+					FROM NormalizedPerson np
+					INNER JOIN Document d 
+					ON np.id=d.sentToPerson 
+					GROUP BY id, name, surname 
+					ORDER BY surname";
+	$fromQuery = "SELECT np.name name, 
+						np.id id,  
+						count(*) frequency 
+					FROM NormalizedPlace np
+					INNER JOIN Document d 
+					ON np.id=d.sentFromPlace 
+					GROUP BY id, name 
+					ORDER BY name";
+	$toQuery = "SELECT np.name name, 
+						np.id id,  
+						count(*) frequency 
+					FROM NormalizedPlace np
+					INNER JOIN Document d 
+					ON np.id=d.sentToPlace 
+					GROUP BY id, name 
+					ORDER BY name";
+	$yearQuery = "SELECT left(creation,4) year, count(*) frequency FROM Document WHERE creation > '1' GROUP BY year ORDER BY 1";
 		
 	$findAuthor=mysql_query($authorQuery, $connection);
 	$findRecipient=mysql_query($recipientQuery, $connection);
@@ -33,7 +73,9 @@
 				$row = mysql_fetch_array($findAuthor);
 				$personId = $row['id'];
 				$personName = $row['name'];
-				echo "<option value=\"$personId\">$personName</option>\n";
+				$docFrequency = $row['frequency'];
+				
+				echo "<option value=\"$personId\">$personName ($docFrequency letters)</option>\n";
 				$i++;
 			}
 		?>
@@ -47,9 +89,8 @@
 				$row = mysql_fetch_array($findRecipient);
 				$personId = $row['id'];
 				$personName = $row['name'];
-				$rowstring = serialize($row);
-				logString("row={$rowstring}");
-				echo "<option value=\"$personId\">$personName</option>\n";
+				$docFrequency = $row['frequency'];
+				echo "<option value=\"$personId\">$personName ($docFrequency letters)</option>\n";
 				$i++;
 			}
 		?>
@@ -60,8 +101,10 @@
 		<?php
 			$i=0;
 			while ($i < $numYears) {
-				$row = mysql_result($findYears,$i);
-				echo "<option value=\"$row\">$row</option>\n";
+				$row = mysql_fetch_array($findYears);
+				$year = $row['year'];
+				$docFrequency = $row['frequency'];
+				echo "<option value=\"$year\">$year ($docFrequency letters)</option>\n";
 				$option = $row;
 				$i++;
 			}
@@ -71,10 +114,13 @@
 	to year: <select name="toYear" style="width:85px;">
 	<option value="">any...</option>
 		<?php
+			$findYears=mysql_query($yearQuery, $connection);
 			$i=0;
 			while ($i < $numYears) {
-				$row = mysql_result($findYears,$i);
-				echo "<option value=\"$row\">$row</option>\n";
+				$row = mysql_fetch_array($findYears);
+				$year = $row['year'];
+				$docFrequency = $row['frequency'];
+				echo "<option value=\"$year\">$year ($docFrequency letters)</option>\n";
 				$option = $row;
 				$i++;
 			}
@@ -89,7 +135,8 @@
 				$row = mysql_fetch_array($findFrom);
 				$placeId = $row['id'];
 				$placeName = $row['name'];
-				echo "<option value=\"$placeId\">$placeName</option>\n";
+				$docFrequency = $row['frequency'];
+				echo "<option value=\"$placeId\">$placeName ($docFrequency letters)</option>\n";
 				$option = $row;
 				$i++;
 			}
@@ -104,7 +151,8 @@
 				$row = mysql_fetch_array($findTo);
 				$placeId = $row['id'];
 				$placeName = $row['name'];
-				echo "<option value=\"$placeId\">$placeName</option>\n";
+				$docFrequency = $row['frequency'];
+				echo "<option value=\"$placeId\">$placeName ($docFrequency letters)</option>\n";
 				$option = $row;
 				$i++;
 			}
