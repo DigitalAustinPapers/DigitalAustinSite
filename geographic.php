@@ -5,7 +5,8 @@
 	<head>
 		<link rel="stylesheet" type="text/css" href="header.css" />
 		<link rel="stylesheet" type="text/css" href="footer.css" />
-		<link rel="stylesheet" type="text/css" href="geographic.css" />
+		<link rel="stylesheet" type="text/css" href="style.css" /> <!-- Merged CSS -kmd -->
+		<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
 		
 		<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=false">
 		</script>

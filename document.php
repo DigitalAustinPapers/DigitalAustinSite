@@ -5,7 +5,8 @@
 	<header>
 		<link rel="stylesheet" type="text/css" href="header.css" />
 		<link rel="stylesheet" type="text/css" href="footer.css" />
-		<link rel="stylesheet" type="text/css" href="document.css" />
+		<link rel="stylesheet" type="text/css" href="style.css" /> <!-- Merged CSS -kmd -->
+		<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
 	</header>
 
 	<body>
