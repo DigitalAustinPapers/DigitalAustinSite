@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>33</totalResultsCount>
+<geoname>
+<toponymName>Loredo</toponymName>
+<name>Loredo</name>
+<lat>27.47505</lat>
+<lng>-100.3215</lng>
+<geonameId>8475202</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>H</fcl>
+<fcode>RSVI</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>intermittent reservoir</fcodeName>
+<population/>
+<alternateNames>Loredo</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NLE">19</adminCode1>
+<adminName1>Nuevo León</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="es">Loredo</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Matamoros</timezone>
+<score>4.465042591094971</score>
+</geoname>
+<geoname>
+<toponymName>Loreto, B. C. S.</toponymName>
+<name>Loreto, B. C. S.</name>
+<lat>25.98919</lat>
+<lng>-111.34836</lng>
+<geonameId>6299853</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>S</fcl>
+<fcode>AIRP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>airport</fcodeName>
+<population/>
+<alternateNames>LTO,MMLT</alternateNames>
+<elevation>10</elevation>
+<continentCode>NA</continentCode>
+<adminCode1/>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="iata">LTO</alternateName>
+<alternateName lang="icao">MMLT</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Loreto_International_Airport</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-7.0">America/Hermosillo</timezone>
+<score>3.601450204849243</score>
+</geoname>
+<geoname>
+<toponymName>Loreto</toponymName>
+<name>Loreto</name>
+<lat>22.27248</lat>
+<lng>-101.98898</lng>
+<geonameId>3998291</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>19779</population>
+<alternateNames>Loreto</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ZAC">32</adminCode1>
+<adminName1>Zacatecas</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Loreto%2C_Zacatecas</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-102.00842</west>
+<north>22.29046</north>
+<east>-101.96954</east>
+<south>22.25449</south>
+</bbox>
+<score>3.0576224327087402</score>
+</geoname>
+<geoname>
+<toponymName>Loreto</toponymName>
+<name>Loreto</name>
+<lat>26.55306</lat>
+<lng>-111.77277</lng>
+<geonameId>6942825</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>11839</population>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="BCS">03</adminCode1>
+<adminName1>Baja California Sur</adminName1>
+<adminCode2>6942825</adminCode2>
+<adminName2>Loreto</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Loreto_Municipality%2C_Baja_California_Sur</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Mazatlan</timezone>
+<score>2.815012216567993</score>
+</geoname>
+<geoname>
+<toponymName>Loreto</toponymName>
+<name>Loreto</name>
+<lat>26.0111</lat>
+<lng>-111.34469</lng>
+<geonameId>3998287</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>11227</population>
+<alternateNames>LTO,Loreto</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="BCS">03</adminCode1>
+<adminName1>Baja California Sur</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="iata">LTO</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Loreto%2C_Baja_California_Sur</alternateName>
+<alternateName lang="unlc">LRO</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Mazatlan</timezone>
+<bbox>
+<west>-111.3597</west>
+<north>26.0246</north>
+<east>-111.32968</east>
+<south>25.99761</south>
+</bbox>
+<score>2.675419807434082</score>
+</geoname>
+<geoname>
+<toponymName>Loreto</toponymName>
+<name>Loreto</name>
+<lat>20.34251</lat>
+<lng>-102.47156</lng>
+<geonameId>4009369</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>El Loreto,Loreto</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="JAL">14</adminCode1>
+<adminName1>Jalisco</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-102.48115</west>
+<north>20.35151</north>
+<east>-102.46197</east>
+<south>20.33352</south>
+</bbox>
+<score>2.010723114013672</score>
+</geoname>
+<geoname>
+<toponymName>Loreto</toponymName>
+<name>Loreto</name>
+<lat>26.79302</lat>
+<lng>-107.70931</lng>
+<geonameId>3998286</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Colonia Loreto,Loreto</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CHH">06</adminCode1>
+<adminName1>Chihuahua</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Chihuahua</timezone>
+<bbox>
+<west>-107.71939</west>
+<north>26.80201</north>
+<east>-107.69923</east>
+<south>26.78402</south>
+</bbox>
+<score>1.6085784435272217</score>
+</geoname>
+<geoname>
+<toponymName>Loreto</toponymName>
+<name>Loreto</name>
+<lat>24.34893</lat>
+<lng>-97.96725</lng>
+<geonameId>3524209</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TAM">28</adminCode1>
+<adminName1>Tamaulipas</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<bbox>
+<west>-97.97713</west>
+<north>24.35792</north>
+<east>-97.95738</east>
+<south>24.33993</south>
+</bbox>
+<score>1.440580129623413</score>
+</geoname>
+<geoname>
+<toponymName>Loreto</toponymName>
+<name>Loreto</name>
+<lat>23.55648</lat>
+<lng>-102.13096</lng>
+<geonameId>3973111</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ZAC">32</adminCode1>
+<adminName1>Zacatecas</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-102.14077</west>
+<north>23.56547</north>
+<east>-102.12115</east>
+<south>23.54748</south>
+</bbox>
+<score>1.440580129623413</score>
+</geoname>
+<geoname>
+<toponymName>Santa Loreto</toponymName>
+<name>Santa Loreto</name>
+<lat>24.56692</lat>
+<lng>-107.13017</lng>
+<geonameId>3984219</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SIN">25</adminCode1>
+<adminName1>Sinaloa</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Mazatlan</timezone>
+<bbox>
+<west>-107.14006</west>
+<north>24.57592</north>
+<east>-107.12028</east>
+<south>24.55793</south>
+</bbox>
+<score>1.440580129623413</score>
+</geoname>
+</geonames>

@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>14</totalResultsCount>
+<geoname>
+<toponymName>Ferros</toponymName>
+<name>Ferros</name>
+<lat>-19.23796</lat>
+<lng>-42.97023</lng>
+<geonameId>6321379</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>10837</population>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="MG">15</adminCode1>
+<adminName1>Minas Gerais</adminName1>
+<adminCode2>3125903</adminCode2>
+<adminName2>Ferros</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ferros</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Sao_Paulo</timezone>
+<bbox>
+<west>-43.16783</west>
+<north>-19.05936</north>
+<east>-42.72662</east>
+<south>-19.43513</south>
+</bbox>
+<score>42.815093994140625</score>
+</geoname>
+<geoname>
+<toponymName>Ferris</toponymName>
+<name>Ferris</name>
+<lat>32.53403</lat>
+<lng>-96.66555</lng>
+<geonameId>4690428</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2436</population>
+<alternateNames/>
+<elevation>142</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>139</adminCode2>
+<adminName2>Ellis County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ferris%2C_Texas</alternateName>
+<alternateName lang="post">75125</alternateName>
+<alternateName lang="unlc">FEI</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-96.67309</west>
+<north>32.54039</north>
+<east>-96.65801</east>
+<south>32.52767</south>
+</bbox>
+<score>30.718284606933594</score>
+</geoname>
+<geoname>
+<toponymName>Ferris</toponymName>
+<name>Ferris</name>
+<lat>40.46893</lat>
+<lng>-91.17042</lng>
+<geonameId>4891894</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>156</population>
+<alternateNames/>
+<elevation>208</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>067</adminCode2>
+<adminName2>Hancock County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ferris%2C_Illinois</alternateName>
+<alternateName lang="post">62336</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-91.1716</west>
+<north>40.46983</north>
+<east>-91.16924</east>
+<south>40.46803</south>
+</bbox>
+<score>30.718284606933594</score>
+</geoname>
+<geoname>
+<toponymName>Ferras</toponymName>
+<name>Ferras</name>
+<lat>40.64694</lat>
+<lng>19.45778</lng>
+<geonameId>3185681</geonameId>
+<countryCode>AL</countryCode>
+<countryName>Albania</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Feras,Ferasi,Ferras,Ferrasi</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="04">44</adminCode1>
+<adminName1>Fier</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Tirane</timezone>
+<bbox>
+<west>19.44592</west>
+<north>40.65594</north>
+<east>19.46963</east>
+<south>40.63795</south>
+</bbox>
+<score>26.98700714111328</score>
+</geoname>
+<geoname>
+<toponymName>Ferres</toponymName>
+<name>Ferres</name>
+<lat>49.88308</lat>
+<lng>6.90057</lng>
+<geonameId>2927085</geonameId>
+<countryCode>DE</countryCode>
+<countryName>Germany</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="RP">08</adminCode1>
+<adminName1>Rheinland-Pfalz</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Berlin</timezone>
+<bbox>
+<west>6.88661</west>
+<north>49.89208</north>
+<east>6.91453</east>
+<south>49.87409</south>
+</bbox>
+<score>24.040979385375977</score>
+</geoname>
+<geoname>
+<toponymName>Ferras</toponymName>
+<name>Ferras</name>
+<lat>40.9375</lat>
+<lng>19.61972</lng>
+<geonameId>3185679</geonameId>
+<countryCode>AL</countryCode>
+<countryName>Albania</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Feras Nacej,Feras Naçej,Feras-Naco,Feras-Naço,Ferasi-Naco,Ferasi-Naço,Ferras,Ferras-Nacej,Ferras-Naco,Ferras-Naçej,Ferras-Naço,Ferrasi,Ferrasi Naco,Ferrasi Naço</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="04">44</adminCode1>
+<adminName1>Fier</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Tirane</timezone>
+<bbox>
+<west>19.60782</west>
+<north>40.94649</north>
+<east>19.63163</east>
+<south>40.92851</south>
+</bbox>
+<score>23.613632202148438</score>
+</geoname>
+<geoname>
+<toponymName>Ferras</toponymName>
+<name>Ferras</name>
+<lat>40.82361</lat>
+<lng>19.8775</lng>
+<geonameId>3185680</geonameId>
+<countryCode>AL</countryCode>
+<countryName>Albania</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Feras,Feras Kozara,Feras-Kozaria,Ferras,Ferras Lozare,Ferras-Kozar,Ferras-Kozare,Ferras-Kozarja,Ferras-Kozarje,Ferras-Kozarjë,Ferrasi</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="01">40</adminCode1>
+<adminName1>Berat</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Tirane</timezone>
+<bbox>
+<west>19.86561</west>
+<north>40.8326</north>
+<east>19.88939</east>
+<south>40.81462</south>
+</bbox>
+<score>23.613632202148438</score>
+</geoname>
+<geoname>
+<toponymName>Ferrós</toponymName>
+<name>Ferrós</name>
+<lat>41.08081</lat>
+<lng>-7.93261</lng>
+<geonameId>2739624</geonameId>
+<countryCode>PT</countryCode>
+<countryName>Portugal</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="18">22</adminCode1>
+<adminName1>Viseu</adminName1>
+<adminCode2>1813</adminCode2>
+<adminName2>Resende</adminName2>
+<adminCode3>181305</adminCode3>
+<adminName3>Felgueiras</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Lisbon</timezone>
+<bbox>
+<west>-7.94454</west>
+<north>41.0898</north>
+<east>-7.92068</east>
+<south>41.07182</south>
+</bbox>
+<score>21.407546997070312</score>
+</geoname>
+<geoname>
+<toponymName>Ferros</toponymName>
+<name>Ferros</name>
+<lat>-19.23194</lat>
+<lng>-43.02333</lng>
+<geonameId>3463399</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="MG">15</adminCode1>
+<adminName1>Minas Gerais</adminName1>
+<adminCode2>3125903</adminCode2>
+<adminName2>Ferros</adminName2>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Sao_Paulo</timezone>
+<bbox>
+<west>-43.03286</west>
+<north>-19.22295</north>
+<east>-43.01381</east>
+<south>-19.24094</south>
+</bbox>
+<score>21.407546997070312</score>
+</geoname>
+<geoname>
+<toponymName>Ferris</toponymName>
+<name>Ferris</name>
+<lat>41.10117</lat>
+<lng>-79.86033</lng>
+<geonameId>5189503</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>370</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PA">PA</adminCode1>
+<adminName1>Pennsylvania</adminName1>
+<adminCode2>019</adminCode2>
+<adminName2>Butler County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-79.87227</west>
+<north>41.11017</north>
+<east>-79.84839</east>
+<south>41.09218</south>
+</bbox>
+<score>20.478857040405273</score>
+</geoname>
+</geonames>

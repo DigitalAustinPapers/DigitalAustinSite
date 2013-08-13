@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>17</totalResultsCount>
+<geoname>
+<toponymName>Velasco</toponymName>
+<name>Velasco</name>
+<lat>28.96191</lat>
+<lng>-95.3605</lng>
+<geonameId>4739012</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>039</adminCode2>
+<adminName2>Brazoria County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Velasco%2C_Texas</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-95.37078</west>
+<north>28.97091</north>
+<east>-95.35021</east>
+<south>28.95292</south>
+</bbox>
+<score>57.58172607421875</score>
+</geoname>
+<geoname>
+<toponymName>Velasco</toponymName>
+<name>Velasco</name>
+<lat>20.18139</lat>
+<lng>-98.64755</lng>
+<geonameId>3514824</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Velasco,Velazco</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="HID">13</adminCode1>
+<adminName1>Hidalgo</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-98.65713</west>
+<north>20.19039</north>
+<east>-98.63797</east>
+<south>20.1724</south>
+</bbox>
+<score>55.70149230957031</score>
+</geoname>
+<geoname>
+<toponymName>Velasco</toponymName>
+<name>Velasco</name>
+<lat>21.08583</lat>
+<lng>-76.35</lng>
+<geonameId>3534476</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Velasco,Velazco</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="11">12</adminCode1>
+<adminName1>Holguín</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<bbox>
+<west>-76.35964</west>
+<north>21.09483</north>
+<east>-76.34036</east>
+<south>21.07684</south>
+</bbox>
+<score>55.70149230957031</score>
+</geoname>
+<geoname>
+<toponymName>Provincia Velasco</toponymName>
+<name>Provincia Velasco</name>
+<lat>-15.5</lat>
+<lng>-61</lng>
+<geonameId>3901825</geonameId>
+<countryCode>BO</countryCode>
+<countryName>Bolivia</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames>Provincia Velasco,Velasco</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="S">08</adminCode1>
+<adminName1>Santa Cruz</adminName1>
+<adminCode2>0703</adminCode2>
+<adminName2>Provincia Velasco</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/La_Paz</timezone>
+<score>54.288570404052734</score>
+</geoname>
+<geoname>
+<toponymName>Velasco</toponymName>
+<name>Velasco</name>
+<lat>42.49944</lat>
+<lng>-3.0244</lng>
+<geonameId>3106219</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Velasco</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="RI">27</adminCode1>
+<adminName1>La Rioja</adminName1>
+<adminCode2>LO</adminCode2>
+<adminName2>La Rioja</adminName2>
+<adminCode3>26073</adminCode3>
+<adminName3>Herramélluri</adminName3>
+<alternateName lang="post">26213</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Madrid</timezone>
+<bbox>
+<west>-3.0366</west>
+<north>42.50844</north>
+<east>-3.0122</east>
+<south>42.49045</south>
+</bbox>
+<score>47.015281677246094</score>
+</geoname>
+<geoname>
+<toponymName>Velazco</toponymName>
+<name>Velazco</name>
+<lat>21.91861</lat>
+<lng>-78.31972</lng>
+<geonameId>3534472</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Velasco,Velazco</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="08">07</adminCode1>
+<adminName1>Ciego de Ávila</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<bbox>
+<west>-78.32942</west>
+<north>21.9276</north>
+<east>-78.31003</east>
+<south>21.90962</south>
+</bbox>
+<score>42.18924331665039</score>
+</geoname>
+<geoname>
+<toponymName>Velasco</toponymName>
+<name>Velasco</name>
+<lat>41.61681</lat>
+<lng>-2.97389</lng>
+<geonameId>3106220</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="CL">55</adminCode1>
+<adminName1>Castille and León</adminName1>
+<adminCode2>SO</adminCode2>
+<adminName2>Soria</adminName2>
+<adminCode3>42195</adminCode3>
+<adminName3>Valdenebro</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Madrid</timezone>
+<bbox>
+<west>-2.98592</west>
+<north>41.6258</north>
+<east>-2.96186</east>
+<south>41.60782</south>
+</bbox>
+<score>38.3878173828125</score>
+</geoname>
+<geoname>
+<toponymName>Velasco</toponymName>
+<name>Velasco</name>
+<lat>22.18415</lat>
+<lng>-98.56179</lng>
+<geonameId>3483835</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SLP">24</adminCode1>
+<adminName1>San Luis Potosí</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-98.5715</west>
+<north>22.19314</north>
+<east>-98.55207</east>
+<south>22.17515</south>
+</bbox>
+<score>38.3878173828125</score>
+</geoname>
+<geoname>
+<toponymName>Velasco</toponymName>
+<name>Velasco</name>
+<lat>19.42962</lat>
+<lng>-98.01438</lng>
+<geonameId>3815211</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TLA">29</adminCode1>
+<adminName1>Tlaxcala</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-98.02392</west>
+<north>19.43861</north>
+<east>-98.00484</east>
+<south>19.42063</south>
+</bbox>
+<score>38.3878173828125</score>
+</geoname>
+<geoname>
+<toponymName>Velasco</toponymName>
+<name>Velasco</name>
+<lat>17.5892</lat>
+<lng>120.671</lng>
+<geonameId>1680067</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Velasco</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="CAN">15</adminCode1>
+<adminName1>Cordillera Administrative Region</adminName1>
+<adminCode2>01</adminCode2>
+<adminName2>Abra</adminName2>
+<alternateName lang="fil">Velasco</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<bbox>
+<west>120.66156</west>
+<north>17.59819</north>
+<east>120.68044</east>
+<south>17.58021</south>
+</bbox>
+<score>35.26145935058594</score>
+</geoname>
+</geonames>

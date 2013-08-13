@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>27</totalResultsCount>
+<geoname>
+<toponymName>Stone House</toponymName>
+<name>Stone House</name>
+<lat>41.19034</lat>
+<lng>-79.36171</lng>
+<geonameId>5214262</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>427</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PA">PA</adminCode1>
+<adminName1>Pennsylvania</adminName1>
+<adminCode2>031</adminCode2>
+<adminName2>Clarion County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-79.37366</west>
+<north>41.19933</north>
+<east>-79.34976</east>
+<south>41.18135</south>
+</bbox>
+<score>21.25606346130371</score>
+</geoname>
+<geoname>
+<toponymName>Stowe Park</toponymName>
+<name>Stowe Park</name>
+<lat>52.01667</lat>
+<lng>-1.01667</lng>
+<geonameId>2636752</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>EST</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>estate(s)</fcodeName>
+<population/>
+<alternateNames>Stowe House,Stowe Park</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>B9</adminCode2>
+<adminName2>Buckinghamshire</adminName2>
+<adminCode3>11UB</adminCode3>
+<adminName3>Aylesbury Vale</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stowe_House</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>16.611000061035156</score>
+</geoname>
+<geoname>
+<toponymName>Storehouse</toponymName>
+<name>Storehouse</name>
+<lat>-8.02603</lat>
+<lng>178.31469</lng>
+<geonameId>7602368</geonameId>
+<countryCode>TV</countryCode>
+<countryName>Tuvalu</countryName>
+<fcl>S</fcl>
+<fcode>SHSE</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>storehouse</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="NKF">NKF</adminCode1>
+<adminName1>Nukufetau</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="12.0" gmtOffset="12.0">Pacific/Funafuti</timezone>
+<score>7.690670967102051</score>
+</geoname>
+<geoname>
+<toponymName>Stone House</toponymName>
+<name>Stone House</name>
+<lat>38.81873</lat>
+<lng>-77.52582</lng>
+<geonameId>4787736</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>BLDG</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>building(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>56</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>153</adminCode2>
+<adminName2>Prince William County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>6.642519950866699</score>
+</geoname>
+<geoname>
+<toponymName>Stone House</toponymName>
+<name>Stone House</name>
+<lat>40.66593</lat>
+<lng>-74.54043</lng>
+<geonameId>5105056</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>69</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NJ">NJ</adminCode1>
+<adminName1>New Jersey</adminName1>
+<adminCode2>035</adminCode2>
+<adminName2>Somerset County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>6.642519950866699</score>
+</geoname>
+<geoname>
+<toponymName>Stone House</toponymName>
+<name>Stone House</name>
+<lat>40.81312</lat>
+<lng>-79.42726</lng>
+<geonameId>5214267</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>309</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PA">PA</adminCode1>
+<adminName1>Pennsylvania</adminName1>
+<adminCode2>005</adminCode2>
+<adminName2>Armstrong County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>6.642519950866699</score>
+</geoname>
+<geoname>
+<toponymName>Stone House</toponymName>
+<name>Stone House</name>
+<lat>32.30785</lat>
+<lng>-110.79926</lng>
+<geonameId>5315961</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>824</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AZ">AZ</adminCode1>
+<adminName1>Arizona</adminName1>
+<adminCode2>019</adminCode2>
+<adminName2>Pima County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-7.0">America/Phoenix</timezone>
+<score>6.642519950866699</score>
+</geoname>
+<geoname>
+<toponymName>Stone House</toponymName>
+<name>Stone House</name>
+<lat>34.73947</lat>
+<lng>-110.56263</lng>
+<geonameId>5315963</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>1729</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AZ">AZ</adminCode1>
+<adminName1>Arizona</adminName1>
+<adminCode2>017</adminCode2>
+<adminName2>Navajo County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-7.0">America/Phoenix</timezone>
+<score>6.642519950866699</score>
+</geoname>
+<geoname>
+<toponymName>Stone House</toponymName>
+<name>Stone House</name>
+<lat>37.89187</lat>
+<lng>-121.72301</lng>
+<geonameId>5399121</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>46</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>013</adminCode2>
+<adminName2>Contra Costa County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>6.642519950866699</score>
+</geoname>
+<geoname>
+<toponymName>Stone House</toponymName>
+<name>Stone House</name>
+<lat>39.3285</lat>
+<lng>-121.38357</lng>
+<geonameId>5399122</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>172</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>115</adminCode2>
+<adminName2>Yuba County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>6.642519950866699</score>
+</geoname>
+</geonames>

@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>24</totalResultsCount>
+<geoname>
+<toponymName>League</toponymName>
+<name>League</name>
+<lat>39.2923</lat>
+<lng>-81.09844</lng>
+<geonameId>4811674</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>242</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WV">WV</adminCode1>
+<adminName1>West Virginia</adminName1>
+<adminCode2>085</adminCode2>
+<adminName2>Ritchie County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-81.11007</west>
+<north>39.30129</north>
+<east>-81.08682</east>
+<south>39.28331</south>
+</bbox>
+<score>43.3015022277832</score>
+</geoname>
+<geoname>
+<toponymName>Léagui</toponymName>
+<name>Léagui</name>
+<lat>8.23333</lat>
+<lng>-3.65</lng>
+<geonameId>2285328</geonameId>
+<countryCode>CI</countryCode>
+<countryName>Ivory Coast</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="0.0" gmtOffset="0.0">Africa/Abidjan</timezone>
+<bbox>
+<west>-3.65909</west>
+<north>8.24233</north>
+<east>-3.64091</east>
+<south>8.22434</south>
+</bbox>
+<score>6.861438274383545</score>
+</geoname>
+<geoname>
+<toponymName>Lengue</toponymName>
+<name>Lengue</name>
+<lat>-5.95791</lat>
+<lng>13.51494</lng>
+<geonameId>2236701</geonameId>
+<countryCode>AO</countryCode>
+<countryName>Angola</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Lengue,Tongo,Tongue</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="ZAI">16</adminCode1>
+<adminName1>Zaire</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="1.0">Africa/Luanda</timezone>
+<bbox>
+<west>13.50589</west>
+<north>-5.94892</north>
+<east>13.52398</east>
+<south>-5.9669</south>
+</bbox>
+<score>6.722494602203369</score>
+</geoname>
+<geoname>
+<toponymName>Leakue</toponymName>
+<name>Leakue</name>
+<lat>-10.7028</lat>
+<lng>123.0906</lng>
+<geonameId>8382739</geonameId>
+<countryCode>ID</countryCode>
+<countryName>Indonesia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Leakue</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="NT">18</adminCode1>
+<adminName1>East Nusa Tenggara</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="id">Leakue</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Makassar</timezone>
+<bbox>
+<west>123.08145</west>
+<north>-10.69381</north>
+<east>123.09975</east>
+<south>-10.71179</south>
+</bbox>
+<score>6.629155158996582</score>
+</geoname>
+<geoname>
+<toponymName>Le Gué</toponymName>
+<name>Le Gué</name>
+<lat>47.38967</lat>
+<lng>-2.12211</lng>
+<geonameId>3003890</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="R">B5</adminCode1>
+<adminName1>Pays de la Loire</adminName1>
+<adminCode2>44</adminCode2>
+<adminName2>Loire-Atlantique</adminName2>
+<adminCode3>443</adminCode3>
+<adminName3>Arrondissement de Saint-Nazaire</adminName3>
+<adminCode4>44050</adminCode4>
+<adminName4>Crossac</adminName4>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>-2.1354</west>
+<north>47.39866</north>
+<east>-2.10882</east>
+<south>47.38067</south>
+</bbox>
+<score>6.426374435424805</score>
+</geoname>
+<geoname>
+<toponymName>Le Gué</toponymName>
+<name>Le Gué</name>
+<lat>47.17696</lat>
+<lng>-0.41518</lng>
+<geonameId>3003891</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="R">B5</adminCode1>
+<adminName1>Pays de la Loire</adminName1>
+<adminCode2>49</adminCode2>
+<adminName2>Maine-et-Loire</adminName2>
+<adminCode3>493</adminCode3>
+<adminName3>Arrondissement de Saumur</adminName3>
+<adminCode4>49342</adminCode4>
+<adminName4>Tancoigné</adminName4>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>-0.42841</west>
+<north>47.18596</north>
+<east>-0.40194</east>
+<south>47.16797</south>
+</bbox>
+<score>6.426374435424805</score>
+</geoname>
+<geoname>
+<toponymName>Le Gué</toponymName>
+<name>Le Gué</name>
+<lat>46.88569</lat>
+<lng>2.52969</lng>
+<geonameId>3003892</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="F">A3</adminCode1>
+<adminName1>Centre</adminName1>
+<adminCode2>18</adminCode2>
+<adminName2>Cher</adminName2>
+<adminCode3>182</adminCode3>
+<adminName3>Arrondissement de Saint-Amand-Montrond</adminName3>
+<adminCode4>18087</adminCode4>
+<adminName4>Dun-sur-Auron</adminName4>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>2.51653</west>
+<north>46.89468</north>
+<east>2.54285</east>
+<south>46.8767</south>
+</bbox>
+<score>6.426374435424805</score>
+</geoname>
+<geoname>
+<toponymName>Le Gué</toponymName>
+<name>Le Gué</name>
+<lat>48.65928</lat>
+<lng>-1.95565</lng>
+<geonameId>8531775</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>29</elevation>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="E">A2</adminCode1>
+<adminName1>Brittany</adminName1>
+<adminCode2>35</adminCode2>
+<adminName2>Ille-et-Vilaine</adminName2>
+<adminCode3>354</adminCode3>
+<adminName3>Arrondissement de Saint-Malo</adminName3>
+<adminCode4>35288</adminCode4>
+<adminName4>Saint-Malo</adminName4>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>-1.96927</west>
+<north>48.66827</north>
+<east>-1.94203</east>
+<south>48.65028</south>
+</bbox>
+<score>6.426374435424805</score>
+</geoname>
+<geoname>
+<toponymName>Lengué</toponymName>
+<name>Lengué</name>
+<lat>4.71667</lat>
+<lng>21.4</lng>
+<geonameId>237975</geonameId>
+<countryCode>CF</countryCode>
+<countryName>Central African Republic</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="1.0">Africa/Bangui</timezone>
+<bbox>
+<west>21.39098</west>
+<north>4.72566</north>
+<east>21.40902</east>
+<south>4.70767</south>
+</bbox>
+<score>5.488893985748291</score>
+</geoname>
+<geoname>
+<toponymName>Lengue</toponymName>
+<name>Lengue</name>
+<lat>-6.57338</lat>
+<lng>14.8664</lng>
+<geonameId>7741969</geonameId>
+<countryCode>AO</countryCode>
+<countryName>Angola</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="UIG">15</adminCode1>
+<adminName1>Uíge</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="1.0">Africa/Luanda</timezone>
+<bbox>
+<west>14.85735</west>
+<north>-6.56438</north>
+<east>14.87545</east>
+<south>-6.58237</south>
+</bbox>
+<score>5.488893985748291</score>
+</geoname>
+</geonames>

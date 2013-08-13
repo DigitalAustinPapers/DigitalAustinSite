@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Mine La Motte</toponymName>
+<name>Mine La Motte</name>
+<lat>37.61561</lat>
+<lng>-90.28984</lng>
+<geonameId>4398513</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>348</population>
+<alternateNames/>
+<elevation>245</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>123</adminCode2>
+<adminName2>Madison County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Mine_La_Motte%2C_Missouri</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.29098</west>
+<north>37.61651</north>
+<east>-90.28871</east>
+<south>37.61471</south>
+</bbox>
+<score>59.582393646240234</score>
+</geoname>
+<geoname>
+<toponymName>Mine LaMotte</toponymName>
+<name>Mine LaMotte</name>
+<lat>37.60978</lat>
+<lng>-90.24928</lng>
+<geonameId>4398518</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>MN</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>mine(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>267</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>123</adminCode2>
+<adminName2>Madison County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>7.240917205810547</score>
+</geoname>
+</geonames>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Kingdom</toponymName>
+<name>Kingdom</name>
+<lat>41.89364</lat>
+<lng>-89.39371</lng>
+<geonameId>4898523</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>204</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>103</adminCode2>
+<adminName2>Lee County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kingdom%2C_Illinois</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-89.4058</west>
+<north>41.90264</north>
+<east>-89.38163</east>
+<south>41.88465</south>
+</bbox>
+<score>59.976139068603516</score>
+</geoname>
+<geoname>
+<toponymName>Kingdom</toponymName>
+<name>Kingdom</name>
+<lat>42.92896</lat>
+<lng>-74.97571</lng>
+<geonameId>5123428</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>486</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>043</adminCode2>
+<adminName2>Herkimer County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-74.988</west>
+<north>42.93795</north>
+<east>-74.96343</east>
+<south>42.91997</south>
+</bbox>
+<score>39.984092712402344</score>
+</geoname>
+<geoname>
+<toponymName>Kingtom</toponymName>
+<name>Kingtom</name>
+<lat>8.48793</lat>
+<lng>-13.24759</lng>
+<geonameId>7730333</geonameId>
+<countryCode>SL</countryCode>
+<countryName>Sierra Leone</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="W">04</adminCode1>
+<adminName1>Western Area</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="0.0" gmtOffset="0.0">Africa/Freetown</timezone>
+<bbox>
+<west>-13.25668</west>
+<north>8.49692</north>
+<east>-13.2385</east>
+<south>8.47894</south>
+</bbox>
+<score>12.015874862670898</score>
+</geoname>
+<geoname>
+<toponymName>Chung Tung</toponymName>
+<name>Chung Tung</name>
+<lat>32.79564</lat>
+<lng>78.31259</lng>
+<geonameId>1273914</geonameId>
+<countryCode>IN</countryCode>
+<countryName>India</countryName>
+<fcl>S</fcl>
+<fcode>HLT</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>halting place</fcodeName>
+<population/>
+<alternateNames>Chung Tung,Kiangdom</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="JK">12</adminCode1>
+<adminName1>Kashmir</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="5.5" gmtOffset="5.5">Asia/Kolkata</timezone>
+<score>4.248253345489502</score>
+</geoname>
+<geoname>
+<toponymName>Kingdon</toponymName>
+<name>Kingdon</name>
+<lat>38.10381</lat>
+<lng>-121.35106</lng>
+<geonameId>5363359</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>7</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>077</adminCode2>
+<adminName2>San Joaquin County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>3.7549610137939453</score>
+</geoname>
+</geonames>

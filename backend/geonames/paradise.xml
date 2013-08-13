@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>116</totalResultsCount>
+<geoname>
+<toponymName>Paradise</toponymName>
+<name>Paradise</name>
+<lat>36.09719</lat>
+<lng>-115.14666</lng>
+<geonameId>5509952</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>223167</population>
+<alternateNames>Paradajz,Paradise,baradays, nyfada,paeleodaiseu,paradaisu,Парадайз,بارادايس، نيفادا,パラダイス,패러다이스</alternateNames>
+<elevation>627</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NV">NV</adminCode1>
+<adminName1>Nevada</adminName1>
+<adminCode2>003</adminCode2>
+<adminName2>Clark County</adminName2>
+<alternateName lang="ar">بارادايس، نيفادا</alternateName>
+<alternateName lang="bg">Парадайз</alternateName>
+<alternateName lang="de">Paradise</alternateName>
+<alternateName lang="en">Paradise</alternateName>
+<alternateName lang="fr">Paradise</alternateName>
+<alternateName lang="ja">パラダイス</alternateName>
+<alternateName lang="ko">패러다이스</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Paradise%2C_Nevada</alternateName>
+<alternateName lang="pl">Paradise</alternateName>
+<alternateName lang="ru">Парадайз</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-115.22242</west>
+<north>36.15836</north>
+<east>-115.07091</east>
+<south>36.03603</south>
+</bbox>
+<score>58.60609817504883</score>
+</geoname>
+<geoname>
+<toponymName>Paradise</toponymName>
+<name>Paradise</name>
+<lat>39.75961</lat>
+<lng>-121.62192</lng>
+<geonameId>5381002</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>26218</population>
+<alternateNames/>
+<elevation>542</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>007</adminCode2>
+<adminName2>Butte County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Paradise%2C_California</alternateName>
+<alternateName lang="post">95969</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-121.65565</west>
+<north>39.80154</north>
+<east>-121.56445</east>
+<south>39.72536</south>
+</bbox>
+<score>45.114994049072266</score>
+</geoname>
+<geoname>
+<toponymName>Paradise</toponymName>
+<name>Paradise</name>
+<lat>-34.87361</lat>
+<lng>138.66896</lng>
+<geonameId>6943454</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>6327</population>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="SA">05</adminCode1>
+<adminName1>South Australia</adminName1>
+<adminCode2>40910</adminCode2>
+<adminName2>Campbelltown</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Paradise%2C_South_Australia</alternateName>
+<timezone dstOffset="9.5" gmtOffset="10.5">Australia/Adelaide</timezone>
+<bbox>
+<west>138.65514</west>
+<north>-34.86258</north>
+<east>138.69563</east>
+<south>-34.87695</south>
+</bbox>
+<score>45.114994049072266</score>
+</geoname>
+<geoname>
+<toponymName>Paradise</toponymName>
+<name>Paradise</name>
+<lat>10.65298</lat>
+<lng>-61.36298</lng>
+<geonameId>3573989</geonameId>
+<countryCode>TT</countryCode>
+<countryName>Trinidad and Tobago</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>15067</population>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TUP">TUP</adminCode1>
+<adminName1>Tunapuna/Piarco</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Port_of_Spain</timezone>
+<bbox>
+<west>-61.37883</west>
+<north>10.66855</north>
+<east>-61.34713</east>
+<south>10.6374</south>
+</bbox>
+<score>39.47562026977539</score>
+</geoname>
+<geoname>
+<toponymName>Paradise</toponymName>
+<name>Paradise</name>
+<lat>5.91667</lat>
+<lng>-56.93333</lng>
+<geonameId>3383334</geonameId>
+<countryCode>SR</countryCode>
+<countryName>Suriname</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Paradijs,Paradise</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="NI">14</adminCode1>
+<adminName1>Nickerie</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Paradise_%28Suriname%29</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Paramaribo</timezone>
+<bbox>
+<west>-56.94238</west>
+<north>5.92566</north>
+<east>-56.92429</east>
+<south>5.90767</south>
+</bbox>
+<score>34.533973693847656</score>
+</geoname>
+<geoname>
+<toponymName>Paradise</toponymName>
+<name>Paradise</name>
+<lat>-44.73333</lat>
+<lng>168.36667</lng>
+<geonameId>2184937</geonameId>
+<countryCode>NZ</countryCode>
+<countryName>New Zealand</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="OTA">F7</adminCode1>
+<adminName1>Otago Region</adminName1>
+<adminCode2>070</adminCode2>
+<adminName2>Queenstown-Lakes District</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Paradise%2C_New_Zealand</alternateName>
+<timezone dstOffset="12.0" gmtOffset="13.0">Pacific/Auckland</timezone>
+<bbox>
+<west>168.35401</west>
+<north>-44.72434</north>
+<east>168.37932</east>
+<south>-44.74233</south>
+</bbox>
+<score>33.836246490478516</score>
+</geoname>
+<geoname>
+<toponymName>Paradise</toponymName>
+<name>Paradise</name>
+<lat>39.41031</lat>
+<lng>-88.43672</lng>
+<geonameId>4246641</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>206</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>029</adminCode2>
+<adminName2>Coles County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Paradise%2C_Illinois</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-88.44836</west>
+<north>39.41931</north>
+<east>-88.42507</east>
+<south>39.40132</south>
+</bbox>
+<score>33.836246490478516</score>
+</geoname>
+<geoname>
+<toponymName>Paradise</toponymName>
+<name>Paradise</name>
+<lat>37.2681</lat>
+<lng>-86.98361</lng>
+<geonameId>4303577</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>122</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>177</adminCode2>
+<adminName2>Muhlenberg County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Paradise%2C_Kentucky</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-86.99491</west>
+<north>37.27709</north>
+<east>-86.9723</east>
+<south>37.2591</south>
+</bbox>
+<score>33.836246490478516</score>
+</geoname>
+<geoname>
+<toponymName>Paradise</toponymName>
+<name>Paradise</name>
+<lat>46.62752</lat>
+<lng>-85.03759</lng>
+<geonameId>5004948</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>190</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MI">MI</adminCode1>
+<adminName1>Michigan</adminName1>
+<adminCode2>033</adminCode2>
+<adminName2>Chippewa County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Paradise%2C_Michigan</alternateName>
+<alternateName lang="post">49768</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Detroit</timezone>
+<bbox>
+<west>-85.05069</west>
+<north>46.63652</north>
+<east>-85.02449</east>
+<south>46.61853</south>
+</bbox>
+<score>33.836246490478516</score>
+</geoname>
+<geoname>
+<toponymName>Paradise</toponymName>
+<name>Paradise</name>
+<lat>31.93481</lat>
+<lng>-109.21895</lng>
+<geonameId>5308018</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1671</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AZ">AZ</adminCode1>
+<adminName1>Arizona</adminName1>
+<adminCode2>003</adminCode2>
+<adminName2>Cochise County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Paradise%2C_Arizona</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-7.0">America/Phoenix</timezone>
+<bbox>
+<west>-109.22955</west>
+<north>31.94381</north>
+<east>-109.20835</east>
+<south>31.92582</south>
+</bbox>
+<score>33.836246490478516</score>
+</geoname>
+</geonames>

@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>27</totalResultsCount>
+<geoname>
+<toponymName>Copano</toponymName>
+<name>Copano</name>
+<lat>-37.56559</lat>
+<lng>-73.38259</lng>
+<geonameId>3893669</geonameId>
+<countryCode>CL</countryCode>
+<countryName>Chile</countryName>
+<fcl>S</fcl>
+<fcode>FRM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farm</fcodeName>
+<population/>
+<alternateNames>Copano,Cupano</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="BI">06</adminCode1>
+<adminName1>Biobío</adminName1>
+<adminCode2>82</adminCode2>
+<adminName2>Provincia de Arauco</adminName2>
+<adminCode3>08206</adminCode3>
+<adminName3>Los Alamos</adminName3>
+<timezone dstOffset="-4.0" gmtOffset="-3.0">America/Santiago</timezone>
+<score>23.997522354125977</score>
+</geoname>
+<geoname>
+<toponymName>Copiano</toponymName>
+<name>Copiano</name>
+<lat>45.19627</lat>
+<lng>9.32246</lng>
+<geonameId>3178140</geonameId>
+<countryCode>IT</countryCode>
+<countryName>Italy</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>1364</population>
+<alternateNames>Copiano</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="25">09</adminCode1>
+<adminName1>Lombardy</adminName1>
+<adminCode2>PV</adminCode2>
+<adminName2>Provincia di Pavia</adminName2>
+<adminCode3>018053</adminCode3>
+<adminName3>Copiano</adminName3>
+<alternateName lang="en">Copiano</alternateName>
+<alternateName lang="eo">Copiano</alternateName>
+<alternateName lang="fr">Copiano</alternateName>
+<alternateName lang="it">Copiano</alternateName>
+<alternateName lang="nap">Copiano</alternateName>
+<alternateName lang="nl">Copiano</alternateName>
+<alternateName lang="pl">Copiano</alternateName>
+<alternateName lang="pt">Copiano</alternateName>
+<alternateName lang="unlc">OPA</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Rome</timezone>
+<bbox>
+<west>9.31607</west>
+<north>45.20076</north>
+<east>9.32884</east>
+<south>45.19177</south>
+</bbox>
+<score>13.885066032409668</score>
+</geoname>
+<geoname>
+<toponymName>Comano</toponymName>
+<name>Comano</name>
+<lat>46.03593</lat>
+<lng>8.95573</lng>
+<geonameId>2661140</geonameId>
+<countryCode>CH</countryCode>
+<countryName>Switzerland</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1729</population>
+<alternateNames>Comano</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="TI">TI</adminCode1>
+<adminName1>Ticino</adminName1>
+<adminCode2>2105</adminCode2>
+<adminName2>Distretto di Lugano</adminName2>
+<adminCode3>5162</adminCode3>
+<adminName3>Cadempino</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Comano%2C_Switzerland</alternateName>
+<alternateName lang="post">6949</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Zurich</timezone>
+<bbox>
+<west>8.94925</west>
+<north>46.04043</north>
+<east>8.96221</east>
+<south>46.03143</south>
+</bbox>
+<score>10.220909118652344</score>
+</geoname>
+<geoname>
+<toponymName>Copago</toponymName>
+<name>Copago</name>
+<lat>-31.2318</lat>
+<lng>143.4346</lng>
+<geonameId>8210352</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>H</fcl>
+<fcode>LK</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>lake</fcodeName>
+<population/>
+<alternateNames>Copago</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="NSW">02</adminCode1>
+<adminName1>New South Wales</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Copago</alternateName>
+<timezone dstOffset="10.0" gmtOffset="11.0">Australia/Sydney</timezone>
+<score>9.998958587646484</score>
+</geoname>
+<geoname>
+<toponymName>Copani</toponymName>
+<name>Copani</name>
+<lat>-16.37102</lat>
+<lng>-69.07324</lng>
+<geonameId>8350799</geonameId>
+<countryCode>PE</countryCode>
+<countryName>Peru</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="PUN">21</adminCode1>
+<adminName1>Puno Region</adminName1>
+<adminCode2>2113</adminCode2>
+<adminName2>Yunguyo</adminName2>
+<adminCode3>211303</adminCode3>
+<adminName3>Copani</adminName3>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Lima</timezone>
+<bbox>
+<west>-69.1451</west>
+<north>-16.34014</north>
+<east>-69.02313</east>
+<south>-16.4204</south>
+</bbox>
+<score>9.93729305267334</score>
+</geoname>
+<geoname>
+<toponymName>Comano</toponymName>
+<name>Comano</name>
+<lat>46.04009</lat>
+<lng>8.95672</lng>
+<geonameId>7285533</geonameId>
+<countryCode>CH</countryCode>
+<countryName>Switzerland</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population>1981</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="TI">TI</adminCode1>
+<adminName1>Ticino</adminName1>
+<adminCode2>2105</adminCode2>
+<adminName2>Distretto di Lugano</adminName2>
+<adminCode3>5176</adminCode3>
+<adminName3>Comano</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Zurich</timezone>
+<bbox>
+<west>8.94713</west>
+<north>46.04906</north>
+<east>8.96719</east>
+<south>46.03096</south>
+</bbox>
+<score>9.736227035522461</score>
+</geoname>
+<geoname>
+<toponymName>Cocaño</toponymName>
+<name>Cocaño</name>
+<lat>43.3</lat>
+<lng>-5.6</lng>
+<geonameId>3124892</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Cocano,Cocaño</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="AS">34</adminCode1>
+<adminName1>Asturias</adminName1>
+<adminCode2>O</adminCode2>
+<adminName2>Asturias</adminName2>
+<adminCode3>33032</adminCode3>
+<adminName3>Laviana</adminName3>
+<alternateName lang="post">33946</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Madrid</timezone>
+<bbox>
+<west>-5.61236</west>
+<north>43.30899</north>
+<east>-5.58764</east>
+<south>43.29101</south>
+</bbox>
+<score>8.082062721252441</score>
+</geoname>
+<geoname>
+<toponymName>Copiano</toponymName>
+<name>Copiano</name>
+<lat>45.19627</lat>
+<lng>9.32246</lng>
+<geonameId>6539497</geonameId>
+<countryCode>IT</countryCode>
+<countryName>Italy</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population>1750</population>
+<alternateNames>Comune di Copiano,Copiano</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="25">09</adminCode1>
+<adminName1>Lombardy</adminName1>
+<adminCode2>PV</adminCode2>
+<adminName2>Provincia di Pavia</adminName2>
+<adminCode3>018053</adminCode3>
+<adminName3>Copiano</adminName3>
+<alternateName lang="it">Copiano</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Copiano</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Rome</timezone>
+<bbox>
+<west>9.31819</west>
+<north>45.20825</north>
+<east>9.35375</east>
+<south>45.18253</south>
+</bbox>
+<score>7.60516357421875</score>
+</geoname>
+<geoname>
+<toponymName>Copaña</toponymName>
+<name>Copaña</name>
+<lat>-19.66877</lat>
+<lng>-65.31259</lng>
+<geonameId>3919161</geonameId>
+<countryCode>BO</countryCode>
+<countryName>Bolivia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Comunidad Copana,Comunidad Copaña,Copana,Copaña</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="P">07</adminCode1>
+<adminName1>Potosí</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/La_Paz</timezone>
+<bbox>
+<west>-65.32214</west>
+<north>-19.65978</north>
+<east>-65.30304</east>
+<south>-19.67777</south>
+</bbox>
+<score>6.9274821281433105</score>
+</geoname>
+<geoname>
+<toponymName>Comano</toponymName>
+<name>Comano</name>
+<lat>44.29335</lat>
+<lng>10.13109</lng>
+<geonameId>6543025</geonameId>
+<countryCode>IT</countryCode>
+<countryName>Italy</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population>771</population>
+<alternateNames>Comano,Comune di Comano</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="52">16</adminCode1>
+<adminName1>Tuscany</adminName1>
+<adminCode2>MS</adminCode2>
+<adminName2>Provincia di Massa-Carrara</adminName2>
+<adminCode3>045005</adminCode3>
+<adminName3>Comano</adminName3>
+<alternateName lang="it">Comano</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Comano%2C_Tuscany</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Rome</timezone>
+<bbox>
+<west>10.07425</west>
+<north>44.35522</north>
+<east>10.20432</east>
+<south>44.26968</south>
+</bbox>
+<score>6.813939094543457</score>
+</geoname>
+</geonames>

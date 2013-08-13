@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>19</totalResultsCount>
+<geoname>
+<toponymName>Republic of Iceland</toponymName>
+<name>Iceland</name>
+<lat>65</lat>
+<lng>-18</lng>
+<geonameId>2629691</geonameId>
+<countryCode>IS</countryCode>
+<countryName>Iceland</countryName>
+<fcl>A</fcl>
+<fcode>PCLI</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>independent political entity</fcodeName>
+<population>308910</population>
+<alternateNames>'Aisilani,Aesland,Ai-xo-len,Ai-xo-len (Iceland),Ai-xơ-len,Ai-xơ-len (Iceland),Aisalan,Aiseland nutome,Aislan,Aislandi,An Ioslainn,An Íoslainn,Ayisilandi,Ayisirandi,Gwlad yr Ia,Gwlad yr Iâ,IJsland,Iceland,Icelandia,Iesland,Iislaand,Innis Tile,Is'ljandyja,Isilande,Isilandi,Isilandɛ,Island,Islanda,Islande,Islandejo,Islandi,Islandia,Islandia - Island,Islandia - Ísland,Islandija,Islandiya,Islando,Islandska,Islandy,Islandya,Islandë,Islandëjô,Islannda,Islanti,Islànda,Islàndia,Islánda,Islânde,Islândia,Izland,Izlanda,Lisladeaen,Lisladeän,Lydhveldidh Island,Lýðveldið Ísland,Orileede Asilandi,Orílẹ́ède Aṣilandi,Republic of Iceland,Yslan,Ysland,Yslân,a'isalainda,a'isalamda,a'isalanda,a'isalenda,a'isalyanda,a'islainda,a'islyanda,aiseullandeu,aisland,aislantu,aisurando,aisurando gong he guo,ayslnd,ayslnda,bing dao,i-Iceland,islandia,Ísland,Îslanda,Īsland,Īslande,İslandiya,İzlanda,ʻAisilani,Ισλανδία,Ісландыя,Ісландія,Ісьляндыя,Исланд,Исланди,Исландия,Իսլանդիա,איסלאנד,איסלנד,آئس لینڈ,آيسلندا,آيسلېنډ,آیسلینډ,أيسلندا,ئایسلەند,ئىسلاندىيە,ايسلندا,ایسلند,އައިސްލަންޑަން,आइसलँड,आइसलैंड,आइसलैण्ड,आइसल्याण्ड,आइस्लैंड,आइस्ल्याण्ड,আইসলণ্ড,আইসল্যান্ড,આઇસલૅન્ડ,આઇસલેન્ડ,ଆଇସଲ୍ୟାଣ୍ଡ,ஐஸ்லாந்து,ఐస్లాండ్,ಐಸ್‌ಲ್ಯಾಂಡ್,ഐസ്‌ലാന്റ്,අයිස්ලන්තය,ประเทศไอซ์แลนด์,ไอซ์แลนด์,ໄອສແລນ,ཨ་ཨི་སི་ལནད།,ཨའིསི་ལེནཌ,အိုက်စလန်,ისლანდია,አይስላንድ,អ៉ីស្លង់,アイスランド,アイスランド共和国,冰岛,아이슬란드</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="af">Ysland</alternateName>
+<alternateName lang="ak">Aesland</alternateName>
+<alternateName lang="am">አይስላንድ</alternateName>
+<alternateName lang="an">Islandia</alternateName>
+<alternateName lang="ang">Īsland</alternateName>
+<alternateName lang="ar">أيسلندا</alternateName>
+<alternateName lang="ast">Islandia</alternateName>
+<alternateName lang="az">İslandiya</alternateName>
+<alternateName lang="bar">Ísland</alternateName>
+<alternateName lang="be">Ісландыя</alternateName>
+<alternateName lang="bg">Исландия</alternateName>
+<alternateName lang="bm">Isilandi</alternateName>
+<alternateName lang="bn">আইসলণ্ড</alternateName>
+<alternateName lang="bo">ཨ་ཨི་སི་ལནད།</alternateName>
+<alternateName lang="br">Island</alternateName>
+<alternateName lang="bs">Island</alternateName>
+<alternateName lang="ca">Islàndia</alternateName>
+<alternateName lang="cs">Island</alternateName>
+<alternateName lang="csb">Islandëjô</alternateName>
+<alternateName lang="cv">Исланди</alternateName>
+<alternateName lang="cy">Gwlad yr Iâ</alternateName>
+<alternateName lang="da">Island</alternateName>
+<alternateName lang="de">Island</alternateName>
+<alternateName lang="dv">އައިސްލަންޑަން</alternateName>
+<alternateName lang="dz">ཨའིསི་ལེནཌ</alternateName>
+<alternateName lang="ee">Aiseland nutome</alternateName>
+<alternateName lang="el">Ισλανδία</alternateName>
+<alternateName lang="en">Iceland</alternateName>
+<alternateName lang="eo">Islando</alternateName>
+<alternateName lang="es">Islandia</alternateName>
+<alternateName lang="et">Island</alternateName>
+<alternateName lang="eu">Islandia</alternateName>
+<alternateName lang="fa">ایسلند</alternateName>
+<alternateName lang="ff">Islannda</alternateName>
+<alternateName lang="fi">Islanti</alternateName>
+<alternateName lang="fo">Ísland</alternateName>
+<alternateName lang="fr">Islande</alternateName>
+<alternateName lang="frp">Islande</alternateName>
+<alternateName lang="fy">Yslân</alternateName>
+<alternateName lang="ga">An Íoslainn</alternateName>
+<alternateName lang="gd">Innis Tile</alternateName>
+<alternateName lang="gl">Islandia</alternateName>
+<alternateName lang="gu">આઇસલેન્ડ</alternateName>
+<alternateName lang="ha">Aisalan</alternateName>
+<alternateName lang="hbs">Island</alternateName>
+<alternateName lang="he">איסלנד</alternateName>
+<alternateName lang="hi">आइसलैण्ड</alternateName>
+<alternateName lang="hr">Island</alternateName>
+<alternateName lang="hsb">Islandska</alternateName>
+<alternateName lang="hu">Izland</alternateName>
+<alternateName lang="hy">Իսլանդիա</alternateName>
+<alternateName lang="ia">Islanda</alternateName>
+<alternateName lang="id">Islandia</alternateName>
+<alternateName lang="ilo">Icelandia</alternateName>
+<alternateName lang="io">Islando</alternateName>
+<alternateName lang="is">Lýðveldið Ísland</alternateName>
+<alternateName lang="it">Islanda</alternateName>
+<alternateName lang="ja">アイスランド共和国</alternateName>
+<alternateName lang="ka">ისლანდია</alternateName>
+<alternateName lang="ki">Aislandi</alternateName>
+<alternateName lang="kk">Исландия</alternateName>
+<alternateName lang="kl">Islandi</alternateName>
+<alternateName lang="km">អ៉ីស្លង់</alternateName>
+<alternateName lang="kn">ಐಸ್‌ಲ್ಯಾಂಡ್</alternateName>
+<alternateName lang="ko">아이슬란드</alternateName>
+<alternateName lang="ku">ئایسلەند</alternateName>
+<alternateName lang="kw">Island</alternateName>
+<alternateName lang="la">Islandia</alternateName>
+<alternateName lang="lb">Island</alternateName>
+<alternateName lang="lg">Ayisirandi</alternateName>
+<alternateName lang="li">Iesland</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Iceland</alternateName>
+<alternateName lang="lmo">Islànda</alternateName>
+<alternateName lang="ln">Isilandɛ</alternateName>
+<alternateName lang="lo">ໄອສແລນ</alternateName>
+<alternateName lang="lt">Islandija</alternateName>
+<alternateName lang="lu">Isilande</alternateName>
+<alternateName lang="lv">Īslande</alternateName>
+<alternateName lang="mg">Islandy</alternateName>
+<alternateName lang="mk">Исланд</alternateName>
+<alternateName lang="ml">ഐസ്‌ലാന്റ്</alternateName>
+<alternateName lang="mr">आइसलँड</alternateName>
+<alternateName lang="ms">Iceland</alternateName>
+<alternateName lang="mt">Islanda</alternateName>
+<alternateName lang="my">အိုက်စလန်</alternateName>
+<alternateName lang="na">Iceland</alternateName>
+<alternateName lang="nb">Island</alternateName>
+<alternateName lang="nd">Iceland</alternateName>
+<alternateName lang="nds">Iesland</alternateName>
+<alternateName lang="ne">आइस्ल्याण्ड</alternateName>
+<alternateName lang="nl">IJsland</alternateName>
+<alternateName lang="nn">Island</alternateName>
+<alternateName lang="no">Island</alternateName>
+<alternateName lang="oc">Islàndia</alternateName>
+<alternateName lang="or">ଆଇସଲ୍ୟାଣ୍ଡ</alternateName>
+<alternateName lang="pam">Iceland</alternateName>
+<alternateName lang="pl">Islandia</alternateName>
+<alternateName lang="pms">Islanda</alternateName>
+<alternateName lang="ps">آیسلینډ</alternateName>
+<alternateName lang="pt">Islândia</alternateName>
+<alternateName lang="qu">Islandiya</alternateName>
+<alternateName lang="rm">Islanda</alternateName>
+<alternateName lang="rn">Ayisilandi</alternateName>
+<alternateName lang="ro">Islanda</alternateName>
+<alternateName lang="ru">Исландия</alternateName>
+<alternateName lang="sa">आइसलैंड</alternateName>
+<alternateName lang="sc">Islanda</alternateName>
+<alternateName lang="scn">Islandia</alternateName>
+<alternateName lang="se">Islánda</alternateName>
+<alternateName lang="sg">Islânde</alternateName>
+<alternateName lang="si">අයිස්ලන්තය</alternateName>
+<alternateName lang="sk">Island</alternateName>
+<alternateName lang="sl">Islandija</alternateName>
+<alternateName lang="sn">Iceland</alternateName>
+<alternateName lang="so">Iislaand</alternateName>
+<alternateName lang="sq">Islandë</alternateName>
+<alternateName lang="sr">Исланд</alternateName>
+<alternateName lang="sv">Island</alternateName>
+<alternateName lang="sw">Aislandi</alternateName>
+<alternateName lang="ta">ஐஸ்லாந்து</alternateName>
+<alternateName lang="te">ఐస్లాండ్</alternateName>
+<alternateName lang="tg">Исландия</alternateName>
+<alternateName lang="th">ไอซ์แลนด์</alternateName>
+<alternateName lang="ti">አይስላንድ</alternateName>
+<alternateName lang="tl">Iceland</alternateName>
+<alternateName lang="to">ʻAisilani</alternateName>
+<alternateName lang="tpi">Aislan</alternateName>
+<alternateName lang="tr">İzlanda</alternateName>
+<alternateName lang="ug">ئىسلاندىيە</alternateName>
+<alternateName lang="uk">Ісландія</alternateName>
+<alternateName lang="ur">آئس لینڈ</alternateName>
+<alternateName lang="vi">Ai-xơ-len (Iceland)</alternateName>
+<alternateName lang="vo">Lisladeän</alternateName>
+<alternateName lang="war">Islandya</alternateName>
+<alternateName lang="yi">איסלאנד</alternateName>
+<alternateName lang="yo">Orílẹ́ède Aṣilandi</alternateName>
+<alternateName lang="zh">冰岛</alternateName>
+<alternateName lang="zu">i-Iceland</alternateName>
+<timezone dstOffset="0.0" gmtOffset="0.0">Atlantic/Reykjavik</timezone>
+<bbox>
+<west>-24.54652</west>
+<north>66.56377</north>
+<east>-13.49581</east>
+<south>63.2961</south>
+</bbox>
+<score>72.05827331542969</score>
+</geoname>
+<geoname>
+<toponymName>Islands District</toponymName>
+<name>Islands District</name>
+<lat>22.26382</lat>
+<lng>113.96038</lng>
+<geonameId>1819708</geonameId>
+<countryCode>HK</countryCode>
+<countryName>Hong Kong</countryName>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>first-order administrative division</fcodeName>
+<population>137122</population>
+<alternateNames>Islands,Islands Area,Islands District,Southern District</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="NIS">NIS</adminCode1>
+<adminName1>Islands</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Islands_District,_Hong_Kong</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Hong_Kong</timezone>
+<score>51.1452751159668</score>
+</geoname>
+<geoname>
+<toponymName>Islands</toponymName>
+<name>Islands</name>
+<lat>52.73444</lat>
+<lng>-7.59306</lng>
+<geonameId>3308256</geonameId>
+<countryCode>IE</countryCode>
+<countryName>Ireland</countryName>
+<fcl>P</fcl>
+<fcode>PPLL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="L">L</adminCode1>
+<adminName1>Leinster</adminName1>
+<adminCode2>13</adminCode2>
+<adminName2>County Kilkenny</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Dublin</timezone>
+<bbox>
+<west>-7.59454</west>
+<north>52.73534</north>
+<east>-7.59157</east>
+<south>52.73355</south>
+</bbox>
+<score>22.603229522705078</score>
+</geoname>
+<geoname>
+<toponymName>Islandsøya</toponymName>
+<name>Islandsøya</name>
+<lat>65.65</lat>
+<lng>11.6</lng>
+<geonameId>3150988</geonameId>
+<countryCode>NO</countryCode>
+<countryName>Norway</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames>Islandso,Islandsoen,Islandsoya,Islandsö,Islandsöen,Islandsøya</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="18">09</adminCode1>
+<adminName1>Nordland</adminName1>
+<adminCode2>1815</adminCode2>
+<adminName2>Vega</adminName2>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Oslo</timezone>
+<score>8.151168823242188</score>
+</geoname>
+<geoname>
+<toponymName>Island</toponymName>
+<name>Island</name>
+<lat>37.44505</lat>
+<lng>-87.14389</lng>
+<geonameId>4295982</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>458</population>
+<alternateNames/>
+<elevation>137</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>149</adminCode2>
+<adminName2>McLean County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Island%2C_Kentucky</alternateName>
+<alternateName lang="post">42350</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-87.14502</west>
+<north>37.44595</north>
+<east>-87.14275</east>
+<south>37.44415</south>
+</bbox>
+<score>7.170971870422363</score>
+</geoname>
+<geoname>
+<toponymName>Island</toponymName>
+<name>Island</name>
+<lat>47.47071</lat>
+<lng>3.84798</lng>
+<geonameId>3012711</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>209</population>
+<alternateNames>Island</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="D">A1</adminCode1>
+<adminName1>Bourgogne</adminName1>
+<adminCode2>89</adminCode2>
+<adminName2>Yonne</adminName2>
+<adminCode3>892</adminCode3>
+<adminName3>Arrondissement d'Avallon</adminName3>
+<adminCode4>89203</adminCode4>
+<adminName4>Island</adminName4>
+<alternateName lang="post">89200</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>3.84665</west>
+<north>47.47161</north>
+<east>3.84931</east>
+<south>47.46981</south>
+</bbox>
+<score>5.855073928833008</score>
+</geoname>
+<geoname>
+<toponymName>Island</toponymName>
+<name>Island</name>
+<lat>52.11333</lat>
+<lng>-7.48694</lng>
+<geonameId>3301166</geonameId>
+<countryCode>IE</countryCode>
+<countryName>Ireland</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="M">M</adminCode1>
+<adminName1>Munster</adminName1>
+<adminCode2>27</adminCode2>
+<adminName2>County Waterford</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Dublin</timezone>
+<bbox>
+<west>-7.50159</west>
+<north>52.12233</north>
+<east>-7.4723</east>
+<south>52.10434</south>
+</bbox>
+<score>4.7806477546691895</score>
+</geoname>
+<geoname>
+<toponymName>Island</toponymName>
+<name>Island</name>
+<lat>-34.14055</lat>
+<lng>18.32039</lng>
+<geonameId>3366576</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>T</fcl>
+<fcode>PT</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>point</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="WC">11</adminCode1>
+<adminName1>Western Cape</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<score>4.7806477546691895</score>
+</geoname>
+<geoname>
+<toponymName>Island</toponymName>
+<name>Island</name>
+<lat>-34.33839</lat>
+<lng>18.43931</lng>
+<geonameId>3366577</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="WC">11</adminCode1>
+<adminName1>Western Cape</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<score>4.7806477546691895</score>
+</geoname>
+<geoname>
+<toponymName>Island</toponymName>
+<name>Island</name>
+<lat>35.41648</lat>
+<lng>-94.12798</lng>
+<geonameId>4116142</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>132</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">AR</adminCode1>
+<adminName1>Arkansas</adminName1>
+<adminCode2>131</adminCode2>
+<adminName2>Sebastian County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-94.13902</west>
+<north>35.42547</north>
+<east>-94.11695</east>
+<south>35.40748</south>
+</bbox>
+<score>4.7806477546691895</score>
+</geoname>
+</geonames>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Hern House</toponymName>
+<name>Hern House</name>
+<lat>-24.30574</lat>
+<lng>26.90473</lng>
+<geonameId>996822</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>S</fcl>
+<fcode>FRM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farm</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="LP">09</adminCode1>
+<adminName1>Limpopo</adminName1>
+<adminCode2>DC36</adminCode2>
+<adminName2>Waterberg District Municipality</adminName2>
+<adminCode3>LIM361</adminCode3>
+<adminName3>Thabazimbi</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<score>10.161532402038574</score>
+</geoname>
+<geoname>
+<toponymName>Herd House</toponymName>
+<name>Herd House</name>
+<lat>37.00582</lat>
+<lng>-113.47079</lng>
+<geonameId>5540380</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>857</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="UT">UT</adminCode1>
+<adminName1>Utah</adminName1>
+<adminCode2>053</adminCode2>
+<adminName2>Washington County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<score>10.161532402038574</score>
+</geoname>
+</geonames>

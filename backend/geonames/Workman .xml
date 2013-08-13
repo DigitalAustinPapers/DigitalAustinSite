@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Workman</toponymName>
+<name>Workman</name>
+<lat>33.73433</lat>
+<lng>-79.96757</lng>
+<geonameId>4601602</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>22</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SC">SC</adminCode1>
+<adminName1>South Carolina</adminName1>
+<adminCode2>089</adminCode2>
+<adminName2>Williamsburg County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-79.97839</west>
+<north>33.74332</north>
+<east>-79.95676</east>
+<south>33.72534</south>
+</bbox>
+<score>42.462276458740234</score>
+</geoname>
+<geoname>
+<toponymName>Workman</toponymName>
+<name>Workman</name>
+<lat>33.92974</lat>
+<lng>-118.16813</lng>
+<geonameId>5410619</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>29</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>037</adminCode2>
+<adminName2>Los Angeles County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-118.17897</west>
+<north>33.93873</north>
+<east>-118.15728</east>
+<south>33.92074</south>
+</bbox>
+<score>42.462276458740234</score>
+</geoname>
+<geoname>
+<toponymName>Ourukaen</toponymName>
+<name>Ourukaen</name>
+<lat>11.56253</lat>
+<lng>165.23536</lng>
+<geonameId>2080037</geonameId>
+<countryCode>MH</countryCode>
+<countryName>Marshall Islands</countryName>
+<fcl>T</fcl>
+<fcode>ISLET</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>islet</fcodeName>
+<population/>
+<alternateNames>Oruk,Ourukaen Island,Ourukaen-to,Ourukaen-tō,Workaan,Workään,Worukaen To</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1>070</adminCode1>
+<adminName1>Bikini Atoll</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="12.0" gmtOffset="12.0">Pacific/Kwajalein</timezone>
+<score>11.165534019470215</score>
+</geoname>
+<geoname>
+<toponymName>Worman</toponymName>
+<name>Worman</name>
+<lat>40.31537</lat>
+<lng>-75.69436</lng>
+<geonameId>5220136</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>104</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PA">PA</adminCode1>
+<adminName1>Pennsylvania</adminName1>
+<adminCode2>011</adminCode2>
+<adminName2>Berks County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-75.70615</west>
+<north>40.32437</north>
+<east>-75.68256</east>
+<south>40.30638</south>
+</bbox>
+<score>7.44368314743042</score>
+</geoname>
+</geonames>

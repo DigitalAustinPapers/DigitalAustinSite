@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>14</totalResultsCount>
+<geoname>
+<toponymName>Flat River</toponymName>
+<name>Flat River</name>
+<lat>37.85005</lat>
+<lng>-90.51679</lng>
+<geonameId>4386685</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>5157</population>
+<alternateNames/>
+<elevation>219</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>187</adminCode2>
+<adminName2>Saint Francois County</adminName2>
+<alternateName lang="unlc">UJB</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.52818</west>
+<north>37.85904</north>
+<east>-90.5054</east>
+<south>37.84106</south>
+</bbox>
+<score>35.200382232666016</score>
+</geoname>
+<geoname>
+<toponymName>Flat River</toponymName>
+<name>Flat River</name>
+<lat>46.01682</lat>
+<lng>-62.86537</lng>
+<geonameId>5954426</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>P</fcl>
+<fcode>PPLL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PE">09</adminCode1>
+<adminName1>Prince Edward Island</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-3.0" gmtOffset="-4.0">America/Halifax</timezone>
+<bbox>
+<west>-62.86666</west>
+<north>46.01772</north>
+<east>-62.86407</east>
+<south>46.01592</south>
+</bbox>
+<score>22.0002384185791</score>
+</geoname>
+<geoname>
+<toponymName>Flat River</toponymName>
+<name>Flat River</name>
+<lat>32.2396</lat>
+<lng>-93.42406</lng>
+<geonameId>4324776</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>36</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>015</adminCode2>
+<adminName2>Bossier Parish</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>11.00011920928955</score>
+</geoname>
+<geoname>
+<toponymName>Flat River</toponymName>
+<name>Flat River</name>
+<lat>31.98072</lat>
+<lng>-93.40434</lng>
+<geonameId>4324778</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>39</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>031</adminCode2>
+<adminName2>DeSoto Parish</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>11.00011920928955</score>
+</geoname>
+<geoname>
+<toponymName>Flat River</toponymName>
+<name>Flat River</name>
+<lat>31.83822</lat>
+<lng>-93.1985</lng>
+<geonameId>4324779</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>INLT</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>inlet</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>31</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>069</adminCode2>
+<adminName2>Natchitoches Parish</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>11.00011920928955</score>
+</geoname>
+<geoname>
+<toponymName>Flat River</toponymName>
+<name>Flat River</name>
+<lat>37.892</lat>
+<lng>-90.49985</lng>
+<geonameId>4386686</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>201</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>187</adminCode2>
+<adminName2>Saint Francois County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>11.00011920928955</score>
+</geoname>
+<geoname>
+<toponymName>Flat River</toponymName>
+<name>Flat River</name>
+<lat>36.09487</lat>
+<lng>-78.81334</lng>
+<geonameId>4466439</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>75</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NC">NC</adminCode1>
+<adminName1>North Carolina</adminName1>
+<adminCode2>063</adminCode2>
+<adminName2>Durham County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>11.00011920928955</score>
+</geoname>
+<geoname>
+<toponymName>Flat River</toponymName>
+<name>Flat River</name>
+<lat>42.92725</lat>
+<lng>-85.33835</lng>
+<geonameId>4992936</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>190</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MI">MI</adminCode1>
+<adminName1>Michigan</adminName1>
+<adminCode2>081</adminCode2>
+<adminName2>Kent County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Detroit</timezone>
+<score>11.00011920928955</score>
+</geoname>
+<geoname>
+<toponymName>Flat River</toponymName>
+<name>Flat River</name>
+<lat>41.7151</lat>
+<lng>-71.6459</lng>
+<geonameId>5222108</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>74</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="RI">RI</adminCode1>
+<adminName1>Rhode Island</adminName1>
+<adminCode2>003</adminCode2>
+<adminName2>Kent County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>11.00011920928955</score>
+</geoname>
+<geoname>
+<toponymName>Flat River</toponymName>
+<name>Flat River</name>
+<lat>41.57788</lat>
+<lng>-71.72035</lng>
+<geonameId>5222110</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>38</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="RI">RI</adminCode1>
+<adminName1>Rhode Island</adminName1>
+<adminCode2>009</adminCode2>
+<adminName2>Washington County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>11.00011920928955</score>
+</geoname>
+</geonames>

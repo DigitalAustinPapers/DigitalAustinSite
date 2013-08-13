@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Pasturago</toponymName>
+<name>Pasturago</name>
+<lat>45.32699</lat>
+<lng>9.07737</lng>
+<geonameId>8555911</geonameId>
+<countryCode>IT</countryCode>
+<countryName>Italy</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="25">09</adminCode1>
+<adminName1>Lombardy</adminName1>
+<adminCode2>MI</adminCode2>
+<adminName2>Milan</adminName2>
+<adminCode3>015236</adminCode3>
+<adminName3>Vernate</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Rome</timezone>
+<bbox>
+<west>9.06457</west>
+<north>45.33598</north>
+<east>9.09016</east>
+<south>45.31799</south>
+</bbox>
+<score>27.924549102783203</score>
+</geoname>
+<geoname>
+<toponymName>Pasturajes</toponymName>
+<name>Pasturajes</name>
+<lat>-21.78333</lat>
+<lng>-64.81667</lng>
+<geonameId>3908345</geonameId>
+<countryCode>BO</countryCode>
+<countryName>Bolivia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Pasturaje,Pasturajes</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="T">09</adminCode1>
+<adminName1>Tarija</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/La_Paz</timezone>
+<bbox>
+<west>-64.82635</west>
+<north>-21.77434</north>
+<east>-64.80698</east>
+<south>-21.79233</south>
+</bbox>
+<score>19.745637893676758</score>
+</geoname>
+<geoname>
+<toponymName>Le Pâturage</toponymName>
+<name>Le Pâturage</name>
+<lat>50.52341</lat>
+<lng>3.68059</lng>
+<geonameId>2792846</geonameId>
+<countryCode>BE</countryCode>
+<countryName>Belgium</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Paturage,Pâturage</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WAL">WAL</adminCode1>
+<adminName1>Walloon Region</adminName1>
+<adminCode2>WHT</adminCode2>
+<adminName2>Hainaut Province</adminName2>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Brussels</timezone>
+<bbox>
+<west>3.66644</west>
+<north>50.53241</north>
+<east>3.69474</east>
+<south>50.51442</south>
+</bbox>
+<score>17.671001434326172</score>
+</geoname>
+</geonames>

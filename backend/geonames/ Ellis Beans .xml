@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Ellis Beach</toponymName>
+<name>Ellis Beach</name>
+<lat>-16.73214</lat>
+<lng>145.65665</lng>
+<geonameId>2206597</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>T</fcl>
+<fcode>BCH</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>beach</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="QLD">04</adminCode1>
+<adminName1>Queensland</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ellis_Beach%2C_Queensland</alternateName>
+<timezone dstOffset="10.0" gmtOffset="10.0">Australia/Brisbane</timezone>
+<score>68.978759765625</score>
+</geoname>
+</geonames>

@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>15</totalResultsCount>
+<geoname>
+<toponymName>Winchester</toponymName>
+<name>Winchester</name>
+<lat>37.99008</lat>
+<lng>-84.17965</lng>
+<geonameId>4313697</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>18368</population>
+<alternateNames>Uinchester,wincheseuteo,wynchstr, kntaky,Уинчестер,وینچستر، کنتاکی,윈체스터</alternateNames>
+<elevation>303</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>049</adminCode2>
+<adminName2>Clark County</adminName2>
+<alternateName lang="fa">وینچستر، کنتاکی</alternateName>
+<alternateName lang="kk">Уинчестер</alternateName>
+<alternateName lang="ko">윈체스터</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Winchester%2C_Kentucky</alternateName>
+<alternateName lang="post">40392</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-84.20175</west>
+<north>38.0075</north>
+<east>-84.15755</east>
+<south>37.97266</south>
+</bbox>
+<score>8.0437650680542</score>
+</geoname>
+<geoname>
+<toponymName>City of Winchester</toponymName>
+<name>City of Winchester</name>
+<lat>38.00243</lat>
+<lng>-84.1903</lng>
+<geonameId>7171021</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>administrative division</fcodeName>
+<population>18368</population>
+<alternateNames/>
+<elevation>293</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>049</adminCode2>
+<adminName2>Clark County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-84.22873</west>
+<north>38.034</north>
+<east>-84.15569</east>
+<south>37.97149</south>
+</bbox>
+<score>6.435011863708496</score>
+</geoname>
+<geoname>
+<toponymName>Winchester Cemetery</toponymName>
+<name>Winchester Cemetery</name>
+<lat>36.59839</lat>
+<lng>-88.11698</lng>
+<geonameId>4313698</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>CMTY</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>cemetery</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>129</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>035</adminCode2>
+<adminName2>Calloway County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>1.4076588153839111</score>
+</geoname>
+<geoname>
+<toponymName>Days Inn Lexington Winchester</toponymName>
+<name>Days Inn Lexington Winchester</name>
+<lat>38.0105</lat>
+<lng>-84.1716</lng>
+<geonameId>6490156</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>HTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>hotel</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>049</adminCode2>
+<adminName2>Clark County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>1.3161548376083374</score>
+</geoname>
+<geoname>
+<toponymName>Hampton Inn Winchester</toponymName>
+<name>Hampton Inn Winchester</name>
+<lat>38.0087</lat>
+<lng>-84.1721</lng>
+<geonameId>6513732</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>HTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>hotel</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>049</adminCode2>
+<adminName2>Clark County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>1.3161548376083374</score>
+</geoname>
+<geoname>
+<toponymName>WHRS-AM (Winchester)</toponymName>
+<name>WHRS-AM (Winchester)</name>
+<lat>38.01286</lat>
+<lng>-84.16048</lng>
+<geonameId>4312243</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>TOWR</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>tower</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>282</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>049</adminCode2>
+<adminName2>Clark County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>1.2065646648406982</score>
+</geoname>
+<geoname>
+<toponymName>WLFX-FM (Winchester)</toponymName>
+<name>WLFX-FM (Winchester)</name>
+<lat>38.0298</lat>
+<lng>-84.27938</lng>
+<geonameId>4312341</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>TOWR</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>tower</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>311</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>049</adminCode2>
+<adminName2>Clark County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>1.2065646648406982</score>
+</geoname>
+<geoname>
+<toponymName>Winchester Cemetery</toponymName>
+<name>Winchester Cemetery</name>
+<lat>36.66785</lat>
+<lng>-84.60522</lng>
+<geonameId>4313699</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>CMTY</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>cemetery</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>273</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>147</adminCode2>
+<adminName2>McCreary County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>1.2065646648406982</score>
+</geoname>
+<geoname>
+<toponymName>Winchester Reservoir</toponymName>
+<name>Winchester Reservoir</name>
+<lat>37.94758</lat>
+<lng>-84.22937</lng>
+<geonameId>4313700</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>RSV</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>reservoir(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>251</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>049</adminCode2>
+<adminName2>Clark County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>1.2065646648406982</score>
+</geoname>
+<geoname>
+<toponymName>Super8 Lexington Winchester Rd</toponymName>
+<name>Super8 Lexington Winchester Rd</name>
+<lat>38.04</lat>
+<lng>-84.42</lng>
+<geonameId>6471819</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>HTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>hotel</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>067</adminCode2>
+<adminName2>Fayette County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>1.2065646648406982</score>
+</geoname>
+</geonames>

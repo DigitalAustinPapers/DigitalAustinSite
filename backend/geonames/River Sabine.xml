@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>6</totalResultsCount>
+<geoname>
+<toponymName>River Ini</toponymName>
+<name>River Ini</name>
+<lat>9.43333</lat>
+<lng>12.33333</lng>
+<geonameId>2337493</geonameId>
+<countryCode>NG</countryCode>
+<countryName>Nigeria</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>Mayo Ine,Mayo Ini,Mayo Iné,River Ini,River Mayine</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="1.0">Africa/Lagos</timezone>
+<score>9.102866172790527</score>
+</geoname>
+<geoname>
+<toponymName>River Aboine</toponymName>
+<name>River Aboine</name>
+<lat>6.0145</lat>
+<lng>7.9613</lng>
+<geonameId>6856253</geonameId>
+<countryCode>NG</countryCode>
+<countryName>Nigeria</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="EB">53</adminCode1>
+<adminName1>Ebonyi</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="1.0">Africa/Lagos</timezone>
+<score>8.045872688293457</score>
+</geoname>
+<geoname>
+<toponymName>Kali Samin</toponymName>
+<name>Kali Samin</name>
+<lat>-7.63333</lat>
+<lng>110.86667</lng>
+<geonameId>1628918</geonameId>
+<countryCode>ID</countryCode>
+<countryName>Indonesia</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>Kali Samin,River Samin,River Siman</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="7.0" gmtOffset="7.0">Asia/Jakarta</timezone>
+<score>6.206500053405762</score>
+</geoname>
+<geoname>
+<toponymName>River Asine</toponymName>
+<name>River Asine</name>
+<lat>7.96667</lat>
+<lng>10.95</lng>
+<geonameId>2349141</geonameId>
+<countryCode>NG</countryCode>
+<countryName>Nigeria</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="1.0">Africa/Lagos</timezone>
+<score>4.388658046722412</score>
+</geoname>
+<geoname>
+<toponymName>River Aline</toponymName>
+<name>River Aline</name>
+<lat>56.56667</lat>
+<lng>-5.75</lng>
+<geonameId>2657504</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>V3</adminCode2>
+<adminName2>Highland</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>4.388658046722412</score>
+</geoname>
+<geoname>
+<toponymName>River Maine</toponymName>
+<name>River Maine</name>
+<lat>52.15</lat>
+<lng>-9.75</lng>
+<geonameId>2962726</geonameId>
+<countryCode>IE</countryCode>
+<countryName>Ireland</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="M">M</adminCode1>
+<adminName1>Munster</adminName1>
+<adminCode2>11</adminCode2>
+<adminName2>Co Kerry</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Dublin</timezone>
+<score>4.388658046722412</score>
+</geoname>
+</geonames>

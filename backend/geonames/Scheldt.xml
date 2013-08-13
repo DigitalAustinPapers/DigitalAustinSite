@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>10</totalResultsCount>
+<geoname>
+<toponymName>Schelde</toponymName>
+<name>Schelde</name>
+<lat>51.36364</lat>
+<lng>4.23729</lng>
+<geonameId>3301577</geonameId>
+<countryCode>NL</countryCode>
+<countryName>Netherlands</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>De Schelde,Escaut,L' Escaut,L’ Escaut,Scheld,Schelde,Scheldt</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="fr">L’ Escaut</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Amsterdam</timezone>
+<score>30.430458068847656</score>
+</geoname>
+<geoname>
+<toponymName>Schelde</toponymName>
+<name>Schelde</name>
+<lat>51.03333</lat>
+<lng>3.78333</lng>
+<geonameId>2787091</geonameId>
+<countryCode>BE</countryCode>
+<countryName>Belgium</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Schelde</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="VLG">VLG</adminCode1>
+<adminName1>Flanders</adminName1>
+<adminCode2>VOV</adminCode2>
+<adminName2>East Flanders Province</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Escaut_%28department%29</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Brussels</timezone>
+<bbox>
+<west>3.76903</west>
+<north>51.04233</north>
+<east>3.79764</east>
+<south>51.02434</south>
+</bbox>
+<score>20.44510269165039</score>
+</geoname>
+<geoname>
+<toponymName>Scheidt</toponymName>
+<name>Scheidt</name>
+<lat>49.24596</lat>
+<lng>7.05889</lng>
+<geonameId>2839940</geonameId>
+<countryCode>DE</countryCode>
+<countryName>Germany</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SL">09</adminCode1>
+<adminName1>Saarland</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Scheidt_%28Saarbr%C3%BCcken%29</alternateName>
+<alternateName lang="unlc">SET</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Berlin</timezone>
+<bbox>
+<west>7.04511</west>
+<north>49.25495</north>
+<east>7.07267</east>
+<south>49.23696</south>
+</bbox>
+<score>15.23969841003418</score>
+</geoname>
+<geoname>
+<toponymName>Scheidt</toponymName>
+<name>Scheidt</name>
+<lat>51.06176</lat>
+<lng>6.29597</lng>
+<geonameId>2839937</geonameId>
+<countryCode>DE</countryCode>
+<countryName>Germany</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="NW">07</adminCode1>
+<adminName1>North Rhine-Westphalia</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Berlin</timezone>
+<bbox>
+<west>6.28166</west>
+<north>51.07076</north>
+<east>6.31028</east>
+<south>51.05277</south>
+</bbox>
+<score>10.159798622131348</score>
+</geoname>
+<geoname>
+<toponymName>Scheidt</toponymName>
+<name>Scheidt</name>
+<lat>50.95</lat>
+<lng>7.45</lng>
+<geonameId>2839938</geonameId>
+<countryCode>DE</countryCode>
+<countryName>Germany</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="NW">07</adminCode1>
+<adminName1>North Rhine-Westphalia</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Berlin</timezone>
+<bbox>
+<west>7.43572</west>
+<north>50.95899</north>
+<east>7.46428</east>
+<south>50.94101</south>
+</bbox>
+<score>10.159798622131348</score>
+</geoname>
+<geoname>
+<toponymName>Scheidt</toponymName>
+<name>Scheidt</name>
+<lat>50.3333</lat>
+<lng>7.91667</lng>
+<geonameId>6555447</geonameId>
+<countryCode>DE</countryCode>
+<countryName>Germany</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population>307</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="RP">08</adminCode1>
+<adminName1>Rheinland-Pfalz</adminName1>
+<adminCode2>00</adminCode2>
+<adminName2/>
+<adminCode3>07141</adminCode3>
+<adminName3>Rhein-Lahn-Kreis</adminName3>
+<adminCode4>07141124</adminCode4>
+<adminName4>Scheidt</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Scheidt%2C_Rhineland-Palatinate</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Berlin</timezone>
+<score>10.159798622131348</score>
+</geoname>
+<geoname>
+<toponymName>Scheidt</toponymName>
+<name>Scheidt</name>
+<lat>51.25</lat>
+<lng>7.1</lng>
+<geonameId>2839936</geonameId>
+<countryCode>DE</countryCode>
+<countryName>Germany</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="NW">07</adminCode1>
+<adminName1>North Rhine-Westphalia</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Berlin</timezone>
+<bbox>
+<west>7.09425</west>
+<north>51.2536</north>
+<east>7.10575</east>
+<south>51.2464</south>
+</bbox>
+<score>6.349874019622803</score>
+</geoname>
+<geoname>
+<toponymName>Scheidt</toponymName>
+<name>Scheidt</name>
+<lat>50.33333</lat>
+<lng>7.91667</lng>
+<geonameId>2839939</geonameId>
+<countryCode>DE</countryCode>
+<countryName>Germany</countryName>
+<fcl>P</fcl>
+<fcode>PPLA4</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a fourth-order administrative division</fcodeName>
+<population>309</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="RP">08</adminCode1>
+<adminName1>Rheinland-Pfalz</adminName1>
+<adminCode2>00</adminCode2>
+<adminName2/>
+<adminCode3>07141</adminCode3>
+<adminName3>Rhein-Lahn-Kreis</adminName3>
+<adminCode4>07141124</adminCode4>
+<adminName4>Scheidt</adminName4>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Berlin</timezone>
+<bbox>
+<west>7.91526</west>
+<north>50.33423</north>
+<east>7.91808</east>
+<south>50.33243</south>
+</bbox>
+<score>6.349874019622803</score>
+</geoname>
+<geoname>
+<toponymName>Schelde</toponymName>
+<name>Schelde</name>
+<lat>50.72034</lat>
+<lng>8.30696</lng>
+<geonameId>2839900</geonameId>
+<countryCode>DE</countryCode>
+<countryName>Germany</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="HE">05</adminCode1>
+<adminName1>Hesse</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Berlin</timezone>
+<score>3.477782964706421</score>
+</geoname>
+<geoname>
+<toponymName>Scheidt</toponymName>
+<name>Scheidt</name>
+<lat>50.84406</lat>
+<lng>7.44728</lng>
+<geonameId>2839941</geonameId>
+<countryCode>DE</countryCode>
+<countryName>Germany</countryName>
+<fcl>S</fcl>
+<fcode>FRM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farm</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="NW">07</adminCode1>
+<adminName1>North Rhine-Westphalia</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Berlin</timezone>
+<score>3.1749370098114014</score>
+</geoname>
+</geonames>

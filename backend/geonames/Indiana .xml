@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>33</totalResultsCount>
+<geoname>
+<toponymName>Indiana</toponymName>
+<name>Indiana</name>
+<lat>40.00032</lat>
+<lng>-86.25027</lng>
+<geonameId>4921868</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>first-order administrative division</fcodeName>
+<population>6265933</population>
+<alternateNames>'Inikiana,Estado de Indiana,Hoosier State,IN,Indian-a,Indiana,Indiana muzh,Indiana suyu,Indianae,Indianao,Indiann-a,Indijana,Indiyana,Indiyanna Shitati,Indiāna,Indiǣna,Intiana,Ndiana,Ndiánà,Shtat Indyjana,State of Indiana,Yin-thi-on-nap,Yin-thi-ôn-na̍p,andyana,ayndyana,idi'ana,indiaena ju,indiana,indiana zhou,indiyana,intiyana,intyana,yin di an na zhou,yyndyana,Índíʼyéenah Hahoodzo,İndiana,Ιντιάνα,Індіана,Индианæ,Индиана,Индиана муж,Индијана,Индән,Штат Індыяна,Ինդիանա,אינדיאנה,אינדיאנע,إنديانا,ئیندیانا,انديانا,انڈیانا,ایندیانا,ܐܢܕܝܐܢܐ,इंडियाना,ইন্ডিয়ানা,ਇੰਡਿਆਨਾ,ઇન્ડિયાના,இந்தியானா,ఇండియానా,ಇಂಡಿಯಾನಾ,ഇന്ത്യാന,รัฐอินดีแอนา,ཨིན་ཌི་ཡཱ་ན།,အင်ဒီယားနားပြည်နယ်,ინდიანა,ᐃᓐᑎᐋᓈ,‘Inikiana,インディアナ州,印第安纳州,인디애나 주</alternateNames>
+<elevation>272</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IN">IN</adminCode1>
+<adminName1>Indiana</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="abbr">IN</alternateName>
+<alternateName lang="ang">Indiǣna</alternateName>
+<alternateName lang="ar">إنديانا</alternateName>
+<alternateName lang="arc">ܐܢܕܝܐܢܐ</alternateName>
+<alternateName lang="arz">انديانا</alternateName>
+<alternateName lang="ay">Indiana suyu</alternateName>
+<alternateName lang="az">İndiana</alternateName>
+<alternateName lang="be">Штат Індыяна</alternateName>
+<alternateName lang="bg">Индиана</alternateName>
+<alternateName lang="bn">ইন্ডিয়ানা</alternateName>
+<alternateName lang="bo">ཨིན་ཌི་ཡཱ་ན།</alternateName>
+<alternateName lang="bpy">ইন্ডিয়ানা</alternateName>
+<alternateName lang="ckb">ئیندیانا</alternateName>
+<alternateName lang="cv">Индиана</alternateName>
+<alternateName lang="diq">İndiana</alternateName>
+<alternateName lang="el">Ιντιάνα</alternateName>
+<alternateName lang="en">Indiana</alternateName>
+<alternateName lang="eo">Indianao</alternateName>
+<alternateName lang="es">Indiana</alternateName>
+<alternateName lang="fa">ایندیانا</alternateName>
+<alternateName lang="gu">ઇન્ડિયાના</alternateName>
+<alternateName lang="hak">Yin-thi-ôn-na̍p</alternateName>
+<alternateName lang="haw">‘Inikiana</alternateName>
+<alternateName lang="he">אינדיאנה</alternateName>
+<alternateName lang="hi">इंडियाना</alternateName>
+<alternateName lang="hy">Ինդիանա</alternateName>
+<alternateName lang="ig">Ndiánà</alternateName>
+<alternateName lang="iu">ᐃᓐᑎᐋᓈ</alternateName>
+<alternateName lang="ja">インディアナ州</alternateName>
+<alternateName lang="ka">ინდიანა</alternateName>
+<alternateName lang="kn">ಇಂಡಿಯಾನಾ</alternateName>
+<alternateName lang="ko">인디애나 주</alternateName>
+<alternateName lang="lij">Indiann-a</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Indiana</alternateName>
+<alternateName lang="lv">Indiāna</alternateName>
+<alternateName lang="mk">Индијана</alternateName>
+<alternateName lang="ml">ഇന്ത്യാന</alternateName>
+<alternateName lang="mn">Индиана муж</alternateName>
+<alternateName lang="mr">इंडियाना</alternateName>
+<alternateName lang="mrj">Индиана</alternateName>
+<alternateName lang="my">အင်ဒီယားနားပြည်နယ်</alternateName>
+<alternateName lang="nv">Índíʼyéenah Hahoodzo</alternateName>
+<alternateName lang="os">Индианæ</alternateName>
+<alternateName lang="pa">ਇੰਡਿਆਨਾ</alternateName>
+<alternateName lang="pms">Indian-a</alternateName>
+<alternateName lang="pnb">انڈیانا</alternateName>
+<alternateName lang="qu">Indiana suyu</alternateName>
+<alternateName lang="ru">Индиана</alternateName>
+<alternateName lang="sah">Индиана</alternateName>
+<alternateName lang="sr">Индијана</alternateName>
+<alternateName lang="ta">இந்தியானா</alternateName>
+<alternateName lang="te">ఇండియానా</alternateName>
+<alternateName lang="th">รัฐอินดีแอนา</alternateName>
+<alternateName lang="tl">Indiyana</alternateName>
+<alternateName lang="tt">Индиана</alternateName>
+<alternateName lang="ug">Indiyanna Shitati</alternateName>
+<alternateName lang="uk">Індіана</alternateName>
+<alternateName lang="ur">انڈیانا</alternateName>
+<alternateName lang="xal">Индән</alternateName>
+<alternateName lang="yi">אינדיאנע</alternateName>
+<alternateName lang="zh">印第安纳州</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Indiana/Indianapolis</timezone>
+<bbox>
+<west>-88.09789</west>
+<north>41.76137</north>
+<east>-84.78466</east>
+<south>37.77174</south>
+</bbox>
+<score>72.58900451660156</score>
+</geoname>
+<geoname>
+<toponymName>Indiana</toponymName>
+<name>Indiana</name>
+<lat>-22.12587</lat>
+<lng>-51.26047</lng>
+<geonameId>6322290</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>4828</population>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="SP">27</adminCode1>
+<adminName1>São Paulo</adminName1>
+<adminCode2>3520608</adminCode2>
+<adminName2>Indiana</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Indiana%2C_S%C3%A3o_Paulo</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Sao_Paulo</timezone>
+<bbox>
+<west>-51.31971</west>
+<north>-22.04582</north>
+<east>-51.20353</east>
+<south>-22.22107</south>
+</bbox>
+<score>50.23584747314453</score>
+</geoname>
+<geoname>
+<toponymName>Indiana</toponymName>
+<name>Indiana</name>
+<lat>-3.82916</lat>
+<lng>-72.85633</lng>
+<geonameId>8350638</geonameId>
+<countryCode>PE</countryCode>
+<countryName>Peru</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="LOR">16</adminCode1>
+<adminName1>Loreto Region</adminName1>
+<adminCode2>1601</adminCode2>
+<adminName2>Provincia de Maynas</adminName2>
+<adminCode3>160104</adminCode3>
+<adminName3>Indiana</adminName3>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Lima</timezone>
+<bbox>
+<west>-73.16059</west>
+<north>-3.38502</north>
+<east>-72.60294</east>
+<south>-4.39913</south>
+</bbox>
+<score>43.95636749267578</score>
+</geoname>
+<geoname>
+<toponymName>Indiana</toponymName>
+<name>Indiana</name>
+<lat>40.62146</lat>
+<lng>-79.15253</lng>
+<geonameId>5194868</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>13975</population>
+<alternateNames>IDI,Indiana,Индиана</alternateNames>
+<elevation>399</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PA">PA</adminCode1>
+<adminName1>Pennsylvania</adminName1>
+<adminCode2>063</adminCode2>
+<adminName2>Indiana County</adminName2>
+<alternateName lang="iata">IDI</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Indiana%2C_Pennsylvania</alternateName>
+<alternateName lang="post">15705</alternateName>
+<alternateName lang="ru">Индиана</alternateName>
+<alternateName lang="unlc">IDI</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-79.17219</west>
+<north>40.63637</north>
+<east>-79.13288</east>
+<south>40.60654</south>
+</bbox>
+<score>35.52210998535156</score>
+</geoname>
+<geoname>
+<toponymName>Indiana</toponymName>
+<name>Indiana</name>
+<lat>6.9</lat>
+<lng>-58.7</lng>
+<geonameId>3378256</geonameId>
+<countryCode>GY</countryCode>
+<countryName>Guyana</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames>Indiana,Indina</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="PM">16</adminCode1>
+<adminName1>Pomeroon-Supenaam</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Guyana</timezone>
+<score>34.29810333251953</score>
+</geoname>
+<geoname>
+<toponymName>Nanuque</toponymName>
+<name>Nanuque</name>
+<lat>-17.83917</lat>
+<lng>-40.35389</lng>
+<geonameId>3456398</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>37824</population>
+<alternateNames>Indiana,NNU</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="MG">15</adminCode1>
+<adminName1>Minas Gerais</adminName1>
+<adminCode2>3144300</adminCode2>
+<adminName2>Nanuque</adminName2>
+<alternateName lang="iata">NNU</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Nanuque</alternateName>
+<alternateName lang="unlc">NNU</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Sao_Paulo</timezone>
+<bbox>
+<west>-40.38019</west>
+<north>-17.81413</north>
+<east>-40.32759</east>
+<south>-17.8642</south>
+</bbox>
+<score>31.081846237182617</score>
+</geoname>
+<geoname>
+<toponymName>Indiano</toponymName>
+<name>Indiano</name>
+<lat>8.65</lat>
+<lng>-76.11667</lng>
+<geonameId>3680595</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Indiana,Indiano</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="COR">12</adminCode1>
+<adminName1>Córdoba</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<bbox>
+<west>-76.12576</west>
+<north>8.65899</north>
+<east>-76.10757</east>
+<south>8.64101</south>
+</bbox>
+<score>28.649030685424805</score>
+</geoname>
+<geoname>
+<toponymName>Indiana</toponymName>
+<name>Indiana</name>
+<lat>-22.17444</lat>
+<lng>-51.25167</lng>
+<geonameId>3461294</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="SP">27</adminCode1>
+<adminName1>São Paulo</adminName1>
+<adminCode2>3520608</adminCode2>
+<adminName2>Indiana</adminName2>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Sao_Paulo</timezone>
+<bbox>
+<west>-51.26138</west>
+<north>-22.16545</north>
+<east>-51.24196</east>
+<south>-22.18344</south>
+</bbox>
+<score>25.117923736572266</score>
+</geoname>
+<geoname>
+<toponymName>Indiana</toponymName>
+<name>Indiana</name>
+<lat>15.46667</lat>
+<lng>-87.85</lng>
+<geonameId>3608849</geonameId>
+<countryCode>HN</countryCode>
+<countryName>Honduras</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CR">06</adminCode1>
+<adminName1>Cortés</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Tegucigalpa</timezone>
+<bbox>
+<west>-87.85933</west>
+<north>15.47566</north>
+<east>-87.84067</east>
+<south>15.45767</south>
+</bbox>
+<score>25.117923736572266</score>
+</geoname>
+<geoname>
+<toponymName>Indiana</toponymName>
+<name>Indiana</name>
+<lat>-2.5</lat>
+<lng>-73.05</lng>
+<geonameId>3696225</geonameId>
+<countryCode>PE</countryCode>
+<countryName>Peru</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="LOR">16</adminCode1>
+<adminName1>Loreto Region</adminName1>
+<adminCode2>1601</adminCode2>
+<adminName2>Provincia de Maynas</adminName2>
+<adminCode3>160109</adminCode3>
+<adminName3>Putumayo</adminName3>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Lima</timezone>
+<bbox>
+<west>-73.059</west>
+<north>-2.49101</north>
+<east>-73.041</east>
+<south>-2.50899</south>
+</bbox>
+<score>25.117923736572266</score>
+</geoname>
+</geonames>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Native Forest</toponymName>
+<name>Native Forest</name>
+<lat>16.7097</lat>
+<lng>145.78003</lng>
+<geonameId>7778993</geonameId>
+<countryCode>MP</countryCode>
+<countryName>Northern Mariana Islands</countryName>
+<fcl>V</fcl>
+<fcode>FRST</fcode>
+<fclName>forest,heath,...</fclName>
+<fcodeName>forest(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="N">085</adminCode1>
+<adminName1>Northern Islands Municipality</adminName1>
+<adminCode2>7733409</adminCode2>
+<adminName2>Sarigan Island</adminName2>
+<timezone dstOffset="10.0" gmtOffset="10.0">Pacific/Saipan</timezone>
+<score>28.74114990234375</score>
+</geoname>
+</geonames>

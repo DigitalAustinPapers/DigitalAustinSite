@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Cape Cod Canal</toponymName>
+<name>Cape Cod Canal</name>
+<lat>41.76816</lat>
+<lng>-70.56614</lng>
+<geonameId>4932242</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>CNL</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>canal</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>0</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MA">MA</adminCode1>
+<adminName1>Massachusetts</adminName1>
+<adminCode2>001</adminCode2>
+<adminName2>Barnstable County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cape_Cod_Canal</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>45.98583984375</score>
+</geoname>
+</geonames>

@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>8</totalResultsCount>
+<geoname>
+<toponymName>Amphitheater</toponymName>
+<name>Amphitheater</name>
+<lat>35.60988</lat>
+<lng>-77.37108</lng>
+<geonameId>4452603</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>L</fcl>
+<fcode>PRK</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>park</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>12</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NC">NC</adminCode1>
+<adminName1>North Carolina</adminName1>
+<adminCode2>147</adminCode2>
+<adminName2>Pitt County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>44.29124069213867</score>
+</geoname>
+<geoname>
+<toponymName>Amphitheater</toponymName>
+<name>Amphitheater</name>
+<lat>32.2723</lat>
+<lng>-110.97232</lng>
+<geonameId>5551323</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>712</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AZ">AZ</adminCode1>
+<adminName1>Arizona</adminName1>
+<adminCode2>019</adminCode2>
+<adminName2>Pima County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-7.0">America/Phoenix</timezone>
+<bbox>
+<west>-110.98295</west>
+<north>32.28129</north>
+<east>-110.96168</east>
+<south>32.2633</south>
+</bbox>
+<score>44.29124069213867</score>
+</geoname>
+<geoname>
+<toponymName>Amphitheatre</toponymName>
+<name>Amphitheatre</name>
+<lat>-28.7595</lat>
+<lng>28.91227</lng>
+<geonameId>1022881</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>T</fcl>
+<fcode>MTS</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>mountains</fcodeName>
+<population/>
+<alternateNames>Amphitheatre</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Amphitheatre_%28Drakensberg%29</alternateName>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<score>12.150463104248047</score>
+</geoname>
+<geoname>
+<toponymName>Amphitheatre</toponymName>
+<name>Amphitheatre</name>
+<lat>-37.16667</lat>
+<lng>143.41667</lng>
+<geonameId>2177934</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Amphitheatre</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="VIC">07</adminCode1>
+<adminName1>Victoria</adminName1>
+<adminCode2>25990</adminCode2>
+<adminName2>Pyrenees</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Amphitheatre%2C_Victoria</alternateName>
+<timezone dstOffset="10.0" gmtOffset="11.0">Australia/Melbourne</timezone>
+<bbox>
+<west>143.31654</west>
+<north>-37.13132</north>
+<east>143.50604</east>
+<south>-37.26929</south>
+</bbox>
+<score>12.150463104248047</score>
+</geoname>
+<geoname>
+<toponymName>Amphitheatre</toponymName>
+<name>Amphitheatre</name>
+<lat>39.96248</lat>
+<lng>-107.23672</lng>
+<geonameId>5411796</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>DPR</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>depression(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>3205</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CO">CO</adminCode1>
+<adminName1>Colorado</adminName1>
+<adminCode2>045</adminCode2>
+<adminName2>Garfield</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<score>11.57427978515625</score>
+</geoname>
+<geoname>
+<toponymName>Amphitheatre</toponymName>
+<name>Amphitheatre</name>
+<lat>-43.27831</lat>
+<lng>171.38011</lng>
+<geonameId>6216573</geonameId>
+<countryCode>NZ</countryCode>
+<countryName>New Zealand</countryName>
+<fcl/>
+<fcode/>
+<fclName>n/a</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="CAN">E9</adminCode1>
+<adminName1>Canterbury Region</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="12.0" gmtOffset="13.0">Pacific/Auckland</timezone>
+<score>6.6138739585876465</score>
+</geoname>
+<geoname>
+<toponymName>Hamilton Peak</toponymName>
+<name>Hamilton Peak</name>
+<lat>-43.11667</lat>
+<lng>171.68333</lng>
+<geonameId>2190318</geonameId>
+<countryCode>NZ</countryCode>
+<countryName>New Zealand</countryName>
+<fcl>T</fcl>
+<fcode>PK</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>peak</fcodeName>
+<population/>
+<alternateNames>Amphitheatre</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="CAN">E9</adminCode1>
+<adminName1>Canterbury Region</adminName1>
+<adminCode2>062</adminCode2>
+<adminName2>Selwyn District</adminName2>
+<timezone dstOffset="12.0" gmtOffset="13.0">Pacific/Auckland</timezone>
+<score>3.5075364112854004</score>
+</geoname>
+<geoname>
+<toponymName>Amphitheatre</toponymName>
+<name>Amphitheatre</name>
+<lat>40.74884</lat>
+<lng>14.48836</lng>
+<geonameId>8081257</geonameId>
+<countryCode>IT</countryCode>
+<countryName>Italy</countryName>
+<fcl>S</fcl>
+<fcode>ANS</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>ancient site</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="72">04</adminCode1>
+<adminName1>Campania</adminName1>
+<adminCode2>NA</adminCode2>
+<adminName2>Naples</adminName2>
+<adminCode3>063058</adminCode3>
+<adminName3>Pompei</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Rome</timezone>
+<score>2.066835641860962</score>
+</geoname>
+</geonames>

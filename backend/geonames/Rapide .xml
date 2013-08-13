@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>11</totalResultsCount>
+<geoname>
+<toponymName>Rapids</toponymName>
+<name>Rapids</name>
+<lat>43.09839</lat>
+<lng>-78.64086</lng>
+<geonameId>5133423</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1636</population>
+<alternateNames/>
+<elevation>180</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>063</adminCode2>
+<adminName2>Niagara County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Rapids%2C_New_York</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-78.64702</west>
+<north>43.10289</north>
+<east>-78.6347</east>
+<south>43.09389</south>
+</bbox>
+<score>31.3114013671875</score>
+</geoname>
+<geoname>
+<toponymName>Rąpice</toponymName>
+<name>Rąpice</name>
+<lat>52.11172</lat>
+<lng>14.7297</lng>
+<geonameId>3087344</geonameId>
+<countryCode>PL</countryCode>
+<countryName>Poland</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="LB">76</adminCode1>
+<adminName1>Lubusz</adminName1>
+<adminCode2>0805</adminCode2>
+<adminName2>Powiat słubicki</adminName2>
+<adminCode3>080501</adminCode3>
+<adminName3>Cybinka</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/R%C4%85pice</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Warsaw</timezone>
+<bbox>
+<west>14.71506</west>
+<north>52.12072</north>
+<east>14.74435</east>
+<south>52.10273</south>
+</bbox>
+<score>26.372365951538086</score>
+</geoname>
+<geoname>
+<toponymName>Râpile</toponymName>
+<name>Râpile</name>
+<lat>45.26462</lat>
+<lng>26.38085</lng>
+<geonameId>668846</geonameId>
+<countryCode>RO</countryCode>
+<countryName>Romania</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>175</population>
+<alternateNames>Rapile,Ripile,Râpile,Rîpile</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="BZ">11</adminCode1>
+<adminName1>Buzău</adminName1>
+<adminCode2>48227</adminCode2>
+<adminName2>Comuna Pănătău</adminName2>
+<timezone dstOffset="3.0" gmtOffset="2.0">Europe/Bucharest</timezone>
+<bbox>
+<west>26.37958</west>
+<north>45.26552</north>
+<east>26.38213</east>
+<south>45.26372</south>
+</bbox>
+<score>17.729557037353516</score>
+</geoname>
+<geoname>
+<toponymName>Raside</toponymName>
+<name>Raside</name>
+<lat>32.59868</lat>
+<lng>74.20867</lng>
+<geonameId>1412855</geonameId>
+<countryCode>PK</countryCode>
+<countryName>Pakistan</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="PB">04</adminCode1>
+<adminName1>Punjab</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="5.0" gmtOffset="5.0">Asia/Karachi</timezone>
+<bbox>
+<west>74.19799</west>
+<north>32.60767</north>
+<east>74.21935</east>
+<south>32.58968</south>
+</bbox>
+<score>17.58157730102539</score>
+</geoname>
+<geoname>
+<toponymName>Rapides</toponymName>
+<name>Rapides</name>
+<lat>31.36351</lat>
+<lng>-92.58681</lng>
+<geonameId>4338350</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>26</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>079</adminCode2>
+<adminName2>Rapides Parish</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.59734</west>
+<north>31.37251</north>
+<east>-92.57628</east>
+<south>31.35452</south>
+</bbox>
+<score>17.58157730102539</score>
+</geoname>
+<geoname>
+<toponymName>Rapida</toponymName>
+<name>Rapida</name>
+<lat>63.85422</lat>
+<lng>44.2126</lng>
+<geonameId>502848</geonameId>
+<countryCode>RU</countryCode>
+<countryName>Russia</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>Rapida,Рапида</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ARK">06</adminCode1>
+<adminName1>Arkhangelskaya</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ru">Рапида</alternateName>
+<timezone dstOffset="4.0" gmtOffset="4.0">Europe/Moscow</timezone>
+<score>15.226093292236328</score>
+</geoname>
+<geoname>
+<toponymName>Fiume Rapido</toponymName>
+<name>Fiume Rapido</name>
+<lat>41.43333</lat>
+<lng>13.83333</lng>
+<geonameId>3169596</geonameId>
+<countryCode>IT</countryCode>
+<countryName>Italy</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>Fiume Rapido,Rapido,Rápido</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="62">07</adminCode1>
+<adminName1>Latium</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Rapido_%28river%29</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Rome</timezone>
+<score>13.186182975769043</score>
+</geoname>
+<geoname>
+<toponymName>Râpile</toponymName>
+<name>Râpile</name>
+<lat>44.75</lat>
+<lng>24.11667</lng>
+<geonameId>668845</geonameId>
+<countryCode>RO</countryCode>
+<countryName>Romania</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="3.0" gmtOffset="2.0">Europe/Bucharest</timezone>
+<bbox>
+<west>24.1116</west>
+<north>44.7536</north>
+<east>24.12173</east>
+<south>44.7464</south>
+</bbox>
+<score>10.447242736816406</score>
+</geoname>
+<geoname>
+<toponymName>Rapids</toponymName>
+<name>Rapids</name>
+<lat>36.66615</lat>
+<lng>-86.4661</lng>
+<geonameId>4305598</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>238</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>213</adminCode2>
+<adminName2>Simpson County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>4.892406463623047</score>
+</geoname>
+<geoname>
+<toponymName>Rapids</toponymName>
+<name>Rapids</name>
+<lat>45.59439</lat>
+<lng>-109.1046</lng>
+<geonameId>5673109</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>1066</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MT">MT</adminCode1>
+<adminName1>Montana</adminName1>
+<adminCode2>095</adminCode2>
+<adminName2>Stillwater County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<score>4.892406463623047</score>
+</geoname>
+</geonames>

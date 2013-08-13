@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Colombo District</toponymName>
+<name>Colombo District</name>
+<lat>6.8664</lat>
+<lng>80.0166</lng>
+<geonameId>1248990</geonameId>
+<countryCode>LK</countryCode>
+<countryName>Sri Lanka</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>2273260</population>
+<alternateNames>Colombo,Colombo District</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="1">36</adminCode1>
+<adminName1>Western</adminName1>
+<adminCode2>1248990</adminCode2>
+<adminName2>Colombo District</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Colombo_District</alternateName>
+<timezone dstOffset="5.5" gmtOffset="5.5">Asia/Colombo</timezone>
+<score>98.56159973144531</score>
+</geoname>
+</geonames>

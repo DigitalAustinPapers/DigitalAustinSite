@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>195</totalResultsCount>
+<geoname>
+<toponymName>Prairie Creek</toponymName>
+<name>Prairie Creek</name>
+<lat>36.34202</lat>
+<lng>-94.06187</lng>
+<geonameId>4127332</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2066</population>
+<alternateNames/>
+<elevation>428</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">AR</adminCode1>
+<adminName1>Arkansas</adminName1>
+<adminCode2>007</adminCode2>
+<adminName2>Benton County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Prairie_Creek%2C_Arkansas</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-94.06745</west>
+<north>36.34652</north>
+<east>-94.05629</east>
+<south>36.33752</south>
+</bbox>
+<score>62.80146789550781</score>
+</geoname>
+<geoname>
+<toponymName>Prairie Creek</toponymName>
+<name>Prairie Creek</name>
+<lat>29.59025</lat>
+<lng>-82.30205</lng>
+<geonameId>4169259</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>LK</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>lake</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>17</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="FL">FL</adminCode1>
+<adminName1>Florida</adminName1>
+<adminCode2>001</adminCode2>
+<adminName2>Alachua County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>54.95128631591797</score>
+</geoname>
+<geoname>
+<toponymName>Prairie Creek</toponymName>
+<name>Prairie Creek</name>
+<lat>39.27504</lat>
+<lng>-87.49724</lng>
+<geonameId>4263353</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>162</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IN">IN</adminCode1>
+<adminName1>Indiana</adminName1>
+<adminCode2>167</adminCode2>
+<adminName2>Vigo County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Prairie_Creek%2C_Indiana</alternateName>
+<alternateName lang="post">47869</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Indiana/Indianapolis</timezone>
+<bbox>
+<west>-87.50886</west>
+<north>39.28403</north>
+<east>-87.48562</east>
+<south>39.26605</south>
+</bbox>
+<score>47.10110092163086</score>
+</geoname>
+<geoname>
+<toponymName>Prairie Creek</toponymName>
+<name>Prairie Creek</name>
+<lat>35.05232</lat>
+<lng>-94.35022</lng>
+<geonameId>4127349</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>186</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">AR</adminCode1>
+<adminName1>Arkansas</adminName1>
+<adminCode2>131</adminCode2>
+<adminName2>Sebastian County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-94.3612</west>
+<north>35.06131</north>
+<east>-94.33923</east>
+<south>35.04333</south>
+</bbox>
+<score>31.400733947753906</score>
+</geoname>
+<geoname>
+<toponymName>Prairie Creek</toponymName>
+<name>Prairie Creek</name>
+<lat>35.19535</lat>
+<lng>-85.13718</lng>
+<geonameId>4651239</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>228</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TN">TN</adminCode1>
+<adminName1>Tennessee</adminName1>
+<adminCode2>065</adminCode2>
+<adminName2>Hamilton County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-85.14818</west>
+<north>35.20434</north>
+<east>-85.12617</east>
+<south>35.18636</south>
+</bbox>
+<score>31.400733947753906</score>
+</geoname>
+<geoname>
+<toponymName>Prairie Creek</toponymName>
+<name>Prairie Creek</name>
+<lat>42.18614</lat>
+<lng>-88.05535</lng>
+<geonameId>4906623</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>245</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>097</adminCode2>
+<adminName2>Lake County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-88.06021</west>
+<north>42.18973</north>
+<east>-88.0505</east>
+<south>42.18254</south>
+</bbox>
+<score>19.625457763671875</score>
+</geoname>
+<geoname>
+<toponymName>Prairie Reef</toponymName>
+<name>Prairie Reef</name>
+<lat>47.60466</lat>
+<lng>-113.01811</lng>
+<geonameId>5672455</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>RDGE</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>ridge(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>2461</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MT">MT</adminCode1>
+<adminName1>Montana</adminName1>
+<adminCode2>049</adminCode2>
+<adminName2>Lewis and Clark County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<score>12.667552947998047</score>
+</geoname>
+<geoname>
+<toponymName>Prairie Creek</toponymName>
+<name>Prairie Creek</name>
+<lat>-25.93333</lat>
+<lng>149.66667</lng>
+<geonameId>2152581</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="QLD">04</adminCode1>
+<adminName1>Queensland</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="10.0" gmtOffset="10.0">Australia/Brisbane</timezone>
+<score>9.812728881835938</score>
+</geoname>
+<geoname>
+<toponymName>Prairie Creek</toponymName>
+<name>Prairie Creek</name>
+<lat>-23.58333</lat>
+<lng>140.66667</lng>
+<geonameId>2152582</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="QLD">04</adminCode1>
+<adminName1>Queensland</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="10.0" gmtOffset="10.0">Australia/Brisbane</timezone>
+<score>9.812728881835938</score>
+</geoname>
+<geoname>
+<toponymName>Prairie Creek</toponymName>
+<name>Prairie Creek</name>
+<lat>-22.33333</lat>
+<lng>144.16667</lng>
+<geonameId>2152583</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="QLD">04</adminCode1>
+<adminName1>Queensland</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="10.0" gmtOffset="10.0">Australia/Brisbane</timezone>
+<score>9.812728881835938</score>
+</geoname>
+</geonames>

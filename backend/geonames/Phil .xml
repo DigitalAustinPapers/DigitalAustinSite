@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Phil</toponymName>
+<name>Phil</name>
+<lat>37.21535</lat>
+<lng>-84.95356</lng>
+<geonameId>4304097</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>237</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>045</adminCode2>
+<adminName2>Casey County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Phil%2C_Kentucky</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-84.96486</west>
+<north>37.22434</north>
+<east>-84.94227</east>
+<south>37.20636</south>
+</bbox>
+<score>66.03797912597656</score>
+</geoname>
+<geoname>
+<toponymName>Phil</toponymName>
+<name>Phil</name>
+<lat>34.74822</lat>
+<lng>-79.21393</lng>
+<geonameId>4484772</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>58</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NC">NC</adminCode1>
+<adminName1>North Carolina</adminName1>
+<adminCode2>155</adminCode2>
+<adminName2>Robeson County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-79.22487</west>
+<north>34.75721</north>
+<east>-79.20298</east>
+<south>34.73922</south>
+</bbox>
+<score>44.02532196044922</score>
+</geoname>
+<geoname>
+<toponymName>Phil</toponymName>
+<name>Phil</name>
+<lat>40.64268</lat>
+<lng>-119.46936</lng>
+<geonameId>5707296</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1193</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NV">NV</adminCode1>
+<adminName1>Nevada</adminName1>
+<adminCode2>031</adminCode2>
+<adminName2>Washoe County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-119.48121</west>
+<north>40.65167</north>
+<east>-119.4575</east>
+<south>40.63369</south>
+</bbox>
+<score>44.02532196044922</score>
+</geoname>
+</geonames>

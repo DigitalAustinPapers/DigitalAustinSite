@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Maryland</toponymName>
+<name>Maryland</name>
+<lat>39.00039</lat>
+<lng>-76.74997</lng>
+<geonameId>4361885</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>first-order administrative division</fcodeName>
+<population>5624246</population>
+<alternateNames>MD,Ma-li-lan,Marianland,Marilando,Marylan,Maryland,Maryland Shitati,Maryland suyu,Marylân,Meelin Hahoodzo,Mehrilehnd,Mehrilend,Melelana,Meriland,Merilandas,Merilann,Merilant,Merilend,Merilenda,Mâ-lî-làn,Méelin Hahoodzo,Mérílạnd,Mērilenda,Old Line State,Shtat Mehrylend,State of Maryland,Terra Mariae,Tir Maria,ma li lan zhou,mairilainda,maryland,melillaendeu ju,merilamda,merilantu,merilendi,merilyand,merilyanda,merirando zhou,mrylnd,Μέριλαντ,Мериленд,Меріленд,Мэриленд,Мэрилэнд,Штат Мэрыленд,Մերիլենդ,מארילאנד,מרילנד,ماريلاند,مریلند,میرِلَنڈ,میری لینڈ,مەریلەند,ܡܐܪܝܠܐܢܕ,मेरीलँड,मैरीलैंड,মেরিল্যান্ড,மேரிலாந்து,మేరీల్యాండ్,ಮೇರಿಲ್ಯಾಂಡ್,മെരിലാൻ‌ഡ്,รัฐแมริแลนด์,མ་རིས་ལེན་ཌ།,မေရီလန်းပြည်နယ်,მერილენდი,ሜሪላንድ,メリーランド州,马里兰州,메릴랜드 주</alternateNames>
+<elevation>42</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MD">MD</adminCode1>
+<adminName1>Maryland</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="abbr">MD</alternateName>
+<alternateName lang="am">ሜሪላንድ</alternateName>
+<alternateName lang="ang">Marianland</alternateName>
+<alternateName lang="ar">ماريلاند</alternateName>
+<alternateName lang="arc">ܡܐܪܝܠܐܢܕ</alternateName>
+<alternateName lang="arz">ماريلاند</alternateName>
+<alternateName lang="ay">Maryland suyu</alternateName>
+<alternateName lang="az">Merilend</alternateName>
+<alternateName lang="be">Штат Мэрыленд</alternateName>
+<alternateName lang="bg">Мериленд</alternateName>
+<alternateName lang="bn">মেরিল্যান্ড</alternateName>
+<alternateName lang="bo">མ་རིས་ལེན་ཌ།</alternateName>
+<alternateName lang="bpy">মেরিল্যান্ড</alternateName>
+<alternateName lang="br">Maryland</alternateName>
+<alternateName lang="bs">Maryland</alternateName>
+<alternateName lang="ca">Maryland</alternateName>
+<alternateName lang="ckb">مەریلەند</alternateName>
+<alternateName lang="cs">Maryland</alternateName>
+<alternateName lang="da">Maryland</alternateName>
+<alternateName lang="de">Maryland</alternateName>
+<alternateName lang="el">Μέριλαντ</alternateName>
+<alternateName lang="en">Maryland</alternateName>
+<alternateName lang="eo">Marilando</alternateName>
+<alternateName lang="es">Maryland</alternateName>
+<alternateName lang="et">Maryland</alternateName>
+<alternateName lang="eu">Maryland</alternateName>
+<alternateName lang="fa">مریلند</alternateName>
+<alternateName lang="fi">Maryland</alternateName>
+<alternateName lang="fr">Maryland</alternateName>
+<alternateName lang="frp">Maryland</alternateName>
+<alternateName lang="fy">Marylân</alternateName>
+<alternateName lang="ga">Maryland</alternateName>
+<alternateName lang="gd">Maryland</alternateName>
+<alternateName lang="gl">Maryland</alternateName>
+<alternateName lang="hak">Mâ-lî-làn</alternateName>
+<alternateName lang="haw">Melelana</alternateName>
+<alternateName lang="he">מרילנד</alternateName>
+<alternateName lang="hi">मैरीलैंड</alternateName>
+<alternateName lang="hr">Maryland</alternateName>
+<alternateName lang="ht">Merilann</alternateName>
+<alternateName lang="hu">Maryland</alternateName>
+<alternateName lang="hy">Մերիլենդ</alternateName>
+<alternateName lang="id">Maryland</alternateName>
+<alternateName lang="ig">Mérílạnd</alternateName>
+<alternateName lang="io">Maryland</alternateName>
+<alternateName lang="is">Maryland</alternateName>
+<alternateName lang="it">Maryland</alternateName>
+<alternateName lang="ja">メリーランド州</alternateName>
+<alternateName lang="ka">მერილენდი</alternateName>
+<alternateName lang="kk">Мэриленд</alternateName>
+<alternateName lang="kn">ಮೇರಿಲ್ಯಾಂಡ್</alternateName>
+<alternateName lang="ko">메릴랜드 주</alternateName>
+<alternateName lang="ks">میرِلَنڈ</alternateName>
+<alternateName lang="ku">Maryland</alternateName>
+<alternateName lang="kw">Tir Maria</alternateName>
+<alternateName lang="la">Terra Mariae</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Maryland</alternateName>
+<alternateName lang="lt">Merilandas</alternateName>
+<alternateName lang="lv">Mērilenda</alternateName>
+<alternateName lang="mk">Мериленд</alternateName>
+<alternateName lang="ml">മെരിലാൻ‌ഡ്</alternateName>
+<alternateName lang="mn">Мэрилэнд</alternateName>
+<alternateName lang="mr">मेरीलँड</alternateName>
+<alternateName lang="mrj">Мэриленд</alternateName>
+<alternateName lang="ms">Maryland</alternateName>
+<alternateName lang="my">မေရီလန်းပြည်နယ်</alternateName>
+<alternateName lang="nds">Maryland</alternateName>
+<alternateName lang="nl">Maryland</alternateName>
+<alternateName lang="nn">Maryland</alternateName>
+<alternateName lang="no">Maryland</alternateName>
+<alternateName lang="nv">Méelin Hahoodzo</alternateName>
+<alternateName lang="oc">Maryland</alternateName>
+<alternateName lang="os">Мэриленд</alternateName>
+<alternateName lang="pl">Maryland</alternateName>
+<alternateName lang="pnb">میری لینڈ</alternateName>
+<alternateName lang="pt">Maryland</alternateName>
+<alternateName lang="qu">Maryland suyu</alternateName>
+<alternateName lang="ro">Maryland</alternateName>
+<alternateName lang="ru">Мэриленд</alternateName>
+<alternateName lang="sk">Maryland</alternateName>
+<alternateName lang="sl">Maryland</alternateName>
+<alternateName lang="sq">Maryland</alternateName>
+<alternateName lang="sr">Мериленд</alternateName>
+<alternateName lang="sv">Maryland</alternateName>
+<alternateName lang="ta">மேரிலாந்து</alternateName>
+<alternateName lang="te">మేరీల్యాండ్</alternateName>
+<alternateName lang="th">รัฐแมริแลนด์</alternateName>
+<alternateName lang="tr">Maryland</alternateName>
+<alternateName lang="tt">Мэриленд</alternateName>
+<alternateName lang="ug">Maryland Shitati</alternateName>
+<alternateName lang="uk">Меріленд</alternateName>
+<alternateName lang="ur">میری لینڈ</alternateName>
+<alternateName lang="vi">Maryland</alternateName>
+<alternateName lang="xal">Мэрилэнд</alternateName>
+<alternateName lang="yi">מארילאנד</alternateName>
+<alternateName lang="zh">马里兰州</alternateName>
+<alternateName lang="zh-CN">马里兰州</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-79.48766</west>
+<north>39.72304</north>
+<east>-74.98627</east>
+<south>37.8866</south>
+</bbox>
+<score>14.101571083068848</score>
+</geoname>
+<geoname>
+<toponymName>State of Nāgāland</toponymName>
+<name>State of Nāgāland</name>
+<lat>26</lat>
+<lng>94.25</lng>
+<geonameId>1262271</geonameId>
+<countryCode>IN</countryCode>
+<countryName>India</countryName>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>first-order administrative division</fcodeName>
+<population>2367478</population>
+<alternateNames>Naga Hills-Tuensang Area,Naga Tuensang Area,Nagaland,Nāga Hills-Tuensang Area,Nāgāland,State of Nagaland,State of Nāgāland</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="NL">20</adminCode1>
+<adminName1>Nāgāland</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="fr">Nagaland</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Nagaland</alternateName>
+<timezone dstOffset="5.5" gmtOffset="5.5">Asia/Kolkata</timezone>
+<bbox>
+<west>93.31264</west>
+<north>27.00893</north>
+<east>95.26566</east>
+<south>25.15999</south>
+</bbox>
+<score>13.27206802368164</score>
+</geoname>
+<geoname>
+<toponymName>State of Haryāna</toponymName>
+<name>Haryana</name>
+<lat>29</lat>
+<lng>76</lng>
+<geonameId>1270260</geonameId>
+<countryCode>IN</countryCode>
+<countryName>India</countryName>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>first-order administrative division</fcodeName>
+<population>22876593</population>
+<alternateNames>Hariana,Haryana,Haryāna,State of Haryana,State of Haryāna</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="HR">10</adminCode1>
+<adminName1>Haryana</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Haryana</alternateName>
+<alternateName lang="fr">Haryana</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Haryana</alternateName>
+<timezone dstOffset="5.5" gmtOffset="5.5">Asia/Kolkata</timezone>
+<bbox>
+<west>74.44472</west>
+<north>30.90413</north>
+<east>77.58443</east>
+<south>27.66617</south>
+</bbox>
+<score>8.05803394317627</score>
+</geoname>
+</geonames>

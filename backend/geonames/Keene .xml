@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>16</totalResultsCount>
+<geoname>
+<toponymName>Keene</toponymName>
+<name>Keene</name>
+<lat>37.94341</lat>
+<lng>-84.64189</lng>
+<geonameId>4296803</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>276</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>113</adminCode2>
+<adminName2>Jessamine County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Keene%2C_Kentucky</alternateName>
+<alternateName lang="post">40339</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-84.65329</west>
+<north>37.9524</north>
+<east>-84.63048</east>
+<south>37.93442</south>
+</bbox>
+<score>59.89923095703125</score>
+</geoname>
+<geoname>
+<toponymName>Keene</toponymName>
+<name>Keene</name>
+<lat>32.39681</lat>
+<lng>-97.3239</lng>
+<geonameId>4702785</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>6106</population>
+<alternateNames/>
+<elevation>272</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>251</adminCode2>
+<adminName2>Johnson County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Keene%2C_Texas</alternateName>
+<alternateName lang="post">76059</alternateName>
+<alternateName lang="unlc">KN2</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-97.33581</west>
+<north>32.40686</north>
+<east>-97.31199</east>
+<south>32.38675</south>
+</bbox>
+<score>59.89923095703125</score>
+</geoname>
+<geoname>
+<toponymName>Keene</toponymName>
+<name>Keene</name>
+<lat>37.86514</lat>
+<lng>-78.55529</lng>
+<geonameId>4767408</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>167</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>003</adminCode2>
+<adminName2>Albemarle County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Keene%2C_Virginia</alternateName>
+<alternateName lang="post">22946</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-78.56668</west>
+<north>37.87414</north>
+<east>-78.5439</east>
+<south>37.85615</south>
+</bbox>
+<score>59.89923095703125</score>
+</geoname>
+<geoname>
+<toponymName>Keene</toponymName>
+<name>Keene</name>
+<lat>44.25616</lat>
+<lng>-73.79209</lng>
+<geonameId>5123159</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>256</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>031</adminCode2>
+<adminName2>Essex County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Keene%2C_New_York</alternateName>
+<alternateName lang="post">12942</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-73.80464</west>
+<north>44.26515</north>
+<east>-73.77953</east>
+<south>44.24716</south>
+</bbox>
+<score>59.89923095703125</score>
+</geoname>
+<geoname>
+<toponymName>Keene</toponymName>
+<name>Keene</name>
+<lat>40.34507</lat>
+<lng>-81.86819</lng>
+<geonameId>5159440</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>312</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>031</adminCode2>
+<adminName2>Coshocton County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Keene%2C_Ohio</alternateName>
+<alternateName lang="post">43828</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-81.87999</west>
+<north>40.35406</north>
+<east>-81.85639</east>
+<south>40.33608</south>
+</bbox>
+<score>59.89923095703125</score>
+</geoname>
+<geoname>
+<toponymName>Keene</toponymName>
+<name>Keene</name>
+<lat>44.36692</lat>
+<lng>-89.47428</lng>
+<geonameId>5258300</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>328</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WI">WI</adminCode1>
+<adminName1>Wisconsin</adminName1>
+<adminCode2>097</adminCode2>
+<adminName2>Portage County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Keene%2C_Wisconsin</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-89.48687</west>
+<north>44.37591</north>
+<east>-89.4617</east>
+<south>44.35792</south>
+</bbox>
+<score>59.89923095703125</score>
+</geoname>
+<geoname>
+<toponymName>Keene</toponymName>
+<name>Keene</name>
+<lat>35.22357</lat>
+<lng>-118.56231</lng>
+<geonameId>5362619</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>431</population>
+<alternateNames/>
+<elevation>793</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>029</adminCode2>
+<adminName2>Kern County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Keene%2C_California</alternateName>
+<alternateName lang="post">93531</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-118.56341</west>
+<north>35.22447</north>
+<east>-118.56121</east>
+<south>35.22267</south>
+</bbox>
+<score>59.89923095703125</score>
+</geoname>
+<geoname>
+<toponymName>Keene</toponymName>
+<name>Keene</name>
+<lat>47.92697</lat>
+<lng>-102.94158</lng>
+<geonameId>5689927</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>711</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ND">ND</adminCode1>
+<adminName1>North Dakota</adminName1>
+<adminCode2>053</adminCode2>
+<adminName2>McKenzie County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Keene%2C_North_Dakota</alternateName>
+<alternateName lang="post">58847</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-102.955</west>
+<north>47.93596</north>
+<east>-102.92815</east>
+<south>47.91797</south>
+</bbox>
+<score>59.89923095703125</score>
+</geoname>
+<geoname>
+<toponymName>Keene</toponymName>
+<name>Keene</name>
+<lat>44.25012</lat>
+<lng>-78.16622</lng>
+<geonameId>5990160</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ON">08</adminCode1>
+<adminName1>Ontario</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Otonabee-South_Monaghan%2C_Ontario</alternateName>
+<alternateName lang="unlc">KEE</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Toronto</timezone>
+<bbox>
+<west>-78.17878</west>
+<north>44.25911</north>
+<east>-78.15367</east>
+<south>44.24113</south>
+</bbox>
+<score>59.89923095703125</score>
+</geoname>
+<geoname>
+<toponymName>Keene</toponymName>
+<name>Keene</name>
+<lat>30.48329</lat>
+<lng>-81.84677</lng>
+<geonameId>4160668</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>10</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="FL">FL</adminCode1>
+<adminName1>Florida</adminName1>
+<adminCode2>089</adminCode2>
+<adminName2>Nassau County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-81.85721</west>
+<north>30.49229</north>
+<east>-81.83634</east>
+<south>30.4743</south>
+</bbox>
+<score>39.93281936645508</score>
+</geoname>
+</geonames>

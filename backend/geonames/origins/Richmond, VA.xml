@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1328</totalResultsCount>
+<geoname>
+<toponymName>Richmond</toponymName>
+<name>Richmond</name>
+<lat>37.55376</lat>
+<lng>-77.46026</lng>
+<geonameId>4781708</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population>204214</population>
+<alternateNames>Gorad Rychmand,RIC,Richmond,Richmund,Ricmonda,Ricmondia,Ritsmont,Ričmonda,li shi man,lichimeondeu,ricamanda,ricmant,ritchimondo,rychmwnd, wyrjynya,rytshmwnd,ryz'mwnd,Ρίτσμοντ,Горад Рычманд,Ричмонд,Ричмънд,Ռիչմոնդ,ריצ'מונד,رجمونڈ,ريتشموند,ریچموند، ویرجینیا,रिचमंड,ரிச்மண்ட்,リッチモンド,里士满,리치먼드</alternateNames>
+<elevation>64</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>760</adminCode2>
+<adminName2>City of Richmond</adminName2>
+<alternateName lang="ar">ريتشموند</alternateName>
+<alternateName lang="be">Горад Рычманд</alternateName>
+<alternateName lang="bg">Ричмънд</alternateName>
+<alternateName lang="el">Ρίτσμοντ</alternateName>
+<alternateName lang="fa">ریچموند، ویرجینیا</alternateName>
+<alternateName lang="he">ריצ'מונד</alternateName>
+<alternateName lang="hy">Ռիչմոնդ</alternateName>
+<alternateName lang="iata">RIC</alternateName>
+<alternateName lang="ja">リッチモンド</alternateName>
+<alternateName lang="ko">리치먼드</alternateName>
+<alternateName lang="la">Ricmondia</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Richmond%2C_Virginia</alternateName>
+<alternateName lang="lv">Ričmonda</alternateName>
+<alternateName lang="mk">Ричмонд</alternateName>
+<alternateName lang="mr">रिचमंड</alternateName>
+<alternateName lang="mrj">Ричмонд</alternateName>
+<alternateName lang="pnb">رجمونڈ</alternateName>
+<alternateName lang="post">23232</alternateName>
+<alternateName lang="ru">Ричмонд</alternateName>
+<alternateName lang="sr">Ричмонд</alternateName>
+<alternateName lang="ta">ரிச்மண்ட்</alternateName>
+<alternateName lang="uk">Ричмонд</alternateName>
+<alternateName lang="unlc">RIC</alternateName>
+<alternateName lang="zh">里士满</alternateName>
+<alternateName lang="zh-CN">里士满</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-77.53428</west>
+<north>37.61239</north>
+<east>-77.38625</east>
+<south>37.49513</south>
+</bbox>
+<score>26.449007034301758</score>
+</geoname>
+<geoname>
+<toponymName>Richmond County</toponymName>
+<name>Richmond County</name>
+<lat>37.93705</lat>
+<lng>-76.72968</lng>
+<geonameId>4781725</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>9254</population>
+<alternateNames>Comte de Richmond,Comté de Richmond</alternateNames>
+<elevation>23</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>159</adminCode2>
+<adminName2>Richmond County</adminName2>
+<alternateName lang="fr">Comté de Richmond</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Richmond_County%2C_Virginia</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-76.93663</west>
+<north>38.12542</north>
+<east>-76.51138</east>
+<south>37.79745</south>
+</bbox>
+<score>9.231851577758789</score>
+</geoname>
+<geoname>
+<toponymName>City of Richmond</toponymName>
+<name>City of Richmond</name>
+<lat>37.55376</lat>
+<lng>-77.46026</lng>
+<geonameId>4781756</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>204214</population>
+<alternateNames>Ville de Richmond</alternateNames>
+<elevation>64</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>760</adminCode2>
+<adminName2>City of Richmond</adminName2>
+<alternateName lang="fr">Ville de Richmond</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-77.60155</west>
+<north>37.6026</north>
+<east>-77.38586</east>
+<south>37.44751</south>
+</bbox>
+<score>8.795994758605957</score>
+</geoname>
+<geoname>
+<toponymName>Richmond International Airport</toponymName>
+<name>Richmond International Airport</name>
+<lat>37.50517</lat>
+<lng>-77.31967</lng>
+<geonameId>6298981</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>AIRP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>airport</fcodeName>
+<population/>
+<alternateNames>Aeroporto Internazionale di Richmond,KRIC,RIC,ritchimondo guo ji kong gang,リッチモンド国際空港</alternateNames>
+<elevation>50</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="iata">RIC</alternateName>
+<alternateName lang="icao">KRIC</alternateName>
+<alternateName lang="it">Aeroporto Internazionale di Richmond</alternateName>
+<alternateName lang="ja">リッチモンド国際空港</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Richmond_International_Airport</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>7.291193008422852</score>
+</geoname>
+<geoname>
+<toponymName>University of Richmond</toponymName>
+<name>University of Richmond</name>
+<lat>37.57557</lat>
+<lng>-77.53823</lng>
+<geonameId>4790771</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>SCH</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>school</fcodeName>
+<population/>
+<alternateNames>Ricmond Universiteti,Riçmond Universiteti,li shi man da xue,里士满大学</alternateNames>
+<elevation>40</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>760</adminCode2>
+<adminName2>City of Richmond</adminName2>
+<alternateName lang="az">Riçmond Universiteti</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/University_of_Richmond</alternateName>
+<alternateName lang="zh">里士满大学</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>6.0339460372924805</score>
+</geoname>
+<geoname>
+<toponymName>Port Richmond</toponymName>
+<name>Port Richmond</name>
+<lat>37.55181</lat>
+<lng>-76.8108</lng>
+<geonameId>4779956</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>14</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>101</adminCode2>
+<adminName2>King William County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Port_Richmond%2C_Virginia</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-76.82214</west>
+<north>37.5608</north>
+<east>-76.79945</east>
+<south>37.54282</south>
+</bbox>
+<score>4.460997581481934</score>
+</geoname>
+<geoname>
+<toponymName>WCVE-FM (Richmond)</toponymName>
+<name>WCVE-FM (Richmond)</name>
+<lat>37.56681</lat>
+<lng>-77.47637</lng>
+<geonameId>4791452</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>TOWR</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>tower</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>63</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>760</adminCode2>
+<adminName2>City of Richmond</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/WCVE-FM</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>4.165966987609863</score>
+</geoname>
+<geoname>
+<toponymName>WDCE-FM (Richmond)</toponymName>
+<name>WDCE-FM (Richmond)</name>
+<lat>37.58015</lat>
+<lng>-77.54276</lng>
+<geonameId>4791460</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>TOWR</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>tower</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>53</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>760</adminCode2>
+<adminName2>City of Richmond</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/WDCE</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>4.165966987609863</score>
+</geoname>
+<geoname>
+<toponymName>WFTH-AM (Richmond)</toponymName>
+<name>WFTH-AM (Richmond)</name>
+<lat>37.5007</lat>
+<lng>-77.45748</lng>
+<geonameId>4791491</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>TOWR</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>tower</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>52</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>760</adminCode2>
+<adminName2>City of Richmond</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/WFTH</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>4.165966987609863</score>
+</geoname>
+<geoname>
+<toponymName>WTVR-FM (Richmond)</toponymName>
+<name>WTVR-FM (Richmond)</name>
+<lat>37.56681</lat>
+<lng>-77.47637</lng>
+<geonameId>4791735</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>TOWR</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>tower</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>63</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>760</adminCode2>
+<adminName2>City of Richmond</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/WTVR-FM</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>4.165966987609863</score>
+</geoname>
+</geonames>

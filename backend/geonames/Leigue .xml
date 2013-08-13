@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>27</totalResultsCount>
+<geoname>
+<toponymName>Lédigué</toponymName>
+<name>Lédigué</name>
+<lat>11.63056</lat>
+<lng>-1.67972</lng>
+<geonameId>2358424</geonameId>
+<countryCode>BF</countryCode>
+<countryName>Burkina Faso</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="06">06</adminCode1>
+<adminName1>Centre-Ouest</adminName1>
+<adminCode2>77</adminCode2>
+<adminName2>Ziro</adminName2>
+<timezone dstOffset="0.0" gmtOffset="0.0">Africa/Ouagadougou</timezone>
+<bbox>
+<west>-1.6889</west>
+<north>11.63955</north>
+<east>-1.67054</east>
+<south>11.62156</south>
+</bbox>
+<score>17.9798526763916</score>
+</geoname>
+<geoname>
+<toponymName>League</toponymName>
+<name>League</name>
+<lat>39.2923</lat>
+<lng>-81.09844</lng>
+<geonameId>4811674</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>242</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WV">WV</adminCode1>
+<adminName1>West Virginia</adminName1>
+<adminCode2>085</adminCode2>
+<adminName2>Ritchie County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-81.11007</west>
+<north>39.30129</north>
+<east>-81.08682</east>
+<south>39.28331</south>
+</bbox>
+<score>17.9798526763916</score>
+</geoname>
+<geoname>
+<toponymName>Lengue</toponymName>
+<name>Lengue</name>
+<lat>-5.95791</lat>
+<lng>13.51494</lng>
+<geonameId>2236701</geonameId>
+<countryCode>AO</countryCode>
+<countryName>Angola</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Lengue,Tongo,Tongue</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="ZAI">16</adminCode1>
+<adminName1>Zaire</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="1.0">Africa/Luanda</timezone>
+<bbox>
+<west>13.50589</west>
+<north>-5.94892</north>
+<east>13.52398</east>
+<south>-5.9669</south>
+</bbox>
+<score>16.74808692932129</score>
+</geoname>
+<geoname>
+<toponymName>Leigne</toponymName>
+<name>Leigne</name>
+<lat>46.21243</lat>
+<lng>0.32373</lng>
+<geonameId>3003766</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="T">B7</adminCode1>
+<adminName1>Poitou-Charentes</adminName1>
+<adminCode2>86</adminCode2>
+<adminName2>Vienne</adminName2>
+<adminCode3>862</adminCode3>
+<adminName3>Arrondissement de Montmorillon</adminName3>
+<adminCode4>86054</adminCode4>
+<adminName4>Champniers</adminName4>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>0.31073</west>
+<north>46.22142</north>
+<east>0.33673</east>
+<south>46.20343</south>
+</bbox>
+<score>16.010347366333008</score>
+</geoname>
+<geoname>
+<toponymName>Le Gué</toponymName>
+<name>Le Gué</name>
+<lat>47.38967</lat>
+<lng>-2.12211</lng>
+<geonameId>3003890</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="R">B5</adminCode1>
+<adminName1>Pays de la Loire</adminName1>
+<adminCode2>44</adminCode2>
+<adminName2>Loire-Atlantique</adminName2>
+<adminCode3>443</adminCode3>
+<adminName3>Arrondissement de Saint-Nazaire</adminName3>
+<adminCode4>44050</adminCode4>
+<adminName4>Crossac</adminName4>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>-2.1354</west>
+<north>47.39866</north>
+<east>-2.10882</east>
+<south>47.38067</south>
+</bbox>
+<score>16.010347366333008</score>
+</geoname>
+<geoname>
+<toponymName>Le Gué</toponymName>
+<name>Le Gué</name>
+<lat>47.17696</lat>
+<lng>-0.41518</lng>
+<geonameId>3003891</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="R">B5</adminCode1>
+<adminName1>Pays de la Loire</adminName1>
+<adminCode2>49</adminCode2>
+<adminName2>Maine-et-Loire</adminName2>
+<adminCode3>493</adminCode3>
+<adminName3>Arrondissement de Saumur</adminName3>
+<adminCode4>49342</adminCode4>
+<adminName4>Tancoigné</adminName4>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>-0.42841</west>
+<north>47.18596</north>
+<east>-0.40194</east>
+<south>47.16797</south>
+</bbox>
+<score>16.010347366333008</score>
+</geoname>
+<geoname>
+<toponymName>Le Gué</toponymName>
+<name>Le Gué</name>
+<lat>46.88569</lat>
+<lng>2.52969</lng>
+<geonameId>3003892</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="F">A3</adminCode1>
+<adminName1>Centre</adminName1>
+<adminCode2>18</adminCode2>
+<adminName2>Cher</adminName2>
+<adminCode3>182</adminCode3>
+<adminName3>Arrondissement de Saint-Amand-Montrond</adminName3>
+<adminCode4>18087</adminCode4>
+<adminName4>Dun-sur-Auron</adminName4>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>2.51653</west>
+<north>46.89468</north>
+<east>2.54285</east>
+<south>46.8767</south>
+</bbox>
+<score>16.010347366333008</score>
+</geoname>
+<geoname>
+<toponymName>Leigne</toponymName>
+<name>Leigne</name>
+<lat>48.36687</lat>
+<lng>-76.36605</lng>
+<geonameId>6052040</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="QC">10</adminCode1>
+<adminName1>Quebec</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Montreal</timezone>
+<score>16.010347366333008</score>
+</geoname>
+<geoname>
+<toponymName>Le Gué</toponymName>
+<name>Le Gué</name>
+<lat>48.65928</lat>
+<lng>-1.95565</lng>
+<geonameId>8531775</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>29</elevation>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="E">A2</adminCode1>
+<adminName1>Brittany</adminName1>
+<adminCode2>35</adminCode2>
+<adminName2>Ille-et-Vilaine</adminName2>
+<adminCode3>354</adminCode3>
+<adminName3>Arrondissement de Saint-Malo</adminName3>
+<adminCode4>35288</adminCode4>
+<adminName4>Saint-Malo</adminName4>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>-1.96927</west>
+<north>48.66827</north>
+<east>-1.94203</east>
+<south>48.65028</south>
+</bbox>
+<score>16.010347366333008</score>
+</geoname>
+<geoname>
+<toponymName>Leigné-sur-Usseau</toponymName>
+<name>Leigné-sur-Usseau</name>
+<lat>46.91302</lat>
+<lng>0.4721</lng>
+<geonameId>3003763</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>442</population>
+<alternateNames>Leigne,Leigne-sur-Usseau,Leigné,Leigné-sur-Usseau</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="T">B7</adminCode1>
+<adminName1>Poitou-Charentes</adminName1>
+<adminCode2>86</adminCode2>
+<adminName2>Vienne</adminName2>
+<adminCode3>861</adminCode3>
+<adminName3>Arrondissement de Châtellerault</adminName3>
+<adminCode4>86127</adminCode4>
+<adminName4>Leigné-sur-Usseau</adminName4>
+<alternateName lang="post">86230</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>0.47079</west>
+<north>46.91392</north>
+<east>0.47342</east>
+<south>46.91212</south>
+</bbox>
+<score>14.009054183959961</score>
+</geoname>
+</geonames>

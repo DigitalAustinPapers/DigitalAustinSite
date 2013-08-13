@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>11</totalResultsCount>
+<geoname>
+<toponymName>River</toponymName>
+<name>River</name>
+<lat>51.14217</lat>
+<lng>1.2745</lng>
+<geonameId>2639301</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UE</adminCode3>
+<adminName3>Dover District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/River%2C_Kent</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.26016</west>
+<north>51.15117</north>
+<east>1.28884</east>
+<south>51.13318</south>
+</bbox>
+<score>61.3769645690918</score>
+</geoname>
+<geoname>
+<toponymName>River</toponymName>
+<name>River</name>
+<lat>51.14098</lat>
+<lng>1.27081</lng>
+<geonameId>7295865</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UE</adminCode3>
+<adminName3>Dover District</adminName3>
+<adminCode4>29UE018</adminCode4>
+<adminName4>River</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.25211</west>
+<north>51.14894</north>
+<east>1.28951</east>
+<south>51.13301</south>
+</bbox>
+<score>51.14746856689453</score>
+</geoname>
+<geoname>
+<toponymName>River</toponymName>
+<name>River</name>
+<lat>53.97722</lat>
+<lng>-10.04194</lng>
+<geonameId>2961795</geonameId>
+<countryCode>IE</countryCode>
+<countryName>Ireland</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="C">C</adminCode1>
+<adminName1>Connaught</adminName1>
+<adminCode2>20</adminCode2>
+<adminName2>County Mayo</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Dublin</timezone>
+<bbox>
+<west>-10.05724</west>
+<north>53.98622</north>
+<east>-10.02665</east>
+<south>53.96823</south>
+</bbox>
+<score>40.91797637939453</score>
+</geoname>
+<geoname>
+<toponymName>River</toponymName>
+<name>River</name>
+<lat>13.13333</lat>
+<lng>-59.43333</lng>
+<geonameId>3373602</geonameId>
+<countryCode>BB</countryCode>
+<countryName>Barbados</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="10">10</adminCode1>
+<adminName1>Saint Philip</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Barbados</timezone>
+<bbox>
+<west>-59.44257</west>
+<north>13.14233</north>
+<east>-59.4241</east>
+<south>13.12434</south>
+</bbox>
+<score>40.91797637939453</score>
+</geoname>
+<geoname>
+<toponymName>River</toponymName>
+<name>River</name>
+<lat>37.8587</lat>
+<lng>-82.72932</lng>
+<geonameId>4306197</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>183</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>115</adminCode2>
+<adminName2>Johnson County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/River%2C_Kentucky</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>40.91797637939453</score>
+</geoname>
+<geoname>
+<toponymName>River</toponymName>
+<name>River</name>
+<lat>41.1592</lat>
+<lng>-87.59337</lng>
+<geonameId>4907631</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>189</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>091</adminCode2>
+<adminName2>Kankakee County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-87.60532</west>
+<north>41.16819</north>
+<east>-87.58142</east>
+<south>41.15021</south>
+</bbox>
+<score>40.91797637939453</score>
+</geoname>
+<geoname>
+<toponymName>River</toponymName>
+<name>River</name>
+<lat>40.75421</lat>
+<lng>-85.50692</lng>
+<geonameId>4925434</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>246</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IN">IN</adminCode1>
+<adminName1>Indiana</adminName1>
+<adminCode2>069</adminCode2>
+<adminName2>Huntington County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Indiana/Indianapolis</timezone>
+<bbox>
+<west>-85.51879</west>
+<north>40.76321</north>
+<east>-85.49504</east>
+<south>40.74522</south>
+</bbox>
+<score>40.91797637939453</score>
+</geoname>
+<geoname>
+<toponymName>Rivarbukt</toponymName>
+<name>Rivarbukt</name>
+<lat>70.08833</lat>
+<lng>22.62806</lng>
+<geonameId>778049</geonameId>
+<countryCode>NO</countryCode>
+<countryName>Norway</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Rivarbukt,River,Riverbugt,Riverbukt,Riverbukta</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="20">05</adminCode1>
+<adminName1>Finnmark</adminName1>
+<adminCode2>2012</adminCode2>
+<adminName2>Alta</adminName2>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Oslo</timezone>
+<bbox>
+<west>22.60164</west>
+<north>70.09733</north>
+<east>22.65447</east>
+<south>70.07934</south>
+</bbox>
+<score>28.933380126953125</score>
+</geoname>
+<geoname>
+<toponymName>Lagum River</toponymName>
+<name>Lagum River</name>
+<lat>7.9975</lat>
+<lng>125.9204</lng>
+<geonameId>1708031</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>Lagum River,River</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="BOH">11</adminCode1>
+<adminName1>Davao</adminName1>
+<adminCode2>I6</adminCode2>
+<adminName2>Compostela</adminName2>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<score>14.466690063476562</score>
+</geoname>
+<geoname>
+<toponymName>River</toponymName>
+<name>River</name>
+<lat>-22.20726</lat>
+<lng>29.86486</lng>
+<geonameId>961214</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>S</fcl>
+<fcode>FRM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farm</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="LP">09</adminCode1>
+<adminName1>Limpopo</adminName1>
+<adminCode2>DC34</adminCode2>
+<adminName2>Vhembe District Municipality</adminName2>
+<adminCode3>LIM341</adminCode3>
+<adminName3>Musina</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<score>12.786867141723633</score>
+</geoname>
+</geonames>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Caledonia Hill</toponymName>
+<name>Caledonia Hill</name>
+<lat>39.54009</lat>
+<lng>-79.0467</lng>
+<geonameId>4350043</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>MT</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>mountain</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>680</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MD">MD</adminCode1>
+<adminName1>Maryland</adminName1>
+<adminCode2>023</adminCode2>
+<adminName2>Garrett County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>40.62628936767578</score>
+</geoname>
+<geoname>
+<toponymName>Caledonia Mills</toponymName>
+<name>Caledonia Mills</name>
+<lat>45.50014</lat>
+<lng>-61.81527</lng>
+<geonameId>5913435</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NS">07</adminCode1>
+<adminName1>Nova Scotia</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Caledonia_Mills</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-4.0">America/Halifax</timezone>
+<score>22.852285385131836</score>
+</geoname>
+<geoname>
+<toponymName>Caledonia Hills</toponymName>
+<name>Caledonia Hills</name>
+<lat>36.72644</lat>
+<lng>-90.27983</lng>
+<geonameId>4379530</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>MTS</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>mountains</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>99</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>023</adminCode2>
+<adminName2>Butler County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>15.234856605529785</score>
+</geoname>
+</geonames>

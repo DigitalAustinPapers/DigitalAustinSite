@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>114</totalResultsCount>
+<geoname>
+<toponymName>Lexington</toponymName>
+<name>Lexington</name>
+<lat>37.98869</lat>
+<lng>-84.47772</lng>
+<geonameId>4297983</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>225366</population>
+<alternateNames>LEX,Leksington,Leksingtonas,Leksingtono,Leksingtun,Lexington,Lexington-Fayette,Lexintonia,legsingteon,lie ke xing dui,lkzyngtwn,lqsyngtwn,lyksynghtwn, kntaky,rekishinton,Лексингтон,Лексингтън,לקסינגטון,ليكسينغتون، كنتاكي,لکزینگتون,ലെക്സിങ്ടൺ,レキシントン,列克星敦,렉싱턴</alternateNames>
+<elevation>295</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>067</adminCode2>
+<adminName2>Fayette County</adminName2>
+<alternateName lang="ar">ليكسينغتون، كنتاكي</alternateName>
+<alternateName lang="bg">Лексингтън</alternateName>
+<alternateName lang="de">Lexington</alternateName>
+<alternateName lang="en">Lexington</alternateName>
+<alternateName lang="eo">Leksingtono</alternateName>
+<alternateName lang="es">Lexington</alternateName>
+<alternateName lang="fa">لکزینگتون</alternateName>
+<alternateName lang="fi">Lexington</alternateName>
+<alternateName lang="fr">Lexington</alternateName>
+<alternateName lang="he">לקסינגטון</alternateName>
+<alternateName lang="iata">LEX</alternateName>
+<alternateName lang="io">Lexington</alternateName>
+<alternateName lang="ja">レキシントン</alternateName>
+<alternateName lang="kk">Лексингтон</alternateName>
+<alternateName lang="ko">렉싱턴</alternateName>
+<alternateName lang="la">Lexintonia</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lexington%2C_Kentucky</alternateName>
+<alternateName lang="lt">Leksingtonas</alternateName>
+<alternateName lang="ml">ലെക്സിങ്ടൺ</alternateName>
+<alternateName lang="nl">Lexington</alternateName>
+<alternateName lang="pl">Lexington</alternateName>
+<alternateName lang="post">40504</alternateName>
+<alternateName lang="ru">Лексингтон</alternateName>
+<alternateName lang="sr">Лексингтон</alternateName>
+<alternateName lang="sv">Lexington</alternateName>
+<alternateName lang="tl">Lexington-Fayette</alternateName>
+<alternateName lang="uk">Лексингтон</alternateName>
+<alternateName lang="zh">列克星敦</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-84.5558</west>
+<north>38.05018</north>
+<east>-84.39963</east>
+<south>37.9272</south>
+</bbox>
+<score>19.77450180053711</score>
+</geoname>
+<geoname>
+<toponymName>Lexington-Fayette</toponymName>
+<name>Lexington-Fayette</name>
+<lat>38.0498</lat>
+<lng>-84.45855</lng>
+<geonameId>4297999</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>295803</population>
+<alternateNames/>
+<elevation>305</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>067</adminCode2>
+<adminName2>Fayette County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-84.66014</west>
+<north>38.21145</north>
+<east>-84.28262</east>
+<south>37.84526</south>
+</bbox>
+<score>10.583856582641602</score>
+</geoname>
+<geoname>
+<toponymName>WKYT-TV (Lexington)</toponymName>
+<name>WKYT-TV (Lexington)</name>
+<lat>38.03952</lat>
+<lng>-84.40299</lng>
+<geonameId>4312322</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>TOWR</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>tower</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>302</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>067</adminCode2>
+<adminName2>Fayette County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/WKYT-TV</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>4.535938262939453</score>
+</geoname>
+<geoname>
+<toponymName>WLXG-AM (Lexington)</toponymName>
+<name>WLXG-AM (Lexington)</name>
+<lat>38.0973</lat>
+<lng>-84.52911</lng>
+<geonameId>4312361</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>TOWR</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>tower</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>294</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>067</adminCode2>
+<adminName2>Fayette County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/WLXG</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>4.535938262939453</score>
+</geoname>
+<geoname>
+<toponymName>Lexington Manor</toponymName>
+<name>Lexington Manor</name>
+<lat>38.04313</lat>
+<lng>-84.46966</lng>
+<geonameId>4297990</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>312</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>067</adminCode2>
+<adminName2>Fayette County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-84.48108</west>
+<north>38.05213</north>
+<east>-84.45824</east>
+<south>38.03414</south>
+</bbox>
+<score>3.023959159851074</score>
+</geoname>
+<geoname>
+<toponymName>Lexington Trotting Track</toponymName>
+<name>Lexington Trotting Track</name>
+<lat>38.04452</lat>
+<lng>-84.518</lng>
+<geonameId>4297998</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>L</fcl>
+<fcode>PRK</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>park</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>294</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>209</adminCode2>
+<adminName2>Scott County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>3.023959159851074</score>
+</geoname>
+<geoname>
+<toponymName>Lexington Cemetery Historical Marker</toponymName>
+<name>Lexington Cemetery Historical Marker</name>
+<lat>38.05598</lat>
+<lng>-84.50845</lng>
+<geonameId>8503851</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>L</fcl>
+<fcode>PRK</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>park</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>289</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>067</adminCode2>
+<adminName2>Fayette County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>3.023959159851074</score>
+</geoname>
+<geoname>
+<toponymName>Lexington Courthouse Historical Marker</toponymName>
+<name>Lexington Courthouse Historical Marker</name>
+<lat>38.0482</lat>
+<lng>-84.49796</lng>
+<geonameId>8503854</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>L</fcl>
+<fcode>PRK</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>park</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>290</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>067</adminCode2>
+<adminName2>Fayette County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>3.023959159851074</score>
+</geoname>
+<geoname>
+<toponymName>First Lexington Blockhouse And Fort Historical Marker</toponymName>
+<name>First Lexington Blockhouse And Fort Historical Marker</name>
+<lat>38.04818</lat>
+<lng>-84.49901</lng>
+<geonameId>8503855</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>L</fcl>
+<fcode>PRK</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>park</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>288</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>067</adminCode2>
+<adminName2>Fayette County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>3.023959159851074</score>
+</geoname>
+<geoname>
+<toponymName>Lexington Public Library Historical Marker</toponymName>
+<name>Lexington Public Library Historical Marker</name>
+<lat>38.04993</lat>
+<lng>-84.4962</lng>
+<geonameId>8503881</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>L</fcl>
+<fcode>PRK</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>park</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>297</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>067</adminCode2>
+<adminName2>Fayette County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>3.023959159851074</score>
+</geoname>
+</geonames>

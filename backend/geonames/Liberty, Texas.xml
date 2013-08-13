@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>765</totalResultsCount>
+<geoname>
+<toponymName>Liberty County</toponymName>
+<name>Liberty County</name>
+<lat>30.15161</lat>
+<lng>-94.81221</lng>
+<geonameId>4706143</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>75643</population>
+<alternateNames>Comte de Liberty,Comté de Liberty,Condado de Liberty,Condado han Liberty,Contea di Liberty,Hrabstwo Liberty,Liberti,Liberty Comitatus,Liburti,Okrug Liberti,Quan Liberty,Quận Liberty,li bai ti xian,libarti ka'unti,ribati jun,Либерти,Либърти,Ліберті,Округ Либерти,Լիբերթի շրջան,لبرٹی کاؤنٹی، ٹیکساس,مقاطعة ليبيرتي، تكساس,লিবার্টি কাউন্টি,リバティー郡,利柏提縣</alternateNames>
+<elevation>9</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>291</adminCode2>
+<adminName2>Liberty County</adminName2>
+<alternateName lang="ar">مقاطعة ليبيرتي، تكساس</alternateName>
+<alternateName lang="bg">Либърти</alternateName>
+<alternateName lang="bpy">লিবার্টি কাউন্টি</alternateName>
+<alternateName lang="es">Condado de Liberty</alternateName>
+<alternateName lang="fr">Comté de Liberty</alternateName>
+<alternateName lang="hy">Լիբերթի շրջան</alternateName>
+<alternateName lang="it">Contea di Liberty</alternateName>
+<alternateName lang="ja">リバティー郡</alternateName>
+<alternateName lang="la">Liberty Comitatus</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Liberty_County%2C_Texas</alternateName>
+<alternateName lang="pl">Hrabstwo Liberty</alternateName>
+<alternateName lang="pnb">لبرٹی کاؤنٹی، ٹیکساس</alternateName>
+<alternateName lang="pt">Condado de Liberty</alternateName>
+<alternateName lang="ru">Либерти</alternateName>
+<alternateName lang="sr">Округ Либерти</alternateName>
+<alternateName lang="uk">Ліберті</alternateName>
+<alternateName lang="vi">Quận Liberty</alternateName>
+<alternateName lang="war">Condado han Liberty</alternateName>
+<alternateName lang="zh">利柏提縣</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-95.1652</west>
+<north>30.49292</north>
+<east>-94.44199</east>
+<south>29.88593</south>
+</bbox>
+<score>17.79327392578125</score>
+</geoname>
+<geoname>
+<toponymName>Liberty Municipal Airport</toponymName>
+<name>Liberty Municipal Airport</name>
+<lat>30.07781</lat>
+<lng>-94.69856</lng>
+<geonameId>4706185</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>AIRP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>airport</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>21</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>291</adminCode2>
+<adminName2>Liberty County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Liberty_Municipal_Airport</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>16.62363624572754</score>
+</geoname>
+<geoname>
+<toponymName>Ames</toponymName>
+<name>Ames</name>
+<lat>30.05383</lat>
+<lng>-94.74353</lng>
+<geonameId>4670667</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1003</population>
+<alternateNames/>
+<elevation>22</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>291</adminCode2>
+<adminName2>Liberty County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ames%2C_Texas</alternateName>
+<alternateName lang="unlc">QEA</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-94.74457</west>
+<north>30.05473</north>
+<east>-94.74249</east>
+<south>30.05293</south>
+</bbox>
+<score>14.663054466247559</score>
+</geoname>
+<geoname>
+<toponymName>Cleveland</toponymName>
+<name>Cleveland</name>
+<lat>30.34132</lat>
+<lng>-95.08549</lng>
+<geonameId>4682032</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>7675</population>
+<alternateNames>Klivlend,Кливленд</alternateNames>
+<elevation>48</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>291</adminCode2>
+<adminName2>Liberty County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cleveland%2C_Texas</alternateName>
+<alternateName lang="post">77327</alternateName>
+<alternateName lang="ru">Кливленд</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-95.09825</west>
+<north>30.35233</north>
+<east>-95.07272</east>
+<south>30.33031</south>
+</bbox>
+<score>14.663054466247559</score>
+</geoname>
+<geoname>
+<toponymName>Cleveland Municipal Airport</toponymName>
+<name>Cleveland Municipal Airport</name>
+<lat>30.36237</lat>
+<lng>-95.00921</lng>
+<geonameId>4682044</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>AIRP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>airport</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>45</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>291</adminCode2>
+<adminName2>Liberty County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cleveland_Municipal_Airport_%28Texas%29</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>14.663054466247559</score>
+</geoname>
+<geoname>
+<toponymName>Dayton</toponymName>
+<name>Dayton</name>
+<lat>30.04661</lat>
+<lng>-94.8852</lng>
+<geonameId>4685449</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>7242</population>
+<alternateNames>Dejton,Дейтон</alternateNames>
+<elevation>25</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>291</adminCode2>
+<adminName2>Liberty County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Dayton%2C_Texas</alternateName>
+<alternateName lang="post">77535</alternateName>
+<alternateName lang="ru">Дейтон</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-94.89793</west>
+<north>30.05762</north>
+<east>-94.87248</east>
+<south>30.03559</south>
+</bbox>
+<score>14.663054466247559</score>
+</geoname>
+<geoname>
+<toponymName>Liberty</toponymName>
+<name>Liberty</name>
+<lat>30.05799</lat>
+<lng>-94.79548</lng>
+<geonameId>4706088</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>8397</population>
+<alternateNames/>
+<elevation>9</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>291</adminCode2>
+<adminName2>Liberty County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Liberty%2C_Texas</alternateName>
+<alternateName lang="post">77575</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-94.85445</west>
+<north>30.10884</north>
+<east>-94.69524</east>
+<south>29.99157</south>
+</bbox>
+<score>13.298909187316895</score>
+</geoname>
+<geoname>
+<toponymName>Daisetta</toponymName>
+<name>Daisetta</name>
+<lat>30.11327</lat>
+<lng>-94.64298</lng>
+<geonameId>4684867</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>966</population>
+<alternateNames/>
+<elevation>25</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>291</adminCode2>
+<adminName2>Liberty County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Daisetta%2C_Texas</alternateName>
+<alternateName lang="post">77533</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-94.64401</west>
+<north>30.11417</north>
+<east>-94.64194</east>
+<south>30.11237</south>
+</bbox>
+<score>11.730443954467773</score>
+</geoname>
+<geoname>
+<toponymName>Dayton Lakes</toponymName>
+<name>Dayton Lakes</name>
+<lat>30.14466</lat>
+<lng>-94.82215</lng>
+<geonameId>4685455</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>93</population>
+<alternateNames/>
+<elevation>9</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>291</adminCode2>
+<adminName2>Liberty County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Dayton_Lakes%2C_Texas</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-94.82319</west>
+<north>30.14556</north>
+<east>-94.82111</east>
+<south>30.14376</south>
+</bbox>
+<score>11.730443954467773</score>
+</geoname>
+<geoname>
+<toponymName>Devers</toponymName>
+<name>Devers</name>
+<lat>30.02744</lat>
+<lng>-94.59158</lng>
+<geonameId>4685999</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>447</population>
+<alternateNames/>
+<elevation>18</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>291</adminCode2>
+<adminName2>Liberty County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Devers%2C_Texas</alternateName>
+<alternateName lang="post">77538</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-94.59262</west>
+<north>30.02834</north>
+<east>-94.59055</east>
+<south>30.02654</south>
+</bbox>
+<score>11.730443954467773</score>
+</geoname>
+</geonames>

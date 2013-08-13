@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>79</totalResultsCount>
+<geoname>
+<toponymName>Havana</toponymName>
+<name>Havana</name>
+<lat>23.13302</lat>
+<lng>-82.38304</lng>
+<geonameId>3553478</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>P</fcl>
+<fcode>PPLC</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>capital of a political entity</fcodeName>
+<population>2163824</population>
+<alternateNames>A Habana,Abana,Gavana,Gavanae,Gorad Gavana,HAV,Habana,Hafana,Hahvaxnaz,Havana,Havanna,Havano,Hawana,Khavana,L'Avan-a,L'Avana,L'Avann-a,L'Habana,L'Havana,La Ahuana,La Avan,La Avàn,La Habana,La Havane,S'Avana,abana,avana,ha wa na,habana,habhana,hafana,havana,hawana,Ħavana,Ł'Avana,Αβάνα,Гаванæ,Гавана,Горад Гавана,Хавана,Ҳавана,Հավանա,הוואנה,هافانا,هاوانا,ہوانا,हवाना,ਹਵਾਨਾ,ହାଭାନା,அவானா,ഹവാന,ฮาวานา,ཧ་ཝན,ჰავანა,ሀቫና,ሀኖይ,ハバナ,哈瓦那,아바나</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="03">02</adminCode1>
+<adminName1>Ciudad de La Habana</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="am">ሀኖይ</alternateName>
+<alternateName lang="an">L'Habana</alternateName>
+<alternateName lang="ang">Hafana</alternateName>
+<alternateName lang="ar">هافانا</alternateName>
+<alternateName lang="ast">L'Habana</alternateName>
+<alternateName lang="be">Горад Гавана</alternateName>
+<alternateName lang="bg">Хавана</alternateName>
+<alternateName lang="bo">ཧ་ཝན</alternateName>
+<alternateName lang="bs">Havana</alternateName>
+<alternateName lang="ca">L'Havana</alternateName>
+<alternateName lang="cs">Havana</alternateName>
+<alternateName lang="cv">Гавана</alternateName>
+<alternateName lang="da">Havana</alternateName>
+<alternateName lang="de">Havanna</alternateName>
+<alternateName lang="el">Αβάνα</alternateName>
+<alternateName lang="en">Havana</alternateName>
+<alternateName lang="eo">Havano</alternateName>
+<alternateName lang="es">La Habana</alternateName>
+<alternateName lang="et">Havanna</alternateName>
+<alternateName lang="eu">Habana</alternateName>
+<alternateName lang="ext">L'Avana</alternateName>
+<alternateName lang="fa">هاوانا</alternateName>
+<alternateName lang="fi">Havanna</alternateName>
+<alternateName lang="fo">Havanna</alternateName>
+<alternateName lang="fr">La Havane</alternateName>
+<alternateName lang="gl">A Habana</alternateName>
+<alternateName lang="hbs">Havana</alternateName>
+<alternateName lang="he">הוואנה</alternateName>
+<alternateName lang="hr">Havana</alternateName>
+<alternateName lang="ht">La Avàn</alternateName>
+<alternateName lang="hu">Havanna</alternateName>
+<alternateName lang="hy">Հավանա</alternateName>
+<alternateName lang="iata">HAV</alternateName>
+<alternateName lang="id">Havana</alternateName>
+<alternateName lang="io">Havana</alternateName>
+<alternateName lang="it">L'Avana</alternateName>
+<alternateName lang="ja">ハバナ</alternateName>
+<alternateName lang="ka">ჰავანა</alternateName>
+<alternateName lang="ko">아바나</alternateName>
+<alternateName lang="lb">Havanna</alternateName>
+<alternateName lang="lij">L'Avann-a</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Havana</alternateName>
+<alternateName lang="lmo">L'Avana</alternateName>
+<alternateName lang="lt">Havana</alternateName>
+<alternateName lang="lv">Havanna</alternateName>
+<alternateName lang="mk">Хавана</alternateName>
+<alternateName lang="ml">ഹവാന</alternateName>
+<alternateName lang="mr">हवाना</alternateName>
+<alternateName lang="mt">Ħavana</alternateName>
+<alternateName lang="nah">La Ahuana</alternateName>
+<alternateName lang="nb">Havanna</alternateName>
+<alternateName lang="nl">Havana</alternateName>
+<alternateName lang="nn">Havanna</alternateName>
+<alternateName lang="no">Havanna</alternateName>
+<alternateName lang="oc">L'Avana</alternateName>
+<alternateName lang="or">ହାଭାନା</alternateName>
+<alternateName lang="os">Гаванæ</alternateName>
+<alternateName lang="pa">ਹਵਾਨਾ</alternateName>
+<alternateName lang="pl">Hawana</alternateName>
+<alternateName lang="pms">L'Avan-a</alternateName>
+<alternateName lang="pnb">ہوانا</alternateName>
+<alternateName lang="pt">Havana</alternateName>
+<alternateName lang="ro">Havana</alternateName>
+<alternateName lang="ru">Гавана</alternateName>
+<alternateName lang="sah">Хавана</alternateName>
+<alternateName lang="sc">S'Avana</alternateName>
+<alternateName lang="scn">L'Avana</alternateName>
+<alternateName lang="sk">Havana</alternateName>
+<alternateName lang="sr">Хавана</alternateName>
+<alternateName lang="stq">Havanna</alternateName>
+<alternateName lang="sv">Havanna</alternateName>
+<alternateName lang="sw">Havana</alternateName>
+<alternateName lang="ta">அவானா</alternateName>
+<alternateName lang="tg">Ҳавана</alternateName>
+<alternateName lang="th">ฮาวานา</alternateName>
+<alternateName lang="tr">Havana</alternateName>
+<alternateName lang="uk">Гавана</alternateName>
+<alternateName lang="ur">ہوانا</alternateName>
+<alternateName lang="vec">Ł'Avana</alternateName>
+<alternateName lang="vi">La Habana</alternateName>
+<alternateName lang="za">Hahvaxnaz</alternateName>
+<alternateName lang="zh">哈瓦那</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<bbox>
+<west>-82.59098</west>
+<north>23.32396</north>
+<east>-82.17511</east>
+<south>22.94208</south>
+</bbox>
+<score>143.7262420654297</score>
+</geoname>
+<geoname>
+<toponymName>Habana</toponymName>
+<name>Habana</name>
+<lat>-6.0889</lat>
+<lng>-77.10009</lng>
+<geonameId>8350579</geonameId>
+<countryCode>PE</countryCode>
+<countryName>Peru</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="SAM">22</adminCode1>
+<adminName1>San Martín</adminName1>
+<adminCode2>2201</adminCode2>
+<adminName2>Provincia de Moyobamba</adminName2>
+<adminCode3>220103</adminCode3>
+<adminName3>Habana</adminName3>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Lima</timezone>
+<bbox>
+<west>-77.15204</west>
+<north>-6.05362</north>
+<east>-77.04787</east>
+<south>-6.12484</south>
+</bbox>
+<score>50.37141418457031</score>
+</geoname>
+<geoname>
+<toponymName>Provincia de La Habana</toponymName>
+<name>Provincia de La Habana</name>
+<lat>23.08333</lat>
+<lng>-82.3</lng>
+<geonameId>3564073</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>first-order administrative division</fcodeName>
+<population/>
+<alternateNames>Ciudad de La Habana,Habana,Havanna,La Habana,Provincia de Ciudad de La Habana,Provincia de La Habana</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="03">02</adminCode1>
+<adminName1>Ciudad de La Habana</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/La_Habana_Province</alternateName>
+<alternateName lang="no">Havanna</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<bbox>
+<west>-82.53534</west>
+<north>23.1875</north>
+<east>-82.09586</east>
+<south>22.94416</south>
+</bbox>
+<score>35.61796951293945</score>
+</geoname>
+<geoname>
+<toponymName>Habana</toponymName>
+<name>Habana</name>
+<lat>-21.03333</lat>
+<lng>149.08333</lng>
+<geonameId>2164124</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Habana,Habana Mill</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="QLD">04</adminCode1>
+<adminName1>Queensland</adminName1>
+<adminCode2>34770</adminCode2>
+<adminName2>Mackay</adminName2>
+<timezone dstOffset="10.0" gmtOffset="10.0">Australia/Brisbane</timezone>
+<bbox>
+<west>149.01891</west>
+<north>-20.97485</north>
+<east>149.15204</east>
+<south>-21.07957</south>
+</bbox>
+<score>35.25264358520508</score>
+</geoname>
+<geoname>
+<toponymName>Habana</toponymName>
+<name>Habana</name>
+<lat>-17.73333</lat>
+<lng>-64.86667</lng>
+<geonameId>3915311</geonameId>
+<countryCode>BO</countryCode>
+<countryName>Bolivia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Habana,La Habana</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="C">02</adminCode1>
+<adminName1>Cochabamba</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/La_Paz</timezone>
+<bbox>
+<west>-64.87611</west>
+<north>-17.72434</north>
+<east>-64.85722</east>
+<south>-17.74233</south>
+</bbox>
+<score>35.25264358520508</score>
+</geoname>
+<geoname>
+<toponymName>Habana</toponymName>
+<name>Habana</name>
+<lat>22.8</lat>
+<lng>-80.83333</lng>
+<geonameId>3557301</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="04">03</adminCode1>
+<adminName1>Matanzas</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<bbox>
+<west>-80.84309</west>
+<north>22.80899</north>
+<east>-80.82358</east>
+<south>22.79101</south>
+</bbox>
+<score>28.78366470336914</score>
+</geoname>
+<geoname>
+<toponymName>Habana</toponymName>
+<name>Habana</name>
+<lat>22.8</lat>
+<lng>-80.83333</lng>
+<geonameId>3557302</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="04">03</adminCode1>
+<adminName1>Matanzas</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>28.78366470336914</score>
+</geoname>
+<geoname>
+<toponymName>Habana</toponymName>
+<name>Habana</name>
+<lat>22.35</lat>
+<lng>-80.68333</lng>
+<geonameId>3557303</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="06">08</adminCode1>
+<adminName1>Cienfuegos</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>28.78366470336914</score>
+</geoname>
+<geoname>
+<toponymName>Habana</toponymName>
+<name>Habana</name>
+<lat>21.45</lat>
+<lng>-77.48333</lng>
+<geonameId>3557304</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="09">05</adminCode1>
+<adminName1>Camagüey</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>28.78366470336914</score>
+</geoname>
+<geoname>
+<toponymName>Habana</toponymName>
+<name>Habana</name>
+<lat>20.84139</lat>
+<lng>-76.90861</lng>
+<geonameId>3557305</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="10">13</adminCode1>
+<adminName1>Las Tunas</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>28.78366470336914</score>
+</geoname>
+</geonames>

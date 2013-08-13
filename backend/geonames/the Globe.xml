@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>11</totalResultsCount>
+<geoname>
+<toponymName>The Glebe</toponymName>
+<name>The Glebe</name>
+<lat>45.4001</lat>
+<lng>-75.69374</lng>
+<geonameId>6163868</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ON">08</adminCode1>
+<adminName1>Ontario</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/The_Glebe</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Toronto</timezone>
+<score>23.61099624633789</score>
+</geoname>
+<geoname>
+<toponymName>The Glebe</toponymName>
+<name>The Glebe</name>
+<lat>13.11667</lat>
+<lng>-59.55</lng>
+<geonameId>3373475</geonameId>
+<countryCode>BB</countryCode>
+<countryName>Barbados</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="03">03</adminCode1>
+<adminName1>Saint George</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Barbados</timezone>
+<bbox>
+<west>-59.55923</west>
+<north>13.12566</north>
+<east>-59.54077</east>
+<south>13.10767</south>
+</bbox>
+<score>15.7406644821167</score>
+</geoname>
+<geoname>
+<toponymName>The Glebe</toponymName>
+<name>The Glebe</name>
+<lat>43.80924</lat>
+<lng>-72.24565</lng>
+<geonameId>5236431</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>RDGE</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>ridge(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>337</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VT">VT</adminCode1>
+<adminName1>Vermont</adminName1>
+<adminCode2>017</adminCode2>
+<adminName2>Orange County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>15.7406644821167</score>
+</geoname>
+<geoname>
+<toponymName>Globe Theatre</toponymName>
+<name>Shakespeares Globe</name>
+<lat>51.50807</lat>
+<lng>-0.09651</lng>
+<geonameId>6620265</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>THTR</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>theater</fcodeName>
+<population/>
+<alternateNames>Divadlo Globe,Glob teatar,Globe Szinhaz,Globe Színház,Globe Theatre i London,Globe kazaliste,Globe kazalište,Globe-teatteri,Globus,Shakespeares Globe,Teatro do Globo,Teatrul Globe,The Globe,The Globe Theatre,Theatre du Globe,Théâtre du Globe,geullobeu geugjang,gurobu zuo,huan qiu ju chang,rong lakhr ko lb,Глоб театар,Глобус,Գլոբուս,תיאטרון הגלוב,ഗ്ലോബ് തീയേറ്റർ,โรงละครโกลบ,グローブ座,环球剧场,글로브 극장</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>M8</adminCode3>
+<adminName3>Southwark</adminName3>
+<alternateName lang="bg">Глобус</alternateName>
+<alternateName lang="cs">Divadlo Globe</alternateName>
+<alternateName lang="en">Shakespeares Globe</alternateName>
+<alternateName lang="es">The Globe</alternateName>
+<alternateName lang="fi">Globe-teatteri</alternateName>
+<alternateName lang="fr">Théâtre du Globe</alternateName>
+<alternateName lang="gl">Teatro do Globo</alternateName>
+<alternateName lang="he">תיאטרון הגלוב</alternateName>
+<alternateName lang="hr">Globe kazalište</alternateName>
+<alternateName lang="hu">Globe Színház</alternateName>
+<alternateName lang="hy">Գլոբուս</alternateName>
+<alternateName lang="ja">グローブ座</alternateName>
+<alternateName lang="ko">글로브 극장</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Globe_Theatre</alternateName>
+<alternateName lang="ml">ഗ്ലോബ് തീയേറ്റർ</alternateName>
+<alternateName lang="ro">Teatrul Globe</alternateName>
+<alternateName lang="ru">Глобус</alternateName>
+<alternateName lang="sr">Глоб театар</alternateName>
+<alternateName lang="sv">Globe Theatre i London</alternateName>
+<alternateName lang="th">โรงละครโกลบ</alternateName>
+<alternateName lang="uk">Глобус</alternateName>
+<alternateName lang="zh">环球剧场</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>14.664456367492676</score>
+</geoname>
+<geoname>
+<toponymName>The Globe</toponymName>
+<name>The Globe</name>
+<lat>-20.65</lat>
+<lng>29.96667</lng>
+<geonameId>880278</geonameId>
+<countryCode>ZW</countryCode>
+<countryName>Zimbabwe</countryName>
+<fcl>S</fcl>
+<fcode>FRM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farm</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Harare</timezone>
+<score>12.961669921875</score>
+</geoname>
+<geoname>
+<toponymName>Glebe Hill</toponymName>
+<name>Glebe Hill</name>
+<lat>32.26722</lat>
+<lng>-64.86722</lng>
+<geonameId>3573220</geonameId>
+<countryCode>BM</countryCode>
+<countryName>Bermuda</countryName>
+<fcl>T</fcl>
+<fcode>HLL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>hill</fcodeName>
+<population/>
+<alternateNames>Glebe Hill,The Glebe</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SH">10</adminCode1>
+<adminName1>Southampton</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-3.0" gmtOffset="-4.0">Atlantic/Bermuda</timezone>
+<score>11.130331039428711</score>
+</geoname>
+<geoname>
+<toponymName>The Glebe</toponymName>
+<name>The Glebe</name>
+<lat>-33.87944</lat>
+<lng>151.18639</lng>
+<geonameId>2207750</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="NSW">02</adminCode1>
+<adminName1>New South Wales</adminName1>
+<adminCode2>17200</adminCode2>
+<adminName2>City of Sydney</adminName2>
+<timezone dstOffset="10.0" gmtOffset="11.0">Australia/Sydney</timezone>
+<bbox>
+<west>151.18206</west>
+<north>-33.87585</north>
+<east>151.19072</east>
+<south>-33.88304</south>
+</bbox>
+<score>9.837915420532227</score>
+</geoname>
+<geoname>
+<toponymName>The Glebe</toponymName>
+<name>The Glebe</name>
+<lat>38.30152</lat>
+<lng>-76.78275</lng>
+<geonameId>4371153</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>31</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MD">MD</adminCode1>
+<adminName1>Maryland</adminName1>
+<adminCode2>037</adminCode2>
+<adminName2>Saint Mary's County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>4.918957710266113</score>
+</geoname>
+<geoname>
+<toponymName>The Glebe</toponymName>
+<name>The Glebe</name>
+<lat>37.99013</lat>
+<lng>-76.4844</lng>
+<geonameId>4761052</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>BAY</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>bay</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>0</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>133</adminCode2>
+<adminName2>Northumberland County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>4.918957710266113</score>
+</geoname>
+<geoname>
+<toponymName>The Glebe</toponymName>
+<name>The Glebe</name>
+<lat>-43.62833</lat>
+<lng>171.61011</lng>
+<geonameId>6216781</geonameId>
+<countryCode>NZ</countryCode>
+<countryName>New Zealand</countryName>
+<fcl>S</fcl>
+<fcode>FRMT</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farmstead</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="CAN">E9</adminCode1>
+<adminName1>Canterbury Region</adminName1>
+<adminCode2>063</adminCode2>
+<adminName2>Ashburton District</adminName2>
+<timezone dstOffset="12.0" gmtOffset="13.0">Pacific/Auckland</timezone>
+<score>4.918957710266113</score>
+</geoname>
+</geonames>

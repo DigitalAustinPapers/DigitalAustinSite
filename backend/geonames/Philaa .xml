@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Philae</toponymName>
+<name>Philae</name>
+<lat>24.01667</lat>
+<lng>32.88333</lng>
+<geonameId>356859</geonameId>
+<countryCode>EG</countryCode>
+<countryName>Egypt</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames>Filae,File,Jazirat Filah,Jazīrat Fīlah,Philae,Philaé,fei lai shen dian,firae shen dian,フィラエ神殿,菲萊神殿</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="ASN">16</adminCode1>
+<adminName1>Aswān</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ar">Jazīrat Fīlah</alternateName>
+<alternateName lang="ca">Philae</alternateName>
+<alternateName lang="de">Philae</alternateName>
+<alternateName lang="en">Philae</alternateName>
+<alternateName lang="es">File</alternateName>
+<alternateName lang="fr">Philaé</alternateName>
+<alternateName lang="ja">フィラエ神殿</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Philae</alternateName>
+<alternateName lang="nl">Philae</alternateName>
+<alternateName lang="pl">File</alternateName>
+<alternateName lang="pt">Filae</alternateName>
+<alternateName lang="sv">Philae</alternateName>
+<alternateName lang="zh">菲萊神殿</alternateName>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Cairo</timezone>
+<score>56.904571533203125</score>
+</geoname>
+<geoname>
+<toponymName>Philia</toponymName>
+<name>Philia</name>
+<lat>35.1875</lat>
+<lng>33.09167</lng>
+<geonameId>146164</geonameId>
+<countryCode>CY</countryCode>
+<countryName>Cyprus</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Filya,Fyllia,Philia,Phylia,Serhadkoy,Serhadköy,Serhatkoy,Serhatköy</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="01">04</adminCode1>
+<adminName1>Lefkosia</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Fyllia</alternateName>
+<timezone dstOffset="3.0" gmtOffset="2.0">Asia/Nicosia</timezone>
+<bbox>
+<west>33.08066</west>
+<north>35.19649</north>
+<east>33.10267</east>
+<south>35.17851</south>
+</bbox>
+<score>29.86867904663086</score>
+</geoname>
+</geonames>

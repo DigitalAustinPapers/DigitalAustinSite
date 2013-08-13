@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Isthmus of Darien</toponymName>
+<name>Isthmus of Darien</name>
+<lat>8.5</lat>
+<lng>-77.5</lng>
+<geonameId>3699895</geonameId>
+<countryCode>PA</countryCode>
+<countryName>Panama</countryName>
+<fcl>L</fcl>
+<fcode>RGN</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>region</fcodeName>
+<population/>
+<alternateNames>Darien,Darién,Isthmus of Darien,Istmo del Darien,Istmo del Darién</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Panama</timezone>
+<score>48.05179977416992</score>
+</geoname>
+<geoname>
+<toponymName>Isthmus of Panama</toponymName>
+<name>Isthmus of Panama</name>
+<lat>9</lat>
+<lng>-80</lng>
+<geonameId>3703437</geonameId>
+<countryCode>PA</countryCode>
+<countryName>Panama</countryName>
+<fcl>T</fcl>
+<fcode>ISTH</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>isthmus</fcodeName>
+<population/>
+<alternateNames>Isthmus of Darien,Isthmus of Panama,Istmo Panameno,Istmo Panameño,Istmo de Panama,Istmo de Panamá</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Isthmus of Panama</alternateName>
+<alternateName lang="es">Istmo de Panamá</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Panama</timezone>
+<score>27.742721557617188</score>
+</geoname>
+</geonames>

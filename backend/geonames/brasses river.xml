@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Braes River</toponymName>
+<name>Braes River</name>
+<lat>18.08025</lat>
+<lng>-77.65051</lng>
+<geonameId>3491250</geonameId>
+<countryCode>JM</countryCode>
+<countryName>Jamaica</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="11">11</adminCode1>
+<adminName1>St. Elizabeth</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Jamaica</timezone>
+<bbox>
+<west>-77.65998</west>
+<north>18.08924</north>
+<east>-77.64105</east>
+<south>18.07126</south>
+</bbox>
+<score>30.177812576293945</score>
+</geoname>
+<geoname>
+<toponymName>Brays River</toponymName>
+<name>Brays River</name>
+<lat>18.26013</lat>
+<lng>-76.80105</lng>
+<geonameId>3491243</geonameId>
+<countryCode>JM</countryCode>
+<countryName>Jamaica</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>Braes River,Brass River,Brays River</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="05">13</adminCode1>
+<adminName1>Saint Mary</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Jamaica</timezone>
+<score>27.576568603515625</score>
+</geoname>
+<geoname>
+<toponymName>Brass River</toponymName>
+<name>Brass River</name>
+<lat>4.29408</lat>
+<lng>6.22958</lng>
+<geonameId>2346730</geonameId>
+<countryCode>NG</countryCode>
+<countryName>Nigeria</countryName>
+<fcl>H</fcl>
+<fcode>STMD</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>distributary(-ies)</fcodeName>
+<population/>
+<alternateNames>Brass,Brass River</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="1.0">Africa/Lagos</timezone>
+<score>19.73115348815918</score>
+</geoname>
+<geoname>
+<toponymName>Braes River</toponymName>
+<name>Braes River</name>
+<lat>18.07757</lat>
+<lng>-77.67</lng>
+<geonameId>3491249</geonameId>
+<countryCode>JM</countryCode>
+<countryName>Jamaica</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>Braes River,Bray's River,Bray’s River</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="11">11</adminCode1>
+<adminName1>St. Elizabeth</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Jamaica</timezone>
+<score>13.860045433044434</score>
+</geoname>
+<geoname>
+<toponymName>Braes River</toponymName>
+<name>Braes River</name>
+<lat>18.08333</lat>
+<lng>-77.65</lng>
+<geonameId>3491251</geonameId>
+<countryCode>JM</countryCode>
+<countryName>Jamaica</countryName>
+<fcl>S</fcl>
+<fcode>AIRF</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>airfield</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="11">11</adminCode1>
+<adminName1>St. Elizabeth</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Jamaica</timezone>
+<score>9.430566787719727</score>
+</geoname>
+</geonames>

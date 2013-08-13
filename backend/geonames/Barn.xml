@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>8</totalResultsCount>
+<geoname>
+<toponymName>Moravský Beroun</toponymName>
+<name>Moravský Beroun</name>
+<lat>49.79374</lat>
+<lng>17.44212</lng>
+<geonameId>3070314</geonameId>
+<countryCode>CZ</countryCode>
+<countryName>Czechia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3369</population>
+<alternateNames>Barn,Beroun,Bärn</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Moravsk%C3%BD_Beroun</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Prague</timezone>
+<bbox>
+<west>17.43226</west>
+<north>49.8001</north>
+<east>17.45197</east>
+<south>49.78738</south>
+</bbox>
+<score>52.164581298828125</score>
+</geoname>
+<geoname>
+<toponymName>Barn</toponymName>
+<name>Barn</name>
+<lat>13.97289</lat>
+<lng>41.87169</lng>
+<geonameId>342694</geonameId>
+<countryCode>ER</countryCode>
+<countryName>Eritrea</countryName>
+<fcl>T</fcl>
+<fcode>RK</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>rock</fcodeName>
+<population/>
+<alternateNames>Barn,Scoglio Barn</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="DK">03</adminCode1>
+<adminName1>Debubawī Kʼeyih Bahrī</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="3.0" gmtOffset="3.0">Africa/Asmara</timezone>
+<score>51.11064529418945</score>
+</geoname>
+<geoname>
+<toponymName>Barn</toponymName>
+<name>Barn</name>
+<lat>68.96194</lat>
+<lng>16.65139</lng>
+<geonameId>3223110</geonameId>
+<countryCode>NO</countryCode>
+<countryName>Norway</countryName>
+<fcl>T</fcl>
+<fcode>RK</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>rock</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="19">18</adminCode1>
+<adminName1>Troms</adminName1>
+<adminCode2>1903</adminCode2>
+<adminName2>Harstad</adminName2>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Oslo</timezone>
+<score>41.731666564941406</score>
+</geoname>
+<geoname>
+<toponymName>Darām-Di-Mukh</toponymName>
+<name>Bārn</name>
+<lat>25.44218</lat>
+<lng>62.59814</lng>
+<geonameId>1183289</geonameId>
+<countryCode>PK</countryCode>
+<countryName>Pakistan</countryName>
+<fcl>T</fcl>
+<fcode>MT</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>mountain</fcodeName>
+<population/>
+<alternateNames>Barn,Bārn,Daram-Di-Mukh,Darām-Di-Mukh</alternateNames>
+<elevation>967</elevation>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="BA">02</adminCode1>
+<adminName1>Balochistān</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Bārn</alternateName>
+<timezone dstOffset="5.0" gmtOffset="5.0">Asia/Karachi</timezone>
+<score>31.298749923706055</score>
+</geoname>
+<geoname>
+<toponymName>The Barn</toponymName>
+<name>The Barn</name>
+<lat>-15.91667</lat>
+<lng>-5.66667</lng>
+<geonameId>3371078</geonameId>
+<countryCode>SH</countryCode>
+<countryName>Saint Helena</countryName>
+<fcl>T</fcl>
+<fcode>HDLD</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>headland</fcodeName>
+<population/>
+<alternateNames>Barn,The Barn</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="HL">02</adminCode1>
+<adminName1>Saint Helena</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="0.0" gmtOffset="0.0">Atlantic/St_Helena</timezone>
+<score>29.508745193481445</score>
+</geoname>
+<geoname>
+<toponymName>Grange</toponymName>
+<name>Barn</name>
+<lat>48.81947</lat>
+<lng>2.11318</lng>
+<geonameId>6284986</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>S</fcl>
+<fcode>AGRF</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>agricultural facility</fcodeName>
+<population/>
+<alternateNames>Barn,Grange</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="J">A8</adminCode1>
+<adminName1>Île-de-France</adminName1>
+<adminCode2>78</adminCode2>
+<adminName2>Yvelines</adminName2>
+<adminCode3>784</adminCode3>
+<adminName3>Arrondissement de Versailles</adminName3>
+<adminCode4>78646</adminCode4>
+<adminName4>Versailles</adminName4>
+<alternateName lang="en">Barn</alternateName>
+<alternateName lang="fr">Grange</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<score>14.754372596740723</score>
+</geoname>
+<geoname>
+<toponymName>Barn</toponymName>
+<name>Barn</name>
+<lat>37.57595</lat>
+<lng>-81.17926</lng>
+<geonameId>4797928</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>926</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WV">WV</adminCode1>
+<adminName1>West Virginia</adminName1>
+<adminCode2>055</adminCode2>
+<adminName2>Mercer County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>13.041145324707031</score>
+</geoname>
+<geoname>
+<toponymName>Barn</toponymName>
+<name>Barn</name>
+<lat>51.5703</lat>
+<lng>-0.4216</lng>
+<geonameId>6466373</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>HTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>hotel</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>F9</adminCode3>
+<adminName3>Hillingdon</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>13.041145324707031</score>
+</geoname>
+</geonames>

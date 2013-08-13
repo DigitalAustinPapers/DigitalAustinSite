@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Shants</toponymName>
+<name>Shants</name>
+<lat>60.02489</lat>
+<lng>29.68284</lng>
+<geonameId>799062</geonameId>
+<countryCode>RU</countryCode>
+<countryName>Russia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Shanc,Shants,Шанц</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SPE">66</adminCode1>
+<adminName1>St.-Petersburg</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ru">Шанц</alternateName>
+<timezone dstOffset="3.0" gmtOffset="3.0">Europe/Kaliningrad</timezone>
+<bbox>
+<west>29.66483</west>
+<north>60.03389</north>
+<east>29.70084</east>
+<south>60.0159</south>
+</bbox>
+<score>56.320919036865234</score>
+</geoname>
+</geonames>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Neighborhood</toponymName>
+<name>Neighborhood</name>
+<lat>13.3631</lat>
+<lng>123.3063</lng>
+<geonameId>7425120</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Neighborhood</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="ALB">05</adminCode1>
+<adminName1>Bicol</adminName1>
+<adminCode2>16</adminCode2>
+<adminName2>Camarines Sur</adminName2>
+<alternateName lang="en">Neighborhood</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<bbox>
+<west>123.29706</west>
+<north>13.37209</north>
+<east>123.31554</east>
+<south>13.35411</south>
+</bbox>
+<score>42.24068832397461</score>
+</geoname>
+</geonames>

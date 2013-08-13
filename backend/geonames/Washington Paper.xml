@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>18</totalResultsCount>
+<geoname>
+<toponymName>Washington, Cape</toponymName>
+<name>Washington, Cape</name>
+<lat>-74.65</lat>
+<lng>165.41667</lng>
+<geonameId>6627814</geonameId>
+<countryCode>AQ</countryCode>
+<countryName>Antarctica</countryName>
+<fcl>T</fcl>
+<fcode>CAPE</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>cape</fcodeName>
+<population/>
+<alternateNames>Washington, Cape</alternateNames>
+<elevation>300</elevation>
+<continentCode>AN</continentCode>
+<adminCode1/>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Washington, Cape</alternateName>
+<timezone dstOffset="12.0" gmtOffset="13.0">Antarctica/McMurdo</timezone>
+<score>34.23639678955078</score>
+</geoname>
+<geoname>
+<toponymName>Washington Manor</toponymName>
+<name>Washington Manor</name>
+<lat>39.16983</lat>
+<lng>-76.79497</lng>
+<geonameId>4372805</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>80</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MD">MD</adminCode1>
+<adminName1>Maryland</adminName1>
+<adminCode2>027</adminCode2>
+<adminName2>Howard County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-76.80657</west>
+<north>39.17882</north>
+<east>-76.78337</east>
+<south>39.16084</south>
+</bbox>
+<score>22.188600540161133</score>
+</geoname>
+<geoname>
+<toponymName>Washington Place</toponymName>
+<name>Washington Place</name>
+<lat>39.77699</lat>
+<lng>-86.01637</lng>
+<geonameId>4266598</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>261</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IN">IN</adminCode1>
+<adminName1>Indiana</adminName1>
+<adminCode2>097</adminCode2>
+<adminName2>Marion County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Indiana/Indianapolis</timezone>
+<bbox>
+<west>-86.02808</west>
+<north>39.78598</north>
+<east>-86.00467</east>
+<south>39.76799</south>
+</bbox>
+<score>21.556974411010742</score>
+</geoname>
+<geoname>
+<toponymName>Washington Place</toponymName>
+<name>Washington Place</name>
+<lat>35.71627</lat>
+<lng>-77.89304</lng>
+<geonameId>4497690</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>40</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NC">NC</adminCode1>
+<adminName1>North Carolina</adminName1>
+<adminCode2>195</adminCode2>
+<adminName2>Wilson County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-77.89747</west>
+<north>35.71987</north>
+<east>-77.88861</east>
+<south>35.71267</south>
+</bbox>
+<score>13.473109245300293</score>
+</geoname>
+<geoname>
+<toponymName>Washington Place</toponymName>
+<name>Washington Place</name>
+<lat>35.08896</lat>
+<lng>-85.1694</lng>
+<geonameId>4665995</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>241</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TN">TN</adminCode1>
+<adminName1>Tennessee</adminName1>
+<adminCode2>065</adminCode2>
+<adminName2>Hamilton County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-85.1738</west>
+<north>35.09256</north>
+<east>-85.165</east>
+<south>35.08536</south>
+</bbox>
+<score>13.473109245300293</score>
+</geoname>
+<geoname>
+<toponymName>Washington Manor</toponymName>
+<name>Washington Manor</name>
+<lat>40.80028</lat>
+<lng>-73.65083</lng>
+<geonameId>7161046</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>BLDG</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>building(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>8</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>059</adminCode2>
+<adminName2>Nassau County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>6.9339375495910645</score>
+</geoname>
+<geoname>
+<toponymName>Washington Manor</toponymName>
+<name>Washington Manor</name>
+<lat>40.77972</lat>
+<lng>-74.22194</lng>
+<geonameId>8502515</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>BLDG</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>building(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>42</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NJ">NJ</adminCode1>
+<adminName1>New Jersey</adminName1>
+<adminCode2>013</adminCode2>
+<adminName2>Essex County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>6.9339375495910645</score>
+</geoname>
+<geoname>
+<toponymName>Washington Place</toponymName>
+<name>Washington Place</name>
+<lat>21.31194</lat>
+<lng>-157.85944</lng>
+<geonameId>5854788</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>BLDG</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>building(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>6</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="HI">HI</adminCode1>
+<adminName1>Hawaii</adminName1>
+<adminCode2>003</adminCode2>
+<adminName2>Honolulu County</adminName2>
+<timezone dstOffset="-10.0" gmtOffset="-10.0">Pacific/Honolulu</timezone>
+<score>6.7365546226501465</score>
+</geoname>
+<geoname>
+<toponymName>Washington Chapel</toponymName>
+<name>Washington Chapel</name>
+<lat>33.05236</lat>
+<lng>-93.27489</lng>
+<geonameId>4135392</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>CH</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>church</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>73</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">AR</adminCode1>
+<adminName1>Arkansas</adminName1>
+<adminCode2>027</adminCode2>
+<adminName2>Columbia County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>6.0619425773620605</score>
+</geoname>
+<geoname>
+<toponymName>Washington Chapel</toponymName>
+<name>Washington Chapel</name>
+<lat>30.88659</lat>
+<lng>-83.24793</lng>
+<geonameId>4229551</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>CH</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>church</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>64</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">GA</adminCode1>
+<adminName1>Georgia</adminName1>
+<adminCode2>185</adminCode2>
+<adminName2>Lowndes County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>6.0619425773620605</score>
+</geoname>
+</geonames>

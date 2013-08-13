@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>21</totalResultsCount>
+<geoname>
+<toponymName>Stuarts</toponymName>
+<name>Stuarts</name>
+<lat>-46.53333</lat>
+<lng>169.45</lng>
+<geonameId>2182215</geonameId>
+<countryCode>NZ</countryCode>
+<countryName>New Zealand</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="OTA">F7</adminCode1>
+<adminName1>Otago Region</adminName1>
+<adminCode2>072</adminCode2>
+<adminName2>Clutha District</adminName2>
+<timezone dstOffset="12.0" gmtOffset="13.0">Pacific/Auckland</timezone>
+<bbox>
+<west>169.43693</west>
+<north>-46.52434</north>
+<east>169.46307</east>
+<south>-46.54233</south>
+</bbox>
+<score>42.60642623901367</score>
+</geoname>
+<geoname>
+<toponymName>Stuarts</toponymName>
+<name>Stuarts</name>
+<lat>-46.52841</lat>
+<lng>169.4401</lng>
+<geonameId>6208808</geonameId>
+<countryCode>NZ</countryCode>
+<countryName>New Zealand</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="OTA">F7</adminCode1>
+<adminName1>Otago Region</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="12.0" gmtOffset="13.0">Pacific/Auckland</timezone>
+<score>42.60642623901367</score>
+</geoname>
+<geoname>
+<toponymName>Stuart’s</toponymName>
+<name>Stuart’s</name>
+<lat>17.15</lat>
+<lng>-62.61667</lng>
+<geonameId>3575129</geonameId>
+<countryCode>KN</countryCode>
+<countryName>Saint Kitts and Nevis</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="12">12</adminCode1>
+<adminName1>Saint Thomas Lowland</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/St_Kitts</timezone>
+<score>12.803927421569824</score>
+</geoname>
+<geoname>
+<toponymName>Stuart</toponymName>
+<name>Stuart</name>
+<lat>34.90148</lat>
+<lng>-96.09889</lng>
+<geonameId>4552372</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>180</population>
+<alternateNames/>
+<elevation>224</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OK">OK</adminCode1>
+<adminName1>Oklahoma</adminName1>
+<adminCode2>063</adminCode2>
+<adminName2>Hughes County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stuart%2C_Oklahoma</alternateName>
+<alternateName lang="post">74570</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-96.10675</west>
+<north>34.90463</north>
+<east>-96.09329</east>
+<south>34.89829</south>
+</bbox>
+<score>8.315584182739258</score>
+</geoname>
+<geoname>
+<toponymName>Stuart</toponymName>
+<name>Stuart</name>
+<lat>41.50332</lat>
+<lng>-94.31857</lng>
+<geonameId>4877761</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1648</population>
+<alternateNames/>
+<elevation>368</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IA">IA</adminCode1>
+<adminName1>Iowa</adminName1>
+<adminCode2>077</adminCode2>
+<adminName2>Guthrie County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stuart%2C_Iowa</alternateName>
+<alternateName lang="post">50250</alternateName>
+<alternateName lang="unlc">TZT</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-94.32458</west>
+<north>41.50782</north>
+<east>-94.31257</east>
+<south>41.49882</south>
+</bbox>
+<score>8.315584182739258</score>
+</geoname>
+<geoname>
+<toponymName>Stuart</toponymName>
+<name>Stuart</name>
+<lat>42.59917</lat>
+<lng>-99.1426</lng>
+<geonameId>5079747</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>590</population>
+<alternateNames/>
+<elevation>658</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NE">NE</adminCode1>
+<adminName1>Nebraska</adminName1>
+<adminCode2>089</adminCode2>
+<adminName2>Holt County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stuart%2C_Nebraska</alternateName>
+<alternateName lang="post">68780</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-99.14382</west>
+<north>42.60007</north>
+<east>-99.14138</east>
+<south>42.59827</south>
+</bbox>
+<score>8.315584182739258</score>
+</geoname>
+<geoname>
+<toponymName>Stuart</toponymName>
+<name>Stuart</name>
+<lat>45.93342</lat>
+<lng>-78.01622</lng>
+<geonameId>6158364</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ON">08</adminCode1>
+<adminName1>Ontario</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stuart%2C_Ontario</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Toronto</timezone>
+<score>8.315584182739258</score>
+</geoname>
+<geoname>
+<toponymName>Stuart</toponymName>
+<name>Stuart</name>
+<lat>36.64097</lat>
+<lng>-80.26561</lng>
+<geonameId>4788051</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>1408</population>
+<alternateNames/>
+<elevation>410</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>141</adminCode2>
+<adminName2>Patrick County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stuart%2C_Virginia</alternateName>
+<alternateName lang="post">24171</alternateName>
+<alternateName lang="unlc">ST2</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-80.27121</west>
+<north>36.64547</north>
+<east>-80.26</east>
+<south>36.63647</south>
+</bbox>
+<score>6.929654121398926</score>
+</geoname>
+<geoname>
+<toponymName>Stuart</toponymName>
+<name>Stuart</name>
+<lat>36.26396</lat>
+<lng>-91.51847</lng>
+<geonameId>4132653</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>220</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">AR</adminCode1>
+<adminName1>Arkansas</adminName1>
+<adminCode2>135</adminCode2>
+<adminName2>Sharp County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-91.52963</west>
+<north>36.27295</north>
+<east>-91.50732</east>
+<south>36.25496</south>
+</bbox>
+<score>5.543723106384277</score>
+</geoname>
+<geoname>
+<toponymName>Stuart</toponymName>
+<name>Stuart</name>
+<lat>33.25115</lat>
+<lng>-117.42087</lng>
+<geonameId>5399409</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>19</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>073</adminCode2>
+<adminName2>San Diego County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-117.43163</west>
+<north>33.26014</north>
+<east>-117.41012</east>
+<south>33.24215</south>
+</bbox>
+<score>5.543723106384277</score>
+</geoname>
+</geonames>

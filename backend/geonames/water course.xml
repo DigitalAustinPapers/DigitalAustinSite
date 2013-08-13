@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Water Coulee</toponymName>
+<name>Water Coulee</name>
+<lat>48.63223</lat>
+<lng>-107.40592</lng>
+<geonameId>5685050</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>VAL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>valley</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>713</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MT">MT</adminCode1>
+<adminName1>Montana</adminName1>
+<adminCode2>071</adminCode2>
+<adminName2>Phillips County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<score>45.98583984375</score>
+</geoname>
+</geonames>

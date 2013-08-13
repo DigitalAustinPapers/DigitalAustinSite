@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Berrys</toponymName>
+<name>Berrys</name>
+<lat>22.95</lat>
+<lng>-74.88333</lng>
+<geonameId>3572844</geonameId>
+<countryCode>BS</countryCode>
+<countryName>Bahamas</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Berrys,Berrys Settlement</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LI">15</adminCode1>
+<adminName1>Long Island</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Nassau</timezone>
+<bbox>
+<west>-74.8931</west>
+<north>22.95899</north>
+<east>-74.87357</east>
+<south>22.94101</south>
+</bbox>
+<score>32.51689910888672</score>
+</geoname>
+</geonames>

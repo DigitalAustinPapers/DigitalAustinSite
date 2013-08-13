@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Masons Hope</toponymName>
+<name>Masons Hope</name>
+<lat>18.15</lat>
+<lng>-76.6</lng>
+<geonameId>3489537</geonameId>
+<countryCode>JM</countryCode>
+<countryName>Jamaica</countryName>
+<fcl>T</fcl>
+<fcode>HLL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>hill</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="04">07</adminCode1>
+<adminName1>Portland</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Jamaica</timezone>
+<score>26.927082061767578</score>
+</geoname>
+<geoname>
+<toponymName>Masons Cove</toponymName>
+<name>Masons Cove</name>
+<lat>49.31663</lat>
+<lng>-55.03146</lng>
+<geonameId>6067641</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NL">05</adminCode1>
+<adminName1>Newfoundland and Labrador</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-2.5" gmtOffset="-3.5">America/St_Johns</timezone>
+<score>24.680057525634766</score>
+</geoname>
+<geoname>
+<toponymName>Mason Lodge</toponymName>
+<name>Mason Lodge</name>
+<lat>54.98611</lat>
+<lng>-7.53</lng>
+<geonameId>3307614</geonameId>
+<countryCode>IE</countryCode>
+<countryName>Ireland</countryName>
+<fcl>S</fcl>
+<fcode>HSE</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>house(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="U">U</adminCode1>
+<adminName1>Ulster</adminName1>
+<adminCode2>06</adminCode2>
+<adminName2>Donegal</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Dublin</timezone>
+<score>8.414712905883789</score>
+</geoname>
+<geoname>
+<toponymName>Masons Cove</toponymName>
+<name>Masons Cove</name>
+<lat>49.31663</lat>
+<lng>-55.03146</lng>
+<geonameId>6067642</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>H</fcl>
+<fcode>COVE</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>cove(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NL">05</adminCode1>
+<adminName1>Newfoundland and Labrador</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-2.5" gmtOffset="-3.5">America/St_Johns</timezone>
+<score>7.712517738342285</score>
+</geoname>
+<geoname>
+<toponymName>Masons Cove</toponymName>
+<name>Masons Cove</name>
+<lat>47.41659</lat>
+<lng>-53.19808</lng>
+<geonameId>6067643</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>H</fcl>
+<fcode>COVE</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>cove(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NL">05</adminCode1>
+<adminName1>Newfoundland and Labrador</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-2.5" gmtOffset="-3.5">America/St_Johns</timezone>
+<score>7.712517738342285</score>
+</geoname>
+</geonames>

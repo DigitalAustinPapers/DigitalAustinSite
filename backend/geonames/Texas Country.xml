@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Texas County</toponymName>
+<name>Texas County</name>
+<lat>37.31731</lat>
+<lng>-91.96505</lng>
+<geonameId>4411468</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>26008</population>
+<alternateNames>Comte de Texas,Comté de Texas</alternateNames>
+<elevation>366</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>215</adminCode2>
+<adminName2>Texas County</adminName2>
+<alternateName lang="fr">Comté de Texas</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Texas_County%2C_Missouri</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.25211</west>
+<north>37.60562</north>
+<east>-91.64652</east>
+<south>37.04869</south>
+</bbox>
+<score>78.46826934814453</score>
+</geoname>
+<geoname>
+<toponymName>Texas County</toponymName>
+<name>Texas County</name>
+<lat>36.74791</lat>
+<lng>-101.49001</lng>
+<geonameId>5515937</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>20640</population>
+<alternateNames>Comte de Texas,Comté de Texas</alternateNames>
+<elevation>915</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OK">OK</adminCode1>
+<adminName1>Oklahoma</adminName1>
+<adminCode2>139</adminCode2>
+<adminName2>Texas County</adminName2>
+<alternateName lang="fr">Comté de Texas</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Texas_County%2C_Oklahoma</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-102.0332</west>
+<north>36.99883</north>
+<east>-100.94408</east>
+<south>36.49977</south>
+</bbox>
+<score>78.46826934814453</score>
+</geoname>
+</geonames>

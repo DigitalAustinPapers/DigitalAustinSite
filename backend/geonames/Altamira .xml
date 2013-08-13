@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>220</totalResultsCount>
+<geoname>
+<toponymName>Altamira</toponymName>
+<name>Altamira</name>
+<lat>22.39322</lat>
+<lng>-97.93953</lng>
+<geonameId>3533005</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>54954</population>
+<alternateNames>Al'tamira,Altamira,Альтамира</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TAM">28</adminCode1>
+<adminName1>Tamaulipas</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Altamira%2C_Tamaulipas</alternateName>
+<alternateName lang="ru">Альтамира</alternateName>
+<alternateName lang="unlc">ATM</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<bbox>
+<west>-97.97216</west>
+<north>22.42338</north>
+<east>-97.90689</east>
+<south>22.36305</south>
+</bbox>
+<score>60.69078826904297</score>
+</geoname>
+<geoname>
+<toponymName>Altamira</toponymName>
+<name>Altamira</name>
+<lat>-3.20333</lat>
+<lng>-52.20639</lng>
+<geonameId>3407882</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>70888</population>
+<alternateNames>ATM,Al'tamira,Альтамира</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="PA">16</adminCode1>
+<adminName1>Pará</adminName1>
+<adminCode2>1500602</adminCode2>
+<adminName2>Altamira</adminName2>
+<alternateName lang="iata">ATM</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Altamira%2C_Par%C3%A1</alternateName>
+<alternateName lang="ru">Альтамира</alternateName>
+<alternateName lang="unlc">ATM</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Santarem</timezone>
+<bbox>
+<west>-52.24098</west>
+<north>-3.16879</north>
+<east>-52.1718</east>
+<south>-3.23787</south>
+</bbox>
+<score>55.2348518371582</score>
+</geoname>
+<geoname>
+<toponymName>Altamira</toponymName>
+<name>Altamira</name>
+<lat>2.16667</lat>
+<lng>-75.83333</lng>
+<geonameId>3690104</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="HUI">16</adminCode1>
+<adminName1>Huila</adminName1>
+<adminCode2>3690104</adminCode2>
+<adminName2>Altamira</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<score>41.13711929321289</score>
+</geoname>
+<geoname>
+<toponymName>Altamira</toponymName>
+<name>Altamira</name>
+<lat>-5.87889</lat>
+<lng>-53.65823</lng>
+<geonameId>6324183</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>105030</population>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="PA">16</adminCode1>
+<adminName1>Pará</adminName1>
+<adminCode2>1500602</adminCode2>
+<adminName2>Altamira</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Manaus</timezone>
+<bbox>
+<west>-55.62387</west>
+<north>-2.98872</north>
+<east>-51.64754</east>
+<south>-9.64533</south>
+</bbox>
+<score>41.13711929321289</score>
+</geoname>
+<geoname>
+<toponymName>Altamira</toponymName>
+<name>Altamira</name>
+<lat>19.7</lat>
+<lng>-70.83333</lng>
+<geonameId>3512798</geonameId>
+<countryCode>DO</countryCode>
+<countryName>Dominican Republic</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>24137</population>
+<alternateNames>Altamira</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="18">18</adminCode1>
+<adminName1>Puerto Plata</adminName1>
+<adminCode2>3512798</adminCode2>
+<adminName2>Altamira</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Santo_Domingo</timezone>
+<score>40.30598068237305</score>
+</geoname>
+<geoname>
+<toponymName>Altamira</toponymName>
+<name>Altamira</name>
+<lat>19.6773</lat>
+<lng>-70.84428</lng>
+<geonameId>3512795</geonameId>
+<countryCode>DO</countryCode>
+<countryName>Dominican Republic</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>4563</population>
+<alternateNames>Altamira</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="18">18</adminCode1>
+<adminName1>Puerto Plata</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Altamira%2C_Puerto_Plata</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Santo_Domingo</timezone>
+<bbox>
+<west>-70.85256</west>
+<north>19.68509</north>
+<east>-70.83601</east>
+<south>19.66951</south>
+</bbox>
+<score>35.26773452758789</score>
+</geoname>
+<geoname>
+<toponymName>Altamura</toponymName>
+<name>Altamura</name>
+<lat>40.82923</lat>
+<lng>16.55368</lng>
+<geonameId>3183178</geonameId>
+<countryCode>IT</countryCode>
+<countryName>Italy</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>64167</population>
+<alternateNames>Altamura,arutamura,Алтамура,アルタムーラ</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="75">13</adminCode1>
+<adminName1>Apulia</adminName1>
+<adminCode2>BA</adminCode2>
+<adminName2>Provincia di Bari</adminName2>
+<adminCode3>072004</adminCode3>
+<adminName3>Altamura</adminName3>
+<alternateName lang="cs">Altamura</alternateName>
+<alternateName lang="en">Altamura</alternateName>
+<alternateName lang="eo">Altamura</alternateName>
+<alternateName lang="fr">Altamura</alternateName>
+<alternateName lang="it">Altamura</alternateName>
+<alternateName lang="ja">アルタムーラ</alternateName>
+<alternateName lang="nap">Altamura</alternateName>
+<alternateName lang="nl">Altamura</alternateName>
+<alternateName lang="pl">Altamura</alternateName>
+<alternateName lang="pt">Altamura</alternateName>
+<alternateName lang="ru">Алтамура</alternateName>
+<alternateName lang="unlc">ATM</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Rome</timezone>
+<bbox>
+<west>16.51039</west>
+<north>40.86196</north>
+<east>16.59697</east>
+<south>40.79649</south>
+</bbox>
+<score>34.9351806640625</score>
+</geoname>
+<geoname>
+<toponymName>Altamira</toponymName>
+<name>Altamira</name>
+<lat>-3.25391</lat>
+<lng>-52.25398</lng>
+<geonameId>6300631</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>S</fcl>
+<fcode>AIRP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>airport</fcodeName>
+<population/>
+<alternateNames>ATM,SBHT</alternateNames>
+<elevation>112</elevation>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="PA">16</adminCode1>
+<adminName1>Pará</adminName1>
+<adminCode2>1500602</adminCode2>
+<adminName2>Altamira</adminName2>
+<alternateName lang="iata">ATM</alternateName>
+<alternateName lang="icao">SBHT</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Altamira_Airport</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Manaus</timezone>
+<score>28.795982360839844</score>
+</geoname>
+<geoname>
+<toponymName>Altamira</toponymName>
+<name>Altamira</name>
+<lat>20.845</lat>
+<lng>-76.67722</lng>
+<geonameId>3569113</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames>Altamira,Altamlra</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="11">12</adminCode1>
+<adminName1>Holguín</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>28.63890266418457</score>
+</geoname>
+<geoname>
+<toponymName>Altamira</toponymName>
+<name>Altamira</name>
+<lat>2.06278</lat>
+<lng>-75.78722</lng>
+<geonameId>3690102</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2123</population>
+<alternateNames>Altamira,Boqueron,Boquerón</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="HUI">16</adminCode1>
+<adminName1>Huila</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Altamira%2C_Huila</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<bbox>
+<west>-75.79172</west>
+<north>2.06727</north>
+<east>-75.78272</east>
+<south>2.05828</south>
+</bbox>
+<score>25.191238403320312</score>
+</geoname>
+</geonames>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>7</totalResultsCount>
+<geoname>
+<toponymName>English Island</toponymName>
+<name>English Island</name>
+<lat>-34.63781</lat>
+<lng>136.19626</lng>
+<geonameId>2071949</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames>English Island</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="SA">05</adminCode1>
+<adminName1>South Australia</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">English Island</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/English_Island_%28South_Australia%29</alternateName>
+<timezone dstOffset="9.5" gmtOffset="10.5">Australia/Adelaide</timezone>
+<score>74.36077880859375</score>
+</geoname>
+<geoname>
+<toponymName>English Island</toponymName>
+<name>English Island</name>
+<lat>6.7273</lat>
+<lng>-58.54618</lng>
+<geonameId>3378765</geonameId>
+<countryCode>GY</countryCode>
+<countryName>Guyana</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="ES">14</adminCode1>
+<adminName1>Essequibo Islands-West Demerara</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Guyana</timezone>
+<score>42.0648078918457</score>
+</geoname>
+<geoname>
+<toponymName>English Island</toponymName>
+<name>English Island</name>
+<lat>51.16676</lat>
+<lng>-55.71473</lng>
+<geonameId>5948895</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NL">05</adminCode1>
+<adminName1>Newfoundland and Labrador</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-2.5" gmtOffset="-3.5">America/St_Johns</timezone>
+<score>42.0648078918457</score>
+</geoname>
+<geoname>
+<toponymName>English Island</toponymName>
+<name>English Island</name>
+<lat>45.01684</lat>
+<lng>-66.94889</lng>
+<geonameId>5948896</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NB">04</adminCode1>
+<adminName1>New Brunswick</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-3.0" gmtOffset="-4.0">America/Moncton</timezone>
+<bbox>
+<west>-67.0255</west>
+<north>45.02885</north>
+<east>-66.94193</east>
+<south>44.92506</south>
+</bbox>
+<score>42.0648078918457</score>
+</geoname>
+<geoname>
+<toponymName>English Island</toponymName>
+<name>English Island</name>
+<lat>44.60011</lat>
+<lng>-76.13267</lng>
+<geonameId>5948897</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ON">08</adminCode1>
+<adminName1>Ontario</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Toronto</timezone>
+<score>42.0648078918457</score>
+</geoname>
+<geoname>
+<toponymName>English Island</toponymName>
+<name>English Island</name>
+<lat>54.81153</lat>
+<lng>-99.9213</lng>
+<geonameId>5948898</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MB">03</adminCode1>
+<adminName1>Manitoba</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Winnipeg</timezone>
+<score>42.0648078918457</score>
+</geoname>
+<geoname>
+<toponymName>English Island</toponymName>
+<name>English Island</name>
+<lat>58.70025</lat>
+<lng>-111.2019</lng>
+<geonameId>5948899</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AB">01</adminCode1>
+<adminName1>Alberta</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Edmonton</timezone>
+<score>42.0648078918457</score>
+</geoname>
+</geonames>

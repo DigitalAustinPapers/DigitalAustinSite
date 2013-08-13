@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Seaboard</toponymName>
+<name>Seaboard</name>
+<lat>37.14039</lat>
+<lng>-81.78234</lng>
+<geonameId>4784742</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>687</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>185</adminCode2>
+<adminName2>Tazewell County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Seaboard%2C_Virginia</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-81.79362</west>
+<north>37.14938</north>
+<east>-81.77105</east>
+<south>37.1314</south>
+</bbox>
+<score>66.0379867553711</score>
+</geoname>
+<geoname>
+<toponymName>Seaboard</toponymName>
+<name>Seaboard</name>
+<lat>31.32128</lat>
+<lng>-88.18862</lng>
+<geonameId>4088963</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>34</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AL">AL</adminCode1>
+<adminName1>Alabama</adminName1>
+<adminCode2>129</adminCode2>
+<adminName2>Washington County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-88.19915</west>
+<north>31.33027</north>
+<east>-88.17809</east>
+<south>31.31229</south>
+</bbox>
+<score>44.025325775146484</score>
+</geoname>
+<geoname>
+<toponymName>Seaboard</toponymName>
+<name>Seaboard</name>
+<lat>36.49015</lat>
+<lng>-77.44136</lng>
+<geonameId>4490677</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>632</population>
+<alternateNames/>
+<elevation>40</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NC">NC</adminCode1>
+<adminName1>North Carolina</adminName1>
+<adminCode2>131</adminCode2>
+<adminName2>Northampton County</adminName2>
+<alternateName lang="post">27876</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-77.44248</west>
+<north>36.49105</north>
+<east>-77.44024</east>
+<south>36.48925</south>
+</bbox>
+<score>33.01899337768555</score>
+</geoname>
+</geonames>

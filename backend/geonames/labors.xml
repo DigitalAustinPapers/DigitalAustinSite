@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>18</totalResultsCount>
+<geoname>
+<toponymName>Laborai</toponymName>
+<name>Laborai</name>
+<lat>56.06278</lat>
+<lng>23.85833</lng>
+<geonameId>597709</geonameId>
+<countryCode>LT</countryCode>
+<countryName>Lithuania</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Laborai,Laboray,Laboru,Laborų</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="3.0" gmtOffset="2.0">Europe/Vilnius</timezone>
+<bbox>
+<west>23.84222</west>
+<north>56.07177</north>
+<east>23.87445</east>
+<south>56.05378</south>
+</bbox>
+<score>19.461261749267578</score>
+</geoname>
+<geoname>
+<toponymName>Lębork</toponymName>
+<name>Lębork</name>
+<lat>54.53921</lat>
+<lng>17.75012</lng>
+<geonameId>3093739</geonameId>
+<countryCode>PL</countryCode>
+<countryName>Poland</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>35161</population>
+<alternateNames>Laborg,Lauenburg,Lauenburg in Pommern,Lebork,Lembork,Lemborka,Lemborkas,Lãbòrg,Lębork,lun bao,Лемборк,倫堡</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="PM">82</adminCode1>
+<adminName1>Pomeranian Voivodeship</adminName1>
+<adminCode2>2208</adminCode2>
+<adminName2>Powiat lęborski</adminName2>
+<adminCode3>220801</adminCode3>
+<adminName3>Lębork</adminName3>
+<alternateName lang="bg">Лемборк</alternateName>
+<alternateName lang="csb">Lãbòrg</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/L%C4%99bork</alternateName>
+<alternateName lang="lt">Lemborkas</alternateName>
+<alternateName lang="lv">Lemborka</alternateName>
+<alternateName lang="ru">Лемборк</alternateName>
+<alternateName lang="uk">Лемборк</alternateName>
+<alternateName lang="zh">倫堡</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Warsaw</timezone>
+<bbox>
+<west>17.70835</west>
+<north>54.56343</north>
+<east>17.79189</east>
+<south>54.515</south>
+</bbox>
+<score>19.461261749267578</score>
+</geoname>
+<geoname>
+<toponymName>Laboro</toponymName>
+<name>Laboro</name>
+<lat>2.90103</lat>
+<lng>31.65058</lng>
+<geonameId>230249</geonameId>
+<countryCode>UG</countryCode>
+<countryName>Uganda</countryName>
+<fcl>T</fcl>
+<fcode>HLL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>hill</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="N">N</adminCode1>
+<adminName1>Northern Region</adminName1>
+<adminCode2>B9</adminCode2>
+<adminName2>Amuru</adminName2>
+<timezone dstOffset="3.0" gmtOffset="3.0">Africa/Kampala</timezone>
+<score>18.502689361572266</score>
+</geoname>
+<geoname>
+<toponymName>Labora</toponymName>
+<name>Labora</name>
+<lat>-5.06667</lat>
+<lng>122.61667</lng>
+<geonameId>1638903</geonameId>
+<countryCode>ID</countryCode>
+<countryName>Indonesia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Makassar</timezone>
+<bbox>
+<west>122.60764</west>
+<north>-5.05767</north>
+<east>122.6257</east>
+<south>-5.07566</south>
+</bbox>
+<score>17.329486846923828</score>
+</geoname>
+<geoname>
+<toponymName>Labores</toponymName>
+<name>Labores</name>
+<lat>6.73833</lat>
+<lng>-75.62361</lng>
+<geonameId>3679726</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="ANT">02</adminCode1>
+<adminName1>Departamento de Antioquia</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<bbox>
+<west>-75.63267</west>
+<north>6.74733</north>
+<east>-75.61455</east>
+<south>6.72934</south>
+</bbox>
+<score>17.329486846923828</score>
+</geoname>
+<geoname>
+<toponymName>Labores</toponymName>
+<name>Labores</name>
+<lat>27.65</lat>
+<lng>-110.33333</lng>
+<geonameId>4003340</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SON">26</adminCode1>
+<adminName1>Sonora</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-7.0" gmtOffset="-7.0">America/Hermosillo</timezone>
+<bbox>
+<west>-110.34349</west>
+<north>27.65899</north>
+<east>-110.32318</east>
+<south>27.64101</south>
+</bbox>
+<score>17.329486846923828</score>
+</geoname>
+<geoname>
+<toponymName>Labora</toponymName>
+<name>Labora</name>
+<lat>2.73899</lat>
+<lng>32.38883</lng>
+<geonameId>8198319</geonameId>
+<countryCode>UG</countryCode>
+<countryName>Uganda</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="N">N</adminCode1>
+<adminName1>Northern Region</adminName1>
+<adminCode2>30</adminCode2>
+<adminName2>Gulu</adminName2>
+<timezone dstOffset="3.0" gmtOffset="3.0">Africa/Kampala</timezone>
+<bbox>
+<west>32.37982</west>
+<north>2.74798</north>
+<east>32.39783</east>
+<south>2.72999</south>
+</bbox>
+<score>17.329486846923828</score>
+</geoname>
+<geoname>
+<toponymName>Laborí</toponymName>
+<name>Laborí</name>
+<lat>22.8</lat>
+<lng>-82.93333</lng>
+<geonameId>3555285</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1>AR</adminCode1>
+<adminName1>Provincia Artemisa</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>16.577707290649414</score>
+</geoname>
+<geoname>
+<toponymName>Labori</toponymName>
+<name>Labori</name>
+<lat>6.73756</lat>
+<lng>3.52631</lng>
+<geonameId>6826435</geonameId>
+<countryCode>NG</countryCode>
+<countryName>Nigeria</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="OG">16</adminCode1>
+<adminName1>Ogun</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="1.0">Africa/Lagos</timezone>
+<bbox>
+<west>3.51726</west>
+<north>6.74656</north>
+<east>3.53537</east>
+<south>6.72857</south>
+</bbox>
+<score>16.577707290649414</score>
+</geoname>
+<geoname>
+<toponymName>Labora</toponymName>
+<name>Labora</name>
+<lat>-9.7077</lat>
+<lng>119.3334</lng>
+<geonameId>7411792</geonameId>
+<countryCode>ID</countryCode>
+<countryName>Indonesia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Labora</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="NT">18</adminCode1>
+<adminName1>East Nusa Tenggara</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="id">Labora</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Makassar</timezone>
+<bbox>
+<west>119.32428</west>
+<north>-9.69871</north>
+<east>119.34252</east>
+<south>-9.71669</south>
+</bbox>
+<score>15.918149948120117</score>
+</geoname>
+</geonames>

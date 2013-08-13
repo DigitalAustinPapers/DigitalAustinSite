@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Gulph</toponymName>
+<name>Gulph</name>
+<lat>43.01035</lat>
+<lng>-75.15933</lng>
+<geonameId>5119647</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>340</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>043</adminCode2>
+<adminName2>Herkimer County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-75.17163</west>
+<north>43.01934</north>
+<east>-75.14703</east>
+<south>43.00135</south>
+</bbox>
+<score>45.98583984375</score>
+</geoname>
+</geonames>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Austinville</toponymName>
+<name>Austinville</name>
+<lat>36.85123</lat>
+<lng>-80.91202</lng>
+<geonameId>4745055</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>650</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>197</adminCode2>
+<adminName2>Wythe County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Austinville%2C_Virginia</alternateName>
+<alternateName lang="post">24312</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-80.92326</west>
+<north>36.86023</north>
+<east>-80.90078</east>
+<south>36.84224</south>
+</bbox>
+<score>14.526204109191895</score>
+</geoname>
+<geoname>
+<toponymName>Austinville Elementary School (historical)</toponymName>
+<name>Austinville Elementary School (historical)</name>
+<lat>36.84648</lat>
+<lng>-80.91104</lng>
+<geonameId>4745056</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>SCH</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>school</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>647</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>197</adminCode2>
+<adminName2>Wythe County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>2.723663091659546</score>
+</geoname>
+<geoname>
+<toponymName>Austinville Quarry</toponymName>
+<name>Austinville Quarry</name>
+<lat>36.84361</lat>
+<lng>-80.925</lng>
+<geonameId>8499185</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>MN</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>mine(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>666</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>197</adminCode2>
+<adminName2>Wythe County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>2.723663091659546</score>
+</geoname>
+</geonames>

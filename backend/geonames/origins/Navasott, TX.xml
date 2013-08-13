@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>16</totalResultsCount>
+<geoname>
+<toponymName>Navasota</toponymName>
+<name>Navasota</name>
+<lat>30.38798</lat>
+<lng>-96.08773</lng>
+<geonameId>4713866</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>7049</population>
+<alternateNames/>
+<elevation>66</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>185</adminCode2>
+<adminName2>Grimes County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Navasota%2C_Texas</alternateName>
+<alternateName lang="post">77868</alternateName>
+<alternateName lang="unlc">VSA</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-96.09939</west>
+<north>30.39804</north>
+<east>-96.07608</east>
+<south>30.37793</south>
+</bbox>
+<score>16.529733657836914</score>
+</geoname>
+<geoname>
+<toponymName>Navasota Municipal Airport</toponymName>
+<name>Navasota Municipal Airport</name>
+<lat>30.37367</lat>
+<lng>-96.1147</lng>
+<geonameId>4713869</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>AIRP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>airport</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>68</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>185</adminCode2>
+<adminName2>Grimes County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>13.223786354064941</score>
+</geoname>
+<geoname>
+<toponymName>City of Navasota</toponymName>
+<name>City of Navasota</name>
+<lat>30.38697</lat>
+<lng>-96.08948</lng>
+<geonameId>7173933</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>administrative division</fcodeName>
+<population>7049</population>
+<alternateNames/>
+<elevation>65</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>185</adminCode2>
+<adminName2>Grimes County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-96.12238</west>
+<north>30.43096</north>
+<east>-96.05734</east>
+<south>30.35383</south>
+</bbox>
+<score>13.223786354064941</score>
+</geoname>
+<geoname>
+<toponymName>Navasota River</toponymName>
+<name>Navasota River</name>
+<lat>30.3316</lat>
+<lng>-96.15413</lng>
+<geonameId>4713873</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>44</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>185</adminCode2>
+<adminName2>Grimes County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>2.8927032947540283</score>
+</geoname>
+<geoname>
+<toponymName>Super 8 Motel Navasota</toponymName>
+<name>Super 8 Motel Navasota</name>
+<lat>30.3965</lat>
+<lng>-96.0724</lng>
+<geonameId>6462543</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>HTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>hotel</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>185</adminCode2>
+<adminName2>Grimes County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>2.6987452507019043</score>
+</geoname>
+<geoname>
+<toponymName>Best Western Inn Of Navasota</toponymName>
+<name>Best Western Inn Of Navasota</name>
+<lat>30.3774</lat>
+<lng>-96.0692</lng>
+<geonameId>6530845</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>HTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>hotel</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>185</adminCode2>
+<adminName2>Grimes County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>2.6987452507019043</score>
+</geoname>
+<geoname>
+<toponymName>KNAV-FM (Navasota)</toponymName>
+<name>KNAV-FM (Navasota)</name>
+<lat>30.41632</lat>
+<lng>-96.07885</lng>
+<geonameId>4702236</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>TOWR</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>tower</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>100</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>185</adminCode2>
+<adminName2>Grimes County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>2.4794600009918213</score>
+</geoname>
+<geoname>
+<toponymName>KWBC-AM (Navasota)</toponymName>
+<name>KWBC-AM (Navasota)</name>
+<lat>30.38021</lat>
+<lng>-96.10051</lng>
+<geonameId>4702518</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>TOWR</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>tower</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>62</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>185</adminCode2>
+<adminName2>Grimes County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>2.4794600009918213</score>
+</geoname>
+<geoname>
+<toponymName>Navasota Commercial Historic District</toponymName>
+<name>Navasota Commercial Historic District</name>
+<lat>30.38743</lat>
+<lng>-96.09274</lng>
+<geonameId>4713867</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>64</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>185</adminCode2>
+<adminName2>Grimes County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>2.4794600009918213</score>
+</geoname>
+<geoname>
+<toponymName>Navasota Intermediate School</toponymName>
+<name>Navasota Intermediate School</name>
+<lat>30.39215</lat>
+<lng>-96.0844</lng>
+<geonameId>4713868</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>SCH</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>school</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>68</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>185</adminCode2>
+<adminName2>Grimes County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>2.4794600009918213</score>
+</geoname>
+</geonames>

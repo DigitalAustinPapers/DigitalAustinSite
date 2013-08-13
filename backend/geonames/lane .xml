@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>34</totalResultsCount>
+<geoname>
+<toponymName>Lane</toponymName>
+<name>Lane</name>
+<lat>38.43974</lat>
+<lng>-95.08219</lng>
+<geonameId>4274213</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>225</population>
+<alternateNames/>
+<elevation>271</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KS">KS</adminCode1>
+<adminName1>Kansas</adminName1>
+<adminCode2>059</adminCode2>
+<adminName2>Franklin County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lane%2C_Kansas</alternateName>
+<alternateName lang="post">66042</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-95.08334</west>
+<north>38.44064</north>
+<east>-95.08104</east>
+<south>38.43884</south>
+</bbox>
+<score>56.83546829223633</score>
+</geoname>
+<geoname>
+<toponymName>Lane</toponymName>
+<name>Lane</name>
+<lat>34.29871</lat>
+<lng>-95.98804</lng>
+<geonameId>4540671</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>414</population>
+<alternateNames/>
+<elevation>177</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OK">OK</adminCode1>
+<adminName1>Oklahoma</adminName1>
+<adminCode2>005</adminCode2>
+<adminName2>Atoka County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lane%2C_Oklahoma</alternateName>
+<alternateName lang="post">74555</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-95.98913</west>
+<north>34.29961</north>
+<east>-95.98695</east>
+<south>34.29781</south>
+</bbox>
+<score>56.83546829223633</score>
+</geoname>
+<geoname>
+<toponymName>Lane</toponymName>
+<name>Lane</name>
+<lat>40.12254</lat>
+<lng>-88.85563</lng>
+<geonameId>4899313</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>222</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>039</adminCode2>
+<adminName2>De Witt County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lane%2C_Illinois</alternateName>
+<alternateName lang="post">61750</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-88.8674</west>
+<north>40.13153</north>
+<east>-88.84387</east>
+<south>40.11354</south>
+</bbox>
+<score>56.83546829223633</score>
+</geoname>
+<geoname>
+<toponymName>Lane</toponymName>
+<name>Lane</name>
+<lat>44.06971</lat>
+<lng>-98.42509</lng>
+<geonameId>5229225</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>59</population>
+<alternateNames/>
+<elevation>419</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SD">SD</adminCode1>
+<adminName1>South Dakota</adminName1>
+<adminCode2>073</adminCode2>
+<adminName2>Jerauld County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lane%2C_South_Dakota</alternateName>
+<alternateName lang="post">57358</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-98.43243</west>
+<north>44.07471</north>
+<east>-98.41222</east>
+<south>44.0649</south>
+</bbox>
+<score>56.83546829223633</score>
+</geoname>
+<geoname>
+<toponymName>Lane</toponymName>
+<name>Lane</name>
+<lat>47.50686</lat>
+<lng>-116.53628</lng>
+<geonameId>5598159</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>661</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ID">ID</adminCode1>
+<adminName1>Idaho</adminName1>
+<adminCode2>055</adminCode2>
+<adminName2>Kootenai County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lane%2C_Idaho</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-116.5496</west>
+<north>47.51585</north>
+<east>-116.52297</east>
+<south>47.49786</south>
+</bbox>
+<score>56.83546829223633</score>
+</geoname>
+<geoname>
+<toponymName>Lane</toponymName>
+<name>Lane</name>
+<lat>33.52155</lat>
+<lng>-79.87868</lng>
+<geonameId>4584617</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>508</population>
+<alternateNames/>
+<elevation>20</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SC">SC</adminCode1>
+<adminName1>South Carolina</adminName1>
+<adminCode2>089</adminCode2>
+<adminName2>Williamsburg County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lane%2C_South_Carolina</alternateName>
+<alternateName lang="post">29564</alternateName>
+<alternateName lang="unlc">YLQ</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-79.87976</west>
+<north>33.52245</north>
+<east>-79.87761</east>
+<south>33.52066</south>
+</bbox>
+<score>47.362892150878906</score>
+</geoname>
+<geoname>
+<toponymName>Låne</toponymName>
+<name>Låne</name>
+<lat>61.18333</lat>
+<lng>6.23333</lng>
+<geonameId>3148451</geonameId>
+<countryCode>NO</countryCode>
+<countryName>Norway</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Lane,Lanefjord,Låne,Lånefjord</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="14">15</adminCode1>
+<adminName1>Sogn og Fjordane</adminName1>
+<adminCode2>1418</adminCode2>
+<adminName2>Balestrand</adminName2>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Oslo</timezone>
+<bbox>
+<west>6.21467</west>
+<north>61.19233</north>
+<east>6.252</east>
+<south>61.17434</south>
+</bbox>
+<score>40.18874740600586</score>
+</geoname>
+<geoname>
+<toponymName>Lane</toponymName>
+<name>Lane</name>
+<lat>58.41667</lat>
+<lng>12.01667</lng>
+<geonameId>2697701</geonameId>
+<countryCode>SE</countryCode>
+<countryName>Sweden</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="O">28</adminCode1>
+<adminName1>Västra Götaland</adminName1>
+<adminCode2>1485</adminCode2>
+<adminName2>Uddevalla Municipality</adminName2>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Stockholm</timezone>
+<bbox>
+<west>11.99949</west>
+<north>58.42566</north>
+<east>12.03384</east>
+<south>58.40767</south>
+</bbox>
+<score>37.89031219482422</score>
+</geoname>
+<geoname>
+<toponymName>Lane</toponymName>
+<name>Lane</name>
+<lat>34.31815</lat>
+<lng>-86.24026</lng>
+<geonameId>4071748</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>293</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AL">AL</adminCode1>
+<adminName1>Alabama</adminName1>
+<adminCode2>095</adminCode2>
+<adminName2>Marshall County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-86.25115</west>
+<north>34.32714</north>
+<east>-86.22937</east>
+<south>34.30915</south>
+</bbox>
+<score>37.89031219482422</score>
+</geoname>
+<geoname>
+<toponymName>Lane</toponymName>
+<name>Lane</name>
+<lat>35.19766</lat>
+<lng>-78.77752</lng>
+<geonameId>4475075</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>34</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NC">NC</adminCode1>
+<adminName1>North Carolina</adminName1>
+<adminCode2>051</adminCode2>
+<adminName2>Cumberland County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-78.78853</west>
+<north>35.20666</north>
+<east>-78.76652</east>
+<south>35.18867</south>
+</bbox>
+<score>37.89031219482422</score>
+</geoname>
+</geonames>

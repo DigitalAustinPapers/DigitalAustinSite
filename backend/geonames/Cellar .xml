@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>7</totalResultsCount>
+<geoname>
+<toponymName>Cellara</toponymName>
+<name>Cellara</name>
+<lat>39.21849</lat>
+<lng>16.3348</lng>
+<geonameId>2525037</geonameId>
+<countryCode>IT</countryCode>
+<countryName>Italy</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>526</population>
+<alternateNames>Cellara</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="78">03</adminCode1>
+<adminName1>Calabria</adminName1>
+<adminCode2>CS</adminCode2>
+<adminName2>Provincia di Cosenza</adminName2>
+<adminCode3>078035</adminCode3>
+<adminName3>Cellara</adminName3>
+<alternateName lang="de">Cellara</alternateName>
+<alternateName lang="en">Cellara</alternateName>
+<alternateName lang="eo">Cellara</alternateName>
+<alternateName lang="fr">Cellara</alternateName>
+<alternateName lang="it">Cellara</alternateName>
+<alternateName lang="nap">Cellara</alternateName>
+<alternateName lang="nl">Cellara</alternateName>
+<alternateName lang="pl">Cellara</alternateName>
+<alternateName lang="pt">Cellara</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Rome</timezone>
+<bbox>
+<west>16.33364</west>
+<north>39.21939</north>
+<east>16.33596</east>
+<south>39.21759</south>
+</bbox>
+<score>40.52409362792969</score>
+</geoname>
+<geoname>
+<toponymName>Cellara</toponymName>
+<name>Cellara</name>
+<lat>39.21849</lat>
+<lng>16.3348</lng>
+<geonameId>6541948</geonameId>
+<countryCode>IT</countryCode>
+<countryName>Italy</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population>507</population>
+<alternateNames>Cellara,Comune di Cellara</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="78">03</adminCode1>
+<adminName1>Calabria</adminName1>
+<adminCode2>CS</adminCode2>
+<adminName2>Provincia di Cosenza</adminName2>
+<adminCode3>078035</adminCode3>
+<adminName3>Cellara</adminName3>
+<alternateName lang="it">Cellara</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cellara</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Rome</timezone>
+<bbox>
+<west>16.32155</west>
+<north>39.22372</north>
+<east>16.39095</east>
+<south>39.20914</south>
+</bbox>
+<score>24.18630599975586</score>
+</geoname>
+<geoname>
+<toponymName>Cellan</toponymName>
+<name>Cellan</name>
+<lat>52.12309</lat>
+<lng>-4.03426</lng>
+<geonameId>2653442</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X6</adminCode2>
+<adminName2>Cardiganshire</adminName2>
+<adminCode3>00NQ021</adminCode3>
+<adminName3>Llanfair Clydogau</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.04892</west>
+<north>52.13209</north>
+<east>-4.01961</east>
+<south>52.1141</south>
+</bbox>
+<score>20.771127700805664</score>
+</geoname>
+<geoname>
+<toponymName>Cellai</toponymName>
+<name>Cellai</name>
+<lat>43.70536</lat>
+<lng>11.40484</lng>
+<geonameId>7290152</geonameId>
+<countryCode>IT</countryCode>
+<countryName>Italy</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="52">16</adminCode1>
+<adminName1>Tuscany</adminName1>
+<adminCode2>FI</adminCode2>
+<adminName2>Florence</adminName2>
+<adminCode3>048036</adminCode3>
+<adminName3>Rignano sull'Arno</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Rome</timezone>
+<bbox>
+<west>11.3924</west>
+<north>43.71435</north>
+<east>11.41728</east>
+<south>43.69637</south>
+</bbox>
+<score>19.748035430908203</score>
+</geoname>
+<geoname>
+<toponymName>Cieślar</toponymName>
+<name>Cieślar</name>
+<lat>49.62383</lat>
+<lng>18.82061</lng>
+<geonameId>3101352</geonameId>
+<countryCode>PL</countryCode>
+<countryName>Poland</countryName>
+<fcl>T</fcl>
+<fcode>MT</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>mountain</fcodeName>
+<population/>
+<alternateNames>Ceslar,Česlar</alternateNames>
+<elevation>918</elevation>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SL">83</adminCode1>
+<adminName1>Silesian Voivodeship</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Warsaw</timezone>
+<score>15.578346252441406</score>
+</geoname>
+<geoname>
+<toponymName>Yuvacık</toponymName>
+<name>Yuvacık</name>
+<lat>40.01183</lat>
+<lng>38.66565</lng>
+<geonameId>749358</geonameId>
+<countryCode>TR</countryCode>
+<countryName>Turkey</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Cellat,Yuvacik,Yuvacık</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="58">58</adminCode1>
+<adminName1>Sivas</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="3.0" gmtOffset="2.0">Europe/Istanbul</timezone>
+<bbox>
+<west>38.65391</west>
+<north>40.02082</north>
+<east>38.6774</east>
+<south>40.00284</south>
+</bbox>
+<score>12.851479530334473</score>
+</geoname>
+<geoname>
+<toponymName>Cellai</toponymName>
+<name>Cellai</name>
+<lat>43.7791</lat>
+<lng>11.2558</lng>
+<geonameId>6472922</geonameId>
+<countryCode>IT</countryCode>
+<countryName>Italy</countryName>
+<fcl>S</fcl>
+<fcode>HTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>hotel</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="52">16</adminCode1>
+<adminName1>Tuscany</adminName1>
+<adminCode2>FI</adminCode2>
+<adminName2>Florence</adminName2>
+<adminCode3>048017</adminCode3>
+<adminName3>Florence</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Rome</timezone>
+<score>6.171260833740234</score>
+</geoname>
+</geonames>

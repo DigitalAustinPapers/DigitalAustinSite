@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>8</totalResultsCount>
+<geoname>
+<toponymName>Place</toponymName>
+<name>Place</name>
+<lat>43.35258</lat>
+<lng>-71.02562</lng>
+<geonameId>5091262</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>82</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NH">NH</adminCode1>
+<adminName1>New Hampshire</adminName1>
+<adminCode2>017</adminCode2>
+<adminName2>Strafford County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Place%2C_New_Hampshire</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-71.03799</west>
+<north>43.36157</north>
+<east>-71.01325</east>
+<south>43.34359</south>
+</bbox>
+<score>62.59749984741211</score>
+</geoname>
+<geoname>
+<toponymName>Placé</toponymName>
+<name>Placé</name>
+<lat>48.253</lat>
+<lng>-0.77716</lng>
+<geonameId>2986990</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>297</population>
+<alternateNames>Place,Placé</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="R">B5</adminCode1>
+<adminName1>Pays de la Loire</adminName1>
+<adminCode2>53</adminCode2>
+<adminName2>Mayenne</adminName2>
+<adminCode3>533</adminCode3>
+<adminName3>Arrondissement de Mayenne</adminName3>
+<adminCode4>53179</adminCode4>
+<adminName4>Placé</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Plac%C3%A9</alternateName>
+<alternateName lang="post">53240</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>-0.77851</west>
+<north>48.2539</north>
+<east>-0.77581</east>
+<south>48.2521</south>
+</bbox>
+<score>59.01749038696289</score>
+</geoname>
+<geoname>
+<toponymName>Placé</toponymName>
+<name>Placé</name>
+<lat>48.25389</lat>
+<lng>-0.77694</lng>
+<geonameId>6613393</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population>332</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="R">B5</adminCode1>
+<adminName1>Pays de la Loire</adminName1>
+<adminCode2>53</adminCode2>
+<adminName2>Mayenne</adminName2>
+<adminCode3>533</adminCode3>
+<adminName3>Arrondissement de Mayenne</adminName3>
+<adminCode4>53179</adminCode4>
+<adminName4>Placé</adminName4>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>-0.82388</west>
+<north>48.29965</north>
+<east>-0.72896</east>
+<south>48.23403</south>
+</bbox>
+<score>52.164581298828125</score>
+</geoname>
+<geoname>
+<toponymName>Plakje</toponymName>
+<name>Plakje</name>
+<lat>41.21861</lat>
+<lng>20.97333</lng>
+<geonameId>787036</geonameId>
+<countryCode>MK</countryCode>
+<countryName>Macedonia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Place,Plake,Plakje,Plaće</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Skopje</timezone>
+<bbox>
+<west>20.96138</west>
+<north>41.2276</north>
+<east>20.98529</east>
+<south>41.20962</south>
+</bbox>
+<score>41.731666564941406</score>
+</geoname>
+<geoname>
+<toponymName>Plače</toponymName>
+<name>Plače</name>
+<lat>45.87694</lat>
+<lng>13.87611</lng>
+<geonameId>3343538</geonameId>
+<countryCode>SI</countryCode>
+<countryName>Slovenia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="001">01</adminCode1>
+<adminName1>Ajdovščina</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Ljubljana</timezone>
+<bbox>
+<west>13.86319</west>
+<north>45.88594</north>
+<east>13.88903</east>
+<south>45.86795</south>
+</bbox>
+<score>41.731666564941406</score>
+</geoname>
+<geoname>
+<toponymName>Place</toponymName>
+<name>Place</name>
+<lat>19.63333</lat>
+<lng>-72.51667</lng>
+<geonameId>3718745</geonameId>
+<countryCode>HT</countryCode>
+<countryName>Haiti</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ND">09</adminCode1>
+<adminName1>Nord</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Port-au-Prince</timezone>
+<bbox>
+<west>-72.52622</west>
+<north>19.64233</north>
+<east>-72.50712</east>
+<south>19.62434</south>
+</bbox>
+<score>41.731666564941406</score>
+</geoname>
+<geoname>
+<toponymName>Place</toponymName>
+<name>Place</name>
+<lat>18.5</lat>
+<lng>-73.4</lng>
+<geonameId>3718746</geonameId>
+<countryCode>HT</countryCode>
+<countryName>Haiti</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1>15</adminCode1>
+<adminName1>Nippes</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Port-au-Prince</timezone>
+<bbox>
+<west>-73.40948</west>
+<north>18.50899</north>
+<east>-73.39052</east>
+<south>18.49101</south>
+</bbox>
+<score>41.731666564941406</score>
+</geoname>
+<geoname>
+<toponymName>Ploçë</toponymName>
+<name>Ploçë</name>
+<lat>40.37444</lat>
+<lng>19.70639</lng>
+<geonameId>3184433</geonameId>
+<countryCode>AL</countryCode>
+<countryName>Albania</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Place,Placë,Pliocia,Plloca,Ploca,Ploce,Ploça,Ploçë</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="12">51</adminCode1>
+<adminName1>Vlorë</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Tirane</timezone>
+<bbox>
+<west>19.69458</west>
+<north>40.38344</north>
+<east>19.7182</east>
+<south>40.36545</south>
+</bbox>
+<score>36.51520919799805</score>
+</geoname>
+</geonames>

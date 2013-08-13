@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>18</totalResultsCount>
+<geoname>
+<toponymName>Rancho El Refugio</toponymName>
+<name>Rancho El Refugio</name>
+<lat>28.55304</lat>
+<lng>-101.16731</lng>
+<geonameId>3990360</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>El Refugio,Rancho El Refugio</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="COA">07</adminCode1>
+<adminName1>Coahuila</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<bbox>
+<west>-101.17755</west>
+<north>28.56204</north>
+<east>-101.15707</east>
+<south>28.54405</south>
+</bbox>
+<score>10.684981346130371</score>
+</geoname>
+<geoname>
+<toponymName>El Refugio</toponymName>
+<name>El Refugio</name>
+<lat>27.96252</lat>
+<lng>-101.41932</lng>
+<geonameId>4008009</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>El Refugio,Rancho El Refugio</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="COA">07</adminCode1>
+<adminName1>Coahuila</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="es">El Refugio</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<bbox>
+<west>-101.4295</west>
+<north>27.97151</north>
+<east>-101.40913</east>
+<south>27.95352</south>
+</bbox>
+<score>10.684981346130371</score>
+</geoname>
+<geoname>
+<toponymName>El Refugio</toponymName>
+<name>El Refugio</name>
+<lat>27.93993</lat>
+<lng>-101.43142</lng>
+<geonameId>8462520</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames>El Refugio</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="COA">07</adminCode1>
+<adminName1>Coahuila</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="es">El Refugio</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<score>8.815383911132812</score>
+</geoname>
+<geoname>
+<toponymName>El Refugio</toponymName>
+<name>El Refugio</name>
+<lat>27.58275</lat>
+<lng>-101.41164</lng>
+<geonameId>8468297</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>El Refugio</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="COA">07</adminCode1>
+<adminName1>Coahuila</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="es">El Refugio</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<bbox>
+<west>-101.42179</west>
+<north>27.59175</north>
+<east>-101.4015</east>
+<south>27.57376</south>
+</bbox>
+<score>8.815383911132812</score>
+</geoname>
+<geoname>
+<toponymName>Refugio de Altamira</toponymName>
+<name>Refugio de Altamira</name>
+<lat>24.85288</lat>
+<lng>-100.96547</lng>
+<geonameId>3977356</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="COA">07</adminCode1>
+<adminName1>Coahuila</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<bbox>
+<west>-100.97538</west>
+<north>24.86187</north>
+<east>-100.95556</east>
+<south>24.84388</south>
+</bbox>
+<score>8.224748611450195</score>
+</geoname>
+<geoname>
+<toponymName>Boquillas del Refugio</toponymName>
+<name>Boquillas del Refugio</name>
+<lat>25.55342</lat>
+<lng>-102.47068</lng>
+<geonameId>3977486</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="COA">07</adminCode1>
+<adminName1>Coahuila</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<bbox>
+<west>-102.48065</west>
+<north>25.56242</north>
+<east>-102.46071</east>
+<south>25.54443</south>
+</bbox>
+<score>8.224748611450195</score>
+</geoname>
+<geoname>
+<toponymName>El Refugio</toponymName>
+<name>El Refugio</name>
+<lat>27.22605</lat>
+<lng>-102.25502</lng>
+<geonameId>3977718</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="COA">07</adminCode1>
+<adminName1>Coahuila</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<bbox>
+<west>-102.26513</west>
+<north>27.23505</north>
+<east>-102.2449</east>
+<south>27.21706</south>
+</bbox>
+<score>8.224748611450195</score>
+</geoname>
+<geoname>
+<toponymName>Sierra del Refugio</toponymName>
+<name>Sierra del Refugio</name>
+<lat>25.58333</lat>
+<lng>-102.8</lng>
+<geonameId>3988835</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>T</fcl>
+<fcode>RDGE</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>ridge(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="COA">07</adminCode1>
+<adminName1>Coahuila</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<score>8.224748611450195</score>
+</geoname>
+<geoname>
+<toponymName>El Refugio</toponymName>
+<name>El Refugio</name>
+<lat>25.45</lat>
+<lng>-102.18333</lng>
+<geonameId>4008046</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="COA">07</adminCode1>
+<adminName1>Coahuila</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<bbox>
+<west>-102.19329</west>
+<north>25.45899</north>
+<east>-102.17337</east>
+<south>25.44101</south>
+</bbox>
+<score>8.224748611450195</score>
+</geoname>
+<geoname>
+<toponymName>El Refugio</toponymName>
+<name>El Refugio</name>
+<lat>25.43215</lat>
+<lng>-103.17285</lng>
+<geonameId>4008048</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="COA">07</adminCode1>
+<adminName1>Coahuila</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<bbox>
+<west>-103.18281</west>
+<north>25.44115</north>
+<east>-103.16289</east>
+<south>25.42316</south>
+</bbox>
+<score>8.224748611450195</score>
+</geoname>
+</geonames>

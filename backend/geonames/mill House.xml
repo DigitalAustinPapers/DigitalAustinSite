@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Mill House</toponymName>
+<name>Mill House</name>
+<lat>-44.95837</lat>
+<lng>168.81007</lng>
+<geonameId>6206256</geonameId>
+<countryCode>NZ</countryCode>
+<countryName>New Zealand</countryName>
+<fcl>S</fcl>
+<fcode>FRMT</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farmstead</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="OTA">F7</adminCode1>
+<adminName1>Otago Region</adminName1>
+<adminCode2>070</adminCode2>
+<adminName2>Queenstown-Lakes District</adminName2>
+<timezone dstOffset="12.0" gmtOffset="13.0">Pacific/Auckland</timezone>
+<score>12.194923400878906</score>
+</geoname>
+<geoname>
+<toponymName>Mill House</toponymName>
+<name>Mill House</name>
+<lat>-45.24837</lat>
+<lng>170.79009</lng>
+<geonameId>6215131</geonameId>
+<countryCode>NZ</countryCode>
+<countryName>New Zealand</countryName>
+<fcl>S</fcl>
+<fcode>BLDG</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>building(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="OTA">F7</adminCode1>
+<adminName1>Otago Region</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="12.0" gmtOffset="13.0">Pacific/Auckland</timezone>
+<score>12.194923400878906</score>
+</geoname>
+<geoname>
+<toponymName>Mill House</toponymName>
+<name>Mill House</name>
+<lat>-43.67833</lat>
+<lng>173.05014</lng>
+<geonameId>6221993</geonameId>
+<countryCode>NZ</countryCode>
+<countryName>New Zealand</countryName>
+<fcl>S</fcl>
+<fcode>FRMT</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farmstead</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="CAN">E9</adminCode1>
+<adminName1>Canterbury Region</adminName1>
+<adminCode2>060</adminCode2>
+<adminName2>Christchurch City</adminName2>
+<timezone dstOffset="12.0" gmtOffset="13.0">Pacific/Auckland</timezone>
+<score>12.194923400878906</score>
+</geoname>
+<geoname>
+<toponymName>Mill Houses</toponymName>
+<name>Mill Houses</name>
+<lat>36.4192</lat>
+<lng>25.4367</lng>
+<geonameId>6491717</geonameId>
+<countryCode>GR</countryCode>
+<countryName>Greece</countryName>
+<fcl>S</fcl>
+<fcode>HTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>hotel</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="L">ESYE42</adminCode1>
+<adminName1>South Aegean</adminName1>
+<adminCode2>49</adminCode2>
+<adminName2>Kykládes</adminName2>
+<adminCode3>9270</adminCode3>
+<adminName3>Santorini</adminName3>
+<timezone dstOffset="3.0" gmtOffset="2.0">Europe/Athens</timezone>
+<score>6.6526103019714355</score>
+</geoname>
+</geonames>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Maḩkamat al ‘Adl al ‘Ulyā wa Ḑarībat ad Dakhl</toponymName>
+<name>Maḩkamat al ‘Adl al ‘Ulyā wa Ḑarībat ad Dakhl</name>
+<lat>31.91661</lat>
+<lng>35.21532</lng>
+<geonameId>8053953</geonameId>
+<countryCode>PS</countryCode>
+<countryName>Palestine</countryName>
+<fcl>S</fcl>
+<fcode>CTHSE</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>courthouse</fcodeName>
+<population/>
+<alternateNames>Mahkamat al `Adl al `Ulya wa Daribat ad Dakhl,Maḩkamat al ‘Adl al ‘Ulyā wa Ḑarībat ad Dakhl,Supreme Court,محكمة العدل العليا وضريبة الدخل</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ar">محكمة العدل العليا وضريبة الدخل</alternateName>
+<timezone dstOffset="3.0" gmtOffset="2.0">Asia/Gaza</timezone>
+<score>15.852983474731445</score>
+</geoname>
+<geoname>
+<toponymName>Supreme Court</toponymName>
+<name>Supreme Court</name>
+<lat>38.89039</lat>
+<lng>-77.00442</lng>
+<geonameId>4140603</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>BLDG</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>building(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>28</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="DC">DC</adminCode1>
+<adminName1>Washington, D.C.</adminName1>
+<adminCode2>001</adminCode2>
+<adminName2>US.DC.001</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>14.012189865112305</score>
+</geoname>
+</geonames>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Ohio</toponymName>
+<name>Ohio</name>
+<lat>40.25034</lat>
+<lng>-83.00018</lng>
+<geonameId>5165418</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>first-order administrative division</fcodeName>
+<population>11467123</population>
+<alternateNames>'Ohaio,Buckeye State,Ngo-hai-ngo,Ngò-hài-ngò,OH,Ochaio,Ogajo,Ogayo,Ohaio,Ohaiyo,Ohajas,Ohajo,Ohayo,Ohaïyo,Ohio,Ohio suyu,Ohium,Okhajo,Oohaayoo Hahoodzo,Oohááyoo Hahoodzo,Owayo,Oxayo Shtati,Shtat Agaja,State of Ohio,awhayw,e hai e zhou,oha'i'o,ohaio,ohaio ju,ohaio zhou,ohayea,ohayo,okaiyo,rath xohixo,Οχάιο,Оhайо,Огайо,Охайо,Охајо,Оҳаё,Штат Агая,Өхәй,Օհայո,אהאיא,אוהיו,أوهايو,اوهايو,اوهایو,اوہائیو,چیۆ,ܐܘܗܐܝܘ,ओहायो,ওহাইও,ஒகையோ,ഒഹായോ,รัฐโอไฮโอ,ཨོ་ཧེའོ།,အိုဟိုင်းယိုးပြည်နယ်,ოჰაიო,ᐅᓵᐃᐅ,‘Ohaio,オハイオ州,俄亥俄州,오하이오 주</alternateNames>
+<elevation>290</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="abbr">OH</alternateName>
+<alternateName lang="ar">أوهايو</alternateName>
+<alternateName lang="arc">ܐܘܗܐܝܘ</alternateName>
+<alternateName lang="arz">اوهايو</alternateName>
+<alternateName lang="ay">Ohio suyu</alternateName>
+<alternateName lang="az">Ohayo</alternateName>
+<alternateName lang="be">Штат Агая</alternateName>
+<alternateName lang="bg">Охайо</alternateName>
+<alternateName lang="bn">ওহাইও</alternateName>
+<alternateName lang="bo">ཨོ་ཧེའོ།</alternateName>
+<alternateName lang="bpy">ওহাইও</alternateName>
+<alternateName lang="ckb">چیۆ</alternateName>
+<alternateName lang="cv">Огайо</alternateName>
+<alternateName lang="el">Οχάιο</alternateName>
+<alternateName lang="en">Ohio</alternateName>
+<alternateName lang="es">Ohio</alternateName>
+<alternateName lang="fa">اوهایو</alternateName>
+<alternateName lang="hak">Ngò-hài-ngò</alternateName>
+<alternateName lang="haw">‘Ohaio</alternateName>
+<alternateName lang="he">אוהיו</alternateName>
+<alternateName lang="ht">Owayo</alternateName>
+<alternateName lang="hy">Օհայո</alternateName>
+<alternateName lang="ig">Ohaïyo</alternateName>
+<alternateName lang="iu">ᐅᓵᐃᐅ</alternateName>
+<alternateName lang="ja">オハイオ州</alternateName>
+<alternateName lang="ka">ოჰაიო</alternateName>
+<alternateName lang="kk">Огайо</alternateName>
+<alternateName lang="ko">오하이오 주</alternateName>
+<alternateName lang="la">Ohium</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ohio</alternateName>
+<alternateName lang="lt">Ohajas</alternateName>
+<alternateName lang="lv">Ohaio</alternateName>
+<alternateName lang="mk">Охајо</alternateName>
+<alternateName lang="ml">ഒഹായോ</alternateName>
+<alternateName lang="mn">Охайо</alternateName>
+<alternateName lang="mr">ओहायो</alternateName>
+<alternateName lang="mrj">Огайо</alternateName>
+<alternateName lang="my">အိုဟိုင်းယိုးပြည်နယ်</alternateName>
+<alternateName lang="nv">Oohááyoo Hahoodzo</alternateName>
+<alternateName lang="os">Огайо</alternateName>
+<alternateName lang="pnb">اوہائیو</alternateName>
+<alternateName lang="qu">Ohio suyu</alternateName>
+<alternateName lang="ru">Огайо</alternateName>
+<alternateName lang="sah">Оhайо</alternateName>
+<alternateName lang="sr">Охајо</alternateName>
+<alternateName lang="ta">ஒகையோ</alternateName>
+<alternateName lang="tg">Оҳаё</alternateName>
+<alternateName lang="th">รัฐโอไฮโอ</alternateName>
+<alternateName lang="tt">Огайо</alternateName>
+<alternateName lang="ug">Oxayo Shtati</alternateName>
+<alternateName lang="uk">Огайо</alternateName>
+<alternateName lang="ur">اوہائیو</alternateName>
+<alternateName lang="uz">Ogayo</alternateName>
+<alternateName lang="xal">Өхәй</alternateName>
+<alternateName lang="yi">אהאיא</alternateName>
+<alternateName lang="zh">俄亥俄州</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-84.82031</west>
+<north>42.32713</north>
+<east>-80.51845</east>
+<south>38.40342</south>
+</bbox>
+<score>16.258459091186523</score>
+</geoname>
+</geonames>

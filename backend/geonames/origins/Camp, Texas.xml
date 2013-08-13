@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>780</totalResultsCount>
+<geoname>
+<toponymName>Camp County</toponymName>
+<name>Camp County</name>
+<lat>32.97322</lat>
+<lng>-94.97848</lng>
+<geonameId>4678446</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>12401</population>
+<alternateNames>Comte de Camp,Comté de Camp</alternateNames>
+<elevation>118</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>063</adminCode2>
+<adminName2>Camp County</adminName2>
+<alternateName lang="fr">Comté de Camp</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Camp_County%2C_Texas</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-95.1526</west>
+<north>33.07708</north>
+<east>-94.72458</east>
+<south>32.90569</south>
+</bbox>
+<score>17.159954071044922</score>
+</geoname>
+<geoname>
+<toponymName>Camp Hulen</toponymName>
+<name>Camp Hulen</name>
+<lat>28.70666</lat>
+<lng>-96.2433</lng>
+<geonameId>4678497</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>3</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>321</adminCode2>
+<adminName2>Matagorda County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Camp_Hulen</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-96.25356</west>
+<north>28.71565</north>
+<east>-96.23305</east>
+<south>28.69766</south>
+</bbox>
+<score>11.113302230834961</score>
+</geoname>
+<geoname>
+<toponymName>Camp Wood</toponymName>
+<name>Camp Wood</name>
+<lat>29.66939</lat>
+<lng>-100.01229</lng>
+<geonameId>5518199</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>706</population>
+<alternateNames/>
+<elevation>444</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>385</adminCode2>
+<adminName2>Real County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Camp_Wood%2C_Texas</alternateName>
+<alternateName lang="post">78833</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-100.01333</west>
+<north>29.67029</north>
+<east>-100.01126</east>
+<south>29.66849</south>
+</bbox>
+<score>11.113302230834961</score>
+</geoname>
+<geoname>
+<toponymName>Leesburg</toponymName>
+<name>Leesburg</name>
+<lat>32.98762</lat>
+<lng>-95.08383</lng>
+<geonameId>4705812</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>121</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>063</adminCode2>
+<adminName2>Camp County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Leesburg%2C_Texas</alternateName>
+<alternateName lang="post">75451</alternateName>
+<alternateName lang="unlc">LB4</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-95.09455</west>
+<north>32.99662</north>
+<east>-95.0731</east>
+<south>32.97863</south>
+</bbox>
+<score>10.259439468383789</score>
+</geoname>
+<geoname>
+<toponymName>Rocky Mound</toponymName>
+<name>Rocky Mound</name>
+<lat>33.01901</lat>
+<lng>-95.02216</lng>
+<geonameId>4723562</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>75</population>
+<alternateNames/>
+<elevation>131</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>063</adminCode2>
+<adminName2>Camp County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Rocky_Mound%2C_Texas</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-95.02323</west>
+<north>33.01991</north>
+<east>-95.02109</east>
+<south>33.01811</south>
+</bbox>
+<score>10.259439468383789</score>
+</geoname>
+<geoname>
+<toponymName>Horse Camp Waterhole</toponymName>
+<name>Horse Camp Waterhole</name>
+<lat>30.15603</lat>
+<lng>-99.83229</lng>
+<geonameId>4046346</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>LK</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>lake</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>620</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>137</adminCode2>
+<adminName2>Edwards County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>8.890642166137695</score>
+</geoname>
+<geoname>
+<toponymName>Camp Swift</toponymName>
+<name>Camp Swift</name>
+<lat>30.19077</lat>
+<lng>-97.29221</lng>
+<geonameId>4678565</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>6383</population>
+<alternateNames/>
+<elevation>134</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>021</adminCode2>
+<adminName2>Bastrop County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Camp_Swift%2C_Texas</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-97.31883</west>
+<north>30.23192</north>
+<east>-97.2555</east>
+<south>30.13766</south>
+</bbox>
+<score>8.890642166137695</score>
+</geoname>
+<geoname>
+<toponymName>Pool Stave Camp Lake</toponymName>
+<name>Pool Stave Camp Lake</name>
+<lat>30.40172</lat>
+<lng>-94.09205</lng>
+<geonameId>4719992</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>LK</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>lake</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>8</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>241</adminCode2>
+<adminName2>Jasper County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>8.890642166137695</score>
+</geoname>
+<geoname>
+<toponymName>City of Camp Wood</toponymName>
+<name>City of Camp Wood</name>
+<lat>29.66905</lat>
+<lng>-100.01086</lng>
+<geonameId>7173112</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>administrative division</fcodeName>
+<population>706</population>
+<alternateNames/>
+<elevation>446</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>385</adminCode2>
+<adminName2>Real County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-100.01818</west>
+<north>29.67539</north>
+<east>-100.00371</east>
+<south>29.6614</south>
+</bbox>
+<score>8.890642166137695</score>
+</geoname>
+<geoname>
+<toponymName>Spencer Lake</toponymName>
+<name>Spencer Lake</name>
+<lat>32.93124</lat>
+<lng>-95.08522</lng>
+<geonameId>4046546</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>LK</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>lake</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>105</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>063</adminCode2>
+<adminName2>Camp County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>8.207551956176758</score>
+</geoname>
+</geonames>

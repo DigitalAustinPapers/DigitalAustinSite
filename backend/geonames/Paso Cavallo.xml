@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>6</totalResultsCount>
+<geoname>
+<toponymName>Pass Cavallo</toponymName>
+<name>Pass Cavallo</name>
+<lat>28.37889</lat>
+<lng>-96.3972</lng>
+<geonameId>4679555</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>CHN</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>channel</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>057</adminCode2>
+<adminName2>Calhoun County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Pass_Cavallo_%28Texas%29</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>30.554441452026367</score>
+</geoname>
+<geoname>
+<toponymName>Pasacaballos</toponymName>
+<name>Pasacaballos</name>
+<lat>22.06333</lat>
+<lng>-80.45833</lng>
+<geonameId>3544787</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>P</fcl>
+<fcode>PPLL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated locality</fcodeName>
+<population/>
+<alternateNames>Pasa Caballo,Pasacaballos,Paso Caballo</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="06">08</adminCode1>
+<adminName1>Cienfuegos</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<bbox>
+<west>-80.4593</west>
+<north>22.06423</north>
+<east>-80.45736</east>
+<south>22.06243</south>
+</bbox>
+<score>24.305904388427734</score>
+</geoname>
+<geoname>
+<toponymName>Paso Caballos</toponymName>
+<name>Paso Caballos</name>
+<lat>17.2599</lat>
+<lng>-90.23772</lng>
+<geonameId>3591592</geonameId>
+<countryCode>GT</countryCode>
+<countryName>Guatemala</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>PCG,Paso Caballos</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PE">12</adminCode1>
+<adminName1>Petén</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="iata">PCG</alternateName>
+<alternateName lang="unlc">PCG</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Guatemala</timezone>
+<bbox>
+<west>-90.24714</west>
+<north>17.26889</north>
+<east>-90.2283</east>
+<south>17.2509</south>
+</bbox>
+<score>8.894536972045898</score>
+</geoname>
+<geoname>
+<toponymName>Paso Lavalle</toponymName>
+<name>Paso Lavalle</name>
+<lat>-24.14666</lat>
+<lng>-60.43874</lng>
+<geonameId>3847325</geonameId>
+<countryCode>AR</countryCode>
+<countryName>Argentina</countryName>
+<fcl>T</fcl>
+<fcode>FORD</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>ford</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="P">09</adminCode1>
+<adminName1>Formosa</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Argentina/Cordoba</timezone>
+<score>8.729830741882324</score>
+</geoname>
+<geoname>
+<toponymName>Paso Caballos</toponymName>
+<name>Paso Caballos</name>
+<lat>17.25</lat>
+<lng>-90.15</lng>
+<geonameId>3591593</geonameId>
+<countryCode>GT</countryCode>
+<countryName>Guatemala</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PE">12</adminCode1>
+<adminName1>Petén</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Guatemala</timezone>
+<score>8.299838066101074</score>
+</geoname>
+<geoname>
+<toponymName>Paso Cavado</toponymName>
+<name>Paso Cavado</name>
+<lat>22.8</lat>
+<lng>-80.31667</lng>
+<geonameId>3544767</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="05">16</adminCode1>
+<adminName1>Villa Clara</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<bbox>
+<west>-80.32642</west>
+<north>22.80899</north>
+<east>-80.30691</east>
+<south>22.79101</south>
+</bbox>
+<score>4.761725902557373</score>
+</geoname>
+</geonames>

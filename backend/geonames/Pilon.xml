@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>26</totalResultsCount>
+<geoname>
+<toponymName>Pilón</toponymName>
+<name>Pilón</name>
+<lat>19.91</lat>
+<lng>-77.32556</lng>
+<geonameId>3544171</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Pilon,Pilón,Pion</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="12">09</adminCode1>
+<adminName1>Granma</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Pil%C3%B3n%2C_Cuba</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<bbox>
+<west>-77.33512</west>
+<north>19.91899</north>
+<east>-77.31599</east>
+<south>19.90101</south>
+</bbox>
+<score>54.62303924560547</score>
+</geoname>
+<geoname>
+<toponymName>Pilón</toponymName>
+<name>Pilón</name>
+<lat>10.31003</lat>
+<lng>-75.00528</lng>
+<geonameId>3672237</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Corregimiento Pilon,Pilon,Pilón</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="BOL">35</adminCode1>
+<adminName1>Bolívar</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<bbox>
+<west>-75.01443</west>
+<north>10.31902</north>
+<east>-74.99614</east>
+<south>10.30104</south>
+</bbox>
+<score>47.79515838623047</score>
+</geoname>
+<geoname>
+<toponymName>Pilón</toponymName>
+<name>Pilón</name>
+<lat>-26.03333</lat>
+<lng>-54.33333</lng>
+<geonameId>3429976</geonameId>
+<countryCode>AR</countryCode>
+<countryName>Argentina</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="N">14</adminCode1>
+<adminName1>Misiones</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Argentina/Cordoba</timezone>
+<bbox>
+<west>-54.34334</west>
+<north>-26.02434</north>
+<east>-54.32332</east>
+<south>-26.04233</south>
+</bbox>
+<score>38.62432098388672</score>
+</geoname>
+<geoname>
+<toponymName>Pilón</toponymName>
+<name>Pilón</name>
+<lat>19.01612</lat>
+<lng>-71.75531</lng>
+<geonameId>3494779</geonameId>
+<countryCode>DO</countryCode>
+<countryName>Dominican Republic</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="07">11</adminCode1>
+<adminName1>Elías Piña</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Santo_Domingo</timezone>
+<bbox>
+<west>-71.76482</west>
+<north>19.02512</north>
+<east>-71.74579</east>
+<south>19.00713</south>
+</bbox>
+<score>38.62432098388672</score>
+</geoname>
+<geoname>
+<toponymName>Pilón</toponymName>
+<name>Pilón</name>
+<lat>25.22636</lat>
+<lng>-99.84246</lng>
+<geonameId>3521453</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NLE">19</adminCode1>
+<adminName1>Nuevo León</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<bbox>
+<west>-99.8524</west>
+<north>25.23535</north>
+<east>-99.83252</east>
+<south>25.21736</south>
+</bbox>
+<score>38.62432098388672</score>
+</geoname>
+<geoname>
+<toponymName>Pilón</toponymName>
+<name>Pilón</name>
+<lat>21.4</lat>
+<lng>-99.81667</lng>
+<geonameId>3521454</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GUA">11</adminCode1>
+<adminName1>Guanajuato</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-99.82633</west>
+<north>21.40899</north>
+<east>-99.80701</east>
+<south>21.39101</south>
+</bbox>
+<score>38.62432098388672</score>
+</geoname>
+<geoname>
+<toponymName>Pilón</toponymName>
+<name>Pilón</name>
+<lat>21.1</lat>
+<lng>-99.76667</lng>
+<geonameId>3521455</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="QUE">22</adminCode1>
+<adminName1>Querétaro</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-99.77631</west>
+<north>21.10899</north>
+<east>-99.75703</east>
+<south>21.09101</south>
+</bbox>
+<score>38.62432098388672</score>
+</geoname>
+<geoname>
+<toponymName>Pilón</toponymName>
+<name>Pilón</name>
+<lat>22.55</lat>
+<lng>-83.4</lng>
+<geonameId>3544172</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="01">01</adminCode1>
+<adminName1>Pinar del Río</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>38.62432098388672</score>
+</geoname>
+<geoname>
+<toponymName>Pilón</toponymName>
+<name>Pilón</name>
+<lat>20.86667</lat>
+<lng>-75.75</lng>
+<geonameId>3544173</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="11">12</adminCode1>
+<adminName1>Holguín</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>38.62432098388672</score>
+</geoname>
+<geoname>
+<toponymName>Pilón</toponymName>
+<name>Pilón</name>
+<lat>20.35</lat>
+<lng>-75.5</lng>
+<geonameId>3544174</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="13">15</adminCode1>
+<adminName1>Santiago de Cuba</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>38.62432098388672</score>
+</geoname>
+</geonames>

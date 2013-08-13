@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>15</totalResultsCount>
+<geoname>
+<toponymName>Colonos</toponymName>
+<name>Colonos</name>
+<lat>23.06667</lat>
+<lng>-105.55</lng>
+<geonameId>4013286</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Colomos,Colonos</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SIN">25</adminCode1>
+<adminName1>Sinaloa</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Mazatlan</timezone>
+<bbox>
+<west>-105.55978</west>
+<north>23.07566</north>
+<east>-105.54022</east>
+<south>23.05767</south>
+</bbox>
+<score>16.501544952392578</score>
+</geoname>
+<geoname>
+<toponymName>Colonet</toponymName>
+<name>Colonet</name>
+<lat>31.08873</lat>
+<lng>-116.2437</lng>
+<geonameId>4013501</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPLQ</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>abandoned populated place</fcodeName>
+<population/>
+<alternateNames>Colnett,Colonet,Santa Fe</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="BCN">02</adminCode1>
+<adminName1>Baja California</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="es">Colonet</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Santa_Isabel</timezone>
+<bbox>
+<west>-116.2458</west>
+<north>31.09053</north>
+<east>-116.2416</east>
+<south>31.08693</south>
+</bbox>
+<score>15.753451347351074</score>
+</geoname>
+<geoname>
+<toponymName>Colores</toponymName>
+<name>Colores</name>
+<lat>-11.01667</lat>
+<lng>-68.81667</lng>
+<geonameId>3919734</geonameId>
+<countryCode>BO</countryCode>
+<countryName>Bolivia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Colares,Colores</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="N">06</adminCode1>
+<adminName1>Pando</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/La_Paz</timezone>
+<bbox>
+<west>-68.82583</west>
+<north>-11.00767</north>
+<east>-68.8075</east>
+<south>-11.02566</south>
+</bbox>
+<score>15.653034210205078</score>
+</geoname>
+<geoname>
+<toponymName>Colonel</toponymName>
+<name>Colonel</name>
+<lat>18.51667</lat>
+<lng>-74.2</lng>
+<geonameId>3727513</geonameId>
+<countryCode>HT</countryCode>
+<countryName>Haiti</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">14</adminCode1>
+<adminName1>GrandʼAnse</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Port-au-Prince</timezone>
+<bbox>
+<west>-74.20949</west>
+<north>18.52566</north>
+<east>-74.19051</east>
+<south>18.50767</south>
+</bbox>
+<score>14.700160026550293</score>
+</geoname>
+<geoname>
+<toponymName>Corones</toponymName>
+<name>Corones</name>
+<lat>42.1288</lat>
+<lng>0.55125</lng>
+<geonameId>6355095</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="AR">52</adminCode1>
+<adminName1>Aragon</adminName1>
+<adminCode2>HU</adminCode2>
+<adminName2>Huesca</adminName2>
+<adminCode3>22053</adminCode3>
+<adminName3>Benabarre</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Madrid</timezone>
+<bbox>
+<west>0.53912</west>
+<north>42.13779</north>
+<east>0.56338</east>
+<south>42.11981</south>
+</bbox>
+<score>14.700160026550293</score>
+</geoname>
+<geoname>
+<toponymName>Colomers</toponymName>
+<name>Colomers</name>
+<lat>42.08333</lat>
+<lng>2.98333</lng>
+<geonameId>3124760</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Colomers,Colomes,Colomés</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="CT">56</adminCode1>
+<adminName1>Catalonia</adminName1>
+<adminCode2>GI</adminCode2>
+<adminName2>Girona</adminName2>
+<adminCode3>17055</adminCode3>
+<adminName3>Colomers</adminName3>
+<alternateName lang="ca">Colomers</alternateName>
+<alternateName lang="es">Colomés</alternateName>
+<alternateName lang="post">17144</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Madrid</timezone>
+<bbox>
+<west>2.95909</west>
+<north>42.10132</north>
+<east>3.00758</east>
+<south>42.06535</south>
+</bbox>
+<score>13.502958297729492</score>
+</geoname>
+<geoname>
+<toponymName>Colonos</toponymName>
+<name>Colonos</name>
+<lat>22.76972</lat>
+<lng>-81.7675</lng>
+<geonameId>3563819</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1>MA</adminCode1>
+<adminName1>Provincia Mayabeque</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>13.473454475402832</score>
+</geoname>
+<geoname>
+<toponymName>Colonos</toponymName>
+<name>Colonos</name>
+<lat>-16.68333</lat>
+<lng>-63.78333</lng>
+<geonameId>3919783</geonameId>
+<countryCode>BO</countryCode>
+<countryName>Bolivia</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="S">08</adminCode1>
+<adminName1>Santa Cruz</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/La_Paz</timezone>
+<score>13.473454475402832</score>
+</geoname>
+<geoname>
+<toponymName>Colores</toponymName>
+<name>Colores</name>
+<lat>20.78333</lat>
+<lng>-78.03333</lng>
+<geonameId>3563747</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="09">05</adminCode1>
+<adminName1>Camagüey</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>12.780649185180664</score>
+</geoname>
+<geoname>
+<toponymName>Colonjes</toponymName>
+<name>Colonjes</name>
+<lat>51.76667</lat>
+<lng>5.93333</lng>
+<geonameId>2757923</geonameId>
+<countryCode>NL</countryCode>
+<countryName>Netherlands</countryName>
+<fcl>P</fcl>
+<fcode>PPLL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated locality</fcodeName>
+<population/>
+<alternateNames>Colonies</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="GE">03</adminCode1>
+<adminName1>Gelderland</adminName1>
+<adminCode2>0241</adminCode2>
+<adminName2>Gemeente Groesbeek</adminName2>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Amsterdam</timezone>
+<bbox>
+<west>5.93188</west>
+<north>51.76757</north>
+<east>5.93479</east>
+<south>51.76577</south>
+</bbox>
+<score>12.547370910644531</score>
+</geoname>
+</geonames>

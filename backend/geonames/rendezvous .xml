@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>16</totalResultsCount>
+<geoname>
+<toponymName>Rendezvous</toponymName>
+<name>Rendezvous</name>
+<lat>16.8</lat>
+<lng>-62.2</lng>
+<geonameId>3578062</geonameId>
+<countryCode>MS</countryCode>
+<countryName>Montserrat</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Rendezvous,Rendezvous Village</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1>03</adminCode1>
+<adminName1>Saint Peter</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Montserrat</timezone>
+<bbox>
+<west>-62.2094</west>
+<north>16.80899</north>
+<east>-62.1906</east>
+<south>16.79101</south>
+</bbox>
+<score>43.9759407043457</score>
+</geoname>
+<geoname>
+<toponymName>Rendezvous</toponymName>
+<name>Rendezvous</name>
+<lat>13.06667</lat>
+<lng>-59.58333</lng>
+<geonameId>3373607</geonameId>
+<countryCode>BB</countryCode>
+<countryName>Barbados</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="01">01</adminCode1>
+<adminName1>Christ Church</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Barbados</timezone>
+<bbox>
+<west>-59.59257</west>
+<north>13.07566</north>
+<east>-59.5741</east>
+<south>13.05767</south>
+</bbox>
+<score>35.90620422363281</score>
+</geoname>
+<geoname>
+<toponymName>Rendezvous</toponymName>
+<name>Rendezvous</name>
+<lat>33.51012</lat>
+<lng>-92.83127</lng>
+<geonameId>4128215</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>49</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">AR</adminCode1>
+<adminName1>Arkansas</adminName1>
+<adminCode2>103</adminCode2>
+<adminName2>Ouachita County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.84206</west>
+<north>33.51911</north>
+<east>-92.82049</east>
+<south>33.50112</south>
+</bbox>
+<score>35.90620422363281</score>
+</geoname>
+<geoname>
+<toponymName>Rendezvous</toponymName>
+<name>Rendezvous</name>
+<lat>41.05301</lat>
+<lng>-109.95293</lng>
+<geonameId>5836410</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>2087</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WY">WY</adminCode1>
+<adminName1>Wyoming</adminName1>
+<adminCode2>037</adminCode2>
+<adminName2>Sweetwater County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<bbox>
+<west>-109.96486</west>
+<north>41.062</north>
+<east>-109.941</east>
+<south>41.04402</south>
+</bbox>
+<score>35.90620422363281</score>
+</geoname>
+<geoname>
+<toponymName>Rendova Island</toponymName>
+<name>Rendova Island</name>
+<lat>-8.5347</lat>
+<lng>157.30704</lng>
+<geonameId>2103960</geonameId>
+<countryCode>SB</countryCode>
+<countryName>Solomon Islands</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames>Hammond Island,Rendezvous,Rendova Island,Rendowa,Uweli,Uwoli</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Rendova_Island</alternateName>
+<timezone dstOffset="11.0" gmtOffset="11.0">Pacific/Guadalcanal</timezone>
+<score>25.3895206451416</score>
+</geoname>
+<geoname>
+<toponymName>Rendez-Vous</toponymName>
+<name>Rendez-Vous</name>
+<lat>43.88345</lat>
+<lng>4.37773</lng>
+<geonameId>2984010</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Le Rendez-Vous,Rendez-Vous</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="K">A9</adminCode1>
+<adminName1>Languedoc-Roussillon</adminName1>
+<adminCode2>30</adminCode2>
+<adminName2>Gard</adminName2>
+<adminCode3>302</adminCode3>
+<adminName3>Arrondissement de Nîmes</adminName3>
+<adminCode4>30189</adminCode4>
+<adminName4>Nîmes</adminName4>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>4.36525</west>
+<north>43.89244</north>
+<east>4.39021</east>
+<south>43.87445</south>
+</bbox>
+<score>25.005687713623047</score>
+</geoname>
+<geoname>
+<toponymName>Rendezvous</toponymName>
+<name>Rendezvous</name>
+<lat>-28.21024</lat>
+<lng>21.70207</lng>
+<geonameId>962788</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>S</fcl>
+<fcode>FRMT</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farmstead</fcodeName>
+<population/>
+<alternateNames>Rendezvous,Rendezvous (1)</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="NC">08</adminCode1>
+<adminName1>Northern Cape</adminName1>
+<adminCode2>DC8</adminCode2>
+<adminName2>Siyanda District Municipality</adminName2>
+<adminCode3>NC085</adminCode3>
+<adminName3>Tsantsabane</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<score>21.98797035217285</score>
+</geoname>
+<geoname>
+<toponymName>Rendezvous</toponymName>
+<name>Rendezvous</name>
+<lat>-28.16889</lat>
+<lng>21.7535</lng>
+<geonameId>962789</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>S</fcl>
+<fcode>FRMT</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farmstead</fcodeName>
+<population/>
+<alternateNames>Rendezvous,Rendezvous (2)</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="NC">08</adminCode1>
+<adminName1>Northern Cape</adminName1>
+<adminCode2>DC8</adminCode2>
+<adminName2>Siyanda District Municipality</adminName2>
+<adminCode3>NC085</adminCode3>
+<adminName3>Tsantsabane</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<score>21.98797035217285</score>
+</geoname>
+<geoname>
+<toponymName>Rendez-vous</toponymName>
+<name>Rendez-vous</name>
+<lat>48.75</lat>
+<lng>16.78333</lng>
+<geonameId>3066929</geonameId>
+<countryCode>CZ</countryCode>
+<countryName>Czechia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="JM">78</adminCode1>
+<adminName1>South Moravian Region</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Prague</timezone>
+<bbox>
+<west>16.76969</west>
+<north>48.75899</north>
+<east>16.79698</east>
+<south>48.74101</south>
+</bbox>
+<score>20.41705894470215</score>
+</geoname>
+<geoname>
+<toponymName>Rendez-vous</toponymName>
+<name>Rendez-vous</name>
+<lat>18.61667</lat>
+<lng>-72.13333</lng>
+<geonameId>3718061</geonameId>
+<countryCode>HT</countryCode>
+<countryName>Haiti</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OU">11</adminCode1>
+<adminName1>Ouest</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Port-au-Prince</timezone>
+<bbox>
+<west>-72.14282</west>
+<north>18.62566</north>
+<east>-72.12384</east>
+<south>18.60767</south>
+</bbox>
+<score>20.41705894470215</score>
+</geoname>
+</geonames>

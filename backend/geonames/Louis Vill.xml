@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Louis Hill</toponymName>
+<name>Louis Hill</name>
+<lat>47.22743</lat>
+<lng>-88.4015</lng>
+<geonameId>5000209</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>CLF</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>cliff(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>248</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MI">MI</adminCode1>
+<adminName1>Michigan</adminName1>
+<adminCode2>061</adminCode2>
+<adminName2>Houghton County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Detroit</timezone>
+<score>45.98583984375</score>
+</geoname>
+</geonames>

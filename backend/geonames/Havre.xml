@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>8</totalResultsCount>
+<geoname>
+<toponymName>Havré</toponymName>
+<name>Havré</name>
+<lat>50.46401</lat>
+<lng>4.04675</lng>
+<geonameId>2796353</geonameId>
+<countryCode>BE</countryCode>
+<countryName>Belgium</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WAL">WAL</adminCode1>
+<adminName1>Walloon Region</adminName1>
+<adminCode2>WHT</adminCode2>
+<adminName2>Hainaut Province</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Havr%C3%A9</alternateName>
+<alternateName lang="post">7021</alternateName>
+<alternateName lang="unlc">HRE</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Brussels</timezone>
+<bbox>
+<west>4.03261</west>
+<north>50.473</north>
+<east>4.06088</east>
+<south>50.45501</south>
+</bbox>
+<score>52.164581298828125</score>
+</geoname>
+<geoname>
+<toponymName>Havre</toponymName>
+<name>Havre</name>
+<lat>-7.88333</lat>
+<lng>-71.46667</lng>
+<geonameId>3664081</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="AM">04</adminCode1>
+<adminName1>Amazonas</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Rio_Branco</timezone>
+<bbox>
+<west>-71.47575</west>
+<north>-7.87434</north>
+<east>-71.45759</east>
+<south>-7.89233</south>
+</bbox>
+<score>41.731666564941406</score>
+</geoname>
+<geoname>
+<toponymName>Havre</toponymName>
+<name>Havre</name>
+<lat>41.25363</lat>
+<lng>-91.61016</lng>
+<geonameId>4860062</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>228</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IA">IA</adminCode1>
+<adminName1>Iowa</adminName1>
+<adminCode2>183</adminCode2>
+<adminName2>Washington County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-91.62213</west>
+<north>41.26262</north>
+<east>-91.5982</east>
+<south>41.24464</south>
+</bbox>
+<score>41.731666564941406</score>
+</geoname>
+<geoname>
+<toponymName>Havre</toponymName>
+<name>Havre</name>
+<lat>48.55417</lat>
+<lng>-109.67853</lng>
+<geonameId>5656498</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>758</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MT">MT</adminCode1>
+<adminName1>Montana</adminName1>
+<adminCode2>041</adminCode2>
+<adminName2>Hill County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Havre_%28Amtrak_station%29</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<score>41.731666564941406</score>
+</geoname>
+<geoname>
+<toponymName>Havre</toponymName>
+<name>Havre</name>
+<lat>48.55</lat>
+<lng>-109.68409</lng>
+<geonameId>5656497</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>9310</population>
+<alternateNames>HVR,Khavr,Khavur,ha fu,hafry, mwntana,Хавр,Хавър,هافري، مونتانا,哈佛</alternateNames>
+<elevation>771</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MT">MT</adminCode1>
+<adminName1>Montana</adminName1>
+<adminCode2>041</adminCode2>
+<adminName2>Hill County</adminName2>
+<alternateName lang="ar">هافري، مونتانا</alternateName>
+<alternateName lang="bg">Хавър</alternateName>
+<alternateName lang="iata">HVR</alternateName>
+<alternateName lang="kk">Хавр</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Havre%2C_Montana</alternateName>
+<alternateName lang="post">59501</alternateName>
+<alternateName lang="ru">Хавр</alternateName>
+<alternateName lang="zh">哈佛</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<bbox>
+<west>-109.70207</west>
+<north>48.5619</north>
+<east>-109.66611</east>
+<south>48.5381</south>
+</bbox>
+<score>36.51520919799805</score>
+</geoname>
+<geoname>
+<toponymName>Le Havre</toponymName>
+<name>Le Havre</name>
+<lat>49.4938</lat>
+<lng>0.10767</lng>
+<geonameId>3003796</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>185972</population>
+<alternateNames>An Havr Nevez,An Havr-Nevez,Avr,Chabre,El Havre,Franciscopolis,Gavr,Gorad Gaur,Grasville-Lheure,Havra,Havras,Havre,Havro,Hawr,Khavur,LEH,La Havro,Le Havre,Le port de Grace,Le port de Grâce,Lé Hâvre,O Havre,Saint-Jean-sur-Mer,havri,la avra,le avar,lei a fu er,leuabeuleu,lex xafwr,lh hbr,lw awr,lw hafr,Χάβρη,Авр,Гавр,Горад Гаўр,Хавър,לה הבר,لو آور,لو اور,لو هافر,لی ہاور,ला आव्र,லே ஆவர்,เลออาฟวร์,ჰავრი,ル・アーヴル,勒阿弗尔,르아브르</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="Q">A7</adminCode1>
+<adminName1>Upper Normandy</adminName1>
+<adminCode2>76</adminCode2>
+<adminName2>Seine-Maritime</adminName2>
+<adminCode3>762</adminCode3>
+<adminName3>Arrondissement du Havre</adminName3>
+<adminCode4>76351</adminCode4>
+<adminName4>Le Havre</adminName4>
+<alternateName lang="af">Le Havre</alternateName>
+<alternateName lang="ar">لو هافر</alternateName>
+<alternateName lang="be">Горад Гаўр</alternateName>
+<alternateName lang="bg">Хавър</alternateName>
+<alternateName lang="br">An Havr Nevez</alternateName>
+<alternateName lang="ca">Le Havre</alternateName>
+<alternateName lang="ceb">Havre</alternateName>
+<alternateName lang="de">Le Havre</alternateName>
+<alternateName lang="el">Χάβρη</alternateName>
+<alternateName lang="en">Le Havre</alternateName>
+<alternateName lang="eo">La Havro</alternateName>
+<alternateName lang="es">El Havre</alternateName>
+<alternateName lang="fa">لو آور</alternateName>
+<alternateName lang="fi">Le Havre</alternateName>
+<alternateName lang="fr">Le port de Grâce</alternateName>
+<alternateName lang="fr_1793">Saint-Jean-sur-Mer</alternateName>
+<alternateName lang="gl">O Havre</alternateName>
+<alternateName lang="he">לה הבר</alternateName>
+<alternateName lang="iata">LEH</alternateName>
+<alternateName lang="id">Le Havre</alternateName>
+<alternateName lang="it">Le Havre</alternateName>
+<alternateName lang="ja">ル・アーヴル</alternateName>
+<alternateName lang="ka">ჰავრი</alternateName>
+<alternateName lang="kk">Гавр</alternateName>
+<alternateName lang="ko">르아브르</alternateName>
+<alternateName lang="la">Franciscopolis</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Le_Havre</alternateName>
+<alternateName lang="lt">Havras</alternateName>
+<alternateName lang="lv">Havra</alternateName>
+<alternateName lang="mk">Авр</alternateName>
+<alternateName lang="mr">ला आव्र</alternateName>
+<alternateName lang="mzn">لو اور</alternateName>
+<alternateName lang="nl">Le Havre</alternateName>
+<alternateName lang="no">Le Havre</alternateName>
+<alternateName lang="nrm">Lé Hâvre</alternateName>
+<alternateName lang="pl">Hawr</alternateName>
+<alternateName lang="pnb">لی ہاور</alternateName>
+<alternateName lang="post">76600</alternateName>
+<alternateName lang="pt">Le Havre</alternateName>
+<alternateName lang="qu">Le Havre</alternateName>
+<alternateName lang="ro">Le Havre</alternateName>
+<alternateName lang="ru">Гавр</alternateName>
+<alternateName lang="sk">Le Havre</alternateName>
+<alternateName lang="sr">Авр</alternateName>
+<alternateName lang="sv">Le Havre</alternateName>
+<alternateName lang="ta">லே ஆவர்</alternateName>
+<alternateName lang="th">เลออาฟวร์</alternateName>
+<alternateName lang="uk">Гавр</alternateName>
+<alternateName lang="unlc">LEH</alternateName>
+<alternateName lang="zh">勒阿弗尔</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>0.02166</west>
+<north>49.54961</north>
+<east>0.19369</east>
+<south>49.438</south>
+</bbox>
+<score>22.131559371948242</score>
+</geoname>
+<geoname>
+<toponymName>Hâvre</toponymName>
+<name>Hâvre</name>
+<lat>47.34238</lat>
+<lng>-1.28774</lng>
+<geonameId>3013634</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>Havre,Hâvre,Le Havre Riviere,Le Hâvre Rivière</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="R">B5</adminCode1>
+<adminName1>Pays de la Loire</adminName1>
+<adminCode2>49</adminCode2>
+<adminName2>Maine-et-Loire</adminName2>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<score>22.131559371948242</score>
+</geoname>
+<geoname>
+<toponymName>Havre</toponymName>
+<name>Havre</name>
+<lat>-22.49546</lat>
+<lng>30.09708</lng>
+<geonameId>997307</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>S</fcl>
+<fcode>FRM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farm</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="LP">09</adminCode1>
+<adminName1>Limpopo</adminName1>
+<adminCode2>DC34</adminCode2>
+<adminName2>Vhembe District Municipality</adminName2>
+<adminCode3>LIM341</adminCode3>
+<adminName3>Musina</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<score>13.041145324707031</score>
+</geoname>
+</geonames>

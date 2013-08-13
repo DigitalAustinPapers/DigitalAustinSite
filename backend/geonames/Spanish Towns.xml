@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Spanish Town</toponymName>
+<name>Spanish Town</name>
+<lat>17.99107</lat>
+<lng>-76.95742</lng>
+<geonameId>3488465</geonameId>
+<countryCode>JM</countryCode>
+<countryName>Jamaica</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population>145018</population>
+<alternateNames>Saint Jago de la Vega,Spanis Taoun,Spanis Taunas,Spanish Town,Spanish-Taun,Spaniš Taunas,sbanysh tawn,xi ban ya zhen,Σπάνις Τάουν,Спаниш-Таун,سبانيش تاون,スパニッシュ・タウン,西班牙鎮</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="14">10</adminCode1>
+<adminName1>Saint Catherine</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ar">سبانيش تاون</alternateName>
+<alternateName lang="de">Spanish Town</alternateName>
+<alternateName lang="el">Σπάνις Τάουν</alternateName>
+<alternateName lang="en">Spanish Town</alternateName>
+<alternateName lang="fr">Spanish Town</alternateName>
+<alternateName lang="it">Spanish Town</alternateName>
+<alternateName lang="ja">スパニッシュ・タウン</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Spanish_Town</alternateName>
+<alternateName lang="lt">Spaniš Taunas</alternateName>
+<alternateName lang="pl">Spanish Town</alternateName>
+<alternateName lang="pt">Spanish Town</alternateName>
+<alternateName lang="ru">Спаниш-Таун</alternateName>
+<alternateName lang="unlc">SPT</alternateName>
+<alternateName lang="zh">西班牙鎮</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Jamaica</timezone>
+<bbox>
+<west>-77.00923</west>
+<north>18.04033</north>
+<east>-76.90561</east>
+<south>17.94181</south>
+</bbox>
+<score>227.3975830078125</score>
+</geoname>
+<geoname>
+<toponymName>Spanish Town</toponymName>
+<name>Spanish Town</name>
+<lat>18.45</lat>
+<lng>-64.43333</lng>
+<geonameId>3577369</geonameId>
+<countryCode>VG</countryCode>
+<countryName>British Virgin Islands</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Spanish Town</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Spanish_Town%2C_British_Virgin_Islands</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Tortola</timezone>
+<bbox>
+<west>-64.44281</west>
+<north>18.45899</north>
+<east>-64.42385</east>
+<south>18.44101</south>
+</bbox>
+<score>78.7728271484375</score>
+</geoname>
+<geoname>
+<toponymName>Spanish Town</toponymName>
+<name>Spanish Town</name>
+<lat>17.7172</lat>
+<lng>-64.77292</lng>
+<geonameId>4796646</geonameId>
+<countryCode>VI</countryCode>
+<countryName>U.S. Virgin Islands</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>33</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="C">010</adminCode1>
+<adminName1>Saint Croix Island</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/St_Thomas</timezone>
+<bbox>
+<west>-64.78236</west>
+<north>17.72619</north>
+<east>-64.76348</east>
+<south>17.7082</south>
+</bbox>
+<score>42.87849426269531</score>
+</geoname>
+<geoname>
+<toponymName>Virgin Gorda</toponymName>
+<name>Virgin Gorda Island</name>
+<lat>18.46202</lat>
+<lng>-64.42649</lng>
+<geonameId>3577325</geonameId>
+<countryCode>VG</countryCode>
+<countryName>British Virgin Islands</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames>Spanish Town,VIJ,Virgin Gorda,Virgin Gorda Island</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Virgin Gorda Island</alternateName>
+<alternateName lang="iata">VIJ</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Virgin_Gorda</alternateName>
+<alternateName lang="unlc">VIJ</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Tortola</timezone>
+<bbox>
+<west>-64.44793</west>
+<north>18.51342</north>
+<east>-64.32251</east>
+<south>18.43212</south>
+</bbox>
+<score>30.31967544555664</score>
+</geoname>
+<geoname>
+<toponymName>Palma Real</toponymName>
+<name>Palma Real</name>
+<lat>9.05</lat>
+<lng>-82.28333</lng>
+<geonameId>3703532</geonameId>
+<countryCode>PA</countryCode>
+<countryName>Panama</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Palma Real,Spanish Town</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="1">01</adminCode1>
+<adminName1>Bocas del Toro</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Panama</timezone>
+<bbox>
+<west>-82.29244</west>
+<north>9.05899</north>
+<east>-82.27423</east>
+<south>9.04101</south>
+</bbox>
+<score>30.31967544555664</score>
+</geoname>
+</geonames>

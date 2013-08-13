@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>23</totalResultsCount>
+<geoname>
+<toponymName>Three Islands</toponymName>
+<name>Three Islands</name>
+<lat>-15.11556</lat>
+<lng>145.42584</lng>
+<geonameId>2146750</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>T</fcl>
+<fcode>ISLS</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>islands</fcodeName>
+<population/>
+<alternateNames>Three Islands,Three Isles</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="QLD">04</adminCode1>
+<adminName1>Queensland</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Three Islands</alternateName>
+<timezone dstOffset="10.0" gmtOffset="10.0">Australia/Lindeman</timezone>
+<score>46.10317611694336</score>
+</geoname>
+<geoname>
+<toponymName>Three Islands</toponymName>
+<name>Three Islands</name>
+<lat>26.27702</lat>
+<lng>-97.29553</lng>
+<geonameId>4736712</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>061</adminCode2>
+<adminName2>Cameron County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>32.59986877441406</score>
+</geoname>
+<geoname>
+<toponymName>Three Islands</toponymName>
+<name>Three Islands</name>
+<lat>43.84564</lat>
+<lng>-69.88144</lng>
+<geonameId>4980727</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>0</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ME">ME</adminCode1>
+<adminName1>Maine</adminName1>
+<adminCode2>005</adminCode2>
+<adminName2>Cumberland County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>32.59986877441406</score>
+</geoname>
+<geoname>
+<toponymName>Three Islands</toponymName>
+<name>Three Islands</name>
+<lat>43.57591</lat>
+<lng>-71.52424</lng>
+<geonameId>5093640</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>155</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NH">NH</adminCode1>
+<adminName1>New Hampshire</adminName1>
+<adminCode2>001</adminCode2>
+<adminName2>Belknap County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>32.59986877441406</score>
+</geoname>
+<geoname>
+<toponymName>Three Islands</toponymName>
+<name>Three Islands</name>
+<lat>55.70222</lat>
+<lng>-132.23111</lng>
+<geonameId>5557956</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>0</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AK">AK</adminCode1>
+<adminName1>Alaska</adminName1>
+<adminCode2>275</adminCode2>
+<adminName2>City and Borough of Wrangell</adminName2>
+<timezone dstOffset="-8.0" gmtOffset="-9.0">America/Juneau</timezone>
+<score>32.59986877441406</score>
+</geoname>
+<geoname>
+<toponymName>Three Islands</toponymName>
+<name>Three Islands</name>
+<lat>47.96997</lat>
+<lng>-110.3691</lng>
+<geonameId>5682384</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>776</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MT">MT</adminCode1>
+<adminName1>Montana</adminName1>
+<adminCode2>015</adminCode2>
+<adminName2>Chouteau County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<score>32.59986877441406</score>
+</geoname>
+<geoname>
+<toponymName>Three Islands</toponymName>
+<name>Three Islands</name>
+<lat>47.66669</lat>
+<lng>-58.1818</lng>
+<geonameId>6165897</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>T</fcl>
+<fcode>ISLS</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>islands</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NL">05</adminCode1>
+<adminName1>Newfoundland and Labrador</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-2.5" gmtOffset="-3.5">America/St_Johns</timezone>
+<score>32.59986877441406</score>
+</geoname>
+<geoname>
+<toponymName>Three Islands</toponymName>
+<name>Three Islands</name>
+<lat>47.58327</lat>
+<lng>-57.26514</lng>
+<geonameId>6165898</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>T</fcl>
+<fcode>ISLS</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>islands</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NL">05</adminCode1>
+<adminName1>Newfoundland and Labrador</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-2.5" gmtOffset="-3.5">America/St_Johns</timezone>
+<score>32.59986877441406</score>
+</geoname>
+<geoname>
+<toponymName>Three Islands</toponymName>
+<name>Three Islands</name>
+<lat>44.58623</lat>
+<lng>-66.76421</lng>
+<geonameId>6165899</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>T</fcl>
+<fcode>ISLS</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>islands</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NB">04</adminCode1>
+<adminName1>New Brunswick</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-3.0" gmtOffset="-4.0">America/Moncton</timezone>
+<score>32.59986877441406</score>
+</geoname>
+<geoname>
+<toponymName>Three Islands</toponymName>
+<name>Three Islands</name>
+<lat>44.55012</lat>
+<lng>-78.26623</lng>
+<geonameId>6165900</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>T</fcl>
+<fcode>ISLS</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>islands</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ON">08</adminCode1>
+<adminName1>Ontario</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Toronto</timezone>
+<score>32.59986877441406</score>
+</geoname>
+</geonames>

@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>12</totalResultsCount>
+<geoname>
+<toponymName>Goodland</toponymName>
+<name>Goodland</name>
+<lat>25.92482</lat>
+<lng>-81.64564</lng>
+<geonameId>4157015</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>267</population>
+<alternateNames/>
+<elevation>2</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="FL">FL</adminCode1>
+<adminName1>Florida</adminName1>
+<adminCode2>021</adminCode2>
+<adminName2>Collier County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Goodland%2C_Florida</alternateName>
+<alternateName lang="post">34140</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-81.64664</west>
+<north>25.92572</north>
+<east>-81.64464</east>
+<south>25.92392</south>
+</bbox>
+<score>61.03737258911133</score>
+</geoname>
+<geoname>
+<toponymName>Goodland</toponymName>
+<name>Goodland</name>
+<lat>40.76337</lat>
+<lng>-87.29363</lng>
+<geonameId>4920783</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1043</population>
+<alternateNames/>
+<elevation>221</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IN">IN</adminCode1>
+<adminName1>Indiana</adminName1>
+<adminCode2>111</adminCode2>
+<adminName2>Newton County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Goodland%2C_Indiana</alternateName>
+<alternateName lang="post">47948</alternateName>
+<alternateName lang="unlc">GOQ</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-87.29482</west>
+<north>40.76427</north>
+<east>-87.29245</east>
+<south>40.76247</south>
+</bbox>
+<score>61.03737258911133</score>
+</geoname>
+<geoname>
+<toponymName>Goodland</toponymName>
+<name>Goodland</name>
+<lat>47.16188</lat>
+<lng>-93.13576</lng>
+<geonameId>5028245</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>432</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MN">MN</adminCode1>
+<adminName1>Minnesota</adminName1>
+<adminCode2>061</adminCode2>
+<adminName2>Itasca County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Goodland%2C_Minnesota</alternateName>
+<alternateName lang="post">55742</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-93.14899</west>
+<north>47.17088</north>
+<east>-93.12253</east>
+<south>47.15289</south>
+</bbox>
+<score>61.03737258911133</score>
+</geoname>
+<geoname>
+<toponymName>Goodland</toponymName>
+<name>Goodland</name>
+<lat>13.05</lat>
+<lng>-59.51667</lng>
+<geonameId>3373845</geonameId>
+<countryCode>BB</countryCode>
+<countryName>Barbados</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="01">01</adminCode1>
+<adminName1>Christ Church</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Barbados</timezone>
+<bbox>
+<west>-59.5259</west>
+<north>13.05899</north>
+<east>-59.50743</east>
+<south>13.04101</south>
+</bbox>
+<score>40.69158172607422</score>
+</geoname>
+<geoname>
+<toponymName>Goodland</toponymName>
+<name>Goodland</name>
+<lat>39.98004</lat>
+<lng>-92.30157</lng>
+<geonameId>4388212</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>256</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>103</adminCode2>
+<adminName2>Knox County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.31331</west>
+<north>39.98903</north>
+<east>-92.28984</east>
+<south>39.97104</south>
+</bbox>
+<score>40.69158172607422</score>
+</geoname>
+<geoname>
+<toponymName>Goodland</toponymName>
+<name>Goodland</name>
+<lat>37.63616</lat>
+<lng>-91.0018</lng>
+<geonameId>4388224</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>290</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>093</adminCode2>
+<adminName2>Iron County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-91.01315</west>
+<north>37.64515</north>
+<east>-90.99044</east>
+<south>37.62716</south>
+</bbox>
+<score>40.69158172607422</score>
+</geoname>
+<geoname>
+<toponymName>Goodland</toponymName>
+<name>Goodland</name>
+<lat>33.98177</lat>
+<lng>-95.55524</lng>
+<geonameId>4537736</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>170</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OK">OK</adminCode1>
+<adminName1>Oklahoma</adminName1>
+<adminCode2>023</adminCode2>
+<adminName2>Choctaw County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-95.56609</west>
+<north>33.99076</north>
+<east>-95.54439</east>
+<south>33.97278</south>
+</bbox>
+<score>40.69158172607422</score>
+</geoname>
+<geoname>
+<toponymName>Goodland</toponymName>
+<name>Goodland</name>
+<lat>30.88213</lat>
+<lng>-96.66803</lng>
+<geonameId>4694050</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>85</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>395</adminCode2>
+<adminName2>Robertson County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-96.67851</west>
+<north>30.89113</north>
+<east>-96.65755</east>
+<south>30.87314</south>
+</bbox>
+<score>40.69158172607422</score>
+</geoname>
+<geoname>
+<toponymName>Goodland</toponymName>
+<name>Goodland</name>
+<lat>43.09475</lat>
+<lng>-83.07244</lng>
+<geonameId>4994140</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>256</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MI">MI</adminCode1>
+<adminName1>Michigan</adminName1>
+<adminCode2>087</adminCode2>
+<adminName2>Lapeer County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Detroit</timezone>
+<bbox>
+<west>-83.08476</west>
+<north>43.10374</north>
+<east>-83.06012</east>
+<south>43.08576</south>
+</bbox>
+<score>40.69158172607422</score>
+</geoname>
+<geoname>
+<toponymName>Goodland</toponymName>
+<name>Goodland</name>
+<lat>33.87231</lat>
+<lng>-102.97577</lng>
+<geonameId>5522284</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1205</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>017</adminCode2>
+<adminName2>Bailey County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-102.98661</west>
+<north>33.88131</north>
+<east>-102.96494</east>
+<south>33.86332</south>
+</bbox>
+<score>40.69158172607422</score>
+</geoname>
+</geonames>

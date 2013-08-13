@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>6</totalResultsCount>
+<geoname>
+<toponymName>Río Bascán</toponymName>
+<name>Río Bascán</name>
+<lat>17.37648</lat>
+<lng>-92.1509</lng>
+<geonameId>3532345</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>Rio Basca,Rio Bascan,Rio Baxcan,Río Bascá,Río Bascán,Río Baxcán</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CHP">05</adminCode1>
+<adminName1>Chiapas</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<score>12.030914306640625</score>
+</geoname>
+<geoname>
+<toponymName>Río Bacha</toponymName>
+<name>Río Bacha</name>
+<lat>3.25574</lat>
+<lng>8.50448</lng>
+<geonameId>2310116</geonameId>
+<countryCode>GQ</countryCode>
+<countryName>Equatorial Guinea</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="1.0">Africa/Malabo</timezone>
+<score>7.519321441650391</score>
+</geoname>
+<geoname>
+<toponymName>Rio Barca</toponymName>
+<name>Rio Barca</name>
+<lat>40.60028</lat>
+<lng>8.30417</lng>
+<geonameId>3205700</geonameId>
+<countryCode>IT</countryCode>
+<countryName>Italy</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="88">14</adminCode1>
+<adminName1>Sardinia</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Rome</timezone>
+<score>7.519321441650391</score>
+</geoname>
+<geoname>
+<toponymName>Rio Baça</toponymName>
+<name>Rio Baça</name>
+<lat>39.55036</lat>
+<lng>-8.98022</lng>
+<geonameId>2271264</geonameId>
+<countryCode>PT</countryCode>
+<countryName>Portugal</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="10">13</adminCode1>
+<adminName1>Leiria</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Lisbon</timezone>
+<score>5.814994812011719</score>
+</geoname>
+<geoname>
+<toponymName>Río Bacá</toponymName>
+<name>Río Bacá</name>
+<lat>3.23686</lat>
+<lng>8.60485</lng>
+<geonameId>2310119</geonameId>
+<countryCode>GQ</countryCode>
+<countryName>Equatorial Guinea</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="1.0">Africa/Malabo</timezone>
+<score>5.814994812011719</score>
+</geoname>
+<geoname>
+<toponymName>Río Bacá</toponymName>
+<name>Río Bacá</name>
+<lat>3.23333</lat>
+<lng>8.6</lng>
+<geonameId>2310120</geonameId>
+<countryCode>GQ</countryCode>
+<countryName>Equatorial Guinea</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="1.0">Africa/Malabo</timezone>
+<score>5.814994812011719</score>
+</geoname>
+</geonames>

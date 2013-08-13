@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>32</totalResultsCount>
+<geoname>
+<toponymName>England</toponymName>
+<name>England</name>
+<lat>34.54426</lat>
+<lng>-91.96903</lng>
+<geonameId>4110001</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2825</population>
+<alternateNames/>
+<elevation>70</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">AR</adminCode1>
+<adminName1>Arkansas</adminName1>
+<adminCode2>085</adminCode2>
+<adminName2>Lonoke County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/England%2C_Arkansas</alternateName>
+<alternateName lang="post">72046</alternateName>
+<alternateName lang="unlc">EAD</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-91.97675</west>
+<north>34.55062</north>
+<east>-91.96131</east>
+<south>34.5379</south>
+</bbox>
+<score>51.395912170410156</score>
+</geoname>
+<geoname>
+<toponymName>England</toponymName>
+<name>England</name>
+<lat>53</lat>
+<lng>-2</lng>
+<geonameId>2649994</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames>Angleterre,England</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>00</adminCode2>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>41.9645881652832</score>
+</geoname>
+<geoname>
+<toponymName>England</toponymName>
+<name>England</name>
+<lat>63.31667</lat>
+<lng>22.48333</lng>
+<geonameId>660249</geonameId>
+<countryCode>FI</countryCode>
+<countryName>Finland</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="12">15</adminCode1>
+<adminName1>Province of Western Finland</adminName1>
+<adminCode2>15</adminCode2>
+<adminName2>Ostrobothnia</adminName2>
+<adminCode3>946</adminCode3>
+<adminName3>Vörå</adminName3>
+<timezone dstOffset="3.0" gmtOffset="2.0">Europe/Helsinki</timezone>
+<bbox>
+<west>22.4633</west>
+<north>63.32566</north>
+<east>22.50337</east>
+<south>63.30767</south>
+</bbox>
+<score>34.26394271850586</score>
+</geoname>
+<geoname>
+<toponymName>England</toponymName>
+<name>England</name>
+<lat>54.48333</lat>
+<lng>8.88333</lng>
+<geonameId>2930138</geonameId>
+<countryCode>DE</countryCode>
+<countryName>Germany</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SH">10</adminCode1>
+<adminName1>Schleswig-Holstein</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Berlin</timezone>
+<bbox>
+<west>8.86785</west>
+<north>54.49233</north>
+<east>8.89882</east>
+<south>54.47434</south>
+</bbox>
+<score>34.26394271850586</score>
+</geoname>
+<geoname>
+<toponymName>England</toponymName>
+<name>England</name>
+<lat>52.21667</lat>
+<lng>7.03333</lng>
+<geonameId>2930139</geonameId>
+<countryCode>DE</countryCode>
+<countryName>Germany</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="NW">07</adminCode1>
+<adminName1>North Rhine-Westphalia</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Berlin</timezone>
+<bbox>
+<west>7.01865</west>
+<north>52.22566</north>
+<east>7.04802</east>
+<south>52.20767</south>
+</bbox>
+<score>34.26394271850586</score>
+</geoname>
+<geoname>
+<toponymName>England</toponymName>
+<name>England</name>
+<lat>61.33333</lat>
+<lng>5.01667</lng>
+<geonameId>3158182</geonameId>
+<countryCode>NO</countryCode>
+<countryName>Norway</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="14">15</adminCode1>
+<adminName1>Sogn og Fjordane</adminName1>
+<adminCode2>1428</adminCode2>
+<adminName2>Askvoll</adminName2>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Oslo</timezone>
+<bbox>
+<west>4.99791</west>
+<north>61.34233</north>
+<east>5.03542</east>
+<south>61.32434</south>
+</bbox>
+<score>34.26394271850586</score>
+</geoname>
+<geoname>
+<toponymName>England</toponymName>
+<name>England</name>
+<lat>61.23333</lat>
+<lng>10.2</lng>
+<geonameId>3158183</geonameId>
+<countryCode>NO</countryCode>
+<countryName>Norway</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="05">11</adminCode1>
+<adminName1>Oppland county</adminName1>
+<adminCode2>0522</adminCode2>
+<adminName2>Gausdal</adminName2>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Oslo</timezone>
+<bbox>
+<west>10.18131</west>
+<north>61.24233</north>
+<east>10.21869</east>
+<south>61.22434</south>
+</bbox>
+<score>34.26394271850586</score>
+</geoname>
+<geoname>
+<toponymName>England</toponymName>
+<name>England</name>
+<lat>35.88453</lat>
+<lng>-94.668</lng>
+<geonameId>4535958</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>323</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OK">OK</adminCode1>
+<adminName1>Oklahoma</adminName1>
+<adminCode2>001</adminCode2>
+<adminName2>Adair County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-94.6791</west>
+<north>35.89352</north>
+<east>-94.6569</east>
+<south>35.87554</south>
+</bbox>
+<score>34.26394271850586</score>
+</geoname>
+<geoname>
+<toponymName>England</toponymName>
+<name>England</name>
+<lat>40.84033</lat>
+<lng>-82.23933</lng>
+<geonameId>5153309</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>301</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>005</adminCode2>
+<adminName2>Ashland County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-82.25122</west>
+<north>40.84933</north>
+<east>-82.22744</east>
+<south>40.83134</south>
+</bbox>
+<score>34.26394271850586</score>
+</geoname>
+<geoname>
+<toponymName>England</toponymName>
+<name>England</name>
+<lat>52.16045</lat>
+<lng>-0.70312</lng>
+<geonameId>6269131</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>first-order administrative division</fcodeName>
+<population>50000000</population>
+<alternateNames>'Ingilani,AEnglound,Anghiltera,Anghiltèra,Anglaterra,Anglatèrra,Anglete,Angleterre,Angletè,Angli,Anglia,Anglicko,Anglie,Anglieterre,Anglii,Anglija,Anglio,Anglis,Angliya,Angliétèrre,Anglujo,Anh,Bro-Saoz,Engalterra,Engeland,Engelane,Engelska,Englaland,England,Englanda,Englanti,Engleska,Englánda,INgesi,INgilandi,Iengeland,Ilegeesi,Ilẹ̀gẹ̀ẹ́sì,Ing-gaik-lang,Ingalaterra,Ingals,Ingarangi,Ingelan,Ingeland,Ingelân,Inggreh,Inggris,Inggréh,Inghiltaera,Inghiltera,Inghilterra,Inghiltæra,Inghiltèra,Ingilistan,Ingiltere,Ingilterra,Ingiriiska,Inglan,Ingland,Inglatera,Inglaterra,Inglatlalpan,Inglatlālpan,Inglismaa,Ingueltiere,Ingueltière,Ingyaterra,Ingɛlandi,Inlatirra,Jendzelska,Jendźelska,Linglaen,Linglän,Lloegr,Ngilandi,Nglaterra,Ngreterra,Ngyiresi,Ongland,Pow Sows,Sasainn,Sasana,Sostyn,Uingereza,Yngland,anglstan,anjltra,ing-geullaendeu,ingalyanda,inglainda,inglanda,inglandu,inglant,inglendadesah,inglisi,ingurando,inkilantu,inlenda,inlyanda,ying ge lan,yynglstan,Änglound,Îngilistan,Ĭng-gáik-làng,İngiltere,İngiltərə,ʻIngilani,Αγγλία,Англи,Англис,Англия,Англија,Англія,Енглеска,Ингалс,Инглишин Таңһч,Անգլիա,אנגליה,ענגלאנד,إنجلترا,ئینگلستان,انجلترا,انگلستان,އިނގިރޭސިވިލާތް,इंग्लंड,इंग्लैण्ड,इङ्गल्याण्ड,इङ्ग्लेण्डदेशः,ইংলেণ্ড,ইংল্যান্ড,இங்கிலாந்து,ఇంగ్లాండు,ഇംഗ്ലണ്ട്,ประเทศอังกฤษ,ປະເທດອັງກິດ,အင်္ဂလန်နိုင်ငံ,ინგლისი,ኢንግላንድ,អង់គ្លេស,イングランド,英格兰,잉글랜드</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ace">Inggréh</alternateName>
+<alternateName lang="af">Engeland</alternateName>
+<alternateName lang="ak">Ngyiresi</alternateName>
+<alternateName lang="am">ኢንግላንድ</alternateName>
+<alternateName lang="an">Anglaterra</alternateName>
+<alternateName lang="ang">Englaland</alternateName>
+<alternateName lang="ar">إنجلترا</alternateName>
+<alternateName lang="arz">انجلترا</alternateName>
+<alternateName lang="as">ইংলেণ্ড</alternateName>
+<alternateName lang="ast">Inglaterra</alternateName>
+<alternateName lang="az">İngiltərə</alternateName>
+<alternateName lang="ba">Англия</alternateName>
+<alternateName lang="be">Англія</alternateName>
+<alternateName lang="bg">Англия</alternateName>
+<alternateName lang="bn">ইংল্যান্ড</alternateName>
+<alternateName lang="br">Bro-Saoz</alternateName>
+<alternateName lang="bs">Engleska</alternateName>
+<alternateName lang="ca">Anglaterra</alternateName>
+<alternateName lang="cdo">Ĭng-gáik-làng</alternateName>
+<alternateName lang="ce">Ингалс</alternateName>
+<alternateName lang="ceb">Inglatera</alternateName>
+<alternateName lang="ckb">ئینگلستان</alternateName>
+<alternateName lang="cs">Anglie</alternateName>
+<alternateName lang="cv">Англи</alternateName>
+<alternateName lang="cy">Lloegr</alternateName>
+<alternateName lang="dsb">Engelska</alternateName>
+<alternateName lang="dv">އިނގިރޭސިވިލާތް</alternateName>
+<alternateName lang="el">Αγγλία</alternateName>
+<alternateName lang="en">England</alternateName>
+<alternateName lang="eo">Anglujo</alternateName>
+<alternateName lang="es">Inglaterra</alternateName>
+<alternateName lang="et">Inglismaa</alternateName>
+<alternateName lang="eu">Ingalaterra</alternateName>
+<alternateName lang="ext">Ingalaterra</alternateName>
+<alternateName lang="fa">انگلستان</alternateName>
+<alternateName lang="fi">Englanti</alternateName>
+<alternateName lang="fo">Ongland</alternateName>
+<alternateName lang="fr">Angleterre</alternateName>
+<alternateName lang="fur">Anglie</alternateName>
+<alternateName lang="fy">Ingelân</alternateName>
+<alternateName lang="ga">Sasana</alternateName>
+<alternateName lang="gd">Sasainn</alternateName>
+<alternateName lang="gl">Inglaterra</alternateName>
+<alternateName lang="gn">Ingyaterra</alternateName>
+<alternateName lang="gv">Sostyn</alternateName>
+<alternateName lang="hbs">Engleska</alternateName>
+<alternateName lang="he">אנגליה</alternateName>
+<alternateName lang="hi">इंग्लैण्ड</alternateName>
+<alternateName lang="hr">Engleska</alternateName>
+<alternateName lang="hsb">Jendźelska</alternateName>
+<alternateName lang="ht">Angletè</alternateName>
+<alternateName lang="hy">Անգլիա</alternateName>
+<alternateName lang="ia">Anglaterra</alternateName>
+<alternateName lang="id">Inggris</alternateName>
+<alternateName lang="ilo">Inglatera</alternateName>
+<alternateName lang="it">Inghilterra</alternateName>
+<alternateName lang="ja">イングランド</alternateName>
+<alternateName lang="jv">Inggris</alternateName>
+<alternateName lang="ka">ინგლისი</alternateName>
+<alternateName lang="kaa">Angliya</alternateName>
+<alternateName lang="kk">Англия</alternateName>
+<alternateName lang="km">អង់គ្លេស</alternateName>
+<alternateName lang="ko">잉글랜드</alternateName>
+<alternateName lang="ku">Îngilistan</alternateName>
+<alternateName lang="kw">Pow Sows</alternateName>
+<alternateName lang="ky">Англия</alternateName>
+<alternateName lang="lad">Inglaterra</alternateName>
+<alternateName lang="li">Ingeland</alternateName>
+<alternateName lang="lij">Inghiltæra</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/England</alternateName>
+<alternateName lang="lmo">Inghiltèra</alternateName>
+<alternateName lang="ln">Ingɛlandi</alternateName>
+<alternateName lang="lo">ປະເທດອັງກິດ</alternateName>
+<alternateName lang="lt">Anglija</alternateName>
+<alternateName lang="lv">Anglija</alternateName>
+<alternateName lang="mi">Ingarangi</alternateName>
+<alternateName lang="min">Inggris</alternateName>
+<alternateName lang="mk">Англија</alternateName>
+<alternateName lang="ml">ഇംഗ്ലണ്ട്</alternateName>
+<alternateName lang="mn">Англи</alternateName>
+<alternateName lang="mr">इंग्लंड</alternateName>
+<alternateName lang="mt">Ingilterra</alternateName>
+<alternateName lang="my">အင်္ဂလန်နိုင်ငံ</alternateName>
+<alternateName lang="nah">Inglatlālpan</alternateName>
+<alternateName lang="nap">Ngreterra</alternateName>
+<alternateName lang="ne">इङ्गल्याण्ड</alternateName>
+<alternateName lang="nl">Engeland</alternateName>
+<alternateName lang="nrm">Angliétèrre</alternateName>
+<alternateName lang="oc">Anglatèrra</alternateName>
+<alternateName lang="os">Англис</alternateName>
+<alternateName lang="pam">Inglaterra</alternateName>
+<alternateName lang="pap">Inglatera</alternateName>
+<alternateName lang="pcd">Ingueltière</alternateName>
+<alternateName lang="pih">Ingland</alternateName>
+<alternateName lang="pms">Anghiltèra</alternateName>
+<alternateName lang="pnb">انگلستان</alternateName>
+<alternateName lang="pt">Inglaterra</alternateName>
+<alternateName lang="qu">Inlatirra</alternateName>
+<alternateName lang="rm">Engalterra</alternateName>
+<alternateName lang="ru">Англия</alternateName>
+<alternateName lang="sa">इङ्ग्लेण्डदेशः</alternateName>
+<alternateName lang="sc">Inghilterra</alternateName>
+<alternateName lang="scn">Nglaterra</alternateName>
+<alternateName lang="sco">Ingland</alternateName>
+<alternateName lang="se">Englánda</alternateName>
+<alternateName lang="sk">Anglicko</alternateName>
+<alternateName lang="sl">Anglija</alternateName>
+<alternateName lang="so">Ingiriiska</alternateName>
+<alternateName lang="sr">Енглеска</alternateName>
+<alternateName lang="ss">Ngilandi</alternateName>
+<alternateName lang="st">Engelane</alternateName>
+<alternateName lang="stq">Änglound</alternateName>
+<alternateName lang="su">Inggris</alternateName>
+<alternateName lang="sv">England</alternateName>
+<alternateName lang="sw">Uingereza</alternateName>
+<alternateName lang="szl">Yngland</alternateName>
+<alternateName lang="ta">இங்கிலாந்து</alternateName>
+<alternateName lang="te">ఇంగ్లాండు</alternateName>
+<alternateName lang="tet">Inglaterra</alternateName>
+<alternateName lang="tg">Англия</alternateName>
+<alternateName lang="th">ประเทศอังกฤษ</alternateName>
+<alternateName lang="tl">Inglatera</alternateName>
+<alternateName lang="to">ʻIngilani</alternateName>
+<alternateName lang="tpi">Inglan</alternateName>
+<alternateName lang="tr">İngiltere</alternateName>
+<alternateName lang="tt">Англия</alternateName>
+<alternateName lang="uk">Англія</alternateName>
+<alternateName lang="ur">انگلستان</alternateName>
+<alternateName lang="uz">Angliya</alternateName>
+<alternateName lang="vec">Inghiltera</alternateName>
+<alternateName lang="vep">Anglii</alternateName>
+<alternateName lang="vi">Anh</alternateName>
+<alternateName lang="vls">Iengeland</alternateName>
+<alternateName lang="vo">Linglän</alternateName>
+<alternateName lang="war">Inglaterra</alternateName>
+<alternateName lang="wuu">英格兰</alternateName>
+<alternateName lang="xal">Инглишин Таңһч</alternateName>
+<alternateName lang="xh">INgesi</alternateName>
+<alternateName lang="xmf">ინგლისი</alternateName>
+<alternateName lang="yi">ענגלאנד</alternateName>
+<alternateName lang="yo">Ilẹ̀gẹ̀ẹ́sì</alternateName>
+<alternateName lang="zea">Iengeland</alternateName>
+<alternateName lang="zh">英格兰</alternateName>
+<alternateName lang="zu">INgilandi</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-6.3175</west>
+<north>55.80611</north>
+<east>1.74944</east>
+<south>49.91166</south>
+</bbox>
+<score>27.269929885864258</score>
+</geoname>
+</geonames>

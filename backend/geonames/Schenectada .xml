@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Schenectady</toponymName>
+<name>Schenectady</name>
+<lat>42.81424</lat>
+<lng>-73.93957</lng>
+<geonameId>5136454</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>66135</population>
+<alternateNames>SCH,Schenectady,Skenektadi,Skunektadi,seukinegteodi,si ke nei ke ta di,sknyktady, nywywrk,sukenekutadi,synktdy, nywywrk,Скенектади,Скенектаді,Скънектади,سكنيكتادي، نيويورك,سینکتدی، نیویورک,スケネクタディ,斯克内克塔迪,스키넥터디</alternateNames>
+<elevation>74</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>093</adminCode2>
+<adminName2>Schenectady County</adminName2>
+<alternateName lang="ar">سكنيكتادي، نيويورك</alternateName>
+<alternateName lang="bg">Скънектади</alternateName>
+<alternateName lang="de">Schenectady</alternateName>
+<alternateName lang="en">Schenectady</alternateName>
+<alternateName lang="fa">سینکتدی، نیویورک</alternateName>
+<alternateName lang="fr">Schenectady</alternateName>
+<alternateName lang="iata">SCH</alternateName>
+<alternateName lang="ja">スケネクタディ</alternateName>
+<alternateName lang="ko">스키넥터디</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Schenectady%2C_New_York</alternateName>
+<alternateName lang="nl">Schenectady</alternateName>
+<alternateName lang="pl">Schenectady</alternateName>
+<alternateName lang="post">12305</alternateName>
+<alternateName lang="ru">Скенектади</alternateName>
+<alternateName lang="sr">Скенектади</alternateName>
+<alternateName lang="sv">Schenectady</alternateName>
+<alternateName lang="uk">Скенектаді</alternateName>
+<alternateName lang="unlc">SCH</alternateName>
+<alternateName lang="zh">斯克内克塔迪</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-73.98325</west>
+<north>42.8437</north>
+<east>-73.89304</east>
+<south>42.76343</south>
+</bbox>
+<score>80.4752197265625</score>
+</geoname>
+</geonames>

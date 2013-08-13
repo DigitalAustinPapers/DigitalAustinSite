@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>23</totalResultsCount>
+<geoname>
+<toponymName>Church</toponymName>
+<name>Church</name>
+<lat>53.75177</lat>
+<lng>-2.39121</lng>
+<geonameId>2653049</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>4077</population>
+<alternateNames>Church</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H2</adminCode2>
+<adminName2>Lancashire</adminName2>
+<adminCode3>30UG</adminCode3>
+<adminName3>Hyndburn District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Church%2C_Lancashire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.40438</west>
+<north>53.75956</north>
+<east>-2.37803</east>
+<south>53.74398</south>
+</bbox>
+<score>77.16719055175781</score>
+</geoname>
+<geoname>
+<toponymName>Church</toponymName>
+<name>Church</name>
+<lat>43.3522</lat>
+<lng>-91.33902</lng>
+<geonameId>4851518</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>385</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IA">IA</adminCode1>
+<adminName1>Iowa</adminName1>
+<adminCode2>005</adminCode2>
+<adminName2>Allamakee County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Church%2C_Iowa</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-91.35139</west>
+<north>43.36119</north>
+<east>-91.32665</east>
+<south>43.3432</south>
+</bbox>
+<score>54.00578308105469</score>
+</geoname>
+<geoname>
+<toponymName>Church</toponymName>
+<name>Church</name>
+<lat>46.25011</lat>
+<lng>-76.24936</lng>
+<geonameId>5922070</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="QC">10</adminCode1>
+<adminName1>Quebec</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Montreal</timezone>
+<score>36.00385665893555</score>
+</geoname>
+<geoname>
+<toponymName>Church</toponymName>
+<name>Church</name>
+<lat>49.08341</lat>
+<lng>-88.50005</lng>
+<geonameId>5922071</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ON">08</adminCode1>
+<adminName1>Ontario</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Toronto</timezone>
+<score>36.00385665893555</score>
+</geoname>
+<geoname>
+<toponymName>Kyrkja</toponymName>
+<name>Kyrkja</name>
+<lat>78.67217</lat>
+<lng>26.79895</lng>
+<geonameId>607254</geonameId>
+<countryCode>SJ</countryCode>
+<countryName>Svalbard and Jan Mayen</countryName>
+<fcl>T</fcl>
+<fcode>MT</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>mountain</fcodeName>
+<population/>
+<alternateNames>Church,Kirche,Kyrkan,Kyrkja</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="21">21</adminCode1>
+<adminName1>Svalbard</adminName1>
+<adminCode2>2111</adminCode2>
+<adminName2>Spitsbergen</adminName2>
+<timezone dstOffset="2.0" gmtOffset="1.0">Arctic/Longyearbyen</timezone>
+<score>25.45857048034668</score>
+</geoname>
+<geoname>
+<toponymName>Chūreh</toponymName>
+<name>Chūreh</name>
+<lat>36.52547</lat>
+<lng>49.69937</lng>
+<geonameId>138246</geonameId>
+<countryCode>IR</countryCode>
+<countryName>Iran</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Chavareh,Chooreh,Chureh,Chūreh,chawarih,churih,chwrh,چوره,چَوَرِه,چُّرِه</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="28">38</adminCode1>
+<adminName1>Qazvīn</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="fa">چَوَرِه</alternateName>
+<timezone dstOffset="4.5" gmtOffset="3.5">Asia/Tehran</timezone>
+<bbox>
+<west>49.68818</west>
+<north>36.53446</north>
+<east>49.71057</east>
+<south>36.51647</south>
+</bbox>
+<score>13.475915908813477</score>
+</geoname>
+<geoname>
+<toponymName>Church</toponymName>
+<name>Church</name>
+<lat>-19.25</lat>
+<lng>30.6</lng>
+<geonameId>892993</geonameId>
+<countryCode>ZW</countryCode>
+<countryName>Zimbabwe</countryName>
+<fcl>S</fcl>
+<fcode>FRM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farm</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Harare</timezone>
+<score>11.251205444335938</score>
+</geoname>
+<geoname>
+<toponymName>Church</toponymName>
+<name>Church</name>
+<lat>37.44228</lat>
+<lng>-86.34248</lng>
+<geonameId>4287774</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>CH</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>church</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>219</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>085</adminCode2>
+<adminName2>Grayson County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>11.251205444335938</score>
+</geoname>
+<geoname>
+<toponymName>Church</toponymName>
+<name>Church</name>
+<lat>42.12399</lat>
+<lng>-70.80504</lng>
+<geonameId>4933171</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>CMTY</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>cemetery</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>21</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MA">MA</adminCode1>
+<adminName1>Massachusetts</adminName1>
+<adminCode2>023</adminCode2>
+<adminName2>Plymouth County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>11.251205444335938</score>
+</geoname>
+<geoname>
+<toponymName>Church</toponymName>
+<name>Church</name>
+<lat>37.91522</lat>
+<lng>-122.32112</lng>
+<geonameId>6324762</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>CTRR</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>religious center</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>11.251205444335938</score>
+</geoname>
+</geonames>

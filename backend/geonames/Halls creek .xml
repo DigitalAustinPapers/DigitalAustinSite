@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>247</totalResultsCount>
+<geoname>
+<toponymName>Halls Creek</toponymName>
+<name>Halls Creek</name>
+<lat>-19.00069</lat>
+<lng>127.45204</lng>
+<geonameId>7839513</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="WA">08</adminCode1>
+<adminName1>Western Australia</adminName1>
+<adminCode2>53920</adminCode2>
+<adminName2>Halls Creek</adminName2>
+<timezone dstOffset="8.0" gmtOffset="8.0">Australia/Perth</timezone>
+<bbox>
+<west>125.90278</west>
+<north>-16.76935</north>
+<east>129.0013</east>
+<south>-21.23203</south>
+</bbox>
+<score>52.30431365966797</score>
+</geoname>
+<geoname>
+<toponymName>Halls Creek</toponymName>
+<name>Halls Creek</name>
+<lat>-18.22485</lat>
+<lng>127.66647</lng>
+<geonameId>2070176</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1209</population>
+<alternateNames>HCQ,Halls Creek</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="WA">08</adminCode1>
+<adminName1>Western Australia</adminName1>
+<adminCode2>53920</adminCode2>
+<adminName2>Halls Creek</adminName2>
+<alternateName lang="en">Halls Creek</alternateName>
+<alternateName lang="iata">HCQ</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Halls_Creek%2C_Western_Australia</alternateName>
+<alternateName lang="unlc">HCQ</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Australia/Perth</timezone>
+<bbox>
+<west>127.62801</west>
+<north>-18.20251</north>
+<east>127.71722</east>
+<south>-18.248</south>
+</bbox>
+<score>32.029720306396484</score>
+</geoname>
+<geoname>
+<toponymName>Halls Creek</toponymName>
+<name>Halls Creek</name>
+<lat>36.19006</lat>
+<lng>-87.82197</lng>
+<geonameId>4627205</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>139</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TN">TN</adminCode1>
+<adminName1>Tennessee</adminName1>
+<adminCode2>085</adminCode2>
+<adminName2>Humphreys County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-87.83311</west>
+<north>36.19905</north>
+<east>-87.81082</east>
+<south>36.18106</south>
+</bbox>
+<score>20.92172622680664</score>
+</geoname>
+<geoname>
+<toponymName>Halls Creek</toponymName>
+<name>Halls Creek</name>
+<lat>-35.18333</lat>
+<lng>149.03333</lng>
+<geonameId>2164046</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>Charnwood Creek,Hall Creek,Halls Creek</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="ACT">01</adminCode1>
+<adminName1>Australian Capital Territory</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="10.0" gmtOffset="11.0">Australia/Sydney</timezone>
+<score>20.082660675048828</score>
+</geoname>
+<geoname>
+<toponymName>Hales Creek</toponymName>
+<name>Hales Creek</name>
+<lat>38.81119</lat>
+<lng>-82.67544</lng>
+<geonameId>4513531</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>200</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>145</adminCode2>
+<adminName2>Scioto County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-82.68699</west>
+<north>38.82018</north>
+<east>-82.6639</east>
+<south>38.80219</south>
+</bbox>
+<score>14.349565505981445</score>
+</geoname>
+<geoname>
+<toponymName>Halls Creek</toponymName>
+<name>Halls Creek</name>
+<lat>-30.71667</lat>
+<lng>150.78333</lng>
+<geonameId>2164048</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>Cuerindi Creek,Halls Creek</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="NSW">02</adminCode1>
+<adminName1>New South Wales</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="10.0" gmtOffset="11.0">Australia/Sydney</timezone>
+<score>12.811888694763184</score>
+</geoname>
+<geoname>
+<toponymName>Hall Creek</toponymName>
+<name>Hall Creek</name>
+<lat>32.51597</lat>
+<lng>-87.95113</lng>
+<geonameId>4065864</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>24</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AL">AL</adminCode1>
+<adminName1>Alabama</adminName1>
+<adminCode2>119</adminCode2>
+<adminName2>Sumter County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-87.96179</west>
+<north>32.52496</north>
+<east>-87.94046</east>
+<south>32.50698</south>
+</bbox>
+<score>9.20438289642334</score>
+</geoname>
+<geoname>
+<toponymName>Bingara Creek</toponymName>
+<name>Bingara Creek</name>
+<lat>-29.86667</lat>
+<lng>150.53333</lng>
+<geonameId>2175757</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>Bingara Creek,Halls Creek</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="NSW">02</adminCode1>
+<adminName1>New South Wales</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="10.0" gmtOffset="11.0">Australia/Sydney</timezone>
+<score>7.396947383880615</score>
+</geoname>
+<geoname>
+<toponymName>Halls Creek</toponymName>
+<name>Halls Creek</name>
+<lat>-42.93333</lat>
+<lng>147.05</lng>
+<geonameId>2164045</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="TAS">06</adminCode1>
+<adminName1>Tasmania</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="10.0" gmtOffset="11.0">Australia/Hobart</timezone>
+<score>6.538039207458496</score>
+</geoname>
+<geoname>
+<toponymName>Halls Creek</toponymName>
+<name>Halls Creek</name>
+<lat>-31.55</lat>
+<lng>151.38333</lng>
+<geonameId>2164047</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="NSW">02</adminCode1>
+<adminName1>New South Wales</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="10.0" gmtOffset="11.0">Australia/Sydney</timezone>
+<score>6.538039207458496</score>
+</geoname>
+</geonames>

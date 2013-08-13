@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Old House</toponymName>
+<name>Old House</name>
+<lat>17.9</lat>
+<lng>-77.35</lng>
+<geonameId>3489220</geonameId>
+<countryCode>JM</countryCode>
+<countryName>Jamaica</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="13">01</adminCode1>
+<adminName1>Clarendon</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Jamaica</timezone>
+<bbox>
+<west>-77.35945</west>
+<north>17.90899</north>
+<east>-77.34055</east>
+<south>17.89101</south>
+</bbox>
+<score>44.83900833129883</score>
+</geoname>
+<geoname>
+<toponymName>Old House</toponymName>
+<name>Old House</name>
+<lat>32.45963</lat>
+<lng>-80.8965</lng>
+<geonameId>4590000</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>5</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SC">SC</adminCode1>
+<adminName1>South Carolina</adminName1>
+<adminCode2>053</adminCode2>
+<adminName2>Jasper County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-80.90716</west>
+<north>32.46863</north>
+<east>-80.88584</east>
+<south>32.45064</south>
+</bbox>
+<score>44.83900833129883</score>
+</geoname>
+</geonames>

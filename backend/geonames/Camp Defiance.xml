@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Cape Defiance</toponymName>
+<name>Cape Defiance</name>
+<lat>-43.44831</lat>
+<lng>170.1701</lng>
+<geonameId>6206971</geonameId>
+<countryCode>NZ</countryCode>
+<countryName>New Zealand</countryName>
+<fcl>T</fcl>
+<fcode>CLF</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>cliff(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="WTC">G3</adminCode1>
+<adminName1>West Coast</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="12.0" gmtOffset="13.0">Pacific/Auckland</timezone>
+<score>45.98583984375</score>
+</geoname>
+</geonames>

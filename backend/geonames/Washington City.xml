@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Washington City</toponymName>
+<name>Washington City</name>
+<lat>38.90011</lat>
+<lng>-77.01637</lng>
+<geonameId>4140980</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>14</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="DC">DC</adminCode1>
+<adminName1>Washington, D.C.</adminName1>
+<adminCode2>001</adminCode2>
+<adminName2>US.DC.001</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-77.02792</west>
+<north>38.90911</north>
+<east>-77.00481</east>
+<south>38.89112</south>
+</bbox>
+<score>45.98583984375</score>
+</geoname>
+</geonames>

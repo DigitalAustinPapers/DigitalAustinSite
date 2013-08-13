@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>7</totalResultsCount>
+<geoname>
+<toponymName>Arkand</toponymName>
+<name>Arkand</name>
+<lat>37.45944</lat>
+<lng>48.88833</lng>
+<geonameId>37002</geonameId>
+<countryCode>IR</countryCode>
+<countryName>Iran</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Arkand</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="19">08</adminCode1>
+<adminName1>Gīlān</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="4.5" gmtOffset="3.5">Asia/Tehran</timezone>
+<bbox>
+<west>48.877</west>
+<north>37.46844</north>
+<east>48.89966</east>
+<south>37.45045</south>
+</bbox>
+<score>19.050251007080078</score>
+</geoname>
+<geoname>
+<toponymName>Arkāna</toponymName>
+<name>Arkāna</name>
+<lat>31.21389</lat>
+<lng>73.35139</lng>
+<geonameId>1388913</geonameId>
+<countryCode>PK</countryCode>
+<countryName>Pakistan</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="PB">04</adminCode1>
+<adminName1>Punjab</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="5.0" gmtOffset="5.0">Asia/Karachi</timezone>
+<bbox>
+<west>73.34087</west>
+<north>31.22288</north>
+<east>73.36191</east>
+<south>31.2049</south>
+</bbox>
+<score>19.00862693786621</score>
+</geoname>
+<geoname>
+<toponymName>Arkana</toponymName>
+<name>Arkana</name>
+<lat>36.2384</lat>
+<lng>-92.31655</lng>
+<geonameId>4099656</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>226</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">AR</adminCode1>
+<adminName1>Arkansas</adminName1>
+<adminCode2>005</adminCode2>
+<adminName2>Baxter County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.3277</west>
+<north>36.2474</north>
+<east>-92.30539</east>
+<south>36.22941</south>
+</bbox>
+<score>19.00862693786621</score>
+</geoname>
+<geoname>
+<toponymName>Arkana</toponymName>
+<name>Arkana</name>
+<lat>33.01847</lat>
+<lng>-93.67462</lng>
+<geonameId>4315011</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>75</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>015</adminCode2>
+<adminName2>Bossier Parish</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-93.68535</west>
+<north>33.02746</north>
+<east>-93.66389</east>
+<south>33.00947</south>
+</bbox>
+<score>19.00862693786621</score>
+</geoname>
+<geoname>
+<toponymName>Assads</toponymName>
+<name>Assads</name>
+<lat>30.21023</lat>
+<lng>-8.88473</lng>
+<geonameId>6546471</geonameId>
+<countryCode>MA</countryCode>
+<countryName>Morocco</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population>5512</population>
+<alternateNames>Assads,Assads (CR),Assads (Commune Rurale),arkant,اركانة</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="13">55</adminCode1>
+<adminName1>Souss-Massa-Drâa</adminName1>
+<adminCode2>541</adminCode2>
+<adminName2>Taroudannt</adminName2>
+<adminCode3>0454105052</adminCode3>
+<adminName3>Assads</adminName3>
+<alternateName lang="ar">اركانة</alternateName>
+<alternateName lang="fr">Assads</alternateName>
+<timezone dstOffset="0.0" gmtOffset="0.0">Africa/Casablanca</timezone>
+<score>18.14687728881836</score>
+</geoname>
+<geoname>
+<toponymName>Teshëvka</toponymName>
+<name>Teshëvka</name>
+<lat>52.3754</lat>
+<lng>38.9476</lng>
+<geonameId>483224</geonameId>
+<countryCode>RU</countryCode>
+<countryName>Russia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Arkany,Teshevka,Teshjovka,Teshëvka,Тешёвка</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="LIP">43</adminCode1>
+<adminName1>Lipetsk</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ru">Тешёвка</alternateName>
+<timezone dstOffset="4.0" gmtOffset="4.0">Europe/Moscow</timezone>
+<bbox>
+<west>38.93287</west>
+<north>52.38439</north>
+<east>38.96233</east>
+<south>52.36641</south>
+</bbox>
+<score>12.831779479980469</score>
+</geoname>
+<geoname>
+<toponymName>Arkané</toponymName>
+<name>Arkané</name>
+<lat>15.60701</lat>
+<lng>13.81982</lng>
+<geonameId>6778274</geonameId>
+<countryCode>NE</countryCode>
+<countryName>Niger</countryName>
+<fcl>H</fcl>
+<fcode>WLL</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>well</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="2">02</adminCode1>
+<adminName1>Diffa</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="1.0">Africa/Niamey</timezone>
+<score>6.481027603149414</score>
+</geoname>
+</geonames>

@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>22</totalResultsCount>
+<geoname>
+<toponymName>Knoxville</toponymName>
+<name>Knoxville</name>
+<lat>35.96064</lat>
+<lng>-83.92074</lng>
+<geonameId>4634946</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>178874</population>
+<alternateNames>Knoxville,Noksvil,Noksvill,Noxvil,TYS,nakswyl,nogseubil,nokkusubiru,nuo ke si wei er,nwksfyl,nwqswwyl,Νόξβιλ,Ноксвил,Ноксвилл,Ноксвілл,נוקסוויל,ناکسویل,نوكسفيل,ノックスビル,諾克斯維爾,녹스빌</alternateNames>
+<elevation>276</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TN">TN</adminCode1>
+<adminName1>Tennessee</adminName1>
+<adminCode2>093</adminCode2>
+<adminName2>Knox County</adminName2>
+<alternateName lang="ar">نوكسفيل</alternateName>
+<alternateName lang="bg">Ноксвил</alternateName>
+<alternateName lang="de">Knoxville</alternateName>
+<alternateName lang="el">Νόξβιλ</alternateName>
+<alternateName lang="en">Knoxville</alternateName>
+<alternateName lang="es">Knoxville</alternateName>
+<alternateName lang="fa">ناکسویل</alternateName>
+<alternateName lang="fi">Knoxville</alternateName>
+<alternateName lang="fr">Knoxville</alternateName>
+<alternateName lang="he">נוקסוויל</alternateName>
+<alternateName lang="iata">TYS</alternateName>
+<alternateName lang="id">Knoxville</alternateName>
+<alternateName lang="ja">ノックスビル</alternateName>
+<alternateName lang="ko">녹스빌</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Knoxville%2C_Tennessee</alternateName>
+<alternateName lang="nl">Knoxville</alternateName>
+<alternateName lang="os">Ноксвилл</alternateName>
+<alternateName lang="pl">Knoxville</alternateName>
+<alternateName lang="post">37938</alternateName>
+<alternateName lang="pt">Knoxville</alternateName>
+<alternateName lang="ru">Ноксвилл</alternateName>
+<alternateName lang="sv">Knoxville</alternateName>
+<alternateName lang="uk">Ноксвілл</alternateName>
+<alternateName lang="unlc">TYS</alternateName>
+<alternateName lang="zh">諾克斯維爾</alternateName>
+<alternateName lang="zh-TW">諾克斯維爾</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-84.16163</west>
+<north>36.06745</north>
+<east>-83.68854</east>
+<south>35.84949</south>
+</bbox>
+<score>74.50779724121094</score>
+</geoname>
+<geoname>
+<toponymName>Knoxville</toponymName>
+<name>Knoxville</name>
+<lat>39.32705</lat>
+<lng>-77.66416</lng>
+<geonameId>4360073</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>87</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MD">MD</adminCode1>
+<adminName1>Maryland</adminName1>
+<adminCode2>021</adminCode2>
+<adminName2>Frederick County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Knoxville%2C_Maryland</alternateName>
+<alternateName lang="post">21758</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-77.67579</west>
+<north>39.33604</north>
+<east>-77.65253</east>
+<south>39.31805</south>
+</bbox>
+<score>52.14459991455078</score>
+</geoname>
+<geoname>
+<toponymName>Knoxville</toponymName>
+<name>Knoxville</name>
+<lat>38.82768</lat>
+<lng>-122.34053</lng>
+<geonameId>5363657</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>403</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>055</adminCode2>
+<adminName2>Napa County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Knoxville%2C_California</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-122.35208</west>
+<north>38.83667</north>
+<east>-122.32899</east>
+<south>38.81868</south>
+</bbox>
+<score>52.14459991455078</score>
+</geoname>
+<geoname>
+<toponymName>Knoxville</toponymName>
+<name>Knoxville</name>
+<lat>40.90837</lat>
+<lng>-90.28485</lng>
+<geonameId>4898734</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2911</population>
+<alternateNames>Noksvill,Ноксвилл</alternateNames>
+<elevation>238</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>095</adminCode2>
+<adminName2>Knox County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Knoxville%2C_Illinois</alternateName>
+<alternateName lang="post">61448</alternateName>
+<alternateName lang="ru">Ноксвилл</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.29326</west>
+<north>40.91473</north>
+<east>-90.27643</east>
+<south>40.90201</south>
+</bbox>
+<score>43.45383071899414</score>
+</geoname>
+<geoname>
+<toponymName>Knoxville</toponymName>
+<name>Knoxville</name>
+<lat>33.59177</lat>
+<lng>-85.89719</lng>
+<geonameId>4071131</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>196</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AL">AL</adminCode1>
+<adminName1>Alabama</adminName1>
+<adminCode2>015</adminCode2>
+<adminName2>Calhoun County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-85.90799</west>
+<north>33.60077</north>
+<east>-85.88639</east>
+<south>33.58278</south>
+</bbox>
+<score>34.763065338134766</score>
+</geoname>
+<geoname>
+<toponymName>Knoxville</toponymName>
+<name>Knoxville</name>
+<lat>35.38203</lat>
+<lng>-93.36435</lng>
+<geonameId>4117661</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>731</population>
+<alternateNames>Noksvill,Ноксвилл</alternateNames>
+<elevation>120</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">AR</adminCode1>
+<adminName1>Arkansas</adminName1>
+<adminCode2>071</adminCode2>
+<adminName2>Johnson County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Knoxville%2C_Arkansas</alternateName>
+<alternateName lang="post">72845</alternateName>
+<alternateName lang="ru">Ноксвилл</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-93.36545</west>
+<north>35.38293</north>
+<east>-93.36324</east>
+<south>35.38113</south>
+</bbox>
+<score>34.763065338134766</score>
+</geoname>
+<geoname>
+<toponymName>Knoxville</toponymName>
+<name>Knoxville</name>
+<lat>32.72431</lat>
+<lng>-83.99769</lng>
+<geonameId>4204196</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>69</population>
+<alternateNames/>
+<elevation>150</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">GA</adminCode1>
+<adminName1>Georgia</adminName1>
+<adminCode2>079</adminCode2>
+<adminName2>Crawford County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Knoxville%2C_Georgia</alternateName>
+<alternateName lang="post">31050</alternateName>
+<alternateName lang="unlc">ZF2</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-83.99876</west>
+<north>32.72521</north>
+<east>-83.99662</east>
+<south>32.72341</south>
+</bbox>
+<score>34.763065338134766</score>
+</geoname>
+<geoname>
+<toponymName>Knoxville</toponymName>
+<name>Knoxville</name>
+<lat>38.70118</lat>
+<lng>-84.50577</lng>
+<geonameId>4297195</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>282</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>191</adminCode2>
+<adminName2>Pendleton County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-84.5173</west>
+<north>38.71017</north>
+<east>-84.49425</east>
+<south>38.69219</south>
+</bbox>
+<score>34.763065338134766</score>
+</geoname>
+<geoname>
+<toponymName>Knoxville</toponymName>
+<name>Knoxville</name>
+<lat>39.44612</lat>
+<lng>-94.01688</lng>
+<geonameId>4393852</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>294</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>177</adminCode2>
+<adminName2>Ray County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-94.02853</west>
+<north>39.45511</north>
+<east>-94.00524</east>
+<south>39.43713</south>
+</bbox>
+<score>34.763065338134766</score>
+</geoname>
+<geoname>
+<toponymName>Knoxville</toponymName>
+<name>Knoxville</name>
+<lat>31.37878</lat>
+<lng>-91.12094</lng>
+<geonameId>4432519</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>42</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MS">MS</adminCode1>
+<adminName1>Mississippi</adminName1>
+<adminCode2>037</adminCode2>
+<adminName2>Franklin County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-91.13147</west>
+<north>31.38777</north>
+<east>-91.1104</east>
+<south>31.36979</south>
+</bbox>
+<score>34.763065338134766</score>
+</geoname>
+</geonames>

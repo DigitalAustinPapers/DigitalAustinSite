@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>32</totalResultsCount>
+<geoname>
+<toponymName>Litchfield</toponymName>
+<name>Litchfield</name>
+<lat>-12.50228</lat>
+<lng>131.12785</lng>
+<geonameId>7839405</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="NT">03</adminCode1>
+<adminName1>Northern Territory</adminName1>
+<adminCode2>72300</adminCode2>
+<adminName2>Litchfield</adminName2>
+<timezone dstOffset="9.5" gmtOffset="9.5">Australia/Darwin</timezone>
+<bbox>
+<west>130.85898</west>
+<north>-12.14268</north>
+<east>131.39673</east>
+<south>-12.86189</south>
+</bbox>
+<score>78.85511779785156</score>
+</geoname>
+<geoname>
+<toponymName>Litchfield</toponymName>
+<name>Litchfield</name>
+<lat>39.17533</lat>
+<lng>-89.65426</lng>
+<geonameId>4243131</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>6939</population>
+<alternateNames/>
+<elevation>211</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>135</adminCode2>
+<adminName2>Montgomery County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Litchfield%2C_Illinois</alternateName>
+<alternateName lang="post">62056</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-89.66723</west>
+<north>39.18538</north>
+<east>-89.64129</east>
+<south>39.16527</south>
+</bbox>
+<score>55.19858169555664</score>
+</geoname>
+<geoname>
+<toponymName>Litchfield</toponymName>
+<name>Litchfield</name>
+<lat>42.84425</lat>
+<lng>-71.47979</lng>
+<geonameId>5088753</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>8307</population>
+<alternateNames/>
+<elevation>37</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NH">NH</adminCode1>
+<adminName1>New Hampshire</adminName1>
+<adminCode2>011</adminCode2>
+<adminName2>Hillsborough County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Litchfield%2C_New_Hampshire</alternateName>
+<alternateName lang="post">03052</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-71.49481</west>
+<north>42.85527</north>
+<east>-71.46476</east>
+<south>42.83324</south>
+</bbox>
+<score>55.19858169555664</score>
+</geoname>
+<geoname>
+<toponymName>Litchfield</toponymName>
+<name>Litchfield</name>
+<lat>41.74732</lat>
+<lng>-73.18872</lng>
+<geonameId>4837799</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1258</population>
+<alternateNames>Lichfijld,Litchfild,Литчфилд,Личфийлд</alternateNames>
+<elevation>331</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CT">CT</adminCode1>
+<adminName1>Connecticut</adminName1>
+<adminCode2>005</adminCode2>
+<adminName2>Litchfield County</adminName2>
+<alternateName lang="bg">Личфийлд</alternateName>
+<alternateName lang="kk">Литчфилд</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Litchfield%2C_Connecticut</alternateName>
+<alternateName lang="post">06759</alternateName>
+<alternateName lang="unlc">YCF</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-73.19475</west>
+<north>41.75182</north>
+<east>-73.1827</east>
+<south>41.74282</south>
+</bbox>
+<score>51.3043098449707</score>
+</geoname>
+<geoname>
+<toponymName>Litchfield</toponymName>
+<name>Litchfield</name>
+<lat>18.25</lat>
+<lng>-77.5</lng>
+<geonameId>3489757</geonameId>
+<countryCode>JM</countryCode>
+<countryName>Jamaica</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Lichfield,Litchfield</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="07">15</adminCode1>
+<adminName1>Trelawny</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Jamaica</timezone>
+<bbox>
+<west>-77.50947</west>
+<north>18.25899</north>
+<east>-77.49053</east>
+<south>18.24101</south>
+</bbox>
+<score>50.13909912109375</score>
+</geoname>
+<geoname>
+<toponymName>Litchfield</toponymName>
+<name>Litchfield</name>
+<lat>51.28216</lat>
+<lng>-1.33943</lng>
+<geonameId>2644387</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Litchfield</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F2</adminCode2>
+<adminName2>Hampshire</adminName2>
+<adminCode3>24UB</adminCode3>
+<adminName3>Basingstoke and Deane District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Litchfield%2C_Hampshire</alternateName>
+<alternateName lang="unlc">LTC</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.35381</west>
+<north>51.29115</north>
+<east>-1.32505</east>
+<south>51.27317</south>
+</bbox>
+<score>48.28870391845703</score>
+</geoname>
+<geoname>
+<toponymName>Litchfield</toponymName>
+<name>Litchfield</name>
+<lat>45.12718</lat>
+<lng>-94.52805</lng>
+<geonameId>5034813</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>6726</population>
+<alternateNames/>
+<elevation>344</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MN">MN</adminCode1>
+<adminName1>Minnesota</adminName1>
+<adminCode2>093</adminCode2>
+<adminName2>Meeker County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Litchfield%2C_Minnesota</alternateName>
+<alternateName lang="post">55355</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-94.5423</west>
+<north>45.13724</north>
+<east>-94.51379</east>
+<south>45.11713</south>
+</bbox>
+<score>47.313072204589844</score>
+</geoname>
+<geoname>
+<toponymName>Litchfield</toponymName>
+<name>Litchfield</name>
+<lat>41.15751</lat>
+<lng>-99.15565</lng>
+<geonameId>5072126</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>262</population>
+<alternateNames/>
+<elevation>660</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NE">NE</adminCode1>
+<adminName1>Nebraska</adminName1>
+<adminCode2>163</adminCode2>
+<adminName2>Sherman County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Litchfield%2C_Nebraska</alternateName>
+<alternateName lang="post">68852</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-99.15889</west>
+<north>41.16188</north>
+<east>-99.14789</east>
+<south>41.14835</south>
+</bbox>
+<score>47.313072204589844</score>
+</geoname>
+<geoname>
+<toponymName>Litchfield</toponymName>
+<name>Litchfield</name>
+<lat>42.00924</lat>
+<lng>-76.45939</lng>
+<geonameId>5124542</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>240</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>107</adminCode2>
+<adminName2>Tioga County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Litchfield%2C_New_York</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-76.47149</west>
+<north>42.01823</north>
+<east>-76.44728</east>
+<south>42.00025</south>
+</bbox>
+<score>47.313072204589844</score>
+</geoname>
+<geoname>
+<toponymName>Litchfield</toponymName>
+<name>Litchfield</name>
+<lat>41.16783</lat>
+<lng>-82.02292</lng>
+<geonameId>5160958</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>306</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>103</adminCode2>
+<adminName2>Medina County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Litchfield%2C_Ohio</alternateName>
+<alternateName lang="post">44253</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-82.03487</west>
+<north>41.17683</north>
+<east>-82.01097</east>
+<south>41.15884</south>
+</bbox>
+<score>47.313072204589844</score>
+</geoname>
+</geonames>

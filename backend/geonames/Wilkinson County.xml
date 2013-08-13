@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>7</totalResultsCount>
+<geoname>
+<toponymName>Wilkinson County</toponymName>
+<name>Wilkinson County</name>
+<lat>32.80241</lat>
+<lng>-83.17125</lng>
+<geonameId>4231046</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>9563</population>
+<alternateNames>Comte de Wilkinson,Comté de Wilkinson</alternateNames>
+<elevation>112</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">GA</adminCode1>
+<adminName1>Georgia</adminName1>
+<adminCode2>319</adminCode2>
+<adminName2>Wilkinson County</adminName2>
+<alternateName lang="fr">Comté de Wilkinson</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wilkinson_County%2C_Georgia</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-83.40742</west>
+<north>33.00897</north>
+<east>-82.94534</east>
+<south>32.58445</south>
+</bbox>
+<score>78.00235748291016</score>
+</geoname>
+<geoname>
+<toponymName>Wilkinson County</toponymName>
+<name>Wilkinson County</name>
+<lat>31.16107</lat>
+<lng>-91.31092</lng>
+<geonameId>4451213</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>9878</population>
+<alternateNames>Comte de Wilkinson,Comté de Wilkinson</alternateNames>
+<elevation>66</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MS">MS</adminCode1>
+<adminName1>Mississippi</adminName1>
+<adminCode2>157</adminCode2>
+<adminName2>Wilkinson County</adminName2>
+<alternateName lang="fr">Comté de Wilkinson</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wilkinson_County%2C_Mississippi</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-91.63972</west>
+<north>31.37186</north>
+<east>-91.05999</east>
+<south>30.99954</south>
+</bbox>
+<score>78.00235748291016</score>
+</geoname>
+<geoname>
+<toponymName>Wilkinson Corner</toponymName>
+<name>Wilkinson Corner</name>
+<lat>35.4523</lat>
+<lng>-89.3184</lng>
+<geonameId>4667817</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>100</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TN">TN</adminCode1>
+<adminName1>Tennessee</adminName1>
+<adminCode2>075</adminCode2>
+<adminName2>Haywood County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-89.32945</west>
+<north>35.4613</north>
+<east>-89.30736</east>
+<south>35.44331</south>
+</bbox>
+<score>2.9301202297210693</score>
+</geoname>
+<geoname>
+<toponymName>Wilkinson Coulee</toponymName>
+<name>Wilkinson Coulee</name>
+<lat>47.35917</lat>
+<lng>-106.34781</lng>
+<geonameId>5686485</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>VAL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>valley</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>716</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MT">MT</adminCode1>
+<adminName1>Montana</adminName1>
+<adminCode2>033</adminCode2>
+<adminName2>Garfield County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<score>2.9301202297210693</score>
+</geoname>
+<geoname>
+<toponymName>Williamson County</toponymName>
+<name>Williamson County</name>
+<lat>35.89378</lat>
+<lng>-86.8986</lng>
+<geonameId>4668054</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>183182</population>
+<alternateNames>Comte de Williamson,Comté de Williamson,Condado de Williamson,Condado han Williamson,Contea di Williamson,Hrabstwo Williamson,Owilyamson srjan,Quan Williamson,Quận Williamson,Uilijamsun,Vil'jamson,Williamson Comitatus,u'iliyamasana ka'unti,u~iriamuson jun,wei lian sen xian,Вільямсон,Уилиямсън,Ուիլյամսոն շրջան,ولیمسن کاؤنٹی، ٹینیسی,উইলিয়ামসন কাউন্টি,ウィリアムソン郡,威廉森縣</alternateNames>
+<elevation>289</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TN">TN</adminCode1>
+<adminName1>Tennessee</adminName1>
+<adminCode2>187</adminCode2>
+<adminName2>Williamson County</adminName2>
+<alternateName lang="bg">Уилиямсън</alternateName>
+<alternateName lang="bpy">উইলিয়ামসন কাউন্টি</alternateName>
+<alternateName lang="es">Condado de Williamson</alternateName>
+<alternateName lang="fr">Comté de Williamson</alternateName>
+<alternateName lang="hy">Ուիլյամսոն շրջան</alternateName>
+<alternateName lang="it">Contea di Williamson</alternateName>
+<alternateName lang="ja">ウィリアムソン郡</alternateName>
+<alternateName lang="la">Williamson Comitatus</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Williamson_County%2C_Tennessee</alternateName>
+<alternateName lang="pl">Hrabstwo Williamson</alternateName>
+<alternateName lang="pnb">ولیمسن کاؤنٹی، ٹینیسی</alternateName>
+<alternateName lang="pt">Condado de Williamson</alternateName>
+<alternateName lang="uk">Вільямсон</alternateName>
+<alternateName lang="vi">Quận Williamson</alternateName>
+<alternateName lang="war">Condado han Williamson</alternateName>
+<alternateName lang="zh">威廉森縣</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-87.21503</west>
+<north>36.05269</north>
+<east>-86.59952</east>
+<south>35.70631</south>
+</bbox>
+<score>2.014204978942871</score>
+</geoname>
+<geoname>
+<toponymName>Williamson County</toponymName>
+<name>Williamson County</name>
+<lat>37.73025</lat>
+<lng>-88.92994</lng>
+<geonameId>4253173</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>66357</population>
+<alternateNames>Comte de Williamson,Comté de Williamson,Condado de Williamson,Condado han Williamson,Contea di Williamson,Hrabstwo Williamson,Owilyamson srjan,Quan Williamson,Quận Williamson,Uilijamsun,Vil'jamson,Williamson Comitatus,shhrstan wylyamswn,u'iliyamasana ka'unti,u~iriamuson jun,wei lian sen xian,Вільямсон,Уилиямсън,Ուիլյամսոն շրջան,شهرستان ویلیامسون,مقاطعة ويليامسون، إلينوي,ولیمسن کاؤنٹی,উইলিয়ামসন কাউন্টি,ウィリアムソン郡,威廉森縣</alternateNames>
+<elevation>131</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>199</adminCode2>
+<adminName2>Williamson County</adminName2>
+<alternateName lang="ar">مقاطعة ويليامسون، إلينوي</alternateName>
+<alternateName lang="bg">Уилиямсън</alternateName>
+<alternateName lang="bpy">উইলিয়ামসন কাউন্টি</alternateName>
+<alternateName lang="es">Condado de Williamson</alternateName>
+<alternateName lang="fa">شهرستان ویلیامسون</alternateName>
+<alternateName lang="fr">Comté de Williamson</alternateName>
+<alternateName lang="hy">Ուիլյամսոն շրջան</alternateName>
+<alternateName lang="it">Contea di Williamson</alternateName>
+<alternateName lang="ja">ウィリアムソン郡</alternateName>
+<alternateName lang="la">Williamson Comitatus</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Williamson_County%2C_Illinois</alternateName>
+<alternateName lang="pl">Hrabstwo Williamson</alternateName>
+<alternateName lang="pnb">ولیمسن کاؤنٹی</alternateName>
+<alternateName lang="pt">Condado de Williamson</alternateName>
+<alternateName lang="uk">Вільямсон</alternateName>
+<alternateName lang="vi">Quận Williamson</alternateName>
+<alternateName lang="war">Condado han Williamson</alternateName>
+<alternateName lang="zh">威廉森縣</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-89.15472</west>
+<north>37.86454</north>
+<east>-88.70528</east>
+<south>37.59811</south>
+</bbox>
+<score>1.6785039901733398</score>
+</geoname>
+<geoname>
+<toponymName>Williamson County</toponymName>
+<name>Williamson County</name>
+<lat>30.64804</lat>
+<lng>-97.60076</lng>
+<geonameId>4742143</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>422679</population>
+<alternateNames>Comte de Williamson,Comté de Williamson,Condado de Williamson,Condado han Williamson,Contea di Williamson,Hrabstwo Williamson,Okrug Vilijamson,Quan Williamson,Quận Williamson,Uil'jamson,Uilijamsun,Vil'jamson,Vilyamson srjan,Williamson Comitatus,u'iliyamasana ka'unti,u~iriamuson jun,wei lian sen xian,Вільямсон,Округ Вилијамсон,Уилиямсън,Уильямсон,Վիլյամսոն շրջան,مقاطعة ويليامسون، تكساس,ولیمسن کاؤنٹی، ٹیکساس,উইলিয়ামসন কাউন্টি,ウィリアムソン郡,威廉森縣</alternateNames>
+<elevation>205</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>491</adminCode2>
+<adminName2>Williamson County</adminName2>
+<alternateName lang="ar">مقاطعة ويليامسون، تكساس</alternateName>
+<alternateName lang="bg">Уилиямсън</alternateName>
+<alternateName lang="bpy">উইলিয়ামসন কাউন্টি</alternateName>
+<alternateName lang="es">Condado de Williamson</alternateName>
+<alternateName lang="fr">Comté de Williamson</alternateName>
+<alternateName lang="hy">Վիլյամսոն շրջան</alternateName>
+<alternateName lang="it">Contea di Williamson</alternateName>
+<alternateName lang="ja">ウィリアムソン郡</alternateName>
+<alternateName lang="la">Williamson Comitatus</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Williamson_County%2C_Texas</alternateName>
+<alternateName lang="pl">Hrabstwo Williamson</alternateName>
+<alternateName lang="pnb">ولیمسن کاؤنٹی، ٹیکساس</alternateName>
+<alternateName lang="pt">Condado de Williamson</alternateName>
+<alternateName lang="ru">Уильямсон</alternateName>
+<alternateName lang="sr">Округ Вилијамсон</alternateName>
+<alternateName lang="uk">Вільямсон</alternateName>
+<alternateName lang="vi">Quận Williamson</alternateName>
+<alternateName lang="war">Condado han Williamson</alternateName>
+<alternateName lang="zh">威廉森縣</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-98.05378</west>
+<north>30.91039</north>
+<east>-97.16015</east>
+<south>30.40306</south>
+</bbox>
+<score>1.6785039901733398</score>
+</geoname>
+</geonames>

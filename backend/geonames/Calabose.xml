@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Calaboso</toponymName>
+<name>Calaboso</name>
+<lat>14.35</lat>
+<lng>121.08333</lng>
+<geonameId>1720764</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Calaboso</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="MDC">40</adminCode1>
+<adminName1>Calabarzon</adminName1>
+<adminCode2>33</adminCode2>
+<adminName2>Laguna</adminName2>
+<alternateName lang="fil">Calaboso</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<bbox>
+<west>121.07405</west>
+<north>14.35899</north>
+<east>121.09262</east>
+<south>14.34101</south>
+</bbox>
+<score>42.24068832397461</score>
+</geoname>
+</geonames>

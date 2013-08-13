@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Sto. Domingo</toponymName>
+<name>Sto. Domingo</name>
+<lat>7.56511</lat>
+<lng>-72.03512</lng>
+<geonameId>6300870</geonameId>
+<countryCode>VE</countryCode>
+<countryName>Venezuela</countryName>
+<fcl>S</fcl>
+<fcode>AIRP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>airport</fcodeName>
+<population/>
+<alternateNames>STD,SVSO</alternateNames>
+<elevation>330</elevation>
+<continentCode>SA</continentCode>
+<adminCode1/>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="iata">STD</alternateName>
+<alternateName lang="icao">SVSO</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Mayor_Buenaventura_Vivas_Airport</alternateName>
+<timezone dstOffset="-4.5" gmtOffset="-4.5">America/Caracas</timezone>
+<score>80.47526550292969</score>
+</geoname>
+</geonames>

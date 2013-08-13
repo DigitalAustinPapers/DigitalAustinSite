@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>8</totalResultsCount>
+<geoname>
+<toponymName>New House</toponymName>
+<name>New House</name>
+<lat>35.3929</lat>
+<lng>-81.69176</lng>
+<geonameId>4481897</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>328</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NC">NC</adminCode1>
+<adminName1>North Carolina</adminName1>
+<adminCode2>045</adminCode2>
+<adminName2>Cleveland County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-81.7028</west>
+<north>35.4019</north>
+<east>-81.68073</east>
+<south>35.38391</south>
+</bbox>
+<score>40.6312370300293</score>
+</geoname>
+<geoname>
+<toponymName>New House</toponymName>
+<name>New House</name>
+<lat>-33</lat>
+<lng>142.05</lng>
+<geonameId>2155442</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>S</fcl>
+<fcode>FRM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farm</fcodeName>
+<population/>
+<alternateNames>New House,New House Station</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="NSW">02</adminCode1>
+<adminName1>New South Wales</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="10.0" gmtOffset="11.0">Australia/Sydney</timezone>
+<score>24.88144874572754</score>
+</geoname>
+<geoname>
+<toponymName>Newhouse</toponymName>
+<name>Newhouse</name>
+<lat>38.48107</lat>
+<lng>-113.34191</lng>
+<geonameId>5543898</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1570</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="UT">UT</adminCode1>
+<adminName1>Utah</adminName1>
+<adminCode2>001</adminCode2>
+<adminName2>Beaver County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Newhouse%2C_Utah</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<bbox>
+<west>-113.3534</west>
+<north>38.49006</north>
+<east>-113.33042</east>
+<south>38.47208</south>
+</bbox>
+<score>22.85506820678711</score>
+</geoname>
+<geoname>
+<toponymName>Newhouse</toponymName>
+<name>Newhouse</name>
+<lat>53.7725</lat>
+<lng>-6.31306</lng>
+<geonameId>3316417</geonameId>
+<countryCode>IE</countryCode>
+<countryName>Ireland</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="L">L</adminCode1>
+<adminName1>Leinster</adminName1>
+<adminCode2>19</adminCode2>
+<adminName2>Co Louth</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Dublin</timezone>
+<bbox>
+<west>-6.32828</west>
+<north>53.78149</north>
+<east>-6.29783</east>
+<south>53.76351</south>
+</bbox>
+<score>15.236712455749512</score>
+</geoname>
+<geoname>
+<toponymName>Newhouse</toponymName>
+<name>Newhouse</name>
+<lat>43.52497</lat>
+<lng>-91.70015</lng>
+<geonameId>5039206</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>365</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MN">MN</adminCode1>
+<adminName1>Minnesota</adminName1>
+<adminCode2>055</adminCode2>
+<adminName2>Houston County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-91.71255</west>
+<north>43.53396</north>
+<east>-91.68774</east>
+<south>43.51597</south>
+</bbox>
+<score>15.236712455749512</score>
+</geoname>
+<geoname>
+<toponymName>New House</toponymName>
+<name>New House</name>
+<lat>-28.80105</lat>
+<lng>29.55174</lng>
+<geonameId>971364</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>S</fcl>
+<fcode>FRMT</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farmstead</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="ZN">02</adminCode1>
+<adminName1>KwaZulu-Natal</adminName1>
+<adminCode2>DC23</adminCode2>
+<adminName2>uThukela District Municipality</adminName2>
+<adminCode3>KZN235</adminCode3>
+<adminName3>Okhahlamba</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<score>12.697261810302734</score>
+</geoname>
+<geoname>
+<toponymName>New House</toponymName>
+<name>New House</name>
+<lat>39.4075</lat>
+<lng>-76.59083</lng>
+<geonameId>6343173</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>BLDG</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>building(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>137</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MD">MD</adminCode1>
+<adminName1>Maryland</adminName1>
+<adminCode2>005</adminCode2>
+<adminName2>Baltimore County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>12.697261810302734</score>
+</geoname>
+<geoname>
+<toponymName>Newhouse</toponymName>
+<name>Newhouse</name>
+<lat>55.81667</lat>
+<lng>-3.86667</lng>
+<geonameId>2641632</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>00</adminCode2>
+<adminName2/>
+<alternateName lang="unlc">NHE</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.88268</west>
+<north>55.82566</north>
+<east>-3.85066</east>
+<south>55.80767</south>
+</bbox>
+<score>11.427534103393555</score>
+</geoname>
+</geonames>

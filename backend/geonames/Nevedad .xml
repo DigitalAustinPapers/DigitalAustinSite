@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Nevedal</toponymName>
+<name>Nevedal</name>
+<lat>60.95</lat>
+<lng>5.08333</lng>
+<geonameId>3144612</geonameId>
+<countryCode>NO</countryCode>
+<countryName>Norway</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="14">15</adminCode1>
+<adminName1>Sogn og Fjordane</adminName1>
+<adminCode2>1411</adminCode2>
+<adminName2>Gulen</adminName2>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Oslo</timezone>
+<bbox>
+<west>5.06481</west>
+<north>60.95899</north>
+<east>5.10186</east>
+<south>60.94101</south>
+</bbox>
+<score>39.72160720825195</score>
+</geoname>
+<geoname>
+<toponymName>Nevada</toponymName>
+<name>Nevada</name>
+<lat>-18.50277</lat>
+<lng>29.43598</lng>
+<geonameId>884460</geonameId>
+<countryCode>ZW</countryCode>
+<countryName>Zimbabwe</countryName>
+<fcl>S</fcl>
+<fcode>MN</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>mine(s)</fcodeName>
+<population/>
+<alternateNames>Nevada,Neveda</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="MI">02</adminCode1>
+<adminName1>Midlands</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Harare</timezone>
+<score>8.192156791687012</score>
+</geoname>
+</geonames>

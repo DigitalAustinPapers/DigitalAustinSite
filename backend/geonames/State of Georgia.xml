@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Georgia</toponymName>
+<name>Georgia</name>
+<lat>32.75042</lat>
+<lng>-83.50018</lng>
+<geonameId>4197000</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>first-order administrative division</fcodeName>
+<population>8975842</population>
+<alternateNames>Dzhordzhija,Estado de Georgia,GA,Georgia,Georgie,Georgio,Géorgie,Peach State,State of Georgia,Джорджия</alternateNames>
+<elevation>155</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">GA</adminCode1>
+<adminName1>Georgia</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="abbr">GA</alternateName>
+<alternateName lang="en">Georgia</alternateName>
+<alternateName lang="eo">Georgio</alternateName>
+<alternateName lang="es">Georgia</alternateName>
+<alternateName lang="fr">Géorgie</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Georgia_(U.S._state)</alternateName>
+<alternateName lang="ru">Джорджия</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-85.60517</west>
+<north>35.00066</north>
+<east>-80.75143</east>
+<south>30.35576</south>
+</bbox>
+<score>40.57085418701172</score>
+</geoname>
+<geoname>
+<toponymName>Strait of Georgia</toponymName>
+<name>Strait of Georgia</name>
+<lat>48.83149</lat>
+<lng>-122.94463</lng>
+<geonameId>5795379</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>CHN</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>channel</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>0</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WA">WA</adminCode1>
+<adminName1>Washington</adminName1>
+<adminCode2>073</adminCode2>
+<adminName2>Whatcom County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>0.8523395657539368</score>
+</geoname>
+<geoname>
+<toponymName>Strait of Georgia</toponymName>
+<name>Strait of Georgia</name>
+<lat>49.49965</lat>
+<lng>-124.00274</lng>
+<geonameId>6157919</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>H</fcl>
+<fcode>CHN</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>channel</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="BC">02</adminCode1>
+<adminName1>British Columbia</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Vancouver</timezone>
+<score>0.8523395657539368</score>
+</geoname>
+</geonames>

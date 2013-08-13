@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>19</totalResultsCount>
+<geoname>
+<toponymName>Dickinson</toponymName>
+<name>Dickinson</name>
+<lat>29.46079</lat>
+<lng>-95.05132</lng>
+<geonameId>4686163</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>18680</population>
+<alternateNames/>
+<elevation>3</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>167</adminCode2>
+<adminName2>Galveston County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Dickinson%2C_Texas</alternateName>
+<alternateName lang="post">77539</alternateName>
+<alternateName lang="unlc">DSX</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-95.07132</west>
+<north>29.4782</north>
+<east>-95.03131</east>
+<south>29.44337</south>
+</bbox>
+<score>58.50709915161133</score>
+</geoname>
+<geoname>
+<toponymName>Dickinson</toponymName>
+<name>Dickinson</name>
+<lat>31.76349</lat>
+<lng>-87.71055</lng>
+<geonameId>4058795</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>68</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AL">AL</adminCode1>
+<adminName1>Alabama</adminName1>
+<adminCode2>025</adminCode2>
+<adminName2>Clarke County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Dickinson%2C_Alabama</alternateName>
+<alternateName lang="post">36436</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-87.72113</west>
+<north>31.77248</north>
+<east>-87.69998</east>
+<south>31.75449</south>
+</bbox>
+<score>50.14894104003906</score>
+</geoname>
+<geoname>
+<toponymName>Dickinson</toponymName>
+<name>Dickinson</name>
+<lat>38.20371</lat>
+<lng>-81.50262</lng>
+<geonameId>4804021</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>192</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WV">WV</adminCode1>
+<adminName1>West Virginia</adminName1>
+<adminCode2>039</adminCode2>
+<adminName2>Kanawha County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Dickinson%2C_West_Virginia</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-81.51406</west>
+<north>38.21271</north>
+<east>-81.49117</east>
+<south>38.19472</south>
+</bbox>
+<score>50.14894104003906</score>
+</geoname>
+<geoname>
+<toponymName>Dickinson</toponymName>
+<name>Dickinson</name>
+<lat>44.74839</lat>
+<lng>-74.56462</lng>
+<geonameId>5115046</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>220</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>033</adminCode2>
+<adminName2>Franklin County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Dickinson%2C_Franklin_County%2C_New_York</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-74.57729</west>
+<north>44.75738</north>
+<east>-74.55196</east>
+<south>44.7394</south>
+</bbox>
+<score>50.14894104003906</score>
+</geoname>
+<geoname>
+<toponymName>Dickson</toponymName>
+<name>Dickson</name>
+<lat>34.18732</lat>
+<lng>-96.98446</lng>
+<geonameId>4535089</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1207</population>
+<alternateNames/>
+<elevation>250</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OK">OK</adminCode1>
+<adminName1>Oklahoma</adminName1>
+<adminCode2>019</adminCode2>
+<adminName2>Carter County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Dickson%2C_Oklahoma</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-96.98989</west>
+<north>34.19181</north>
+<east>-96.97902</east>
+<south>34.18282</south>
+</bbox>
+<score>48.97766876220703</score>
+</geoname>
+<geoname>
+<toponymName>Dickson</toponymName>
+<name>Dickson</name>
+<lat>36.077</lat>
+<lng>-87.38779</lng>
+<geonameId>4618057</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>14538</population>
+<alternateNames/>
+<elevation>245</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TN">TN</adminCode1>
+<adminName1>Tennessee</adminName1>
+<adminCode2>043</adminCode2>
+<adminName2>Dickson County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Dickson%2C_Tennessee</alternateName>
+<alternateName lang="post">37056</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-87.40707</west>
+<north>36.09258</north>
+<east>-87.36851</east>
+<south>36.06143</south>
+</bbox>
+<score>42.85546112060547</score>
+</geoname>
+<geoname>
+<toponymName>Dickson</toponymName>
+<name>Dickson</name>
+<lat>37.76929</lat>
+<lng>-80.34618</lng>
+<geonameId>4804034</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>564</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WV">WV</adminCode1>
+<adminName1>West Virginia</adminName1>
+<adminCode2>025</adminCode2>
+<adminName2>Greenbrier County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Dickson%2C_West_Virginia</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-80.35756</west>
+<north>37.77828</north>
+<east>-80.3348</east>
+<south>37.76029</south>
+</bbox>
+<score>36.733253479003906</score>
+</geoname>
+<geoname>
+<toponymName>Dickson</toponymName>
+<name>Dickson</name>
+<lat>52.05011</lat>
+<lng>-114.31871</lng>
+<geonameId>5939155</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AB">01</adminCode1>
+<adminName1>Alberta</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Dickson%2C_Alberta</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Edmonton</timezone>
+<score>36.733253479003906</score>
+</geoname>
+<geoname>
+<toponymName>Dickinson</toponymName>
+<name>Dickinson</name>
+<lat>39.16455</lat>
+<lng>-76.86775</lng>
+<geonameId>4353133</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>89</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MD">MD</adminCode1>
+<adminName1>Maryland</adminName1>
+<adminCode2>027</adminCode2>
+<adminName2>Howard County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-76.87935</west>
+<north>39.17355</north>
+<east>-76.85615</east>
+<south>39.15556</south>
+</bbox>
+<score>33.4326286315918</score>
+</geoname>
+<geoname>
+<toponymName>Dickinson</toponymName>
+<name>Dickinson</name>
+<lat>36.92042</lat>
+<lng>-79.70698</lng>
+<geonameId>4755892</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>295</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>067</adminCode2>
+<adminName2>Franklin County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-79.71823</west>
+<north>36.92941</north>
+<east>-79.69572</east>
+<south>36.91143</south>
+</bbox>
+<score>33.4326286315918</score>
+</geoname>
+</geonames>

@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>94</totalResultsCount>
+<geoname>
+<toponymName>Newport</toponymName>
+<name>Newport</name>
+<lat>12.05</lat>
+<lng>-68.81667</lng>
+<geonameId>3513445</geonameId>
+<countryCode>CW</countryCode>
+<countryName>Curacao</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1937</population>
+<alternateNames>Newport,Nieuwpoort</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Curacao</timezone>
+<bbox>
+<west>-68.82127</west>
+<north>12.0545</north>
+<east>-68.81207</east>
+<south>12.0455</south>
+</bbox>
+<score>134.32933044433594</score>
+</geoname>
+<geoname>
+<toponymName>Newport</toponymName>
+<name>Newport</name>
+<lat>41.4901</lat>
+<lng>-71.31283</lng>
+<geonameId>5223593</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>24672</population>
+<alternateNames>N'juport,NPT,Newport,Njuport,niu bo te,nyupoteu,nyupoto,nywpwrt,Њупорт,Ньюпорт,Нюпорт,ניופורט,ニューポート,纽波特,뉴포트</alternateNames>
+<elevation>9</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="RI">RI</adminCode1>
+<adminName1>Rhode Island</adminName1>
+<adminCode2>005</adminCode2>
+<adminName2>Newport County</adminName2>
+<alternateName lang="bg">Нюпорт</alternateName>
+<alternateName lang="de">Newport</alternateName>
+<alternateName lang="en">Newport</alternateName>
+<alternateName lang="fr">Newport</alternateName>
+<alternateName lang="he">ניופורט</alternateName>
+<alternateName lang="iata">NPT</alternateName>
+<alternateName lang="it">Newport</alternateName>
+<alternateName lang="ja">ニューポート</alternateName>
+<alternateName lang="ko">뉴포트</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Newport%2C_Rhode_Island</alternateName>
+<alternateName lang="pl">Newport</alternateName>
+<alternateName lang="post">02840</alternateName>
+<alternateName lang="pt">Newport</alternateName>
+<alternateName lang="ru">Ньюпорт</alternateName>
+<alternateName lang="sr">Њупорт</alternateName>
+<alternateName lang="sv">Newport</alternateName>
+<alternateName lang="uk">Ньюпорт</alternateName>
+<alternateName lang="unlc">NPT</alternateName>
+<alternateName lang="zh">纽波特</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-71.33968</west>
+<north>41.51021</north>
+<east>-71.28597</east>
+<south>41.46999</south>
+</bbox>
+<score>58.16631317138672</score>
+</geoname>
+<geoname>
+<toponymName>Newport</toponymName>
+<name>Newport</name>
+<lat>-33.65517</lat>
+<lng>151.32126</lng>
+<geonameId>2155412</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>9227</population>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="NSW">02</adminCode1>
+<adminName1>New South Wales</adminName1>
+<adminCode2>16370</adminCode2>
+<adminName2>Pittwater</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Newport%2C_New_South_Wales</alternateName>
+<alternateName lang="unlc">NWP</alternateName>
+<timezone dstOffset="10.0" gmtOffset="11.0">Australia/Sydney</timezone>
+<bbox>
+<west>151.30196</west>
+<north>-33.64366</north>
+<east>151.33046</east>
+<south>-33.67068</south>
+</bbox>
+<score>54.8397216796875</score>
+</geoname>
+<geoname>
+<toponymName>Newport</toponymName>
+<name>Newport</name>
+<lat>39.39091</lat>
+<lng>-81.22678</lng>
+<geonameId>4519745</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1003</population>
+<alternateNames/>
+<elevation>197</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>167</adminCode2>
+<adminName2>Washington County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Newport%2C_Washington_County%2C_Ohio</alternateName>
+<alternateName lang="post">45768</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-81.22794</west>
+<north>39.39181</north>
+<east>-81.22562</east>
+<south>39.39001</south>
+</bbox>
+<score>54.8397216796875</score>
+</geoname>
+<geoname>
+<toponymName>Newport</toponymName>
+<name>Newport</name>
+<lat>52.00437</lat>
+<lng>-4.83968</lng>
+<geonameId>7295998</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS050</adminCode3>
+<adminName3>Newport</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.88038</west>
+<north>52.02505</north>
+<east>-4.79898</east>
+<south>51.98369</south>
+</bbox>
+<score>54.8397216796875</score>
+</geoname>
+<geoname>
+<toponymName>Newport</toponymName>
+<name>Newport</name>
+<lat>53.7648</lat>
+<lng>-0.69815</lng>
+<geonameId>7296024</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E1</adminCode2>
+<adminName2>East Riding of Yorkshire</adminName2>
+<adminCode3>00FB100</adminCode3>
+<adminName3>Newport</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.73902</west>
+<north>53.78423</north>
+<east>-0.65727</east>
+<south>53.74537</south>
+</bbox>
+<score>54.8397216796875</score>
+</geoname>
+<geoname>
+<toponymName>Newport</toponymName>
+<name>Newport</name>
+<lat>50.69129</lat>
+<lng>-1.30915</lng>
+<geonameId>7301611</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G2</adminCode2>
+<adminName2>Isle of Wight</adminName2>
+<adminCode3>00MW030</adminCode3>
+<adminName3>Newport</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.37766</west>
+<north>50.73434</north>
+<east>-1.24064</east>
+<south>50.64823</south>
+</bbox>
+<score>54.8397216796875</score>
+</geoname>
+<geoname>
+<toponymName>Newport</toponymName>
+<name>Newport</name>
+<lat>52.71111</lat>
+<lng>-8.40972</lng>
+<geonameId>2962257</geonameId>
+<countryCode>IE</countryCode>
+<countryName>Ireland</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>An Port Nua,Newport</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="M">M</adminCode1>
+<adminName1>Munster</adminName1>
+<adminCode2>38</adminCode2>
+<adminName2>North Tipperary</adminName2>
+<alternateName lang="en">Newport</alternateName>
+<alternateName lang="ga">An Port Nua</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Newport%2C_County_Tipperary</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Dublin</timezone>
+<bbox>
+<west>-8.42457</west>
+<north>52.7201</north>
+<east>-8.39487</east>
+<south>52.70212</south>
+</bbox>
+<score>47.974761962890625</score>
+</geoname>
+<geoname>
+<toponymName>Newport</toponymName>
+<name>Newport</name>
+<lat>-37.84427</lat>
+<lng>144.88483</lng>
+<geonameId>2155411</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="VIC">07</adminCode1>
+<adminName1>Victoria</adminName1>
+<adminCode2>23110</adminCode2>
+<adminName2>Hobsons Bay</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Newport%2C_Victoria</alternateName>
+<alternateName lang="unlc">NWT</alternateName>
+<timezone dstOffset="10.0" gmtOffset="11.0">Australia/Melbourne</timezone>
+<bbox>
+<west>144.86304</west>
+<north>-37.83308</north>
+<east>144.90559</east>
+<south>-37.85791</south>
+</bbox>
+<score>47.00547790527344</score>
+</geoname>
+<geoname>
+<toponymName>Newport</toponymName>
+<name>Newport</name>
+<lat>51.98425</lat>
+<lng>0.21355</lng>
+<geonameId>2641597</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UQ</adminCode3>
+<adminName3>Uttlesford District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Newport%2C_Essex</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.19894</west>
+<north>51.99324</north>
+<east>0.22815</east>
+<south>51.97525</south>
+</bbox>
+<score>47.00547790527344</score>
+</geoname>
+</geonames>

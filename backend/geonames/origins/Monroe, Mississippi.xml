@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>657</totalResultsCount>
+<geoname>
+<toponymName>Monroe County</toponymName>
+<name>Monroe County</name>
+<lat>33.89224</lat>
+<lng>-88.48047</lng>
+<geonameId>4436465</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>36989</population>
+<alternateNames>Comte de Monroe,Comté de Monroe</alternateNames>
+<elevation>71</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MS">MS</adminCode1>
+<adminName1>Mississippi</adminName1>
+<adminCode2>095</adminCode2>
+<adminName2>Monroe County</adminName2>
+<alternateName lang="fr">Comté de Monroe</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Monroe_County%2C_Mississippi</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-88.72217</west>
+<north>34.09173</north>
+<east>-88.20118</east>
+<south>33.64915</south>
+</bbox>
+<score>13.80545425415039</score>
+</geoname>
+<geoname>
+<toponymName>Amory</toponymName>
+<name>Amory</name>
+<lat>33.98428</lat>
+<lng>-88.4881</lng>
+<geonameId>4416192</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>7316</population>
+<alternateNames/>
+<elevation>73</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MS">MS</adminCode1>
+<adminName1>Mississippi</adminName1>
+<adminCode2>095</adminCode2>
+<adminName2>Monroe County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Amory%2C_Mississippi</alternateName>
+<alternateName lang="post">38821</alternateName>
+<alternateName lang="unlc">ARY</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-88.50138</west>
+<north>33.99529</north>
+<east>-88.47481</east>
+<south>33.97326</south>
+</bbox>
+<score>9.235610008239746</score>
+</geoname>
+<geoname>
+<toponymName>Athens</toponymName>
+<name>Athens</name>
+<lat>33.87233</lat>
+<lng>-88.44171</lng>
+<geonameId>4416664</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>92</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MS">MS</adminCode1>
+<adminName1>Mississippi</adminName1>
+<adminCode2>095</adminCode2>
+<adminName2>Monroe County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Athens%2C_Mississippi</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-88.45254</west>
+<north>33.88133</north>
+<east>-88.43088</east>
+<south>33.86334</south>
+</bbox>
+<score>9.235610008239746</score>
+</geoname>
+<geoname>
+<toponymName>Becker</toponymName>
+<name>Becker</name>
+<lat>33.93317</lat>
+<lng>-88.48115</lng>
+<geonameId>4417472</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>71</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MS">MS</adminCode1>
+<adminName1>Mississippi</adminName1>
+<adminCode2>095</adminCode2>
+<adminName2>Monroe County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Becker%2C_Mississippi</alternateName>
+<alternateName lang="post">38825</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-88.492</west>
+<north>33.94216</north>
+<east>-88.47031</east>
+<south>33.92417</south>
+</bbox>
+<score>9.235610008239746</score>
+</geoname>
+<geoname>
+<toponymName>Bigbee</toponymName>
+<name>Bigbee</name>
+<lat>34.01622</lat>
+<lng>-88.51921</lng>
+<geonameId>4418411</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>67</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MS">MS</adminCode1>
+<adminName1>Mississippi</adminName1>
+<adminCode2>095</adminCode2>
+<adminName2>Monroe County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bigbee%2C_Mississippi</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-88.53006</west>
+<north>34.02521</north>
+<east>-88.50836</east>
+<south>34.00723</south>
+</bbox>
+<score>9.235610008239746</score>
+</geoname>
+<geoname>
+<toponymName>Binford</toponymName>
+<name>Binford</name>
+<lat>33.75317</lat>
+<lng>-88.58088</lng>
+<geonameId>4418494</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>80</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MS">MS</adminCode1>
+<adminName1>Mississippi</adminName1>
+<adminCode2>095</adminCode2>
+<adminName2>Monroe County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Binford%2C_Mississippi</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-88.5917</west>
+<north>33.76216</north>
+<east>-88.57006</east>
+<south>33.74418</south>
+</bbox>
+<score>9.235610008239746</score>
+</geoname>
+<geoname>
+<toponymName>Bristow</toponymName>
+<name>Bristow</name>
+<lat>34.00539</lat>
+<lng>-88.36393</lng>
+<geonameId>4419462</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>113</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MS">MS</adminCode1>
+<adminName1>Mississippi</adminName1>
+<adminCode2>095</adminCode2>
+<adminName2>Monroe County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bristow%2C_Mississippi</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-88.37478</west>
+<north>34.01438</north>
+<east>-88.35308</east>
+<south>33.99639</south>
+</bbox>
+<score>9.235610008239746</score>
+</geoname>
+<geoname>
+<toponymName>Central Grove</toponymName>
+<name>Central Grove</name>
+<lat>34.009</lat>
+<lng>-88.6056</lng>
+<geonameId>4421174</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>94</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MS">MS</adminCode1>
+<adminName1>Mississippi</adminName1>
+<adminCode2>095</adminCode2>
+<adminName2>Monroe County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Central_Grove%2C_Mississippi</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-88.61645</west>
+<north>34.01799</north>
+<east>-88.59475</east>
+<south>34.00001</south>
+</bbox>
+<score>9.235610008239746</score>
+</geoname>
+<geoname>
+<toponymName>Darracott</toponymName>
+<name>Darracott</name>
+<lat>33.72373</lat>
+<lng>-88.53199</lng>
+<geonameId>4423528</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>89</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MS">MS</adminCode1>
+<adminName1>Mississippi</adminName1>
+<adminCode2>095</adminCode2>
+<adminName2>Monroe County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Darracott%2C_Mississippi</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-88.5428</west>
+<north>33.73272</north>
+<east>-88.52117</east>
+<south>33.71473</south>
+</bbox>
+<score>9.235610008239746</score>
+</geoname>
+<geoname>
+<toponymName>Flinn</toponymName>
+<name>Flinn</name>
+<lat>34.04622</lat>
+<lng>-88.42921</lng>
+<geonameId>4426758</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>75</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MS">MS</adminCode1>
+<adminName1>Mississippi</adminName1>
+<adminCode2>095</adminCode2>
+<adminName2>Monroe County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Flinn%2C_Mississippi</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-88.44007</west>
+<north>34.05521</north>
+<east>-88.41835</east>
+<south>34.03723</south>
+</bbox>
+<score>9.235610008239746</score>
+</geoname>
+</geonames>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Elrick House</toponymName>
+<name>Elrick House</name>
+<lat>57.26667</lat>
+<lng>-2.18333</lng>
+<geonameId>2650064</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>EST</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>estate(s)</fcodeName>
+<population/>
+<alternateNames>Elrick,Elrick House</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>T6</adminCode2>
+<adminName2>Aberdeenshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>24.721942901611328</score>
+</geoname>
+<geoname>
+<toponymName>Ellis House</toponymName>
+<name>Ellis House</name>
+<lat>41.76094</lat>
+<lng>-70.51253</lng>
+<geonameId>4935804</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>BLDG</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>building(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>19</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MA">MA</adminCode1>
+<adminName1>Massachusetts</adminName1>
+<adminCode2>001</adminCode2>
+<adminName2>Barnstable County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>6.881380558013916</score>
+</geoname>
+</geonames>

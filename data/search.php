@@ -15,6 +15,9 @@
 //  result", "date":"2012-5-16", "cityId":1234}]
 //
 
+#Returns an array of character n-grams from the target string
+
+
 session_start();
 
 include '../php/porterStemmer.php';
@@ -26,8 +29,13 @@ $database = connectToDB();
 $stemmer = new PorterStemmer();
 $text = trim(strtolower($_GET['query']));
 //Split on non-word characters
+logString("text={$text}");
+
+
 $words = preg_split('/[\W]+/', $text);
 //Stem each word
+
+
 $stems = array_map(array($stemmer, 'Stem'), $words);
 $stemCounts = array_count_values($stems);
 
@@ -48,6 +56,59 @@ if (array_key_exists('location', $_GET) && ($_GET['location'] != -1))
     $locationCondition = " AND (sentToPlace=$escapedLocation
         OR sentFromPlace=$escapedLocation) ";
 }
+
+
+
+$fromDateCondition = '';
+if (array_key_exists('fromYear', $_GET) && ($_GET['fromYear'] != ''))
+{
+    $escapedFromYear = mysql_real_escape_string($_GET['fromYear']);
+    $fromDateCondition = " AND creation > '$escapedFromYear' ";
+}
+
+$toDateCondition = '';
+if (array_key_exists('toYear', $_GET) && ($_GET['toYear'] != ''))
+{
+    $escapedToYear = mysql_real_escape_string($_GET['toYear']);
+	$escapedToYear = $escapedToYear + 1; # date 
+	
+    $toDateCondition = " AND creation < '$escapedToYear' ";
+}
+
+
+
+$fromPersonCondition = '';
+if (array_key_exists('fromPersonId', $_GET) && ($_GET['fromPersonId'] != ''))
+{
+    $escapedFromPersonId = mysql_real_escape_string($_GET['fromPersonId']);
+    $fromPersonCondition = " AND sentFromPerson = $escapedFromPersonId ";
+}
+
+$toPersonCondition = '';
+if (array_key_exists('toPersonId', $_GET) && ($_GET['toPersonId'] != ''))
+{
+    $escapedToPersonId = mysql_real_escape_string($_GET['toPersonId']);
+    $toPersonCondition = " AND sentToPerson = $escapedToPersonId ";
+}
+
+
+
+
+$fromPlaceCondition = '';
+if (array_key_exists('fromPlaceId', $_GET) && ($_GET['fromPlaceId'] != ''))
+{
+    $escapedFromPlaceId = mysql_real_escape_string($_GET['fromPlaceId']);
+    $fromPlaceCondition = " AND sentFromPlace = $escapedFromPlaceId ";
+}
+
+$toPlaceCondition = '';
+if (array_key_exists('toPlaceId', $_GET) && ($_GET['toPlaceId'] != ''))
+{
+    $escapedToPlaceId = mysql_real_escape_string($_GET['toPlaceId']);
+    $toPlaceCondition = " AND sentToPlace = $escapedToPlaceId ";
+}
+
+
 
 $orderBy = '';
 if (array_key_exists('sort', $_GET)) {
@@ -74,9 +135,17 @@ $sql = "
     WHERE
     $stemCondition
     $locationCondition
-    GROUP BY Document.Id
+    $fromDateCondition
+    $toDateCondition
+    $fromPersonCondition
+    $toPersonCondition
+    $fromPlaceCondition
+    $toPlaceCondition
+            GROUP BY Document.Id
     $orderBy ;
 ";
+
+logString($sql);
 
 $docData = array();
 $result = mysql_query($sql) or die($sql . "<br>" . mysql_error());

@@ -3,7 +3,7 @@
 session_start();
 
 //Set up our _SERVER variable as if we are acutally running it on the server
-$_SERVER['DOCUMENT_ROOT'] = '/home/sgmr29/code/digital-austin-papers';
+$_SERVER['DOCUMENT_ROOT'] = '/home/benwbrum/dev/clients/torget/dap/DigitalAustinSite';
 
 require_once('../php/database.php');
 
@@ -28,6 +28,7 @@ function nCharGrams($targetString, $n)
     }
     return $grams;
 }
+
 
 #Returns the Jaccard Similarity Coefficient of two strings
 #http://en.wikipedia.org/wiki/Jaccard_index
@@ -55,7 +56,7 @@ function getTag($personName, $key, $knownNames)
         }
     }
     $suggestion = "";
-    $bestScore = 0.8;
+    $bestScore = 0.3;
     $bestId = '';
     foreach($knownNames as $id => $forms)
     {
@@ -63,6 +64,7 @@ function getTag($personName, $key, $knownNames)
         foreach($forms as $form)
         {
             $score = jaccardSim($personName, $form);
+#			print "{$personName} compared to {$form} with a score of {$score}\n";
             if ($score > $bestScore)
             {
                 if ($form == $standardForm)
@@ -75,11 +77,13 @@ function getTag($personName, $key, $knownNames)
                 }
                 $bestId = $id;
                 $bestScore = $score;
+				$bestName=$form;
             }
         }
     }
     if ($bestId !== '')
     {
+		logString("{$personName} matched to {$bestName} (id: {$bestId}) with a score of {$bestScore}");
         return $bestId;
     }
     return $key;
@@ -90,6 +94,7 @@ foreach ($files as $file)
     $doc = new DOMDocument();
     $success = $doc->load( $file );
 
+    print "Parsing $file\n";
     if (!$success)
     {
         print "Error parsing $file.  Skipped.";
@@ -111,11 +116,11 @@ foreach ($files as $file)
     {
         $knownPlaces[$row['id']] = array($row['name']);
     }
-    $result = mysql_query("SELECT normalId, text FROM PlaceReference where normalId IS NOT NULL");
-    while ($row = mysql_fetch_array($result))
-    {
-        array_push($knownPlaces[$row['normalId']], $row['text']);
-    }
+    // $result = mysql_query("SELECT normalId, text FROM PlaceReference where normalId IS NOT NULL");
+    // while ($row = mysql_fetch_array($result))
+    // {
+        // array_push($knownPlaces[$row['normalId']], $row['text']);
+    // }
 
     //Create the table of people with suggested normalized values
     $people = $doc->getElementsByTagName("persName");
@@ -130,7 +135,10 @@ foreach ($files as $file)
         {
             $key = $keyNode->nodeValue;
         }
+	    #logString("Posting name={$name} key={$key} as personTag[{$index}] = {getTag($name, $key, $knownNames)}\n");    	
         $_POST['personTag'][$index] = getTag($name, $key, $knownNames);
+		#logString("setting $_POST[personTag][$index]={$_POST['personTag'][$index]}");
+		
         $index += 1;
     }
 

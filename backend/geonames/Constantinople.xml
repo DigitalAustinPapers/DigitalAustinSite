@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>İstanbul</toponymName>
+<name>Istanbul</name>
+<lat>41.01384</lat>
+<lng>28.94966</lng>
+<geonameId>745044</geonameId>
+<countryCode>TR</countryCode>
+<countryName>Turkey</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population>11174257</population>
+<alternateNames>Bizanc,Bizánc,Byzance,Byzantion,Byzantium,Byzanz,Constantinoble,Constantinopla,Constantinople,Constantinopoli,Constantinopolis,Costantinopoli,Estambul,IST,Istamboul,Istambul,Istambuł,Istampoul,Istanbul,Istanbúl,Isztambul,Konstantinapoly,Konstantinopel,Konstantinopolo,Konstantinoupole,Konstantinoupoli,Konstantinoupolis,Konstantinápoly,Kustantiniyah,Micklagard,Micklagård,Mikligardur,Mikligarður,Stamboul,Stambul,Stambula,Stambuł,Tsarigrad,Vizantija (Vizantija),Vyzantio,astnbwl,bijantion,byuzantion,byzntywn,isutanburu,stin Poli [stimˈboli],yi si tan bu er,İstanbul,Βυζάντιο,Βυζαντιο,Ισταμπουλ,Ισταμπούλ,Κωνσταντινουπολη,Κωνσταντινούπολη,Κωνσταντινούπολις,στην Πόλι [stimˈboli],Византија (Vizantija),Истанбул,Стамбул,ביזנטיון,اسطنبول,イスタンブール,ビュザンティオン,伊斯坦布尔,비잔티온</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="34">34</adminCode1>
+<adminName1>Istanbul</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ar">اسطنبول</alternateName>
+<alternateName lang="bg">Истанбул</alternateName>
+<alternateName lang="ca">Istanbul</alternateName>
+<alternateName lang="cs">Istanbul</alternateName>
+<alternateName lang="da">Istanbul</alternateName>
+<alternateName lang="de">Istanbul</alternateName>
+<alternateName lang="el">Ισταμπούλ</alternateName>
+<alternateName lang="en">Istanbul</alternateName>
+<alternateName lang="eo">Konstantinopolo</alternateName>
+<alternateName lang="es">Estambul</alternateName>
+<alternateName lang="fi">Istanbul</alternateName>
+<alternateName lang="fr">Istanbul</alternateName>
+<alternateName lang="he">ביזנטיון</alternateName>
+<alternateName lang="hu">Isztambul</alternateName>
+<alternateName lang="iata">IST</alternateName>
+<alternateName lang="is">Istanbúl</alternateName>
+<alternateName lang="it">Istanbul</alternateName>
+<alternateName lang="ja">イスタンブール</alternateName>
+<alternateName lang="ko">비잔티온</alternateName>
+<alternateName lang="la">Byzantium</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Constantinople</alternateName>
+<alternateName lang="lv">Stambula</alternateName>
+<alternateName lang="mk">Византија (Vizantija)</alternateName>
+<alternateName lang="nds">Byzanz</alternateName>
+<alternateName lang="nl">Istanbul</alternateName>
+<alternateName lang="no">Istanbul</alternateName>
+<alternateName lang="non">Mikligarður</alternateName>
+<alternateName lang="pl">Stambuł</alternateName>
+<alternateName lang="pt">Istambul</alternateName>
+<alternateName lang="ru">Стамбул</alternateName>
+<alternateName lang="sk">Byzantion</alternateName>
+<alternateName lang="sr">Истанбул</alternateName>
+<alternateName lang="sv">Istanbul</alternateName>
+<alternateName lang="tr">İstanbul</alternateName>
+<alternateName lang="uk">Стамбул</alternateName>
+<alternateName lang="unlc">IST</alternateName>
+<alternateName lang="zh-CN">伊斯坦布尔</alternateName>
+<timezone dstOffset="3.0" gmtOffset="2.0">Europe/Istanbul</timezone>
+<bbox>
+<west>28.37077</west>
+<north>41.44776</north>
+<east>29.52855</east>
+<south>40.57993</south>
+</bbox>
+<score>133.3702392578125</score>
+</geoname>
+<geoname>
+<toponymName>Constantinopla</toponymName>
+<name>Constantinopla</name>
+<lat>-3.36667</lat>
+<lng>-72.5</lng>
+<geonameId>3697843</geonameId>
+<countryCode>PE</countryCode>
+<countryName>Peru</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="LOR">16</adminCode1>
+<adminName1>Loreto Region</adminName1>
+<adminCode2>1601</adminCode2>
+<adminName2>Provincia de Maynas</adminName2>
+<adminCode3>160105</adminCode3>
+<adminName3>Las Amazonas</adminName3>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Lima</timezone>
+<bbox>
+<west>-72.50901</west>
+<north>-3.35767</north>
+<east>-72.49099</east>
+<south>-3.37566</south>
+</bbox>
+<score>20.45612907409668</score>
+</geoname>
+</geonames>

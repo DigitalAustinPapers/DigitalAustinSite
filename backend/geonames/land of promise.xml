@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Land of Promise</toponymName>
+<name>Land of Promise</name>
+<lat>39.33899</lat>
+<lng>-77.29748</lng>
+<geonameId>4360271</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>140</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MD">MD</adminCode1>
+<adminName1>Maryland</adminName1>
+<adminCode2>021</adminCode2>
+<adminName2>Frederick County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-77.30911</west>
+<north>39.34799</north>
+<east>-77.28585</east>
+<south>39.33</south>
+</bbox>
+<score>43.39418029785156</score>
+</geoname>
+<geoname>
+<toponymName>Land of Promise</toponymName>
+<name>Land of Promise</name>
+<lat>6.61019</lat>
+<lng>-57.90426</lng>
+<geonameId>3377478</geonameId>
+<countryCode>GY</countryCode>
+<countryName>Guyana</countryName>
+<fcl>S</fcl>
+<fcode>EST</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>estate(s)</fcodeName>
+<population/>
+<alternateNames>Land of Promise,Lot Number 4,Lot Number Four</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="DE">12</adminCode1>
+<adminName1>Demerara-Mahaica</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Guyana</timezone>
+<score>33.21674728393555</score>
+</geoname>
+<geoname>
+<toponymName>Land of Promise</toponymName>
+<name>Land of Promise</name>
+<lat>7.51136</lat>
+<lng>-58.64386</lng>
+<geonameId>3377477</geonameId>
+<countryCode>GY</countryCode>
+<countryName>Guyana</countryName>
+<fcl>S</fcl>
+<fcode>EST</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>estate(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="PM">16</adminCode1>
+<adminName1>Pomeroon-Supenaam</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Guyana</timezone>
+<score>13.560681343078613</score>
+</geoname>
+<geoname>
+<toponymName>Land of Promise</toponymName>
+<name>Land of Promise</name>
+<lat>36.64432</lat>
+<lng>-76.09688</lng>
+<geonameId>4768527</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>3</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>810</adminCode2>
+<adminName2>City of Virginia Beach</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>13.560681343078613</score>
+</geoname>
+</geonames>

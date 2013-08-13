@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Moselos</toponymName>
+<name>Moselos</name>
+<lat>41.92667</lat>
+<lng>-8.55116</lng>
+<geonameId>2737359</geonameId>
+<countryCode>PT</countryCode>
+<countryName>Portugal</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="16">20</adminCode1>
+<adminName1>Viana do Castelo</adminName1>
+<adminCode2>1605</adminCode2>
+<adminName2>Paredes de Coura</adminName2>
+<adminCode3>160513</adminCode3>
+<adminName3>Mozelos</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Lisbon</timezone>
+<bbox>
+<west>-8.56325</west>
+<north>41.93566</north>
+<east>-8.53908</east>
+<south>41.91768</south>
+</bbox>
+<score>44.839012145996094</score>
+</geoname>
+<geoname>
+<toponymName>Moselos</toponymName>
+<name>Moselos</name>
+<lat>40.99924</lat>
+<lng>-8.56717</lng>
+<geonameId>2737360</geonameId>
+<countryCode>PT</countryCode>
+<countryName>Portugal</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="01">02</adminCode1>
+<adminName1>Aveiro</adminName1>
+<adminCode2>0109</adminCode2>
+<adminName2>Santa Maria da Feira Municipality</adminName2>
+<adminCode3>010916</adminCode3>
+<adminName3>Mozelos</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Lisbon</timezone>
+<bbox>
+<west>-8.57909</west>
+<north>41.00823</north>
+<east>-8.55525</east>
+<south>40.99024</south>
+</bbox>
+<score>44.839012145996094</score>
+</geoname>
+</geonames>

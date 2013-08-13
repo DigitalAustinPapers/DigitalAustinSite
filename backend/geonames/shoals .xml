@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>6</totalResultsCount>
+<geoname>
+<toponymName>Shoals</toponymName>
+<name>Shoals</name>
+<lat>36.27403</lat>
+<lng>-80.51117</lng>
+<geonameId>4491508</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>298</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NC">NC</adminCode1>
+<adminName1>North Carolina</adminName1>
+<adminCode2>171</adminCode2>
+<adminName2>Surry County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Shoals%2C_North_Carolina</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-80.52233</west>
+<north>36.28302</north>
+<east>-80.50001</east>
+<south>36.26503</south>
+</bbox>
+<score>63.663734436035156</score>
+</geoname>
+<geoname>
+<toponymName>Shoals</toponymName>
+<name>Shoals</name>
+<lat>38.32703</lat>
+<lng>-82.47515</lng>
+<geonameId>4822063</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>173</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WV">WV</adminCode1>
+<adminName1>West Virginia</adminName1>
+<adminCode2>099</adminCode2>
+<adminName2>Wayne County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Shoals%2C_West_Virginia</alternateName>
+<alternateName lang="post">25562</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-82.48662</west>
+<north>38.33602</north>
+<east>-82.46369</east>
+<south>38.31803</south>
+</bbox>
+<score>63.663734436035156</score>
+</geoname>
+<geoname>
+<toponymName>Shoals</toponymName>
+<name>Shoals</name>
+<lat>38.66644</lat>
+<lng>-86.79111</lng>
+<geonameId>4264771</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>756</population>
+<alternateNames/>
+<elevation>154</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IN">IN</adminCode1>
+<adminName1>Indiana</adminName1>
+<adminCode2>101</adminCode2>
+<adminName2>Martin County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Shoals%2C_Indiana</alternateName>
+<alternateName lang="post">47581</alternateName>
+<alternateName lang="unlc">YHZ</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Indiana/Vincennes</timezone>
+<bbox>
+<west>-86.79226</west>
+<north>38.66734</north>
+<east>-86.78996</east>
+<south>38.66554</south>
+</bbox>
+<score>42.44248962402344</score>
+</geoname>
+<geoname>
+<toponymName>Shoals</toponymName>
+<name>Shoals</name>
+<lat>33.89788</lat>
+<lng>-95.39773</lng>
+<geonameId>4551277</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>148</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OK">OK</adminCode1>
+<adminName1>Oklahoma</adminName1>
+<adminCode2>023</adminCode2>
+<adminName2>Choctaw County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-95.40857</west>
+<north>33.90688</north>
+<east>-95.3869</east>
+<south>33.88889</south>
+</bbox>
+<score>42.44248962402344</score>
+</geoname>
+<geoname>
+<toponymName>Shoals</toponymName>
+<name>Shoals</name>
+<lat>27.8603</lat>
+<lng>-82.2729</lng>
+<geonameId>8479777</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>7</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="FL">FL</adminCode1>
+<adminName1>Florida</adminName1>
+<adminCode2>057</adminCode2>
+<adminName2>Hillsborough County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-82.28307</west>
+<north>27.86929</north>
+<east>-82.26273</east>
+<south>27.85131</south>
+</bbox>
+<score>42.44248962402344</score>
+</geoname>
+<geoname>
+<toponymName>Shoals</toponymName>
+<name>Shoals</name>
+<lat>33.25487</lat>
+<lng>-82.75514</lng>
+<geonameId>4222660</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>108</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">GA</adminCode1>
+<adminName1>Georgia</adminName1>
+<adminCode2>265</adminCode2>
+<adminName2>Taliaferro County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>13.263278007507324</score>
+</geoname>
+</geonames>

@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>43</totalResultsCount>
+<geoname>
+<toponymName>Hunters</toponymName>
+<name>Hunters</name>
+<lat>37.9407</lat>
+<lng>-78.24556</lng>
+<geonameId>4765342</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>142</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>065</adminCode2>
+<adminName2>Fluvanna County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hunters%2C_Virginia</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-78.25697</west>
+<north>37.94969</north>
+<east>-78.23415</east>
+<south>37.9317</south>
+</bbox>
+<score>57.749942779541016</score>
+</geoname>
+<geoname>
+<toponymName>Hunters</toponymName>
+<name>Hunters</name>
+<lat>48.11683</lat>
+<lng>-118.20193</lng>
+<geonameId>5798032</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>484</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WA">WA</adminCode1>
+<adminName1>Washington</adminName1>
+<adminCode2>065</adminCode2>
+<adminName2>Stevens County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hunters%2C_Washington</alternateName>
+<alternateName lang="post">99137</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-118.2154</west>
+<north>48.12583</north>
+<east>-118.18846</east>
+<south>48.10784</south>
+</bbox>
+<score>57.749942779541016</score>
+</geoname>
+<geoname>
+<toponymName>Hunters</toponymName>
+<name>Hunters</name>
+<lat>26.48333</lat>
+<lng>-78.71667</lng>
+<geonameId>3572160</geonameId>
+<countryCode>BS</countryCode>
+<countryName>Bahamas</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Hunter Settlement,Hunters</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WG">54</adminCode1>
+<adminName1>West Grand Bahama</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Nassau</timezone>
+<bbox>
+<west>-78.72672</west>
+<north>26.49233</north>
+<east>-78.70662</east>
+<south>26.47434</south>
+</bbox>
+<score>47.15263366699219</score>
+</geoname>
+<geoname>
+<toponymName>Hunters</toponymName>
+<name>Hunters</name>
+<lat>32.65462</lat>
+<lng>-81.55039</lng>
+<geonameId>4201766</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>56</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">GA</adminCode1>
+<adminName1>Georgia</adminName1>
+<adminCode2>251</adminCode2>
+<adminName2>Screven County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-81.56107</west>
+<north>32.66361</north>
+<east>-81.5397</east>
+<south>32.64562</south>
+</bbox>
+<score>38.499961853027344</score>
+</geoname>
+<geoname>
+<toponymName>Hunters</toponymName>
+<name>Hunters</name>
+<lat>37.86034</lat>
+<lng>-85.50107</lng>
+<geonameId>4295592</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>214</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>179</adminCode2>
+<adminName2>Nelson County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-85.51246</west>
+<north>37.86933</north>
+<east>-85.48967</east>
+<south>37.85134</south>
+</bbox>
+<score>38.499961853027344</score>
+</geoname>
+<geoname>
+<toponymName>Hunters</toponymName>
+<name>Hunters</name>
+<lat>40.74856</lat>
+<lng>-111.89827</lng>
+<geonameId>5776204</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1289</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="UT">UT</adminCode1>
+<adminName1>Utah</adminName1>
+<adminCode2>035</adminCode2>
+<adminName2>Salt Lake County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<bbox>
+<west>-111.90302</west>
+<north>40.75215</north>
+<east>-111.89352</east>
+<south>40.74496</south>
+</bbox>
+<score>24.062477111816406</score>
+</geoname>
+<geoname>
+<toponymName>Hunters</toponymName>
+<name>Hunters</name>
+<lat>40.768</lat>
+<lng>-111.91855</lng>
+<geonameId>5776205</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1287</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="UT">UT</adminCode1>
+<adminName1>Utah</adminName1>
+<adminCode2>035</adminCode2>
+<adminName2>Salt Lake County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<bbox>
+<west>-111.9233</west>
+<north>40.7716</north>
+<east>-111.9138</east>
+<south>40.7644</south>
+</bbox>
+<score>24.062477111816406</score>
+</geoname>
+<geoname>
+<toponymName>Hunters</toponymName>
+<name>Hunters</name>
+<lat>41.22383</lat>
+<lng>-111.95272</lng>
+<geonameId>5776206</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1348</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="UT">UT</adminCode1>
+<adminName1>Utah</adminName1>
+<adminCode2>057</adminCode2>
+<adminName2>Weber County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<bbox>
+<west>-111.9575</west>
+<north>41.22743</north>
+<east>-111.94794</east>
+<south>41.22024</south>
+</bbox>
+<score>24.062477111816406</score>
+</geoname>
+<geoname>
+<toponymName>Hunters</toponymName>
+<name>Hunters</name>
+<lat>-12.35</lat>
+<lng>131.48333</lng>
+<geonameId>2069493</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>S</fcl>
+<fcode>FRM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farm</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="NT">03</adminCode1>
+<adminName1>Northern Territory</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="9.5" gmtOffset="9.5">Australia/Darwin</timezone>
+<score>12.031238555908203</score>
+</geoname>
+<geoname>
+<toponymName>Hunter</toponymName>
+<name>Hunter</name>
+<lat>39.49284</lat>
+<lng>-84.28966</lng>
+<geonameId>4514822</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2100</population>
+<alternateNames/>
+<elevation>270</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>165</adminCode2>
+<adminName2>Warren County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hunter%2C_Ohio</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-84.30978</west>
+<north>39.50675</north>
+<east>-84.27359</east>
+<south>39.48453</south>
+</bbox>
+<score>10.826677322387695</score>
+</geoname>
+</geonames>

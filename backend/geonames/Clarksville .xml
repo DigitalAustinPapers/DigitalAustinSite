@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>46</totalResultsCount>
+<geoname>
+<toponymName>Clarksville</toponymName>
+<name>Clarksville</name>
+<lat>36.52977</lat>
+<lng>-87.35945</lng>
+<geonameId>4613868</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>132929</population>
+<alternateNames>CKV,Clarksville,Klarksvil,Klarksvill,ke la ke si wei er,klarksavhila,kurakusubiru,Кларксвил,Кларксвилл,क्लार्क्सव्हिल,クラークスビル,克拉克斯维尔</alternateNames>
+<elevation>145</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TN">TN</adminCode1>
+<adminName1>Tennessee</adminName1>
+<adminCode2>125</adminCode2>
+<adminName2>Montgomery County</adminName2>
+<alternateName lang="bg">Кларксвил</alternateName>
+<alternateName lang="en">Clarksville</alternateName>
+<alternateName lang="iata">CKV</alternateName>
+<alternateName lang="io">Clarksville</alternateName>
+<alternateName lang="ja">クラークスビル</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Clarksville%2C_Tennessee</alternateName>
+<alternateName lang="mr">क्लार्क्सव्हिल</alternateName>
+<alternateName lang="nl">Clarksville</alternateName>
+<alternateName lang="pl">Clarksville</alternateName>
+<alternateName lang="post">37044</alternateName>
+<alternateName lang="pt">Clarksville</alternateName>
+<alternateName lang="ru">Кларксвилл</alternateName>
+<alternateName lang="unlc">CKV</alternateName>
+<alternateName lang="zh">克拉克斯维尔</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-87.41818</west>
+<north>36.57693</north>
+<east>-87.30072</east>
+<south>36.48261</south>
+</bbox>
+<score>54.9461669921875</score>
+</geoname>
+<geoname>
+<toponymName>Clarksville</toponymName>
+<name>Clarksville</name>
+<lat>38.29674</lat>
+<lng>-85.75996</lng>
+<geonameId>4255836</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>21724</population>
+<alternateNames/>
+<elevation>139</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IN">IN</adminCode1>
+<adminName1>Indiana</adminName1>
+<adminCode2>019</adminCode2>
+<adminName2>Clark County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Clarksville%2C_Indiana</alternateName>
+<alternateName lang="post">47129</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Kentucky/Louisville</timezone>
+<bbox>
+<west>-85.78428</west>
+<north>38.31581</north>
+<east>-85.73565</east>
+<south>38.27766</south>
+</bbox>
+<score>46.99193572998047</score>
+</geoname>
+<geoname>
+<toponymName>Clarksville</toponymName>
+<name>Clarksville</name>
+<lat>36.62403</lat>
+<lng>-78.55694</lng>
+<geonameId>4752994</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1139</population>
+<alternateNames/>
+<elevation>108</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>117</adminCode2>
+<adminName2>Mecklenburg County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Clarksville%2C_Virginia</alternateName>
+<alternateName lang="post">23927</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-78.58266</west>
+<north>36.64073</north>
+<east>-78.53655</east>
+<south>36.5993</south>
+</bbox>
+<score>41.117942810058594</score>
+</geoname>
+<geoname>
+<toponymName>Clarksville</toponymName>
+<name>Clarksville</name>
+<lat>42.7847</lat>
+<lng>-92.66769</lng>
+<geonameId>4851846</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1439</population>
+<alternateNames/>
+<elevation>287</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IA">IA</adminCode1>
+<adminName1>Iowa</adminName1>
+<adminCode2>023</adminCode2>
+<adminName2>Butler County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Clarksville%2C_Iowa</alternateName>
+<alternateName lang="post">50619</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.67382</west>
+<north>42.7892</north>
+<east>-92.66156</east>
+<south>42.7802</south>
+</bbox>
+<score>41.117942810058594</score>
+</geoname>
+<geoname>
+<toponymName>Clarksville</toponymName>
+<name>Clarksville</name>
+<lat>-46.13333</lat>
+<lng>169.91667</lng>
+<geonameId>2192316</geonameId>
+<countryCode>NZ</countryCode>
+<countryName>New Zealand</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="OTA">F7</adminCode1>
+<adminName1>Otago Region</adminName1>
+<adminCode2>072</adminCode2>
+<adminName2>Clutha District</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Clarksville%2C_New_Zealand</alternateName>
+<timezone dstOffset="12.0" gmtOffset="13.0">Pacific/Auckland</timezone>
+<bbox>
+<west>169.90369</west>
+<north>-46.12434</north>
+<east>169.92964</east>
+<south>-46.14233</south>
+</bbox>
+<score>35.24394989013672</score>
+</geoname>
+<geoname>
+<toponymName>Clarksville</toponymName>
+<name>Clarksville</name>
+<lat>35.47147</lat>
+<lng>-93.46657</lng>
+<geonameId>4105879</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>9178</population>
+<alternateNames/>
+<elevation>113</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">AR</adminCode1>
+<adminName1>Arkansas</adminName1>
+<adminCode2>071</adminCode2>
+<adminName2>Johnson County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Clarksville%2C_Arkansas</alternateName>
+<alternateName lang="post">72830</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-93.48118</west>
+<north>35.48337</north>
+<east>-93.45196</east>
+<south>35.45957</south>
+</bbox>
+<score>35.24394989013672</score>
+</geoname>
+<geoname>
+<toponymName>Clarksville</toponymName>
+<name>Clarksville</name>
+<lat>38.549</lat>
+<lng>-75.14768</lng>
+<geonameId>4141971</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>5</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="DE">DE</adminCode1>
+<adminName1>Delaware</adminName1>
+<adminCode2>005</adminCode2>
+<adminName2>Sussex County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Clarksville%2C_Delaware</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-75.15919</west>
+<north>38.558</north>
+<east>-75.13618</east>
+<south>38.54001</south>
+</bbox>
+<score>35.24394989013672</score>
+</geoname>
+<geoname>
+<toponymName>Clarksville</toponymName>
+<name>Clarksville</name>
+<lat>39.4517</lat>
+<lng>-87.79781</lng>
+<geonameId>4235974</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>200</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>023</adminCode2>
+<adminName2>Clark County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Clarksville%2C_Illinois</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-87.80946</west>
+<north>39.4607</north>
+<east>-87.78616</east>
+<south>39.44271</south>
+</bbox>
+<score>35.24394989013672</score>
+</geoname>
+<geoname>
+<toponymName>Clarksville</toponymName>
+<name>Clarksville</name>
+<lat>39.3706</lat>
+<lng>-90.90513</lng>
+<geonameId>4381424</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>442</population>
+<alternateNames/>
+<elevation>142</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>163</adminCode2>
+<adminName2>Pike County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Clarksville%2C_Missouri</alternateName>
+<alternateName lang="post">63336</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.90629</west>
+<north>39.3715</north>
+<east>-90.90397</east>
+<south>39.3697</south>
+</bbox>
+<score>35.24394989013672</score>
+</geoname>
+<geoname>
+<toponymName>Clarksville</toponymName>
+<name>Clarksville</name>
+<lat>39.40145</lat>
+<lng>-83.98132</lng>
+<geonameId>4508872</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>548</population>
+<alternateNames/>
+<elevation>250</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>027</adminCode2>
+<adminName2>Clinton County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Clarksville%2C_Ohio</alternateName>
+<alternateName lang="post">45113</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-83.98248</west>
+<north>39.40235</north>
+<east>-83.98016</east>
+<south>39.40055</south>
+</bbox>
+<score>35.24394989013672</score>
+</geoname>
+</geonames>

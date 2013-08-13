@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>47</totalResultsCount>
+<geoname>
+<toponymName>Kellers</toponymName>
+<name>Kellers</name>
+<lat>44.38342</lat>
+<lng>-77.7995</lng>
+<geonameId>5990389</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ON">08</adminCode1>
+<adminName1>Ontario</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Toronto</timezone>
+<score>35.23883056640625</score>
+</geoname>
+<geoname>
+<toponymName>Kellers</toponymName>
+<name>Kellers</name>
+<lat>28.0053</lat>
+<lng>-82.126</lng>
+<geonameId>7218177</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>41</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="FL">FL</adminCode1>
+<adminName1>Florida</adminName1>
+<adminCode2>057</adminCode2>
+<adminName2>Hillsborough County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-82.13619</west>
+<north>28.01429</north>
+<east>-82.11581</east>
+<south>27.99631</south>
+</bbox>
+<score>35.23883056640625</score>
+</geoname>
+<geoname>
+<toponymName>Kélléré</toponymName>
+<name>Kélléré</name>
+<lat>15.18333</lat>
+<lng>-16.2</lng>
+<geonameId>2250619</geonameId>
+<countryCode>SN</countryCode>
+<countryName>Senegal</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Kellere,Kelleri,Kélléri,Kélléré</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="LG">13</adminCode1>
+<adminName1>Louga</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="0.0" gmtOffset="0.0">Africa/Dakar</timezone>
+<bbox>
+<west>-16.20932</west>
+<north>15.19233</north>
+<east>-16.19068</east>
+<south>15.17434</south>
+</bbox>
+<score>19.484142303466797</score>
+</geoname>
+<geoname>
+<toponymName>Kellers</toponymName>
+<name>Kellers</name>
+<lat>47.79402</lat>
+<lng>10.02965</lng>
+<geonameId>2891774</geonameId>
+<countryCode>DE</countryCode>
+<countryName>Germany</countryName>
+<fcl>S</fcl>
+<fcode>FRM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farm</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="BW">01</adminCode1>
+<adminName1>Baden-Württemberg Region</adminName1>
+<adminCode2>084</adminCode2>
+<adminName2>Tübingen Region</adminName2>
+<adminCode3>08436</adminCode3>
+<adminName3>Landkreis Ravensburg</adminName3>
+<adminCode4>08436055</adminCode4>
+<adminName4>Leutkirch im Allgäu</adminName4>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Berlin</timezone>
+<score>11.012134552001953</score>
+</geoname>
+<geoname>
+<toponymName>Kelters</toponymName>
+<name>Kelters</name>
+<lat>50.77962</lat>
+<lng>7.45405</lng>
+<geonameId>2891739</geonameId>
+<countryCode>DE</countryCode>
+<countryName>Germany</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="NW">07</adminCode1>
+<adminName1>North Rhine-Westphalia</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Berlin</timezone>
+<bbox>
+<west>7.43983</west>
+<north>50.78861</north>
+<east>7.46828</east>
+<south>50.77063</south>
+</bbox>
+<score>10.984911918640137</score>
+</geoname>
+<geoname>
+<toponymName>Kelleys</toponymName>
+<name>Kelleys</name>
+<lat>37.60311</lat>
+<lng>-88.96063</lng>
+<geonameId>4242152</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>178</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>199</adminCode2>
+<adminName2>Williamson County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-88.97198</west>
+<north>37.6121</north>
+<east>-88.94927</east>
+<south>37.59411</south>
+</bbox>
+<score>10.068238258361816</score>
+</geoname>
+<geoname>
+<toponymName>Kelleys</toponymName>
+<name>Kelleys</name>
+<lat>32.47598</lat>
+<lng>-92.55848</lng>
+<geonameId>4329700</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>65</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>049</adminCode2>
+<adminName2>Jackson Parish</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.56914</west>
+<north>32.48498</north>
+<east>-92.54782</east>
+<south>32.46699</south>
+</bbox>
+<score>10.068238258361816</score>
+</geoname>
+<geoname>
+<toponymName>Kelleys</toponymName>
+<name>Kelleys</name>
+<lat>42.77952</lat>
+<lng>-74.0679</lng>
+<geonameId>5123192</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>153</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>093</adminCode2>
+<adminName2>Schenectady County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-74.08016</west>
+<north>42.78851</north>
+<east>-74.05565</east>
+<south>42.77053</south>
+</bbox>
+<score>10.068238258361816</score>
+</geoname>
+<geoname>
+<toponymName>Kellern</toponymName>
+<name>Kellern</name>
+<lat>48.31714</lat>
+<lng>13.47383</lng>
+<geonameId>2774557</geonameId>
+<countryCode>AT</countryCode>
+<countryName>Austria</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="4">04</adminCode1>
+<adminName1>Upper Austria</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Vienna</timezone>
+<bbox>
+<west>13.4603</west>
+<north>48.32613</north>
+<east>13.48736</east>
+<south>48.30814</south>
+</bbox>
+<score>9.781632423400879</score>
+</geoname>
+<geoname>
+<toponymName>Kellern</toponymName>
+<name>Kellern</name>
+<lat>49.38138</lat>
+<lng>10.49935</lng>
+<geonameId>2891775</geonameId>
+<countryCode>DE</countryCode>
+<countryName>Germany</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="BY">02</adminCode1>
+<adminName1>Bavaria</adminName1>
+<adminCode2>095</adminCode2>
+<adminName2>Middle Franconia</adminName2>
+<adminCode3>09571</adminCode3>
+<adminName3>Landkreis Ansbach</adminName3>
+<adminCode4>09571146</adminCode4>
+<adminName4>Flachslanden, Markt</adminName4>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Berlin</timezone>
+<bbox>
+<west>10.48553</west>
+<north>49.39037</north>
+<east>10.51317</east>
+<south>49.37239</south>
+</bbox>
+<score>9.781632423400879</score>
+</geoname>
+</geonames>

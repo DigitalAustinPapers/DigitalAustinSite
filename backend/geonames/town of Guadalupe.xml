@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Town of Guadalupe</toponymName>
+<name>Town of Guadalupe</name>
+<lat>33.36645</lat>
+<lng>-111.96317</lng>
+<geonameId>7175129</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>administrative division</fcodeName>
+<population>5523</population>
+<alternateNames/>
+<elevation>380</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AZ">AZ</adminCode1>
+<adminName1>Arizona</adminName1>
+<adminCode2>013</adminCode2>
+<adminName2>Maricopa County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-7.0">America/Phoenix</timezone>
+<bbox>
+<west>-111.96995</west>
+<north>33.37802</north>
+<east>-111.95631</east>
+<south>33.35621</south>
+</bbox>
+<score>80.4752197265625</score>
+</geoname>
+</geonames>

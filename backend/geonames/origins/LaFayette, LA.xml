@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>788</totalResultsCount>
+<geoname>
+<toponymName>Lafayette</toponymName>
+<name>Lafayette</name>
+<lat>30.22409</lat>
+<lng>-92.01984</lng>
+<geonameId>4330145</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>120623</population>
+<alternateNames>LFT,Lafajet,Lafajett,Lafayette,la fa ye,lapeies,lfyt, lwyyzyana,rafaietto,Лафайет,Лафайетт,لفیت، لوئیزیانا,ラファイエット,拉法葉,라페이엣</alternateNames>
+<elevation>11</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>055</adminCode2>
+<adminName2>Lafayette Parish</adminName2>
+<alternateName lang="de">Lafayette</alternateName>
+<alternateName lang="en">Lafayette</alternateName>
+<alternateName lang="fa">لفیت، لوئیزیانا</alternateName>
+<alternateName lang="fr">Lafayette</alternateName>
+<alternateName lang="iata">LFT</alternateName>
+<alternateName lang="ja">ラファイエット</alternateName>
+<alternateName lang="ko">라페이엣</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lafayette%2C_Louisiana</alternateName>
+<alternateName lang="nl">Lafayette</alternateName>
+<alternateName lang="pl">Lafayette</alternateName>
+<alternateName lang="post">70508</alternateName>
+<alternateName lang="pt">Lafayette</alternateName>
+<alternateName lang="ru">Лафайет</alternateName>
+<alternateName lang="sv">Lafayette</alternateName>
+<alternateName lang="unlc">LFT</alternateName>
+<alternateName lang="zh">拉法葉</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.10777</west>
+<north>30.2965</north>
+<east>-91.96938</east>
+<south>30.12749</south>
+</bbox>
+<score>19.818010330200195</score>
+</geoname>
+<geoname>
+<toponymName>Chavaniac-Lafayette</toponymName>
+<name>Chavaniac-Lafayette</name>
+<lat>45.15851</lat>
+<lng>3.58043</lng>
+<geonameId>3025756</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>343</population>
+<alternateNames>Chateau Chavagnac-Lafayette,Chavaniac,Chavaniac-Lafayette,Château Chavagnac-Lafayette</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="C">98</adminCode1>
+<adminName1>Auvergne</adminName1>
+<adminCode2>43</adminCode2>
+<adminName2>Haute-Loire</adminName2>
+<adminCode3>431</adminCode3>
+<adminName3>Arrondissement de Brioude</adminName3>
+<adminCode4>43067</adminCode4>
+<adminName4>Chavaniac-Lafayette</adminName4>
+<alternateName lang="bs">Chavaniac-Lafayette</alternateName>
+<alternateName lang="ceb">Chavaniac-Lafayette</alternateName>
+<alternateName lang="fr">Chavaniac-Lafayette</alternateName>
+<alternateName lang="it">Chavaniac-Lafayette</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Chavaniac</alternateName>
+<alternateName lang="nl">Chavaniac-Lafayette</alternateName>
+<alternateName lang="pl">Chavaniac-Lafayette</alternateName>
+<alternateName lang="post">43230</alternateName>
+<alternateName lang="pt">Chavaniac-Lafayette</alternateName>
+<alternateName lang="sr">Chavaniac-Lafayette</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>3.57916</west>
+<north>45.15941</north>
+<east>3.58171</east>
+<south>45.15761</south>
+</bbox>
+<score>14.886689186096191</score>
+</geoname>
+<geoname>
+<toponymName>Lafayette</toponymName>
+<name>Lafayette</name>
+<lat>40.4167</lat>
+<lng>-86.87529</lng>
+<geonameId>4922462</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>67140</population>
+<alternateNames>LAF,Lafajet,Lafayette,la fei te,lapeies,lfyt, ayndyana,rafaietto,Лафайет,لفیت، ایندیانا,ラファイエット,拉斐特,라페이엣</alternateNames>
+<elevation>211</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IN">IN</adminCode1>
+<adminName1>Indiana</adminName1>
+<adminCode2>157</adminCode2>
+<adminName2>Tippecanoe County</adminName2>
+<alternateName lang="bg">Лафайет</alternateName>
+<alternateName lang="en">Lafayette</alternateName>
+<alternateName lang="fa">لفیت، ایندیانا</alternateName>
+<alternateName lang="fr">Lafayette</alternateName>
+<alternateName lang="iata">LAF</alternateName>
+<alternateName lang="io">Lafayette</alternateName>
+<alternateName lang="ja">ラファイエット</alternateName>
+<alternateName lang="ko">라페이엣</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lafayette%2C_Indiana</alternateName>
+<alternateName lang="pl">Lafayette</alternateName>
+<alternateName lang="post">47903</alternateName>
+<alternateName lang="ru">Лафайет</alternateName>
+<alternateName lang="zh">拉斐特</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Indiana/Indianapolis</timezone>
+<bbox>
+<west>-86.91911</west>
+<north>40.45005</north>
+<east>-86.83146</east>
+<south>40.38335</south>
+</bbox>
+<score>10.679789543151855</score>
+</geoname>
+<geoname>
+<toponymName>Lafayette Parish</toponymName>
+<name>Lafayette Parish</name>
+<lat>30.20677</lat>
+<lng>-92.06388</lng>
+<geonameId>4330160</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>221578</population>
+<alternateNames>Lafaett,Lafayet srjan,Lafayette Paroecia,Paroisse de Lafayette,Parokya han Lafayette,Paroquia de Lafayette,Parrocchia di Lafayette,Parroquia de Lafayette,Paróquia de Lafayette,Quan Lafayette,Quận Lafayette,la fa ye xian,laphayeta parisa,rafaietto jun,Лафаєтт,Լաֆայետ շրջան,لافایٹ پارش,লাফায়েত পারিশ,ラファイエット郡,拉法葉縣</alternateNames>
+<elevation>9</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>055</adminCode2>
+<adminName2>Lafayette Parish</adminName2>
+<alternateName lang="bpy">লাফায়েত পারিশ</alternateName>
+<alternateName lang="es">Parroquia de Lafayette</alternateName>
+<alternateName lang="fr">Paroisse de Lafayette</alternateName>
+<alternateName lang="hy">Լաֆայետ շրջան</alternateName>
+<alternateName lang="it">Parrocchia di Lafayette</alternateName>
+<alternateName lang="ja">ラファイエット郡</alternateName>
+<alternateName lang="la">Lafayette Paroecia</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lafayette_Parish%2C_Louisiana</alternateName>
+<alternateName lang="pnb">لافایٹ پارش</alternateName>
+<alternateName lang="pt">Paróquia de Lafayette</alternateName>
+<alternateName lang="uk">Лафаєтт</alternateName>
+<alternateName lang="vi">Quận Lafayette</alternateName>
+<alternateName lang="war">Parokya han Lafayette</alternateName>
+<alternateName lang="zh">拉法葉縣</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.28527</west>
+<north>30.38014</north>
+<east>-91.90565</east>
+<south>30.03643</south>
+</bbox>
+<score>10.356891632080078</score>
+</geoname>
+<geoname>
+<toponymName>Lafayette Regional Airport</toponymName>
+<name>Lafayette Regional Airport</name>
+<lat>30.20528</lat>
+<lng>-91.98761</lng>
+<geonameId>6298540</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>AIRP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>airport</fcodeName>
+<population/>
+<alternateNames>KLFT,LFT</alternateNames>
+<elevation>13</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>055</adminCode2>
+<adminName2>Lafayette Parish</adminName2>
+<alternateName lang="iata">LFT</alternateName>
+<alternateName lang="icao">KLFT</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lafayette_Regional_Airport</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>10.083786964416504</score>
+</geoname>
+<geoname>
+<toponymName>Billeaud</toponymName>
+<name>Billeaud</name>
+<lat>30.13576</lat>
+<lng>-91.94567</lng>
+<geonameId>4316965</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>12</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>055</adminCode2>
+<adminName2>Lafayette Parish</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Billeaud%2C_Louisiana</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-91.95607</west>
+<north>30.14475</north>
+<east>-91.93527</east>
+<south>30.12676</south>
+</bbox>
+<score>6.824502944946289</score>
+</geoname>
+<geoname>
+<toponymName>Broussard</toponymName>
+<name>Broussard</name>
+<lat>30.14715</lat>
+<lng>-91.96123</lng>
+<geonameId>4317985</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>8197</population>
+<alternateNames/>
+<elevation>10</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>055</adminCode2>
+<adminName2>Lafayette Parish</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Broussard%2C_Louisiana</alternateName>
+<alternateName lang="post">70518</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-91.97397</west>
+<north>30.15816</north>
+<east>-91.94849</east>
+<south>30.13613</south>
+</bbox>
+<score>6.824502944946289</score>
+</geoname>
+<geoname>
+<toponymName>Capitan</toponymName>
+<name>Capitan</name>
+<lat>30.06548</lat>
+<lng>-91.98262</lng>
+<geonameId>4319014</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>8</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>055</adminCode2>
+<adminName2>Lafayette Parish</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Capitan%2C_Louisiana</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-91.99301</west>
+<north>30.07447</north>
+<east>-91.97223</east>
+<south>30.05649</south>
+</bbox>
+<score>6.824502944946289</score>
+</geoname>
+<geoname>
+<toponymName>Carencro</toponymName>
+<name>Carencro</name>
+<lat>30.31714</lat>
+<lng>-92.04901</lng>
+<geonameId>4319030</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>7526</population>
+<alternateNames/>
+<elevation>12</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>055</adminCode2>
+<adminName2>Lafayette Parish</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Carencro%2C_Louisiana</alternateName>
+<alternateName lang="post">70520</alternateName>
+<alternateName lang="unlc">RCO</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.06177</west>
+<north>30.32816</north>
+<east>-92.03625</east>
+<south>30.30613</south>
+</bbox>
+<score>6.824502944946289</score>
+</geoname>
+<geoname>
+<toponymName>Duson</toponymName>
+<name>Duson</name>
+<lat>30.23576</lat>
+<lng>-92.1854</lng>
+<geonameId>4323190</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1716</population>
+<alternateNames/>
+<elevation>10</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>055</adminCode2>
+<adminName2>Lafayette Parish</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Duson%2C_Louisiana</alternateName>
+<alternateName lang="post">70529</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.19061</west>
+<north>30.24025</north>
+<east>-92.1802</east>
+<south>30.23126</south>
+</bbox>
+<score>6.824502944946289</score>
+</geoname>
+</geonames>

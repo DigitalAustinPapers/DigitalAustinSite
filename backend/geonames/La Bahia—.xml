@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>6</totalResultsCount>
+<geoname>
+<toponymName>La Bahía</toponymName>
+<name>La Bahía</name>
+<lat>-14.42207</lat>
+<lng>-61.03145</lng>
+<geonameId>3912427</geonameId>
+<countryCode>BO</countryCode>
+<countryName>Bolivia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>La Bahia,La Bahia Blanca,La Bahía</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="S">08</adminCode1>
+<adminName1>Santa Cruz</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/La_Paz</timezone>
+<bbox>
+<west>-61.04074</west>
+<north>-14.41308</north>
+<east>-61.02216</east>
+<south>-14.43106</south>
+</bbox>
+<score>52.51990509033203</score>
+</geoname>
+<geoname>
+<toponymName>La Bahía</toponymName>
+<name>La Bahía</name>
+<lat>19.58184</lat>
+<lng>-71.72313</lng>
+<geonameId>3503656</geonameId>
+<countryCode>DO</countryCode>
+<countryName>Dominican Republic</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="05">04</adminCode1>
+<adminName1>Dajabón</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Santo_Domingo</timezone>
+<bbox>
+<west>-71.73267</west>
+<north>19.59084</north>
+<east>-71.71358</east>
+<south>19.57285</south>
+</bbox>
+<score>42.44248962402344</score>
+</geoname>
+<geoname>
+<toponymName>La Bahía</toponymName>
+<name>La Bahía</name>
+<lat>19.7509</lat>
+<lng>-71.67714</lng>
+<geonameId>3503657</geonameId>
+<countryCode>DO</countryCode>
+<countryName>Dominican Republic</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="15">15</adminCode1>
+<adminName1>Monte Cristi</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Santo_Domingo</timezone>
+<score>42.44248962402344</score>
+</geoname>
+<geoname>
+<toponymName>La Bahía</toponymName>
+<name>La Bahía</name>
+<lat>20.7</lat>
+<lng>-77.13333</lng>
+<geonameId>3555370</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="12">09</adminCode1>
+<adminName1>Granma</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>42.44248962402344</score>
+</geoname>
+<geoname>
+<toponymName>La Bahia</toponymName>
+<name>La Bahia</name>
+<lat>30.14438</lat>
+<lng>-96.63692</lng>
+<geonameId>4703875</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>145</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>477</adminCode2>
+<adminName2>Washington County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-96.64732</west>
+<north>30.15338</north>
+<east>-96.62652</east>
+<south>30.13539</south>
+</bbox>
+<score>42.44248962402344</score>
+</geoname>
+<geoname>
+<toponymName>La Bahía</toponymName>
+<name>La Bahía</name>
+<lat>29.19036</lat>
+<lng>-13.50859</lng>
+<geonameId>2516180</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>H</fcl>
+<fcode>COVE</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>cove(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="CN">53</adminCode1>
+<adminName1>Canary Islands</adminName1>
+<adminCode2>GC</adminCode2>
+<adminName2>Las Palmas</adminName2>
+<adminCode3>35024</adminCode3>
+<adminName3>Teguise</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Atlantic/Canary</timezone>
+<score>13.263278007507324</score>
+</geoname>
+</geonames>

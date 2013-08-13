@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>6</totalResultsCount>
+<geoname>
+<toponymName>Key</toponymName>
+<name>Key</name>
+<lat>32.7719</lat>
+<lng>52.6481</lng>
+<geonameId>128308</geonameId>
+<countryCode>IR</countryCode>
+<countryName>Iran</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Keh,Key,ky,کی</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="04">28</adminCode1>
+<adminName1>Ostān-e Eşfahān</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="fa">کی</alternateName>
+<timezone dstOffset="4.5" gmtOffset="3.5">Asia/Tehran</timezone>
+<bbox>
+<west>52.6374</west>
+<north>32.78089</north>
+<east>52.6588</east>
+<south>32.76291</south>
+</bbox>
+<score>42.44248962402344</score>
+</geoname>
+<geoname>
+<toponymName>Kī Jawr</toponymName>
+<name>Kī Jawr</name>
+<lat>37.27127</lat>
+<lng>44.10173</lng>
+<geonameId>94265</geonameId>
+<countryCode>IQ</countryCode>
+<countryName>Iraq</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Key,Ki,Ki Jawr,Ki Jor,Ki Zhiri,Kiye Zhori,Kiyē Zhōrī,Kî,Kī Jawr,Kī Zhīrī,ky,ky jwr,كى,كي جور</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="AR">11</adminCode1>
+<adminName1>Arbīl</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ar">كي جور</alternateName>
+<alternateName lang="ku">كى</alternateName>
+<timezone dstOffset="3.0" gmtOffset="3.0">Asia/Baghdad</timezone>
+<bbox>
+<west>44.09043</west>
+<north>37.28026</north>
+<east>44.11303</east>
+<south>37.26228</south>
+</bbox>
+<score>37.137176513671875</score>
+</geoname>
+<geoname>
+<toponymName>Kay</toponymName>
+<name>Kay</name>
+<lat>38.17618</lat>
+<lng>70.88864</lng>
+<geonameId>1466640</geonameId>
+<countryCode>AF</countryCode>
+<countryName>Afghanistan</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Kay,ky,کی</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="BDS">01</adminCode1>
+<adminName1>Badakhshan</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="4.5" gmtOffset="4.5">Asia/Kabul</timezone>
+<bbox>
+<west>70.8772</west>
+<north>38.18517</north>
+<east>70.90009</east>
+<south>38.16719</south>
+</bbox>
+<score>37.137176513671875</score>
+</geoname>
+<geoname>
+<toponymName>Kī al ‘Ulyā</toponymName>
+<name>Kī al ‘Ulyā</name>
+<lat>37.27556</lat>
+<lng>44.11678</lng>
+<geonameId>7041956</geonameId>
+<countryCode>IQ</countryCode>
+<countryName>Iraq</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames>Key,Ki,Ki al `Ulya,Kî,Kī al ‘Ulyā,ky,كى,كي العليا</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="AR">11</adminCode1>
+<adminName1>Arbīl</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ar">كي العليا</alternateName>
+<alternateName lang="ku">كى</alternateName>
+<timezone dstOffset="3.0" gmtOffset="3.0">Asia/Baghdad</timezone>
+<score>37.137176513671875</score>
+</geoname>
+<geoname>
+<toponymName>Key</toponymName>
+<name>Key</name>
+<lat>36.0652</lat>
+<lng>53.13427</lng>
+<geonameId>7101397</geonameId>
+<countryCode>IR</countryCode>
+<countryName>Iran</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Key,ky,کی</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="21">35</adminCode1>
+<adminName1>Māzandarān</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="fa">کی</alternateName>
+<timezone dstOffset="4.5" gmtOffset="3.5">Asia/Tehran</timezone>
+<bbox>
+<west>53.12314</west>
+<north>36.0742</north>
+<east>53.1454</east>
+<south>36.05621</south>
+</bbox>
+<score>37.137176513671875</score>
+</geoname>
+<geoname>
+<toponymName>Kentucky</toponymName>
+<name>Kentucky</name>
+<lat>38.20042</lat>
+<lng>-84.87762</lng>
+<geonameId>6254925</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>first-order administrative division</fcodeName>
+<population>4206074</population>
+<alternateNames>Blue Grass State,KY,Kenekuke,Kentaki,Kentakii Hahoodzo,Kentakki,Kentoki,Kentorki,Kentucky,Kentucky suyu,Kentuki,Kentukia,Kentukio,Kentukis,Kentukki,Kentukki Shitati,Kentákii Hahoodzo,Kentórkị,Khen-thap-ki,Khén-thap-kî,Kintaaki,Kèntòki,Kéntukki Shitati,Shtat Kentuki,ken ta ji zhou,kenrakki,kentaki,kentakki,kentakki zhou,kenteoki ju,kntaky,kyntaky,qntqy,rath khenthakki,Κεντάκι,Кентаки,Кентакки,Кентуки,Кентукки,Кентуккі,Кентъки,Кинтааки,Штат Кентукі,Կենտուկի,קנטקי,קענטאקי,كنتاكى,كنتاكي,کنتاکی,کینتاکی,کینٹکی,केंटकी,केन्‍टकी,কেন্টাকি,கென்டக்கி,കെന്റക്കി,รัฐเคนทักกี,ကင်တပ်ကီပြည်နယ်,კენტუკი,ケンタッキー州,肯塔基州,켄터키 주</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="abbr">KY</alternateName>
+<alternateName lang="ar">كنتاكي</alternateName>
+<alternateName lang="arz">كنتاكى</alternateName>
+<alternateName lang="ay">Kentucky suyu</alternateName>
+<alternateName lang="az">Kentukki</alternateName>
+<alternateName lang="be">Штат Кентукі</alternateName>
+<alternateName lang="bg">Кентъки</alternateName>
+<alternateName lang="bn">কেন্টাকি</alternateName>
+<alternateName lang="bpy">কেন্টাকি</alternateName>
+<alternateName lang="ckb">کینتاکی</alternateName>
+<alternateName lang="cv">Кентукки</alternateName>
+<alternateName lang="el">Κεντάκι</alternateName>
+<alternateName lang="en">Kentucky</alternateName>
+<alternateName lang="eo">Kentukio</alternateName>
+<alternateName lang="fa">کنتاکی</alternateName>
+<alternateName lang="hak">Khén-thap-kî</alternateName>
+<alternateName lang="haw">Kenekuke</alternateName>
+<alternateName lang="he">קנטקי</alternateName>
+<alternateName lang="ht">Kèntòki</alternateName>
+<alternateName lang="hy">Կենտուկի</alternateName>
+<alternateName lang="ig">Kentórkị</alternateName>
+<alternateName lang="ja">ケンタッキー州</alternateName>
+<alternateName lang="ka">კენტუკი</alternateName>
+<alternateName lang="ko">켄터키 주</alternateName>
+<alternateName lang="la">Kentukia</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kentucky</alternateName>
+<alternateName lang="lt">Kentukis</alternateName>
+<alternateName lang="lv">Kentuki</alternateName>
+<alternateName lang="mk">Кентаки</alternateName>
+<alternateName lang="ml">കെന്റക്കി</alternateName>
+<alternateName lang="mn">Кентакки</alternateName>
+<alternateName lang="mr">केंटकी</alternateName>
+<alternateName lang="mrj">Кентукки</alternateName>
+<alternateName lang="my">ကင်တပ်ကီပြည်နယ်</alternateName>
+<alternateName lang="nv">Kentákii Hahoodzo</alternateName>
+<alternateName lang="os">Кентукки</alternateName>
+<alternateName lang="pnb">کینٹکی</alternateName>
+<alternateName lang="qu">Kentucky suyu</alternateName>
+<alternateName lang="ru">Кентукки</alternateName>
+<alternateName lang="sa">केन्‍टकी</alternateName>
+<alternateName lang="sr">Кентаки</alternateName>
+<alternateName lang="ta">கென்டக்கி</alternateName>
+<alternateName lang="th">รัฐเคนทักกี</alternateName>
+<alternateName lang="tl">Kentaki</alternateName>
+<alternateName lang="tt">Кентукки</alternateName>
+<alternateName lang="ug">Kéntukki Shitati</alternateName>
+<alternateName lang="uk">Кентуккі</alternateName>
+<alternateName lang="ur">کینٹکی</alternateName>
+<alternateName lang="uz">Kentukki</alternateName>
+<alternateName lang="xal">Кинтааки</alternateName>
+<alternateName lang="yi">קענטאקי</alternateName>
+<alternateName lang="zh">肯塔基州</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-89.57151</west>
+<north>39.14746</north>
+<east>-81.96487</east>
+<south>36.49713</south>
+</bbox>
+<score>18.75710678100586</score>
+</geoname>
+</geonames>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>St. Bernard</toponymName>
+<name>St. Bernard</name>
+<lat>44.40015</lat>
+<lng>-66.04886</lng>
+<geonameId>6155703</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NS">07</adminCode1>
+<adminName1>Nova Scotia</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/St._Bernard%2C_Nova_Scotia</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-4.0">America/Halifax</timezone>
+<score>68.978759765625</score>
+</geoname>
+</geonames>

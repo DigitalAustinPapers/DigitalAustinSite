@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>18</totalResultsCount>
+<geoname>
+<toponymName>Puebla de Zaragoza</toponymName>
+<name>Puebla</name>
+<lat>19.04334</lat>
+<lng>-98.20193</lng>
+<geonameId>3521081</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population>1590256</population>
+<alternateNames>Cuetlaxcoapan,Cuetlaxcōāpan,Heroica Puebla de Zaragoza,PBC,Puebla,Puebla de Zaragoza,Puebla de los Angeles,puebura,Пуебла,פואבלה,プエブラ</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PUE">21</adminCode1>
+<adminName1>Puebla</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="bg">Пуебла</alternateName>
+<alternateName lang="ca">Heroica Puebla de Zaragoza</alternateName>
+<alternateName lang="cs">Puebla</alternateName>
+<alternateName lang="da">Puebla</alternateName>
+<alternateName lang="de">Puebla</alternateName>
+<alternateName lang="en">Puebla</alternateName>
+<alternateName lang="eo">Heroica Puebla de Zaragoza</alternateName>
+<alternateName lang="es">Puebla de Zaragoza</alternateName>
+<alternateName lang="fi">Puebla de Zaragoza</alternateName>
+<alternateName lang="fr">Puebla</alternateName>
+<alternateName lang="he">פואבלה</alternateName>
+<alternateName lang="iata">PBC</alternateName>
+<alternateName lang="id">Puebla</alternateName>
+<alternateName lang="it">Puebla</alternateName>
+<alternateName lang="ja">プエブラ</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Puebla%2C_Puebla</alternateName>
+<alternateName lang="nah">Cuetlaxcōāpan</alternateName>
+<alternateName lang="nl">Puebla de Zaragoza</alternateName>
+<alternateName lang="no">Puebla</alternateName>
+<alternateName lang="pl">Puebla</alternateName>
+<alternateName lang="pt">Puebla</alternateName>
+<alternateName lang="sv">Puebla de Zaragoza</alternateName>
+<alternateName lang="unlc">PBC</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-98.37526</west>
+<north>19.20702</north>
+<east>-98.02859</east>
+<south>18.87965</south>
+</bbox>
+<score>248.12664794921875</score>
+</geoname>
+<geoname>
+<toponymName>Estado de Puebla</toponymName>
+<name>Puebla</name>
+<lat>18.83333</lat>
+<lng>-98</lng>
+<geonameId>3521082</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>first-order administrative division</fcodeName>
+<population>5522918</population>
+<alternateNames>Estado de Puebla,Estat de Puebla,Etat de Puebla,PUE,Puebla,pu ai bu la zhou,puebura zhou,État de Puebla,プエブラ州,普埃布拉州</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PUE">21</adminCode1>
+<adminName1>Puebla</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="abbr">PUE</alternateName>
+<alternateName lang="ca">Estat de Puebla</alternateName>
+<alternateName lang="cs">Puebla</alternateName>
+<alternateName lang="da">Puebla</alternateName>
+<alternateName lang="de">Puebla</alternateName>
+<alternateName lang="en">Puebla</alternateName>
+<alternateName lang="eo">Puebla</alternateName>
+<alternateName lang="es">Puebla</alternateName>
+<alternateName lang="eu">Puebla</alternateName>
+<alternateName lang="fi">Puebla</alternateName>
+<alternateName lang="fr">État de Puebla</alternateName>
+<alternateName lang="id">Puebla</alternateName>
+<alternateName lang="it">Puebla</alternateName>
+<alternateName lang="ja">プエブラ州</alternateName>
+<alternateName lang="kw">Puebla</alternateName>
+<alternateName lang="la">Puebla</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Puebla</alternateName>
+<alternateName lang="nl">Puebla</alternateName>
+<alternateName lang="no">Puebla</alternateName>
+<alternateName lang="pl">Puebla</alternateName>
+<alternateName lang="pt">Puebla</alternateName>
+<alternateName lang="zh">普埃布拉州</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-99.05049</west>
+<north>20.79028</north>
+<east>-96.72639</east>
+<south>17.89222</south>
+</bbox>
+<score>103.36542510986328</score>
+</geoname>
+<geoname>
+<toponymName>Puebla</toponymName>
+<name>Puebla</name>
+<lat>32.56654</lat>
+<lng>-115.3534</lng>
+<geonameId>4011469</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>8700</population>
+<alternateNames>Ejido Puebla,Puebla,Puehbla,Пуэбла</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="BCN">02</adminCode1>
+<adminName1>Baja California</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ru">Пуэбла</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Tijuana</timezone>
+<bbox>
+<west>-115.36752</west>
+<north>32.57844</north>
+<east>-115.33928</east>
+<south>32.55464</south>
+</bbox>
+<score>57.82550048828125</score>
+</geoname>
+<geoname>
+<toponymName>Puebla</toponymName>
+<name>Puebla</name>
+<lat>18.16256</lat>
+<lng>-92.11783</lng>
+<geonameId>3521083</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CAM">04</adminCode1>
+<adminName1>Campeche</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Merida</timezone>
+<bbox>
+<west>-92.12729</west>
+<north>18.17155</north>
+<east>-92.10836</east>
+<south>18.15356</south>
+</bbox>
+<score>40.5189094543457</score>
+</geoname>
+<geoname>
+<toponymName>Puebla</toponymName>
+<name>Puebla</name>
+<lat>15.31667</lat>
+<lng>-89.01667</lng>
+<geonameId>3591109</geonameId>
+<countryCode>GT</countryCode>
+<countryName>Guatemala</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IZ">09</adminCode1>
+<adminName1>Izabal</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Guatemala</timezone>
+<score>40.5189094543457</score>
+</geoname>
+<geoname>
+<toponymName>Puebla</toponymName>
+<name>Puebla</name>
+<lat>16.64926</lat>
+<lng>-91.94832</lng>
+<geonameId>3816284</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CHP">05</adminCode1>
+<adminName1>Chiapas</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-91.95771</west>
+<north>16.65825</north>
+<east>-91.93893</east>
+<south>16.64027</south>
+</bbox>
+<score>40.5189094543457</score>
+</geoname>
+<geoname>
+<toponymName>Puebla</toponymName>
+<name>Puebla</name>
+<lat>25.43142</lat>
+<lng>-101.29399</lng>
+<geonameId>3991594</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="COA">07</adminCode1>
+<adminName1>Coahuila</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<bbox>
+<west>-101.30395</west>
+<north>25.44041</north>
+<east>-101.28403</east>
+<south>25.42243</south>
+</bbox>
+<score>40.5189094543457</score>
+</geoname>
+<geoname>
+<toponymName>Póboa de San Xulián</toponymName>
+<name>Póboa de San Xulián</name>
+<lat>42.86477</lat>
+<lng>-7.44427</lng>
+<geonameId>3112783</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Puebla</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="GA">58</adminCode1>
+<adminName1>Galicia</adminName1>
+<adminCode2>LU</adminCode2>
+<adminName2>Lugo</adminName2>
+<adminCode3>27043</adminCode3>
+<adminName3>Páramo</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Madrid</timezone>
+<bbox>
+<west>-7.45654</west>
+<north>42.87376</north>
+<east>-7.432</east>
+<south>42.85577</south>
+</bbox>
+<score>21.4883975982666</score>
+</geoname>
+<geoname>
+<toponymName>Pueblo</toponymName>
+<name>Pueblo</name>
+<lat>38.25445</lat>
+<lng>-104.60914</lng>
+<geonameId>5435464</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>106595</population>
+<alternateNames>PUB,Pueblo,Puehblo,peblo,pu wei bu luo,puebeullo,pueburo,pwablw, klradw,pywblw,Пуебло,Пуэбло,پوابلو، کلرادو,پیوبلو,पेब्लो,プエブロ,普韋布洛,푸에블로</alternateNames>
+<elevation>1430</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CO">CO</adminCode1>
+<adminName1>Colorado</adminName1>
+<adminCode2>101</adminCode2>
+<adminName2>Pueblo County</adminName2>
+<alternateName lang="bg">Пуебло</alternateName>
+<alternateName lang="de">Pueblo</alternateName>
+<alternateName lang="en">Pueblo</alternateName>
+<alternateName lang="fa">پوابلو، کلرادو</alternateName>
+<alternateName lang="fi">Pueblo</alternateName>
+<alternateName lang="iata">PUB</alternateName>
+<alternateName lang="ja">プエブロ</alternateName>
+<alternateName lang="ko">푸에블로</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Pueblo%2C_Colorado</alternateName>
+<alternateName lang="mr">पेब्लो</alternateName>
+<alternateName lang="nl">Pueblo</alternateName>
+<alternateName lang="pnb">پیوبلو</alternateName>
+<alternateName lang="post">81012</alternateName>
+<alternateName lang="ru">Пуэбло</alternateName>
+<alternateName lang="unlc">PUB</alternateName>
+<alternateName lang="zh">普韋布洛</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<bbox>
+<west>-104.66289</west>
+<north>38.29663</north>
+<east>-104.55539</east>
+<south>38.21226</south>
+</bbox>
+<score>12.29265308380127</score>
+</geoname>
+<geoname>
+<toponymName>Pueblo</toponymName>
+<name>Pueblo</name>
+<lat>13.8</lat>
+<lng>-87.83333</lng>
+<geonameId>3584008</geonameId>
+<countryCode>SV</countryCode>
+<countryName>El Salvador</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Canton Pueblo,Cantón Pueblo,Pueblo</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="UN">07</adminCode1>
+<adminName1>La Unión</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/El_Salvador</timezone>
+<bbox>
+<west>-87.84259</west>
+<north>13.80899</north>
+<east>-87.82407</east>
+<south>13.79101</south>
+</bbox>
+<score>7.041501998901367</score>
+</geoname>
+</geonames>

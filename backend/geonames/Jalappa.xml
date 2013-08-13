@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>31</totalResultsCount>
+<geoname>
+<toponymName>Jalappa</toponymName>
+<name>Jalappa</name>
+<lat>40.5287</lat>
+<lng>-76.03744</lng>
+<geonameId>5195224</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>130</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PA">PA</adminCode1>
+<adminName1>Pennsylvania</adminName1>
+<adminCode2>011</adminCode2>
+<adminName2>Berks County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Jalappa%2C_Pennsylvania</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-76.04927</west>
+<north>40.5377</north>
+<east>-76.0256</east>
+<south>40.51971</south>
+</bbox>
+<score>67.410400390625</score>
+</geoname>
+<geoname>
+<toponymName>Jalapa</toponymName>
+<name>Jalapa</name>
+<lat>14.63472</lat>
+<lng>-89.98889</lng>
+<geonameId>3595237</geonameId>
+<countryCode>GT</countryCode>
+<countryName>Guatemala</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population>45834</population>
+<alternateNames>Jalapa,Khalapa,Халапа</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="JA">10</adminCode1>
+<adminName1>Jalapa</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Jalapa%2C_Jalapa</alternateName>
+<alternateName lang="ru">Халапа</alternateName>
+<alternateName lang="unlc">JAL</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Guatemala</timezone>
+<bbox>
+<west>-90.01754</west>
+<north>14.66244</north>
+<east>-89.96024</east>
+<south>14.607</south>
+</bbox>
+<score>12.743997573852539</score>
+</geoname>
+<geoname>
+<toponymName>Xalapa de Enríquez</toponymName>
+<name>Xalapa</name>
+<lat>19.53333</lat>
+<lng>-96.91667</lng>
+<geonameId>3526617</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population>425148</population>
+<alternateNames>JAL,Jalapa,Jalapa Enriques,Jalapa Enriquez,Jalapa Enríquez,Xalapa,Xalapa de Enriquez,Xalapa de Enríquez,Xalapa-Enriquez,Xalapa-Enríquez</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VER">30</adminCode1>
+<adminName1>Veracruz-Llave</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ca">Xalapa</alternateName>
+<alternateName lang="de">Jalapa Enríquez</alternateName>
+<alternateName lang="en">Xalapa</alternateName>
+<alternateName lang="es">Xalapa</alternateName>
+<alternateName lang="fr">Xalapa</alternateName>
+<alternateName lang="iata">JAL</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Xalapa</alternateName>
+<alternateName lang="nl">Xalapa de Enríquez</alternateName>
+<alternateName lang="no">Jalapa</alternateName>
+<alternateName lang="pl">Jalapa Enriques</alternateName>
+<alternateName lang="pt">Xalapa</alternateName>
+<alternateName lang="sv">Xalapa</alternateName>
+<alternateName lang="unlc">JAL</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-97.00649</west>
+<north>19.61794</north>
+<east>-96.82685</east>
+<south>19.44873</south>
+</bbox>
+<score>11.036625862121582</score>
+</geoname>
+<geoname>
+<toponymName>Jalapa</toponymName>
+<name>Jalapa</name>
+<lat>13.92222</lat>
+<lng>-86.12346</lng>
+<geonameId>3618954</geonameId>
+<countryCode>NI</countryCode>
+<countryName>Nicaragua</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>24037</population>
+<alternateNames>Jalapa,Khalapa,Халапа</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NS">13</adminCode1>
+<adminName1>Nueva Segovia</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Jalapa%2C_Nueva_Segovia</alternateName>
+<alternateName lang="ru">Халапа</alternateName>
+<alternateName lang="unlc">JPA</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Managua</timezone>
+<bbox>
+<west>-86.14418</west>
+<north>13.94233</north>
+<east>-86.10274</east>
+<south>13.9021</south>
+</bbox>
+<score>9.557998657226562</score>
+</geoname>
+<geoname>
+<toponymName>Jalapa</toponymName>
+<name>Jalapa</name>
+<lat>16.5</lat>
+<lng>-95.46667</lng>
+<geonameId>3526621</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>8289</population>
+<alternateNames>Jalapa,Jalapa de Diaz,Khalapa,Халапа</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OAX">20</adminCode1>
+<adminName1>Oaxaca</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Jalapa%2C_Oaxaca</alternateName>
+<alternateName lang="ru">Халапа</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-95.47816</west>
+<north>16.51101</north>
+<east>-95.45518</east>
+<south>16.48899</south>
+</bbox>
+<score>7.964998245239258</score>
+</geoname>
+<geoname>
+<toponymName>Jalapa</toponymName>
+<name>Jalapa</name>
+<lat>17.72162</lat>
+<lng>-92.81244</lng>
+<geonameId>3803064</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>5025</population>
+<alternateNames>Jalapa,Khalapa,Халапа</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TAB">27</adminCode1>
+<adminName1>Tabasco</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="es">Jalapa</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Jalapa%2C_Tabasco</alternateName>
+<alternateName lang="ru">Халапа</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-92.82188</west>
+<north>17.73061</north>
+<east>-92.803</east>
+<south>17.71263</south>
+</bbox>
+<score>7.964998245239258</score>
+</geoname>
+<geoname>
+<toponymName>Jalapa</toponymName>
+<name>Jalapa</name>
+<lat>35.34424</lat>
+<lng>-84.36187</lng>
+<geonameId>4632787</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>288</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TN">TN</adminCode1>
+<adminName1>Tennessee</adminName1>
+<adminCode2>123</adminCode2>
+<adminName2>Monroe County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Jalapa%2C_Tennessee</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-84.37289</west>
+<north>35.35324</north>
+<east>-84.35084</east>
+<south>35.33525</south>
+</bbox>
+<score>7.804072380065918</score>
+</geoname>
+<geoname>
+<toponymName>Jalapa</toponymName>
+<name>Jalapa</name>
+<lat>40.62782</lat>
+<lng>-85.74554</lng>
+<geonameId>4922006</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>171</population>
+<alternateNames/>
+<elevation>249</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IN">IN</adminCode1>
+<adminName1>Indiana</adminName1>
+<adminCode2>053</adminCode2>
+<adminName2>Grant County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Jalapa%2C_Indiana</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Indiana/Indianapolis</timezone>
+<bbox>
+<west>-85.77129</west>
+<north>40.65239</north>
+<east>-85.71139</east>
+<south>40.60989</south>
+</bbox>
+<score>7.804072380065918</score>
+</geoname>
+<geoname>
+<toponymName>Jaappa</toponymName>
+<name>Jaappa</name>
+<lat>65.03333</lat>
+<lng>29.06667</lng>
+<geonameId>656171</geonameId>
+<countryCode>FI</countryCode>
+<countryName>Finland</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="OL">08</adminCode1>
+<adminName1>Oulu</adminName1>
+<adminCode2>18</adminCode2>
+<adminName2>Kainuu</adminName2>
+<adminCode3>777</adminCode3>
+<adminName3>Suomussalmi</adminName3>
+<timezone dstOffset="3.0" gmtOffset="2.0">Europe/Helsinki</timezone>
+<bbox>
+<west>29.04535</west>
+<north>65.04233</north>
+<east>29.08798</east>
+<south>65.02434</south>
+</bbox>
+<score>7.4900383949279785</score>
+</geoname>
+<geoname>
+<toponymName>Departamento de Jalapa</toponymName>
+<name>Departamento de Jalapa</name>
+<lat>14.58333</lat>
+<lng>-89.91667</lng>
+<geonameId>3595236</geonameId>
+<countryCode>GT</countryCode>
+<countryName>Guatemala</countryName>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>first-order administrative division</fcodeName>
+<population/>
+<alternateNames>Departamento de Jalapa,Jalapa</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="JA">10</adminCode1>
+<adminName1>Jalapa</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Jalapa_Department</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Guatemala</timezone>
+<bbox>
+<west>-90.28528</west>
+<north>14.87778</north>
+<east>-89.66028</east>
+<south>14.43222</south>
+</bbox>
+<score>7.357750415802002</score>
+</geoname>
+</geonames>

@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>9</totalResultsCount>
+<geoname>
+<toponymName>Smithland</toponymName>
+<name>Smithland</name>
+<lat>39.46033</lat>
+<lng>-85.84665</lng>
+<geonameId>4264957</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>223</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IN">IN</adminCode1>
+<adminName1>Indiana</adminName1>
+<adminCode2>145</adminCode2>
+<adminName2>Shelby County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Smithland%2C_Indiana</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Indiana/Indianapolis</timezone>
+<bbox>
+<west>-85.8583</west>
+<north>39.46932</north>
+<east>-85.835</east>
+<south>39.45133</south>
+</bbox>
+<score>62.15049362182617</score>
+</geoname>
+<geoname>
+<toponymName>Smithland</toponymName>
+<name>Smithland</name>
+<lat>42.22916</lat>
+<lng>-95.93084</lng>
+<geonameId>4876756</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>224</population>
+<alternateNames/>
+<elevation>331</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IA">IA</adminCode1>
+<adminName1>Iowa</adminName1>
+<adminCode2>193</adminCode2>
+<adminName2>Woodbury County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Smithland%2C_Iowa</alternateName>
+<alternateName lang="post">51056</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-95.93206</west>
+<north>42.23006</north>
+<east>-95.92963</east>
+<south>42.22826</south>
+</bbox>
+<score>62.15049362182617</score>
+</geoname>
+<geoname>
+<toponymName>Smithland</toponymName>
+<name>Smithland</name>
+<lat>37.13894</lat>
+<lng>-88.40337</lng>
+<geonameId>4308835</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>301</population>
+<alternateNames/>
+<elevation>106</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>139</adminCode2>
+<adminName2>Livingston County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Smithland%2C_Kentucky</alternateName>
+<alternateName lang="post">42081</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-88.4045</west>
+<north>37.13984</north>
+<east>-88.40224</east>
+<south>37.13805</south>
+</bbox>
+<score>51.792076110839844</score>
+</geoname>
+<geoname>
+<toponymName>Smithland</toponymName>
+<name>Smithland</name>
+<lat>33.23207</lat>
+<lng>-93.38295</lng>
+<geonameId>4131507</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>93</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">AR</adminCode1>
+<adminName1>Arkansas</adminName1>
+<adminCode2>027</adminCode2>
+<adminName2>Columbia County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-93.3937</west>
+<north>33.24107</north>
+<east>-93.3722</east>
+<south>33.22308</south>
+</bbox>
+<score>41.43366241455078</score>
+</geoname>
+<geoname>
+<toponymName>Smithland</toponymName>
+<name>Smithland</name>
+<lat>30.91018</lat>
+<lng>-91.66373</lng>
+<geonameId>4341823</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>19</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>077</adminCode2>
+<adminName2>Pointe Coupee Parish</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-91.67421</west>
+<north>30.91917</north>
+<east>-91.65324</east>
+<south>30.90119</south>
+</bbox>
+<score>41.43366241455078</score>
+</geoname>
+<geoname>
+<toponymName>Smithland</toponymName>
+<name>Smithland</name>
+<lat>35.12175</lat>
+<lng>-86.38555</lng>
+<geonameId>4658517</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>243</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TN">TN</adminCode1>
+<adminName1>Tennessee</adminName1>
+<adminCode2>103</adminCode2>
+<adminName2>Lincoln County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-86.39654</west>
+<north>35.13074</north>
+<east>-86.37455</east>
+<south>35.11276</south>
+</bbox>
+<score>41.43366241455078</score>
+</geoname>
+<geoname>
+<toponymName>Smithland</toponymName>
+<name>Smithland</name>
+<lat>32.81403</lat>
+<lng>-94.16824</lng>
+<geonameId>4729272</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>77</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>315</adminCode2>
+<adminName2>Marion County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-94.17894</west>
+<north>32.82302</north>
+<east>-94.15754</east>
+<south>32.80504</south>
+</bbox>
+<score>41.43366241455078</score>
+</geoname>
+<geoname>
+<toponymName>Smithland</toponymName>
+<name>Smithland</name>
+<lat>41.02034</lat>
+<lng>-79.4056</lng>
+<geonameId>5212667</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>452</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PA">PA</adminCode1>
+<adminName1>Pennsylvania</adminName1>
+<adminCode2>031</adminCode2>
+<adminName2>Clarion County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-79.41752</west>
+<north>41.02934</north>
+<east>-79.39368</east>
+<south>41.01135</south>
+</bbox>
+<score>41.43366241455078</score>
+</geoname>
+<geoname>
+<toponymName>Smithland</toponymName>
+<name>Smithland</name>
+<lat>6.1945</lat>
+<lng>80.751</lng>
+<geonameId>7624404</geonameId>
+<countryCode>LK</countryCode>
+<countryName>Sri Lanka</countryName>
+<fcl>S</fcl>
+<fcode>EST</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>estate(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="3">34</adminCode1>
+<adminName1>Southern</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="5.5" gmtOffset="5.5">Asia/Colombo</timezone>
+<score>12.948019027709961</score>
+</geoname>
+</geonames>

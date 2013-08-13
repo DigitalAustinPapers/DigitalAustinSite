@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>93</totalResultsCount>
+<geoname>
+<toponymName>Toledo</toponymName>
+<name>Toledo</name>
+<lat>39.8581</lat>
+<lng>-4.02263</lng>
+<geonameId>2510409</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population>82291</population>
+<alternateNames>Gorad Taleda,Toledas,Tolede,Toledo,Toledo i Spania,Toledu,Toletum,Toleu,Tolède,XTJ,tlytlt,to le do,toledo,tolledo,toredo,tuo lai duo,twldw,twlydw,Τολέδο,Горад Таледа,Толедо,Տոլեդո,טולדו,تولدو,توليدو,طليطلة,طلیطلہ,टोलेडो,तोलेदो,โตเลโด,ტოლედო,ቶሌዶ,トレド,托萊多,톨레도</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="CM">54</adminCode1>
+<adminName1>Castille-La Mancha</adminName1>
+<adminCode2>TO</adminCode2>
+<adminName2>Toledo</adminName2>
+<adminCode3>45168</adminCode3>
+<adminName3>Toledo</adminName3>
+<alternateName lang="am">ቶሌዶ</alternateName>
+<alternateName lang="ar">طليطلة</alternateName>
+<alternateName lang="arz">توليدو</alternateName>
+<alternateName lang="be">Горад Таледа</alternateName>
+<alternateName lang="bg">Толедо</alternateName>
+<alternateName lang="ca">Toledo</alternateName>
+<alternateName lang="da">Toledo</alternateName>
+<alternateName lang="de">Toledo</alternateName>
+<alternateName lang="el">Τολέδο</alternateName>
+<alternateName lang="en">Toledo</alternateName>
+<alternateName lang="eo">Toledo</alternateName>
+<alternateName lang="es">Toledo</alternateName>
+<alternateName lang="et">Toledo</alternateName>
+<alternateName lang="eu">Toledo</alternateName>
+<alternateName lang="ext">Toleu</alternateName>
+<alternateName lang="fa">تولدو</alternateName>
+<alternateName lang="fi">Toledo</alternateName>
+<alternateName lang="fr">Tolède</alternateName>
+<alternateName lang="gl">Toledo</alternateName>
+<alternateName lang="he">טולדו</alternateName>
+<alternateName lang="hi">टोलेडो</alternateName>
+<alternateName lang="hr">Toledo</alternateName>
+<alternateName lang="hy">Տոլեդո</alternateName>
+<alternateName lang="iata">XTJ</alternateName>
+<alternateName lang="id">Toledo</alternateName>
+<alternateName lang="it">Toledo</alternateName>
+<alternateName lang="ja">トレド</alternateName>
+<alternateName lang="ka">ტოლედო</alternateName>
+<alternateName lang="ko">톨레도</alternateName>
+<alternateName lang="la">Toletum</alternateName>
+<alternateName lang="lad">Toledo</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Toledo%2C_Spain</alternateName>
+<alternateName lang="lt">Toledas</alternateName>
+<alternateName lang="mr">तोलेदो</alternateName>
+<alternateName lang="nds">Toledo</alternateName>
+<alternateName lang="nl">Toledo</alternateName>
+<alternateName lang="nn">Toledo i Spania</alternateName>
+<alternateName lang="no">Toledo</alternateName>
+<alternateName lang="os">Толедо</alternateName>
+<alternateName lang="pl">Toledo</alternateName>
+<alternateName lang="post">45080</alternateName>
+<alternateName lang="pt">Toledo</alternateName>
+<alternateName lang="ro">Toledo</alternateName>
+<alternateName lang="ru">Толедо</alternateName>
+<alternateName lang="scn">Toledu</alternateName>
+<alternateName lang="sk">Toledo</alternateName>
+<alternateName lang="sr">Толедо</alternateName>
+<alternateName lang="sv">Toledo</alternateName>
+<alternateName lang="th">โตเลโด</alternateName>
+<alternateName lang="uk">Толедо</alternateName>
+<alternateName lang="unlc">TOL</alternateName>
+<alternateName lang="ur">طلیطلہ</alternateName>
+<alternateName lang="zh">托萊多</alternateName>
+<alternateName lang="zh-TW">托萊多</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Madrid</timezone>
+<bbox>
+<west>-4.07096</west>
+<north>39.89518</north>
+<east>-3.97429</east>
+<south>39.82102</south>
+</bbox>
+<score>142.21038818359375</score>
+</geoname>
+<geoname>
+<toponymName>Toledo</toponymName>
+<name>Toledo</name>
+<lat>41.66394</lat>
+<lng>-83.55521</lng>
+<geonameId>5174035</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>287208</population>
+<alternateNames>Gorad Talida,TOL,Toledo,Tolido,teollido,tolido,toredo,tuo lai duo,twldw,twlydw, awhayw,Горад Таліда,Толедо,Толидо,Толідо,Թոլեդո,טולדו,توليدو، أوهايو,تولیدو، اوهایو,टॉलिडो,トレド,托莱多,털리도</alternateNames>
+<elevation>186</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>095</adminCode2>
+<adminName2>Lucas County</adminName2>
+<alternateName lang="ar">توليدو، أوهايو</alternateName>
+<alternateName lang="be">Горад Таліда</alternateName>
+<alternateName lang="bg">Толидо</alternateName>
+<alternateName lang="da">Toledo</alternateName>
+<alternateName lang="de">Toledo</alternateName>
+<alternateName lang="en">Toledo</alternateName>
+<alternateName lang="es">Toledo</alternateName>
+<alternateName lang="fa">تولیدو، اوهایو</alternateName>
+<alternateName lang="fr">Toledo</alternateName>
+<alternateName lang="he">טולדו</alternateName>
+<alternateName lang="hy">Թոլեդո</alternateName>
+<alternateName lang="iata">TOL</alternateName>
+<alternateName lang="id">Toledo</alternateName>
+<alternateName lang="ja">トレド</alternateName>
+<alternateName lang="kk">Толедо</alternateName>
+<alternateName lang="ko">털리도</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Toledo%2C_Ohio</alternateName>
+<alternateName lang="mr">टॉलिडो</alternateName>
+<alternateName lang="nl">Toledo</alternateName>
+<alternateName lang="pl">Toledo</alternateName>
+<alternateName lang="post">43656</alternateName>
+<alternateName lang="pt">Toledo</alternateName>
+<alternateName lang="ru">Толидо</alternateName>
+<alternateName lang="sq">Toledo</alternateName>
+<alternateName lang="sr">Толидо</alternateName>
+<alternateName lang="sv">Toledo</alternateName>
+<alternateName lang="uk">Толідо</alternateName>
+<alternateName lang="unlc">TOL</alternateName>
+<alternateName lang="zh">托莱多</alternateName>
+<alternateName lang="zh-CN">托莱多</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-83.69424</west>
+<north>41.73285</north>
+<east>-83.45422</east>
+<south>41.58027</south>
+</bbox>
+<score>85.23051452636719</score>
+</geoname>
+<geoname>
+<toponymName>Toledo</toponymName>
+<name>Toledo</name>
+<lat>-24.71361</lat>
+<lng>-53.74306</lng>
+<geonameId>3446370</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>97845</population>
+<alternateNames>TOW,Toledo,Толедо</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="PR">18</adminCode1>
+<adminName1>Paraná</adminName1>
+<adminCode2>4127700</adminCode2>
+<adminName2>Toledo</adminName2>
+<alternateName lang="en">Toledo</alternateName>
+<alternateName lang="es">Toledo</alternateName>
+<alternateName lang="iata">TOW</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Toledo%2C_Paran%C3%A1</alternateName>
+<alternateName lang="pt">Toledo</alternateName>
+<alternateName lang="ru">Толедо</alternateName>
+<alternateName lang="unlc">TOW</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Sao_Paulo</timezone>
+<bbox>
+<west>-53.78759</west>
+<north>-24.67314</north>
+<east>-53.69852</east>
+<south>-24.75408</south>
+</bbox>
+<score>83.90259552001953</score>
+</geoname>
+<geoname>
+<toponymName>Toledo</toponymName>
+<name>Toledo City</name>
+<lat>10.3773</lat>
+<lng>123.6386</lng>
+<geonameId>1681602</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>156916</population>
+<alternateNames>Ciudad ti Toledo,Dakbayan sa Talisay,Toledo,Toledo City,Толедо</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="07">07</adminCode1>
+<adminName1>Central Visayas</adminName1>
+<adminCode2>21</adminCode2>
+<adminName2>Cebu</adminName2>
+<alternateName lang="ceb">Dakbayan sa Talisay</alternateName>
+<alternateName lang="en">Toledo City</alternateName>
+<alternateName lang="fil">Toledo</alternateName>
+<alternateName lang="ilo">Ciudad ti Toledo</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Toledo%2C_Cebu</alternateName>
+<alternateName lang="nl">Toledo City</alternateName>
+<alternateName lang="ru">Толедо</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<bbox>
+<west>123.58647</west>
+<north>10.42857</north>
+<east>123.69073</east>
+<south>10.32603</south>
+</bbox>
+<score>76.59223937988281</score>
+</geoname>
+<geoname>
+<toponymName>Toledo</toponymName>
+<name>Toledo</name>
+<lat>7.3</lat>
+<lng>-72.25</lng>
+<geonameId>3666961</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="NSA">21</adminCode1>
+<adminName1>Norte de Santander</adminName1>
+<adminCode2>3666961</adminCode2>
+<adminName2>Toledo</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<score>69.20169067382812</score>
+</geoname>
+<geoname>
+<toponymName>Toledo</toponymName>
+<name>Toledo</name>
+<lat>7</lat>
+<lng>-75.7</lng>
+<geonameId>3666962</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="ANT">02</adminCode1>
+<adminName1>Departamento de Antioquia</adminName1>
+<adminCode2>3666962</adminCode2>
+<adminName2>Toledo</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<score>69.20169067382812</score>
+</geoname>
+<geoname>
+<toponymName>Toledo</toponymName>
+<name>Toledo</name>
+<lat>-22.70569</lat>
+<lng>-46.39041</lng>
+<geonameId>6321886</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>5761</population>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="MG">15</adminCode1>
+<adminName1>Minas Gerais</adminName1>
+<adminCode2>3169109</adminCode2>
+<adminName2>Toledo</adminName2>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Sao_Paulo</timezone>
+<bbox>
+<west>-46.48064</west>
+<north>-22.64951</north>
+<east>-46.29883</east>
+<south>-22.76612</south>
+</bbox>
+<score>69.20169067382812</score>
+</geoname>
+<geoname>
+<toponymName>Toledo</toponymName>
+<name>Toledo</name>
+<lat>-24.73518</lat>
+<lng>-53.82059</lng>
+<geonameId>6323019</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>119353</population>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="PR">18</adminCode1>
+<adminName1>Paraná</adminName1>
+<adminCode2>4127700</adminCode2>
+<adminName2>Toledo</adminName2>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Sao_Paulo</timezone>
+<bbox>
+<west>-54.04261</west>
+<north>-24.45297</north>
+<east>-53.53489</east>
+<south>-24.94233</south>
+</bbox>
+<score>69.20169067382812</score>
+</geoname>
+<geoname>
+<toponymName>Toledo</toponymName>
+<name>Toledo</name>
+<lat>-34.74222</lat>
+<lng>-56.09833</lng>
+<geonameId>3439838</geonameId>
+<countryCode>UY</countryCode>
+<countryName>Uruguay</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>4056</population>
+<alternateNames>Toledo</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="CA">02</adminCode1>
+<adminName1>Canelones</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Toledo%2C_Uruguay</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Montevideo</timezone>
+<bbox>
+<west>-56.10781</west>
+<north>-34.73443</north>
+<east>-56.08886</east>
+<south>-34.75001</south>
+</bbox>
+<score>59.328094482421875</score>
+</geoname>
+<geoname>
+<toponymName>Toledo</toponymName>
+<name>Toledo</name>
+<lat>7.30984</lat>
+<lng>-72.48295</lng>
+<geonameId>3666959</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>5911</population>
+<alternateNames>Toledo</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="NSA">21</adminCode1>
+<adminName1>Norte de Santander</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Toledo%2C_Norte_de_Santander</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<bbox>
+<west>-72.49202</west>
+<north>7.31884</north>
+<east>-72.47388</east>
+<south>7.30085</south>
+</bbox>
+<score>59.328094482421875</score>
+</geoname>
+</geonames>

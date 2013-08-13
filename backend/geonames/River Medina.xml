@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>8</totalResultsCount>
+<geoname>
+<toponymName>River Medina</toponymName>
+<name>River Medina</name>
+<lat>50.76073</lat>
+<lng>-1.29175</lng>
+<geonameId>2642836</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G2</adminCode2>
+<adminName2>Isle of Wight</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/River_Medina</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>38.73561096191406</score>
+</geoname>
+<geoname>
+<toponymName>River Merina</toponymName>
+<name>River Merina</name>
+<lat>13.01302</lat>
+<lng>4.38515</lng>
+<geonameId>7009274</geonameId>
+<countryCode>NG</countryCode>
+<countryName>Nigeria</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="KE">40</adminCode1>
+<adminName1>Kebbi</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="1.0">Africa/Lagos</timezone>
+<score>7.061180591583252</score>
+</geoname>
+<geoname>
+<toponymName>River Gediya</toponymName>
+<name>River Gediya</name>
+<lat>11.3644</lat>
+<lng>8.92458</lng>
+<geonameId>7069094</geonameId>
+<countryCode>NG</countryCode>
+<countryName>Nigeria</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="KN">29</adminCode1>
+<adminName1>Kano</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="1.0">Africa/Lagos</timezone>
+<score>2.0174777507781982</score>
+</geoname>
+<geoname>
+<toponymName>Meino</toponymName>
+<name>Meino</name>
+<lat>6.6</lat>
+<lng>34.85</lng>
+<geonameId>370221</geonameId>
+<countryCode>SS</countryCode>
+<countryName>South Sudan</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>Meino,River Meino</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="JG">03</adminCode1>
+<adminName1>Jonglei State</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="3.0" gmtOffset="3.0">Africa/Juba</timezone>
+<score>1.2450085878372192</score>
+</geoname>
+<geoname>
+<toponymName>River Jedna</toponymName>
+<name>River Jedna</name>
+<lat>9.33333</lat>
+<lng>6.55</lng>
+<geonameId>2336240</geonameId>
+<countryCode>NG</countryCode>
+<countryName>Nigeria</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="1.0">Africa/Lagos</timezone>
+<score>1.1004425287246704</score>
+</geoname>
+<geoname>
+<toponymName>River Beina</toponymName>
+<name>River Beina</name>
+<lat>10.95341</lat>
+<lng>3.8393</lng>
+<geonameId>7048907</geonameId>
+<countryCode>NG</countryCode>
+<countryName>Nigeria</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="NI">31</adminCode1>
+<adminName1>Niger</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="1.0">Africa/Lagos</timezone>
+<score>1.1004425287246704</score>
+</geoname>
+<geoname>
+<toponymName>River Keina</toponymName>
+<name>River Keina</name>
+<lat>10.60875</lat>
+<lng>3.89301</lng>
+<geonameId>7048925</geonameId>
+<countryCode>NG</countryCode>
+<countryName>Nigeria</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="NI">31</adminCode1>
+<adminName1>Niger</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="1.0">Africa/Lagos</timezone>
+<score>1.1004425287246704</score>
+</geoname>
+<geoname>
+<toponymName>River Maina</toponymName>
+<name>River Maina</name>
+<lat>11.82503</lat>
+<lng>8.17788</lng>
+<geonameId>7067956</geonameId>
+<countryCode>NG</countryCode>
+<countryName>Nigeria</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="KN">29</adminCode1>
+<adminName1>Kano</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="1.0">Africa/Lagos</timezone>
+<score>1.1004425287246704</score>
+</geoname>
+</geonames>

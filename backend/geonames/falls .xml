@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>9</totalResultsCount>
+<geoname>
+<toponymName>Falls</toponymName>
+<name>Falls</name>
+<lat>35.93987</lat>
+<lng>-78.57945</lng>
+<geonameId>4465903</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>61</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NC">NC</adminCode1>
+<adminName1>North Carolina</adminName1>
+<adminCode2>183</adminCode2>
+<adminName2>Wake County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Falls%2C_North_Carolina</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-78.59056</west>
+<north>35.94887</north>
+<east>-78.56834</east>
+<south>35.93088</south>
+</bbox>
+<score>62.15049362182617</score>
+</geoname>
+<geoname>
+<toponymName>Falls</toponymName>
+<name>Falls</name>
+<lat>50.09994</lat>
+<lng>11.68879</lng>
+<geonameId>2927869</geonameId>
+<countryCode>DE</countryCode>
+<countryName>Germany</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="BY">02</adminCode1>
+<adminName1>Bavaria</adminName1>
+<adminCode2>094</adminCode2>
+<adminName2>Upper Franconia</adminName2>
+<adminCode3>09472</adminCode3>
+<adminName3>Landkreis Bayreuth</adminName3>
+<adminCode4>09472139</adminCode4>
+<adminName4>Gefrees</adminName4>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Berlin</timezone>
+<bbox>
+<west>11.67476</west>
+<north>50.10894</north>
+<east>11.70281</east>
+<south>50.09095</south>
+</bbox>
+<score>41.43366241455078</score>
+</geoname>
+<geoname>
+<toponymName>Falls</toponymName>
+<name>Falls</name>
+<lat>39.17511</lat>
+<lng>-79.11892</lng>
+<geonameId>4805607</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>382</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WV">WV</adminCode1>
+<adminName1>West Virginia</adminName1>
+<adminCode2>023</adminCode2>
+<adminName2>Grant County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-79.13053</west>
+<north>39.1841</north>
+<east>-79.10732</east>
+<south>39.16611</south>
+</bbox>
+<score>41.43366241455078</score>
+</geoname>
+<geoname>
+<toponymName>Falls</toponymName>
+<name>Falls</name>
+<lat>42.16659</lat>
+<lng>-111.85134</lng>
+<geonameId>5592773</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1380</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ID">ID</adminCode1>
+<adminName1>Idaho</adminName1>
+<adminCode2>041</adminCode2>
+<adminName2>Franklin County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Boise</timezone>
+<score>41.43366241455078</score>
+</geoname>
+<geoname>
+<toponymName>Falls</toponymName>
+<name>Falls</name>
+<lat>60.42</lat>
+<lng>-149.37028</lng>
+<geonameId>5861935</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>138</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AK">AK</adminCode1>
+<adminName1>Alaska</adminName1>
+<adminCode2>122</adminCode2>
+<adminName2>Kenai Peninsula Borough</adminName2>
+<timezone dstOffset="-8.0" gmtOffset="-9.0">America/Anchorage</timezone>
+<bbox>
+<west>-149.3885</west>
+<north>60.42899</north>
+<east>-149.35205</east>
+<south>60.41101</south>
+</bbox>
+<score>41.43366241455078</score>
+</geoname>
+<geoname>
+<toponymName>Falls</toponymName>
+<name>Falls</name>
+<lat>55.59987</lat>
+<lng>-122.26973</lng>
+<geonameId>5951295</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="BC">02</adminCode1>
+<adminName1>British Columbia</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-7.0" gmtOffset="-7.0">America/Dawson_Creek</timezone>
+<score>41.43366241455078</score>
+</geoname>
+<geoname>
+<toponymName>Falls</toponymName>
+<name>Falls</name>
+<lat>41.46063</lat>
+<lng>-75.84881</lng>
+<geonameId>5189302</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>185</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PA">PA</adminCode1>
+<adminName1>Pennsylvania</adminName1>
+<adminCode2>131</adminCode2>
+<adminName2>Wyoming County</adminName2>
+<alternateName lang="post">18615</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-75.86081</west>
+<north>41.46963</north>
+<east>-75.8368</east>
+<south>41.45164</south>
+</bbox>
+<score>31.075246810913086</score>
+</geoname>
+<geoname>
+<toponymName>Falls</toponymName>
+<name>Falls</name>
+<lat>37.64403</lat>
+<lng>-77.05469</lng>
+<geonameId>4758386</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>26</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>101</adminCode2>
+<adminName2>King William County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>12.948019027709961</score>
+</geoname>
+<geoname>
+<toponymName>Falls</toponymName>
+<name>Falls</name>
+<lat>52.93747</lat>
+<lng>-9.28788</lng>
+<geonameId>6472004</geonameId>
+<countryCode>IE</countryCode>
+<countryName>Ireland</countryName>
+<fcl>S</fcl>
+<fcode>HTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>hotel</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1/>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Dublin</timezone>
+<score>12.948019027709961</score>
+</geoname>
+</geonames>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Colonial Port</toponymName>
+<name>Colonial Port</name>
+<lat>38.4897</lat>
+<lng>-77.3692</lng>
+<geonameId>7198213</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>55</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>179</adminCode2>
+<adminName2>Stafford County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-77.38069</west>
+<north>38.49869</north>
+<east>-77.35771</east>
+<south>38.48071</south>
+</bbox>
+<score>45.98583984375</score>
+</geoname>
+</geonames>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Del Norte County</toponymName>
+<name>Del Norte County</name>
+<lat>41.74496</lat>
+<lng>-123.95781</lng>
+<geonameId>5562484</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>28610</population>
+<alternateNames>Comte de Del Norte,Comté de Del Norte,Condado de Del Norte,Condado han Del Norte,Contea di Del Norte,Del Norte,Del Norte Comitatus,Del Norte maakond,Del Norte srjan,Del Nortej,Del'-Norte,Hrabstwo Del Norte,Quan Del Norte,Quận Del Norte,de er nuo te xian,dela norte ka'unti,derunoruto jun,shhrstan dl nwrt,Дел Нортей,Дель-Норте,Դել Նորտե շրջան,شهرستان دل نورت,مقاطعة ديل نورت، كاليفورنيا,ڈل نارت کاؤنٹی,ডেল নোর্টে কাউন্টি,デルノルト郡,德尔诺特县</alternateNames>
+<elevation>551</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>015</adminCode2>
+<adminName2>Del Norte County</adminName2>
+<alternateName lang="ar">مقاطعة ديل نورت، كاليفورنيا</alternateName>
+<alternateName lang="bg">Дел Нортей</alternateName>
+<alternateName lang="bpy">ডেল নোর্টে কাউন্টি</alternateName>
+<alternateName lang="es">Condado de Del Norte</alternateName>
+<alternateName lang="et">Del Norte maakond</alternateName>
+<alternateName lang="fa">شهرستان دل نورت</alternateName>
+<alternateName lang="fr">Comté de Del Norte</alternateName>
+<alternateName lang="gl">Condado de Del Norte</alternateName>
+<alternateName lang="hy">Դել Նորտե շրջան</alternateName>
+<alternateName lang="it">Contea di Del Norte</alternateName>
+<alternateName lang="ja">デルノルト郡</alternateName>
+<alternateName lang="la">Del Norte Comitatus</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Del_Norte_County%2C_California</alternateName>
+<alternateName lang="nah">Del Norte</alternateName>
+<alternateName lang="pl">Hrabstwo Del Norte</alternateName>
+<alternateName lang="pnb">ڈل نارت کاؤنٹی</alternateName>
+<alternateName lang="pt">Condado de Del Norte</alternateName>
+<alternateName lang="ru">Дель-Норте</alternateName>
+<alternateName lang="uk">Дель-Норте</alternateName>
+<alternateName lang="vi">Quận Del Norte</alternateName>
+<alternateName lang="war">Condado han Del Norte</alternateName>
+<alternateName lang="zh">德尔诺特县</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-124.25848</west>
+<north>41.99981</north>
+<east>-123.51975</east>
+<south>41.38111</south>
+</bbox>
+<score>55.329952239990234</score>
+</geoname>
+<geoname>
+<toponymName>Del Norte</toponymName>
+<name>Del Norte</name>
+<lat>37.67889</lat>
+<lng>-106.35337</lng>
+<geonameId>5419302</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>1686</population>
+<alternateNames/>
+<elevation>2403</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CO">CO</adminCode1>
+<adminName1>Colorado</adminName1>
+<adminCode2>105</adminCode2>
+<adminName2>Rio Grande County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Del_Norte%2C_Colorado</alternateName>
+<alternateName lang="post">81132</alternateName>
+<alternateName lang="unlc">DN2</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<bbox>
+<west>-106.35905</west>
+<north>37.68339</north>
+<east>-106.34769</east>
+<south>37.6744</south>
+</bbox>
+<score>49.91514587402344</score>
+</geoname>
+<geoname>
+<toponymName>Del Norte</toponymName>
+<name>Del Norte</name>
+<lat>34.87956</lat>
+<lng>-82.30373</lng>
+<geonameId>4576515</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>276</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SC">SC</adminCode1>
+<adminName1>South Carolina</adminName1>
+<adminCode2>045</adminCode2>
+<adminName2>Greenville County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-82.31469</west>
+<north>34.88856</north>
+<east>-82.29276</east>
+<south>34.87057</south>
+</bbox>
+<score>39.9321174621582</score>
+</geoname>
+</geonames>

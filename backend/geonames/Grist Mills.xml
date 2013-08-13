@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Grist Mill</toponymName>
+<name>Grist Mill</name>
+<lat>39.75452</lat>
+<lng>-79.66671</lng>
+<geonameId>4558421</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>485</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PA">PA</adminCode1>
+<adminName1>Pennsylvania</adminName1>
+<adminCode2>051</adminCode2>
+<adminName2>Fayette County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>13.917844772338867</score>
+</geoname>
+<geoname>
+<toponymName>Great Mills</toponymName>
+<name>Great Mills</name>
+<lat>38.23679</lat>
+<lng>-76.49718</lng>
+<geonameId>4356724</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>4</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MD">MD</adminCode1>
+<adminName1>Maryland</adminName1>
+<adminCode2>037</adminCode2>
+<adminName2>Saint Mary's County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Great_Mills%2C_Maryland</alternateName>
+<alternateName lang="post">20634</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-76.50863</west>
+<north>38.24579</north>
+<east>-76.48572</east>
+<south>38.2278</south>
+</bbox>
+<score>12.146474838256836</score>
+</geoname>
+<geoname>
+<toponymName>Grant Mills</toponymName>
+<name>Grant Mills</name>
+<lat>42.08426</lat>
+<lng>-74.68043</lng>
+<geonameId>5119065</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>500</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>025</adminCode2>
+<adminName2>Delaware County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-74.69255</west>
+<north>42.09325</north>
+<east>-74.66831</east>
+<south>42.07526</south>
+</bbox>
+<score>8.097649574279785</score>
+</geoname>
+</geonames>

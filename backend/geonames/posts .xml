@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Posts</toponymName>
+<name>Posts</name>
+<lat>36.2283</lat>
+<lng>-121.7644</lng>
+<geonameId>5384568</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>288</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>053</adminCode2>
+<adminName2>Monterey County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Posts%2C_California</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-121.77555</west>
+<north>36.23729</north>
+<east>-121.75325</east>
+<south>36.2193</south>
+</bbox>
+<score>67.25851440429688</score>
+</geoname>
+<geoname>
+<toponymName>Posts</toponymName>
+<name>Posts</name>
+<lat>6.60285</lat>
+<lng>-57.87766</lng>
+<geonameId>8322842</geonameId>
+<countryCode>GY</countryCode>
+<countryName>Guyana</countryName>
+<fcl>S</fcl>
+<fcode>EST</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>estate(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="MA">15</adminCode1>
+<adminName1>Mahaica-Berbice</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Guyana</timezone>
+<score>14.012189865112305</score>
+</geoname>
+</geonames>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Madina Market</toponymName>
+<name>Madina Market</name>
+<lat>33.6137</lat>
+<lng>73.0534</lng>
+<geonameId>7038356</geonameId>
+<countryCode>PK</countryCode>
+<countryName>Pakistan</countryName>
+<fcl>S</fcl>
+<fcode>MKT</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>market</fcodeName>
+<population/>
+<alternateNames>Madina Market</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="PB">04</adminCode1>
+<adminName1>Punjab</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Madina Market</alternateName>
+<timezone dstOffset="5.0" gmtOffset="5.0">Asia/Karachi</timezone>
+<score>14.080229759216309</score>
+</geoname>
+</geonames>

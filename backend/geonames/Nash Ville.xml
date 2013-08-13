@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>28</totalResultsCount>
+<geoname>
+<toponymName>Nashville</toponymName>
+<name>Nashville</name>
+<lat>36.16589</lat>
+<lng>-86.78444</lng>
+<geonameId>4644585</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population>530852</population>
+<alternateNames>BNA,Nasburgum,Nashvil,Nashvill,Nashville,Nashwil,Nasvil,Nasvila,Nasvilo,Naŝvilo,Našvila,Nehshvill,Neshvil,Nesvilis,Nešvilis,n'yasabhila,na shen wei er,naesyubil,nashfyl, tynysy,nasshubiru,nasvil,nesavhila,neshvili,nshwyl,Νάσβιλ,Нашвил,Нашвилл,Нашвілл,Нешвил,Нэшвилл,Նաշվիլ,נאשוויל,ناشفيل، تينيسي,ناشولے,نشویل,नॅशव्हिल,ন্যাশভিল,நாஷ்வில்,แนชวิลล์,ნეშვილი,ナッシュビル,纳什维尔,내슈빌</alternateNames>
+<elevation>170</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TN">TN</adminCode1>
+<adminName1>Tennessee</adminName1>
+<adminCode2>037</adminCode2>
+<adminName2>Davidson County</adminName2>
+<alternateName lang="ar">ناشفيل، تينيسي</alternateName>
+<alternateName lang="bg">Нашвил</alternateName>
+<alternateName lang="bn">ন্যাশভিল</alternateName>
+<alternateName lang="ca">Nashville</alternateName>
+<alternateName lang="da">Nashville</alternateName>
+<alternateName lang="de">Nashville</alternateName>
+<alternateName lang="el">Νάσβιλ</alternateName>
+<alternateName lang="en">Nashville</alternateName>
+<alternateName lang="eo">Naŝvilo</alternateName>
+<alternateName lang="es">Nashville</alternateName>
+<alternateName lang="eu">Nashville</alternateName>
+<alternateName lang="fa">نشویل</alternateName>
+<alternateName lang="fi">Nashville</alternateName>
+<alternateName lang="fr">Nashville</alternateName>
+<alternateName lang="he">נאשוויל</alternateName>
+<alternateName lang="hu">Nashville</alternateName>
+<alternateName lang="hy">Նաշվիլ</alternateName>
+<alternateName lang="iata">BNA</alternateName>
+<alternateName lang="id">Nashville</alternateName>
+<alternateName lang="io">Nashville</alternateName>
+<alternateName lang="it">Nashville</alternateName>
+<alternateName lang="ja">ナッシュビル</alternateName>
+<alternateName lang="ka">ნეშვილი</alternateName>
+<alternateName lang="kk">Нашвилл</alternateName>
+<alternateName lang="ko">내슈빌</alternateName>
+<alternateName lang="la">Nasburgum</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Nashville%2C_Tennessee</alternateName>
+<alternateName lang="lt">Nešvilis</alternateName>
+<alternateName lang="lv">Našvila</alternateName>
+<alternateName lang="mk">Нешвил</alternateName>
+<alternateName lang="mr">नॅशव्हिल</alternateName>
+<alternateName lang="mrj">Нэшвилл</alternateName>
+<alternateName lang="nl">Nashville</alternateName>
+<alternateName lang="no">Nashville</alternateName>
+<alternateName lang="oc">Nashville</alternateName>
+<alternateName lang="os">Нашвилл</alternateName>
+<alternateName lang="pl">Nashville</alternateName>
+<alternateName lang="pnb">ناشولے</alternateName>
+<alternateName lang="post">37221</alternateName>
+<alternateName lang="pt">Nashville</alternateName>
+<alternateName lang="ru">Нашвилл</alternateName>
+<alternateName lang="sk">Nashville</alternateName>
+<alternateName lang="sq">Nashville</alternateName>
+<alternateName lang="sr">Нешвил</alternateName>
+<alternateName lang="sv">Nashville</alternateName>
+<alternateName lang="ta">நாஷ்வில்</alternateName>
+<alternateName lang="tg">Нашвилл</alternateName>
+<alternateName lang="th">แนชวิลล์</alternateName>
+<alternateName lang="ug">Nashwil</alternateName>
+<alternateName lang="uk">Нашвілл</alternateName>
+<alternateName lang="unlc">BNA</alternateName>
+<alternateName lang="xmf">ნეშვილი</alternateName>
+<alternateName lang="zh">纳什维尔</alternateName>
+<alternateName lang="zh-CN">纳什维尔</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-86.90169</west>
+<north>36.26043</north>
+<east>-86.6672</east>
+<south>36.07135</south>
+</bbox>
+<score>127.43204498291016</score>
+</geoname>
+<geoname>
+<toponymName>Nashville</toponymName>
+<name>Nashville</name>
+<lat>39.92838</lat>
+<lng>-85.65942</lng>
+<geonameId>4261984</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>286</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IN">IN</adminCode1>
+<adminName1>Indiana</adminName1>
+<adminCode2>059</adminCode2>
+<adminName2>Hancock County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Nashville%2C_Hancock_County%2C_Indiana</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Indiana/Indianapolis</timezone>
+<bbox>
+<west>-85.67115</west>
+<north>39.93737</north>
+<east>-85.64769</east>
+<south>39.91938</south>
+</bbox>
+<score>57.633304595947266</score>
+</geoname>
+<geoname>
+<toponymName>Nashville</toponymName>
+<name>Nashville</name>
+<lat>43.07728</lat>
+<lng>-78.86587</lng>
+<geonameId>5128311</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>175</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>063</adminCode2>
+<adminName2>Niagara County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Nashville%2C_New_York</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-78.87819</west>
+<north>43.08627</north>
+<east>-78.85356</east>
+<south>43.06829</south>
+</bbox>
+<score>57.633304595947266</score>
+</geoname>
+<geoname>
+<toponymName>Nashville</toponymName>
+<name>Nashville</name>
+<lat>38.5788</lat>
+<lng>-120.84521</lng>
+<geonameId>5376188</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>263</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>017</adminCode2>
+<adminName2>El Dorado County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Nashville%2C_California</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-120.85672</west>
+<north>38.58779</north>
+<east>-120.83371</east>
+<south>38.5698</south>
+</bbox>
+<score>57.633304595947266</score>
+</geoname>
+<geoname>
+<toponymName>Nashville</toponymName>
+<name>Nashville</name>
+<lat>44.65345</lat>
+<lng>-123.60844</lng>
+<geonameId>5742415</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>73</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OR">OR</adminCode1>
+<adminName1>Oregon</adminName1>
+<adminCode2>041</adminCode2>
+<adminName2>Lincoln County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Nashville%2C_Oregon</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-123.62109</west>
+<north>44.66245</north>
+<east>-123.5958</east>
+<south>44.64446</south>
+</bbox>
+<score>57.633304595947266</score>
+</geoname>
+<geoname>
+<toponymName>Nashville</toponymName>
+<name>Nashville</name>
+<lat>37.3745</lat>
+<lng>-94.49079</lng>
+<geonameId>4400044</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Nashvill,Нашвилл</alternateNames>
+<elevation>294</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>011</adminCode2>
+<adminName2>Barton County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Nashville%2C_Missouri</alternateName>
+<alternateName lang="ru">Нашвилл</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-94.5021</west>
+<north>37.38349</north>
+<east>-94.47947</east>
+<south>37.3655</south>
+</bbox>
+<score>48.02775573730469</score>
+</geoname>
+<geoname>
+<toponymName>Nashville</toponymName>
+<name>Nashville</name>
+<lat>42.60281</lat>
+<lng>-85.09305</lng>
+<geonameId>5003243</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1628</population>
+<alternateNames>Nashvill,Нашвилл</alternateNames>
+<elevation>250</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MI">MI</adminCode1>
+<adminName1>Michigan</adminName1>
+<adminCode2>015</adminCode2>
+<adminName2>Barry County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Nashville%2C_Michigan</alternateName>
+<alternateName lang="post">49073</alternateName>
+<alternateName lang="ru">Нашвилл</alternateName>
+<alternateName lang="unlc">VQV</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Detroit</timezone>
+<bbox>
+<west>-85.09916</west>
+<north>42.60731</north>
+<east>-85.08694</east>
+<south>42.59832</south>
+</bbox>
+<score>48.02775573730469</score>
+</geoname>
+<geoname>
+<toponymName>Nashville</toponymName>
+<name>Nashville</name>
+<lat>41.40638</lat>
+<lng>-95.99668</lng>
+<geonameId>5073633</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Nashvill,Нашвилл</alternateNames>
+<elevation>335</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NE">NE</adminCode1>
+<adminName1>Nebraska</adminName1>
+<adminCode2>177</adminCode2>
+<adminName2>Washington County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Nashville%2C_Nebraska</alternateName>
+<alternateName lang="ru">Нашвилл</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-96.00867</west>
+<north>41.41538</north>
+<east>-95.98469</east>
+<south>41.39739</south>
+</bbox>
+<score>48.02775573730469</score>
+</geoname>
+<geoname>
+<toponymName>Nashville</toponymName>
+<name>Nashville</name>
+<lat>45.52274</lat>
+<lng>-89.02484</lng>
+<geonameId>5264161</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Nashvill,Нашвилл</alternateNames>
+<elevation>519</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WI">WI</adminCode1>
+<adminName1>Wisconsin</adminName1>
+<adminCode2>041</adminCode2>
+<adminName2>Forest County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Nashville%2C_Wisconsin</alternateName>
+<alternateName lang="ru">Нашвилл</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-89.03768</west>
+<north>45.53173</north>
+<east>-89.012</east>
+<south>45.51375</south>
+</bbox>
+<score>48.02775573730469</score>
+</geoname>
+<geoname>
+<toponymName>Nashville</toponymName>
+<name>Nashville</name>
+<lat>33.94567</lat>
+<lng>-93.84713</lng>
+<geonameId>4123271</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>4627</population>
+<alternateNames>Nashvill,Нашвилл</alternateNames>
+<elevation>116</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">AR</adminCode1>
+<adminName1>Arkansas</adminName1>
+<adminCode2>061</adminCode2>
+<adminName2>Howard County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Nashville%2C_Arkansas</alternateName>
+<alternateName lang="post">71852</alternateName>
+<alternateName lang="ru">Нашвилл</alternateName>
+<alternateName lang="unlc">ZNV</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-93.85652</west>
+<north>33.95346</north>
+<east>-93.83774</east>
+<south>33.93788</south>
+</bbox>
+<score>38.422203063964844</score>
+</geoname>
+</geonames>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Tres Palacios</toponymName>
+<name>Tres Palacios</name>
+<lat>22.7</lat>
+<lng>-80.5</lng>
+<geonameId>3534969</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="05">16</adminCode1>
+<adminName1>Villa Clara</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<bbox>
+<west>-80.50975</west>
+<north>22.70899</north>
+<east>-80.49025</east>
+<south>22.69101</south>
+</bbox>
+<score>44.839012145996094</score>
+</geoname>
+<geoname>
+<toponymName>Tres Palacios</toponymName>
+<name>Tres Palacios</name>
+<lat>22.71472</lat>
+<lng>-80.51222</lng>
+<geonameId>3534970</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="05">16</adminCode1>
+<adminName1>Villa Clara</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>44.839012145996094</score>
+</geoname>
+</geonames>

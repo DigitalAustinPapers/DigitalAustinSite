@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>8</totalResultsCount>
+<geoname>
+<toponymName>Government House</toponymName>
+<name>Government House</name>
+<lat>22.27865</lat>
+<lng>114.1574</lng>
+<geonameId>1899661</geonameId>
+<countryCode>HK</countryCode>
+<countryName>Hong Kong</countryName>
+<fcl>S</fcl>
+<fcode>ADMF</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>administrative facility</fcodeName>
+<population/>
+<alternateNames>Government House</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Government_House%2C_Hong_Kong</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Hong_Kong</timezone>
+<score>49.92264938354492</score>
+</geoname>
+<geoname>
+<toponymName>Government House</toponymName>
+<name>Government House</name>
+<lat>36.1371</lat>
+<lng>-5.35352</lng>
+<geonameId>2411579</geonameId>
+<countryCode>GI</countryCode>
+<countryName>Gibraltar</countryName>
+<fcl>S</fcl>
+<fcode>DIP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>diplomatic facility</fcodeName>
+<population/>
+<alternateNames>Government House,The Convent</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/The_Convent_%28Gibraltar%29</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Gibraltar</timezone>
+<score>43.68231964111328</score>
+</geoname>
+<geoname>
+<toponymName>Government House</toponymName>
+<name>Government House</name>
+<lat>18.34246</lat>
+<lng>-64.92903</lng>
+<geonameId>4795806</geonameId>
+<countryCode>VI</countryCode>
+<countryName>U.S. Virgin Islands</countryName>
+<fcl>S</fcl>
+<fcode>ADMF</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>administrative facility</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>21</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="T">030</adminCode1>
+<adminName1>Saint Thomas Island</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/St_Thomas</timezone>
+<score>12.738022804260254</score>
+</geoname>
+<geoname>
+<toponymName>Government House</toponymName>
+<name>Government House</name>
+<lat>-14.28222</lat>
+<lng>-170.68194</lng>
+<geonameId>5881286</geonameId>
+<countryCode>AS</countryCode>
+<countryName>American Samoa</countryName>
+<fcl>S</fcl>
+<fcode>ADMF</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>administrative facility</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>22</elevation>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="E">010</adminCode1>
+<adminName1>Eastern District</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-11.0" gmtOffset="-11.0">Pacific/Pago_Pago</timezone>
+<score>12.738022804260254</score>
+</geoname>
+<geoname>
+<toponymName>Government Hole</toponymName>
+<name>Government Hole</name>
+<lat>35.34671</lat>
+<lng>-111.91877</lng>
+<geonameId>5296326</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>RSV</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>reservoir(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>2254</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AZ">AZ</adminCode1>
+<adminName1>Arizona</adminName1>
+<adminCode2>005</adminCode2>
+<adminName2>Coconino County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-7.0">America/Phoenix</timezone>
+<score>4.768327236175537</score>
+</geoname>
+<geoname>
+<toponymName>Government Coulee</toponymName>
+<name>Government Coulee</name>
+<lat>47.28163</lat>
+<lng>-110.75522</lng>
+<geonameId>5654855</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>VAL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>valley</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1214</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MT">MT</adminCode1>
+<adminName1>Montana</adminName1>
+<adminCode2>045</adminCode2>
+<adminName2>Judith Basin County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<score>2.72007417678833</score>
+</geoname>
+<geoname>
+<toponymName>Government Coulee</toponymName>
+<name>Government Coulee</name>
+<lat>47.89579</lat>
+<lng>-111.87028</lng>
+<geonameId>5654857</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>VAL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>valley</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1074</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MT">MT</adminCode1>
+<adminName1>Montana</adminName1>
+<adminCode2>099</adminCode2>
+<adminName2>Teton County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<score>2.72007417678833</score>
+</geoname>
+<geoname>
+<toponymName>Government Holes</toponymName>
+<name>Government Holes</name>
+<lat>35.14943</lat>
+<lng>-115.35721</lng>
+<geonameId>5353222</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>1531</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>071</adminCode2>
+<adminName2>San Bernardino County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>0.8940606117248535</score>
+</geoname>
+</geonames>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Philadelphia Park</toponymName>
+<name>Philadelphia Park</name>
+<lat>35.67869</lat>
+<lng>-84.38465</lng>
+<geonameId>4649033</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>L</fcl>
+<fcode>PRK</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>park</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>283</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TN">TN</adminCode1>
+<adminName1>Tennessee</adminName1>
+<adminCode2>105</adminCode2>
+<adminName2>Loudon County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>45.98583984375</score>
+</geoname>
+</geonames>

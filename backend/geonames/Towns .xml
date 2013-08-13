@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Towns</toponymName>
+<name>Towns</name>
+<lat>32.00434</lat>
+<lng>-82.75459</lng>
+<geonameId>4226910</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>43</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">GA</adminCode1>
+<adminName1>Georgia</adminName1>
+<adminCode2>271</adminCode2>
+<adminName2>Telfair County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-82.76519</west>
+<north>32.01334</north>
+<east>-82.74398</east>
+<south>31.99535</south>
+</bbox>
+<score>45.98586654663086</score>
+</geoname>
+</geonames>

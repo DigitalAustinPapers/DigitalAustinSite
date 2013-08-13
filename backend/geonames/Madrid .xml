@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>52</totalResultsCount>
+<geoname>
+<toponymName>Madrid</toponymName>
+<name>Madrid</name>
+<lat>40.4165</lat>
+<lng>-3.70256</lng>
+<geonameId>3117735</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>P</fcl>
+<fcode>PPLC</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>capital of a political entity</fcodeName>
+<population>3255944</population>
+<alternateNames>Gorad Madryd,La Villa y Corte,Los Madriles,Lungsod ng Madrid,MAD,Madrid,Madrid osh,Madridas,Madride,Madridi,Madrido,Madril,Madrit,Madrite,Madryt,Madríd,Madrîd,Magerit,Maidrid,Mairil,Makelika,Matritum,Sanchinarro,ma de li,madeulideu,madorido,madorido shi,madrid,madrida,madridi,madryd,matrit,mdryd,mydrd,Μαδρίτη,Горад Мадрыд,Мaдрид,Мадрид,Мадрид ош,Мадрід,Մադրիդ,מאדריד,מדריד,مادرىد,مادرید,مدريد,میدرد,میڈرڈ,مەدرید,ܡܕܪܝܕ,मद्रिद,मद्रिद्,माद्रिद,মাদ্রিদ,ମାଡ୍ରିଦ,மத்ரித்,ಮಡ್ರಿಡ್,മാഡ്രിഡ്,มาดริด,མ་ད་རིད།,မဒရစ်မြို့,მადრიდი,ማድሪድ,マドリード,マドリード市,馬德里,马德里,마드리드</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="MD">29</adminCode1>
+<adminName1>Madrid</adminName1>
+<adminCode2>M</adminCode2>
+<adminName2>Madrid</adminName2>
+<adminCode3>28079</adminCode3>
+<adminName3>Madrid</adminName3>
+<alternateName lang="ab">Мaдрид</alternateName>
+<alternateName lang="af">Madrid</alternateName>
+<alternateName lang="am">ማድሪድ</alternateName>
+<alternateName lang="an">Madrit</alternateName>
+<alternateName lang="ar">مدريد</alternateName>
+<alternateName lang="arc">ܡܕܪܝܕ</alternateName>
+<alternateName lang="arz">مدريد</alternateName>
+<alternateName lang="ast">Madrid</alternateName>
+<alternateName lang="ba">Мадрид</alternateName>
+<alternateName lang="be">Горад Мадрыд</alternateName>
+<alternateName lang="bg">Мадрид</alternateName>
+<alternateName lang="bn">মাদ্রিদ</alternateName>
+<alternateName lang="bo">མ་ད་རིད།</alternateName>
+<alternateName lang="br">Madrid</alternateName>
+<alternateName lang="bs">Madrid</alternateName>
+<alternateName lang="ca">Madrid</alternateName>
+<alternateName lang="ckb">مەدرید</alternateName>
+<alternateName lang="co">Madridi</alternateName>
+<alternateName lang="cs">Madrid</alternateName>
+<alternateName lang="cv">Мадрид</alternateName>
+<alternateName lang="cy">Madrid</alternateName>
+<alternateName lang="da">Madrid</alternateName>
+<alternateName lang="de">Madrid</alternateName>
+<alternateName lang="el">Μαδρίτη</alternateName>
+<alternateName lang="en">Madrid</alternateName>
+<alternateName lang="eo">Madrido</alternateName>
+<alternateName lang="es">Madrid</alternateName>
+<alternateName lang="et">Madrid</alternateName>
+<alternateName lang="eu">Madril</alternateName>
+<alternateName lang="ext">Mairil</alternateName>
+<alternateName lang="fa">مادرید</alternateName>
+<alternateName lang="fi">Madrid</alternateName>
+<alternateName lang="fr">Madrid</alternateName>
+<alternateName lang="frp">Madrid</alternateName>
+<alternateName lang="ga">Maidrid</alternateName>
+<alternateName lang="gd">Madrid</alternateName>
+<alternateName lang="gl">Madrid</alternateName>
+<alternateName lang="haw">Makelika</alternateName>
+<alternateName lang="he">מדריד</alternateName>
+<alternateName lang="hi">मद्रिद</alternateName>
+<alternateName lang="hr">Madrid</alternateName>
+<alternateName lang="hu">Madrid</alternateName>
+<alternateName lang="hy">Մադրիդ</alternateName>
+<alternateName lang="ia">Madrid</alternateName>
+<alternateName lang="iata">MAD</alternateName>
+<alternateName lang="id">Madrid</alternateName>
+<alternateName lang="io">Madrid</alternateName>
+<alternateName lang="is">Madríd</alternateName>
+<alternateName lang="it">Madrid</alternateName>
+<alternateName lang="ja">マドリード市</alternateName>
+<alternateName lang="ka">მადრიდი</alternateName>
+<alternateName lang="kbd">Мадрид</alternateName>
+<alternateName lang="kk">Мадрид</alternateName>
+<alternateName lang="kn">ಮಡ್ರಿಡ್</alternateName>
+<alternateName lang="ko">마드리드</alternateName>
+<alternateName lang="koi">Мадрид</alternateName>
+<alternateName lang="ku">Madrîd</alternateName>
+<alternateName lang="kv">Мадрид</alternateName>
+<alternateName lang="ky">Мадрид</alternateName>
+<alternateName lang="la">Matritum</alternateName>
+<alternateName lang="lad">Madrid</alternateName>
+<alternateName lang="lb">Madrid</alternateName>
+<alternateName lang="lez">Мадрид</alternateName>
+<alternateName lang="li">Madrid</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Madrid</alternateName>
+<alternateName lang="lt">Madridas</alternateName>
+<alternateName lang="lv">Madride</alternateName>
+<alternateName lang="mhr">Мадрид</alternateName>
+<alternateName lang="mk">Мадрид</alternateName>
+<alternateName lang="ml">മാഡ്രിഡ്</alternateName>
+<alternateName lang="mn">Мадрид</alternateName>
+<alternateName lang="mr">माद्रिद</alternateName>
+<alternateName lang="mrj">Мадрид</alternateName>
+<alternateName lang="my">မဒရစ်မြို့</alternateName>
+<alternateName lang="myv">Мадрид ош</alternateName>
+<alternateName lang="mzn">مادرید</alternateName>
+<alternateName lang="nds">Madrid</alternateName>
+<alternateName lang="nl">Madrid</alternateName>
+<alternateName lang="nn">Madrid</alternateName>
+<alternateName lang="no">Madrid</alternateName>
+<alternateName lang="oc">Madrid</alternateName>
+<alternateName lang="or">ମାଡ୍ରିଦ</alternateName>
+<alternateName lang="os">Мадрид</alternateName>
+<alternateName lang="pl">Madryt</alternateName>
+<alternateName lang="pnb">میڈرڈ</alternateName>
+<alternateName lang="post">28080</alternateName>
+<alternateName lang="pt">Madrid</alternateName>
+<alternateName lang="qu">Madrid</alternateName>
+<alternateName lang="ro">Madrid</alternateName>
+<alternateName lang="ru">Мадрид</alternateName>
+<alternateName lang="rue">Мадрід</alternateName>
+<alternateName lang="sa">मद्रिद्</alternateName>
+<alternateName lang="sah">Мадрид</alternateName>
+<alternateName lang="sc">Madrid</alternateName>
+<alternateName lang="scn">Madrid</alternateName>
+<alternateName lang="sk">Madrid</alternateName>
+<alternateName lang="sl">Madrid</alternateName>
+<alternateName lang="sq">Madrid</alternateName>
+<alternateName lang="sr">Мадрид</alternateName>
+<alternateName lang="sv">Madrid</alternateName>
+<alternateName lang="szl">Madryt</alternateName>
+<alternateName lang="ta">மத்ரித்</alternateName>
+<alternateName lang="tet">Madríd</alternateName>
+<alternateName lang="tg">Мадрид</alternateName>
+<alternateName lang="th">มาดริด</alternateName>
+<alternateName lang="tl">Madrid</alternateName>
+<alternateName lang="tr">Madrid</alternateName>
+<alternateName lang="ty">Madrid</alternateName>
+<alternateName lang="udm">Мадрид</alternateName>
+<alternateName lang="ug">مادرىد</alternateName>
+<alternateName lang="uk">Мадрид</alternateName>
+<alternateName lang="unlc">MAD</alternateName>
+<alternateName lang="ur">میدرد</alternateName>
+<alternateName lang="vec">Madrid</alternateName>
+<alternateName lang="vi">Madrid</alternateName>
+<alternateName lang="vo">Madrid</alternateName>
+<alternateName lang="xmf">მადრიდი</alternateName>
+<alternateName lang="yi">מאדריד</alternateName>
+<alternateName lang="zh">马德里</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Madrid</timezone>
+<bbox>
+<west>-4.01128</west>
+<north>40.65073</north>
+<east>-3.39384</east>
+<south>40.18228</south>
+</bbox>
+<score>352.9379577636719</score>
+</geoname>
+<geoname>
+<toponymName>Madrid</toponymName>
+<name>Madrid</name>
+<lat>4.73244</lat>
+<lng>-74.26419</lng>
+<geonameId>3675707</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>50437</population>
+<alternateNames>Madrid,Serrezuela,Мадрид</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="CUN">33</adminCode1>
+<adminName1>Cundinamarca</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ru">Мадрид</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<bbox>
+<west>-74.29344</west>
+<north>4.76159</north>
+<east>-74.23495</east>
+<south>4.7033</south>
+</bbox>
+<score>79.44467163085938</score>
+</geoname>
+<geoname>
+<toponymName>Madrid</toponymName>
+<name>Madrid</name>
+<lat>4.83333</lat>
+<lng>-74.3</lng>
+<geonameId>3675708</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames>Madrid</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="CUN">33</adminCode1>
+<adminName1>Cundinamarca</adminName1>
+<adminCode2>3675708</adminCode2>
+<adminName2>Madrid</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Madrid%2C_Cundinamarca</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<score>68.80110168457031</score>
+</geoname>
+<geoname>
+<toponymName>Madrid</toponymName>
+<name>Madrid</name>
+<lat>9.26211</lat>
+<lng>125.96437</lng>
+<geonameId>1704129</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>3119</population>
+<alternateNames>Madrid</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="BUL">13</adminCode1>
+<adminName1>Caraga</adminName1>
+<adminCode2>62</adminCode2>
+<adminName2>Surigao del Sur</adminName2>
+<adminCode3>1704130</adminCode3>
+<adminName3>Madrid</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Madrid%2C_Surigao_del_Sur</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<bbox>
+<west>125.95792</west>
+<north>9.26847</north>
+<east>125.97081</east>
+<south>9.25575</south>
+</bbox>
+<score>51.600826263427734</score>
+</geoname>
+<geoname>
+<toponymName>Provincia de Madrid</toponymName>
+<name>Madrid</name>
+<lat>40.40225</lat>
+<lng>-3.71029</lng>
+<geonameId>6355233</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>6386932</population>
+<alternateNames>Madrid,Madril,Province de Madrid,Province of Madrid,Provincia de Madrid,Provinz Madrid,Província de Madrid,madoriddo,マドリッド,マドリード/マドリ−ド/マドリ－ド</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="MD">29</adminCode1>
+<adminName1>Madrid</adminName1>
+<adminCode2>M</adminCode2>
+<adminName2>Madrid</adminName2>
+<alternateName lang="an">Madrid</alternateName>
+<alternateName lang="ast">Madrid</alternateName>
+<alternateName lang="ca">Província de Madrid</alternateName>
+<alternateName lang="de">Provinz Madrid</alternateName>
+<alternateName lang="en">Madrid</alternateName>
+<alternateName lang="es">Madrid</alternateName>
+<alternateName lang="eu">Madril</alternateName>
+<alternateName lang="fr">Province de Madrid</alternateName>
+<alternateName lang="gl">Madrid</alternateName>
+<alternateName lang="ja">マドリッド</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Madrid</timezone>
+<bbox>
+<west>-6.21584</west>
+<north>41.16584</north>
+<east>-3.05298</east>
+<south>39.03158</south>
+</bbox>
+<score>50.17763900756836</score>
+</geoname>
+<geoname>
+<toponymName>Madrid</toponymName>
+<name>Madrid</name>
+<lat>9.21612</lat>
+<lng>125.93368</lng>
+<geonameId>1704130</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population>15029</population>
+<alternateNames>Madrid</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="BUL">13</adminCode1>
+<adminName1>Caraga</adminName1>
+<adminCode2>62</adminCode2>
+<adminName2>Surigao del Sur</adminName2>
+<adminCode3>1704130</adminCode3>
+<adminName3>Madrid</adminName3>
+<alternateName lang="fil">Madrid</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<score>43.00068664550781</score>
+</geoname>
+<geoname>
+<toponymName>Madrid</toponymName>
+<name>Madrid</name>
+<lat>40.48935</lat>
+<lng>-3.68275</lng>
+<geonameId>6359304</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population>3255944</population>
+<alternateNames>Madrid,Madryt</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="MD">29</adminCode1>
+<adminName1>Madrid</adminName1>
+<adminCode2>M</adminCode2>
+<adminName2>Madrid</adminName2>
+<adminCode3>28079</adminCode3>
+<adminName3>Madrid</adminName3>
+<alternateName lang="en">Madrid</alternateName>
+<alternateName lang="pl">Madryt</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Madrid</timezone>
+<bbox>
+<west>-3.88896</west>
+<north>40.64333</north>
+<east>-3.51823</east>
+<south>40.31206</south>
+</bbox>
+<score>43.00068664550781</score>
+</geoname>
+<geoname>
+<toponymName>Madrid</toponymName>
+<name>Madrid</name>
+<lat>31.03574</lat>
+<lng>-85.39327</lng>
+<geonameId>4074307</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>350</population>
+<alternateNames/>
+<elevation>50</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AL">AL</adminCode1>
+<adminName1>Alabama</adminName1>
+<adminCode2>069</adminCode2>
+<adminName2>Houston County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Madrid%2C_Alabama</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-85.41689</west>
+<north>31.04311</north>
+<east>-85.38141</east>
+<south>31.02824</south>
+</bbox>
+<score>42.13189697265625</score>
+</geoname>
+<geoname>
+<toponymName>Madrid</toponymName>
+<name>Madrid</name>
+<lat>41.87665</lat>
+<lng>-93.82328</lng>
+<geonameId>4865871</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2543</population>
+<alternateNames/>
+<elevation>310</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IA">IA</adminCode1>
+<adminName1>Iowa</adminName1>
+<adminCode2>015</adminCode2>
+<adminName2>Boone County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Madrid%2C_Iowa</alternateName>
+<alternateName lang="post">50156</alternateName>
+<alternateName lang="unlc">UID</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-93.83182</west>
+<north>41.88301</north>
+<east>-93.81474</east>
+<south>41.87029</south>
+</bbox>
+<score>42.13189697265625</score>
+</geoname>
+<geoname>
+<toponymName>Madrid</toponymName>
+<name>Madrid</name>
+<lat>44.8645</lat>
+<lng>-70.46201</lng>
+<geonameId>4970963</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>180</population>
+<alternateNames/>
+<elevation>261</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ME">ME</adminCode1>
+<adminName1>Maine</adminName1>
+<adminCode2>007</adminCode2>
+<adminName2>Franklin County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Madrid%2C_Maine</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-70.46328</west>
+<north>44.8654</north>
+<east>-70.46074</east>
+<south>44.8636</south>
+</bbox>
+<score>42.13189697265625</score>
+</geoname>
+</geonames>

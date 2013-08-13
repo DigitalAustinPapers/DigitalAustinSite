@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>34</totalResultsCount>
+<geoname>
+<toponymName>Lawrence</toponymName>
+<name>Lawrence</name>
+<lat>-45.91667</lat>
+<lng>169.7</lng>
+<geonameId>2188475</geonameId>
+<countryCode>NZ</countryCode>
+<countryName>New Zealand</countryName>
+<fcl>A</fcl>
+<fcode>ADM1H</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>historical first-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="12.0" gmtOffset="13.0">Pacific/Auckland</timezone>
+<score>121.83631134033203</score>
+</geoname>
+<geoname>
+<toponymName>Lawrence</toponymName>
+<name>Lawrence</name>
+<lat>42.70704</lat>
+<lng>-71.16311</lng>
+<geonameId>4941720</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>76377</population>
+<alternateNames>LWM,Lawrence,Lorehns,Lorens,Lourens,lao lun si,larns, masachwst,lolenseu,Лоренс,Лорэнс,Лоуренс,لارنس، ماساچوست,劳伦斯,로렌스</alternateNames>
+<elevation>14</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MA">MA</adminCode1>
+<adminName1>Massachusetts</adminName1>
+<adminCode2>009</adminCode2>
+<adminName2>Essex County</adminName2>
+<alternateName lang="en">Lawrence</alternateName>
+<alternateName lang="fa">لارنس، ماساچوست</alternateName>
+<alternateName lang="fr">Lawrence</alternateName>
+<alternateName lang="iata">LWM</alternateName>
+<alternateName lang="kk">Лорэнс</alternateName>
+<alternateName lang="ko">로렌스</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lawrence%2C_Massachusetts</alternateName>
+<alternateName lang="pl">Lawrence</alternateName>
+<alternateName lang="post">01843</alternateName>
+<alternateName lang="ru">Лоуренс</alternateName>
+<alternateName lang="sr">Лоренс</alternateName>
+<alternateName lang="sv">Lawrence</alternateName>
+<alternateName lang="unlc">LWM</alternateName>
+<alternateName lang="zh">劳伦斯</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-71.19122</west>
+<north>42.72327</north>
+<east>-71.13335</east>
+<south>42.67586</south>
+</bbox>
+<score>75.3666763305664</score>
+</geoname>
+<geoname>
+<toponymName>Lawrence</toponymName>
+<name>Lawrence</name>
+<lat>38.97167</lat>
+<lng>-95.23525</lng>
+<geonameId>4274277</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>87643</population>
+<alternateNames>Gorad Lourehns,LWC,Lawrence,Lorens,Lourens,lolenseu,lwrns, kanzas,rorensu,Горад Лоўрэнс,Лоуренс,لورنس، کانزاس,ローレンス,로렌스</alternateNames>
+<elevation>263</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KS">KS</adminCode1>
+<adminName1>Kansas</adminName1>
+<adminCode2>045</adminCode2>
+<adminName2>Douglas County</adminName2>
+<alternateName lang="be">Горад Лоўрэнс</alternateName>
+<alternateName lang="de">Lawrence</alternateName>
+<alternateName lang="en">Lawrence</alternateName>
+<alternateName lang="fa">لورنس، کانزاس</alternateName>
+<alternateName lang="fr">Lawrence</alternateName>
+<alternateName lang="hbs">Lorens</alternateName>
+<alternateName lang="iata">LWC</alternateName>
+<alternateName lang="io">Lawrence</alternateName>
+<alternateName lang="it">Lawrence</alternateName>
+<alternateName lang="ja">ローレンス</alternateName>
+<alternateName lang="ko">로렌스</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lawrence%2C_Kansas</alternateName>
+<alternateName lang="pl">Lawrence</alternateName>
+<alternateName lang="post">66049</alternateName>
+<alternateName lang="ru">Лоуренс</alternateName>
+<alternateName lang="unlc">LWC</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-95.2847</west>
+<north>39.01009</north>
+<east>-95.1858</east>
+<south>38.93325</south>
+</bbox>
+<score>69.6207504272461</score>
+</geoname>
+<geoname>
+<toponymName>Lawrence</toponymName>
+<name>Lawrence</name>
+<lat>39.83865</lat>
+<lng>-86.02526</lng>
+<geonameId>4260210</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>46001</population>
+<alternateNames>Lourens,Лоуренс</alternateNames>
+<elevation>266</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IN">IN</adminCode1>
+<adminName1>Indiana</adminName1>
+<adminCode2>097</adminCode2>
+<adminName2>Marion County</adminName2>
+<alternateName lang="ru">Лоуренс</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Indiana/Indianapolis</timezone>
+<bbox>
+<west>-86.06138</west>
+<north>39.86637</north>
+<east>-85.98915</east>
+<south>39.81093</south>
+</bbox>
+<score>52.21556091308594</score>
+</geoname>
+<geoname>
+<toponymName>Lawrence</toponymName>
+<name>Lawrence</name>
+<lat>42.44113</lat>
+<lng>-88.64121</lng>
+<geonameId>4899449</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>276</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>111</adminCode2>
+<adminName2>McHenry County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lawrence%2C_Illinois</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-88.6534</west>
+<north>42.45012</north>
+<east>-88.62902</east>
+<south>42.43214</south>
+</bbox>
+<score>52.21556091308594</score>
+</geoname>
+<geoname>
+<toponymName>Lawrence</toponymName>
+<name>Lawrence</name>
+<lat>43.88359</lat>
+<lng>-89.54457</lng>
+<geonameId>5259602</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>276</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WI">WI</adminCode1>
+<adminName1>Wisconsin</adminName1>
+<adminCode2>077</adminCode2>
+<adminName2>Marquette County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lawrence%2C_Marquette_County%2C_Wisconsin</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-89.55705</west>
+<north>43.89258</north>
+<east>-89.53209</east>
+<south>43.87459</south>
+</bbox>
+<score>52.21556091308594</score>
+</geoname>
+<geoname>
+<toponymName>Lawrence</toponymName>
+<name>Lawrence</name>
+<lat>-45.90839</lat>
+<lng>169.6901</lng>
+<geonameId>6210146</geonameId>
+<countryCode>NZ</countryCode>
+<countryName>New Zealand</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="OTA">F7</adminCode1>
+<adminName1>Otago Region</adminName1>
+<adminCode2>072</adminCode2>
+<adminName2>Clutha District</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lawrence%2C_New_Zealand</alternateName>
+<timezone dstOffset="12.0" gmtOffset="13.0">Pacific/Auckland</timezone>
+<bbox>
+<west>169.67717</west>
+<north>-45.8994</north>
+<east>169.70302</east>
+<south>-45.91738</south>
+</bbox>
+<score>52.21556091308594</score>
+</geoname>
+<geoname>
+<toponymName>Lawrence</toponymName>
+<name>Lawrence</name>
+<lat>-45.91667</lat>
+<lng>169.68333</lng>
+<geonameId>2188474</geonameId>
+<countryCode>NZ</countryCode>
+<countryName>New Zealand</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>administrative division</fcodeName>
+<population/>
+<alternateNames>Lawrence Borough</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="12.0" gmtOffset="13.0">Pacific/Auckland</timezone>
+<score>43.512969970703125</score>
+</geoname>
+<geoname>
+<toponymName>Lawrence</toponymName>
+<name>Lawrence</name>
+<lat>40.61566</lat>
+<lng>-73.72958</lng>
+<geonameId>5124087</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>6483</population>
+<alternateNames>Lourens,Лоуренс</alternateNames>
+<elevation>6</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>059</adminCode2>
+<adminName2>Nassau County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lawrence%2C_New_York</alternateName>
+<alternateName lang="post">11559</alternateName>
+<alternateName lang="ru">Лоуренс</alternateName>
+<alternateName lang="unlc">LWE</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-73.74282</west>
+<north>40.62572</north>
+<east>-73.71633</east>
+<south>40.6056</south>
+</bbox>
+<score>43.512969970703125</score>
+</geoname>
+<geoname>
+<toponymName>Lawrence</toponymName>
+<name>Lawrence</name>
+<lat>51.33331</lat>
+<lng>-99.5014</lng>
+<geonameId>6050820</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MB">03</adminCode1>
+<adminName1>Manitoba</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lawrence%2C_Manitoba</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Winnipeg</timezone>
+<score>43.512969970703125</score>
+</geoname>
+</geonames>

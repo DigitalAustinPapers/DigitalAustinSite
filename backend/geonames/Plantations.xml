@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>10</totalResultsCount>
+<geoname>
+<toponymName>Plantation</toponymName>
+<name>Plantation</name>
+<lat>26.13421</lat>
+<lng>-80.23184</lng>
+<geonameId>4168782</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>84955</population>
+<alternateNames>Plantacija,Плантация</alternateNames>
+<elevation>1</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="FL">FL</adminCode1>
+<adminName1>Florida</adminName1>
+<adminCode2>011</adminCode2>
+<adminName2>Broward County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Plantation%2C_Florida</alternateName>
+<alternateName lang="ru">Плантация</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-80.27376</west>
+<north>26.17184</north>
+<east>-80.18992</east>
+<south>26.09659</south>
+</bbox>
+<score>82.32816314697266</score>
+</geoname>
+<geoname>
+<toponymName>Plantation</toponymName>
+<name>Plantation</name>
+<lat>27.06811</lat>
+<lng>-82.37287</lng>
+<geonameId>4168784</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>4919</population>
+<alternateNames>Plantacija,Плантация</alternateNames>
+<elevation>3</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="FL">FL</adminCode1>
+<adminName1>Florida</adminName1>
+<adminCode2>115</adminCode2>
+<adminName2>Sarasota County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Plantation%2C_Sarasota_County%2C_Florida</alternateName>
+<alternateName lang="ru">Плантация</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-82.38144</west>
+<north>27.07901</north>
+<east>-82.35783</east>
+<south>27.0497</south>
+</bbox>
+<score>61.746124267578125</score>
+</geoname>
+<geoname>
+<toponymName>Plantation</toponymName>
+<name>Plantation</name>
+<lat>38.2834</lat>
+<lng>-85.59107</lng>
+<geonameId>4304518</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>832</population>
+<alternateNames>Plantacija,Плантация</alternateNames>
+<elevation>193</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>111</adminCode2>
+<adminName2>Jefferson County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Plantation%2C_Kentucky</alternateName>
+<alternateName lang="ru">Плантация</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Kentucky/Louisville</timezone>
+<bbox>
+<west>-85.59222</west>
+<north>38.2843</north>
+<east>-85.58993</east>
+<south>38.2825</south>
+</bbox>
+<score>51.455101013183594</score>
+</geoname>
+<geoname>
+<toponymName>Plantation</toponymName>
+<name>Plantation</name>
+<lat>24.97624</lat>
+<lng>-80.55228</lng>
+<geonameId>4168783</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1885</population>
+<alternateNames/>
+<elevation>3</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="FL">FL</adminCode1>
+<adminName1>Florida</adminName1>
+<adminCode2>087</adminCode2>
+<adminName2>Monroe County</adminName2>
+<alternateName lang="unlc">PL9</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-80.55724</west>
+<north>24.98074</north>
+<east>-80.54732</east>
+<south>24.97175</south>
+</bbox>
+<score>41.16408157348633</score>
+</geoname>
+<geoname>
+<toponymName>Plantation</toponymName>
+<name>Plantation</name>
+<lat>33.09735</lat>
+<lng>-89.50924</lng>
+<geonameId>4441573</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>141</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MS">MS</adminCode1>
+<adminName1>Mississippi</adminName1>
+<adminCode2>007</adminCode2>
+<adminName2>Attala County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-89.51998</west>
+<north>33.10634</north>
+<east>-89.4985</east>
+<south>33.08836</south>
+</bbox>
+<score>41.16408157348633</score>
+</geoname>
+<geoname>
+<toponymName>Plantation</toponymName>
+<name>Plantation</name>
+<lat>41.68361</lat>
+<lng>-88.20139</lng>
+<geonameId>7151254</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>198</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>197</adminCode2>
+<adminName2>Will County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-88.21343</west>
+<north>41.6926</north>
+<east>-88.18934</east>
+<south>41.67462</south>
+</bbox>
+<score>41.16408157348633</score>
+</geoname>
+<geoname>
+<toponymName>Plantation House</toponymName>
+<name>Plantation House</name>
+<lat>-15.95</lat>
+<lng>-5.71667</lng>
+<geonameId>3370803</geonameId>
+<countryCode>SH</countryCode>
+<countryName>Saint Helena</countryName>
+<fcl>S</fcl>
+<fcode>EST</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>estate(s)</fcodeName>
+<population/>
+<alternateNames>Plantation,Plantation House</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="HL">02</adminCode1>
+<adminName1>Saint Helena</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Plantation_House_%28Saint_Helena%29</alternateName>
+<timezone dstOffset="0.0" gmtOffset="0.0">Atlantic/St_Helena</timezone>
+<score>25.468975067138672</score>
+</geoname>
+<geoname>
+<toponymName>Plantation</toponymName>
+<name>Plantation</name>
+<lat>37.24069</lat>
+<lng>-75.96243</lng>
+<geonameId>4779368</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>10</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>131</adminCode2>
+<adminName2>Northampton County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>12.863775253295898</score>
+</geoname>
+<geoname>
+<toponymName>Plantation</toponymName>
+<name>Plantation</name>
+<lat>38.59019</lat>
+<lng>-123.31029</lng>
+<geonameId>5383587</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>232</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>097</adminCode2>
+<adminName2>Sonoma County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>12.863775253295898</score>
+</geoname>
+<geoname>
+<toponymName>Plantation</toponymName>
+<name>Plantation</name>
+<lat>-31.31933</lat>
+<lng>116.1154</lng>
+<geonameId>8353190</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>S</fcl>
+<fcode>HMSD</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>homestead</fcodeName>
+<population/>
+<alternateNames>Plantation</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="WA">08</adminCode1>
+<adminName1>Western Australia</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Plantation</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Australia/Perth</timezone>
+<score>12.603874206542969</score>
+</geoname>
+</geonames>

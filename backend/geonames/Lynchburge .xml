@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>11</totalResultsCount>
+<geoname>
+<toponymName>Lynchburg</toponymName>
+<name>Lynchburg</name>
+<lat>34.96232</lat>
+<lng>-90.09593</lng>
+<geonameId>4434465</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2437</population>
+<alternateNames/>
+<elevation>92</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MS">MS</adminCode1>
+<adminName1>Mississippi</adminName1>
+<adminCode2>033</adminCode2>
+<adminName2>DeSoto County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lynchburg%2C_Mississippi</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.10369</west>
+<north>34.96868</north>
+<east>-90.08817</east>
+<south>34.95596</south>
+</bbox>
+<score>81.83595275878906</score>
+</geoname>
+<geoname>
+<toponymName>Lynchburg</toponymName>
+<name>Lynchburg</name>
+<lat>39.24173</lat>
+<lng>-83.79131</lng>
+<geonameId>4517264</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1499</population>
+<alternateNames/>
+<elevation>307</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>071</adminCode2>
+<adminName2>Highland County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lynchburg%2C_Ohio</alternateName>
+<alternateName lang="post">45142</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-83.79712</west>
+<north>39.24623</north>
+<east>-83.78551</east>
+<south>39.23723</south>
+</bbox>
+<score>71.60646057128906</score>
+</geoname>
+<geoname>
+<toponymName>Lynchburg</toponymName>
+<name>Lynchburg</name>
+<lat>37.41375</lat>
+<lng>-79.14225</lng>
+<geonameId>4771075</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>75568</population>
+<alternateNames>LYH,Linchburg,Lynchburg,lin qi bao,linchibeogeu,lynchbrg, wyrjynya,lynshbrgh,rinchibagu,Линчбург,Линчбърг,لينشبرغ,لینچبرگ، ویرجینیا,リンチバーグ,林奇堡,린치버그</alternateNames>
+<elevation>192</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>680</adminCode2>
+<adminName2>City of Lynchburg</adminName2>
+<alternateName lang="ar">لينشبرغ</alternateName>
+<alternateName lang="bg">Линчбърг</alternateName>
+<alternateName lang="de">Lynchburg</alternateName>
+<alternateName lang="en">Lynchburg</alternateName>
+<alternateName lang="fa">لینچبرگ، ویرجینیا</alternateName>
+<alternateName lang="iata">LYH</alternateName>
+<alternateName lang="ja">リンチバーグ</alternateName>
+<alternateName lang="ko">린치버그</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lynchburg%2C_Virginia</alternateName>
+<alternateName lang="pl">Lynchburg</alternateName>
+<alternateName lang="post">24503</alternateName>
+<alternateName lang="pt">Lynchburg</alternateName>
+<alternateName lang="sr">Линчбург</alternateName>
+<alternateName lang="unlc">LYH</alternateName>
+<alternateName lang="zh">林奇堡</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-79.27177</west>
+<north>37.46931</north>
+<east>-79.08524</east>
+<south>37.33258</south>
+</bbox>
+<score>70.87201690673828</score>
+</geoname>
+<geoname>
+<toponymName>Lynchburg</toponymName>
+<name>Lynchburg</name>
+<lat>34.06016</lat>
+<lng>-80.07146</lng>
+<geonameId>4585999</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>373</population>
+<alternateNames/>
+<elevation>46</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SC">SC</adminCode1>
+<adminName1>South Carolina</adminName1>
+<adminCode2>061</adminCode2>
+<adminName2>Lee County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lynchburg%2C_South_Carolina</alternateName>
+<alternateName lang="post">29080</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-80.07255</west>
+<north>34.06106</north>
+<east>-80.07037</east>
+<south>34.05926</south>
+</bbox>
+<score>61.3769645690918</score>
+</geoname>
+<geoname>
+<toponymName>Lynchburg</toponymName>
+<name>Lynchburg</name>
+<lat>35.28314</lat>
+<lng>-86.37416</lng>
+<geonameId>4638782</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>6132</population>
+<alternateNames/>
+<elevation>245</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TN">TN</adminCode1>
+<adminName1>Tennessee</adminName1>
+<adminCode2>127</adminCode2>
+<adminName2>Moore County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lynchburg%2C_Tennessee</alternateName>
+<alternateName lang="post">37352</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-86.38648</west>
+<north>35.29319</north>
+<east>-86.36184</east>
+<south>35.27308</south>
+</bbox>
+<score>61.3769645690918</score>
+</geoname>
+<geoname>
+<toponymName>Lynchburg</toponymName>
+<name>Lynchburg</name>
+<lat>29.78717</lat>
+<lng>-95.05549</lng>
+<geonameId>4708425</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>9</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>201</adminCode2>
+<adminName2>Harris County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lynchburg%2C_Texas</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-95.06585</west>
+<north>29.79616</north>
+<east>-95.04512</east>
+<south>29.77818</south>
+</bbox>
+<score>61.3769645690918</score>
+</geoname>
+<geoname>
+<toponymName>Lynchburg</toponymName>
+<name>Lynchburg</name>
+<lat>32.44014</lat>
+<lng>-90.54899</lng>
+<geonameId>4434466</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3416</population>
+<alternateNames/>
+<elevation>79</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MS">MS</adminCode1>
+<adminName1>Mississippi</adminName1>
+<adminCode2>049</adminCode2>
+<adminName2>Hinds County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.55652</west>
+<north>32.4465</north>
+<east>-90.54145</east>
+<south>32.43378</south>
+</bbox>
+<score>51.14746856689453</score>
+</geoname>
+<geoname>
+<toponymName>Lynchburg</toponymName>
+<name>Lynchburg</name>
+<lat>28.08807</lat>
+<lng>-81.75508</lng>
+<geonameId>4163046</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>48</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="FL">FL</adminCode1>
+<adminName1>Florida</adminName1>
+<adminCode2>105</adminCode2>
+<adminName2>Polk County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-81.76527</west>
+<north>28.09707</north>
+<east>-81.74488</east>
+<south>28.07908</south>
+</bbox>
+<score>40.91797637939453</score>
+</geoname>
+<geoname>
+<toponymName>Lynchburg</toponymName>
+<name>Lynchburg</name>
+<lat>46.77442</lat>
+<lng>-97.26287</lng>
+<geonameId>5060252</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>290</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ND">ND</adminCode1>
+<adminName1>North Dakota</adminName1>
+<adminCode2>017</adminCode2>
+<adminName2>Cass County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-97.276</west>
+<north>46.78341</north>
+<east>-97.24974</east>
+<south>46.76542</south>
+</bbox>
+<score>40.91797637939453</score>
+</geoname>
+<geoname>
+<toponymName>Lynchburg</toponymName>
+<name>Lynchburg</name>
+<lat>40.74117</lat>
+<lng>-80.99926</lng>
+<geonameId>5161492</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>335</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>029</adminCode2>
+<adminName2>Columbiana County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-81.01113</west>
+<north>40.75016</north>
+<east>-80.98739</east>
+<south>40.73218</south>
+</bbox>
+<score>40.91797637939453</score>
+</geoname>
+</geonames>

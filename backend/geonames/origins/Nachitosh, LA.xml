@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>931</totalResultsCount>
+<geoname>
+<toponymName>Natchitoches Parish</toponymName>
+<name>Natchitoches Parish</name>
+<lat>31.72354</lat>
+<lng>-93.09624</lng>
+<geonameId>4334734</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>39566</population>
+<alternateNames>Nachitosh,Natchitoches Paroecia,Paroisse de Natchitoches,Paroisse des Natchitoches,Parokya han Natchitoches,Paroquia de Natchitoches,Parrocchia di Natchitoches,Parroquia de Natchitoches,Paróquia de Natchitoches,Quan Natchitoches,Quận Natchitoches,na ji tuo shen xian,nacitocesa parisa,naketeshu jun,Начітош,Նաչիտոշ շրջան,ناچیٹوچس پارش,নাচিটোচেস পারিশ,ナケテシュ郡,納基托什縣</alternateNames>
+<elevation>34</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>069</adminCode2>
+<adminName2>Natchitoches Parish</adminName2>
+<alternateName lang="bpy">নাচিটোচেস পারিশ</alternateName>
+<alternateName lang="es">Parroquia de Natchitoches</alternateName>
+<alternateName lang="fr">Paroisse de Natchitoches</alternateName>
+<alternateName lang="hy">Նաչիտոշ շրջան</alternateName>
+<alternateName lang="it">Parrocchia di Natchitoches</alternateName>
+<alternateName lang="ja">ナケテシュ郡</alternateName>
+<alternateName lang="la">Natchitoches Paroecia</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Natchitoches_Parish%2C_Louisiana</alternateName>
+<alternateName lang="pnb">ناچیٹوچس پارش</alternateName>
+<alternateName lang="pt">Paróquia de Natchitoches</alternateName>
+<alternateName lang="uk">Начітош</alternateName>
+<alternateName lang="vi">Quận Natchitoches</alternateName>
+<alternateName lang="war">Parokya han Natchitoches</alternateName>
+<alternateName lang="zh">納基托什縣</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-93.4418</west>
+<north>32.14877</north>
+<east>-92.71905</east>
+<south>31.34677</south>
+</bbox>
+<score>9.38661003112793</score>
+</geoname>
+<geoname>
+<toponymName>Natchitoches Regional Airport</toponymName>
+<name>Natchitoches Regional Airport</name>
+<lat>31.73593</lat>
+<lng>-93.09714</lng>
+<geonameId>4334741</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>AIRP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>airport</fcodeName>
+<population/>
+<alternateNames>KIER</alternateNames>
+<elevation>35</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>069</adminCode2>
+<adminName2>Natchitoches Parish</adminName2>
+<alternateName lang="icao">KIER</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Natchitoches_Regional_Airport</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>7.3470892906188965</score>
+</geoname>
+<geoname>
+<toponymName>Ajax</toponymName>
+<name>Ajax</name>
+<lat>31.87655</lat>
+<lng>-93.3899</lng>
+<geonameId>4314482</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>73</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>069</adminCode2>
+<adminName2>Natchitoches Parish</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ajax%2C_Louisiana</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-93.40049</west>
+<north>31.88555</north>
+<east>-93.3793</east>
+<south>31.86756</south>
+</bbox>
+<score>5.877671241760254</score>
+</geoname>
+<geoname>
+<toponymName>Allen</toponymName>
+<name>Allen</name>
+<lat>31.83544</lat>
+<lng>-93.2885</lng>
+<geonameId>4314588</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>51</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>069</adminCode2>
+<adminName2>Natchitoches Parish</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Allen%2C_Louisiana</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-93.29909</west>
+<north>31.84443</north>
+<east>-93.27792</east>
+<south>31.82645</south>
+</bbox>
+<score>5.877671241760254</score>
+</geoname>
+<geoname>
+<toponymName>Ashland</toponymName>
+<name>Ashland</name>
+<lat>32.14183</lat>
+<lng>-93.09822</lng>
+<geonameId>4315083</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>269</population>
+<alternateNames/>
+<elevation>68</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>069</adminCode2>
+<adminName2>Natchitoches Parish</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ashland%2C_Louisiana</alternateName>
+<alternateName lang="post">71002</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-93.09928</west>
+<north>32.14272</north>
+<east>-93.09716</east>
+<south>32.14093</south>
+</bbox>
+<score>5.877671241760254</score>
+</geoname>
+<geoname>
+<toponymName>Campti</toponymName>
+<name>Campti</name>
+<lat>31.8935</lat>
+<lng>-93.11822</lng>
+<geonameId>4318812</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1056</population>
+<alternateNames/>
+<elevation>39</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>069</adminCode2>
+<adminName2>Natchitoches Parish</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Campti%2C_Louisiana</alternateName>
+<alternateName lang="post">71411</alternateName>
+<alternateName lang="unlc">CIM</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-93.11928</west>
+<north>31.89439</north>
+<east>-93.11716</east>
+<south>31.8926</south>
+</bbox>
+<score>5.877671241760254</score>
+</geoname>
+<geoname>
+<toponymName>Chopin</toponymName>
+<name>Chopin</name>
+<lat>31.49684</lat>
+<lng>-92.85932</lng>
+<geonameId>4319875</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>32</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>069</adminCode2>
+<adminName2>Natchitoches Parish</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Chopin%2C_Louisiana</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.86987</west>
+<north>31.50583</north>
+<east>-92.84877</east>
+<south>31.48785</south>
+</bbox>
+<score>5.877671241760254</score>
+</geoname>
+<geoname>
+<toponymName>Clarence</toponymName>
+<name>Clarence</name>
+<lat>31.82155</lat>
+<lng>-93.02961</lng>
+<geonameId>4320134</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>499</population>
+<alternateNames/>
+<elevation>36</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>069</adminCode2>
+<adminName2>Natchitoches Parish</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Clarence%2C_Louisiana</alternateName>
+<alternateName lang="post">71414</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-93.03066</west>
+<north>31.82245</north>
+<east>-93.02855</east>
+<south>31.82065</south>
+</bbox>
+<score>5.877671241760254</score>
+</geoname>
+<geoname>
+<toponymName>Cloutierville</toponymName>
+<name>Cloutierville</name>
+<lat>31.54323</lat>
+<lng>-92.91821</lng>
+<geonameId>4320295</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>31</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>069</adminCode2>
+<adminName2>Natchitoches Parish</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cloutierville%2C_Louisiana</alternateName>
+<alternateName lang="post">71416</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.92877</west>
+<north>31.55222</north>
+<east>-92.90766</east>
+<south>31.53423</south>
+</bbox>
+<score>5.877671241760254</score>
+</geoname>
+<geoname>
+<toponymName>Derry</toponymName>
+<name>Derry</name>
+<lat>31.53406</lat>
+<lng>-92.94766</lng>
+<geonameId>4322013</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>32</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>069</adminCode2>
+<adminName2>Natchitoches Parish</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Derry%2C_Louisiana</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.95821</west>
+<north>31.54305</north>
+<east>-92.93711</east>
+<south>31.52507</south>
+</bbox>
+<score>5.877671241760254</score>
+</geoname>
+</geonames>

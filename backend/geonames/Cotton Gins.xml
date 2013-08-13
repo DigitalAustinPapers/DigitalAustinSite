@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Cotton Gin</toponymName>
+<name>Cotton Gin</name>
+<lat>31.681</lat>
+<lng>-96.36053</lng>
+<geonameId>4683523</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>159</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>161</adminCode2>
+<adminName2>Freestone County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-96.3711</west>
+<north>31.69</north>
+<east>-96.34996</east>
+<south>31.67201</south>
+</bbox>
+<score>45.244083404541016</score>
+</geoname>
+<geoname>
+<toponymName>Cotton Sinks</toponymName>
+<name>Cotton Sinks</name>
+<lat>34.42843</lat>
+<lng>-86.4886</lng>
+<geonameId>4057114</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>DPR</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>depression(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>200</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AL">AL</adminCode1>
+<adminName1>Alabama</adminName1>
+<adminCode2>095</adminCode2>
+<adminName2>Marshall County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>8.226192474365234</score>
+</geoname>
+</geonames>

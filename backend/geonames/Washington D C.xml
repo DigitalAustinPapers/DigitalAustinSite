@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>District of Columbia</toponymName>
+<name>Washington, D.C.</name>
+<lat>38.91706</lat>
+<lng>-77.00025</lng>
+<geonameId>4138106</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>first-order administrative division</fcodeName>
+<population>552433</population>
+<alternateNames>D.C.,DC,District of Columbia,Distrito de Columbia,Okrug Kolumbija,Washington D.C.,Washington DC,Washington, D.C.,Округ Колумбия</alternateNames>
+<elevation>27</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="DC">DC</adminCode1>
+<adminName1>Washington, D.C.</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="abbr">D.C.</alternateName>
+<alternateName lang="en">Washington, D.C.</alternateName>
+<alternateName lang="es">Washington D.C.</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Washington,_D.C.</alternateName>
+<alternateName lang="ru">Округ Колумбия</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-77.11977</west>
+<north>38.99555</north>
+<east>-76.90939</east>
+<south>38.79164</south>
+</bbox>
+<score>78.56194305419922</score>
+</geoname>
+<geoname>
+<toponymName>Washington, D. C.</toponymName>
+<name>Washington</name>
+<lat>38.89511</lat>
+<lng>-77.03637</lng>
+<geonameId>4140963</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLC</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>capital of a political entity</fcodeName>
+<population>601723</population>
+<alternateNames>Ouasinkton,Vashington,Vasingtonia,WAS,Washington,Washington D.C.,Washington DC,Waszyngton,Ουάσιγκτον,Вашингтон</alternateNames>
+<elevation>7</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="DC">DC</adminCode1>
+<adminName1>Washington, D.C.</adminName1>
+<adminCode2>001</adminCode2>
+<adminName2>US.DC.001</adminName2>
+<alternateName lang="da">Washington</alternateName>
+<alternateName lang="de">Washington</alternateName>
+<alternateName lang="el">Ουάσιγκτον</alternateName>
+<alternateName lang="en">Washington</alternateName>
+<alternateName lang="es">Washington</alternateName>
+<alternateName lang="fi">Washington</alternateName>
+<alternateName lang="fr">Washington</alternateName>
+<alternateName lang="iata">WAS</alternateName>
+<alternateName lang="it">Washington</alternateName>
+<alternateName lang="la">Vasingtonia</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Washington%2C_D.C.</alternateName>
+<alternateName lang="pl">Waszyngton</alternateName>
+<alternateName lang="post">20549</alternateName>
+<alternateName lang="pt">Washington</alternateName>
+<alternateName lang="ru">Вашингтон</alternateName>
+<alternateName lang="sv">Washington</alternateName>
+<alternateName lang="unlc">WAS</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-77.16587</west>
+<north>38.99576</north>
+<east>-76.90686</east>
+<south>38.79446</south>
+</bbox>
+<score>49.06655502319336</score>
+</geoname>
+</geonames>

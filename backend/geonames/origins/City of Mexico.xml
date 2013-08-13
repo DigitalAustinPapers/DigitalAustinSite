@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>City of Mexico</toponymName>
+<name>City of Mexico</name>
+<lat>39.16296</lat>
+<lng>-91.87103</lng>
+<geonameId>7163758</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>administrative division</fcodeName>
+<population>11543</population>
+<alternateNames/>
+<elevation>233</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>007</adminCode2>
+<adminName2>Audrain County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-91.92352</west>
+<north>39.20781</north>
+<east>-91.80145</east>
+<south>39.11162</south>
+</bbox>
+<score>64.09305572509766</score>
+</geoname>
+<geoname>
+<toponymName>City of Texico</toponymName>
+<name>City of Texico</name>
+<lat>34.38964</lat>
+<lng>-103.05129</lng>
+<geonameId>7174558</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>administrative division</fcodeName>
+<population>1130</population>
+<alternateNames/>
+<elevation>1264</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NM">NM</adminCode1>
+<adminName1>New Mexico</adminName1>
+<adminCode2>009</adminCode2>
+<adminName2>Curry County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<bbox>
+<west>-103.06451</west>
+<north>34.39791</north>
+<east>-103.04355</east>
+<south>34.38181</south>
+</bbox>
+<score>41.20267105102539</score>
+</geoname>
+<geoname>
+<toponymName>City of Paxico</toponymName>
+<name>City of Paxico</name>
+<lat>39.06885</lat>
+<lng>-96.1671</lng>
+<geonameId>7164330</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>administrative division</fcodeName>
+<population>221</population>
+<alternateNames/>
+<elevation>302</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KS">KS</adminCode1>
+<adminName1>Kansas</adminName1>
+<adminCode2>197</adminCode2>
+<adminName2>Wabaunsee County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-96.17146</west>
+<north>39.07287</north>
+<east>-96.16419</east>
+<south>39.06552</south>
+</bbox>
+<score>18.312301635742188</score>
+</geoname>
+<geoname>
+<toponymName>City of Puxico</toponymName>
+<name>City of Puxico</name>
+<lat>36.95076</lat>
+<lng>-90.15859</lng>
+<geonameId>7164398</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>administrative division</fcodeName>
+<population>881</population>
+<alternateNames/>
+<elevation>113</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>207</adminCode2>
+<adminName2>Stoddard County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.16923</west>
+<north>36.95737</north>
+<east>-90.14587</east>
+<south>36.9439</south>
+</bbox>
+<score>18.312301635742188</score>
+</geoname>
+</geonames>

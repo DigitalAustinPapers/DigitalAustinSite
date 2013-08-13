@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>10</totalResultsCount>
+<geoname>
+<toponymName>Russellville</toponymName>
+<name>Russellville</name>
+<lat>36.84532</lat>
+<lng>-86.88722</lng>
+<geonameId>4307025</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>6960</population>
+<alternateNames/>
+<elevation>181</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>141</adminCode2>
+<adminName2>Logan County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Russellville%2C_Kentucky</alternateName>
+<alternateName lang="post">42276</alternateName>
+<alternateName lang="unlc">RVK</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-86.89979</west>
+<north>36.85538</north>
+<east>-86.87465</east>
+<south>36.83526</south>
+</bbox>
+<score>15.55417251586914</score>
+</geoname>
+<geoname>
+<toponymName>Russellville-Logan County Airport</toponymName>
+<name>Russellville-Logan County Airport</name>
+<lat>36.79992</lat>
+<lng>-86.81017</lng>
+<geonameId>4307015</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>AIRP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>airport</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>208</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>141</adminCode2>
+<adminName2>Logan County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>12.443338394165039</score>
+</geoname>
+<geoname>
+<toponymName>City of Russellville</toponymName>
+<name>City of Russellville</name>
+<lat>36.8396</lat>
+<lng>-86.89512</lng>
+<geonameId>7170163</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>administrative division</fcodeName>
+<population>6960</population>
+<alternateNames/>
+<elevation>186</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>141</adminCode2>
+<adminName2>Logan County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-86.93684</west>
+<north>36.86416</north>
+<east>-86.8587</east>
+<south>36.80627</south>
+</bbox>
+<score>12.443338394165039</score>
+</geoname>
+<geoname>
+<toponymName>Comfort Inn Russellville</toponymName>
+<name>Comfort Inn Russellville</name>
+<lat>36.8433</lat>
+<lng>-86.8714</lng>
+<geonameId>6514971</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>HTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>hotel</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>141</adminCode2>
+<adminName2>Logan County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>2.953256845474243</score>
+</geoname>
+<geoname>
+<toponymName>WBVR-FM (Russellville)</toponymName>
+<name>WBVR-FM (Russellville)</name>
+<lat>36.84449</lat>
+<lng>-86.91972</lng>
+<geonameId>4312162</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>TOWR</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>tower</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>198</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>141</adminCode2>
+<adminName2>Logan County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>2.721980094909668</score>
+</geoname>
+<geoname>
+<toponymName>WRUS-AM (Russellville)</toponymName>
+<name>WRUS-AM (Russellville)</name>
+<lat>36.81421</lat>
+<lng>-86.88055</lng>
+<geonameId>4312423</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>TOWR</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>tower</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>203</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>141</adminCode2>
+<adminName2>Logan County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>2.721980094909668</score>
+</geoname>
+<geoname>
+<toponymName>WRUS-AM (Russellville)</toponymName>
+<name>WRUS-AM (Russellville)</name>
+<lat>36.87476</lat>
+<lng>-86.88222</lng>
+<geonameId>4312424</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>TOWR</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>tower</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>180</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>141</adminCode2>
+<adminName2>Logan County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>2.721980094909668</score>
+</geoname>
+<geoname>
+<toponymName>Russellville Fire Department</toponymName>
+<name>Russellville Fire Department</name>
+<lat>36.8446</lat>
+<lng>-86.88755</lng>
+<geonameId>8087862</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>BLDG</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>building(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>182</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>141</adminCode2>
+<adminName2>Logan County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>2.721980094909668</score>
+</geoname>
+<geoname>
+<toponymName>Russellville Rural Fire Department</toponymName>
+<name>Russellville Rural Fire Department</name>
+<lat>36.85099</lat>
+<lng>-86.91914</lng>
+<geonameId>8088286</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>BLDG</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>building(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>191</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>141</adminCode2>
+<adminName2>Logan County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>2.721980094909668</score>
+</geoname>
+<geoname>
+<toponymName>Best Western Briarwood Inn</toponymName>
+<name>Best Western Briarwood Inn</name>
+<lat>36.8422</lat>
+<lng>-86.866</lng>
+<geonameId>6530763</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>HTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>hotel</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>141</adminCode2>
+<adminName2>Logan County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>1.7422759532928467</score>
+</geoname>
+</geonames>

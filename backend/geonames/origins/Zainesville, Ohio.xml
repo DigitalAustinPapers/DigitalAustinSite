@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>40</totalResultsCount>
+<geoname>
+<toponymName>Zanesville</toponymName>
+<name>Zanesville</name>
+<lat>39.94035</lat>
+<lng>-82.01319</lng>
+<geonameId>4528923</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>25487</population>
+<alternateNames>ZZV,Zehjnsvill,ceng si wei er,zanysfyl, awhayw,znswyl, awhayw,Зэйнсвилл,زانيسفيل، أوهايو,زنسویل، اوهایو,曾斯維爾</alternateNames>
+<elevation>206</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>119</adminCode2>
+<adminName2>Muskingum County</adminName2>
+<alternateName lang="ar">زانيسفيل، أوهايو</alternateName>
+<alternateName lang="fa">زنسویل، اوهایو</alternateName>
+<alternateName lang="iata">ZZV</alternateName>
+<alternateName lang="kk">Зэйнсвилл</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Zanesville%2C_Ohio</alternateName>
+<alternateName lang="post">43702</alternateName>
+<alternateName lang="unlc">ZZV</alternateName>
+<alternateName lang="zh">曾斯維爾</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-82.05405</west>
+<north>40.02314</north>
+<east>-81.97923</east>
+<south>39.90868</south>
+</bbox>
+<score>23.923871994018555</score>
+</geoname>
+<geoname>
+<toponymName>North Zanesville</toponymName>
+<name>North Zanesville</name>
+<lat>39.97868</lat>
+<lng>-82.00347</lng>
+<geonameId>4519923</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2816</population>
+<alternateNames/>
+<elevation>274</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>119</adminCode2>
+<adminName2>Muskingum County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/North_Zanesville%2C_Ohio</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-82.01177</west>
+<north>39.98504</north>
+<east>-81.99517</east>
+<south>39.97232</south>
+</bbox>
+<score>20.506175994873047</score>
+</geoname>
+<geoname>
+<toponymName>South Zanesville</toponymName>
+<name>South Zanesville</name>
+<lat>39.89923</lat>
+<lng>-82.00625</lng>
+<geonameId>4525137</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1989</population>
+<alternateNames/>
+<elevation>225</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>119</adminCode2>
+<adminName2>Muskingum County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/South_Zanesville%2C_Ohio</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-82.01211</west>
+<north>39.90373</north>
+<east>-82.00039</east>
+<south>39.89474</south>
+</bbox>
+<score>20.506175994873047</score>
+</geoname>
+<geoname>
+<toponymName>Zanesville Municipal Airport</toponymName>
+<name>Zanesville Municipal Airport</name>
+<lat>39.94424</lat>
+<lng>-81.89208</lng>
+<geonameId>4528929</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>AIRP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>airport</fcodeName>
+<population/>
+<alternateNames>KZZV,ZZV</alternateNames>
+<elevation>270</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>119</adminCode2>
+<adminName2>Muskingum County</adminName2>
+<alternateName lang="iata">ZZV</alternateName>
+<alternateName lang="icao">KZZV</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Zanesville_Municipal_Airport</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>20.506175994873047</score>
+</geoname>
+<geoname>
+<toponymName>City of Zanesville</toponymName>
+<name>City of Zanesville</name>
+<lat>39.95678</lat>
+<lng>-82.01334</lng>
+<geonameId>4528933</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>administrative division</fcodeName>
+<population>25487</population>
+<alternateNames/>
+<elevation>235</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>119</adminCode2>
+<adminName2>Muskingum County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-82.05405</west>
+<north>40.02314</north>
+<east>-81.97923</east>
+<south>39.90868</south>
+</bbox>
+<score>13.670783996582031</score>
+</geoname>
+<geoname>
+<toponymName>Village of South Zanesville</toponymName>
+<name>Village of South Zanesville</name>
+<lat>39.90362</lat>
+<lng>-82.01794</lng>
+<geonameId>7167482</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>administrative division</fcodeName>
+<population>1989</population>
+<alternateNames/>
+<elevation>226</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>119</adminCode2>
+<adminName2>Muskingum County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-82.02961</west>
+<north>39.91084</north>
+<east>-82.00398</east>
+<south>39.89324</south>
+</bbox>
+<score>13.670783996582031</score>
+</geoname>
+<geoname>
+<toponymName>Zanesville High School</toponymName>
+<name>Zanesville High School</name>
+<lat>39.95979</lat>
+<lng>-82.01736</lng>
+<geonameId>4528927</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>SCH</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>school</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>241</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>119</adminCode2>
+<adminName2>Muskingum County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Zanesville_High_School</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>11.961935997009277</score>
+</geoname>
+<geoname>
+<toponymName>WHIZ-TV (Zanesville)</toponymName>
+<name>WHIZ-TV (Zanesville)</name>
+<lat>39.9284</lat>
+<lng>-81.98486</lng>
+<geonameId>4527348</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>TOWR</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>tower</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>276</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>119</adminCode2>
+<adminName2>Muskingum County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/WHIZ-TV</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>10.253087997436523</score>
+</geoname>
+<geoname>
+<toponymName>West Zanesville</toponymName>
+<name>West Zanesville</name>
+<lat>39.9459</lat>
+<lng>-82.01791</lng>
+<geonameId>4528086</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>212</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>119</adminCode2>
+<adminName2>Muskingum County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-82.02965</west>
+<north>39.95489</north>
+<east>-82.00618</east>
+<south>39.93691</south>
+</bbox>
+<score>8.544239044189453</score>
+</geoname>
+<geoname>
+<toponymName>Zanesville Terrace</toponymName>
+<name>Zanesville Terrace</name>
+<lat>39.89951</lat>
+<lng>-82.03375</lng>
+<geonameId>4528932</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>229</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>119</adminCode2>
+<adminName2>Muskingum County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-82.04547</west>
+<north>39.90851</north>
+<east>-82.02202</east>
+<south>39.89052</south>
+</bbox>
+<score>8.544239044189453</score>
+</geoname>
+</geonames>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Inland Colony</toponymName>
+<name>Inland Colony</name>
+<lat>36.72944</lat>
+<lng>-76.28167</lng>
+<geonameId>6332252</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>3</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>550</adminCode2>
+<adminName2>City of Chesapeake</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-76.29289</west>
+<north>36.73844</north>
+<east>-76.27044</east>
+<south>36.72045</south>
+</bbox>
+<score>45.98583984375</score>
+</geoname>
+</geonames>

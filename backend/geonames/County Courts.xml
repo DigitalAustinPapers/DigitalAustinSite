@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Country Court</toponymName>
+<name>Country Court</name>
+<lat>45.60548</lat>
+<lng>-111.19245</lng>
+<geonameId>5646694</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1503</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MT">MT</adminCode1>
+<adminName1>Montana</adminName1>
+<adminCode2>031</adminCode2>
+<adminName2>Gallatin County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<bbox>
+<west>-111.20531</west>
+<north>45.61448</north>
+<east>-111.1796</east>
+<south>45.59649</south>
+</bbox>
+<score>45.98583984375</score>
+</geoname>
+</geonames>

@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>38</totalResultsCount>
+<geoname>
+<toponymName>Selder Creek</toponymName>
+<name>Selder Creek</name>
+<lat>45.87622</lat>
+<lng>-123.31956</lng>
+<geonameId>5751077</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>234</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OR">OR</adminCode1>
+<adminName1>Oregon</adminName1>
+<adminCode2>009</adminCode2>
+<adminName2>Columbia County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>8.45598316192627</score>
+</geoname>
+<geoname>
+<toponymName>Seeber Creek</toponymName>
+<name>Seeber Creek</name>
+<lat>36.08869</lat>
+<lng>-84.27937</lng>
+<geonameId>4656395</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>262</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TN">TN</adminCode1>
+<adminName1>Tennessee</adminName1>
+<adminCode2>001</adminCode2>
+<adminName2>Anderson County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>8.03947925567627</score>
+</geoname>
+<geoname>
+<toponymName>Seeber Creek</toponymName>
+<name>Seeber Creek</name>
+<lat>36.11758</lat>
+<lng>-84.23409</lng>
+<geonameId>4656396</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>293</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TN">TN</adminCode1>
+<adminName1>Tennessee</adminName1>
+<adminCode2>001</adminCode2>
+<adminName2>Anderson County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>8.03947925567627</score>
+</geoname>
+<geoname>
+<toponymName>Seeley Creek</toponymName>
+<name>Seeley Creek</name>
+<lat>42.01452</lat>
+<lng>-76.89246</lng>
+<geonameId>5137584</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>316</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>015</adminCode2>
+<adminName2>Chemung County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-76.90457</west>
+<north>42.02351</north>
+<east>-76.88035</east>
+<south>42.00552</south>
+</bbox>
+<score>5.9336724281311035</score>
+</geoname>
+<geoname>
+<toponymName>Seelee Creek</toponymName>
+<name>Seelee Creek</name>
+<lat>-16.96389</lat>
+<lng>145.79722</lng>
+<geonameId>2207374</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="QLD">04</adminCode1>
+<adminName1>Queensland</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="10.0" gmtOffset="10.0">Australia/Brisbane</timezone>
+<score>2.4159927368164062</score>
+</geoname>
+<geoname>
+<toponymName>Selden Creek</toponymName>
+<name>Selden Creek</name>
+<lat>41.40917</lat>
+<lng>-72.41472</lng>
+<geonameId>4842791</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>8</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CT">CT</adminCode1>
+<adminName1>Connecticut</adminName1>
+<adminCode2>011</adminCode2>
+<adminName2>New London County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>2.4159927368164062</score>
+</geoname>
+<geoname>
+<toponymName>Senger Creek</toponymName>
+<name>Senger Creek</name>
+<lat>37.24161</lat>
+<lng>-118.88678</lng>
+<geonameId>5394379</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>2330</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>019</adminCode2>
+<adminName2>Fresno County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>2.4159927368164062</score>
+</geoname>
+<geoname>
+<toponymName>Setter Creek</toponymName>
+<name>Setter Creek</name>
+<lat>46.91941</lat>
+<lng>-110.46271</lng>
+<geonameId>5677005</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1835</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MT">MT</adminCode1>
+<adminName1>Montana</adminName1>
+<adminCode2>045</adminCode2>
+<adminName2>Judith Basin County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<score>2.4159927368164062</score>
+</geoname>
+<geoname>
+<toponymName>Sealer Creek</toponymName>
+<name>Sealer Creek</name>
+<lat>64.55</lat>
+<lng>-165.76667</lng>
+<geonameId>5873594</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>12</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AK">AK</adminCode1>
+<adminName1>Alaska</adminName1>
+<adminCode2>180</adminCode2>
+<adminName2>Nome Census Area</adminName2>
+<timezone dstOffset="-8.0" gmtOffset="-9.0">America/Nome</timezone>
+<score>2.4159927368164062</score>
+</geoname>
+<geoname>
+<toponymName>Seager Creek</toponymName>
+<name>Seager Creek</name>
+<lat>47.55011</lat>
+<lng>-81.21646</lng>
+<geonameId>6142922</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ON">08</adminCode1>
+<adminName1>Ontario</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Toronto</timezone>
+<score>2.4159927368164062</score>
+</geoname>
+</geonames>

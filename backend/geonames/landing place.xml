@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>8</totalResultsCount>
+<geoname>
+<toponymName>Landing Place</toponymName>
+<name>Landing Place</name>
+<lat>47.78346</lat>
+<lng>-79.24964</lng>
+<geonameId>6049237</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="QC">10</adminCode1>
+<adminName1>Quebec</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Montreal</timezone>
+<score>44.29124069213867</score>
+</geoname>
+<geoname>
+<toponymName>Landing Place</toponymName>
+<name>Landing Place</name>
+<lat>47.34989</lat>
+<lng>-52.71475</lng>
+<geonameId>6049236</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>H</fcl>
+<fcode>COVE</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>cove(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NL">05</adminCode1>
+<adminName1>Newfoundland and Labrador</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-2.5" gmtOffset="-3.5">America/St_Johns</timezone>
+<score>13.841012954711914</score>
+</geoname>
+<geoname>
+<toponymName>Landing Lake</toponymName>
+<name>Landing Lake</name>
+<lat>46.16245</lat>
+<lng>-89.26681</lng>
+<geonameId>5259468</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>LK</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>lake</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>516</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WI">WI</adminCode1>
+<adminName1>Wisconsin</adminName1>
+<adminCode2>125</adminCode2>
+<adminName2>Vilas County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>11.57427978515625</score>
+</geoname>
+<geoname>
+<toponymName>Landing Lake</toponymName>
+<name>Landing Lake</name>
+<lat>49.05011</lat>
+<lng>-87.90001</lng>
+<geonameId>6049231</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>H</fcl>
+<fcode>LK</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>lake</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ON">08</adminCode1>
+<adminName1>Ontario</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Toronto</timezone>
+<score>11.57427978515625</score>
+</geoname>
+<geoname>
+<toponymName>Landing Lake</toponymName>
+<name>Landing Lake</name>
+<lat>55.28827</lat>
+<lng>-97.43268</lng>
+<geonameId>6049232</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>H</fcl>
+<fcode>LK</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>lake</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MB">03</adminCode1>
+<adminName1>Manitoba</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Winnipeg</timezone>
+<score>11.57427978515625</score>
+</geoname>
+<geoname>
+<toponymName>Landing Lake</toponymName>
+<name>Landing Lake</name>
+<lat>64.5672</lat>
+<lng>-115.50282</lng>
+<geonameId>6049233</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>H</fcl>
+<fcode>LK</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>lake</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NT">13</adminCode1>
+<adminName1>Northwest Territories</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Yellowknife</timezone>
+<score>11.57427978515625</score>
+</geoname>
+<geoname>
+<toponymName>Landing Lake</toponymName>
+<name>Landing Lake</name>
+<lat>76.33461</lat>
+<lng>-119.80672</lng>
+<geonameId>6049234</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>H</fcl>
+<fcode>LK</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>lake</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NT">13</adminCode1>
+<adminName1>Northwest Territories</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Yellowknife</timezone>
+<score>11.57427978515625</score>
+</geoname>
+<geoname>
+<toponymName>Landing Lake</toponymName>
+<name>Landing Lake</name>
+<lat>62.5601</lat>
+<lng>-114.41086</lng>
+<geonameId>6049235</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>H</fcl>
+<fcode>LK</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>lake</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NT">13</adminCode1>
+<adminName1>Northwest Territories</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Yellowknife</timezone>
+<score>11.57427978515625</score>
+</geoname>
+</geonames>

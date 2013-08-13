@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Oulita</toponymName>
+<name>Oulita</name>
+<lat>7.51667</lat>
+<lng>0.91667</lng>
+<geonameId>2364547</geonameId>
+<countryCode>TG</countryCode>
+<countryName>Togo</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="0.0" gmtOffset="0.0">Africa/Lome</timezone>
+<bbox>
+<west>0.90759</west>
+<north>7.52566</north>
+<east>0.92574</east>
+<south>7.50767</south>
+</bbox>
+<score>22.992919921875</score>
+</geoname>
+<geoname>
+<toponymName>Ōgita</toponymName>
+<name>Ōgita</name>
+<lat>40.70517</lat>
+<lng>139.98496</lng>
+<geonameId>8470712</geonameId>
+<countryCode>JP</countryCode>
+<countryName>Japan</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Ogita,ougita,shan tian,Ōgita,おうぎた,オウギタ,扇田</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="02">03</adminCode1>
+<adminName1>Aomori Prefecture</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ja">オウギタ</alternateName>
+<timezone dstOffset="9.0" gmtOffset="9.0">Asia/Tokyo</timezone>
+<bbox>
+<west>139.9731</west>
+<north>40.71416</north>
+<east>139.99683</east>
+<south>40.69618</south>
+</bbox>
+<score>21.120344161987305</score>
+</geoname>
+<geoname>
+<toponymName>Oueïta</toponymName>
+<name>Oueïta</name>
+<lat>17.75297</lat>
+<lng>20.69384</lng>
+<geonameId>242214</geonameId>
+<countryCode>TD</countryCode>
+<countryName>Chad</countryName>
+<fcl>H</fcl>
+<fcode>WTRH</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>waterhole(s)</fcodeName>
+<population/>
+<alternateNames>Oude,Oudé,Oueita,Oueïta</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="EN">24</adminCode1>
+<adminName1>Ennedi Region</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="fr">Oudé</alternateName>
+<timezone dstOffset="1.0" gmtOffset="1.0">Africa/Ndjamena</timezone>
+<score>16.25844955444336</score>
+</geoname>
+<geoname>
+<toponymName>Oubita</toponymName>
+<name>Oubita</name>
+<lat>5.61667</lat>
+<lng>21.25</lng>
+<geonameId>236816</geonameId>
+<countryCode>CF</countryCode>
+<countryName>Central African Republic</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="1.0">Africa/Bangui</timezone>
+<score>7.1852874755859375</score>
+</geoname>
+</geonames>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Suburbs</toponymName>
+<name>Suburbs</name>
+<lat>-20.1545</lat>
+<lng>28.59281</lng>
+<geonameId>1106043</geonameId>
+<countryCode>ZW</countryCode>
+<countryName>Zimbabwe</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="BU">09</adminCode1>
+<adminName1>Bulawayo</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Harare</timezone>
+<bbox>
+<west>28.58898</west>
+<north>-20.15091</north>
+<east>28.59665</east>
+<south>-20.1581</south>
+</bbox>
+<score>28.350093841552734</score>
+</geoname>
+<geoname>
+<toponymName>Suburb</toponymName>
+<name>Suburb</name>
+<lat>34.00601</lat>
+<lng>-78.14861</lng>
+<geonameId>4493854</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>9</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NC">NC</adminCode1>
+<adminName1>North Carolina</adminName1>
+<adminCode2>019</adminCode2>
+<adminName2>Brunswick County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-78.15946</west>
+<north>34.015</north>
+<east>-78.13776</east>
+<south>33.99701</south>
+</bbox>
+<score>7.560019016265869</score>
+</geoname>
+</geonames>

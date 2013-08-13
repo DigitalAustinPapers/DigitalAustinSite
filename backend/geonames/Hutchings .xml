@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>8</totalResultsCount>
+<geoname>
+<toponymName>Hutchins</toponymName>
+<name>Hutchins</name>
+<lat>32.6493</lat>
+<lng>-96.71305</lng>
+<geonameId>4699608</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>5338</population>
+<alternateNames/>
+<elevation>142</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>113</adminCode2>
+<adminName2>Dallas County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hutchins%2C_Texas</alternateName>
+<alternateName lang="post">75141</alternateName>
+<alternateName lang="unlc">HTC</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-96.72373</west>
+<north>32.65829</north>
+<east>-96.70237</east>
+<south>32.64031</south>
+</bbox>
+<score>62.59749984741211</score>
+</geoname>
+<geoname>
+<toponymName>Hutchins</toponymName>
+<name>Hutchins</name>
+<lat>33.84179</lat>
+<lng>-83.16793</lng>
+<geonameId>4201876</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>241</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">GA</adminCode1>
+<adminName1>Georgia</adminName1>
+<adminCode2>221</adminCode2>
+<adminName2>Oglethorpe County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-83.17876</west>
+<north>33.85078</north>
+<east>-83.1571</east>
+<south>33.83279</south>
+</bbox>
+<score>41.731666564941406</score>
+</geoname>
+<geoname>
+<toponymName>Hutchins</toponymName>
+<name>Hutchins</name>
+<lat>36.67571</lat>
+<lng>-76.1891</lng>
+<geonameId>4765501</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>6</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>550</adminCode2>
+<adminName2>City of Chesapeake</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-76.20032</west>
+<north>36.6847</north>
+<east>-76.17789</east>
+<south>36.66671</south>
+</bbox>
+<score>41.731666564941406</score>
+</geoname>
+<geoname>
+<toponymName>Hutchins</toponymName>
+<name>Hutchins</name>
+<lat>43.09163</lat>
+<lng>-93.88106</lng>
+<geonameId>4861417</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>28</population>
+<alternateNames/>
+<elevation>366</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IA">IA</adminCode1>
+<adminName1>Iowa</adminName1>
+<adminCode2>081</adminCode2>
+<adminName2>Hancock County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-93.89353</west>
+<north>43.09202</north>
+<east>-93.88132</east>
+<south>43.08292</south>
+</bbox>
+<score>41.731666564941406</score>
+</geoname>
+<geoname>
+<toponymName>Hutchins</toponymName>
+<name>Hutchins</name>
+<lat>41.66228</lat>
+<lng>-78.62725</lng>
+<geonameId>5194645</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>647</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PA">PA</adminCode1>
+<adminName1>Pennsylvania</adminName1>
+<adminCode2>083</adminCode2>
+<adminName2>McKean County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-78.63929</west>
+<north>41.67128</north>
+<east>-78.61521</east>
+<south>41.65329</south>
+</bbox>
+<score>41.731666564941406</score>
+</geoname>
+<geoname>
+<toponymName>Hutchins</toponymName>
+<name>Hutchins</name>
+<lat>44.85949</lat>
+<lng>-72.60984</lng>
+<geonameId>5237266</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>199</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VT">VT</adminCode1>
+<adminName1>Vermont</adminName1>
+<adminCode2>019</adminCode2>
+<adminName2>Orleans County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-72.62253</west>
+<north>44.86849</north>
+<east>-72.59715</east>
+<south>44.8505</south>
+</bbox>
+<score>41.731666564941406</score>
+</geoname>
+<geoname>
+<toponymName>Hutchins</toponymName>
+<name>Hutchins</name>
+<lat>38.43974</lat>
+<lng>-100.91543</lng>
+<geonameId>5445644</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>896</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KS">KS</adminCode1>
+<adminName1>Kansas</adminName1>
+<adminCode2>171</adminCode2>
+<adminName2>Scott County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-100.92691</west>
+<north>38.44874</north>
+<east>-100.90395</east>
+<south>38.43075</south>
+</bbox>
+<score>41.731666564941406</score>
+</geoname>
+<geoname>
+<toponymName>Hutchins</toponymName>
+<name>Hutchins</name>
+<lat>43.09219</lat>
+<lng>-93.883</lng>
+<geonameId>4861418</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>366</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IA">IA</adminCode1>
+<adminName1>Iowa</adminName1>
+<adminCode2>081</adminCode2>
+<adminName2>Hancock County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>13.041145324707031</score>
+</geoname>
+</geonames>

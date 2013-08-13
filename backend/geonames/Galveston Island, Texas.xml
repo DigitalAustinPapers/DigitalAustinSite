@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Galveston Island</toponymName>
+<name>Galveston Island</name>
+<lat>29.22218</lat>
+<lng>-94.90881</lng>
+<geonameId>4692869</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>2</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>167</adminCode2>
+<adminName2>Galveston County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Galveston_Island</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-95.11475</west>
+<north>29.33679</north>
+<east>-94.72647</east>
+<south>29.08695</south>
+</bbox>
+<score>9.925025939941406</score>
+</geoname>
+</geonames>

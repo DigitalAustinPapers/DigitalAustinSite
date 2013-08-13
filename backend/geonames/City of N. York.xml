@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>City of New York</toponymName>
+<name>City of New York</name>
+<lat>40.66393</lat>
+<lng>-73.93827</lng>
+<geonameId>7163824</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>administrative division</fcodeName>
+<population>8175133</population>
+<alternateNames/>
+<elevation>22</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>047</adminCode2>
+<adminName2>Kings County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-74.25909</west>
+<north>40.91758</north>
+<east>-73.70027</east>
+<south>40.4774</south>
+</bbox>
+<score>80.4752197265625</score>
+</geoname>
+</geonames>

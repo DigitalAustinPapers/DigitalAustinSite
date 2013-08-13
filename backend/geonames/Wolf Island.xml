@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>82</totalResultsCount>
+<geoname>
+<toponymName>Wolf Island</toponymName>
+<name>Wolf Island</name>
+<lat>36.73922</lat>
+<lng>-89.21035</lng>
+<geonameId>4415256</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>95</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>133</adminCode2>
+<adminName2>Mississippi County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wolf_Island%2C_Missouri</alternateName>
+<alternateName lang="post">63881</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-89.22157</west>
+<north>36.74822</north>
+<east>-89.19912</east>
+<south>36.73023</south>
+</bbox>
+<score>42.81424331665039</score>
+</geoname>
+<geoname>
+<toponymName>Wolf Island</toponymName>
+<name>Wolf Island</name>
+<lat>31.12078</lat>
+<lng>-82.32513</lng>
+<geonameId>4231653</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>39</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">GA</adminCode1>
+<adminName1>Georgia</adminName1>
+<adminCode2>299</adminCode2>
+<adminName2>Ware County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>28.542829513549805</score>
+</geoname>
+<geoname>
+<toponymName>Wolf Island</toponymName>
+<name>Wolf Island</name>
+<lat>31.34634</lat>
+<lng>-81.3076</lng>
+<geonameId>4231660</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">GA</adminCode1>
+<adminName1>Georgia</adminName1>
+<adminCode2>191</adminCode2>
+<adminName2>McIntosh County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>28.542829513549805</score>
+</geoname>
+<geoname>
+<toponymName>Wolf Island</toponymName>
+<name>Wolf Island</name>
+<lat>35.21897</lat>
+<lng>-88.29921</lng>
+<geonameId>4668587</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>114</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TN">TN</adminCode1>
+<adminName1>Tennessee</adminName1>
+<adminCode2>071</adminCode2>
+<adminName2>Hardin County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>28.542829513549805</score>
+</geoname>
+<geoname>
+<toponymName>Wolf Island</toponymName>
+<name>Wolf Island</name>
+<lat>47.08892</lat>
+<lng>-69.02976</lng>
+<geonameId>4983399</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>180</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ME">ME</adminCode1>
+<adminName1>Maine</adminName1>
+<adminCode2>003</adminCode2>
+<adminName2>Aroostook County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>28.542829513549805</score>
+</geoname>
+<geoname>
+<toponymName>Wolf Island</toponymName>
+<name>Wolf Island</name>
+<lat>48.45047</lat>
+<lng>-92.89876</lng>
+<geonameId>5053270</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>358</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MN">MN</adminCode1>
+<adminName1>Minnesota</adminName1>
+<adminCode2>137</adminCode2>
+<adminName2>Saint Louis County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>28.542829513549805</score>
+</geoname>
+<geoname>
+<toponymName>Wolf Island</toponymName>
+<name>Wolf Island</name>
+<lat>40.48394</lat>
+<lng>-83.88549</lng>
+<geonameId>5177203</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>305</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>091</adminCode2>
+<adminName2>Logan County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>28.542829513549805</score>
+</geoname>
+<geoname>
+<toponymName>Wolf Island</toponymName>
+<name>Wolf Island</name>
+<lat>46.02995</lat>
+<lng>-91.02212</lng>
+<geonameId>5279523</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>419</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WI">WI</adminCode1>
+<adminName1>Wisconsin</adminName1>
+<adminCode2>113</adminCode2>
+<adminName2>Sawyer County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>28.542829513549805</score>
+</geoname>
+<geoname>
+<toponymName>Wolf Island</toponymName>
+<name>Wolf Island</name>
+<lat>47.7397</lat>
+<lng>-109.87769</lng>
+<geonameId>5687015</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>746</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MT">MT</adminCode1>
+<adminName1>Montana</adminName1>
+<adminCode2>015</adminCode2>
+<adminName2>Chouteau County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<score>28.542829513549805</score>
+</geoname>
+<geoname>
+<toponymName>Wolf Island</toponymName>
+<name>Wolf Island</name>
+<lat>48.4666</lat>
+<lng>-53.66479</lng>
+<geonameId>6183734</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NL">05</adminCode1>
+<adminName1>Newfoundland and Labrador</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-2.5" gmtOffset="-3.5">America/St_Johns</timezone>
+<score>28.542829513549805</score>
+</geoname>
+</geonames>

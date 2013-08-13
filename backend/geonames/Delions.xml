@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Deslions</toponymName>
+<name>Deslions</name>
+<lat>18.5</lat>
+<lng>-74.15</lng>
+<geonameId>3726601</geonameId>
+<countryCode>HT</countryCode>
+<countryName>Haiti</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">14</adminCode1>
+<adminName1>GrandʼAnse</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Port-au-Prince</timezone>
+<bbox>
+<west>-74.15948</west>
+<north>18.50899</north>
+<east>-74.14052</east>
+<south>18.49101</south>
+</bbox>
+<score>39.72160720825195</score>
+</geoname>
+<geoname>
+<toponymName>Delynysh</toponymName>
+<name>Delynysh</name>
+<lat>57.45</lat>
+<lng>25.65</lng>
+<geonameId>460373</geonameId>
+<countryCode>LV</countryCode>
+<countryName>Latvia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Delins,Delynysh,Dēliņš</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="075">A9</adminCode1>
+<adminName1>Priekuļu Novads</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="3.0" gmtOffset="2.0">Europe/Riga</timezone>
+<bbox>
+<west>25.63328</west>
+<north>57.45899</north>
+<east>25.66672</east>
+<south>57.44101</south>
+</bbox>
+<score>20.274553298950195</score>
+</geoname>
+</geonames>

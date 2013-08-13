@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Alexandria Bay</toponymName>
+<name>Alexandria Bay</name>
+<lat>44.33588</lat>
+<lng>-75.91773</lng>
+<geonameId>5106950</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1078</population>
+<alternateNames>AXB</alternateNames>
+<elevation>82</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>045</adminCode2>
+<adminName2>Jefferson County</adminName2>
+<alternateName lang="iata">AXB</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Alexandria_Bay%2C_New_York</alternateName>
+<alternateName lang="post">13607</alternateName>
+<alternateName lang="unlc">AXB</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-75.91899</west>
+<north>44.33678</north>
+<east>-75.91647</east>
+<south>44.33498</south>
+</bbox>
+<score>37.22760009765625</score>
+</geoname>
+<geoname>
+<toponymName>Alexandria Bay</toponymName>
+<name>Alexandria Bay</name>
+<lat>-26.3861</lat>
+<lng>153.11534</lng>
+<geonameId>7732911</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>T</fcl>
+<fcode>BCH</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>beach</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>0</elevation>
+<continentCode>OC</continentCode>
+<adminCode1/>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="10.0" gmtOffset="10.0">Australia/Brisbane</timezone>
+<score>29.782079696655273</score>
+</geoname>
+<geoname>
+<toponymName>Alexandria Bay</toponymName>
+<name>Alexandria Bay</name>
+<lat>-26.38479</lat>
+<lng>153.11745</lng>
+<geonameId>2178135</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>H</fcl>
+<fcode>BAY</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>bay</fcodeName>
+<population/>
+<alternateNames>Alexandra Bay,Alexandria Bay</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="QLD">04</adminCode1>
+<adminName1>Queensland</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="10.0" gmtOffset="10.0">Australia/Brisbane</timezone>
+<score>18.23772430419922</score>
+</geoname>
+<geoname>
+<toponymName>Alexandria Dam</toponymName>
+<name>Alexandria Dam</name>
+<lat>40.23167</lat>
+<lng>-97.33198</lng>
+<geonameId>5062853</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>DAM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>dam</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>421</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NE">NE</adminCode1>
+<adminName1>Nebraska</adminName1>
+<adminCode2>095</adminCode2>
+<adminName2>Jefferson County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>10.4517822265625</score>
+</geoname>
+<geoname>
+<toponymName>Alexandria Bay</toponymName>
+<name>Alexandria Bay</name>
+<lat>48.86658</lat>
+<lng>-93.417</lng>
+<geonameId>5883492</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>H</fcl>
+<fcode>BAY</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>bay</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ON">08</adminCode1>
+<adminName1>Ontario</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Winnipeg</timezone>
+<score>9.306900024414062</score>
+</geoname>
+</geonames>

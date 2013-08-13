@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Indian Gut</toponymName>
+<name>Indian Gut</name>
+<lat>39.18817</lat>
+<lng>-75.40547</lng>
+<geonameId>4143105</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>INLT</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>inlet</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="DE">DE</adminCode1>
+<adminName1>Delaware</adminName1>
+<adminCode2>001</adminCode2>
+<adminName2>Kent County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>10.161531448364258</score>
+</geoname>
+<geoname>
+<toponymName>Indian Cut</toponymName>
+<name>Indian Cut</name>
+<lat>42.64169</lat>
+<lng>-86.15504</lng>
+<geonameId>4997021</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STMB</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream bend</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>177</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MI">MI</adminCode1>
+<adminName1>Michigan</adminName1>
+<adminCode2>005</adminCode2>
+<adminName2>Allegan County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Detroit</timezone>
+<score>10.161531448364258</score>
+</geoname>
+</geonames>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Collooney</toponymName>
+<name>Collooney</name>
+<lat>54.18333</lat>
+<lng>-8.5</lng>
+<geonameId>2965248</geonameId>
+<countryCode>IE</countryCode>
+<countryName>Ireland</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Collooney,Cuil Mhuine,Cúil Mhuine</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="C">C</adminCode1>
+<adminName1>Connaught</adminName1>
+<adminCode2>25</adminCode2>
+<adminName2>County Sligo</adminName2>
+<alternateName lang="en">Collooney</alternateName>
+<alternateName lang="ga">Cúil Mhuine</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Collooney</alternateName>
+<alternateName lang="unlc">CLY</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Dublin</timezone>
+<bbox>
+<west>-8.51537</west>
+<north>54.19233</north>
+<east>-8.48463</east>
+<south>54.17434</south>
+</bbox>
+<score>56.320919036865234</score>
+</geoname>
+</geonames>

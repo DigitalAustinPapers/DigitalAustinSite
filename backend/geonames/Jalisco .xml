@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>21</totalResultsCount>
+<geoname>
+<toponymName>Estado de Jalisco</toponymName>
+<name>Jalisco</name>
+<lat>20.33333</lat>
+<lng>-103.66667</lng>
+<geonameId>4004156</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>first-order administrative division</fcodeName>
+<population>6653364</population>
+<alternateNames>Estado de Jalisco,JAL,Jalisco,ha li si ke zhou,harisuko zhou,ハリスコ州,哈利斯科州</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="JAL">14</adminCode1>
+<adminName1>Jalisco</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="abbr">JAL</alternateName>
+<alternateName lang="ca">Jalisco</alternateName>
+<alternateName lang="cs">Jalisco</alternateName>
+<alternateName lang="da">Jalisco</alternateName>
+<alternateName lang="de">Jalisco</alternateName>
+<alternateName lang="en">Jalisco</alternateName>
+<alternateName lang="eo">Jalisco</alternateName>
+<alternateName lang="es">Jalisco</alternateName>
+<alternateName lang="eu">Jalisco</alternateName>
+<alternateName lang="fi">Jalisco</alternateName>
+<alternateName lang="fr">Jalisco</alternateName>
+<alternateName lang="id">Jalisco</alternateName>
+<alternateName lang="it">Jalisco</alternateName>
+<alternateName lang="ja">ハリスコ州</alternateName>
+<alternateName lang="kw">Jalisco</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Jalisco</alternateName>
+<alternateName lang="nl">Jalisco</alternateName>
+<alternateName lang="no">Jalisco</alternateName>
+<alternateName lang="pl">Jalisco</alternateName>
+<alternateName lang="pt">Jalisco</alternateName>
+<alternateName lang="zh">哈利斯科州</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-105.68195</west>
+<north>22.76472</north>
+<east>-101.52486</east>
+<south>18.955</south>
+</bbox>
+<score>117.61070251464844</score>
+</geoname>
+<geoname>
+<toponymName>Jalisco</toponymName>
+<name>Jalisco</name>
+<lat>32.51929</lat>
+<lng>-115.23674</lng>
+<geonameId>4011568</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Dzhalisko,Ejido Jalisco,Jalisco,Джалиско</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="BCN">02</adminCode1>
+<adminName1>Baja California</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ru">Джалиско</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Tijuana</timezone>
+<bbox>
+<west>-115.24741</west>
+<north>32.52828</north>
+<east>-115.22607</east>
+<south>32.51029</south>
+</bbox>
+<score>48.01436996459961</score>
+</geoname>
+<geoname>
+<toponymName>Jalisco</toponymName>
+<name>Jalisco</name>
+<lat>14.66667</lat>
+<lng>-91.95</lng>
+<geonameId>3595233</geonameId>
+<countryCode>GT</countryCode>
+<countryName>Guatemala</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="QZ">13</adminCode1>
+<adminName1>Quetzaltenango</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Guatemala</timezone>
+<bbox>
+<west>-91.9593</west>
+<north>14.67566</north>
+<east>-91.9407</east>
+<south>14.65767</south>
+</bbox>
+<score>39.20356750488281</score>
+</geoname>
+<geoname>
+<toponymName>Jalisco</toponymName>
+<name>Jalisco</name>
+<lat>15.43333</lat>
+<lng>-86.43333</lng>
+<geonameId>3608751</geonameId>
+<countryCode>HN</countryCode>
+<countryName>Honduras</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="YO">18</adminCode1>
+<adminName1>Yoro</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Tegucigalpa</timezone>
+<bbox>
+<west>-86.44266</west>
+<north>15.44233</north>
+<east>-86.424</east>
+<south>15.42434</south>
+</bbox>
+<score>39.20356750488281</score>
+</geoname>
+<geoname>
+<toponymName>Jalisco</toponymName>
+<name>Jalisco</name>
+<lat>14.55</lat>
+<lng>-87.31667</lng>
+<geonameId>3608752</geonameId>
+<countryCode>HN</countryCode>
+<countryName>Honduras</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="FM">08</adminCode1>
+<adminName1>Francisco Morazán</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Tegucigalpa</timezone>
+<bbox>
+<west>-87.32596</west>
+<north>14.55899</north>
+<east>-87.30737</east>
+<south>14.54101</south>
+</bbox>
+<score>39.20356750488281</score>
+</geoname>
+<geoname>
+<toponymName>Jalisco</toponymName>
+<name>Jalisco</name>
+<lat>9.44798</lat>
+<lng>-70.57748</lng>
+<geonameId>3639250</geonameId>
+<countryCode>VE</countryCode>
+<countryName>Venezuela</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="T">21</adminCode1>
+<adminName1>Trujillo</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.5" gmtOffset="-4.5">America/Caracas</timezone>
+<bbox>
+<west>-70.58659</west>
+<north>9.45697</north>
+<east>-70.56836</east>
+<south>9.43898</south>
+</bbox>
+<score>39.20356750488281</score>
+</geoname>
+<geoname>
+<toponymName>Jalisco</toponymName>
+<name>Jalisco</name>
+<lat>5.34147</lat>
+<lng>-72.19679</lng>
+<geonameId>3680398</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="CAS">32</adminCode1>
+<adminName1>Casanare</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<bbox>
+<west>-72.20583</west>
+<north>5.35047</north>
+<east>-72.18776</east>
+<south>5.33248</south>
+</bbox>
+<score>39.20356750488281</score>
+</geoname>
+<geoname>
+<toponymName>Jalisco</toponymName>
+<name>Jalisco</name>
+<lat>4.48366</lat>
+<lng>-72.6744</lng>
+<geonameId>3680399</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="CAS">32</adminCode1>
+<adminName1>Casanare</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<bbox>
+<west>-72.68342</west>
+<north>4.49265</north>
+<east>-72.66538</east>
+<south>4.47466</south>
+</bbox>
+<score>39.20356750488281</score>
+</geoname>
+<geoname>
+<toponymName>Jalisco</toponymName>
+<name>Jalisco</name>
+<lat>3.25413</lat>
+<lng>-76.54346</lng>
+<geonameId>3764011</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="VAC">29</adminCode1>
+<adminName1>Valle del Cauca</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<bbox>
+<west>-76.55247</west>
+<north>3.26313</north>
+<east>-76.53445</east>
+<south>3.24514</south>
+</bbox>
+<score>39.20356750488281</score>
+</geoname>
+<geoname>
+<toponymName>Jalisco</toponymName>
+<name>Jalisco</name>
+<lat>6.1275</lat>
+<lng>-67.46444</lng>
+<geonameId>3765981</geonameId>
+<countryCode>VE</countryCode>
+<countryName>Venezuela</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="Z">01</adminCode1>
+<adminName1>Estado Amazonas</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.5" gmtOffset="-4.5">America/Caracas</timezone>
+<bbox>
+<west>-67.47349</west>
+<north>6.13649</north>
+<east>-67.4554</east>
+<south>6.11851</south>
+</bbox>
+<score>39.20356750488281</score>
+</geoname>
+</geonames>

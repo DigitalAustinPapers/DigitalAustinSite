@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Osburn</toponymName>
+<name>Osburn</name>
+<lat>47.50604</lat>
+<lng>-115.99933</lng>
+<geonameId>5602934</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1555</population>
+<alternateNames/>
+<elevation>768</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ID">ID</adminCode1>
+<adminName1>Idaho</adminName1>
+<adminCode2>079</adminCode2>
+<adminName2>Shoshone County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Osburn%2C_Idaho</alternateName>
+<alternateName lang="post">83849</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-116.00599</west>
+<north>47.51053</north>
+<east>-115.99267</east>
+<south>47.50154</south>
+</bbox>
+<score>37.56541442871094</score>
+</geoname>
+<geoname>
+<toponymName>Osbornes</toponymName>
+<name>Osbornes</name>
+<lat>18.23333</lat>
+<lng>-76.76667</lng>
+<geonameId>3489166</geonameId>
+<countryCode>JM</countryCode>
+<countryName>Jamaica</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Osbornes,Osborns</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="05">13</adminCode1>
+<adminName1>Saint Mary</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Jamaica</timezone>
+<bbox>
+<west>-76.77614</west>
+<north>18.24233</north>
+<east>-76.7572</east>
+<south>18.22434</south>
+</bbox>
+<score>28.3897647857666</score>
+</geoname>
+<geoname>
+<toponymName>Osburn</toponymName>
+<name>Osburn</name>
+<lat>30.9213</lat>
+<lng>-92.69764</lng>
+<geonameId>4336202</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>41</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>079</adminCode2>
+<adminName2>Rapides Parish</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.70813</west>
+<north>30.9303</north>
+<east>-92.68716</east>
+<south>30.91231</south>
+</bbox>
+<score>21.46595001220703</score>
+</geoname>
+<geoname>
+<toponymName>Osburn</toponymName>
+<name>Osburn</name>
+<lat>40.29674</lat>
+<lng>-79.36309</lng>
+<geonameId>5204619</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>312</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PA">PA</adminCode1>
+<adminName1>Pennsylvania</adminName1>
+<adminCode2>129</adminCode2>
+<adminName2>Westmoreland County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-79.37488</west>
+<north>40.30573</north>
+<east>-79.3513</east>
+<south>40.28774</south>
+</bbox>
+<score>21.46595001220703</score>
+</geoname>
+</geonames>

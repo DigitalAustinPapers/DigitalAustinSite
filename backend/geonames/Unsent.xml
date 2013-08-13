@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Unzent</toponymName>
+<name>Unzent</name>
+<lat>43.17523</lat>
+<lng>1.52748</lng>
+<geonameId>2971374</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>126</population>
+<alternateNames>Unzent</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="N">B3</adminCode1>
+<adminName1>Midi-Pyrénées</adminName1>
+<adminCode2>09</adminCode2>
+<adminName2>Ariège</adminName2>
+<adminCode3>092</adminCode3>
+<adminName3>Arrondissement de Pamiers</adminName3>
+<adminCode4>09319</adminCode4>
+<adminName4>Unzent</adminName4>
+<alternateName lang="post">09100</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>1.52625</west>
+<north>43.17613</north>
+<east>1.52871</east>
+<south>43.17433</south>
+</bbox>
+<score>38.33837127685547</score>
+</geoname>
+<geoname>
+<toponymName>Unzent</toponymName>
+<name>Unzent</name>
+<lat>43.17472</lat>
+<lng>1.52778</lng>
+<geonameId>6426343</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population>122</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="N">B3</adminCode1>
+<adminName1>Midi-Pyrénées</adminName1>
+<adminCode2>09</adminCode2>
+<adminName2>Ariège</adminName2>
+<adminCode3>092</adminCode3>
+<adminName3>Arrondissement de Pamiers</adminName3>
+<adminCode4>09319</adminCode4>
+<adminName4>Unzent</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Unzent</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>1.51676</west>
+<north>43.19098</north>
+<east>1.55221</east>
+<south>43.14844</south>
+</bbox>
+<score>31.303150177001953</score>
+</geoname>
+<geoname>
+<toponymName>Unsena</toponymName>
+<name>Unsena</name>
+<lat>-10.0532</lat>
+<lng>123.994</lng>
+<geonameId>8393624</geonameId>
+<countryCode>ID</countryCode>
+<countryName>Indonesia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Unsena</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="NT">18</adminCode1>
+<adminName1>East Nusa Tenggara</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="id">Unsena</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Makassar</timezone>
+<bbox>
+<west>123.98487</west>
+<north>-10.04421</north>
+<east>124.00313</east>
+<south>-10.06219</south>
+</bbox>
+<score>30.243431091308594</score>
+</geoname>
+</geonames>

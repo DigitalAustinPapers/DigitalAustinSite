@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>12</totalResultsCount>
+<geoname>
+<toponymName>La Bahía</toponymName>
+<name>La Bahía</name>
+<lat>-14.42207</lat>
+<lng>-61.03145</lng>
+<geonameId>3912427</geonameId>
+<countryCode>BO</countryCode>
+<countryName>Bolivia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>La Bahia,La Bahia Blanca,La Bahía</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="S">08</adminCode1>
+<adminName1>Santa Cruz</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/La_Paz</timezone>
+<bbox>
+<west>-61.04074</west>
+<north>-14.41308</north>
+<east>-61.02216</east>
+<south>-14.43106</south>
+</bbox>
+<score>21.374631881713867</score>
+</geoname>
+<geoname>
+<toponymName>Lababia</toponymName>
+<name>Lababia</name>
+<lat>-7.29916</lat>
+<lng>147.13218</lng>
+<geonameId>2092766</geonameId>
+<countryCode>PG</countryCode>
+<countryName>Papua New Guinea</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="MPL">14</adminCode1>
+<adminName1>Morobe</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="10.0" gmtOffset="10.0">Pacific/Port_Moresby</timezone>
+<bbox>
+<west>147.12312</west>
+<north>-7.29017</north>
+<east>147.14125</east>
+<south>-7.30816</south>
+</bbox>
+<score>20.277856826782227</score>
+</geoname>
+<geoname>
+<toponymName>Labalia</toponymName>
+<name>Labalia</name>
+<lat>-5.0924</lat>
+<lng>122.4468</lng>
+<geonameId>6977184</geonameId>
+<countryCode>ID</countryCode>
+<countryName>Indonesia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Labalia</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="SG">22</adminCode1>
+<adminName1>Sulawesi Tenggara</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="id">Labalia</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Makassar</timezone>
+<bbox>
+<west>122.43777</west>
+<north>-5.08341</north>
+<east>122.45583</east>
+<south>-5.10139</south>
+</bbox>
+<score>18.626399993896484</score>
+</geoname>
+<geoname>
+<toponymName>Labaria</toponymName>
+<name>Labaria</name>
+<lat>24.63454</lat>
+<lng>88.80383</lng>
+<geonameId>7483541</geonameId>
+<countryCode>BD</countryCode>
+<countryName>Bangladesh</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Labaria</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="E">83</adminCode1>
+<adminName1>Rājshāhi</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="bn">Labaria</alternateName>
+<timezone dstOffset="6.0" gmtOffset="6.0">Asia/Dhaka</timezone>
+<bbox>
+<west>88.79394</west>
+<north>24.64354</north>
+<east>88.81373</east>
+<south>24.62555</south>
+</bbox>
+<score>17.70895004272461</score>
+</geoname>
+<geoname>
+<toponymName>La Bahía</toponymName>
+<name>La Bahía</name>
+<lat>19.58184</lat>
+<lng>-71.72313</lng>
+<geonameId>3503656</geonameId>
+<countryCode>DO</countryCode>
+<countryName>Dominican Republic</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="05">04</adminCode1>
+<adminName1>Dajabón</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Santo_Domingo</timezone>
+<bbox>
+<west>-71.73267</west>
+<north>19.59084</north>
+<east>-71.71358</east>
+<south>19.57285</south>
+</bbox>
+<score>17.2733097076416</score>
+</geoname>
+<geoname>
+<toponymName>La Bahía</toponymName>
+<name>La Bahía</name>
+<lat>19.7509</lat>
+<lng>-71.67714</lng>
+<geonameId>3503657</geonameId>
+<countryCode>DO</countryCode>
+<countryName>Dominican Republic</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="15">15</adminCode1>
+<adminName1>Monte Cristi</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Santo_Domingo</timezone>
+<score>17.2733097076416</score>
+</geoname>
+<geoname>
+<toponymName>La Bahía</toponymName>
+<name>La Bahía</name>
+<lat>20.7</lat>
+<lng>-77.13333</lng>
+<geonameId>3555370</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="12">09</adminCode1>
+<adminName1>Granma</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>17.2733097076416</score>
+</geoname>
+<geoname>
+<toponymName>La Bahia</toponymName>
+<name>La Bahia</name>
+<lat>30.14438</lat>
+<lng>-96.63692</lng>
+<geonameId>4703875</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>145</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>477</adminCode2>
+<adminName2>Washington County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-96.64732</west>
+<north>30.15338</north>
+<east>-96.62652</east>
+<south>30.13539</south>
+</bbox>
+<score>17.2733097076416</score>
+</geoname>
+<geoname>
+<toponymName>Pulau Lakahia</toponymName>
+<name>Pulau Lakahia</name>
+<lat>-4.0694</lat>
+<lng>134.6031</lng>
+<geonameId>1638720</geonameId>
+<countryCode>ID</countryCode>
+<countryName>Indonesia</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames>Lakahia,Lakahia Island,Pulau Lakahia</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="PB">39</adminCode1>
+<adminName1>West Papua</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="9.0" gmtOffset="9.0">Asia/Jayapura</timezone>
+<score>14.338610649108887</score>
+</geoname>
+<geoname>
+<toponymName>Labahi</toponymName>
+<name>Labahi</name>
+<lat>-5.4483</lat>
+<lng>120.3516</lng>
+<geonameId>6744146</geonameId>
+<countryCode>ID</countryCode>
+<countryName>Indonesia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Labahi</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="SN">38</adminCode1>
+<adminName1>South Sulawesi</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="id">Labahi</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Makassar</timezone>
+<bbox>
+<west>120.34257</west>
+<north>-5.43931</north>
+<east>120.36063</east>
+<south>-5.45729</south>
+</bbox>
+<score>10.86539077758789</score>
+</geoname>
+</geonames>

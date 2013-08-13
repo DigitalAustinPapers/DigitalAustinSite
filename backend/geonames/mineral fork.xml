@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>11</totalResultsCount>
+<geoname>
+<toponymName>Mineral Fork</toponymName>
+<name>Mineral Fork</name>
+<lat>38.10255</lat>
+<lng>-90.68152</lng>
+<geonameId>4398537</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>169</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>221</adminCode2>
+<adminName2>Washington County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>13.594660758972168</score>
+</geoname>
+<geoname>
+<toponymName>Mineral Fork</toponymName>
+<name>Mineral Fork</name>
+<lat>40.63439</lat>
+<lng>-111.70132</lng>
+<geonameId>5778394</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>2042</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="UT">UT</adminCode1>
+<adminName1>Utah</adminName1>
+<adminCode2>035</adminCode2>
+<adminName2>Salt Lake County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<score>13.594660758972168</score>
+</geoname>
+<geoname>
+<toponymName>Mineral Park</toponymName>
+<name>Mineral Park</name>
+<lat>38.00111</lat>
+<lng>-107.07116</lng>
+<geonameId>5431356</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>PLN</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>plain(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>3483</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CO">CO</adminCode1>
+<adminName1>Colorado</adminName1>
+<adminCode2>053</adminCode2>
+<adminName2>Hinsdale County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<score>11.368270874023438</score>
+</geoname>
+<geoname>
+<toponymName>Mineral Park</toponymName>
+<name>Mineral Park</name>
+<lat>39.31277</lat>
+<lng>-106.07863</lng>
+<geonameId>5431357</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>PLN</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>plain(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>3439</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CO">CO</adminCode1>
+<adminName1>Colorado</adminName1>
+<adminCode2>093</adminCode2>
+<adminName2>Park County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<score>11.368270874023438</score>
+</geoname>
+<geoname>
+<toponymName>Mineral Park</toponymName>
+<name>Mineral Park</name>
+<lat>35.10063</lat>
+<lng>-85.00634</lng>
+<geonameId>4642110</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>274</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TN">TN</adminCode1>
+<adminName1>Tennessee</adminName1>
+<adminCode2>011</adminCode2>
+<adminName2>Bradley County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-85.01733</west>
+<north>35.10962</north>
+<east>-84.99534</east>
+<south>35.09164</south>
+</bbox>
+<score>6.49615478515625</score>
+</geoname>
+<geoname>
+<toponymName>Mineral Park</toponymName>
+<name>Mineral Park</name>
+<lat>48.46318</lat>
+<lng>-121.16511</lng>
+<geonameId>5803587</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>L</fcl>
+<fcode>PRK</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>park</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>412</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WA">WA</adminCode1>
+<adminName1>Washington</adminName1>
+<adminCode2>057</adminCode2>
+<adminName2>Skagit County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>6.49615478515625</score>
+</geoname>
+<geoname>
+<toponymName>Mineral Farm</toponymName>
+<name>Mineral Farm</name>
+<lat>38.01194</lat>
+<lng>-107.67728</lng>
+<geonameId>5431342</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>FRM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farm</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>2637</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CO">CO</adminCode1>
+<adminName1>Colorado</adminName1>
+<adminCode2>091</adminCode2>
+<adminName2>Ouray County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<score>2.3831584453582764</score>
+</geoname>
+<geoname>
+<toponymName>Mineral Park</toponymName>
+<name>Mineral Park</name>
+<lat>32.23369</lat>
+<lng>-109.62368</lng>
+<geonameId>5305052</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>2130</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AZ">AZ</adminCode1>
+<adminName1>Arizona</adminName1>
+<adminCode2>003</adminCode2>
+<adminName2>Cochise County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-7.0">America/Phoenix</timezone>
+<score>2.030048370361328</score>
+</geoname>
+<geoname>
+<toponymName>Mineral Park</toponymName>
+<name>Mineral Park</name>
+<lat>35.37083</lat>
+<lng>-114.15301</lng>
+<geonameId>5305053</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>1296</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AZ">AZ</adminCode1>
+<adminName1>Arizona</adminName1>
+<adminCode2>015</adminCode2>
+<adminName2>Mohave County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-7.0">America/Phoenix</timezone>
+<score>2.030048370361328</score>
+</geoname>
+<geoname>
+<toponymName>Miners Fork</toponymName>
+<name>Miners Fork</name>
+<lat>39.45202</lat>
+<lng>-81.99098</lng>
+<geonameId>4518463</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>201</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>115</adminCode2>
+<adminName2>Morgan County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>1.2358770370483398</score>
+</geoname>
+</geonames>

@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>38</totalResultsCount>
+<geoname>
+<toponymName>Georgiy</toponymName>
+<name>Georgiy</name>
+<lat>59.02074</lat>
+<lng>42.80397</lng>
+<geonameId>561639</geonameId>
+<countryCode>RU</countryCode>
+<countryName>Russia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Georgij,Georgiy,Georgiyevskoye,Георгий</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="KOS">37</adminCode1>
+<adminName1>Kostroma</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Georgiy</alternateName>
+<alternateName lang="no">Georgij</alternateName>
+<alternateName lang="ru">Георгий</alternateName>
+<timezone dstOffset="4.0" gmtOffset="4.0">Europe/Moscow</timezone>
+<bbox>
+<west>42.78649</west>
+<north>59.02973</north>
+<east>42.82144</east>
+<south>59.01175</south>
+</bbox>
+<score>43.979827880859375</score>
+</geoname>
+<geoname>
+<toponymName>George</toponymName>
+<name>George</name>
+<lat>-33.963</lat>
+<lng>22.46173</lng>
+<geonameId>1002145</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>174582</population>
+<alternateNames>Dzhordzh,GRJ,George,joji,Джордж,ジョージ,조지</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="WC">11</adminCode1>
+<adminName1>Western Cape</adminName1>
+<adminCode2>DC4</adminCode2>
+<adminName2>Eden District Municipality</adminName2>
+<adminCode3>WC044</adminCode3>
+<adminName3>George</adminName3>
+<alternateName lang="af">George</alternateName>
+<alternateName lang="en">George</alternateName>
+<alternateName lang="fr">George</alternateName>
+<alternateName lang="iata">GRJ</alternateName>
+<alternateName lang="it">George</alternateName>
+<alternateName lang="ja">ジョージ</alternateName>
+<alternateName lang="ko">조지</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/George%2C_Western_Cape</alternateName>
+<alternateName lang="ru">Джордж</alternateName>
+<alternateName lang="uk">Джордж</alternateName>
+<alternateName lang="unlc">GRJ</alternateName>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<bbox>
+<west>22.39648</west>
+<north>-33.90885</north>
+<east>22.52697</east>
+<south>-34.01715</south>
+</bbox>
+<score>38.200706481933594</score>
+</geoname>
+<geoname>
+<toponymName>Georgiy</toponymName>
+<name>Georgiy</name>
+<lat>58.41048</lat>
+<lng>31.15853</lng>
+<geonameId>561640</geonameId>
+<countryCode>RU</countryCode>
+<countryName>Russia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Geogiy,Georgij,Georgiy,Георгий</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="NGR">52</adminCode1>
+<adminName1>Novgorod</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ru">Георгий</alternateName>
+<timezone dstOffset="4.0" gmtOffset="4.0">Europe/Moscow</timezone>
+<bbox>
+<west>31.14135</west>
+<north>58.41947</north>
+<east>31.1757</east>
+<south>58.40149</south>
+</bbox>
+<score>33.326690673828125</score>
+</geoname>
+<geoname>
+<toponymName>Georges</toponymName>
+<name>Georges</name>
+<lat>19.43333</lat>
+<lng>-72.66667</lng>
+<geonameId>3724819</geonameId>
+<countryCode>HT</countryCode>
+<countryName>Haiti</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Georges,Gerges</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">06</adminCode1>
+<adminName1>Artibonite</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Port-au-Prince</timezone>
+<bbox>
+<west>-72.6762</west>
+<north>19.44233</north>
+<east>-72.65713</east>
+<south>19.42434</south>
+</bbox>
+<score>31.367599487304688</score>
+</geoname>
+<geoname>
+<toponymName>Georges</toponymName>
+<name>Georges</name>
+<lat>-39.91667</lat>
+<lng>175.31667</lng>
+<geonameId>2190814</geonameId>
+<countryCode>NZ</countryCode>
+<countryName>New Zealand</countryName>
+<fcl>T</fcl>
+<fcode>HLL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>hill</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="12.0" gmtOffset="13.0">Pacific/Auckland</timezone>
+<score>25.61153793334961</score>
+</geoname>
+<geoname>
+<toponymName>Georges</toponymName>
+<name>Georges</name>
+<lat>44.57926</lat>
+<lng>0.54921</lng>
+<geonameId>3016286</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="B">97</adminCode1>
+<adminName1>Aquitaine</adminName1>
+<adminCode2>47</adminCode2>
+<adminName2>Lot-et-Garonne</adminName2>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>0.53658</west>
+<north>44.58826</north>
+<east>0.56184</east>
+<south>44.57027</south>
+</bbox>
+<score>25.61153793334961</score>
+</geoname>
+<geoname>
+<toponymName>Georges</toponymName>
+<name>Georges</name>
+<lat>19.76667</lat>
+<lng>-72.51667</lng>
+<geonameId>3724817</geonameId>
+<countryCode>HT</countryCode>
+<countryName>Haiti</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ND">09</adminCode1>
+<adminName1>Nord</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Port-au-Prince</timezone>
+<bbox>
+<west>-72.52622</west>
+<north>19.77566</north>
+<east>-72.50711</east>
+<south>19.75767</south>
+</bbox>
+<score>25.61153793334961</score>
+</geoname>
+<geoname>
+<toponymName>Georges</toponymName>
+<name>Georges</name>
+<lat>19.75</lat>
+<lng>-72.21667</lng>
+<geonameId>3724818</geonameId>
+<countryCode>HT</countryCode>
+<countryName>Haiti</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ND">09</adminCode1>
+<adminName1>Nord</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Port-au-Prince</timezone>
+<bbox>
+<west>-72.22622</west>
+<north>19.75899</north>
+<east>-72.20711</east>
+<south>19.74101</south>
+</bbox>
+<score>25.61153793334961</score>
+</geoname>
+<geoname>
+<toponymName>Georges</toponymName>
+<name>Georges</name>
+<lat>18.33333</lat>
+<lng>-74.35</lng>
+<geonameId>3724820</geonameId>
+<countryCode>HT</countryCode>
+<countryName>Haiti</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SD">12</adminCode1>
+<adminName1>Sud</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Port-au-Prince</timezone>
+<bbox>
+<west>-74.35948</west>
+<north>18.34233</north>
+<east>-74.34052</east>
+<south>18.32434</south>
+</bbox>
+<score>25.61153793334961</score>
+</geoname>
+<geoname>
+<toponymName>Georges</toponymName>
+<name>Georges</name>
+<lat>18.18333</lat>
+<lng>-73.93333</lng>
+<geonameId>3724821</geonameId>
+<countryCode>HT</countryCode>
+<countryName>Haiti</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SD">12</adminCode1>
+<adminName1>Sud</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Port-au-Prince</timezone>
+<bbox>
+<west>-73.9428</west>
+<north>18.19233</north>
+<east>-73.92387</east>
+<south>18.17434</south>
+</bbox>
+<score>25.61153793334961</score>
+</geoname>
+</geonames>

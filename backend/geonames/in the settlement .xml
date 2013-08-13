@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Indwe Settlement</toponymName>
+<name>Indwe Settlement</name>
+<lat>-31.46667</lat>
+<lng>27.41667</lng>
+<geonameId>994797</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>S</fcl>
+<fcode>FRM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farm</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="EC">05</adminCode1>
+<adminName1>Eastern Cape</adminName1>
+<adminCode2>DC13</adminCode2>
+<adminName2>Chris Hani District Municipality</adminName2>
+<adminCode3>EC136</adminCode3>
+<adminName3>Emalahleni</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<score>14.370573043823242</score>
+</geoname>
+</geonames>

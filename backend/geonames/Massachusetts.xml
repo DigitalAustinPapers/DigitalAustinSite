@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Massachusetts</toponymName>
+<name>Massachusetts</name>
+<lat>42.36565</lat>
+<lng>-71.10832</lng>
+<geonameId>6254926</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>first-order administrative division</fcodeName>
+<population>6433422</population>
+<alternateNames>Bay State,MA,Ma-sat-tsu-set,Makakukeka,Masachoset,Masachosèt,Masachouseti,Masachusets,Masachuusic,Masachuzets,Masacuseco,Masacusetsa,Masacusetsas,Masatsusets,Masaĉuseco,Masačusetsas,Masačūsetsa,Massachusets,Massachusets Shitati,Massachusetta,Massachusetts,Massachusetts suyu,Massachuséts Shitati,Massacusets,Massaçusets,Meesichooshish Hahoodzo,Mà-sat-tsû-set,Másáchusẹts,Méésíchóoshish Hahoodzo,Shtat Masachusets,ma sa zhu sai,ma sa zhu sai zhou,macaccucets,maesachusecheu ju,maisacusitsa,masachusetsi,masachusettsu zhou,masachwst,masachwwsyts,masacyuserrs,masatshwsts,mesecyusetsa,msz'wsts,Μασαχουσέτη,Масачузетс,Масачусетс,Масачуусиц,Массачусетс,Массачусеттс,Штат Масачусетс,Մասաչուսեթս,מאסאטשוסעטס,מסצ'וסטס,ماساتشوستس,ماساچوست,ماساچووسیتس,میساچوسٹس,میساچیوسٹس,ܡܐܣܐܬܫܘܣܬܣ,मॅसेच्युसेट्स,मैसाचूसिट्स,ম্যাসাচুসেট্‌স,மாசச்சூசெட்ஸ்,മസാച്യുസെറ്റ്സ്,รัฐแมสซาชูเซตส์,မက်ဆာချူးဆက်ပြည်နယ်,მასაჩუსეთსი,მასაჩუსეტსი,ᒫᓵᓲᓰᑦᔅ,マサチューセッツ州,马萨诸塞,麻薩諸塞州,매사추세츠 주</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MA">MA</adminCode1>
+<adminName1>Massachusetts</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="abbr">MA</alternateName>
+<alternateName lang="ar">ماساتشوستس</alternateName>
+<alternateName lang="arc">ܡܐܣܐܬܫܘܣܬܣ</alternateName>
+<alternateName lang="arz">ماساتشوستس</alternateName>
+<alternateName lang="ay">Massachusetts suyu</alternateName>
+<alternateName lang="az">Massaçusets</alternateName>
+<alternateName lang="be">Штат Масачусетс</alternateName>
+<alternateName lang="bg">Масачузетс</alternateName>
+<alternateName lang="bn">ম্যাসাচুসেট্‌স</alternateName>
+<alternateName lang="bpy">ম্যাসাচুসেট্‌স</alternateName>
+<alternateName lang="ckb">ماساچووسیتس</alternateName>
+<alternateName lang="cv">Массачусетс</alternateName>
+<alternateName lang="el">Μασαχουσέτη</alternateName>
+<alternateName lang="en">Massachusetts</alternateName>
+<alternateName lang="eo">Masaĉuseco</alternateName>
+<alternateName lang="fa">ماساچوست</alternateName>
+<alternateName lang="hak">Mà-sat-tsû-set</alternateName>
+<alternateName lang="haw">Makakukeka</alternateName>
+<alternateName lang="he">מסצ'וסטס</alternateName>
+<alternateName lang="hi">मैसाचूसिट्स</alternateName>
+<alternateName lang="ht">Masachosèt</alternateName>
+<alternateName lang="hy">Մասաչուսեթս</alternateName>
+<alternateName lang="ig">Másáchusẹts</alternateName>
+<alternateName lang="iu">ᒫᓵᓲᓰᑦᔅ</alternateName>
+<alternateName lang="ja">マサチューセッツ州</alternateName>
+<alternateName lang="ka">მასაჩუსეტსი</alternateName>
+<alternateName lang="ko">매사추세츠 주</alternateName>
+<alternateName lang="la">Massachusetta</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Massachusetts</alternateName>
+<alternateName lang="lt">Masačusetsas</alternateName>
+<alternateName lang="lv">Masačūsetsa</alternateName>
+<alternateName lang="mk">Масачусетс</alternateName>
+<alternateName lang="ml">മസാച്യുസെറ്റ്സ്</alternateName>
+<alternateName lang="mn">Массачусеттс</alternateName>
+<alternateName lang="mr">मॅसेच्युसेट्स</alternateName>
+<alternateName lang="mrj">Массачусетс</alternateName>
+<alternateName lang="my">မက်ဆာချူးဆက်ပြည်နယ်</alternateName>
+<alternateName lang="mzn">ماساچوست</alternateName>
+<alternateName lang="nv">Méésíchóoshish Hahoodzo</alternateName>
+<alternateName lang="os">Массачусетс</alternateName>
+<alternateName lang="pnb">میساچیوسٹس</alternateName>
+<alternateName lang="qu">Massachusetts suyu</alternateName>
+<alternateName lang="ru">Массачусетс</alternateName>
+<alternateName lang="sr">Масачусетс</alternateName>
+<alternateName lang="ta">மாசச்சூசெட்ஸ்</alternateName>
+<alternateName lang="th">รัฐแมสซาชูเซตส์</alternateName>
+<alternateName lang="tl">Masatsusets</alternateName>
+<alternateName lang="tt">Массачусетс</alternateName>
+<alternateName lang="ug">Massachuséts Shitati</alternateName>
+<alternateName lang="uk">Массачусетс</alternateName>
+<alternateName lang="ur">میساچوسٹس</alternateName>
+<alternateName lang="wuu">马萨诸塞</alternateName>
+<alternateName lang="xal">Масачуусиц</alternateName>
+<alternateName lang="xmf">მასაჩუსეთსი</alternateName>
+<alternateName lang="yi">מאסאטשוסעטס</alternateName>
+<alternateName lang="zh">麻薩諸塞州</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-73.50815</west>
+<north>42.88679</north>
+<east>-69.85886</east>
+<south>41.18705</south>
+</bbox>
+<score>57.531890869140625</score>
+</geoname>
+<geoname>
+<toponymName>Massachusetts</toponymName>
+<name>Massachusetts</name>
+<lat>-18.21859</lat>
+<lng>29.8556</lng>
+<geonameId>886799</geonameId>
+<countryCode>ZW</countryCode>
+<countryName>Zimbabwe</countryName>
+<fcl>S</fcl>
+<fcode>FRM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farm</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="MW">05</adminCode1>
+<adminName1>Mashonaland West Province</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Harare</timezone>
+<score>10.521484375</score>
+</geoname>
+</geonames>

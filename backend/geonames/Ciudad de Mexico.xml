@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>6</totalResultsCount>
+<geoname>
+<toponymName>Mexico City</toponymName>
+<name>Mexico City</name>
+<lat>19.42847</lat>
+<lng>-99.12766</lng>
+<geonameId>3530597</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPLC</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>capital of a political entity</fcodeName>
+<population>12294193</population>
+<alternateNames>Cidade de Mexico,Cidade de México,Cidade do Mexico,Cidade do México,Cita du Messicu,Citta del Messico,Città del Messico,Cità dû Messicu,Cità dû Mèssicu,Ciudad Mexico,Ciudad de Mejico,Ciudad de Mexico,Ciudad de Méjico,Ciudad de México,Ciutat de Mexic,Ciutat de Mèxic,Lungsod ng Mexico,Lungsod ng México,MEX,Mehiko,Mekhiko,Meksikas,Meksiko,Meksiko Siti,Meksikurbo,Meksyk,Mexico,Mexico City,Mexico D.F.,Mexico DF,Mexico Distrito Federal,Mexico by,Mexico-stad,Mexicopolis,Mexiko,Mexiko Hiria,Mexiko-Stadt,Mexikoborg,Mexíkóborg,México,México Distrito Federal,Pole tou Mexikou,Valle de Mexico,Valle de México,mdynt mksykw,megsiko si,mekishikoshiti,meksiko siti,meksikositi,mkzykw,mkzykwsyty,mo xi ge cheng,mqsyqw syty,Πόλη του Μεξικού,Мексико,Мексико Сити,Мехико,Мехіко,מקסיקו סיטי,مدينة مكسيكو,مکزیکو,مکزیکوسیتی,مېكسىكا شەھىرى,मेक्सिको सिटी,เม็กซิโกซิตี,მეხიკო,メキシコシティ,墨西哥城,멕시코 시</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="DIF">09</adminCode1>
+<adminName1>The Federal District</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ar">مدينة مكسيكو</alternateName>
+<alternateName lang="bg">Мексико</alternateName>
+<alternateName lang="bs">Mexico City</alternateName>
+<alternateName lang="ca">Ciutat de Mèxic</alternateName>
+<alternateName lang="cs">Ciudad de México</alternateName>
+<alternateName lang="da">Mexico City</alternateName>
+<alternateName lang="de">Mexiko-Stadt</alternateName>
+<alternateName lang="el">Πόλη του Μεξικού</alternateName>
+<alternateName lang="en">Mexico City</alternateName>
+<alternateName lang="eo">Meksikurbo</alternateName>
+<alternateName lang="es">Ciudad de México</alternateName>
+<alternateName lang="et">México</alternateName>
+<alternateName lang="eu">Mexiko Hiria</alternateName>
+<alternateName lang="fa">مکزیکو</alternateName>
+<alternateName lang="fi">México</alternateName>
+<alternateName lang="fr">Mexico</alternateName>
+<alternateName lang="gl">Cidade de México</alternateName>
+<alternateName lang="hbs">Ciudad Mexico</alternateName>
+<alternateName lang="he">מקסיקו סיטי</alternateName>
+<alternateName lang="hr">Ciudad de México</alternateName>
+<alternateName lang="iata">MEX</alternateName>
+<alternateName lang="id">Ciudad de México</alternateName>
+<alternateName lang="io">Mexiko</alternateName>
+<alternateName lang="is">Mexíkóborg</alternateName>
+<alternateName lang="it">Città del Messico</alternateName>
+<alternateName lang="ja">メキシコシティ</alternateName>
+<alternateName lang="ka">მეხიკო</alternateName>
+<alternateName lang="ko">멕시코 시</alternateName>
+<alternateName lang="la">Mexicopolis</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Mexico_City</alternateName>
+<alternateName lang="lt">Meksikas</alternateName>
+<alternateName lang="lv">Mehiko</alternateName>
+<alternateName lang="mr">मेक्सिको सिटी</alternateName>
+<alternateName lang="nl">Mexico-stad</alternateName>
+<alternateName lang="nn">Mexico by</alternateName>
+<alternateName lang="no">Mexico by</alternateName>
+<alternateName lang="oc">Ciutat de Mexic</alternateName>
+<alternateName lang="pl">Meksyk</alternateName>
+<alternateName lang="pt">Cidade do México</alternateName>
+<alternateName lang="ro">Mexico</alternateName>
+<alternateName lang="ru">Мехико</alternateName>
+<alternateName lang="scn">Cità dû Messicu</alternateName>
+<alternateName lang="sk">Mexiko</alternateName>
+<alternateName lang="sl">Ciudad de México</alternateName>
+<alternateName lang="sr">Мексико</alternateName>
+<alternateName lang="sv">Mexico City</alternateName>
+<alternateName lang="sw">Mexico</alternateName>
+<alternateName lang="th">เม็กซิโกซิตี</alternateName>
+<alternateName lang="tl">México</alternateName>
+<alternateName lang="tr">Ciudad de Mexico</alternateName>
+<alternateName lang="ug">مېكسىكا شەھىرى</alternateName>
+<alternateName lang="uk">Мехіко</alternateName>
+<alternateName lang="unlc">MEX</alternateName>
+<alternateName lang="vi">Ciudad de Mexico</alternateName>
+<alternateName lang="zh">墨西哥城</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-99.61168</west>
+<north>19.88363</north>
+<east>-98.64365</east>
+<south>18.97331</south>
+</bbox>
+<score>229.9234161376953</score>
+</geoname>
+<geoname>
+<toponymName>Distrito Federal</toponymName>
+<name>The Federal District</name>
+<lat>19.25</lat>
+<lng>-99.16667</lng>
+<geonameId>3527646</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>first-order administrative division</fcodeName>
+<population>8657050</population>
+<alternateNames>Ciudad de Mexico,Ciudad de México,DF,Distrito Federal,El DF,Mexico D.F.,The Federal District</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="DIF">09</adminCode1>
+<adminName1>The Federal District</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">The Federal District</alternateName>
+<alternateName lang="es">Distrito Federal</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Mexico_City</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-99.34612</west>
+<north>19.48694</north>
+<east>-98.93918</east>
+<south>19.07694</south>
+</bbox>
+<score>52.182525634765625</score>
+</geoname>
+<geoname>
+<toponymName>Belize City</toponymName>
+<name>Belize City</name>
+<lat>17.49952</lat>
+<lng>-88.19756</lng>
+<geonameId>3582677</geonameId>
+<countryCode>BZ</countryCode>
+<countryName>Belize</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population>61461</population>
+<alternateNames>Altepetl Belice,BZE,Belice,Beliz,Beliz Siti,Belizas,Belize,Belize City,Belize-stad,Belizurbo,Ciudad de Belice,Dinas Belize,Poli tou Belize,Syudad han Belize,Thanh pho Belize,Thành phố Belize,be lis si ti,beliza siti,bellijeusiti,berizushiti,bo li ci shi,Āltepētl Belice,Πόλη του Μπελίζε,Белиз,Белиз Сити,Беліз,بېلىز شەھىرى,बेलीज़ सिटी,เบลีซซิตี,ဘလိဇ်မြို့,ベリーズシティ,伯利兹市,벨리즈시티</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="BZ">01</adminCode1>
+<adminName1>Belize</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="bg">Белиз Сити</alternateName>
+<alternateName lang="cy">Dinas Belize</alternateName>
+<alternateName lang="da">Belize City</alternateName>
+<alternateName lang="de">Belize City</alternateName>
+<alternateName lang="el">Πόλη του Μπελίζε</alternateName>
+<alternateName lang="en">Belize City</alternateName>
+<alternateName lang="eo">Belizurbo</alternateName>
+<alternateName lang="es">Ciudad de Belice</alternateName>
+<alternateName lang="fi">Belize City</alternateName>
+<alternateName lang="fr">Belize City</alternateName>
+<alternateName lang="hi">बेलीज़ सिटी</alternateName>
+<alternateName lang="iata">BZE</alternateName>
+<alternateName lang="it">Belize</alternateName>
+<alternateName lang="ja">ベリーズシティ</alternateName>
+<alternateName lang="ko">벨리즈시티</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Belize_City</alternateName>
+<alternateName lang="lt">Belizas</alternateName>
+<alternateName lang="my">ဘလိဇ်မြို့</alternateName>
+<alternateName lang="nah">Āltepētl Belice</alternateName>
+<alternateName lang="nl">Belize City</alternateName>
+<alternateName lang="pl">Belize City</alternateName>
+<alternateName lang="pt">Belize</alternateName>
+<alternateName lang="ru">Белиз</alternateName>
+<alternateName lang="sk">Belize City</alternateName>
+<alternateName lang="sv">Belize City</alternateName>
+<alternateName lang="sw">Belize City</alternateName>
+<alternateName lang="th">เบลีซซิตี</alternateName>
+<alternateName lang="ug">بېلىز شەھىرى</alternateName>
+<alternateName lang="uk">Беліз</alternateName>
+<alternateName lang="unlc">BZE</alternateName>
+<alternateName lang="vi">Thành phố Belize</alternateName>
+<alternateName lang="war">Syudad han Belize</alternateName>
+<alternateName lang="zh">伯利兹市</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Belize</timezone>
+<bbox>
+<west>-88.23123</west>
+<north>17.53163</north>
+<east>-88.16388</east>
+<south>17.4674</south>
+</bbox>
+<score>3.2341837882995605</score>
+</geoname>
+<geoname>
+<toponymName>Mérida</toponymName>
+<name>Mérida</name>
+<lat>20.9767</lat>
+<lng>-89.62059</lng>
+<geonameId>3523349</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population>717175</population>
+<alternateNames>Ciudad de Merida,Ciudad de Mérida,Emerita,Gorad Meryda,MID,Merida,Merida i Yucatan,Mérida,Mérida i Yucatán,mardt,mei li da,melida,merida,mryda, ywkatan,Μέριδα,Горад Мерыда,Мерида,Меріда,ماردة,مریدا، یوکاتان,მერიდა,メリダ,梅里达,梅里達,메리다</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="YUC">31</adminCode1>
+<adminName1>Yucatán</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ar">ماردة</alternateName>
+<alternateName lang="be">Горад Мерыда</alternateName>
+<alternateName lang="bg">Мерида</alternateName>
+<alternateName lang="ca">Mérida</alternateName>
+<alternateName lang="da">Mérida</alternateName>
+<alternateName lang="de">Mérida</alternateName>
+<alternateName lang="el">Μέριδα</alternateName>
+<alternateName lang="en">Mérida</alternateName>
+<alternateName lang="es">Mérida</alternateName>
+<alternateName lang="fa">مریدا، یوکاتان</alternateName>
+<alternateName lang="fr">Mérida</alternateName>
+<alternateName lang="iata">MID</alternateName>
+<alternateName lang="id">Mérida</alternateName>
+<alternateName lang="ja">メリダ</alternateName>
+<alternateName lang="ka">მერიდა</alternateName>
+<alternateName lang="ko">메리다</alternateName>
+<alternateName lang="la">Emerita</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/M%C3%A9rida%2C_Yucat%C3%A1n</alternateName>
+<alternateName lang="lt">Merida</alternateName>
+<alternateName lang="lv">Merida</alternateName>
+<alternateName lang="mk">Мерида</alternateName>
+<alternateName lang="nl">Mérida</alternateName>
+<alternateName lang="nn">Mérida i Yucatán</alternateName>
+<alternateName lang="no">Mérida</alternateName>
+<alternateName lang="pl">Merida</alternateName>
+<alternateName lang="ru">Мерида</alternateName>
+<alternateName lang="sr">Мерида</alternateName>
+<alternateName lang="sv">Mérida</alternateName>
+<alternateName lang="uk">Меріда</alternateName>
+<alternateName lang="unlc">MID</alternateName>
+<alternateName lang="zh">梅里达</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Merida</timezone>
+<bbox>
+<west>-89.73835</west>
+<north>21.08658</north>
+<east>-89.50283</east>
+<south>20.86683</south>
+</bbox>
+<score>2.8586413860321045</score>
+</geoname>
+<geoname>
+<toponymName>Ciudad del Medio</toponymName>
+<name>Ciudad del Medio</name>
+<lat>10.09591</lat>
+<lng>-63.12292</lng>
+<geonameId>3645530</geonameId>
+<countryCode>VE</countryCode>
+<countryName>Venezuela</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="N">16</adminCode1>
+<adminName1>Estado Monagas</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.5" gmtOffset="-4.5">America/Caracas</timezone>
+<score>2.1742701530456543</score>
+</geoname>
+<geoname>
+<toponymName>Ciudad Del Medio</toponymName>
+<name>Ciudad Del Medio</name>
+<lat>10.09722</lat>
+<lng>-63.12389</lng>
+<geonameId>3777804</geonameId>
+<countryCode>VE</countryCode>
+<countryName>Venezuela</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="N">16</adminCode1>
+<adminName1>Estado Monagas</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.5" gmtOffset="-4.5">America/Caracas</timezone>
+<bbox>
+<west>-63.13302</west>
+<north>10.10622</north>
+<east>-63.11475</east>
+<south>10.08823</south>
+</bbox>
+<score>2.1742701530456543</score>
+</geoname>
+</geonames>

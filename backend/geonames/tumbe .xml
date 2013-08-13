@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>15</totalResultsCount>
+<geoname>
+<toponymName>Tumbe</toponymName>
+<name>Tumbe</name>
+<lat>-4.96667</lat>
+<lng>39.8</lng>
+<geonameId>149421</geonameId>
+<countryCode>TZ</countryCode>
+<countryName>Tanzania</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="06">13</adminCode1>
+<adminName1>Pemba North</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="3.0" gmtOffset="3.0">Africa/Dar_es_Salaam</timezone>
+<score>70.18251037597656</score>
+</geoname>
+<geoname>
+<toponymName>Tumbe</toponymName>
+<name>Tumbe</name>
+<lat>-4.95</lat>
+<lng>39.78333</lng>
+<geonameId>149420</geonameId>
+<countryCode>TZ</countryCode>
+<countryName>Tanzania</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="06">13</adminCode1>
+<adminName1>Pemba North</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="3.0" gmtOffset="3.0">Africa/Dar_es_Salaam</timezone>
+<bbox>
+<west>39.77431</west>
+<north>-4.94101</north>
+<east>39.79236</east>
+<south>-4.95899</south>
+</bbox>
+<score>40.10429000854492</score>
+</geoname>
+<geoname>
+<toponymName>Tumbe</toponymName>
+<name>Tumbe</name>
+<lat>-9.7</lat>
+<lng>31.16667</lng>
+<geonameId>175089</geonameId>
+<countryCode>ZM</countryCode>
+<countryName>Zambia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="05">05</adminCode1>
+<adminName1>Northern</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Lusaka</timezone>
+<bbox>
+<west>31.15754</west>
+<north>-9.69101</north>
+<east>31.17579</east>
+<south>-9.70899</south>
+</bbox>
+<score>40.10429000854492</score>
+</geoname>
+<geoname>
+<toponymName>Tumbe</toponymName>
+<name>Tumbe</name>
+<lat>-2.96667</lat>
+<lng>22.05</lng>
+<geonameId>204605</geonameId>
+<countryCode>CD</countryCode>
+<countryName>Democratic Republic of the Congo</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Lubumbashi</timezone>
+<bbox>
+<west>22.04099</west>
+<north>-2.95767</north>
+<east>22.05901</east>
+<south>-2.97566</south>
+</bbox>
+<score>40.10429000854492</score>
+</geoname>
+<geoname>
+<toponymName>Tumbe</toponymName>
+<name>Tumbe</name>
+<lat>6.08333</lat>
+<lng>80.58333</lng>
+<geonameId>1226222</geonameId>
+<countryCode>LK</countryCode>
+<countryName>Sri Lanka</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="3">34</adminCode1>
+<adminName1>Southern</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="5.5" gmtOffset="5.5">Asia/Colombo</timezone>
+<bbox>
+<west>80.57429</west>
+<north>6.09233</north>
+<east>80.59238</east>
+<south>6.07434</south>
+</bbox>
+<score>40.10429000854492</score>
+</geoname>
+<geoname>
+<toponymName>Tumbe</toponymName>
+<name>Tumbe</name>
+<lat>-19.84861</lat>
+<lng>31.75833</lng>
+<geonameId>7507312</geonameId>
+<countryCode>ZW</countryCode>
+<countryName>Zimbabwe</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="MV">08</adminCode1>
+<adminName1>Masvingo</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Harare</timezone>
+<bbox>
+<west>31.74876</west>
+<north>-19.83962</north>
+<east>31.76789</east>
+<south>-19.8576</south>
+</bbox>
+<score>40.10429000854492</score>
+</geoname>
+<geoname>
+<toponymName>Tumbe</toponymName>
+<name>Tumbe</name>
+<lat>-8.76098</lat>
+<lng>14.7478</lng>
+<geonameId>7764032</geonameId>
+<countryCode>AO</countryCode>
+<countryName>Angola</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="BGO">19</adminCode1>
+<adminName1>Bengo</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="1.0">Africa/Luanda</timezone>
+<bbox>
+<west>14.7387</west>
+<north>-8.75199</north>
+<east>14.7569</east>
+<south>-8.76998</south>
+</bbox>
+<score>40.10429000854492</score>
+</geoname>
+<geoname>
+<toponymName>Tumbe I</toponymName>
+<name>Tumbe I</name>
+<lat>-1.83333</lat>
+<lng>17.68333</lng>
+<geonameId>2311058</geonameId>
+<countryCode>CD</countryCode>
+<countryName>Democratic Republic of the Congo</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Tumbe,Tumbe I</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="1.0">Africa/Kinshasa</timezone>
+<bbox>
+<west>17.67434</west>
+<north>-1.82434</north>
+<east>17.69233</east>
+<south>-1.84233</south>
+</bbox>
+<score>28.358016967773438</score>
+</geoname>
+<geoname>
+<toponymName>Tumbe</toponymName>
+<name>Tumbe</name>
+<lat>27.36912</lat>
+<lng>87.55477</lng>
+<geonameId>8005562</geonameId>
+<countryCode>NP</countryCode>
+<countryName>Nepal</countryName>
+<fcl>P</fcl>
+<fcode>PPLL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="4">ER</adminCode1>
+<adminName1>Eastern Region</adminName1>
+<adminCode2>10</adminCode2>
+<adminName2>Mechī Zone</adminName2>
+<adminCode3>1</adminCode3>
+<adminName3>Taplejung</adminName3>
+<adminCode4>10035</adminCode4>
+<adminName4>Sangu</adminName4>
+<adminCode5>1003502</adminCode5>
+<adminName5>Sangu</adminName5>
+<timezone dstOffset="5.75" gmtOffset="5.75">Asia/Kathmandu</timezone>
+<bbox>
+<west>87.55376</west>
+<north>27.37002</north>
+<east>87.55578</east>
+<south>27.36822</south>
+</bbox>
+<score>25.065181732177734</score>
+</geoname>
+<geoname>
+<toponymName>Tumbe</toponymName>
+<name>Tumbe</name>
+<lat>-14.1</lat>
+<lng>29.76667</lng>
+<geonameId>896545</geonameId>
+<countryCode>ZM</countryCode>
+<countryName>Zambia</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>Tumbe,Tumbwe</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="02">02</adminCode1>
+<adminName1>Central</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Lusaka</timezone>
+<score>24.55876350402832</score>
+</geoname>
+</geonames>

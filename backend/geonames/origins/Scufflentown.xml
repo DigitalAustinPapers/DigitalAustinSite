@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Scuffletown</toponymName>
+<name>Scuffletown</name>
+<lat>37.92282</lat>
+<lng>-87.37223</lng>
+<geonameId>4307855</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>115</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>101</adminCode2>
+<adminName2>Henderson County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Scuffletown%2C_Kentucky</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-87.38363</west>
+<north>37.93182</north>
+<east>-87.36083</east>
+<south>37.91383</south>
+</bbox>
+<score>64.31774139404297</score>
+</geoname>
+<geoname>
+<toponymName>Scuffletown</toponymName>
+<name>Scuffletown</name>
+<lat>38.25874</lat>
+<lng>-78.29834</lng>
+<geonameId>4784737</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>174</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>137</adminCode2>
+<adminName2>Orange County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Scuffletown%2C_Virginia</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-78.30979</west>
+<north>38.26774</north>
+<east>-78.28688</east>
+<south>38.24975</south>
+</bbox>
+<score>64.31774139404297</score>
+</geoname>
+<geoname>
+<toponymName>Scuffletown</toponymName>
+<name>Scuffletown</name>
+<lat>33.52791</lat>
+<lng>-82.47513</lng>
+<geonameId>4221788</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>147</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">GA</adminCode1>
+<adminName1>Georgia</adminName1>
+<adminCode2>189</adminCode2>
+<adminName2>McDuffie County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-82.48592</west>
+<north>33.53691</north>
+<east>-82.46434</east>
+<south>33.51892</south>
+</bbox>
+<score>42.87849426269531</score>
+</geoname>
+<geoname>
+<toponymName>Scuffletown</toponymName>
+<name>Scuffletown</name>
+<lat>37.87256</lat>
+<lng>-85.64857</lng>
+<geonameId>4307857</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>176</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>029</adminCode2>
+<adminName2>Bullitt County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-85.65996</west>
+<north>37.88156</north>
+<east>-85.63717</east>
+<south>37.86357</south>
+</bbox>
+<score>42.87849426269531</score>
+</geoname>
+<geoname>
+<toponymName>Scuffletown</toponymName>
+<name>Scuffletown</name>
+<lat>36.93479</lat>
+<lng>-84.13004</lng>
+<geonameId>8259507</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>356</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>235</adminCode2>
+<adminName2>Whitley County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-84.1413</west>
+<north>36.94378</north>
+<east>-84.11879</east>
+<south>36.92579</south>
+</bbox>
+<score>42.87849426269531</score>
+</geoname>
+</geonames>

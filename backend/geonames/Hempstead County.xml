@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Hempstead County</toponymName>
+<name>Hempstead County</name>
+<lat>33.7353</lat>
+<lng>-93.66844</lng>
+<geonameId>4114303</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>22609</population>
+<alternateNames>Comte de Hempstead,Comté de Hempstead</alternateNames>
+<elevation>106</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">AR</adminCode1>
+<adminName1>Arkansas</adminName1>
+<adminCode2>057</adminCode2>
+<adminName2>Hempstead County</adminName2>
+<alternateName lang="fr">Comté de Hempstead</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hempstead_County%2C_Arkansas</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-93.9696</west>
+<north>34.00895</north>
+<east>-93.45595</east>
+<south>33.47581</south>
+</bbox>
+<score>80.4752197265625</score>
+</geoname>
+</geonames>

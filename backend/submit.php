@@ -9,12 +9,12 @@ require_once('../php/database.php');
 
 if (!function_exists('removeDuplicateSpaces'))
 {
-function removeDuplicateSpaces($word)
-{
-    $pattern = '/\s+/';
-    $replacement = ' ';
-    return preg_replace($pattern, $replacement, $word);
-}
+	function removeDuplicateSpaces($word)
+	{
+	    $pattern = '/\s+/';
+	    $replacement = ' ';
+	    return preg_replace($pattern, $replacement, $word);
+	}
 }
 
 if (!isset($database)) {
@@ -60,6 +60,8 @@ for ($i = 0; $i < $div1Elements->length; ++$i)
 }
 $summary = removeDuplicateSpaces($summary);
 
+#logString("loading normalized persons for some reason");
+
 $result = mysql_query("SELECT id, name FROM NormalizedPerson");
 $knownNames = array();
 while ($row = mysql_fetch_array($result))
@@ -69,25 +71,32 @@ while ($row = mysql_fetch_array($result))
 
 //Attach the chosen keys to the person tags
 //Also, build up an sql insert for person references
-$textElement = $doc->getElementsByTagName("text")->item(0);
-$people = $textElement->getElementsByTagName("persName");
+
+# BatchSubmit attempts to identify all persons within the document, not just the persons within the text!
+#$textElement = $doc->getElementsByTagName("text")->item(0);
+$people = $doc->getElementsByTagName("persName");
 $index = 0;
 $first = true;
 $personSql = '';
+$escapedQuotedSentToPersonKey = 'NULL';
+$escapedQuotedSentFromPersonKey = 'NULL';
+
 foreach( $people as $person )
 {
-    if ($first)
-    {
-        $personSql = 'INSERT INTO PersonReference (docId, text, normalId) VALUES ';
-        $first = false;
-    }
-    else
-    {
-        $personSql .= ", ";
-    }
+	$skip = false;
+#	logString("looping on index={$index}, person={$person->textContent}");
+	
     $text = removeDuplicateSpaces($person->textContent);
     $type = '';
-    $typeNode = $place->attributes->getNamedItem("type");
+    $typeNode = $person->attributes->getNamedItem("type");
+	$parentNodeName = $person->parentNode->nodeName;
+
+	if($parentNodeName=="respStmt") {
+		$skip = true;
+	}
+
+
+	logString("parentNodename for {$text} was {$parentNodeName}");
     if ($typeNode)
     {
         $type = $typeNode->nodeValue;
@@ -104,19 +113,42 @@ foreach( $people as $person )
         $keyAttr->value = strval($_POST["personTag"][$index]);
         $person->appendChild($keyAttr);
         $key = $_POST["personTag"][$index];
+		
+    	//logString("type={$type} and key={$key} for text={$text}");
+		if($type=="recipient" && $key != '') {
+			$escapedQuotedSentToPersonKey = $key;
+		}
+
+		if($parentNodeName=="author" && $key != '') {
+			$escapedQuotedSentFromPersonKey = $key;
+		}
+		
+
+
     }
-    $escapedDocId = mysql_real_escape_string($docId);
-    $escapedText = mysql_real_escape_string($text);
-    $personSql .= "('$escapedDocId', '$escapedText', ";
-    if ($key == NULL)
-    {
-        $personSql .= "NULL)";
-    }
-    else
-    {
-        $escapedKey = mysql_real_escape_string($key);
-        $personSql .= "$escapedKey)";
-    }
+	if(!$skip) {
+	    if ($first)
+	    {
+	        $personSql = 'INSERT INTO PersonReference (docId, text, normalId) VALUES ';
+	        $first = false;
+	    }
+	    else
+	    {
+	        $personSql .= ", ";
+	    }
+	    $escapedDocId = mysql_real_escape_string($docId);
+	    $escapedText = mysql_real_escape_string($text);
+	    $personSql .= "('$escapedDocId', '$escapedText', ";
+	    if ($key == NULL)
+	    {
+	        $personSql .= "NULL)";
+	    }
+	    else
+	    {
+	        $escapedKey = mysql_real_escape_string($key);
+	        $personSql .= "$escapedKey)";
+	    }
+	}
     $index += 1;
 }
 
@@ -240,12 +272,13 @@ $escapedXml = mysql_real_escape_string($doc->saveXML());
 $escapedCreation = mysql_real_escape_string($creationDate); 
 $escapedSummary = mysql_real_escape_string($summary);
 $insertDocSql = "REPLACE INTO Document (id, title, xml,
-    creation, summary, sentToPlace, sentFromPlace) VALUES ('$escapedId', '$escapedTitle',
-    '$escapedXml', '$escapedCreation', '$escapedSummary', $escapedQuotedSentToKey, $escapedQuotedSentFromKey)";
+    creation, summary, sentToPlace, sentFromPlace, sentToPerson, sentFromPerson) VALUES ('$escapedId', '$escapedTitle',
+    '$escapedXml', '$escapedCreation', '$escapedSummary', $escapedQuotedSentToKey, $escapedQuotedSentFromKey, $escapedQuotedSentToPersonKey, $escapedQuotedSentFromPersonKey)";
 
 mysql_query($insertDocSql) or print(mysql_error());
 
 //Perform the PersonReference insert
+logString($personSql);
 mysql_query($personSql) or print(mysql_error());
 
 //Perform the PlaceReference insert

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Grouna</toponymName>
+<name>Grouna</name>
+<lat>34.84362</lat>
+<lng>-5.88988</lng>
+<geonameId>2548565</geonameId>
+<countryCode>MA</countryCode>
+<countryName>Morocco</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="02">52</adminCode1>
+<adminName1>Gharb-Chrarda-Beni Hssen</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="0.0" gmtOffset="0.0">Africa/Casablanca</timezone>
+<bbox>
+<west>-5.90084</west>
+<north>34.85261</north>
+<east>-5.87892</east>
+<south>34.83462</south>
+</bbox>
+<score>45.98583984375</score>
+</geoname>
+</geonames>

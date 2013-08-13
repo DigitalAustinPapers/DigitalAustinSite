@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>22</totalResultsCount>
+<geoname>
+<toponymName>Bravo</toponymName>
+<name>Bravo</name>
+<lat>-12.05</lat>
+<lng>-76.95</lng>
+<geonameId>3946579</geonameId>
+<countryCode>PE</countryCode>
+<countryName>Peru</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Bravo,Bravo Grande</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="LIM">15</adminCode1>
+<adminName1>Lima Region</adminName1>
+<adminCode2>1501</adminCode2>
+<adminName2>Lima</adminName2>
+<adminCode3>150103</adminCode3>
+<adminName3>Ate</adminName3>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Lima</timezone>
+<bbox>
+<west>-76.9592</west>
+<north>-12.04101</north>
+<east>-76.9408</east>
+<south>-12.05899</south>
+</bbox>
+<score>47.860382080078125</score>
+</geoname>
+<geoname>
+<toponymName>Bravo</toponymName>
+<name>Bravo</name>
+<lat>-30.78354</lat>
+<lng>25.83792</lng>
+<geonameId>1015807</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="EC">05</adminCode1>
+<adminName1>Eastern Cape</adminName1>
+<adminCode2>DC14</adminCode2>
+<adminName2>Joe Gqabi District Municipality</adminName2>
+<adminCode3>EC144</adminCode3>
+<adminName3>Gariep</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<bbox>
+<west>25.82746</west>
+<north>-30.77455</north>
+<east>25.84839</east>
+<south>-30.79254</south>
+</bbox>
+<score>39.07783889770508</score>
+</geoname>
+<geoname>
+<toponymName>Bravo</toponymName>
+<name>Bravo</name>
+<lat>39.9184</lat>
+<lng>-8.06652</lng>
+<geonameId>2270707</geonameId>
+<countryCode>PT</countryCode>
+<countryName>Portugal</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="05">06</adminCode1>
+<adminName1>Castelo Branco</adminName1>
+<adminCode2>0509</adminCode2>
+<adminName2>Sertã</adminName2>
+<adminCode3>050911</adminCode3>
+<adminName3>Pedrógão Pequeno</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Lisbon</timezone>
+<bbox>
+<west>-8.07825</west>
+<north>39.92739</north>
+<east>-8.05479</east>
+<south>39.9094</south>
+</bbox>
+<score>39.07783889770508</score>
+</geoname>
+<geoname>
+<toponymName>Bravo</toponymName>
+<name>Bravo</name>
+<lat>-6.48333</lat>
+<lng>-39.3</lng>
+<geonameId>3404954</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="CE">06</adminCode1>
+<adminName1>Ceará</adminName1>
+<adminCode2>2305506</adminCode2>
+<adminName2>Iguatu</adminName2>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Fortaleza</timezone>
+<bbox>
+<west>-39.30905</west>
+<north>-6.47434</north>
+<east>-39.29095</east>
+<south>-6.49233</south>
+</bbox>
+<score>39.07783889770508</score>
+</geoname>
+<geoname>
+<toponymName>Bravo</toponymName>
+<name>Bravo</name>
+<lat>-5.76667</lat>
+<lng>-42.85</lng>
+<geonameId>3404955</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="PI">20</adminCode1>
+<adminName1>Piauí</adminName1>
+<adminCode2>2210508</adminCode2>
+<adminName2>São Pedro do Piauí</adminName2>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Fortaleza</timezone>
+<bbox>
+<west>-42.85904</west>
+<north>-5.75767</north>
+<east>-42.84096</east>
+<south>-5.77566</south>
+</bbox>
+<score>39.07783889770508</score>
+</geoname>
+<geoname>
+<toponymName>Bravo</toponymName>
+<name>Bravo</name>
+<lat>-13.93333</lat>
+<lng>-40.53333</lng>
+<geonameId>3469036</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="BA">05</adminCode1>
+<adminName1>Estado de Bahía</adminName1>
+<adminCode2>2920403</adminCode2>
+<adminName2>Manoel Vitorino</adminName2>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Bahia</timezone>
+<bbox>
+<west>-40.5426</west>
+<north>-13.92434</north>
+<east>-40.52407</east>
+<south>-13.94233</south>
+</bbox>
+<score>39.07783889770508</score>
+</geoname>
+<geoname>
+<toponymName>Bravo</toponymName>
+<name>Bravo</name>
+<lat>-13.75</lat>
+<lng>-41.1</lng>
+<geonameId>3469037</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="BA">05</adminCode1>
+<adminName1>Estado de Bahía</adminName1>
+<adminCode2>2908804</adminCode2>
+<adminName2>Contendas do Sincorá</adminName2>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Bahia</timezone>
+<bbox>
+<west>-41.10926</west>
+<north>-13.74101</north>
+<east>-41.09074</east>
+<south>-13.75899</south>
+</bbox>
+<score>39.07783889770508</score>
+</geoname>
+<geoname>
+<toponymName>Bravo</toponymName>
+<name>Bravo</name>
+<lat>-12.15</lat>
+<lng>-39.46667</lng>
+<geonameId>3469038</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="BA">05</adminCode1>
+<adminName1>Estado de Bahía</adminName1>
+<adminCode2>2914000</adminCode2>
+<adminName2>Ipirá</adminName2>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Bahia</timezone>
+<bbox>
+<west>-39.47587</west>
+<north>-12.14101</north>
+<east>-39.45747</east>
+<south>-12.15899</south>
+</bbox>
+<score>39.07783889770508</score>
+</geoname>
+<geoname>
+<toponymName>Bravo</toponymName>
+<name>Bravo</name>
+<lat>22.76667</lat>
+<lng>-82.65</lng>
+<geonameId>3566919</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1>AR</adminCode1>
+<adminName1>Provincia Artemisa</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>39.07783889770508</score>
+</geoname>
+<geoname>
+<toponymName>Bravo</toponymName>
+<name>Bravo</name>
+<lat>22.01667</lat>
+<lng>-79.25</lng>
+<geonameId>3566920</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="07">14</adminCode1>
+<adminName1>Sancti Spíritus</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>39.07783889770508</score>
+</geoname>
+</geonames>

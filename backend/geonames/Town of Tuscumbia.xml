@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Town of Tuscumbia</toponymName>
+<name>Town of Tuscumbia</name>
+<lat>38.23706</lat>
+<lng>-92.46004</lng>
+<geonameId>7165457</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>administrative division</fcodeName>
+<population>203</population>
+<alternateNames/>
+<elevation>222</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>131</adminCode2>
+<adminName2>Miller County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.46747</west>
+<north>38.24804</north>
+<east>-92.4521</east>
+<south>38.22989</south>
+</bbox>
+<score>80.4752197265625</score>
+</geoname>
+</geonames>

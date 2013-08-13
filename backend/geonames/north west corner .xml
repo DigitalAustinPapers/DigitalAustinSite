@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Northwest Corners</toponymName>
+<name>Northwest Corners</name>
+<lat>42.62951</lat>
+<lng>-75.77352</lng>
+<geonameId>5129322</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>450</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>017</adminCode2>
+<adminName2>Chenango County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-75.78575</west>
+<north>42.63851</north>
+<east>-75.7613</east>
+<south>42.62052</south>
+</bbox>
+<score>43.75297164916992</score>
+</geoname>
+<geoname>
+<toponymName>North West Cornice</toponymName>
+<name>North West Cornice</name>
+<lat>-53.06667</lat>
+<lng>73.41667</lng>
+<geonameId>1547293</geonameId>
+<countryCode>HM</countryCode>
+<countryName>Heard Island and McDonald Islands</countryName>
+<fcl>T</fcl>
+<fcode>RDGE</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>ridge(s)</fcodeName>
+<population/>
+<alternateNames>North West Cornice</alternateNames>
+<elevation/>
+<continentCode>AN</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/North_West_Cornice</alternateName>
+<timezone dstOffset="5.0" gmtOffset="5.0">Indian/Kerguelen</timezone>
+<score>22.965526580810547</score>
+</geoname>
+<geoname>
+<toponymName>North West Creek</toponymName>
+<name>North West Creek</name>
+<lat>-45.79838</lat>
+<lng>169.8901</lng>
+<geonameId>6210101</geonameId>
+<countryCode>NZ</countryCode>
+<countryName>New Zealand</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="OTA">F7</adminCode1>
+<adminName1>Otago Region</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="12.0" gmtOffset="13.0">Pacific/Auckland</timezone>
+<score>2.075334310531616</score>
+</geoname>
+</geonames>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Westmoreland County</toponymName>
+<name>Westmoreland County</name>
+<lat>38.11282</lat>
+<lng>-76.79991</lng>
+<geonameId>4793032</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>17454</population>
+<alternateNames>Comte de Westmoreland,Comté de Westmoreland,Condado de Westmoreland,Condado han Westmoreland,Contea di Westmoreland,Hrabstwo Westmoreland,Okrug Vestmorlend,Quan Westmoreland,Quận Westmoreland,Swydd Westmoreland,Vestmorlend,Westmorelandin piirikunta,raestamoralyanda ka'unti,vesmorlend kaunti,wei si te mo lan xian,Вестморленд,Округ Вестморленд,مقاطعة ويستمورلاند,ویسٹمورلینڈ کاؤنٹی,ৱেস্টমোরল্যান্ড কাউন্টি,ვესმორლენდ ქაუნთი,威斯特摩兰县</alternateNames>
+<elevation>45</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>193</adminCode2>
+<adminName2>Westmoreland County</adminName2>
+<alternateName lang="ar">مقاطعة ويستمورلاند</alternateName>
+<alternateName lang="bpy">ৱেস্টমোরল্যান্ড কাউন্টি</alternateName>
+<alternateName lang="cy">Swydd Westmoreland</alternateName>
+<alternateName lang="es">Condado de Westmoreland</alternateName>
+<alternateName lang="fi">Westmorelandin piirikunta</alternateName>
+<alternateName lang="fr">Comté de Westmoreland</alternateName>
+<alternateName lang="it">Contea di Westmoreland</alternateName>
+<alternateName lang="ka">ვესმორლენდ ქაუნთი</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Westmoreland_County%2C_Virginia</alternateName>
+<alternateName lang="mk">Округ Вестморленд</alternateName>
+<alternateName lang="pl">Hrabstwo Westmoreland</alternateName>
+<alternateName lang="pnb">ویسٹمورلینڈ کاؤنٹی</alternateName>
+<alternateName lang="pt">Condado de Westmoreland</alternateName>
+<alternateName lang="uk">Вестморленд</alternateName>
+<alternateName lang="vi">Quận Westmoreland</alternateName>
+<alternateName lang="war">Condado han Westmoreland</alternateName>
+<alternateName lang="zh">威斯特摩兰县</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-77.06737</west>
+<north>38.2769</north>
+<east>-76.51937</east>
+<south>37.96729</south>
+</bbox>
+<score>33.38713836669922</score>
+</geoname>
+<geoname>
+<toponymName>Westmoreland County</toponymName>
+<name>Westmoreland County</name>
+<lat>40.31073</lat>
+<lng>-79.46696</lng>
+<geonameId>5219013</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>365169</population>
+<alternateNames>Comte de Westmoreland,Comté de Westmoreland,Condado de Westmoreland,Condado han Westmoreland,Contea di Westmoreland,Hrabstwo Westmoreland,Konteth Westmoreland,Quan Westmoreland,Quận Westmoreland,Uestmorlend,Vestmorlend,Vestmorlend srjan,Westmoreland Comitatus,raestamoralyanda ka'unti,wei si te mo lan xian,Вестморленд,Уестморленд,Վեստմորլենդ շրջան,ویسٹمورلینڈ کاؤنٹی، پنسلوانیا,ৱেস্টমোরল্যান্ড কাউন্টি,威斯特摩蘭縣</alternateNames>
+<elevation>390</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PA">PA</adminCode1>
+<adminName1>Pennsylvania</adminName1>
+<adminCode2>129</adminCode2>
+<adminName2>Westmoreland County</adminName2>
+<alternateName lang="bg">Уестморленд</alternateName>
+<alternateName lang="bpy">ৱেস্টমোরল্যান্ড কাউন্টি</alternateName>
+<alternateName lang="es">Condado de Westmoreland</alternateName>
+<alternateName lang="fr">Comté de Westmoreland</alternateName>
+<alternateName lang="hy">Վեստմորլենդ շրջան</alternateName>
+<alternateName lang="it">Contea di Westmoreland</alternateName>
+<alternateName lang="kw">Konteth Westmoreland</alternateName>
+<alternateName lang="la">Westmoreland Comitatus</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Westmoreland_County%2C_Pennsylvania</alternateName>
+<alternateName lang="pl">Hrabstwo Westmoreland</alternateName>
+<alternateName lang="pnb">ویسٹمورلینڈ کاؤنٹی، پنسلوانیا</alternateName>
+<alternateName lang="pt">Condado de Westmoreland</alternateName>
+<alternateName lang="uk">Вестморленд</alternateName>
+<alternateName lang="vi">Quận Westmoreland</alternateName>
+<alternateName lang="war">Condado han Westmoreland</alternateName>
+<alternateName lang="zh">威斯特摩蘭縣</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-79.90527</west>
+<north>40.68042</north>
+<east>-78.97258</east>
+<south>40.03997</south>
+</bbox>
+<score>33.38713836669922</score>
+</geoname>
+<geoname>
+<toponymName>Westmoreland City</toponymName>
+<name>Westmoreland City</name>
+<lat>40.33118</lat>
+<lng>-79.67699</lng>
+<geonameId>5219009</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>300</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PA">PA</adminCode1>
+<adminName1>Pennsylvania</adminName1>
+<adminCode2>129</adminCode2>
+<adminName2>Westmoreland County</adminName2>
+<alternateName lang="post">15692</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-79.68879</west>
+<north>40.34017</north>
+<east>-79.66519</east>
+<south>40.32219</south>
+</bbox>
+<score>4.131391525268555</score>
+</geoname>
+</geonames>

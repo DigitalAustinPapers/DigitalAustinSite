@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>6</totalResultsCount>
+<geoname>
+<toponymName>Vesuvius</toponymName>
+<name>Vesuvius</name>
+<lat>37.90624</lat>
+<lng>-79.19725</lng>
+<geonameId>4791112</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>435</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>163</adminCode2>
+<adminName2>Rockbridge County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Vesuvius%2C_Virginia</alternateName>
+<alternateName lang="post">24483</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-79.20865</west>
+<north>37.91524</north>
+<east>-79.18585</east>
+<south>37.89725</south>
+</bbox>
+<score>63.66377258300781</score>
+</geoname>
+<geoname>
+<toponymName>Vesuvius</toponymName>
+<name>Vesuvius</name>
+<lat>48.88137</lat>
+<lng>-123.57207</lng>
+<geonameId>6173954</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="BC">02</adminCode1>
+<adminName1>British Columbia</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Vesuvius%2C_British_Columbia</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Vancouver</timezone>
+<bbox>
+<west>-123.58575</west>
+<north>48.89036</north>
+<east>-123.55839</east>
+<south>48.87237</south>
+</bbox>
+<score>63.66377258300781</score>
+</geoname>
+<geoname>
+<toponymName>Vesuvius</toponymName>
+<name>Vesuvius</name>
+<lat>40.82293</lat>
+<lng>14.42874</lng>
+<geonameId>3164481</geonameId>
+<countryCode>IT</countryCode>
+<countryName>Italy</countryName>
+<fcl>T</fcl>
+<fcode>VLC</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>volcano</fcodeName>
+<population/>
+<alternateNames>Mont Vesuve,Mont Vésuve,Vesubi,Vesubio,Vesuv,Vesuve,Vesuvio,Vesuvius,Vésuve</alternateNames>
+<elevation>1281</elevation>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="72">04</adminCode1>
+<adminName1>Campania</adminName1>
+<adminCode2>NA</adminCode2>
+<adminName2>Naples</adminName2>
+<alternateName lang="ca">Vesubi</alternateName>
+<alternateName lang="de">Vesuv</alternateName>
+<alternateName lang="en">Vesuvius</alternateName>
+<alternateName lang="es">Vesubio</alternateName>
+<alternateName lang="fr">Mont Vésuve</alternateName>
+<alternateName lang="it">Vesuvio</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Mount_Vesuvius</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Rome</timezone>
+<score>51.98125457763672</score>
+</geoname>
+<geoname>
+<toponymName>Vesuvius</toponymName>
+<name>Vesuvius</name>
+<lat>-17.53333</lat>
+<lng>30.95</lng>
+<geonameId>879439</geonameId>
+<countryCode>ZW</countryCode>
+<countryName>Zimbabwe</countryName>
+<fcl>S</fcl>
+<fcode>MN</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>mine(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Harare</timezone>
+<score>13.263286590576172</score>
+</geoname>
+<geoname>
+<toponymName>Vesuvius</toponymName>
+<name>Vesuvius</name>
+<lat>-23.0034</lat>
+<lng>28.71642</lng>
+<geonameId>944095</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>S</fcl>
+<fcode>FRM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farm</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="LP">09</adminCode1>
+<adminName1>Limpopo</adminName1>
+<adminCode2>DC35</adminCode2>
+<adminName2>Capricorn District Municipality</adminName2>
+<adminCode3>LIM351</adminCode3>
+<adminName3>Blouberg</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<score>13.263286590576172</score>
+</geoname>
+<geoname>
+<toponymName>Vesuvius</toponymName>
+<name>Vesuvius</name>
+<lat>52.95688</lat>
+<lng>6.23272</lng>
+<geonameId>6949875</geonameId>
+<countryCode>NL</countryCode>
+<countryName>Netherlands</countryName>
+<fcl>S</fcl>
+<fcode>MLWND</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>windmill</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="FR">02</adminCode1>
+<adminName1>Friesland</adminName1>
+<adminCode2>0085</adminCode2>
+<adminName2>Ooststellingwerf</adminName2>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Amsterdam</timezone>
+<score>13.263286590576172</score>
+</geoname>
+</geonames>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Grand Bend</toponymName>
+<name>Grand Bend</name>
+<lat>43.31678</lat>
+<lng>-81.74978</lng>
+<geonameId>5964250</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ON">08</adminCode1>
+<adminName1>Ontario</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Grand_Bend</alternateName>
+<alternateName lang="unlc">GJI</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Toronto</timezone>
+<bbox>
+<west>-81.76214</west>
+<north>43.32578</north>
+<east>-81.73742</east>
+<south>43.30779</south>
+</bbox>
+<score>67.25851440429688</score>
+</geoname>
+<geoname>
+<toponymName>Grand Bend</toponymName>
+<name>Grand Bend</name>
+<lat>32.25571</lat>
+<lng>-93.48323</lng>
+<geonameId>4326131</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STMB</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream bend</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>45</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>017</adminCode2>
+<adminName2>Caddo Parish</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>14.012189865112305</score>
+</geoname>
+</geonames>

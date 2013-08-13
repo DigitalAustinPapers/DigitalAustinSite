@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>33</totalResultsCount>
+<geoname>
+<toponymName>Saratoga</toponymName>
+<name>Saratoga</name>
+<lat>37.26383</lat>
+<lng>-122.02301</lng>
+<geonameId>5393485</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>29926</population>
+<alternateNames>Saratoga,sa la tuo jia,saratoga,saratwga, kalyfrnya,saratwgha, santa klara, kalyfwrnya,Саратога,ساراتوغا، سانتا كلارا، كاليفورنيا,ساراتوگا، کالیفرنیا,サラトガ,薩拉托加</alternateNames>
+<elevation>125</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>085</adminCode2>
+<adminName2>Santa Clara County</adminName2>
+<alternateName lang="ar">ساراتوغا، سانتا كلارا، كاليفورنيا</alternateName>
+<alternateName lang="bg">Саратога</alternateName>
+<alternateName lang="fa">ساراتوگا، کالیفرنیا</alternateName>
+<alternateName lang="ja">サラトガ</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Saratoga%2C_California</alternateName>
+<alternateName lang="post">95071</alternateName>
+<alternateName lang="sr">Саратога</alternateName>
+<alternateName lang="zh">薩拉托加</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-122.06789</west>
+<north>37.29633</north>
+<east>-121.98948</east>
+<south>37.23601</south>
+</bbox>
+<score>66.38996887207031</score>
+</geoname>
+<geoname>
+<toponymName>Saratoga</toponymName>
+<name>Saratoga</name>
+<lat>21.16667</lat>
+<lng>-77.78333</lng>
+<geonameId>3536443</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames>Saratoga,Sarratoga</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="09">05</adminCode1>
+<adminName1>Camagüey</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>45.66008377075195</score>
+</geoname>
+<geoname>
+<toponymName>Saratoga</toponymName>
+<name>Saratoga</name>
+<lat>33.75179</lat>
+<lng>-93.90269</lng>
+<geonameId>4130233</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>140</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">AR</adminCode1>
+<adminName1>Arkansas</adminName1>
+<adminCode2>061</adminCode2>
+<adminName2>Howard County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Saratoga%2C_Arkansas</alternateName>
+<alternateName lang="post">71859</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-93.9135</west>
+<north>33.76078</north>
+<east>-93.89187</east>
+<south>33.74279</south>
+</bbox>
+<score>42.584320068359375</score>
+</geoname>
+<geoname>
+<toponymName>Saratoga</toponymName>
+<name>Saratoga</name>
+<lat>35.65377</lat>
+<lng>-77.77553</lng>
+<geonameId>4490361</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>408</population>
+<alternateNames/>
+<elevation>36</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NC">NC</adminCode1>
+<adminName1>North Carolina</adminName1>
+<adminCode2>195</adminCode2>
+<adminName2>Wilson County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Saratoga%2C_North_Carolina</alternateName>
+<alternateName lang="post">27873</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-77.77664</west>
+<north>35.65467</north>
+<east>-77.77443</east>
+<south>35.65287</south>
+</bbox>
+<score>42.584320068359375</score>
+</geoname>
+<geoname>
+<toponymName>Saratoga</toponymName>
+<name>Saratoga</name>
+<lat>30.2841</lat>
+<lng>-94.52936</lng>
+<geonameId>4727132</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>27</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>199</adminCode2>
+<adminName2>Hardin County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Saratoga%2C_Texas</alternateName>
+<alternateName lang="post">77585</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-94.53978</west>
+<north>30.29309</north>
+<east>-94.51895</east>
+<south>30.2751</south>
+</bbox>
+<score>42.584320068359375</score>
+</geoname>
+<geoname>
+<toponymName>Saratoga</toponymName>
+<name>Saratoga</name>
+<lat>39.08316</lat>
+<lng>-78.05944</lng>
+<geonameId>4784484</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>167</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>043</adminCode2>
+<adminName2>Clarke County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Saratoga%2C_Clarke_County%2C_Virginia</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-78.07103</west>
+<north>39.09216</north>
+<east>-78.04785</east>
+<south>39.07417</south>
+</bbox>
+<score>42.584320068359375</score>
+</geoname>
+<geoname>
+<toponymName>Saratoga</toponymName>
+<name>Saratoga</name>
+<lat>40.23699</lat>
+<lng>-84.9183</lng>
+<geonameId>4926140</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>254</population>
+<alternateNames/>
+<elevation>320</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IN">IN</adminCode1>
+<adminName1>Indiana</adminName1>
+<adminCode2>135</adminCode2>
+<adminName2>Randolph County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Saratoga%2C_Indiana</alternateName>
+<alternateName lang="post">47382</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Indiana/Indianapolis</timezone>
+<bbox>
+<west>-84.91948</west>
+<north>40.23789</north>
+<east>-84.91712</east>
+<south>40.23609</south>
+</bbox>
+<score>42.584320068359375</score>
+</geoname>
+<geoname>
+<toponymName>Saratoga</toponymName>
+<name>Saratoga</name>
+<lat>43.89191</lat>
+<lng>-92.06988</lng>
+<geonameId>5045973</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>327</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MN">MN</adminCode1>
+<adminName1>Minnesota</adminName1>
+<adminCode2>169</adminCode2>
+<adminName2>Winona County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Saratoga%2C_Minnesota</alternateName>
+<alternateName lang="unlc">SRB</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.08236</west>
+<north>43.9009</north>
+<east>-92.0574</east>
+<south>43.88291</south>
+</bbox>
+<score>42.584320068359375</score>
+</geoname>
+<geoname>
+<toponymName>Saratoga</toponymName>
+<name>Saratoga</name>
+<lat>41.45496</lat>
+<lng>-106.80643</lng>
+<geonameId>5837593</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1690</population>
+<alternateNames>SAA</alternateNames>
+<elevation>2068</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WY">WY</adminCode1>
+<adminName1>Wyoming</adminName1>
+<adminCode2>007</adminCode2>
+<adminName2>Carbon County</adminName2>
+<alternateName lang="iata">SAA</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Saratoga%2C_Wyoming</alternateName>
+<alternateName lang="post">82331</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<bbox>
+<west>-106.81243</west>
+<north>41.45946</north>
+<east>-106.80043</east>
+<south>41.45047</south>
+</bbox>
+<score>42.584320068359375</score>
+</geoname>
+<geoname>
+<toponymName>Sanatoga</toponymName>
+<name>Sanatoga</name>
+<lat>40.2451</lat>
+<lng>-75.59518</lng>
+<geonameId>5210764</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>8378</population>
+<alternateNames/>
+<elevation>72</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PA">PA</adminCode1>
+<adminName1>Pennsylvania</adminName1>
+<adminCode2>091</adminCode2>
+<adminName2>Montgomery County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Sanatoga%2C_Pennsylvania</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-75.60962</west>
+<north>40.25611</north>
+<east>-75.58075</east>
+<south>40.23408</south>
+</bbox>
+<score>30.801944732666016</score>
+</geoname>
+</geonames>

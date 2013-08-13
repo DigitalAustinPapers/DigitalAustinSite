@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>8</totalResultsCount>
+<geoname>
+<toponymName>Dominion</toponymName>
+<name>Dominion</name>
+<lat>38.94706</lat>
+<lng>-76.28106</lng>
+<geonameId>4353539</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>3</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MD">MD</adminCode1>
+<adminName1>Maryland</adminName1>
+<adminCode2>035</adminCode2>
+<adminName2>Queen Anne's County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Dominion%2C_Maryland</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-76.29263</west>
+<north>38.95605</north>
+<east>-76.2695</east>
+<south>38.93806</south>
+</bbox>
+<score>62.59749984741211</score>
+</geoname>
+<geoname>
+<toponymName>Dominion</toponymName>
+<name>Dominion</name>
+<lat>46.21684</lat>
+<lng>-60.01515</lng>
+<geonameId>5941414</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NS">07</adminCode1>
+<adminName1>Nova Scotia</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Dominion%2C_Nova_Scotia</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-4.0">America/Glace_Bay</timezone>
+<bbox>
+<west>-60.02815</west>
+<north>46.22583</north>
+<east>-60.00215</east>
+<south>46.20784</south>
+</bbox>
+<score>62.59749984741211</score>
+</geoname>
+<geoname>
+<toponymName>Dominion</toponymName>
+<name>Dominion</name>
+<lat>29.65689</lat>
+<lng>-98.61641</lng>
+<geonameId>4686558</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>360</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>029</adminCode2>
+<adminName2>Bexar County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-98.62676</west>
+<north>29.66589</north>
+<east>-98.60606</east>
+<south>29.6479</south>
+</bbox>
+<score>41.731666564941406</score>
+</geoname>
+<geoname>
+<toponymName>Dominion</toponymName>
+<name>Dominion</name>
+<lat>36.81092</lat>
+<lng>-83.07128</lng>
+<geonameId>4756165</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>502</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>105</adminCode2>
+<adminName2>Lee County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-83.08251</west>
+<north>36.81992</north>
+<east>-83.06004</east>
+<south>36.80193</south>
+</bbox>
+<score>41.731666564941406</score>
+</geoname>
+<geoname>
+<toponymName>Dominion</toponymName>
+<name>Dominion</name>
+<lat>40.14304</lat>
+<lng>-105.12693</lng>
+<geonameId>5576432</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1526</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CO">CO</adminCode1>
+<adminName1>Colorado</adminName1>
+<adminCode2>013</adminCode2>
+<adminName2>Boulder County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<bbox>
+<west>-105.1387</west>
+<north>40.15203</north>
+<east>-105.11516</east>
+<south>40.13405</south>
+</bbox>
+<score>41.731666564941406</score>
+</geoname>
+<geoname>
+<toponymName>Dominion</toponymName>
+<name>Dominion</name>
+<lat>63.66195</lat>
+<lng>-138.66122</lng>
+<geonameId>5941415</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>P</fcl>
+<fcode>PPLL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="YT">12</adminCode1>
+<adminName1>Yukon</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Whitehorse</timezone>
+<bbox>
+<west>-138.66325</west>
+<north>63.66284</north>
+<east>-138.65919</east>
+<south>63.66105</south>
+</bbox>
+<score>26.082290649414062</score>
+</geoname>
+<geoname>
+<toponymName>Dominion</toponymName>
+<name>Dominion</name>
+<lat>-19.51667</lat>
+<lng>30.03333</lng>
+<geonameId>892234</geonameId>
+<countryCode>ZW</countryCode>
+<countryName>Zimbabwe</countryName>
+<fcl>S</fcl>
+<fcode>MN</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>mine(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Harare</timezone>
+<score>13.041145324707031</score>
+</geoname>
+<geoname>
+<toponymName>Dominion</toponymName>
+<name>Dominion</name>
+<lat>48.60741</lat>
+<lng>-117.66831</lng>
+<geonameId>5792589</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>930</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WA">WA</adminCode1>
+<adminName1>Washington</adminName1>
+<adminCode2>065</adminCode2>
+<adminName2>Stevens County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>13.041145324707031</score>
+</geoname>
+</geonames>

@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>6</totalResultsCount>
+<geoname>
+<toponymName>City of New York</toponymName>
+<name>City of New York</name>
+<lat>40.66393</lat>
+<lng>-73.93827</lng>
+<geonameId>7163824</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>administrative division</fcodeName>
+<population>8175133</population>
+<alternateNames/>
+<elevation>22</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>047</adminCode2>
+<adminName2>Kings County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-74.25909</west>
+<north>40.91758</north>
+<east>-73.70027</east>
+<south>40.4774</south>
+</bbox>
+<score>79.86134338378906</score>
+</geoname>
+<geoname>
+<toponymName>City of New Town</toponymName>
+<name>City of New Town</name>
+<lat>47.98471</lat>
+<lng>-102.48217</lng>
+<geonameId>5690714</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>administrative division</fcodeName>
+<population>1925</population>
+<alternateNames/>
+<elevation>590</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ND">ND</adminCode1>
+<adminName1>North Dakota</adminName1>
+<adminCode2>061</adminCode2>
+<adminName2>Mountrail County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-102.51381</west>
+<north>47.99445</north>
+<east>-102.45742</east>
+<south>47.97667</south>
+</bbox>
+<score>4.991329669952393</score>
+</geoname>
+<geoname>
+<toponymName>City of New Home</toponymName>
+<name>City of New Home</name>
+<lat>33.32694</lat>
+<lng>-101.91172</lng>
+<geonameId>7173945</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>administrative division</fcodeName>
+<population>334</population>
+<alternateNames/>
+<elevation>987</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>305</adminCode2>
+<adminName2>Lynn County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-101.92043</west>
+<north>33.33429</north>
+<east>-101.90304</east>
+<south>33.31958</south>
+</bbox>
+<score>4.991329669952393</score>
+</geoname>
+<geoname>
+<toponymName>City of New Bern</toponymName>
+<name>City of New Bern</name>
+<lat>35.09674</lat>
+<lng>-77.07311</lng>
+<geonameId>7317891</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>administrative division</fcodeName>
+<population>29524</population>
+<alternateNames/>
+<elevation>5</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NC">NC</adminCode1>
+<adminName1>North Carolina</adminName1>
+<adminCode2>049</adminCode2>
+<adminName2>Craven County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-77.15871</west>
+<north>35.15963</north>
+<east>-76.99148</east>
+<south>34.99573</south>
+</bbox>
+<score>4.991329669952393</score>
+</geoname>
+<geoname>
+<toponymName>City of New Hope</toponymName>
+<name>City of New Hope</name>
+<lat>34.53705</lat>
+<lng>-86.41281</lng>
+<geonameId>7169957</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>administrative division</fcodeName>
+<population>2810</population>
+<alternateNames/>
+<elevation>185</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AL">AL</adminCode1>
+<adminName1>Alabama</adminName1>
+<adminCode2>089</adminCode2>
+<adminName2>Madison County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-86.45074</west>
+<north>34.5622</north>
+<east>-86.37998</east>
+<south>34.50995</south>
+</bbox>
+<score>4.745479106903076</score>
+</geoname>
+<geoname>
+<toponymName>City of New Hope</toponymName>
+<name>City of New Hope</name>
+<lat>35.00447</lat>
+<lng>-85.6597</lng>
+<geonameId>7169958</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>administrative division</fcodeName>
+<population>1082</population>
+<alternateNames/>
+<elevation>225</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TN">TN</adminCode1>
+<adminName1>Tennessee</adminName1>
+<adminCode2>115</adminCode2>
+<adminName2>Marion County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-85.69576</west>
+<north>35.03226</north>
+<east>-85.61149</east>
+<south>34.98484</south>
+</bbox>
+<score>4.745479106903076</score>
+</geoname>
+</geonames>

@@ -1,4 +1,16 @@
 <?php
+	function logString($logMsg)
+	{
+	
+		$handle = fopen('/home/benwbrum/dev/clients/torget/dap/DigitalAustinSite/debug.log', 'a+');
+		fwrite($handle, "\n" );	
+		fwrite($handle, $logMsg );
+		fwrite($handle, "\n" );
+		
+		fclose($handle);
+	}
+
+
 
 	function connectToDB() {
 		/*
@@ -40,7 +52,6 @@
                 //'database' => "austinpapers",
                 'server' => "127.0.0.1:3306/");
         }
-
 		$connection = mysql_connect($credentials['server'],
             $credentials['username'], $credentials['password']);
 		@mysql_select_db($credentials['database'], $connection)

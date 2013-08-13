@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Settlers</toponymName>
+<name>Settlers</name>
+<lat>-24.95</lat>
+<lng>28.53333</lng>
+<geonameId>956323</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="LP">09</adminCode1>
+<adminName1>Limpopo</adminName1>
+<adminCode2>DC36</adminCode2>
+<adminName2>Waterberg District Municipality</adminName2>
+<adminCode3>LIM366</adminCode3>
+<adminName3>Bela-Bela</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<bbox>
+<west>28.52341</west>
+<north>-24.94101</north>
+<east>28.54325</east>
+<south>-24.95899</south>
+</bbox>
+<score>42.636810302734375</score>
+</geoname>
+<geoname>
+<toponymName>Setters</toponymName>
+<name>Setters</name>
+<lat>47.46796</lat>
+<lng>-117.00824</lng>
+<geonameId>5606765</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>788</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ID">ID</adminCode1>
+<adminName1>Idaho</adminName1>
+<adminCode2>055</adminCode2>
+<adminName2>Kootenai County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-117.02155</west>
+<north>47.47695</north>
+<east>-116.99494</east>
+<south>47.45896</south>
+</bbox>
+<score>12.18194580078125</score>
+</geoname>
+<geoname>
+<toponymName>Settler</toponymName>
+<name>Settler</name>
+<lat>-19.81667</lat>
+<lng>32.8</lng>
+<geonameId>881416</geonameId>
+<countryCode>ZW</countryCode>
+<countryName>Zimbabwe</countryName>
+<fcl>S</fcl>
+<fcode>FRM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farm</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Harare</timezone>
+<score>3.8068580627441406</score>
+</geoname>
+</geonames>

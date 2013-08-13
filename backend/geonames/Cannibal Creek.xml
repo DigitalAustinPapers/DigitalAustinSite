@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Cannibal Creek</toponymName>
+<name>Cannibal Creek</name>
+<lat>-38.06667</lat>
+<lng>145.75</lng>
+<geonameId>2172495</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="VIC">07</adminCode1>
+<adminName1>Victoria</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="10.0" gmtOffset="11.0">Australia/Melbourne</timezone>
+<score>13.18334674835205</score>
+</geoname>
+<geoname>
+<toponymName>Cannibal Creek</toponymName>
+<name>Cannibal Creek</name>
+<lat>-11.33333</lat>
+<lng>142.4</lng>
+<geonameId>2172496</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="QLD">04</adminCode1>
+<adminName1>Queensland</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="10.0" gmtOffset="10.0">Australia/Brisbane</timezone>
+<score>13.18334674835205</score>
+</geoname>
+<geoname>
+<toponymName>Cannibal Creek</toponymName>
+<name>Cannibal Creek</name>
+<lat>-36.9082</lat>
+<lng>174.45019</lng>
+<geonameId>6231417</geonameId>
+<countryCode>NZ</countryCode>
+<countryName>New Zealand</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="AUK">E7</adminCode1>
+<adminName1>Auckland</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="12.0" gmtOffset="13.0">Pacific/Auckland</timezone>
+<score>13.18334674835205</score>
+</geoname>
+<geoname>
+<toponymName>Canniwai Creek</toponymName>
+<name>Canniwai Creek</name>
+<lat>47.40931</lat>
+<lng>-119.08251</lng>
+<geonameId>5789031</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>386</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WA">WA</adminCode1>
+<adminName1>Washington</adminName1>
+<adminCode2>025</adminCode2>
+<adminName2>Grant County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>4.1096110343933105</score>
+</geoname>
+</geonames>

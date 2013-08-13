@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>65</totalResultsCount>
+<geoname>
+<toponymName>Hannover</toponymName>
+<name>Hanover</name>
+<lat>52.37052</lat>
+<lng>9.73322</lng>
+<geonameId>2910831</geonameId>
+<countryCode>DE</countryCode>
+<countryName>Germany</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population>515140</population>
+<alternateNames>Annobero,Gannovehr,Gannover,Gorad Ganover,HAJ,Hannauver,Hannober,Hannova,Hannover,Hannovera,Hannovere,Hannower,Hannóver,Hanobhar,Hanofer,Hanofér,Hanover,Hanoveri,Hanoveris,Hanovra,Hanovre,Hanovro,Hanower,Hanowery,Hanóver,Hanôver,Honovere,Hànobhar,IHanoveri,Khannover,Khanover,han no wexr,han nuo wei,hanobeo,hanofa,hanophara,hanoveri,hanwfr,hnwbr,Αννόβερο,Ганновер,Ганновэр,Горад Гановер,Ханновер,Хановер,Հաննովեր,האנאווער,הנובר,هانوفر,ھانۆفەر,ہینوور,हानोफर,হানোফার,ฮันโนเวอร์,ჰანოვერი,ハノーファー,汉诺威,하노버</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="NI">06</adminCode1>
+<adminName1>Lower Saxony</adminName1>
+<adminCode2>00</adminCode2>
+<adminName2/>
+<alternateName lang="als">Hannover</alternateName>
+<alternateName lang="ar">هانوفر</alternateName>
+<alternateName lang="ast">Hannover</alternateName>
+<alternateName lang="bar">Hannova</alternateName>
+<alternateName lang="be">Горад Гановер</alternateName>
+<alternateName lang="bg">Хановер</alternateName>
+<alternateName lang="bn">হানোফার</alternateName>
+<alternateName lang="ca">Hannover</alternateName>
+<alternateName lang="ce">Хановер</alternateName>
+<alternateName lang="ckb">ھانۆفەر</alternateName>
+<alternateName lang="cs">Hannover</alternateName>
+<alternateName lang="da">Hannover</alternateName>
+<alternateName lang="de">Hannover</alternateName>
+<alternateName lang="el">Αννόβερο</alternateName>
+<alternateName lang="en">Hanover</alternateName>
+<alternateName lang="eo">Hanovro</alternateName>
+<alternateName lang="es">Hanóver</alternateName>
+<alternateName lang="et">Hannover</alternateName>
+<alternateName lang="fa">هانوفر</alternateName>
+<alternateName lang="fi">Hannover</alternateName>
+<alternateName lang="fr">Hanovre</alternateName>
+<alternateName lang="gd">Hànobhar</alternateName>
+<alternateName lang="gl">Hannóver</alternateName>
+<alternateName lang="he">הנובר</alternateName>
+<alternateName lang="hr">Hannover</alternateName>
+<alternateName lang="hu">Hannover</alternateName>
+<alternateName lang="hy">Հաննովեր</alternateName>
+<alternateName lang="iata">HAJ</alternateName>
+<alternateName lang="id">Hannover</alternateName>
+<alternateName lang="is">Hannover</alternateName>
+<alternateName lang="it">Hannover</alternateName>
+<alternateName lang="ja">ハノーファー</alternateName>
+<alternateName lang="ka">ჰანოვერი</alternateName>
+<alternateName lang="kk">Ганновер</alternateName>
+<alternateName lang="ko">하노버</alternateName>
+<alternateName lang="ku">Hannover</alternateName>
+<alternateName lang="la">Hannovera</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hanover</alternateName>
+<alternateName lang="lt">Hanoveris</alternateName>
+<alternateName lang="lv">Hannovere</alternateName>
+<alternateName lang="mk">Хановер</alternateName>
+<alternateName lang="mn">Ханновер</alternateName>
+<alternateName lang="mr">हानोफर</alternateName>
+<alternateName lang="nds">Hannauver</alternateName>
+<alternateName lang="nl">Hannover</alternateName>
+<alternateName lang="nn">Hannover</alternateName>
+<alternateName lang="no">Hannover</alternateName>
+<alternateName lang="os">Ганновер</alternateName>
+<alternateName lang="pl">Hanower</alternateName>
+<alternateName lang="pnb">ہینوور</alternateName>
+<alternateName lang="pt">Hanôver</alternateName>
+<alternateName lang="ro">Hanovra</alternateName>
+<alternateName lang="ru">Ганновер</alternateName>
+<alternateName lang="sah">Ганновэр</alternateName>
+<alternateName lang="scn">Hannover</alternateName>
+<alternateName lang="sk">Hannover</alternateName>
+<alternateName lang="sl">Hannover</alternateName>
+<alternateName lang="sq">Hanoveri</alternateName>
+<alternateName lang="sr">Хановер</alternateName>
+<alternateName lang="sv">Hannover</alternateName>
+<alternateName lang="szl">Hanowery</alternateName>
+<alternateName lang="th">ฮันโนเวอร์</alternateName>
+<alternateName lang="tr">Hannover</alternateName>
+<alternateName lang="ug">Hanofér</alternateName>
+<alternateName lang="uk">Ганновер</alternateName>
+<alternateName lang="unlc">HAJ</alternateName>
+<alternateName lang="vi">Hannover</alternateName>
+<alternateName lang="vo">Hannover</alternateName>
+<alternateName lang="xh">IHanoveri</alternateName>
+<alternateName lang="yi">האנאווער</alternateName>
+<alternateName lang="zh">汉诺威</alternateName>
+<alternateName lang="zh-CN">汉诺威</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Berlin</timezone>
+<bbox>
+<west>9.58035</west>
+<north>52.46366</north>
+<east>9.88609</east>
+<south>52.27738</south>
+</bbox>
+<score>116.71217346191406</score>
+</geoname>
+<geoname>
+<toponymName>Hanover</toponymName>
+<name>Hanover</name>
+<lat>39.19289</lat>
+<lng>-76.72414</lng>
+<geonameId>4357340</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>38088</population>
+<alternateNames>Hanover</alternateNames>
+<elevation>32</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MD">MD</adminCode1>
+<adminName1>Maryland</adminName1>
+<adminCode2>027</adminCode2>
+<adminName2>Howard County</adminName2>
+<alternateName lang="en">Hanover</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hanover%2C_Maryland</alternateName>
+<alternateName lang="unlc">HVM</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-76.75645</west>
+<north>39.21792</north>
+<east>-76.69182</east>
+<south>39.16785</south>
+</bbox>
+<score>66.78248596191406</score>
+</geoname>
+<geoname>
+<toponymName>Hanover</toponymName>
+<name>Hanover</name>
+<lat>42.11316</lat>
+<lng>-70.81199</lng>
+<geonameId>4938836</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>16906</population>
+<alternateNames/>
+<elevation>16</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MA">MA</adminCode1>
+<adminName1>Massachusetts</adminName1>
+<adminCode2>023</adminCode2>
+<adminName2>Plymouth County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hanover%2C_Massachusetts</alternateName>
+<alternateName lang="post">02339</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-70.83467</west>
+<north>42.12998</north>
+<east>-70.7893</east>
+<south>42.09633</south>
+</bbox>
+<score>54.52767562866211</score>
+</geoname>
+<geoname>
+<toponymName>Hanover</toponymName>
+<name>Hanover</name>
+<lat>40.80454</lat>
+<lng>-74.36682</lng>
+<geonameId>5098805</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>12898</population>
+<alternateNames/>
+<elevation>60</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NJ">NJ</adminCode1>
+<adminName1>New Jersey</adminName1>
+<adminCode2>027</adminCode2>
+<adminName2>Morris County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hanover_Township%2C_New_Jersey</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-74.38561</west>
+<north>40.81876</north>
+<east>-74.34803</east>
+<south>40.79032</south>
+</bbox>
+<score>54.52767562866211</score>
+</geoname>
+<geoname>
+<toponymName>Parish of Hanover</toponymName>
+<name>Hanover Parish</name>
+<lat>18.41667</lat>
+<lng>-78.13333</lng>
+<geonameId>3490145</geonameId>
+<countryCode>JM</countryCode>
+<countryName>Jamaica</countryName>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>first-order administrative division</fcodeName>
+<population>66602</population>
+<alternateNames>Hanover,Hanover Parish,Parish of Hanover,Paroisse de Hanover,hanoba jiao qu,ハノーバー教区</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="09">02</adminCode1>
+<adminName1>Hanover Parish</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="de">Hanover Parish</alternateName>
+<alternateName lang="en">Hanover Parish</alternateName>
+<alternateName lang="fr">Paroisse de Hanover</alternateName>
+<alternateName lang="ja">ハノーバー教区</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hanover_Parish</alternateName>
+<alternateName lang="nl">Hanover</alternateName>
+<alternateName lang="pl">Hanover</alternateName>
+<alternateName lang="pt">Hanover</alternateName>
+<alternateName lang="sv">Hanover</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Jamaica</timezone>
+<bbox>
+<west>-78.34557</west>
+<north>18.4525</north>
+<east>-77.92146</east>
+<south>18.28861</south>
+</bbox>
+<score>53.884891510009766</score>
+</geoname>
+<geoname>
+<toponymName>Hanover</toponymName>
+<name>Hanover</name>
+<lat>-31.06856</lat>
+<lng>24.44252</lng>
+<geonameId>997972</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Hanover</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="NC">08</adminCode1>
+<adminName1>Northern Cape</adminName1>
+<adminCode2>DC7</adminCode2>
+<adminName2>Pixley ka Seme District Municipality</adminName2>
+<adminCode3>NC073</adminCode3>
+<adminName3>Emthanjeni</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hanover%2C_Northern_Cape</alternateName>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<bbox>
+<west>24.43202</west>
+<north>-31.05957</north>
+<east>24.45301</east>
+<south>-31.07755</south>
+</bbox>
+<score>50.08686447143555</score>
+</geoname>
+<geoname>
+<toponymName>Hanover</toponymName>
+<name>Hanover</name>
+<lat>38.71423</lat>
+<lng>-85.47357</lng>
+<geonameId>4258510</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3546</population>
+<alternateNames/>
+<elevation>239</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IN">IN</adminCode1>
+<adminName1>Indiana</adminName1>
+<adminCode2>077</adminCode2>
+<adminName2>Jefferson County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hanover%2C_Indiana</alternateName>
+<alternateName lang="post">47243</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Indiana/Indianapolis</timezone>
+<bbox>
+<west>-85.48172</west>
+<north>38.72059</north>
+<east>-85.46542</east>
+<south>38.70787</south>
+</bbox>
+<score>47.71171569824219</score>
+</geoname>
+<geoname>
+<toponymName>Hanover</toponymName>
+<name>Hanover</name>
+<lat>45.1558</lat>
+<lng>-93.66635</lng>
+<geonameId>5029276</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2938</population>
+<alternateNames/>
+<elevation>281</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MN">MN</adminCode1>
+<adminName1>Minnesota</adminName1>
+<adminCode2>171</adminCode2>
+<adminName2>Wright County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hanover%2C_Minnesota</alternateName>
+<alternateName lang="post">55341</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-93.67537</west>
+<north>45.16216</north>
+<east>-93.65733</east>
+<south>45.14944</south>
+</bbox>
+<score>47.71171569824219</score>
+</geoname>
+<geoname>
+<toponymName>Hanover</toponymName>
+<name>Hanover</name>
+<lat>44.15009</lat>
+<lng>-81.03303</lng>
+<geonameId>5970301</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>7255</population>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ON">08</adminCode1>
+<adminName1>Ontario</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hanover%2C_Ontario</alternateName>
+<alternateName lang="unlc">HVR</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Toronto</timezone>
+<bbox>
+<west>-81.04839</west>
+<north>44.1611</north>
+<east>-81.01768</east>
+<south>44.13907</south>
+</bbox>
+<score>47.71171569824219</score>
+</geoname>
+<geoname>
+<toponymName>Hanover</toponymName>
+<name>Hanover</name>
+<lat>5.5</lat>
+<lng>-55.15</lng>
+<geonameId>3384082</geonameId>
+<countryCode>SR</countryCode>
+<countryName>Suriname</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Hannover,Hanover</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="PR">15</adminCode1>
+<adminName1>Para</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Paramaribo</timezone>
+<bbox>
+<west>-55.15904</west>
+<north>5.50899</north>
+<east>-55.14096</east>
+<south>5.49101</south>
+</bbox>
+<score>41.0881233215332</score>
+</geoname>
+</geonames>

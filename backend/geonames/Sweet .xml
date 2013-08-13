@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Sweet</toponymName>
+<name>Sweet</name>
+<lat>43.97294</lat>
+<lng>-116.32458</lng>
+<geonameId>5609494</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>780</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ID">ID</adminCode1>
+<adminName1>Idaho</adminName1>
+<adminCode2>045</adminCode2>
+<adminName2>Gem County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Sweet%2C_Idaho</alternateName>
+<alternateName lang="post">83670</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Boise</timezone>
+<bbox>
+<west>-116.33707</west>
+<north>43.98194</north>
+<east>-116.31208</east>
+<south>43.96395</south>
+</bbox>
+<score>67.25851440429688</score>
+</geoname>
+<geoname>
+<toponymName>Sweet</toponymName>
+<name>Sweet</name>
+<lat>49.90022</lat>
+<lng>-82.96649</lng>
+<geonameId>6160522</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ON">08</adminCode1>
+<adminName1>Ontario</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Toronto</timezone>
+<score>44.83900833129883</score>
+</geoname>
+</geonames>

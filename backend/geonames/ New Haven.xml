@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>44</totalResultsCount>
+<geoname>
+<toponymName>New Haven</toponymName>
+<name>New Haven</name>
+<lat>41.30815</lat>
+<lng>-72.92816</lng>
+<geonameId>4839366</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>129779</population>
+<alternateNames>HVN,N'ju Khehven,N'ju-Gejven,N'ju-Khejven,New Haven,Nju Khejven,Nju Khejvun,Novus Portus,n'yu hevana,niu ha fen,niu hei wen,niw he wen,nyuheibeun,nyuheibun,nyw hyfn, kwnytykt,nyw hyybn,nywhywn, kantykt,Њу Хејвен,Нью Хэвен,Нью-Гейвен,Нью-Хейвен,Ню Хейвън,ניו הייבן,نيو هيفن، كونيتيكت,نیوهیون، کانتیکت,न्यू हेवन,นิวเฮเวน,ニューヘイブン,紐哈芬,纽黑文,뉴헤이븐</alternateNames>
+<elevation>18</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CT">CT</adminCode1>
+<adminName1>Connecticut</adminName1>
+<adminCode2>009</adminCode2>
+<adminName2>New Haven County</adminName2>
+<alternateName lang="ar">نيو هيفن، كونيتيكت</alternateName>
+<alternateName lang="bg">Ню Хейвън</alternateName>
+<alternateName lang="da">New Haven</alternateName>
+<alternateName lang="de">New Haven</alternateName>
+<alternateName lang="en">New Haven</alternateName>
+<alternateName lang="es">New Haven</alternateName>
+<alternateName lang="fa">نیوهیون، کانتیکت</alternateName>
+<alternateName lang="fi">New Haven</alternateName>
+<alternateName lang="fr">New Haven</alternateName>
+<alternateName lang="he">ניו הייבן</alternateName>
+<alternateName lang="iata">HVN</alternateName>
+<alternateName lang="id">New Haven</alternateName>
+<alternateName lang="it">New Haven</alternateName>
+<alternateName lang="ja">ニューヘイブン</alternateName>
+<alternateName lang="kk">Нью Хэвен</alternateName>
+<alternateName lang="ko">뉴헤이븐</alternateName>
+<alternateName lang="la">Novus Portus</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/New_Haven%2C_Connecticut</alternateName>
+<alternateName lang="mr">न्यू हेवन</alternateName>
+<alternateName lang="pl">New Haven</alternateName>
+<alternateName lang="post">06502</alternateName>
+<alternateName lang="pt">New Haven</alternateName>
+<alternateName lang="ru">Нью-Хейвен</alternateName>
+<alternateName lang="sk">New Haven</alternateName>
+<alternateName lang="sr">Њу Хејвен</alternateName>
+<alternateName lang="sv">New Haven</alternateName>
+<alternateName lang="th">นิวเฮเวน</alternateName>
+<alternateName lang="tr">New Haven</alternateName>
+<alternateName lang="uk">Нью-Гейвен</alternateName>
+<alternateName lang="unlc">HVN</alternateName>
+<alternateName lang="zh">紐哈芬</alternateName>
+<alternateName lang="zh-CN">纽黑文</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-72.99805</west>
+<north>41.35039</north>
+<east>-72.86031</east>
+<south>41.24644</south>
+</bbox>
+<score>83.52113342285156</score>
+</geoname>
+<geoname>
+<toponymName>New Haven</toponymName>
+<name>New Haven</name>
+<lat>43.47979</lat>
+<lng>-76.31521</lng>
+<geonameId>5128505</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>129</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>075</adminCode2>
+<adminName2>Oswego County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/New_Haven%2C_New_York</alternateName>
+<alternateName lang="post">13121</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-76.32761</west>
+<north>43.48879</north>
+<east>-76.30281</east>
+<south>43.4708</south>
+</bbox>
+<score>52.28160858154297</score>
+</geoname>
+<geoname>
+<toponymName>New Haven</toponymName>
+<name>New Haven</name>
+<lat>44.1245</lat>
+<lng>-73.15373</lng>
+<geonameId>5239021</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>140</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VT">VT</adminCode1>
+<adminName1>Vermont</adminName1>
+<adminCode2>001</adminCode2>
+<adminName2>Addison County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/New_Haven%2C_Vermont</alternateName>
+<alternateName lang="post">05472</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-73.16626</west>
+<north>44.1335</north>
+<east>-73.1412</east>
+<south>44.11551</south>
+</bbox>
+<score>52.28160858154297</score>
+</geoname>
+<geoname>
+<toponymName>New Haven</toponymName>
+<name>New Haven</name>
+<lat>41.0706</lat>
+<lng>-85.01441</lng>
+<geonameId>4924104</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>14794</population>
+<alternateNames>N'ju-Khejven,Нью-Хейвен</alternateNames>
+<elevation>231</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IN">IN</adminCode1>
+<adminName1>Indiana</adminName1>
+<adminCode2>003</adminCode2>
+<adminName2>Allen County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/New_Haven%2C_Indiana</alternateName>
+<alternateName lang="post">46774</alternateName>
+<alternateName lang="ru">Нью-Хейвен</alternateName>
+<alternateName lang="unlc">NEV</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Indiana/Indianapolis</timezone>
+<bbox>
+<west>-85.03508</west>
+<north>41.08618</north>
+<east>-84.99375</east>
+<south>41.05503</south>
+</bbox>
+<score>43.5680046081543</score>
+</geoname>
+<geoname>
+<toponymName>New Haven</toponymName>
+<name>New Haven</name>
+<lat>43.09364</lat>
+<lng>-84.15331</lng>
+<geonameId>5003384</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>5123</population>
+<alternateNames/>
+<elevation>212</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MI">MI</adminCode1>
+<adminName1>Michigan</adminName1>
+<adminCode2>155</adminCode2>
+<adminName2>Shiawassee County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Detroit</timezone>
+<bbox>
+<west>-84.16562</west>
+<north>43.10263</north>
+<east>-84.14099</east>
+<south>43.08464</south>
+</bbox>
+<score>43.5680046081543</score>
+</geoname>
+<geoname>
+<toponymName>New Haven</toponymName>
+<name>New Haven</name>
+<lat>-46.46667</lat>
+<lng>169.71667</lng>
+<geonameId>2186250</geonameId>
+<countryCode>NZ</countryCode>
+<countryName>New Zealand</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="OTA">F7</adminCode1>
+<adminName1>Otago Region</adminName1>
+<adminCode2>072</adminCode2>
+<adminName2>Clutha District</adminName2>
+<timezone dstOffset="12.0" gmtOffset="13.0">Pacific/Auckland</timezone>
+<bbox>
+<west>169.70361</west>
+<north>-46.45767</north>
+<east>169.72972</east>
+<south>-46.47566</south>
+</bbox>
+<score>34.85440444946289</score>
+</geoname>
+<geoname>
+<toponymName>New Haven</toponymName>
+<name>New Haven</name>
+<lat>16.26667</lat>
+<lng>-88.56667</lng>
+<geonameId>3581573</geonameId>
+<countryCode>BZ</countryCode>
+<countryName>Belize</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TOL">06</adminCode1>
+<adminName1>Toledo</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Belize</timezone>
+<bbox>
+<west>-88.57604</west>
+<north>16.27566</north>
+<east>-88.5573</east>
+<south>16.25767</south>
+</bbox>
+<score>34.85440444946289</score>
+</geoname>
+<geoname>
+<toponymName>New Haven</toponymName>
+<name>New Haven</name>
+<lat>33.62371</lat>
+<lng>-85.91663</lng>
+<geonameId>4079550</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>223</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AL">AL</adminCode1>
+<adminName1>Alabama</adminName1>
+<adminCode2>015</adminCode2>
+<adminName2>Calhoun County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-85.92744</west>
+<north>33.63271</north>
+<east>-85.90583</east>
+<south>33.61472</south>
+</bbox>
+<score>34.85440444946289</score>
+</geoname>
+<geoname>
+<toponymName>New Haven</toponymName>
+<name>New Haven</name>
+<lat>34.63342</lat>
+<lng>-86.76139</lng>
+<geonameId>4079551</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>175</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AL">AL</adminCode1>
+<adminName1>Alabama</adminName1>
+<adminCode2>089</adminCode2>
+<adminName2>Madison County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-86.77232</west>
+<north>34.64242</north>
+<east>-86.75046</east>
+<south>34.62443</south>
+</bbox>
+<score>34.85440444946289</score>
+</geoname>
+<geoname>
+<toponymName>New Haven</toponymName>
+<name>New Haven</name>
+<lat>37.90866</lat>
+<lng>-88.1292</lng>
+<geonameId>4245538</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>433</population>
+<alternateNames>N'ju-Khejven,Нью-Хейвен</alternateNames>
+<elevation>112</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>059</adminCode2>
+<adminName2>Gallatin County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/New_Haven%2C_Illinois</alternateName>
+<alternateName lang="post">62867</alternateName>
+<alternateName lang="ru">Нью-Хейвен</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-88.13034</west>
+<north>37.90956</north>
+<east>-88.12806</east>
+<south>37.90776</south>
+</bbox>
+<score>34.85440444946289</score>
+</geoname>
+</geonames>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Cowles Settlement</toponymName>
+<name>Cowles Settlement</name>
+<lat>42.78812</lat>
+<lng>-75.92575</lng>
+<geonameId>5113923</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>440</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>023</adminCode2>
+<adminName2>Cortland County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-75.93801</west>
+<north>42.79712</north>
+<east>-75.9135</east>
+<south>42.77913</south>
+</bbox>
+<score>41.10457229614258</score>
+</geoname>
+<geoname>
+<toponymName>Cove</toponymName>
+<name>Cove</name>
+<lat>24.41667</lat>
+<lng>-75.53333</lng>
+<geonameId>3572585</geonameId>
+<countryCode>BS</countryCode>
+<countryName>Bahamas</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Cove,Cove Settlement</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CI">06</adminCode1>
+<adminName1>Cat Island</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Nassau</timezone>
+<bbox>
+<west>-75.54321</west>
+<north>24.42566</north>
+<east>-75.52346</east>
+<south>24.40767</south>
+</bbox>
+<score>14.092277526855469</score>
+</geoname>
+<geoname>
+<toponymName>Combee Settlement</toponymName>
+<name>Combee Settlement</name>
+<lat>28.05835</lat>
+<lng>-81.90536</lng>
+<geonameId>4151607</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>5577</population>
+<alternateNames/>
+<elevation>41</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="FL">FL</adminCode1>
+<adminName1>Florida</adminName1>
+<adminCode2>105</adminCode2>
+<adminName2>Polk County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Combee_Settlement%2C_Florida</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-81.92251</west>
+<north>28.07347</north>
+<east>-81.89555</east>
+<south>28.04781</south>
+</bbox>
+<score>7.473552703857422</score>
+</geoname>
+<geoname>
+<toponymName>Cooper Settlement</toponymName>
+<name>Cooper Settlement</name>
+<lat>41.03145</lat>
+<lng>-78.10779</lng>
+<geonameId>5185375</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>475</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PA">PA</adminCode1>
+<adminName1>Pennsylvania</adminName1>
+<adminCode2>033</adminCode2>
+<adminName2>Clearfield County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-78.11971</west>
+<north>41.04044</north>
+<east>-78.09586</east>
+<south>41.02245</south>
+</bbox>
+<score>3.736776351928711</score>
+</geoname>
+</geonames>

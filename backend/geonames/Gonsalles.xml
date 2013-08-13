@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Gonzales County</toponymName>
+<name>Gonzales County</name>
+<lat>29.45673</lat>
+<lng>-97.49252</lng>
+<geonameId>4693951</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>19807</population>
+<alternateNames>Comte de Gonzales,Comté de Gonzales,Condado de Gonzales,Condado han Gonzales,Contea di Gonzales,County Gonzales,Gonsales,Gonzales,Gonzales srjan,Hrabstwo Gonzales,Okrug Gonzales,Quan Gonzales,Quận Gonzales,gang sa lei si xian,ganjalesa ka'unti,gonzaresu jun,Гонзалес,Округ Гонзалес,Ґонсалес,Գոնզալես շրջան,مقاطعة غونزاليس، تكساس,گونزالس کاؤنٹی,গন্জালেস কাউন্টি,ゴンザレス郡,岡薩雷斯縣</alternateNames>
+<elevation>90</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>177</adminCode2>
+<adminName2>Gonzales County</adminName2>
+<alternateName lang="ar">مقاطعة غونزاليس، تكساس</alternateName>
+<alternateName lang="bg">Гонзалес</alternateName>
+<alternateName lang="bpy">গন্জালেস কাউন্টি</alternateName>
+<alternateName lang="es">Condado de Gonzales</alternateName>
+<alternateName lang="fr">Comté de Gonzales</alternateName>
+<alternateName lang="hy">Գոնզալես շրջան</alternateName>
+<alternateName lang="id">County Gonzales</alternateName>
+<alternateName lang="it">Contea di Gonzales</alternateName>
+<alternateName lang="ja">ゴンザレス郡</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Gonzales_County%2C_Texas</alternateName>
+<alternateName lang="pl">Hrabstwo Gonzales</alternateName>
+<alternateName lang="pnb">گونزالس کاؤنٹی</alternateName>
+<alternateName lang="pt">Condado de Gonzales</alternateName>
+<alternateName lang="ru">Гонзалес</alternateName>
+<alternateName lang="sr">Округ Гонзалес</alternateName>
+<alternateName lang="uk">Ґонсалес</alternateName>
+<alternateName lang="vi">Quận Gonzales</alternateName>
+<alternateName lang="war">Condado han Gonzales</alternateName>
+<alternateName lang="zh">岡薩雷斯縣</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-97.85755</west>
+<north>29.7849</north>
+<east>-97.12885</east>
+<south>29.10955</south>
+</bbox>
+<score>28.74114990234375</score>
+</geoname>
+</geonames>

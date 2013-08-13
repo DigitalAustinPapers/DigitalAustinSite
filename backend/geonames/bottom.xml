@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>18</totalResultsCount>
+<geoname>
+<toponymName>The Bottom</toponymName>
+<name>The Bottom</name>
+<lat>17.6259</lat>
+<lng>-63.24919</lng>
+<geonameId>3513173</geonameId>
+<countryCode>BQ</countryCode>
+<countryName>Bonaire</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population>488</population>
+<alternateNames>Bottom,Leverock Town</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SA">SB</adminCode1>
+<adminName1>Saba</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/The_Bottom</alternateName>
+<alternateName lang="unlc">BOT</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Kralendijk</timezone>
+<bbox>
+<west>-63.25014</west>
+<north>17.6268</north>
+<east>-63.24825</east>
+<south>17.625</south>
+</bbox>
+<score>72.144287109375</score>
+</geoname>
+<geoname>
+<toponymName>Bortom</toponymName>
+<name>Bortom</name>
+<lat>60.91274</lat>
+<lng>50.20419</lng>
+<geonameId>826863</geonameId>
+<countryCode>RU</countryCode>
+<countryName>Russia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Bortom,Бортом</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="KO">34</adminCode1>
+<adminName1>Komi Republic</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Bortom</alternateName>
+<alternateName lang="no">Bortom</alternateName>
+<alternateName lang="ru">Бортом</alternateName>
+<timezone dstOffset="4.0" gmtOffset="4.0">Europe/Moscow</timezone>
+<bbox>
+<west>50.18568</west>
+<north>60.92173</north>
+<east>50.22269</east>
+<south>60.90374</south>
+</bbox>
+<score>12.098267555236816</score>
+</geoname>
+<geoname>
+<toponymName>Bottot</toponymName>
+<name>Bottot</name>
+<lat>1.8836</lat>
+<lng>98.5798</lng>
+<geonameId>6713852</geonameId>
+<countryCode>ID</countryCode>
+<countryName>Indonesia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Botot,Bottot</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="SU">26</adminCode1>
+<adminName1>North Sumatra</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="id">Bottot</alternateName>
+<timezone dstOffset="7.0" gmtOffset="7.0">Asia/Jakarta</timezone>
+<bbox>
+<west>98.5708</west>
+<north>1.89259</north>
+<east>98.5888</east>
+<south>1.87461</south>
+</bbox>
+<score>8.330497741699219</score>
+</geoname>
+<geoname>
+<toponymName>Bottum</toponymName>
+<name>Bottum</name>
+<lat>52.47181</lat>
+<lng>7.85844</lng>
+<geonameId>2945749</geonameId>
+<countryCode>DE</countryCode>
+<countryName>Germany</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="NI">06</adminCode1>
+<adminName1>Lower Saxony</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Berlin</timezone>
+<bbox>
+<west>7.84367</west>
+<north>52.4808</north>
+<east>7.87321</east>
+<south>52.46282</south>
+</bbox>
+<score>6.801822662353516</score>
+</geoname>
+<geoname>
+<toponymName>Bottoms</toponymName>
+<name>Bottoms</name>
+<lat>33.10568</lat>
+<lng>-84.41298</lng>
+<geonameId>4183869</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>263</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">GA</adminCode1>
+<adminName1>Georgia</adminName1>
+<adminCode2>231</adminCode2>
+<adminName2>Pike County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-84.42372</west>
+<north>33.11467</north>
+<east>-84.40224</east>
+<south>33.09669</south>
+</bbox>
+<score>6.801822662353516</score>
+</geoname>
+<geoname>
+<toponymName>Botton</toponymName>
+<name>Botton</name>
+<lat>-7.47056</lat>
+<lng>110.21556</lng>
+<geonameId>6199051</geonameId>
+<countryCode>ID</countryCode>
+<countryName>Indonesia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="JT">07</adminCode1>
+<adminName1>Central Java</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="7.0" gmtOffset="7.0">Asia/Jakarta</timezone>
+<bbox>
+<west>110.20649</west>
+<north>-7.46156</north>
+<east>110.22463</east>
+<south>-7.47955</south>
+</bbox>
+<score>6.466795921325684</score>
+</geoname>
+<geoname>
+<toponymName>Bottou Department</toponymName>
+<name>Bottou Department</name>
+<lat>12.5154</lat>
+<lng>1.9957</lng>
+<geonameId>8288555</geonameId>
+<countryCode>BF</countryCode>
+<countryName>Burkina Faso</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Bottou</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1>x42</adminCode1>
+<adminName1>BF.x42</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bottou</alternateName>
+<timezone dstOffset="0.0" gmtOffset="0.0">Africa/Ouagadougou</timezone>
+<score>6.012019157409668</score>
+</geoname>
+<geoname>
+<toponymName>Karijoki</toponymName>
+<name>Karijoki</name>
+<lat>62.30851</lat>
+<lng>21.70856</lng>
+<geonameId>654075</geonameId>
+<countryCode>FI</countryCode>
+<countryName>Finland</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>1621</population>
+<alternateNames>Boetom,Bötom</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="12">15</adminCode1>
+<adminName1>Province of Western Finland</adminName1>
+<adminCode2>14</adminCode2>
+<adminName2>Southern Ostrobothnia</adminName2>
+<adminCode3>218</adminCode3>
+<adminName3>Karijoki</adminName3>
+<alternateName lang="no">Bötom</alternateName>
+<alternateName lang="sv">Bötom</alternateName>
+<timezone dstOffset="3.0" gmtOffset="2.0">Europe/Helsinki</timezone>
+<bbox>
+<west>21.69888</west>
+<north>62.31301</north>
+<east>21.71823</east>
+<south>62.30402</south>
+</bbox>
+<score>5.726498126983643</score>
+</geoname>
+<geoname>
+<toponymName>Karijoki</toponymName>
+<name>Karijoki</name>
+<lat>62.32061</lat>
+<lng>21.74607</lng>
+<geonameId>654076</geonameId>
+<countryCode>FI</countryCode>
+<countryName>Finland</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population>1521</population>
+<alternateNames>Boetom,Botom,Bötom,Karijoen Kunta,Karijoki</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="12">15</adminCode1>
+<adminName1>Province of Western Finland</adminName1>
+<adminCode2>14</adminCode2>
+<adminName2>Southern Ostrobothnia</adminName2>
+<adminCode3>218</adminCode3>
+<adminName3>Karijoki</adminName3>
+<alternateName lang="fi">Karijoen Kunta</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Karijoki</alternateName>
+<alternateName lang="sv">Bötom</alternateName>
+<timezone dstOffset="3.0" gmtOffset="2.0">Europe/Helsinki</timezone>
+<bbox>
+<west>21.52396</west>
+<north>62.42414</north>
+<east>21.93912</east>
+<south>62.22154</south>
+</bbox>
+<score>5.726498126983643</score>
+</geoname>
+<geoname>
+<toponymName>Bortom</toponymName>
+<name>Bortom</name>
+<lat>60.34434</lat>
+<lng>55.09565</lng>
+<geonameId>571959</geonameId>
+<countryCode>RU</countryCode>
+<countryName>Russia</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>Bortom,Burtym,Бортом</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="PER">90</adminCode1>
+<adminName1>Perm</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ru">Бортом</alternateName>
+<timezone dstOffset="6.0" gmtOffset="6.0">Asia/Yekaterinburg</timezone>
+<score>5.600409984588623</score>
+</geoname>
+</geonames>

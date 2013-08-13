@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>55</totalResultsCount>
+<geoname>
+<toponymName>Mitchell</toponymName>
+<name>Mitchell</name>
+<lat>-37.17535</lat>
+<lng>144.97999</lng>
+<geonameId>7839807</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="VIC">07</adminCode1>
+<adminName1>Victoria</adminName1>
+<adminCode2>24850</adminCode2>
+<adminName2>Mitchell</adminName2>
+<timezone dstOffset="10.0" gmtOffset="11.0">Australia/Melbourne</timezone>
+<bbox>
+<west>144.53043</west>
+<north>-36.83532</north>
+<east>145.42955</east>
+<south>-37.51539</south>
+</bbox>
+<score>39.22248458862305</score>
+</geoname>
+<geoname>
+<toponymName>Mitchells</toponymName>
+<name>Mitchells</name>
+<lat>38.37707</lat>
+<lng>-78.02833</lng>
+<geonameId>4773532</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>107</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>047</adminCode2>
+<adminName2>Culpeper County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Mitchells%2C_Virginia</alternateName>
+<alternateName lang="post">22729</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-78.03981</west>
+<north>38.38607</north>
+<east>-78.01686</east>
+<south>38.36808</south>
+</bbox>
+<score>31.509159088134766</score>
+</geoname>
+<geoname>
+<toponymName>Mitchell</toponymName>
+<name>Mitchell</name>
+<lat>38.76199</lat>
+<lng>-90.08538</lng>
+<geonameId>4244696</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1356</population>
+<alternateNames/>
+<elevation>130</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>119</adminCode2>
+<adminName2>Madison County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Mitchell%2C_Illinois</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.09115</west>
+<north>38.76649</north>
+<east>-90.07962</east>
+<south>38.7575</south>
+</bbox>
+<score>31.377988815307617</score>
+</geoname>
+<geoname>
+<toponymName>Mitchell</toponymName>
+<name>Mitchell</name>
+<lat>50.35162</lat>
+<lng>-5.00957</lng>
+<geonameId>2642411</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Mitchell</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE179</adminCode3>
+<adminName3>St. Newlyn East</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Mitchell%2C_Cornwall</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.02367</west>
+<north>50.36062</north>
+<east>-4.99548</east>
+<south>50.34263</south>
+</bbox>
+<score>28.82252311706543</score>
+</geoname>
+<geoname>
+<toponymName>Mitchell</toponymName>
+<name>Mitchell</name>
+<lat>38.73283</lat>
+<lng>-86.4736</lng>
+<geonameId>4261486</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>4350</population>
+<alternateNames/>
+<elevation>208</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IN">IN</adminCode1>
+<adminName1>Indiana</adminName1>
+<adminCode2>093</adminCode2>
+<adminName2>Lawrence County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Mitchell%2C_Indiana</alternateName>
+<alternateName lang="post">47446</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Indiana/Indianapolis</timezone>
+<bbox>
+<west>-86.48359</west>
+<north>38.74062</north>
+<east>-86.46362</east>
+<south>38.72504</south>
+</bbox>
+<score>27.455739974975586</score>
+</geoname>
+<geoname>
+<toponymName>Mitchell</toponymName>
+<name>Mitchell</name>
+<lat>41.94024</lat>
+<lng>-103.80856</lng>
+<geonameId>5697633</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1702</population>
+<alternateNames/>
+<elevation>1205</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NE">NE</adminCode1>
+<adminName1>Nebraska</adminName1>
+<adminCode2>157</adminCode2>
+<adminName2>Scotts Bluff County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Mitchell%2C_Nebraska</alternateName>
+<alternateName lang="post">69357</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<bbox>
+<west>-103.8146</west>
+<north>41.94474</north>
+<east>-103.80251</east>
+<south>41.93575</south>
+</bbox>
+<score>27.455739974975586</score>
+</geoname>
+<geoname>
+<toponymName>Mitchell</toponymName>
+<name>Mitchell</name>
+<lat>-26.4849</lat>
+<lng>147.9742</lng>
+<geonameId>2157409</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>MTQ,Mitchell,Митчелл</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="QLD">04</adminCode1>
+<adminName1>Queensland</adminName1>
+<adminCode2>34860</adminCode2>
+<adminName2>Maranoa</adminName2>
+<alternateName lang="iata">MTQ</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Mitchell%2C_Queensland</alternateName>
+<alternateName lang="ru">Митчелл</alternateName>
+<alternateName lang="unlc">MTQ</alternateName>
+<timezone dstOffset="10.0" gmtOffset="10.0">Australia/Brisbane</timezone>
+<bbox>
+<west>147.20488</west>
+<north>-26.11522</north>
+<east>148.13589</east>
+<south>-27.06112</south>
+</bbox>
+<score>24.806480407714844</score>
+</geoname>
+<geoname>
+<toponymName>Mitchell</toponymName>
+<name>Mitchell</name>
+<lat>33.21987</lat>
+<lng>-82.70319</lng>
+<geonameId>4209728</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>199</population>
+<alternateNames/>
+<elevation>163</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">GA</adminCode1>
+<adminName1>Georgia</adminName1>
+<adminCode2>125</adminCode2>
+<adminName2>Glascock County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Mitchell%2C_Georgia</alternateName>
+<alternateName lang="post">30820</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-82.70426</west>
+<north>33.22077</north>
+<east>-82.70211</east>
+<south>33.21897</south>
+</bbox>
+<score>23.533491134643555</score>
+</geoname>
+<geoname>
+<toponymName>Mitchell</toponymName>
+<name>Mitchell</name>
+<lat>38.3839</lat>
+<lng>-98.09978</lng>
+<geonameId>4275632</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>530</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KS">KS</adminCode1>
+<adminName1>Kansas</adminName1>
+<adminCode2>159</adminCode2>
+<adminName2>Rice County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Mitchell%2C_Kansas</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-98.11125</west>
+<north>38.39289</north>
+<east>-98.0883</east>
+<south>38.37491</south>
+</bbox>
+<score>23.533491134643555</score>
+</geoname>
+<geoname>
+<toponymName>Mitchell</toponymName>
+<name>Mitchell</name>
+<lat>38.54234</lat>
+<lng>-79.34143</lng>
+<geonameId>4815123</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>791</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WV">WV</adminCode1>
+<adminName1>West Virginia</adminName1>
+<adminCode2>071</adminCode2>
+<adminName2>Pendleton County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Mitchell%2C_West_Virginia</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-79.35293</west>
+<north>38.55134</north>
+<east>-79.32993</east>
+<south>38.53335</south>
+</bbox>
+<score>23.533491134643555</score>
+</geoname>
+</geonames>

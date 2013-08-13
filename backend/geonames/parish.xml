@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>51</totalResultsCount>
+<geoname>
+<toponymName>Parish</toponymName>
+<name>Parish</name>
+<lat>43.40618</lat>
+<lng>-76.12576</lng>
+<geonameId>5130526</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>450</population>
+<alternateNames/>
+<elevation>151</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>075</adminCode2>
+<adminName2>Oswego County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Parish%2C_New_York</alternateName>
+<alternateName lang="post">13131</alternateName>
+<alternateName lang="unlc">PSU</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-76.127</west>
+<north>43.40708</north>
+<east>-76.12452</east>
+<south>43.40528</south>
+</bbox>
+<score>41.0679931640625</score>
+</geoname>
+<geoname>
+<toponymName>Paris</toponymName>
+<name>Paris</name>
+<lat>48.85341</lat>
+<lng>2.3488</lng>
+<geonameId>2988507</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPLC</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>capital of a political entity</fcodeName>
+<population>2138551</population>
+<alternateNames>Baariis,Bahliz,Gorad Paryzh,Lungsod ng Paris,Lutece,Lutetia,Lutetia Parisorum,PAR,Pa-ri,Paarys,Palika,Paname,Pantruche,Paraeis,Paras,Pari,Paries,Parigge,Pariggi,Parighji,Parigi,Pariis,Pariisi,Parij,Parijs,Paris,Parisi,Parixe,Pariz,Parize,Parizh,Parizh osh,Parizh',Parizo,Parizs,Pariž,Parys,Paryz,Paryzius,Paryż,Paryžius,Paräis,París,Paríž,Parîs,Parĩ,Parī,Parīze,Paříž,Páras,Párizs,Ville-Lumiere,Ville-Lumière,ba li,barys,pairisa,pali,pari,paris,parys,paryzh,perisa,pryz,pyaris,pyarisa,pyrs,Παρίσι,Горад Парыж,Париж,Париж ош,Парижь,Париз,Парис,Паріж,Փարիզ,פאריז,פריז,باريس,پارىژ,پاريس,پاریس,پیرس,ܦܐܪܝܣ,पॅरिस,पेरिस,पैरिस,প্যারিস,ਪੈਰਿਸ,પૅરિસ,பாரிஸ்,పారిస్,ಪ್ಯಾರಿಸ್,പാരിസ്,ปารีส,ཕ་རི།,ပါရီမြို့,პარიზი,ፓሪስ,ប៉ារីស,パリ,巴黎,파리</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="J">A8</adminCode1>
+<adminName1>Île-de-France</adminName1>
+<adminCode2>75</adminCode2>
+<adminName2>Paris</adminName2>
+<adminCode3>751</adminCode3>
+<adminName3>Paris</adminName3>
+<adminCode4>75056</adminCode4>
+<adminName4>Paris</adminName4>
+<alternateName lang="af">Parys</alternateName>
+<alternateName lang="als">Paris</alternateName>
+<alternateName lang="am">ፓሪስ</alternateName>
+<alternateName lang="an">París</alternateName>
+<alternateName lang="ar">باريس</alternateName>
+<alternateName lang="arc">ܦܐܪܝܣ</alternateName>
+<alternateName lang="arz">باريس</alternateName>
+<alternateName lang="ast">París</alternateName>
+<alternateName lang="ba">Париж</alternateName>
+<alternateName lang="be">Горад Парыж</alternateName>
+<alternateName lang="bg">Париж</alternateName>
+<alternateName lang="bn">প্যারিস</alternateName>
+<alternateName lang="bo">ཕ་རི།</alternateName>
+<alternateName lang="br">Pariz</alternateName>
+<alternateName lang="bs">Pariz</alternateName>
+<alternateName lang="ca">París</alternateName>
+<alternateName lang="ckb">پاریس</alternateName>
+<alternateName lang="co">Parighji</alternateName>
+<alternateName lang="cs">Paříž</alternateName>
+<alternateName lang="cu">Парижь</alternateName>
+<alternateName lang="cv">Парис</alternateName>
+<alternateName lang="cy">Paris</alternateName>
+<alternateName lang="da">Paris</alternateName>
+<alternateName lang="de">Paris</alternateName>
+<alternateName lang="el">Παρίσι</alternateName>
+<alternateName lang="en">Paris</alternateName>
+<alternateName lang="eo">Parizo</alternateName>
+<alternateName lang="es">París</alternateName>
+<alternateName lang="et">Pariis</alternateName>
+<alternateName lang="eu">Paris</alternateName>
+<alternateName lang="ext">París</alternateName>
+<alternateName lang="fa">پاریس</alternateName>
+<alternateName lang="fi">Pariisi</alternateName>
+<alternateName lang="fr">Paris</alternateName>
+<alternateName lang="fur">Parîs</alternateName>
+<alternateName lang="fy">Parys</alternateName>
+<alternateName lang="ga">Páras</alternateName>
+<alternateName lang="gan">巴黎</alternateName>
+<alternateName lang="gd">Paris</alternateName>
+<alternateName lang="gl">París</alternateName>
+<alternateName lang="gn">Parĩ</alternateName>
+<alternateName lang="gu">પૅરિસ</alternateName>
+<alternateName lang="gv">Paarys</alternateName>
+<alternateName lang="ha">Pariis</alternateName>
+<alternateName lang="haw">Palika</alternateName>
+<alternateName lang="hbs">Pariz</alternateName>
+<alternateName lang="he">פריז</alternateName>
+<alternateName lang="hi">पैरिस</alternateName>
+<alternateName lang="hr">Pariz</alternateName>
+<alternateName lang="hu">Párizs</alternateName>
+<alternateName lang="hy">Փարիզ</alternateName>
+<alternateName lang="ia">Paris</alternateName>
+<alternateName lang="iata">PAR</alternateName>
+<alternateName lang="id">Paris</alternateName>
+<alternateName lang="io">Paris</alternateName>
+<alternateName lang="is">París</alternateName>
+<alternateName lang="it">Parigi</alternateName>
+<alternateName lang="ja">パリ</alternateName>
+<alternateName lang="jbo">paris</alternateName>
+<alternateName lang="ka">პარიზი</alternateName>
+<alternateName lang="kk">Париж</alternateName>
+<alternateName lang="km">ប៉ារីស</alternateName>
+<alternateName lang="kn">ಪ್ಯಾರಿಸ್</alternateName>
+<alternateName lang="ko">파리</alternateName>
+<alternateName lang="krc">Париж</alternateName>
+<alternateName lang="ksh">Paris</alternateName>
+<alternateName lang="ku">Parîs</alternateName>
+<alternateName lang="kv">Париж</alternateName>
+<alternateName lang="kw">Paris</alternateName>
+<alternateName lang="ky">Париж</alternateName>
+<alternateName lang="la">Lutetia</alternateName>
+<alternateName lang="lad">Paris</alternateName>
+<alternateName lang="lb">Paräis</alternateName>
+<alternateName lang="li">Paries</alternateName>
+<alternateName lang="lij">Pariggi</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Paris</alternateName>
+<alternateName lang="lmo">Paris</alternateName>
+<alternateName lang="ln">Pari</alternateName>
+<alternateName lang="lt">Paryžius</alternateName>
+<alternateName lang="lv">Parīze</alternateName>
+<alternateName lang="mg">Paris</alternateName>
+<alternateName lang="mhr">Париж</alternateName>
+<alternateName lang="mi">Parī</alternateName>
+<alternateName lang="mk">Париз</alternateName>
+<alternateName lang="ml">പാരിസ്</alternateName>
+<alternateName lang="mn">Парис</alternateName>
+<alternateName lang="mr">पॅरिस</alternateName>
+<alternateName lang="mrj">Париж</alternateName>
+<alternateName lang="ms">Paris</alternateName>
+<alternateName lang="my">ပါရီမြို့</alternateName>
+<alternateName lang="myv">Париж ош</alternateName>
+<alternateName lang="mzn">پاریس</alternateName>
+<alternateName lang="na">Paris</alternateName>
+<alternateName lang="nap">Parigge</alternateName>
+<alternateName lang="nds">Paris</alternateName>
+<alternateName lang="ne">पेरिस</alternateName>
+<alternateName lang="nl">Parijs</alternateName>
+<alternateName lang="nn">Paris</alternateName>
+<alternateName lang="no">Paris</alternateName>
+<alternateName lang="oc">París</alternateName>
+<alternateName lang="os">Париж</alternateName>
+<alternateName lang="pa">ਪੈਰਿਸ</alternateName>
+<alternateName lang="pl">Paryż</alternateName>
+<alternateName lang="pms">Paris</alternateName>
+<alternateName lang="pnb">پیرس</alternateName>
+<alternateName lang="ps">پاريس</alternateName>
+<alternateName lang="pt">Paris</alternateName>
+<alternateName lang="ro">Paris</alternateName>
+<alternateName lang="ru">Париж</alternateName>
+<alternateName lang="rue">Паріж</alternateName>
+<alternateName lang="sah">Париж</alternateName>
+<alternateName lang="sc">Parigi</alternateName>
+<alternateName lang="scn">Pariggi</alternateName>
+<alternateName lang="sco">Paris</alternateName>
+<alternateName lang="sk">Paríž</alternateName>
+<alternateName lang="sl">Pariz</alternateName>
+<alternateName lang="so">Baariis</alternateName>
+<alternateName lang="sq">Parisi</alternateName>
+<alternateName lang="sr">Париз</alternateName>
+<alternateName lang="sv">Paris</alternateName>
+<alternateName lang="sw">Paris</alternateName>
+<alternateName lang="szl">Paryż</alternateName>
+<alternateName lang="ta">பாரிஸ்</alternateName>
+<alternateName lang="te">పారిస్</alternateName>
+<alternateName lang="tet">París</alternateName>
+<alternateName lang="tg">Париж</alternateName>
+<alternateName lang="th">ปารีส</alternateName>
+<alternateName lang="tk">Pariž</alternateName>
+<alternateName lang="tl">Paris</alternateName>
+<alternateName lang="tr">Paris</alternateName>
+<alternateName lang="tt">Париж</alternateName>
+<alternateName lang="ty">Paris</alternateName>
+<alternateName lang="udm">Париж</alternateName>
+<alternateName lang="ug">پارىژ</alternateName>
+<alternateName lang="uk">Париж</alternateName>
+<alternateName lang="unlc">PAR</alternateName>
+<alternateName lang="ur">پیرس</alternateName>
+<alternateName lang="uz">Parij</alternateName>
+<alternateName lang="vec">Parixe</alternateName>
+<alternateName lang="vi">Paris</alternateName>
+<alternateName lang="vls">Parys</alternateName>
+<alternateName lang="wo">Pari</alternateName>
+<alternateName lang="xmf">პარიზი</alternateName>
+<alternateName lang="yi">פאריז</alternateName>
+<alternateName lang="yo">Parisi</alternateName>
+<alternateName lang="za">Bahliz</alternateName>
+<alternateName lang="zh">巴黎</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>2.0592</west>
+<north>49.04324</north>
+<east>2.6384</east>
+<south>48.66358</south>
+</bbox>
+<score>35.97052764892578</score>
+</geoname>
+<geoname>
+<toponymName>Parish</toponymName>
+<name>Parish</name>
+<lat>-36.51834</lat>
+<lng>-59.63331</lng>
+<geonameId>3430118</geonameId>
+<countryCode>AR</countryCode>
+<countryName>Argentina</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="B">01</adminCode1>
+<adminName1>Buenos Aires</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Argentina/Buenos_Aires</timezone>
+<bbox>
+<west>-59.6445</west>
+<north>-36.50934</north>
+<east>-59.62212</east>
+<south>-36.52733</south>
+</bbox>
+<score>32.854393005371094</score>
+</geoname>
+<geoname>
+<toponymName>Parish</toponymName>
+<name>Parish</name>
+<lat>31.20268</lat>
+<lng>-85.38243</lng>
+<geonameId>4082120</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>93</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AL">AL</adminCode1>
+<adminName1>Alabama</adminName1>
+<adminCode2>069</adminCode2>
+<adminName2>Houston County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-85.39295</west>
+<north>31.21167</north>
+<east>-85.37192</east>
+<south>31.19368</south>
+</bbox>
+<score>32.854393005371094</score>
+</geoname>
+<geoname>
+<toponymName>Parish</toponymName>
+<name>Parish</name>
+<lat>32.39406</lat>
+<lng>-81.98873</lng>
+<geonameId>4214741</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>68</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">GA</adminCode1>
+<adminName1>Georgia</adminName1>
+<adminCode2>043</adminCode2>
+<adminName2>Candler County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-81.99938</west>
+<north>32.40306</north>
+<east>-81.97808</east>
+<south>32.38507</south>
+</bbox>
+<score>32.854393005371094</score>
+</geoname>
+<geoname>
+<toponymName>Parish</toponymName>
+<name>Parish</name>
+<lat>37.76613</lat>
+<lng>-87.19454</lng>
+<geonameId>8503437</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>119</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>059</adminCode2>
+<adminName2>Daviess County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-87.20592</west>
+<north>37.77512</north>
+<east>-87.18316</east>
+<south>37.75714</south>
+</bbox>
+<score>32.854393005371094</score>
+</geoname>
+<geoname>
+<toponymName>Parisi</toponymName>
+<name>Parisi</name>
+<lat>-20.26554</lat>
+<lng>-50.03904</lng>
+<geonameId>6322446</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>2032</population>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="SP">27</adminCode1>
+<adminName1>São Paulo</adminName1>
+<adminCode2>3536257</adminCode2>
+<adminName2>Parisi</adminName2>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Sao_Paulo</timezone>
+<bbox>
+<west>-50.08124</west>
+<north>-20.18166</north>
+<east>-49.99915</east>
+<south>-20.33622</south>
+</bbox>
+<score>14.56823444366455</score>
+</geoname>
+<geoname>
+<toponymName>Paresk-e Pā’īn</toponymName>
+<name>Paresk-e Pā’īn</name>
+<lat>33.8155</lat>
+<lng>48.355</lng>
+<geonameId>121435</geonameId>
+<countryCode>IR</countryCode>
+<countryName>Iran</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Parash,Paresg,Paresk,Paresk-e Pa'in,Paresk-e Pā’īn,Paresk-e Sofla,Paresk-e Soflá,Parāsh,parash,parisg,parisk,prsk payyn,prsk sfly,پرسک سفلی,پرسک پائین,پَراش,پَرِسك,پَرِسگ</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="20">23</adminCode1>
+<adminName1>Lorestān</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="fa">پَرِسگ</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Paresk</alternateName>
+<timezone dstOffset="4.5" gmtOffset="3.5">Asia/Tehran</timezone>
+<bbox>
+<west>48.34417</west>
+<north>33.82449</north>
+<east>48.36583</east>
+<south>33.80651</south>
+</bbox>
+<score>13.481735229492188</score>
+</geoname>
+<geoname>
+<toponymName>Estación Parish</toponymName>
+<name>Estación Parish</name>
+<lat>-32.95</lat>
+<lng>-56.5</lng>
+<geonameId>3441300</geonameId>
+<countryCode>UY</countryCode>
+<countryName>Uruguay</countryName>
+<fcl>S</fcl>
+<fcode>RSTN</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>railroad station</fcodeName>
+<population/>
+<alternateNames>Estacion Paris,Estacion Parish,Estación Parish,Estación París,Parish</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="DU">05</adminCode1>
+<adminName1>Durazno</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Montevideo</timezone>
+<score>11.615781784057617</score>
+</geoname>
+<geoname>
+<toponymName>Parush</toponymName>
+<name>Parush</name>
+<lat>34.94714</lat>
+<lng>69.8184</lng>
+<geonameId>1131055</geonameId>
+<countryCode>AF</countryCode>
+<countryName>Afghanistan</countryName>
+<fcl>P</fcl>
+<fcode>PPLQ</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>abandoned populated place</fcodeName>
+<population/>
+<alternateNames>Par`us,Par`ush,Parush,Pārūsh,Pār‘ūsh,Pār‘ūš,parwsh,پارعوش,پاروش</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="KAP">14</adminCode1>
+<adminName1>Kāpīsā</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="fa">پاروش</alternateName>
+<timezone dstOffset="4.5" gmtOffset="4.5">Asia/Kabul</timezone>
+<bbox>
+<west>69.81621</west>
+<north>34.94894</north>
+<east>69.8206</east>
+<south>34.94534</south>
+</bbox>
+<score>10.50865650177002</score>
+</geoname>
+</geonames>

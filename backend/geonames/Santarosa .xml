@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1347</totalResultsCount>
+<geoname>
+<toponymName>Santa Rosa</toponymName>
+<name>Santa Rosa</name>
+<lat>-36.61667</lat>
+<lng>-64.28333</lng>
+<geonameId>3835994</geonameId>
+<countryCode>AR</countryCode>
+<countryName>Argentina</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population>111424</population>
+<alternateNames>Ciudad de Santa Rosa,RSA,Sancta Rosa,Santa Rosa,Santa Rosa de Toaj,Santa Rosa de Toay,Santa-Rosa,santa rwsa,santa rwza,santalosa,santarosa,sheng luo sha,Санта Роса,Санта Роса де Тоај,Санта-Роса,سانتا روزا,سانتا روسا,სანტა-როსა,サンタローサ,聖羅莎,산타로사</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="L">11</adminCode1>
+<adminName1>La Pampa</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="bg">Санта Роса</alternateName>
+<alternateName lang="de">Santa Rosa de Toay</alternateName>
+<alternateName lang="en">Santa Rosa</alternateName>
+<alternateName lang="es">Ciudad de Santa Rosa</alternateName>
+<alternateName lang="fa">سانتا روسا</alternateName>
+<alternateName lang="fr">Santa Rosa</alternateName>
+<alternateName lang="iata">RSA</alternateName>
+<alternateName lang="id">Santa Rosa</alternateName>
+<alternateName lang="it">Santa Rosa</alternateName>
+<alternateName lang="ja">サンタローサ</alternateName>
+<alternateName lang="ka">სანტა-როსა</alternateName>
+<alternateName lang="ko">산타로사</alternateName>
+<alternateName lang="la">Sancta Rosa</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Santa_Rosa%2C_La_Pampa</alternateName>
+<alternateName lang="lt">Santa Rosa</alternateName>
+<alternateName lang="no">Santa Rosa</alternateName>
+<alternateName lang="pl">Santa Rosa de Toay</alternateName>
+<alternateName lang="pnb">سانتا روزا</alternateName>
+<alternateName lang="pt">Santa Rosa</alternateName>
+<alternateName lang="ru">Санта-Роса</alternateName>
+<alternateName lang="sr">Санта Роса де Тоај</alternateName>
+<alternateName lang="uk">Санта-Роса</alternateName>
+<alternateName lang="unlc">RSA</alternateName>
+<alternateName lang="zh">聖羅莎</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Argentina/Salta</timezone>
+<bbox>
+<west>-64.33704</west>
+<north>-36.57353</north>
+<east>-64.22963</east>
+<south>-36.6598</south>
+</bbox>
+<score>82.2395248413086</score>
+</geoname>
+<geoname>
+<toponymName>Santa Rosa</toponymName>
+<name>Santa Rosa</name>
+<lat>38.44047</lat>
+<lng>-122.71443</lng>
+<geonameId>5393287</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>167815</population>
+<alternateNames>STS,Santa Rosa,Santa Roza,Santa-Rosa,Santa-Roza,saentaloja,santa rwsa, kalyfwrnya,santa rwza, kalyfrnya,santaroza,sheng luo sha,snth rwzh,Санта Роза,Санта Роса,Санта-Роза,Санта-Роса,סנטה רוזה,سانتا روزا، کالیفرنیا,سانتا روسا، كاليفورنيا,سانٹا روزا,サンタローザ,聖羅莎,샌타로자</alternateNames>
+<elevation>50</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>097</adminCode2>
+<adminName2>Sonoma County</adminName2>
+<alternateName lang="ar">سانتا روسا، كاليفورنيا</alternateName>
+<alternateName lang="bg">Санта Роза</alternateName>
+<alternateName lang="de">Santa Rosa</alternateName>
+<alternateName lang="en">Santa Rosa</alternateName>
+<alternateName lang="fa">سانتا روزا، کالیفرنیا</alternateName>
+<alternateName lang="he">סנטה רוזה</alternateName>
+<alternateName lang="iata">STS</alternateName>
+<alternateName lang="ja">サンタローザ</alternateName>
+<alternateName lang="ko">샌타로자</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Santa_Rosa%2C_California</alternateName>
+<alternateName lang="nl">Santa Rosa</alternateName>
+<alternateName lang="pnb">سانٹا روزا</alternateName>
+<alternateName lang="post">95407</alternateName>
+<alternateName lang="pt">Santa Rosa</alternateName>
+<alternateName lang="ru">Санта-Роза</alternateName>
+<alternateName lang="sr">Санта Роса</alternateName>
+<alternateName lang="uk">Санта-Роса</alternateName>
+<alternateName lang="unlc">STS</alternateName>
+<alternateName lang="zh">聖羅莎</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-122.78217</west>
+<north>38.49348</north>
+<east>-122.64669</east>
+<south>38.38745</south>
+</bbox>
+<score>28.349281311035156</score>
+</geoname>
+<geoname>
+<toponymName>Santarosa</toponymName>
+<name>Santarosa</name>
+<lat>34.67987</lat>
+<lng>-80.78201</lng>
+<geonameId>4594982</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>174</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SC">SC</adminCode1>
+<adminName1>South Carolina</adminName1>
+<adminCode2>057</adminCode2>
+<adminName2>Lancaster County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-80.78639</west>
+<north>34.68347</north>
+<east>-80.77764</east>
+<south>34.67627</south>
+</bbox>
+<score>21.50662612915039</score>
+</geoname>
+<geoname>
+<toponymName>Santa Rosa</toponymName>
+<name>Santa Rosa</name>
+<lat>14.31222</lat>
+<lng>121.11139</lng>
+<geonameId>1687894</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>216650</population>
+<alternateNames/>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="MDC">40</adminCode1>
+<adminName1>Calabarzon</adminName1>
+<adminCode2>33</adminCode2>
+<adminName2>Laguna</adminName2>
+<adminCode3>1687915</adminCode3>
+<adminName3>City of Santa Rosa</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Santa_Rosa%2C_Laguna</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<bbox>
+<west>121.04911</west>
+<north>14.37255</north>
+<east>121.17367</east>
+<south>14.25189</south>
+</bbox>
+<score>17.3430118560791</score>
+</geoname>
+<geoname>
+<toponymName>Santa Rosa</toponymName>
+<name>Santa Rosa</name>
+<lat>-27.82566</lat>
+<lng>-54.48027</lng>
+<geonameId>6323604</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>68595</population>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="RS">23</adminCode1>
+<adminName1>Rio Grande do Sul</adminName1>
+<adminCode2>4317202</adminCode2>
+<adminName2>Santa Rosa</adminName2>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Sao_Paulo</timezone>
+<bbox>
+<west>-54.68542</west>
+<north>-27.69741</north>
+<east>-54.35663</east>
+<south>-27.98462</south>
+</bbox>
+<score>14.452509880065918</score>
+</geoname>
+<geoname>
+<toponymName>Santa Rosa</toponymName>
+<name>Santa Rosa</name>
+<lat>-3.44882</lat>
+<lng>-79.95952</lng>
+<geonameId>3651356</geonameId>
+<countryCode>EC</countryCode>
+<countryName>Ecuador</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>41816</population>
+<alternateNames>ETR,Santa Rosa</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="O">08</adminCode1>
+<adminName1>El Oro</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="iata">ETR</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Santa_Rosa%2C_El_Oro</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Guayaquil</timezone>
+<bbox>
+<west>-79.98578</west>
+<north>-3.4226</north>
+<east>-79.93325</east>
+<south>-3.47504</south>
+</bbox>
+<score>14.160510063171387</score>
+</geoname>
+<geoname>
+<toponymName>Santa Rosa</toponymName>
+<name>Santa Rosa</name>
+<lat>10.45</lat>
+<lng>-75.33333</lng>
+<geonameId>3668524</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames>Santa Rosa</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="BOL">35</adminCode1>
+<adminName1>Bolívar</adminName1>
+<adminCode2>3668524</adminCode2>
+<adminName2>Santa Rosa</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Santa_Rosa%2C_Bol%C3%ADvar</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<score>14.160510063171387</score>
+</geoname>
+<geoname>
+<toponymName>Santa Rosa</toponymName>
+<name>Santa Rosa</name>
+<lat>1.5</lat>
+<lng>-76.5</lng>
+<geonameId>3668525</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames>Santa Rosa</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="CAU">09</adminCode1>
+<adminName1>Cauca</adminName1>
+<adminCode2>3668525</adminCode2>
+<adminName2>Santa Rosa</adminName2>
+<alternateName lang="es">Santa Rosa</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<score>14.160510063171387</score>
+</geoname>
+<geoname>
+<toponymName>Santa Rosa</toponymName>
+<name>Santa Rosa</name>
+<lat>-34.4975</lat>
+<lng>-56.03722</lng>
+<geonameId>3440554</geonameId>
+<countryCode>UY</countryCode>
+<countryName>Uruguay</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3711</population>
+<alternateNames>Santa Rosa</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="CA">02</adminCode1>
+<adminName1>Canelones</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Santa_Rosa%2C_Uruguay</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Montevideo</timezone>
+<bbox>
+<west>-56.04667</west>
+<north>-34.48971</north>
+<east>-56.02777</east>
+<south>-34.50529</south>
+</bbox>
+<score>12.390446662902832</score>
+</geoname>
+<geoname>
+<toponymName>Santa Rosa</toponymName>
+<name>Santa Rosa</name>
+<lat>15.4238</lat>
+<lng>120.9378</lng>
+<geonameId>1687888</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>11683</population>
+<alternateNames>Santa Rosa</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="AGS">03</adminCode1>
+<adminName1>Central Luzon</adminName1>
+<adminCode2>47</adminCode2>
+<adminName2>Nueva Ecija</adminName2>
+<adminCode3>1687914</adminCode3>
+<adminName3>Santa Rosa</adminName3>
+<alternateName lang="fil">Santa Rosa</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Santa_Rosa%2C_Nueva_Ecija</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<bbox>
+<west>120.9238</west>
+<north>15.43729</north>
+<east>120.9518</east>
+<south>15.41031</south>
+</bbox>
+<score>12.263360977172852</score>
+</geoname>
+</geonames>

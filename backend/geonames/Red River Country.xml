@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Red River County</toponymName>
+<name>Red River County</name>
+<lat>33.62068</lat>
+<lng>-95.05036</lng>
+<geonameId>4721949</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>12860</population>
+<alternateNames>Comte de Red River,Comté de Red River</alternateNames>
+<elevation>136</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>387</adminCode2>
+<adminName2>Red River County</adminName2>
+<alternateName lang="fr">Comté de Red River</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Red_River_County%2C_Texas</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-95.3114</west>
+<north>33.96049</north>
+<east>-94.74651</east>
+<south>33.31765</south>
+</bbox>
+<score>80.4752197265625</score>
+</geoname>
+</geonames>

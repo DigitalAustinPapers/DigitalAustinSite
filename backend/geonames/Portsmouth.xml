@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>17</totalResultsCount>
+<geoname>
+<toponymName>Portsmouth</toponymName>
+<name>Portsmouth</name>
+<lat>15.58333</lat>
+<lng>-61.46667</lng>
+<geonameId>3575654</geonameId>
+<countryCode>DM</countryCode>
+<countryName>Dominica</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3633</population>
+<alternateNames>Grand-Anse,Portsmouth</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="05">05</adminCode1>
+<adminName1>Saint John</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Portsmouth%2C_Dominica</alternateName>
+<alternateName lang="unlc">POR</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Dominica</timezone>
+<bbox>
+<west>-61.47475</west>
+<north>15.59112</north>
+<east>-61.45858</east>
+<south>15.57554</south>
+</bbox>
+<score>194.83804321289062</score>
+</geoname>
+<geoname>
+<toponymName>Portsmouth</toponymName>
+<name>Portsmouth</name>
+<lat>50.79899</lat>
+<lng>-1.09125</lng>
+<geonameId>2639996</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>194150</population>
+<alternateNames>Gorad Portsmut,Porchemue,Porchémue,Portsmouth,Portsmut,Portsmuta,Portsmutas,Portus Ostium,bwrtsmwth,phxrt smath,pocheumeoseu,portasmatha,potsumasu,pu ci mao si,pwrtsmwt',pwrtsmwth,Πόρτσμουθ,Горад Портсмут,Портсмут,Портсмът,Պորտսմութ,פורטסמות',بورتسموث,پورتسموث,پۆرتسموت,पोर्टस्मथ,পোর্টস্‌মাথ,พอร์ตสมัท,ポーツマス,朴次茅斯,포츠머스</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K6</adminCode2>
+<adminName2>Portsmouth</adminName2>
+<adminCode3>00MR001</adminCode3>
+<adminName3>Southsea</adminName3>
+<alternateName lang="ar">بورتسموث</alternateName>
+<alternateName lang="az">Portsmut</alternateName>
+<alternateName lang="be">Горад Портсмут</alternateName>
+<alternateName lang="bg">Портсмът</alternateName>
+<alternateName lang="bn">পোর্টস্‌মাথ</alternateName>
+<alternateName lang="br">Portsmouth</alternateName>
+<alternateName lang="ckb">پۆرتسموت</alternateName>
+<alternateName lang="cs">Portsmouth</alternateName>
+<alternateName lang="de">Portsmouth</alternateName>
+<alternateName lang="el">Πόρτσμουθ</alternateName>
+<alternateName lang="en">Portsmouth</alternateName>
+<alternateName lang="eo">Portsmouth</alternateName>
+<alternateName lang="es">Portsmouth</alternateName>
+<alternateName lang="fa">پورتسموث</alternateName>
+<alternateName lang="fi">Portsmouth</alternateName>
+<alternateName lang="fr">Portsmouth</alternateName>
+<alternateName lang="he">פורטסמות'</alternateName>
+<alternateName lang="hy">Պորտսմութ</alternateName>
+<alternateName lang="id">Portsmouth</alternateName>
+<alternateName lang="it">Portsmouth</alternateName>
+<alternateName lang="ja">ポーツマス</alternateName>
+<alternateName lang="ko">포츠머스</alternateName>
+<alternateName lang="la">Portus Ostium</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Portsmouth</alternateName>
+<alternateName lang="lt">Portsmutas</alternateName>
+<alternateName lang="lv">Portsmuta</alternateName>
+<alternateName lang="mr">पोर्टस्मथ</alternateName>
+<alternateName lang="mzn">پورتسموث</alternateName>
+<alternateName lang="nl">Portsmouth</alternateName>
+<alternateName lang="no">Portsmouth</alternateName>
+<alternateName lang="nrm">Porchémue</alternateName>
+<alternateName lang="pl">Portsmouth</alternateName>
+<alternateName lang="pt">Portsmouth</alternateName>
+<alternateName lang="ru">Портсмут</alternateName>
+<alternateName lang="sk">Portsmouth</alternateName>
+<alternateName lang="sr">Портсмут</alternateName>
+<alternateName lang="sv">Portsmouth</alternateName>
+<alternateName lang="th">พอร์ตสมัท</alternateName>
+<alternateName lang="tr">Portsmouth</alternateName>
+<alternateName lang="uk">Портсмут</alternateName>
+<alternateName lang="zh">朴次茅斯</alternateName>
+<alternateName lang="zh-CN">朴次茅斯</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.18164</west>
+<north>50.85605</north>
+<east>-1.00086</east>
+<south>50.74193</south>
+</bbox>
+<score>112.76409912109375</score>
+</geoname>
+<geoname>
+<toponymName>Portsmouth</toponymName>
+<name>Portsmouth</name>
+<lat>36.83543</lat>
+<lng>-76.29827</lng>
+<geonameId>4779999</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>95535</population>
+<alternateNames>Portsmouth,Portsmut,pocheumeoseu,potsumasu,pu ci mao si,pwrthmwth, wyrjynya,pwrtsmwt',Портсмут,פורטסמות',پورثموث، ویرجینیا,ポーツマス,朴次茅斯,포츠머스</alternateNames>
+<elevation>3</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>740</adminCode2>
+<adminName2>City of Portsmouth</adminName2>
+<alternateName lang="de">Portsmouth</alternateName>
+<alternateName lang="en">Portsmouth</alternateName>
+<alternateName lang="fa">پورثموث، ویرجینیا</alternateName>
+<alternateName lang="he">פורטסמות'</alternateName>
+<alternateName lang="ja">ポーツマス</alternateName>
+<alternateName lang="ko">포츠머스</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Portsmouth%2C_Virginia</alternateName>
+<alternateName lang="nl">Portsmouth</alternateName>
+<alternateName lang="pl">Portsmouth</alternateName>
+<alternateName lang="post">23701</alternateName>
+<alternateName lang="pt">Portsmouth</alternateName>
+<alternateName lang="ru">Портсмут</alternateName>
+<alternateName lang="sr">Портсмут</alternateName>
+<alternateName lang="sv">Portsmouth</alternateName>
+<alternateName lang="unlc">PTM</alternateName>
+<alternateName lang="zh">朴次茅斯</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-76.34824</west>
+<north>36.87539</north>
+<east>-76.24831</east>
+<south>36.79546</south>
+</bbox>
+<score>79.54229736328125</score>
+</geoname>
+<geoname>
+<toponymName>Portsmouth</toponymName>
+<name>Portsmouth</name>
+<lat>53.73333</lat>
+<lng>-2.15</lng>
+<geonameId>2639995</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Portsmouth</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>00</adminCode2>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Portsmouth%2C_West_Yorkshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.16521</west>
+<north>53.74233</north>
+<east>-2.13479</east>
+<south>53.72434</south>
+</bbox>
+<score>73.06427001953125</score>
+</geoname>
+<geoname>
+<toponymName>Portsmouth</toponymName>
+<name>Portsmouth</name>
+<lat>43.07176</lat>
+<lng>-70.76255</lng>
+<geonameId>5091383</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>20779</population>
+<alternateNames>PSM,Portsmaus,Portsmouth,Portsmut,pocheumeoseu,potsumasu,pu ci mao si,rymwnd, nywhmpshayr,Портсмаус,Портсмут,Портсмът,ریموند، نیوهمپشایر,ポーツマス,朴次茅斯,포츠머스</alternateNames>
+<elevation>6</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NH">NH</adminCode1>
+<adminName1>New Hampshire</adminName1>
+<adminCode2>015</adminCode2>
+<adminName2>Rockingham County</adminName2>
+<alternateName lang="bg">Портсмът</alternateName>
+<alternateName lang="de">Portsmouth</alternateName>
+<alternateName lang="en">Portsmouth</alternateName>
+<alternateName lang="fa">ریموند، نیوهمپشایر</alternateName>
+<alternateName lang="iata">PSM</alternateName>
+<alternateName lang="ja">ポーツマス</alternateName>
+<alternateName lang="kk">Портсмаус</alternateName>
+<alternateName lang="ko">포츠머스</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Portsmouth%2C_New_Hampshire</alternateName>
+<alternateName lang="nl">Portsmouth</alternateName>
+<alternateName lang="no">Portsmouth</alternateName>
+<alternateName lang="pl">Portsmouth</alternateName>
+<alternateName lang="post">00211</alternateName>
+<alternateName lang="ru">Портсмут</alternateName>
+<alternateName lang="sv">Portsmouth</alternateName>
+<alternateName lang="zh">朴次茅斯</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-70.78794</west>
+<north>43.0903</north>
+<east>-70.73716</east>
+<south>43.05321</south>
+</bbox>
+<score>69.5995101928711</score>
+</geoname>
+<geoname>
+<toponymName>Portsmouth</toponymName>
+<name>Portsmouth</name>
+<lat>35.06961</lat>
+<lng>-76.06379</lng>
+<geonameId>4486314</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>0</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NC">NC</adminCode1>
+<adminName1>North Carolina</adminName1>
+<adminCode2>031</adminCode2>
+<adminName2>Carteret County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Portsmouth%2C_North_Carolina</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-76.07478</west>
+<north>35.07861</north>
+<east>-76.0528</east>
+<south>35.06062</south>
+</bbox>
+<score>59.65672302246094</score>
+</geoname>
+<geoname>
+<toponymName>City of Portsmouth</toponymName>
+<name>City of Portsmouth</name>
+<lat>50.8</lat>
+<lng>-1.06667</lng>
+<geonameId>3333183</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames>POR,Portsmouth</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K6</adminCode2>
+<adminName2>Portsmouth</adminName2>
+<alternateName lang="abbr">POR</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.17497</west>
+<north>50.85931</north>
+<east>-1.01849</east>
+<south>50.75016</south>
+</bbox>
+<score>56.24489974975586</score>
+</geoname>
+<geoname>
+<toponymName>Portsmouth</toponymName>
+<name>Portsmouth</name>
+<lat>41.60232</lat>
+<lng>-71.25033</lng>
+<geonameId>5224082</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>17756</population>
+<alternateNames>Portsmut,Портсмут</alternateNames>
+<elevation>43</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="RI">RI</adminCode1>
+<adminName1>Rhode Island</adminName1>
+<adminCode2>005</adminCode2>
+<adminName2>Newport County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Portsmouth%2C_Rhode_Island</alternateName>
+<alternateName lang="post">02871</alternateName>
+<alternateName lang="ru">Портсмут</alternateName>
+<alternateName lang="uk">Портсмут</alternateName>
+<alternateName lang="unlc">POM</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-71.27283</west>
+<north>41.61915</north>
+<east>-71.22782</east>
+<south>41.5855</south>
+</bbox>
+<score>49.71393585205078</score>
+</geoname>
+<geoname>
+<toponymName>Portsmouth</toponymName>
+<name>Portsmouth</name>
+<lat>37.53148</lat>
+<lng>-83.31518</lng>
+<geonameId>4305012</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>228</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>025</adminCode2>
+<adminName2>Breathitt County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-83.32652</west>
+<north>37.54047</north>
+<east>-83.30384</east>
+<south>37.52249</south>
+</bbox>
+<score>39.771148681640625</score>
+</geoname>
+<geoname>
+<toponymName>Portsmouth</toponymName>
+<name>Portsmouth</name>
+<lat>38.73174</lat>
+<lng>-82.99767</lng>
+<geonameId>4521816</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>20226</population>
+<alternateNames>PMH,Portsmaus,Portsmut,bwrtsmwth, awhayw,pu ci mao si,pwrtsmwwt, awhayw,Портсмаус,Портсмут,بورتسموث، أوهايو,پورتسمووت، اوهایو,朴次茅斯</alternateNames>
+<elevation>162</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>145</adminCode2>
+<adminName2>Scioto County</adminName2>
+<alternateName lang="ar">بورتسموث، أوهايو</alternateName>
+<alternateName lang="fa">پورتسمووت، اوهایو</alternateName>
+<alternateName lang="iata">PMH</alternateName>
+<alternateName lang="kk">Портсмаус</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Portsmouth%2C_Ohio</alternateName>
+<alternateName lang="post">45662</alternateName>
+<alternateName lang="ru">Портсмут</alternateName>
+<alternateName lang="zh">朴次茅斯</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-83.01157</west>
+<north>38.77425</north>
+<east>-82.87028</east>
+<south>38.72594</south>
+</bbox>
+<score>39.771148681640625</score>
+</geoname>
+</geonames>

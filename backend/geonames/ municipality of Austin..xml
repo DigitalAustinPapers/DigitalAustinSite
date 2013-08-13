@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Municipality of Mutia</toponymName>
+<name>Municipality of Mutia</name>
+<lat>8.3867</lat>
+<lng>123.5065</lng>
+<geonameId>1699030</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population>10625</population>
+<alternateNames>Municipality of Mutia,Mutia</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="BTG">09</adminCode1>
+<adminName1>Zamboanga Peninsula</adminName1>
+<adminCode2>65</adminCode2>
+<adminName2>Zamboanga del Norte</adminName2>
+<adminCode3>1699030</adminCode3>
+<adminName3>Municipality of Mutia</adminName3>
+<alternateName lang="en">Municipality of Mutia</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<score>70.4011459350586</score>
+</geoname>
+</geonames>

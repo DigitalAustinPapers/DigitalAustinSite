@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>St. Philips</toponymName>
+<name>St. Philips</name>
+<lat>51.71668</lat>
+<lng>-101.90092</lng>
+<geonameId>6157852</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>P</fcl>
+<fcode>PPLL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SK">11</adminCode1>
+<adminName1>Saskatchewan</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Regina</timezone>
+<bbox>
+<west>-101.90238</west>
+<north>51.71758</north>
+<east>-101.89947</east>
+<south>51.71578</south>
+</bbox>
+<score>28.74114990234375</score>
+</geoname>
+</geonames>

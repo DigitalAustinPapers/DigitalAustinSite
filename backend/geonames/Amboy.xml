@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>12</totalResultsCount>
+<geoname>
+<toponymName>Amboy</toponymName>
+<name>Amboy</name>
+<lat>-32.17406</lat>
+<lng>-64.58766</lng>
+<geonameId>3865896</geonameId>
+<countryCode>AR</countryCode>
+<countryName>Argentina</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Amboy</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="X">05</adminCode1>
+<adminName1>Córdoba</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Amboy_%28C%C3%B3rdoba%29</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Argentina/Cordoba</timezone>
+<bbox>
+<west>-64.59829</west>
+<north>-32.16506</north>
+<east>-64.57704</east>
+<south>-32.18305</south>
+</bbox>
+<score>74.75520324707031</score>
+</geoname>
+<geoname>
+<toponymName>Amboy</toponymName>
+<name>Amboy</name>
+<lat>41.7142</lat>
+<lng>-89.32871</lng>
+<geonameId>4883249</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2500</population>
+<alternateNames/>
+<elevation>227</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>103</adminCode2>
+<adminName2>Lee County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Amboy%2C_Illinois</alternateName>
+<alternateName lang="post">61310</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-89.33723</west>
+<north>41.72056</north>
+<east>-89.32019</east>
+<south>41.70784</south>
+</bbox>
+<score>71.21026611328125</score>
+</geoname>
+<geoname>
+<toponymName>Amboy</toponymName>
+<name>Amboy</name>
+<lat>45.91011</lat>
+<lng>-122.44649</lng>
+<geonameId>5785614</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1608</population>
+<alternateNames/>
+<elevation>125</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WA">WA</adminCode1>
+<adminName1>Washington</adminName1>
+<adminCode2>011</adminCode2>
+<adminName2>Clark County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Amboy%2C_Washington</alternateName>
+<alternateName lang="post">98601</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-122.45295</west>
+<north>45.91461</north>
+<east>-122.44002</east>
+<south>45.90562</south>
+</bbox>
+<score>71.21026611328125</score>
+</geoname>
+<geoname>
+<toponymName>Amboy</toponymName>
+<name>Amboy</name>
+<lat>39.34843</lat>
+<lng>-79.56839</lng>
+<geonameId>4797200</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>777</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WV">WV</adminCode1>
+<adminName1>West Virginia</adminName1>
+<adminCode2>077</adminCode2>
+<adminName2>Preston County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Amboy%2C_West_Virginia</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-79.58002</west>
+<north>39.35743</north>
+<east>-79.55676</east>
+<south>39.33944</south>
+</bbox>
+<score>61.03737258911133</score>
+</geoname>
+<geoname>
+<toponymName>Amboy</toponymName>
+<name>Amboy</name>
+<lat>40.60143</lat>
+<lng>-85.92888</lng>
+<geonameId>4917576</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>384</population>
+<alternateNames/>
+<elevation>249</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IN">IN</adminCode1>
+<adminName1>Indiana</adminName1>
+<adminCode2>103</adminCode2>
+<adminName2>Miami County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Amboy%2C_Indiana</alternateName>
+<alternateName lang="post">46911</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Indiana/Indianapolis</timezone>
+<bbox>
+<west>-85.93006</west>
+<north>40.60233</north>
+<east>-85.92769</east>
+<south>40.60053</south>
+</bbox>
+<score>61.03737258911133</score>
+</geoname>
+<geoname>
+<toponymName>Amboy</toponymName>
+<name>Amboy</name>
+<lat>43.88801</lat>
+<lng>-94.15663</lng>
+<geonameId>5016250</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>534</population>
+<alternateNames/>
+<elevation>317</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MN">MN</adminCode1>
+<adminName1>Minnesota</adminName1>
+<adminCode2>013</adminCode2>
+<adminName2>Blue Earth County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Amboy%2C_Minnesota</alternateName>
+<alternateName lang="post">56010</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-94.15787</west>
+<north>43.88891</north>
+<east>-94.15538</east>
+<south>43.88712</south>
+</bbox>
+<score>61.03737258911133</score>
+</geoname>
+<geoname>
+<toponymName>Amboy</toponymName>
+<name>Amboy</name>
+<lat>34.55777</lat>
+<lng>-115.74444</lng>
+<geonameId>5323668</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>192</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>071</adminCode2>
+<adminName2>San Bernardino County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Amboy%2C_California</alternateName>
+<alternateName lang="post">92304</alternateName>
+<alternateName lang="unlc">OPP</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-115.75536</west>
+<north>34.56677</north>
+<east>-115.73352</east>
+<south>34.54878</south>
+</bbox>
+<score>50.864479064941406</score>
+</geoname>
+<geoname>
+<toponymName>Āmboy</toponymName>
+<name>Āmboy</name>
+<lat>9.31667</lat>
+<lng>37.96667</lng>
+<geonameId>344045</geonameId>
+<countryCode>ET</countryCode>
+<countryName>Ethiopia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="OR">51</adminCode1>
+<adminName1>Oromiya Region</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="3.0" gmtOffset="3.0">Africa/Addis_Ababa</timezone>
+<bbox>
+<west>37.95755</west>
+<north>9.32566</north>
+<east>37.97578</east>
+<south>9.30767</south>
+</bbox>
+<score>40.69158172607422</score>
+</geoname>
+<geoname>
+<toponymName>Amboy</toponymName>
+<name>Amboy</name>
+<lat>34.80592</lat>
+<lng>-92.29154</lng>
+<geonameId>4099378</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>93</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">AR</adminCode1>
+<adminName1>Arkansas</adminName1>
+<adminCode2>119</adminCode2>
+<adminName2>Pulaski County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.30249</west>
+<north>34.81492</north>
+<east>-92.28059</east>
+<south>34.79693</south>
+</bbox>
+<score>40.69158172607422</score>
+</geoname>
+<geoname>
+<toponymName>Amboy</toponymName>
+<name>Amboy</name>
+<lat>40.09029</lat>
+<lng>-98.43867</lng>
+<geonameId>5062932</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>524</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NE">NE</adminCode1>
+<adminName1>Nebraska</adminName1>
+<adminCode2>181</adminCode2>
+<adminName2>Webster County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-98.45042</west>
+<north>40.09928</north>
+<east>-98.42691</east>
+<south>40.0813</south>
+</bbox>
+<score>40.69158172607422</score>
+</geoname>
+</geonames>

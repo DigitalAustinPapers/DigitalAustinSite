@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>6</totalResultsCount>
+<geoname>
+<toponymName>Chillicothe</toponymName>
+<name>Chillicothe</name>
+<lat>39.33312</lat>
+<lng>-82.9824</lng>
+<geonameId>4828890</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>21901</population>
+<alternateNames/>
+<elevation>192</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>141</adminCode2>
+<adminName2>Ross County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Chillicothe%2C_Ohio</alternateName>
+<alternateName lang="post">45601</alternateName>
+<alternateName lang="unlc">CIY</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-83.00707</west>
+<north>39.3522</north>
+<east>-82.95773</east>
+<south>39.31404</south>
+</bbox>
+<score>63.663734436035156</score>
+</geoname>
+<geoname>
+<toponymName>Chillicothe</toponymName>
+<name>Chillicothe</name>
+<lat>41.08557</lat>
+<lng>-92.52936</lng>
+<geonameId>4851341</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>97</population>
+<alternateNames/>
+<elevation>209</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IA">IA</adminCode1>
+<adminName1>Iowa</adminName1>
+<adminCode2>179</adminCode2>
+<adminName2>Wapello County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Chillicothe%2C_Iowa</alternateName>
+<alternateName lang="post">52548</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.53055</west>
+<north>41.08647</north>
+<east>-92.52816</east>
+<south>41.08467</south>
+</bbox>
+<score>63.663734436035156</score>
+</geoname>
+<geoname>
+<toponymName>Chillicothe</toponymName>
+<name>Chillicothe</name>
+<lat>40.92226</lat>
+<lng>-89.4862</lng>
+<geonameId>4887574</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>6097</population>
+<alternateNames/>
+<elevation>153</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>143</adminCode2>
+<adminName2>Peoria County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Chillicothe%2C_Illinois</alternateName>
+<alternateName lang="post">61523</alternateName>
+<alternateName lang="unlc">CH2</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-89.49951</west>
+<north>40.93231</north>
+<east>-89.47289</east>
+<south>40.9122</south>
+</bbox>
+<score>63.663734436035156</score>
+</geoname>
+<geoname>
+<toponymName>Chillicothe</toponymName>
+<name>Chillicothe</name>
+<lat>34.25647</lat>
+<lng>-99.51676</lng>
+<geonameId>4680740</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>707</population>
+<alternateNames/>
+<elevation>427</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>197</adminCode2>
+<adminName2>Hardeman County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Chillicothe%2C_Texas</alternateName>
+<alternateName lang="post">79225</alternateName>
+<alternateName lang="unlc">C3L</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-99.51784</west>
+<north>34.25737</north>
+<east>-99.51567</east>
+<south>34.25557</south>
+</bbox>
+<score>53.0531120300293</score>
+</geoname>
+<geoname>
+<toponymName>Chillicothe</toponymName>
+<name>Chillicothe</name>
+<lat>39.79529</lat>
+<lng>-93.55244</lng>
+<geonameId>4381104</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>9515</population>
+<alternateNames/>
+<elevation>243</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>117</adminCode2>
+<adminName2>Livingston County</adminName2>
+<alternateName lang="post">64601</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-93.56792</west>
+<north>39.80719</north>
+<east>-93.53695</east>
+<south>39.7834</south>
+</bbox>
+<score>31.831867218017578</score>
+</geoname>
+<geoname>
+<toponymName>Chillicothe</toponymName>
+<name>Chillicothe</name>
+<lat>41.08723</lat>
+<lng>-92.52797</lng>
+<geonameId>4851342</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>201</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IA">IA</adminCode1>
+<adminName1>Iowa</adminName1>
+<adminCode2>179</adminCode2>
+<adminName2>Wapello County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>13.263278007507324</score>
+</geoname>
+</geonames>

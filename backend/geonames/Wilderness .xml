@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>13</totalResultsCount>
+<geoname>
+<toponymName>Wilderness</toponymName>
+<name>Wilderness</name>
+<lat>-33.99241</lat>
+<lng>22.58308</lng>
+<geonameId>939928</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="WC">11</adminCode1>
+<adminName1>Western Cape</adminName1>
+<adminCode2>DC4</adminCode2>
+<adminName2>Eden District Municipality</adminName2>
+<adminCode3>WC044</adminCode3>
+<adminName3>George</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wilderness%2C_Western_Cape</alternateName>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<bbox>
+<west>22.57224</west>
+<north>-33.98341</north>
+<east>22.59393</east>
+<south>-34.0014</south>
+</bbox>
+<score>60.722999572753906</score>
+</geoname>
+<geoname>
+<toponymName>Wilderness</toponymName>
+<name>Wilderness</name>
+<lat>38.32569</lat>
+<lng>-77.72582</lng>
+<geonameId>4793690</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>73</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>137</adminCode2>
+<adminName2>Orange County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wilderness%2C_Virginia</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-77.73729</west>
+<north>38.33468</north>
+<east>-77.71436</east>
+<south>38.31669</south>
+</bbox>
+<score>60.722999572753906</score>
+</geoname>
+<geoname>
+<toponymName>Wilderness</toponymName>
+<name>Wilderness</name>
+<lat>-33.99385</lat>
+<lng>22.57574</lng>
+<geonameId>939930</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Wilderness,Wildernis</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="WC">11</adminCode1>
+<adminName1>Western Cape</adminName1>
+<adminCode2>DC4</adminCode2>
+<adminName2>Eden District Municipality</adminName2>
+<adminCode3>WC044</adminCode3>
+<adminName3>George</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<bbox>
+<west>22.5649</west>
+<north>-33.98486</north>
+<east>22.58659</east>
+<south>-34.00285</south>
+</bbox>
+<score>49.58012008666992</score>
+</geoname>
+<geoname>
+<toponymName>Wilderness</toponymName>
+<name>Wilderness</name>
+<lat>-28.71667</lat>
+<lng>31.36667</lng>
+<geonameId>939931</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="ZN">02</adminCode1>
+<adminName1>KwaZulu-Natal</adminName1>
+<adminCode2>DC28</adminCode2>
+<adminName2>uThungulu District Municipality</adminName2>
+<adminCode3>KZN285</adminCode3>
+<adminName3>Mthonjaneni</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<bbox>
+<west>31.35641</west>
+<north>-28.70767</north>
+<east>31.37692</east>
+<south>-28.72566</south>
+</bbox>
+<score>40.481998443603516</score>
+</geoname>
+<geoname>
+<toponymName>Wilderness</toponymName>
+<name>Wilderness</name>
+<lat>18.4</lat>
+<lng>-76.93333</lng>
+<geonameId>3488025</geonameId>
+<countryCode>JM</countryCode>
+<countryName>Jamaica</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="05">13</adminCode1>
+<adminName1>Saint Mary</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Jamaica</timezone>
+<bbox>
+<west>-76.94281</west>
+<north>18.40899</north>
+<east>-76.92385</east>
+<south>18.39101</south>
+</bbox>
+<score>40.481998443603516</score>
+</geoname>
+<geoname>
+<toponymName>Wilderness</toponymName>
+<name>Wilderness</name>
+<lat>38.24735</lat>
+<lng>-76.59774</lng>
+<geonameId>4373613</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>27</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MD">MD</adminCode1>
+<adminName1>Maryland</adminName1>
+<adminCode2>037</adminCode2>
+<adminName2>Saint Mary's County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-76.60919</west>
+<north>38.25634</north>
+<east>-76.58628</east>
+<south>38.23836</south>
+</bbox>
+<score>40.481998443603516</score>
+</geoname>
+<geoname>
+<toponymName>Wilderness</toponymName>
+<name>Wilderness</name>
+<lat>36.78894</lat>
+<lng>-91.19208</lng>
+<geonameId>4414738</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>256</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>149</adminCode2>
+<adminName2>Oregon County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-91.20331</west>
+<north>36.79794</north>
+<east>-91.18084</east>
+<south>36.77995</south>
+</bbox>
+<score>40.481998443603516</score>
+</geoname>
+<geoname>
+<toponymName>Wilderness</toponymName>
+<name>Wilderness</name>
+<lat>47.37982</lat>
+<lng>-122.04817</lng>
+<geonameId>5816022</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>141</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WA">WA</adminCode1>
+<adminName1>Washington</adminName1>
+<adminCode2>033</adminCode2>
+<adminName2>King County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-122.06146</west>
+<north>47.38882</north>
+<east>-122.03489</east>
+<south>47.37083</south>
+</bbox>
+<score>40.481998443603516</score>
+</geoname>
+<geoname>
+<toponymName>Wilderness</toponymName>
+<name>Wilderness</name>
+<lat>-18.94459</lat>
+<lng>30.88514</lng>
+<geonameId>879018</geonameId>
+<countryCode>ZW</countryCode>
+<countryName>Zimbabwe</countryName>
+<fcl>S</fcl>
+<fcode>FRM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farm</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="ME">04</adminCode1>
+<adminName1>Mashonaland East</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Harare</timezone>
+<score>12.65062427520752</score>
+</geoname>
+<geoname>
+<toponymName>Wilderness</toponymName>
+<name>Wilderness</name>
+<lat>-28.73636</lat>
+<lng>31.3551</lng>
+<geonameId>939932</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>S</fcl>
+<fcode>FRM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farm</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="ZN">02</adminCode1>
+<adminName1>KwaZulu-Natal</adminName1>
+<adminCode2>DC28</adminCode2>
+<adminName2>uThungulu District Municipality</adminName2>
+<adminCode3>KZN285</adminCode3>
+<adminName3>Mthonjaneni</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<score>12.65062427520752</score>
+</geoname>
+</geonames>

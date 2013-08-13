@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>30</totalResultsCount>
+<geoname>
+<toponymName>Saint Philip</toponymName>
+<name>Saint Philip</name>
+<lat>13.11667</lat>
+<lng>-59.46667</lng>
+<geonameId>3373553</geonameId>
+<countryCode>BB</countryCode>
+<countryName>Barbados</countryName>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>first-order administrative division</fcodeName>
+<population>20944</population>
+<alternateNames>Saint Philip</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="10">10</adminCode1>
+<adminName1>Saint Philip</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Saint_Philip%2C_Barbados</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Barbados</timezone>
+<score>67.8972396850586</score>
+</geoname>
+<geoname>
+<toponymName>São Filipe</toponymName>
+<name>São Filipe</name>
+<lat>14.8961</lat>
+<lng>-24.49556</lng>
+<geonameId>3374210</geonameId>
+<countryCode>CV</countryCode>
+<countryName>Cape Verde</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population>8189</population>
+<alternateNames>Saint Philip,Vila Sao Filipe,Vila São Filipe,Vila de Sao Filippe,Vila de São Filippe</alternateNames>
+<elevation>40</elevation>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="SF">18</adminCode1>
+<adminName1>São Filipe</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/S%C3%A3o_Filipe%2C_Cape_Verde</alternateName>
+<alternateName lang="sv">Saint Philip</alternateName>
+<alternateName lang="unlc">SFL</alternateName>
+<timezone dstOffset="-1.0" gmtOffset="-1.0">Atlantic/Cape_Verde</timezone>
+<bbox>
+<west>-24.50696</west>
+<north>14.90712</north>
+<east>-24.48416</east>
+<south>14.88509</south>
+</bbox>
+<score>47.04058837890625</score>
+</geoname>
+<geoname>
+<toponymName>Parish of Saint Philip</toponymName>
+<name>Parish of Saint Philip</name>
+<lat>17.05</lat>
+<lng>-61.71667</lng>
+<geonameId>3576015</geonameId>
+<countryCode>AG</countryCode>
+<countryName>Antigua and Barbuda</countryName>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>first-order administrative division</fcodeName>
+<population>3599</population>
+<alternateNames>Parish of Saint Philip,Saint Philip</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="08">08</adminCode1>
+<adminName1>Saint Philip</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Saint_Philip,_Antigua_and_Barbuda</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Antigua</timezone>
+<score>31.36039161682129</score>
+</geoname>
+<geoname>
+<toponymName>Saint-Philippe</toponymName>
+<name>Saint-Philippe</name>
+<lat>-21.35852</lat>
+<lng>55.76795</lng>
+<geonameId>935215</geonameId>
+<countryCode>RE</countryCode>
+<countryName>Réunion</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>5441</population>
+<alternateNames>Saint Phillippe,Saint-Philippe</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1>RE</adminCode1>
+<adminName1>Réunion</adminName1>
+<adminCode2>974</adminCode2>
+<adminName2>Réunion</adminName2>
+<adminCode3>9742</adminCode3>
+<adminName3>Arrondissement de Saint-Pierre</adminName3>
+<adminCode4>97417</adminCode4>
+<adminName4>Saint-Philippe</adminName4>
+<alternateName lang="post">97442</alternateName>
+<alternateName lang="unlc">SPH</alternateName>
+<timezone dstOffset="4.0" gmtOffset="4.0">Indian/Reunion</timezone>
+<bbox>
+<west>55.7583</west>
+<north>-21.34952</north>
+<east>55.77761</east>
+<south>-21.36751</south>
+</bbox>
+<score>31.24630355834961</score>
+</geoname>
+<geoname>
+<toponymName>Saint-Philippe</toponymName>
+<name>Saint-Philippe</name>
+<lat>45.35008</lat>
+<lng>-73.46587</lng>
+<geonameId>6138908</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="QC">10</adminCode1>
+<adminName1>Quebec</adminName1>
+<adminCode2>16</adminCode2>
+<adminName2>Montérégie</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Saint-Philippe%2C_Quebec</alternateName>
+<alternateName lang="unlc">CIP</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Montreal</timezone>
+<bbox>
+<west>-73.47867</west>
+<north>45.35907</north>
+<east>-73.45307</east>
+<south>45.34109</south>
+</bbox>
+<score>29.53044319152832</score>
+</geoname>
+<geoname>
+<toponymName>Saint Philips</toponymName>
+<name>Saint Philips</name>
+<lat>17.05</lat>
+<lng>-61.71667</lng>
+<geonameId>3576014</geonameId>
+<countryCode>AG</countryCode>
+<countryName>Antigua and Barbuda</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="08">08</adminCode1>
+<adminName1>Saint Philip</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Antigua</timezone>
+<bbox>
+<west>-61.72607</west>
+<north>17.05899</north>
+<east>-61.70726</east>
+<south>17.04101</south>
+</bbox>
+<score>26.90700912475586</score>
+</geoname>
+<geoname>
+<toponymName>Saint Philip</toponymName>
+<name>Saint Philip</name>
+<lat>37.98699</lat>
+<lng>-87.71585</lng>
+<geonameId>4264294</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>151</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IN">IN</adminCode1>
+<adminName1>Indiana</adminName1>
+<adminCode2>129</adminCode2>
+<adminName2>Posey County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-87.72727</west>
+<north>37.99598</north>
+<east>-87.70444</east>
+<south>37.97799</south>
+</bbox>
+<score>22.175146102905273</score>
+</geoname>
+<geoname>
+<toponymName>Saint-Philippe</toponymName>
+<name>Saint-Philippe</name>
+<lat>43.7</lat>
+<lng>7.25</lng>
+<geonameId>2977591</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="U">B8</adminCode1>
+<adminName1>Provence-Alpes-Côte d'Azur</adminName1>
+<adminCode2>06</adminCode2>
+<adminName2>Alpes-Maritimes</adminName2>
+<adminCode3>062</adminCode3>
+<adminName3>Arrondissement de Nice</adminName3>
+<adminCode4>06088</adminCode4>
+<adminName4>Nice</adminName4>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>7.23756</west>
+<north>43.70899</north>
+<east>7.26244</east>
+<south>43.69101</south>
+</bbox>
+<score>19.686962127685547</score>
+</geoname>
+<geoname>
+<toponymName>Saint-Philippe</toponymName>
+<name>Saint-Philippe</name>
+<lat>44.6</lat>
+<lng>6.2</lng>
+<geonameId>2977592</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>T</fcl>
+<fcode>MT</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>mountain</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="U">B8</adminCode1>
+<adminName1>Provence-Alpes-Côte d'Azur</adminName1>
+<adminCode2>05</adminCode2>
+<adminName2>Hautes-Alpes</adminName2>
+<adminCode3>052</adminCode3>
+<adminName3>Arrondissement de Gap</adminName3>
+<adminCode4>05004</adminCode4>
+<adminName4>Ancelle</adminName4>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<score>19.686962127685547</score>
+</geoname>
+<geoname>
+<toponymName>Saint-Philippe</toponymName>
+<name>Saint-Philippe</name>
+<lat>46.21684</lat>
+<lng>-64.69876</lng>
+<geonameId>6138897</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NB">04</adminCode1>
+<adminName1>New Brunswick</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-3.0" gmtOffset="-4.0">America/Moncton</timezone>
+<score>19.686962127685547</score>
+</geoname>
+</geonames>

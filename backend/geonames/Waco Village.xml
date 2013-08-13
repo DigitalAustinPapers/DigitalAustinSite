@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Wake Village</toponymName>
+<name>Wake Village</name>
+<lat>33.42679</lat>
+<lng>-94.1063</lng>
+<geonameId>4739641</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>5492</population>
+<alternateNames/>
+<elevation>104</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>037</adminCode2>
+<adminName2>Bowie County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wake_Village%2C_Texas</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-94.11708</west>
+<north>33.43578</north>
+<east>-94.09552</east>
+<south>33.4178</south>
+</bbox>
+<score>65.03379821777344</score>
+</geoname>
+<geoname>
+<toponymName>Ward village</toponymName>
+<name>Ward village</name>
+<lat>6.06667</lat>
+<lng>-57.18333</lng>
+<geonameId>3375248</geonameId>
+<countryCode>GY</countryCode>
+<countryName>Guyana</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="EB">13</adminCode1>
+<adminName1>East Berbice-Corentyne</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Guyana</timezone>
+<bbox>
+<west>-57.19238</west>
+<north>6.07566</north>
+<east>-57.17429</east>
+<south>6.05767</south>
+</bbox>
+<score>32.51689910888672</score>
+</geoname>
+</geonames>

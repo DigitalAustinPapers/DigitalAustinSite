@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>20</totalResultsCount>
+<geoname>
+<toponymName>Pueblo</toponymName>
+<name>Pueblo</name>
+<lat>38.25445</lat>
+<lng>-104.60914</lng>
+<geonameId>5435464</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>106595</population>
+<alternateNames>PUB,Pueblo,Puehblo,peblo,pu wei bu luo,puebeullo,pueburo,pwablw, klradw,pywblw,Пуебло,Пуэбло,پوابلو، کلرادو,پیوبلو,पेब्लो,プエブロ,普韋布洛,푸에블로</alternateNames>
+<elevation>1430</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CO">CO</adminCode1>
+<adminName1>Colorado</adminName1>
+<adminCode2>101</adminCode2>
+<adminName2>Pueblo County</adminName2>
+<alternateName lang="bg">Пуебло</alternateName>
+<alternateName lang="de">Pueblo</alternateName>
+<alternateName lang="en">Pueblo</alternateName>
+<alternateName lang="fa">پوابلو، کلرادو</alternateName>
+<alternateName lang="fi">Pueblo</alternateName>
+<alternateName lang="iata">PUB</alternateName>
+<alternateName lang="ja">プエブロ</alternateName>
+<alternateName lang="ko">푸에블로</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Pueblo%2C_Colorado</alternateName>
+<alternateName lang="mr">पेब्लो</alternateName>
+<alternateName lang="nl">Pueblo</alternateName>
+<alternateName lang="pnb">پیوبلو</alternateName>
+<alternateName lang="post">81012</alternateName>
+<alternateName lang="ru">Пуэбло</alternateName>
+<alternateName lang="unlc">PUB</alternateName>
+<alternateName lang="zh">普韋布洛</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<bbox>
+<west>-104.66289</west>
+<north>38.29663</north>
+<east>-104.55539</east>
+<south>38.21226</south>
+</bbox>
+<score>80.47039031982422</score>
+</geoname>
+<geoname>
+<toponymName>Pueblo</toponymName>
+<name>Pueblo</name>
+<lat>13.8</lat>
+<lng>-87.83333</lng>
+<geonameId>3584008</geonameId>
+<countryCode>SV</countryCode>
+<countryName>El Salvador</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Canton Pueblo,Cantón Pueblo,Pueblo</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="UN">07</adminCode1>
+<adminName1>La Unión</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/El_Salvador</timezone>
+<bbox>
+<west>-87.84259</west>
+<north>13.80899</north>
+<east>-87.82407</east>
+<south>13.79101</south>
+</bbox>
+<score>41.483123779296875</score>
+</geoname>
+<geoname>
+<toponymName>Puebla de Zaragoza</toponymName>
+<name>Puebla</name>
+<lat>19.04334</lat>
+<lng>-98.20193</lng>
+<geonameId>3521081</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population>1590256</population>
+<alternateNames>Cuetlaxcoapan,Cuetlaxcōāpan,Heroica Puebla de Zaragoza,PBC,Puebla,Puebla de Zaragoza,Puebla de los Angeles,puebura,Пуебла,פואבלה,プエブラ</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PUE">21</adminCode1>
+<adminName1>Puebla</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="bg">Пуебла</alternateName>
+<alternateName lang="ca">Heroica Puebla de Zaragoza</alternateName>
+<alternateName lang="cs">Puebla</alternateName>
+<alternateName lang="da">Puebla</alternateName>
+<alternateName lang="de">Puebla</alternateName>
+<alternateName lang="en">Puebla</alternateName>
+<alternateName lang="eo">Heroica Puebla de Zaragoza</alternateName>
+<alternateName lang="es">Puebla de Zaragoza</alternateName>
+<alternateName lang="fi">Puebla de Zaragoza</alternateName>
+<alternateName lang="fr">Puebla</alternateName>
+<alternateName lang="he">פואבלה</alternateName>
+<alternateName lang="iata">PBC</alternateName>
+<alternateName lang="id">Puebla</alternateName>
+<alternateName lang="it">Puebla</alternateName>
+<alternateName lang="ja">プエブラ</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Puebla%2C_Puebla</alternateName>
+<alternateName lang="nah">Cuetlaxcōāpan</alternateName>
+<alternateName lang="nl">Puebla de Zaragoza</alternateName>
+<alternateName lang="no">Puebla</alternateName>
+<alternateName lang="pl">Puebla</alternateName>
+<alternateName lang="pt">Puebla</alternateName>
+<alternateName lang="sv">Puebla de Zaragoza</alternateName>
+<alternateName lang="unlc">PBC</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-98.37526</west>
+<north>19.20702</north>
+<east>-98.02859</east>
+<south>18.87965</south>
+</bbox>
+<score>40.60470199584961</score>
+</geoname>
+<geoname>
+<toponymName>Pueblo</toponymName>
+<name>Pueblo</name>
+<lat>37.82616</lat>
+<lng>-87.11028</lng>
+<geonameId>4263424</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>116</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IN">IN</adminCode1>
+<adminName1>Indiana</adminName1>
+<adminCode2>147</adminCode2>
+<adminName2>Spencer County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-87.12166</west>
+<north>37.83515</north>
+<east>-87.09889</east>
+<south>37.81717</south>
+</bbox>
+<score>38.70951843261719</score>
+</geoname>
+<geoname>
+<toponymName>Pueblo</toponymName>
+<name>Pueblo</name>
+<lat>36.8098</lat>
+<lng>-84.70827</lng>
+<geonameId>4305360</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>256</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>231</adminCode2>
+<adminName2>Wayne County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Kentucky/Monticello</timezone>
+<bbox>
+<west>-84.71951</west>
+<north>36.81879</north>
+<east>-84.69704</east>
+<south>36.8008</south>
+</bbox>
+<score>38.70951843261719</score>
+</geoname>
+<geoname>
+<toponymName>Pueblo</toponymName>
+<name>Pueblo</name>
+<lat>32.49902</lat>
+<lng>-99.12146</lng>
+<geonameId>4720916</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>435</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>059</adminCode2>
+<adminName2>Callahan County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-99.13213</west>
+<north>32.50801</north>
+<east>-99.1108</east>
+<south>32.49002</south>
+</bbox>
+<score>38.70951843261719</score>
+</geoname>
+<geoname>
+<toponymName>El Pueblo</toponymName>
+<name>El Pueblo</name>
+<lat>25.34163</lat>
+<lng>-106.73133</lng>
+<geonameId>4008295</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>El Pueblo,Pueblo,Pueblos</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="DUR">10</adminCode1>
+<adminName1>Durango</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<bbox>
+<west>-106.74128</west>
+<north>25.35063</north>
+<east>-106.72138</east>
+<south>25.33264</south>
+</bbox>
+<score>33.065040588378906</score>
+</geoname>
+<geoname>
+<toponymName>Nicanor E. Molinas</toponymName>
+<name>Nicanor E. Molinas</name>
+<lat>-29.15</lat>
+<lng>-59.85</lng>
+<geonameId>3430430</geonameId>
+<countryCode>AR</countryCode>
+<countryName>Argentina</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Colonia N. Molinas,Nicanor E. Molinas,Nicanor Molina,Pueblo</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="S">21</adminCode1>
+<adminName1>Santa Fe</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Argentina/Cordoba</timezone>
+<bbox>
+<west>-59.8603</west>
+<north>-29.14101</north>
+<east>-59.8397</east>
+<south>-29.15899</south>
+</bbox>
+<score>27.371763229370117</score>
+</geoname>
+<geoname>
+<toponymName>Pueblo Viejo</toponymName>
+<name>Pueblo Viejo</name>
+<lat>19.81609</lat>
+<lng>-96.8737</lng>
+<geonameId>3521059</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Pueblo,Pueblo Viejo</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VER">30</adminCode1>
+<adminName1>Veracruz-Llave</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-96.88327</west>
+<north>19.82508</north>
+<east>-96.86414</east>
+<south>19.80709</south>
+</bbox>
+<score>27.371763229370117</score>
+</geoname>
+<geoname>
+<toponymName>Pueblito</toponymName>
+<name>Pueblito</name>
+<lat>8.16667</lat>
+<lng>-72.35</lng>
+<geonameId>3671676</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Pueblito,Pueblo</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="NSA">21</adminCode1>
+<adminName1>Norte de Santander</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<bbox>
+<west>-72.35909</west>
+<north>8.17566</north>
+<east>-72.34091</east>
+<south>8.15767</south>
+</bbox>
+<score>27.371763229370117</score>
+</geoname>
+</geonames>

@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>454</totalResultsCount>
+<geoname>
+<toponymName>Guadalupe County</toponymName>
+<name>Guadalupe County</name>
+<lat>29.58305</lat>
+<lng>-97.94858</lng>
+<geonameId>4695361</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>131533</population>
+<alternateNames>Comitatul Guadalupe,Comte de Guadalupe,Comté de Guadalupe,Condado de Guadalupe,Condado han Guadalupe,Contea di Guadalupe,County Guadalupe,Guadalupe,Guadalupe Comitatus,Guadalupe srjan,Gvadalupe,Hrabstwo Guadalupe,Okrug Gvadalupi,Quan Guadalupe,Quận Guadalupe,gua da lu pei xian,guadarupe jun,guraandalopa ka'unti,Гвадалупе,Гуадалупе,Округ Гвадалупи,Գուադալուպե շրջան,مقاطعة غوادالوب، تكساس,گواڈالوپ کاؤنٹی,গুৱান্ডালোপ কাউন্টি,グアダルーペ郡,瓜達盧佩縣</alternateNames>
+<elevation>164</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>187</adminCode2>
+<adminName2>Guadalupe County</adminName2>
+<alternateName lang="ar">مقاطعة غوادالوب، تكساس</alternateName>
+<alternateName lang="bg">Гуадалупе</alternateName>
+<alternateName lang="bpy">গুৱান্ডালোপ কাউন্টি</alternateName>
+<alternateName lang="es">Condado de Guadalupe</alternateName>
+<alternateName lang="fr">Comté de Guadalupe</alternateName>
+<alternateName lang="hy">Գուադալուպե շրջան</alternateName>
+<alternateName lang="id">County Guadalupe</alternateName>
+<alternateName lang="it">Contea di Guadalupe</alternateName>
+<alternateName lang="ja">グアダルーペ郡</alternateName>
+<alternateName lang="la">Guadalupe Comitatus</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Guadalupe_County%2C_Texas</alternateName>
+<alternateName lang="pl">Hrabstwo Guadalupe</alternateName>
+<alternateName lang="pnb">گواڈالوپ کاؤنٹی</alternateName>
+<alternateName lang="pt">Condado de Guadalupe</alternateName>
+<alternateName lang="ro">Comitatul Guadalupe</alternateName>
+<alternateName lang="ru">Гуадалупе</alternateName>
+<alternateName lang="sr">Округ Гвадалупи</alternateName>
+<alternateName lang="uk">Гвадалупе</alternateName>
+<alternateName lang="vi">Quận Guadalupe</alternateName>
+<alternateName lang="war">Condado han Guadalupe</alternateName>
+<alternateName lang="zh">瓜達盧佩縣</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-98.31237</west>
+<north>29.8591</north>
+<east>-97.63191</east>
+<south>29.36934</south>
+</bbox>
+<score>25.76752281188965</score>
+</geoname>
+<geoname>
+<toponymName>Schertz</toponymName>
+<name>Schertz</name>
+<lat>29.55217</lat>
+<lng>-98.26973</lng>
+<geonameId>4727326</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>31465</population>
+<alternateNames/>
+<elevation>217</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>187</adminCode2>
+<adminName2>Guadalupe County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Schertz%2C_Texas</alternateName>
+<alternateName lang="post">78154</alternateName>
+<alternateName lang="unlc">SRT</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-98.2961</west>
+<north>29.5751</north>
+<east>-98.24337</east>
+<south>29.52924</south>
+</bbox>
+<score>25.588851928710938</score>
+</geoname>
+<geoname>
+<toponymName>Cibolo</toponymName>
+<name>Cibolo</name>
+<lat>29.56162</lat>
+<lng>-98.22696</lng>
+<geonameId>4681462</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>15349</population>
+<alternateNames/>
+<elevation>213</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>187</adminCode2>
+<adminName2>Guadalupe County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cibolo%2C_Texas</alternateName>
+<alternateName lang="post">78108</alternateName>
+<alternateName lang="unlc">ZCB</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-98.24487</west>
+<north>29.5772</north>
+<east>-98.20904</east>
+<south>29.54604</south>
+</bbox>
+<score>21.32404327392578</score>
+</geoname>
+<geoname>
+<toponymName>Geronimo</toponymName>
+<name>Geronimo</name>
+<lat>29.663</lat>
+<lng>-97.96695</lng>
+<geonameId>4693389</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1032</population>
+<alternateNames/>
+<elevation>177</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>187</adminCode2>
+<adminName2>Guadalupe County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Geronimo%2C_Texas</alternateName>
+<alternateName lang="post">78115</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-97.96798</west>
+<north>29.6639</north>
+<east>-97.96591</east>
+<south>29.66211</south>
+</bbox>
+<score>21.32404327392578</score>
+</geoname>
+<geoname>
+<toponymName>Marion</toponymName>
+<name>Marion</name>
+<lat>29.57134</lat>
+<lng>-98.14029</lng>
+<geonameId>4709161</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1066</population>
+<alternateNames>Mehrion,Мэрион</alternateNames>
+<elevation>197</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>187</adminCode2>
+<adminName2>Guadalupe County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Marion%2C_Texas</alternateName>
+<alternateName lang="post">78124</alternateName>
+<alternateName lang="ru">Мэрион</alternateName>
+<alternateName lang="unlc">MA9</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-98.14132</west>
+<north>29.57224</north>
+<east>-98.13925</east>
+<south>29.57044</south>
+</bbox>
+<score>21.32404327392578</score>
+</geoname>
+<geoname>
+<toponymName>McQueeney</toponymName>
+<name>McQueeney</name>
+<lat>29.59217</lat>
+<lng>-98.03334</lng>
+<geonameId>4710317</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2545</population>
+<alternateNames/>
+<elevation>167</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>187</adminCode2>
+<adminName2>Guadalupe County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/McQueeney%2C_Texas</alternateName>
+<alternateName lang="unlc">QNY</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-98.04065</west>
+<north>29.59853</north>
+<east>-98.02603</east>
+<south>29.58581</south>
+</bbox>
+<score>21.32404327392578</score>
+</geoname>
+<geoname>
+<toponymName>New Braunfels Municipal Airport</toponymName>
+<name>New Braunfels Municipal Airport</name>
+<lat>29.703</lat>
+<lng>-98.04112</lng>
+<geonameId>4714136</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>AIRP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>airport</fcodeName>
+<population/>
+<alternateNames>BAZ,KBAZ</alternateNames>
+<elevation>197</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>187</adminCode2>
+<adminName2>Guadalupe County</adminName2>
+<alternateName lang="faac">BAZ</alternateName>
+<alternateName lang="icao">KBAZ</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/New_Braunfels_Municipal_Airport</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>21.32404327392578</score>
+</geoname>
+<geoname>
+<toponymName>Northcliff</toponymName>
+<name>Northcliff</name>
+<lat>29.62106</lat>
+<lng>-98.22473</lng>
+<geonameId>4715410</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1996</population>
+<alternateNames/>
+<elevation>252</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>187</adminCode2>
+<adminName2>Guadalupe County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Northcliff%2C_Texas</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-98.22991</west>
+<north>29.62556</north>
+<east>-98.21956</east>
+<south>29.61656</south>
+</bbox>
+<score>21.32404327392578</score>
+</geoname>
+<geoname>
+<toponymName>Redwood</toponymName>
+<name>Redwood</name>
+<lat>29.81022</lat>
+<lng>-97.91139</lng>
+<geonameId>4722065</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>4338</population>
+<alternateNames/>
+<elevation>169</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>187</adminCode2>
+<adminName2>Guadalupe County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Redwood%2C_Texas</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-97.92037</west>
+<north>29.81801</north>
+<east>-97.90242</east>
+<south>29.80243</south>
+</bbox>
+<score>21.32404327392578</score>
+</geoname>
+<geoname>
+<toponymName>Seguin</toponymName>
+<name>Seguin</name>
+<lat>29.56884</lat>
+<lng>-97.96473</lng>
+<geonameId>4727756</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>25175</population>
+<alternateNames>Segin,sygwyn, tgzas,Сегин,سیگوین، تگزاس</alternateNames>
+<elevation>159</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>187</adminCode2>
+<adminName2>Guadalupe County</adminName2>
+<alternateName lang="fa">سیگوین، تگزاس</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Seguin%2C_Texas</alternateName>
+<alternateName lang="post">78156</alternateName>
+<alternateName lang="sr">Сегин</alternateName>
+<alternateName lang="unlc">SQU</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-97.98785</west>
+<north>29.58895</north>
+<east>-97.9416</east>
+<south>29.54873</south>
+</bbox>
+<score>21.32404327392578</score>
+</geoname>
+</geonames>

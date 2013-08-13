@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>66</totalResultsCount>
+<geoname>
+<toponymName>Sea Island</toponymName>
+<name>Sea Island</name>
+<lat>31.20023</lat>
+<lng>-81.33315</lng>
+<geonameId>4221800</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>2</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">GA</adminCode1>
+<adminName1>Georgia</adminName1>
+<adminCode2>127</adminCode2>
+<adminName2>Glynn County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Sea_Island%2C_Georgia</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-81.7825</west>
+<north>31.45329</north>
+<east>-81.26224</east>
+<south>31.03951</south>
+</bbox>
+<score>37.620872497558594</score>
+</geoname>
+<geoname>
+<toponymName>Sea Island</toponymName>
+<name>Sea Island</name>
+<lat>49.18296</lat>
+<lng>-123.16934</lng>
+<geonameId>6142981</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="BC">02</adminCode1>
+<adminName1>British Columbia</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Sea_Island_%28British_Columbia%29</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Vancouver</timezone>
+<score>37.620872497558594</score>
+</geoname>
+<geoname>
+<toponymName>Sea Island</toponymName>
+<name>Sea Island</name>
+<lat>31.18356</lat>
+<lng>-81.34982</lng>
+<geonameId>4221799</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>2</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">GA</adminCode1>
+<adminName1>Georgia</adminName1>
+<adminCode2>127</adminCode2>
+<adminName2>Glynn County</adminName2>
+<alternateName lang="post">31561</alternateName>
+<alternateName lang="unlc">QSI</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-81.36033</west>
+<north>31.19256</north>
+<east>-81.3393</east>
+<south>31.17457</south>
+</bbox>
+<score>18.810436248779297</score>
+</geoname>
+<geoname>
+<toponymName>Ser Island</toponymName>
+<name>Ser Island</name>
+<lat>-6.28333</lat>
+<lng>150.4</lng>
+<geonameId>2086880</geonameId>
+<countryCode>PG</countryCode>
+<countryName>Papua New Guinea</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames>Ser Island,Serr Island</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="WBK">17</adminCode1>
+<adminName1>West New Britain</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="10.0" gmtOffset="10.0">Pacific/Port_Moresby</timezone>
+<score>16.75699806213379</score>
+</geoname>
+<geoname>
+<toponymName>Sek Island</toponymName>
+<name>Sek Island</name>
+<lat>-5.08557</lat>
+<lng>145.81929</lng>
+<geonameId>2086987</geonameId>
+<countryCode>PG</countryCode>
+<countryName>Papua New Guinea</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames>Seg,Sek Island</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="MPM">12</adminCode1>
+<adminName1>Madang</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="10.0" gmtOffset="10.0">Pacific/Port_Moresby</timezone>
+<score>16.75699806213379</score>
+</geoname>
+<geoname>
+<toponymName>Seal Island</toponymName>
+<name>Seal Island</name>
+<lat>-35.07546</lat>
+<lng>117.9743</lng>
+<geonameId>2061766</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames>Seal Island</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="WA">08</adminCode1>
+<adminName1>Western Australia</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Seal Island</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Seal_Island_%28Western_Australia%29</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Australia/Perth</timezone>
+<score>15.246564865112305</score>
+</geoname>
+<geoname>
+<toponymName>Seza Island</toponymName>
+<name>Seza Island</name>
+<lat>-1.81667</lat>
+<lng>32.81667</lng>
+<geonameId>150079</geonameId>
+<countryCode>TZ</countryCode>
+<countryName>Tanzania</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="13">08</adminCode1>
+<adminName1>Mara</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="3.0" gmtOffset="3.0">Africa/Dar_es_Salaam</timezone>
+<score>13.682031631469727</score>
+</geoname>
+<geoname>
+<toponymName>Seu Island</toponymName>
+<name>Seu Island</name>
+<lat>-8.88029</lat>
+<lng>159.99159</lng>
+<geonameId>2103524</geonameId>
+<countryCode>SB</countryCode>
+<countryName>Solomon Islands</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="11.0" gmtOffset="11.0">Pacific/Guadalcanal</timezone>
+<score>13.682031631469727</score>
+</geoname>
+<geoname>
+<toponymName>Sea Islands</toponymName>
+<name>Sea Islands</name>
+<lat>31.50161</lat>
+<lng>-81.1262</lng>
+<geonameId>4221805</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>0</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">GA</adminCode1>
+<adminName1>Georgia</adminName1>
+<adminCode2>191</adminCode2>
+<adminName2>McIntosh County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Kentucky/Monticello</timezone>
+<score>13.682031631469727</score>
+</geoname>
+<geoname>
+<toponymName>Sear Island</toponymName>
+<name>Sear Island</name>
+<lat>49.14964</lat>
+<lng>-123.68599</lng>
+<geonameId>6143298</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="BC">02</adminCode1>
+<adminName1>British Columbia</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Vancouver</timezone>
+<score>13.682031631469727</score>
+</geoname>
+</geonames>

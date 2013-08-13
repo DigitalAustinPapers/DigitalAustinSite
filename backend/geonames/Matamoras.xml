@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>36</totalResultsCount>
+<geoname>
+<toponymName>Matamoras</toponymName>
+<name>Matamoras</name>
+<lat>41.3687</lat>
+<lng>-74.70016</lng>
+<geonameId>5200123</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2469</population>
+<alternateNames/>
+<elevation>131</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PA">PA</adminCode1>
+<adminName1>Pennsylvania</adminName1>
+<adminCode2>103</adminCode2>
+<adminName2>Pike County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Matamoras%2C_Pennsylvania</alternateName>
+<alternateName lang="post">18336</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-74.71053</west>
+<north>41.37703</north>
+<east>-74.6895</east>
+<south>41.35775</south>
+</bbox>
+<score>70.77567291259766</score>
+</geoname>
+<geoname>
+<toponymName>Matamoras</toponymName>
+<name>Matamoras</name>
+<lat>40.55421</lat>
+<lng>-85.26303</lng>
+<geonameId>4923298</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>265</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IN">IN</adminCode1>
+<adminName1>Indiana</adminName1>
+<adminCode2>009</adminCode2>
+<adminName2>Blackford County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Matamoras%2C_Indiana</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Indiana/Indianapolis</timezone>
+<bbox>
+<west>-85.27487</west>
+<north>40.56321</north>
+<east>-85.25119</east>
+<south>40.54522</south>
+</bbox>
+<score>60.66486358642578</score>
+</geoname>
+<geoname>
+<toponymName>Matamoras</toponymName>
+<name>Matamoras</name>
+<lat>40.44009</lat>
+<lng>-76.93331</lng>
+<geonameId>5200122</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2603</population>
+<alternateNames/>
+<elevation>194</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PA">PA</adminCode1>
+<adminName1>Pennsylvania</adminName1>
+<adminCode2>043</adminCode2>
+<adminName2>Dauphin County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-76.94167</west>
+<north>40.44645</north>
+<east>-76.92495</east>
+<south>40.43373</south>
+</bbox>
+<score>50.55405044555664</score>
+</geoname>
+<geoname>
+<toponymName>Matamoros</toponymName>
+<name>Matamoros</name>
+<lat>18.58414</lat>
+<lng>-90.64669</lng>
+<geonameId>3523468</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Matamoras,Matamoros</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CAM">04</adminCode1>
+<adminName1>Campeche</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Merida</timezone>
+<bbox>
+<west>-90.65618</west>
+<north>18.59314</north>
+<east>-90.6372</east>
+<south>18.57515</south>
+</bbox>
+<score>45.454681396484375</score>
+</geoname>
+<geoname>
+<toponymName>Matamoros</toponymName>
+<name>Matamoros</name>
+<lat>25.52699</lat>
+<lng>-103.22847</lng>
+<geonameId>3996426</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>104024</population>
+<alternateNames>Matamoros,Matamoros de la Laguna,Матаморос</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="COA">07</adminCode1>
+<adminName1>Coahuila</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Matamoros%2C_Coahuila</alternateName>
+<alternateName lang="ru">Матаморос</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<bbox>
+<west>-103.2747</west>
+<north>25.56869</north>
+<east>-103.18224</east>
+<south>25.48528</south>
+</bbox>
+<score>38.92955017089844</score>
+</geoname>
+<geoname>
+<toponymName>Heroica Matamoros</toponymName>
+<name>Heroica Matamoros</name>
+<lat>25.88333</lat>
+<lng>-97.5</lng>
+<geonameId>3523466</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>435145</population>
+<alternateNames>Heroica Matamoros,MAM,Matamoros,Матаморос</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TAM">28</adminCode1>
+<adminName1>Tamaulipas</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="de">Heroica Matamoros</alternateName>
+<alternateName lang="en">Heroica Matamoros</alternateName>
+<alternateName lang="es">Heroica Matamoros</alternateName>
+<alternateName lang="fr">Heroica Matamoros</alternateName>
+<alternateName lang="iata">MAM</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Matamoros%2C_Tamaulipas</alternateName>
+<alternateName lang="nl">Heroica Matamoros</alternateName>
+<alternateName lang="pl">Heroica Matamoros</alternateName>
+<alternateName lang="ru">Матаморос</alternateName>
+<alternateName lang="sv">Heroica Matamoros</alternateName>
+<alternateName lang="unlc">MAM</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Matamoros</timezone>
+<bbox>
+<west>-97.59517</west>
+<north>25.96889</north>
+<east>-97.40483</east>
+<south>25.79778</south>
+</bbox>
+<score>25.285484313964844</score>
+</geoname>
+<geoname>
+<toponymName>Matamoros</toponymName>
+<name>Matamoros</name>
+<lat>26.76471</lat>
+<lng>-105.58777</lng>
+<geonameId>3974900</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Matamoros</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CHH">06</adminCode1>
+<adminName1>Chihuahua</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Matamoros_Municipality%2C_Chihuahua</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Chihuahua</timezone>
+<bbox>
+<west>-105.59785</west>
+<north>26.77371</north>
+<east>-105.5777</east>
+<south>26.75572</south>
+</bbox>
+<score>25.285484313964844</score>
+</geoname>
+<geoname>
+<toponymName>Matamoros</toponymName>
+<name>Matamoros</name>
+<lat>15.25644</lat>
+<lng>-92.74079</lng>
+<geonameId>3523470</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Mariano Matamoros,Matamoros</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CHP">05</adminCode1>
+<adminName1>Chiapas</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-92.75011</west>
+<north>15.26543</north>
+<east>-92.73146</east>
+<south>15.24745</south>
+</bbox>
+<score>16.85698890686035</score>
+</geoname>
+<geoname>
+<toponymName>Matamoros</toponymName>
+<name>Matamoros</name>
+<lat>8.40569</lat>
+<lng>-76.12826</lng>
+<geonameId>3675128</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Matamoro,Matamoros</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="COR">12</adminCode1>
+<adminName1>Córdoba</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<bbox>
+<west>-76.13735</west>
+<north>8.41469</north>
+<east>-76.11917</east>
+<south>8.3967</south>
+</bbox>
+<score>16.85698890686035</score>
+</geoname>
+<geoname>
+<toponymName>Matamoros</toponymName>
+<name>Matamoros</name>
+<lat>26.51044</lat>
+<lng>-99.11813</lng>
+<geonameId>8528789</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Matamoritos,Matamoros</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TAM">28</adminCode1>
+<adminName1>Tamaulipas</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="es">Matamoros</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<bbox>
+<west>-99.12818</west>
+<north>26.51943</north>
+<east>-99.10808</east>
+<south>26.50144</south>
+</bbox>
+<score>16.85698890686035</score>
+</geoname>
+</geonames>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>The Country</toponymName>
+<name>The Country</name>
+<lat>36.04625</lat>
+<lng>-79.5178</lng>
+<geonameId>4494813</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>183</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NC">NC</adminCode1>
+<adminName1>North Carolina</adminName1>
+<adminCode2>001</adminCode2>
+<adminName2>Alamance County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-79.52225</west>
+<north>36.04984</north>
+<east>-79.51335</east>
+<south>36.04265</south>
+</bbox>
+<score>28.741161346435547</score>
+</geoname>
+</geonames>

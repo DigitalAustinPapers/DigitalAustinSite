@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>23</totalResultsCount>
+<geoname>
+<toponymName>Burns</toponymName>
+<name>Burns</name>
+<lat>38.0903</lat>
+<lng>-96.88641</lng>
+<geonameId>4268862</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>228</population>
+<alternateNames/>
+<elevation>457</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KS">KS</adminCode1>
+<adminName1>Kansas</adminName1>
+<adminCode2>115</adminCode2>
+<adminName2>Marion County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Burns%2C_Kansas</alternateName>
+<alternateName lang="post">66840</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-96.88756</west>
+<north>38.0912</north>
+<east>-96.88527</east>
+<south>38.0894</south>
+</bbox>
+<score>58.436195373535156</score>
+</geoname>
+<geoname>
+<toponymName>Burns</toponymName>
+<name>Burns</name>
+<lat>36.05339</lat>
+<lng>-87.31251</lng>
+<geonameId>4610022</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1468</population>
+<alternateNames/>
+<elevation>244</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TN">TN</adminCode1>
+<adminName1>Tennessee</adminName1>
+<adminCode2>043</adminCode2>
+<adminName2>Dickson County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Burns%2C_Tennessee</alternateName>
+<alternateName lang="post">37029</alternateName>
+<alternateName lang="unlc">BS3</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-87.31807</west>
+<north>36.05789</north>
+<east>-87.30695</east>
+<south>36.0489</south>
+</bbox>
+<score>58.436195373535156</score>
+</geoname>
+<geoname>
+<toponymName>Burns</toponymName>
+<name>Burns</name>
+<lat>42.42979</lat>
+<lng>-77.72499</lng>
+<geonameId>5110816</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>365</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>003</adminCode2>
+<adminName2>Allegany County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Burns%2C_New_York</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-77.73718</west>
+<north>42.43878</north>
+<east>-77.71281</east>
+<south>42.4208</south>
+</bbox>
+<score>58.436195373535156</score>
+</geoname>
+<geoname>
+<toponymName>Burns</toponymName>
+<name>Burns</name>
+<lat>43.94497</lat>
+<lng>-90.97597</lng>
+<geonameId>5247248</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>237</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WI">WI</adminCode1>
+<adminName1>Wisconsin</adminName1>
+<adminCode2>063</adminCode2>
+<adminName2>La Crosse County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Burns%2C_Wisconsin</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.98846</west>
+<north>43.95396</north>
+<east>-90.96347</east>
+<south>43.93597</south>
+</bbox>
+<score>58.436195373535156</score>
+</geoname>
+<geoname>
+<toponymName>Burns</toponymName>
+<name>Burns</name>
+<lat>39.87388</lat>
+<lng>-106.8856</lng>
+<geonameId>5415523</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1980</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CO">CO</adminCode1>
+<adminName1>Colorado</adminName1>
+<adminCode2>037</adminCode2>
+<adminName2>Eagle County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Burns%2C_Colorado</alternateName>
+<alternateName lang="post">80426</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<bbox>
+<west>-106.89732</west>
+<north>39.88287</north>
+<east>-106.87388</east>
+<south>39.86488</south>
+</bbox>
+<score>58.436195373535156</score>
+</geoname>
+<geoname>
+<toponymName>Burns</toponymName>
+<name>Burns</name>
+<lat>41.19276</lat>
+<lng>-104.35912</lng>
+<geonameId>5820118</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>301</population>
+<alternateNames/>
+<elevation>1682</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WY">WY</adminCode1>
+<adminName1>Wyoming</adminName1>
+<adminCode2>021</adminCode2>
+<adminName2>Laramie County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Burns%2C_Wyoming</alternateName>
+<alternateName lang="post">82053</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<bbox>
+<west>-104.36032</west>
+<north>41.19366</north>
+<east>-104.35793</east>
+<south>41.19186</south>
+</bbox>
+<score>58.436195373535156</score>
+</geoname>
+<geoname>
+<toponymName>Burns</toponymName>
+<name>Burns</name>
+<lat>43.58626</lat>
+<lng>-119.0541</lng>
+<geonameId>5716833</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>2806</population>
+<alternateNames>BNO,Burns,brnz, awrgn,Бърнс,برنز، اورگن</alternateNames>
+<elevation>1266</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OR">OR</adminCode1>
+<adminName1>Oregon</adminName1>
+<adminCode2>025</adminCode2>
+<adminName2>Harney County</adminName2>
+<alternateName lang="bg">Бърнс</alternateName>
+<alternateName lang="fa">برنز، اورگن</alternateName>
+<alternateName lang="iata">BNO</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Burns%2C_Oregon</alternateName>
+<alternateName lang="post">97720</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-119.06288</west>
+<north>43.59262</north>
+<east>-119.04532</east>
+<south>43.5799</south>
+</bbox>
+<score>55.094173431396484</score>
+</geoname>
+<geoname>
+<toponymName>Burns</toponymName>
+<name>Burns</name>
+<lat>-32.08333</lat>
+<lng>141</lng>
+<geonameId>2173117</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="NSW">02</adminCode1>
+<adminName1>New South Wales</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="9.5" gmtOffset="10.5">Australia/Broken_Hill</timezone>
+<bbox>
+<west>140.98939</west>
+<north>-32.07434</north>
+<east>141.01061</east>
+<south>-32.09233</south>
+</bbox>
+<score>38.957462310791016</score>
+</geoname>
+<geoname>
+<toponymName>Burns</toponymName>
+<name>Burns</name>
+<lat>33.83844</lat>
+<lng>-85.60663</lng>
+<geonameId>4052605</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>259</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AL">AL</adminCode1>
+<adminName1>Alabama</adminName1>
+<adminCode2>015</adminCode2>
+<adminName2>Calhoun County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-85.61746</west>
+<north>33.84743</north>
+<east>-85.5958</east>
+<south>33.82944</south>
+</bbox>
+<score>38.957462310791016</score>
+</geoname>
+<geoname>
+<toponymName>Burns</toponymName>
+<name>Burns</name>
+<lat>29.57355</lat>
+<lng>-91.53289</lng>
+<geonameId>4318375</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>101</adminCode2>
+<adminName2>Saint Mary Parish</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-91.54323</west>
+<north>29.58254</north>
+<east>-91.52255</east>
+<south>29.56455</south>
+</bbox>
+<score>38.957462310791016</score>
+</geoname>
+</geonames>

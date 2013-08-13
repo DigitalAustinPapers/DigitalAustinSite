@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>23</totalResultsCount>
+<geoname>
+<toponymName>Halifax</toponymName>
+<name>Halifax</name>
+<lat>44.64533</lat>
+<lng>-63.57239</lng>
+<geonameId>6324729</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population>359111</population>
+<alternateNames>Galifaks,Halifax,YHZ,Галифакс</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NS">07</adminCode1>
+<adminName1>Nova Scotia</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Halifax</alternateName>
+<alternateName lang="iata">YHZ</alternateName>
+<alternateName lang="link">http://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%BB%D0%B8%D1%84%D0%B0%D0%BA%D1%81</alternateName>
+<alternateName lang="ru">Галифакс</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-4.0">America/Halifax</timezone>
+<bbox>
+<west>-63.68183</west>
+<north>44.72309</north>
+<east>-63.46295</east>
+<south>44.56757</south>
+</bbox>
+<score>119.2823715209961</score>
+</geoname>
+<geoname>
+<toponymName>Halifax</toponymName>
+<name>Halifax</name>
+<lat>53.71667</lat>
+<lng>-1.85</lng>
+<geonameId>2647632</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>82624</population>
+<alternateNames>Galifaks,Halifax,Halifax i England,Khalifaks,Галифакс,Халифакс,האליפאקס</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C2</adminCode2>
+<adminName2>Calderdale</adminName2>
+<alternateName lang="af">Halifax</alternateName>
+<alternateName lang="bg">Халифакс</alternateName>
+<alternateName lang="de">Halifax</alternateName>
+<alternateName lang="en">Halifax</alternateName>
+<alternateName lang="fi">Halifax</alternateName>
+<alternateName lang="fr">Halifax</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Halifax%2C_West_Yorkshire</alternateName>
+<alternateName lang="nn">Halifax i England</alternateName>
+<alternateName lang="no">Halifax</alternateName>
+<alternateName lang="pl">Halifax</alternateName>
+<alternateName lang="ru">Галифакс</alternateName>
+<alternateName lang="sr">Халифакс</alternateName>
+<alternateName lang="sv">Halifax</alternateName>
+<alternateName lang="unlc">HFX</alternateName>
+<alternateName lang="yi">האליפאקס</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.91272</west>
+<north>53.75375</north>
+<east>-1.78728</east>
+<south>53.67958</south>
+</bbox>
+<score>108.88941955566406</score>
+</geoname>
+<geoname>
+<toponymName>Halifax</toponymName>
+<name>Halifax Regional Municipality</name>
+<lat>44.646</lat>
+<lng>-63.57333</lng>
+<geonameId>5969423</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Chalifax,Galifaks,Gorad Galifaks,Halifacium,Halifaks,Halifaksas,Halifakso,Halifax,Halifax Regional Municipality,Helifeksa,Khalifaks,Munisipyo Rehiyonal han Halifax,ha li fa ke si,haellipaegseu,halihpaks,halipaksi,halyfaks,harifakkusu,hlypqs,Χάλιφαξ,Галифакс,Галіфакс,Горад Галіфакс,Халифакс,הליפקס,هاليفاكس,هالیفاکس,ہیلی فیکس,ஹாலிஃபாக்ஸ்,ჰალიფაქსი,ハリファックス,哈利法克斯,핼리팩스</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NS">07</adminCode1>
+<adminName1>Nova Scotia</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="af">Halifax</alternateName>
+<alternateName lang="ar">هاليفاكس</alternateName>
+<alternateName lang="be">Горад Галіфакс</alternateName>
+<alternateName lang="bg">Халифакс</alternateName>
+<alternateName lang="cs">Halifax</alternateName>
+<alternateName lang="da">Halifax</alternateName>
+<alternateName lang="de">Halifax</alternateName>
+<alternateName lang="el">Χάλιφαξ</alternateName>
+<alternateName lang="en">Halifax Regional Municipality</alternateName>
+<alternateName lang="eo">Halifakso</alternateName>
+<alternateName lang="es">Halifax</alternateName>
+<alternateName lang="fa">هالیفاکس</alternateName>
+<alternateName lang="fi">Halifax</alternateName>
+<alternateName lang="fr">Halifax</alternateName>
+<alternateName lang="he">הליפקס</alternateName>
+<alternateName lang="id">Halifax</alternateName>
+<alternateName lang="io">Halifax</alternateName>
+<alternateName lang="it">Halifax</alternateName>
+<alternateName lang="ja">ハリファックス</alternateName>
+<alternateName lang="ka">ჰალიფაქსი</alternateName>
+<alternateName lang="ko">핼리팩스</alternateName>
+<alternateName lang="kw">Halifax</alternateName>
+<alternateName lang="la">Halifacium</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Halifax_Regional_Municipality</alternateName>
+<alternateName lang="lt">Halifaksas</alternateName>
+<alternateName lang="lv">Helifeksa</alternateName>
+<alternateName lang="nl">Halifax</alternateName>
+<alternateName lang="no">Halifax</alternateName>
+<alternateName lang="os">Галифакс</alternateName>
+<alternateName lang="pt">Halifax</alternateName>
+<alternateName lang="ru">Галифакс</alternateName>
+<alternateName lang="sr">Халифакс</alternateName>
+<alternateName lang="sv">Halifax</alternateName>
+<alternateName lang="ta">ஹாலிஃபாக்ஸ்</alternateName>
+<alternateName lang="ug">Halifaks</alternateName>
+<alternateName lang="uk">Галіфакс</alternateName>
+<alternateName lang="unlc">HAL</alternateName>
+<alternateName lang="ur">ہیلی فیکس</alternateName>
+<alternateName lang="war">Munisipyo Rehiyonal han Halifax</alternateName>
+<alternateName lang="zh">哈利法克斯</alternateName>
+<alternateName lang="zh-CN">哈利法克斯</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-4.0">America/Halifax</timezone>
+<bbox>
+<west>-63.58597</west>
+<north>44.655</north>
+<east>-63.56069</east>
+<south>44.63701</south>
+</bbox>
+<score>73.04523468017578</score>
+</geoname>
+<geoname>
+<toponymName>Halifax</toponymName>
+<name>Halifax</name>
+<lat>44.86685</lat>
+<lng>-63.71541</lng>
+<geonameId>5969424</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NS">07</adminCode1>
+<adminName1>Nova Scotia</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-3.0" gmtOffset="-4.0">America/Halifax</timezone>
+<score>68.17555236816406</score>
+</geoname>
+<geoname>
+<toponymName>Halifax</toponymName>
+<name>Halifax</name>
+<lat>41.99121</lat>
+<lng>-70.86198</lng>
+<geonameId>4938652</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>7631</population>
+<alternateNames/>
+<elevation>25</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MA">MA</adminCode1>
+<adminName1>Massachusetts</adminName1>
+<adminCode2>023</adminCode2>
+<adminName2>Plymouth County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Halifax%2C_Massachusetts</alternateName>
+<alternateName lang="post">02338</alternateName>
+<alternateName lang="unlc">HFX</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-70.87681</west>
+<north>42.00223</north>
+<east>-70.84716</east>
+<south>41.9802</south>
+</bbox>
+<score>58.436187744140625</score>
+</geoname>
+<geoname>
+<toponymName>Halifax</toponymName>
+<name>Halifax</name>
+<lat>42.7698</lat>
+<lng>-72.74537</lng>
+<geonameId>5236750</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>481</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VT">VT</adminCode1>
+<adminName1>Vermont</adminName1>
+<adminCode2>025</adminCode2>
+<adminName2>Windham County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Halifax%2C_Vermont</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-72.75762</west>
+<north>42.7788</north>
+<east>-72.73312</east>
+<south>42.76081</south>
+</bbox>
+<score>58.436187744140625</score>
+</geoname>
+<geoname>
+<toponymName>Halifax</toponymName>
+<name>Halifax</name>
+<lat>36.76597</lat>
+<lng>-78.92834</lng>
+<geonameId>4762755</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>1309</population>
+<alternateNames/>
+<elevation>141</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>083</adminCode2>
+<adminName2>Halifax County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Halifax%2C_Virginia</alternateName>
+<alternateName lang="post">24558</alternateName>
+<alternateName lang="unlc">HIX</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-78.95516</west>
+<north>36.78189</north>
+<east>-78.90581</east>
+<south>36.74426</south>
+</bbox>
+<score>48.69682312011719</score>
+</geoname>
+<geoname>
+<toponymName>Halifax</toponymName>
+<name>Halifax</name>
+<lat>40.46814</lat>
+<lng>-76.93192</lng>
+<geonameId>5192408</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>841</population>
+<alternateNames/>
+<elevation>126</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PA">PA</adminCode1>
+<adminName1>Pennsylvania</adminName1>
+<adminCode2>043</adminCode2>
+<adminName2>Dauphin County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Halifax%2C_Pennsylvania</alternateName>
+<alternateName lang="post">17032</alternateName>
+<alternateName lang="unlc">YHX</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-76.9331</west>
+<north>40.46904</north>
+<east>-76.93074</east>
+<south>40.46724</south>
+</bbox>
+<score>48.69682312011719</score>
+</geoname>
+<geoname>
+<toponymName>Halifax</toponymName>
+<name>Halifax</name>
+<lat>-26.20819</lat>
+<lng>23.22607</lng>
+<geonameId>998203</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="NW">10</adminCode1>
+<adminName1>North-West</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<bbox>
+<west>23.21605</west>
+<north>-26.19919</north>
+<east>23.23609</east>
+<south>-26.21718</south>
+</bbox>
+<score>38.95745849609375</score>
+</geoname>
+<geoname>
+<toponymName>Halifax</toponymName>
+<name>Halifax</name>
+<lat>18.29152</lat>
+<lng>-77.02066</lng>
+<geonameId>3490163</geonameId>
+<countryCode>JM</countryCode>
+<countryName>Jamaica</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="05">13</adminCode1>
+<adminName1>Saint Mary</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Jamaica</timezone>
+<bbox>
+<west>-77.03013</west>
+<north>18.30052</north>
+<east>-77.01119</east>
+<south>18.28253</south>
+</bbox>
+<score>38.95745849609375</score>
+</geoname>
+</geonames>

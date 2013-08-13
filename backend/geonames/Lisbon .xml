@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>76</totalResultsCount>
+<geoname>
+<toponymName>Lisbon</toponymName>
+<name>Lisbon</name>
+<lat>38.71667</lat>
+<lng>-9.13333</lng>
+<geonameId>2267057</geonameId>
+<countryCode>PT</countryCode>
+<countryName>Portugal</countryName>
+<fcl>P</fcl>
+<fcode>PPLC</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>capital of a political entity</fcodeName>
+<population>517802</population>
+<alternateNames>Felicitas Julia,Felicitas Julia Olissipo,LIS,Liospoin,Liospóin,Lisabon,Lisabona,Lisboa,Lisbon,Lisbona,Lisbonne,Lisbono,Lisbonum,Lissabon,Lisszabon,Lizboa,Lizbon,Lizbona,Olisipo,Olissipo,li si ben,lisaboni,lisbana,lisbxn,liseubon,lshbwnt,lysabwn,lysbwn,risubon,Λισαβώνα,Лисабон,Лиссабон,Лісабон,Լիսբոնա,ליסבון,لشبونة,لىسابون,لیسبون,ܠܫܒܘܢܐ,लिस्बन,ลิสบอน,ლისაბონი,ሊዝቦን,リスボン,里斯本,리스본</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="11">14</adminCode1>
+<adminName1>Lisbon</adminName1>
+<adminCode2>1106</adminCode2>
+<adminName2>Lisbon</adminName2>
+<adminCode3>110653</adminCode3>
+<adminName3>Socorro</adminName3>
+<alternateName lang="af">Lissabon</alternateName>
+<alternateName lang="am">ሊዝቦን</alternateName>
+<alternateName lang="ar">لشبونة</alternateName>
+<alternateName lang="arc">ܠܫܒܘܢܐ</alternateName>
+<alternateName lang="ast">Lisboa</alternateName>
+<alternateName lang="be">Лісабон</alternateName>
+<alternateName lang="bg">Лисабон</alternateName>
+<alternateName lang="br">Lisbon</alternateName>
+<alternateName lang="bs">Lisabon</alternateName>
+<alternateName lang="ca">Lisboa</alternateName>
+<alternateName lang="co">Lisbona</alternateName>
+<alternateName lang="cs">Lisabon</alternateName>
+<alternateName lang="cy">Lisbon</alternateName>
+<alternateName lang="da">Lissabon</alternateName>
+<alternateName lang="de">Lissabon</alternateName>
+<alternateName lang="el">Λισαβώνα</alternateName>
+<alternateName lang="en">Lisbon</alternateName>
+<alternateName lang="eo">Lisbono</alternateName>
+<alternateName lang="es">Lisboa</alternateName>
+<alternateName lang="et">Lissabon</alternateName>
+<alternateName lang="eu">Lisboa</alternateName>
+<alternateName lang="fa">لیسبون</alternateName>
+<alternateName lang="fi">Lissabon</alternateName>
+<alternateName lang="fr">Lisbonne</alternateName>
+<alternateName lang="frp">Lisbona</alternateName>
+<alternateName lang="ga">Liospóin</alternateName>
+<alternateName lang="gd">Lisbon</alternateName>
+<alternateName lang="gl">Lisboa</alternateName>
+<alternateName lang="hbs">Lisabon</alternateName>
+<alternateName lang="he">ליסבון</alternateName>
+<alternateName lang="hi">लिस्बन</alternateName>
+<alternateName lang="hr">Lisabon</alternateName>
+<alternateName lang="hu">Lisszabon</alternateName>
+<alternateName lang="hy">Լիսբոնա</alternateName>
+<alternateName lang="iata">LIS</alternateName>
+<alternateName lang="id">Lisboa</alternateName>
+<alternateName lang="io">Lisboa</alternateName>
+<alternateName lang="is">Lissabon</alternateName>
+<alternateName lang="it">Lisbona</alternateName>
+<alternateName lang="ja">リスボン</alternateName>
+<alternateName lang="ka">ლისაბონი</alternateName>
+<alternateName lang="ko">리스본</alternateName>
+<alternateName lang="la">Felicitas Julia Olissipo</alternateName>
+<alternateName lang="lb">Lissabon</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lisbon</alternateName>
+<alternateName lang="lt">Lisabona</alternateName>
+<alternateName lang="lv">Lisabona</alternateName>
+<alternateName lang="mh">Lisbon</alternateName>
+<alternateName lang="mr">लिस्बन</alternateName>
+<alternateName lang="ms">Lisbon</alternateName>
+<alternateName lang="nds">Lissabon</alternateName>
+<alternateName lang="nl">Lissabon</alternateName>
+<alternateName lang="nn">Lisboa</alternateName>
+<alternateName lang="no">Lisboa</alternateName>
+<alternateName lang="oc">Lisbona</alternateName>
+<alternateName lang="pl">Lizbona</alternateName>
+<alternateName lang="pt">Lisboa</alternateName>
+<alternateName lang="qu">Lisboa</alternateName>
+<alternateName lang="ro">Lisabona</alternateName>
+<alternateName lang="ru">Лиссабон</alternateName>
+<alternateName lang="sa">लिस्बन</alternateName>
+<alternateName lang="sc">Lisbona</alternateName>
+<alternateName lang="scn">Lisbona</alternateName>
+<alternateName lang="sk">Lisabon</alternateName>
+<alternateName lang="sl">Lizbona</alternateName>
+<alternateName lang="sr">Лисабон</alternateName>
+<alternateName lang="sv">Lissabon</alternateName>
+<alternateName lang="tet">Lizboa</alternateName>
+<alternateName lang="tg">Лиссабон</alternateName>
+<alternateName lang="th">ลิสบอน</alternateName>
+<alternateName lang="tr">Lizbon</alternateName>
+<alternateName lang="ty">Lisboa</alternateName>
+<alternateName lang="ug">لىسابون</alternateName>
+<alternateName lang="unlc">LIS</alternateName>
+<alternateName lang="vi">Lisboa</alternateName>
+<alternateName lang="zh-CN">里斯本</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Lisbon</timezone>
+<bbox>
+<west>-9.25314</west>
+<north>38.81002</north>
+<east>-9.01353</east>
+<south>38.62331</south>
+</bbox>
+<score>222.96519470214844</score>
+</geoname>
+<geoname>
+<toponymName>Lisbon</toponymName>
+<name>Lisbon</name>
+<lat>38.72635</lat>
+<lng>-9.14843</lng>
+<geonameId>6458923</geonameId>
+<countryCode>PT</countryCode>
+<countryName>Portugal</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>564477</population>
+<alternateNames>Lisboa</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="11">14</adminCode1>
+<adminName1>Lisbon</adminName1>
+<adminCode2>1106</adminCode2>
+<adminName2>Lisbon</adminName2>
+<alternateName lang="es">Lisboa</alternateName>
+<alternateName lang="pt">Lisboa</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Lisbon</timezone>
+<bbox>
+<west>-9.22984</west>
+<north>38.79586</north>
+<east>-9.09057</east>
+<south>38.6914</south>
+</bbox>
+<score>75.2103500366211</score>
+</geoname>
+<geoname>
+<toponymName>Lisbon</toponymName>
+<name>Lisbon</name>
+<lat>41.60399</lat>
+<lng>-72.01174</lng>
+<geonameId>4837798</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>4234</population>
+<alternateNames/>
+<elevation>100</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CT">CT</adminCode1>
+<adminName1>Connecticut</adminName1>
+<adminCode2>011</adminCode2>
+<adminName2>New London County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lisbon%2C_Connecticut</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-72.02216</west>
+<north>41.61178</north>
+<east>-72.00132</east>
+<south>41.5962</south>
+</bbox>
+<score>63.198707580566406</score>
+</geoname>
+<geoname>
+<toponymName>Distrito de Lisboa</toponymName>
+<name>Lisbon</name>
+<lat>39</lat>
+<lng>-9.13333</lng>
+<geonameId>2267056</geonameId>
+<countryCode>PT</countryCode>
+<countryName>Portugal</countryName>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>first-order administrative division</fcodeName>
+<population/>
+<alternateNames>Distrito de Lisboa,Lisboa,Lisbon,Lisbona,Lisbonne,Lissabon,Uisbonne</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="11">14</adminCode1>
+<adminName1>Lisbon</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="de">Lissabon</alternateName>
+<alternateName lang="en">Lisbon</alternateName>
+<alternateName lang="es">Lisboa</alternateName>
+<alternateName lang="fr">Lisbonne</alternateName>
+<alternateName lang="it">Lisbona</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lisbon_District</alternateName>
+<alternateName lang="pt">Lisboa</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Lisbon</timezone>
+<bbox>
+<west>-9.50053</west>
+<north>39.31773</north>
+<east>-8.78186</east>
+<south>38.67315</south>
+</bbox>
+<score>52.355377197265625</score>
+</geoname>
+<geoname>
+<toponymName>Lisbon</toponymName>
+<name>Lisbon</name>
+<lat>33.27263</lat>
+<lng>-92.82738</lng>
+<geonameId>4119059</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>65</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">AR</adminCode1>
+<adminName1>Arkansas</adminName1>
+<adminCode2>139</adminCode2>
+<adminName2>Union County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lisbon%2C_Arkansas</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.83814</west>
+<north>33.28162</north>
+<east>-92.81663</east>
+<south>33.26363</south>
+</bbox>
+<score>47.39903259277344</score>
+</geoname>
+<geoname>
+<toponymName>Lisbon</toponymName>
+<name>Lisbon</name>
+<lat>28.87054</lat>
+<lng>-81.78952</lng>
+<geonameId>4162071</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>260</population>
+<alternateNames/>
+<elevation>21</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="FL">FL</adminCode1>
+<adminName1>Florida</adminName1>
+<adminCode2>069</adminCode2>
+<adminName2>Lake County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lisbon%2C_Florida</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-81.79055</west>
+<north>28.87144</north>
+<east>-81.7885</east>
+<south>28.86964</south>
+</bbox>
+<score>47.39903259277344</score>
+</geoname>
+<geoname>
+<toponymName>Lisbon</toponymName>
+<name>Lisbon</name>
+<lat>32.79598</lat>
+<lng>-92.86516</lng>
+<geonameId>4331040</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>185</population>
+<alternateNames/>
+<elevation>100</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>027</adminCode2>
+<adminName2>Claiborne Parish</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lisbon%2C_Louisiana</alternateName>
+<alternateName lang="post">71048</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.86623</west>
+<north>32.79688</north>
+<east>-92.86409</east>
+<south>32.79508</south>
+</bbox>
+<score>47.39903259277344</score>
+</geoname>
+<geoname>
+<toponymName>Lisbon</toponymName>
+<name>Lisbon</name>
+<lat>39.33622</lat>
+<lng>-77.07109</lng>
+<geonameId>4360737</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>179</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MD">MD</adminCode1>
+<adminName1>Maryland</adminName1>
+<adminCode2>027</adminCode2>
+<adminName2>Howard County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lisbon%2C_Maryland</alternateName>
+<alternateName lang="post">21765</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-77.08272</west>
+<north>39.34521</north>
+<east>-77.05946</east>
+<south>39.32722</south>
+</bbox>
+<score>47.39903259277344</score>
+</geoname>
+<geoname>
+<toponymName>Lisbon</toponymName>
+<name>Lisbon</name>
+<lat>41.92112</lat>
+<lng>-91.38545</lng>
+<geonameId>4864990</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2152</population>
+<alternateNames/>
+<elevation>263</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IA">IA</adminCode1>
+<adminName1>Iowa</adminName1>
+<adminCode2>113</adminCode2>
+<adminName2>Linn County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lisbon%2C_Iowa</alternateName>
+<alternateName lang="post">52253</alternateName>
+<alternateName lang="unlc">LZB</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-91.39149</west>
+<north>41.92562</north>
+<east>-91.3794</east>
+<south>41.91662</south>
+</bbox>
+<score>47.39903259277344</score>
+</geoname>
+<geoname>
+<toponymName>Lisbon</toponymName>
+<name>Lisbon</name>
+<lat>41.48142</lat>
+<lng>-88.48229</lng>
+<geonameId>4900070</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>285</population>
+<alternateNames/>
+<elevation>204</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>093</adminCode2>
+<adminName2>Kendall County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lisbon%2C_Illinois</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-88.48349</west>
+<north>41.48232</north>
+<east>-88.48109</east>
+<south>41.48052</south>
+</bbox>
+<score>47.39903259277344</score>
+</geoname>
+</geonames>

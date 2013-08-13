@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>14</totalResultsCount>
+<geoname>
+<toponymName>Old Mill</toponymName>
+<name>Old Mill</name>
+<lat>43.65091</lat>
+<lng>-79.49211</lng>
+<geonameId>6093301</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ON">08</adminCode1>
+<adminName1>Ontario</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Old_Mill_%28TTC%29</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Toronto</timezone>
+<bbox>
+<west>-79.50454</west>
+<north>43.65991</north>
+<east>-79.47967</east>
+<south>43.64192</south>
+</bbox>
+<score>50.56566619873047</score>
+</geoname>
+<geoname>
+<toponymName>Old Mill</toponymName>
+<name>Old Mill</name>
+<lat>39.12094</lat>
+<lng>-76.61635</lng>
+<geonameId>4364444</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>30</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MD">MD</adminCode1>
+<adminName1>Maryland</adminName1>
+<adminCode2>003</adminCode2>
+<adminName2>Anne Arundel County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-76.62795</west>
+<north>39.12994</north>
+<east>-76.60476</east>
+<south>39.11195</south>
+</bbox>
+<score>33.710445404052734</score>
+</geoname>
+<geoname>
+<toponymName>Old Mill</toponymName>
+<name>Old Mill</name>
+<lat>35.91264</lat>
+<lng>-80.34366</lng>
+<geonameId>4483311</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>216</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NC">NC</adminCode1>
+<adminName1>North Carolina</adminName1>
+<adminCode2>057</adminCode2>
+<adminName2>Davidson County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-80.35477</west>
+<north>35.92163</north>
+<east>-80.33256</east>
+<south>35.90364</south>
+</bbox>
+<score>33.710445404052734</score>
+</geoname>
+<geoname>
+<toponymName>Old Mill</toponymName>
+<name>Old Mill</name>
+<lat>37.39097</lat>
+<lng>-79.50392</lng>
+<geonameId>4777189</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>231</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>019</adminCode2>
+<adminName2>Bedford County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-79.51524</west>
+<north>37.39997</north>
+<east>-79.4926</east>
+<south>37.38198</south>
+</bbox>
+<score>33.710445404052734</score>
+</geoname>
+<geoname>
+<toponymName>Old Hill</toponymName>
+<name>Old Hill</name>
+<lat>52.48333</lat>
+<lng>-2.06667</lng>
+<geonameId>2641018</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Old Hill</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>00</adminCode2>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Old_Hill</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.08144</west>
+<north>52.49233</north>
+<east>-2.0519</east>
+<south>52.47434</south>
+</bbox>
+<score>23.223764419555664</score>
+</geoname>
+<geoname>
+<toponymName>Old Hill</toponymName>
+<name>Old Hill</name>
+<lat>39.30199</lat>
+<lng>-87.20752</lng>
+<geonameId>4262507</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>164</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IN">IN</adminCode1>
+<adminName1>Indiana</adminName1>
+<adminCode2>021</adminCode2>
+<adminName2>Clay County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Old_Hill%2C_Indiana</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Indiana/Indianapolis</timezone>
+<bbox>
+<west>-87.21914</west>
+<north>39.31098</north>
+<east>-87.19589</east>
+<south>39.29299</south>
+</bbox>
+<score>18.96212387084961</score>
+</geoname>
+<geoname>
+<toponymName>Old Milo</toponymName>
+<name>Old Milo</name>
+<lat>33.29484</lat>
+<lng>-91.89013</lng>
+<geonameId>4124759</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>52</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">AR</adminCode1>
+<adminName1>Arkansas</adminName1>
+<adminCode2>003</adminCode2>
+<adminName2>Ashley County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-91.90089</west>
+<north>33.30383</north>
+<east>-91.87937</east>
+<south>33.28585</south>
+</bbox>
+<score>14.540016174316406</score>
+</geoname>
+<geoname>
+<toponymName>Olde Mill</toponymName>
+<name>Olde Mill</name>
+<lat>38.46318</lat>
+<lng>-76.56662</lng>
+<geonameId>4364496</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>38</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MD">MD</adminCode1>
+<adminName1>Maryland</adminName1>
+<adminCode2>009</adminCode2>
+<adminName2>Calvert County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-76.57811</west>
+<north>38.47217</north>
+<east>-76.55514</east>
+<south>38.45419</south>
+</bbox>
+<score>13.823840141296387</score>
+</geoname>
+<geoname>
+<toponymName>Olde Mill</toponymName>
+<name>Olde Mill</name>
+<lat>35.16757</lat>
+<lng>-85.22662</lng>
+<geonameId>4647200</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>232</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TN">TN</adminCode1>
+<adminName1>Tennessee</adminName1>
+<adminCode2>065</adminCode2>
+<adminName2>Hamilton County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-85.23763</west>
+<north>35.17656</north>
+<east>-85.21562</east>
+<south>35.15858</south>
+</bbox>
+<score>13.823840141296387</score>
+</geoname>
+<geoname>
+<toponymName>Old Hill</toponymName>
+<name>Old Hill</name>
+<lat>58.28333</lat>
+<lng>-6.91667</lng>
+<geonameId>2641019</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>W8</adminCode2>
+<adminName2>Western Isles</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>12.641416549682617</score>
+</geoname>
+</geonames>

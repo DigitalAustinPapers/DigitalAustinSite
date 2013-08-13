@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Santa Fé</toponymName>
+<name>Sta. Fé</name>
+<lat>17.91273</lat>
+<lng>-92.90574</lng>
+<geonameId>6690611</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1000</population>
+<alternateNames>Sta. Fe,Sta. Fé</alternateNames>
+<elevation>20</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TAB">27</adminCode1>
+<adminName1>Tabasco</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Sta. Fé</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-92.90668</west>
+<north>17.91362</north>
+<east>-92.90479</east>
+<south>17.91183</south>
+</bbox>
+<score>34.48939895629883</score>
+</geoname>
+</geonames>

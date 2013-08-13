@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>59</totalResultsCount>
+<geoname>
+<toponymName>Besnard</toponymName>
+<name>Besnard</name>
+<lat>16.38355</lat>
+<lng>-61.43892</lng>
+<geonameId>3579692</geonameId>
+<countryCode>GP</countryCode>
+<countryName>Guadeloupe</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Benard,Besnard,Bénard</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Guadeloupe</timezone>
+<bbox>
+<west>-61.44829</west>
+<north>16.39254</north>
+<east>-61.42954</east>
+<south>16.37455</south>
+</bbox>
+<score>38.75748825073242</score>
+</geoname>
+<geoname>
+<toponymName>Benard</toponymName>
+<name>Benard</name>
+<lat>-31.65</lat>
+<lng>27.4</lng>
+<geonameId>1020159</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="EC">05</adminCode1>
+<adminName1>Eastern Cape</adminName1>
+<adminCode2>DC13</adminCode2>
+<adminName2>Chris Hani District Municipality</adminName2>
+<adminCode3>EC136</adminCode3>
+<adminName3>Emalahleni</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<bbox>
+<west>27.38944</west>
+<north>-31.64101</north>
+<east>27.41056</east>
+<south>-31.65899</south>
+</bbox>
+<score>36.317710876464844</score>
+</geoname>
+<geoname>
+<toponymName>Benard</toponymName>
+<name>Benard</name>
+<lat>52.33194</lat>
+<lng>-8.26194</lng>
+<geonameId>3300888</geonameId>
+<countryCode>IE</countryCode>
+<countryName>Ireland</countryName>
+<fcl>T</fcl>
+<fcode>MT</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>mountain</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="M">M</adminCode1>
+<adminName1>Munster</adminName1>
+<adminCode2>16</adminCode2>
+<adminName2>Limerick</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Dublin</timezone>
+<score>36.317710876464844</score>
+</geoname>
+<geoname>
+<toponymName>Bénard</toponymName>
+<name>Bénard</name>
+<lat>49.91581</lat>
+<lng>-97.84741</lng>
+<geonameId>5898242</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MB">03</adminCode1>
+<adminName1>Manitoba</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Winnipeg</timezone>
+<score>36.317710876464844</score>
+</geoname>
+<geoname>
+<toponymName>Benord</toponymName>
+<name>Benord</name>
+<lat>-11.78389</lat>
+<lng>34.96194</lng>
+<geonameId>1052347</geonameId>
+<countryCode>MZ</countryCode>
+<countryName>Mozambique</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Benard,Benord</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="A">07</adminCode1>
+<adminName1>Niassa</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Maputo</timezone>
+<bbox>
+<west>34.95276</west>
+<north>-11.7749</north>
+<east>34.97113</east>
+<south>-11.79288</south>
+</bbox>
+<score>34.38330078125</score>
+</geoname>
+<geoname>
+<toponymName>Pueblo Muñoz</toponymName>
+<name>Pueblo Muñoz</name>
+<lat>-33.16667</lat>
+<lng>-60.9</lng>
+<geonameId>3840215</geonameId>
+<countryCode>AR</countryCode>
+<countryName>Argentina</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Benard,Pueblo Munoz,Pueblo Muñoz</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="S">21</adminCode1>
+<adminName1>Santa Fe</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Argentina/Cordoba</timezone>
+<bbox>
+<west>-60.91074</west>
+<north>-33.15767</north>
+<east>-60.88926</east>
+<south>-33.17566</south>
+</bbox>
+<score>22.47043800354004</score>
+</geoname>
+<geoname>
+<toponymName>Bégard</toponymName>
+<name>Bégard</name>
+<lat>48.62754</lat>
+<lng>-3.30067</lng>
+<geonameId>3033884</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>4779</population>
+<alternateNames>Bear,Begard,Bégard,Prajou</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="E">A2</adminCode1>
+<adminName1>Brittany</adminName1>
+<adminCode2>22</adminCode2>
+<adminName2>Côtes-d'Armor</adminName2>
+<adminCode3>222</adminCode3>
+<adminName3>Arrondissement de Guingamp</adminName3>
+<adminCode4>22004</adminCode4>
+<adminName4>Bégard</adminName4>
+<alternateName lang="br">Bear</alternateName>
+<alternateName lang="fr">Bégard</alternateName>
+<alternateName lang="fr_1793">Prajou</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/B%C3%A9gard</alternateName>
+<alternateName lang="post">22140</alternateName>
+<alternateName lang="unlc">XBG</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>-3.31246</west>
+<north>48.63533</north>
+<east>-3.28889</east>
+<south>48.61976</south>
+</bbox>
+<score>10.681867599487305</score>
+</geoname>
+<geoname>
+<toponymName>Bégard</toponymName>
+<name>Bégard</name>
+<lat>48.62806</lat>
+<lng>-3.30083</lng>
+<geonameId>6452188</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population>4652</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="E">A2</adminCode1>
+<adminName1>Brittany</adminName1>
+<adminCode2>22</adminCode2>
+<adminName2>Côtes-d'Armor</adminName2>
+<adminCode3>222</adminCode3>
+<adminName3>Arrondissement de Guingamp</adminName3>
+<adminCode4>22004</adminCode4>
+<adminName4>Bégard</adminName4>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>-3.34021</west>
+<north>48.67196</north>
+<east>-3.24169</east>
+<south>48.60227</south>
+</bbox>
+<score>8.444757461547852</score>
+</geoname>
+<geoname>
+<toponymName>Bernard</toponymName>
+<name>Bernard</name>
+<lat>42.31223</lat>
+<lng>-90.8318</lng>
+<geonameId>4848294</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>112</population>
+<alternateNames/>
+<elevation>280</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IA">IA</adminCode1>
+<adminName1>Iowa</adminName1>
+<adminCode2>061</adminCode2>
+<adminName2>Dubuque County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bernard%2C_Iowa</alternateName>
+<alternateName lang="post">52032</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.83302</west>
+<north>42.31313</north>
+<east>-90.83058</east>
+<south>42.31133</south>
+</bbox>
+<score>7.367940902709961</score>
+</geoname>
+<geoname>
+<toponymName>Bérard</toponymName>
+<name>Bérard</name>
+<lat>19.21667</lat>
+<lng>-72.55</lng>
+<geonameId>3730204</geonameId>
+<countryCode>HT</countryCode>
+<countryName>Haiti</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Berard,Berrard,Bérard</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">06</adminCode1>
+<adminName1>Artibonite</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Port-au-Prince</timezone>
+<bbox>
+<west>-72.55952</west>
+<north>19.22566</north>
+<east>-72.54048</east>
+<south>19.20767</south>
+</bbox>
+<score>7.35742712020874</score>
+</geoname>
+</geonames>

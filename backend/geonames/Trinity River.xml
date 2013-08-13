@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Trinity River</toponymName>
+<name>Trinity River</name>
+<lat>29.74306</lat>
+<lng>-94.70333</lng>
+<geonameId>4737618</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>071</adminCode2>
+<adminName2>Chambers County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Trinity_River_%28Texas%29</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>44.83903884887695</score>
+</geoname>
+<geoname>
+<toponymName>Trinity River</toponymName>
+<name>Trinity River</name>
+<lat>41.18485</lat>
+<lng>-123.70867</lng>
+<geonameId>5572924</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>59</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>023</adminCode2>
+<adminName2>Humboldt County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>14.012199401855469</score>
+</geoname>
+</geonames>

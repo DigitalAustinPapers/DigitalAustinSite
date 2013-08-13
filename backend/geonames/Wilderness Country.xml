@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Wilderness Corner</toponymName>
+<name>Wilderness Corner</name>
+<lat>38.32124</lat>
+<lng>-77.70082</lng>
+<geonameId>4793696</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>118</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>177</adminCode2>
+<adminName2>Spotsylvania County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-77.71229</west>
+<north>38.33023</north>
+<east>-77.68936</east>
+<south>38.31225</south>
+</bbox>
+<score>45.98583984375</score>
+</geoname>
+</geonames>

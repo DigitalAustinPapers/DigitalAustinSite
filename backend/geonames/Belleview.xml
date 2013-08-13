@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>40</totalResultsCount>
+<geoname>
+<toponymName>Belleview</toponymName>
+<name>Belleview</name>
+<lat>29.05526</lat>
+<lng>-82.06231</lng>
+<geonameId>4147263</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>4492</population>
+<alternateNames/>
+<elevation>25</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="FL">FL</adminCode1>
+<adminName1>Florida</adminName1>
+<adminCode2>083</adminCode2>
+<adminName2>Marion County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Belleview%2C_Florida</alternateName>
+<alternateName lang="post">34421</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-82.07122</west>
+<north>29.06305</north>
+<east>-82.0534</east>
+<south>29.04747</south>
+</bbox>
+<score>44.82518768310547</score>
+</geoname>
+<geoname>
+<toponymName>Belleview</toponymName>
+<name>Belleview</name>
+<lat>39.35088</lat>
+<lng>-90.78124</lng>
+<geonameId>4233526</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>142</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>013</adminCode2>
+<adminName2>Calhoun County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Belleview%2C_Illinois</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.79287</west>
+<north>39.35987</north>
+<east>-90.76961</east>
+<south>39.34189</south>
+</bbox>
+<score>44.82518768310547</score>
+</geoname>
+<geoname>
+<toponymName>Belleview</toponymName>
+<name>Belleview</name>
+<lat>38.85589</lat>
+<lng>-85.37801</lng>
+<geonameId>4254357</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>271</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IN">IN</adminCode1>
+<adminName1>Indiana</adminName1>
+<adminCode2>077</adminCode2>
+<adminName2>Jefferson County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Belleview%2C_Indiana</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Indiana/Indianapolis</timezone>
+<bbox>
+<west>-85.38957</west>
+<north>38.86488</north>
+<east>-85.36646</east>
+<south>38.8469</south>
+</bbox>
+<score>44.82518768310547</score>
+</geoname>
+<geoname>
+<toponymName>Belleview</toponymName>
+<name>Belleview</name>
+<lat>38.98617</lat>
+<lng>-84.8255</lng>
+<geonameId>4283844</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>343</population>
+<alternateNames/>
+<elevation>155</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>015</adminCode2>
+<adminName2>Boone County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Belleview%2C_Kentucky</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-84.82666</west>
+<north>38.98707</north>
+<east>-84.82435</east>
+<south>38.98527</south>
+</bbox>
+<score>44.82518768310547</score>
+</geoname>
+<geoname>
+<toponymName>Belleview</toponymName>
+<name>Belleview</name>
+<lat>37.68755</lat>
+<lng>-90.7404</lng>
+<geonameId>4376451</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>319</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>093</adminCode2>
+<adminName2>Iron County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Belleview%2C_Missouri</alternateName>
+<alternateName lang="post">63623</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.75177</west>
+<north>37.69654</north>
+<east>-90.72904</east>
+<south>37.67856</south>
+</bbox>
+<score>44.82518768310547</score>
+</geoname>
+<geoname>
+<toponymName>Belleview</toponymName>
+<name>Belleview</name>
+<lat>37.48403</lat>
+<lng>-76.7344</lng>
+<geonameId>4746487</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>097</adminCode2>
+<adminName2>King and Queen County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Belleview%2C_Virginia</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-76.74574</west>
+<north>37.49303</north>
+<east>-76.72307</east>
+<south>37.47504</south>
+</bbox>
+<score>44.82518768310547</score>
+</geoname>
+<geoname>
+<toponymName>Belleview</toponymName>
+<name>Belleview</name>
+<lat>-12.9</lat>
+<lng>28.63333</lng>
+<geonameId>921407</geonameId>
+<countryCode>ZM</countryCode>
+<countryName>Zambia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Belleview,Belview</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="08">08</adminCode1>
+<adminName1>Copperbelt</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Lusaka</timezone>
+<bbox>
+<west>28.62411</west>
+<north>-12.89101</north>
+<east>28.64256</east>
+<south>-12.90899</south>
+</bbox>
+<score>36.599613189697266</score>
+</geoname>
+<geoname>
+<toponymName>Belleview</toponymName>
+<name>Belleview</name>
+<lat>32.77208</lat>
+<lng>-84.5577</lng>
+<geonameId>4181867</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>232</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">GA</adminCode1>
+<adminName1>Georgia</adminName1>
+<adminCode2>263</adminCode2>
+<adminName2>Talbot County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-84.5684</west>
+<north>32.78107</north>
+<east>-84.547</east>
+<south>32.76309</south>
+</bbox>
+<score>29.883459091186523</score>
+</geoname>
+<geoname>
+<toponymName>Belleview</toponymName>
+<name>Belleview</name>
+<lat>36.21061</lat>
+<lng>-87.81614</lng>
+<geonameId>4605347</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>209</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TN">TN</adminCode1>
+<adminName1>Tennessee</adminName1>
+<adminCode2>085</adminCode2>
+<adminName2>Humphreys County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-87.82728</west>
+<north>36.21961</north>
+<east>-87.80499</east>
+<south>36.20162</south>
+</bbox>
+<score>29.883459091186523</score>
+</geoname>
+<geoname>
+<toponymName>Belleview</toponymName>
+<name>Belleview</name>
+<lat>35.04536</lat>
+<lng>-86.59694</lng>
+<geonameId>4605348</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>273</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TN">TN</adminCode1>
+<adminName1>Tennessee</adminName1>
+<adminCode2>103</adminCode2>
+<adminName2>Lincoln County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-86.60793</west>
+<north>35.05436</north>
+<east>-86.58595</east>
+<south>35.03637</south>
+</bbox>
+<score>29.883459091186523</score>
+</geoname>
+</geonames>

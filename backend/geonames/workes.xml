@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Ostrov</toponymName>
+<name>Ostrov</name>
+<lat>48.67425</lat>
+<lng>14.28922</lng>
+<geonameId>3068782</geonameId>
+<countryCode>CZ</countryCode>
+<countryName>Czechia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Ostrov,Worles,Wörles</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="JC">79</adminCode1>
+<adminName1>Jihočeský</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Prague</timezone>
+<bbox>
+<west>14.2756</west>
+<north>48.68324</north>
+<east>14.30284</east>
+<south>48.66525</south>
+</bbox>
+<score>34.48939895629883</score>
+</geoname>
+</geonames>

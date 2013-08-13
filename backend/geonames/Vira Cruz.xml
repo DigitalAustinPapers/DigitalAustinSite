@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Vila Cruz</toponymName>
+<name>Vila Cruz</name>
+<lat>-29.47389</lat>
+<lng>-53.40556</lng>
+<geonameId>6318902</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPLL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="RS">23</adminCode1>
+<adminName1>Rio Grande do Sul</adminName1>
+<adminCode2>4313102</adminCode2>
+<adminName2>Nova Palma</adminName2>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Sao_Paulo</timezone>
+<bbox>
+<west>-53.40659</west>
+<north>-29.47299</north>
+<east>-53.40452</east>
+<south>-29.47479</south>
+</bbox>
+<score>28.741167068481445</score>
+</geoname>
+</geonames>

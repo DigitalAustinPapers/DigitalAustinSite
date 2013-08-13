@@ -281,21 +281,21 @@ function geographicContent() {
 function cloudContent() {
     if (cloudData != null) {
         document.getElementById('content').innerHTML =
-            '<h2>Words</h2>'
-          + '<div id="wordCloud" style="width: 550px; height: 350px;'
-          + '    border: 1px solid #ccc;">'
-          + '</div>'
-          + '<h2>People</h2>'
+            '<h2>People</h2>'
           + '<div id="personCloud" style="width: 550px; height: 350px;'
           + '    border: 1px solid #ccc;">'
           + '</div>'
           + '<h2>Places</h2>'
           + '<div id="placeCloud" style="width: 550px; height: 350px;'
           + '    border: 1px solid #ccc;">'
+          + '</div>'
+          + '<h2>Words</h2>'
+          + '<div id="wordCloud" style="width: 550px; height: 350px;'
+          + '    border: 1px solid #ccc;">'
           + '</div>';
         $("#wordCloud").jQCloud(cloudData[0]);
-        $("#personCloud").jQCloud(cloudData[1]);
-        $("#placeCloud").jQCloud(cloudData[2]);
+        $("#personCloud").jQCloud(cloudData[2]);
+        $("#placeCloud").jQCloud(cloudData[1]);
     }
 }
 
@@ -399,6 +399,18 @@ function requestData() {
     getParams += encodeURIComponent(document.getElementById('query').value);
     getParams += '&location=';
     getParams += encodeURIComponent(document.getElementById('location').value);
+    getParams += '&fromYear=';
+    getParams += encodeURIComponent(document.getElementById('fromYear').value);
+    getParams += '&toYear=';
+    getParams += encodeURIComponent(document.getElementById('toYear').value);
+    getParams += '&fromPersonId=';
+    getParams += encodeURIComponent(document.getElementById('fromPersonId').value);
+    getParams += '&toPersonId=';
+    getParams += encodeURIComponent(document.getElementById('toPersonId').value);
+    getParams += '&fromPlaceId=';
+    getParams += encodeURIComponent(document.getElementById('fromPlaceId').value);
+    getParams += '&toPlaceId=';
+    getParams += encodeURIComponent(document.getElementById('toPlaceId').value);
     getParams += '&sort=';
     getParams += encodeURIComponent(sortKey);
 
@@ -494,6 +506,54 @@ function tabChanged(newView) {
         }
     }
     ?>
+    </select>
+
+    <? if (array_key_exists('fromYear', $_GET)) {
+    	$fromYear = $_GET['fromYear'];
+    } else {
+        $fromYear = '';
+    } ?>
+    <input type='hidden' name='fromYear' id='fromYear' value='<? print htmlentities($fromYear)?>' />
+
+    <? if (array_key_exists('toYear', $_GET)) {
+    	$toYear = $_GET['toYear'];
+    } else {
+        $toYear = '';
+    } ?>
+    <input type='hidden' name='toYear' id='toYear' value='<? print htmlentities($toYear)?>' />
+
+    
+    <? if (array_key_exists('fromPersonId', $_GET)) {
+    	$fromPersonId = $_GET['fromPersonId'];
+    } else {
+        $fromPersonId = '';
+    } ?>
+    <input type='hidden' name='fromPersonId' id='fromPersonId' value='<? print htmlentities($fromPersonId)?>' />
+
+    <? if (array_key_exists('toPersonId', $_GET)) {
+    	$toPersonId = $_GET['toPersonId'];
+    } else {
+        $toPersonId = '';
+    } ?>
+    <input type='hidden' name='toPersonId' id='toPersonId' value='<? print htmlentities($toPersonId)?>' />
+
+
+    
+    <? if (array_key_exists('fromPlaceId', $_GET)) {
+    	$fromPlaceId = $_GET['fromPlaceId'];
+    } else {
+        $fromPlaceId = '';
+    } ?>
+    <input type='hidden' name='fromPlaceId' id='fromPlaceId' value='<? print htmlentities($fromPlaceId)?>' />
+
+    <? if (array_key_exists('toPlaceId', $_GET)) {
+    	$toPlaceId = $_GET['toPlaceId'];
+    } else {
+        $toPlaceId = '';
+    } ?>
+    <input type='hidden' name='toPlaceId' id='toPlaceId' value='<? print htmlentities($toPlaceId)?>' />
+
+    
     <input type='submit' value='Search' />
     </form>
     <br />

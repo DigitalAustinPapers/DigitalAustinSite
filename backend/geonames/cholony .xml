@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>9</totalResultsCount>
+<geoname>
+<toponymName>H̱olon</toponymName>
+<name>Holon</name>
+<lat>32.01034</lat>
+<lng>34.77918</lng>
+<geonameId>294751</geonameId>
+<countryCode>IL</countryCode>
+<countryName>Israel</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>165787</population>
+<alternateNames>Cholon,Holon,H̱olon,Jolon,Jolón,Kholon,hwlwn,Холон,חולון,حولون</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="TA">05</adminCode1>
+<adminName1>Tel Aviv</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ar">حولون</alternateName>
+<alternateName lang="bg">Холон</alternateName>
+<alternateName lang="ca">Holon</alternateName>
+<alternateName lang="da">Holon</alternateName>
+<alternateName lang="de">Cholon</alternateName>
+<alternateName lang="en">Holon</alternateName>
+<alternateName lang="es">Jolón</alternateName>
+<alternateName lang="fr">Holon</alternateName>
+<alternateName lang="he">חולון</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Holon</alternateName>
+<alternateName lang="nl">Holon</alternateName>
+<alternateName lang="pl">Cholon</alternateName>
+<alternateName lang="ru">Холон</alternateName>
+<alternateName lang="sv">Holon</alternateName>
+<timezone dstOffset="3.0" gmtOffset="2.0">Asia/Jerusalem</timezone>
+<bbox>
+<west>34.71685</west>
+<north>32.06317</north>
+<east>34.84151</east>
+<south>31.95752</south>
+</bbox>
+<score>27.735841751098633</score>
+</geoname>
+<geoname>
+<toponymName>Cholon</toponymName>
+<name>Cholon</name>
+<lat>-8.73975</lat>
+<lng>-76.59974</lng>
+<geonameId>8350372</geonameId>
+<countryCode>PE</countryCode>
+<countryName>Peru</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="HUC">10</adminCode1>
+<adminName1>Huanuco</adminName1>
+<adminCode2>1007</adminCode2>
+<adminName2>Provincia de Marañón</adminName2>
+<adminCode3>100702</adminCode3>
+<adminName3>Cholon</adminName3>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Lima</timezone>
+<bbox>
+<west>-77.08225</west>
+<north>-8.41092</north>
+<east>-76.18985</east>
+<south>-9.0545</south>
+</bbox>
+<score>24.268861770629883</score>
+</geoname>
+<geoname>
+<toponymName>Choloy</toponymName>
+<name>Choloy</name>
+<lat>42.10861</lat>
+<lng>75.57647</lng>
+<geonameId>8328333</geonameId>
+<countryCode>KG</countryCode>
+<countryName>Kyrgyzstan</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Choloj,Choloy,Чолой</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="N">04</adminCode1>
+<adminName1>Naryn</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ru">Чолой</alternateName>
+<timezone dstOffset="6.0" gmtOffset="6.0">Asia/Bishkek</timezone>
+<bbox>
+<west>75.56434</west>
+<north>42.1176</north>
+<east>75.58859</east>
+<south>42.09962</south>
+</bbox>
+<score>15.867704391479492</score>
+</geoname>
+<geoname>
+<toponymName>Cholon</toponymName>
+<name>Cholon</name>
+<lat>38.23644</lat>
+<lng>69.78001</lng>
+<geonameId>1346080</geonameId>
+<countryCode>TJ</countryCode>
+<countryName>Tajikistan</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="KT">02</adminCode1>
+<adminName1>Khatlon</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="5.0" gmtOffset="5.0">Asia/Dushanbe</timezone>
+<bbox>
+<west>69.76855</west>
+<north>38.24543</north>
+<east>69.79146</east>
+<south>38.22745</south>
+</bbox>
+<score>13.867920875549316</score>
+</geoname>
+<geoname>
+<toponymName>Cholny</toponymName>
+<name>Cholny</name>
+<lat>53.88079</lat>
+<lng>117.58821</lng>
+<geonameId>7842834</geonameId>
+<countryCode>RU</countryCode>
+<countryName>Russia</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>Cholny,Чолны</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ZAB">93</adminCode1>
+<adminName1>Zabaykal’skiy Kray</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ru">Чолны</alternateName>
+<timezone dstOffset="10.0" gmtOffset="10.0">Asia/Yakutsk</timezone>
+<score>10.773199081420898</score>
+</geoname>
+<geoname>
+<toponymName>Choloa Hill</toponymName>
+<name>Choloa Hill</name>
+<lat>9.26667</lat>
+<lng>-12.05</lng>
+<geonameId>2409738</geonameId>
+<countryCode>SL</countryCode>
+<countryName>Sierra Leone</countryName>
+<fcl>T</fcl>
+<fcode>HLL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>hill</fcodeName>
+<population/>
+<alternateNames>Choloa Hill,Cholon,Kolon</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="N">02</adminCode1>
+<adminName1>Northern Province</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="0.0" gmtOffset="0.0">Africa/Freetown</timezone>
+<score>9.806100845336914</score>
+</geoname>
+<geoname>
+<toponymName>Cholona</toponymName>
+<name>Cholona</name>
+<lat>40.8249</lat>
+<lng>-118.98128</lng>
+<geonameId>5702526</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>1220</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NV">NV</adminCode1>
+<adminName1>Nevada</adminName1>
+<adminCode2>027</adminCode2>
+<adminName2>Pershing County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>8.34315299987793</score>
+</geoname>
+<geoname>
+<toponymName>Čolēni</toponymName>
+<name>Čolēni</name>
+<lat>57.01667</lat>
+<lng>25.88333</lng>
+<geonameId>453759</geonameId>
+<countryCode>LV</countryCode>
+<countryName>Latvia</countryName>
+<fcl>S</fcl>
+<fcode>FRM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farm</fcodeName>
+<population/>
+<alternateNames>Choleny,Coleni,Čolēni</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="104">E3</adminCode1>
+<adminName1>Vecpiebalgas Novads</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="3.0" gmtOffset="2.0">Europe/Riga</timezone>
+<score>8.259300231933594</score>
+</geoname>
+<geoname>
+<toponymName>Choloy</toponymName>
+<name>Choloy</name>
+<lat>42.08494</lat>
+<lng>75.56606</lng>
+<geonameId>8328362</geonameId>
+<countryCode>KG</countryCode>
+<countryName>Kyrgyzstan</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>Choloj,Choloy,Чолой</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="N">04</adminCode1>
+<adminName1>Naryn</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ru">Чолой</alternateName>
+<timezone dstOffset="6.0" gmtOffset="6.0">Asia/Bishkek</timezone>
+<score>7.933852195739746</score>
+</geoname>
+</geonames>

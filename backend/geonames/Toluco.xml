@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>19</totalResultsCount>
+<geoname>
+<toponymName>Toluca de Lerdo</toponymName>
+<name>Toluca</name>
+<lat>19.28786</lat>
+<lng>-99.65324</lng>
+<geonameId>3515302</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population>505881</population>
+<alternateNames>TLC,Tollohcan,Tolouka,Toluca,Toluca Lerdoensis,Toluca de Lerdo,Toluka,Toluka-de-Lerdo,Tōllohcān,to luk a,tolluka,toluka,toruka,tuo lu ka,twlwka,Τολούκα,Толука,Толука-де-Лердо,تولوکا,तोलुका,โตลูกา,ტოლუკა,トルーカ,托卢卡,톨루카</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MEX">15</adminCode1>
+<adminName1>México</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="bg">Толука</alternateName>
+<alternateName lang="ca">Toluca</alternateName>
+<alternateName lang="de">Toluca</alternateName>
+<alternateName lang="el">Τολούκα</alternateName>
+<alternateName lang="en">Toluca</alternateName>
+<alternateName lang="es">Toluca de Lerdo</alternateName>
+<alternateName lang="fa">تولوکا</alternateName>
+<alternateName lang="fr">Toluca</alternateName>
+<alternateName lang="iata">TLC</alternateName>
+<alternateName lang="id">Toluca</alternateName>
+<alternateName lang="ja">トルーカ</alternateName>
+<alternateName lang="ka">ტოლუკა</alternateName>
+<alternateName lang="ko">톨루카</alternateName>
+<alternateName lang="la">Toluca Lerdoensis</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Toluca</alternateName>
+<alternateName lang="lt">Toluka</alternateName>
+<alternateName lang="mr">तोलुका</alternateName>
+<alternateName lang="nah">Tōllohcān</alternateName>
+<alternateName lang="nl">Toluca de Lerdo</alternateName>
+<alternateName lang="no">Toluca</alternateName>
+<alternateName lang="pl">Toluca</alternateName>
+<alternateName lang="pt">Toluca</alternateName>
+<alternateName lang="ru">Толука-де-Лердо</alternateName>
+<alternateName lang="sv">Toluca</alternateName>
+<alternateName lang="th">โตลูกา</alternateName>
+<alternateName lang="unlc">TLC</alternateName>
+<alternateName lang="zh">托卢卡</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-99.75105</west>
+<north>19.38013</north>
+<east>-99.55543</east>
+<south>19.19559</south>
+</bbox>
+<score>45.415802001953125</score>
+</geoname>
+<geoname>
+<toponymName>Toluca</toponymName>
+<name>Toluca</name>
+<lat>21.84814</lat>
+<lng>-105.47446</lng>
+<geonameId>3981400</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>H</fcl>
+<fcode>LK</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>lake</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NAY">18</adminCode1>
+<adminName1>Nayarit</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Mazatlan</timezone>
+<score>28.434789657592773</score>
+</geoname>
+<geoname>
+<toponymName>Toluyo</toponymName>
+<name>Toluyo</name>
+<lat>-17.18333</lat>
+<lng>-69.53333</lng>
+<geonameId>3902699</geonameId>
+<countryCode>BO</countryCode>
+<countryName>Bolivia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Estancia Toluyo,Toluyo</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="L">04</adminCode1>
+<adminName1>La Paz</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/La_Paz</timezone>
+<bbox>
+<west>-69.54275</west>
+<north>-17.17434</north>
+<east>-69.52392</east>
+<south>-17.19233</south>
+</bbox>
+<score>25.928630828857422</score>
+</geoname>
+<geoname>
+<toponymName>Tonuco</toponymName>
+<name>Tonuco</name>
+<lat>29.15503</lat>
+<lng>-111.4167</lng>
+<geonameId>3981357</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Rancho El Tonuco,Tonuco</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SON">26</adminCode1>
+<adminName1>Sonora</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-7.0" gmtOffset="-7.0">America/Hermosillo</timezone>
+<bbox>
+<west>-111.427</west>
+<north>29.16403</north>
+<east>-111.4064</east>
+<south>29.14604</south>
+</bbox>
+<score>24.65150260925293</score>
+</geoname>
+<geoname>
+<toponymName>Toluca</toponymName>
+<name>Toluca</name>
+<lat>35.5293</lat>
+<lng>-81.51092</lng>
+<geonameId>4495208</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>332</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NC">NC</adminCode1>
+<adminName1>North Carolina</adminName1>
+<adminCode2>045</adminCode2>
+<adminName2>Cleveland County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Toluca%2C_North_Carolina</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-81.52198</west>
+<north>35.53829</north>
+<east>-81.49987</east>
+<south>35.52031</south>
+</bbox>
+<score>24.372676849365234</score>
+</geoname>
+<geoname>
+<toponymName>Toluca</toponymName>
+<name>Toluca</name>
+<lat>41.00226</lat>
+<lng>-89.13342</lng>
+<geonameId>4913760</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1414</population>
+<alternateNames/>
+<elevation>212</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>123</adminCode2>
+<adminName2>Marshall County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Toluca%2C_Illinois</alternateName>
+<alternateName lang="post">61369</alternateName>
+<alternateName lang="unlc">TLU</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-89.13937</west>
+<north>41.00675</north>
+<east>-89.12746</east>
+<south>40.99776</south>
+</bbox>
+<score>24.372676849365234</score>
+</geoname>
+<geoname>
+<toponymName>Tolico</toponymName>
+<name>Tolico</name>
+<lat>20.76686</lat>
+<lng>-98.12979</lng>
+<geonameId>3515318</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VER">30</adminCode1>
+<adminName1>Veracruz-Llave</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-98.13941</west>
+<north>20.77586</north>
+<east>-98.12017</east>
+<south>20.75787</south>
+</bbox>
+<score>21.170639038085938</score>
+</geoname>
+<geoname>
+<toponymName>Tocuco</toponymName>
+<name>Tocuco</name>
+<lat>-17.83969</lat>
+<lng>-70.11352</lng>
+<geonameId>3927291</geonameId>
+<countryCode>PE</countryCode>
+<countryName>Peru</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="TAC">23</adminCode1>
+<adminName1>Tacna Region</adminName1>
+<adminCode2>2301</adminCode2>
+<adminName2>Provincia de Tacna</adminName2>
+<adminCode3>230106</adminCode3>
+<adminName3>Pachia</adminName3>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Lima</timezone>
+<bbox>
+<west>-70.12296</west>
+<north>-17.8307</north>
+<east>-70.10407</east>
+<south>-17.84868</south>
+</bbox>
+<score>21.170639038085938</score>
+</geoname>
+<geoname>
+<toponymName>Tonuco</toponymName>
+<name>Tonuco</name>
+<lat>32.59092</lat>
+<lng>-106.99668</lng>
+<geonameId>5494821</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1218</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NM">NM</adminCode1>
+<adminName1>New Mexico</adminName1>
+<adminCode2>013</adminCode2>
+<adminName2>Doña Ana County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<bbox>
+<west>-107.00736</west>
+<north>32.59991</north>
+<east>-106.98601</east>
+<south>32.58192</south>
+</bbox>
+<score>20.127866744995117</score>
+</geoname>
+<geoname>
+<toponymName>Toluca</toponymName>
+<name>Toluca</name>
+<lat>32.4305</lat>
+<lng>-115.08316</lng>
+<geonameId>4011419</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Ejido Toluca,Toluca</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="BCN">02</adminCode1>
+<adminName1>Baja California</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Tijuana</timezone>
+<bbox>
+<west>-115.09381</west>
+<north>32.43949</north>
+<east>-115.0725</east>
+<south>32.42151</south>
+</bbox>
+<score>19.90020751953125</score>
+</geoname>
+</geonames>

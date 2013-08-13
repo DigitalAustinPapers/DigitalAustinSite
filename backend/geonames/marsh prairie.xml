@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Mare Prairie</toponymName>
+<name>Mare Prairie</name>
+<lat>28.41436</lat>
+<lng>-81.30211</lng>
+<geonameId>4163420</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>LK</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>lake</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>24</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="FL">FL</adminCode1>
+<adminName1>Florida</adminName1>
+<adminCode2>095</adminCode2>
+<adminName2>Orange County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>40.66083908081055</score>
+</geoname>
+<geoname>
+<toponymName>Marks Prairie</toponymName>
+<name>Marks Prairie</name>
+<lat>45.21179</lat>
+<lng>-122.71454</lng>
+<geonameId>5739101</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>PLN</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>plain(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>54</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OR">OR</adminCode1>
+<adminName1>Oregon</adminName1>
+<adminCode2>005</adminCode2>
+<adminName2>Clackamas County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>32.171241760253906</score>
+</geoname>
+<geoname>
+<toponymName>Mays Prairie</toponymName>
+<name>Mays Prairie</name>
+<lat>38.83337</lat>
+<lng>-91.99185</lng>
+<geonameId>4397541</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>263</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>027</adminCode2>
+<adminName2>Callaway County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>23.234766006469727</score>
+</geoname>
+</geonames>

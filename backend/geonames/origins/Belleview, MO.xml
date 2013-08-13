@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>20</totalResultsCount>
+<geoname>
+<toponymName>Belleview</toponymName>
+<name>Belleview</name>
+<lat>37.68755</lat>
+<lng>-90.7404</lng>
+<geonameId>4376451</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>319</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>093</adminCode2>
+<adminName2>Iron County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Belleview%2C_Missouri</alternateName>
+<alternateName lang="post">63623</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.75177</west>
+<north>37.69654</north>
+<east>-90.72904</east>
+<south>37.67856</south>
+</bbox>
+<score>13.582959175109863</score>
+</geoname>
+<geoname>
+<toponymName>Township of Bellevue</toponymName>
+<name>Belleview Township</name>
+<lat>37.76583</lat>
+<lng>-90.74803</lng>
+<geonameId>4376459</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>administrative division</fcodeName>
+<population/>
+<alternateNames>Belleview Township</alternateNames>
+<elevation>265</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>221</adminCode2>
+<adminName2>Washington County</adminName2>
+<alternateName lang="en">Belleview Township</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>6.266212463378906</score>
+</geoname>
+<geoname>
+<toponymName>Belleview Cemetery</toponymName>
+<name>Belleview Cemetery</name>
+<lat>38.15947</lat>
+<lng>-93.22603</lng>
+<geonameId>4376452</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>CMTY</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>cemetery</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>289</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>015</adminCode2>
+<adminName2>Benton County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>2.3770179748535156</score>
+</geoname>
+<geoname>
+<toponymName>Belleview Creek</toponymName>
+<name>Belleview Creek</name>
+<lat>37.70477</lat>
+<lng>-90.72263</lng>
+<geonameId>4376454</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>287</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>093</adminCode2>
+<adminName2>Iron County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>2.3770179748535156</score>
+</geoname>
+<geoname>
+<toponymName>Belleview School</toponymName>
+<name>Belleview School</name>
+<lat>37.71005</lat>
+<lng>-90.74874</lng>
+<geonameId>4376456</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>SCH</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>school</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>307</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>093</adminCode2>
+<adminName2>Iron County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>2.3770179748535156</score>
+</geoname>
+<geoname>
+<toponymName>Belleview Collegiate Institution</toponymName>
+<name>Belleview Collegiate Institution</name>
+<lat>37.7631</lat>
+<lng>-90.77013</lng>
+<geonameId>4376453</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>SCH</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>school</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>279</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>221</adminCode2>
+<adminName2>Washington County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>2.0374441146850586</score>
+</geoname>
+<geoname>
+<toponymName>Belleview Presbyterian Church (historical)</toponymName>
+<name>Belleview Presbyterian Church (historical)</name>
+<lat>37.76977</lat>
+<lng>-90.76096</lng>
+<geonameId>4376455</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>CH</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>church</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>279</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>221</adminCode2>
+<adminName2>Washington County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>2.0374441146850586</score>
+</geoname>
+<geoname>
+<toponymName>Belleview School (historical)</toponymName>
+<name>Belleview School (historical)</name>
+<lat>36.947</lat>
+<lng>-93.89937</lng>
+<geonameId>4376457</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>SCH</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>school</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>444</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>109</adminCode2>
+<adminName2>Lawrence County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>2.0374441146850586</score>
+</geoname>
+<geoname>
+<toponymName>Belleview Valley Nursing Home</toponymName>
+<name>Belleview Valley Nursing Home</name>
+<lat>37.70144</lat>
+<lng>-90.82235</lng>
+<geonameId>4376458</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>HSP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>hospital</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>305</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>093</adminCode2>
+<adminName2>Iron County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>2.0374441146850586</score>
+</geoname>
+<geoname>
+<toponymName>Belleview Lake</toponymName>
+<name>Belleview Lake</name>
+<lat>40.09171</lat>
+<lng>-91.90017</lng>
+<geonameId>5054045</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>RSV</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>reservoir(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>201</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>111</adminCode2>
+<adminName2>Lewis County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>2.0374441146850586</score>
+</geoname>
+</geonames>

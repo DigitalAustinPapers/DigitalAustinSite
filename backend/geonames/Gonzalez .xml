@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>70</totalResultsCount>
+<geoname>
+<toponymName>González</toponymName>
+<name>González</name>
+<lat>8.4</lat>
+<lng>-73.33333</lng>
+<geonameId>3681991</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames>Gonzalez,González</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="CES">10</adminCode1>
+<adminName1>Cesar</adminName1>
+<adminCode2>3681991</adminCode2>
+<adminName2>González</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Gonz%C3%A1lez%2C_Cesar</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<score>85.13955688476562</score>
+</geoname>
+<geoname>
+<toponymName>González</toponymName>
+<name>González</name>
+<lat>8.38944</lat>
+<lng>-73.37989</lng>
+<geonameId>3681990</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>5634</population>
+<alternateNames>Gonzales,Gonzalez,Gonzáles,González</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="CES">10</adminCode1>
+<adminName1>Cesar</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<bbox>
+<west>-73.38898</west>
+<north>8.39844</north>
+<east>-73.3708</east>
+<south>8.38045</south>
+</bbox>
+<score>62.6810417175293</score>
+</geoname>
+<geoname>
+<toponymName>Gonzalez</toponymName>
+<name>Gonzalez</name>
+<lat>30.58158</lat>
+<lng>-87.29136</lng>
+<geonameId>4156975</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>13273</population>
+<alternateNames/>
+<elevation>46</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="FL">FL</adminCode1>
+<adminName1>Florida</adminName1>
+<adminCode2>033</adminCode2>
+<adminName2>Escambia County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Gonzalez%2C_Florida</alternateName>
+<alternateName lang="post">32560</alternateName>
+<alternateName lang="unlc">GZL</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-87.30869</west>
+<north>30.5965</north>
+<east>-87.27404</east>
+<south>30.56667</south>
+</bbox>
+<score>60.2027587890625</score>
+</geoname>
+<geoname>
+<toponymName>González</toponymName>
+<name>González</name>
+<lat>20.23333</lat>
+<lng>-76.25</lng>
+<geonameId>3558232</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames>Gonzales,Gonzalez,González</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="13">15</adminCode1>
+<adminName1>Santiago de Cuba</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>51.25031280517578</score>
+</geoname>
+<geoname>
+<toponymName>González</toponymName>
+<name>González</name>
+<lat>-11.53333</lat>
+<lng>-67.63333</lng>
+<geonameId>3915567</geonameId>
+<countryCode>BO</countryCode>
+<countryName>Bolivia</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames>Gonzales,Gonzalez,González</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="N">06</adminCode1>
+<adminName1>Pando</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/La_Paz</timezone>
+<score>51.25031280517578</score>
+</geoname>
+<geoname>
+<toponymName>González</toponymName>
+<name>González</name>
+<lat>22.80362</lat>
+<lng>-98.69851</lng>
+<geonameId>3527427</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Gonzalez,González,Magiscatzin,Majizcatzin</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TAM">28</adminCode1>
+<adminName1>Tamaulipas</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<bbox>
+<west>-98.70827</west>
+<north>22.81261</north>
+<east>-98.68876</east>
+<south>22.79462</south>
+</bbox>
+<score>48.65117645263672</score>
+</geoname>
+<geoname>
+<toponymName>González</toponymName>
+<name>González</name>
+<lat>22.91667</lat>
+<lng>-81.98333</lng>
+<geonameId>3558224</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames>Gonzales,Gonzalez,Gonzáles,González</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1>MA</adminCode1>
+<adminName1>Provincia Mayabeque</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>47.010780334472656</score>
+</geoname>
+<geoname>
+<toponymName>González</toponymName>
+<name>González</name>
+<lat>22.83333</lat>
+<lng>-98.41667</lng>
+<geonameId>3527424</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>S</fcl>
+<fcode>RSTN</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>railroad station</fcodeName>
+<population/>
+<alternateNames>Gonzalez,González</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TAM">28</adminCode1>
+<adminName1>Tamaulipas</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Gonz%C3%A1lez_Municipality%2C_Tamaulipas</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<score>42.56977844238281</score>
+</geoname>
+<geoname>
+<toponymName>González</toponymName>
+<name>González</name>
+<lat>22.86667</lat>
+<lng>-80.61667</lng>
+<geonameId>3558225</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames>Gonzalez,González,Sucesores de Gonzalez</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="05">16</adminCode1>
+<adminName1>Villa Clara</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>42.56977844238281</score>
+</geoname>
+<geoname>
+<toponymName>González</toponymName>
+<name>González</name>
+<lat>20.98333</lat>
+<lng>-77.35</lng>
+<geonameId>3558229</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames>Dionisio Gonzalez,Gonzalez,González</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="09">05</adminCode1>
+<adminName1>Camagüey</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>42.56977844238281</score>
+</geoname>
+</geonames>

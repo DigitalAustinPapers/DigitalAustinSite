@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>373</totalResultsCount>
+<geoname>
+<toponymName>Jackson Parish</toponymName>
+<name>Jackson Parish</name>
+<lat>32.30203</lat>
+<lng>-92.55774</lng>
+<geonameId>4328854</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>16274</population>
+<alternateNames>Paroisse de Jackson</alternateNames>
+<elevation>77</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>049</adminCode2>
+<adminName2>Jackson Parish</adminName2>
+<alternateName lang="fr">Paroisse de Jackson</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Jackson_Parish%2C_Louisiana</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.82066</west>
+<north>32.497</north>
+<east>-92.31136</east>
+<south>32.14831</south>
+</bbox>
+<score>12.735469818115234</score>
+</geoname>
+<geoname>
+<toponymName>Jonesboro Airport</toponymName>
+<name>Jonesboro Airport</name>
+<lat>32.20199</lat>
+<lng>-92.73293</lng>
+<geonameId>4329309</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>AIRP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>airport</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>76</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>049</adminCode2>
+<adminName2>Jackson Parish</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Jonesboro_Airport</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>10.49498176574707</score>
+</geoname>
+<geoname>
+<toponymName>Fort Jackson</toponymName>
+<name>Fort Jackson</name>
+<lat>29.35772</lat>
+<lng>-89.45506</lng>
+<geonameId>4324995</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>-1</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>075</adminCode2>
+<adminName2>Plaquemines Parish</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Fort_Jackson%2C_Louisiana</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-89.46538</west>
+<north>29.36671</north>
+<east>-89.44474</east>
+<south>29.34872</south>
+</bbox>
+<score>7.361697673797607</score>
+</geoname>
+<geoname>
+<toponymName>Jackson</toponymName>
+<name>Jackson</name>
+<lat>30.8374</lat>
+<lng>-91.21761</lng>
+<geonameId>4328824</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3842</population>
+<alternateNames>Dzhekson,Джексон</alternateNames>
+<elevation>46</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>037</adminCode2>
+<adminName2>East Feliciana Parish</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Jackson%2C_Louisiana</alternateName>
+<alternateName lang="post">70748</alternateName>
+<alternateName lang="ru">Джексон</alternateName>
+<alternateName lang="unlc">JKN</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-91.22668</west>
+<north>30.84519</north>
+<east>-91.20854</east>
+<south>30.82961</south>
+</bbox>
+<score>7.361697673797607</score>
+</geoname>
+<geoname>
+<toponymName>Black Pond</toponymName>
+<name>Black Pond</name>
+<lat>32.26674</lat>
+<lng>-92.74188</lng>
+<geonameId>4317136</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>LK</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>lake</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>45</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>049</adminCode2>
+<adminName2>Jackson Parish</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>6.996654510498047</score>
+</geoname>
+<geoname>
+<toponymName>Chatham</toponymName>
+<name>Chatham</name>
+<lat>32.30626</lat>
+<lng>-92.45042</lng>
+<geonameId>4319649</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>557</population>
+<alternateNames/>
+<elevation>55</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>049</adminCode2>
+<adminName2>Jackson Parish</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Chatham%2C_Louisiana</alternateName>
+<alternateName lang="post">71226</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.45149</west>
+<north>32.30716</north>
+<east>-92.44936</east>
+<south>32.30537</south>
+</bbox>
+<score>6.996654510498047</score>
+</geoname>
+<geoname>
+<toponymName>East Hodge</toponymName>
+<name>East Hodge</name>
+<lat>32.27793</lat>
+<lng>-92.71404</lng>
+<geonameId>4323369</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>289</population>
+<alternateNames/>
+<elevation>62</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>049</adminCode2>
+<adminName2>Jackson Parish</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/East_Hodge%2C_Louisiana</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.7151</west>
+<north>32.27883</north>
+<east>-92.71298</east>
+<south>32.27703</south>
+</bbox>
+<score>6.996654510498047</score>
+</geoname>
+<geoname>
+<toponymName>Eros</toponymName>
+<name>Eros</name>
+<lat>32.39237</lat>
+<lng>-92.42403</lng>
+<geonameId>4323857</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>155</population>
+<alternateNames/>
+<elevation>62</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>049</adminCode2>
+<adminName2>Jackson Parish</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Eros%2C_Louisiana</alternateName>
+<alternateName lang="post">71238</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.4251</west>
+<north>32.39327</north>
+<east>-92.42297</east>
+<south>32.39147</south>
+</bbox>
+<score>6.996654510498047</score>
+</geoname>
+<geoname>
+<toponymName>Hodge</toponymName>
+<name>Hodge</name>
+<lat>32.27682</lat>
+<lng>-92.72349</lng>
+<geonameId>4327518</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>470</population>
+<alternateNames/>
+<elevation>58</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>049</adminCode2>
+<adminName2>Jackson Parish</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hodge%2C_Louisiana</alternateName>
+<alternateName lang="post">71247</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.72455</west>
+<north>32.27772</north>
+<east>-92.72242</east>
+<south>32.27592</south>
+</bbox>
+<score>6.996654510498047</score>
+</geoname>
+<geoname>
+<toponymName>Jimmie Davis State Park</toponymName>
+<name>Jimmie Davis State Park</name>
+<lat>32.24682</lat>
+<lng>-92.52042</lng>
+<geonameId>4329127</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>L</fcl>
+<fcode>PRK</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>park</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>67</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>049</adminCode2>
+<adminName2>Jackson Parish</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Jimmie_Davis_State_Park</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>6.996654510498047</score>
+</geoname>
+</geonames>

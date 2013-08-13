@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Zabaleta</toponymName>
+<name>Zabaleta</name>
+<lat>43.31667</lat>
+<lng>-2.58333</lng>
+<geonameId>3104383</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="PV">59</adminCode1>
+<adminName1>Basque Country</adminName1>
+<adminCode2>BI</adminCode2>
+<adminName2>Biscay</adminName2>
+<adminCode3>48909</adminCode3>
+<adminName3>Nabarniz</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Madrid</timezone>
+<bbox>
+<west>-2.5957</west>
+<north>43.32566</north>
+<east>-2.57097</east>
+<south>43.30767</south>
+</bbox>
+<score>43.39420700073242</score>
+</geoname>
+<geoname>
+<toponymName>Zabaleta</toponymName>
+<name>Zabaleta</name>
+<lat>23.01667</lat>
+<lng>-81.78333</lng>
+<geonameId>3533650</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1>MA</adminCode1>
+<adminName1>Provincia Mayabeque</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>43.39420700073242</score>
+</geoname>
+<geoname>
+<toponymName>Zabaleta</toponymName>
+<name>Zabaleta</name>
+<lat>2.69252</lat>
+<lng>-76.95209</lng>
+<geonameId>7630455</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="CAU">09</adminCode1>
+<adminName1>Cauca</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<bbox>
+<west>-76.96109</west>
+<north>2.70152</north>
+<east>-76.94308</east>
+<south>2.68353</south>
+</bbox>
+<score>43.39420700073242</score>
+</geoname>
+<geoname>
+<toponymName>Zabaleta</toponymName>
+<name>Zabaleta</name>
+<lat>43.26872</lat>
+<lng>-2.01291</lng>
+<geonameId>6325322</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames>Zabaleta</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="PV">59</adminCode1>
+<adminName1>Basque Country</adminName1>
+<adminCode2>SS</adminCode2>
+<adminName2>Gipuzkoa</adminName2>
+<adminCode3>20069</adminCode3>
+<adminName3>Donostia / San Sebastián</adminName3>
+<alternateName lang="eu">Zabaleta</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Madrid</timezone>
+<bbox>
+<west>-2.01785</west>
+<north>43.27232</north>
+<east>-2.00797</east>
+<south>43.26512</south>
+</bbox>
+<score>26.573415756225586</score>
+</geoname>
+</geonames>

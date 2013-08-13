@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Blockhouse</toponymName>
+<name>Blockhouse</name>
+<lat>44.45015</lat>
+<lng>-64.41546</lng>
+<geonameId>5903909</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NS">07</adminCode1>
+<adminName1>Nova Scotia</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Blockhouse%2C_Nova_Scotia</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-4.0">America/Halifax</timezone>
+<score>63.91566467285156</score>
+</geoname>
+<geoname>
+<toponymName>Blockhouse</toponymName>
+<name>Blockhouse</name>
+<lat>35.70314</lat>
+<lng>-83.93657</lng>
+<geonameId>4607143</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>293</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TN">TN</adminCode1>
+<adminName1>Tennessee</adminName1>
+<adminCode2>009</adminCode2>
+<adminName2>Blount County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-83.94765</west>
+<north>35.71213</north>
+<east>-83.92549</east>
+<south>35.69415</south>
+</bbox>
+<score>42.610443115234375</score>
+</geoname>
+<geoname>
+<toponymName>Blockhouse</toponymName>
+<name>Blockhouse</name>
+<lat>45.83957</lat>
+<lng>-120.93757</lng>
+<geonameId>5787539</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>486</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WA">WA</adminCode1>
+<adminName1>Washington</adminName1>
+<adminCode2>039</adminCode2>
+<adminName2>Klickitat County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-120.95048</west>
+<north>45.84856</north>
+<east>-120.92466</east>
+<south>45.83057</south>
+</bbox>
+<score>42.610443115234375</score>
+</geoname>
+<geoname>
+<toponymName>Carrefour Blockhauss</toponymName>
+<name>Carrefour Blockhauss</name>
+<lat>18.26528</lat>
+<lng>-72.71806</lng>
+<geonameId>3728324</geonameId>
+<countryCode>HT</countryCode>
+<countryName>Haiti</countryName>
+<fcl>R</fcl>
+<fcode>RDJCT</fcode>
+<fclName>road, railroad </fclName>
+<fcodeName>road junction</fcodeName>
+<population/>
+<alternateNames>Blockauss,Blockhaus,Blockhauss,Blockhouse,Blokauss,Carrefour Blockhauss</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SE">13</adminCode1>
+<adminName1>Sud-Est</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Port-au-Prince</timezone>
+<score>9.415666580200195</score>
+</geoname>
+<geoname>
+<toponymName>Block House</toponymName>
+<name>Block House</name>
+<lat>47.2374</lat>
+<lng>-53.97313</lng>
+<geonameId>5903910</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>T</fcl>
+<fcode>CAPE</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>cape</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NL">05</adminCode1>
+<adminName1>Newfoundland and Labrador</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-2.5" gmtOffset="-3.5">America/St_Johns</timezone>
+<score>8.700383186340332</score>
+</geoname>
+</geonames>

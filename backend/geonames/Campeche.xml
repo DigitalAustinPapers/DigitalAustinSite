@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>30</totalResultsCount>
+<geoname>
+<toponymName>Campeche</toponymName>
+<name>Campeche</name>
+<lat>19.83803</lat>
+<lng>-90.5277</lng>
+<geonameId>3531732</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population>205212</population>
+<alternateNames>CPE,Campeche,Kampeche,San Francisco de Campeche,Кампече</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CAM">04</adminCode1>
+<adminName1>Campeche</adminName1>
+<adminCode2>6942858</adminCode2>
+<adminName2>Campeche</adminName2>
+<alternateName lang="ca">Campeche</alternateName>
+<alternateName lang="da">Campeche</alternateName>
+<alternateName lang="de">Campeche</alternateName>
+<alternateName lang="en">Campeche</alternateName>
+<alternateName lang="es">Campeche</alternateName>
+<alternateName lang="fr">Campeche</alternateName>
+<alternateName lang="iata">CPE</alternateName>
+<alternateName lang="nl">Campeche</alternateName>
+<alternateName lang="pl">Campeche</alternateName>
+<alternateName lang="pt">Campeche</alternateName>
+<alternateName lang="ru">Кампече</alternateName>
+<alternateName lang="sv">Campeche</alternateName>
+<alternateName lang="unlc">CPE</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Merida</timezone>
+<bbox>
+<west>-90.59024</west>
+<north>19.89684</north>
+<east>-90.46516</east>
+<south>19.77923</south>
+</bbox>
+<score>153.54788208007812</score>
+</geoname>
+<geoname>
+<toponymName>Estado de Campeche</toponymName>
+<name>Campeche</name>
+<lat>19</lat>
+<lng>-90.5</lng>
+<geonameId>3531730</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>first-order administrative division</fcodeName>
+<population>743869</population>
+<alternateNames>CAM,Campeche,Campeche osariik,Camps,Estado de Campeche,Estat de Campeche,Etat de Campeche,Kampeche,kampeche ju,kan pei qie zhou,kanpeche zhou,État de Campeche,Кампече,カンペチェ州,坎佩切州,캄페체 주</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CAM">04</adminCode1>
+<adminName1>Campeche</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="abbr">Camps</alternateName>
+<alternateName lang="bg">Кампече</alternateName>
+<alternateName lang="ca">Estat de Campeche</alternateName>
+<alternateName lang="da">Campeche</alternateName>
+<alternateName lang="de">Campeche</alternateName>
+<alternateName lang="en">Campeche</alternateName>
+<alternateName lang="eo">Campeche</alternateName>
+<alternateName lang="es">Campeche</alternateName>
+<alternateName lang="et">Campeche osariik</alternateName>
+<alternateName lang="eu">Campeche</alternateName>
+<alternateName lang="fi">Campeche</alternateName>
+<alternateName lang="fr">État de Campeche</alternateName>
+<alternateName lang="id">Campeche</alternateName>
+<alternateName lang="it">Campeche</alternateName>
+<alternateName lang="ja">カンペチェ州</alternateName>
+<alternateName lang="ko">캄페체 주</alternateName>
+<alternateName lang="kw">Campeche</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Campeche</alternateName>
+<alternateName lang="nl">Campeche</alternateName>
+<alternateName lang="no">Campeche</alternateName>
+<alternateName lang="pl">Campeche</alternateName>
+<alternateName lang="pt">Campeche</alternateName>
+<alternateName lang="ro">Campeche</alternateName>
+<alternateName lang="zh">坎佩切州</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Merida</timezone>
+<bbox>
+<west>-92.48195</west>
+<north>20.86323</north>
+<east>-89.41779</east>
+<south>17.81972</south>
+</bbox>
+<score>85.17303466796875</score>
+</geoname>
+<geoname>
+<toponymName>Campeche</toponymName>
+<name>Campeche</name>
+<lat>-27.68345</lat>
+<lng>-48.49168</lng>
+<geonameId>3467924</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Campeche</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="SC">26</adminCode1>
+<adminName1>Santa Catarina</adminName1>
+<adminCode2>4205407</adminCode2>
+<adminName2>Florianópolis</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Campeche_%28Florian%C3%B3polis%29</alternateName>
+<alternateName lang="pt">Campeche</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Sao_Paulo</timezone>
+<bbox>
+<west>-48.50183</west>
+<north>-27.67446</north>
+<east>-48.48152</east>
+<south>-27.69245</south>
+</bbox>
+<score>60.83788299560547</score>
+</geoname>
+<geoname>
+<toponymName>Campeche</toponymName>
+<name>Campeche</name>
+<lat>19.51317</lat>
+<lng>-71.59378</lng>
+<geonameId>3510622</geonameId>
+<countryCode>DO</countryCode>
+<countryName>Dominican Republic</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="05">04</adminCode1>
+<adminName1>Dajabón</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Santo_Domingo</timezone>
+<bbox>
+<west>-71.60332</west>
+<north>19.52216</north>
+<east>-71.58424</east>
+<south>19.50418</south>
+</bbox>
+<score>34.415103912353516</score>
+</geoname>
+<geoname>
+<toponymName>Campeche</toponymName>
+<name>Campeche</name>
+<lat>16.96667</lat>
+<lng>-93.25</lng>
+<geonameId>3531733</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CHP">05</adminCode1>
+<adminName1>Chiapas</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-93.2594</west>
+<north>16.97566</north>
+<east>-93.2406</east>
+<south>16.95767</south>
+</bbox>
+<score>34.415103912353516</score>
+</geoname>
+<geoname>
+<toponymName>Campeche</toponymName>
+<name>Campeche</name>
+<lat>15.32118</lat>
+<lng>-92.36094</lng>
+<geonameId>3531734</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CHP">05</adminCode1>
+<adminName1>Chiapas</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-92.37026</west>
+<north>15.33017</north>
+<east>-92.35161</east>
+<south>15.31219</south>
+</bbox>
+<score>34.415103912353516</score>
+</geoname>
+<geoname>
+<toponymName>Campeche</toponymName>
+<name>Campeche</name>
+<lat>22.41667</lat>
+<lng>-83.46667</lng>
+<geonameId>3565953</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="01">01</adminCode1>
+<adminName1>Pinar del Río</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>34.415103912353516</score>
+</geoname>
+<geoname>
+<toponymName>Campêche</toponymName>
+<name>Campêche</name>
+<lat>16.4432</lat>
+<lng>-61.43953</lng>
+<geonameId>3579600</geonameId>
+<countryCode>GP</countryCode>
+<countryName>Guadeloupe</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Guadeloupe</timezone>
+<bbox>
+<west>-61.44891</west>
+<north>16.45219</north>
+<east>-61.43015</east>
+<south>16.4342</south>
+</bbox>
+<score>34.415103912353516</score>
+</geoname>
+<geoname>
+<toponymName>Campeche</toponymName>
+<name>Campeche</name>
+<lat>10.96236</lat>
+<lng>-68.4615</lng>
+<geonameId>3647284</geonameId>
+<countryCode>VE</countryCode>
+<countryName>Venezuela</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="I">11</adminCode1>
+<adminName1>Estado Falcón</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.5" gmtOffset="-4.5">America/Caracas</timezone>
+<bbox>
+<west>-68.47066</west>
+<north>10.97135</north>
+<east>-68.45233</east>
+<south>10.95337</south>
+</bbox>
+<score>34.415103912353516</score>
+</geoname>
+<geoname>
+<toponymName>Campeche</toponymName>
+<name>Campeche</name>
+<lat>10.72496</lat>
+<lng>-74.91538</lng>
+<geonameId>3687816</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="ATL">04</adminCode1>
+<adminName1>Atlántico</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<bbox>
+<west>-74.92453</west>
+<north>10.73395</north>
+<east>-74.90622</east>
+<south>10.71596</south>
+</bbox>
+<score>34.415103912353516</score>
+</geoname>
+</geonames>

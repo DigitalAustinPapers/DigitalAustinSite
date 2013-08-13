@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>11</totalResultsCount>
+<geoname>
+<toponymName>Missouri Lake</toponymName>
+<name>Missouri Lake</name>
+<lat>47.139</lat>
+<lng>-95.3193</lng>
+<geonameId>5037904</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>LK</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>lake</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>487</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MN">MN</adminCode1>
+<adminName1>Minnesota</adminName1>
+<adminCode2>005</adminCode2>
+<adminName2>Becker County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>55.91564178466797</score>
+</geoname>
+<geoname>
+<toponymName>Missouri Lake</toponymName>
+<name>Missouri Lake</name>
+<lat>47.76192</lat>
+<lng>-90.77773</lng>
+<geonameId>5037905</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>LK</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>lake</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>503</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MN">MN</adminCode1>
+<adminName1>Minnesota</adminName1>
+<adminCode2>031</adminCode2>
+<adminName2>Cook County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>55.91564178466797</score>
+</geoname>
+<geoname>
+<toponymName>Missouri Lake</toponymName>
+<name>Missouri Lake</name>
+<lat>39.83112</lat>
+<lng>-105.51961</lng>
+<geonameId>5431471</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>LK</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>lake</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>2704</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CO">CO</adminCode1>
+<adminName1>Colorado</adminName1>
+<adminCode2>047</adminCode2>
+<adminName2>Gilpin County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<score>55.91564178466797</score>
+</geoname>
+<geoname>
+<toponymName>Missouri Mine</toponymName>
+<name>Missouri Mine</name>
+<lat>38.03937</lat>
+<lng>-120.51826</lng>
+<geonameId>5373819</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>MN</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>mine(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>476</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>009</adminCode2>
+<adminName2>Calaveras County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>8.971635818481445</score>
+</geoname>
+<geoname>
+<toponymName>Missouri Mine</toponymName>
+<name>Missouri Mine</name>
+<lat>39.78165</lat>
+<lng>-105.52</lng>
+<geonameId>5431473</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>MN</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>mine(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>2731</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CO">CO</adminCode1>
+<adminName1>Colorado</adminName1>
+<adminCode2>047</adminCode2>
+<adminName2>Gilpin County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<score>8.971635818481445</score>
+</geoname>
+<geoname>
+<toponymName>Missouri Mine</toponymName>
+<name>Missouri Mine</name>
+<lat>39.5186</lat>
+<lng>-105.85751</lng>
+<geonameId>5431474</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>MN</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>mine(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>3508</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CO">CO</adminCode1>
+<adminName1>Colorado</adminName1>
+<adminCode2>093</adminCode2>
+<adminName2>Park County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<score>8.971635818481445</score>
+</geoname>
+<geoname>
+<toponymName>Missouri Mine</toponymName>
+<name>Missouri Mine</name>
+<lat>37.79938</lat>
+<lng>-117.69259</lng>
+<geonameId>5508447</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>MN</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>mine(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1905</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NV">NV</adminCode1>
+<adminName1>Nevada</adminName1>
+<adminCode2>009</adminCode2>
+<adminName2>Esmeralda County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>8.971635818481445</score>
+</geoname>
+<geoname>
+<toponymName>Missouri Mine</toponymName>
+<name>Missouri Mine</name>
+<lat>44.00045</lat>
+<lng>-115.85622</lng>
+<geonameId>5601205</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>MN</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>mine(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1439</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ID">ID</adminCode1>
+<adminName1>Idaho</adminName1>
+<adminCode2>015</adminCode2>
+<adminName2>Boise County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Boise</timezone>
+<score>8.971635818481445</score>
+</geoname>
+<geoname>
+<toponymName>Missouri Mine</toponymName>
+<name>Missouri Mine</name>
+<lat>45.45882</lat>
+<lng>-111.89165</lng>
+<geonameId>5666686</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>MN</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>mine(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>2569</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MT">MT</adminCode1>
+<adminName1>Montana</adminName1>
+<adminCode2>057</adminCode2>
+<adminName2>Madison County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<score>8.971635818481445</score>
+</geoname>
+<geoname>
+<toponymName>Missouri Mine</toponymName>
+<name>Missouri Mine</name>
+<lat>45.45215</lat>
+<lng>-111.88526</lng>
+<geonameId>5666687</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>MN</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>mine(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>2259</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MT">MT</adminCode1>
+<adminName1>Montana</adminName1>
+<adminCode2>057</adminCode2>
+<adminName2>Madison County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<score>8.971635818481445</score>
+</geoname>
+</geonames>

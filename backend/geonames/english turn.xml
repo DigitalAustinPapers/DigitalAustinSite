@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>9</totalResultsCount>
+<geoname>
+<toponymName>English Turn</toponymName>
+<name>English Turn</name>
+<lat>29.87548</lat>
+<lng>-89.96507</lng>
+<geonameId>4323798</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>3</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>075</adminCode2>
+<adminName2>Plaquemines Parish</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-89.97544</west>
+<north>29.88448</north>
+<east>-89.9547</east>
+<south>29.86649</south>
+</bbox>
+<score>45.25312423706055</score>
+</geoname>
+<geoname>
+<toponymName>English Town</toponymName>
+<name>English Town</name>
+<lat>-41.53333</lat>
+<lng>147.53333</lng>
+<geonameId>2167305</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="TAS">06</adminCode1>
+<adminName1>Tasmania</adminName1>
+<adminCode2>64610</adminCode2>
+<adminName2>Northern Midlands</adminName2>
+<timezone dstOffset="10.0" gmtOffset="11.0">Australia/Hobart</timezone>
+<bbox>
+<west>147.52132</west>
+<north>-41.52434</north>
+<east>147.54535</east>
+<south>-41.54233</south>
+</bbox>
+<score>6.912796974182129</score>
+</geoname>
+<geoname>
+<toponymName>English Town</toponymName>
+<name>English Town</name>
+<lat>37.62255</lat>
+<lng>-90.6404</lng>
+<geonameId>4385709</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>294</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>093</adminCode2>
+<adminName2>Iron County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.65176</west>
+<north>37.63154</north>
+<east>-90.62904</east>
+<south>37.61356</south>
+</bbox>
+<score>6.912796974182129</score>
+</geoname>
+<geoname>
+<toponymName>English Town</toponymName>
+<name>English Town</name>
+<lat>37.17939</lat>
+<lng>-121.83912</lng>
+<geonameId>5346701</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>426</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>085</adminCode2>
+<adminName2>Santa Clara County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-121.85041</west>
+<north>37.18838</north>
+<east>-121.82783</east>
+<south>37.1704</south>
+</bbox>
+<score>6.912796974182129</score>
+</geoname>
+<geoname>
+<toponymName>English Run</toponymName>
+<name>English Run</name>
+<lat>41.30062</lat>
+<lng>-79.07976</lng>
+<geonameId>5188778</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>489</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PA">PA</adminCode1>
+<adminName1>Pennsylvania</adminName1>
+<adminCode2>065</adminCode2>
+<adminName2>Jefferson County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>1.117728590965271</score>
+</geoname>
+<geoname>
+<toponymName>English Run</toponymName>
+<name>English Run</name>
+<lat>41.43507</lat>
+<lng>-77.28914</lng>
+<geonameId>5188780</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>266</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PA">PA</adminCode1>
+<adminName1>Pennsylvania</adminName1>
+<adminCode2>081</adminCode2>
+<adminName2>Lycoming County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>1.117728590965271</score>
+</geoname>
+<geoname>
+<toponymName>English Run</toponymName>
+<name>English Run</name>
+<lat>41.33479</lat>
+<lng>-77.41053</lng>
+<geonameId>5188781</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>248</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PA">PA</adminCode1>
+<adminName1>Pennsylvania</adminName1>
+<adminCode2>081</adminCode2>
+<adminName2>Lycoming County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>1.117728590965271</score>
+</geoname>
+<geoname>
+<toponymName>English Run</toponymName>
+<name>English Run</name>
+<lat>41.35396</lat>
+<lng>-77.35442</lng>
+<geonameId>5188782</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>212</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PA">PA</adminCode1>
+<adminName1>Pennsylvania</adminName1>
+<adminCode2>081</adminCode2>
+<adminName2>Lycoming County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>1.117728590965271</score>
+</geoname>
+<geoname>
+<toponymName>English Run</toponymName>
+<name>English Run</name>
+<lat>43.33831</lat>
+<lng>-90.67652</lng>
+<geonameId>5252033</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>229</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WI">WI</adminCode1>
+<adminName1>Wisconsin</adminName1>
+<adminCode2>023</adminCode2>
+<adminName2>Crawford County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>1.117728590965271</score>
+</geoname>
+</geonames>

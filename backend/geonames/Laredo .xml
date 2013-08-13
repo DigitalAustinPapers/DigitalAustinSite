@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>40</totalResultsCount>
+<geoname>
+<toponymName>Laredo</toponymName>
+<name>Laredo</name>
+<lat>27.50641</lat>
+<lng>-99.50754</lng>
+<geonameId>4705349</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>236091</population>
+<alternateNames>LRD,Laredo,Ларедо</alternateNames>
+<elevation>126</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>479</adminCode2>
+<adminName2>Webb County</adminName2>
+<alternateName lang="de">Laredo</alternateName>
+<alternateName lang="en">Laredo</alternateName>
+<alternateName lang="eo">Laredo</alternateName>
+<alternateName lang="es">Laredo</alternateName>
+<alternateName lang="fr">Laredo</alternateName>
+<alternateName lang="iata">LRD</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Laredo%2C_Texas</alternateName>
+<alternateName lang="nl">Laredo</alternateName>
+<alternateName lang="pl">Laredo</alternateName>
+<alternateName lang="post">78049</alternateName>
+<alternateName lang="pt">Laredo</alternateName>
+<alternateName lang="ru">Ларедо</alternateName>
+<alternateName lang="sv">Laredo</alternateName>
+<alternateName lang="unlc">LRD</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-99.75032</west>
+<north>27.7444</north>
+<east>-99.33102</east>
+<south>27.3664</south>
+</bbox>
+<score>113.01739501953125</score>
+</geoname>
+<geoname>
+<toponymName>Laredo</toponymName>
+<name>Laredo</name>
+<lat>43.4098</lat>
+<lng>-3.41613</lng>
+<geonameId>3119145</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>12591</population>
+<alternateNames>Laredo</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="CB">39</adminCode1>
+<adminName1>Cantabria</adminName1>
+<adminCode2>S</adminCode2>
+<adminName2>Cantabria</adminName2>
+<adminCode3>39035</adminCode3>
+<adminName3>Laredo</adminName3>
+<alternateName lang="de">Laredo</alternateName>
+<alternateName lang="en">Laredo</alternateName>
+<alternateName lang="eo">Laredo</alternateName>
+<alternateName lang="es">Laredo</alternateName>
+<alternateName lang="eu">Laredo</alternateName>
+<alternateName lang="fr">Laredo</alternateName>
+<alternateName lang="it">Laredo</alternateName>
+<alternateName lang="nl">Laredo</alternateName>
+<alternateName lang="post">39750</alternateName>
+<alternateName lang="pt">Laredo</alternateName>
+<alternateName lang="unlc">LDO</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Madrid</timezone>
+<bbox>
+<west>-3.43571</west>
+<north>43.42402</north>
+<east>-3.39655</east>
+<south>43.39558</south>
+</bbox>
+<score>90.4139175415039</score>
+</geoname>
+<geoname>
+<toponymName>Laredo</toponymName>
+<name>Laredo</name>
+<lat>-8.08965</lat>
+<lng>-78.9602</lng>
+<geonameId>3695617</geonameId>
+<countryCode>PE</countryCode>
+<countryName>Peru</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>24691</population>
+<alternateNames>Laredo,Laredo Hacienda,Ларедо</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="LAL">13</adminCode1>
+<adminName1>La Libertad Region</adminName1>
+<adminCode2>1301</adminCode2>
+<adminName2>Provincia de Trujillo</adminName2>
+<adminCode3>130106</adminCode3>
+<adminName3>Laredo</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Laredo%2C_La_Libertad%2C_Peru</alternateName>
+<alternateName lang="ru">Ларедо</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Lima</timezone>
+<bbox>
+<west>-78.98051</west>
+<north>-8.06954</north>
+<east>-78.93989</east>
+<south>-8.10976</south>
+</bbox>
+<score>65.25062561035156</score>
+</geoname>
+<geoname>
+<toponymName>Laredo</toponymName>
+<name>Laredo</name>
+<lat>-8.10526</lat>
+<lng>-78.85509</lng>
+<geonameId>8350399</geonameId>
+<countryCode>PE</countryCode>
+<countryName>Peru</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="LAL">13</adminCode1>
+<adminName1>La Libertad Region</adminName1>
+<adminCode2>1301</adminCode2>
+<adminName2>Provincia de Trujillo</adminName2>
+<adminCode3>130106</adminCode3>
+<adminName3>Laredo</adminName3>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Lima</timezone>
+<bbox>
+<west>-79.00092</west>
+<north>-7.96745</north>
+<east>-78.63763</east>
+<south>-8.20955</south>
+</bbox>
+<score>64.5948257446289</score>
+</geoname>
+<geoname>
+<toponymName>Laredo</toponymName>
+<name>Laredo</name>
+<lat>40.02557</lat>
+<lng>-93.4466</lng>
+<geonameId>5055870</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>198</population>
+<alternateNames>Laredo,Ларедо</alternateNames>
+<elevation>244</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>079</adminCode2>
+<adminName2>Grundy County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Laredo%2C_Missouri</alternateName>
+<alternateName lang="post">64652</alternateName>
+<alternateName lang="ru">Ларедо</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-93.44778</west>
+<north>40.02647</north>
+<east>-93.44543</east>
+<south>40.02467</south>
+</bbox>
+<score>52.20050048828125</score>
+</geoname>
+<geoname>
+<toponymName>Laredo</toponymName>
+<name>Laredo</name>
+<lat>27.53333</lat>
+<lng>-99.5</lng>
+<geonameId>3483451</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TAM">28</adminCode1>
+<adminName1>Tamaulipas</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<bbox>
+<west>-99.51014</west>
+<north>27.54233</north>
+<east>-99.48986</east>
+<south>27.52434</south>
+</bbox>
+<score>36.91132736206055</score>
+</geoname>
+<geoname>
+<toponymName>Laredo</toponymName>
+<name>Laredo</name>
+<lat>20.55</lat>
+<lng>-97.45</lng>
+<geonameId>3525080</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VER">30</adminCode1>
+<adminName1>Veracruz-Llave</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-97.45961</west>
+<north>20.55899</north>
+<east>-97.44039</east>
+<south>20.54101</south>
+</bbox>
+<score>36.91132736206055</score>
+</geoname>
+<geoname>
+<toponymName>Laredo</toponymName>
+<name>Laredo</name>
+<lat>-30.86001</lat>
+<lng>-70.77447</lng>
+<geonameId>3884811</geonameId>
+<countryCode>CL</countryCode>
+<countryName>Chile</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="CO">07</adminCode1>
+<adminName1>Coquimbo</adminName1>
+<adminCode2>43</adminCode2>
+<adminName2>Provincia de Limarí</adminName2>
+<adminCode3>04303</adminCode3>
+<adminName3>Monte Patria</adminName3>
+<timezone dstOffset="-4.0" gmtOffset="-3.0">America/Santiago</timezone>
+<bbox>
+<west>-70.78495</west>
+<north>-30.85101</north>
+<east>-70.76399</east>
+<south>-30.869</south>
+</bbox>
+<score>36.91132736206055</score>
+</geoname>
+<geoname>
+<toponymName>Laredo</toponymName>
+<name>Laredo</name>
+<lat>48.43138</lat>
+<lng>-109.88326</lng>
+<geonameId>5661655</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>806</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MT">MT</adminCode1>
+<adminName1>Montana</adminName1>
+<adminCode2>041</adminCode2>
+<adminName2>Hill County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<bbox>
+<west>-109.89682</west>
+<north>48.44038</north>
+<east>-109.8697</east>
+<south>48.42239</south>
+</bbox>
+<score>36.91132736206055</score>
+</geoname>
+<geoname>
+<toponymName>Laredo</toponymName>
+<name>Laredo</name>
+<lat>43.41663</lat>
+<lng>-3.42035</lng>
+<geonameId>6360682</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population>12591</population>
+<alternateNames>Laredo,Santona,Santoña,la lei duo,larydw, kantabrya,raredo,Ларедо,لاريدو، كانتابريا,ラレド,拉雷多</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="CB">39</adminCode1>
+<adminName1>Cantabria</adminName1>
+<adminCode2>S</adminCode2>
+<adminName2>Cantabria</adminName2>
+<adminCode3>39035</adminCode3>
+<adminName3>Laredo</adminName3>
+<alternateName lang="an">Santoña</alternateName>
+<alternateName lang="ar">لاريدو، كانتابريا</alternateName>
+<alternateName lang="ja">ラレド</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Laredo%2C_Cantabria</alternateName>
+<alternateName lang="ru">Ларедо</alternateName>
+<alternateName lang="uk">Ларедо</alternateName>
+<alternateName lang="zh">拉雷多</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Madrid</timezone>
+<bbox>
+<west>-3.46108</west>
+<north>43.43606</north>
+<east>-3.38217</east>
+<south>43.38209</south>
+</bbox>
+<score>36.4762077331543</score>
+</geoname>
+</geonames>

@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>30</totalResultsCount>
+<geoname>
+<toponymName>Barnard</toponymName>
+<name>Barnard</name>
+<lat>39.19056</lat>
+<lng>-98.04199</lng>
+<geonameId>4267912</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>70</population>
+<alternateNames/>
+<elevation>401</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KS">KS</adminCode1>
+<adminName1>Kansas</adminName1>
+<adminCode2>105</adminCode2>
+<adminName2>Lincoln County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Barnard%2C_Kansas</alternateName>
+<alternateName lang="post">67418</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-98.04315</west>
+<north>39.19146</north>
+<east>-98.04083</east>
+<south>39.18966</south>
+</bbox>
+<score>43.67005920410156</score>
+</geoname>
+<geoname>
+<toponymName>Barnard</toponymName>
+<name>Barnard</name>
+<lat>40.17444</lat>
+<lng>-94.82386</lng>
+<geonameId>5053988</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>221</population>
+<alternateNames/>
+<elevation>294</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>147</adminCode2>
+<adminName2>Nodaway County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Barnard%2C_Missouri</alternateName>
+<alternateName lang="post">64423</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-94.82503</west>
+<north>40.17534</north>
+<east>-94.82268</east>
+<south>40.17354</south>
+</bbox>
+<score>43.67005920410156</score>
+</geoname>
+<geoname>
+<toponymName>Barnard</toponymName>
+<name>Barnard</name>
+<lat>45.73247</lat>
+<lng>-98.49649</lng>
+<geonameId>5226162</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>425</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SD">SD</adminCode1>
+<adminName1>South Dakota</adminName1>
+<adminCode2>013</adminCode2>
+<adminName2>Brown County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Barnard%2C_South_Dakota</alternateName>
+<alternateName lang="post">57426</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-98.50937</west>
+<north>45.74147</north>
+<east>-98.4836</east>
+<south>45.72348</south>
+</bbox>
+<score>43.67005920410156</score>
+</geoname>
+<geoname>
+<toponymName>Barnard</toponymName>
+<name>Barnard</name>
+<lat>43.72868</lat>
+<lng>-72.61899</lng>
+<geonameId>5233470</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>399</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VT">VT</adminCode1>
+<adminName1>Vermont</adminName1>
+<adminCode2>027</adminCode2>
+<adminName2>Windsor County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Barnard%2C_Vermont</alternateName>
+<alternateName lang="post">05031</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-72.63144</west>
+<north>43.73767</north>
+<east>-72.60654</east>
+<south>43.71969</south>
+</bbox>
+<score>43.67005920410156</score>
+</geoname>
+<geoname>
+<toponymName>Barnard</toponymName>
+<name>Barnard</name>
+<lat>18.58333</lat>
+<lng>-73.81667</lng>
+<geonameId>3730759</geonameId>
+<countryCode>HT</countryCode>
+<countryName>Haiti</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">14</adminCode1>
+<adminName1>GrandʼAnse</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Port-au-Prince</timezone>
+<bbox>
+<west>-73.82616</west>
+<north>18.59233</north>
+<east>-73.80718</east>
+<south>18.57434</south>
+</bbox>
+<score>29.113372802734375</score>
+</geoname>
+<geoname>
+<toponymName>Barnard</toponymName>
+<name>Barnard</name>
+<lat>39.84866</lat>
+<lng>-86.70056</lng>
+<geonameId>4254129</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>275</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IN">IN</adminCode1>
+<adminName1>Indiana</adminName1>
+<adminCode2>133</adminCode2>
+<adminName2>Putnam County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Indiana/Indianapolis</timezone>
+<bbox>
+<west>-86.71228</west>
+<north>39.85765</north>
+<east>-86.68884</east>
+<south>39.83966</south>
+</bbox>
+<score>29.113372802734375</score>
+</geoname>
+<geoname>
+<toponymName>Barnard</toponymName>
+<name>Barnard</name>
+<lat>35.83955</lat>
+<lng>-82.75403</lng>
+<geonameId>4453779</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>468</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NC">NC</adminCode1>
+<adminName1>North Carolina</adminName1>
+<adminCode2>115</adminCode2>
+<adminName2>Madison County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-82.76512</west>
+<north>35.84854</north>
+<east>-82.74293</east>
+<south>35.83056</south>
+</bbox>
+<score>29.113372802734375</score>
+</geoname>
+<geoname>
+<toponymName>Barnard</toponymName>
+<name>Barnard</name>
+<lat>39.62095</lat>
+<lng>-74.78433</lng>
+<geonameId>4500628</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>26</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NJ">NJ</adminCode1>
+<adminName1>New Jersey</adminName1>
+<adminCode2>001</adminCode2>
+<adminName2>Atlantic County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-74.79601</west>
+<north>39.62994</north>
+<east>-74.77265</east>
+<south>39.61196</south>
+</bbox>
+<score>29.113372802734375</score>
+</geoname>
+<geoname>
+<toponymName>Barnard</toponymName>
+<name>Barnard</name>
+<lat>45.36644</lat>
+<lng>-69.20699</lng>
+<geonameId>4957406</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>227</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ME">ME</adminCode1>
+<adminName1>Maine</adminName1>
+<adminCode2>021</adminCode2>
+<adminName2>Piscataquis County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-69.21979</west>
+<north>45.37543</north>
+<east>-69.19419</east>
+<south>45.35745</south>
+</bbox>
+<score>29.113372802734375</score>
+</geoname>
+<geoname>
+<toponymName>Barnard</toponymName>
+<name>Barnard</name>
+<lat>45.25112</lat>
+<lng>-85.30118</lng>
+<geonameId>4984962</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>232</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MI">MI</adminCode1>
+<adminName1>Michigan</adminName1>
+<adminCode2>029</adminCode2>
+<adminName2>Charlevoix County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Detroit</timezone>
+<bbox>
+<west>-85.31396</west>
+<north>45.26011</north>
+<east>-85.2884</east>
+<south>45.24212</south>
+</bbox>
+<score>29.113372802734375</score>
+</geoname>
+</geonames>

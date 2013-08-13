@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Meare</toponymName>
+<name>Meare</name>
+<lat>51.17167</lat>
+<lng>-2.78389</lng>
+<geonameId>2642844</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Meare</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UB</adminCode3>
+<adminName3>Mendip District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Meare</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.79824</west>
+<north>51.18066</north>
+<east>-2.76954</east>
+<south>51.16267</south>
+</bbox>
+<score>80.87968444824219</score>
+</geoname>
+<geoname>
+<toponymName>Meare</toponymName>
+<name>Meare</name>
+<lat>51.17639</lat>
+<lng>-2.78439</lng>
+<geonameId>7294106</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UB</adminCode3>
+<adminName3>Mendip District</adminName3>
+<adminCode4>40UB032</adminCode4>
+<adminName4>Meare</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.84268</west>
+<north>51.19996</north>
+<east>-2.7261</east>
+<south>51.15282</south>
+</bbox>
+<score>55.031654357910156</score>
+</geoname>
+<geoname>
+<toponymName>Méaré</toponymName>
+<name>Méaré</name>
+<lat>-21.73333</lat>
+<lng>165.83333</lng>
+<geonameId>2140256</geonameId>
+<countryCode>NC</countryCode>
+<countryName>New Caledonia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="11.0" gmtOffset="11.0">Pacific/Noumea</timezone>
+<bbox>
+<west>165.82365</west>
+<north>-21.72434</north>
+<east>165.84301</east>
+<south>-21.74233</south>
+</bbox>
+<score>44.02532196044922</score>
+</geoname>
+</geonames>

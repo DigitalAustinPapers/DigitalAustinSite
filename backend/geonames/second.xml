@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>6</totalResultsCount>
+<geoname>
+<toponymName>Second</toponymName>
+<name>Second</name>
+<lat>-33.575</lat>
+<lng>151.30833</lng>
+<geonameId>2208317</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>T</fcl>
+<fcode>PT</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>point</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="NSW">02</adminCode1>
+<adminName1>New South Wales</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="10.0" gmtOffset="11.0">Australia/Sydney</timezone>
+<score>44.83769226074219</score>
+</geoname>
+<geoname>
+<toponymName>Semond</toponymName>
+<name>Semond</name>
+<lat>47.71893</lat>
+<lng>4.59286</lng>
+<geonameId>2975157</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>47</population>
+<alternateNames>Semond</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="D">A1</adminCode1>
+<adminName1>Bourgogne</adminName1>
+<adminCode2>21</adminCode2>
+<adminName2>Cote d'Or</adminName2>
+<adminCode3>213</adminCode3>
+<adminName3>Arrondissement de Montbard</adminName3>
+<adminCode4>21602</adminCode4>
+<adminName4>Semond</adminName4>
+<alternateName lang="post">21450</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>4.59153</west>
+<north>47.71983</north>
+<east>4.5942</east>
+<south>47.71803</south>
+</bbox>
+<score>8.701639175415039</score>
+</geoname>
+<geoname>
+<toponymName>Semond</toponymName>
+<name>Semond</name>
+<lat>47.71833</lat>
+<lng>4.59222</lng>
+<geonameId>6428893</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population>32</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="D">A1</adminCode1>
+<adminName1>Bourgogne</adminName1>
+<adminCode2>21</adminCode2>
+<adminName2>Cote d'Or</adminName2>
+<adminCode3>213</adminCode3>
+<adminName3>Arrondissement de Montbard</adminName3>
+<adminCode4>21602</adminCode4>
+<adminName4>Semond</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Semond</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>4.54897</west>
+<north>47.72298</north>
+<east>4.59671</east>
+<south>47.70022</south>
+</bbox>
+<score>7.104858875274658</score>
+</geoname>
+<geoname>
+<toponymName>Secord</toponymName>
+<name>Secord</name>
+<lat>44.0153</lat>
+<lng>-84.34778</lng>
+<geonameId>5009342</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>224</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MI">MI</adminCode1>
+<adminName1>Michigan</adminName1>
+<adminCode2>051</adminCode2>
+<adminName2>Gladwin County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Detroit</timezone>
+<bbox>
+<west>-84.36029</west>
+<north>44.02429</north>
+<east>-84.33528</east>
+<south>44.00631</south>
+</bbox>
+<score>6.849336624145508</score>
+</geoname>
+<geoname>
+<toponymName>Secord</toponymName>
+<name>Secord</name>
+<lat>46.33338</lat>
+<lng>-80.83302</lng>
+<geonameId>6143625</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ON">08</adminCode1>
+<adminName1>Ontario</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Toronto</timezone>
+<score>6.849336624145508</score>
+</geoname>
+<geoname>
+<toponymName>Secord</toponymName>
+<name>Secord</name>
+<lat>46.33338</lat>
+<lng>-80.86643</lng>
+<geonameId>6143626</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ON">08</adminCode1>
+<adminName1>Ontario</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Toronto</timezone>
+<score>6.849336624145508</score>
+</geoname>
+</geonames>

@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>74</totalResultsCount>
+<geoname>
+<toponymName>Bristol</toponymName>
+<name>Bristol</name>
+<lat>51.45523</lat>
+<lng>-2.59665</lng>
+<geonameId>2654675</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>430713</population>
+<alternateNames>BRS,Bricgstōƿ,Briosto,Briostó,Bristo,Bristol,Bristol',Bristole,Bristolis,Bristolium,Bristolo,Briston,Bristul,Bristullu,Bristón,Bryste,Brístol,Gorad Brystal',beuliseuteul,bris txl,bristala,brystwl,bu li si tuo er,burisutoru,Μπρίστολ,Бристол,Бристоль,Бристъл,Горад Брысталь,Բրիստոլ,בריסטאל,בריסטול,برسٹل نگر,بريستول,بریستول,ब्रिस्टल,ಬ್ರಿಸ್ಟಲ್‌,บริสตอล,ბრისტოლი,ブリストル,布里斯托尔,브리스틀</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>B7</adminCode2>
+<adminName2>City of Bristol</adminName2>
+<adminCode3>00HC023</adminCode3>
+<adminName3>GB.ENG.B7.00HC023</adminName3>
+<alternateName lang="an">Bristón</alternateName>
+<alternateName lang="ang">Bricgstōƿ</alternateName>
+<alternateName lang="ar">بريستول</alternateName>
+<alternateName lang="be">Горад Брысталь</alternateName>
+<alternateName lang="bg">Бристъл</alternateName>
+<alternateName lang="ca">Bristol</alternateName>
+<alternateName lang="cs">Bristol</alternateName>
+<alternateName lang="cy">Bryste</alternateName>
+<alternateName lang="da">Bristol</alternateName>
+<alternateName lang="de">Bristol</alternateName>
+<alternateName lang="el">Μπρίστολ</alternateName>
+<alternateName lang="en">Bristol</alternateName>
+<alternateName lang="eo">Bristolo</alternateName>
+<alternateName lang="es">Brístol</alternateName>
+<alternateName lang="eu">Bristol</alternateName>
+<alternateName lang="fa">بریستول</alternateName>
+<alternateName lang="fi">Bristol</alternateName>
+<alternateName lang="fr">Bristol</alternateName>
+<alternateName lang="ga">Briostó</alternateName>
+<alternateName lang="he">בריסטול</alternateName>
+<alternateName lang="hi">ब्रिस्टल</alternateName>
+<alternateName lang="hy">Բրիստոլ</alternateName>
+<alternateName lang="iata">BRS</alternateName>
+<alternateName lang="id">Bristol</alternateName>
+<alternateName lang="it">Bristol</alternateName>
+<alternateName lang="ja">ブリストル</alternateName>
+<alternateName lang="ka">ბრისტოლი</alternateName>
+<alternateName lang="kn">ಬ್ರಿಸ್ಟಲ್‌</alternateName>
+<alternateName lang="ko">브리스틀</alternateName>
+<alternateName lang="la">Bristolium</alternateName>
+<alternateName lang="lb">Bristol</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bristol</alternateName>
+<alternateName lang="lt">Bristolis</alternateName>
+<alternateName lang="lv">Bristole</alternateName>
+<alternateName lang="mk">Бристол</alternateName>
+<alternateName lang="mr">ब्रिस्टल</alternateName>
+<alternateName lang="mzn">بریستول</alternateName>
+<alternateName lang="nl">Bristol</alternateName>
+<alternateName lang="no">Bristol</alternateName>
+<alternateName lang="nrm">Bristo</alternateName>
+<alternateName lang="os">Бристоль</alternateName>
+<alternateName lang="pl">Bristol</alternateName>
+<alternateName lang="pnb">برسٹل نگر</alternateName>
+<alternateName lang="pt">Bristol</alternateName>
+<alternateName lang="ro">Bristol</alternateName>
+<alternateName lang="ru">Бристоль</alternateName>
+<alternateName lang="scn">Bristullu</alternateName>
+<alternateName lang="sco">Bristol</alternateName>
+<alternateName lang="sk">Bristol</alternateName>
+<alternateName lang="sl">Bristol</alternateName>
+<alternateName lang="sr">Бристол</alternateName>
+<alternateName lang="sv">Bristol</alternateName>
+<alternateName lang="th">บริสตอล</alternateName>
+<alternateName lang="tr">Bristol</alternateName>
+<alternateName lang="uk">Бристоль</alternateName>
+<alternateName lang="unlc">BRS</alternateName>
+<alternateName lang="yi">בריסטאל</alternateName>
+<alternateName lang="zh">布里斯托尔</alternateName>
+<alternateName lang="zh-CN">布里斯托尔</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.73345</west>
+<north>51.54032</north>
+<east>-2.45985</east>
+<south>51.37015</south>
+</bbox>
+<score>199.92617797851562</score>
+</geoname>
+<geoname>
+<toponymName>Bristol</toponymName>
+<name>Bristol</name>
+<lat>41.67176</lat>
+<lng>-72.94927</lng>
+<geonameId>5282835</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>60477</population>
+<alternateNames>Bristol,Bristol',Bristul,bristala,bu li si tuo er,Бристол,Бристоль,Бристъл,ब्रिस्टल,布里斯托尔</alternateNames>
+<elevation>93</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CT">CT</adminCode1>
+<adminName1>Connecticut</adminName1>
+<adminCode2>003</adminCode2>
+<adminName2>Hartford County</adminName2>
+<alternateName lang="bg">Бристъл</alternateName>
+<alternateName lang="de">Bristol</alternateName>
+<alternateName lang="en">Bristol</alternateName>
+<alternateName lang="fr">Bristol</alternateName>
+<alternateName lang="kk">Бристол</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bristol%2C_Connecticut</alternateName>
+<alternateName lang="mr">ब्रिस्टल</alternateName>
+<alternateName lang="pl">Bristol</alternateName>
+<alternateName lang="post">06011</alternateName>
+<alternateName lang="ru">Бристоль</alternateName>
+<alternateName lang="sr">Бристол</alternateName>
+<alternateName lang="sv">Bristol</alternateName>
+<alternateName lang="uk">Бристоль</alternateName>
+<alternateName lang="unlc">BCO</alternateName>
+<alternateName lang="zh">布里斯托尔</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-72.99186</west>
+<north>41.70356</north>
+<east>-72.90668</east>
+<south>41.63997</south>
+</bbox>
+<score>83.74030303955078</score>
+</geoname>
+<geoname>
+<toponymName>Bristol</toponymName>
+<name>Bristol</name>
+<lat>41.67705</lat>
+<lng>-71.26616</lng>
+<geonameId>5221077</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>22795</population>
+<alternateNames>Bristol',bu li si tuo er,Бристоль,布里斯托尔</alternateNames>
+<elevation>35</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="RI">RI</adminCode1>
+<adminName1>Rhode Island</adminName1>
+<adminCode2>001</adminCode2>
+<adminName2>Bristol County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bristol%2C_Rhode_Island</alternateName>
+<alternateName lang="post">02809</alternateName>
+<alternateName lang="uk">Бристоль</alternateName>
+<alternateName lang="zh">布里斯托尔</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-71.29171</west>
+<north>41.69612</north>
+<east>-71.24061</east>
+<south>41.65797</south>
+</bbox>
+<score>54.026912689208984</score>
+</geoname>
+<geoname>
+<toponymName>City of Bristol</toponymName>
+<name>City of Bristol</name>
+<lat>51.45</lat>
+<lng>-2.6</lng>
+<geonameId>3333134</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>410500</population>
+<alternateNames>BST,Bristol,City of Bristol</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>B7</adminCode2>
+<adminName2>City of Bristol</adminName2>
+<alternateName lang="abbr">BST</alternateName>
+<alternateName lang="nb">Bristol</alternateName>
+<alternateName lang="nn">Bristol</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.11782</west>
+<north>51.54443</north>
+<east>-2.51042</east>
+<south>51.34162</south>
+</bbox>
+<score>50.21887969970703</score>
+</geoname>
+<geoname>
+<toponymName>Bristol</toponymName>
+<name>Bristol</name>
+<lat>41.72144</lat>
+<lng>-85.81749</lng>
+<geonameId>4918393</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1602</population>
+<alternateNames/>
+<elevation>236</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IN">IN</adminCode1>
+<adminName1>Indiana</adminName1>
+<adminCode2>039</adminCode2>
+<adminName2>Elkhart County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bristol%2C_Indiana</alternateName>
+<alternateName lang="post">46507</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Indiana/Indianapolis</timezone>
+<bbox>
+<west>-85.82352</west>
+<north>41.72594</north>
+<east>-85.81147</east>
+<south>41.71694</south>
+</bbox>
+<score>47.837467193603516</score>
+</geoname>
+<geoname>
+<toponymName>Bristol</toponymName>
+<name>Bristol</name>
+<lat>40.10067</lat>
+<lng>-74.85183</lng>
+<geonameId>5181688</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>9726</population>
+<alternateNames/>
+<elevation>6</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PA">PA</adminCode1>
+<adminName1>Pennsylvania</adminName1>
+<adminCode2>017</adminCode2>
+<adminName2>Bucks County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bristol%2C_Pennsylvania</alternateName>
+<alternateName lang="post">19007</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-74.86846</west>
+<north>40.11339</north>
+<east>-74.8352</east>
+<south>40.08795</south>
+</bbox>
+<score>47.837467193603516</score>
+</geoname>
+<geoname>
+<toponymName>Bristol</toponymName>
+<name>Bristol</name>
+<lat>42.55891</lat>
+<lng>-88.04925</lng>
+<geonameId>5246785</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2584</population>
+<alternateNames/>
+<elevation>237</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WI">WI</adminCode1>
+<adminName1>Wisconsin</adminName1>
+<adminCode2>059</adminCode2>
+<adminName2>Kenosha County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bristol_%28village%29%2C_Wisconsin</alternateName>
+<alternateName lang="post">53104</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-88.0706</west>
+<north>42.58287</north>
+<east>-87.95097</east>
+<south>42.4946</south>
+</bbox>
+<score>47.837467193603516</score>
+</geoname>
+<geoname>
+<toponymName>Bristol</toponymName>
+<name>Bristol</name>
+<lat>31.44855</lat>
+<lng>-82.21457</lng>
+<geonameId>4184426</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>43</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">GA</adminCode1>
+<adminName1>Georgia</adminName1>
+<adminCode2>229</adminCode2>
+<adminName2>Pierce County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bristol%2C_Georgia</alternateName>
+<alternateName lang="post">31518</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-82.22511</west>
+<north>31.45754</north>
+<east>-82.20402</east>
+<south>31.43955</south>
+</bbox>
+<score>41.003543853759766</score>
+</geoname>
+<geoname>
+<toponymName>Bristol</toponymName>
+<name>Bristol</name>
+<lat>38.79234</lat>
+<lng>-76.66802</lng>
+<geonameId>4349470</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>49</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MD">MD</adminCode1>
+<adminName1>Maryland</adminName1>
+<adminCode2>003</adminCode2>
+<adminName2>Anne Arundel County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bristol%2C_Maryland</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-76.67956</west>
+<north>38.80133</north>
+<east>-76.65648</east>
+<south>38.78334</south>
+</bbox>
+<score>41.003543853759766</score>
+</geoname>
+<geoname>
+<toponymName>Bristol</toponymName>
+<name>Bristol</name>
+<lat>36.59511</lat>
+<lng>-82.18874</lng>
+<geonameId>4608657</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>26702</population>
+<alternateNames>bu li si tuo er,布里斯托爾</alternateNames>
+<elevation>511</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TN">TN</adminCode1>
+<adminName1>Tennessee</adminName1>
+<adminCode2>163</adminCode2>
+<adminName2>Sullivan County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bristol%2C_Tennessee</alternateName>
+<alternateName lang="post">37620</alternateName>
+<alternateName lang="unlc">BSO</alternateName>
+<alternateName lang="zh">布里斯托爾</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-82.21502</west>
+<north>36.6162</north>
+<east>-82.16247</east>
+<south>36.57401</south>
+</bbox>
+<score>41.003543853759766</score>
+</geoname>
+</geonames>

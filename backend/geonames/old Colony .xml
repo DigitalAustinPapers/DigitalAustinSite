@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Old Colony</toponymName>
+<name>Old Colony</name>
+<lat>40.66106</lat>
+<lng>-111.81049</lng>
+<geonameId>5779243</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1395</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="UT">UT</adminCode1>
+<adminName1>Utah</adminName1>
+<adminCode2>035</adminCode2>
+<adminName2>Salt Lake County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<bbox>
+<west>-111.82235</west>
+<north>40.67005</north>
+<east>-111.79863</east>
+<south>40.65206</south>
+</bbox>
+<score>44.02532196044922</score>
+</geoname>
+<geoname>
+<toponymName>Old Colony</toponymName>
+<name>Old Colony</name>
+<lat>38.53373</lat>
+<lng>-76.97053</lng>
+<geonameId>4364383</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>53</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MD">MD</adminCode1>
+<adminName1>Maryland</adminName1>
+<adminCode2>017</adminCode2>
+<adminName2>Charles County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-76.97513</west>
+<north>38.53733</north>
+<east>-76.96593</east>
+<south>38.53013</south>
+</bbox>
+<score>27.515827178955078</score>
+</geoname>
+<geoname>
+<toponymName>Old Colony</toponymName>
+<name>Old Colony</name>
+<lat>40.26674</lat>
+<lng>-79.22475</lng>
+<geonameId>5204320</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>393</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PA">PA</adminCode1>
+<adminName1>Pennsylvania</adminName1>
+<adminCode2>129</adminCode2>
+<adminName2>Westmoreland County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>13.757913589477539</score>
+</geoname>
+</geonames>

@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>12</totalResultsCount>
+<geoname>
+<toponymName>Lambasa Creek</toponymName>
+<name>Lambasa Creek</name>
+<lat>-19.05</lat>
+<lng>178.35</lng>
+<geonameId>2204581</geonameId>
+<countryCode>FJ</countryCode>
+<countryName>Fiji</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="12.0" gmtOffset="12.0">Pacific/Fiji</timezone>
+<score>5.465783596038818</score>
+</geoname>
+<geoname>
+<toponymName>La Para Creek</toponymName>
+<name>La Para Creek</name>
+<lat>28.27111</lat>
+<lng>-97.985</lng>
+<geonameId>4717533</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>28</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>297</adminCode2>
+<adminName2>Live Oak County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>5.465783596038818</score>
+</geoname>
+<geoname>
+<toponymName>La Brea Creek</toponymName>
+<name>La Brea Creek</name>
+<lat>34.85026</lat>
+<lng>-120.20099</lng>
+<geonameId>5363853</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>171</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>083</adminCode2>
+<adminName2>Santa Barbara County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>5.465783596038818</score>
+</geoname>
+<geoname>
+<toponymName>La Bare Creek</toponymName>
+<name>La Bare Creek</name>
+<lat>44.59568</lat>
+<lng>-123.42983</lng>
+<geonameId>5735531</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>131</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OR">OR</adminCode1>
+<adminName1>Oregon</adminName1>
+<adminCode2>003</adminCode2>
+<adminName2>Benton County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>5.465783596038818</score>
+</geoname>
+<geoname>
+<toponymName>Labacan Creek</toponymName>
+<name>Labacan Creek</name>
+<lat>10.85124</lat>
+<lng>122.9583</lng>
+<geonameId>7429423</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>Labacan Creek</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="06">06</adminCode1>
+<adminName1>Western Visayas</adminName1>
+<adminCode2>H3</adminCode2>
+<adminName2>Negros Occidental</adminName2>
+<alternateName lang="en">Labacan Creek</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<score>5.355352401733398</score>
+</geoname>
+<geoname>
+<toponymName>La Jara Creek</toponymName>
+<name>La Jara Creek</name>
+<lat>37.36945</lat>
+<lng>-106.76893</lng>
+<geonameId>5426458</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>3364</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CO">CO</adminCode1>
+<adminName1>Colorado</adminName1>
+<adminCode2>021</adminCode2>
+<adminName2>Conejos County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<score>4.752074718475342</score>
+</geoname>
+<geoname>
+<toponymName>La Jara Creek</toponymName>
+<name>La Jara Creek</name>
+<lat>35.94615</lat>
+<lng>-105.1664</lng>
+<geonameId>5473134</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>2090</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NM">NM</adminCode1>
+<adminName1>New Mexico</adminName1>
+<adminCode2>033</adminCode2>
+<adminName2>Mora County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<score>4.752074718475342</score>
+</geoname>
+<geoname>
+<toponymName>La Jara Creek</toponymName>
+<name>La Jara Creek</name>
+<lat>36.85889</lat>
+<lng>-107.5295</lng>
+<geonameId>5473135</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1856</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NM">NM</adminCode1>
+<adminName1>New Mexico</adminName1>
+<adminCode2>039</adminCode2>
+<adminName2>Rio Arriba County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<score>4.752074718475342</score>
+</geoname>
+<geoname>
+<toponymName>La Jara Creek</toponymName>
+<name>La Jara Creek</name>
+<lat>35.84975</lat>
+<lng>-106.48753</lng>
+<geonameId>5473136</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>2586</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NM">NM</adminCode1>
+<adminName1>New Mexico</adminName1>
+<adminCode2>043</adminCode2>
+<adminName2>Sandoval County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<score>4.752074718475342</score>
+</geoname>
+<geoname>
+<toponymName>La Jara Creek</toponymName>
+<name>La Jara Creek</name>
+<lat>36.08085</lat>
+<lng>-106.98365</lng>
+<geonameId>5473137</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>2150</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NM">NM</adminCode1>
+<adminName1>New Mexico</adminName1>
+<adminCode2>043</adminCode2>
+<adminName2>Sandoval County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<score>4.752074718475342</score>
+</geoname>
+</geonames>

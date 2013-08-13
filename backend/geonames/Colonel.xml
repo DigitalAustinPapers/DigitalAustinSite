@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>19</totalResultsCount>
+<geoname>
+<toponymName>Colonel</toponymName>
+<name>Colonel</name>
+<lat>18.51667</lat>
+<lng>-74.2</lng>
+<geonameId>3727513</geonameId>
+<countryCode>HT</countryCode>
+<countryName>Haiti</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">14</adminCode1>
+<adminName1>GrandʼAnse</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Port-au-Prince</timezone>
+<bbox>
+<west>-74.20949</west>
+<north>18.52566</north>
+<east>-74.19051</east>
+<south>18.50767</south>
+</bbox>
+<score>43.0189208984375</score>
+</geoname>
+<geoname>
+<toponymName>Coronel</toponymName>
+<name>Coronel</name>
+<lat>-37.03386</lat>
+<lng>-73.14019</lng>
+<geonameId>3893532</geonameId>
+<countryCode>CL</countryCode>
+<countryName>Chile</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>92940</population>
+<alternateNames>Coronel,Koronel,Koronel',ke luo nei er,kwrwnl,Коронел,Коронель,קאראנעל,كورونل,科羅內爾</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="BI">06</adminCode1>
+<adminName1>Biobío</adminName1>
+<adminCode2>81</adminCode2>
+<adminName2>Provincia de Concepción</adminName2>
+<adminCode3>08102</adminCode3>
+<adminName3>Coronel</adminName3>
+<alternateName lang="ar">كورونل</alternateName>
+<alternateName lang="bg">Коронел</alternateName>
+<alternateName lang="de">Coronel</alternateName>
+<alternateName lang="lad">Koronel</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Coronel%2C_Chile</alternateName>
+<alternateName lang="ru">Коронель</alternateName>
+<alternateName lang="unlc">CNL</alternateName>
+<alternateName lang="yi">קאראנעל</alternateName>
+<alternateName lang="zh">科羅內爾</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-3.0">America/Santiago</timezone>
+<bbox>
+<west>-73.1896</west>
+<north>-36.9944</north>
+<east>-73.09079</east>
+<south>-37.07332</south>
+</bbox>
+<score>19.502300262451172</score>
+</geoname>
+<geoname>
+<toponymName>Coronel</toponymName>
+<name>Coronel</name>
+<lat>-37.00698</lat>
+<lng>-73.12524</lng>
+<geonameId>8261347</geonameId>
+<countryCode>CL</countryCode>
+<countryName>Chile</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="BI">06</adminCode1>
+<adminName1>Biobío</adminName1>
+<adminCode2>81</adminCode2>
+<adminName2>Provincia de Concepción</adminName2>
+<adminCode3>08102</adminCode3>
+<adminName3>Coronel</adminName3>
+<timezone dstOffset="-4.0" gmtOffset="-3.0">America/Santiago</timezone>
+<bbox>
+<west>-73.55596</west>
+<north>-36.90482</north>
+<east>-72.9532</east>
+<south>-37.10276</south>
+</bbox>
+<score>16.08857536315918</score>
+</geoname>
+<geoname>
+<toponymName>Colonet</toponymName>
+<name>Colonet</name>
+<lat>31.08873</lat>
+<lng>-116.2437</lng>
+<geonameId>4013501</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPLQ</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>abandoned populated place</fcodeName>
+<population/>
+<alternateNames>Colnett,Colonet,Santa Fe</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="BCN">02</adminCode1>
+<adminName1>Baja California</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="es">Colonet</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Santa_Isabel</timezone>
+<bbox>
+<west>-116.2458</west>
+<north>31.09053</north>
+<east>-116.2416</east>
+<south>31.08693</south>
+</bbox>
+<score>13.17180061340332</score>
+</geoname>
+<geoname>
+<toponymName>Coronel</toponymName>
+<name>Coronel</name>
+<lat>-36.05041</lat>
+<lng>-72.45575</lng>
+<geonameId>3893533</geonameId>
+<countryCode>CL</countryCode>
+<countryName>Chile</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Coronel,Coronel de Maule</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="ML">11</adminCode1>
+<adminName1>Maule</adminName1>
+<adminCode2>72</adminCode2>
+<adminName2>Provincia de Cauquenes</adminName2>
+<adminCode3>07201</adminCode3>
+<adminName3>Cauquenes</adminName3>
+<timezone dstOffset="-4.0" gmtOffset="-3.0">America/Santiago</timezone>
+<bbox>
+<west>-72.46687</west>
+<north>-36.04142</north>
+<east>-72.44463</east>
+<south>-36.05941</south>
+</bbox>
+<score>11.259657859802246</score>
+</geoname>
+<geoname>
+<toponymName>Coronel</toponymName>
+<name>Coronel</name>
+<lat>-12.05</lat>
+<lng>-77.06667</lng>
+<geonameId>3942183</geonameId>
+<countryCode>PE</countryCode>
+<countryName>Peru</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Coronel,Coronel Hacienda</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="LIM">15</adminCode1>
+<adminName1>Lima Region</adminName1>
+<adminCode2>1501</adminCode2>
+<adminName2>Lima</adminName2>
+<adminCode3>150101</adminCode3>
+<adminName3>Lima</adminName3>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Lima</timezone>
+<bbox>
+<west>-77.07586</west>
+<north>-12.04101</north>
+<east>-77.05747</east>
+<south>-12.05899</south>
+</bbox>
+<score>11.259657859802246</score>
+</geoname>
+<geoname>
+<toponymName>Coronel</toponymName>
+<name>Coronel</name>
+<lat>-9.95</lat>
+<lng>-38.36667</lng>
+<geonameId>3401697</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="BA">05</adminCode1>
+<adminName1>Estado de Bahía</adminName1>
+<adminCode2>2918100</adminCode2>
+<adminName2>Jeremoabo</adminName2>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Bahia</timezone>
+<bbox>
+<west>-38.3758</west>
+<north>-9.94101</north>
+<east>-38.35754</east>
+<south>-9.95899</south>
+</bbox>
+<score>9.193471908569336</score>
+</geoname>
+<geoname>
+<toponymName>Coronel</toponymName>
+<name>Coronel</name>
+<lat>-12.56667</lat>
+<lng>-41.81667</lng>
+<geonameId>3465486</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="BA">05</adminCode1>
+<adminName1>Estado de Bahía</adminName1>
+<adminCode2>2929909</adminCode2>
+<adminName2>Seabra</adminName2>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Bahia</timezone>
+<bbox>
+<west>-41.82588</west>
+<north>-12.55767</north>
+<east>-41.80745</east>
+<south>-12.57566</south>
+</bbox>
+<score>9.193471908569336</score>
+</geoname>
+<geoname>
+<toponymName>Coronel</toponymName>
+<name>Coronel</name>
+<lat>22.78333</lat>
+<lng>-99.93333</lng>
+<geonameId>3530224</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TAM">28</adminCode1>
+<adminName1>Tamaulipas</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<bbox>
+<west>-99.94309</west>
+<north>22.79233</north>
+<east>-99.92358</east>
+<south>22.77434</south>
+</bbox>
+<score>9.193471908569336</score>
+</geoname>
+<geoname>
+<toponymName>Coronel</toponymName>
+<name>Coronel</name>
+<lat>17.51667</lat>
+<lng>-93.5</lng>
+<geonameId>3530225</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TAB">27</adminCode1>
+<adminName1>Tabasco</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-93.50943</west>
+<north>17.52566</north>
+<east>-93.49057</east>
+<south>17.50767</south>
+</bbox>
+<score>9.193471908569336</score>
+</geoname>
+</geonames>

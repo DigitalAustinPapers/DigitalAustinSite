@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Saint Neots</toponymName>
+<name>Saint Neots</name>
+<lat>52.21667</lat>
+<lng>-0.26667</lng>
+<geonameId>2638717</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>15270</population>
+<alternateNames>Saint Neots,St Neots</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>12UE</adminCode3>
+<adminName3>Huntingdonshire</adminName3>
+<alternateName lang="en">Saint Neots</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/St_Neots</alternateName>
+<alternateName lang="unlc">SNT</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.2921</west>
+<north>52.23224</north>
+<east>-0.24123</east>
+<south>52.20109</south>
+</bbox>
+<score>56.7890510559082</score>
+</geoname>
+<geoname>
+<toponymName>Saint-Léons</toponymName>
+<name>Saint-Léons</name>
+<lat>44.21497</lat>
+<lng>2.98597</lng>
+<geonameId>2978777</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>315</population>
+<alternateNames>Saint-Leons,Saint-Léons</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="N">B3</adminCode1>
+<adminName1>Midi-Pyrénées</adminName1>
+<adminCode2>12</adminCode2>
+<adminName2>Aveyron</adminName2>
+<adminCode3>121</adminCode3>
+<adminName3>Arrondissement de Millau</adminName3>
+<adminCode4>12238</adminCode4>
+<adminName4>Saint-Léons</adminName4>
+<alternateName lang="post">12780</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>2.98471</west>
+<north>44.21587</north>
+<east>2.98722</east>
+<south>44.21407</south>
+</bbox>
+<score>31.49526023864746</score>
+</geoname>
+<geoname>
+<toponymName>Saint Lewis</toponymName>
+<name>Saint Lewis</name>
+<lat>35.78155</lat>
+<lng>-77.70303</lng>
+<geonameId>4489639</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>35</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NC">NC</adminCode1>
+<adminName1>North Carolina</adminName1>
+<adminCode2>065</adminCode2>
+<adminName2>Edgecombe County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-77.71412</west>
+<north>35.79054</north>
+<east>-77.69194</east>
+<south>35.77255</south>
+</bbox>
+<score>26.770614624023438</score>
+</geoname>
+<geoname>
+<toponymName>Saint-Léons</toponymName>
+<name>Saint-Léons</name>
+<lat>44.21556</lat>
+<lng>2.98583</lng>
+<geonameId>6427033</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population>355</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="N">B3</adminCode1>
+<adminName1>Midi-Pyrénées</adminName1>
+<adminCode2>12</adminCode2>
+<adminName2>Aveyron</adminName2>
+<adminCode3>121</adminCode3>
+<adminName3>Arrondissement de Millau</adminName3>
+<adminCode4>12238</adminCode4>
+<adminName4>Saint-Léons</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Saint-L%C3%A9ons</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>2.93017</west>
+<north>44.25711</north>
+<east>3.03299</east>
+<south>44.18642</south>
+</bbox>
+<score>25.45201301574707</score>
+</geoname>
+</geonames>

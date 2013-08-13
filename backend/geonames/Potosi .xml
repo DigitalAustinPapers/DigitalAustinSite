@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>110</totalResultsCount>
+<geoname>
+<toponymName>Potosí</toponymName>
+<name>Potosí</name>
+<lat>-19.58361</lat>
+<lng>-65.75306</lng>
+<geonameId>3907584</geonameId>
+<countryCode>BO</countryCode>
+<countryName>Bolivia</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population>141251</population>
+<alternateNames>Ciudad Potosi,P'utuqsi,Potosi,Potosí,Putusi,bo tuo xi,bwtwsy,potoshi,potosi,pwtwsy,Ποτοσί,Потоси,Потосі,פוטוסי,بوتوسي,पोतोसी,პოტოსი,ポトシ,波托西,포토시</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="P">07</adminCode1>
+<adminName1>Potosí</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ar">بوتوسي</alternateName>
+<alternateName lang="ay">Putusi</alternateName>
+<alternateName lang="bg">Потоси</alternateName>
+<alternateName lang="ca">Potosí</alternateName>
+<alternateName lang="de">Potosí</alternateName>
+<alternateName lang="el">Ποτοσί</alternateName>
+<alternateName lang="en">Potosí</alternateName>
+<alternateName lang="eo">Potosí</alternateName>
+<alternateName lang="es">Potosí</alternateName>
+<alternateName lang="eu">Potosi</alternateName>
+<alternateName lang="fi">Potosí</alternateName>
+<alternateName lang="fr">Potosí</alternateName>
+<alternateName lang="he">פוטוסי</alternateName>
+<alternateName lang="hi">पोतोसी</alternateName>
+<alternateName lang="it">Potosí</alternateName>
+<alternateName lang="ja">ポトシ</alternateName>
+<alternateName lang="ka">პოტოსი</alternateName>
+<alternateName lang="ko">포토시</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Potos%C3%AD</alternateName>
+<alternateName lang="lt">Potosi</alternateName>
+<alternateName lang="mk">Потоси</alternateName>
+<alternateName lang="nl">Potosí</alternateName>
+<alternateName lang="pl">Potosí</alternateName>
+<alternateName lang="pt">Potosí</alternateName>
+<alternateName lang="qu">P'utuqsi</alternateName>
+<alternateName lang="ru">Потоси</alternateName>
+<alternateName lang="sl">Potosi</alternateName>
+<alternateName lang="sv">Potosí</alternateName>
+<alternateName lang="uk">Потосі</alternateName>
+<alternateName lang="unlc">POI</alternateName>
+<alternateName lang="zh">波托西</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/La_Paz</timezone>
+<bbox>
+<west>-65.80467</west>
+<north>-19.53497</north>
+<east>-65.70144</east>
+<south>-19.63225</south>
+</bbox>
+<score>203.66957092285156</score>
+</geoname>
+<geoname>
+<toponymName>Potosí</toponymName>
+<name>Potosí</name>
+<lat>0.75</lat>
+<lng>-77.41667</lng>
+<geonameId>3671849</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="NAR">20</adminCode1>
+<adminName1>Nariño</adminName1>
+<adminCode2>3671849</adminCode2>
+<adminName2>Potosí</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<score>74.07968139648438</score>
+</geoname>
+<geoname>
+<toponymName>Potosí</toponymName>
+<name>Potosí</name>
+<lat>11.49416</lat>
+<lng>-85.8568</lng>
+<geonameId>3617187</geonameId>
+<countryCode>NI</countryCode>
+<countryName>Nicaragua</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>5222</population>
+<alternateNames>Potosi,Potosí</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="RI">15</adminCode1>
+<adminName1>Rivas</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Potos%C3%AD%2C_Rivas</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Managua</timezone>
+<bbox>
+<west>-85.86598</west>
+<north>11.50315</north>
+<east>-85.84763</east>
+<south>11.48516</south>
+</bbox>
+<score>62.858699798583984</score>
+</geoname>
+<geoname>
+<toponymName>Departamento de Potosí</toponymName>
+<name>Departamento de Potosí</name>
+<lat>-20.66667</lat>
+<lng>-67</lng>
+<geonameId>3907580</geonameId>
+<countryCode>BO</countryCode>
+<countryName>Bolivia</countryName>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>first-order administrative division</fcodeName>
+<population/>
+<alternateNames>Departamento de Potosi,Departamento de Potosí,Potosi,Potosí</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="P">07</adminCode1>
+<adminName1>Potosí</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="es">Potosí</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Potos%C3%AD_Department</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/La_Paz</timezone>
+<bbox>
+<west>-68.78723</west>
+<north>-17.85306</north>
+<east>-64.73515</east>
+<south>-22.90111</south>
+</bbox>
+<score>62.858699798583984</score>
+</geoname>
+<geoname>
+<toponymName>Potosi</toponymName>
+<name>Potosi</name>
+<lat>32.3293</lat>
+<lng>-99.65647</lng>
+<geonameId>4720275</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2991</population>
+<alternateNames/>
+<elevation>555</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>441</adminCode2>
+<adminName2>Taylor County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Potosi%2C_Texas</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-99.72547</west>
+<north>32.37232</north>
+<east>-99.63054</east>
+<south>32.31368</south>
+</bbox>
+<score>59.26374816894531</score>
+</geoname>
+<geoname>
+<toponymName>Potosi</toponymName>
+<name>Potosi</name>
+<lat>-19.54307</lat>
+<lng>-65.72371</lng>
+<geonameId>6300779</geonameId>
+<countryCode>BO</countryCode>
+<countryName>Bolivia</countryName>
+<fcl>S</fcl>
+<fcode>AIRP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>airport</fcodeName>
+<population/>
+<alternateNames>POI,SLPO</alternateNames>
+<elevation>3935</elevation>
+<continentCode>SA</continentCode>
+<adminCode1/>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="iata">POI</alternateName>
+<alternateName lang="icao">SLPO</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Captain_Nicolas_Rojas_Airport</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/La_Paz</timezone>
+<score>51.85578155517578</score>
+</geoname>
+<geoname>
+<toponymName>Potosi</toponymName>
+<name>Potosi</name>
+<lat>37.93644</lat>
+<lng>-90.78791</lng>
+<geonameId>4404348</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>2660</population>
+<alternateNames/>
+<elevation>275</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>221</adminCode2>
+<adminName2>Washington County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Potosi%2C_Missouri</alternateName>
+<alternateName lang="post">63664</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.79597</west>
+<north>37.9428</north>
+<east>-90.77984</east>
+<south>37.93008</south>
+</bbox>
+<score>44.447811126708984</score>
+</geoname>
+<geoname>
+<toponymName>Potosi</toponymName>
+<name>Potosi</name>
+<lat>42.68944</lat>
+<lng>-90.71207</lng>
+<geonameId>5267861</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>688</population>
+<alternateNames/>
+<elevation>242</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WI">WI</adminCode1>
+<adminName1>Wisconsin</adminName1>
+<adminCode2>043</adminCode2>
+<adminName2>Grant County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Potosi%2C_Wisconsin</alternateName>
+<alternateName lang="post">53820</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.71329</west>
+<north>42.69034</north>
+<east>-90.71085</east>
+<south>42.68854</south>
+</bbox>
+<score>44.447811126708984</score>
+</geoname>
+<geoname>
+<toponymName>Potosí</toponymName>
+<name>Potosí</name>
+<lat>8.95917</lat>
+<lng>-63.56556</lng>
+<geonameId>3629925</geonameId>
+<countryCode>VE</countryCode>
+<countryName>Venezuela</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Porosi,Porosí,Potosi,Potosí</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="B">02</adminCode1>
+<adminName1>Estado Anzoátegui</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.5" gmtOffset="-4.5">America/Caracas</timezone>
+<bbox>
+<west>-63.57466</west>
+<north>8.96816</north>
+<east>-63.55645</east>
+<south>8.95017</south>
+</bbox>
+<score>37.35219955444336</score>
+</geoname>
+<geoname>
+<toponymName>Potosí</toponymName>
+<name>Potosí</name>
+<lat>0.80739</lat>
+<lng>-77.57216</lng>
+<geonameId>3671848</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3979</population>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="NAR">20</adminCode1>
+<adminName1>Nariño</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<bbox>
+<west>-77.57995</west>
+<north>0.81518</north>
+<east>-77.56438</east>
+<south>0.7996</south>
+</bbox>
+<score>37.03984069824219</score>
+</geoname>
+</geonames>

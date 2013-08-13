@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>6</totalResultsCount>
+<geoname>
+<toponymName>Brussels</toponymName>
+<name>Brussels</name>
+<lat>50.85045</lat>
+<lng>4.34878</lng>
+<geonameId>2800866</geonameId>
+<countryCode>BE</countryCode>
+<countryName>Belgium</countryName>
+<fcl>P</fcl>
+<fcode>PPLC</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>capital of a political entity</fcodeName>
+<population>1019022</population>
+<alternateNames>An Bhruiseil,An Bhruiséil,BRU,Breissel,Brisel,Brisele,Briuselis,Brjuksel,Brjusel',Brjussel',Brueksel,Bruessel,Bruesszel,Bruiseal,Bruksel,Bruksela,Brukseli,Brukselo,Brusehl',Brusel,Brusela,Bruselas,Bruseles,Bruselj,Bruselo,Brusel·les,Brussel,Brussele,Brussels,Brussel·les,Bruxel,Bruxelas,Bruxellae,Bruxelles,Brwsel,Bryssel,Bryusel,Bryxelles,Bréissel,Brüksel,Brüssel,Brüsszel,Citta di Bruxelles,Città di Bruxelles,Kota Brusel,beulwisel,braselsa,brassels,briuseli,brwksl,brysl,bu lu sai er,buryusseru,Βρυξέλλες,Брисел,Брусэль,Брюксел,Брюсель,Брюссель,Բրյուսել,בריסל,بروكسل,بروکسل,بريۇسسېل,ܒܪܘܟܣܠ,ब्रसेल्स,บรัสเซลส์,ბრიუსელი,ブリュッセル,布鲁塞尔,브뤼셀</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="BRU">BRU</adminCode1>
+<adminName1>Brussels Capital Region</adminName1>
+<adminCode2>BRU</adminCode2>
+<adminName2>(Bruxelles-Capitale)</adminName2>
+<adminCode3>21</adminCode3>
+<adminName3>Arrondissement Brussel-Hoofdstad</adminName3>
+<adminCode4>21004</adminCode4>
+<adminName4>City of Brussels</adminName4>
+<alternateName lang="af">Brussel</alternateName>
+<alternateName lang="ar">بروكسل</alternateName>
+<alternateName lang="arc">ܒܪܘܟܣܠ</alternateName>
+<alternateName lang="ast">Bruseles</alternateName>
+<alternateName lang="be">Брусэль</alternateName>
+<alternateName lang="bg">Брюксел</alternateName>
+<alternateName lang="bs">Brisel</alternateName>
+<alternateName lang="ca">Brussel·les</alternateName>
+<alternateName lang="cs">Brusel</alternateName>
+<alternateName lang="cy">Brwsel</alternateName>
+<alternateName lang="da">Bruxelles</alternateName>
+<alternateName lang="de">Brüssel</alternateName>
+<alternateName lang="el">Βρυξέλλες</alternateName>
+<alternateName lang="en">Brussels</alternateName>
+<alternateName lang="eo">Bruselo</alternateName>
+<alternateName lang="es">Bruselas</alternateName>
+<alternateName lang="et">Brüssel</alternateName>
+<alternateName lang="eu">Brusela</alternateName>
+<alternateName lang="fa">بروکسل</alternateName>
+<alternateName lang="fi">Bryssel</alternateName>
+<alternateName lang="fr">Bruxelles</alternateName>
+<alternateName lang="fy">Brussel</alternateName>
+<alternateName lang="ga">An Bhruiséil</alternateName>
+<alternateName lang="gd">Bruiseal</alternateName>
+<alternateName lang="gl">Bruxelas</alternateName>
+<alternateName lang="he">בריסל</alternateName>
+<alternateName lang="hr">Bruxelles</alternateName>
+<alternateName lang="hu">Brüsszel</alternateName>
+<alternateName lang="hy">Բրյուսել</alternateName>
+<alternateName lang="iata">BRU</alternateName>
+<alternateName lang="id">Brusel</alternateName>
+<alternateName lang="io">Bruxelles</alternateName>
+<alternateName lang="is">Brussel</alternateName>
+<alternateName lang="it">Bruxelles</alternateName>
+<alternateName lang="ja">ブリュッセル</alternateName>
+<alternateName lang="jv">Brusel</alternateName>
+<alternateName lang="ka">ბრიუსელი</alternateName>
+<alternateName lang="ko">브뤼셀</alternateName>
+<alternateName lang="ku">Bruksel</alternateName>
+<alternateName lang="la">Bruxellae</alternateName>
+<alternateName lang="lb">Bréissel</alternateName>
+<alternateName lang="li">Brussel</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/City_of_Brussels</alternateName>
+<alternateName lang="lt">Briuselis</alternateName>
+<alternateName lang="lv">Brisele</alternateName>
+<alternateName lang="mk">Брисел</alternateName>
+<alternateName lang="mr">ब्रसेल्स</alternateName>
+<alternateName lang="ms">Brussels</alternateName>
+<alternateName lang="nds">Brüssel</alternateName>
+<alternateName lang="nl">Brussel</alternateName>
+<alternateName lang="nn">Brussel</alternateName>
+<alternateName lang="no">Brussel</alternateName>
+<alternateName lang="pl">Bruksela</alternateName>
+<alternateName lang="post">1000</alternateName>
+<alternateName lang="pt">Bruxelas</alternateName>
+<alternateName lang="qu">Brussel</alternateName>
+<alternateName lang="ro">Bruxelles</alternateName>
+<alternateName lang="ru">Брюссель</alternateName>
+<alternateName lang="sl">Bruselj</alternateName>
+<alternateName lang="sq">Brukseli</alternateName>
+<alternateName lang="sr">Брисел</alternateName>
+<alternateName lang="sv">Bryssel</alternateName>
+<alternateName lang="th">บรัสเซลส์</alternateName>
+<alternateName lang="tr">Brüksel</alternateName>
+<alternateName lang="ug">بريۇسسېل</alternateName>
+<alternateName lang="uk">Брюсель</alternateName>
+<alternateName lang="wa">Brussele</alternateName>
+<alternateName lang="zh-CN">布鲁塞尔</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Brussels</timezone>
+<bbox>
+<west>4.14066</west>
+<north>50.98147</north>
+<east>4.5569</east>
+<south>50.71942</south>
+</bbox>
+<score>40.742431640625</score>
+</geoname>
+<geoname>
+<toponymName>Brosses</toponymName>
+<name>Brosses</name>
+<lat>47.5369</lat>
+<lng>3.69095</lng>
+<geonameId>3029915</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>259</population>
+<alternateNames>Brosses</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="D">A1</adminCode1>
+<adminName1>Bourgogne</adminName1>
+<adminCode2>89</adminCode2>
+<adminName2>Yonne</adminName2>
+<adminCode3>892</adminCode3>
+<adminName3>Arrondissement d'Avallon</adminName3>
+<adminCode4>89057</adminCode4>
+<adminName4>Brosses</adminName4>
+<alternateName lang="post">89660</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>3.68961</west>
+<north>47.5378</north>
+<east>3.69228</east>
+<south>47.536</south>
+</bbox>
+<score>27.109302520751953</score>
+</geoname>
+<geoname>
+<toponymName>Brasles</toponymName>
+<name>Brasles</name>
+<lat>49.0481</lat>
+<lng>3.43</lng>
+<geonameId>3030524</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1255</population>
+<alternateNames>Brasles</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="S">B6</adminCode1>
+<adminName1>Picardie</adminName1>
+<adminCode2>02</adminCode2>
+<adminName2>Aisne</adminName2>
+<adminCode3>021</adminCode3>
+<adminName3>Arrondissement de Château-Thierry</adminName3>
+<adminCode4>02114</adminCode4>
+<adminName4>Brasles</adminName4>
+<alternateName lang="post">02400</alternateName>
+<alternateName lang="unlc">AJK</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>3.42314</west>
+<north>49.05259</north>
+<east>3.43686</east>
+<south>49.0436</south>
+</bbox>
+<score>27.109302520751953</score>
+</geoname>
+<geoname>
+<toponymName>Wrocław</toponymName>
+<name>Wrocław</name>
+<lat>51.1</lat>
+<lng>17.03333</lng>
+<geonameId>3081368</geonameId>
+<countryCode>PL</countryCode>
+<countryName>Poland</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population>634893</population>
+<alternateNames>Brassel,Breslau,Breslavia,Breslavl',Breslavl’,Gorad Vroclau,Vratislav,Vratislavia,Vroclav,Vroclava,Vroclavas,Vroclavo,Vroklave,Vroslav,Vrotslav,WRO,Wroclaw,Wroclow,Wrocław,Wrocłow,Wroklaw,Wroslaw,Wrosław,Wrócław,beulocheuwapeu,frwtswaf,fu luo ci wa fu,viratscahp,vrotsavapha,vrotslavi,vurotsuwafu,w rxtswaf,wrwslaw,wrwtswaf,wrwzlb,Βρότσλαβ,Вроцлав,Горад Вроцлаў,ברעסלוי,ורוצלב,فروتسواف,وروتسواف,وروسلاو,ڤرۆتسواف,व्रोत्सवाफ,விராத்ஸ்சாஃப்,วรอตสวัฟ,ვროცლავი,ヴロツワフ,弗罗茨瓦夫,브로츠와프</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="DS">72</adminCode1>
+<adminName1>Lower Silesian Voivodeship</adminName1>
+<adminCode2>0223</adminCode2>
+<adminName2>Powiat wrocławski</adminName2>
+<alternateName lang="af">Wrocław</alternateName>
+<alternateName lang="ar">فروتسواف</alternateName>
+<alternateName lang="ast">Wroclaw</alternateName>
+<alternateName lang="az">Vroslav</alternateName>
+<alternateName lang="be">Горад Вроцлаў</alternateName>
+<alternateName lang="bg">Вроцлав</alternateName>
+<alternateName lang="bi">Wroclaw</alternateName>
+<alternateName lang="ckb">ڤرۆتسواف</alternateName>
+<alternateName lang="cs">Vratislav</alternateName>
+<alternateName lang="csb">Wrocław</alternateName>
+<alternateName lang="da">Wrocław</alternateName>
+<alternateName lang="de">Breslau</alternateName>
+<alternateName lang="el">Βρότσλαβ</alternateName>
+<alternateName lang="en">Wrocław</alternateName>
+<alternateName lang="eo">Vroclavo</alternateName>
+<alternateName lang="es">Wrocław</alternateName>
+<alternateName lang="et">Wrocław</alternateName>
+<alternateName lang="eu">Wroclaw</alternateName>
+<alternateName lang="fa">وروتسواف</alternateName>
+<alternateName lang="fi">Wrocław</alternateName>
+<alternateName lang="fr">Wrocław</alternateName>
+<alternateName lang="he">ורוצלב</alternateName>
+<alternateName lang="hr">Wrocław</alternateName>
+<alternateName lang="hsb">Wrócław</alternateName>
+<alternateName lang="hu">Wrocław</alternateName>
+<alternateName lang="iata">WRO</alternateName>
+<alternateName lang="id">Wrocław</alternateName>
+<alternateName lang="is">Wrocław</alternateName>
+<alternateName lang="it">Breslavia</alternateName>
+<alternateName lang="ja">ヴロツワフ</alternateName>
+<alternateName lang="jv">Wrocław</alternateName>
+<alternateName lang="ka">ვროცლავი</alternateName>
+<alternateName lang="ko">브로츠와프</alternateName>
+<alternateName lang="la">Vratislavia</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wroc%C5%82aw</alternateName>
+<alternateName lang="lt">Vroclavas</alternateName>
+<alternateName lang="lv">Vroclava</alternateName>
+<alternateName lang="mk">Вроцлав</alternateName>
+<alternateName lang="mr">व्रोत्सवाफ</alternateName>
+<alternateName lang="ms">Wrocław</alternateName>
+<alternateName lang="na">Wrocław</alternateName>
+<alternateName lang="nds">Breslau</alternateName>
+<alternateName lang="nl">Wrocław</alternateName>
+<alternateName lang="nn">Wrocław</alternateName>
+<alternateName lang="no">Wrocław</alternateName>
+<alternateName lang="os">Вроцлав</alternateName>
+<alternateName lang="pl">Wrocław</alternateName>
+<alternateName lang="pnb">وروسلاو</alternateName>
+<alternateName lang="pt">Wrocław</alternateName>
+<alternateName lang="ro">Wrocław</alternateName>
+<alternateName lang="ru">Вроцлав</alternateName>
+<alternateName lang="sk">Vroclav</alternateName>
+<alternateName lang="sl">Wrocław</alternateName>
+<alternateName lang="sli">Brassel</alternateName>
+<alternateName lang="sr">Вроцлав</alternateName>
+<alternateName lang="sv">Wrocław</alternateName>
+<alternateName lang="szl">Wrocłow</alternateName>
+<alternateName lang="ta">விராத்ஸ்சாஃப்</alternateName>
+<alternateName lang="tet">Vroklave</alternateName>
+<alternateName lang="th">วรอตสวัฟ</alternateName>
+<alternateName lang="ug">Wroklaw</alternateName>
+<alternateName lang="uk">Вроцлав</alternateName>
+<alternateName lang="unlc">WRO</alternateName>
+<alternateName lang="vep">Vroclav</alternateName>
+<alternateName lang="vo">Wrocław</alternateName>
+<alternateName lang="yi">ברעסלוי</alternateName>
+<alternateName lang="zh">弗罗茨瓦夫</alternateName>
+<alternateName lang="zh-CN">弗罗茨瓦夫</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Warsaw</timezone>
+<bbox>
+<west>16.86826</west>
+<north>51.20343</north>
+<east>17.19841</east>
+<south>50.99657</south>
+</bbox>
+<score>24.69364356994629</score>
+</geoname>
+<geoname>
+<toponymName>Brasles</toponymName>
+<name>Brasles</name>
+<lat>49.04917</lat>
+<lng>3.42778</lng>
+<geonameId>6424753</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population>1283</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="S">B6</adminCode1>
+<adminName1>Picardie</adminName1>
+<adminCode2>02</adminCode2>
+<adminName2>Aisne</adminName2>
+<adminCode3>021</adminCode3>
+<adminName3>Arrondissement de Château-Thierry</adminName3>
+<adminCode4>02114</adminCode4>
+<adminName4>Brasles</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brasles</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>3.39409</west>
+<north>49.07254</north>
+<east>3.44505</east>
+<south>49.04242</south>
+</bbox>
+<score>22.134653091430664</score>
+</geoname>
+<geoname>
+<toponymName>Brosses</toponymName>
+<name>Brosses</name>
+<lat>47.53667</lat>
+<lng>3.69111</lng>
+<geonameId>6455328</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population>284</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="D">A1</adminCode1>
+<adminName1>Bourgogne</adminName1>
+<adminCode2>89</adminCode2>
+<adminName2>Yonne</adminName2>
+<adminCode3>892</adminCode3>
+<adminName3>Arrondissement d'Avallon</adminName3>
+<adminCode4>89057</adminCode4>
+<adminName4>Brosses</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brosses</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>3.65986</west>
+<north>47.56363</north>
+<east>3.7259</east>
+<south>47.50146</south>
+</bbox>
+<score>22.134653091430664</score>
+</geoname>
+</geonames>

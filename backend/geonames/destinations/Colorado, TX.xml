@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>367</totalResultsCount>
+<geoname>
+<toponymName>Colorado County</toponymName>
+<name>Colorado County</name>
+<lat>29.62082</lat>
+<lng>-96.52628</lng>
+<geonameId>4682626</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>20874</population>
+<alternateNames>Comte de Colorado,Comté de Colorado</alternateNames>
+<elevation>72</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>089</adminCode2>
+<adminName2>Colorado County</adminName2>
+<alternateName lang="fr">Comté de Colorado</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Colorado_County%2C_Texas</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-96.87343</west>
+<north>29.95683</north>
+<east>-96.17505</east>
+<south>29.24695</south>
+</bbox>
+<score>6.142909049987793</score>
+</geoname>
+<geoname>
+<toponymName>Weimar</toponymName>
+<name>Weimar</name>
+<lat>29.70301</lat>
+<lng>-96.78053</lng>
+<geonameId>4740482</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2151</population>
+<alternateNames/>
+<elevation>125</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>089</adminCode2>
+<adminName2>Colorado County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Weimar%2C_Texas</alternateName>
+<alternateName lang="post">78962</alternateName>
+<alternateName lang="unlc">WJR</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-96.78571</west>
+<north>29.70751</north>
+<east>-96.77536</east>
+<south>29.69851</south>
+</bbox>
+<score>4.349448204040527</score>
+</geoname>
+<geoname>
+<toponymName>Alleyton</toponymName>
+<name>Alleyton</name>
+<lat>29.70662</lat>
+<lng>-96.48636</lng>
+<geonameId>4670387</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>57</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>089</adminCode2>
+<adminName2>Colorado County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Alleyton%2C_Texas</alternateName>
+<alternateName lang="post">78935</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-96.49671</west>
+<north>29.71562</north>
+<east>-96.476</east>
+<south>29.69763</south>
+</bbox>
+<score>3.624539852142334</score>
+</geoname>
+<geoname>
+<toponymName>Altair</toponymName>
+<name>Altair</name>
+<lat>29.57135</lat>
+<lng>-96.45414</lng>
+<geonameId>4670521</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>63</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>089</adminCode2>
+<adminName2>Colorado County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Altair%2C_Texas</alternateName>
+<alternateName lang="post">77412</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-96.46448</west>
+<north>29.58034</north>
+<east>-96.44379</east>
+<south>29.56236</south>
+</bbox>
+<score>3.624539852142334</score>
+</geoname>
+<geoname>
+<toponymName>Borden</toponymName>
+<name>Borden</name>
+<lat>29.69135</lat>
+<lng>-96.70192</lng>
+<geonameId>4675687</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>100</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>089</adminCode2>
+<adminName2>Colorado County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Borden%2C_Texas</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-96.71227</west>
+<north>29.70034</north>
+<east>-96.69157</east>
+<south>29.68235</south>
+</bbox>
+<score>3.624539852142334</score>
+</geoname>
+<geoname>
+<toponymName>Eagle Lake</toponymName>
+<name>Eagle Lake</name>
+<lat>29.58968</lat>
+<lng>-96.33358</lng>
+<geonameId>4687579</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3639</population>
+<alternateNames/>
+<elevation>53</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>089</adminCode2>
+<adminName2>Colorado County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Eagle_Lake%2C_Texas</alternateName>
+<alternateName lang="post">77434</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-96.34253</west>
+<north>29.59747</north>
+<east>-96.32462</east>
+<south>29.58189</south>
+</bbox>
+<score>3.624539852142334</score>
+</geoname>
+<geoname>
+<toponymName>Frelsburg</toponymName>
+<name>Frelsburg</name>
+<lat>29.87106</lat>
+<lng>-96.54664</lng>
+<geonameId>4692374</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>92</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>089</adminCode2>
+<adminName2>Colorado County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Frelsburg%2C_Texas</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-96.55701</west>
+<north>29.88005</north>
+<east>-96.53627</east>
+<south>29.86207</south>
+</bbox>
+<score>3.624539852142334</score>
+</geoname>
+<geoname>
+<toponymName>Garwood</toponymName>
+<name>Garwood</name>
+<lat>29.44969</lat>
+<lng>-96.39691</lng>
+<geonameId>4693078</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>47</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>089</adminCode2>
+<adminName2>Colorado County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Garwood%2C_Texas</alternateName>
+<alternateName lang="post">77442</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-96.40724</west>
+<north>29.45868</north>
+<east>-96.38658</east>
+<south>29.44069</south>
+</bbox>
+<score>3.624539852142334</score>
+</geoname>
+<geoname>
+<toponymName>Glidden</toponymName>
+<name>Glidden</name>
+<lat>29.70079</lat>
+<lng>-96.58636</lng>
+<geonameId>4693749</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>661</population>
+<alternateNames/>
+<elevation>72</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>089</adminCode2>
+<adminName2>Colorado County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Glidden%2C_Texas</alternateName>
+<alternateName lang="post">78943</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-96.5874</west>
+<north>29.70169</north>
+<east>-96.58533</east>
+<south>29.69989</south>
+</bbox>
+<score>3.624539852142334</score>
+</geoname>
+<geoname>
+<toponymName>Nada</toponymName>
+<name>Nada</name>
+<lat>29.40497</lat>
+<lng>-96.38636</lng>
+<geonameId>4713748</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>47</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>089</adminCode2>
+<adminName2>Colorado County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Nada%2C_Texas</alternateName>
+<alternateName lang="post">77460</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-96.39668</west>
+<north>29.41396</north>
+<east>-96.37603</east>
+<south>29.39597</south>
+</bbox>
+<score>3.624539852142334</score>
+</geoname>
+</geonames>

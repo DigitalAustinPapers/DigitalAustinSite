@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>409</totalResultsCount>
+<geoname>
+<toponymName>São Carlos</toponymName>
+<name>São Carlos</name>
+<lat>-22.0175</lat>
+<lng>-47.89083</lng>
+<geonameId>3449319</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>205035</population>
+<alternateNames>QSC,San-Karlos,Sao Carlos,Sao Carlos do Pinhal,São Carlos,São Carlos do Pinhal,Сан-Карлос</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="SP">27</adminCode1>
+<adminName1>São Paulo</adminName1>
+<adminCode2>3548906</adminCode2>
+<adminName2>São Carlos</adminName2>
+<alternateName lang="de">São Carlos</alternateName>
+<alternateName lang="en">São Carlos</alternateName>
+<alternateName lang="es">São Carlos</alternateName>
+<alternateName lang="fr">São Carlos</alternateName>
+<alternateName lang="iata">QSC</alternateName>
+<alternateName lang="it">São Carlos</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/S%C3%A3o_Carlos</alternateName>
+<alternateName lang="nl">São Carlos</alternateName>
+<alternateName lang="no">São Carlos</alternateName>
+<alternateName lang="pl">São Carlos</alternateName>
+<alternateName lang="pt">São Carlos</alternateName>
+<alternateName lang="ru">Сан-Карлос</alternateName>
+<alternateName lang="sv">São Carlos</alternateName>
+<alternateName lang="unlc">QSC</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Sao_Paulo</timezone>
+<bbox>
+<west>-47.95405</west>
+<north>-21.95887</north>
+<east>-47.82762</east>
+<south>-22.07613</south>
+</bbox>
+<score>93.45481872558594</score>
+</geoname>
+<geoname>
+<toponymName>San Carlos</toponymName>
+<name>San Carlos</name>
+<lat>9.66124</lat>
+<lng>-68.58268</lng>
+<geonameId>3628503</geonameId>
+<countryCode>VE</countryCode>
+<countryName>Venezuela</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population>77192</population>
+<alternateNames>San Carlos</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="H">08</adminCode1>
+<adminName1>Estado Cojedes</adminName1>
+<adminCode2>0908</adminCode2>
+<adminName2>Municipio San Carlos</adminName2>
+<alternateName lang="en">San Carlos</alternateName>
+<alternateName lang="es">San Carlos</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/San_Carlos%2C_Cojedes</alternateName>
+<alternateName lang="pt">San Carlos</alternateName>
+<alternateName lang="unlc">SCA</alternateName>
+<timezone dstOffset="-4.5" gmtOffset="-4.5">America/Caracas</timezone>
+<bbox>
+<west>-68.61918</west>
+<north>9.69722</north>
+<east>-68.54619</east>
+<south>9.62527</south>
+</bbox>
+<score>66.26634216308594</score>
+</geoname>
+<geoname>
+<toponymName>San Carlos</toponymName>
+<name>San Carlos</name>
+<lat>26.29563</lat>
+<lng>-98.07195</lng>
+<geonameId>4726293</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3130</population>
+<alternateNames>San - Karlos,Сан - Карлос</alternateNames>
+<elevation>23</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>215</adminCode2>
+<adminName2>Hidalgo County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/San_Carlos%2C_Texas</alternateName>
+<alternateName lang="ru">Сан - Карлос</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-98.08158</west>
+<north>26.30417</north>
+<east>-98.04565</east>
+<south>26.28703</south>
+</bbox>
+<score>62.74610137939453</score>
+</geoname>
+<geoname>
+<toponymName>San Carlos</toponymName>
+<name>San Carlos</name>
+<lat>8.7</lat>
+<lng>-75.7</lng>
+<geonameId>3670009</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="COR">12</adminCode1>
+<adminName1>Córdoba</adminName1>
+<adminCode2>3670009</adminCode2>
+<adminName2>San Carlos</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<score>52.38813781738281</score>
+</geoname>
+<geoname>
+<toponymName>San Carlos</toponymName>
+<name>San Carlos</name>
+<lat>33.34533</lat>
+<lng>-110.45316</lng>
+<geonameId>5312844</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>4038</population>
+<alternateNames>San - Karlos,Сан - Карлос</alternateNames>
+<elevation>801</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AZ">AZ</adminCode1>
+<adminName1>Arizona</adminName1>
+<adminCode2>007</adminCode2>
+<adminName2>Gila County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/San_Carlos%2C_Arizona</alternateName>
+<alternateName lang="post">85550</alternateName>
+<alternateName lang="ru">Сан - Карлос</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-7.0">America/Phoenix</timezone>
+<bbox>
+<west>-110.46248</west>
+<north>33.35312</north>
+<east>-110.44383</east>
+<south>33.33755</south>
+</bbox>
+<score>52.28841781616211</score>
+</geoname>
+<geoname>
+<toponymName>San Carlos</toponymName>
+<name>San Carlos</name>
+<lat>8.79577</lat>
+<lng>-75.69947</lng>
+<geonameId>3669997</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>24615</population>
+<alternateNames>San Carlos</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="COR">12</adminCode1>
+<adminName1>Córdoba</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/San_Carlos%2C_C%C3%B3rdoba</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<bbox>
+<west>-75.71982</west>
+<north>8.81588</north>
+<east>-75.67912</east>
+<south>8.77566</south>
+</bbox>
+<score>51.32968521118164</score>
+</geoname>
+<geoname>
+<toponymName>San Carlos</toponymName>
+<name>San Carlos</name>
+<lat>6.2</lat>
+<lng>-74.91667</lng>
+<geonameId>3670010</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames>San Carlos</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="ANT">02</adminCode1>
+<adminName1>Departamento de Antioquia</adminName1>
+<adminCode2>3670010</adminCode2>
+<adminName2>San Carlos</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/San_Carlos%2C_Antioquia</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<score>51.32968521118164</score>
+</geoname>
+<geoname>
+<toponymName>San Carlos</toponymName>
+<name>San Carlos</name>
+<lat>-34.8</lat>
+<lng>-54.91667</lng>
+<geonameId>3440696</geonameId>
+<countryCode>UY</countryCode>
+<countryName>Uruguay</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>24938</population>
+<alternateNames>San Carlos,Villa de San Carlos</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="MA">09</adminCode1>
+<adminName1>Maldonado</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/San_Carlos%2C_Uruguay</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Montevideo</timezone>
+<bbox>
+<west>-54.94115</west>
+<north>-34.77989</north>
+<east>-54.89218</east>
+<south>-34.82011</south>
+</bbox>
+<score>44.913475036621094</score>
+</geoname>
+<geoname>
+<toponymName>Luba</toponymName>
+<name>Luba</name>
+<lat>3.45683</lat>
+<lng>8.55465</lng>
+<geonameId>2309528</geonameId>
+<countryCode>GQ</countryCode>
+<countryName>Equatorial Guinea</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population>8655</population>
+<alternateNames>Ciudad de Luba,Luba,San Carlos</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="BS">05</adminCode1>
+<adminName1>Bioko Sur</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Luba%2C_Equatorial_Guinea</alternateName>
+<alternateName lang="unlc">LUB</alternateName>
+<timezone dstOffset="1.0" gmtOffset="1.0">Africa/Malabo</timezone>
+<bbox>
+<west>8.54273</west>
+<north>3.46873</north>
+<east>8.56657</east>
+<south>3.44493</south>
+</bbox>
+<score>44.45281219482422</score>
+</geoname>
+<geoname>
+<toponymName>San Carlos</toponymName>
+<name>San Carlos</name>
+<lat>-36.42477</lat>
+<lng>-71.958</lng>
+<geonameId>3872326</geonameId>
+<countryCode>CL</countryCode>
+<countryName>Chile</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>31517</population>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="BI">06</adminCode1>
+<adminName1>Biobío</adminName1>
+<adminCode2>84</adminCode2>
+<adminName2>Provincia de Ñuble</adminName2>
+<adminCode3>08416</adminCode3>
+<adminName3>San Carlos</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/San_Carlos%2C_Chile</alternateName>
+<alternateName lang="unlc">SCR</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-3.0">America/Santiago</timezone>
+<bbox>
+<west>-71.98649</west>
+<north>-36.40184</north>
+<east>-71.92951</east>
+<south>-36.4477</south>
+</bbox>
+<score>41.9105110168457</score>
+</geoname>
+</geonames>

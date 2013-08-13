@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>6</totalResultsCount>
+<geoname>
+<toponymName>Brazos</toponymName>
+<name>Brazos</name>
+<lat>32.66152</lat>
+<lng>-98.12199</lng>
+<geonameId>4676148</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>251</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>363</adminCode2>
+<adminName2>Palo Pinto County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brazos%2C_Texas</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-98.13267</west>
+<north>32.67051</north>
+<east>-98.1113</east>
+<south>32.65253</south>
+</bbox>
+<score>43.8624153137207</score>
+</geoname>
+<geoname>
+<toponymName>Brazos</toponymName>
+<name>Brazos</name>
+<lat>38.20825</lat>
+<lng>-122.30608</lng>
+<geonameId>5284780</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>055</adminCode2>
+<adminName2>Napa County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brazos%2C_California</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-122.31753</west>
+<north>38.21724</north>
+<east>-122.29464</east>
+<south>38.19926</south>
+</bbox>
+<score>43.8624153137207</score>
+</geoname>
+<geoname>
+<toponymName>Braşov</toponymName>
+<name>Braşov</name>
+<lat>45.64861</lat>
+<lng>25.60613</lng>
+<geonameId>683844</geonameId>
+<countryCode>RO</countryCode>
+<countryName>Romania</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population>276088</population>
+<alternateNames>Brashov,Brasov,Brasso,Brassó,Braszow,Braszów,Brazov,Braşov,Brašov,Kronstadt,Kronstant,Orasu Stalin,Orasul Stalin,Oraşu Stalin,Oraşul Stalin,XHV,beulasyobeu,brswb,burashofu,Брашов,ברשוב,ブラショフ,브라쇼브</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="BV">09</adminCode1>
+<adminName1>Braşov</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="bg">Брашов</alternateName>
+<alternateName lang="br">Braşov</alternateName>
+<alternateName lang="ca">Braşov</alternateName>
+<alternateName lang="cs">Braşov</alternateName>
+<alternateName lang="da">Brasov</alternateName>
+<alternateName lang="de">Kronstadt</alternateName>
+<alternateName lang="en">Braşov</alternateName>
+<alternateName lang="eo">Braşov</alternateName>
+<alternateName lang="es">Braşov</alternateName>
+<alternateName lang="fi">Braşov</alternateName>
+<alternateName lang="fr">Braşov</alternateName>
+<alternateName lang="he">ברשוב</alternateName>
+<alternateName lang="hu">Brassó</alternateName>
+<alternateName lang="iata">XHV</alternateName>
+<alternateName lang="it">Braşov</alternateName>
+<alternateName lang="ja">ブラショフ</alternateName>
+<alternateName lang="ko">브라쇼브</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bra%C8%99ov</alternateName>
+<alternateName lang="nl">Braşov</alternateName>
+<alternateName lang="no">Braşov</alternateName>
+<alternateName lang="pl">Braszów</alternateName>
+<alternateName lang="pt">Braşov</alternateName>
+<alternateName lang="ro">Брашов</alternateName>
+<alternateName lang="ru">Брашов</alternateName>
+<alternateName lang="scn">Braşov</alternateName>
+<alternateName lang="sk">Brašov</alternateName>
+<alternateName lang="sr">Брашов</alternateName>
+<alternateName lang="sv">Braşov</alternateName>
+<alternateName lang="unlc">BRV</alternateName>
+<timezone dstOffset="3.0" gmtOffset="2.0">Europe/Bucharest</timezone>
+<bbox>
+<west>25.50845</west>
+<north>45.71681</north>
+<east>25.7038</east>
+<south>45.58041</south>
+</bbox>
+<score>41.61917495727539</score>
+</geoname>
+<geoname>
+<toponymName>Brazos</toponymName>
+<name>Brazos</name>
+<lat>36.7514</lat>
+<lng>-106.56142</lng>
+<geonameId>5458782</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>44</population>
+<alternateNames/>
+<elevation>2255</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NM">NM</adminCode1>
+<adminName1>New Mexico</adminName1>
+<adminCode2>039</adminCode2>
+<adminName2>Rio Arriba County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<bbox>
+<west>-106.56625</west>
+<north>36.75862</north>
+<east>-106.55349</east>
+<south>36.74807</south>
+</bbox>
+<score>29.241609573364258</score>
+</geoname>
+<geoname>
+<toponymName>Los Brazos</toponymName>
+<name>Los Brazos</name>
+<lat>21.71667</lat>
+<lng>-97.8</lng>
+<geonameId>3524142</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Brazos,Los Brazos</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VER">30</adminCode1>
+<adminName1>Veracruz-Llave</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-97.80968</west>
+<north>21.72566</north>
+<east>-97.79032</east>
+<south>21.70767</south>
+</bbox>
+<score>20.67694091796875</score>
+</geoname>
+<geoname>
+<toponymName>El Brazo</toponymName>
+<name>El Brazo</name>
+<lat>20.45057</lat>
+<lng>-101.15613</lng>
+<geonameId>4010913</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Brazo,Brazos,El Brazo</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GUA">11</adminCode1>
+<adminName1>Guanajuato</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-101.16573</west>
+<north>20.45957</north>
+<east>-101.14653</east>
+<south>20.44158</south>
+</bbox>
+<score>20.67694091796875</score>
+</geoname>
+</geonames>

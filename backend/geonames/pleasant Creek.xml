@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>34</totalResultsCount>
+<geoname>
+<toponymName>Pleasant Creek</toponymName>
+<name>Pleasant Creek</name>
+<lat>42.19946</lat>
+<lng>-90.38263</lng>
+<geonameId>4871440</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>181</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IA">IA</adminCode1>
+<adminName1>Iowa</adminName1>
+<adminCode2>097</adminCode2>
+<adminName2>Jackson County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.39477</west>
+<north>42.20846</north>
+<east>-90.37049</east>
+<south>42.19047</south>
+</bbox>
+<score>29.139751434326172</score>
+</geoname>
+<geoname>
+<toponymName>Pleasant Green</toponymName>
+<name>Pleasant Green</name>
+<lat>38.80613</lat>
+<lng>-92.9627</lng>
+<geonameId>4403627</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>238</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>053</adminCode2>
+<adminName2>Cooper County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.97424</west>
+<north>38.81512</north>
+<east>-92.95115</east>
+<south>38.79714</south>
+</bbox>
+<score>11.504890441894531</score>
+</geoname>
+<geoname>
+<toponymName>Pleasant Green</toponymName>
+<name>Pleasant Green</name>
+<lat>37.61904</lat>
+<lng>-77.81333</lng>
+<geonameId>4779398</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>86</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>075</adminCode2>
+<adminName2>Goochland County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-77.82468</west>
+<north>37.62803</north>
+<east>-77.80197</east>
+<south>37.61004</south>
+</bbox>
+<score>11.504890441894531</score>
+</geoname>
+<geoname>
+<toponymName>Mount Pleasant Creek</toponymName>
+<name>Mount Pleasant Creek</name>
+<lat>-36.53333</lat>
+<lng>144.63333</lng>
+<geonameId>2156536</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>Mount Pleasant Creek,Pleasant Creek</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="VIC">07</adminCode1>
+<adminName1>Victoria</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="10.0" gmtOffset="11.0">Australia/Melbourne</timezone>
+<score>10.302457809448242</score>
+</geoname>
+<geoname>
+<toponymName>Pleasant Creek</toponymName>
+<name>Pleasant Creek</name>
+<lat>-25.45</lat>
+<lng>144.98333</lng>
+<geonameId>2152857</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="QLD">04</adminCode1>
+<adminName1>Queensland</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="10.0" gmtOffset="10.0">Australia/Brisbane</timezone>
+<score>9.106172561645508</score>
+</geoname>
+<geoname>
+<toponymName>Pleasant Creek</toponymName>
+<name>Pleasant Creek</name>
+<lat>-18.21667</lat>
+<lng>142.91667</lng>
+<geonameId>2152858</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="QLD">04</adminCode1>
+<adminName1>Queensland</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="10.0" gmtOffset="10.0">Australia/Brisbane</timezone>
+<score>9.106172561645508</score>
+</geoname>
+<geoname>
+<toponymName>Pleasant Creek</toponymName>
+<name>Pleasant Creek</name>
+<lat>-45.75</lat>
+<lng>168.01667</lng>
+<geonameId>2184513</geonameId>
+<countryCode>NZ</countryCode>
+<countryName>New Zealand</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="12.0" gmtOffset="13.0">Pacific/Auckland</timezone>
+<score>9.106172561645508</score>
+</geoname>
+<geoname>
+<toponymName>Pleasant Creek</toponymName>
+<name>Pleasant Creek</name>
+<lat>-44.85</lat>
+<lng>168.68333</lng>
+<geonameId>2184514</geonameId>
+<countryCode>NZ</countryCode>
+<countryName>New Zealand</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="12.0" gmtOffset="13.0">Pacific/Auckland</timezone>
+<score>9.106172561645508</score>
+</geoname>
+<geoname>
+<toponymName>Pleasant Creek</toponymName>
+<name>Pleasant Creek</name>
+<lat>39.61532</lat>
+<lng>-86.12082</lng>
+<geonameId>4263124</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>232</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IN">IN</adminCode1>
+<adminName1>Indiana</adminName1>
+<adminCode2>081</adminCode2>
+<adminName2>Johnson County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Indiana/Indianapolis</timezone>
+<score>9.106172561645508</score>
+</geoname>
+<geoname>
+<toponymName>Pleasant Creek</toponymName>
+<name>Pleasant Creek</name>
+<lat>33.15572</lat>
+<lng>-79.34145</lng>
+<geonameId>4591496</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SC">SC</adminCode1>
+<adminName1>South Carolina</adminName1>
+<adminCode2>043</adminCode2>
+<adminName2>Georgetown County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>9.106172561645508</score>
+</geoname>
+</geonames>

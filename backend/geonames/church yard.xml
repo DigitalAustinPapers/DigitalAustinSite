@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>8</totalResultsCount>
+<geoname>
+<toponymName>Churchyard</toponymName>
+<name>Churchyard</name>
+<lat>17.3</lat>
+<lng>-88.55</lng>
+<geonameId>3582372</geonameId>
+<countryCode>BZ</countryCode>
+<countryName>Belize</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="BZ">01</adminCode1>
+<adminName1>Belize</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Belize</timezone>
+<bbox>
+<west>-88.55942</west>
+<north>17.30899</north>
+<east>-88.54058</east>
+<south>17.29101</south>
+</bbox>
+<score>43.948638916015625</score>
+</geoname>
+<geoname>
+<toponymName>Church Park</toponymName>
+<name>Church Park</name>
+<lat>39.93304</lat>
+<lng>-105.97113</lng>
+<geonameId>5417010</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>PLN</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>plain(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>3038</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CO">CO</adminCode1>
+<adminName1>Colorado</adminName1>
+<adminCode2>049</adminCode2>
+<adminName2>Grand County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<score>12.157698631286621</score>
+</geoname>
+<geoname>
+<toponymName>Church Park</toponymName>
+<name>Church Park</name>
+<lat>35.14231</lat>
+<lng>-90.04731</lng>
+<geonameId>4613572</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>L</fcl>
+<fcode>PRK</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>park</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>72</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TN">TN</adminCode1>
+<adminName1>Tennessee</adminName1>
+<adminCode2>157</adminCode2>
+<adminName2>Shelby County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>6.947256565093994</score>
+</geoname>
+<geoname>
+<toponymName>Church Park</toponymName>
+<name>Church Park</name>
+<lat>32.82513</lat>
+<lng>-96.80111</lng>
+<geonameId>4681404</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>L</fcl>
+<fcode>PRK</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>park</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>141</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>113</adminCode2>
+<adminName2>Dallas County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>6.947256565093994</score>
+</geoname>
+<geoname>
+<toponymName>Church Park</toponymName>
+<name>Church Park</name>
+<lat>43.62357</lat>
+<lng>-95.59056</lng>
+<geonameId>5021221</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>L</fcl>
+<fcode>PRK</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>park</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>483</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MN">MN</adminCode1>
+<adminName1>Minnesota</adminName1>
+<adminCode2>105</adminCode2>
+<adminName2>Nobles County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>6.947256565093994</score>
+</geoname>
+<geoname>
+<toponymName>Church Park</toponymName>
+<name>Church Park</name>
+<lat>39.5513</lat>
+<lng>-119.74352</lng>
+<geonameId>5501781</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>L</fcl>
+<fcode>PRK</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>park</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1345</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NV">NV</adminCode1>
+<adminName1>Nevada</adminName1>
+<adminCode2>031</adminCode2>
+<adminName2>Washoe County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>6.947256565093994</score>
+</geoname>
+<geoname>
+<toponymName>Church Ford</toponymName>
+<name>Church Ford</name>
+<lat>34.27039</lat>
+<lng>-94.16409</lng>
+<geonameId>4105644</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>R</fcl>
+<fcode>RDJCT</fcode>
+<fclName>road, railroad </fclName>
+<fcodeName>road junction</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>155</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">AR</adminCode1>
+<adminName1>Arkansas</adminName1>
+<adminCode2>061</adminCode2>
+<adminName2>Howard County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>4.994160175323486</score>
+</geoname>
+<geoname>
+<toponymName>Church Farm</toponymName>
+<name>Church Farm</name>
+<lat>-43.69833</lat>
+<lng>172.60013</lng>
+<geonameId>6220813</geonameId>
+<countryCode>NZ</countryCode>
+<countryName>New Zealand</countryName>
+<fcl>S</fcl>
+<fcode>FRMT</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farmstead</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="CAN">E9</adminCode1>
+<adminName1>Canterbury Region</adminName1>
+<adminCode2>062</adminCode2>
+<adminName2>Selwyn District</adminName2>
+<timezone dstOffset="12.0" gmtOffset="13.0">Pacific/Auckland</timezone>
+<score>2.497080087661743</score>
+</geoname>
+</geonames>

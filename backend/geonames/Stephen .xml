@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>30</totalResultsCount>
+<geoname>
+<toponymName>Stephen</toponymName>
+<name>Stephen</name>
+<lat>48.44998</lat>
+<lng>-96.87256</lng>
+<geonameId>5048735</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>658</population>
+<alternateNames/>
+<elevation>253</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MN">MN</adminCode1>
+<adminName1>Minnesota</adminName1>
+<adminCode2>089</adminCode2>
+<adminName2>Marshall County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stephen%2C_Minnesota</alternateName>
+<alternateName lang="post">56757</alternateName>
+<alternateName lang="unlc">ZSP</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-96.87392</west>
+<north>48.45088</north>
+<east>-96.87121</east>
+<south>48.44908</south>
+</bbox>
+<score>45.21755599975586</score>
+</geoname>
+<geoname>
+<toponymName>Stephen</toponymName>
+<name>Stephen</name>
+<lat>-13.38333</lat>
+<lng>33.71667</lng>
+<geonameId>923812</geonameId>
+<countryCode>MW</countryCode>
+<countryName>Malawi</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="C">C</adminCode1>
+<adminName1>Central Region</adminName1>
+<adminCode2>07</adminCode2>
+<adminName2>Dowa</adminName2>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Blantyre</timezone>
+<bbox>
+<west>33.70742</west>
+<north>-13.37434</north>
+<east>33.72591</east>
+<south>-13.39233</south>
+</bbox>
+<score>36.17404556274414</score>
+</geoname>
+<geoname>
+<toponymName>Stephen</toponymName>
+<name>Stephen</name>
+<lat>33.56262</lat>
+<lng>-88.54477</lng>
+<geonameId>4447236</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>55</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MS">MS</adminCode1>
+<adminName1>Mississippi</adminName1>
+<adminCode2>025</adminCode2>
+<adminName2>Clay County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-88.55556</west>
+<north>33.57161</north>
+<east>-88.53397</east>
+<south>33.55362</south>
+</bbox>
+<score>36.17404556274414</score>
+</geoname>
+<geoname>
+<toponymName>Stephen</toponymName>
+<name>Stephen</name>
+<lat>43.30008</lat>
+<lng>-81.63307</lng>
+<geonameId>6156184</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ON">08</adminCode1>
+<adminName1>Ontario</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Toronto</timezone>
+<score>36.17404556274414</score>
+</geoname>
+<geoname>
+<toponymName>Stephen</toponymName>
+<name>Stephen</name>
+<lat>51.44999</lat>
+<lng>-116.2855</lng>
+<geonameId>6156185</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="BC">02</adminCode1>
+<adminName1>British Columbia</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Edmonton</timezone>
+<bbox>
+<west>-116.29993</west>
+<north>51.45898</north>
+<east>-116.27106</east>
+<south>51.44099</south>
+</bbox>
+<score>36.17404556274414</score>
+</geoname>
+<geoname>
+<toponymName>Stepień</toponymName>
+<name>Stepień</name>
+<lat>53.82252</lat>
+<lng>16.7669</lng>
+<geonameId>3084663</geonameId>
+<countryCode>PL</countryCode>
+<countryName>Poland</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Stepien,Stepień</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ZP">87</adminCode1>
+<adminName1>West Pomeranian Voivodeship</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/St%C4%99pie%C5%84%2C_West_Pomeranian_Voivodeship</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Warsaw</timezone>
+<bbox>
+<west>16.75166</west>
+<north>53.83151</north>
+<east>16.78214</east>
+<south>53.81352</south>
+</bbox>
+<score>19.9796142578125</score>
+</geoname>
+<geoname>
+<toponymName>Stephan</toponymName>
+<name>Stephan</name>
+<lat>44.24804</lat>
+<lng>-99.45316</lng>
+<geonameId>5232127</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>556</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SD">SD</adminCode1>
+<adminName1>South Dakota</adminName1>
+<adminCode2>069</adminCode2>
+<adminName2>Hyde County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stephan%2C_South_Dakota</alternateName>
+<alternateName lang="post">57346</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-99.46572</west>
+<north>44.25704</north>
+<east>-99.44061</east>
+<south>44.23905</south>
+</bbox>
+<score>16.953264236450195</score>
+</geoname>
+<geoname>
+<toponymName>Stępień</toponymName>
+<name>Stępień</name>
+<lat>54.36276</lat>
+<lng>19.76801</lng>
+<geonameId>3084662</geonameId>
+<countryCode>PL</countryCode>
+<countryName>Poland</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Stangendorf,Stepien,Stępień</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WN">85</adminCode1>
+<adminName1>Warmian-Masurian Voivodeship</adminName1>
+<adminCode2>2802</adminCode2>
+<adminName2>Powiat braniewski</adminName2>
+<adminCode3>280202</adminCode3>
+<adminName3>Braniewo</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/St%C4%99pie%C5%84%2C_Warmian-Masurian_Voivodeship</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Warsaw</timezone>
+<bbox>
+<west>19.75257</west>
+<north>54.37175</north>
+<east>19.78345</east>
+<south>54.35376</south>
+</bbox>
+<score>15.983691215515137</score>
+</geoname>
+<geoname>
+<toponymName>Stephens</toponymName>
+<name>Stephens</name>
+<lat>33.41123</lat>
+<lng>-93.06961</lng>
+<geonameId>4132344</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>891</population>
+<alternateNames/>
+<elevation>76</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">AR</adminCode1>
+<adminName1>Arkansas</adminName1>
+<adminCode2>103</adminCode2>
+<adminName2>Ouachita County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stephens%2C_Arkansas</alternateName>
+<alternateName lang="post">71764</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-93.07069</west>
+<north>33.41213</north>
+<east>-93.06853</east>
+<south>33.41033</south>
+</bbox>
+<score>14.117886543273926</score>
+</geoname>
+<geoname>
+<toponymName>Stephens</toponymName>
+<name>Stephens</name>
+<lat>38.13536</lat>
+<lng>-82.95878</lng>
+<geonameId>4309616</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>208</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>063</adminCode2>
+<adminName2>Elliott County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stephens%2C_Kentucky</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-82.97021</west>
+<north>38.14436</north>
+<east>-82.94734</east>
+<south>38.12637</south>
+</bbox>
+<score>14.117886543273926</score>
+</geoname>
+</geonames>

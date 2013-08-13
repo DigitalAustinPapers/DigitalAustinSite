@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>34</totalResultsCount>
+<geoname>
+<toponymName>The Scottish Borders</toponymName>
+<name>Scottish Borders</name>
+<lat>55.58333</lat>
+<lng>-2.83333</lng>
+<geonameId>2655192</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames>Borders,Borders Region,SCB,Scottish Borders,The Scottish Borders</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>T9</adminCode2>
+<adminName2>Scottish Borders</adminName2>
+<alternateName lang="abbr">SCB</alternateName>
+<alternateName lang="en">Scottish Borders</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Scottish_Borders</alternateName>
+<alternateName lang="nb">Scottish Borders</alternateName>
+<alternateName lang="nn">Scottish Borders</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.5398</west>
+<north>55.94662</north>
+<east>-2.03321</east>
+<south>55.10834</south>
+</bbox>
+<score>35.96742248535156</score>
+</geoname>
+<geoname>
+<toponymName>Bordeaux</toponymName>
+<name>Bordeaux</name>
+<lat>44.84044</lat>
+<lng>-0.5805</lng>
+<geonameId>3031582</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population>231844</population>
+<alternateNames>BOD,Bordeaux,Bordele,Bordeos,Bordeu,Bordeus,Bordo,Bordox,Bordozo,Bordèu,Bordéus,Bordò,Bordôx,Bornto,Bourdel,Burdeos,Burdeus,Burdigala,Gorad Bardo,bo er duo,boleudo,bordo,bordu,borudo,bwrdw,bwrڈw,bxr do,porto,Μπορντό,Бордо,Горад Бардо,Բորդո,בורדו,بوردو,بورڈو,बोर्दू,बोर्दो,பொர்தோ,บอร์โด,ბორდო,ボルドー,波尔多,보르도</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="B">97</adminCode1>
+<adminName1>Aquitaine</adminName1>
+<adminCode2>33</adminCode2>
+<adminName2>Gironde</adminName2>
+<adminCode3>332</adminCode3>
+<adminName3>Arrondissement de Bordeaux</adminName3>
+<adminCode4>33063</adminCode4>
+<adminName4>Bordeaux</adminName4>
+<alternateName lang="an">Bordeus</alternateName>
+<alternateName lang="ar">بوردو</alternateName>
+<alternateName lang="ast">Bordeos</alternateName>
+<alternateName lang="az">Bordo</alternateName>
+<alternateName lang="be">Горад Бардо</alternateName>
+<alternateName lang="bg">Бордо</alternateName>
+<alternateName lang="br">Bourdel</alternateName>
+<alternateName lang="ca">Bordeus</alternateName>
+<alternateName lang="cs">Bordeaux</alternateName>
+<alternateName lang="de">Bordeaux</alternateName>
+<alternateName lang="el">Μπορντό</alternateName>
+<alternateName lang="en">Bordeaux</alternateName>
+<alternateName lang="eo">Bordozo</alternateName>
+<alternateName lang="es">Burdeos</alternateName>
+<alternateName lang="et">Bordeaux</alternateName>
+<alternateName lang="eu">Bordele</alternateName>
+<alternateName lang="ext">Burdeus</alternateName>
+<alternateName lang="fa">بوردو</alternateName>
+<alternateName lang="fi">Bordeaux</alternateName>
+<alternateName lang="fr">Bordeaux</alternateName>
+<alternateName lang="frp">Bordôx</alternateName>
+<alternateName lang="gl">Bordeos</alternateName>
+<alternateName lang="he">בורדו</alternateName>
+<alternateName lang="hi">बोर्दो</alternateName>
+<alternateName lang="hy">Բորդո</alternateName>
+<alternateName lang="iata">BOD</alternateName>
+<alternateName lang="id">Bordeaux</alternateName>
+<alternateName lang="is">Bordeaux</alternateName>
+<alternateName lang="it">Bordeaux</alternateName>
+<alternateName lang="ja">ボルドー</alternateName>
+<alternateName lang="ka">ბორდო</alternateName>
+<alternateName lang="kg">Bordo</alternateName>
+<alternateName lang="kk">Бордо</alternateName>
+<alternateName lang="ko">보르도</alternateName>
+<alternateName lang="la">Burdigala</alternateName>
+<alternateName lang="lad">Bordeaux</alternateName>
+<alternateName lang="lb">Bordeaux</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bordeaux</alternateName>
+<alternateName lang="lt">Bordo</alternateName>
+<alternateName lang="lv">Bordo</alternateName>
+<alternateName lang="mk">Бордо</alternateName>
+<alternateName lang="mr">बोर्दू</alternateName>
+<alternateName lang="mzn">بوردو</alternateName>
+<alternateName lang="nl">Bordeaux</alternateName>
+<alternateName lang="no">Bordeaux</alternateName>
+<alternateName lang="oc">Bordèu</alternateName>
+<alternateName lang="os">Бордо</alternateName>
+<alternateName lang="pl">Bordeaux</alternateName>
+<alternateName lang="pms">Bordò</alternateName>
+<alternateName lang="pnb">بورڈو</alternateName>
+<alternateName lang="post">33000</alternateName>
+<alternateName lang="pt">Bordéus</alternateName>
+<alternateName lang="ro">Bordeaux</alternateName>
+<alternateName lang="ru">Бордо</alternateName>
+<alternateName lang="sr">Бордо</alternateName>
+<alternateName lang="stq">Bordèu</alternateName>
+<alternateName lang="sv">Bordeaux</alternateName>
+<alternateName lang="ta">பொர்தோ</alternateName>
+<alternateName lang="th">บอร์โด</alternateName>
+<alternateName lang="tl">Burdeos</alternateName>
+<alternateName lang="ug">Bordo</alternateName>
+<alternateName lang="uk">Бордо</alternateName>
+<alternateName lang="unlc">BOD</alternateName>
+<alternateName lang="ur">بورڈو</alternateName>
+<alternateName lang="vec">Bordò</alternateName>
+<alternateName lang="zh">波尔多</alternateName>
+<alternateName lang="zh-CN">波尔多</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>-0.6687</west>
+<north>44.90291</north>
+<east>-0.4923</east>
+<south>44.77797</south>
+</bbox>
+<score>22.63260269165039</score>
+</geoname>
+<geoname>
+<toponymName>Bordères</toponymName>
+<name>Bordères</name>
+<lat>43.2</lat>
+<lng>-0.21667</lng>
+<geonameId>3031574</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>669</population>
+<alternateNames>Borderes,Bordères</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="B">97</adminCode1>
+<adminName1>Aquitaine</adminName1>
+<adminCode2>64</adminCode2>
+<adminName2>Pyrénées-Atlantiques</adminName2>
+<adminCode3>643</adminCode3>
+<adminName3>Arrondissement de Pau</adminName3>
+<adminCode4>64137</adminCode4>
+<adminName4>Bordères</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bord%C3%A8res</alternateName>
+<alternateName lang="post">64800</alternateName>
+<alternateName lang="unlc">ODR</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>-0.2179</west>
+<north>43.2009</north>
+<east>-0.21543</east>
+<south>43.1991</south>
+</bbox>
+<score>14.295262336730957</score>
+</geoname>
+<geoname>
+<toponymName>Bordères</toponymName>
+<name>Bordères</name>
+<lat>43.20333</lat>
+<lng>-0.22111</lng>
+<geonameId>6454499</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population>661</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="B">97</adminCode1>
+<adminName1>Aquitaine</adminName1>
+<adminCode2>64</adminCode2>
+<adminName2>Pyrénées-Atlantiques</adminName2>
+<adminCode3>643</adminCode3>
+<adminName3>Arrondissement de Pau</adminName3>
+<adminCode4>64137</adminCode4>
+<adminName4>Bordères</adminName4>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>-0.24366</west>
+<north>43.2163</north>
+<east>-0.18215</east>
+<south>43.19132</south>
+</bbox>
+<score>12.635345458984375</score>
+</geoname>
+<geoname>
+<toponymName>Bordères-sur-l'Échez</toponymName>
+<name>Bordères-sur-l'Échez</name>
+<lat>43.25829</lat>
+<lng>0.04948</lng>
+<geonameId>3031571</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Borderes,Borderes-sur-l'Echez,Bordères,Bordères-sur-l'Échez</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="N">B3</adminCode1>
+<adminName1>Midi-Pyrénées</adminName1>
+<adminCode2>65</adminCode2>
+<adminName2>Hautes-Pyrénées</adminName2>
+<adminCode3>653</adminCode3>
+<adminName3>Arrondissement de Tarbes</adminName3>
+<adminCode4>65100</adminCode4>
+<adminName4>Bordères-sur-l'Échez</adminName4>
+<alternateName lang="post">65320</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>0.03713</west>
+<north>43.26728</north>
+<east>0.06183</east>
+<south>43.2493</south>
+</bbox>
+<score>8.844741821289062</score>
+</geoname>
+<geoname>
+<toponymName>Bordères-Louron</toponymName>
+<name>Bordères-Louron</name>
+<lat>42.87275</lat>
+<lng>0.39471</lng>
+<geonameId>3031572</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>154</population>
+<alternateNames>Borderes,Borderes-Louron,Bordères,Bordères-Louron</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="N">B3</adminCode1>
+<adminName1>Midi-Pyrénées</adminName1>
+<adminCode2>65</adminCode2>
+<adminName2>Hautes-Pyrénées</adminName2>
+<adminCode3>652</adminCode3>
+<adminName3>Arrondissement de Bagnères-de-Bigorre</adminName3>
+<adminCode4>65099</adminCode4>
+<adminName4>Bordères-Louron</adminName4>
+<alternateName lang="post">65590</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>0.39348</west>
+<north>42.87365</north>
+<east>0.39594</east>
+<south>42.87185</south>
+</bbox>
+<score>8.844741821289062</score>
+</geoname>
+<geoname>
+<toponymName>Bordères-et-Lamensans</toponymName>
+<name>Bordères-et-Lamensans</name>
+<lat>43.77422</lat>
+<lng>-0.36417</lng>
+<geonameId>3031573</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>371</population>
+<alternateNames>Borderes,Borderes-et-Lamensans,Bordères,Bordères-et-Lamensans</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="B">97</adminCode1>
+<adminName1>Aquitaine</adminName1>
+<adminCode2>40</adminCode2>
+<adminName2>Landes</adminName2>
+<adminCode3>402</adminCode3>
+<adminName3>Arrondissement de Mont-de-Marsan</adminName3>
+<adminCode4>40049</adminCode4>
+<adminName4>Bordères-et-Lamensans</adminName4>
+<alternateName lang="post">40270</alternateName>
+<alternateName lang="unlc">ODL</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>-0.36541</west>
+<north>43.77512</north>
+<east>-0.36292</east>
+<south>43.77332</south>
+</bbox>
+<score>8.844741821289062</score>
+</geoname>
+<geoname>
+<toponymName>Bordes</toponymName>
+<name>Bordes</name>
+<lat>43.23333</lat>
+<lng>-0.28333</lng>
+<geonameId>3031567</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2093</population>
+<alternateNames>Bordes</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="B">97</adminCode1>
+<adminName1>Aquitaine</adminName1>
+<adminCode2>64</adminCode2>
+<adminName2>Pyrénées-Atlantiques</adminName2>
+<adminCode3>643</adminCode3>
+<adminName3>Arrondissement de Pau</adminName3>
+<adminCode4>64138</adminCode4>
+<adminName4>Bordes</adminName4>
+<alternateName lang="post">64510</alternateName>
+<alternateName lang="unlc">BRD</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>-0.28951</west>
+<north>43.23783</north>
+<east>-0.27716</east>
+<south>43.22884</south>
+</bbox>
+<score>6.4369988441467285</score>
+</geoname>
+<geoname>
+<toponymName>Bordes</toponymName>
+<name>Bordes</name>
+<lat>43.20063</lat>
+<lng>0.22465</lng>
+<geonameId>3031568</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>607</population>
+<alternateNames>Bordes</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="N">B3</adminCode1>
+<adminName1>Midi-Pyrénées</adminName1>
+<adminCode2>65</adminCode2>
+<adminName2>Hautes-Pyrénées</adminName2>
+<adminCode3>653</adminCode3>
+<adminName3>Arrondissement de Tarbes</adminName3>
+<adminCode4>65101</adminCode4>
+<adminName4>Bordes</adminName4>
+<alternateName lang="post">65190</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>0.22342</west>
+<north>43.20153</north>
+<east>0.22589</east>
+<south>43.19973</south>
+</bbox>
+<score>6.4369988441467285</score>
+</geoname>
+<geoname>
+<toponymName>Bordes</toponymName>
+<name>Bordes</name>
+<lat>19.61667</lat>
+<lng>-72.23333</lng>
+<geonameId>3729469</geonameId>
+<countryCode>HT</countryCode>
+<countryName>Haiti</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ND">09</adminCode1>
+<adminName1>Nord</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Port-au-Prince</timezone>
+<bbox>
+<west>-72.24288</west>
+<north>19.62566</north>
+<east>-72.22378</east>
+<south>19.60767</south>
+</bbox>
+<score>5.255787372589111</score>
+</geoname>
+</geonames>

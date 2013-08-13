@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>24</totalResultsCount>
+<geoname>
+<toponymName>Shelbyville</toponymName>
+<name>Shelbyville</name>
+<lat>35.48341</lat>
+<lng>-86.46027</lng>
+<geonameId>4657077</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>20335</population>
+<alternateNames>SYI,Shelbyville</alternateNames>
+<elevation>230</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TN">TN</adminCode1>
+<adminName1>Tennessee</adminName1>
+<adminCode2>003</adminCode2>
+<adminName2>Bedford County</adminName2>
+<alternateName lang="en">Shelbyville</alternateName>
+<alternateName lang="iata">SYI</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Shelbyville%2C_Tennessee</alternateName>
+<alternateName lang="post">37161</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-86.50568</west>
+<north>35.58078</north>
+<east>-86.39476</east>
+<south>35.44331</south>
+</bbox>
+<score>19.84002113342285</score>
+</geoname>
+<geoname>
+<toponymName>City of Shelbyville</toponymName>
+<name>City of Shelbyville</name>
+<lat>35.49913</lat>
+<lng>-86.45176</lng>
+<geonameId>7318117</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>administrative division</fcodeName>
+<population>20335</population>
+<alternateNames/>
+<elevation>236</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TN">TN</adminCode1>
+<adminName1>Tennessee</adminName1>
+<adminCode2>003</adminCode2>
+<adminName2>Bedford County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-86.50568</west>
+<north>35.58078</north>
+<east>-86.39476</east>
+<south>35.44331</south>
+</bbox>
+<score>11.187373161315918</score>
+</geoname>
+<geoname>
+<toponymName>WLIJ-AM (Shelbyville)</toponymName>
+<name>WLIJ-AM (Shelbyville)</name>
+<lat>35.45591</lat>
+<lng>-86.45249</lng>
+<geonameId>4665052</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>TOWR</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>tower</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>223</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TN">TN</adminCode1>
+<adminName1>Tennessee</adminName1>
+<adminCode2>003</adminCode2>
+<adminName2>Bedford County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/WLIJ</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>9.788951873779297</score>
+</geoname>
+<geoname>
+<toponymName>Shelbyville Municipal Airport</toponymName>
+<name>Bomar Field</name>
+<lat>35.56168</lat>
+<lng>-86.44477</lng>
+<geonameId>4607633</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>AIRF</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>airfield</fcodeName>
+<population/>
+<alternateNames>Bomar Field,KSYI,SYI</alternateNames>
+<elevation>242</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TN">TN</adminCode1>
+<adminName1>Tennessee</adminName1>
+<adminCode2>003</adminCode2>
+<adminName2>Bedford County</adminName2>
+<alternateName lang="en">Bomar Field</alternateName>
+<alternateName lang="iata">SYI</alternateName>
+<alternateName lang="icao">KSYI</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Shelbyville_Municipal_Airport_%28Tennessee%29</alternateName>
+<alternateName lang="unlc">SYI</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>8.39052963256836</score>
+</geoname>
+<geoname>
+<toponymName>East Shelbyville Historic District</toponymName>
+<name>East Shelbyville Historic District</name>
+<lat>35.48674</lat>
+<lng>-86.45222</lng>
+<geonameId>4620177</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>L</fcl>
+<fcode>PRK</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>park</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>232</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TN">TN</adminCode1>
+<adminName1>Tennessee</adminName1>
+<adminCode2>003</adminCode2>
+<adminName2>Bedford County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>6.992108345031738</score>
+</geoname>
+<geoname>
+<toponymName>Shelbyville Courthouse Square Historic District</toponymName>
+<name>Shelbyville Courthouse Square Historic District</name>
+<lat>35.48285</lat>
+<lng>-86.46055</lng>
+<geonameId>4657079</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>L</fcl>
+<fcode>PRK</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>park</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>233</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TN">TN</adminCode1>
+<adminName1>Tennessee</adminName1>
+<adminCode2>003</adminCode2>
+<adminName2>Bedford County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>6.992108345031738</score>
+</geoname>
+<geoname>
+<toponymName>Shelbyville Mills</toponymName>
+<name>Shelbyville Mills</name>
+<lat>35.47202</lat>
+<lng>-86.48833</lng>
+<geonameId>4657082</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>229</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TN">TN</adminCode1>
+<adminName1>Tennessee</adminName1>
+<adminCode2>003</adminCode2>
+<adminName2>Bedford County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-86.49937</west>
+<north>35.48101</north>
+<east>-86.47728</east>
+<south>35.46302</south>
+</bbox>
+<score>6.992108345031738</score>
+</geoname>
+<geoname>
+<toponymName>Super 8 Shelbyville Tn</toponymName>
+<name>Super 8 Shelbyville Tn</name>
+<lat>35.4871</lat>
+<lng>-86.4625</lng>
+<geonameId>6504624</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>HTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>hotel</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TN">TN</adminCode1>
+<adminName1>Tennessee</adminName1>
+<adminCode2>003</adminCode2>
+<adminName2>Bedford County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>2.6815249919891357</score>
+</geoname>
+<geoname>
+<toponymName>Old Shelbyville City Cemetery</toponymName>
+<name>Old Shelbyville City Cemetery</name>
+<lat>35.48063</lat>
+<lng>-86.45777</lng>
+<geonameId>4647142</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>CMTY</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>cemetery</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>235</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TN">TN</adminCode1>
+<adminName1>Tennessee</adminName1>
+<adminCode2>003</adminCode2>
+<adminName2>Bedford County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>2.447237968444824</score>
+</geoname>
+<geoname>
+<toponymName>Shelbyville Church of God</toponymName>
+<name>Shelbyville Church of God</name>
+<lat>35.47757</lat>
+<lng>-86.45499</lng>
+<geonameId>4657078</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>CH</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>church</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>238</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TN">TN</adminCode1>
+<adminName1>Tennessee</adminName1>
+<adminCode2>003</adminCode2>
+<adminName2>Bedford County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>2.447237968444824</score>
+</geoname>
+</geonames>

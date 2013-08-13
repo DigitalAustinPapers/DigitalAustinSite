@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>7</totalResultsCount>
+<geoname>
+<toponymName>Prairie Ponds</toponymName>
+<name>Prairie Ponds</name>
+<lat>30.48967</lat>
+<lng>-86.7848</lng>
+<geonameId>4169269</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>LK</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>lake</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>26</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="FL">FL</adminCode1>
+<adminName1>Florida</adminName1>
+<adminCode2>091</adminCode2>
+<adminName2>Okaloosa County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>54.15055465698242</score>
+</geoname>
+<geoname>
+<toponymName>Prairie Lakes</toponymName>
+<name>Prairie Lakes</name>
+<lat>34.08719</lat>
+<lng>-91.09378</lng>
+<geonameId>4127376</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>LK</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>lake</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>44</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">AR</adminCode1>
+<adminName1>Arkansas</adminName1>
+<adminCode2>041</adminCode2>
+<adminName2>Desha County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>50.7170295715332</score>
+</geoname>
+<geoname>
+<toponymName>Prairie Lakes</toponymName>
+<name>Prairie Lakes</name>
+<lat>43.75379</lat>
+<lng>-114.67673</lng>
+<geonameId>5604453</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>LK</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>lake</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>2660</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ID">ID</adminCode1>
+<adminName1>Idaho</adminName1>
+<adminCode2>013</adminCode2>
+<adminName2>Blaine County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Boise</timezone>
+<score>50.7170295715332</score>
+</geoname>
+<geoname>
+<toponymName>Prairie Ponds</toponymName>
+<name>Prairie Ponds</name>
+<lat>41.64028</lat>
+<lng>-88.24583</lng>
+<geonameId>7151295</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>202</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>197</adminCode2>
+<adminName2>Will County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-88.25787</west>
+<north>41.64927</north>
+<east>-88.2338</east>
+<south>41.63128</south>
+</bbox>
+<score>30.943174362182617</score>
+</geoname>
+<geoname>
+<toponymName>Prairieland</toponymName>
+<name>Prairieland</name>
+<lat>30.11021</lat>
+<lng>-93.21321</lng>
+<geonameId>4338017</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>2</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>019</adminCode2>
+<adminName2>Calcasieu Parish</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-93.22361</west>
+<north>30.1192</north>
+<east>-93.20281</east>
+<south>30.10122</south>
+</bbox>
+<score>12.821242332458496</score>
+</geoname>
+<geoname>
+<toponymName>Prairie Lakes</toponymName>
+<name>Prairie Lakes</name>
+<lat>32.35431</lat>
+<lng>-87.54972</lng>
+<geonameId>4084768</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>RSV</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>reservoir(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>77</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AL">AL</adminCode1>
+<adminName1>Alabama</adminName1>
+<adminCode2>091</adminCode2>
+<adminName2>Marengo County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>9.056612014770508</score>
+</geoname>
+<geoname>
+<toponymName>Prairie Lakes</toponymName>
+<name>Prairie Lakes</name>
+<lat>42.47776</lat>
+<lng>-92.4588</lng>
+<geonameId>4872006</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>RSV</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>reservoir(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>285</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IA">IA</adminCode1>
+<adminName1>Iowa</adminName1>
+<adminCode2>013</adminCode2>
+<adminName2>Black Hawk County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>9.056612014770508</score>
+</geoname>
+</geonames>

@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>8</totalResultsCount>
+<geoname>
+<toponymName>Patio</toponymName>
+<name>Patio</name>
+<lat>60.50082</lat>
+<lng>27.80115</lng>
+<geonameId>512315</geonameId>
+<countryCode>RU</countryCode>
+<countryName>Russia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Patco,Patio,Pattso,Патио,Патцо</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="LEN">42</adminCode1>
+<adminName1>Leningrad</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Patio</alternateName>
+<alternateName lang="no">Pattso</alternateName>
+<alternateName lang="ru">Патио</alternateName>
+<timezone dstOffset="4.0" gmtOffset="4.0">Europe/Moscow</timezone>
+<bbox>
+<west>27.78288</west>
+<north>60.50981</north>
+<east>27.81942</east>
+<south>60.49182</south>
+</bbox>
+<score>68.3136978149414</score>
+</geoname>
+<geoname>
+<toponymName>Patio</toponymName>
+<name>Patio</name>
+<lat>-25.15</lat>
+<lng>45.08333</lng>
+<geonameId>1058022</geonameId>
+<countryCode>MG</countryCode>
+<countryName>Madagascar</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="U">06</adminCode1>
+<adminName1>MG.06</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="3.0" gmtOffset="3.0">Indian/Antananarivo</timezone>
+<bbox>
+<west>45.0734</west>
+<north>-25.14101</north>
+<east>45.09327</east>
+<south>-25.15899</south>
+</bbox>
+<score>41.731666564941406</score>
+</geoname>
+<geoname>
+<toponymName>Patio</toponymName>
+<name>Patio</name>
+<lat>19.68333</lat>
+<lng>-72.51667</lng>
+<geonameId>3719192</geonameId>
+<countryCode>HT</countryCode>
+<countryName>Haiti</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ND">09</adminCode1>
+<adminName1>Nord</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Port-au-Prince</timezone>
+<bbox>
+<west>-72.52622</west>
+<north>19.69233</north>
+<east>-72.50711</east>
+<south>19.67434</south>
+</bbox>
+<score>41.731666564941406</score>
+</geoname>
+<geoname>
+<toponymName>Patio</toponymName>
+<name>Patio</name>
+<lat>-16.58333</lat>
+<lng>-151.48333</lng>
+<geonameId>4033877</geonameId>
+<countryCode>PF</countryCode>
+<countryName>French Polynesia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-10.0" gmtOffset="-10.0">Pacific/Tahiti</timezone>
+<bbox>
+<west>-151.49272</west>
+<north>-16.57434</north>
+<east>-151.47395</east>
+<south>-16.59233</south>
+</bbox>
+<score>41.731666564941406</score>
+</geoname>
+<geoname>
+<toponymName>Patic</toponymName>
+<name>Patic</name>
+<lat>10.5042</lat>
+<lng>122.8116</lng>
+<geonameId>1694398</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Patic,Patik,Patio</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="06">06</adminCode1>
+<adminName1>Western Visayas</adminName1>
+<adminCode2>H3</adminCode2>
+<adminName2>Negros Occidental</adminName2>
+<alternateName lang="fil">Patic</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<bbox>
+<west>122.80245</west>
+<north>10.51319</north>
+<east>122.82075</east>
+<south>10.49521</south>
+</bbox>
+<score>29.508745193481445</score>
+</geoname>
+<geoname>
+<toponymName>Paljo</toponymName>
+<name>Paljo</name>
+<lat>11.92366</lat>
+<lng>124.01881</lng>
+<geonameId>1696063</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Paljo,Patio</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="ALB">05</adminCode1>
+<adminName1>Bicol</adminName1>
+<adminCode2>39</adminCode2>
+<adminName2>Masbate</adminName2>
+<alternateName lang="fil">Paljo</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<bbox>
+<west>124.00961</west>
+<north>11.93266</north>
+<east>124.028</east>
+<south>11.91467</south>
+</bbox>
+<score>29.508745193481445</score>
+</geoname>
+<geoname>
+<toponymName>Patio</toponymName>
+<name>Patio</name>
+<lat>29.5572</lat>
+<lng>34.95543</lng>
+<geonameId>8472243</geonameId>
+<countryCode>IL</countryCode>
+<countryName>Israel</countryName>
+<fcl>S</fcl>
+<fcode>HTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>hotel</fcodeName>
+<population/>
+<alternateNames>Patio,ptyw,פטיו</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="D">01</adminCode1>
+<adminName1>Southern District</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="he">פטיו</alternateName>
+<timezone dstOffset="3.0" gmtOffset="2.0">Asia/Jerusalem</timezone>
+<score>22.36090660095215</score>
+</geoname>
+<geoname>
+<toponymName>Patio</toponymName>
+<name>Patio</name>
+<lat>32.72032</lat>
+<lng>-114.61856</lng>
+<geonameId>5308251</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>44</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AZ">AZ</adminCode1>
+<adminName1>Arizona</adminName1>
+<adminCode2>027</adminCode2>
+<adminName2>Yuma County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-7.0">America/Phoenix</timezone>
+<score>13.041145324707031</score>
+</geoname>
+</geonames>

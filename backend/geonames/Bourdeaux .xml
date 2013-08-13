@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>40</totalResultsCount>
+<geoname>
+<toponymName>Bourdeaux</toponymName>
+<name>Bourdeaux</name>
+<lat>44.58661</lat>
+<lng>5.13554</lng>
+<geonameId>3031069</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>601</population>
+<alternateNames>Bourdeaux</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="V">B9</adminCode1>
+<adminName1>Rhône-Alpes</adminName1>
+<adminCode2>26</adminCode2>
+<adminName2>Drôme</adminName2>
+<adminCode3>261</adminCode3>
+<adminName3>Arrondissement de Die</adminName3>
+<adminCode4>26056</adminCode4>
+<adminName4>Bourdeaux</adminName4>
+<alternateName lang="post">26460</alternateName>
+<alternateName lang="unlc">BX8</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>5.13428</west>
+<north>44.58751</north>
+<east>5.1368</east>
+<south>44.58571</south>
+</bbox>
+<score>43.37456130981445</score>
+</geoname>
+<geoname>
+<toponymName>Bourdeaux</toponymName>
+<name>Bourdeaux</name>
+<lat>44.58639</lat>
+<lng>5.13444</lng>
+<geonameId>6447895</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population>621</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="V">B9</adminCode1>
+<adminName1>Rhône-Alpes</adminName1>
+<adminCode2>26</adminCode2>
+<adminName2>Drôme</adminName2>
+<adminCode3>261</adminCode3>
+<adminName3>Arrondissement de Die</adminName3>
+<adminCode4>26056</adminCode4>
+<adminName4>Bourdeaux</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bourdeaux</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>5.10427</west>
+<north>44.60803</north>
+<east>5.22938</east>
+<south>44.55028</south>
+</bbox>
+<score>40.47449493408203</score>
+</geoname>
+<geoname>
+<toponymName>Bordeaux</toponymName>
+<name>Bordeaux</name>
+<lat>44.84044</lat>
+<lng>-0.5805</lng>
+<geonameId>3031582</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population>231844</population>
+<alternateNames>BOD,Bordeaux,Bordele,Bordeos,Bordeu,Bordeus,Bordo,Bordox,Bordozo,Bordèu,Bordéus,Bordò,Bordôx,Bornto,Bourdel,Burdeos,Burdeus,Burdigala,Gorad Bardo,bo er duo,boleudo,bordo,bordu,borudo,bwrdw,bwrڈw,bxr do,porto,Μπορντό,Бордо,Горад Бардо,Բորդո,בורדו,بوردو,بورڈو,बोर्दू,बोर्दो,பொர்தோ,บอร์โด,ბორდო,ボルドー,波尔多,보르도</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="B">97</adminCode1>
+<adminName1>Aquitaine</adminName1>
+<adminCode2>33</adminCode2>
+<adminName2>Gironde</adminName2>
+<adminCode3>332</adminCode3>
+<adminName3>Arrondissement de Bordeaux</adminName3>
+<adminCode4>33063</adminCode4>
+<adminName4>Bordeaux</adminName4>
+<alternateName lang="an">Bordeus</alternateName>
+<alternateName lang="ar">بوردو</alternateName>
+<alternateName lang="ast">Bordeos</alternateName>
+<alternateName lang="az">Bordo</alternateName>
+<alternateName lang="be">Горад Бардо</alternateName>
+<alternateName lang="bg">Бордо</alternateName>
+<alternateName lang="br">Bourdel</alternateName>
+<alternateName lang="ca">Bordeus</alternateName>
+<alternateName lang="cs">Bordeaux</alternateName>
+<alternateName lang="de">Bordeaux</alternateName>
+<alternateName lang="el">Μπορντό</alternateName>
+<alternateName lang="en">Bordeaux</alternateName>
+<alternateName lang="eo">Bordozo</alternateName>
+<alternateName lang="es">Burdeos</alternateName>
+<alternateName lang="et">Bordeaux</alternateName>
+<alternateName lang="eu">Bordele</alternateName>
+<alternateName lang="ext">Burdeus</alternateName>
+<alternateName lang="fa">بوردو</alternateName>
+<alternateName lang="fi">Bordeaux</alternateName>
+<alternateName lang="fr">Bordeaux</alternateName>
+<alternateName lang="frp">Bordôx</alternateName>
+<alternateName lang="gl">Bordeos</alternateName>
+<alternateName lang="he">בורדו</alternateName>
+<alternateName lang="hi">बोर्दो</alternateName>
+<alternateName lang="hy">Բորդո</alternateName>
+<alternateName lang="iata">BOD</alternateName>
+<alternateName lang="id">Bordeaux</alternateName>
+<alternateName lang="is">Bordeaux</alternateName>
+<alternateName lang="it">Bordeaux</alternateName>
+<alternateName lang="ja">ボルドー</alternateName>
+<alternateName lang="ka">ბორდო</alternateName>
+<alternateName lang="kg">Bordo</alternateName>
+<alternateName lang="kk">Бордо</alternateName>
+<alternateName lang="ko">보르도</alternateName>
+<alternateName lang="la">Burdigala</alternateName>
+<alternateName lang="lad">Bordeaux</alternateName>
+<alternateName lang="lb">Bordeaux</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bordeaux</alternateName>
+<alternateName lang="lt">Bordo</alternateName>
+<alternateName lang="lv">Bordo</alternateName>
+<alternateName lang="mk">Бордо</alternateName>
+<alternateName lang="mr">बोर्दू</alternateName>
+<alternateName lang="mzn">بوردو</alternateName>
+<alternateName lang="nl">Bordeaux</alternateName>
+<alternateName lang="no">Bordeaux</alternateName>
+<alternateName lang="oc">Bordèu</alternateName>
+<alternateName lang="os">Бордо</alternateName>
+<alternateName lang="pl">Bordeaux</alternateName>
+<alternateName lang="pms">Bordò</alternateName>
+<alternateName lang="pnb">بورڈو</alternateName>
+<alternateName lang="post">33000</alternateName>
+<alternateName lang="pt">Bordéus</alternateName>
+<alternateName lang="ro">Bordeaux</alternateName>
+<alternateName lang="ru">Бордо</alternateName>
+<alternateName lang="sr">Бордо</alternateName>
+<alternateName lang="stq">Bordèu</alternateName>
+<alternateName lang="sv">Bordeaux</alternateName>
+<alternateName lang="ta">பொர்தோ</alternateName>
+<alternateName lang="th">บอร์โด</alternateName>
+<alternateName lang="tl">Burdeos</alternateName>
+<alternateName lang="ug">Bordo</alternateName>
+<alternateName lang="uk">Бордо</alternateName>
+<alternateName lang="unlc">BOD</alternateName>
+<alternateName lang="ur">بورڈو</alternateName>
+<alternateName lang="vec">Bordò</alternateName>
+<alternateName lang="zh">波尔多</alternateName>
+<alternateName lang="zh-CN">波尔多</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>-0.6687</west>
+<north>44.90291</north>
+<east>-0.4923</east>
+<south>44.77797</south>
+</bbox>
+<score>30.25323486328125</score>
+</geoname>
+<geoname>
+<toponymName>Bourdeau</toponymName>
+<name>Bourdeau</name>
+<lat>45.68206</lat>
+<lng>5.85744</lng>
+<geonameId>3031071</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>495</population>
+<alternateNames>Bourdeau</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="V">B9</adminCode1>
+<adminName1>Rhône-Alpes</adminName1>
+<adminCode2>73</adminCode2>
+<adminName2>Savoy</adminName2>
+<adminCode3>732</adminCode3>
+<adminName3>Arrondissement de Chambéry</adminName3>
+<adminCode4>73050</adminCode4>
+<adminName4>Bourdeau</adminName4>
+<alternateName lang="post">73370</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>5.85615</west>
+<north>45.68296</north>
+<east>5.85872</east>
+<south>45.68116</south>
+</bbox>
+<score>16.655128479003906</score>
+</geoname>
+<geoname>
+<toponymName>Bordeaux</toponymName>
+<name>Bordeaux</name>
+<lat>45.54228</lat>
+<lng>-73.69308</lng>
+<geonameId>5905868</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="QC">10</adminCode1>
+<adminName1>Quebec</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bordeaux-Cartierville</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Montreal</timezone>
+<bbox>
+<west>-73.70592</west>
+<north>45.55127</north>
+<east>-73.68024</east>
+<south>45.53329</south>
+</bbox>
+<score>16.400421142578125</score>
+</geoname>
+<geoname>
+<toponymName>Bordeaux</toponymName>
+<name>Bordeaux</name>
+<lat>44.83778</lat>
+<lng>-0.57944</lng>
+<geonameId>6455058</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population>236725</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="B">97</adminCode1>
+<adminName1>Aquitaine</adminName1>
+<adminCode2>33</adminCode2>
+<adminName2>Gironde</adminName2>
+<adminCode3>332</adminCode3>
+<adminName3>Arrondissement de Bordeaux</adminName3>
+<adminCode4>33063</adminCode4>
+<adminName4>Bordeaux</adminName4>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>-0.63834</west>
+<north>44.91667</north>
+<east>-0.53553</east>
+<south>44.81079</south>
+</bbox>
+<score>13.66701889038086</score>
+</geoname>
+<geoname>
+<toponymName>Bourdeau</toponymName>
+<name>Bourdeau</name>
+<lat>46.50286</lat>
+<lng>2.19876</lng>
+<geonameId>3031070</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="F">A3</adminCode1>
+<adminName1>Centre</adminName1>
+<adminCode2>18</adminCode2>
+<adminName2>Cher</adminName2>
+<adminCode3>182</adminCode3>
+<adminName3>Arrondissement de Saint-Amand-Montrond</adminName3>
+<adminCode4>18234</adminCode4>
+<adminName4>Saint-Saturnin</adminName4>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>2.18569</west>
+<north>46.51185</north>
+<east>2.21183</east>
+<south>46.49386</south>
+</bbox>
+<score>13.598855018615723</score>
+</geoname>
+<geoname>
+<toponymName>Bourdeau</toponymName>
+<name>Bourdeau</name>
+<lat>18.4</lat>
+<lng>-72.83333</lng>
+<geonameId>3729233</geonameId>
+<countryCode>HT</countryCode>
+<countryName>Haiti</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OU">11</adminCode1>
+<adminName1>Ouest</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Port-au-Prince</timezone>
+<bbox>
+<west>-72.84281</west>
+<north>18.40899</north>
+<east>-72.82385</east>
+<south>18.39101</south>
+</bbox>
+<score>13.598855018615723</score>
+</geoname>
+<geoname>
+<toponymName>Bourdeau</toponymName>
+<name>Bourdeau</name>
+<lat>18.35</lat>
+<lng>-73.75</lng>
+<geonameId>3729234</geonameId>
+<countryCode>HT</countryCode>
+<countryName>Haiti</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SD">12</adminCode1>
+<adminName1>Sud</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Port-au-Prince</timezone>
+<bbox>
+<west>-73.75948</west>
+<north>18.35899</north>
+<east>-73.74052</east>
+<south>18.34101</south>
+</bbox>
+<score>13.598855018615723</score>
+</geoname>
+<geoname>
+<toponymName>Bourdeau</toponymName>
+<name>Bourdeau</name>
+<lat>45.5001</lat>
+<lng>-79.54966</lng>
+<geonameId>5906559</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ON">08</adminCode1>
+<adminName1>Ontario</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Toronto</timezone>
+<score>13.598855018615723</score>
+</geoname>
+</geonames>

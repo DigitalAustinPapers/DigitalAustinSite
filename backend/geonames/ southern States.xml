@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Southern Estates</toponymName>
+<name>Southern Estates</name>
+<lat>31.0099</lat>
+<lng>-87.47304</lng>
+<geonameId>4091026</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>85</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AL">AL</adminCode1>
+<adminName1>Alabama</adminName1>
+<adminCode2>053</adminCode2>
+<adminName2>Escambia County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-87.48353</west>
+<north>31.0189</north>
+<east>-87.46254</east>
+<south>31.00091</south>
+</bbox>
+<score>44.839012145996094</score>
+</geoname>
+<geoname>
+<toponymName>Southern Estates</toponymName>
+<name>Southern Estates</name>
+<lat>37.12848</lat>
+<lng>-77.35498</lng>
+<geonameId>4786816</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>49</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>149</adminCode2>
+<adminName2>Prince George County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-77.36626</west>
+<north>37.13748</north>
+<east>-77.3437</east>
+<south>37.11949</south>
+</bbox>
+<score>44.839012145996094</score>
+</geoname>
+</geonames>

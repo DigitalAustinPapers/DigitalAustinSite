@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>8</totalResultsCount>
+<geoname>
+<toponymName>Shores</toponymName>
+<name>Shores</name>
+<lat>41.54019</lat>
+<lng>-114.79948</lng>
+<geonameId>5708498</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1761</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NV">NV</adminCode1>
+<adminName1>Nevada</adminName1>
+<adminCode2>007</adminCode2>
+<adminName2>Elko County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-114.8115</west>
+<north>41.54919</north>
+<east>-114.78747</east>
+<south>41.5312</south>
+</bbox>
+<score>41.60495376586914</score>
+</geoname>
+<geoname>
+<toponymName>Shores</toponymName>
+<name>Shores</name>
+<lat>-30.65</lat>
+<lng>29.96667</lng>
+<geonameId>955903</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>S</fcl>
+<fcode>RSD</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>railroad siding</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="ZN">02</adminCode1>
+<adminName1>KwaZulu-Natal</adminName1>
+<adminCode2>DC21</adminCode2>
+<adminName2>Ugu District Municipality</adminName2>
+<adminCode3>KZN214</adminCode3>
+<adminName3>UMuziwabantu</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<score>13.001547813415527</score>
+</geoname>
+<geoname>
+<toponymName>Shores</toponymName>
+<name>Shores</name>
+<lat>37.73459</lat>
+<lng>-78.35973</lng>
+<geonameId>4785544</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>70</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>065</adminCode2>
+<adminName2>Fluvanna County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>13.001547813415527</score>
+</geoname>
+<geoname>
+<toponymName>Sholes</toponymName>
+<name>Sholes</name>
+<lat>42.33278</lat>
+<lng>-97.2945</lng>
+<geonameId>5078947</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>21</population>
+<alternateNames/>
+<elevation>527</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NE">NE</adminCode1>
+<adminName1>Nebraska</adminName1>
+<adminCode2>179</adminCode2>
+<adminName2>Wayne County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Sholes%2C_Nebraska</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-97.29571</west>
+<north>42.33368</north>
+<east>-97.29328</east>
+<south>42.33188</south>
+</bbox>
+<score>11.348221778869629</score>
+</geoname>
+<geoname>
+<toponymName>Shoresh</toponymName>
+<name>Shoresh</name>
+<lat>31.79711</lat>
+<lng>35.06525</lng>
+<geonameId>293476</geonameId>
+<countryCode>IL</countryCode>
+<countryName>Israel</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Hageshamah,Hagshama,Hagshamah,Lehageshamah,Lehagshama,Shoresh,srs,שרש</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="JM">06</adminCode1>
+<adminName1>Jerusalem District</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Shoresh</alternateName>
+<alternateName lang="es">Shoresh</alternateName>
+<alternateName lang="he">שרש</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Shoresh</alternateName>
+<alternateName lang="pt">Shoresh</alternateName>
+<timezone dstOffset="3.0" gmtOffset="2.0">Asia/Jerusalem</timezone>
+<bbox>
+<west>35.05467</west>
+<north>31.8061</north>
+<east>35.07583</east>
+<south>31.78812</south>
+</bbox>
+<score>10.466816902160645</score>
+</geoname>
+<geoname>
+<toponymName>Shorey</toponymName>
+<name>Shorey</name>
+<lat>13.25</lat>
+<lng>-59.56667</lng>
+<geonameId>3373521</geonameId>
+<countryCode>BB</countryCode>
+<countryName>Barbados</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="02">02</adminCode1>
+<adminName1>Saint Andrew</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Barbados</timezone>
+<bbox>
+<west>-59.57591</west>
+<north>13.25899</north>
+<east>-59.55743</east>
+<south>13.24101</south>
+</bbox>
+<score>7.192839622497559</score>
+</geoname>
+<geoname>
+<toponymName>Shorey</toponymName>
+<name>Shorey</name>
+<lat>46.22699</lat>
+<lng>-68.14947</lng>
+<geonameId>4978560</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>217</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ME">ME</adminCode1>
+<adminName1>Maine</adminName1>
+<adminCode2>003</adminCode2>
+<adminName2>Aroostook County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-68.16247</west>
+<north>46.23599</north>
+<east>-68.13647</east>
+<south>46.218</south>
+</bbox>
+<score>7.192839622497559</score>
+</geoname>
+<geoname>
+<toponymName>Shorts</toponymName>
+<name>Shorts</name>
+<lat>32.33042</lat>
+<lng>-88.17447</lng>
+<geonameId>4090016</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>55</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AL">AL</adminCode1>
+<adminName1>Alabama</adminName1>
+<adminCode2>119</adminCode2>
+<adminName2>Sumter County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>2.364212989807129</score>
+</geoname>
+</geonames>

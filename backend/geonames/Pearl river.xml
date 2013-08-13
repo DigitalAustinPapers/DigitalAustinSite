@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>26</totalResultsCount>
+<geoname>
+<toponymName>Pearl River</toponymName>
+<name>Pearl River</name>
+<lat>32.78347</lat>
+<lng>-89.22784</lng>
+<geonameId>4440572</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3601</population>
+<alternateNames/>
+<elevation>159</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MS">MS</adminCode1>
+<adminName1>Mississippi</adminName1>
+<adminCode2>099</adminCode2>
+<adminName2>Neshoba County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Pearl_River%2C_Mississippi</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-89.23711</west>
+<north>32.79126</north>
+<east>-89.21858</east>
+<south>32.77568</south>
+</bbox>
+<score>72.85774993896484</score>
+</geoname>
+<geoname>
+<toponymName>Pearl River</toponymName>
+<name>Pearl River</name>
+<lat>41.05899</lat>
+<lng>-74.02181</lng>
+<geonameId>5130780</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>15876</population>
+<alternateNames/>
+<elevation>73</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>087</adminCode2>
+<adminName2>Rockland County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Pearl_River%2C_New_York</alternateName>
+<alternateName lang="post">10965</alternateName>
+<alternateName lang="unlc">PAV</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-74.04331</west>
+<north>41.0752</north>
+<east>-74.0003</east>
+<south>41.04277</south>
+</bbox>
+<score>63.75053024291992</score>
+</geoname>
+<geoname>
+<toponymName>Pearl River</toponymName>
+<name>Pearl River</name>
+<lat>30.37603</lat>
+<lng>-89.7484</lng>
+<geonameId>4336717</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2506</population>
+<alternateNames/>
+<elevation>8</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>103</adminCode2>
+<adminName2>Saint Tammany Parish</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Pearl_River%2C_Louisiana</alternateName>
+<alternateName lang="post">70452</alternateName>
+<alternateName lang="unlc">PR8</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-89.77083</west>
+<north>30.39616</north>
+<east>-89.72901</east>
+<south>30.34169</south>
+</bbox>
+<score>54.643310546875</score>
+</geoname>
+<geoname>
+<toponymName>Pearl River</toponymName>
+<name>Pearl River</name>
+<lat>30.17936</lat>
+<lng>-89.52616</lng>
+<geonameId>4336716</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>-1</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>103</adminCode2>
+<adminName2>Saint Tammany Parish</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Pearl_River_%28Mississippi%E2%80%93Louisiana%29</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>36.42887496948242</score>
+</geoname>
+<geoname>
+<toponymName>Zhu Jiang</toponymName>
+<name>Pearl River</name>
+<lat>22.76943</lat>
+<lng>113.62159</lng>
+<geonameId>1783916</geonameId>
+<countryCode>CN</countryCode>
+<countryName>China</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>Canton River,Chu Chiang,Chu Kiang,Kuang-tung Ho,Pearl River,Perl Strom,Zhu Jiang,zhu jiang,珠江</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="44">30</adminCode1>
+<adminName1>Guangdong Province</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Pearl River</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Pearl_River_%28China%29</alternateName>
+<alternateName lang="zh">珠江</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Chongqing</timezone>
+<score>22.768047332763672</score>
+</geoname>
+<geoname>
+<toponymName>Pearl River</toponymName>
+<name>Pearl River</name>
+<lat>48.6168</lat>
+<lng>-88.61677</lng>
+<geonameId>6100237</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ON">08</adminCode1>
+<adminName1>Ontario</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Toronto</timezone>
+<score>11.384023666381836</score>
+</geoname>
+<geoname>
+<toponymName>Pear River</toponymName>
+<name>Pear River</name>
+<lat>-35.41667</lat>
+<lng>148.43333</lng>
+<geonameId>2153606</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="NSW">02</adminCode1>
+<adminName1>New South Wales</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="10.0" gmtOffset="11.0">Australia/Sydney</timezone>
+<score>6.682088375091553</score>
+</geoname>
+<geoname>
+<toponymName>Pedro River</toponymName>
+<name>Pedro River</name>
+<lat>18.1938</lat>
+<lng>-77.22043</lng>
+<geonameId>3489085</geonameId>
+<countryCode>JM</countryCode>
+<countryName>Jamaica</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="13">01</adminCode1>
+<adminName1>Clarendon</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Jamaica</timezone>
+<bbox>
+<west>-77.2299</west>
+<north>18.20279</north>
+<east>-77.21096</east>
+<south>18.18481</south>
+</bbox>
+<score>3.563330888748169</score>
+</geoname>
+<geoname>
+<toponymName>Perry River</toponymName>
+<name>Perry River</name>
+<lat>67.71761</lat>
+<lng>-102.23482</lng>
+<geonameId>6101499</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NU">14</adminCode1>
+<adminName1>Nunavut</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Perry_River</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Cambridge_Bay</timezone>
+<score>3.3801040649414062</score>
+</geoname>
+<geoname>
+<toponymName>Peace River</toponymName>
+<name>Peace River</name>
+<lat>26.91728</lat>
+<lng>-82.14259</lng>
+<geonameId>4168007</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>0</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="FL">FL</adminCode1>
+<adminName1>Florida</adminName1>
+<adminCode2>015</adminCode2>
+<adminName2>Charlotte County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Peace_River_%28Florida%29</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>3.311713218688965</score>
+</geoname>
+</geonames>

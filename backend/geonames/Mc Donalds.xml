@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>8</totalResultsCount>
+<geoname>
+<toponymName>Mc Donald's</toponymName>
+<name>Mc Donald's</name>
+<lat>33.87585</lat>
+<lng>35.5189</lng>
+<geonameId>7839278</geonameId>
+<countryCode>LB</countryCode>
+<countryName>Lebanon</countryName>
+<fcl>S</fcl>
+<fcode>REST</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>restaurant</fcodeName>
+<population/>
+<alternateNames>Mc Donalds,McDonald's,McDonalds</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="BA">04</adminCode1>
+<adminName1>Beyrouth</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="3.0" gmtOffset="2.0">Asia/Beirut</timezone>
+<score>28.158489227294922</score>
+</geoname>
+<geoname>
+<toponymName>McDonalds</toponymName>
+<name>McDonalds</name>
+<lat>34.62183</lat>
+<lng>-79.54366</lng>
+<geonameId>4586691</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>58</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SC">SC</adminCode1>
+<adminName1>South Carolina</adminName1>
+<adminCode2>069</adminCode2>
+<adminName2>Marlboro County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-79.55459</west>
+<north>34.63082</north>
+<east>-79.53273</east>
+<south>34.61283</south>
+</bbox>
+<score>14.602516174316406</score>
+</geoname>
+<geoname>
+<toponymName>McDonalds</toponymName>
+<name>McDonalds</name>
+<lat>47.03436</lat>
+<lng>-115.15236</lng>
+<geonameId>5600434</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1550</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ID">ID</adminCode1>
+<adminName1>Idaho</adminName1>
+<adminCode2>079</adminCode2>
+<adminName2>Shoshone County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-115.16556</west>
+<north>47.04336</north>
+<east>-115.13916</east>
+<south>47.02537</south>
+</bbox>
+<score>14.602516174316406</score>
+</geoname>
+<geoname>
+<toponymName>Mc Donalds</toponymName>
+<name>Mc Donalds</name>
+<lat>31.65495</lat>
+<lng>-8.01926</lng>
+<geonameId>6533389</geonameId>
+<countryCode>MA</countryCode>
+<countryName>Morocco</countryName>
+<fcl>S</fcl>
+<fcode>REST</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>restaurant</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1/>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="0.0" gmtOffset="0.0">Africa/Casablanca</timezone>
+<score>10.962493896484375</score>
+</geoname>
+<geoname>
+<toponymName>Mc Donald's</toponymName>
+<name>Mc Donald's</name>
+<lat>-32.93462</lat>
+<lng>-60.70292</lng>
+<geonameId>6269194</geonameId>
+<countryCode>AR</countryCode>
+<countryName>Argentina</countryName>
+<fcl>S</fcl>
+<fcode>MKT</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>market</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1/>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Argentina/Cordoba</timezone>
+<score>5.284115791320801</score>
+</geoname>
+<geoname>
+<toponymName>Mc Donald's</toponymName>
+<name>Mc Donald's</name>
+<lat>23.04627</lat>
+<lng>72.53123</lng>
+<geonameId>6949167</geonameId>
+<countryCode>IN</countryCode>
+<countryName>India</countryName>
+<fcl>S</fcl>
+<fcode>REST</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>restaurant</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="GJ">09</adminCode1>
+<adminName1>Gujarāt</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="5.5" gmtOffset="5.5">Asia/Kolkata</timezone>
+<score>5.284115791320801</score>
+</geoname>
+<geoname>
+<toponymName>Mc Donald</toponymName>
+<name>Mc Donald</name>
+<lat>52.17932</lat>
+<lng>5.98528</lng>
+<geonameId>6955743</geonameId>
+<countryCode>NL</countryCode>
+<countryName>Netherlands</countryName>
+<fcl>S</fcl>
+<fcode>REST</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>restaurant</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="GE">03</adminCode1>
+<adminName1>Gelderland</adminName1>
+<adminCode2>0200</adminCode2>
+<adminName2>Apeldoorn</adminName2>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Amsterdam</timezone>
+<score>5.124635696411133</score>
+</geoname>
+<geoname>
+<toponymName>McDonalds</toponymName>
+<name>McDonalds</name>
+<lat>19.1593</lat>
+<lng>-96.10957</lng>
+<geonameId>6619455</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>S</fcl>
+<fcode>REST</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>restaurant</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VER">30</adminCode1>
+<adminName1>Veracruz-Llave</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<score>4.563286304473877</score>
+</geoname>
+</geonames>

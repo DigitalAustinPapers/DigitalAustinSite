@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Indiana County</toponymName>
+<name>Indiana County</name>
+<lat>40.65205</lat>
+<lng>-79.08755</lng>
+<geonameId>5194872</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>88880</population>
+<alternateNames>Comte d'Indiana,Comté d'Indiana,Condado de Indiana,Condado han Indiana,Contea di Indiana,Hrabstwo Indiana,Indiana,Indiana Comitatus,Indiana srjan,Konteth Indiana,Quan Indiana,Quận Indiana,indiyana ka'unti,yin de an na xian,Індіана,Индиана,Ինդիանա շրջան,انڈیانا کاؤنٹی,ইন্ডিয়ানা কাউন্টি,印地安納縣</alternateNames>
+<elevation>450</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PA">PA</adminCode1>
+<adminName1>Pennsylvania</adminName1>
+<adminCode2>063</adminCode2>
+<adminName2>Indiana County</adminName2>
+<alternateName lang="bg">Индиана</alternateName>
+<alternateName lang="bpy">ইন্ডিয়ানা কাউন্টি</alternateName>
+<alternateName lang="es">Condado de Indiana</alternateName>
+<alternateName lang="fr">Comté d'Indiana</alternateName>
+<alternateName lang="hy">Ինդիանա շրջան</alternateName>
+<alternateName lang="it">Contea di Indiana</alternateName>
+<alternateName lang="kw">Konteth Indiana</alternateName>
+<alternateName lang="la">Indiana Comitatus</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Indiana_County%2C_Pennsylvania</alternateName>
+<alternateName lang="pl">Hrabstwo Indiana</alternateName>
+<alternateName lang="pnb">انڈیانا کاؤنٹی</alternateName>
+<alternateName lang="pt">Condado de Indiana</alternateName>
+<alternateName lang="uk">Індіана</alternateName>
+<alternateName lang="vi">Quận Indiana</alternateName>
+<alternateName lang="war">Condado han Indiana</alternateName>
+<alternateName lang="zh">印地安納縣</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-79.45963</west>
+<north>40.91013</north>
+<east>-78.79582</east>
+<south>40.36863</south>
+</bbox>
+<score>34.4893798828125</score>
+</geoname>
+</geonames>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Sugar House</toponymName>
+<name>Sugar House</name>
+<lat>40.72578</lat>
+<lng>-111.86521</lng>
+<geonameId>5782227</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1321</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="UT">UT</adminCode1>
+<adminName1>Utah</adminName1>
+<adminCode2>035</adminCode2>
+<adminName2>Salt Lake County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<bbox>
+<west>-111.87708</west>
+<north>40.73477</north>
+<east>-111.85334</east>
+<south>40.71679</south>
+</bbox>
+<score>45.98586654663086</score>
+</geoname>
+</geonames>

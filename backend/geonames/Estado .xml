@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>11</totalResultsCount>
+<geoname>
+<toponymName>Estado</toponymName>
+<name>Estado</name>
+<lat>19.65766</lat>
+<lng>-70.8556</lng>
+<geonameId>3505844</geonameId>
+<countryCode>DO</countryCode>
+<countryName>Dominican Republic</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="18">18</adminCode1>
+<adminName1>Puerto Plata</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Santo_Domingo</timezone>
+<bbox>
+<west>-70.86515</west>
+<north>19.66666</north>
+<east>-70.84604</east>
+<south>19.64867</south>
+</bbox>
+<score>41.973350524902344</score>
+</geoname>
+<geoname>
+<toponymName>Hacienda Estado</toponymName>
+<name>Hacienda Estado</name>
+<lat>10.84104</lat>
+<lng>123.1361</lng>
+<geonameId>1713743</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Estado,Hacienda Estado</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="06">06</adminCode1>
+<adminName1>Western Visayas</adminName1>
+<adminCode2>H3</adminCode2>
+<adminName2>Negros Occidental</adminName2>
+<alternateName lang="fil">Estado</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<bbox>
+<west>123.12695</west>
+<north>10.85003</north>
+<east>123.14526</east>
+<south>10.83205</south>
+</bbox>
+<score>29.679641723632812</score>
+</geoname>
+<geoname>
+<toponymName>Estada</toponymName>
+<name>Estada</name>
+<lat>42.07581</lat>
+<lng>0.24606</lng>
+<geonameId>6358336</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population>237</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="AR">52</adminCode1>
+<adminName1>Aragon</adminName1>
+<adminCode2>HU</adminCode2>
+<adminName2>Huesca</adminName2>
+<adminCode3>22102</adminCode3>
+<adminName3>Estada</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Madrid</timezone>
+<bbox>
+<west>0.20506</west>
+<north>42.1023</north>
+<east>0.29964</east>
+<south>42.05167</south>
+</bbox>
+<score>11.801934242248535</score>
+</geoname>
+<geoname>
+<toponymName>Estada</toponymName>
+<name>Estada</name>
+<lat>42.07201</lat>
+<lng>0.23219</lng>
+<geonameId>3122795</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>197</population>
+<alternateNames>Estada</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="AR">52</adminCode1>
+<adminName1>Aragon</adminName1>
+<adminCode2>HU</adminCode2>
+<adminName2>Huesca</adminName2>
+<adminCode3>22102</adminCode3>
+<adminName3>Estada</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Estada</alternateName>
+<alternateName lang="post">22424</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Madrid</timezone>
+<bbox>
+<west>0.23098</west>
+<north>42.07291</north>
+<east>0.2334</east>
+<south>42.07111</south>
+</bbox>
+<score>8.25963306427002</score>
+</geoname>
+<geoname>
+<toponymName>Estabo</toponymName>
+<name>Estabo</name>
+<lat>58.98333</lat>
+<lng>15.06667</lng>
+<geonameId>2715924</geonameId>
+<countryCode>SE</countryCode>
+<countryName>Sweden</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="T">15</adminCode1>
+<adminName1>Örebro</adminName1>
+<adminCode2>1882</adminCode2>
+<adminName2>Askersund Municipality</adminName2>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Stockholm</timezone>
+<bbox>
+<west>15.04921</west>
+<north>58.99233</north>
+<east>15.08412</east>
+<south>58.97434</south>
+</bbox>
+<score>7.357973098754883</score>
+</geoname>
+<geoname>
+<toponymName>Estalo</toponymName>
+<name>Estalo</name>
+<lat>-22.56667</lat>
+<lng>-44.46667</lng>
+<geonameId>3463901</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Estalo</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="RJ">21</adminCode1>
+<adminName1>Rio de Janeiro</adminName1>
+<adminCode2>3304201</adminCode2>
+<adminName2>Resende</adminName2>
+<alternateName lang="pt">Estalo</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Sao_Paulo</timezone>
+<bbox>
+<west>-44.47641</west>
+<north>-22.55767</north>
+<east>-44.45693</east>
+<south>-22.57566</south>
+</bbox>
+<score>6.758729934692383</score>
+</geoname>
+<geoname>
+<toponymName>Estadio</toponymName>
+<name>Estadio</name>
+<lat>18.15857</lat>
+<lng>-65.84655</lng>
+<geonameId>4564871</geonameId>
+<countryCode>PR</countryCode>
+<countryName>Puerto Rico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>36</elevation>
+<continentCode>NA</continentCode>
+<adminCode1>069</adminCode1>
+<adminName1>Humacao</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Puerto_Rico</timezone>
+<bbox>
+<west>-65.85602</west>
+<north>18.16756</north>
+<east>-65.83709</east>
+<south>18.14958</south>
+</bbox>
+<score>6.743962287902832</score>
+</geoname>
+<geoname>
+<toponymName>La Estación</toponymName>
+<name>La Estación</name>
+<lat>8.57861</lat>
+<lng>-76.34639</lng>
+<geonameId>3679087</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Estados,La Estacion,La Estación</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="ANT">02</adminCode1>
+<adminName1>Departamento de Antioquia</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<bbox>
+<west>-76.35548</west>
+<north>8.5876</north>
+<east>-76.33729</east>
+<south>8.56962</south>
+</bbox>
+<score>4.552513599395752</score>
+</geoname>
+<geoname>
+<toponymName>El Estadio</toponymName>
+<name>El Estadio</name>
+<lat>6.26017</lat>
+<lng>-75.59262</lng>
+<geonameId>8261840</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames>Barrio Estadio,El Estadio,Estadio</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="ANT">02</adminCode1>
+<adminName1>Departamento de Antioquia</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="es">El Estadio</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<bbox>
+<west>-75.59624</west>
+<north>6.26377</north>
+<east>-75.589</east>
+<south>6.25658</south>
+</bbox>
+<score>4.172614097595215</score>
+</geoname>
+<geoname>
+<toponymName>Estada</toponymName>
+<name>Estada</name>
+<lat>-25.85609</lat>
+<lng>30.92365</lng>
+<geonameId>1004971</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>S</fcl>
+<fcode>FRM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farm</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="MP">07</adminCode1>
+<adminName1>Mpumalanga</adminName1>
+<adminCode2>DC32</adminCode2>
+<adminName2>Ehlanzeni District</adminName2>
+<adminCode3>MP323</adminCode3>
+<adminName3>Umjindi</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<score>2.1074881553649902</score>
+</geoname>
+</geonames>

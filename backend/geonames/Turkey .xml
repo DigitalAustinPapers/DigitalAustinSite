@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>43</totalResultsCount>
+<geoname>
+<toponymName>Turkey</toponymName>
+<name>Turkey</name>
+<lat>37.47926</lat>
+<lng>-83.50768</lng>
+<geonameId>4311380</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>213</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>025</adminCode2>
+<adminName2>Breathitt County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Turkey%2C_Kentucky</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-83.51902</west>
+<north>37.48825</north>
+<east>-83.49635</east>
+<south>37.47026</south>
+</bbox>
+<score>50.5748291015625</score>
+</geoname>
+<geoname>
+<toponymName>Republic of Turkey</toponymName>
+<name>Turkey</name>
+<lat>39.05901</lat>
+<lng>34.91155</lng>
+<geonameId>298795</geonameId>
+<countryCode>TR</countryCode>
+<countryName>Turkey</countryName>
+<fcl>A</fcl>
+<fcode>PCLI</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>independent political entity</fcodeName>
+<population>77804122</population>
+<alternateNames>An Tuirc,Detroit de Gibraltar,Durka,Détroit de Gibraltar,Orileede Tooki,Orílẹ́ède Tọọki,Republic of Turkey,Thekhi,Tho Nhi Ky,Thổ Nhĩ Kỳ,Tierkei,Tiliki,Tirchia,Tirkiya,Tirkiye,Toake,Toerkie,Toerkiee,Toeroekorszag,Torkia,Tourkia,Tourkía,Ttake,Tuergi,Tuerkaen,Tuerkei,Tuerkiya,Tuerkiye,Tuerkiyə,Tuluki,Turchia,Turchìa,Turci,Turcia,Turcija,Turcja,Turcyja,Turechchina,Turecko,Turiki,Turk,Turkaland,Turkei,Turkey,Turki,Turkia,Turkie,Turkiet,Turkii,Turkija,Turkije,Turkio,Turkiya,Turkiye,Turkiye Cumhuriyeti,Turkiyya,Turkki,Turkowska,Turkujo,Turkya,Turkye,Turqi,Turqia,Turquia,Turquia - Tuerkiye,Turquie,Turquía,Turquía - Türkiye,Turska,Turtchie,Turukii,Turukiya,Turukïi,Turčija,Twrci,Tyrk Nunaat,Tyrkia,Tyrkiet,Tyrkland,Törkie,Törkieë,Törökország,Türgi,Türkei,Türkiya,Türkiye,Türkiye Cumhuriyeti,Türkiyə,Türkiýe,Türkän,Tırkiya,Tɛki nutome,Tɛɛki,Tөrkija,Uturuki,Welschhinkel,estroict de Sibyle,i-Turkey,prathes turki,tarki,teoki,toruko,toruko gong he guo,trky,trkya,trkyh,tu er qi,turaska,turkastana,turketi,turki,turkiye,turukki,twrkya,twrkyh,twrqyh,twrqyʾ,tۈrkyyە jۇmھۇryyyty,Τουρκία,Туреччина,Турк,Турска,Турци,Турция,Турција,Турцыя,Түркия,Төркия,Թուրքիա,טורקיה,טערקיי,תורכיה,تركيا,ترکی,ترکیه,تورکیا,تۈركىيە جۇمھۇرىيىتى,ܛܘܪܩܝܐ,टर्की,तुर्किये,तुर्की,তুরস্ক,તુર્કસ્તાન,ତୁର୍କୀ,துருக்கி,టర్కీ,ಟರ್ಕಿ,തുര്‍ക്കി,තුර්කිය,ตุรกี,ประเทศตุรกี,ຕຸນກີ,ཏུརཀི།,တူရကီ,თურქეთი,ቱርክ,ទួរគី,トルコ,トルコ共和国,土耳其,터키</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="af">Turkye</alternateName>
+<alternateName lang="ak">Tɛɛki</alternateName>
+<alternateName lang="am">ቱርክ</alternateName>
+<alternateName lang="an">Turquía</alternateName>
+<alternateName lang="ar">تركيا</alternateName>
+<alternateName lang="arc">ܛܘܪܩܝܐ</alternateName>
+<alternateName lang="ast">Turquía</alternateName>
+<alternateName lang="az">Türkiya</alternateName>
+<alternateName lang="be">Турцыя</alternateName>
+<alternateName lang="bg">Турция</alternateName>
+<alternateName lang="bm">Turiki</alternateName>
+<alternateName lang="bn">তুরস্ক</alternateName>
+<alternateName lang="bo">ཏུརཀི།</alternateName>
+<alternateName lang="br">Turkia</alternateName>
+<alternateName lang="bs">Turska</alternateName>
+<alternateName lang="ca">Turquia</alternateName>
+<alternateName lang="cs">Turecko</alternateName>
+<alternateName lang="cv">Турци</alternateName>
+<alternateName lang="cy">Twrci</alternateName>
+<alternateName lang="da">Tyrkiet</alternateName>
+<alternateName lang="de">Türkei</alternateName>
+<alternateName lang="diq">Tırkiya</alternateName>
+<alternateName lang="ee">Tɛki nutome</alternateName>
+<alternateName lang="el">Τουρκία</alternateName>
+<alternateName lang="en">Turkey</alternateName>
+<alternateName lang="eo">Turkio</alternateName>
+<alternateName lang="es">Turquía</alternateName>
+<alternateName lang="et">Türgi</alternateName>
+<alternateName lang="eu">Turkia</alternateName>
+<alternateName lang="fa">ترکیه</alternateName>
+<alternateName lang="ff">Turkii</alternateName>
+<alternateName lang="fi">Turkki</alternateName>
+<alternateName lang="fo">Turkaland</alternateName>
+<alternateName lang="fr">Détroit de Gibraltar</alternateName>
+<alternateName lang="fy">Turkije</alternateName>
+<alternateName lang="ga">An Tuirc</alternateName>
+<alternateName lang="gd">An Tuirc</alternateName>
+<alternateName lang="gl">Turquía</alternateName>
+<alternateName lang="gu">તુર્કસ્તાન</alternateName>
+<alternateName lang="ha">Turkiyya</alternateName>
+<alternateName lang="hbs">Turska</alternateName>
+<alternateName lang="he">טורקיה</alternateName>
+<alternateName lang="hi">तुर्की</alternateName>
+<alternateName lang="hr">Turska</alternateName>
+<alternateName lang="hsb">Turkowska</alternateName>
+<alternateName lang="hu">Törökország</alternateName>
+<alternateName lang="hy">Թուրքիա</alternateName>
+<alternateName lang="ia">Turchia</alternateName>
+<alternateName lang="id">Turkey</alternateName>
+<alternateName lang="io">Turkia</alternateName>
+<alternateName lang="is">Tyrkland</alternateName>
+<alternateName lang="it">Turchia</alternateName>
+<alternateName lang="ja">トルコ共和国</alternateName>
+<alternateName lang="ka">თურქეთი</alternateName>
+<alternateName lang="ki">Uturuki</alternateName>
+<alternateName lang="kk">Түркия</alternateName>
+<alternateName lang="kl">Tyrkia</alternateName>
+<alternateName lang="km">ទួរគី</alternateName>
+<alternateName lang="kn">ಟರ್ಕಿ</alternateName>
+<alternateName lang="ko">터키</alternateName>
+<alternateName lang="ks">तुर्किये</alternateName>
+<alternateName lang="ku">تورکیا</alternateName>
+<alternateName lang="kw">Turki</alternateName>
+<alternateName lang="la">Turcia</alternateName>
+<alternateName lang="lb">Tierkei</alternateName>
+<alternateName lang="lg">Ttake</alternateName>
+<alternateName lang="li">Turkije</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Turkey</alternateName>
+<alternateName lang="ln">Tiliki</alternateName>
+<alternateName lang="lo">ຕຸນກີ</alternateName>
+<alternateName lang="lt">Turkija</alternateName>
+<alternateName lang="lu">Tuluki</alternateName>
+<alternateName lang="lv">Turcija</alternateName>
+<alternateName lang="mg">Torkia</alternateName>
+<alternateName lang="mk">Турција</alternateName>
+<alternateName lang="ml">തുര്‍ക്കി</alternateName>
+<alternateName lang="mr">तुर्की</alternateName>
+<alternateName lang="ms">Turki</alternateName>
+<alternateName lang="mt">Turkija</alternateName>
+<alternateName lang="my">တူရကီ</alternateName>
+<alternateName lang="nap">Turchia</alternateName>
+<alternateName lang="nb">Tyrkia</alternateName>
+<alternateName lang="nd">Thekhi</alternateName>
+<alternateName lang="nds">Törkie</alternateName>
+<alternateName lang="ne">टर्की</alternateName>
+<alternateName lang="nl">Turkije</alternateName>
+<alternateName lang="nn">Tyrkia</alternateName>
+<alternateName lang="no">Tyrkia</alternateName>
+<alternateName lang="nrm">Turtchie</alternateName>
+<alternateName lang="oc">Turquia</alternateName>
+<alternateName lang="or">ତୁର୍କୀ</alternateName>
+<alternateName lang="os">Турк</alternateName>
+<alternateName lang="pam">Turkia</alternateName>
+<alternateName lang="pdc">Turkie</alternateName>
+<alternateName lang="pl">Turcja</alternateName>
+<alternateName lang="pt">Turquia</alternateName>
+<alternateName lang="qu">Turkya</alternateName>
+<alternateName lang="rm">Tirchia</alternateName>
+<alternateName lang="rmy">Turkiya</alternateName>
+<alternateName lang="rn">Turukiya</alternateName>
+<alternateName lang="ro">Turcia</alternateName>
+<alternateName lang="ru">Турция</alternateName>
+<alternateName lang="sa">तुर्की</alternateName>
+<alternateName lang="scn">Turchìa</alternateName>
+<alternateName lang="sco">Turkey</alternateName>
+<alternateName lang="se">Durka</alternateName>
+<alternateName lang="sg">Turukïi</alternateName>
+<alternateName lang="si">තුර්කිය</alternateName>
+<alternateName lang="sk">Turecko</alternateName>
+<alternateName lang="sl">Turčija</alternateName>
+<alternateName lang="sn">Turkey</alternateName>
+<alternateName lang="so">Turkki</alternateName>
+<alternateName lang="sq">Turqi</alternateName>
+<alternateName lang="sr">Турска</alternateName>
+<alternateName lang="sv">Turkiet</alternateName>
+<alternateName lang="sw">Uturuki</alternateName>
+<alternateName lang="ta">துருக்கி</alternateName>
+<alternateName lang="te">టర్కీ</alternateName>
+<alternateName lang="th">ตุรกี</alternateName>
+<alternateName lang="ti">ቱርክ</alternateName>
+<alternateName lang="tk">Türkiýe</alternateName>
+<alternateName lang="tl">Turkiya</alternateName>
+<alternateName lang="to">Toake</alternateName>
+<alternateName lang="tr">Türkiye Cumhuriyeti</alternateName>
+<alternateName lang="tt">Төркия</alternateName>
+<alternateName lang="ug">تۈركىيە جۇمھۇرىيىتى</alternateName>
+<alternateName lang="uk">Туреччина</alternateName>
+<alternateName lang="ur">ترکی</alternateName>
+<alternateName lang="uz">Turkiya</alternateName>
+<alternateName lang="vi">Thổ Nhĩ Kỳ</alternateName>
+<alternateName lang="vo">Türkän</alternateName>
+<alternateName lang="yi">טערקיי</alternateName>
+<alternateName lang="yo">Orílẹ́ède Tọọki</alternateName>
+<alternateName lang="zh">土耳其</alternateName>
+<alternateName lang="zu">i-Turkey</alternateName>
+<timezone dstOffset="3.0" gmtOffset="2.0">Europe/Istanbul</timezone>
+<bbox>
+<west>25.6685</west>
+<north>42.10762</north>
+<east>44.835</east>
+<south>35.81541</south>
+</bbox>
+<score>43.79237365722656</score>
+</geoname>
+<geoname>
+<toponymName>Turkey</toponymName>
+<name>Turkey</name>
+<lat>34.39256</lat>
+<lng>-100.89764</lng>
+<geonameId>5532627</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>421</population>
+<alternateNames/>
+<elevation>711</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>191</adminCode2>
+<adminName2>Hall County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Turkey%2C_Texas</alternateName>
+<alternateName lang="post">79261</alternateName>
+<alternateName lang="unlc">TKR</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-100.89873</west>
+<north>34.39346</north>
+<east>-100.89655</east>
+<south>34.39166</south>
+</bbox>
+<score>42.14569091796875</score>
+</geoname>
+<geoname>
+<toponymName>Turkey</toponymName>
+<name>Turkey</name>
+<lat>-24.1</lat>
+<lng>151.63333</lng>
+<geonameId>2145836</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>T</fcl>
+<fcode>HLL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>hill</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="QLD">04</adminCode1>
+<adminName1>Queensland</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="10.0" gmtOffset="10.0">Australia/Brisbane</timezone>
+<score>33.716552734375</score>
+</geoname>
+<geoname>
+<toponymName>Turkey</toponymName>
+<name>Turkey</name>
+<lat>36.24452</lat>
+<lng>-92.76378</lng>
+<geonameId>4134036</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>208</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">AR</adminCode1>
+<adminName1>Arkansas</adminName1>
+<adminCode2>089</adminCode2>
+<adminName2>Marion County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.77493</west>
+<north>36.25351</north>
+<east>-92.75263</east>
+<south>36.23552</south>
+</bbox>
+<score>33.716552734375</score>
+</geoname>
+<geoname>
+<toponymName>Turkey</toponymName>
+<name>Turkey</name>
+<lat>39.1084</lat>
+<lng>-83.4488</lng>
+<geonameId>4526657</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>286</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>071</adminCode2>
+<adminName2>Highland County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-83.4604</west>
+<north>39.11739</north>
+<east>-83.43721</east>
+<south>39.09941</south>
+</bbox>
+<score>33.716552734375</score>
+</geoname>
+<geoname>
+<toponymName>Turkey</toponymName>
+<name>Turkey</name>
+<lat>36.81065</lat>
+<lng>-82.841</lng>
+<geonameId>4790286</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>DPR</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>depression(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>489</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>105</adminCode2>
+<adminName2>Lee County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>33.716552734375</score>
+</geoname>
+<geoname>
+<toponymName>Turkey</toponymName>
+<name>Turkey</name>
+<lat>37.64039</lat>
+<lng>-81.57816</lng>
+<geonameId>4825189</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>491</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WV">WV</adminCode1>
+<adminName1>West Virginia</adminName1>
+<adminCode2>109</adminCode2>
+<adminName2>Wyoming County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-81.58952</west>
+<north>37.64938</north>
+<east>-81.5668</east>
+<south>37.6314</south>
+</bbox>
+<score>33.716552734375</score>
+</geoname>
+<geoname>
+<toponymName>Turkey</toponymName>
+<name>Turkey</name>
+<lat>34.99239</lat>
+<lng>-78.18305</lng>
+<geonameId>4495843</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>292</population>
+<alternateNames/>
+<elevation>44</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NC">NC</adminCode1>
+<adminName1>North Carolina</adminName1>
+<adminCode2>163</adminCode2>
+<adminName2>Sampson County</adminName2>
+<alternateName lang="post">28393</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-78.18415</west>
+<north>34.99329</north>
+<east>-78.18195</east>
+<south>34.99149</south>
+</bbox>
+<score>25.28741455078125</score>
+</geoname>
+<geoname>
+<toponymName>Leboyana</toponymName>
+<name>Leboyana</name>
+<lat>-24.35454</lat>
+<lng>30.4368</lng>
+<geonameId>984086</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>T</fcl>
+<fcode>MT</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>mountain</fcodeName>
+<population/>
+<alternateNames>Leboyana,Turkey</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="LP">09</adminCode1>
+<adminName1>Limpopo</adminName1>
+<adminCode2>DC47</adminCode2>
+<adminName2>Sekhukhune District Municipality</adminName2>
+<adminCode3>LIM475</adminCode3>
+<adminName3>Greater Tubatse</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<score>23.841203689575195</score>
+</geoname>
+</geonames>

@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>29</totalResultsCount>
+<geoname>
+<toponymName>Indian Village</toponymName>
+<name>Indian Village</name>
+<lat>46.15266</lat>
+<lng>-89.08351</lng>
+<geonameId>7178009</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>525</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MI">MI</adminCode1>
+<adminName1>Michigan</adminName1>
+<adminCode2>053</adminCode2>
+<adminName2>Gogebic County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Menominee</timezone>
+<score>67.07105255126953</score>
+</geoname>
+<geoname>
+<toponymName>Indian Village</toponymName>
+<name>Indian Village</name>
+<lat>41.71394</lat>
+<lng>-86.23556</lng>
+<geonameId>4921830</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>133</population>
+<alternateNames/>
+<elevation>222</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IN">IN</adminCode1>
+<adminName1>Indiana</adminName1>
+<adminCode2>141</adminCode2>
+<adminName2>Saint Joseph County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Indian_Village%2C_Indiana</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Indiana/Indianapolis</timezone>
+<bbox>
+<west>-86.23677</west>
+<north>41.71484</north>
+<east>-86.23436</east>
+<south>41.71304</south>
+</bbox>
+<score>57.48947525024414</score>
+</geoname>
+<geoname>
+<toponymName>Indian Village</toponymName>
+<name>Indian Village</name>
+<lat>36.45305</lat>
+<lng>-116.8638</lng>
+<geonameId>5359420</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>-55</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>027</adminCode2>
+<adminName2>Inyo County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Indian_Village%2C_California</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-116.87499</west>
+<north>36.46204</north>
+<east>-116.85262</east>
+<south>36.44405</south>
+</bbox>
+<score>57.48947525024414</score>
+</geoname>
+<geoname>
+<toponymName>Indian Village</toponymName>
+<name>Indian Village</name>
+<lat>43.58487</lat>
+<lng>-119.07855</lng>
+<geonameId>5732975</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1294</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OR">OR</adminCode1>
+<adminName1>Oregon</adminName1>
+<adminCode2>025</adminCode2>
+<adminName2>Harney County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Indian_Village%2C_Oregon</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-119.09097</west>
+<north>43.59387</north>
+<east>-119.06613</east>
+<south>43.57588</south>
+</bbox>
+<score>57.48947525024414</score>
+</geoname>
+<geoname>
+<toponymName>Indian Village</toponymName>
+<name>Indian Village</name>
+<lat>34.09954</lat>
+<lng>-84.68716</lng>
+<geonameId>4202038</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>292</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">GA</adminCode1>
+<adminName1>Georgia</adminName1>
+<adminCode2>015</adminCode2>
+<adminName2>Bartow County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-84.69802</west>
+<north>34.10854</north>
+<east>-84.6763</east>
+<south>34.09055</south>
+</bbox>
+<score>38.326316833496094</score>
+</geoname>
+<geoname>
+<toponymName>Indian Village</toponymName>
+<name>Indian Village</name>
+<lat>30.25742</lat>
+<lng>-91.314</lng>
+<geonameId>4328406</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>4</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>047</adminCode2>
+<adminName2>Iberville Parish</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-91.32441</west>
+<north>30.26641</north>
+<east>-91.30359</east>
+<south>30.24842</south>
+</bbox>
+<score>38.326316833496094</score>
+</geoname>
+<geoname>
+<toponymName>Indian Village</toponymName>
+<name>Indian Village</name>
+<lat>32.47293</lat>
+<lng>-92.41181</lng>
+<geonameId>4328407</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>70</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>073</adminCode2>
+<adminName2>Ouachita Parish</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.42247</west>
+<north>32.48192</north>
+<east>-92.40115</east>
+<south>32.46393</south>
+</bbox>
+<score>38.326316833496094</score>
+</geoname>
+<geoname>
+<toponymName>Indian Village</toponymName>
+<name>Indian Village</name>
+<lat>30.44909</lat>
+<lng>-92.97182</lng>
+<geonameId>4328414</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>10</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>003</adminCode2>
+<adminName2>Allen Parish</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.98225</west>
+<north>30.45808</north>
+<east>-92.96138</east>
+<south>30.4401</south>
+</bbox>
+<score>38.326316833496094</score>
+</geoname>
+<geoname>
+<toponymName>Indian Village</toponymName>
+<name>Indian Village</name>
+<lat>39.0965</lat>
+<lng>-76.52635</lng>
+<geonameId>4358957</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>10</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MD">MD</adminCode1>
+<adminName1>Maryland</adminName1>
+<adminCode2>003</adminCode2>
+<adminName2>Anne Arundel County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-76.53794</west>
+<north>39.10549</north>
+<east>-76.51476</east>
+<south>39.08751</south>
+</bbox>
+<score>38.326316833496094</score>
+</geoname>
+<geoname>
+<toponymName>Indian Village</toponymName>
+<name>Indian Village</name>
+<lat>38.96501</lat>
+<lng>-94.58829</lng>
+<geonameId>4391956</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>282</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>095</adminCode2>
+<adminName2>Jackson County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-94.59986</west>
+<north>38.974</north>
+<east>-94.57672</east>
+<south>38.95601</south>
+</bbox>
+<score>38.326316833496094</score>
+</geoname>
+</geonames>

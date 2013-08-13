@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Deck</toponymName>
+<name>Deck</name>
+<lat>18.6</lat>
+<lng>-74.28333</lng>
+<geonameId>3726907</geonameId>
+<countryCode>HT</countryCode>
+<countryName>Haiti</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">14</adminCode1>
+<adminName1>GrandʼAnse</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Port-au-Prince</timezone>
+<bbox>
+<west>-74.29282</west>
+<north>18.60899</north>
+<east>-74.27384</east>
+<south>18.59101</south>
+</bbox>
+<score>44.83900833129883</score>
+</geoname>
+<geoname>
+<toponymName>Deck</toponymName>
+<name>Deck</name>
+<lat>42.95035</lat>
+<lng>-74.88015</lng>
+<geonameId>5114678</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>379</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>043</adminCode2>
+<adminName2>Herkimer County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-74.89244</west>
+<north>42.95934</north>
+<east>-74.86786</east>
+<south>42.94136</south>
+</bbox>
+<score>44.83900833129883</score>
+</geoname>
+</geonames>

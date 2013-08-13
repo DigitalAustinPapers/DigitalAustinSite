@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Cane Brake</toponymName>
+<name>Cane Brake</name>
+<lat>35.06594</lat>
+<lng>-82.89014</lng>
+<geonameId>4459030</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>339</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NC">NC</adminCode1>
+<adminName1>North Carolina</adminName1>
+<adminCode2>175</adminCode2>
+<adminName2>Transylvania County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-82.90113</west>
+<north>35.07493</north>
+<east>-82.87915</east>
+<south>35.05694</south>
+</bbox>
+<score>31.041213989257812</score>
+</geoname>
+<geoname>
+<toponymName>Cane Brake</toponymName>
+<name>Cane Brake</name>
+<lat>34.8879</lat>
+<lng>-82.26039</lng>
+<geonameId>4573457</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>274</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SC">SC</adminCode1>
+<adminName1>South Carolina</adminName1>
+<adminCode2>045</adminCode2>
+<adminName2>Greenville County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-82.27136</west>
+<north>34.89689</north>
+<east>-82.24943</east>
+<south>34.8789</south>
+</bbox>
+<score>31.041213989257812</score>
+</geoname>
+<geoname>
+<toponymName>Cane Break</toponymName>
+<name>Cane Break</name>
+<lat>-34.26381</lat>
+<lng>115.4207</lng>
+<geonameId>8353633</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>S</fcl>
+<fcode>HMSD</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>homestead</fcodeName>
+<population/>
+<alternateNames>Cane Break</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="WA">08</adminCode1>
+<adminName1>Western Australia</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Cane Break</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Australia/Perth</timezone>
+<score>9.99678897857666</score>
+</geoname>
+<geoname>
+<toponymName>Cape Breaker</toponymName>
+<name>Cape Breaker</name>
+<lat>45.30015</lat>
+<lng>-60.9152</lng>
+<geonameId>5915563</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>T</fcl>
+<fcode>BCH</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>beach</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NS">07</adminCode1>
+<adminName1>Nova Scotia</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-3.0" gmtOffset="-4.0">America/Glace_Bay</timezone>
+<score>5.936246395111084</score>
+</geoname>
+</geonames>

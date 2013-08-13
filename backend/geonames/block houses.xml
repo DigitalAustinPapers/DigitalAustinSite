@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Block House</toponymName>
+<name>Block House</name>
+<lat>47.2374</lat>
+<lng>-53.97313</lng>
+<geonameId>5903910</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>T</fcl>
+<fcode>CAPE</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>cape</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NL">05</adminCode1>
+<adminName1>Newfoundland and Labrador</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-2.5" gmtOffset="-3.5">America/St_Johns</timezone>
+<score>45.36014938354492</score>
+</geoname>
+<geoname>
+<toponymName>Black House</toponymName>
+<name>Black House</name>
+<lat>36.2314</lat>
+<lng>-108.74453</lng>
+<geonameId>5457750</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>1740</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NM">NM</adminCode1>
+<adminName1>New Mexico</adminName1>
+<adminCode2>045</adminCode2>
+<adminName2>San Juan County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<score>2.362506866455078</score>
+</geoname>
+</geonames>

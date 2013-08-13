@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Mexican Colony</toponymName>
+<name>Mexican Colony</name>
+<lat>35.46885</lat>
+<lng>-119.26872</lng>
+<geonameId>5372583</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>281</population>
+<alternateNames/>
+<elevation>101</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>029</adminCode2>
+<adminName2>Kern County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Mexican_Colony%2C_California</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-119.26982</west>
+<north>35.46975</north>
+<east>-119.26762</east>
+<south>35.46795</south>
+</bbox>
+<score>68.978759765625</score>
+</geoname>
+</geonames>

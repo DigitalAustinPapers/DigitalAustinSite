@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>497</totalResultsCount>
+<geoname>
+<toponymName>Nacogdoches</toponymName>
+<name>Nacogdoches</name>
+<lat>31.60351</lat>
+<lng>-94.65549</lng>
+<geonameId>4713735</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>32996</population>
+<alternateNames>Nakodoches,OCH,nakwdwchz, tgzas,Накодочес,ناکودوچز، تگزاس</alternateNames>
+<elevation>92</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>347</adminCode2>
+<adminName2>Nacogdoches County</adminName2>
+<alternateName lang="fa">ناکودوچز، تگزاس</alternateName>
+<alternateName lang="iata">OCH</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Nacogdoches%2C_Texas</alternateName>
+<alternateName lang="post">75961</alternateName>
+<alternateName lang="sr">Накодочес</alternateName>
+<alternateName lang="unlc">OCH</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-94.68293</west>
+<north>31.62688</north>
+<east>-94.62805</east>
+<south>31.58015</south>
+</bbox>
+<score>31.7747859954834</score>
+</geoname>
+<geoname>
+<toponymName>Nacogdoches County</toponymName>
+<name>Nacogdoches County</name>
+<lat>31.61598</lat>
+<lng>-94.61587</lng>
+<geonameId>4713738</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>64524</population>
+<alternateNames>Comte de Nacogdoches,Comté de Nacogdoches</alternateNames>
+<elevation>122</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>347</adminCode2>
+<adminName2>Nacogdoches County</adminName2>
+<alternateName lang="fr">Comté de Nacogdoches</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Nacogdoches_County%2C_Texas</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-94.9793</west>
+<north>31.84638</north>
+<east>-94.30493</east>
+<south>31.22592</south>
+</bbox>
+<score>16.01021957397461</score>
+</geoname>
+<geoname>
+<toponymName>City of Nacogdoches</toponymName>
+<name>City of Nacogdoches</name>
+<lat>31.61378</lat>
+<lng>-94.65276</lng>
+<geonameId>7173926</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>administrative division</fcodeName>
+<population>32996</population>
+<alternateNames/>
+<elevation>102</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>347</adminCode2>
+<adminName2>Nacogdoches County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-94.71696</west>
+<north>31.67284</north>
+<east>-94.59291</east>
+<south>31.55891</south>
+</bbox>
+<score>9.75490951538086</score>
+</geoname>
+<geoname>
+<toponymName>A L Mangham Jr. Regional Airport</toponymName>
+<name>A L Mangham Jr. Regional Airport</name>
+<lat>31.57788</lat>
+<lng>-94.70668</lng>
+<geonameId>4669558</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>AIRP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>airport</fcodeName>
+<population/>
+<alternateNames>A L Mangham Jr. Regional Airport,KOCH,OCH</alternateNames>
+<elevation>107</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>347</adminCode2>
+<adminName2>Nacogdoches County</adminName2>
+<alternateName lang="en">A L Mangham Jr. Regional Airport</alternateName>
+<alternateName lang="faac">OCH</alternateName>
+<alternateName lang="iata">OCH</alternateName>
+<alternateName lang="icao">KOCH</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>9.23209285736084</score>
+</geoname>
+<geoname>
+<toponymName>Appleby</toponymName>
+<name>Appleby</name>
+<lat>31.71629</lat>
+<lng>-94.60493</lng>
+<geonameId>4671116</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>474</population>
+<alternateNames/>
+<elevation>125</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>347</adminCode2>
+<adminName2>Nacogdoches County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Appleby%2C_Texas</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-94.60599</west>
+<north>31.71719</north>
+<east>-94.60387</east>
+<south>31.71539</south>
+</bbox>
+<score>9.23209285736084</score>
+</geoname>
+<geoname>
+<toponymName>Chireno</toponymName>
+<name>Chireno</name>
+<lat>31.49935</lat>
+<lng>-94.35187</lng>
+<geonameId>4680823</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>386</population>
+<alternateNames/>
+<elevation>98</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>347</adminCode2>
+<adminName2>Nacogdoches County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Chireno%2C_Texas</alternateName>
+<alternateName lang="post">75937</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-94.35292</west>
+<north>31.50025</north>
+<east>-94.35081</east>
+<south>31.49845</south>
+</bbox>
+<score>9.23209285736084</score>
+</geoname>
+<geoname>
+<toponymName>Cushing</toponymName>
+<name>Cushing</name>
+<lat>31.81462</lat>
+<lng>-94.84049</lng>
+<geonameId>4684678</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>612</population>
+<alternateNames/>
+<elevation>125</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>347</adminCode2>
+<adminName2>Nacogdoches County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cushing%2C_Texas</alternateName>
+<alternateName lang="post">75760</alternateName>
+<alternateName lang="unlc">XHW</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-94.84155</west>
+<north>31.81552</north>
+<east>-94.83943</east>
+<south>31.81372</south>
+</bbox>
+<score>9.23209285736084</score>
+</geoname>
+<geoname>
+<toponymName>Douglass</toponymName>
+<name>Douglass</name>
+<lat>31.66796</lat>
+<lng>-94.88077</lng>
+<geonameId>4686765</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>106</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>347</adminCode2>
+<adminName2>Nacogdoches County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Douglass%2C_Texas</alternateName>
+<alternateName lang="post">75943</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-94.89134</west>
+<north>31.67695</north>
+<east>-94.8702</east>
+<south>31.65896</south>
+</bbox>
+<score>9.23209285736084</score>
+</geoname>
+<geoname>
+<toponymName>Etoile</toponymName>
+<name>Etoile</name>
+<lat>31.38685</lat>
+<lng>-94.43604</lng>
+<geonameId>4689535</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>58</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>347</adminCode2>
+<adminName2>Nacogdoches County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Etoile%2C_Texas</alternateName>
+<alternateName lang="post">75944</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-94.44657</west>
+<north>31.39585</north>
+<east>-94.4255</east>
+<south>31.37786</south>
+</bbox>
+<score>9.23209285736084</score>
+</geoname>
+<geoname>
+<toponymName>Garrison</toponymName>
+<name>Garrison</name>
+<lat>31.82434</lat>
+<lng>-94.49104</lng>
+<geonameId>4693065</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>895</population>
+<alternateNames/>
+<elevation>119</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>347</adminCode2>
+<adminName2>Nacogdoches County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Garrison%2C_Texas</alternateName>
+<alternateName lang="post">75946</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-94.4921</west>
+<north>31.82524</north>
+<east>-94.48998</east>
+<south>31.82344</south>
+</bbox>
+<score>9.23209285736084</score>
+</geoname>
+</geonames>

@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>317</totalResultsCount>
+<geoname>
+<toponymName>Santa Fe de la Vera Cruz</toponymName>
+<name>Santa Fe</name>
+<lat>-31.63333</lat>
+<lng>-60.7</lng>
+<geonameId>3836277</geonameId>
+<countryCode>AR</countryCode>
+<countryName>Argentina</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population>489505</population>
+<alternateNames>Ciudad de Santa Fe,SFN,Santa Fe,Santa Fė,Santa-Fe,Санта Фе,Санта-Фе</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="S">21</adminCode1>
+<adminName1>Santa Fe</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="bg">Санта Фе</alternateName>
+<alternateName lang="da">Santa Fe</alternateName>
+<alternateName lang="de">Santa Fe</alternateName>
+<alternateName lang="en">Santa Fe</alternateName>
+<alternateName lang="es">Ciudad de Santa Fe</alternateName>
+<alternateName lang="fr">Santa Fe</alternateName>
+<alternateName lang="iata">SFN</alternateName>
+<alternateName lang="id">Santa Fe</alternateName>
+<alternateName lang="it">Santa Fe</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Santa_Fe%2C_Argentina</alternateName>
+<alternateName lang="lt">Santa Fė</alternateName>
+<alternateName lang="nl">Santa Fe</alternateName>
+<alternateName lang="pl">Santa Fe</alternateName>
+<alternateName lang="ro">Santa Fe</alternateName>
+<alternateName lang="ru">Санта-Фе</alternateName>
+<alternateName lang="unlc">SFN</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Argentina/Cordoba</timezone>
+<bbox>
+<west>-60.80645</west>
+<north>-31.54261</north>
+<east>-60.59355</east>
+<south>-31.72405</south>
+</bbox>
+<score>118.25909423828125</score>
+</geoname>
+<geoname>
+<toponymName>Santa Fe</toponymName>
+<name>Santa Fe</name>
+<lat>35.68698</lat>
+<lng>-105.9378</lng>
+<geonameId>5490263</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population>67947</population>
+<alternateNames>Santa Fe,Santa Fé,Santa Fė,Santa-Fe,Yooto,Yootó,ZSH,santafe,sheng da fei,snth ph,Санта Фе,Санта-Фе,סנטה פה,サンタフェ,聖大非</alternateNames>
+<elevation>2132</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NM">NM</adminCode1>
+<adminName1>New Mexico</adminName1>
+<adminCode2>049</adminCode2>
+<adminName2>Santa Fe County</adminName2>
+<alternateName lang="bg">Санта Фе</alternateName>
+<alternateName lang="cs">Santa Fé</alternateName>
+<alternateName lang="da">Santa Fe</alternateName>
+<alternateName lang="de">Santa Fe</alternateName>
+<alternateName lang="en">Santa Fe</alternateName>
+<alternateName lang="eo">Santa Fe</alternateName>
+<alternateName lang="es">Santa Fe</alternateName>
+<alternateName lang="eu">Santa Fe</alternateName>
+<alternateName lang="fi">Santa Fe</alternateName>
+<alternateName lang="fr">Santa Fe</alternateName>
+<alternateName lang="he">סנטה פה</alternateName>
+<alternateName lang="iata">ZSH</alternateName>
+<alternateName lang="id">Santa Fe</alternateName>
+<alternateName lang="io">Santa Fe</alternateName>
+<alternateName lang="it">Santa Fe</alternateName>
+<alternateName lang="ja">サンタフェ</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Santa_Fe%2C_New_Mexico</alternateName>
+<alternateName lang="lt">Santa Fė</alternateName>
+<alternateName lang="nl">Santa Fe</alternateName>
+<alternateName lang="no">Santa Fe</alternateName>
+<alternateName lang="nv">Yootó</alternateName>
+<alternateName lang="oc">Santa Fe</alternateName>
+<alternateName lang="pl">Santa Fe</alternateName>
+<alternateName lang="post">87502</alternateName>
+<alternateName lang="pt">Santa Fé</alternateName>
+<alternateName lang="ru">Санта-Фе</alternateName>
+<alternateName lang="sk">Santa Fe</alternateName>
+<alternateName lang="sv">Santa Fe</alternateName>
+<alternateName lang="unlc">SAF</alternateName>
+<alternateName lang="zh-TW">聖大非</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<bbox>
+<west>-105.97925</west>
+<north>35.72063</north>
+<east>-105.89635</east>
+<south>35.65332</south>
+</bbox>
+<score>95.26109313964844</score>
+</geoname>
+<geoname>
+<toponymName>Santa Fe</toponymName>
+<name>Santa Fe</name>
+<lat>15.83333</lat>
+<lng>-86.05</lng>
+<geonameId>3601601</geonameId>
+<countryCode>HN</countryCode>
+<countryName>Honduras</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>5603</population>
+<alternateNames>Santa Fe</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CL">03</adminCode1>
+<adminName1>Colón</adminName1>
+<adminCode2>0206</adminCode2>
+<adminName2>Santa Fe</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Santa_Fe%2C_Col%C3%B3n</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Tegucigalpa</timezone>
+<score>56.80982971191406</score>
+</geoname>
+<geoname>
+<toponymName>Santa Fe</toponymName>
+<name>Santa Fe</name>
+<lat>14.5</lat>
+<lng>-89.23333</lng>
+<geonameId>3601602</geonameId>
+<countryCode>HN</countryCode>
+<countryName>Honduras</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>3679</population>
+<alternateNames>Santa Fe</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OC">14</adminCode1>
+<adminName1>Ocotepeque</adminName1>
+<adminCode2>1414</adminCode2>
+<adminName2>Santa Fe</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Tegucigalpa</timezone>
+<score>56.80982971191406</score>
+</geoname>
+<geoname>
+<toponymName>Provincia de Santa Fe</toponymName>
+<name>Provincia de Santa Fe</name>
+<lat>-31</lat>
+<lng>-61</lng>
+<geonameId>3836276</geonameId>
+<countryCode>AR</countryCode>
+<countryName>Argentina</countryName>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>first-order administrative division</fcodeName>
+<population>3000701</population>
+<alternateNames>Provincia de Santa Fe,Santa Fe</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="S">21</adminCode1>
+<adminName1>Santa Fe</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="es">Santa Fe</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Santa_Fe_Province</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Argentina/Cordoba</timezone>
+<bbox>
+<west>-62.85394</west>
+<north>-27.99937</north>
+<east>-58.85692</east>
+<south>-34.3822</south>
+</bbox>
+<score>46.385032653808594</score>
+</geoname>
+<geoname>
+<toponymName>Santa Fé</toponymName>
+<name>Santa Fé</name>
+<lat>-23.0399</lat>
+<lng>-51.81359</lng>
+<geonameId>6319121</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>10436</population>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="PR">18</adminCode1>
+<adminName1>Paraná</adminName1>
+<adminCode2>4123402</adminCode2>
+<adminName2>Santa Fé</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Santa_F%C3%A9%2C_Paran%C3%A1</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Sao_Paulo</timezone>
+<bbox>
+<west>-51.91504</west>
+<north>-22.94536</north>
+<east>-51.74937</east>
+<south>-23.17439</south>
+</bbox>
+<score>46.385032653808594</score>
+</geoname>
+<geoname>
+<toponymName>Santa Fe</toponymName>
+<name>Santa Fe</name>
+<lat>12.15656</lat>
+<lng>121.99411</lng>
+<geonameId>1688164</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>2358</population>
+<alternateNames>Santa Fe</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="41">41</adminCode1>
+<adminName1>Mimaropa</adminName1>
+<adminCode2>54</adminCode2>
+<adminName2>Romblon</adminName2>
+<adminCode3>1688178</adminCode3>
+<adminName3>Santa Fe</adminName3>
+<alternateName lang="fil">Santa Fe</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Santa_Fe%2C_Romblon</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<bbox>
+<west>121.98951</west>
+<north>12.16105</north>
+<east>121.99871</east>
+<south>12.15206</south>
+</bbox>
+<score>42.60737228393555</score>
+</geoname>
+<geoname>
+<toponymName>Santa Fe</toponymName>
+<name>Santa Fe</name>
+<lat>11.1544</lat>
+<lng>123.8058</lng>
+<geonameId>1688171</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>2405</population>
+<alternateNames>Santa Fe</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="07">07</adminCode1>
+<adminName1>Central Visayas</adminName1>
+<adminCode2>21</adminCode2>
+<adminName2>Cebu</adminName2>
+<adminCode3>1688180</adminCode3>
+<adminName3>Santa Fe</adminName3>
+<alternateName lang="fil">Santa Fe</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Santa_Fe%2C_Cebu</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<bbox>
+<west>123.79932</west>
+<north>11.16076</north>
+<east>123.81228</east>
+<south>11.14804</south>
+</bbox>
+<score>42.60737228393555</score>
+</geoname>
+<geoname>
+<toponymName>Santa Fe</toponymName>
+<name>Santa Fe</name>
+<lat>19.37247</lat>
+<lng>-99.26117</lng>
+<geonameId>3517471</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Santa Fe</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="DIF">09</adminCode1>
+<adminName1>The Federal District</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Santa_Fe%2C_Mexico_City</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-99.2707</west>
+<north>19.38146</north>
+<east>-99.25163</east>
+<south>19.36347</south>
+</bbox>
+<score>42.60737228393555</score>
+</geoname>
+<geoname>
+<toponymName>Santa Fe</toponymName>
+<name>Santa Fe</name>
+<lat>14.51667</lat>
+<lng>-89.23333</lng>
+<geonameId>3601596</geonameId>
+<countryCode>HN</countryCode>
+<countryName>Honduras</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>915</population>
+<alternateNames>Santa Fe</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OC">14</adminCode1>
+<adminName1>Ocotepeque</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Santa_Fe%2C_Ocotepeque</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Tegucigalpa</timezone>
+<bbox>
+<west>-89.23426</west>
+<north>14.51757</north>
+<east>-89.2324</east>
+<south>14.51577</south>
+</bbox>
+<score>42.60737228393555</score>
+</geoname>
+</geonames>

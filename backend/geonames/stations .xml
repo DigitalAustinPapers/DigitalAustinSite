@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>9</totalResultsCount>
+<geoname>
+<toponymName>Station</toponymName>
+<name>Station</name>
+<lat>37.44304</lat>
+<lng>-87.24574</lng>
+<geonameId>8503494</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>130</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>149</adminCode2>
+<adminName2>McLean County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-87.25707</west>
+<north>37.45203</north>
+<east>-87.23441</east>
+<south>37.43405</south>
+</bbox>
+<score>41.43366241455078</score>
+</geoname>
+<geoname>
+<toponymName>Station</toponymName>
+<name>Station</name>
+<lat>47.57036</lat>
+<lng>8.75848</lng>
+<geonameId>6290938</geonameId>
+<countryCode>CH</countryCode>
+<countryName>Switzerland</countryName>
+<fcl>P</fcl>
+<fcode>PPLL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated locality</fcodeName>
+<population>6</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ZH">ZH</adminCode1>
+<adminName1>Zurich</adminName1>
+<adminCode2>102</adminCode2>
+<adminName2>Bezirk Andelfingen</adminName2>
+<adminCode3>39</adminCode3>
+<adminName3>Thalheim an der Thur</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Zurich</timezone>
+<bbox>
+<west>8.75715</west>
+<north>47.57125</north>
+<east>8.75981</east>
+<south>47.56946</south>
+</bbox>
+<score>25.896038055419922</score>
+</geoname>
+<geoname>
+<toponymName>Station</toponymName>
+<name>Station</name>
+<lat>47.33337</lat>
+<lng>8.92312</lng>
+<geonameId>6292186</geonameId>
+<countryCode>CH</countryCode>
+<countryName>Switzerland</countryName>
+<fcl>P</fcl>
+<fcode>PPLL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated locality</fcodeName>
+<population>12</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ZH">ZH</adminCode1>
+<adminName1>Zurich</adminName1>
+<adminCode2>105</adminCode2>
+<adminName2>Bezirk Hinwil</adminName2>
+<adminCode3>114</adminCode3>
+<adminName3>Fischenthal</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Zurich</timezone>
+<bbox>
+<west>8.92179</west>
+<north>47.33427</north>
+<east>8.92444</east>
+<south>47.33247</south>
+</bbox>
+<score>25.896038055419922</score>
+</geoname>
+<geoname>
+<toponymName>Bubikon / Station</toponymName>
+<name>Bubikon / Station</name>
+<lat>47.27103</lat>
+<lng>8.8218</lng>
+<geonameId>6291922</geonameId>
+<countryCode>CH</countryCode>
+<countryName>Switzerland</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population>732</population>
+<alternateNames>Station</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ZH">ZH</adminCode1>
+<adminName1>Zurich</adminName1>
+<adminCode2>105</adminCode2>
+<adminName2>Bezirk Hinwil</adminName2>
+<adminCode3>112</adminCode3>
+<adminName3>Bubikon</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Zurich</timezone>
+<bbox>
+<west>8.82047</west>
+<north>47.27193</north>
+<east>8.82312</east>
+<south>47.27013</south>
+</bbox>
+<score>14.649011611938477</score>
+</geoname>
+<geoname>
+<toponymName>Hettlingen / Station</toponymName>
+<name>Hettlingen / Station</name>
+<lat>47.54386</lat>
+<lng>8.69785</lng>
+<geonameId>6294847</geonameId>
+<countryCode>CH</countryCode>
+<countryName>Switzerland</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population>417</population>
+<alternateNames>Station</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ZH">ZH</adminCode1>
+<adminName1>Zurich</adminName1>
+<adminCode2>110</adminCode2>
+<adminName2>Bezirk Winterthur</adminName2>
+<adminCode3>221</adminCode3>
+<adminName3>Hettlingen</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Zurich</timezone>
+<bbox>
+<west>8.69651</west>
+<north>47.54476</north>
+<east>8.69918</east>
+<south>47.54296</south>
+</bbox>
+<score>14.649011611938477</score>
+</geoname>
+<geoname>
+<toponymName>Old Station House</toponymName>
+<name>Station</name>
+<lat>53.55524</lat>
+<lng>-10.12064</lng>
+<geonameId>6691260</geonameId>
+<countryCode>IE</countryCode>
+<countryName>Ireland</countryName>
+<fcl>S</fcl>
+<fcode>PPQ</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>abandoned police post</fcodeName>
+<population/>
+<alternateNames>Station,Station House</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1/>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Station</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Dublin</timezone>
+<score>14.649011611938477</score>
+</geoname>
+<geoname>
+<toponymName>Station</toponymName>
+<name>Station</name>
+<lat>-31.17894</lat>
+<lng>28.58671</lng>
+<geonameId>952706</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="EC">05</adminCode1>
+<adminName1>Eastern Cape</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<score>12.948019027709961</score>
+</geoname>
+<geoname>
+<toponymName>Station</toponymName>
+<name>Station</name>
+<lat>47.51145</lat>
+<lng>8.36908</lng>
+<geonameId>6291595</geonameId>
+<countryCode>CH</countryCode>
+<countryName>Switzerland</countryName>
+<fcl>S</fcl>
+<fcode>HSE</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>house(s)</fcodeName>
+<population>1</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ZH">ZH</adminCode1>
+<adminName1>Zurich</adminName1>
+<adminCode2>104</adminCode2>
+<adminName2>Dielsdorf</adminName2>
+<adminCode3>91</adminCode3>
+<adminName3>Niederweningen</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Zurich</timezone>
+<score>12.948019027709961</score>
+</geoname>
+<geoname>
+<toponymName>Station</toponymName>
+<name>Station</name>
+<lat>52.20967</lat>
+<lng>5.97077</lng>
+<geonameId>6956024</geonameId>
+<countryCode>NL</countryCode>
+<countryName>Netherlands</countryName>
+<fcl>S</fcl>
+<fcode>BUSTN</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>bus station</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="GE">03</adminCode1>
+<adminName1>Gelderland</adminName1>
+<adminCode2>0200</adminCode2>
+<adminName2>Apeldoorn</adminName2>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Amsterdam</timezone>
+<score>12.948019027709961</score>
+</geoname>
+</geonames>

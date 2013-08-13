@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>254</totalResultsCount>
+<geoname>
+<toponymName>Dolores</toponymName>
+<name>Dolores</name>
+<lat>14.88333</lat>
+<lng>-88.81667</lng>
+<geonameId>3612844</geonameId>
+<countryCode>HN</countryCode>
+<countryName>Honduras</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>4906</population>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CP">05</adminCode1>
+<adminName1>Copán</adminName1>
+<adminCode2>0407</adminCode2>
+<adminName2>Dolores</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Tegucigalpa</timezone>
+<score>76.60955047607422</score>
+</geoname>
+<geoname>
+<toponymName>Dolores</toponymName>
+<name>Dolores</name>
+<lat>-33.53009</lat>
+<lng>-58.21701</lng>
+<geonameId>3442750</geonameId>
+<countryCode>UY</countryCode>
+<countryName>Uruguay</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>15880</population>
+<alternateNames>Dolores</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="SO">17</adminCode1>
+<adminName1>Soriano</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Dolores%2C_Uruguay</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Montevideo</timezone>
+<bbox>
+<west>-58.23646</west>
+<north>-33.51388</north>
+<east>-58.19757</east>
+<south>-33.5463</south>
+</bbox>
+<score>75.06172180175781</score>
+</geoname>
+<geoname>
+<toponymName>Dolores</toponymName>
+<name>Dolores</name>
+<lat>16.51417</lat>
+<lng>-89.41583</lng>
+<geonameId>3597722</geonameId>
+<countryCode>GT</countryCode>
+<countryName>Guatemala</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>10604</population>
+<alternateNames>Dolores</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PE">12</adminCode1>
+<adminName1>Petén</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Dolores%2C_El_Pet%C3%A9n</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Guatemala</timezone>
+<bbox>
+<west>-89.4291</west>
+<north>16.52689</north>
+<east>-89.40257</east>
+<south>16.50145</south>
+</bbox>
+<score>75.06172180175781</score>
+</geoname>
+<geoname>
+<toponymName>Dolores</toponymName>
+<name>Dolores</name>
+<lat>14.25</lat>
+<lng>-88.33333</lng>
+<geonameId>3612845</geonameId>
+<countryCode>HN</countryCode>
+<countryName>Honduras</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>3797</population>
+<alternateNames>Dolores</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IN">10</adminCode1>
+<adminName1>Intibucá</adminName1>
+<adminCode2>1005</adminCode2>
+<adminName2>Dolores</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Tegucigalpa</timezone>
+<score>75.06172180175781</score>
+</geoname>
+<geoname>
+<toponymName>Dolores</toponymName>
+<name>Dolores</name>
+<lat>3.66667</lat>
+<lng>-74.75</lng>
+<geonameId>3685179</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames>Dolores</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="TOL">28</adminCode1>
+<adminName1>Tolima</adminName1>
+<adminCode2>3685179</adminCode2>
+<adminName2>Dolores</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Dolores%2C_Tolima</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<score>75.06172180175781</score>
+</geoname>
+<geoname>
+<toponymName>Dolores</toponymName>
+<name>Dolores</name>
+<lat>14.86667</lat>
+<lng>-88.83333</lng>
+<geonameId>3612838</geonameId>
+<countryCode>HN</countryCode>
+<countryName>Honduras</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1107</population>
+<alternateNames>Dolores</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CP">05</adminCode1>
+<adminName1>Copán</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Dolores%2C_Cop%C3%A1n</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Tegucigalpa</timezone>
+<bbox>
+<west>-88.83426</west>
+<north>14.86757</north>
+<east>-88.8324</east>
+<south>14.86577</south>
+</bbox>
+<score>65.67900848388672</score>
+</geoname>
+<geoname>
+<toponymName>Dolores</toponymName>
+<name>Dolores</name>
+<lat>11.85621</lat>
+<lng>-86.21575</lng>
+<geonameId>3620163</geonameId>
+<countryCode>NI</countryCode>
+<countryName>Nicaragua</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>7065</population>
+<alternateNames>Dolores</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">02</adminCode1>
+<adminName1>Carazo</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Dolores%2C_Carazo</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Managua</timezone>
+<bbox>
+<west>-86.22602</west>
+<north>11.86626</north>
+<east>-86.20547</east>
+<south>11.84615</south>
+</bbox>
+<score>65.67900848388672</score>
+</geoname>
+<geoname>
+<toponymName>Dolores</toponymName>
+<name>Dolores</name>
+<lat>12.0371</lat>
+<lng>125.4825</lng>
+<geonameId>1714505</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>9274</population>
+<alternateNames>Dolores</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="08">08</adminCode1>
+<adminName1>Eastern Visayas</adminName1>
+<adminCode2>23</adminCode2>
+<adminName2>Eastern Samar</adminName2>
+<alternateName lang="fil">Dolores</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Dolores%2C_Eastern_Samar</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<bbox>
+<west>125.47033</west>
+<north>12.049</north>
+<east>125.49467</east>
+<south>12.0252</south>
+</bbox>
+<score>65.00535583496094</score>
+</geoname>
+<geoname>
+<toponymName>Dolores</toponymName>
+<name>Dolores</name>
+<lat>-36.31322</lat>
+<lng>-57.67918</lng>
+<geonameId>3435038</geonameId>
+<countryCode>AR</countryCode>
+<countryName>Argentina</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>25190</population>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="B">01</adminCode1>
+<adminName1>Buenos Aires</adminName1>
+<adminCode2>3435032</adminCode2>
+<adminName2>Partido de Dolores</adminName2>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Argentina/Buenos_Aires</timezone>
+<bbox>
+<west>-57.70414</west>
+<north>-36.2931</north>
+<east>-57.65423</east>
+<south>-36.33333</south>
+</bbox>
+<score>61.28763961791992</score>
+</geoname>
+<geoname>
+<toponymName>Dolores</toponymName>
+<name>Dolores</name>
+<lat>17.6477</lat>
+<lng>120.7091</lng>
+<geonameId>1714492</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>2378</population>
+<alternateNames>Dolores</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="CAN">15</adminCode1>
+<adminName1>Cordillera Administrative Region</adminName1>
+<adminCode2>01</adminCode2>
+<adminName2>Abra</adminName2>
+<adminCode3>1714512</adminCode3>
+<adminName3>Dolores</adminName3>
+<alternateName lang="fil">Dolores</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Dolores%2C_Abra</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<bbox>
+<west>120.70438</west>
+<north>17.6522</north>
+<east>120.71382</east>
+<south>17.6432</south>
+</bbox>
+<score>56.29629135131836</score>
+</geoname>
+</geonames>

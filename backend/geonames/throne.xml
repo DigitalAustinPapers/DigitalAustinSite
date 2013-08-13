@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>7</totalResultsCount>
+<geoname>
+<toponymName>Throne</toponymName>
+<name>Throne</name>
+<lat>52.05013</lat>
+<lng>-111.28503</lng>
+<geonameId>6166067</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>P</fcl>
+<fcode>PPLL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AB">01</adminCode1>
+<adminName1>Alberta</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Throne%2C_Alberta</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Edmonton</timezone>
+<bbox>
+<west>-111.28649</west>
+<north>52.05103</north>
+<east>-111.28356</east>
+<south>52.04923</south>
+</bbox>
+<score>55.304962158203125</score>
+</geoname>
+<geoname>
+<toponymName>Cape Pyla</toponymName>
+<name>Cape Pyla</name>
+<lat>34.94199</lat>
+<lng>33.85783</lng>
+<geonameId>146109</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>T</fcl>
+<fcode>CAPE</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>cape</fcodeName>
+<population/>
+<alternateNames>Akrotirion Pyla,Akrotírion Pýla,Cape Pyla,Dades Promontory,Pile Burnu,Throni</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1>03</adminCode1>
+<adminName1>GB.03</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="3.0" gmtOffset="2.0">Asia/Nicosia</timezone>
+<score>5.214197635650635</score>
+</geoname>
+<geoname>
+<toponymName>Þröng</toponymName>
+<name>Þröng</name>
+<lat>65.64771</lat>
+<lng>-14.68888</lng>
+<geonameId>2625927</geonameId>
+<countryCode>IS</countryCode>
+<countryName>Iceland</countryName>
+<fcl>T</fcl>
+<fcode>VAL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>valley</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="7">38</adminCode1>
+<adminName1>East</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="0.0" gmtOffset="0.0">Atlantic/Reykjavik</timezone>
+<score>3.482278347015381</score>
+</geoname>
+<geoname>
+<toponymName>Þröng</toponymName>
+<name>Þröng</name>
+<lat>65.98712</lat>
+<lng>-14.66792</lng>
+<geonameId>2625928</geonameId>
+<countryCode>IS</countryCode>
+<countryName>Iceland</countryName>
+<fcl>T</fcl>
+<fcode>SLP</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>slope(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="6">40</adminCode1>
+<adminName1>Northeast</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="0.0" gmtOffset="0.0">Atlantic/Reykjavik</timezone>
+<score>3.482278347015381</score>
+</geoname>
+<geoname>
+<toponymName>Þröng</toponymName>
+<name>Þröng</name>
+<lat>64.49631</lat>
+<lng>-14.89052</lng>
+<geonameId>2625929</geonameId>
+<countryCode>IS</countryCode>
+<countryName>Iceland</countryName>
+<fcl>T</fcl>
+<fcode>GRGE</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>gorge(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="7">38</adminCode1>
+<adminName1>East</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="0.0" gmtOffset="0.0">Atlantic/Reykjavik</timezone>
+<score>3.482278347015381</score>
+</geoname>
+<geoname>
+<toponymName>Þröng</toponymName>
+<name>Þröng</name>
+<lat>65.8339</lat>
+<lng>-15.66027</lng>
+<geonameId>2625930</geonameId>
+<countryCode>IS</countryCode>
+<countryName>Iceland</countryName>
+<fcl>L</fcl>
+<fcode>GRAZ</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>grazing area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="6">40</adminCode1>
+<adminName1>Northeast</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="0.0" gmtOffset="0.0">Atlantic/Reykjavik</timezone>
+<score>3.482278347015381</score>
+</geoname>
+<geoname>
+<toponymName>Threne</toponymName>
+<name>Threne</name>
+<lat>51.33427</lat>
+<lng>12.54569</lng>
+<geonameId>2822616</geonameId>
+<countryCode>DE</countryCode>
+<countryName>Germany</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SN">13</adminCode1>
+<adminName1>Saxony</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Berlin</timezone>
+<score>2.3043715953826904</score>
+</geoname>
+</geonames>

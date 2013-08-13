@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>19</totalResultsCount>
+<geoname>
+<toponymName>Angéline</toponymName>
+<name>Angéline</name>
+<lat>45.33728</lat>
+<lng>-72.86884</lng>
+<geonameId>5885159</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="QC">10</adminCode1>
+<adminName1>Quebec</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Montreal</timezone>
+<score>39.04273986816406</score>
+</geoname>
+<geoname>
+<toponymName>Angelina</toponymName>
+<name>Angelina</name>
+<lat>-27.5345</lat>
+<lng>-49.08558</lng>
+<geonameId>6323050</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>5250</population>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="SC">26</adminCode1>
+<adminName1>Santa Catarina</adminName1>
+<adminCode2>4200903</adminCode2>
+<adminName2>Angelina</adminName2>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Sao_Paulo</timezone>
+<bbox>
+<west>-49.26253</west>
+<north>-27.44398</north>
+<east>-48.8969</east>
+<south>-27.64836</south>
+</bbox>
+<score>27.600900650024414</score>
+</geoname>
+<geoname>
+<toponymName>Angelince</toponymName>
+<name>Angelince</name>
+<lat>42.41722</lat>
+<lng>22.16472</lng>
+<geonameId>860885</geonameId>
+<countryCode>RS</countryCode>
+<countryName>Serbia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Angelince,Donja Mahala</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Belgrade</timezone>
+<bbox>
+<west>22.15254</west>
+<north>42.42622</north>
+<east>22.17691</east>
+<south>42.40823</south>
+</bbox>
+<score>17.931522369384766</score>
+</geoname>
+<geoname>
+<toponymName>Angelina</toponymName>
+<name>Angelina</name>
+<lat>-27.56861</lat>
+<lng>-48.98528</lng>
+<geonameId>3472218</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Anjelina</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="SC">26</adminCode1>
+<adminName1>Santa Catarina</adminName1>
+<adminCode2>4200903</adminCode2>
+<adminName2>Angelina</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Angelina%2C_Santa_Catarina</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Sao_Paulo</timezone>
+<bbox>
+<west>-48.99542</west>
+<north>-27.55962</north>
+<east>-48.97513</east>
+<south>-27.5776</south>
+</bbox>
+<score>16.5605411529541</score>
+</geoname>
+<geoname>
+<toponymName>Angelane</toponymName>
+<name>Angelane</name>
+<lat>45.32863</lat>
+<lng>3.2459</lng>
+<geonameId>3037663</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="C">98</adminCode1>
+<adminName1>Auvergne</adminName1>
+<adminCode2>43</adminCode2>
+<adminName2>Haute-Loire</adminName2>
+<adminCode3>431</adminCode3>
+<adminName3>Arrondissement de Brioude</adminName3>
+<adminCode4>43123</adminCode4>
+<adminName4>Lorlanges</adminName4>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>3.23311</west>
+<north>45.33762</north>
+<east>3.2587</east>
+<south>45.31963</south>
+</bbox>
+<score>14.641027450561523</score>
+</geoname>
+<geoname>
+<toponymName>Angelina</toponymName>
+<name>Angelina</name>
+<lat>19.1288</lat>
+<lng>-70.22296</lng>
+<geonameId>3512679</geonameId>
+<countryCode>DO</countryCode>
+<countryName>Dominican Republic</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="24">21</adminCode1>
+<adminName1>Sánchez Ramírez</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Santo_Domingo</timezone>
+<bbox>
+<west>-70.23248</west>
+<north>19.13779</north>
+<east>-70.21344</east>
+<south>19.11981</south>
+</bbox>
+<score>11.040360450744629</score>
+</geoname>
+<geoname>
+<toponymName>Angelina</toponymName>
+<name>Angelina</name>
+<lat>18.43351</lat>
+<lng>-71.22748</lng>
+<geonameId>3512680</geonameId>
+<countryCode>DO</countryCode>
+<countryName>Dominican Republic</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="03">02</adminCode1>
+<adminName1>Baoruco</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Santo_Domingo</timezone>
+<bbox>
+<west>-71.23697</west>
+<north>18.4425</north>
+<east>-71.218</east>
+<south>18.42451</south>
+</bbox>
+<score>11.040360450744629</score>
+</geoname>
+<geoname>
+<toponymName>Angelina</toponymName>
+<name>Angelina</name>
+<lat>18.5205</lat>
+<lng>-70.84396</lng>
+<geonameId>3512681</geonameId>
+<countryCode>DO</countryCode>
+<countryName>Dominican Republic</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="02">01</adminCode1>
+<adminName1>Azua</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Santo_Domingo</timezone>
+<score>11.040360450744629</score>
+</geoname>
+<geoname>
+<toponymName>Angelina</toponymName>
+<name>Angelina</name>
+<lat>22.81667</lat>
+<lng>-82.81667</lng>
+<geonameId>3568827</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1>AR</adminCode1>
+<adminName1>Provincia Artemisa</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>11.040360450744629</score>
+</geoname>
+<geoname>
+<toponymName>Angelina</toponymName>
+<name>Angelina</name>
+<lat>22.63333</lat>
+<lng>-80.91667</lng>
+<geonameId>3568828</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="04">03</adminCode1>
+<adminName1>Matanzas</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>11.040360450744629</score>
+</geoname>
+</geonames>

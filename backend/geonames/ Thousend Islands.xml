@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Thousand Islands</toponymName>
+<name>Thousand Islands</name>
+<lat>44.33338</lat>
+<lng>-75.99968</lng>
+<geonameId>5140907</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>90</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>045</adminCode2>
+<adminName2>Jefferson County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Thousand_Islands</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>57.896175384521484</score>
+</geoname>
+<geoname>
+<toponymName>Thousand Islands</toponymName>
+<name>Thousand Islands</name>
+<lat>28.32278</lat>
+<lng>-80.62811</lng>
+<geonameId>4175281</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>0</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="FL">FL</adminCode1>
+<adminName1>Florida</adminName1>
+<adminCode2>009</adminCode2>
+<adminName2>Brevard County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Kentucky/Monticello</timezone>
+<score>38.597450256347656</score>
+</geoname>
+<geoname>
+<toponymName>Thousand Islands</toponymName>
+<name>Thousand Islands</name>
+<lat>44.36681</lat>
+<lng>-75.91606</lng>
+<geonameId>6165765</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>T</fcl>
+<fcode>ISLS</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>islands</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ON">08</adminCode1>
+<adminName1>Ontario</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>38.597450256347656</score>
+</geoname>
+<geoname>
+<toponymName>Kepulauan Seribu</toponymName>
+<name>Kepulauan Seribu</name>
+<lat>-5.6</lat>
+<lng>106.55</lng>
+<geonameId>1627482</geonameId>
+<countryCode>ID</countryCode>
+<countryName>Indonesia</countryName>
+<fcl>T</fcl>
+<fcode>ISLS</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>islands</fcodeName>
+<population/>
+<alternateNames>Duizen Eilanden,Duizend-eilanden,Kepulauan Seribu,Pulau Pulau Saribu,Pulau Seribu,Pulau-pulau Seribu,Thousand Islands</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="JK">04</adminCode1>
+<adminName1>Jakarta Raya</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Thousand_Islands_%28Indonesia%29</alternateName>
+<score>27.292518615722656</score>
+</geoname>
+<geoname>
+<toponymName>Thomsen, islotes</toponymName>
+<name>Thomsen Islands</name>
+<lat>-65.79399</lat>
+<lng>-66.23234</lng>
+<geonameId>6626665</geonameId>
+<countryCode>AQ</countryCode>
+<countryName>Antarctica</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames>Thomsen Islands,Thomsen, islotes</alternateNames>
+<elevation/>
+<continentCode>AN</continentCode>
+<adminCode1/>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Thomsen Islands</alternateName>
+<alternateName lang="es">Thomsen, islotes</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Thomsen_Islands</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-3.0">Antarctica/Palmer</timezone>
+<score>18.5756893157959</score>
+</geoname>
+</geonames>

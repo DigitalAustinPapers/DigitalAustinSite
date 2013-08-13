@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>6</totalResultsCount>
+<geoname>
+<toponymName>Attoyac</toponymName>
+<name>Attoyac</name>
+<lat>31.55879</lat>
+<lng>-94.35798</lng>
+<geonameId>4671604</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>94</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>347</adminCode2>
+<adminName2>Nacogdoches County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-94.36854</west>
+<north>31.56779</north>
+<east>-94.34742</east>
+<south>31.5498</south>
+</bbox>
+<score>2.5539710521698</score>
+</geoname>
+<geoname>
+<toponymName>Attoyac Dam</toponymName>
+<name>Attoyac Dam</name>
+<lat>31.66185</lat>
+<lng>-94.3952</lng>
+<geonameId>4671606</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>DAM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>dam</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>70</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>419</adminCode2>
+<adminName2>Shelby County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>0.8938899040222168</score>
+</geoname>
+<geoname>
+<toponymName>Attoyac Lake</toponymName>
+<name>Attoyac Lake</name>
+<lat>31.66185</lat>
+<lng>-94.3952</lng>
+<geonameId>4671607</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>RSV</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>reservoir(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>70</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>419</adminCode2>
+<adminName2>Shelby County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>0.8938899040222168</score>
+</geoname>
+<geoname>
+<toponymName>Attoyac River</toponymName>
+<name>Attoyac River</name>
+<lat>31.44824</lat>
+<lng>-94.31603</lng>
+<geonameId>4671608</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>50</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>347</adminCode2>
+<adminName2>Nacogdoches County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>0.8938899040222168</score>
+</geoname>
+<geoname>
+<toponymName>Attoyac Church</toponymName>
+<name>Attoyac Church</name>
+<lat>31.4263</lat>
+<lng>-94.28603</lng>
+<geonameId>4671605</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>CH</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>church</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>98</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>405</adminCode2>
+<adminName2>San Augustine County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>0.7661913633346558</score>
+</geoname>
+<geoname>
+<toponymName>Attoyac Property Owners Volunteer Fire Department</toponymName>
+<name>Attoyac Property Owners Volunteer Fire Department</name>
+<lat>31.28765</lat>
+<lng>-94.31756</lng>
+<geonameId>8483083</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>BLDG</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>building(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>64</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>405</adminCode2>
+<adminName2>San Augustine County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>0.7661913633346558</score>
+</geoname>
+</geonames>

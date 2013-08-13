@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>14</totalResultsCount>
+<geoname>
+<toponymName>Estado de Yucatán</toponymName>
+<name>Yucatán</name>
+<lat>20.83333</lat>
+<lng>-89</lng>
+<geonameId>3514211</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>first-order administrative division</fcodeName>
+<population>1761761</population>
+<alternateNames>Estado de Yucatan,Estado de Yucatán,Iucata,Iucatania,Iucatã,Jukatan,Jukatanio,YUC,Yucatan,Yucatán,you ka tan zhou,yukatan zhou,ywkatan,یوکاتان,ユカタン州,尤卡坦州</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="YUC">31</adminCode1>
+<adminName1>Yucatán</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="abbr">YUC</alternateName>
+<alternateName lang="ca">Yucatán</alternateName>
+<alternateName lang="da">Yucatán</alternateName>
+<alternateName lang="de">Yucatán</alternateName>
+<alternateName lang="en">Yucatán</alternateName>
+<alternateName lang="eo">Jukatanio</alternateName>
+<alternateName lang="es">Yucatán</alternateName>
+<alternateName lang="eu">Yucatan</alternateName>
+<alternateName lang="fa">یوکاتان</alternateName>
+<alternateName lang="fi">Yucatán</alternateName>
+<alternateName lang="fr">Yucatán</alternateName>
+<alternateName lang="it">Yucatán</alternateName>
+<alternateName lang="ja">ユカタン州</alternateName>
+<alternateName lang="kw">Yucatán</alternateName>
+<alternateName lang="la">Iucatania</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Yucat%C3%A1n</alternateName>
+<alternateName lang="nl">Yucatán</alternateName>
+<alternateName lang="pl">Jukatan</alternateName>
+<alternateName lang="pt">Iucatã</alternateName>
+<alternateName lang="ro">Yucatán</alternateName>
+<alternateName lang="zh">尤卡坦州</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Merida</timezone>
+<bbox>
+<west>-90.40572</west>
+<north>21.61</north>
+<east>-87.53918</east>
+<south>19.65194</south>
+</bbox>
+<score>95.31321716308594</score>
+</geoname>
+<geoname>
+<toponymName>Yucatan</toponymName>
+<name>Yucatan</name>
+<lat>38.85449</lat>
+<lng>-91.75045</lng>
+<geonameId>4415664</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>245</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>027</adminCode2>
+<adminName2>Callaway County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Yucatan%2C_Missouri</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-91.762</west>
+<north>38.86348</north>
+<east>-91.7389</east>
+<south>38.84549</south>
+</bbox>
+<score>59.66307830810547</score>
+</geoname>
+<geoname>
+<toponymName>Yucatan</toponymName>
+<name>Yucatan</name>
+<lat>43.68052</lat>
+<lng>-91.68876</lng>
+<geonameId>5053609</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>228</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MN">MN</adminCode1>
+<adminName1>Minnesota</adminName1>
+<adminCode2>055</adminCode2>
+<adminName2>Houston County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Yucatan%2C_Minnesota</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-91.7012</west>
+<north>43.68952</north>
+<east>-91.67632</east>
+<south>43.67153</south>
+</bbox>
+<score>59.66307830810547</score>
+</geoname>
+<geoname>
+<toponymName>Yucatán</toponymName>
+<name>Yucatán</name>
+<lat>17.99633</lat>
+<lng>-96.4559</lng>
+<geonameId>3801251</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Yucatan,Yucatán</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OAX">20</adminCode1>
+<adminName1>Oaxaca</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="es">Yucatán</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-96.46535</west>
+<north>18.00533</north>
+<east>-96.44644</east>
+<south>17.98734</south>
+</bbox>
+<score>42.18817138671875</score>
+</geoname>
+<geoname>
+<toponymName>Yucatán</toponymName>
+<name>Yucatán</name>
+<lat>32.60434</lat>
+<lng>-115.0938</lng>
+<geonameId>4011403</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Ejido Yucatan,Ejido Yucatán,Yucatan,Yucatán</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="BCN">02</adminCode1>
+<adminName1>Baja California</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Tijuana</timezone>
+<bbox>
+<west>-115.10448</west>
+<north>32.61334</north>
+<east>-115.08312</east>
+<south>32.59535</south>
+</bbox>
+<score>42.18817138671875</score>
+</geoname>
+<geoname>
+<toponymName>Yucatán</toponymName>
+<name>Yucatán</name>
+<lat>16.32594</lat>
+<lng>-93.35658</lng>
+<geonameId>3514212</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CHP">05</adminCode1>
+<adminName1>Chiapas</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-93.36595</west>
+<north>16.33494</north>
+<east>-93.3472</east>
+<south>16.31695</south>
+</bbox>
+<score>39.775386810302734</score>
+</geoname>
+<geoname>
+<toponymName>Yucatán</toponymName>
+<name>Yucatán</name>
+<lat>15.7</lat>
+<lng>-86</lng>
+<geonameId>3600187</geonameId>
+<countryCode>HN</countryCode>
+<countryName>Honduras</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CL">03</adminCode1>
+<adminName1>Colón</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Tegucigalpa</timezone>
+<bbox>
+<west>-86.00934</west>
+<north>15.70899</north>
+<east>-85.99066</east>
+<south>15.69101</south>
+</bbox>
+<score>39.775386810302734</score>
+</geoname>
+<geoname>
+<toponymName>Yucatán</toponymName>
+<name>Yucatán</name>
+<lat>16.85306</lat>
+<lng>-99.50255</lng>
+<geonameId>3821779</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GRO">12</adminCode1>
+<adminName1>Guerrero</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-99.51195</west>
+<north>16.86205</north>
+<east>-99.49316</east>
+<south>16.84407</south>
+</bbox>
+<score>39.775386810302734</score>
+</geoname>
+<geoname>
+<toponymName>Yucatán</toponymName>
+<name>Yucatán</name>
+<lat>21.2125</lat>
+<lng>-87.74167</lng>
+<geonameId>3822297</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="YUC">31</adminCode1>
+<adminName1>Yucatán</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Merida</timezone>
+<bbox>
+<west>-87.75131</west>
+<north>21.22149</north>
+<east>-87.73202</east>
+<south>21.20351</south>
+</bbox>
+<score>39.775386810302734</score>
+</geoname>
+<geoname>
+<toponymName>Yucatán</toponymName>
+<name>Yucatán</name>
+<lat>26.86667</lat>
+<lng>-101.16667</lng>
+<geonameId>3979863</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="COA">07</adminCode1>
+<adminName1>Coahuila</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<bbox>
+<west>-101.17675</west>
+<north>26.87566</north>
+<east>-101.15658</east>
+<south>26.85767</south>
+</bbox>
+<score>39.775386810302734</score>
+</geoname>
+</geonames>

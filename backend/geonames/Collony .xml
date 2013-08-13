@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>23</totalResultsCount>
+<geoname>
+<toponymName>Colloni</toponymName>
+<name>Colloni</name>
+<lat>-15.25</lat>
+<lng>-73.61667</lng>
+<geonameId>3942759</geonameId>
+<countryCode>PE</countryCode>
+<countryName>Peru</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="AYA">05</adminCode1>
+<adminName1>Ayacucho Region</adminName1>
+<adminCode2>0507</adminCode2>
+<adminName2>Provincia de Parinacochas</adminName2>
+<adminCode3>050706</adminCode3>
+<adminName3>Puyusca</adminName3>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Lima</timezone>
+<bbox>
+<west>-73.62599</west>
+<north>-15.24101</north>
+<east>-73.60735</east>
+<south>-15.25899</south>
+</bbox>
+<score>20.83062744140625</score>
+</geoname>
+<geoname>
+<toponymName>Collona</toponymName>
+<name>Collona</name>
+<lat>-7.92866</lat>
+<lng>-77.60174</lng>
+<geonameId>3743739</geonameId>
+<countryCode>PE</countryCode>
+<countryName>Peru</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="LAL">13</adminCode1>
+<adminName1>La Libertad Region</adminName1>
+<adminCode2>1308</adminCode2>
+<adminName2>Provincia de Pataz</adminName2>
+<adminCode3>130808</adminCode3>
+<adminName3>Parcoy</adminName3>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Lima</timezone>
+<bbox>
+<west>-77.61082</west>
+<north>-7.91967</north>
+<east>-77.59265</east>
+<south>-7.93765</south>
+</bbox>
+<score>20.081466674804688</score>
+</geoname>
+<geoname>
+<toponymName>Collona</toponymName>
+<name>Collona</name>
+<lat>-6.88</lat>
+<lng>-78.22078</lng>
+<geonameId>3752933</geonameId>
+<countryCode>PE</countryCode>
+<countryName>Peru</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="CAJ">06</adminCode1>
+<adminName1>Cajamarca</adminName1>
+<adminCode2>0603</adminCode2>
+<adminName2>Provincia de Celendín</adminName2>
+<adminCode3>060304</adminCode3>
+<adminName3>Huasmin</adminName3>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Lima</timezone>
+<bbox>
+<west>-78.22984</west>
+<north>-6.871</north>
+<east>-78.21172</east>
+<south>-6.88899</south>
+</bbox>
+<score>20.081466674804688</score>
+</geoname>
+<geoname>
+<toponymName>Collona</toponymName>
+<name>Collona</name>
+<lat>-5.46975</lat>
+<lng>-79.64589</lng>
+<geonameId>3761589</geonameId>
+<countryCode>PE</countryCode>
+<countryName>Peru</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="PIU">20</adminCode1>
+<adminName1>Piura Region</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Lima</timezone>
+<score>20.081466674804688</score>
+</geoname>
+<geoname>
+<toponymName>Collong</toponymName>
+<name>Collong</name>
+<lat>-4.3329</lat>
+<lng>120.0478</lng>
+<geonameId>7069899</geonameId>
+<countryCode>ID</countryCode>
+<countryName>Indonesia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Collong</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="SN">38</adminCode1>
+<adminName1>South Sulawesi</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="id">Collong</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Makassar</timezone>
+<bbox>
+<west>120.03878</west>
+<north>-4.32391</north>
+<east>120.05682</east>
+<south>-4.34189</south>
+</bbox>
+<score>19.134151458740234</score>
+</geoname>
+<geoname>
+<toponymName>Collon</toponymName>
+<name>Collon</name>
+<lat>53.78111</lat>
+<lng>-6.48694</lng>
+<geonameId>2965249</geonameId>
+<countryCode>IE</countryCode>
+<countryName>Ireland</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Collann,Collon</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="L">L</adminCode1>
+<adminName1>Leinster</adminName1>
+<adminCode2>19</adminCode2>
+<adminName2>Co Louth</adminName2>
+<alternateName lang="en">Collon</alternateName>
+<alternateName lang="ga">Collann</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Collon</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Dublin</timezone>
+<bbox>
+<west>-6.50217</west>
+<north>53.7901</north>
+<east>-6.47172</east>
+<south>53.77212</south>
+</bbox>
+<score>18.602632522583008</score>
+</geoname>
+<geoname>
+<toponymName>Colony</toponymName>
+<name>Colony</name>
+<lat>38.07086</lat>
+<lng>-95.36554</lng>
+<geonameId>4269834</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>408</population>
+<alternateNames/>
+<elevation>344</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KS">KS</adminCode1>
+<adminName1>Kansas</adminName1>
+<adminCode2>003</adminCode2>
+<adminName2>Anderson County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Colony%2C_Kansas</alternateName>
+<alternateName lang="post">66015</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-95.36668</west>
+<north>38.07176</north>
+<east>-95.36439</east>
+<south>38.06996</south>
+</bbox>
+<score>14.856664657592773</score>
+</geoname>
+<geoname>
+<toponymName>Colony</toponymName>
+<name>Colony</name>
+<lat>35.34867</lat>
+<lng>-98.67674</lng>
+<geonameId>4533921</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>136</population>
+<alternateNames/>
+<elevation>449</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OK">OK</adminCode1>
+<adminName1>Oklahoma</adminName1>
+<adminCode2>149</adminCode2>
+<adminName2>Washita County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Colony%2C_Oklahoma</alternateName>
+<alternateName lang="post">73021</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-98.68523</west>
+<north>35.36453</north>
+<east>-98.65688</east>
+<south>35.34143</south>
+</bbox>
+<score>14.856664657592773</score>
+</geoname>
+<geoname>
+<toponymName>Coliong</toponymName>
+<name>Coliong</name>
+<lat>17.12122</lat>
+<lng>120.49873</lng>
+<geonameId>1717142</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Coliong,Collong</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="01">01</adminCode1>
+<adminName1>Ilocos Region</adminName1>
+<adminCode2>29</adminCode2>
+<adminName2>Ilocos Sur</adminName2>
+<alternateName lang="fil">Collong</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<bbox>
+<west>120.48932</west>
+<north>17.13022</north>
+<east>120.50815</east>
+<south>17.11223</south>
+</bbox>
+<score>14.729477882385254</score>
+</geoname>
+<geoname>
+<toponymName>Cuyuni</toponymName>
+<name>Cuyuni</name>
+<lat>-15.26264</lat>
+<lng>-73.62664</lng>
+<geonameId>3941515</geonameId>
+<countryCode>PE</countryCode>
+<countryName>Peru</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Colloni,Cuyuni</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="AYA">05</adminCode1>
+<adminName1>Ayacucho Region</adminName1>
+<adminCode2>0507</adminCode2>
+<adminName2>Provincia de Parinacochas</adminName2>
+<adminCode3>050706</adminCode3>
+<adminName3>Puyusca</adminName3>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Lima</timezone>
+<bbox>
+<west>-73.63596</west>
+<north>-15.25364</north>
+<east>-73.61732</east>
+<south>-15.27163</south>
+</bbox>
+<score>14.729477882385254</score>
+</geoname>
+</geonames>

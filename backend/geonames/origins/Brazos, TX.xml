@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>512</totalResultsCount>
+<geoname>
+<toponymName>Brazos County</toponymName>
+<name>Brazos County</name>
+<lat>30.6608</lat>
+<lng>-96.30239</lng>
+<geonameId>4676153</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>194851</population>
+<alternateNames>Comte de Brazos,Comté de Brazos</alternateNames>
+<elevation>89</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>041</adminCode2>
+<adminName2>Brazos County</adminName2>
+<alternateName lang="fr">Comté de Brazos</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brazos_County%2C_Texas</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-96.60372</west>
+<north>30.9745</north>
+<east>-96.08227</east>
+<south>30.33236</south>
+</bbox>
+<score>20.399477005004883</score>
+</geoname>
+<geoname>
+<toponymName>Bryan</toponymName>
+<name>Bryan</name>
+<lat>30.67436</lat>
+<lng>-96.36996</lng>
+<geonameId>4677008</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>76201</population>
+<alternateNames>Brajan,Bryan,CFD,beulaieon,brayan, tgzas,bryan, tksas,bu lai en,buraian,Брајан,برایان، تگزاس,بريان، تكساس,ブライアン,布賴恩,브라이언</alternateNames>
+<elevation>114</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>041</adminCode2>
+<adminName2>Brazos County</adminName2>
+<alternateName lang="ar">بريان، تكساس</alternateName>
+<alternateName lang="en">Bryan</alternateName>
+<alternateName lang="eo">Bryan</alternateName>
+<alternateName lang="fa">برایان، تگزاس</alternateName>
+<alternateName lang="iata">CFD</alternateName>
+<alternateName lang="ja">ブライアン</alternateName>
+<alternateName lang="ko">브라이언</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bryan%2C_Texas</alternateName>
+<alternateName lang="post">77802</alternateName>
+<alternateName lang="pt">Bryan</alternateName>
+<alternateName lang="sr">Брајан</alternateName>
+<alternateName lang="unlc">CFD</alternateName>
+<alternateName lang="zh">布賴恩</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-96.45935</west>
+<north>30.73152</north>
+<east>-96.24572</east>
+<south>30.59018</south>
+</bbox>
+<score>17.196470260620117</score>
+</geoname>
+<geoname>
+<toponymName>College Station</toponymName>
+<name>College Station</name>
+<lat>30.62798</lat>
+<lng>-96.33441</lng>
+<geonameId>4682464</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>93857</population>
+<alternateNames>CLL,College Station,Koledz Stejshon,Kolledzh-Stejshen,da xue cheng,kalj astyshn, tgzas,kallijiseuteisyeon,karejjisuteshon,kwlyj styshn, tksas,Колеџ Стејшон,Колледж-Стейшен,كوليج ستيشن، تكساس,کالج استیشن، تگزاس,カレッジステーション,大學城,칼리지스테이션</alternateNames>
+<elevation>103</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>041</adminCode2>
+<adminName2>Brazos County</adminName2>
+<alternateName lang="ar">كوليج ستيشن، تكساس</alternateName>
+<alternateName lang="en">College Station</alternateName>
+<alternateName lang="fa">کالج استیشن، تگزاس</alternateName>
+<alternateName lang="iata">CLL</alternateName>
+<alternateName lang="ja">カレッジステーション</alternateName>
+<alternateName lang="ko">칼리지스테이션</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/College_Station%2C_Texas</alternateName>
+<alternateName lang="post">77843</alternateName>
+<alternateName lang="pt">College Station</alternateName>
+<alternateName lang="ru">Колледж-Стейшен</alternateName>
+<alternateName lang="sr">Колеџ Стејшон</alternateName>
+<alternateName lang="unlc">CLL</alternateName>
+<alternateName lang="zh">大學城</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-96.38058</west>
+<north>30.66769</north>
+<east>-96.28823</east>
+<south>30.58826</south>
+</bbox>
+<score>17.196470260620117</score>
+</geoname>
+<geoname>
+<toponymName>Easterwood Field</toponymName>
+<name>Easterwood Field</name>
+<lat>30.58853</lat>
+<lng>-96.36385</lng>
+<geonameId>4688057</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>AIRP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>airport</fcodeName>
+<population/>
+<alternateNames>CLL,KCLL</alternateNames>
+<elevation>95</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>041</adminCode2>
+<adminName2>Brazos County</adminName2>
+<alternateName lang="iata">CLL</alternateName>
+<alternateName lang="icao">KCLL</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Easterwood_Airport</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>12.897353172302246</score>
+</geoname>
+<geoname>
+<toponymName>Brazos Bend</toponymName>
+<name>Brazos Bend</name>
+<lat>32.47728</lat>
+<lng>-97.76294</lng>
+<geonameId>6332425</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>305</population>
+<alternateNames/>
+<elevation>214</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>221</adminCode2>
+<adminName2>Hood County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brazos_Bend%2C_Texas</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-97.77021</west>
+<north>32.48566</north>
+<east>-97.75246</east>
+<south>32.46464</south>
+</bbox>
+<score>12.068948745727539</score>
+</geoname>
+<geoname>
+<toponymName>Aggie Softball Complex</toponymName>
+<name>Aggie Softball Complex</name>
+<lat>30.60464</lat>
+<lng>-96.34385</lng>
+<geonameId>4669894</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>L</fcl>
+<fcode>PRK</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>park</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>103</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>041</adminCode2>
+<adminName2>Brazos County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Aggie_Softball_Complex</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>10.747794151306152</score>
+</geoname>
+<geoname>
+<toponymName>Boonville</toponymName>
+<name>Boonville</name>
+<lat>30.67075</lat>
+<lng>-96.32468</lng>
+<geonameId>4675676</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>89</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>041</adminCode2>
+<adminName2>Brazos County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Boonville%2C_Texas</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-96.33514</west>
+<north>30.67975</north>
+<east>-96.31423</east>
+<south>30.66176</south>
+</bbox>
+<score>10.747794151306152</score>
+</geoname>
+<geoname>
+<toponymName>Kurten</toponymName>
+<name>Kurten</name>
+<lat>30.78714</lat>
+<lng>-96.26413</lng>
+<geonameId>4703804</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>398</population>
+<alternateNames/>
+<elevation>106</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>041</adminCode2>
+<adminName2>Brazos County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kurten%2C_Texas</alternateName>
+<alternateName lang="post">77862</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-96.26517</west>
+<north>30.78804</north>
+<east>-96.26308</east>
+<south>30.78624</south>
+</bbox>
+<score>10.747794151306152</score>
+</geoname>
+<geoname>
+<toponymName>Millican</toponymName>
+<name>Millican</name>
+<lat>30.46854</lat>
+<lng>-96.20246</lng>
+<geonameId>4711545</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>240</population>
+<alternateNames/>
+<elevation>95</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>041</adminCode2>
+<adminName2>Brazos County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Millican%2C_Texas</alternateName>
+<alternateName lang="post">77866</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-96.2035</west>
+<north>30.46944</north>
+<east>-96.20142</east>
+<south>30.46764</south>
+</bbox>
+<score>10.747794151306152</score>
+</geoname>
+<geoname>
+<toponymName>Reed Arena</toponymName>
+<name>Reed Arena</name>
+<lat>30.60631</lat>
+<lng>-96.34496</lng>
+<geonameId>4722074</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>L</fcl>
+<fcode>PRK</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>park</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>103</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>041</adminCode2>
+<adminName2>Brazos County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Reed_Arena</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>10.747794151306152</score>
+</geoname>
+</geonames>

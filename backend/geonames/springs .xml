@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>51</totalResultsCount>
+<geoname>
+<toponymName>Springs</toponymName>
+<name>Springs</name>
+<lat>-26.25</lat>
+<lng>28.4</lng>
+<geonameId>952865</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population>186394</population>
+<alternateNames>Springs</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="GP">06</adminCode1>
+<adminName1>Gauteng</adminName1>
+<adminCode2>EKU</adminCode2>
+<adminName2>Ekurhuleni Metropolitan Municipality</adminName2>
+<adminCode3>EKU</adminCode3>
+<adminName3>Ekurhuleni</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Springs%2C_Gauteng</alternateName>
+<alternateName lang="unlc">SPR</alternateName>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<bbox>
+<west>28.33761</west>
+<north>-26.19401</north>
+<east>28.46239</east>
+<south>-26.30599</south>
+</bbox>
+<score>84.62602996826172</score>
+</geoname>
+<geoname>
+<toponymName>Springs</toponymName>
+<name>Springs</name>
+<lat>41.01621</lat>
+<lng>-72.15924</lng>
+<geonameId>5139294</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>6592</population>
+<alternateNames/>
+<elevation>3</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>103</adminCode2>
+<adminName2>Suffolk County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Springs%2C_New_York</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-72.17257</west>
+<north>41.02627</north>
+<east>-72.14592</east>
+<south>41.00616</south>
+</bbox>
+<score>69.09687042236328</score>
+</geoname>
+<geoname>
+<toponymName>Springs</toponymName>
+<name>Springs</name>
+<lat>39.73369</lat>
+<lng>-79.1492</lng>
+<geonameId>4561421</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>756</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PA">PA</adminCode1>
+<adminName1>Pennsylvania</adminName1>
+<adminCode2>111</adminCode2>
+<adminName2>Somerset County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Springs%2C_Pennsylvania</alternateName>
+<alternateName lang="post">15562</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-79.16089</west>
+<north>39.74269</north>
+<east>-79.1375</east>
+<south>39.7247</south>
+</bbox>
+<score>51.822654724121094</score>
+</geoname>
+<geoname>
+<toponymName>Springs</toponymName>
+<name>Springs</name>
+<lat>-31.46667</lat>
+<lng>28.36667</lng>
+<geonameId>952867</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="EC">05</adminCode1>
+<adminName1>Eastern Cape</adminName1>
+<adminCode2>DC13</adminCode2>
+<adminName2>Chris Hani District Municipality</adminName2>
+<adminCode3>EC137</adminCode3>
+<adminName3>Engcobo</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<bbox>
+<west>28.35612</west>
+<north>-31.45767</north>
+<east>28.37721</east>
+<south>-31.47566</south>
+</bbox>
+<score>34.54843521118164</score>
+</geoname>
+<geoname>
+<toponymName>Springs</toponymName>
+<name>Springs</name>
+<lat>-29.46925</lat>
+<lng>26.85964</lng>
+<geonameId>952868</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="FS">03</adminCode1>
+<adminName1>Free State</adminName1>
+<adminCode2>DC16</adminCode2>
+<adminName2>Xhariep District Municipality</adminName2>
+<adminCode3>FS164</adminCode3>
+<adminName3>Naledi</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<bbox>
+<west>26.84932</west>
+<north>-29.46026</north>
+<east>26.86997</east>
+<south>-29.47824</south>
+</bbox>
+<score>34.54843521118164</score>
+</geoname>
+<geoname>
+<toponymName>Springs</toponymName>
+<name>Springs</name>
+<lat>12.03333</lat>
+<lng>-61.73333</lng>
+<geonameId>3579872</geonameId>
+<countryCode>GD</countryCode>
+<countryName>Grenada</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="03">03</adminCode1>
+<adminName1>Saint George</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Grenada</timezone>
+<bbox>
+<west>-61.74253</west>
+<north>12.04233</north>
+<east>-61.72414</east>
+<south>12.02434</south>
+</bbox>
+<score>34.54843521118164</score>
+</geoname>
+<geoname>
+<toponymName>Springs</toponymName>
+<name>Springs</name>
+<lat>25.05737</lat>
+<lng>55.18109</lng>
+<geonameId>8469803</geonameId>
+<countryCode>AE</countryCode>
+<countryName>United Arab Emirates</countryName>
+<fcl>L</fcl>
+<fcode>DEVH</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>housing development</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="DU">03</adminCode1>
+<adminName1>Dubai</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="4.0" gmtOffset="4.0">Asia/Dubai</timezone>
+<score>34.54843521118164</score>
+</geoname>
+<geoname>
+<toponymName>Springs</toponymName>
+<name>Springs</name>
+<lat>-26.25837</lat>
+<lng>28.47173</lng>
+<geonameId>952869</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Springs</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="GP">06</adminCode1>
+<adminName1>Gauteng</adminName1>
+<adminCode2>EKU</adminCode2>
+<adminName2>Ekurhuleni Metropolitan Municipality</adminName2>
+<adminCode3>EKU</adminCode3>
+<adminName3>Ekurhuleni</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<bbox>
+<west>28.4617</west>
+<north>-26.24938</north>
+<east>28.48176</east>
+<south>-26.26737</south>
+</bbox>
+<score>31.734760284423828</score>
+</geoname>
+<geoname>
+<toponymName>Alice Springs</toponymName>
+<name>Alice Springs</name>
+<lat>-23.69748</lat>
+<lng>133.88362</lng>
+<geonameId>2077895</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>26188</population>
+<alternateNames>ASP,Alice Springs,Alice Springs Region,Alis Springs,Alis-Springs,Elis Springsas,Springs,Stuart,aelliseuseupeulingseu,ai li si quan,alys aspryngz,arisusupuringusu,ayls sprngz,Алис Спрингс,Алис-Спрингс,Аліс-Спрінгс,آلیس اسپرینگز,ایلس سپرنگز,ॲलिस स्प्रिंग्ज,ალის-სპრინგსი,アリススプリングス,愛麗斯泉,앨리스스프링스</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="NT">03</adminCode1>
+<adminName1>Northern Territory</adminName1>
+<adminCode2>70200</adminCode2>
+<adminName2>Alice Springs</adminName2>
+<alternateName lang="bg">Алис Спрингс</alternateName>
+<alternateName lang="de">Alice Springs</alternateName>
+<alternateName lang="en">Alice Springs</alternateName>
+<alternateName lang="es">Alice Springs</alternateName>
+<alternateName lang="fa">آلیس اسپرینگز</alternateName>
+<alternateName lang="fi">Alice Springs</alternateName>
+<alternateName lang="fr">Alice Springs</alternateName>
+<alternateName lang="gl">Alice Springs</alternateName>
+<alternateName lang="iata">ASP</alternateName>
+<alternateName lang="id">Alice Springs</alternateName>
+<alternateName lang="it">Alice Springs</alternateName>
+<alternateName lang="ja">アリススプリングス</alternateName>
+<alternateName lang="ka">ალის-სპრინგსი</alternateName>
+<alternateName lang="ko">앨리스스프링스</alternateName>
+<alternateName lang="lb">Alice Springs</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Alice_Springs</alternateName>
+<alternateName lang="lt">Elis Springsas</alternateName>
+<alternateName lang="mr">ॲलिस स्प्रिंग्ज</alternateName>
+<alternateName lang="nl">Alice Springs</alternateName>
+<alternateName lang="os">Алис-Спрингс</alternateName>
+<alternateName lang="pl">Alice Springs</alternateName>
+<alternateName lang="pnb">ایلس سپرنگز</alternateName>
+<alternateName lang="pt">Alice Springs</alternateName>
+<alternateName lang="ru">Алис-Спрингс</alternateName>
+<alternateName lang="sr">Алис Спрингс</alternateName>
+<alternateName lang="sv">Alice Springs</alternateName>
+<alternateName lang="uk">Аліс-Спрінгс</alternateName>
+<alternateName lang="unlc">ASP</alternateName>
+<alternateName lang="zh">愛麗斯泉</alternateName>
+<alternateName lang="zh-TW">愛麗斯泉</alternateName>
+<timezone dstOffset="9.5" gmtOffset="9.5">Australia/Darwin</timezone>
+<bbox>
+<west>133.87462</west>
+<north>-23.6868</north>
+<east>133.88647</east>
+<south>-23.70775</south>
+</bbox>
+<score>21.37575340270996</score>
+</geoname>
+<geoname>
+<toponymName>Springe</toponymName>
+<name>Springe</name>
+<lat>52.20845</lat>
+<lng>9.55416</lng>
+<geonameId>2830035</geonameId>
+<countryCode>DE</countryCode>
+<countryName>Germany</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>29828</population>
+<alternateNames>Shpringe,Springe,Stadt Springe,ashpryngh,shi pu lin ge,Шпринге,Шпрінге,اشپرینگه,施普林格</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="NI">06</adminCode1>
+<adminName1>Lower Saxony</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="fa">اشپرینگه</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Springe</alternateName>
+<alternateName lang="ru">Шпринге</alternateName>
+<alternateName lang="sr">Шпринге</alternateName>
+<alternateName lang="uk">Шпрінге</alternateName>
+<alternateName lang="unlc">SRE</alternateName>
+<alternateName lang="zh">施普林格</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Berlin</timezone>
+<bbox>
+<west>9.51819</west>
+<north>52.23048</north>
+<east>9.59013</east>
+<south>52.18642</south>
+</bbox>
+<score>18.367969512939453</score>
+</geoname>
+</geonames>

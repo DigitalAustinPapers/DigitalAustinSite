@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>9</totalResultsCount>
+<geoname>
+<toponymName>Estado de Coahuila de Zaragoza</toponymName>
+<name>Coahuila</name>
+<lat>27.33333</lat>
+<lng>-102</lng>
+<geonameId>4013674</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>first-order administrative division</fcodeName>
+<population>2415862</population>
+<alternateNames>COA,Coah,Coahuila,Coahuila de Zaragoza,Estado de Coahuila,Estado de Coahuila de Zaragoza,Koauila de Saragosa,ke a wei la zhou,koauira zhou,Коауила де Сарагоса,コアウイラ州,科阿韋拉州</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="COA">07</adminCode1>
+<adminName1>Coahuila</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="abbr">COA</alternateName>
+<alternateName lang="bg">Коауила де Сарагоса</alternateName>
+<alternateName lang="ca">Coahuila</alternateName>
+<alternateName lang="da">Coahuila</alternateName>
+<alternateName lang="de">Coahuila</alternateName>
+<alternateName lang="en">Coahuila</alternateName>
+<alternateName lang="eo">Coahuila</alternateName>
+<alternateName lang="es">Coahuila de Zaragoza</alternateName>
+<alternateName lang="et">Coahuila</alternateName>
+<alternateName lang="eu">Coahuila de Zaragoza</alternateName>
+<alternateName lang="fi">Coahuila</alternateName>
+<alternateName lang="fr">Coahuila</alternateName>
+<alternateName lang="id">Coahuila</alternateName>
+<alternateName lang="it">Coahuila</alternateName>
+<alternateName lang="ja">コアウイラ州</alternateName>
+<alternateName lang="kw">Coahuila</alternateName>
+<alternateName lang="la">Coahuila</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Coahuila</alternateName>
+<alternateName lang="nl">Coahuila de Zaragoza</alternateName>
+<alternateName lang="no">Coahuila</alternateName>
+<alternateName lang="pl">Coahuila</alternateName>
+<alternateName lang="pt">Coahuila de Zaragoza</alternateName>
+<alternateName lang="zh">科阿韋拉州</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<bbox>
+<west>-103.95473</west>
+<north>29.88944</north>
+<east>-99.8067</east>
+<south>24.5632</south>
+</bbox>
+<score>99.28691101074219</score>
+</geoname>
+<geoname>
+<toponymName>Coahuila</toponymName>
+<name>Coahuila</name>
+<lat>22.87077</lat>
+<lng>-99.24547</lng>
+<geonameId>3530559</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TAM">28</adminCode1>
+<adminName1>Tamaulipas</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<bbox>
+<west>-99.25524</west>
+<north>22.87977</north>
+<east>-99.23571</east>
+<south>22.86178</south>
+</bbox>
+<score>41.43366241455078</score>
+</geoname>
+<geoname>
+<toponymName>Coahuila</toponymName>
+<name>Coahuila</name>
+<lat>20.66536</lat>
+<lng>-90.17055</lng>
+<geonameId>3822485</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="YUC">31</adminCode1>
+<adminName1>Yucatán</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Merida</timezone>
+<bbox>
+<west>-90.18016</west>
+<north>20.67435</north>
+<east>-90.16094</east>
+<south>20.65637</south>
+</bbox>
+<score>41.43366241455078</score>
+</geoname>
+<geoname>
+<toponymName>Coahuila</toponymName>
+<name>Coahuila</name>
+<lat>22.27806</lat>
+<lng>-98.2545</lng>
+<geonameId>3824129</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VER">30</adminCode1>
+<adminName1>Veracruz-Llave</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-98.26422</west>
+<north>22.28705</north>
+<east>-98.24479</east>
+<south>22.26906</south>
+</bbox>
+<score>41.43366241455078</score>
+</geoname>
+<geoname>
+<toponymName>Coahuila</toponymName>
+<name>Coahuila</name>
+<lat>17.68233</lat>
+<lng>-95.49517</lng>
+<geonameId>3825150</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VER">30</adminCode1>
+<adminName1>Veracruz-Llave</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-95.50461</west>
+<north>17.69132</north>
+<east>-95.48573</east>
+<south>17.67334</south>
+</bbox>
+<score>41.43366241455078</score>
+</geoname>
+<geoname>
+<toponymName>Coahuila</toponymName>
+<name>Coahuila</name>
+<lat>21.93125</lat>
+<lng>-100.7511</lng>
+<geonameId>4013676</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SLP">24</adminCode1>
+<adminName1>San Luis Potosí</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-100.7608</west>
+<north>21.94024</north>
+<east>-100.74141</east>
+<south>21.92225</south>
+</bbox>
+<score>41.43366241455078</score>
+</geoname>
+<geoname>
+<toponymName>Coahuila</toponymName>
+<name>Coahuila</name>
+<lat>28.6</lat>
+<lng>-111.38333</lng>
+<geonameId>4013675</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SON">26</adminCode1>
+<adminName1>Sonora</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="unlc">CHL</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-7.0">America/Hermosillo</timezone>
+<bbox>
+<west>-111.39358</west>
+<north>28.60899</north>
+<east>-111.37309</east>
+<south>28.59101</south>
+</bbox>
+<score>31.075246810913086</score>
+</geoname>
+<geoname>
+<toponymName>Colonia Coahuila</toponymName>
+<name>Colonia Coahuila</name>
+<lat>32.27863</lat>
+<lng>-114.96637</lng>
+<geonameId>4013445</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Coahuila,Colonia Coahuila,Estacion Colahuila,Estación Colahuila</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SON">26</adminCode1>
+<adminName1>Sonora</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-7.0" gmtOffset="-7.0">America/Hermosillo</timezone>
+<bbox>
+<west>-114.977</west>
+<north>32.28762</north>
+<east>-114.95573</east>
+<south>32.26963</south>
+</bbox>
+<score>29.298023223876953</score>
+</geoname>
+<geoname>
+<toponymName>Coahuila</toponymName>
+<name>Coahuila</name>
+<lat>27.43034</lat>
+<lng>-100.45624</lng>
+<geonameId>8474603</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>H</fcl>
+<fcode>CNL</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>canal</fcodeName>
+<population/>
+<alternateNames>Coahuila</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="COA">07</adminCode1>
+<adminName1>Coahuila</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="es">Coahuila</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Matamoros</timezone>
+<score>12.686415672302246</score>
+</geoname>
+</geonames>

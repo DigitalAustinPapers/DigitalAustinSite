@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Northern</toponymName>
+<name>Northern State</name>
+<lat>19.3</lat>
+<lng>29.5</lng>
+<geonameId>378389</geonameId>
+<countryCode>SD</countryCode>
+<countryName>Sudan</countryName>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>first-order administrative division</fcodeName>
+<population/>
+<alternateNames>Al Iqlim ash Shamali,Al Iqlim ash Shimali,Al Iqlīm ash Shamālī,Al Wilayah ash Shamaliyah,Al Wilāyah ash Shamālīyah,Ash Shamaliyah,Ash Shamālīyah,Ash Shimaliyya,Ash Shimālīyya,Northern,Northern State,Wilayah ash Shimaliyya,Wilāyah ash Shimālīyya</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="NO">43</adminCode1>
+<adminName1>Northern State</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ar">Al Iqlīm ash Shamālī</alternateName>
+<alternateName lang="en">Northern State</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Northern,_Sudan</alternateName>
+<timezone dstOffset="3.0" gmtOffset="3.0">Africa/Khartoum</timezone>
+<score>40.64612579345703</score>
+</geoname>
+</geonames>

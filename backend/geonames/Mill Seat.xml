@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Mill Seat</toponymName>
+<name>Mill Seat</name>
+<lat>35.83923</lat>
+<lng>-87.20445</lng>
+<geonameId>4050712</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>202</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TN">TN</adminCode1>
+<adminName1>Tennessee</adminName1>
+<adminCode2>119</adminCode2>
+<adminName2>Maury County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-87.21555</west>
+<north>35.84823</north>
+<east>-87.19336</east>
+<south>35.83024</south>
+</bbox>
+<score>41.85063552856445</score>
+</geoname>
+<geoname>
+<toponymName>Mill Seat</toponymName>
+<name>Mill Seat</name>
+<lat>38.65762</lat>
+<lng>-76.6483</lng>
+<geonameId>4362501</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>33</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MD">MD</adminCode1>
+<adminName1>Maryland</adminName1>
+<adminCode2>009</adminCode2>
+<adminName2>Calvert County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-76.65981</west>
+<north>38.66661</north>
+<east>-76.63678</east>
+<south>38.64863</south>
+</bbox>
+<score>41.85063552856445</score>
+</geoname>
+<geoname>
+<toponymName>Millseat</toponymName>
+<name>Millseat</name>
+<lat>38.49064</lat>
+<lng>-82.67072</lng>
+<geonameId>4301034</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>195</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>019</adminCode2>
+<adminName2>Boyd County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-82.68221</west>
+<north>38.49963</north>
+<east>-82.65923</east>
+<south>38.48164</south>
+</bbox>
+<score>16.507051467895508</score>
+</geoname>
+</geonames>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Post Town</toponymName>
+<name>Post Town</name>
+<lat>44.09052</lat>
+<lng>-92.6388</lng>
+<geonameId>5042179</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>315</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MN">MN</adminCode1>
+<adminName1>Minnesota</adminName1>
+<adminCode2>109</adminCode2>
+<adminName2>Olmsted County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Post_Town%2C_Minnesota</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.65132</west>
+<north>44.09951</north>
+<east>-92.62627</east>
+<south>44.08153</south>
+</bbox>
+<score>67.25851440429688</score>
+</geoname>
+<geoname>
+<toponymName>Post Town</toponymName>
+<name>Post Town</name>
+<lat>39.78089</lat>
+<lng>-84.31161</lng>
+<geonameId>4521838</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>284</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>113</adminCode2>
+<adminName2>Montgomery County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-84.32332</west>
+<north>39.78988</north>
+<east>-84.29991</east>
+<south>39.7719</south>
+</bbox>
+<score>44.839012145996094</score>
+</geoname>
+</geonames>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Herculano</toponymName>
+<name>Herculano</name>
+<lat>22.84111</lat>
+<lng>-81.72861</lng>
+<geonameId>3557130</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames>Herculano,Valera</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1>MA</adminCode1>
+<adminName1>Provincia Mayabeque</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>30.226774215698242</score>
+</geoname>
+<geoname>
+<toponymName>Herculano</toponymName>
+<name>Herculano</name>
+<lat>-7.8</lat>
+<lng>-38.35</lng>
+<geonameId>3398459</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="PE">30</adminCode1>
+<adminName1>Pernambuco</adminName1>
+<adminCode2>2613909</adminCode2>
+<adminName2>Serra Talhada</adminName2>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Recife</timezone>
+<bbox>
+<west>-38.35908</west>
+<north>-7.79101</north>
+<east>-38.34092</east>
+<south>-7.80899</south>
+</bbox>
+<score>24.680057525634766</score>
+</geoname>
+<geoname>
+<toponymName>Herculaneum</toponymName>
+<name>Herculaneum</name>
+<lat>40.80419</lat>
+<lng>14.35329</lng>
+<geonameId>3177364</geonameId>
+<countryCode>IT</countryCode>
+<countryName>Italy</countryName>
+<fcl>S</fcl>
+<fcode>ANS</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>ancient site</fcodeName>
+<population/>
+<alternateNames>Ercolano,Hercula,Herculaneum,Herculano,Herculanum,Herculà,Herkulana,Herkulaneum,Herkulano,Herkulanum,Herkulāna,Scavi archeologici di Ercolano,Scavi di Ercolano,erukorano,エルコラーノ</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="72">04</adminCode1>
+<adminName1>Campania</adminName1>
+<adminCode2>NA</adminCode2>
+<adminName2>Naples</adminName2>
+<adminCode3>063064</adminCode3>
+<adminName3>Ercolano</adminName3>
+<alternateName lang="ca">Herculà</alternateName>
+<alternateName lang="cs">Ercolano</alternateName>
+<alternateName lang="da">Herculaneum</alternateName>
+<alternateName lang="de">Herculaneum</alternateName>
+<alternateName lang="en">Herculaneum</alternateName>
+<alternateName lang="eo">Ercolano</alternateName>
+<alternateName lang="es">Herculano</alternateName>
+<alternateName lang="fi">Herculaneum</alternateName>
+<alternateName lang="fr">Herculanum</alternateName>
+<alternateName lang="gl">Herculano</alternateName>
+<alternateName lang="hu">Herculaneum</alternateName>
+<alternateName lang="it">Scavi archeologici di Ercolano</alternateName>
+<alternateName lang="ja">エルコラーノ</alternateName>
+<alternateName lang="la">Herculaneum</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Herculaneum</alternateName>
+<alternateName lang="lv">Herkulāna</alternateName>
+<alternateName lang="nap">Ercolano</alternateName>
+<alternateName lang="nl">Herculaneum</alternateName>
+<alternateName lang="nn">Herculaneum</alternateName>
+<alternateName lang="no">Herculaneum</alternateName>
+<alternateName lang="pl">Herkulanum</alternateName>
+<alternateName lang="pt">Herculano</alternateName>
+<alternateName lang="sk">Herculaneum</alternateName>
+<alternateName lang="sv">Herculaneum</alternateName>
+<alternateName lang="tr">Herkulaneum</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Rome</timezone>
+<score>24.633548736572266</score>
+</geoname>
+<geoname>
+<toponymName>Băile Herculane</toponymName>
+<name>Băile Herculane</name>
+<lat>44.87972</lat>
+<lng>22.4125</lng>
+<geonameId>685796</geonameId>
+<countryCode>RO</countryCode>
+<countryName>Romania</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>6022</population>
+<alternateNames>Baile Erculane,Baile Herculane,Băile Erculane,Băile Herculane,Herculane,Herkules-Banja</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="CS">12</adminCode1>
+<adminName1>Caraş-Severin</adminName1>
+<adminCode2>50923</adminCode2>
+<adminName2>Oraş Bãile Herculane</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/B%C4%83ile_Herculane</alternateName>
+<timezone dstOffset="3.0" gmtOffset="2.0">Europe/Bucharest</timezone>
+<bbox>
+<west>22.39831</west>
+<north>44.88978</north>
+<east>22.42669</east>
+<south>44.86967</south>
+</bbox>
+<score>19.040321350097656</score>
+</geoname>
+</geonames>

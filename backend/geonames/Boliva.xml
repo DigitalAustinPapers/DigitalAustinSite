@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>162</totalResultsCount>
+<geoname>
+<toponymName>Boliva</toponymName>
+<name>Boliva</name>
+<lat>9.55671</lat>
+<lng>-70.31599</lng>
+<geonameId>3648118</geonameId>
+<countryCode>VE</countryCode>
+<countryName>Venezuela</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="T">21</adminCode1>
+<adminName1>Trujillo</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.5" gmtOffset="-4.5">America/Caracas</timezone>
+<bbox>
+<west>-70.32511</west>
+<north>9.5657</north>
+<east>-70.30687</east>
+<south>9.54772</south>
+</bbox>
+<score>37.65989685058594</score>
+</geoname>
+<geoname>
+<toponymName>Plurinational State of Bolivia</toponymName>
+<name>Bolivia</name>
+<lat>-17</lat>
+<lng>-65</lng>
+<geonameId>3923057</geonameId>
+<countryCode>BO</countryCode>
+<countryName>Bolivia</countryName>
+<fcl>A</fcl>
+<fcode>PCLI</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>independent political entity</fcodeName>
+<population>9947418</population>
+<alternateNames>An Bholaiv,Balivia,Bholiviya,Bo-li-vi-a,Bo-li-vi-a (Bolivia),Bolibia,Bolibiya,Bolifia,Boliifiya,Boliivia,Bolivaen,Bolivi,Bolivia,Bolivia nutome,Bolivia, Plurinational State Of,Bolivie,Bolivien,Bolivii,Bolivija,Bolivio,Boliviya,Bolivië,Bolivja,Bolivtlan,Bolivtlān,Bolivya,Bolivän,Bolivïi,Boliwia,Boliwii,Bolívia,Bolívie,Bolîvya,Bolīvija,Bulibiya,Bulibya,Bólivía,Bô-li-vi-a,Bô-li-vi-a (Bolivia),Estado Plurinacional de Bolivia,Mbolivi,Orileede Bolifiya,Orílẹ́ède Bọ̀lífíyà,Plurinational State of Bolivia,Polivia,Polīvia,Republic of Bolivia,Republica de Bolivia,República de Bolivia,República de Bolívia,Wuliwya,balgeriya,balibhiya,bealiviya,bo li wei ya,bolabhi'a,bolibhiya,bolivhiya,bolivia,boliviya,boliweiy,bollibia,boribia,boribia gong he guo,bwlybyh,bwlyfya,bwlywy,bwlywya,i-Bolivia,poliviya,prathes boliweiy,Βολιβία,Балівія,Боливия,Боливија,Болівія,Բոլիվիա,בוליביה,بولىۋىيە,بوليفيا,بولیوی,بولیویا,بۆلیڤیا,बोलिभिया,बोलिविया,बोलिव्हिया,बोलीविया,বলিভিয়া,বোলিভিয়া,બોલિવિયા,ବୋଲଭିଆ,பொலிவியா,బొలీవియా,ಬಲ್ಗೇರಿಯಾ,ബൊളീവിയ,බොලීවියාව,ประเทศโบลิเวีย,โบลิเวีย,ໂບລິເວຍ,བོ་ལི་ཝིཡ།,ဘိုလီးဘီးယား,ბოლივია,ቦሊቪያ,បូលីវី,ボリビア,ボリビア共和国,玻利維亞,玻利维亚,볼리비아</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="af">Bolivia</alternateName>
+<alternateName lang="ak">Bolivia</alternateName>
+<alternateName lang="am">ቦሊቪያ</alternateName>
+<alternateName lang="an">Bolibia</alternateName>
+<alternateName lang="ar">بوليفيا</alternateName>
+<alternateName lang="ast">Bolivia</alternateName>
+<alternateName lang="ay">Wuliwya</alternateName>
+<alternateName lang="az">Boliviya</alternateName>
+<alternateName lang="be">Балівія</alternateName>
+<alternateName lang="bg">Боливия</alternateName>
+<alternateName lang="bm">Bolivi</alternateName>
+<alternateName lang="bn">বোলিভিয়া</alternateName>
+<alternateName lang="bo">བོ་ལི་ཝིཡ།</alternateName>
+<alternateName lang="br">Bolivia</alternateName>
+<alternateName lang="bs">Bolivija</alternateName>
+<alternateName lang="ca">Bolívia</alternateName>
+<alternateName lang="cs">Bolívie</alternateName>
+<alternateName lang="cy">Bolivia</alternateName>
+<alternateName lang="da">Bolivia</alternateName>
+<alternateName lang="de">Bolivien</alternateName>
+<alternateName lang="ee">Bolivia nutome</alternateName>
+<alternateName lang="el">Βολιβία</alternateName>
+<alternateName lang="en">Bolivia</alternateName>
+<alternateName lang="eo">Bolivio</alternateName>
+<alternateName lang="es">Bolivia</alternateName>
+<alternateName lang="et">Boliivia</alternateName>
+<alternateName lang="eu">Bolibia</alternateName>
+<alternateName lang="fa">بولیویا</alternateName>
+<alternateName lang="ff">Boliwii</alternateName>
+<alternateName lang="fi">Bolivia</alternateName>
+<alternateName lang="fo">Bolivia</alternateName>
+<alternateName lang="fr">Bolivie</alternateName>
+<alternateName lang="frp">Bolivie</alternateName>
+<alternateName lang="ga">An Bholaiv</alternateName>
+<alternateName lang="gd">Bolivia</alternateName>
+<alternateName lang="gl">Bolivia</alternateName>
+<alternateName lang="gu">બોલિવિયા</alternateName>
+<alternateName lang="ha">Bolibiya</alternateName>
+<alternateName lang="hbs">Bolivija</alternateName>
+<alternateName lang="he">בוליביה</alternateName>
+<alternateName lang="hi">बोलीविया</alternateName>
+<alternateName lang="hr">Bolivija</alternateName>
+<alternateName lang="ht">Bolivi</alternateName>
+<alternateName lang="hu">Bolívia</alternateName>
+<alternateName lang="hy">Բոլիվիա</alternateName>
+<alternateName lang="ia">Bolivia</alternateName>
+<alternateName lang="id">Bolivia</alternateName>
+<alternateName lang="ilo">Bolivia</alternateName>
+<alternateName lang="io">Bolivia</alternateName>
+<alternateName lang="is">Bólivía</alternateName>
+<alternateName lang="it">Bolivia</alternateName>
+<alternateName lang="ja">ボリビア共和国</alternateName>
+<alternateName lang="ka">ბოლივია</alternateName>
+<alternateName lang="ki">Bolivia</alternateName>
+<alternateName lang="kk">Боливия</alternateName>
+<alternateName lang="kl">Bolivia</alternateName>
+<alternateName lang="km">បូលីវី</alternateName>
+<alternateName lang="kn">ಬಲ್ಗೇರಿಯಾ</alternateName>
+<alternateName lang="ko">볼리비아</alternateName>
+<alternateName lang="ks">बोलिविया</alternateName>
+<alternateName lang="ku">بۆلیڤیا</alternateName>
+<alternateName lang="kw">Bolivi</alternateName>
+<alternateName lang="la">Bolivia</alternateName>
+<alternateName lang="lg">Boliviya</alternateName>
+<alternateName lang="li">Bolivia</alternateName>
+<alternateName lang="lij">Bolivia</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bolivia</alternateName>
+<alternateName lang="ln">Bolivi</alternateName>
+<alternateName lang="lo">ໂບລິເວຍ</alternateName>
+<alternateName lang="lt">Bolivija</alternateName>
+<alternateName lang="lu">Mbolivi</alternateName>
+<alternateName lang="lv">Bolīvija</alternateName>
+<alternateName lang="mg">Bolivia</alternateName>
+<alternateName lang="mk">Боливија</alternateName>
+<alternateName lang="ml">ബൊളീവിയ</alternateName>
+<alternateName lang="mr">बोलिव्हिया</alternateName>
+<alternateName lang="ms">Bolivia</alternateName>
+<alternateName lang="mt">Bolivja</alternateName>
+<alternateName lang="my">ဘိုလီးဘီးယား</alternateName>
+<alternateName lang="na">Bolivia</alternateName>
+<alternateName lang="nah">Bolivtlān</alternateName>
+<alternateName lang="nb">Bolivia</alternateName>
+<alternateName lang="nd">Bholiviya</alternateName>
+<alternateName lang="nds">Bolivien</alternateName>
+<alternateName lang="ne">बोलिभिया</alternateName>
+<alternateName lang="nl">Bolivia</alternateName>
+<alternateName lang="nn">Bolivia</alternateName>
+<alternateName lang="no">Bolivia</alternateName>
+<alternateName lang="oc">Bolívia</alternateName>
+<alternateName lang="or">ବୋଲଭିଆ</alternateName>
+<alternateName lang="pam">Bolivia</alternateName>
+<alternateName lang="pl">Boliwia</alternateName>
+<alternateName lang="pms">Bolivia</alternateName>
+<alternateName lang="pt">Bolívia</alternateName>
+<alternateName lang="qu">Bulibiya</alternateName>
+<alternateName lang="rm">Bolivia</alternateName>
+<alternateName lang="rn">Boliviya</alternateName>
+<alternateName lang="ro">Bolivia</alternateName>
+<alternateName lang="ru">Боливия</alternateName>
+<alternateName lang="sa">बोलिविया</alternateName>
+<alternateName lang="scn">Bolivia</alternateName>
+<alternateName lang="se">Bolivia</alternateName>
+<alternateName lang="sg">Bolivïi</alternateName>
+<alternateName lang="si">බොලීවියාව</alternateName>
+<alternateName lang="sk">Bolívia</alternateName>
+<alternateName lang="sl">Bolivija</alternateName>
+<alternateName lang="sn">Bolivia</alternateName>
+<alternateName lang="so">Boliifiya</alternateName>
+<alternateName lang="sq">Bolivi</alternateName>
+<alternateName lang="sr">Боливија</alternateName>
+<alternateName lang="sv">Bolivia</alternateName>
+<alternateName lang="sw">Bolivia</alternateName>
+<alternateName lang="ta">பொலிவியா</alternateName>
+<alternateName lang="te">బొలీవియా</alternateName>
+<alternateName lang="tet">Bolívia</alternateName>
+<alternateName lang="tg">Боливия</alternateName>
+<alternateName lang="th">โบลิเวีย</alternateName>
+<alternateName lang="ti">ቦሊቪያ</alternateName>
+<alternateName lang="tl">Bolivia</alternateName>
+<alternateName lang="to">Polīvia</alternateName>
+<alternateName lang="tr">Bolivya</alternateName>
+<alternateName lang="ug">بولىۋىيە</alternateName>
+<alternateName lang="uk">Болівія</alternateName>
+<alternateName lang="ur">بولیویا</alternateName>
+<alternateName lang="uz">Boliviya</alternateName>
+<alternateName lang="vi">Bô-li-vi-a (Bolivia)</alternateName>
+<alternateName lang="vo">Bolivän</alternateName>
+<alternateName lang="yo">Orílẹ́ède Bọ̀lífíyà</alternateName>
+<alternateName lang="zh">玻利维亚</alternateName>
+<alternateName lang="zu">i-Bolivia</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/La_Paz</timezone>
+<bbox>
+<west>-69.64076</west>
+<north>-9.68057</north>
+<east>-57.4581</east>
+<south>-22.89613</south>
+</bbox>
+<score>35.40494155883789</score>
+</geoname>
+<geoname>
+<toponymName>Boldva</toponymName>
+<name>Boldva</name>
+<lat>48.21667</lat>
+<lng>20.8</lng>
+<geonameId>722118</geonameId>
+<countryCode>HU</countryCode>
+<countryName>Hungary</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2456</population>
+<alternateNames>Boldva</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="BZ">04</adminCode1>
+<adminName1>Borsod-Abaúj-Zemplén</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Boldva</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Budapest</timezone>
+<bbox>
+<west>20.79045</west>
+<north>48.22303</north>
+<east>20.80955</east>
+<south>48.21031</south>
+</bbox>
+<score>12.790130615234375</score>
+</geoname>
+<geoname>
+<toponymName>Bolívar</toponymName>
+<name>Bolívar</name>
+<lat>1.83333</lat>
+<lng>-76.91667</lng>
+<geonameId>3688669</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames>Bolivar,Bolívar</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="CAU">09</adminCode1>
+<adminName1>Cauca</adminName1>
+<adminCode2>3688669</adminCode2>
+<adminName2>Bolívar</adminName2>
+<alternateName lang="es">Bolívar</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<score>10.288143157958984</score>
+</geoname>
+<geoname>
+<toponymName>La Columna</toponymName>
+<name>La Columna</name>
+<lat>8.5413</lat>
+<lng>-71.04472</lng>
+<geonameId>3638402</geonameId>
+<countryCode>VE</countryCode>
+<countryName>Venezuela</countryName>
+<fcl>T</fcl>
+<fcode>MT</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>mountain</fcodeName>
+<population/>
+<alternateNames>Bolivar,Bolívar,La Columna,Pico La Columna</alternateNames>
+<elevation>4981</elevation>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="L">14</adminCode1>
+<adminName1>Estado Mérida</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D0%BA_%D0%91%D0%BE%D0%BB%D0%B8%D0%B2%D0%B0%D1%80</alternateName>
+<timezone dstOffset="-4.5" gmtOffset="-4.5">America/Caracas</timezone>
+<score>9.09351921081543</score>
+</geoname>
+<geoname>
+<toponymName>Bolívar</toponymName>
+<name>Bolívar</name>
+<lat>6.25</lat>
+<lng>-74</lng>
+<geonameId>3688666</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="SAN">26</adminCode1>
+<adminName1>Santander</adminName1>
+<adminCode2>3688666</adminCode2>
+<adminName2>Bolívar</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<score>9.09351921081543</score>
+</geoname>
+<geoname>
+<toponymName>Bolívar</toponymName>
+<name>Bolívar</name>
+<lat>4.33333</lat>
+<lng>-76.33333</lng>
+<geonameId>3688668</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames>Bolivar,Bolívar</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="VAC">29</adminCode1>
+<adminName1>Valle del Cauca</adminName1>
+<adminCode2>3688668</adminCode2>
+<adminName2>Bolívar</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bol%C3%ADvar%2C_Valle_del_Cauca</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<score>9.002124786376953</score>
+</geoname>
+<geoname>
+<toponymName>Bolivia</toponymName>
+<name>Bolivia</name>
+<lat>-29.3</lat>
+<lng>151.96667</lng>
+<geonameId>2174998</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Bolivia</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="NSW">02</adminCode1>
+<adminName1>New South Wales</adminName1>
+<adminCode2>17400</adminCode2>
+<adminName2>Tenterfield Municipality</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bolivia%2C_New_South_Wales</alternateName>
+<timezone dstOffset="10.0" gmtOffset="11.0">Australia/Sydney</timezone>
+<bbox>
+<west>151.95635</west>
+<north>-29.29101</north>
+<east>151.97698</east>
+<south>-29.30899</south>
+</bbox>
+<score>7.897312164306641</score>
+</geoname>
+<geoname>
+<toponymName>Bolívar</toponymName>
+<name>Bolívar</name>
+<lat>5.98943</lat>
+<lng>-73.77021</lng>
+<geonameId>3688656</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2230</population>
+<alternateNames>Bolivar,Bolívar</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="SAN">26</adminCode1>
+<adminName1>Santander</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bol%C3%ADvar%2C_Santander</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<bbox>
+<west>-73.77473</west>
+<north>5.99392</north>
+<east>-73.76569</east>
+<south>5.98493</south>
+</bbox>
+<score>7.716107368469238</score>
+</geoname>
+<geoname>
+<toponymName>Bolívar</toponymName>
+<name>Bolívar</name>
+<lat>5.84025</lat>
+<lng>-76.01063</lng>
+<geonameId>3688667</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames>Bolivar,Bolívar,Ciudad Bolivar,Ciudad Bolívar</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="ANT">02</adminCode1>
+<adminName1>Departamento de Antioquia</adminName1>
+<adminCode2>3688667</adminCode2>
+<adminName2>Bolívar</adminName2>
+<alternateName lang="es">Bolívar</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<score>7.716107368469238</score>
+</geoname>
+</geonames>

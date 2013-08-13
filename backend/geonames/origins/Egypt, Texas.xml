@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>15</totalResultsCount>
+<geoname>
+<toponymName>Egypt</toponymName>
+<name>Egypt</name>
+<lat>29.40497</lat>
+<lng>-96.23691</lng>
+<geonameId>4688416</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>40</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>481</adminCode2>
+<adminName2>Wharton County</adminName2>
+<alternateName lang="post">77436</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-96.24723</west>
+<north>29.41396</north>
+<east>-96.22658</east>
+<south>29.39597</south>
+</bbox>
+<score>5.619165897369385</score>
+</geoname>
+<geoname>
+<toponymName>Egypt Oil Field</toponymName>
+<name>Egypt Oil Field</name>
+<lat>29.4308</lat>
+<lng>-96.22052</lng>
+<geonameId>4688425</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>L</fcl>
+<fcode>OILF</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>oilfield</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>40</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>481</adminCode2>
+<adminName2>Wharton County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>5.619165897369385</score>
+</geoname>
+<geoname>
+<toponymName>Egypt</toponymName>
+<name>Egypt</name>
+<lat>30.22105</lat>
+<lng>-95.56161</lng>
+<geonameId>4688415</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>62</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>339</adminCode2>
+<adminName2>Montgomery County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-95.57202</west>
+<north>30.23004</north>
+<east>-95.5512</east>
+<south>30.21205</south>
+</bbox>
+<score>4.495332717895508</score>
+</geoname>
+<geoname>
+<toponymName>Egypt Hollow</toponymName>
+<name>Egypt Hollow</name>
+<lat>31.21489</lat>
+<lng>-97.69307</lng>
+<geonameId>4688424</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>VAL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>valley</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>189</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>099</adminCode2>
+<adminName2>Coryell County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>4.495332717895508</score>
+</geoname>
+<geoname>
+<toponymName>Egypt Cemetery</toponymName>
+<name>Egypt Cemetery</name>
+<lat>33.67594</lat>
+<lng>-95.36329</lng>
+<geonameId>4688417</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>CMTY</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>cemetery</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>167</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>277</adminCode2>
+<adminName2>Lamar County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>1.9667080640792847</score>
+</geoname>
+<geoname>
+<toponymName>Egypt Cemetery</toponymName>
+<name>Egypt Cemetery</name>
+<lat>30.87881</lat>
+<lng>-94.40631</lng>
+<geonameId>4688418</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>CMTY</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>cemetery</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>79</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>457</adminCode2>
+<adminName2>Tyler County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>1.9667080640792847</score>
+</geoname>
+<geoname>
+<toponymName>Egypt Church</toponymName>
+<name>Egypt Church</name>
+<lat>30.86992</lat>
+<lng>-94.39742</lng>
+<geonameId>4688421</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>CH</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>church</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>83</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>457</adminCode2>
+<adminName2>Tyler County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>1.9667080640792847</score>
+</geoname>
+<geoname>
+<toponymName>Egypt Church</toponymName>
+<name>Egypt Church</name>
+<lat>31.90073</lat>
+<lng>-94.52048</lng>
+<geonameId>4688420</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>CH</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>church</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>135</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>401</adminCode2>
+<adminName2>Rusk County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>1.6857497692108154</score>
+</geoname>
+<geoname>
+<toponymName>Egypt Creek</toponymName>
+<name>Egypt Creek</name>
+<lat>30.33382</lat>
+<lng>-95.53411</lng>
+<geonameId>4688422</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>41</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>339</adminCode2>
+<adminName2>Montgomery County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>1.6857497692108154</score>
+</geoname>
+<geoname>
+<toponymName>Egypt Plantation Museum</toponymName>
+<name>Egypt Plantation Museum</name>
+<lat>29.39775</lat>
+<lng>-96.21885</lng>
+<geonameId>4688438</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>MUS</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>museum</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>38</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>481</adminCode2>
+<adminName2>Wharton County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>1.6857497692108154</score>
+</geoname>
+</geonames>

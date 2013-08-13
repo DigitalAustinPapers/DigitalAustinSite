@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>12</totalResultsCount>
+<geoname>
+<toponymName>Chihuahua</toponymName>
+<name>Chihuahua</name>
+<lat>28.63333</lat>
+<lng>-106.08333</lng>
+<geonameId>4014338</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population>708267</population>
+<alternateNames>Byen Chihuahua,CUU,Chihuahhua,Chihuahua,Chihuahua by,Chiuaua,Chiuauae,Chivava,Cihuahua,Ciuaua,Dakbayan sa Chihuahua,Tsiouaoua,chiuaua,chiwawa,chyywaywa. chyywaywa,qi wa wa shi,Čihuahua,Čiuaua,Τσιουάουα,Чивава,Чиуауæ,Чиуауа,Чіуауа,چیئوائوا٬ چیئوائوا,ჩიუაუა,チワワ,奇瓦瓦市,치와와</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CHH">06</adminCode1>
+<adminName1>Chihuahua</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="bg">Чиуауа</alternateName>
+<alternateName lang="ca">Chihuahua</alternateName>
+<alternateName lang="ceb">Dakbayan sa Chihuahua</alternateName>
+<alternateName lang="da">Chihuahua</alternateName>
+<alternateName lang="de">Chihuahua</alternateName>
+<alternateName lang="el">Τσιουάουα</alternateName>
+<alternateName lang="en">Chihuahua</alternateName>
+<alternateName lang="es">Chihuahua</alternateName>
+<alternateName lang="fa">چیئوائوا٬ چیئوائوا</alternateName>
+<alternateName lang="fr">Chihuahua</alternateName>
+<alternateName lang="iata">CUU</alternateName>
+<alternateName lang="id">Chihuahua</alternateName>
+<alternateName lang="ja">チワワ</alternateName>
+<alternateName lang="ka">ჩიუაუა</alternateName>
+<alternateName lang="ko">치와와</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Chihuahua%2C_Chihuahua</alternateName>
+<alternateName lang="lt">Čiuaua</alternateName>
+<alternateName lang="nah">Chihuahhua</alternateName>
+<alternateName lang="nl">Chihuahua</alternateName>
+<alternateName lang="nn">Byen Chihuahua</alternateName>
+<alternateName lang="no">Chihuahua by</alternateName>
+<alternateName lang="os">Чиуауæ</alternateName>
+<alternateName lang="pl">Chihuahua</alternateName>
+<alternateName lang="pt">Chihuahua</alternateName>
+<alternateName lang="ru">Чиуауа</alternateName>
+<alternateName lang="sr">Чивава</alternateName>
+<alternateName lang="sv">Chihuahua</alternateName>
+<alternateName lang="uk">Чіуауа</alternateName>
+<alternateName lang="unlc">CUU</alternateName>
+<alternateName lang="zh">奇瓦瓦市</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Chihuahua</timezone>
+<bbox>
+<west>-106.20791</west>
+<north>28.74256</north>
+<east>-105.95876</east>
+<south>28.52411</south>
+</bbox>
+<score>116.93370819091797</score>
+</geoname>
+<geoname>
+<toponymName>Estado de Chihuahua</toponymName>
+<name>Chihuahua</name>
+<lat>28.5</lat>
+<lng>-106</lng>
+<geonameId>4014336</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>first-order administrative division</fcodeName>
+<population>3316178</population>
+<alternateNames>CH,CHH,Chihuahua,Chihuahua osariik,Chihuahuac,Chiuaua,Estado de Chihuahua,Estat de Chihuahua,Etat de Chihuahua,chiwawa ju,chiwawa zhou,qi wa wa zhou,État de Chihuahua,Чиуауа,チワワ州,奇瓦瓦州,치와와 주</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CHH">06</adminCode1>
+<adminName1>Chihuahua</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="abbr">CHH</alternateName>
+<alternateName lang="bg">Чиуауа</alternateName>
+<alternateName lang="ca">Estat de Chihuahua</alternateName>
+<alternateName lang="cs">Chihuahua</alternateName>
+<alternateName lang="da">Chihuahua</alternateName>
+<alternateName lang="de">Chihuahua</alternateName>
+<alternateName lang="en">Chihuahua</alternateName>
+<alternateName lang="eo">Chihuahua</alternateName>
+<alternateName lang="es">Chihuahua</alternateName>
+<alternateName lang="et">Chihuahua osariik</alternateName>
+<alternateName lang="eu">Chihuahua</alternateName>
+<alternateName lang="fi">Chihuahua</alternateName>
+<alternateName lang="fr">État de Chihuahua</alternateName>
+<alternateName lang="gl">Chihuahua</alternateName>
+<alternateName lang="id">Chihuahua</alternateName>
+<alternateName lang="it">Chihuahua</alternateName>
+<alternateName lang="ja">チワワ州</alternateName>
+<alternateName lang="ko">치와와 주</alternateName>
+<alternateName lang="kw">Chihuahua</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Chihuahua</alternateName>
+<alternateName lang="nah">Chihuahuac</alternateName>
+<alternateName lang="nl">Chihuahua</alternateName>
+<alternateName lang="no">Chihuahua</alternateName>
+<alternateName lang="pl">Chihuahua</alternateName>
+<alternateName lang="pt">Chihuahua</alternateName>
+<alternateName lang="ru">Чиуауа</alternateName>
+<alternateName lang="sv">Chihuahua</alternateName>
+<alternateName lang="zh">奇瓦瓦州</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Chihuahua</timezone>
+<bbox>
+<west>-109.14639</west>
+<north>31.78389</north>
+<east>-103.29087</east>
+<south>25.60609</south>
+</bbox>
+<score>78.31683349609375</score>
+</geoname>
+<geoname>
+<toponymName>Chihuacua</toponymName>
+<name>Chihuacua</name>
+<lat>25.54432</lat>
+<lng>-99.95703</lng>
+<geonameId>3791978</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Chihuacua,Chihuahua</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NLE">19</adminCode1>
+<adminName1>Nuevo León</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="es">Chihuacua</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<bbox>
+<west>-99.967</west>
+<north>25.55332</north>
+<east>-99.94706</east>
+<south>25.53533</south>
+</bbox>
+<score>43.05064392089844</score>
+</geoname>
+<geoname>
+<toponymName>Chihuahua</toponymName>
+<name>Chihuahua</name>
+<lat>32.4867</lat>
+<lng>-115.23918</lng>
+<geonameId>4011682</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Chihuahua,Chiuaua,Ejido Chihuahua,Чиуауа</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="BCN">02</adminCode1>
+<adminName1>Baja California</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ru">Чиуауа</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Tijuana</timezone>
+<bbox>
+<west>-115.24985</west>
+<north>32.49569</north>
+<east>-115.22852</east>
+<south>32.4777</south>
+</bbox>
+<score>37.5998420715332</score>
+</geoname>
+<geoname>
+<toponymName>Chihuahua</toponymName>
+<name>Chihuahua</name>
+<lat>25.18898</lat>
+<lng>-99.76227</lng>
+<geonameId>3530904</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NLE">19</adminCode1>
+<adminName1>Nuevo León</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<bbox>
+<west>-99.77221</west>
+<north>25.19798</north>
+<east>-99.75233</east>
+<south>25.17999</south>
+</bbox>
+<score>30.70014190673828</score>
+</geoname>
+<geoname>
+<toponymName>Chihuahua</toponymName>
+<name>Chihuahua</name>
+<lat>-5.22955</lat>
+<lng>-79.99868</lng>
+<geonameId>3761522</geonameId>
+<countryCode>PE</countryCode>
+<countryName>Peru</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="PIU">20</adminCode1>
+<adminName1>Piura Region</adminName1>
+<adminCode2>2004</adminCode2>
+<adminName2>Morropon</adminName2>
+<adminCode3>200402</adminCode3>
+<adminName3>Buenos Aires</adminName3>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Lima</timezone>
+<bbox>
+<west>-80.00771</west>
+<north>-5.22056</north>
+<east>-79.98964</east>
+<south>-5.23854</south>
+</bbox>
+<score>30.70014190673828</score>
+</geoname>
+<geoname>
+<toponymName>Chihuahua</toponymName>
+<name>Chihuahua</name>
+<lat>16.02977</lat>
+<lng>-91.9731</lng>
+<geonameId>3816497</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CHP">05</adminCode1>
+<adminName1>Chiapas</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-91.98245</west>
+<north>16.03876</north>
+<east>-91.96374</east>
+<south>16.02077</south>
+</bbox>
+<score>30.70014190673828</score>
+</geoname>
+<geoname>
+<toponymName>Chihuahua</toponymName>
+<name>Chihuahua</name>
+<lat>27.46667</lat>
+<lng>-110.31667</lng>
+<geonameId>3970635</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SON">26</adminCode1>
+<adminName1>Sonora</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-7.0" gmtOffset="-7.0">America/Hermosillo</timezone>
+<bbox>
+<west>-110.3268</west>
+<north>27.47566</north>
+<east>-110.30653</east>
+<south>27.45767</south>
+</bbox>
+<score>30.70014190673828</score>
+</geoname>
+<geoname>
+<toponymName>Chihuahua</toponymName>
+<name>Chihuahua</name>
+<lat>26.22507</lat>
+<lng>-98.41363</lng>
+<geonameId>4680724</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>40</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>215</adminCode2>
+<adminName2>Hidalgo County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-98.42366</west>
+<north>26.23407</north>
+<east>-98.4036</east>
+<south>26.21608</south>
+</bbox>
+<score>30.70014190673828</score>
+</geoname>
+<geoname>
+<toponymName>Chihuahua</toponymName>
+<name>Chihuahua</name>
+<lat>-0.87654</lat>
+<lng>-79.03649</lng>
+<geonameId>8472652</geonameId>
+<countryCode>EC</countryCode>
+<countryName>Ecuador</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="X">07</adminCode1>
+<adminName1>Cotopaxi</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Guayaquil</timezone>
+<bbox>
+<west>-79.04548</west>
+<north>-0.86754</north>
+<east>-79.0275</east>
+<south>-0.88553</south>
+</bbox>
+<score>30.70014190673828</score>
+</geoname>
+</geonames>

@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>182</totalResultsCount>
+<geoname>
+<toponymName>Oak Grove</toponymName>
+<name>Oak Grove</name>
+<lat>36.41177</lat>
+<lng>-82.42459</lng>
+<geonameId>4646335</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>4425</population>
+<alternateNames/>
+<elevation>428</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TN">TN</adminCode1>
+<adminName1>Tennessee</adminName1>
+<adminCode2>179</adminCode2>
+<adminName2>Washington County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Oak_Grove%2C_Tennessee</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-82.43427</west>
+<north>36.41956</north>
+<east>-82.41491</east>
+<south>36.40398</south>
+</bbox>
+<score>60.35721969604492</score>
+</geoname>
+<geoname>
+<toponymName>Oak Grove</toponymName>
+<name>Oak Grove</name>
+<lat>38.984</lat>
+<lng>-77.40388</lng>
+<geonameId>4776694</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1777</population>
+<alternateNames/>
+<elevation>119</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>107</adminCode2>
+<adminName2>Loudoun County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Oak_Grove%2C_Loudoun_County%2C_Virginia</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-77.43135</west>
+<north>38.99354</north>
+<east>-77.4025</east>
+<south>38.9766</south>
+</bbox>
+<score>60.35721969604492</score>
+</geoname>
+<geoname>
+<toponymName>Oak Grove</toponymName>
+<name>Oak Grove</name>
+<lat>45.3408</lat>
+<lng>-93.3269</lng>
+<geonameId>5039857</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>8031</population>
+<alternateNames/>
+<elevation>273</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MN">MN</adminCode1>
+<adminName1>Minnesota</adminName1>
+<adminCode2>003</adminCode2>
+<adminName2>Anoka County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Oak_Grove%2C_Minnesota</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-93.34257</west>
+<north>45.35181</north>
+<east>-93.31122</east>
+<south>45.32978</south>
+</bbox>
+<score>60.35721969604492</score>
+</geoname>
+<geoname>
+<toponymName>Oak Grove</toponymName>
+<name>Oak Grove</name>
+<lat>45.41679</lat>
+<lng>-122.64009</lng>
+<geonameId>5743731</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>16629</population>
+<alternateNames/>
+<elevation>55</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OR">OR</adminCode1>
+<adminName1>Oregon</adminName1>
+<adminCode2>005</adminCode2>
+<adminName2>Clackamas County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Oak_Grove%2C_Oregon</alternateName>
+<alternateName lang="unlc">OGR</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-122.6632</west>
+<north>45.433</north>
+<east>-122.61699</east>
+<south>45.40057</south>
+</bbox>
+<score>60.35721969604492</score>
+</geoname>
+<geoname>
+<toponymName>Oak Grove</toponymName>
+<name>Oak Grove</name>
+<lat>33.9809</lat>
+<lng>-81.14286</lng>
+<geonameId>7260518</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>10291</population>
+<alternateNames/>
+<elevation>111</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SC">SC</adminCode1>
+<adminName1>South Carolina</adminName1>
+<adminCode2>063</adminCode2>
+<adminName2>Lexington County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Oak_Grove%2C_South_Carolina</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-81.17846</west>
+<north>33.99919</north>
+<east>-81.10702</east>
+<south>33.9566</south>
+</bbox>
+<score>60.35721969604492</score>
+</geoname>
+<geoname>
+<toponymName>Oak Grove</toponymName>
+<name>Oak Grove</name>
+<lat>36.66505</lat>
+<lng>-87.44279</lng>
+<geonameId>4302827</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>7489</population>
+<alternateNames/>
+<elevation>165</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>047</adminCode2>
+<adminName2>Christian County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Oak_Grove%2C_Kentucky</alternateName>
+<alternateName lang="post">42262</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-87.45652</west>
+<north>36.67606</north>
+<east>-87.42905</east>
+<south>36.65403</south>
+</bbox>
+<score>52.81256866455078</score>
+</geoname>
+<geoname>
+<toponymName>Oak Grove</toponymName>
+<name>Oak Grove</name>
+<lat>33.19178</lat>
+<lng>-86.29942</lng>
+<geonameId>4080754</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>528</population>
+<alternateNames/>
+<elevation>170</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AL">AL</adminCode1>
+<adminName1>Alabama</adminName1>
+<adminCode2>121</adminCode2>
+<adminName2>Talladega County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Oak_Grove%2C_Alabama</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-86.32635</west>
+<north>33.22209</north>
+<east>-86.28168</east>
+<south>33.17733</south>
+</bbox>
+<score>45.267913818359375</score>
+</geoname>
+<geoname>
+<toponymName>Oak Grove</toponymName>
+<name>Oak Grove</name>
+<lat>32.86096</lat>
+<lng>-91.38845</lng>
+<geonameId>4335690</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>1727</population>
+<alternateNames/>
+<elevation>36</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>123</adminCode2>
+<adminName2>West Carroll Parish</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Oak_Grove%2C_Louisiana</alternateName>
+<alternateName lang="post">71263</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-91.40742</west>
+<north>32.87524</north>
+<east>-91.37212</east>
+<south>32.85002</south>
+</bbox>
+<score>45.267913818359375</score>
+</geoname>
+<geoname>
+<toponymName>Oak Grove</toponymName>
+<name>Oak Grove</name>
+<lat>39.00501</lat>
+<lng>-94.12939</lng>
+<geonameId>4401282</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>7795</population>
+<alternateNames/>
+<elevation>268</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>095</adminCode2>
+<adminName2>Jackson County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Oak_Grove%2C_Jackson_County%2C_Missouri</alternateName>
+<alternateName lang="post">64075</alternateName>
+<alternateName lang="unlc">IKG</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-94.14357</west>
+<north>39.01602</north>
+<east>-94.11521</east>
+<south>38.99399</south>
+</bbox>
+<score>45.267913818359375</score>
+</geoname>
+<geoname>
+<toponymName>Oak Grove</toponymName>
+<name>Oak Grove</name>
+<lat>37.57283</lat>
+<lng>-90.39484</lng>
+<geonameId>4401283</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>224</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>123</adminCode2>
+<adminName2>Madison County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Oak_Grove%2C_Madison_County%2C_Missouri</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.40619</west>
+<north>37.58182</north>
+<east>-90.38349</east>
+<south>37.56384</south>
+</bbox>
+<score>45.267913818359375</score>
+</geoname>
+</geonames>

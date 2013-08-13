@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>8</totalResultsCount>
+<geoname>
+<toponymName>Scholle</toponymName>
+<name>Scholle</name>
+<lat>34.42756</lat>
+<lng>-106.41668</lng>
+<geonameId>5490606</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1779</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NM">NM</adminCode1>
+<adminName1>New Mexico</adminName1>
+<adminCode2>057</adminCode2>
+<adminName2>Torrance County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<bbox>
+<west>-106.42759</west>
+<north>34.43656</north>
+<east>-106.40578</east>
+<south>34.41857</south>
+</bbox>
+<score>25.4936580657959</score>
+</geoname>
+<geoname>
+<toponymName>Schooley</toponymName>
+<name>Schooley</name>
+<lat>33.81539</lat>
+<lng>-93.85296</lng>
+<geonameId>4130318</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>106</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">AR</adminCode1>
+<adminName1>Arkansas</adminName1>
+<adminCode2>061</adminCode2>
+<adminName2>Howard County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-93.86379</west>
+<north>33.82439</north>
+<east>-93.84214</east>
+<south>33.8064</south>
+</bbox>
+<score>24.237957000732422</score>
+</geoname>
+<geoname>
+<toponymName>Schooley</toponymName>
+<name>Schooley</name>
+<lat>39.26562</lat>
+<lng>-82.8699</lng>
+<geonameId>4524193</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>195</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>141</adminCode2>
+<adminName2>Ross County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-82.88151</west>
+<north>39.27462</north>
+<east>-82.85828</east>
+<south>39.25663</south>
+</bbox>
+<score>24.237957000732422</score>
+</geoname>
+<geoname>
+<toponymName>Schore</toponymName>
+<name>Schore</name>
+<lat>51.11136</lat>
+<lng>2.8401</lng>
+<geonameId>2786970</geonameId>
+<countryCode>BE</countryCode>
+<countryName>Belgium</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Schoore,Schore</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="VLG">VLG</adminCode1>
+<adminName1>Flanders</adminName1>
+<adminCode2>VWV</adminCode2>
+<adminName2>West Flanders Province</adminName2>
+<adminCode3>35</adminCode3>
+<adminName3>Arrondissement Oostende</adminName3>
+<adminCode4>35011</adminCode4>
+<adminName4>Middelkerke</adminName4>
+<alternateName lang="post">8433</alternateName>
+<alternateName lang="unlc">SOR</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Brussels</timezone>
+<bbox>
+<west>2.82577</west>
+<north>51.12035</north>
+<east>2.85443</east>
+<south>51.10236</south>
+</bbox>
+<score>18.0267391204834</score>
+</geoname>
+<geoname>
+<toponymName>School</toponymName>
+<name>School</name>
+<lat>36.96506</lat>
+<lng>-93.46741</lng>
+<geonameId>4407776</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>396</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>209</adminCode2>
+<adminName2>Stone County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-93.47867</west>
+<north>36.97405</north>
+<east>-93.45616</east>
+<south>36.95606</south>
+</bbox>
+<score>13.242297172546387</score>
+</geoname>
+<geoname>
+<toponymName>Stroppare</toponymName>
+<name>Stroppare</name>
+<lat>45.15</lat>
+<lng>11.81667</lng>
+<geonameId>3166080</geonameId>
+<countryCode>IT</countryCode>
+<countryName>Italy</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>School,Stroppare</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="34">20</adminCode1>
+<adminName1>Veneto</adminName1>
+<adminCode2>PD</adminCode2>
+<adminName2>Padua</adminName2>
+<adminCode3>028070</adminCode3>
+<adminName3>Pozzonovo</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Rome</timezone>
+<bbox>
+<west>11.80391</west>
+<north>45.15899</north>
+<east>11.82942</east>
+<south>45.14101</south>
+</bbox>
+<score>9.363718032836914</score>
+</geoname>
+<geoname>
+<toponymName>School</toponymName>
+<name>School</name>
+<lat>53.5882</lat>
+<lng>-2.3338</lng>
+<geonameId>6288579</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>STDM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>stadium</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C1</adminCode2>
+<adminName2>Bury</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>4.138217926025391</score>
+</geoname>
+<geoname>
+<toponymName>school</toponymName>
+<name>school</name>
+<lat>43.93917</lat>
+<lng>19.87333</lng>
+<geonameId>3337045</geonameId>
+<countryCode>RS</countryCode>
+<countryName>Serbia</countryName>
+<fcl>S</fcl>
+<fcode>SCH</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>school</fcodeName>
+<population/>
+<alternateNames>school</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="sr">school</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Belgrade</timezone>
+<score>4.0546088218688965</score>
+</geoname>
+</geonames>

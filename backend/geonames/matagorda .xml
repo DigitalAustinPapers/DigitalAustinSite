@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>15</totalResultsCount>
+<geoname>
+<toponymName>Matagorda</toponymName>
+<name>Matagorda</name>
+<lat>28.69082</lat>
+<lng>-95.96746</lng>
+<geonameId>4709576</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>503</population>
+<alternateNames/>
+<elevation>2</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>321</adminCode2>
+<adminName2>Matagorda County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Matagorda%2C_Texas</alternateName>
+<alternateName lang="post">77457</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-95.96849</west>
+<north>28.69172</north>
+<east>-95.96644</east>
+<south>28.68992</south>
+</bbox>
+<score>54.6705436706543</score>
+</geoname>
+<geoname>
+<toponymName>Matagorda</toponymName>
+<name>Matagorda</name>
+<lat>36.51544</lat>
+<lng>-6.24674</lng>
+<geonameId>2514025</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="AN">51</adminCode1>
+<adminName1>Andalusia</adminName1>
+<adminCode2>CA</adminCode2>
+<adminName2>Cadiz</adminName2>
+<adminCode3>11012</adminCode3>
+<adminName3>Cadiz</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Madrid</timezone>
+<bbox>
+<west>-6.25793</west>
+<north>36.52443</north>
+<east>-6.23555</east>
+<south>36.50644</south>
+</bbox>
+<score>36.44702911376953</score>
+</geoname>
+<geoname>
+<toponymName>Matagorda</toponymName>
+<name>Matagorda</name>
+<lat>38.03333</lat>
+<lng>-5.48333</lng>
+<geonameId>2514026</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>T</fcl>
+<fcode>MT</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>mountain</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2>CO</adminCode2>
+<adminName2>ES.00.CO</adminName2>
+<adminCode3>14036</adminCode3>
+<adminName3>ES.00.CO.14036</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Madrid</timezone>
+<score>36.44702911376953</score>
+</geoname>
+<geoname>
+<toponymName>Matagorda</toponymName>
+<name>Matagorda</name>
+<lat>34.33816</lat>
+<lng>-90.45704</lng>
+<geonameId>4435140</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>52</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MS">MS</adminCode1>
+<adminName1>Mississippi</adminName1>
+<adminCode2>027</adminCode2>
+<adminName2>Coahoma County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.46794</west>
+<north>34.34716</north>
+<east>-90.44615</east>
+<south>34.32917</south>
+</bbox>
+<score>36.44702911376953</score>
+</geoname>
+<geoname>
+<toponymName>Matagorda</toponymName>
+<name>Matagorda</name>
+<lat>36.72334</lat>
+<lng>-2.84151</lng>
+<geonameId>2514024</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Cortijada Matagorda</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="AN">51</adminCode1>
+<adminName1>Andalusia</adminName1>
+<adminCode2>AL</adminCode2>
+<adminName2>Almeria</adminName2>
+<adminCode3>04013</adminCode3>
+<adminName3>Almería</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Madrid</timezone>
+<bbox>
+<west>-2.85273</west>
+<north>36.73233</north>
+<east>-2.83029</east>
+<south>36.71434</south>
+</bbox>
+<score>27.33527183532715</score>
+</geoname>
+<geoname>
+<toponymName>Matagoda</toponymName>
+<name>Matagoda</name>
+<lat>7.0012</lat>
+<lng>79.8794</lng>
+<geonameId>1235860</geonameId>
+<countryCode>LK</countryCode>
+<countryName>Sri Lanka</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="1">36</adminCode1>
+<adminName1>Western</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="5.5" gmtOffset="5.5">Asia/Colombo</timezone>
+<bbox>
+<west>79.87034</west>
+<north>7.01019</north>
+<east>79.88846</east>
+<south>6.99221</south>
+</bbox>
+<score>16.045007705688477</score>
+</geoname>
+<geoname>
+<toponymName>Mata Gorda</toponymName>
+<name>Mata Gorda</name>
+<lat>19.13396</lat>
+<lng>-70.58076</lng>
+<geonameId>3496625</geonameId>
+<countryCode>DO</countryCode>
+<countryName>Dominican Republic</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="13">30</adminCode1>
+<adminName1>La Vega</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Santo_Domingo</timezone>
+<bbox>
+<west>-70.59029</west>
+<north>19.14295</north>
+<east>-70.57124</east>
+<south>19.12496</south>
+</bbox>
+<score>15.660635948181152</score>
+</geoname>
+<geoname>
+<toponymName>Mata Gorda</toponymName>
+<name>Mata Gorda</name>
+<lat>18.72355</lat>
+<lng>-69.54779</lng>
+<geonameId>3496626</geonameId>
+<countryCode>DO</countryCode>
+<countryName>Dominican Republic</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="29">32</adminCode1>
+<adminName1>Monte Plata</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Santo_Domingo</timezone>
+<bbox>
+<west>-69.55728</west>
+<north>18.73254</north>
+<east>-69.53829</east>
+<south>18.71456</south>
+</bbox>
+<score>15.660635948181152</score>
+</geoname>
+<geoname>
+<toponymName>Mata Gorda</toponymName>
+<name>Mata Gorda</name>
+<lat>18.59734</lat>
+<lng>-69.94352</lng>
+<geonameId>3496627</geonameId>
+<countryCode>DO</countryCode>
+<countryName>Dominican Republic</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1>37</adminCode1>
+<adminName1>Santo Domingo</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Santo_Domingo</timezone>
+<bbox>
+<west>-69.95301</west>
+<north>18.60633</north>
+<east>-69.93403</east>
+<south>18.58835</south>
+</bbox>
+<score>15.660635948181152</score>
+</geoname>
+<geoname>
+<toponymName>Mata Gorda</toponymName>
+<name>Mata Gorda</name>
+<lat>18.26554</lat>
+<lng>-70.31423</lng>
+<geonameId>3496628</geonameId>
+<countryCode>DO</countryCode>
+<countryName>Dominican Republic</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="17">35</adminCode1>
+<adminName1>Peravia</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Santo_Domingo</timezone>
+<bbox>
+<west>-70.3237</west>
+<north>18.27453</north>
+<east>-70.30476</east>
+<south>18.25654</south>
+</bbox>
+<score>15.660635948181152</score>
+</geoname>
+</geonames>

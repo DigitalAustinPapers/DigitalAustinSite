@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>7</totalResultsCount>
+<geoname>
+<toponymName>Colonos</toponymName>
+<name>Colonos</name>
+<lat>23.06667</lat>
+<lng>-105.55</lng>
+<geonameId>4013286</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Colomos,Colonos</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SIN">25</adminCode1>
+<adminName1>Sinaloa</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Mazatlan</timezone>
+<bbox>
+<west>-105.55978</west>
+<north>23.07566</north>
+<east>-105.54022</east>
+<south>23.05767</south>
+</bbox>
+<score>57.317317962646484</score>
+</geoname>
+<geoname>
+<toponymName>Colonos</toponymName>
+<name>Colonos</name>
+<lat>22.76972</lat>
+<lng>-81.7675</lng>
+<geonameId>3563819</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1>MA</adminCode1>
+<adminName1>Provincia Mayabeque</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>40.172630310058594</score>
+</geoname>
+<geoname>
+<toponymName>Colonos</toponymName>
+<name>Colonos</name>
+<lat>-16.68333</lat>
+<lng>-63.78333</lng>
+<geonameId>3919783</geonameId>
+<countryCode>BO</countryCode>
+<countryName>Bolivia</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="S">08</adminCode1>
+<adminName1>Santa Cruz</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/La_Paz</timezone>
+<score>40.172630310058594</score>
+</geoname>
+<geoname>
+<toponymName>Colomos</toponymName>
+<name>Colomos</name>
+<lat>19.4047</lat>
+<lng>-103.75484</lng>
+<geonameId>4013488</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="COL">08</adminCode1>
+<adminName1>Colima</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-103.76437</west>
+<north>19.41369</north>
+<east>-103.7453</east>
+<south>19.39571</south>
+</bbox>
+<score>11.477893829345703</score>
+</geoname>
+<geoname>
+<toponymName>Colomos</toponymName>
+<name>Colomos</name>
+<lat>21.88361</lat>
+<lng>-102.65975</lng>
+<geonameId>4021097</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AGU">01</adminCode1>
+<adminName1>Aguascalientes</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-102.66944</west>
+<north>21.8926</north>
+<east>-102.65006</east>
+<south>21.87461</south>
+</bbox>
+<score>11.477893829345703</score>
+</geoname>
+<geoname>
+<toponymName>Los Coconos</toponymName>
+<name>Los Coconos</name>
+<lat>27.09552</lat>
+<lng>-105.97206</lng>
+<geonameId>3997901</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Coconos,Los Coconos</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CHH">06</adminCode1>
+<adminName1>Chihuahua</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Chihuahua</timezone>
+<bbox>
+<west>-105.98217</west>
+<north>27.10451</north>
+<east>-105.96196</east>
+<south>27.08653</south>
+</bbox>
+<score>8.855035781860352</score>
+</geoname>
+<geoname>
+<toponymName>Colono</toponymName>
+<name>Colono</name>
+<lat>-25.88637</lat>
+<lng>-49.1503</lng>
+<geonameId>7693767</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames>Colono</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="PR">18</adminCode1>
+<adminName1>Paraná</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="pt">Colono</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Sao_Paulo</timezone>
+<score>6.7100934982299805</score>
+</geoname>
+</geonames>

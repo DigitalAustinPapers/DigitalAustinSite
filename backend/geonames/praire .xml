@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>21</totalResultsCount>
+<geoname>
+<toponymName>Prairie</toponymName>
+<name>Prairie</name>
+<lat>-20.88333</lat>
+<lng>144.6</lng>
+<geonameId>2152590</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Prairie</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="QLD">04</adminCode1>
+<adminName1>Queensland</adminName1>
+<adminCode2>33200</adminCode2>
+<adminName2>Flinders</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Prairie%2C_Queensland</alternateName>
+<timezone dstOffset="10.0" gmtOffset="10.0">Australia/Brisbane</timezone>
+<bbox>
+<west>143.65353</west>
+<north>-19.56868</north>
+<east>145.53964</east>
+<south>-22.21192</south>
+</bbox>
+<score>37.62651062011719</score>
+</geoname>
+<geoname>
+<toponymName>Prairie</toponymName>
+<name>Prairie</name>
+<lat>32.15403</lat>
+<lng>-87.44</lng>
+<geonameId>4084744</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>49</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AL">AL</adminCode1>
+<adminName1>Alabama</adminName1>
+<adminCode2>131</adminCode2>
+<adminName2>Wilcox County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Prairie%2C_Alabama</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-87.45062</west>
+<north>32.16303</north>
+<east>-87.42937</east>
+<south>32.14504</south>
+</bbox>
+<score>30.721920013427734</score>
+</geoname>
+<geoname>
+<toponymName>Prairie</toponymName>
+<name>Prairie</name>
+<lat>38.17311</lat>
+<lng>-89.94316</lng>
+<geonameId>4247469</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>125</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>157</adminCode2>
+<adminName2>Randolph County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Prairie%2C_Illinois</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-89.9546</west>
+<north>38.1821</north>
+<east>-89.93172</east>
+<south>38.16411</south>
+</bbox>
+<score>30.721920013427734</score>
+</geoname>
+<geoname>
+<toponymName>Prairie</toponymName>
+<name>Prairie</name>
+<lat>33.79678</lat>
+<lng>-88.66755</lng>
+<geonameId>4828761</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>91</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MS">MS</adminCode1>
+<adminName1>Mississippi</adminName1>
+<adminCode2>095</adminCode2>
+<adminName2>Monroe County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Prairie%2C_Mississippi</alternateName>
+<alternateName lang="post">39756</alternateName>
+<alternateName lang="unlc">PR6</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-88.67837</west>
+<north>33.80578</north>
+<east>-88.65672</east>
+<south>33.78779</south>
+</bbox>
+<score>25.601598739624023</score>
+</geoname>
+<geoname>
+<toponymName>Prairie</toponymName>
+<name>Prairie</name>
+<lat>-29.20559</lat>
+<lng>27.30684</lng>
+<geonameId>964233</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="FS">03</adminCode1>
+<adminName1>Free State</adminName1>
+<adminCode2>DC19</adminCode2>
+<adminName2>Thabo Mofutsanyana District Municipality</adminName2>
+<adminCode3>FS196</adminCode3>
+<adminName3>Mantsopa</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<bbox>
+<west>27.29654</west>
+<north>-29.1966</north>
+<east>27.31714</east>
+<south>-29.21458</south>
+</bbox>
+<score>20.481279373168945</score>
+</geoname>
+<geoname>
+<toponymName>Prairie</toponymName>
+<name>Prairie</name>
+<lat>-36.3</lat>
+<lng>144.23333</lng>
+<geonameId>2152589</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="VIC">07</adminCode1>
+<adminName1>Victoria</adminName1>
+<adminCode2>23940</adminCode2>
+<adminName2>Loddon</adminName2>
+<timezone dstOffset="10.0" gmtOffset="11.0">Australia/Melbourne</timezone>
+<bbox>
+<west>144.22218</west>
+<north>-36.29101</north>
+<east>144.24449</east>
+<south>-36.30899</south>
+</bbox>
+<score>20.481279373168945</score>
+</geoname>
+<geoname>
+<toponymName>Prairie</toponymName>
+<name>Prairie</name>
+<lat>50.66697</lat>
+<lng>3.88792</lng>
+<geonameId>2788653</geonameId>
+<countryCode>BE</countryCode>
+<countryName>Belgium</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WAL">WAL</adminCode1>
+<adminName1>Walloon Region</adminName1>
+<adminCode2>WHT</adminCode2>
+<adminName2>Hainaut Province</adminName2>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Brussels</timezone>
+<bbox>
+<west>3.87372</west>
+<north>50.67597</north>
+<east>3.90211</east>
+<south>50.65798</south>
+</bbox>
+<score>20.481279373168945</score>
+</geoname>
+<geoname>
+<toponymName>Prairie</toponymName>
+<name>Prairie</name>
+<lat>37.92143</lat>
+<lng>-87.98197</lng>
+<geonameId>4263345</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>110</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IN">IN</adminCode1>
+<adminName1>Indiana</adminName1>
+<adminCode2>129</adminCode2>
+<adminName2>Posey County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-87.99338</west>
+<north>37.93043</north>
+<east>-87.97057</east>
+<south>37.91244</south>
+</bbox>
+<score>20.481279373168945</score>
+</geoname>
+<geoname>
+<toponymName>Prairie</toponymName>
+<name>Prairie</name>
+<lat>45.40866</lat>
+<lng>-69.06393</lng>
+<geonameId>4975909</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>120</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ME">ME</adminCode1>
+<adminName1>Maine</adminName1>
+<adminCode2>021</adminCode2>
+<adminName2>Piscataquis County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-69.07674</west>
+<north>45.41765</north>
+<east>-69.05112</east>
+<south>45.39967</south>
+</bbox>
+<score>20.481279373168945</score>
+</geoname>
+<geoname>
+<toponymName>Prairie</toponymName>
+<name>Prairie</name>
+<lat>42.98475</lat>
+<lng>-85.03417</lng>
+<geonameId>5281114</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>200</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MI">MI</adminCode1>
+<adminName1>Michigan</adminName1>
+<adminCode2>067</adminCode2>
+<adminName2>Ionia County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Detroit</timezone>
+<bbox>
+<west>-85.04647</west>
+<north>42.99375</north>
+<east>-85.02188</east>
+<south>42.97576</south>
+</bbox>
+<score>20.481279373168945</score>
+</geoname>
+</geonames>

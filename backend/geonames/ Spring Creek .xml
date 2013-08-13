@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1516</totalResultsCount>
+<geoname>
+<toponymName>Spring Creek</toponymName>
+<name>Spring Creek</name>
+<lat>40.72659</lat>
+<lng>-115.5859</lng>
+<geonameId>5708894</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>12361</population>
+<alternateNames/>
+<elevation>1725</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NV">NV</adminCode1>
+<adminName1>Nevada</adminName1>
+<adminCode2>007</adminCode2>
+<adminName2>Elko County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Spring_Creek%2C_Nevada</alternateName>
+<alternateName lang="post">89815</alternateName>
+<alternateName lang="unlc">IGC</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-115.70983</west>
+<north>40.82959</north>
+<east>-115.48305</east>
+<south>40.66372</south>
+</bbox>
+<score>20.91769790649414</score>
+</geoname>
+<geoname>
+<toponymName>Spring Creek</toponymName>
+<name>Spring Creek</name>
+<lat>35.26173</lat>
+<lng>-98.18339</lng>
+<geonameId>4551966</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>393</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OK">OK</adminCode1>
+<adminName1>Oklahoma</adminName1>
+<adminCode2>015</adminCode2>
+<adminName2>Caddo County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Spring_Creek%2C_Oklahoma</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-98.1944</west>
+<north>35.27072</north>
+<east>-98.17237</east>
+<south>35.25273</south>
+</bbox>
+<score>17.929454803466797</score>
+</geoname>
+<geoname>
+<toponymName>Spring Creek</toponymName>
+<name>Spring Creek</name>
+<lat>37.95401</lat>
+<lng>-80.34896</lng>
+<geonameId>4823032</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>577</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WV">WV</adminCode1>
+<adminName1>West Virginia</adminName1>
+<adminCode2>025</adminCode2>
+<adminName2>Greenbrier County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Spring_Creek%2C_West_Virginia</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-80.36037</west>
+<north>37.963</north>
+<east>-80.33756</east>
+<south>37.94502</south>
+</bbox>
+<score>17.929454803466797</score>
+</geoname>
+<geoname>
+<toponymName>Spring Creek</toponymName>
+<name>Spring Creek</name>
+<lat>38.92907</lat>
+<lng>-120.06491</lng>
+<geonameId>5398212</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1932</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>017</adminCode2>
+<adminName2>El Dorado County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Spring_Creek%2C_California</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-120.07647</west>
+<north>38.93807</north>
+<east>-120.05334</east>
+<south>38.92008</south>
+</bbox>
+<score>17.929454803466797</score>
+</geoname>
+<geoname>
+<toponymName>Spring Creek</toponymName>
+<name>Spring Creek</name>
+<lat>43.11751</lat>
+<lng>-101.02265</lng>
+<geonameId>5769325</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>268</population>
+<alternateNames/>
+<elevation>812</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SD">SD</adminCode1>
+<adminName1>South Dakota</adminName1>
+<adminCode2>121</adminCode2>
+<adminName2>Todd County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Spring_Creek%2C_South_Dakota</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-101.02388</west>
+<north>43.1184</north>
+<east>-101.02142</east>
+<south>43.11661</south>
+</bbox>
+<score>17.929454803466797</score>
+</geoname>
+<geoname>
+<toponymName>Spring Creek</toponymName>
+<name>Spring Creek</name>
+<lat>-27.93333</lat>
+<lng>151.98333</lng>
+<geonameId>2148755</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="QLD">04</adminCode1>
+<adminName1>Queensland</adminName1>
+<adminCode2>36910</adminCode2>
+<adminName2>Toowoomba</adminName2>
+<timezone dstOffset="10.0" gmtOffset="10.0">Australia/Brisbane</timezone>
+<bbox>
+<west>151.97315</west>
+<north>-27.92434</north>
+<east>151.99351</east>
+<south>-27.94233</south>
+</bbox>
+<score>11.952970504760742</score>
+</geoname>
+<geoname>
+<toponymName>Spring Creek</toponymName>
+<name>Spring Creek</name>
+<lat>33.08429</lat>
+<lng>-86.53748</lng>
+<geonameId>4091322</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>124</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AL">AL</adminCode1>
+<adminName1>Alabama</adminName1>
+<adminCode2>117</adminCode2>
+<adminName2>Shelby County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-86.54822</west>
+<north>33.09328</north>
+<east>-86.52675</east>
+<south>33.07529</south>
+</bbox>
+<score>11.952970504760742</score>
+</geoname>
+<geoname>
+<toponymName>Spring Creek</toponymName>
+<name>Spring Creek</name>
+<lat>36.22647</lat>
+<lng>-94.19132</lng>
+<geonameId>4131974</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>367</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">AR</adminCode1>
+<adminName1>Arkansas</adminName1>
+<adminCode2>007</adminCode2>
+<adminName2>Benton County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-94.20247</west>
+<north>36.23546</north>
+<east>-94.18017</east>
+<south>36.21747</south>
+</bbox>
+<score>11.952970504760742</score>
+</geoname>
+<geoname>
+<toponymName>Spring Creek</toponymName>
+<name>Spring Creek</name>
+<lat>34.68871</lat>
+<lng>-90.89817</lng>
+<geonameId>4131979</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>58</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">AR</adminCode1>
+<adminName1>Arkansas</adminName1>
+<adminCode2>077</adminCode2>
+<adminName2>Lee County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.90911</west>
+<north>34.6977</north>
+<east>-90.88723</east>
+<south>34.67972</south>
+</bbox>
+<score>11.952970504760742</score>
+</geoname>
+<geoname>
+<toponymName>Spring Creek</toponymName>
+<name>Spring Creek</name>
+<lat>30.08076</lat>
+<lng>-84.32768</lng>
+<geonameId>4173826</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="FL">FL</adminCode1>
+<adminName1>Florida</adminName1>
+<adminCode2>129</adminCode2>
+<adminName2>Wakulla County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-84.33807</west>
+<north>30.08975</north>
+<east>-84.31728</east>
+<south>30.07177</south>
+</bbox>
+<score>11.952970504760742</score>
+</geoname>
+</geonames>

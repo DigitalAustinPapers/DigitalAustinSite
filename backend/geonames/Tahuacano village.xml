@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Takarano Village</toponymName>
+<name>Takarano Village</name>
+<lat>1.94987</lat>
+<lng>172.91227</lng>
+<geonameId>2110091</geonameId>
+<countryCode>KI</countryCode>
+<countryName>Kiribati</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>300</population>
+<alternateNames>Takarano,Takarona</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="G">01</adminCode1>
+<adminName1>Gilbert Islands</adminName1>
+<adminCode2>AG</adminCode2>
+<adminName2>Abaiang</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Takarano</alternateName>
+<timezone dstOffset="12.0" gmtOffset="12.0">Pacific/Tarawa</timezone>
+<bbox>
+<west>172.91137</west>
+<north>1.95077</north>
+<east>172.91317</east>
+<south>1.94897</south>
+</bbox>
+<score>57.48229217529297</score>
+</geoname>
+</geonames>

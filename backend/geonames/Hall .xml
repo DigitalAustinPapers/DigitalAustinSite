@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>53</totalResultsCount>
+<geoname>
+<toponymName>Hall</toponymName>
+<name>Hall</name>
+<lat>47.6176</lat>
+<lng>14.44597</lng>
+<geonameId>7872439</geonameId>
+<countryCode>AT</countryCode>
+<countryName>Austria</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population>1837</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="6">06</adminCode1>
+<adminName1>Styria</adminName1>
+<adminCode2>612</adminCode2>
+<adminName2>Politischer Bezirk Liezen</adminName2>
+<adminCode3>61216</adminCode3>
+<adminName3>Hall</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Vienna</timezone>
+<bbox>
+<west>14.39153</west>
+<north>47.65657</north>
+<east>14.4932</east>
+<south>47.57139</south>
+</bbox>
+<score>64.16165161132812</score>
+</geoname>
+<geoname>
+<toponymName>Hall</toponymName>
+<name>Hall</name>
+<lat>39.55005</lat>
+<lng>-86.53583</lng>
+<geonameId>4258430</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>244</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IN">IN</adminCode1>
+<adminName1>Indiana</adminName1>
+<adminCode2>109</adminCode2>
+<adminName2>Morgan County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hall%2C_Indiana</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Indiana/Indianapolis</timezone>
+<bbox>
+<west>-86.5475</west>
+<north>39.55904</north>
+<east>-86.52417</east>
+<south>39.54105</south>
+</bbox>
+<score>54.995704650878906</score>
+</geoname>
+<geoname>
+<toponymName>Hall</toponymName>
+<name>Hall</name>
+<lat>42.79396</lat>
+<lng>-77.06636</lng>
+<geonameId>5119774</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>216</population>
+<alternateNames/>
+<elevation>285</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>069</adminCode2>
+<adminName2>Ontario County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hall%2C_New_York</alternateName>
+<alternateName lang="post">14463</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-77.06758</west>
+<north>42.79486</north>
+<east>-77.06513</east>
+<south>42.79306</south>
+</bbox>
+<score>54.995704650878906</score>
+</geoname>
+<geoname>
+<toponymName>Hall</toponymName>
+<name>Hall</name>
+<lat>-35.16847</lat>
+<lng>149.06834</lng>
+<geonameId>2164064</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>336</population>
+<alternateNames>Hall,Kholl,Холл</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="ACT">01</adminCode1>
+<adminName1>Australian Capital Territory</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hall%2C_Australian_Capital_Territory</alternateName>
+<alternateName lang="ru">Холл</alternateName>
+<timezone dstOffset="10.0" gmtOffset="11.0">Australia/Sydney</timezone>
+<bbox>
+<west>149.05563</west>
+<north>-35.15922</north>
+<east>149.07666</east>
+<south>-35.18094</south>
+</bbox>
+<score>44.903804779052734</score>
+</geoname>
+<geoname>
+<toponymName>Hall</toponymName>
+<name>Hall</name>
+<lat>65.2</lat>
+<lng>12.18333</lng>
+<geonameId>3154204</geonameId>
+<countryCode>NO</countryCode>
+<countryName>Norway</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Hald,Hall</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="18">09</adminCode1>
+<adminName1>Nordland</adminName1>
+<adminCode2>1811</adminCode2>
+<adminName2>Bindal</adminName2>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Oslo</timezone>
+<bbox>
+<west>12.16188</west>
+<north>65.20899</north>
+<east>12.20478</east>
+<south>65.19101</south>
+</bbox>
+<score>44.903804779052734</score>
+</geoname>
+<geoname>
+<toponymName>Ḩall</toponymName>
+<name>Ḩall</name>
+<lat>25.78247</lat>
+<lng>56.33102</lng>
+<geonameId>412589</geonameId>
+<countryCode>OM</countryCode>
+<countryName>Oman</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Hall,Ḩall</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="MU">07</adminCode1>
+<adminName1>Musandam</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ar">Ḩall</alternateName>
+<timezone dstOffset="4.0" gmtOffset="4.0">Asia/Muscat</timezone>
+<bbox>
+<west>56.32103</west>
+<north>25.79146</north>
+<east>56.34101</east>
+<south>25.77348</south>
+</bbox>
+<score>38.88783645629883</score>
+</geoname>
+<geoname>
+<toponymName>Håll</toponymName>
+<name>Håll</name>
+<lat>62.96667</lat>
+<lng>18.15</lng>
+<geonameId>2708851</geonameId>
+<countryCode>SE</countryCode>
+<countryName>Sweden</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="Y">24</adminCode1>
+<adminName1>Västernorrland</adminName1>
+<adminCode2>2282</adminCode2>
+<adminName2>Kramfors Kommun</adminName2>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Stockholm</timezone>
+<bbox>
+<west>18.13021</west>
+<north>62.97566</north>
+<east>18.16979</east>
+<south>62.95767</south>
+</bbox>
+<score>36.66380310058594</score>
+</geoname>
+<geoname>
+<toponymName>Håll</toponymName>
+<name>Håll</name>
+<lat>62.95</lat>
+<lng>18.21667</lng>
+<geonameId>2708852</geonameId>
+<countryCode>SE</countryCode>
+<countryName>Sweden</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="Y">24</adminCode1>
+<adminName1>Västernorrland</adminName1>
+<adminCode2>2282</adminCode2>
+<adminName2>Kramfors Kommun</adminName2>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Stockholm</timezone>
+<bbox>
+<west>18.19688</west>
+<north>62.95899</north>
+<east>18.23645</east>
+<south>62.94101</south>
+</bbox>
+<score>36.66380310058594</score>
+</geoname>
+<geoname>
+<toponymName>Hall</toponymName>
+<name>Hall</name>
+<lat>53.64308</lat>
+<lng>9.84668</lng>
+<geonameId>2911541</geonameId>
+<countryCode>DE</countryCode>
+<countryName>Germany</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SH">10</adminCode1>
+<adminName1>Schleswig-Holstein</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Berlin</timezone>
+<bbox>
+<west>9.83151</west>
+<north>53.65207</north>
+<east>9.86186</east>
+<south>53.63408</south>
+</bbox>
+<score>36.66380310058594</score>
+</geoname>
+<geoname>
+<toponymName>Hall</toponymName>
+<name>Hall</name>
+<lat>49.74213</lat>
+<lng>7.67128</lng>
+<geonameId>2911542</geonameId>
+<countryCode>DE</countryCode>
+<countryName>Germany</countryName>
+<fcl>T</fcl>
+<fcode>HLL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>hill</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="RP">08</adminCode1>
+<adminName1>Rheinland-Pfalz</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Berlin</timezone>
+<score>36.66380310058594</score>
+</geoname>
+</geonames>

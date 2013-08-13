@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Brazo</toponymName>
+<name>Brazo</name>
+<lat>21.2</lat>
+<lng>-77.6</lng>
+<geonameId>3566915</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="09">05</adminCode1>
+<adminName1>Camagüey</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>44.02532196044922</score>
+</geoname>
+<geoname>
+<toponymName>El Brazo</toponymName>
+<name>El Brazo</name>
+<lat>20.45057</lat>
+<lng>-101.15613</lng>
+<geonameId>4010913</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Brazo,Brazos,El Brazo</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GUA">11</adminCode1>
+<adminName1>Guanajuato</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-101.16573</west>
+<north>20.45957</north>
+<east>-101.14653</east>
+<south>20.44158</south>
+</bbox>
+<score>31.130603790283203</score>
+</geoname>
+<geoname>
+<toponymName>Brazo</toponymName>
+<name>Brazo</name>
+<lat>5.8321</lat>
+<lng>-71.65522</lng>
+<geonameId>6196958</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>S</fcl>
+<fcode>FRM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farm</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="CAS">32</adminCode1>
+<adminName1>Casanare</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<score>13.757913589477539</score>
+</geoname>
+</geonames>

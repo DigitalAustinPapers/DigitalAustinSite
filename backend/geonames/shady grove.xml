@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>96</totalResultsCount>
+<geoname>
+<toponymName>Shady Grove</toponymName>
+<name>Shady Grove</name>
+<lat>37.12394</lat>
+<lng>-88.56588</lng>
+<geonameId>4249746</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>105</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>127</adminCode2>
+<adminName2>Massac County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Shady_Grove%2C_Illinois</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-88.57716</west>
+<north>37.13294</north>
+<east>-88.5546</east>
+<south>37.11495</south>
+</bbox>
+<score>52.510677337646484</score>
+</geoname>
+<geoname>
+<toponymName>Shady Grove</toponymName>
+<name>Shady Grove</name>
+<lat>37.33671</lat>
+<lng>-87.87918</lng>
+<geonameId>4308009</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>129</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>055</adminCode2>
+<adminName2>Crittenden County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Shady_Grove%2C_Kentucky</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-87.8905</west>
+<north>37.34571</north>
+<east>-87.86787</east>
+<south>37.32772</south>
+</bbox>
+<score>52.510677337646484</score>
+</geoname>
+<geoname>
+<toponymName>Shady Grove</toponymName>
+<name>Shady Grove</name>
+<lat>35.94426</lat>
+<lng>-95.09496</lng>
+<geonameId>4551124</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>556</population>
+<alternateNames/>
+<elevation>233</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OK">OK</adminCode1>
+<adminName1>Oklahoma</adminName1>
+<adminCode2>021</adminCode2>
+<adminName2>Cherokee County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Shady_Grove%2C_Cherokee_County%2C_Oklahoma</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-95.12844</west>
+<north>35.97332</north>
+<east>-95.04691</east>
+<south>35.91398</south>
+</bbox>
+<score>52.510677337646484</score>
+</geoname>
+<geoname>
+<toponymName>Shady Grove</toponymName>
+<name>Shady Grove</name>
+<lat>36.18925</lat>
+<lng>-96.28779</lng>
+<geonameId>4551126</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2</population>
+<alternateNames/>
+<elevation>242</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OK">OK</adminCode1>
+<adminName1>Oklahoma</adminName1>
+<adminCode2>117</adminCode2>
+<adminName2>Pawnee County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Shady_Grove%2C_Pawnee_County%2C_Oklahoma</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-96.2889</west>
+<north>36.19015</north>
+<east>-96.28667</east>
+<south>36.18835</south>
+</bbox>
+<score>52.510677337646484</score>
+</geoname>
+<geoname>
+<toponymName>Shady Grove</toponymName>
+<name>Shady Grove</name>
+<lat>31.23407</lat>
+<lng>-95.32383</lng>
+<geonameId>4727993</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>94</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>225</adminCode2>
+<adminName2>Houston County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Shady_Grove%2C_Texas</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-95.33435</west>
+<north>31.24306</north>
+<east>-95.31331</east>
+<south>31.22508</south>
+</bbox>
+<score>52.510677337646484</score>
+</geoname>
+<geoname>
+<toponymName>Shady Grove</toponymName>
+<name>Shady Grove</name>
+<lat>38.26041</lat>
+<lng>-78.59252</lng>
+<geonameId>4785004</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>267</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>079</adminCode2>
+<adminName2>Greene County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Shady_Grove%2C_Virginia</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-78.60397</west>
+<north>38.2694</north>
+<east>-78.58106</east>
+<south>38.25141</south>
+</bbox>
+<score>52.510677337646484</score>
+</geoname>
+<geoname>
+<toponymName>Shady Grove</toponymName>
+<name>Shady Grove</name>
+<lat>42.38055</lat>
+<lng>-92.0549</lng>
+<geonameId>4876007</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>283</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IA">IA</adminCode1>
+<adminName1>Iowa</adminName1>
+<adminCode2>019</adminCode2>
+<adminName2>Buchanan County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Shady_Grove%2C_Iowa</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.06708</west>
+<north>42.38954</north>
+<east>-92.04272</east>
+<south>42.37155</south>
+</bbox>
+<score>52.510677337646484</score>
+</geoname>
+<geoname>
+<toponymName>Shady Grove</toponymName>
+<name>Shady Grove</name>
+<lat>33.16901</lat>
+<lng>-86.00608</lng>
+<geonameId>4089284</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>289</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AL">AL</adminCode1>
+<adminName1>Alabama</adminName1>
+<adminCode2>027</adminCode2>
+<adminName2>Clay County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-86.01682</west>
+<north>33.178</north>
+<east>-85.99533</east>
+<south>33.16001</south>
+</bbox>
+<score>35.007118225097656</score>
+</geoname>
+<geoname>
+<toponymName>Shady Grove</toponymName>
+<name>Shady Grove</name>
+<lat>31.52405</lat>
+<lng>-86.03773</lng>
+<geonameId>4089285</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>102</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AL">AL</adminCode1>
+<adminName1>Alabama</adminName1>
+<adminCode2>031</adminCode2>
+<adminName2>Coffee County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-86.04828</west>
+<north>31.53305</north>
+<east>-86.02717</east>
+<south>31.51506</south>
+</bbox>
+<score>35.007118225097656</score>
+</geoname>
+<geoname>
+<toponymName>Shady Grove</toponymName>
+<name>Shady Grove</name>
+<lat>34.11398</lat>
+<lng>-86.15692</lng>
+<geonameId>4089286</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>332</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AL">AL</adminCode1>
+<adminName1>Alabama</adminName1>
+<adminCode2>055</adminCode2>
+<adminName2>Etowah County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-86.16778</west>
+<north>34.12298</north>
+<east>-86.14606</east>
+<south>34.10499</south>
+</bbox>
+<score>35.007118225097656</score>
+</geoname>
+</geonames>

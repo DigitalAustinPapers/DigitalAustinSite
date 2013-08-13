@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>7</totalResultsCount>
+<geoname>
+<toponymName>Lakes</toponymName>
+<name>Lakes</name>
+<lat>61.60712</lat>
+<lng>-149.30861</lng>
+<geonameId>7262905</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>8364</population>
+<alternateNames/>
+<elevation>109</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AK">AK</adminCode1>
+<adminName1>Alaska</adminName1>
+<adminCode2>170</adminCode2>
+<adminName2>Matanuska-Susitna Borough</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lakes%2C_Alaska</alternateName>
+<timezone dstOffset="-8.0" gmtOffset="-9.0">America/Anchorage</timezone>
+<bbox>
+<west>-149.35991</west>
+<north>61.64468</north>
+<east>-149.2493</east>
+<south>61.56955</south>
+</bbox>
+<score>84.1296157836914</score>
+</geoname>
+<geoname>
+<toponymName>Lakes</toponymName>
+<name>Lakes</name>
+<lat>6.75</lat>
+<lng>30</lng>
+<geonameId>408647</geonameId>
+<countryCode>SS</countryCode>
+<countryName>South Sudan</countryName>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>first-order administrative division</fcodeName>
+<population/>
+<alternateNames>Al Buhayrat,Al Buḩayrāt,El Buhayrat,Lakes,Lakes State,Wilayat al Buhayrat,Wilāyat al Buḩayrāt</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="LK">04</adminCode1>
+<adminName1>Lakes</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ar">Al Buḩayrāt</alternateName>
+<alternateName lang="en">Lakes</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lakes_%28state%29</alternateName>
+<timezone dstOffset="3.0" gmtOffset="3.0">Africa/Juba</timezone>
+<score>77.27798461914062</score>
+</geoname>
+<geoname>
+<toponymName>Mudīrīyat al Buḩayrāt</toponymName>
+<name>Mudīrīyat al Buḩayrāt</name>
+<lat>7</lat>
+<lng>29.5</lng>
+<geonameId>379602</geonameId>
+<countryCode>SS</countryCode>
+<countryName>South Sudan</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames>El Buheyrat,Lakes,Mudiriyat al Buhayrat,Mudīrīyat al Buḩayrāt,Province of Al-Buhayrat</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="LK">04</adminCode1>
+<adminName1>Lakes</adminName1>
+<adminCode2>379602</adminCode2>
+<adminName2>Mudīrīyat al Buḩayrāt</adminName2>
+<timezone dstOffset="3.0" gmtOffset="3.0">Africa/Juba</timezone>
+<score>44.6164665222168</score>
+</geoname>
+<geoname>
+<toponymName>Lakes</toponymName>
+<name>Lakes</name>
+<lat>13.23333</lat>
+<lng>-59.55</lng>
+<geonameId>3373745</geonameId>
+<countryCode>BB</countryCode>
+<countryName>Barbados</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="02">02</adminCode1>
+<adminName1>Saint Andrew</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Barbados</timezone>
+<bbox>
+<west>-59.55924</west>
+<north>13.24233</north>
+<east>-59.54076</east>
+<south>13.22434</south>
+</bbox>
+<score>42.0648078918457</score>
+</geoname>
+<geoname>
+<toponymName>Lakes</toponymName>
+<name>Lakes</name>
+<lat>37.50417</lat>
+<lng>-83.93722</lng>
+<geonameId>6332150</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>298</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>109</adminCode2>
+<adminName2>Jackson County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-83.94856</west>
+<north>37.51316</north>
+<east>-83.92588</east>
+<south>37.49517</south>
+</bbox>
+<score>42.0648078918457</score>
+</geoname>
+<geoname>
+<toponymName>Lakes</toponymName>
+<name>Lakes</name>
+<lat>54.44123</lat>
+<lng>-3.01824</lng>
+<geonameId>7298104</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C9</adminCode2>
+<adminName2>Cumbria</adminName2>
+<adminCode3>16UG</adminCode3>
+<adminName3>South Lakeland District</adminName3>
+<adminCode4>16UG039</adminCode4>
+<adminName4>Lakes</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lakes%2C_Cumbria</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.16714</west>
+<north>54.49986</north>
+<east>-2.86934</east>
+<south>54.38259</south>
+</bbox>
+<score>42.0648078918457</score>
+</geoname>
+<geoname>
+<toponymName>Lakes</toponymName>
+<name>Lakes</name>
+<lat>54.38</lat>
+<lng>-2.9057</lng>
+<geonameId>6466904</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>HTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>hotel</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C9</adminCode2>
+<adminName2>Cumbria</adminName2>
+<adminCode3>16UG</adminCode3>
+<adminName3>South Lakeland District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>13.145252227783203</score>
+</geoname>
+</geonames>

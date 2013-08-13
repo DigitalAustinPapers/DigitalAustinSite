@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>29</totalResultsCount>
+<geoname>
+<toponymName>Chillicothe</toponymName>
+<name>Chillicothe</name>
+<lat>39.33312</lat>
+<lng>-82.9824</lng>
+<geonameId>4828890</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>21901</population>
+<alternateNames/>
+<elevation>192</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>141</adminCode2>
+<adminName2>Ross County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Chillicothe%2C_Ohio</alternateName>
+<alternateName lang="post">45601</alternateName>
+<alternateName lang="unlc">CIY</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-83.00707</west>
+<north>39.3522</north>
+<east>-82.95773</east>
+<south>39.31404</south>
+</bbox>
+<score>17.523944854736328</score>
+</geoname>
+<geoname>
+<toponymName>City of Chillicothe</toponymName>
+<name>City of Chillicothe</name>
+<lat>39.33933</lat>
+<lng>-82.99369</lng>
+<geonameId>7316679</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>administrative division</fcodeName>
+<population>21901</population>
+<alternateNames/>
+<elevation>194</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>141</adminCode2>
+<adminName2>Ross County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-83.05347</west>
+<north>39.37385</north>
+<east>-82.94527</east>
+<south>39.31293</south>
+</bbox>
+<score>11.682628631591797</score>
+</geoname>
+<geoname>
+<toponymName>Chillicothe Park</toponymName>
+<name>Chillicothe Park</name>
+<lat>41.66477</lat>
+<lng>-81.31094</lng>
+<geonameId>5150001</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>L</fcl>
+<fcode>PRK</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>park</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>230</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>085</adminCode2>
+<adminName2>Lake County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>7.301642894744873</score>
+</geoname>
+<geoname>
+<toponymName>Comfort Inn Chillicothe</toponymName>
+<name>Comfort Inn Chillicothe</name>
+<lat>39.3498</lat>
+<lng>-82.9793</lng>
+<geonameId>6515029</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>HTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>hotel</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>141</adminCode2>
+<adminName2>Ross County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>2.8034050464630127</score>
+</geoname>
+<geoname>
+<toponymName>Ohio University Chillicothe Branch</toponymName>
+<name>Ohio University Chillicothe Branch</name>
+<lat>39.32812</lat>
+<lng>-83.00462</lng>
+<geonameId>4520363</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>SCH</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>school</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>251</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>141</adminCode2>
+<adminName2>Ross County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>2.7444262504577637</score>
+</geoname>
+<geoname>
+<toponymName>Chillicothe City Hall</toponymName>
+<name>Chillicothe City Hall</name>
+<lat>39.33256</lat>
+<lng>-82.98212</lng>
+<geonameId>4508489</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>BLDG</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>building(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>192</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>141</adminCode2>
+<adminName2>Ross County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>2.555575132369995</score>
+</geoname>
+<geoname>
+<toponymName>Chillicothe Correctional Institute Cemetery</toponymName>
+<name>Chillicothe Correctional Institute Cemetery</name>
+<lat>39.36645</lat>
+<lng>-83.02324</lng>
+<geonameId>4508490</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>CMTY</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>cemetery</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>213</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>141</adminCode2>
+<adminName2>Ross County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>2.555575132369995</score>
+</geoname>
+<geoname>
+<toponymName>Chillicothe Country Club</toponymName>
+<name>Chillicothe Country Club</name>
+<lat>39.33729</lat>
+<lng>-83.00713</lng>
+<geonameId>4508491</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>RSRT</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>resort</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>217</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>141</adminCode2>
+<adminName2>Ross County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>2.555575132369995</score>
+</geoname>
+<geoname>
+<toponymName>Chillicothe Federal Reformatory</toponymName>
+<name>Chillicothe Federal Reformatory</name>
+<lat>39.36479</lat>
+<lng>-83.01157</lng>
+<geonameId>4508492</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>BLDG</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>building(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>190</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>141</adminCode2>
+<adminName2>Ross County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>2.555575132369995</score>
+</geoname>
+<geoname>
+<toponymName>Chillicothe High School</toponymName>
+<name>Chillicothe High School</name>
+<lat>39.34173</lat>
+<lng>-82.98824</lng>
+<geonameId>4508493</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>SCH</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>school</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>192</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>141</adminCode2>
+<adminName2>Ross County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>2.555575132369995</score>
+</geoname>
+</geonames>

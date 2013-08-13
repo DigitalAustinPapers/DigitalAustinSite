@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>8</totalResultsCount>
+<geoname>
+<toponymName>North</toponymName>
+<name>North</name>
+<lat>22.49471</lat>
+<lng>114.13812</lng>
+<geonameId>7533617</geonameId>
+<countryCode>HK</countryCode>
+<countryName>Hong Kong</countryName>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>first-order administrative division</fcodeName>
+<population>280730</population>
+<alternateNames/>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="NNO">NNO</adminCode1>
+<adminName1>North</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/North_District,_Hong_Kong</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Hong_Kong</timezone>
+<score>125.19499969482422</score>
+</geoname>
+<geoname>
+<toponymName>North</toponymName>
+<name>North</name>
+<lat>33.61571</lat>
+<lng>-81.10204</lng>
+<geonameId>4589360</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>754</population>
+<alternateNames/>
+<elevation>84</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SC">SC</adminCode1>
+<adminName1>South Carolina</adminName1>
+<adminCode2>075</adminCode2>
+<adminName2>Orangeburg County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/North%2C_South_Carolina</alternateName>
+<alternateName lang="post">29112</alternateName>
+<alternateName lang="unlc">NOR</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-81.10312</west>
+<north>33.61661</north>
+<east>-81.10096</east>
+<south>33.61481</south>
+</bbox>
+<score>52.164581298828125</score>
+</geoname>
+<geoname>
+<toponymName>North Region</toponymName>
+<name>North Province</name>
+<lat>8.5</lat>
+<lng>14</lng>
+<geonameId>2223603</geonameId>
+<countryCode>CM</countryCode>
+<countryName>Cameroon</countryName>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>first-order administrative division</fcodeName>
+<population/>
+<alternateNames>Nord,North,North Province,North Region,Province du Nord,Region du Nord,Région du Nord</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="NO">13</adminCode1>
+<adminName1>North Province</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">North Province</alternateName>
+<alternateName lang="fr">Nord</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/North_Region_%28Cameroon%29</alternateName>
+<timezone dstOffset="1.0" gmtOffset="1.0">Africa/Douala</timezone>
+<bbox>
+<west>12.23694</west>
+<north>10.22833</north>
+<east>15.58444</east>
+<south>7.02278</south>
+</bbox>
+<score>44.263118743896484</score>
+</geoname>
+<geoname>
+<toponymName>North</toponymName>
+<name>North</name>
+<lat>4.96887</lat>
+<lng>7.65985</lng>
+<geonameId>2328724</geonameId>
+<countryCode>NG</countryCode>
+<countryName>Nigeria</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="AK">21</adminCode1>
+<adminName1>Akwa Ibom</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="1.0">Africa/Lagos</timezone>
+<bbox>
+<west>7.65082</west>
+<north>4.97786</north>
+<east>7.66888</east>
+<south>4.95988</south>
+</bbox>
+<score>41.731666564941406</score>
+</geoname>
+<geoname>
+<toponymName>Département du Nord</toponymName>
+<name>North</name>
+<lat>50.33333</lat>
+<lng>3.66667</lng>
+<geonameId>2990129</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>2613285</population>
+<alternateNames>Departement du Nord,Département du Nord,Nord,Norte,North</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="O">B4</adminCode1>
+<adminName1>Nord-Pas-de-Calais</adminName1>
+<adminCode2>59</adminCode2>
+<adminName2>North</adminName2>
+<alternateName lang="de">Nord</alternateName>
+<alternateName lang="en">North</alternateName>
+<alternateName lang="es">Norte</alternateName>
+<alternateName lang="fr">Nord</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Nord_%28French_department%29</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>2.06771</west>
+<north>51.0894</north>
+<east>4.23013</east>
+<south>49.97066</south>
+</bbox>
+<score>29.508745193481445</score>
+</geoname>
+<geoname>
+<toponymName>Grande Região Norte</toponymName>
+<name>Grande Região Norte</name>
+<lat>-4</lat>
+<lng>-60</lng>
+<geonameId>3398712</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>L</fcl>
+<fcode>RGN</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>region</fcodeName>
+<population/>
+<alternateNames>Amazonica Brasileira,Amazônica Brasileira,Grande Regiao Norte,Grande Região Norte,Norte,North,Regiao Amazonica,Região Amazônica</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Manaus</timezone>
+<score>25.820152282714844</score>
+</geoname>
+<geoname>
+<toponymName>North River</toponymName>
+<name>North River</name>
+<lat>-3.93049</lat>
+<lng>141.50854</lng>
+<geonameId>2089472</geonameId>
+<countryCode>PG</countryCode>
+<countryName>Papua New Guinea</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>Brigi River,North,North River</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="SAN">18</adminCode1>
+<adminName1>Sandaun</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="10.0" gmtOffset="10.0">Pacific/Port_Moresby</timezone>
+<score>18.44296646118164</score>
+</geoname>
+<geoname>
+<toponymName>North</toponymName>
+<name>North</name>
+<lat>37.4443</lat>
+<lng>-76.40633</lng>
+<geonameId>4776270</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>3</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>115</adminCode2>
+<adminName2>Mathews County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>13.041145324707031</score>
+</geoname>
+</geonames>

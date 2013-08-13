@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Custom House</toponymName>
+<name>Custom House</name>
+<lat>42.52148</lat>
+<lng>-71.88702</lng>
+<geonameId>4934385</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>BLDG</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>building(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>272</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MA">MA</adminCode1>
+<adminName1>Massachusetts</adminName1>
+<adminCode2>009</adminCode2>
+<adminName2>Essex County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>12.984212875366211</score>
+</geoname>
+<geoname>
+<toponymName>Custom House</toponymName>
+<name>Custom House</name>
+<lat>36.60302</lat>
+<lng>-121.89495</lng>
+<geonameId>5341200</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>BLDG</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>building(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>10</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>053</adminCode2>
+<adminName2>Monterey County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>12.984212875366211</score>
+</geoname>
+<geoname>
+<toponymName>Customs House</toponymName>
+<name>Customs House</name>
+<lat>38.90567</lat>
+<lng>-77.06109</lng>
+<geonameId>4138173</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>BLDG</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>building(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>21</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="DC">DC</adminCode1>
+<adminName1>Washington, D.C.</adminName1>
+<adminCode2>001</adminCode2>
+<adminName2>US.DC.001</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>5.4027252197265625</score>
+</geoname>
+</geonames>

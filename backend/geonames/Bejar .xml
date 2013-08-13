@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>7</totalResultsCount>
+<geoname>
+<toponymName>Béjar</toponymName>
+<name>Béjar</name>
+<lat>40.38884</lat>
+<lng>-5.77199</lng>
+<geonameId>6360302</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population>15007</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="CL">55</adminCode1>
+<adminName1>Castille and León</adminName1>
+<adminCode2>SA</adminCode2>
+<adminName2>Salamanca</adminName2>
+<adminCode3>37046</adminCode3>
+<adminName3>Béjar</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Madrid</timezone>
+<bbox>
+<west>-5.83897</west>
+<north>40.42539</north>
+<east>-5.69007</east>
+<south>40.33773</south>
+</bbox>
+<score>73.61341094970703</score>
+</geoname>
+<geoname>
+<toponymName>Béjar</toponymName>
+<name>Béjar</name>
+<lat>40.38641</lat>
+<lng>-5.76341</lng>
+<geonameId>3128382</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>15007</population>
+<alternateNames>Bejal,Bejar,Bekhar,Béjar,bei ha er,Бехар,贝哈尔</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="CL">55</adminCode1>
+<adminName1>Castille and León</adminName1>
+<adminCode2>SA</adminCode2>
+<adminName2>Salamanca</adminName2>
+<adminCode3>37046</adminCode3>
+<adminName3>Béjar</adminName3>
+<alternateName lang="ext">Bejal</alternateName>
+<alternateName lang="kk">Бехар</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/B%C3%A9jar</alternateName>
+<alternateName lang="post">37700</alternateName>
+<alternateName lang="ru">Бехар</alternateName>
+<alternateName lang="uk">Бехар</alternateName>
+<alternateName lang="unlc">BJR</alternateName>
+<alternateName lang="zh">贝哈尔</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Madrid</timezone>
+<bbox>
+<west>-5.78386</west>
+<north>40.40199</north>
+<east>-5.74295</east>
+<south>40.37083</south>
+</bbox>
+<score>59.48862075805664</score>
+</geoname>
+<geoname>
+<toponymName>Bejar</toponymName>
+<name>Bejar</name>
+<lat>40.48944</lat>
+<lng>19.82944</lng>
+<geonameId>3186099</geonameId>
+<countryCode>AL</countryCode>
+<countryName>Albania</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Bejar,Bejari</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="04">44</adminCode1>
+<adminName1>Fier</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Tirane</timezone>
+<bbox>
+<west>19.81762</west>
+<north>40.49844</north>
+<east>19.84127</east>
+<south>40.48045</south>
+</bbox>
+<score>51.51865768432617</score>
+</geoname>
+<geoname>
+<toponymName>Bijār</toponymName>
+<name>Bijār</name>
+<lat>29.65737</lat>
+<lng>64.48947</lng>
+<geonameId>1146612</geonameId>
+<countryCode>AF</countryCode>
+<countryName>Afghanistan</countryName>
+<fcl>T</fcl>
+<fcode>HLL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>hill</fcodeName>
+<population/>
+<alternateNames>Bejar,Bejār,Bijar,Bijār,Gora Bidzhar,bjar,بجار</alternateNames>
+<elevation>1432</elevation>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="HEL">10</adminCode1>
+<adminName1>Helmand</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="4.5" gmtOffset="4.5">Asia/Kabul</timezone>
+<score>45.078826904296875</score>
+</geoname>
+<geoname>
+<toponymName>Béjar</toponymName>
+<name>Béjar</name>
+<lat>22.88333</lat>
+<lng>-82.15</lng>
+<geonameId>3567550</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1>MA</adminCode1>
+<adminName1>Provincia Mayabeque</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>42.0648078918457</score>
+</geoname>
+<geoname>
+<toponymName>Bejār</toponymName>
+<name>Bejār</name>
+<lat>27.9039</lat>
+<lng>61.6581</lng>
+<geonameId>7034424</geonameId>
+<countryCode>IR</countryCode>
+<countryName>Iran</countryName>
+<fcl>S</fcl>
+<fcode>CMP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>camp(s)</fcodeName>
+<population/>
+<alternateNames>Bejar,Bejār,bjar,بجار</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="13">04</adminCode1>
+<adminName1>Sīstān va Balūchestān</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="fa">بجار</alternateName>
+<timezone dstOffset="4.5" gmtOffset="3.5">Asia/Tehran</timezone>
+<score>22.3082332611084</score>
+</geoname>
+<geoname>
+<toponymName>Bejār</toponymName>
+<name>Bejār</name>
+<lat>28.86974</lat>
+<lng>63.8029</lng>
+<geonameId>1374665</geonameId>
+<countryCode>PK</countryCode>
+<countryName>Pakistan</countryName>
+<fcl>H</fcl>
+<fcode>STMI</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>intermittent stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="BA">02</adminCode1>
+<adminName1>Balochistān</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="5.0" gmtOffset="5.0">Asia/Karachi</timezone>
+<score>13.145252227783203</score>
+</geoname>
+</geonames>

@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>91</totalResultsCount>
+<geoname>
+<toponymName>Highlands</toponymName>
+<name>Highlands</name>
+<lat>29.81884</lat>
+<lng>-95.05604</lng>
+<geonameId>4697652</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>7522</population>
+<alternateNames/>
+<elevation>11</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>201</adminCode2>
+<adminName2>Harris County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Highlands%2C_Texas</alternateName>
+<alternateName lang="post">77562</alternateName>
+<alternateName lang="unlc">HIN</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-95.06874</west>
+<north>29.82985</north>
+<east>-95.04334</east>
+<south>29.80782</south>
+</bbox>
+<score>52.73521041870117</score>
+</geoname>
+<geoname>
+<toponymName>Highlands</toponymName>
+<name>Highlands</name>
+<lat>48.16671</lat>
+<lng>-58.93183</lng>
+<geonameId>5974991</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NL">05</adminCode1>
+<adminName1>Newfoundland and Labrador</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Highlands%2C_Newfoundland_and_Labrador</alternateName>
+<timezone dstOffset="-2.5" gmtOffset="-3.5">America/St_Johns</timezone>
+<score>52.73521041870117</score>
+</geoname>
+<geoname>
+<toponymName>Highlands</toponymName>
+<name>Highlands</name>
+<lat>48.51633</lat>
+<lng>-123.50261</lng>
+<geonameId>5974993</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="BC">02</adminCode1>
+<adminName1>British Columbia</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Highlands%2C_British_Columbia</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Vancouver</timezone>
+<score>43.946006774902344</score>
+</geoname>
+<geoname>
+<toponymName>Highlands</toponymName>
+<name>Highlands Estate</name>
+<lat>-17.79475</lat>
+<lng>31.10851</lng>
+<geonameId>890176</geonameId>
+<countryCode>ZW</countryCode>
+<countryName>Zimbabwe</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames>Highlands,Highlands Estate</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="HA">10</adminCode1>
+<adminName1>Harare Province</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Highlands Estate</alternateName>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Harare</timezone>
+<bbox>
+<west>31.10473</west>
+<north>-17.79115</north>
+<east>31.11228</east>
+<south>-17.79835</south>
+</bbox>
+<score>37.67585754394531</score>
+</geoname>
+<geoname>
+<toponymName>Highlands</toponymName>
+<name>Highlands</name>
+<lat>-20.27472</lat>
+<lng>57.51111</lng>
+<geonameId>934435</geonameId>
+<countryCode>MU</countryCode>
+<countryName>Mauritius</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="PW">17</adminCode1>
+<adminName1>Plaines Wilhems</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="4.0" gmtOffset="4.0">Indian/Mauritius</timezone>
+<bbox>
+<west>57.50152</west>
+<north>-20.26573</north>
+<east>57.5207</east>
+<south>-20.28372</south>
+</bbox>
+<score>35.15680694580078</score>
+</geoname>
+<geoname>
+<toponymName>Highlands</toponymName>
+<name>Highlands</name>
+<lat>-33.33654</lat>
+<lng>26.31425</lng>
+<geonameId>996566</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="EC">05</adminCode1>
+<adminName1>Eastern Cape</adminName1>
+<adminCode2>DC10</adminCode2>
+<adminName2>Cacadu District Municipality</adminName2>
+<adminCode3>EC104</adminCode3>
+<adminName3>Makana</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<bbox>
+<west>26.30348</west>
+<north>-33.32755</north>
+<east>26.32501</east>
+<south>-33.34553</south>
+</bbox>
+<score>35.15680694580078</score>
+</geoname>
+<geoname>
+<toponymName>Highlands</toponymName>
+<name>Highlands</name>
+<lat>-31.54858</lat>
+<lng>26.42095</lng>
+<geonameId>996567</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="EC">05</adminCode1>
+<adminName1>Eastern Cape</adminName1>
+<adminCode2>DC13</adminCode2>
+<adminName2>Chris Hani District Municipality</adminName2>
+<adminCode3>EC133</adminCode3>
+<adminName3>Inkwanca</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<bbox>
+<west>26.4104</west>
+<north>-31.53958</north>
+<east>26.4315</east>
+<south>-31.55757</south>
+</bbox>
+<score>35.15680694580078</score>
+</geoname>
+<geoname>
+<toponymName>Highlands</toponymName>
+<name>Highlands</name>
+<lat>-31.2553</lat>
+<lng>25.57154</lng>
+<geonameId>996568</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="EC">05</adminCode1>
+<adminName1>Eastern Cape</adminName1>
+<adminCode2>DC14</adminCode2>
+<adminName2>Joe Gqabi District Municipality</adminName2>
+<adminCode3>EC144</adminCode3>
+<adminName3>Gariep</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<bbox>
+<west>25.56102</west>
+<north>-31.24631</north>
+<east>25.58206</east>
+<south>-31.2643</south>
+</bbox>
+<score>35.15680694580078</score>
+</geoname>
+<geoname>
+<toponymName>Highlands</toponymName>
+<name>Highlands</name>
+<lat>-30.33382</lat>
+<lng>29.95198</lng>
+<geonameId>996569</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="EC">05</adminCode1>
+<adminName1>Eastern Cape</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<bbox>
+<west>29.94156</west>
+<north>-30.32482</north>
+<east>29.9624</east>
+<south>-30.34281</south>
+</bbox>
+<score>35.15680694580078</score>
+</geoname>
+<geoname>
+<toponymName>Highlands</toponymName>
+<name>Highlands</name>
+<lat>-29.26667</lat>
+<lng>31.2</lng>
+<geonameId>996570</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="ZN">02</adminCode1>
+<adminName1>KwaZulu-Natal</adminName1>
+<adminCode2>DC29</adminCode2>
+<adminName2>iLembe District Municipality</adminName2>
+<adminCode3>KZN292</adminCode3>
+<adminName3>KwaDukuza</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<bbox>
+<west>31.18969</west>
+<north>-29.25767</north>
+<east>31.21031</east>
+<south>-29.27566</south>
+</bbox>
+<score>35.15680694580078</score>
+</geoname>
+</geonames>

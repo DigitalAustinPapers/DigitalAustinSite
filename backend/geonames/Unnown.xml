@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Unknown</toponymName>
+<name>Unknown</name>
+<lat>25.85106</lat>
+<lng>88.24131</lng>
+<geonameId>7487588</geonameId>
+<countryCode>BD</countryCode>
+<countryName>Bangladesh</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Unknown</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="F">87</adminCode1>
+<adminName1>Rangpur Division</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="bn">Unknown</alternateName>
+<timezone dstOffset="6.0" gmtOffset="6.0">Asia/Dhaka</timezone>
+<bbox>
+<west>88.23132</west>
+<north>25.86005</north>
+<east>88.25131</east>
+<south>25.84206</south>
+</bbox>
+<score>40.43986511230469</score>
+</geoname>
+<geoname>
+<toponymName>Unknown</toponymName>
+<name>Unknown</name>
+<lat>-18.21667</lat>
+<lng>29.75</lng>
+<geonameId>879580</geonameId>
+<countryCode>ZW</countryCode>
+<countryName>Zimbabwe</countryName>
+<fcl>S</fcl>
+<fcode>MN</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>mine(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Harare</timezone>
+<score>13.757923126220703</score>
+</geoname>
+<geoname>
+<toponymName>Unknown</toponymName>
+<name>Unknown</name>
+<lat>35.1604</lat>
+<lng>-81.9171</lng>
+<geonameId>7312626</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>BLDG</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>building(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>285</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SC">SC</adminCode1>
+<adminName1>South Carolina</adminName1>
+<adminCode2>083</adminCode2>
+<adminName2>Spartanburg County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>13.757923126220703</score>
+</geoname>
+</geonames>

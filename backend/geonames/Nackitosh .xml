@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Natchitoches Parish</toponymName>
+<name>Natchitoches Parish</name>
+<lat>31.72354</lat>
+<lng>-93.09624</lng>
+<geonameId>4334734</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>39566</population>
+<alternateNames>Nachitosh,Natchitoches Paroecia,Paroisse de Natchitoches,Paroisse des Natchitoches,Parokya han Natchitoches,Paroquia de Natchitoches,Parrocchia di Natchitoches,Parroquia de Natchitoches,Paróquia de Natchitoches,Quan Natchitoches,Quận Natchitoches,na ji tuo shen xian,nacitocesa parisa,naketeshu jun,Начітош,Նաչիտոշ շրջան,ناچیٹوچس پارش,নাচিটোচেস পারিশ,ナケテシュ郡,納基托什縣</alternateNames>
+<elevation>34</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>069</adminCode2>
+<adminName2>Natchitoches Parish</adminName2>
+<alternateName lang="bpy">নাচিটোচেস পারিশ</alternateName>
+<alternateName lang="es">Parroquia de Natchitoches</alternateName>
+<alternateName lang="fr">Paroisse de Natchitoches</alternateName>
+<alternateName lang="hy">Նաչիտոշ շրջան</alternateName>
+<alternateName lang="it">Parrocchia di Natchitoches</alternateName>
+<alternateName lang="ja">ナケテシュ郡</alternateName>
+<alternateName lang="la">Natchitoches Paroecia</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Natchitoches_Parish%2C_Louisiana</alternateName>
+<alternateName lang="pnb">ناچیٹوچس پارش</alternateName>
+<alternateName lang="pt">Paróquia de Natchitoches</alternateName>
+<alternateName lang="uk">Начітош</alternateName>
+<alternateName lang="vi">Quận Natchitoches</alternateName>
+<alternateName lang="war">Parokya han Natchitoches</alternateName>
+<alternateName lang="zh">納基托什縣</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-93.4418</west>
+<north>32.14877</north>
+<east>-92.71905</east>
+<south>31.34677</south>
+</bbox>
+<score>34.4893798828125</score>
+</geoname>
+</geonames>

@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>23</totalResultsCount>
+<geoname>
+<toponymName>Marietta</toponymName>
+<name>Marietta</name>
+<lat>33.9526</lat>
+<lng>-84.54993</lng>
+<geonameId>4207783</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>56579</population>
+<alternateNames>MGE,Marieta,Marietta,Merijeta,ma li ai ta,maelieta,marietta,Мариета,Мариетта,Меријета,マリエッタ,玛丽埃塔,매리에타</alternateNames>
+<elevation>344</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">GA</adminCode1>
+<adminName1>Georgia</adminName1>
+<adminCode2>067</adminCode2>
+<adminName2>Cobb County</adminName2>
+<alternateName lang="bg">Мариета</alternateName>
+<alternateName lang="de">Marietta</alternateName>
+<alternateName lang="en">Marietta</alternateName>
+<alternateName lang="iata">MGE</alternateName>
+<alternateName lang="io">Marietta</alternateName>
+<alternateName lang="ja">マリエッタ</alternateName>
+<alternateName lang="ko">매리에타</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Marietta%2C_Georgia</alternateName>
+<alternateName lang="post">30007</alternateName>
+<alternateName lang="ru">Мариетта</alternateName>
+<alternateName lang="sr">Меријета</alternateName>
+<alternateName lang="unlc">MGE</alternateName>
+<alternateName lang="zh">玛丽埃塔</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-84.58711</west>
+<north>33.98343</north>
+<east>-84.51275</east>
+<south>33.92177</south>
+</bbox>
+<score>82.6412582397461</score>
+</geoname>
+<geoname>
+<toponymName>Marietta</toponymName>
+<name>Marietta</name>
+<lat>40.05704</lat>
+<lng>-76.55219</lng>
+<geonameId>5199879</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2588</population>
+<alternateNames>Marietta,Мариетта</alternateNames>
+<elevation>84</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PA">PA</adminCode1>
+<adminName1>Pennsylvania</adminName1>
+<adminCode2>071</adminCode2>
+<adminName2>Lancaster County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Marietta%2C_Pennsylvania</alternateName>
+<alternateName lang="post">17547</alternateName>
+<alternateName lang="ru">Мариетта</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-76.5605</west>
+<north>40.0634</north>
+<east>-76.54388</east>
+<south>40.05068</south>
+</bbox>
+<score>68.86771392822266</score>
+</geoname>
+<geoname>
+<toponymName>Marietta</toponymName>
+<name>Marietta</name>
+<lat>39.44144</lat>
+<lng>-85.88387</lng>
+<geonameId>4260970</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>220</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IN">IN</adminCode1>
+<adminName1>Indiana</adminName1>
+<adminCode2>145</adminCode2>
+<adminName2>Shelby County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Marietta%2C_Indiana</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Indiana/Indianapolis</timezone>
+<bbox>
+<west>-85.89552</west>
+<north>39.45043</north>
+<east>-85.87223</east>
+<south>39.43245</south>
+</bbox>
+<score>58.436195373535156</score>
+</geoname>
+<geoname>
+<toponymName>Marietta</toponymName>
+<name>Marietta</name>
+<lat>42.90896</lat>
+<lng>-76.32354</lng>
+<geonameId>5126004</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>243</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>067</adminCode2>
+<adminName2>Onondaga County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Marietta%2C_New_York</alternateName>
+<alternateName lang="post">13110</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-76.33582</west>
+<north>42.91795</north>
+<east>-76.31126</east>
+<south>42.89996</south>
+</bbox>
+<score>58.436195373535156</score>
+</geoname>
+<geoname>
+<toponymName>Marietta</toponymName>
+<name>Marietta</name>
+<lat>38.24326</lat>
+<lng>-118.33874</lng>
+<geonameId>5507821</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1508</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NV">NV</adminCode1>
+<adminName1>Nevada</adminName1>
+<adminCode2>021</adminCode2>
+<adminName2>Mineral County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Marietta%2C_Nevada</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-118.35019</west>
+<north>38.25225</north>
+<east>-118.32728</east>
+<south>38.23427</south>
+</bbox>
+<score>58.436195373535156</score>
+</geoname>
+<geoname>
+<toponymName>Marietta</toponymName>
+<name>Marietta</name>
+<lat>34.50204</lat>
+<lng>-88.46894</lng>
+<geonameId>4434897</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>256</population>
+<alternateNames>Marietta,Мариетта</alternateNames>
+<elevation>116</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MS">MS</adminCode1>
+<adminName1>Mississippi</adminName1>
+<adminCode2>117</adminCode2>
+<adminName2>Prentiss County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Marietta%2C_Mississippi</alternateName>
+<alternateName lang="post">38856</alternateName>
+<alternateName lang="ru">Мариетта</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-88.47003</west>
+<north>34.50294</north>
+<east>-88.46785</east>
+<south>34.50114</south>
+</bbox>
+<score>55.094173431396484</score>
+</geoname>
+<geoname>
+<toponymName>Marietta</toponymName>
+<name>Marietta</name>
+<lat>34.36878</lat>
+<lng>-79.12226</lng>
+<geonameId>4477997</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>175</population>
+<alternateNames>Marietta,Мариетта</alternateNames>
+<elevation>27</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NC">NC</adminCode1>
+<adminName1>North Carolina</adminName1>
+<adminCode2>155</adminCode2>
+<adminName2>Robeson County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Marietta%2C_North_Carolina</alternateName>
+<alternateName lang="post">28362</alternateName>
+<alternateName lang="ru">Мариетта</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-79.12335</west>
+<north>34.36967</north>
+<east>-79.12117</east>
+<south>34.36788</south>
+</bbox>
+<score>55.094173431396484</score>
+</geoname>
+<geoname>
+<toponymName>Marietta</toponymName>
+<name>Marietta</name>
+<lat>33.93704</lat>
+<lng>-97.11668</lng>
+<geonameId>4542164</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>2626</population>
+<alternateNames>Marietta,Мариетта</alternateNames>
+<elevation>258</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OK">OK</adminCode1>
+<adminName1>Oklahoma</adminName1>
+<adminCode2>085</adminCode2>
+<adminName2>Love County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Marietta%2C_Oklahoma</alternateName>
+<alternateName lang="post">73448</alternateName>
+<alternateName lang="ru">Мариетта</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-97.14065</west>
+<north>33.9499</north>
+<east>-97.10647</east>
+<south>33.91814</south>
+</bbox>
+<score>55.094173431396484</score>
+</geoname>
+<geoname>
+<toponymName>Marietta</toponymName>
+<name>Marietta</name>
+<lat>33.17346</lat>
+<lng>-94.54242</lng>
+<geonameId>4709144</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>134</population>
+<alternateNames>Marietta,Мариетта</alternateNames>
+<elevation>107</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>067</adminCode2>
+<adminName2>Cass County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Marietta%2C_Texas</alternateName>
+<alternateName lang="post">75566</alternateName>
+<alternateName lang="ru">Мариетта</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-94.5435</west>
+<north>33.17436</north>
+<east>-94.54135</east>
+<south>33.17256</south>
+</bbox>
+<score>55.094173431396484</score>
+</geoname>
+<geoname>
+<toponymName>Marietta</toponymName>
+<name>Marietta</name>
+<lat>40.50115</lat>
+<lng>-90.39263</lng>
+<geonameId>4901186</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>112</population>
+<alternateNames>Marietta,Мариетта</alternateNames>
+<elevation>198</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>057</adminCode2>
+<adminName2>Fulton County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Marietta%2C_Illinois</alternateName>
+<alternateName lang="post">61459</alternateName>
+<alternateName lang="ru">Мариетта</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.39805</west>
+<north>40.50333</north>
+<east>-90.388</east>
+<south>40.49545</south>
+</bbox>
+<score>55.094173431396484</score>
+</geoname>
+</geonames>

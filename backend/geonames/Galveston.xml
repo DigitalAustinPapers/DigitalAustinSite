@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>7</totalResultsCount>
+<geoname>
+<toponymName>Galveston</toponymName>
+<name>Galveston</name>
+<lat>29.30135</lat>
+<lng>-94.7977</lng>
+<geonameId>4692883</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>47743</population>
+<alternateNames>GLS,Galveston,garubesuton,Галвестон,ガルベストン</alternateNames>
+<elevation>2</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>167</adminCode2>
+<adminName2>Galveston County</adminName2>
+<alternateName lang="de">Galveston</alternateName>
+<alternateName lang="en">Galveston</alternateName>
+<alternateName lang="eo">Galveston</alternateName>
+<alternateName lang="es">Galveston</alternateName>
+<alternateName lang="fi">Galveston</alternateName>
+<alternateName lang="fr">Galveston</alternateName>
+<alternateName lang="iata">GLS</alternateName>
+<alternateName lang="ja">ガルベストン</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Galveston%2C_Texas</alternateName>
+<alternateName lang="nl">Galveston</alternateName>
+<alternateName lang="no">Galveston</alternateName>
+<alternateName lang="pl">Galveston</alternateName>
+<alternateName lang="post">77555</alternateName>
+<alternateName lang="ru">Галвестон</alternateName>
+<alternateName lang="sv">Galveston</alternateName>
+<alternateName lang="unlc">GLS</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-94.82991</west>
+<north>29.32943</north>
+<east>-94.76548</east>
+<south>29.27327</south>
+</bbox>
+<score>97.49259948730469</score>
+</geoname>
+<geoname>
+<toponymName>Galveston</toponymName>
+<name>Galveston</name>
+<lat>40.57893</lat>
+<lng>-86.19027</lng>
+<geonameId>4920577</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1311</population>
+<alternateNames>Galveston,Галвестон</alternateNames>
+<elevation>244</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IN">IN</adminCode1>
+<adminName1>Indiana</adminName1>
+<adminCode2>017</adminCode2>
+<adminName2>Cass County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Galveston%2C_Indiana</alternateName>
+<alternateName lang="post">46932</alternateName>
+<alternateName lang="ru">Галвестон</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Indiana/Indianapolis</timezone>
+<bbox>
+<west>-86.19619</west>
+<north>40.58342</north>
+<east>-86.18435</east>
+<south>40.57443</south>
+</bbox>
+<score>67.59896087646484</score>
+</geoname>
+<geoname>
+<toponymName>Galveston</toponymName>
+<name>Galveston</name>
+<lat>36.91986</lat>
+<lng>-79.38336</lng>
+<geonameId>4760423</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>245</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>143</adminCode2>
+<adminName2>Pittsylvania County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Galveston%2C_Virginia</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-79.39461</west>
+<north>36.92886</north>
+<east>-79.37211</east>
+<south>36.91087</south>
+</bbox>
+<score>57.359619140625</score>
+</geoname>
+<geoname>
+<toponymName>Galveston</toponymName>
+<name>Galveston</name>
+<lat>27.28333</lat>
+<lng>-102.36667</lng>
+<geonameId>4006003</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Galveston,Rancho Galveston,Rancho Gálveston</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="COA">07</adminCode1>
+<adminName1>Coahuila</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<bbox>
+<west>-102.37679</west>
+<north>27.29233</north>
+<east>-102.35655</east>
+<south>27.27434</south>
+</bbox>
+<score>40.97969055175781</score>
+</geoname>
+<geoname>
+<toponymName>Galveston</toponymName>
+<name>Galveston</name>
+<lat>37.4401</lat>
+<lng>-82.62877</lng>
+<geonameId>4292497</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>277</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>071</adminCode2>
+<adminName2>Floyd County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-82.64009</west>
+<north>37.44909</north>
+<east>-82.61744</east>
+<south>37.43111</south>
+</bbox>
+<score>38.23974609375</score>
+</geoname>
+<geoname>
+<toponymName>Galveston County</toponymName>
+<name>Galveston County</name>
+<lat>29.37997</lat>
+<lng>-94.86267</lng>
+<geonameId>4692856</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>291309</population>
+<alternateNames>Comte de Galveston,Comté de Galveston,Condado de Galveston,Condado han Galveston,Contea di Galveston,County Galveston,Galveston,Galveston Comitatus,Galveston srjan,Galvistun,Hrabstwo Galveston,Okrug Galveston,Quan Galveston,Quận Galveston,galabhesatana ka'unti,garubesuton jun,jia er wei si dun xian,Галвестон,Галвистън,Округ Галвестон,Ґалвестон,Գալվեստոն շրջան,مقاطعة غالفيستون، تكساس,گالووسٹن کاؤنٹی,গালভেসটন কাউন্টি,ガルベストン郡,加尔维斯顿县</alternateNames>
+<elevation>5</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>167</adminCode2>
+<adminName2>Galveston County</adminName2>
+<alternateName lang="ar">مقاطعة غالفيستون، تكساس</alternateName>
+<alternateName lang="bg">Галвистън</alternateName>
+<alternateName lang="bpy">গালভেসটন কাউন্টি</alternateName>
+<alternateName lang="es">Condado de Galveston</alternateName>
+<alternateName lang="fr">Comté de Galveston</alternateName>
+<alternateName lang="hy">Գալվեստոն շրջան</alternateName>
+<alternateName lang="id">County Galveston</alternateName>
+<alternateName lang="it">Contea di Galveston</alternateName>
+<alternateName lang="ja">ガルベストン郡</alternateName>
+<alternateName lang="la">Galveston Comitatus</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Galveston_County%2C_Texas</alternateName>
+<alternateName lang="pl">Hrabstwo Galveston</alternateName>
+<alternateName lang="pnb">گالووسٹن کاؤنٹی</alternateName>
+<alternateName lang="pt">Condado de Galveston</alternateName>
+<alternateName lang="ru">Галвестон</alternateName>
+<alternateName lang="sr">Округ Галвестон</alternateName>
+<alternateName lang="uk">Ґалвестон</alternateName>
+<alternateName lang="vi">Quận Galveston</alternateName>
+<alternateName lang="war">Condado han Galveston</alternateName>
+<alternateName lang="zh">加尔维斯顿县</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-95.23331</west>
+<north>29.60191</north>
+<east>-94.37258</east>
+<south>29.07975</south>
+</bbox>
+<score>29.27120590209961</score>
+</geoname>
+<geoname>
+<toponymName>Garveston</toponymName>
+<name>Garveston</name>
+<lat>52.61667</lat>
+<lng>0.98333</lng>
+<geonameId>2648794</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UB</adminCode3>
+<adminName3>Breckland District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.96852</west>
+<north>52.62566</north>
+<east>0.99815</east>
+<south>52.60767</south>
+</bbox>
+<score>19.951656341552734</score>
+</geoname>
+</geonames>

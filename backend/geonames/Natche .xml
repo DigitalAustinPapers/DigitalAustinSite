@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>31</totalResultsCount>
+<geoname>
+<toponymName>Natchez</toponymName>
+<name>Natchez</name>
+<lat>38.61727</lat>
+<lng>-86.71083</lng>
+<geonameId>4261986</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>154</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IN">IN</adminCode1>
+<adminName1>Indiana</adminName1>
+<adminCode2>101</adminCode2>
+<adminName2>Martin County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Natchez%2C_Indiana</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Indiana/Vincennes</timezone>
+<bbox>
+<west>-86.72234</west>
+<north>38.62627</north>
+<east>-86.69932</east>
+<south>38.60828</south>
+</bbox>
+<score>15.814638137817383</score>
+</geoname>
+<geoname>
+<toponymName>Natchez</toponymName>
+<name>Natchez</name>
+<lat>31.67544</lat>
+<lng>-93.04461</lng>
+<geonameId>4334717</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>597</population>
+<alternateNames/>
+<elevation>32</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>069</adminCode2>
+<adminName2>Natchitoches Parish</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Natchez%2C_Louisiana</alternateName>
+<alternateName lang="post">71456</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-93.04566</west>
+<north>31.67634</north>
+<east>-93.04355</east>
+<south>31.67454</south>
+</bbox>
+<score>15.814638137817383</score>
+</geoname>
+<geoname>
+<toponymName>Natchez</toponymName>
+<name>Natchez</name>
+<lat>31.56044</lat>
+<lng>-91.40317</lng>
+<geonameId>4437982</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>15792</population>
+<alternateNames>HEZ,Natchez,na qi ci,natshyz, msysyby,nchyz, mysysypy,Натчез,ناتشيز، مسيسيبي,نچیز، میسیسیپی,纳奇兹</alternateNames>
+<elevation>66</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MS">MS</adminCode1>
+<adminName1>Mississippi</adminName1>
+<adminCode2>001</adminCode2>
+<adminName2>Adams County</adminName2>
+<alternateName lang="ar">ناتشيز، مسيسيبي</alternateName>
+<alternateName lang="fa">نچیز، میسیسیپی</alternateName>
+<alternateName lang="iata">HEZ</alternateName>
+<alternateName lang="kk">Натчез</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Natchez%2C_Mississippi</alternateName>
+<alternateName lang="post">39121</alternateName>
+<alternateName lang="ru">Натчез</alternateName>
+<alternateName lang="zh">纳奇兹</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-91.4222</west>
+<north>31.57666</north>
+<east>-91.38414</east>
+<south>31.54423</south>
+</bbox>
+<score>14.586332321166992</score>
+</geoname>
+<geoname>
+<toponymName>Namche</toponymName>
+<name>Namche</name>
+<lat>27.83148</lat>
+<lng>86.66619</lng>
+<geonameId>7801420</geonameId>
+<countryCode>NP</countryCode>
+<countryName>Nepal</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="4">ER</adminCode1>
+<adminName1>Eastern Region</adminName1>
+<adminCode2>13</adminCode2>
+<adminName2>Sagarmāthā Zone</adminName2>
+<adminCode3>11</adminCode3>
+<adminName3>Solukhumbū</adminName3>
+<adminCode4>110024</adminCode4>
+<adminName4>Namche</adminName4>
+<timezone dstOffset="5.75" gmtOffset="5.75">Asia/Kathmandu</timezone>
+<score>14.411558151245117</score>
+</geoname>
+<geoname>
+<toponymName>Nanche</toponymName>
+<name>Nanche</name>
+<lat>15.7698</lat>
+<lng>-96.44871</lng>
+<geonameId>3522851</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Nanche,Nanche Dulce</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OAX">20</adminCode1>
+<adminName1>Oaxaca</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-96.45806</west>
+<north>15.77879</north>
+<east>-96.43937</east>
+<south>15.76081</south>
+</bbox>
+<score>12.651331901550293</score>
+</geoname>
+<geoname>
+<toponymName>Nanche</toponymName>
+<name>Nanche</name>
+<lat>21.79957</lat>
+<lng>-105.06203</lng>
+<geonameId>3995127</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Estacion Nanchi,Estación Nanchi,Nanche,Nanchi</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NAY">18</adminCode1>
+<adminName1>Nayarit</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Mazatlan</timezone>
+<bbox>
+<west>-105.07172</west>
+<north>21.80856</north>
+<east>-105.05234</east>
+<south>21.79057</south>
+</bbox>
+<score>12.651331901550293</score>
+</geoname>
+<geoname>
+<toponymName>Na Che</toponymName>
+<name>Na Che</name>
+<lat>21.25</lat>
+<lng>103.9</lng>
+<geonameId>1573914</geonameId>
+<countryCode>VN</countryCode>
+<countryName>Vietnam</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="05">32</adminCode1>
+<adminName1>Sơn La</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="7.0" gmtOffset="7.0">Asia/Ho_Chi_Minh</timezone>
+<bbox>
+<west>103.89035</west>
+<north>21.25899</north>
+<east>103.90965</east>
+<south>21.24101</south>
+</bbox>
+<score>12.126544952392578</score>
+</geoname>
+<geoname>
+<toponymName>Natches</toponymName>
+<name>Natches</name>
+<lat>33.21089</lat>
+<lng>-110.30009</lng>
+<geonameId>5306188</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>780</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AZ">AZ</adminCode1>
+<adminName1>Arizona</adminName1>
+<adminCode2>009</adminCode2>
+<adminName2>Graham County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-7.0">America/Phoenix</timezone>
+<bbox>
+<west>-110.31084</west>
+<north>33.21988</north>
+<east>-110.28934</east>
+<south>33.2019</south>
+</bbox>
+<score>12.126544952392578</score>
+</geoname>
+<geoname>
+<toponymName>Naatche</toponymName>
+<name>Naatche</name>
+<lat>-13.71167</lat>
+<lng>35.96861</lng>
+<geonameId>1035120</geonameId>
+<countryCode>MZ</countryCode>
+<countryName>Mozambique</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>Naache,Naatche</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="A">07</adminCode1>
+<adminName1>Niassa</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Maputo</timezone>
+<score>11.243705749511719</score>
+</geoname>
+<geoname>
+<toponymName>Natache</toponymName>
+<name>Natache</name>
+<lat>-15.53333</lat>
+<lng>35.8</lng>
+<geonameId>925118</geonameId>
+<countryCode>MW</countryCode>
+<countryName>Malawi</countryName>
+<fcl>T</fcl>
+<fcode>HLL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>hill</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="S">S</adminCode1>
+<adminName1>Southern Region</adminName1>
+<adminCode2>30</adminCode2>
+<adminName2>Phalombe</adminName2>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Blantyre</timezone>
+<score>11.114604949951172</score>
+</geoname>
+</geonames>

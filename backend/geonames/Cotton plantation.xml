@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Coulon Plantation</toponymName>
+<name>Coulon Plantation</name>
+<lat>29.81465</lat>
+<lng>-90.82954</lng>
+<geonameId>4320946</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>3</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>057</adminCode2>
+<adminName2>Lafourche Parish</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.8399</west>
+<north>29.82365</north>
+<east>-90.81917</east>
+<south>29.80566</south>
+</bbox>
+<score>44.356380462646484</score>
+</geoname>
+<geoname>
+<toponymName>Cottage Plantation</toponymName>
+<name>Cottage Plantation</name>
+<lat>30.35575</lat>
+<lng>-91.23094</lng>
+<geonameId>4320858</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>9</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>033</adminCode2>
+<adminName2>East Baton Rouge Parish</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>3.6299033164978027</score>
+</geoname>
+<geoname>
+<toponymName>Cottage Plantation</toponymName>
+<name>Cottage Plantation</name>
+<lat>30.85351</lat>
+<lng>-91.36539</lng>
+<geonameId>4320859</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>53</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>125</adminCode2>
+<adminName2>West Feliciana Parish</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>3.6299033164978027</score>
+</geoname>
+<geoname>
+<toponymName>Cottage Plantation</toponymName>
+<name>Cottage Plantation</name>
+<lat>32.65462</lat>
+<lng>-80.14176</lng>
+<geonameId>4575693</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>9</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SC">SC</adminCode1>
+<adminName1>South Carolina</adminName1>
+<adminCode2>019</adminCode2>
+<adminName2>Charleston County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>3.6299033164978027</score>
+</geoname>
+</geonames>

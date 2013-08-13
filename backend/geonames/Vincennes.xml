@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>6</totalResultsCount>
+<geoname>
+<toponymName>Vincennes</toponymName>
+<name>Vincennes</name>
+<lat>48.8486</lat>
+<lng>2.43769</lng>
+<geonameId>2968054</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>45923</population>
+<alternateNames>Vensen,Vensenn,Vilcenia,Vincennes,baengsen,fansyn,vu~ansen'nu,wen sen,wsn,Венсен,Венсенн,فانسين,وسن,ヴァンセンヌ,文森,뱅센</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="J">A8</adminCode1>
+<adminName1>Île-de-France</adminName1>
+<adminCode2>94</adminCode2>
+<adminName2>Val-de-Marne</adminName2>
+<adminCode3>942</adminCode3>
+<adminName3>Arrondissement de Nogent-sur-Marne</adminName3>
+<adminCode4>94080</adminCode4>
+<adminName4>Vincennes</adminName4>
+<alternateName lang="ar">فانسين</alternateName>
+<alternateName lang="be">Венсен</alternateName>
+<alternateName lang="de">Vincennes</alternateName>
+<alternateName lang="en">Vincennes</alternateName>
+<alternateName lang="eo">Vincennes</alternateName>
+<alternateName lang="es">Vincennes</alternateName>
+<alternateName lang="fa">وسن</alternateName>
+<alternateName lang="fr">Vincennes</alternateName>
+<alternateName lang="it">Vincennes</alternateName>
+<alternateName lang="ja">ヴァンセンヌ</alternateName>
+<alternateName lang="kk">Венсенн</alternateName>
+<alternateName lang="ko">뱅센</alternateName>
+<alternateName lang="la">Vilcenia</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Vincennes</alternateName>
+<alternateName lang="mzn">وسن</alternateName>
+<alternateName lang="nl">Vincennes</alternateName>
+<alternateName lang="pl">Vincennes</alternateName>
+<alternateName lang="post">94300</alternateName>
+<alternateName lang="pt">Vincennes</alternateName>
+<alternateName lang="ru">Венсен</alternateName>
+<alternateName lang="sr">Венсен</alternateName>
+<alternateName lang="sv">Vincennes</alternateName>
+<alternateName lang="uk">Венсенн</alternateName>
+<alternateName lang="unlc">VCN</alternateName>
+<alternateName lang="zh">文森</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>2.39554</west>
+<north>48.87632</north>
+<east>2.47984</east>
+<south>48.82088</south>
+</bbox>
+<score>94.68159484863281</score>
+</geoname>
+<geoname>
+<toponymName>Vincennes</toponymName>
+<name>Vincennes</name>
+<lat>38.67727</lat>
+<lng>-87.52863</lng>
+<geonameId>4266307</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>18423</population>
+<alternateNames>OEA</alternateNames>
+<elevation>128</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IN">IN</adminCode1>
+<adminName1>Indiana</adminName1>
+<adminCode2>083</adminCode2>
+<adminName2>Knox County</adminName2>
+<alternateName lang="iata">OEA</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Vincennes%2C_Indiana</alternateName>
+<alternateName lang="post">47591</alternateName>
+<alternateName lang="unlc">OEA</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Indiana/Vincennes</timezone>
+<bbox>
+<west>-87.55095</west>
+<north>38.69469</north>
+<east>-87.50632</east>
+<south>38.65985</south>
+</bbox>
+<score>53.0531120300293</score>
+</geoname>
+<geoname>
+<toponymName>Vincennes</toponymName>
+<name>Vincennes</name>
+<lat>48.84778</lat>
+<lng>2.43917</lng>
+<geonameId>6613142</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population>48689</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="J">A8</adminCode1>
+<adminName1>Île-de-France</adminName1>
+<adminCode2>94</adminCode2>
+<adminName2>Val-de-Marne</adminName2>
+<adminCode3>942</adminCode3>
+<adminName3>Arrondissement de Nogent-sur-Marne</adminName3>
+<adminCode4>94080</adminCode4>
+<adminName4>Vincennes</adminName4>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>2.41897</west>
+<north>48.85279</north>
+<east>2.45623</east>
+<south>48.84158</south>
+</bbox>
+<score>53.0531120300293</score>
+</geoname>
+<geoname>
+<toponymName>Vincennes</toponymName>
+<name>Vincennes</name>
+<lat>12.05796</lat>
+<lng>-61.68691</lng>
+<geonameId>3579832</geonameId>
+<countryCode>GD</countryCode>
+<countryName>Grenada</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="02">02</adminCode1>
+<adminName1>Saint David</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Grenada</timezone>
+<bbox>
+<west>-61.69611</west>
+<north>12.06696</north>
+<east>-61.67772</east>
+<south>12.04897</south>
+</bbox>
+<score>42.44248962402344</score>
+</geoname>
+<geoname>
+<toponymName>Vincennes</toponymName>
+<name>Vincennes</name>
+<lat>40.49643</lat>
+<lng>-91.56988</lng>
+<geonameId>4880240</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>168</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IA">IA</adminCode1>
+<adminName1>Iowa</adminName1>
+<adminCode2>111</adminCode2>
+<adminName2>Lee County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-91.58171</west>
+<north>40.50542</north>
+<east>-91.55805</east>
+<south>40.48744</south>
+</bbox>
+<score>42.44248962402344</score>
+</geoname>
+<geoname>
+<toponymName>Atoll Kauehi</toponymName>
+<name>Atoll Kauehi</name>
+<lat>-15.85</lat>
+<lng>-145.15</lng>
+<geonameId>4034346</geonameId>
+<countryCode>PF</countryCode>
+<countryName>French Polynesia</countryName>
+<fcl>T</fcl>
+<fcode>ATOL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>atoll(s)</fcodeName>
+<population/>
+<alternateNames>Atoll Kauehi,Cavahi,Kaoueh,Kaueai,Kaueh,Kauehi,Kauéai,Kawahe,Kawahi,Kawehe,Vincennes,Vincennes Island</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kauehi</alternateName>
+<timezone dstOffset="-10.0" gmtOffset="-10.0">Pacific/Tahiti</timezone>
+<score>26.259950637817383</score>
+</geoname>
+</geonames>

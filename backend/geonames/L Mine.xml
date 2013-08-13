@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>L Mine</toponymName>
+<name>L Mine</name>
+<lat>45.57324</lat>
+<lng>-115.46346</lng>
+<geonameId>5597984</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>MN</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>mine(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1806</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ID">ID</adminCode1>
+<adminName1>Idaho</adminName1>
+<adminCode2>049</adminCode2>
+<adminName2>Idaho County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>13.619909286499023</score>
+</geoname>
+<geoname>
+<toponymName>L Mine</toponymName>
+<name>L Mine</name>
+<lat>41.28444</lat>
+<lng>-88.23111</lng>
+<geonameId>7134140</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>MN</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>mine(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>169</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>197</adminCode2>
+<adminName2>Will County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>13.619909286499023</score>
+</geoname>
+<geoname>
+<toponymName>Le Pinay</toponymName>
+<name>Le Pinay</name>
+<lat>18.35</lat>
+<lng>-73.8</lng>
+<geonameId>3722278</geonameId>
+<countryCode>HT</countryCode>
+<countryName>Haiti</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>L'Pine,Le Pinay,L’Pine</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SD">12</adminCode1>
+<adminName1>Sud</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Port-au-Prince</timezone>
+<bbox>
+<west>-73.80948</west>
+<north>18.35899</north>
+<east>-73.79052</east>
+<south>18.34101</south>
+</bbox>
+<score>5.730203628540039</score>
+</geoname>
+<geoname>
+<toponymName>L. Miño</toponymName>
+<name>L. Miño</name>
+<lat>-31.68263</lat>
+<lng>-58.39835</lng>
+<geonameId>8056956</geonameId>
+<countryCode>AR</countryCode>
+<countryName>Argentina</countryName>
+<fcl>S</fcl>
+<fcode>HSE</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>house(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="E">08</adminCode1>
+<adminName1>Entre Ríos</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Argentina/Cordoba</timezone>
+<score>2.387584686279297</score>
+</geoname>
+</geonames>

@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>76</totalResultsCount>
+<geoname>
+<toponymName>Belize</toponymName>
+<name>Belize</name>
+<lat>17.25</lat>
+<lng>-88.75</lng>
+<geonameId>3582678</geonameId>
+<countryCode>BZ</countryCode>
+<countryName>Belize</countryName>
+<fcl>A</fcl>
+<fcode>PCLI</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>independent political entity</fcodeName>
+<population>314522</population>
+<alternateNames>An Bheilis,An Bheilís,Balize,Be-li-xe,Beilise,Beles,Belice,Belice - Belize,Belici,Beliis,Beliise,Belis,Belisa,Belisaen,Belise,Belisän,Beliz,Beliza,Belizas,Belize,Belize nutome,Belizi,Belizo,Belizɛ,Beliże,Belsin Orn,Belís,Belîze,Belîzi,Berij,Bhelize,Bilisi,British Honduras,Bélis,Bê-li-xê,Bẹ̀lísè,Hueycopan,Hueyicopan,Huēyicopan,IBhelizi,Mbelise,Mpelize,Orileede Belise,Orílẹ́ède Bèlísẹ̀,Pelise,Wilisi,Yn Veleesh,be lis,belij,belija,belijha,belijhe,belis,beliya,beliz,beliza,belizi,belizu,bellijeu,berizu,blyz,bo li zi,bylayz,bylyz,bېlyz,i-Belize,pelicu,pelis,pra thes be lis,Μπελίζε,Μπελίσε,Белиз,Белизе,Белисе,Белсин Орн,Беліз,Բելիզ,בליז,בעליזע,بليز,بلیز,بيليز,بیلائز,بیلیز,بېلىز,بېلیز,بەلیز,ބެލީޒު,बेलिज,बेलिझ,बेलिझे,बेलीज,बेलीज़,বেলিজ,বেলিয,ਬੇਲੀਜ਼,બેલીઝ,ବେଲିଜ,ବେଲିଜ୍,பெலிஸ்,பெலீசு,బెలిజ్,బెలీజ్,ಬೆಲಿಜ್,ಬೆಲೀಜ್,ബെലീസ്,බෙලීස්,ประเทศเบลีซ,เบลีซ,ເບລິຊ,བེ་ལི་ཛི།,བེ་ལིཛ།,ဘလိဇ်နိုင်ငံ,ဘေလီဇ်,ბელიზი,ቤሊዘ,ቤሊዝ,បេលីហ្ស,ベリーズ,伯利兹,벨리즈</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="af">Belize</alternateName>
+<alternateName lang="ak">Beliz</alternateName>
+<alternateName lang="am">ቤሊዝ</alternateName>
+<alternateName lang="an">Belize</alternateName>
+<alternateName lang="ar">بليز</alternateName>
+<alternateName lang="arz">بيليز</alternateName>
+<alternateName lang="ast">Belice</alternateName>
+<alternateName lang="ay">Wilisi</alternateName>
+<alternateName lang="az">Beliz</alternateName>
+<alternateName lang="ba">Белиз</alternateName>
+<alternateName lang="bcl">Belisa</alternateName>
+<alternateName lang="be">Беліз</alternateName>
+<alternateName lang="bg">Белиз</alternateName>
+<alternateName lang="bm">Belizi</alternateName>
+<alternateName lang="bn">বেলিয</alternateName>
+<alternateName lang="bo">བེ་ལིཛ།</alternateName>
+<alternateName lang="bpy">বেলিজ</alternateName>
+<alternateName lang="br">Belize</alternateName>
+<alternateName lang="bs">Belise</alternateName>
+<alternateName lang="bxr">Белиз</alternateName>
+<alternateName lang="ca">Belize</alternateName>
+<alternateName lang="ce">Белиз</alternateName>
+<alternateName lang="ckb">بەلیز</alternateName>
+<alternateName lang="crh">Beliz</alternateName>
+<alternateName lang="cs">Belize</alternateName>
+<alternateName lang="cv">Белиз</alternateName>
+<alternateName lang="cy">Belize</alternateName>
+<alternateName lang="da">Belize</alternateName>
+<alternateName lang="de">Belize</alternateName>
+<alternateName lang="diq">Beliz</alternateName>
+<alternateName lang="dv">ބެލީޒު</alternateName>
+<alternateName lang="dz">བེ་ལིཛ།</alternateName>
+<alternateName lang="ee">Belize nutome</alternateName>
+<alternateName lang="el">Μπελίσε</alternateName>
+<alternateName lang="en">Belize</alternateName>
+<alternateName lang="eo">Belizo</alternateName>
+<alternateName lang="es">Belice</alternateName>
+<alternateName lang="et">Belize</alternateName>
+<alternateName lang="eu">Belize</alternateName>
+<alternateName lang="ext">Belici</alternateName>
+<alternateName lang="fa">بلیز</alternateName>
+<alternateName lang="ff">Beliise</alternateName>
+<alternateName lang="fi">Belize</alternateName>
+<alternateName lang="fo">Belis</alternateName>
+<alternateName lang="fr">Belize</alternateName>
+<alternateName lang="frp">Belize</alternateName>
+<alternateName lang="ga">An Bheilís</alternateName>
+<alternateName lang="gag">Beliz</alternateName>
+<alternateName lang="gd">Beilise</alternateName>
+<alternateName lang="gl">Belice</alternateName>
+<alternateName lang="gn">Mbelise</alternateName>
+<alternateName lang="gu">બેલીઝ</alternateName>
+<alternateName lang="gv">Yn Veleesh</alternateName>
+<alternateName lang="ha">Beliz</alternateName>
+<alternateName lang="hbs">Belize</alternateName>
+<alternateName lang="he">בליז</alternateName>
+<alternateName lang="hi">बेलीज़</alternateName>
+<alternateName lang="hr">Belize</alternateName>
+<alternateName lang="ht">Beliz</alternateName>
+<alternateName lang="hu">Beliz</alternateName>
+<alternateName lang="hy">Բելիզ</alternateName>
+<alternateName lang="ia">Belize</alternateName>
+<alternateName lang="id">Belize</alternateName>
+<alternateName lang="ilo">Belis</alternateName>
+<alternateName lang="io">Belize</alternateName>
+<alternateName lang="is">Belís</alternateName>
+<alternateName lang="it">Belize</alternateName>
+<alternateName lang="ja">ベリーズ</alternateName>
+<alternateName lang="jbo">beliz</alternateName>
+<alternateName lang="jv">Belize</alternateName>
+<alternateName lang="ka">ბელიზი</alternateName>
+<alternateName lang="ki">Belize</alternateName>
+<alternateName lang="kk">Белиз</alternateName>
+<alternateName lang="kl">Belize</alternateName>
+<alternateName lang="km">បេលីហ្ស</alternateName>
+<alternateName lang="kn">ಬೆಲಿಜ್</alternateName>
+<alternateName lang="ko">벨리즈</alternateName>
+<alternateName lang="ks">बेलीज</alternateName>
+<alternateName lang="ku">بەلیز</alternateName>
+<alternateName lang="kw">Belisa</alternateName>
+<alternateName lang="la">Beliza</alternateName>
+<alternateName lang="lg">Belize</alternateName>
+<alternateName lang="lij">Belize</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Belize</alternateName>
+<alternateName lang="ln">Belizɛ</alternateName>
+<alternateName lang="lo">ເບລິຊ</alternateName>
+<alternateName lang="lt">Belizas</alternateName>
+<alternateName lang="lu">Belize</alternateName>
+<alternateName lang="lv">Beliza</alternateName>
+<alternateName lang="mg">Belize</alternateName>
+<alternateName lang="mhr">Белиз</alternateName>
+<alternateName lang="mk">Белизе</alternateName>
+<alternateName lang="ml">ബെലീസ്</alternateName>
+<alternateName lang="mn">Белиз</alternateName>
+<alternateName lang="mr">बेलिझे</alternateName>
+<alternateName lang="mrj">Белиз</alternateName>
+<alternateName lang="ms">Belize</alternateName>
+<alternateName lang="mt">Beliże</alternateName>
+<alternateName lang="my">ဘေလီဇ်</alternateName>
+<alternateName lang="na">Berij</alternateName>
+<alternateName lang="nah">Huēyicopan</alternateName>
+<alternateName lang="nb">Belize</alternateName>
+<alternateName lang="nd">Bhelize</alternateName>
+<alternateName lang="nds">Belize</alternateName>
+<alternateName lang="ne">बेलिज</alternateName>
+<alternateName lang="nl">Belize</alternateName>
+<alternateName lang="nn">Belize</alternateName>
+<alternateName lang="no">Belize</alternateName>
+<alternateName lang="nov">Beliz</alternateName>
+<alternateName lang="oc">Belize</alternateName>
+<alternateName lang="or">ବେଲିଜ୍</alternateName>
+<alternateName lang="os">Белиз</alternateName>
+<alternateName lang="pa">ਬੇਲੀਜ਼</alternateName>
+<alternateName lang="pam">Belize</alternateName>
+<alternateName lang="pih">Beles</alternateName>
+<alternateName lang="pl">Belize</alternateName>
+<alternateName lang="pms">Belize</alternateName>
+<alternateName lang="pnb">بیلیز</alternateName>
+<alternateName lang="ps">بېلیز</alternateName>
+<alternateName lang="pt">Belize</alternateName>
+<alternateName lang="qu">Bilisi</alternateName>
+<alternateName lang="rm">Belize</alternateName>
+<alternateName lang="rn">Belize</alternateName>
+<alternateName lang="ro">Belize</alternateName>
+<alternateName lang="ru">Белиз</alternateName>
+<alternateName lang="rue">Беліз</alternateName>
+<alternateName lang="sa">बेलीज</alternateName>
+<alternateName lang="sah">Белиз</alternateName>
+<alternateName lang="scn">Belizi</alternateName>
+<alternateName lang="se">Belize</alternateName>
+<alternateName lang="sg">Belîzi</alternateName>
+<alternateName lang="si">බෙලීස්</alternateName>
+<alternateName lang="sk">Belize</alternateName>
+<alternateName lang="sl">Belize</alternateName>
+<alternateName lang="sn">Belize</alternateName>
+<alternateName lang="so">Belize</alternateName>
+<alternateName lang="sq">Beliza</alternateName>
+<alternateName lang="sr">Белисе</alternateName>
+<alternateName lang="ss">IBhelizi</alternateName>
+<alternateName lang="su">Bélis</alternateName>
+<alternateName lang="sv">Belize</alternateName>
+<alternateName lang="sw">Belize</alternateName>
+<alternateName lang="ta">பெலீசு</alternateName>
+<alternateName lang="te">బెలీజ్</alternateName>
+<alternateName lang="tg">Белиз</alternateName>
+<alternateName lang="th">เบลีซ</alternateName>
+<alternateName lang="ti">ቤሊዘ</alternateName>
+<alternateName lang="tl">Belise</alternateName>
+<alternateName lang="to">Pelise</alternateName>
+<alternateName lang="tr">Belize</alternateName>
+<alternateName lang="tt">Белиз</alternateName>
+<alternateName lang="ug">بېلىز</alternateName>
+<alternateName lang="uk">Беліз</alternateName>
+<alternateName lang="ur">بیلائز</alternateName>
+<alternateName lang="uz">Beliz</alternateName>
+<alternateName lang="vi">Bê-li-xê</alternateName>
+<alternateName lang="vo">Belisän</alternateName>
+<alternateName lang="wo">Beliis</alternateName>
+<alternateName lang="xal">Белсин Орн</alternateName>
+<alternateName lang="yi">בעליזע</alternateName>
+<alternateName lang="yo">Orílẹ́ède Bèlísẹ̀</alternateName>
+<alternateName lang="zh">伯利兹</alternateName>
+<alternateName lang="zu">i-Belize</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Belize</timezone>
+<bbox>
+<west>-89.22482</west>
+<north>18.49656</north>
+<east>-87.46812</east>
+<south>15.8893</south>
+</bbox>
+<score>16.49858856201172</score>
+</geoname>
+<geoname>
+<toponymName>Baliza</toponymName>
+<name>Baliza</name>
+<lat>-16.36672</lat>
+<lng>-52.43611</lng>
+<geonameId>6319151</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>3714</population>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="GO">29</adminCode1>
+<adminName1>Goiás</adminName1>
+<adminCode2>5203104</adminCode2>
+<adminName2>Baliza</adminName2>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Sao_Paulo</timezone>
+<bbox>
+<west>-52.6932</west>
+<north>-16.08196</north>
+<east>-52.19421</east>
+<south>-16.59866</south>
+</bbox>
+<score>12.315450668334961</score>
+</geoname>
+<geoname>
+<toponymName>Balite</toponymName>
+<name>Balite</name>
+<lat>11.1944</lat>
+<lng>124.3858</lng>
+<geonameId>1728022</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Balife,Balite,Baliti</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="08">08</adminCode1>
+<adminName1>Eastern Visayas</adminName1>
+<adminCode2>37</adminCode2>
+<adminName2>Leyte</adminName2>
+<alternateName lang="en">Balite</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<bbox>
+<west>124.37663</west>
+<north>11.20339</north>
+<east>124.39497</east>
+<south>11.18541</south>
+</bbox>
+<score>9.902482986450195</score>
+</geoname>
+<geoname>
+<toponymName>Balice</toponymName>
+<name>Balice</name>
+<lat>50.08799</lat>
+<lng>19.79462</lng>
+<geonameId>3103896</geonameId>
+<countryCode>PL</countryCode>
+<countryName>Poland</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1200</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="MA">77</adminCode1>
+<adminName1>Lesser Poland Voivodeship</adminName1>
+<adminCode2>1206</adminCode2>
+<adminName2>Powiat krakowski</adminName2>
+<adminCode3>120616</adminCode3>
+<adminName3>Zabierzów</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Balice%2C_Lesser_Poland_Voivodeship</alternateName>
+<alternateName lang="unlc">BLI</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Warsaw</timezone>
+<bbox>
+<west>19.78761</west>
+<north>50.09248</north>
+<east>19.80163</east>
+<south>50.08349</south>
+</bbox>
+<score>9.275166511535645</score>
+</geoname>
+<geoname>
+<toponymName>Balazé</toponymName>
+<name>Balazé</name>
+<lat>48.16797</lat>
+<lng>-1.19157</lng>
+<geonameId>3035263</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2101</population>
+<alternateNames>Balaze,Balazé,Belezeg</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="E">A2</adminCode1>
+<adminName1>Brittany</adminName1>
+<adminCode2>35</adminCode2>
+<adminName2>Ille-et-Vilaine</adminName2>
+<adminCode3>351</adminCode3>
+<adminName3>Arrondissement de Fougères-Vitré</adminName3>
+<adminCode4>35015</adminCode4>
+<adminName4>Balazé</adminName4>
+<alternateName lang="br">Belezeg</alternateName>
+<alternateName lang="fr">Balazé</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Balaz%C3%A9</alternateName>
+<alternateName lang="post">35500</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>-1.19831</west>
+<north>48.17247</north>
+<east>-1.18483</east>
+<south>48.16347</south>
+</bbox>
+<score>9.01689624786377</score>
+</geoname>
+<geoname>
+<toponymName>Banize</toponymName>
+<name>Banize</name>
+<lat>45.93158</lat>
+<lng>1.99825</lng>
+<geonameId>3035141</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Banize</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="L">B1</adminCode1>
+<adminName1>Limousin</adminName1>
+<adminCode2>23</adminCode2>
+<adminName2>Creuse</adminName2>
+<adminCode3>231</adminCode3>
+<adminName3>Arrondissement d'Aubusson</adminName3>
+<adminCode4>23016</adminCode4>
+<adminName4>Banize</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Banize</alternateName>
+<alternateName lang="post">23120</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>1.98532</west>
+<north>45.94058</north>
+<east>2.01118</east>
+<south>45.92259</south>
+</bbox>
+<score>8.730571746826172</score>
+</geoname>
+<geoname>
+<toponymName>Baliza</toponymName>
+<name>Baliza</name>
+<lat>-16.19611</lat>
+<lng>-52.545</lng>
+<geonameId>3471041</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Balisa</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="GO">29</adminCode1>
+<adminName1>Goiás</adminName1>
+<adminCode2>5203104</adminCode2>
+<adminName2>Baliza</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Baliza</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-3.0">America/Cuiaba</timezone>
+<bbox>
+<west>-52.55436</west>
+<north>-16.18712</north>
+<east>-52.53564</east>
+<south>-16.2051</south>
+</bbox>
+<score>7.389270782470703</score>
+</geoname>
+<geoname>
+<toponymName>Bláže</toponymName>
+<name>Bláže</name>
+<lat>48.81399</lat>
+<lng>19.19569</lng>
+<geonameId>3061051</geonameId>
+<countryCode>SK</countryCode>
+<countryName>Slovakia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Balaze,Baláže</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="BC">01</adminCode1>
+<adminName1>Banskobystrický</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bal%C3%A1%C5%BEe</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Bratislava</timezone>
+<bbox>
+<west>19.18203</west>
+<north>48.82298</north>
+<east>19.20935</east>
+<south>48.80499</south>
+</bbox>
+<score>7.128481864929199</score>
+</geoname>
+<geoname>
+<toponymName>Balazé</toponymName>
+<name>Balazé</name>
+<lat>48.16889</lat>
+<lng>-1.19167</lng>
+<geonameId>6448514</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population>2125</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="E">A2</adminCode1>
+<adminName1>Brittany</adminName1>
+<adminCode2>35</adminCode2>
+<adminName2>Ille-et-Vilaine</adminName2>
+<adminCode3>351</adminCode3>
+<adminName3>Arrondissement de Fougères-Vitré</adminName3>
+<adminCode4>35015</adminCode4>
+<adminName4>Balazé</adminName4>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>-1.22614</west>
+<north>48.21415</north>
+<east>-1.13886</east>
+<south>48.13819</south>
+</bbox>
+<score>7.128481864929199</score>
+</geoname>
+<geoname>
+<toponymName>Banize</toponymName>
+<name>Banize</name>
+<lat>45.9306</lat>
+<lng>1.9979</lng>
+<geonameId>6616128</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population>160</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="L">B1</adminCode1>
+<adminName1>Limousin</adminName1>
+<adminCode2>23</adminCode2>
+<adminName2>Creuse</adminName2>
+<adminCode3>231</adminCode3>
+<adminName3>Arrondissement d'Aubusson</adminName3>
+<adminCode4>23016</adminCode4>
+<adminName4>Banize</adminName4>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>1.95583</west>
+<north>45.96554</north>
+<east>2.03146</east>
+<south>45.91212</south>
+</bbox>
+<score>7.128481864929199</score>
+</geoname>
+</geonames>

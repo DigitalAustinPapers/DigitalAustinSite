@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Yeomans</toponymName>
+<name>Yeomans</name>
+<lat>31.83544</lat>
+<lng>-84.46686</lng>
+<geonameId>4232175</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>121</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">GA</adminCode1>
+<adminName1>Georgia</adminName1>
+<adminCode2>273</adminCode2>
+<adminName2>Terrell County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-84.47745</west>
+<north>31.84444</north>
+<east>-84.45627</east>
+<south>31.82645</south>
+</bbox>
+<score>37.59611129760742</score>
+</geoname>
+<geoname>
+<toponymName>Yeomans</toponymName>
+<name>Yeomans</name>
+<lat>39.6506</lat>
+<lng>-90.04094</lng>
+<geonameId>4253543</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>210</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>137</adminCode2>
+<adminName2>Morgan County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.05263</west>
+<north>39.6596</north>
+<east>-90.02926</east>
+<south>39.64161</south>
+</bbox>
+<score>37.59611129760742</score>
+</geoname>
+<geoname>
+<toponymName>Yeomans</toponymName>
+<name>Yeomans</name>
+<lat>42.58472</lat>
+<lng>-96.41503</lng>
+<geonameId>4882613</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>413</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IA">IA</adminCode1>
+<adminName1>Iowa</adminName1>
+<adminCode2>149</adminCode2>
+<adminName2>Plymouth County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-96.42725</west>
+<north>42.59371</north>
+<east>-96.40281</east>
+<south>42.57572</south>
+</bbox>
+<score>37.59611129760742</score>
+</geoname>
+<geoname>
+<toponymName>Yeaman</toponymName>
+<name>Yeaman</name>
+<lat>37.51783</lat>
+<lng>-86.57748</lng>
+<geonameId>4314119</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>201</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>085</adminCode2>
+<adminName2>Grayson County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-86.58882</west>
+<north>37.52682</north>
+<east>-86.56614</east>
+<south>37.50884</south>
+</bbox>
+<score>23.927780151367188</score>
+</geoname>
+</geonames>

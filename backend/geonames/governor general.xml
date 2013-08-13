@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Governor Generoso</toponymName>
+<name>Governor Generoso</name>
+<lat>6.53333</lat>
+<lng>126.11667</lng>
+<geonameId>1712705</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Governor Generoso</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="BOH">11</adminCode1>
+<adminName1>Davao</adminName1>
+<adminCode2>26</adminCode2>
+<adminName2>Davao Oriental</adminName2>
+<adminCode3>1712705</adminCode3>
+<adminName3>Governor Generoso</adminName3>
+<alternateName lang="fil">Governor Generoso</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<score>68.64543151855469</score>
+</geoname>
+<geoname>
+<toponymName>Sigaboy</toponymName>
+<name>Sigaboy</name>
+<lat>6.65413</lat>
+<lng>126.07268</lng>
+<geonameId>1712704</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>7981</population>
+<alternateNames>Govenor Generoso,Governor Generoso,Jigabay,Segaboy,Sigaboy,Surup</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="BOH">11</adminCode1>
+<adminName1>Davao</adminName1>
+<adminCode2>26</adminCode2>
+<adminName2>Davao Oriental</adminName2>
+<alternateName lang="fil">Sigaboy</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Governor_Generoso%2C_Davao_Oriental</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<bbox>
+<west>126.06159</west>
+<north>6.66515</north>
+<east>126.08377</east>
+<south>6.64312</south>
+</bbox>
+<score>39.6324577331543</score>
+</geoname>
+</geonames>

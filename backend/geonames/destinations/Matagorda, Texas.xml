@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>342</totalResultsCount>
+<geoname>
+<toponymName>Matagorda County</toponymName>
+<name>Matagorda County</name>
+<lat>28.78565</lat>
+<lng>-96.00398</lng>
+<geonameId>4709580</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>36702</population>
+<alternateNames>Comte de Matagorda,Comté de Matagorda</alternateNames>
+<elevation>6</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>321</adminCode2>
+<adminName2>Matagorda County</adminName2>
+<alternateName lang="fr">Comté de Matagorda</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Matagorda_County%2C_Texas</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-96.37814</west>
+<north>29.22915</north>
+<east>-95.50439</east>
+<south>28.38154</south>
+</bbox>
+<score>20.924095153808594</score>
+</geoname>
+<geoname>
+<toponymName>Matagorda</toponymName>
+<name>Matagorda</name>
+<lat>28.69082</lat>
+<lng>-95.96746</lng>
+<geonameId>4709576</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>503</population>
+<alternateNames/>
+<elevation>2</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>321</adminCode2>
+<adminName2>Matagorda County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Matagorda%2C_Texas</alternateName>
+<alternateName lang="post">77457</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-95.96849</west>
+<north>28.69172</north>
+<east>-95.96644</east>
+<south>28.68992</south>
+</bbox>
+<score>15.683795928955078</score>
+</geoname>
+<geoname>
+<toponymName>Matagorda Peninsula</toponymName>
+<name>Matagorda Peninsula</name>
+<lat>28.58499</lat>
+<lng>-96.0183</lng>
+<geonameId>4709590</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>CAPE</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>cape</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>321</adminCode2>
+<adminName2>Matagorda County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Matagorda_Peninsula</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>15.683795928955078</score>
+</geoname>
+<geoname>
+<toponymName>Bay City Municipal Airport</toponymName>
+<name>Bay City Municipal Airport</name>
+<lat>28.97331</lat>
+<lng>-95.86357</lng>
+<geonameId>4672665</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>AIRP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>airport</fcodeName>
+<population/>
+<alternateNames>BBC,BYY,KBYY</alternateNames>
+<elevation>13</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>321</adminCode2>
+<adminName2>Matagorda County</adminName2>
+<alternateName lang="faac">BYY</alternateName>
+<alternateName lang="iata">BBC</alternateName>
+<alternateName lang="icao">KBYY</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bay_City_Municipal_Airport</alternateName>
+<alternateName lang="unlc">BBC</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>13.39496898651123</score>
+</geoname>
+<geoname>
+<toponymName>Markham</toponymName>
+<name>Markham</name>
+<lat>28.96026</lat>
+<lng>-96.06524</lng>
+<geonameId>4709193</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1082</population>
+<alternateNames/>
+<elevation>17</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>321</adminCode2>
+<adminName2>Matagorda County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Markham%2C_Texas</alternateName>
+<alternateName lang="post">77456</alternateName>
+<alternateName lang="unlc">MKH</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-96.06627</west>
+<north>28.96116</north>
+<east>-96.06421</east>
+<south>28.95936</south>
+</bbox>
+<score>13.39496898651123</score>
+</geoname>
+<geoname>
+<toponymName>Palacios Municipal Airport</toponymName>
+<name>Palacios Municipal Airport</name>
+<lat>28.7244</lat>
+<lng>-96.25378</lng>
+<geonameId>4717224</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>AIRP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>airport</fcodeName>
+<population/>
+<alternateNames>KPSX,PSX</alternateNames>
+<elevation>3</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>321</adminCode2>
+<adminName2>Matagorda County</adminName2>
+<alternateName lang="iata">PSX</alternateName>
+<alternateName lang="icao">KPSX</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Palacios_Municipal_Airport</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>13.39496898651123</score>
+</geoname>
+<geoname>
+<toponymName>Matagorda Island</toponymName>
+<name>Matagorda Island</name>
+<lat>28.22723</lat>
+<lng>-96.64026</lng>
+<geonameId>4709586</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>3</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>057</adminCode2>
+<adminName2>Calhoun County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Matagorda_Island</alternateName>
+<alternateName lang="unlc">MGI</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-96.85712</west>
+<north>28.39913</north>
+<east>-96.39712</east>
+<south>28.05811</south>
+</bbox>
+<score>12.488384246826172</score>
+</geoname>
+<geoname>
+<toponymName>Allenhurst</toponymName>
+<name>Allenhurst</name>
+<lat>29.00942</lat>
+<lng>-95.84468</lng>
+<geonameId>4670369</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>12</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>321</adminCode2>
+<adminName2>Matagorda County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Allenhurst%2C_Texas</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-95.85496</west>
+<north>29.01841</north>
+<east>-95.83439</east>
+<south>29.00043</south>
+</bbox>
+<score>11.162473678588867</score>
+</geoname>
+<geoname>
+<toponymName>Blessing</toponymName>
+<name>Blessing</name>
+<lat>28.87137</lat>
+<lng>-96.21802</lng>
+<geonameId>4675014</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>927</population>
+<alternateNames/>
+<elevation>12</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>321</adminCode2>
+<adminName2>Matagorda County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Blessing%2C_Texas</alternateName>
+<alternateName lang="post">77419</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-96.21905</west>
+<north>28.87227</north>
+<east>-96.21699</east>
+<south>28.87047</south>
+</bbox>
+<score>11.162473678588867</score>
+</geoname>
+<geoname>
+<toponymName>Camp Hulen</toponymName>
+<name>Camp Hulen</name>
+<lat>28.70666</lat>
+<lng>-96.2433</lng>
+<geonameId>4678497</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>3</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>321</adminCode2>
+<adminName2>Matagorda County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Camp_Hulen</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-96.25356</west>
+<north>28.71565</north>
+<east>-96.23305</east>
+<south>28.69766</south>
+</bbox>
+<score>11.162473678588867</score>
+</geoname>
+</geonames>

@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>140</totalResultsCount>
+<geoname>
+<toponymName>Richton</toponymName>
+<name>Richton</name>
+<lat>31.34934</lat>
+<lng>-88.94005</lng>
+<geonameId>4443276</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1068</population>
+<alternateNames/>
+<elevation>53</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MS">MS</adminCode1>
+<adminName1>Mississippi</adminName1>
+<adminCode2>111</adminCode2>
+<adminName2>Perry County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Richton%2C_Mississippi</alternateName>
+<alternateName lang="post">39476</alternateName>
+<alternateName lang="unlc">RC9</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-88.9411</west>
+<north>31.35024</north>
+<east>-88.939</east>
+<south>31.34844</south>
+</bbox>
+<score>29.86138916015625</score>
+</geoname>
+<geoname>
+<toponymName>Richmond</toponymName>
+<name>Richmond</name>
+<lat>-41.33333</lat>
+<lng>173.18333</lng>
+<geonameId>2183472</geonameId>
+<countryCode>NZ</countryCode>
+<countryName>New Zealand</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population>14000</population>
+<alternateNames>Richmond Borough</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="TAS">TAS</adminCode1>
+<adminName1>Tasman</adminName1>
+<adminCode2>051</adminCode2>
+<adminName2>Tasman District</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Richmond%2C_New_Zealand</alternateName>
+<timezone dstOffset="12.0" gmtOffset="13.0">Pacific/Auckland</timezone>
+<bbox>
+<west>173.16348</west>
+<north>-41.31842</north>
+<east>173.20319</east>
+<south>-41.34825</south>
+</bbox>
+<score>28.73727798461914</score>
+</geoname>
+<geoname>
+<toponymName>Richmond</toponymName>
+<name>Richmond</name>
+<lat>-20.56967</lat>
+<lng>142.91384</lng>
+<geonameId>7839388</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="QLD">04</adminCode1>
+<adminName1>Queensland</adminName1>
+<adminCode2>36300</adminCode2>
+<adminName2>Richmond</adminName2>
+<timezone dstOffset="10.0" gmtOffset="10.0">Australia/Brisbane</timezone>
+<bbox>
+<west>142.0376</west>
+<north>-19.47185</north>
+<east>143.79008</east>
+<south>-21.6675</south>
+</bbox>
+<score>28.73727798461914</score>
+</geoname>
+<geoname>
+<toponymName>Richmond</toponymName>
+<name>Richmond</name>
+<lat>-29.87196</lat>
+<lng>30.27235</lng>
+<geonameId>962330</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>32445</population>
+<alternateNames>Richmond</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="ZN">02</adminCode1>
+<adminName1>KwaZulu-Natal</adminName1>
+<adminCode2>DC22</adminCode2>
+<adminName2>uMgungundlovu District Municipality</adminName2>
+<adminCode3>KZN227</adminCode3>
+<adminName3>Richmond</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Richmond%2C_KwaZulu-Natal</alternateName>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<bbox>
+<west>30.24541</west>
+<north>-29.8486</north>
+<east>30.29929</east>
+<south>-29.89533</south>
+</bbox>
+<score>28.156667709350586</score>
+</geoname>
+<geoname>
+<toponymName>Richmond</toponymName>
+<name>Richmond</name>
+<lat>49.17003</lat>
+<lng>-123.13683</lng>
+<geonameId>6122085</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>182000</population>
+<alternateNames>Richmond,Richmund,Ricmondas,Ričmondas,lichimeondeu,lie zhi wen,ricamonda,ritchimondo,rytshmwnd, kwlwmbya albrytanyt,Ричмонд,Ричмънд,ريتشموند، كولومبيا البريطانية,رچمونڈ,ਰਿਚਮੋਂਡ,リッチモンド,列治文,리치먼드</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="BC">02</adminCode1>
+<adminName1>British Columbia</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ar">ريتشموند، كولومبيا البريطانية</alternateName>
+<alternateName lang="bg">Ричмънд</alternateName>
+<alternateName lang="ja">リッチモンド</alternateName>
+<alternateName lang="ko">리치먼드</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Richmond%2C_British_Columbia</alternateName>
+<alternateName lang="lt">Ričmondas</alternateName>
+<alternateName lang="os">Ричмонд</alternateName>
+<alternateName lang="pa">ਰਿਚਮੋਂਡ</alternateName>
+<alternateName lang="pnb">رچمونڈ</alternateName>
+<alternateName lang="ru">Ричмонд</alternateName>
+<alternateName lang="sr">Ричмонд</alternateName>
+<alternateName lang="uk">Ричмонд</alternateName>
+<alternateName lang="unlc">RBC</alternateName>
+<alternateName lang="zh">列治文</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Vancouver</timezone>
+<bbox>
+<west>-123.22144</west>
+<north>49.22529</north>
+<east>-123.05222</east>
+<south>49.11477</south>
+</bbox>
+<score>26.881263732910156</score>
+</geoname>
+<geoname>
+<toponymName>Richmond</toponymName>
+<name>Richmond</name>
+<lat>37.93576</lat>
+<lng>-122.34775</lng>
+<geonameId>5387428</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>103701</population>
+<alternateNames>Richmond,Richmund,lichimeondeu,lie zhi wen,ritchimondo,rychmwnd, kalyfrnya,rytshmwnd, kalyfwrnya,Ричмонд,Ричмънд,ريتشموند، كاليفورنيا,ریچموند، کالیفرنیا,リッチモンド,列治文,리치먼드</alternateNames>
+<elevation>14</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>013</adminCode2>
+<adminName2>Contra Costa County</adminName2>
+<alternateName lang="ar">ريتشموند، كاليفورنيا</alternateName>
+<alternateName lang="bg">Ричмънд</alternateName>
+<alternateName lang="de">Richmond</alternateName>
+<alternateName lang="en">Richmond</alternateName>
+<alternateName lang="es">Richmond</alternateName>
+<alternateName lang="fa">ریچموند، کالیفرنیا</alternateName>
+<alternateName lang="ja">リッチモンド</alternateName>
+<alternateName lang="ko">리치먼드</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Richmond%2C_California</alternateName>
+<alternateName lang="post">94804</alternateName>
+<alternateName lang="sr">Ричмонд</alternateName>
+<alternateName lang="unlc">RCH</alternateName>
+<alternateName lang="zh">列治文</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-122.44149</west>
+<north>38.02651</north>
+<east>-122.24345</east>
+<south>37.88372</south>
+</bbox>
+<score>24.88721466064453</score>
+</geoname>
+<geoname>
+<toponymName>Richmond</toponymName>
+<name>Richmond</name>
+<lat>-37.81819</lat>
+<lng>145.00176</lng>
+<geonameId>2151649</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>22475</population>
+<alternateNames>Richmond</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="VIC">07</adminCode1>
+<adminName1>Victoria</adminName1>
+<adminCode2>27350</adminCode2>
+<adminName2>Yarra</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Richmond%2C_Victoria</alternateName>
+<alternateName lang="unlc">RHM</alternateName>
+<timezone dstOffset="10.0" gmtOffset="11.0">Australia/Melbourne</timezone>
+<bbox>
+<west>144.98904</west>
+<north>-37.80972</north>
+<east>145.01688</east>
+<south>-37.83452</south>
+</bbox>
+<score>24.6370849609375</score>
+</geoname>
+<geoname>
+<toponymName>Richmond</toponymName>
+<name>Richmond</name>
+<lat>37.55376</lat>
+<lng>-77.46026</lng>
+<geonameId>4781708</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population>204214</population>
+<alternateNames>Gorad Rychmand,RIC,Richmond,Richmund,Ricmonda,Ricmondia,Ritsmont,Ričmonda,li shi man,lichimeondeu,ricamanda,ricmant,ritchimondo,rychmwnd, wyrjynya,rytshmwnd,ryz'mwnd,Ρίτσμοντ,Горад Рычманд,Ричмонд,Ричмънд,Ռիչմոնդ,ריצ'מונד,رجمونڈ,ريتشموند,ریچموند، ویرجینیا,रिचमंड,ரிச்மண்ட்,リッチモンド,里士满,리치먼드</alternateNames>
+<elevation>64</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>760</adminCode2>
+<adminName2>City of Richmond</adminName2>
+<alternateName lang="ar">ريتشموند</alternateName>
+<alternateName lang="be">Горад Рычманд</alternateName>
+<alternateName lang="bg">Ричмънд</alternateName>
+<alternateName lang="el">Ρίτσμοντ</alternateName>
+<alternateName lang="fa">ریچموند، ویرجینیا</alternateName>
+<alternateName lang="he">ריצ'מונד</alternateName>
+<alternateName lang="hy">Ռիչմոնդ</alternateName>
+<alternateName lang="iata">RIC</alternateName>
+<alternateName lang="ja">リッチモンド</alternateName>
+<alternateName lang="ko">리치먼드</alternateName>
+<alternateName lang="la">Ricmondia</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Richmond%2C_Virginia</alternateName>
+<alternateName lang="lv">Ričmonda</alternateName>
+<alternateName lang="mk">Ричмонд</alternateName>
+<alternateName lang="mr">रिचमंड</alternateName>
+<alternateName lang="mrj">Ричмонд</alternateName>
+<alternateName lang="pnb">رجمونڈ</alternateName>
+<alternateName lang="post">23232</alternateName>
+<alternateName lang="ru">Ричмонд</alternateName>
+<alternateName lang="sr">Ричмонд</alternateName>
+<alternateName lang="ta">ரிச்மண்ட்</alternateName>
+<alternateName lang="uk">Ричмонд</alternateName>
+<alternateName lang="unlc">RIC</alternateName>
+<alternateName lang="zh">里士满</alternateName>
+<alternateName lang="zh-CN">里士满</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-77.53428</west>
+<north>37.61239</north>
+<east>-77.38625</east>
+<south>37.49513</south>
+</bbox>
+<score>22.989822387695312</score>
+</geoname>
+<geoname>
+<toponymName>Richmond</toponymName>
+<name>Richmond</name>
+<lat>-33.59956</lat>
+<lng>150.75142</lng>
+<geonameId>2151650</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>5560</population>
+<alternateNames>Richmond,Ричмонд</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="NSW">02</adminCode1>
+<adminName1>New South Wales</adminName1>
+<adminCode2>13800</adminCode2>
+<adminName2>Hawkesbury</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Richmond%2C_New_South_Wales</alternateName>
+<alternateName lang="ru">Ричмонд</alternateName>
+<timezone dstOffset="10.0" gmtOffset="11.0">Australia/Sydney</timezone>
+<bbox>
+<west>150.72479</west>
+<north>-33.58881</north>
+<east>150.79945</east>
+<south>-33.63368</south>
+</bbox>
+<score>22.718812942504883</score>
+</geoname>
+<geoname>
+<toponymName>Richmond</toponymName>
+<name>Richmond</name>
+<lat>-31.41345</lat>
+<lng>23.94517</lng>
+<geonameId>962329</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Richmond</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="NC">08</adminCode1>
+<adminName1>Northern Cape</adminName1>
+<adminCode2>DC7</adminCode2>
+<adminName2>Pixley ka Seme District Municipality</adminName2>
+<adminCode3>NC071</adminCode3>
+<adminName3>Ubuntu</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Richmond%2C_Northern_Cape</alternateName>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<bbox>
+<west>23.93463</west>
+<north>-31.40446</north>
+<east>23.95571</east>
+<south>-31.42244</south>
+</bbox>
+<score>21.11750030517578</score>
+</geoname>
+</geonames>

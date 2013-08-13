@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>115</totalResultsCount>
+<geoname>
+<toponymName>Liberta</toponymName>
+<name>Liberta</name>
+<lat>17.03333</lat>
+<lng>-61.78333</lng>
+<geonameId>3576144</geonameId>
+<countryCode>AG</countryCode>
+<countryName>Antigua and Barbuda</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1668</population>
+<alternateNames>Liberta,Liberta Village,Либерта</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="06">06</adminCode1>
+<adminName1>Saint Paul</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Liberta%2C_Antigua</alternateName>
+<alternateName lang="ru">Либерта</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Antigua</timezone>
+<bbox>
+<west>-61.78804</west>
+<north>17.03783</north>
+<east>-61.77863</east>
+<south>17.02884</south>
+</bbox>
+<score>69.27781677246094</score>
+</geoname>
+<geoname>
+<toponymName>Liberty</toponymName>
+<name>Liberty</name>
+<lat>41.33355</lat>
+<lng>-111.86355</lng>
+<geonameId>5777253</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1257</population>
+<alternateNames/>
+<elevation>1560</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="UT">UT</adminCode1>
+<adminName1>Utah</adminName1>
+<adminCode2>057</adminCode2>
+<adminName2>Weber County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Liberty%2C_Utah</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<bbox>
+<west>-111.86954</west>
+<north>41.33805</north>
+<east>-111.85756</east>
+<south>41.32905</south>
+</bbox>
+<score>58.598392486572266</score>
+</geoname>
+<geoname>
+<toponymName>Liberty</toponymName>
+<name>Liberty</name>
+<lat>35.85347</lat>
+<lng>-79.57169</lng>
+<geonameId>4475785</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2656</population>
+<alternateNames/>
+<elevation>239</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NC">NC</adminCode1>
+<adminName1>North Carolina</adminName1>
+<adminCode2>151</adminCode2>
+<adminName2>Randolph County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Liberty%2C_North_Carolina</alternateName>
+<alternateName lang="post">27298</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-79.57954</west>
+<north>35.85983</north>
+<east>-79.56384</east>
+<south>35.84711</south>
+</bbox>
+<score>51.27359390258789</score>
+</geoname>
+<geoname>
+<toponymName>Liberty</toponymName>
+<name>Liberty</name>
+<lat>34.78789</lat>
+<lng>-82.69236</lng>
+<geonameId>4585025</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3269</population>
+<alternateNames/>
+<elevation>311</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SC">SC</adminCode1>
+<adminName1>South Carolina</adminName1>
+<adminCode2>077</adminCode2>
+<adminName2>Pickens County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Liberty%2C_South_Carolina</alternateName>
+<alternateName lang="post">29657</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-82.7001</west>
+<north>34.79425</north>
+<east>-82.68462</east>
+<south>34.78153</south>
+</bbox>
+<score>51.27359390258789</score>
+</geoname>
+<geoname>
+<toponymName>Liberty</toponymName>
+<name>Liberty</name>
+<lat>40.32535</lat>
+<lng>-79.85616</lng>
+<geonameId>5197865</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2551</population>
+<alternateNames/>
+<elevation>277</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PA">PA</adminCode1>
+<adminName1>Pennsylvania</adminName1>
+<adminCode2>003</adminCode2>
+<adminName2>Allegheny County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Liberty%2C_Allegheny_County%2C_Pennsylvania</alternateName>
+<alternateName lang="unlc">PL5</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-79.8763</west>
+<north>40.33688</north>
+<east>-79.84095</east>
+<south>40.31499</south>
+</bbox>
+<score>51.27359390258789</score>
+</geoname>
+<geoname>
+<toponymName>Liberty</toponymName>
+<name>Liberty</name>
+<lat>35.85871</lat>
+<lng>-95.97749</lng>
+<geonameId>4540941</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>220</population>
+<alternateNames/>
+<elevation>196</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OK">OK</adminCode1>
+<adminName1>Oklahoma</adminName1>
+<adminCode2>143</adminCode2>
+<adminName2>Tulsa County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Liberty%2C_Oklahoma</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-96.01537</west>
+<north>35.88551</north>
+<east>-95.89937</east>
+<south>35.84202</south>
+</bbox>
+<score>43.948795318603516</score>
+</geoname>
+<geoname>
+<toponymName>Liberty</toponymName>
+<name>Liberty</name>
+<lat>36.00673</lat>
+<lng>-85.96777</lng>
+<geonameId>4636474</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>310</population>
+<alternateNames/>
+<elevation>186</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TN">TN</adminCode1>
+<adminName1>Tennessee</adminName1>
+<adminCode2>041</adminCode2>
+<adminName2>DeKalb County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Liberty%2C_Tennessee</alternateName>
+<alternateName lang="post">37095</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-85.96888</west>
+<north>36.00763</north>
+<east>-85.96665</east>
+<south>36.00583</south>
+</bbox>
+<score>43.948795318603516</score>
+</geoname>
+<geoname>
+<toponymName>Liberty</toponymName>
+<name>Liberty</name>
+<lat>30.05799</lat>
+<lng>-94.79548</lng>
+<geonameId>4706088</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>8397</population>
+<alternateNames/>
+<elevation>9</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>291</adminCode2>
+<adminName2>Liberty County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Liberty%2C_Texas</alternateName>
+<alternateName lang="post">77575</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-94.85445</west>
+<north>30.10884</north>
+<east>-94.69524</east>
+<south>29.99157</south>
+</bbox>
+<score>43.948795318603516</score>
+</geoname>
+<geoname>
+<toponymName>Liberty</toponymName>
+<name>Liberty</name>
+<lat>38.60509</lat>
+<lng>-81.72985</lng>
+<geonameId>4812026</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>236</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WV">WV</adminCode1>
+<adminName1>West Virginia</adminName1>
+<adminCode2>079</adminCode2>
+<adminName2>Putnam County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Liberty%2C_West_Virginia</alternateName>
+<alternateName lang="post">25124</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-81.74136</west>
+<north>38.61408</north>
+<east>-81.71834</east>
+<south>38.5961</south>
+</bbox>
+<score>43.948795318603516</score>
+</geoname>
+<geoname>
+<toponymName>Liberty</toponymName>
+<name>Liberty</name>
+<lat>44.38924</lat>
+<lng>-69.30282</lng>
+<geonameId>4969470</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>964</population>
+<alternateNames/>
+<elevation>116</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ME">ME</adminCode1>
+<adminName1>Maine</adminName1>
+<adminCode2>027</adminCode2>
+<adminName2>Waldo County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Liberty%2C_Maine</alternateName>
+<alternateName lang="post">04949</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-69.30408</west>
+<north>44.39014</north>
+<east>-69.30156</east>
+<south>44.38834</south>
+</bbox>
+<score>43.948795318603516</score>
+</geoname>
+</geonames>

@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>10</totalResultsCount>
+<geoname>
+<toponymName>Reynosa</toponymName>
+<name>Reynosa</name>
+<lat>26.07681</lat>
+<lng>-98.29748</lng>
+<geonameId>3520339</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>498654</population>
+<alternateNames>REX,Reinosa,Rejnosa,Reynosa,Рейноса</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TAM">28</adminCode1>
+<adminName1>Tamaulipas</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="de">Reynosa</alternateName>
+<alternateName lang="en">Reynosa</alternateName>
+<alternateName lang="es">Reynosa</alternateName>
+<alternateName lang="iata">REX</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Reynosa%2C_Tamaulipas</alternateName>
+<alternateName lang="nl">Reynosa</alternateName>
+<alternateName lang="pl">Reynosa</alternateName>
+<alternateName lang="ru">Рейноса</alternateName>
+<alternateName lang="sv">Reynosa</alternateName>
+<alternateName lang="unlc">REX</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Matamoros</timezone>
+<bbox>
+<west>-98.39954</west>
+<north>26.16841</north>
+<east>-98.19541</east>
+<south>25.9852</south>
+</bbox>
+<score>145.29986572265625</score>
+</geoname>
+<geoname>
+<toponymName>Reynosa</toponymName>
+<name>Reynosa</name>
+<lat>26.07517</lat>
+<lng>-98.30832</lng>
+<geonameId>7733376</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TAM">28</adminCode1>
+<adminName1>Tamaulipas</adminName1>
+<adminCode2>7733376</adminCode2>
+<adminName2>Reynosa</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Matamoros</timezone>
+<score>92.30189514160156</score>
+</geoname>
+<geoname>
+<toponymName>Reynosa</toponymName>
+<name>Reynosa</name>
+<lat>25.72622</lat>
+<lng>-103.03481</lng>
+<geonameId>3988737</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="COA">07</adminCode1>
+<adminName1>Coahuila</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<bbox>
+<west>-103.04479</west>
+<north>25.73521</north>
+<east>-103.02483</east>
+<south>25.71722</south>
+</bbox>
+<score>36.92075729370117</score>
+</geoname>
+<geoname>
+<toponymName>Reinosa</toponymName>
+<name>Reinosa</name>
+<lat>42.99958</lat>
+<lng>-4.13801</lng>
+<geonameId>3112075</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>10307</population>
+<alternateNames>Reinosa,Rejnosa,lei nuo sa,raynwsa,reinosa,Рейноса,راينوسا,レイノーサ,雷诺萨</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="CB">39</adminCode1>
+<adminName1>Cantabria</adminName1>
+<adminCode2>S</adminCode2>
+<adminName2>Cantabria</adminName2>
+<adminCode3>39059</adminCode3>
+<adminName3>Reinosa</adminName3>
+<alternateName lang="ar">راينوسا</alternateName>
+<alternateName lang="ja">レイノーサ</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Reinosa</alternateName>
+<alternateName lang="post">39200</alternateName>
+<alternateName lang="ru">Рейноса</alternateName>
+<alternateName lang="uk">Рейноса</alternateName>
+<alternateName lang="unlc">RNS</alternateName>
+<alternateName lang="zh">雷诺萨</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Madrid</timezone>
+<bbox>
+<west>-4.1554</west>
+<north>43.0123</north>
+<east>-4.12061</east>
+<south>42.98687</south>
+</bbox>
+<score>30.07925796508789</score>
+</geoname>
+<geoname>
+<toponymName>Reynosa</toponymName>
+<name>Reynosa</name>
+<lat>26.07184</lat>
+<lng>-98.26199</lng>
+<geonameId>3520338</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>S</fcl>
+<fcode>RSTN</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>railroad station</fcodeName>
+<population/>
+<alternateNames>Reinosa,Reynosa</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TAM">28</adminCode1>
+<adminName1>Tamaulipas</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Matamoros</timezone>
+<score>26.250699996948242</score>
+</geoname>
+<geoname>
+<toponymName>Reinosa</toponymName>
+<name>Reinosa</name>
+<lat>43.00092</lat>
+<lng>-4.13203</lng>
+<geonameId>6360704</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population>10307</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="CB">39</adminCode1>
+<adminName1>Cantabria</adminName1>
+<adminCode2>S</adminCode2>
+<adminName2>Cantabria</adminName2>
+<adminCode3>39059</adminCode3>
+<adminName3>Reinosa</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Madrid</timezone>
+<bbox>
+<west>-4.15039</west>
+<north>43.01546</north>
+<east>-4.12002</east>
+<south>42.98561</south>
+</bbox>
+<score>18.024229049682617</score>
+</geoname>
+<geoname>
+<toponymName>Revnosa</toponymName>
+<name>Revnosa</name>
+<lat>78.01667</lat>
+<lng>18.75</lng>
+<geonameId>2729115</geonameId>
+<countryCode>SJ</countryCode>
+<countryName>Svalbard and Jan Mayen</countryName>
+<fcl>T</fcl>
+<fcode>PT</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>point</fcodeName>
+<population/>
+<alternateNames>Foksnaes,Foksnæs,Fox Ness,Fox Nose,Foxnes,Fuchs-Spitze,Revnos,Revnosa</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Arctic/Longyearbyen</timezone>
+<score>12.695257186889648</score>
+</geoname>
+<geoname>
+<toponymName>Reynoso</toponymName>
+<name>Reynoso</name>
+<lat>27.9921</lat>
+<lng>-82.2207</lng>
+<geonameId>7218499</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>29</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="FL">FL</adminCode1>
+<adminName1>Florida</adminName1>
+<adminCode2>057</adminCode2>
+<adminName2>Hillsborough County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-82.23089</west>
+<north>28.00109</north>
+<east>-82.21051</east>
+<south>27.98311</south>
+</bbox>
+<score>11.846439361572266</score>
+</geoname>
+<geoname>
+<toponymName>Reynos</toponymName>
+<name>Reynos</name>
+<lat>22.98306</lat>
+<lng>-81.7075</lng>
+<geonameId>3542273</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="04">03</adminCode1>
+<adminName1>Matanzas</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>6.910416603088379</score>
+</geoname>
+<geoname>
+<toponymName>Reinosa</toponymName>
+<name>Reinosa</name>
+<lat>14.60428</lat>
+<lng>121.11192</lng>
+<geonameId>8552059</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>R</fcl>
+<fcode>ST</fcode>
+<fclName>road, railroad </fclName>
+<fcodeName>street</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="MDC">40</adminCode1>
+<adminName1>Calabarzon</adminName1>
+<adminCode2>53</adminCode2>
+<adminName2>Rizal</adminName2>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<score>6.437224864959717</score>
+</geoname>
+</geonames>

@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>11</totalResultsCount>
+<geoname>
+<toponymName>Rio Bravo</toponymName>
+<name>Rio Bravo</name>
+<lat>27.36419</lat>
+<lng>-99.48004</lng>
+<geonameId>4722831</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>4794</population>
+<alternateNames/>
+<elevation>124</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>479</adminCode2>
+<adminName2>Webb County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Rio_Bravo%2C_Texas</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-99.48881</west>
+<north>27.37198</north>
+<east>-99.47127</east>
+<south>27.3564</south>
+</bbox>
+<score>15.632890701293945</score>
+</geoname>
+<geoname>
+<toponymName>City of Rio Bravo</toponymName>
+<name>City of Rio Bravo</name>
+<lat>27.36478</lat>
+<lng>-99.48202</lng>
+<geonameId>7173754</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>administrative division</fcodeName>
+<population>4794</population>
+<alternateNames/>
+<elevation>121</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>479</adminCode2>
+<adminName2>Webb County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-99.50415</west>
+<north>27.36684</north>
+<east>-99.45998</east>
+<south>27.36273</south>
+</bbox>
+<score>10.943022727966309</score>
+</geoname>
+<geoname>
+<toponymName>Rio Bravo Annex Colonia</toponymName>
+<name>Rio Bravo Annex Colonia</name>
+<lat>27.36336</lat>
+<lng>-99.49643</lng>
+<geonameId>4722832</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>119</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>479</adminCode2>
+<adminName2>Webb County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-99.50656</west>
+<north>27.37235</north>
+<east>-99.4863</east>
+<south>27.35436</south>
+</bbox>
+<score>6.2531561851501465</score>
+</geoname>
+<geoname>
+<toponymName>Rio Bravo Colonia</toponymName>
+<name>Rio Bravo Colonia</name>
+<lat>27.3653</lat>
+<lng>-99.48143</lng>
+<geonameId>4722833</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>122</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>479</adminCode2>
+<adminName2>Webb County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-99.49156</west>
+<north>27.37429</north>
+<east>-99.4713</east>
+<south>27.35631</south>
+</bbox>
+<score>6.2531561851501465</score>
+</geoname>
+<geoname>
+<toponymName>Rio Bravo Colonia</toponymName>
+<name>Rio Bravo Colonia</name>
+<lat>29.33217</lat>
+<lng>-100.91426</lng>
+<geonameId>5529290</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>273</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>465</adminCode2>
+<adminName2>Val Verde County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-100.92458</west>
+<north>29.34117</north>
+<east>-100.90394</east>
+<south>29.32318</south>
+</bbox>
+<score>6.2531561851501465</score>
+</geoname>
+<geoname>
+<toponymName>Bravo Ranch</toponymName>
+<name>Bravo Ranch</name>
+<lat>35.6206</lat>
+<lng>-103.00633</lng>
+<geonameId>5517571</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>1236</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>359</adminCode2>
+<adminName2>Oldham County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>2.735755681991577</score>
+</geoname>
+<geoname>
+<toponymName>Bravo Windmill</toponymName>
+<name>Bravo Windmill</name>
+<lat>31.05959</lat>
+<lng>-103.85852</lng>
+<geonameId>5517573</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>1020</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>389</adminCode2>
+<adminName2>Reeves County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>2.735755681991577</score>
+</geoname>
+<geoname>
+<toponymName>Bravo Creek</toponymName>
+<name>Bravo Creek</name>
+<lat>29.62273</lat>
+<lng>-99.49477</lng>
+<geonameId>4676119</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>420</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>463</adminCode2>
+<adminName2>Uvalde County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>2.34493350982666</score>
+</geoname>
+<geoname>
+<toponymName>Bravo Well</toponymName>
+<name>Bravo Well</name>
+<lat>31.60456</lat>
+<lng>-105.40774</lng>
+<geonameId>5517572</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>WLL</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>well</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1305</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>229</adminCode2>
+<adminName2>Hudspeth County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<score>1.9541113376617432</score>
+</geoname>
+<geoname>
+<toponymName>Rio Bravo Middle School</toponymName>
+<name>Rio Bravo Middle School</name>
+<lat>31.71539</lat>
+<lng>-106.35665</lng>
+<geonameId>5529291</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>SCH</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>school</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1121</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>141</adminCode2>
+<adminName2>El Paso County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<score>1.9541113376617432</score>
+</geoname>
+</geonames>

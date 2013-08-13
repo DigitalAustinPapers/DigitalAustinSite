@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Tulancingo</toponymName>
+<name>Tulancingo</name>
+<lat>20.08363</lat>
+<lng>-98.36332</lng>
+<geonameId>3515062</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>102383</population>
+<alternateNames>Tulancingo,Tulancingo de Bravo</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="HID">13</adminCode1>
+<adminName1>Hidalgo</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="es">Tulancingo de Bravo</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Tulancingo</alternateName>
+<alternateName lang="unlc">TLI</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-98.40748</west>
+<north>20.12509</north>
+<east>-98.31917</east>
+<south>20.04218</south>
+</bbox>
+<score>106.29366302490234</score>
+</geoname>
+<geoname>
+<toponymName>San Miguel Tulancingo</toponymName>
+<name>San Miguel Tulancingo</name>
+<lat>17.75023</lat>
+<lng>-97.43947</lng>
+<geonameId>3518226</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>San Miguel,San Miguel Tulancingo,Tulancingo</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OAX">20</adminCode1>
+<adminName1>Oaxaca</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/San_Miguel_Tulancingo</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-97.44891</west>
+<north>17.75922</north>
+<east>-97.43002</east>
+<south>17.74124</south>
+</bbox>
+<score>30.684337615966797</score>
+</geoname>
+<geoname>
+<toponymName>Tulancingo</toponymName>
+<name>Tulancingo</name>
+<lat>20.06287</lat>
+<lng>-98.43457</lng>
+<geonameId>3814275</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>S</fcl>
+<fcode>COMC</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>communication center</fcodeName>
+<population/>
+<alternateNames>Tulancingo</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="HID">13</adminCode1>
+<adminName1>Hidalgo</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="es">Tulancingo</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<score>13.286707878112793</score>
+</geoname>
+<geoname>
+<toponymName>Tulancingo</toponymName>
+<name>Tulancingo</name>
+<lat>20.08333</lat>
+<lng>-98.36667</lng>
+<geonameId>6299876</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>S</fcl>
+<fcode>STNM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>meteorological station</fcodeName>
+<population/>
+<alternateNames>MMTL</alternateNames>
+<elevation>2181</elevation>
+<continentCode>NA</continentCode>
+<adminCode1/>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="icao">MMTL</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<score>10.848551750183105</score>
+</geoname>
+</geonames>

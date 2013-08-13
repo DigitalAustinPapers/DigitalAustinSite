@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>26</totalResultsCount>
+<geoname>
+<toponymName>Huntsville</toponymName>
+<name>Huntsville</name>
+<lat>34.73037</lat>
+<lng>-86.5861</lng>
+<geonameId>4068590</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>180105</population>
+<alternateNames>Gantsvill,HSV,Hantsvila,Hantsvilis,Hantsvill,Huntsville,Khantsvil,Khantsvill,Khuntsvil,hantsubiru,hantswyl,heng ci wei er,heoncheubil,hntsfyl, alabama,Гантсвілл,Хантсвил,Хантсвилл,Хънтсвил,هانتسویل,هنتسفيل، ألاباما,ھەنتسڤیل، ئەلاباما,ハンツビル,亨茨维尔,헌츠빌</alternateNames>
+<elevation>193</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AL">AL</adminCode1>
+<adminName1>Alabama</adminName1>
+<adminCode2>089</adminCode2>
+<adminName2>Madison County</adminName2>
+<alternateName lang="ar">هنتسفيل، ألاباما</alternateName>
+<alternateName lang="az">Hantsvill</alternateName>
+<alternateName lang="bg">Хънтсвил</alternateName>
+<alternateName lang="ckb">ھەنتسڤیل، ئەلاباما</alternateName>
+<alternateName lang="de">Huntsville</alternateName>
+<alternateName lang="en">Huntsville</alternateName>
+<alternateName lang="fa">هانتسویل</alternateName>
+<alternateName lang="fi">Huntsville</alternateName>
+<alternateName lang="fr">Huntsville</alternateName>
+<alternateName lang="iata">HSV</alternateName>
+<alternateName lang="ja">ハンツビル</alternateName>
+<alternateName lang="ko">헌츠빌</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Huntsville%2C_Alabama</alternateName>
+<alternateName lang="lt">Hantsvilis</alternateName>
+<alternateName lang="lv">Hantsvila</alternateName>
+<alternateName lang="mk">Хантсвил</alternateName>
+<alternateName lang="nl">Huntsville</alternateName>
+<alternateName lang="pl">Huntsville</alternateName>
+<alternateName lang="post">35801</alternateName>
+<alternateName lang="pt">Huntsville</alternateName>
+<alternateName lang="ru">Хантсвилл</alternateName>
+<alternateName lang="sl">Huntsville</alternateName>
+<alternateName lang="sr">Хантсвил</alternateName>
+<alternateName lang="sv">Huntsville</alternateName>
+<alternateName lang="uk">Гантсвілл</alternateName>
+<alternateName lang="unlc">HSV</alternateName>
+<alternateName lang="zh">亨茨维尔</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-86.65316</west>
+<north>34.78544</north>
+<east>-86.51905</east>
+<south>34.67529</south>
+</bbox>
+<score>68.34268188476562</score>
+</geoname>
+<geoname>
+<toponymName>Huntsville</toponymName>
+<name>Huntsville</name>
+<lat>36.08236</lat>
+<lng>-80.5295</lng>
+<geonameId>4472405</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>263</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NC">NC</adminCode1>
+<adminName1>North Carolina</adminName1>
+<adminCode2>197</adminCode2>
+<adminName2>Yadkin County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Huntsville%2C_North_Carolina</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-80.54063</west>
+<north>36.09135</north>
+<east>-80.51837</east>
+<south>36.07337</south>
+</bbox>
+<score>49.95671081542969</score>
+</geoname>
+<geoname>
+<toponymName>Huntsville</toponymName>
+<name>Huntsville</name>
+<lat>40.19116</lat>
+<lng>-90.86458</lng>
+<geonameId>4896699</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>201</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>169</adminCode2>
+<adminName2>Schuyler County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Huntsville%2C_Illinois</alternateName>
+<alternateName lang="post">62344</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.87635</west>
+<north>40.20015</north>
+<east>-90.8528</east>
+<south>40.18216</south>
+</bbox>
+<score>49.95671081542969</score>
+</geoname>
+<geoname>
+<toponymName>Huntsville</toponymName>
+<name>Huntsville</name>
+<lat>40.00865</lat>
+<lng>-85.73025</lng>
+<geonameId>4921735</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>265</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IN">IN</adminCode1>
+<adminName1>Indiana</adminName1>
+<adminCode2>095</adminCode2>
+<adminName2>Madison County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Huntsville%2C_Madison_County%2C_Indiana</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Indiana/Indianapolis</timezone>
+<bbox>
+<west>-85.742</west>
+<north>40.01765</north>
+<east>-85.71851</east>
+<south>39.99966</south>
+</bbox>
+<score>49.95671081542969</score>
+</geoname>
+<geoname>
+<toponymName>Huntsville</toponymName>
+<name>Huntsville</name>
+<lat>40.07116</lat>
+<lng>-85.07219</lng>
+<geonameId>4921736</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>354</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IN">IN</adminCode1>
+<adminName1>Indiana</adminName1>
+<adminCode2>135</adminCode2>
+<adminName2>Randolph County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Huntsville%2C_Indiana</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Indiana/Indianapolis</timezone>
+<bbox>
+<west>-85.08394</west>
+<north>40.08015</north>
+<east>-85.06043</east>
+<south>40.06216</south>
+</bbox>
+<score>49.95671081542969</score>
+</geoname>
+<geoname>
+<toponymName>Hurtsville</toponymName>
+<name>Hurtsville</name>
+<lat>37.36543</lat>
+<lng>-78.61584</lng>
+<geonameId>4765490</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>196</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>011</adminCode2>
+<adminName2>Appomattox County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hurtsville%2C_Virginia</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-78.62715</west>
+<north>37.37442</north>
+<east>-78.60452</east>
+<south>37.35643</south>
+</bbox>
+<score>35.21219253540039</score>
+</geoname>
+<geoname>
+<toponymName>Huntsville</toponymName>
+<name>Huntsville</name>
+<lat>36.08619</lat>
+<lng>-93.7413</lng>
+<geonameId>4115658</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>2346</population>
+<alternateNames>Khantsvill,Хантсвилл</alternateNames>
+<elevation>463</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">AR</adminCode1>
+<adminName1>Arkansas</adminName1>
+<adminCode2>087</adminCode2>
+<adminName2>Madison County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Huntsville%2C_Arkansas</alternateName>
+<alternateName lang="post">72740</alternateName>
+<alternateName lang="ru">Хантсвилл</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-93.74687</west>
+<north>36.09068</north>
+<east>-93.73574</east>
+<south>36.08169</south>
+</bbox>
+<score>33.304473876953125</score>
+</geoname>
+<geoname>
+<toponymName>Huntsville</toponymName>
+<name>Huntsville</name>
+<lat>38.05724</lat>
+<lng>-98.3259</lng>
+<geonameId>4273288</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>530</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KS">KS</adminCode1>
+<adminName1>Kansas</adminName1>
+<adminCode2>155</adminCode2>
+<adminName2>Reno County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-98.33732</west>
+<north>38.06623</north>
+<east>-98.31448</east>
+<south>38.04824</south>
+</bbox>
+<score>33.304473876953125</score>
+</geoname>
+<geoname>
+<toponymName>Huntsville</toponymName>
+<name>Huntsville</name>
+<lat>38.909</lat>
+<lng>-76.89247</lng>
+<geonameId>4358787</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>27</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MD">MD</adminCode1>
+<adminName1>Maryland</adminName1>
+<adminCode2>033</adminCode2>
+<adminName2>Prince Georges County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-76.90403</west>
+<north>38.91799</north>
+<east>-76.88091</east>
+<south>38.90001</south>
+</bbox>
+<score>33.304473876953125</score>
+</geoname>
+<geoname>
+<toponymName>Huntsville</toponymName>
+<name>Huntsville</name>
+<lat>39.44059</lat>
+<lng>-92.54518</lng>
+<geonameId>4391641</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>1564</population>
+<alternateNames>Khantsvill,Хантсвилл</alternateNames>
+<elevation>245</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>175</adminCode2>
+<adminName2>Randolph County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Huntsville%2C_Missouri</alternateName>
+<alternateName lang="post">65259</alternateName>
+<alternateName lang="ru">Хантсвилл</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.55101</west>
+<north>39.44509</north>
+<east>-92.53936</east>
+<south>39.43609</south>
+</bbox>
+<score>33.304473876953125</score>
+</geoname>
+</geonames>

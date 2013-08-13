@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>11</totalResultsCount>
+<geoname>
+<toponymName>Buckner</toponymName>
+<name>Buckner</name>
+<lat>39.13251</lat>
+<lng>-94.19856</lng>
+<geonameId>4378990</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3076</population>
+<alternateNames/>
+<elevation>229</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>095</adminCode2>
+<adminName2>Jackson County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Buckner%2C_Missouri</alternateName>
+<alternateName lang="post">64016</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-94.20676</west>
+<north>39.13887</north>
+<east>-94.19036</east>
+<south>39.12615</south>
+</bbox>
+<score>40.5892448425293</score>
+</geoname>
+<geoname>
+<toponymName>Buckner</toponymName>
+<name>Buckner</name>
+<lat>33.35846</lat>
+<lng>-93.43601</lng>
+<geonameId>4103554</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>275</population>
+<alternateNames/>
+<elevation>89</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">AR</adminCode1>
+<adminName1>Arkansas</adminName1>
+<adminCode2>073</adminCode2>
+<adminName2>Lafayette County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Buckner%2C_Arkansas</alternateName>
+<alternateName lang="post">71827</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-93.43708</west>
+<north>33.35936</north>
+<east>-93.43493</east>
+<south>33.35756</south>
+</bbox>
+<score>34.79077911376953</score>
+</geoname>
+<geoname>
+<toponymName>Buckner</toponymName>
+<name>Buckner</name>
+<lat>37.98311</lat>
+<lng>-89.01618</lng>
+<geonameId>4234753</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>462</population>
+<alternateNames/>
+<elevation>123</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>055</adminCode2>
+<adminName2>Franklin County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Buckner%2C_Illinois</alternateName>
+<alternateName lang="post">62819</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-89.02727</west>
+<north>37.98702</north>
+<east>-89.00231</east>
+<south>37.97374</south>
+</bbox>
+<score>34.79077911376953</score>
+</geoname>
+<geoname>
+<toponymName>Buckner</toponymName>
+<name>Buckner</name>
+<lat>38.38368</lat>
+<lng>-85.43996</lng>
+<geonameId>4286037</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>5837</population>
+<alternateNames/>
+<elevation>251</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>185</adminCode2>
+<adminName2>Oldham County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Buckner%2C_Kentucky</alternateName>
+<alternateName lang="post">40010</alternateName>
+<alternateName lang="unlc">CNW</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-85.45143</west>
+<north>38.39267</north>
+<east>-85.42848</east>
+<south>38.37468</south>
+</bbox>
+<score>34.79077911376953</score>
+</geoname>
+<geoname>
+<toponymName>Buckner</toponymName>
+<name>Buckner</name>
+<lat>32.30098</lat>
+<lng>-91.93874</lng>
+<geonameId>4318222</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>21</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>083</adminCode2>
+<adminName2>Richland Parish</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-91.94938</west>
+<north>32.30998</north>
+<east>-91.9281</east>
+<south>32.29199</south>
+</bbox>
+<score>23.1938533782959</score>
+</geoname>
+<geoname>
+<toponymName>Buckner</toponymName>
+<name>Buckner</name>
+<lat>35.864</lat>
+<lng>-82.48402</lng>
+<geonameId>4457923</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>697</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NC">NC</adminCode1>
+<adminName1>North Carolina</adminName1>
+<adminCode2>115</adminCode2>
+<adminName2>Madison County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-82.49512</west>
+<north>35.87299</north>
+<east>-82.47292</east>
+<south>35.85501</south>
+</bbox>
+<score>23.1938533782959</score>
+</geoname>
+<geoname>
+<toponymName>Buckner</toponymName>
+<name>Buckner</name>
+<lat>36.00478</lat>
+<lng>-85.75137</lng>
+<geonameId>4609562</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>318</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TN">TN</adminCode1>
+<adminName1>Tennessee</adminName1>
+<adminCode2>041</adminCode2>
+<adminName2>DeKalb County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-85.76249</west>
+<north>36.01378</north>
+<east>-85.74025</east>
+<south>35.99579</south>
+</bbox>
+<score>23.1938533782959</score>
+</geoname>
+<geoname>
+<toponymName>Buckner</toponymName>
+<name>Buckner</name>
+<lat>33.21762</lat>
+<lng>-96.6636</lng>
+<geonameId>4677149</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>201</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>085</adminCode2>
+<adminName2>Collin County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-96.67436</west>
+<north>33.22661</north>
+<east>-96.65285</east>
+<south>33.20862</south>
+</bbox>
+<score>23.1938533782959</score>
+</geoname>
+<geoname>
+<toponymName>Buckner</toponymName>
+<name>Buckner</name>
+<lat>32.58986</lat>
+<lng>-97.90254</lng>
+<geonameId>4677150</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>223</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>367</adminCode2>
+<adminName2>Parker County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-97.91321</west>
+<north>32.59885</north>
+<east>-97.89186</east>
+<south>32.58086</south>
+</bbox>
+<score>23.1938533782959</score>
+</geoname>
+<geoname>
+<toponymName>Buckner</toponymName>
+<name>Buckner</name>
+<lat>37.96208</lat>
+<lng>-77.77277</lng>
+<geonameId>4749683</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>100</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>109</adminCode2>
+<adminName2>Louisa County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-77.78418</west>
+<north>37.97108</north>
+<east>-77.76136</east>
+<south>37.95309</south>
+</bbox>
+<score>23.1938533782959</score>
+</geoname>
+</geonames>

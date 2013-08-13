@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Madison</toponymName>
+<name>Madison</name>
+<lat>43.07305</lat>
+<lng>-89.40123</lng>
+<geonameId>5261457</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population>233209</population>
+<alternateNames>MSN,Madison,Madisonas,Madisonia,Madisun,Medison,Medisona,Mehdison,madison,madyswn, wysknsn,maediseun,mai di xun,maidisana,mdysn, wyskansyn,mdyswn,medisana,medisoni,metican,Мадисон,Мадисън,Медисон,Медісон,Мэдисон,Մեդիսոն,מדיסון,ماديسون، ويسكنسن,مدیسن، ویسکانسین,मॅडिसन,मैडिसन,மேடிசன்,მედისონი,マディソン,麦迪逊,매디슨</alternateNames>
+<elevation>267</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WI">WI</adminCode1>
+<adminName1>Wisconsin</adminName1>
+<adminCode2>025</adminCode2>
+<adminName2>Dane County</adminName2>
+<alternateName lang="af">Madison</alternateName>
+<alternateName lang="ar">ماديسون، ويسكنسن</alternateName>
+<alternateName lang="bg">Мадисън</alternateName>
+<alternateName lang="da">Madison</alternateName>
+<alternateName lang="de">Madison</alternateName>
+<alternateName lang="en">Madison</alternateName>
+<alternateName lang="eo">Madison</alternateName>
+<alternateName lang="es">Madison</alternateName>
+<alternateName lang="eu">Madison</alternateName>
+<alternateName lang="fa">مدیسن، ویسکانسین</alternateName>
+<alternateName lang="fi">Madison</alternateName>
+<alternateName lang="fr">Madison</alternateName>
+<alternateName lang="he">מדיסון</alternateName>
+<alternateName lang="hi">मैडिसन</alternateName>
+<alternateName lang="hy">Մեդիսոն</alternateName>
+<alternateName lang="iata">MSN</alternateName>
+<alternateName lang="id">Madison</alternateName>
+<alternateName lang="io">Madison</alternateName>
+<alternateName lang="it">Madison</alternateName>
+<alternateName lang="ja">マディソン</alternateName>
+<alternateName lang="ka">მედისონი</alternateName>
+<alternateName lang="ko">매디슨</alternateName>
+<alternateName lang="la">Madisonia</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Madison%2C_Wisconsin</alternateName>
+<alternateName lang="lt">Madisonas</alternateName>
+<alternateName lang="lv">Medisona</alternateName>
+<alternateName lang="mk">Медисон</alternateName>
+<alternateName lang="mr">मॅडिसन</alternateName>
+<alternateName lang="mrj">Мэдисон</alternateName>
+<alternateName lang="nl">Madison</alternateName>
+<alternateName lang="nn">Madison</alternateName>
+<alternateName lang="no">Madison</alternateName>
+<alternateName lang="oc">Madison</alternateName>
+<alternateName lang="pl">Madison</alternateName>
+<alternateName lang="post">53716</alternateName>
+<alternateName lang="pt">Madison</alternateName>
+<alternateName lang="ru">Мадисон</alternateName>
+<alternateName lang="sr">Медисон</alternateName>
+<alternateName lang="sv">Madison</alternateName>
+<alternateName lang="ta">மேடிசன்</alternateName>
+<alternateName lang="tl">Madison</alternateName>
+<alternateName lang="uk">Медісон</alternateName>
+<alternateName lang="unlc">MSN</alternateName>
+<alternateName lang="zh">麦迪逊</alternateName>
+<alternateName lang="zh-CN">麦迪逊</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-89.56667</west>
+<north>43.17211</north>
+<east>-89.24644</east>
+<south>42.99807</south>
+</bbox>
+<score>32.92485809326172</score>
+</geoname>
+<geoname>
+<toponymName>Merican</toponymName>
+<name>Merican</name>
+<lat>-6.6775</lat>
+<lng>110.9859</lng>
+<geonameId>6752524</geonameId>
+<countryCode>ID</countryCode>
+<countryName>Indonesia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Merican</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="JT">07</adminCode1>
+<adminName1>Central Java</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="id">Merican</alternateName>
+<timezone dstOffset="7.0" gmtOffset="7.0">Asia/Jakarta</timezone>
+<bbox>
+<west>110.97685</west>
+<north>-6.66851</north>
+<east>110.99495</east>
+<south>-6.68649</south>
+</bbox>
+<score>28.75375747680664</score>
+</geoname>
+<geoname>
+<toponymName>Merican</toponymName>
+<name>Merican</name>
+<lat>-7.6654</lat>
+<lng>112.3823</lng>
+<geonameId>6835850</geonameId>
+<countryCode>ID</countryCode>
+<countryName>Indonesia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Merican</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="JI">08</adminCode1>
+<adminName1>East Java</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="id">Merican</alternateName>
+<timezone dstOffset="7.0" gmtOffset="7.0">Asia/Jakarta</timezone>
+<bbox>
+<west>112.37323</west>
+<north>-7.65641</north>
+<east>112.39137</east>
+<south>-7.67439</south>
+</bbox>
+<score>28.75375747680664</score>
+</geoname>
+</geonames>

@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>12</totalResultsCount>
+<geoname>
+<toponymName>Moon</toponymName>
+<name>Moon</name>
+<lat>37.97342</lat>
+<lng>-83.04878</lng>
+<geonameId>4301237</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>230</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>175</adminCode2>
+<adminName2>Morgan County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Moon%2C_Kentucky</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-83.06019</west>
+<north>37.98241</north>
+<east>-83.03737</east>
+<south>37.96443</south>
+</bbox>
+<score>61.03737258911133</score>
+</geoname>
+<geoname>
+<toponymName>Moon</toponymName>
+<name>Moon</name>
+<lat>37.44347</lat>
+<lng>-76.29272</lng>
+<geonameId>4773786</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>3</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>115</adminCode2>
+<adminName2>Mathews County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Moon%2C_Virginia</alternateName>
+<alternateName lang="post">23119</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-76.30405</west>
+<north>37.45246</north>
+<east>-76.28139</east>
+<south>37.43447</south>
+</bbox>
+<score>61.03737258911133</score>
+</geoname>
+<geoname>
+<toponymName>Moon</toponymName>
+<name>Moon</name>
+<lat>40.51165</lat>
+<lng>-80.24062</lng>
+<geonameId>5201821</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>357</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PA">PA</adminCode1>
+<adminName1>Pennsylvania</adminName1>
+<adminCode2>003</adminCode2>
+<adminName2>Allegheny County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Moon_Township%2C_Allegheny_County%2C_Pennsylvania</alternateName>
+<alternateName lang="unlc">NIP</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-80.25245</west>
+<north>40.52064</north>
+<east>-80.22879</east>
+<south>40.50265</south>
+</bbox>
+<score>61.03737258911133</score>
+</geoname>
+<geoname>
+<toponymName>Moon</toponymName>
+<name>Moon</name>
+<lat>44.77163</lat>
+<lng>-89.7879</lng>
+<geonameId>5263411</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>381</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WI">WI</adminCode1>
+<adminName1>Wisconsin</adminName1>
+<adminCode2>073</adminCode2>
+<adminName2>Marathon County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Moon%2C_Wisconsin</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-89.80057</west>
+<north>44.78063</north>
+<east>-89.77523</east>
+<south>44.76264</south>
+</bbox>
+<score>61.03737258911133</score>
+</geoname>
+<geoname>
+<toponymName>Moon</toponymName>
+<name>Moon</name>
+<lat>34.42205</lat>
+<lng>-90.48843</lng>
+<geonameId>4436475</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>56</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MS">MS</adminCode1>
+<adminName1>Mississippi</adminName1>
+<adminCode2>027</adminCode2>
+<adminName2>Coahoma County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.49934</west>
+<north>34.43104</north>
+<east>-90.47753</east>
+<south>34.41306</south>
+</bbox>
+<score>40.69158172607422</score>
+</geoname>
+<geoname>
+<toponymName>Moon</toponymName>
+<name>Moon</name>
+<lat>33.82428</lat>
+<lng>-94.5716</lng>
+<geonameId>4542973</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>133</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OK">OK</adminCode1>
+<adminName1>Oklahoma</adminName1>
+<adminCode2>089</adminCode2>
+<adminName2>McCurtain County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-94.58243</west>
+<north>33.83327</north>
+<east>-94.56077</east>
+<south>33.81529</south>
+</bbox>
+<score>40.69158172607422</score>
+</geoname>
+<geoname>
+<toponymName>Moon</toponymName>
+<name>Moon</name>
+<lat>43.94637</lat>
+<lng>-104.00826</lng>
+<geonameId>5767194</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1951</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SD">SD</adminCode1>
+<adminName1>South Dakota</adminName1>
+<adminCode2>103</adminCode2>
+<adminName2>Pennington County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<bbox>
+<west>-104.02076</west>
+<north>43.95536</north>
+<east>-103.99577</east>
+<south>43.93737</south>
+</bbox>
+<score>40.69158172607422</score>
+</geoname>
+<geoname>
+<toponymName>Muhu</toponymName>
+<name>Muhu</name>
+<lat>58.5825</lat>
+<lng>23.2525</lng>
+<geonameId>590129</geonameId>
+<countryCode>EE</countryCode>
+<countryName>Estonia</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames>Insel Mohn,Insel Moon,Mona Sala,Moon,Moon Island,Muhu,Muhu Saar,Muhuma,Muhumaa,Muhumā,Mukhu,Möön,Möön Island,Ostrov Mukhu,Ostrov Mukhumaa,mwhw,Муху,מוהו,מוהומאה</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="74">14</adminCode1>
+<adminName1>Saare County</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="cs">Muhu</alternateName>
+<alternateName lang="de">Muhu</alternateName>
+<alternateName lang="en">Muhu</alternateName>
+<alternateName lang="et">Muhu</alternateName>
+<alternateName lang="fi">Muhu</alternateName>
+<alternateName lang="fr">Muhu</alternateName>
+<alternateName lang="he">מוהומאה</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Muhu</alternateName>
+<alternateName lang="nl">Muhu</alternateName>
+<alternateName lang="no">Muhu</alternateName>
+<alternateName lang="pl">Muhu</alternateName>
+<alternateName lang="ro">Muhu</alternateName>
+<alternateName lang="ru">Муху</alternateName>
+<alternateName lang="sv">Moon</alternateName>
+<timezone dstOffset="3.0" gmtOffset="2.0">Europe/Tallinn</timezone>
+<bbox>
+<west>23.07378</west>
+<north>58.68475</north>
+<east>23.41236</east>
+<south>58.52753</south>
+</bbox>
+<score>30.518686294555664</score>
+</geoname>
+<geoname>
+<toponymName>Liiva</toponymName>
+<name>Liiva</name>
+<lat>58.60194</lat>
+<lng>23.24694</lng>
+<geonameId>590637</geonameId>
+<countryCode>EE</countryCode>
+<countryName>Estonia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Liiva,Liyva,Moon,Muhu</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="74">14</adminCode1>
+<adminName1>Saare County</adminName1>
+<adminCode2>0478</adminCode2>
+<adminName2>Muhu vald</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Liiva%2C_Muhu_Parish</alternateName>
+<alternateName lang="sv">Moon</alternateName>
+<timezone dstOffset="3.0" gmtOffset="2.0">Europe/Tallinn</timezone>
+<bbox>
+<west>23.22968</west>
+<north>58.61094</north>
+<east>23.26421</east>
+<south>58.59295</south>
+</bbox>
+<score>28.773292541503906</score>
+</geoname>
+<geoname>
+<toponymName>Moon-sur-Elle</toponymName>
+<name>Moon-sur-Elle</name>
+<lat>49.20666</lat>
+<lng>-1.04799</lng>
+<geonameId>2991908</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>832</population>
+<alternateNames>Moon,Moon-sur-Elle</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="P">99</adminCode1>
+<adminName1>Lower Normandy</adminName1>
+<adminCode2>50</adminCode2>
+<adminName2>Manche</adminName2>
+<adminCode3>504</adminCode3>
+<adminName3>Saint-Lô</adminName3>
+<adminCode4>50356</adminCode4>
+<adminName4>Moon-sur-Elle</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Moon-sur-Elle</alternateName>
+<alternateName lang="post">50680</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>-1.04937</west>
+<north>49.20756</north>
+<east>-1.04662</east>
+<south>49.20576</south>
+</bbox>
+<score>28.773292541503906</score>
+</geoname>
+</geonames>

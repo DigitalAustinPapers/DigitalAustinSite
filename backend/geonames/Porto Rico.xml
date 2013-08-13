@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>16</totalResultsCount>
+<geoname>
+<toponymName>Porto Rico</toponymName>
+<name>Porto Rico</name>
+<lat>-22.82902</lat>
+<lng>-53.31785</lng>
+<geonameId>6322931</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>2531</population>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="PR">18</adminCode1>
+<adminName1>Paraná</adminName1>
+<adminCode2>4120200</adminCode2>
+<adminName2>Porto Rico</adminName2>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Sao_Paulo</timezone>
+<bbox>
+<west>-53.41041</west>
+<north>-22.73347</north>
+<east>-53.23862</east>
+<south>-22.93518</south>
+</bbox>
+<score>63.792991638183594</score>
+</geoname>
+<geoname>
+<toponymName>Puerto Rico</toponymName>
+<name>Puerto Rico</name>
+<lat>18.24829</lat>
+<lng>-66.49989</lng>
+<geonameId>4566966</geonameId>
+<countryCode>PR</countryCode>
+<countryName>Puerto Rico</countryName>
+<fcl>A</fcl>
+<fcode>PCLD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>dependent political entity</fcodeName>
+<population>3916632</population>
+<alternateNames>Boriken,Borikén,Borinquen,Commonwealth of Puerto Rico,Estado Libre Asociado de Puerto Rico,Mpotoriku,Orileede Poto Riko,Orílẹ́ède Pọto Riko,Porto Rice,Porto Rico,Porto Riko,Porto Rikoo,Porto Rîko,Portorico,Portoriko,Portoryko,Portó Ríce,Potoriko,Pouerto Riko,Puehrto-Riko,Puerto Rico,Puerto Rikas,Puerto Riko,Puerto Riko nutome,Puerto-Riko,Puertoriko,Pueto Liko,Puwetoriko,Puɛto Riko,Pwetoriko,Pôrtô Rikô,Púertó Ríkó,Pɔrotoriko,Pɔtoriko,bo duo li ge,bwrtwrykw,i-Puerto Rico,parto riko,pexrtoriko,piyurto riko,porto riko,potoriko,pu'ertto riko,pueleutoliko,puerutoriko,puyertoriko,pwrtw ryqw,pwrtwrykw,pyu'arto riko,pyurto riko,pyurtoriko,Πουέρτο Ρίκο,Порто Рико,Порторико,Пуерто Рико,Пуерто-Ріко,Пуэрто-Рико,פורטו ריקו,بورتوريكو,پورتوریکو,پیورٹو ریکو,पर्टो रीको,पोर्टो रिको,प्युर्टोरिको,পুয়ের্টোরিকো,પ્યુઅર્ટો રિકો,ପୁଏର୍ତ୍ତୋ ରିକୋ,பியூர்டோ ரிகோ,పోటోరికో,ಪ್ಯೂರ್ಟೋ ರಿಕೊ,പോര്‍ട്ടോ റിക്കോ,เปอร์โตริโก,ເປີໂຕລິໂກ,ပေါ်တူရီကို,პუერტო რიკო,ፖርታ ሪኮ,ព័រតូរីកូ,プエルトリコ,波多黎各,푸에르토리코</alternateNames>
+<elevation>454</elevation>
+<continentCode>NA</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="af">Puerto Rico</alternateName>
+<alternateName lang="ak">Puɛto Riko</alternateName>
+<alternateName lang="am">ፖርታ ሪኮ</alternateName>
+<alternateName lang="ar">بورتوريكو</alternateName>
+<alternateName lang="az">Puerto Riko</alternateName>
+<alternateName lang="bg">Пуерто Рико</alternateName>
+<alternateName lang="bm">Pɔrotoriko</alternateName>
+<alternateName lang="bn">পুয়ের্টোরিকো</alternateName>
+<alternateName lang="br">Puerto Rico</alternateName>
+<alternateName lang="bs">Porto Riko</alternateName>
+<alternateName lang="ca">Puerto Rico</alternateName>
+<alternateName lang="cs">Portoriko</alternateName>
+<alternateName lang="cy">Puerto Rico</alternateName>
+<alternateName lang="da">Puerto Rico</alternateName>
+<alternateName lang="de">Puerto Rico</alternateName>
+<alternateName lang="ee">Puerto Riko nutome</alternateName>
+<alternateName lang="el">Πουέρτο Ρίκο</alternateName>
+<alternateName lang="en">Puerto Rico</alternateName>
+<alternateName lang="eo">Puerto-Riko</alternateName>
+<alternateName lang="es">Puerto Rico</alternateName>
+<alternateName lang="et">Puerto Rico</alternateName>
+<alternateName lang="eu">Puerto Rico</alternateName>
+<alternateName lang="fa">پورتوریکو</alternateName>
+<alternateName lang="ff">Porto Rikoo</alternateName>
+<alternateName lang="fi">Puerto Rico</alternateName>
+<alternateName lang="fo">Puerto Rico</alternateName>
+<alternateName lang="fr">Porto Rico</alternateName>
+<alternateName lang="ga">Portó Ríce</alternateName>
+<alternateName lang="gl">Porto Rico</alternateName>
+<alternateName lang="gu">પ્યુઅર્ટો રિકો</alternateName>
+<alternateName lang="ha">Porto Riko</alternateName>
+<alternateName lang="he">פורטו ריקו</alternateName>
+<alternateName lang="hi">पर्टो रीको</alternateName>
+<alternateName lang="hr">Portoriko</alternateName>
+<alternateName lang="hu">Puerto Rico</alternateName>
+<alternateName lang="id">Puerto Riko</alternateName>
+<alternateName lang="is">Púertó Ríkó</alternateName>
+<alternateName lang="it">Portorico</alternateName>
+<alternateName lang="ja">プエルトリコ</alternateName>
+<alternateName lang="ka">პუერტო რიკო</alternateName>
+<alternateName lang="ki">Pwetoriko</alternateName>
+<alternateName lang="kl">Puerto Rico</alternateName>
+<alternateName lang="km">ព័រតូរីកូ</alternateName>
+<alternateName lang="kn">ಪ್ಯೂರ್ಟೋ ರಿಕೊ</alternateName>
+<alternateName lang="ko">푸에르토리코</alternateName>
+<alternateName lang="lg">Potoriko</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Puerto_rico</alternateName>
+<alternateName lang="ln">Pɔtoriko</alternateName>
+<alternateName lang="lo">ເປີໂຕລິໂກ</alternateName>
+<alternateName lang="lt">Puerto Rikas</alternateName>
+<alternateName lang="lu">Mpotoriku</alternateName>
+<alternateName lang="lv">Puertoriko</alternateName>
+<alternateName lang="mg">Pôrtô Rikô</alternateName>
+<alternateName lang="mk">Порторико</alternateName>
+<alternateName lang="ml">പോര്‍ട്ടോ റിക്കോ</alternateName>
+<alternateName lang="mr">पोर्टो रिको</alternateName>
+<alternateName lang="ms">Puerto Rico</alternateName>
+<alternateName lang="mt">Puerto Rico</alternateName>
+<alternateName lang="my">ပေါ်တူရီကို</alternateName>
+<alternateName lang="nb">Puerto Rico</alternateName>
+<alternateName lang="nd">Puerto Rico</alternateName>
+<alternateName lang="ne">प्युर्टोरिको</alternateName>
+<alternateName lang="nl">Puerto Rico</alternateName>
+<alternateName lang="nn">Puerto Rico</alternateName>
+<alternateName lang="or">ପୁଏର୍ତ୍ତୋ ରିକୋ</alternateName>
+<alternateName lang="pl">Portoryko</alternateName>
+<alternateName lang="pt">Porto Rico</alternateName>
+<alternateName lang="rm">Puerto Rico</alternateName>
+<alternateName lang="rn">Puwetoriko</alternateName>
+<alternateName lang="ro">Porto Rico</alternateName>
+<alternateName lang="ru">Пуэрто-Рико</alternateName>
+<alternateName lang="se">Puerto Rico</alternateName>
+<alternateName lang="sg">Porto Rîko</alternateName>
+<alternateName lang="sk">Portoriko</alternateName>
+<alternateName lang="sl">Portoriko</alternateName>
+<alternateName lang="sn">Puerto Rico</alternateName>
+<alternateName lang="so">Puerto Rico</alternateName>
+<alternateName lang="sr">Порто Рико</alternateName>
+<alternateName lang="sv">Puerto Rico</alternateName>
+<alternateName lang="sw">Pwetoriko</alternateName>
+<alternateName lang="ta">பியூர்டோ ரிகோ</alternateName>
+<alternateName lang="te">పోటోరికో</alternateName>
+<alternateName lang="th">เปอร์โตริโก</alternateName>
+<alternateName lang="ti">ፖርታ ሪኮ</alternateName>
+<alternateName lang="to">Pueto Liko</alternateName>
+<alternateName lang="tr">Porto Riko</alternateName>
+<alternateName lang="uk">Пуерто-Ріко</alternateName>
+<alternateName lang="ur">پیورٹو ریکو</alternateName>
+<alternateName lang="vi">Puerto Rico</alternateName>
+<alternateName lang="yo">Orílẹ́ède Pọto Riko</alternateName>
+<alternateName lang="zh">波多黎各</alternateName>
+<alternateName lang="zu">i-Puerto Rico</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Puerto_Rico</timezone>
+<bbox>
+<west>-67.94273</west>
+<north>18.52017</north>
+<east>-65.21999</east>
+<south>17.88304</south>
+</bbox>
+<score>61.221187591552734</score>
+</geoname>
+<geoname>
+<toponymName>Porto Rico</toponymName>
+<name>Porto Rico</name>
+<lat>-22.77222</lat>
+<lng>-53.26694</lng>
+<geonameId>3452667</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="PR">18</adminCode1>
+<adminName1>Paraná</adminName1>
+<adminCode2>4120200</adminCode2>
+<adminName2>Porto Rico</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Porto_Rico%2C_Paran%C3%A1</alternateName>
+<alternateName lang="unlc">PTR</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Sao_Paulo</timezone>
+<bbox>
+<west>-53.2767</west>
+<north>-22.76323</north>
+<east>-53.25719</east>
+<south>-22.78122</south>
+</bbox>
+<score>38.275794982910156</score>
+</geoname>
+<geoname>
+<toponymName>Island of Puerto Rico</toponymName>
+<name>Puerto Rico</name>
+<lat>18.2494</lat>
+<lng>-66.50101</lng>
+<geonameId>4566967</geonameId>
+<countryCode>PR</countryCode>
+<countryName>Puerto Rico</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames>Boriken,Borikén,Borinquen,Port Ric,Porto Rico,Porto Rico - Puerto Rico,Porto Riko,Porto-Riko,Portoriko,Portoryko,Portus Dives,Potoriko,Pouerto Riko,Puehrto-Riko,Puerto Rico,Puerto Rikas,Puerto Riko,Puerto-Riko,Puertorikeaens,Puertorikeäns,Pòrt Ric,Pòtoriko,Pórtó Rícó,Pôrto Rico,Púertó Ríkó,San Juan Bautista,bo duo li ge,bwrtw rykw,pexrtoriko,pueleutoliko,puerutoriko,pwrtw ryqw,pwrtwrykw,Πουέρτο Ρίκο,Порторико,Пуерто Рико,Пуерто-Рико,Пуерто-Ріко,Пуэрто-Рико,פורטו ריקו,بورتو ريكو,پورتوریکو,เปอร์โตริโก,პუერტო-რიკო,プエルトリコ,波多黎各,푸에르토리코</alternateNames>
+<elevation>381</elevation>
+<continentCode>NA</continentCode>
+<adminCode1/>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ar">بورتو ريكو</alternateName>
+<alternateName lang="bg">Пуерто Рико</alternateName>
+<alternateName lang="bs">Porto Riko</alternateName>
+<alternateName lang="ca">Puerto Rico</alternateName>
+<alternateName lang="cs">Portoriko</alternateName>
+<alternateName lang="da">Puerto Rico</alternateName>
+<alternateName lang="de">Puerto Rico</alternateName>
+<alternateName lang="el">Πουέρτο Ρίκο</alternateName>
+<alternateName lang="en">Puerto Rico</alternateName>
+<alternateName lang="eo">Puerto-Riko</alternateName>
+<alternateName lang="es">Puerto Rico</alternateName>
+<alternateName lang="et">Puerto Rico</alternateName>
+<alternateName lang="eu">Puerto Rico</alternateName>
+<alternateName lang="fa">پورتوریکو</alternateName>
+<alternateName lang="fi">Puerto Rico</alternateName>
+<alternateName lang="fr">Porto Rico</alternateName>
+<alternateName lang="frp">Pôrto Rico</alternateName>
+<alternateName lang="ga">Pórtó Rícó</alternateName>
+<alternateName lang="gl">Porto Rico - Puerto Rico</alternateName>
+<alternateName lang="hbs">Portoriko</alternateName>
+<alternateName lang="he">פורטו ריקו</alternateName>
+<alternateName lang="hr">Portoriko</alternateName>
+<alternateName lang="ht">Pòtoriko</alternateName>
+<alternateName lang="hu">Puerto Rico</alternateName>
+<alternateName lang="id">Puerto Riko</alternateName>
+<alternateName lang="io">Porto-Riko</alternateName>
+<alternateName lang="is">Púertó Ríkó</alternateName>
+<alternateName lang="it">Porto Rico</alternateName>
+<alternateName lang="ja">プエルトリコ</alternateName>
+<alternateName lang="ka">პუერტო-რიკო</alternateName>
+<alternateName lang="ko">푸에르토리코</alternateName>
+<alternateName lang="kw">Puerto Rico</alternateName>
+<alternateName lang="la">Portus Dives</alternateName>
+<alternateName lang="link">http://ru.wikipedia.org/wiki/%D0%9F%D1%83%D1%8D%D1%80%D1%82%D0%BE-%D0%A0%D0%B8%D0%BA%D0%BE</alternateName>
+<alternateName lang="lt">Puerto Rikas</alternateName>
+<alternateName lang="mk">Порторико</alternateName>
+<alternateName lang="nl">Puerto Rico</alternateName>
+<alternateName lang="nn">Puerto Rico</alternateName>
+<alternateName lang="no">Puerto Rico</alternateName>
+<alternateName lang="oc">Pòrt Ric</alternateName>
+<alternateName lang="pl">Portoryko</alternateName>
+<alternateName lang="pt">Porto Rico</alternateName>
+<alternateName lang="ro">Puerto Rico</alternateName>
+<alternateName lang="ru">Пуэрто-Рико</alternateName>
+<alternateName lang="sk">Portoriko</alternateName>
+<alternateName lang="sl">Portoriko</alternateName>
+<alternateName lang="sr">Порторико</alternateName>
+<alternateName lang="sv">Puerto Rico</alternateName>
+<alternateName lang="sw">Puerto Rico</alternateName>
+<alternateName lang="th">เปอร์โตริโก</alternateName>
+<alternateName lang="tr">Porto Riko</alternateName>
+<alternateName lang="uk">Пуерто-Рико</alternateName>
+<alternateName lang="vi">Puerto Rico</alternateName>
+<alternateName lang="vo">Puertorikeäns</alternateName>
+<alternateName lang="zh">波多黎各</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Puerto_Rico</timezone>
+<bbox>
+<west>-67.2657</west>
+<north>18.52017</north>
+<east>-65.59207</east>
+<south>17.9264</south>
+</bbox>
+<score>31.68387222290039</score>
+</geoname>
+<geoname>
+<toponymName>Porto Rico</toponymName>
+<name>Porto Rico</name>
+<lat>-6.13333</lat>
+<lng>12.51667</lng>
+<geonameId>2238859</geonameId>
+<countryCode>AO</countryCode>
+<countryName>Angola</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="ZAI">16</adminCode1>
+<adminName1>Zaire</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="1.0">Africa/Luanda</timezone>
+<bbox>
+<west>12.50762</west>
+<north>-6.12434</north>
+<east>12.52571</east>
+<south>-6.14233</south>
+</bbox>
+<score>25.517196655273438</score>
+</geoname>
+<geoname>
+<toponymName>Pôrto Rico</toponymName>
+<name>Pôrto Rico</name>
+<lat>-8.9</lat>
+<lng>-35.61667</lng>
+<geonameId>3391362</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="AL">02</adminCode1>
+<adminName1>Alagoas</adminName1>
+<adminCode2>2705606</adminCode2>
+<adminName2>Novo Lino</adminName2>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Maceio</timezone>
+<bbox>
+<west>-35.62577</west>
+<north>-8.89101</north>
+<east>-35.60756</east>
+<south>-8.90899</south>
+</bbox>
+<score>25.517196655273438</score>
+</geoname>
+<geoname>
+<toponymName>Pôrto Rico</toponymName>
+<name>Pôrto Rico</name>
+<lat>-4.26667</lat>
+<lng>-38.85</lng>
+<geonameId>3391363</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="CE">06</adminCode1>
+<adminName1>Ceará</adminName1>
+<adminCode2>2302107</adminCode2>
+<adminName2>Baturité</adminName2>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Fortaleza</timezone>
+<bbox>
+<west>-38.85902</west>
+<north>-4.25767</north>
+<east>-38.84098</east>
+<south>-4.27566</south>
+</bbox>
+<score>25.517196655273438</score>
+</geoname>
+<geoname>
+<toponymName>Pôrto Rico</toponymName>
+<name>Pôrto Rico</name>
+<lat>-7.06667</lat>
+<lng>-71.71667</lng>
+<geonameId>3662766</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="AM">04</adminCode1>
+<adminName1>Amazonas</adminName1>
+<adminCode2>1301803</adminCode2>
+<adminName2>Ipixuna</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Eirunepe</timezone>
+<bbox>
+<west>-71.72573</west>
+<north>-7.05767</north>
+<east>-71.7076</east>
+<south>-7.07566</south>
+</bbox>
+<score>25.517196655273438</score>
+</geoname>
+<geoname>
+<toponymName>Porto Rico</toponymName>
+<name>Porto Rico</name>
+<lat>39.18203</lat>
+<lng>-80.76288</lng>
+<geonameId>4818890</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>282</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WV">WV</adminCode1>
+<adminName1>West Virginia</adminName1>
+<adminCode2>017</adminCode2>
+<adminName2>Doddridge County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-80.77449</west>
+<north>39.19102</north>
+<east>-80.75128</east>
+<south>39.17304</south>
+</bbox>
+<score>25.517196655273438</score>
+</geoname>
+<geoname>
+<toponymName>Sumba</toponymName>
+<name>Sumba</name>
+<lat>-6.13333</lat>
+<lng>12.61667</lng>
+<geonameId>2236940</geonameId>
+<countryCode>AO</countryCode>
+<countryName>Angola</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Porto Rico,Sumba</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="ZAI">16</adminCode1>
+<adminName1>Zaire</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="1.0">Africa/Luanda</timezone>
+<bbox>
+<west>12.60762</west>
+<north>-6.12434</north>
+<east>12.62571</east>
+<south>-6.14233</south>
+</bbox>
+<score>18.04338264465332</score>
+</geoname>
+</geonames>

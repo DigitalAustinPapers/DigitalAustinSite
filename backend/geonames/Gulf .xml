@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>6</totalResultsCount>
+<geoname>
+<toponymName>Gulf</toponymName>
+<name>Gulf</name>
+<lat>35.56043</lat>
+<lng>-79.28169</lng>
+<geonameId>4469407</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>144</population>
+<alternateNames/>
+<elevation>83</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NC">NC</adminCode1>
+<adminName1>North Carolina</adminName1>
+<adminCode2>037</adminCode2>
+<adminName2>Chatham County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Gulf%2C_North_Carolina</alternateName>
+<alternateName lang="post">27256</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-79.28279</west>
+<north>35.56133</north>
+<east>-79.28058</east>
+<south>35.55953</south>
+</bbox>
+<score>63.663734436035156</score>
+</geoname>
+<geoname>
+<toponymName>Gulf</toponymName>
+<name>Gulf</name>
+<lat>35.17941</lat>
+<lng>-119.16011</lng>
+<geonameId>5550294</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>89</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>029</adminCode2>
+<adminName2>Kern County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Gulf%2C_California</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-119.17111</west>
+<north>35.1884</north>
+<east>-119.1491</east>
+<south>35.17042</south>
+</bbox>
+<score>63.663734436035156</score>
+</geoname>
+<geoname>
+<toponymName>Gulf Province</toponymName>
+<name>Gulf Province</name>
+<lat>-7.7246</lat>
+<lng>145.08545</lng>
+<geonameId>2096633</geonameId>
+<countryCode>PG</countryCode>
+<countryName>Papua New Guinea</countryName>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>first-order administrative division</fcodeName>
+<population/>
+<alternateNames>Gulf,Gulf District,Gulf Province</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="GPK">02</adminCode1>
+<adminName1>Gulf</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Gulf_Province</alternateName>
+<timezone dstOffset="10.0" gmtOffset="10.0">Pacific/Port_Moresby</timezone>
+<bbox>
+<west>143.0248</west>
+<north>-6.67673</north>
+<east>146.6713</east>
+<south>-8.58471</south>
+</bbox>
+<score>60.022743225097656</score>
+</geoname>
+<geoname>
+<toponymName>Gulf</toponymName>
+<name>Gulf</name>
+<lat>28.72138</lat>
+<lng>-95.89191</lng>
+<geonameId>4695450</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLQ</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>abandoned populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>4</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>321</adminCode2>
+<adminName2>Matagorda County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-95.89396</west>
+<north>28.72317</north>
+<east>-95.88985</east>
+<south>28.71958</south>
+</bbox>
+<score>26.52655601501465</score>
+</geoname>
+<geoname>
+<toponymName>Gulf</toponymName>
+<name>Gulf</name>
+<lat>-18</lat>
+<lng>-63.13333</lng>
+<geonameId>3915324</geonameId>
+<countryCode>BO</countryCode>
+<countryName>Bolivia</countryName>
+<fcl>S</fcl>
+<fcode>AIRF</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>airfield</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="S">08</adminCode1>
+<adminName1>Santa Cruz</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/La_Paz</timezone>
+<score>13.263278007507324</score>
+</geoname>
+<geoname>
+<toponymName>Gulf</toponymName>
+<name>Gulf</name>
+<lat>29.88051</lat>
+<lng>-96.45302</lng>
+<geonameId>4695449</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>104</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>015</adminCode2>
+<adminName2>Austin County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>13.263278007507324</score>
+</geoname>
+</geonames>

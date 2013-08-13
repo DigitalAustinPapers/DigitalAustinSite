@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>221</totalResultsCount>
+<geoname>
+<toponymName>Harrisburg</toponymName>
+<name>Harrisburg</name>
+<lat>40.2737</lat>
+<lng>-76.88442</lng>
+<geonameId>5192726</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population>49528</population>
+<alternateNames>Garrisberg,Gorad Garysberg,HAR,Harisberga,Harisburg,Harisburgas,Harrisbarrig,Harrisburg,Harrisburgum,Kharisburg,ha li si bao,haeliseubeogeu,harispark,harisubagu,harysbrj, bnsylfanya,herisabarga,hrysbwrg, pnsylwanya,Гаррисберг,Гаррісберг,Горад Гарысберг,Харисбург,Харисбърг,Һаррисбург,Հարիսբուրգ,האריסברג,هاريسبرج، بنسيلفانيا,هریسبورگ، پنسیلوانیا,ہیرسبرگ,हॅरिसबर्ग,ஹாரிஸ்பர்க்,แฮร์ริสเบิร์ก,ハリスバーグ,哈里斯堡,해리스버그</alternateNames>
+<elevation>101</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PA">PA</adminCode1>
+<adminName1>Pennsylvania</adminName1>
+<adminCode2>043</adminCode2>
+<adminName2>Dauphin County</adminName2>
+<alternateName lang="ar">هاريسبرج، بنسيلفانيا</alternateName>
+<alternateName lang="be">Горад Гарысберг</alternateName>
+<alternateName lang="bg">Харисбърг</alternateName>
+<alternateName lang="da">Harrisburg</alternateName>
+<alternateName lang="de">Harrisburg</alternateName>
+<alternateName lang="en">Harrisburg</alternateName>
+<alternateName lang="eo">Harrisburg</alternateName>
+<alternateName lang="es">Harrisburg</alternateName>
+<alternateName lang="eu">Harrisburg</alternateName>
+<alternateName lang="fa">هریسبورگ، پنسیلوانیا</alternateName>
+<alternateName lang="fi">Harrisburg</alternateName>
+<alternateName lang="fr">Harrisburg</alternateName>
+<alternateName lang="ga">Harrisburg</alternateName>
+<alternateName lang="he">האריסברג</alternateName>
+<alternateName lang="hy">Հարիսբուրգ</alternateName>
+<alternateName lang="iata">HAR</alternateName>
+<alternateName lang="id">Harrisburg</alternateName>
+<alternateName lang="io">Harrisburg</alternateName>
+<alternateName lang="it">Harrisburg</alternateName>
+<alternateName lang="ja">ハリスバーグ</alternateName>
+<alternateName lang="ko">해리스버그</alternateName>
+<alternateName lang="la">Harrisburgum</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Harrisburg%2C_Pennsylvania</alternateName>
+<alternateName lang="lt">Harisburgas</alternateName>
+<alternateName lang="lv">Harisberga</alternateName>
+<alternateName lang="mk">Харисбург</alternateName>
+<alternateName lang="mr">हॅरिसबर्ग</alternateName>
+<alternateName lang="mrj">Гаррисберг</alternateName>
+<alternateName lang="nl">Harrisburg</alternateName>
+<alternateName lang="no">Harrisburg</alternateName>
+<alternateName lang="oc">Harrisburg</alternateName>
+<alternateName lang="pdc">Harrisbarrig</alternateName>
+<alternateName lang="pl">Harrisburg</alternateName>
+<alternateName lang="pnb">ہیرسبرگ</alternateName>
+<alternateName lang="post">17140</alternateName>
+<alternateName lang="pt">Harrisburg</alternateName>
+<alternateName lang="ru">Гаррисберг</alternateName>
+<alternateName lang="sah">Һаррисбург</alternateName>
+<alternateName lang="sk">Harrisburg</alternateName>
+<alternateName lang="sr">Харисбург</alternateName>
+<alternateName lang="sv">Harrisburg</alternateName>
+<alternateName lang="ta">ஹாரிஸ்பர்க்</alternateName>
+<alternateName lang="th">แฮร์ริสเบิร์ก</alternateName>
+<alternateName lang="uk">Гаррісберг</alternateName>
+<alternateName lang="unlc">HAR</alternateName>
+<alternateName lang="zh">哈里斯堡</alternateName>
+<alternateName lang="zh-CN">哈里斯堡</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-76.92217</west>
+<north>40.30249</north>
+<east>-76.84666</east>
+<south>40.24491</south>
+</bbox>
+<score>46.715545654296875</score>
+</geoname>
+<geoname>
+<toponymName>Harrisburg International Airport</toponymName>
+<name>Harrisburg International Airport</name>
+<lat>40.19342</lat>
+<lng>-76.7633</lng>
+<geonameId>5192735</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>AIRP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>airport</fcodeName>
+<population/>
+<alternateNames>Harrisburg International Airport,Harrisburg International Airport-Olmsted Field,KMDT,MDT</alternateNames>
+<elevation>92</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PA">PA</adminCode1>
+<adminName1>Pennsylvania</adminName1>
+<adminCode2>043</adminCode2>
+<adminName2>Dauphin County</adminName2>
+<alternateName lang="iata">MDT</alternateName>
+<alternateName lang="icao">KMDT</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Harrisburg_International_Airport</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>11.84162712097168</score>
+</geoname>
+<geoname>
+<toponymName>Harrisburg</toponymName>
+<name>Harrisburg</name>
+<lat>6.47778</lat>
+<lng>-10.66056</lng>
+<geonameId>2276489</geonameId>
+<countryCode>LR</countryCode>
+<countryName>Liberia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="MO">14</adminCode1>
+<adminName1>Montserrado</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="0.0" gmtOffset="0.0">Africa/Monrovia</timezone>
+<bbox>
+<west>-10.66961</west>
+<north>6.48677</north>
+<east>-10.6515</east>
+<south>6.46878</south>
+</bbox>
+<score>11.602376937866211</score>
+</geoname>
+<geoname>
+<toponymName>Harrisburg</toponymName>
+<name>Harrisburg</name>
+<lat>44.27401</lat>
+<lng>-123.17065</lng>
+<geonameId>5730389</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3567</population>
+<alternateNames>Garrisberg,Гаррисберг</alternateNames>
+<elevation>95</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OR">OR</adminCode1>
+<adminName1>Oregon</adminName1>
+<adminCode2>043</adminCode2>
+<adminName2>Linn County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Harrisburg%2C_Oregon</alternateName>
+<alternateName lang="post">97446</alternateName>
+<alternateName lang="ru">Гаррисберг</alternateName>
+<alternateName lang="unlc">HB3</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-123.17953</west>
+<north>44.28037</north>
+<east>-123.16177</east>
+<south>44.26765</south>
+</bbox>
+<score>11.602376937866211</score>
+</geoname>
+<geoname>
+<toponymName>Harrisburg</toponymName>
+<name>Harrisburg</name>
+<lat>39.1417</lat>
+<lng>-92.46268</lng>
+<geonameId>4389629</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>266</population>
+<alternateNames>Garrisberg,Гаррисберг</alternateNames>
+<elevation>255</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>019</adminCode2>
+<adminName2>Boone County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Harrisburg%2C_Missouri</alternateName>
+<alternateName lang="post">65256</alternateName>
+<alternateName lang="ru">Гаррисберг</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.46384</west>
+<north>39.1426</north>
+<east>-92.46152</east>
+<south>39.14081</south>
+</bbox>
+<score>9.668647766113281</score>
+</geoname>
+<geoname>
+<toponymName>Harrisburg</toponymName>
+<name>Harrisburg</name>
+<lat>39.80951</lat>
+<lng>-83.17102</lng>
+<geonameId>4513798</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>320</population>
+<alternateNames>Garrisberg,Гаррисберг</alternateNames>
+<elevation>242</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>049</adminCode2>
+<adminName2>Franklin County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Harrisburg%2C_Ohio</alternateName>
+<alternateName lang="post">43126</alternateName>
+<alternateName lang="ru">Гаррисберг</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-83.17219</west>
+<north>39.81041</north>
+<east>-83.16985</east>
+<south>39.80861</south>
+</bbox>
+<score>9.668647766113281</score>
+</geoname>
+<geoname>
+<toponymName>New Harrisburg</toponymName>
+<name>New Harrisburg</name>
+<lat>40.62145</lat>
+<lng>-81.14593</lng>
+<geonameId>5164296</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>372</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>019</adminCode2>
+<adminName2>Carroll County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/New_Harrisburg%2C_Ohio</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-81.15779</west>
+<north>40.63044</north>
+<east>-81.13408</east>
+<south>40.61246</south>
+</bbox>
+<score>9.668647766113281</score>
+</geoname>
+<geoname>
+<toponymName>Township of Harrisburg</toponymName>
+<name>Harrisburg Township</name>
+<lat>40.76952</lat>
+<lng>-91.77618</lng>
+<geonameId>4859893</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>administrative division</fcodeName>
+<population/>
+<alternateNames>Harrisburg Township</alternateNames>
+<elevation>226</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IA">IA</adminCode1>
+<adminName1>Iowa</adminName1>
+<adminCode2>177</adminCode2>
+<adminName2>Van Buren County</adminName2>
+<alternateName lang="en">Harrisburg Township</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>8.64790153503418</score>
+</geoname>
+<geoname>
+<toponymName>Harrisburg</toponymName>
+<name>Harrisburg</name>
+<lat>35.56425</lat>
+<lng>-90.71678</lng>
+<geonameId>4113951</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>2288</population>
+<alternateNames>Garrisberg,Гаррисберг</alternateNames>
+<elevation>95</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">AR</adminCode1>
+<adminName1>Arkansas</adminName1>
+<adminCode2>111</adminCode2>
+<adminName2>Poinsett County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Harrisburg%2C_Arkansas</alternateName>
+<alternateName lang="post">72432</alternateName>
+<alternateName lang="ru">Гаррисберг</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.72231</west>
+<north>35.56874</north>
+<east>-90.71125</east>
+<south>35.55975</south>
+</bbox>
+<score>7.734918117523193</score>
+</geoname>
+<geoname>
+<toponymName>Harrisburg</toponymName>
+<name>Harrisburg</name>
+<lat>37.73838</lat>
+<lng>-88.54061</lng>
+<geonameId>4240284</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>9017</population>
+<alternateNames>Garrisberg,Kharisburg,Гаррисберг,Харисбург</alternateNames>
+<elevation>121</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>165</adminCode2>
+<adminName2>Saline County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Harrisburg%2C_Illinois</alternateName>
+<alternateName lang="post">62946</alternateName>
+<alternateName lang="ru">Гаррисберг</alternateName>
+<alternateName lang="sr">Харисбург</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-88.55565</west>
+<north>37.75028</north>
+<east>-88.52556</east>
+<south>37.72648</south>
+</bbox>
+<score>7.734918117523193</score>
+</geoname>
+</geonames>

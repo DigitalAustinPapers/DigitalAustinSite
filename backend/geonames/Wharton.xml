@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>16</totalResultsCount>
+<geoname>
+<toponymName>Wharton</toponymName>
+<name>Wharton</name>
+<lat>37.90344</lat>
+<lng>-81.67734</lng>
+<geonameId>4826931</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>292</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WV">WV</adminCode1>
+<adminName1>West Virginia</adminName1>
+<adminCode2>005</adminCode2>
+<adminName2>Boone County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wharton%2C_West_Virginia</alternateName>
+<alternateName lang="post">25208</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-81.68874</west>
+<north>37.91243</north>
+<east>-81.66594</east>
+<south>37.89445</south>
+</bbox>
+<score>53.48197937011719</score>
+</geoname>
+<geoname>
+<toponymName>Wharton</toponymName>
+<name>Wharton</name>
+<lat>40.89315</lat>
+<lng>-74.58183</lng>
+<geonameId>5106361</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>6522</population>
+<alternateNames/>
+<elevation>205</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NJ">NJ</adminCode1>
+<adminName1>New Jersey</adminName1>
+<adminCode2>027</adminCode2>
+<adminName2>Morris County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wharton%2C_New_Jersey</alternateName>
+<alternateName lang="post">07885</alternateName>
+<alternateName lang="unlc">WTQ</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-74.59909</west>
+<north>40.91525</north>
+<east>-74.56596</east>
+<south>40.88584</south>
+</bbox>
+<score>53.48197937011719</score>
+</geoname>
+<geoname>
+<toponymName>Wharton</toponymName>
+<name>Wharton</name>
+<lat>40.86144</lat>
+<lng>-83.46159</lng>
+<geonameId>5176616</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>358</population>
+<alternateNames/>
+<elevation>269</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>175</adminCode2>
+<adminName2>Wyandot County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wharton%2C_Ohio</alternateName>
+<alternateName lang="post">43359</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-83.46278</west>
+<north>40.86234</north>
+<east>-83.4604</east>
+<south>40.86054</south>
+</bbox>
+<score>53.48197937011719</score>
+</geoname>
+<geoname>
+<toponymName>Wharton</toponymName>
+<name>Wharton</name>
+<lat>45.41685</lat>
+<lng>-64.41546</lng>
+<geonameId>6179846</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NS">07</adminCode1>
+<adminName1>Nova Scotia</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wharton%2C_Nova_Scotia</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-4.0">America/Halifax</timezone>
+<score>53.48197937011719</score>
+</geoname>
+<geoname>
+<toponymName>Wharton</toponymName>
+<name>Wharton</name>
+<lat>54.42858</lat>
+<lng>-2.36156</lng>
+<geonameId>7291155</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C9</adminCode2>
+<adminName2>Cumbria</adminName2>
+<adminCode3>16UF</adminCode3>
+<adminName3>Eden District</adminName3>
+<adminCode4>16UF072</adminCode4>
+<adminName4>Wharton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.37435</west>
+<north>54.45897</north>
+<east>-2.34877</east>
+<south>54.39819</south>
+</bbox>
+<score>44.56831359863281</score>
+</geoname>
+<geoname>
+<toponymName>Whorton</toponymName>
+<name>Whorton</name>
+<lat>18.06667</lat>
+<lng>-77.73333</lng>
+<geonameId>3488032</geonameId>
+<countryCode>JM</countryCode>
+<countryName>Jamaica</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Wharton,Whorton</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="11">11</adminCode1>
+<adminName1>St. Elizabeth</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Jamaica</timezone>
+<bbox>
+<west>-77.74279</west>
+<north>18.07566</north>
+<east>-77.72387</east>
+<south>18.05767</south>
+</bbox>
+<score>40.361087799072266</score>
+</geoname>
+<geoname>
+<toponymName>Wharton</toponymName>
+<name>Wharton</name>
+<lat>29.31164</lat>
+<lng>-96.10274</lng>
+<geonameId>4741325</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>8832</population>
+<alternateNames>Vorton,WHT,Wharton,wartwn, tgzas,Вортон,وارتون، تگزاس</alternateNames>
+<elevation>31</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>481</adminCode2>
+<adminName2>Wharton County</adminName2>
+<alternateName lang="en">Wharton</alternateName>
+<alternateName lang="fa">وارتون، تگزاس</alternateName>
+<alternateName lang="iata">WHT</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wharton%2C_Texas</alternateName>
+<alternateName lang="post">77488</alternateName>
+<alternateName lang="sr">Вортон</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-96.11638</west>
+<north>29.32353</north>
+<east>-96.08909</east>
+<south>29.29974</south>
+</bbox>
+<score>38.20936965942383</score>
+</geoname>
+<geoname>
+<toponymName>Wharton</toponymName>
+<name>Wharton</name>
+<lat>53.19496</lat>
+<lng>-2.50483</lng>
+<geonameId>2634180</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z8</adminCode2>
+<adminName2>Cheshire West and Chester</adminName2>
+<adminCode3>00EW163</adminCode3>
+<adminName3>Winsford</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.51984</west>
+<north>53.20395</north>
+<east>-2.48981</east>
+<south>53.18597</south>
+</bbox>
+<score>35.6546516418457</score>
+</geoname>
+<geoname>
+<toponymName>Wharton</toponymName>
+<name>Wharton</name>
+<lat>36.0248</lat>
+<lng>-93.63047</lng>
+<geonameId>4136033</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>430</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">AR</adminCode1>
+<adminName1>Arkansas</adminName1>
+<adminCode2>087</adminCode2>
+<adminName2>Madison County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-93.64159</west>
+<north>36.03379</north>
+<east>-93.61935</east>
+<south>36.01581</south>
+</bbox>
+<score>35.6546516418457</score>
+</geoname>
+<geoname>
+<toponymName>Wharton</toponymName>
+<name>Wharton</name>
+<lat>41.53173</lat>
+<lng>-78.01972</lng>
+<geonameId>5219073</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>334</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PA">PA</adminCode1>
+<adminName1>Pennsylvania</adminName1>
+<adminCode2>105</adminCode2>
+<adminName2>Potter County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-78.03174</west>
+<north>41.54073</north>
+<east>-78.00771</east>
+<south>41.52274</south>
+</bbox>
+<score>35.6546516418457</score>
+</geoname>
+</geonames>

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>9</totalResultsCount>
+<geoname>
+<toponymName>Río Trinidad</toponymName>
+<name>Río Trinidad</name>
+<lat>8.65694</lat>
+<lng>-78.53889</lng>
+<geonameId>3700414</geonameId>
+<countryCode>PA</countryCode>
+<countryName>Panama</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>Rio Totumo,Rio Trinidad,Río Totumo,Río Trinidad</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="8">08</adminCode1>
+<adminName1>Panamá</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Panama</timezone>
+<score>21.767498016357422</score>
+</geoname>
+<geoname>
+<toponymName>Río Catavela</toponymName>
+<name>Río Catavela</name>
+<lat>8.93333</lat>
+<lng>-81.8</lng>
+<geonameId>3712894</geonameId>
+<countryCode>PA</countryCode>
+<countryName>Panama</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>Catabella Creek,Quebrada Catabela,Quebrada Catapela,Rio Candela,Rio Catabella,Rio Catavela,Rio Trinidad,Río Candela,Río Catabella,Río Catavela,Río Trinidad</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NB">12</adminCode1>
+<adminName1>Ngöbe-Buglé</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Panama</timezone>
+<score>20.522594451904297</score>
+</geoname>
+<geoname>
+<toponymName>Río la Trinidad</toponymName>
+<name>Río la Trinidad</name>
+<lat>17.83095</lat>
+<lng>-95.15925</lng>
+<geonameId>3515087</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>Rio Jaltepec,Rio Trinidad,Rio de la Trinidad,Rio la Trinidad,Río Jaltepec,Río Trinidad,Río de la Trinidad,Río la Trinidad</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<score>17.9572696685791</score>
+</geoname>
+<geoname>
+<toponymName>Quebrada Lobracita</toponymName>
+<name>Quebrada Lobracita</name>
+<lat>8.71667</lat>
+<lng>-79.96667</lng>
+<geonameId>3705668</geonameId>
+<countryCode>PA</countryCode>
+<countryName>Panama</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>Quebrada Lobracita,Rio Trinidad</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="8">08</adminCode1>
+<adminName1>Panamá</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Panama</timezone>
+<score>14.511665344238281</score>
+</geoname>
+<geoname>
+<toponymName>Río Trinidad</toponymName>
+<name>Río Trinidad</name>
+<lat>14.85</lat>
+<lng>-91.93333</lng>
+<geonameId>3588217</geonameId>
+<countryCode>GT</countryCode>
+<countryName>Guatemala</countryName>
+<fcl>H</fcl>
+<fcode>STMI</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>intermittent stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SM">17</adminCode1>
+<adminName1>San Marcos</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Guatemala</timezone>
+<score>12.826622009277344</score>
+</geoname>
+<geoname>
+<toponymName>Río Trinidad</toponymName>
+<name>Río Trinidad</name>
+<lat>-2.51054</lat>
+<lng>-79.4466</lng>
+<geonameId>3650497</geonameId>
+<countryCode>EC</countryCode>
+<countryName>Ecuador</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="A">02</adminCode1>
+<adminName1>Azuay</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Guayaquil</timezone>
+<score>12.826622009277344</score>
+</geoname>
+<geoname>
+<toponymName>Río Trinidad</toponymName>
+<name>Río Trinidad</name>
+<lat>9.0025</lat>
+<lng>-79.96167</lng>
+<geonameId>3700413</geonameId>
+<countryCode>PA</countryCode>
+<countryName>Panama</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Panama</timezone>
+<score>12.826622009277344</score>
+</geoname>
+<geoname>
+<toponymName>Río Trinidad</toponymName>
+<name>Río Trinidad</name>
+<lat>-49.41596</lat>
+<lng>-73.76604</lng>
+<geonameId>3869075</geonameId>
+<countryCode>CL</countryCode>
+<countryName>Chile</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="MA">10</adminCode1>
+<adminName1>Magallanes</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-3.0">America/Santiago</timezone>
+<score>12.826622009277344</score>
+</geoname>
+<geoname>
+<toponymName>Rio Trindade</toponymName>
+<name>Rio Trindade</name>
+<lat>-25.07964</lat>
+<lng>-48.62488</lng>
+<geonameId>3479527</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>Rio Trindade</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="PR">18</adminCode1>
+<adminName1>Paraná</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="pt">Rio Trindade</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Sao_Paulo</timezone>
+<score>2.5433902740478516</score>
+</geoname>
+</geonames>

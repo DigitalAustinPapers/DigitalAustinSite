@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>453</totalResultsCount>
+<geoname>
+<toponymName>San Agustín</toponymName>
+<name>San Agustín</name>
+<lat>14.81667</lat>
+<lng>-88.93333</lng>
+<geonameId>3602550</geonameId>
+<countryCode>HN</countryCode>
+<countryName>Honduras</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>3399</population>
+<alternateNames>San Agustin,San Agustín</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CP">05</adminCode1>
+<adminName1>Copán</adminName1>
+<adminCode2>0414</adminCode2>
+<adminName2>San Agustín</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Tegucigalpa</timezone>
+<score>46.03068542480469</score>
+</geoname>
+<geoname>
+<toponymName>San Agustín</toponymName>
+<name>San Agustín</name>
+<lat>1.91667</lat>
+<lng>-76.33333</lng>
+<geonameId>3670266</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames>San Agustin,San Agustín</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="HUI">16</adminCode1>
+<adminName1>Huila</adminName1>
+<adminCode2>3670266</adminCode2>
+<adminName2>San Agustín</adminName2>
+<alternateName lang="es">San Agustín</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<score>46.03068542480469</score>
+</geoname>
+<geoname>
+<toponymName>San Agustin</toponymName>
+<name>San Agustin</name>
+<lat>13.27729</lat>
+<lng>121.30482</lng>
+<geonameId>1690512</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3097</population>
+<alternateNames>San Agustin,San Augustin</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="41">41</adminCode1>
+<adminName1>Mimaropa</adminName1>
+<adminCode2>41</adminCode2>
+<adminName2>Oriental Mindoro</adminName2>
+<alternateName lang="en">San Agustin</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<bbox>
+<west>121.29828</west>
+<north>13.28365</north>
+<east>121.31135</east>
+<south>13.27093</south>
+</bbox>
+<score>37.1649055480957</score>
+</geoname>
+<geoname>
+<toponymName>San Agustin</toponymName>
+<name>San Agustin</name>
+<lat>12.41984</lat>
+<lng>120.98931</lng>
+<geonameId>1690516</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>4808</population>
+<alternateNames>San Agustin,San Augustin</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="41">41</adminCode1>
+<adminName1>Mimaropa</adminName1>
+<adminCode2>40</adminCode2>
+<adminName2>Mindoro Occidental</adminName2>
+<alternateName lang="fil">San Agustin</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<bbox>
+<west>120.9801</west>
+<north>12.42884</north>
+<east>120.99852</east>
+<south>12.41085</south>
+</bbox>
+<score>37.1649055480957</score>
+</geoname>
+<geoname>
+<toponymName>San Agustin</toponymName>
+<name>San Agustin</name>
+<lat>15.6719</lat>
+<lng>120.6978</lng>
+<geonameId>1690481</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>San Agustin,San Augustin</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="AGS">03</adminCode1>
+<adminName1>Central Luzon</adminName1>
+<adminCode2>47</adminCode2>
+<adminName2>Nueva Ecija</adminName2>
+<alternateName lang="fil">San Agustin</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<bbox>
+<west>120.68846</west>
+<north>15.68089</north>
+<east>120.70714</east>
+<south>15.66291</south>
+</bbox>
+<score>36.87471008300781</score>
+</geoname>
+<geoname>
+<toponymName>San Angustin</toponymName>
+<name>San Angustin</name>
+<lat>17.20345</lat>
+<lng>120.44234</lng>
+<geonameId>1690471</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>San Agustin,San Angustin</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="01">01</adminCode1>
+<adminName1>Ilocos Region</adminName1>
+<adminCode2>29</adminCode2>
+<adminName2>Ilocos Sur</adminName2>
+<alternateName lang="fil">San Angustin</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<bbox>
+<west>120.43293</west>
+<north>17.21244</north>
+<east>120.45176</east>
+<south>17.19445</south>
+</bbox>
+<score>35.82258224487305</score>
+</geoname>
+<geoname>
+<toponymName>San Agustín</toponymName>
+<name>San Agustín</name>
+<lat>13.43333</lat>
+<lng>-88.6</lng>
+<geonameId>3583910</geonameId>
+<countryCode>SV</countryCode>
+<countryName>El Salvador</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2149</population>
+<alternateNames>San Agustin,San Agustín</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="US">14</adminCode1>
+<adminName1>Usulután</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/San_Agust%C3%ADn%2C_Usulut%C3%A1n</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/El_Salvador</timezone>
+<bbox>
+<west>-88.60462</west>
+<north>13.43783</north>
+<east>-88.59538</east>
+<south>13.42884</south>
+</bbox>
+<score>34.523014068603516</score>
+</geoname>
+<geoname>
+<toponymName>San Agustín</toponymName>
+<name>San Agustín</name>
+<lat>14.81667</lat>
+<lng>-88.93333</lng>
+<geonameId>3602546</geonameId>
+<countryCode>HN</countryCode>
+<countryName>Honduras</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1777</population>
+<alternateNames>San Agustin,San Agustín</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CP">05</adminCode1>
+<adminName1>Copán</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/San_Agust%C3%ADn%2C_Cop%C3%A1n</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Tegucigalpa</timezone>
+<bbox>
+<west>-88.93798</west>
+<north>14.82116</north>
+<east>-88.92868</east>
+<south>14.81217</south>
+</bbox>
+<score>34.523014068603516</score>
+</geoname>
+<geoname>
+<toponymName>San Agustín</toponymName>
+<name>San Agustín</name>
+<lat>1.87863</lat>
+<lng>-76.27557</lng>
+<geonameId>3670260</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>9481</population>
+<alternateNames>San Agustin,San Agustín</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="HUI">16</adminCode1>
+<adminName1>Huila</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="es">San Agustín</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/San_Agust%C3%ADn%2C_Huila</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<bbox>
+<west>-76.28747</west>
+<north>1.89053</north>
+<east>-76.26366</east>
+<south>1.86673</south>
+</bbox>
+<score>34.523014068603516</score>
+</geoname>
+<geoname>
+<toponymName>San Agustín</toponymName>
+<name>San Agustín</name>
+<lat>-31.97681</lat>
+<lng>-64.374</lng>
+<geonameId>3838174</geonameId>
+<countryCode>AR</countryCode>
+<countryName>Argentina</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2870</population>
+<alternateNames>San Agustin,San Agustín</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="X">05</adminCode1>
+<adminName1>Córdoba</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/San_Agust%C3%ADn%2C_C%C3%B3rdoba</alternateName>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Argentina/Cordoba</timezone>
+<bbox>
+<west>-64.38149</west>
+<north>-31.97045</north>
+<east>-64.3665</east>
+<south>-31.98317</south>
+</bbox>
+<score>34.523014068603516</score>
+</geoname>
+</geonames>

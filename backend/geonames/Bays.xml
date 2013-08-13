@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Bays</toponymName>
+<name>Bays</name>
+<lat>41.26894</lat>
+<lng>-83.66966</lng>
+<geonameId>5146689</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>209</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>173</adminCode2>
+<adminName2>Wood County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-83.68162</west>
+<north>41.27793</north>
+<east>-83.65769</east>
+<south>41.25995</south>
+</bbox>
+<score>44.02532196044922</score>
+</geoname>
+<geoname>
+<toponymName>Bays</toponymName>
+<name>Bays</name>
+<lat>37.6462</lat>
+<lng>-83.24684</lng>
+<geonameId>4283367</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>271</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>025</adminCode2>
+<adminName2>Breathitt County</adminName2>
+<alternateName lang="post">41310</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-83.2582</west>
+<north>37.6552</north>
+<east>-83.23548</east>
+<south>37.63721</south>
+</bbox>
+<score>33.01898956298828</score>
+</geoname>
+<geoname>
+<toponymName>Bays</toponymName>
+<name>Bays</name>
+<lat>38.52927</lat>
+<lng>-80.71621</lng>
+<geonameId>4798064</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>487</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WV">WV</adminCode1>
+<adminName1>West Virginia</adminName1>
+<adminCode2>067</adminCode2>
+<adminName2>Nicholas County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>13.757913589477539</score>
+</geoname>
+</geonames>

@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>15</totalResultsCount>
+<geoname>
+<toponymName>Brights</toponymName>
+<name>Brights</name>
+<lat>37.02876</lat>
+<lng>-79.43225</lng>
+<geonameId>4748975</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>267</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>143</adminCode2>
+<adminName2>Pittsylvania County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brights%2C_Virginia</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-79.44352</west>
+<north>37.03775</north>
+<east>-79.42098</east>
+<south>37.01976</south>
+</bbox>
+<score>66.50978088378906</score>
+</geoname>
+<geoname>
+<toponymName>Brights</toponymName>
+<name>Brights</name>
+<lat>-32.76667</lat>
+<lng>141.1</lng>
+<geonameId>2174032</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>S</fcl>
+<fcode>FRM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farm</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="NSW">02</adminCode1>
+<adminName1>New South Wales</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="10.0" gmtOffset="11.0">Australia/Sydney</timezone>
+<score>13.856204986572266</score>
+</geoname>
+<geoname>
+<toponymName>Bright</toponymName>
+<name>Bright</name>
+<lat>39.21839</lat>
+<lng>-84.85606</lng>
+<geonameId>4254944</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>5693</population>
+<alternateNames/>
+<elevation>281</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IN">IN</adminCode1>
+<adminName1>Indiana</adminName1>
+<adminCode2>029</adminCode2>
+<adminName2>Dearborn County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bright%2C_Indiana</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-84.86767</west>
+<north>39.22738</north>
+<east>-84.84445</east>
+<south>39.20939</south>
+</bbox>
+<score>12.047140121459961</score>
+</geoname>
+<geoname>
+<toponymName>Bright</toponymName>
+<name>Bright</name>
+<lat>38.62593</lat>
+<lng>-81.23456</lng>
+<geonameId>4800114</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>241</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WV">WV</adminCode1>
+<adminName1>West Virginia</adminName1>
+<adminCode2>087</adminCode2>
+<adminName2>Roane County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bright%2C_West_Virginia</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-81.24607</west>
+<north>38.63492</north>
+<east>-81.22305</east>
+<south>38.61693</south>
+</bbox>
+<score>9.035354614257812</score>
+</geoname>
+<geoname>
+<toponymName>Bright</toponymName>
+<name>Bright</name>
+<lat>44.88608</lat>
+<lng>-90.53208</lng>
+<geonameId>5246750</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>394</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WI">WI</adminCode1>
+<adminName1>Wisconsin</adminName1>
+<adminCode2>019</adminCode2>
+<adminName2>Clark County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bright%2C_Wisconsin</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.54478</west>
+<north>44.89507</north>
+<east>-90.51939</east>
+<south>44.87708</south>
+</bbox>
+<score>9.035354614257812</score>
+</geoname>
+<geoname>
+<toponymName>Bright</toponymName>
+<name>Bright</name>
+<lat>-36.7333</lat>
+<lng>146.967</lng>
+<geonameId>8298890</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>S</fcl>
+<fcode>AIRP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>airport</fcodeName>
+<population/>
+<alternateNames>BRJ</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="VIC">07</adminCode1>
+<adminName1>Victoria</adminName1>
+<adminCode2>20110</adminCode2>
+<adminName2>Alpine</adminName2>
+<alternateName lang="iata">BRJ</alternateName>
+<timezone dstOffset="10.0" gmtOffset="11.0">Australia/Melbourne</timezone>
+<score>7.529462814331055</score>
+</geoname>
+<geoname>
+<toponymName>Bright</toponymName>
+<name>Bright</name>
+<lat>-36.72712</lat>
+<lng>146.96126</lng>
+<geonameId>2174041</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Brajt,Bright,Брайт</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="VIC">07</adminCode1>
+<adminName1>Victoria</adminName1>
+<adminCode2>20110</adminCode2>
+<adminName2>Alpine</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bright%2C_Victoria</alternateName>
+<alternateName lang="ru">Брайт</alternateName>
+<alternateName lang="unlc">BRJ</alternateName>
+<timezone dstOffset="10.0" gmtOffset="11.0">Australia/Melbourne</timezone>
+<bbox>
+<west>146.92653</west>
+<north>-36.7065</north>
+<east>147.00003</east>
+<south>-36.75099</south>
+</bbox>
+<score>7.377336502075195</score>
+</geoname>
+<geoname>
+<toponymName>Bright</toponymName>
+<name>Bright</name>
+<lat>-33.9</lat>
+<lng>139.06667</lng>
+<geonameId>2075796</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="SA">05</adminCode1>
+<adminName1>South Australia</adminName1>
+<adminCode2>42110</adminCode2>
+<adminName2>Goyder</adminName2>
+<timezone dstOffset="9.5" gmtOffset="10.5">Australia/Adelaide</timezone>
+<bbox>
+<west>139.05583</west>
+<north>-33.89101</north>
+<east>139.0775</east>
+<south>-33.90899</south>
+</bbox>
+<score>6.0235700607299805</score>
+</geoname>
+<geoname>
+<toponymName>Bright</toponymName>
+<name>Bright</name>
+<lat>33.41957</lat>
+<lng>-93.31906</lng>
+<geonameId>4103014</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>111</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">AR</adminCode1>
+<adminName1>Arkansas</adminName1>
+<adminCode2>027</adminCode2>
+<adminName2>Columbia County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-93.32984</west>
+<north>33.42856</north>
+<east>-93.30828</east>
+<south>33.41057</south>
+</bbox>
+<score>6.0235700607299805</score>
+</geoname>
+<geoname>
+<toponymName>Bright</toponymName>
+<name>Bright</name>
+<lat>34.84704</lat>
+<lng>-89.92037</lng>
+<geonameId>4419438</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>103</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MS">MS</adminCode1>
+<adminName1>Mississippi</adminName1>
+<adminCode2>033</adminCode2>
+<adminName2>DeSoto County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-89.93133</west>
+<north>34.85604</north>
+<east>-89.90941</east>
+<south>34.83805</south>
+</bbox>
+<score>6.0235700607299805</score>
+</geoname>
+</geonames>

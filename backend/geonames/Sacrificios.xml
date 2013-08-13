@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Sacrificios</toponymName>
+<name>Sacrificios</name>
+<lat>21.35833</lat>
+<lng>-97.4</lng>
+<geonameId>3824415</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VER">30</adminCode1>
+<adminName1>Veracruz-Llave</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-97.40966</west>
+<north>21.36733</north>
+<east>-97.39034</east>
+<south>21.34934</south>
+</bbox>
+<score>41.589073181152344</score>
+</geoname>
+<geoname>
+<toponymName>Sacrificio</toponymName>
+<name>Sacrificio</name>
+<lat>25.41667</lat>
+<lng>-103.2</lng>
+<geonameId>3988289</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="COA">07</adminCode1>
+<adminName1>Coahuila</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Monterrey</timezone>
+<bbox>
+<west>-103.20996</west>
+<north>25.42566</north>
+<east>-103.19004</east>
+<south>25.40767</south>
+</bbox>
+<score>18.516712188720703</score>
+</geoname>
+<geoname>
+<toponymName>Sacrificio</toponymName>
+<name>Sacrificio</name>
+<lat>17.1473</lat>
+<lng>-95.17311</lng>
+<geonameId>3801581</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Sacrificio</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OAX">20</adminCode1>
+<adminName1>Oaxaca</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="es">Sacrificio</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-95.18252</west>
+<north>17.15629</north>
+<east>-95.16369</east>
+<south>17.1383</south>
+</bbox>
+<score>17.008686065673828</score>
+</geoname>
+<geoname>
+<toponymName>Sacrificio</toponymName>
+<name>Sacrificio</name>
+<lat>18.08323</lat>
+<lng>-92.13923</lng>
+<geonameId>3802505</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Sacrificio</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TAB">27</adminCode1>
+<adminName1>Tabasco</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="es">Sacrificio</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-92.14869</west>
+<north>18.09222</north>
+<east>-92.12977</east>
+<south>18.07423</south>
+</bbox>
+<score>17.008686065673828</score>
+</geoname>
+<geoname>
+<toponymName>Campo Sacrificio</toponymName>
+<name>Campo Sacrificio</name>
+<lat>24.60784</lat>
+<lng>-107.54314</lng>
+<geonameId>4015858</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Campo Sacrificio,Sacrificio</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SIN">25</adminCode1>
+<adminName1>Sinaloa</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Mazatlan</timezone>
+<bbox>
+<west>-107.55304</west>
+<north>24.61683</north>
+<east>-107.53325</east>
+<south>24.59884</south>
+</bbox>
+<score>13.093293190002441</score>
+</geoname>
+</geonames>

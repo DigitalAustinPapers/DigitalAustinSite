@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Philae</toponymName>
+<name>Philae</name>
+<lat>24.01667</lat>
+<lng>32.88333</lng>
+<geonameId>356859</geonameId>
+<countryCode>EG</countryCode>
+<countryName>Egypt</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames>Filae,File,Jazirat Filah,Jazīrat Fīlah,Philae,Philaé,fei lai shen dian,firae shen dian,フィラエ神殿,菲萊神殿</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="ASN">16</adminCode1>
+<adminName1>Aswān</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ar">Jazīrat Fīlah</alternateName>
+<alternateName lang="ca">Philae</alternateName>
+<alternateName lang="de">Philae</alternateName>
+<alternateName lang="en">Philae</alternateName>
+<alternateName lang="es">File</alternateName>
+<alternateName lang="fr">Philaé</alternateName>
+<alternateName lang="ja">フィラエ神殿</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Philae</alternateName>
+<alternateName lang="nl">Philae</alternateName>
+<alternateName lang="pl">File</alternateName>
+<alternateName lang="pt">Filae</alternateName>
+<alternateName lang="sv">Philae</alternateName>
+<alternateName lang="zh">菲萊神殿</alternateName>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Cairo</timezone>
+<score>46.46238708496094</score>
+</geoname>
+<geoname>
+<toponymName>Philand</toponymName>
+<name>Philand</name>
+<lat>7.01667</lat>
+<lng>-58.5</lng>
+<geonameId>3376458</geonameId>
+<countryCode>GY</countryCode>
+<countryName>Guyana</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="PM">16</adminCode1>
+<adminName1>Pomeroon-Supenaam</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Guyana</timezone>
+<score>26.549936294555664</score>
+</geoname>
+<geoname>
+<toponymName>Phulād Junction</toponymName>
+<name>Phulād Junction</name>
+<lat>25.62393</lat>
+<lng>73.81082</lng>
+<geonameId>1259755</geonameId>
+<countryCode>IN</countryCode>
+<countryName>India</countryName>
+<fcl>S</fcl>
+<fcode>RSTN</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>railroad station</fcodeName>
+<population/>
+<alternateNames>Phulad,Phulad Junction,Phulād,Phulād Junction</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="RJ">24</adminCode1>
+<adminName1>Rajasthan</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="5.5" gmtOffset="5.5">Asia/Kolkata</timezone>
+<score>9.956226348876953</score>
+</geoname>
+</geonames>

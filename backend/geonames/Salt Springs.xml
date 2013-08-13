@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>86</totalResultsCount>
+<geoname>
+<toponymName>Salt Springs</toponymName>
+<name>Salt Springs</name>
+<lat>29.35108</lat>
+<lng>-81.73508</lng>
+<geonameId>4171709</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>10</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="FL">FL</adminCode1>
+<adminName1>Florida</adminName1>
+<adminCode2>083</adminCode2>
+<adminName2>Marion County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Salt_Springs%2C_Florida</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-81.7454</west>
+<north>29.36008</north>
+<east>-81.72476</east>
+<south>29.34209</south>
+</bbox>
+<score>39.4995231628418</score>
+</geoname>
+<geoname>
+<toponymName>Salt Springs</toponymName>
+<name>Salt Springs</name>
+<lat>39.11224</lat>
+<lng>-93.34743</lng>
+<geonameId>4407460</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>219</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>195</adminCode2>
+<adminName2>Saline County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-93.35902</west>
+<north>39.12124</north>
+<east>-93.33584</east>
+<south>39.10325</south>
+</bbox>
+<score>26.33301544189453</score>
+</geoname>
+<geoname>
+<toponymName>Salt Springs</toponymName>
+<name>Salt Springs</name>
+<lat>45.53345</lat>
+<lng>-62.89865</lng>
+<geonameId>6139828</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NS">07</adminCode1>
+<adminName1>Nova Scotia</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-3.0" gmtOffset="-4.0">America/Halifax</timezone>
+<score>26.33301544189453</score>
+</geoname>
+<geoname>
+<toponymName>Salt Springs</toponymName>
+<name>Salt Springs</name>
+<lat>45.66685</lat>
+<lng>-63.99873</lng>
+<geonameId>6139829</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NS">07</adminCode1>
+<adminName1>Nova Scotia</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-3.0" gmtOffset="-4.0">America/Halifax</timezone>
+<score>26.33301544189453</score>
+</geoname>
+<geoname>
+<toponymName>Salt Springs</toponymName>
+<name>Salt Springs</name>
+<lat>45.60015</lat>
+<lng>-62.01528</lng>
+<geonameId>6139830</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NS">07</adminCode1>
+<adminName1>Nova Scotia</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-3.0" gmtOffset="-4.0">America/Halifax</timezone>
+<score>26.33301544189453</score>
+</geoname>
+<geoname>
+<toponymName>Salt Springs</toponymName>
+<name>Salt Springs</name>
+<lat>45.55016</lat>
+<lng>-65.64883</lng>
+<geonameId>6139831</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NB">04</adminCode1>
+<adminName1>New Brunswick</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-3.0" gmtOffset="-4.0">America/Moncton</timezone>
+<score>26.33301544189453</score>
+</geoname>
+<geoname>
+<toponymName>Salt Springs</toponymName>
+<name>Salt Springs</name>
+<lat>-18.98333</lat>
+<lng>21.23333</lng>
+<geonameId>933131</geonameId>
+<countryCode>BW</countryCode>
+<countryName>Botswana</countryName>
+<fcl>H</fcl>
+<fcode>WTRH</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>waterhole(s)</fcodeName>
+<population/>
+<alternateNames>Salt Springs,Salts Springs</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Gaborone</timezone>
+<score>23.496456146240234</score>
+</geoname>
+<geoname>
+<toponymName>Salt Spring</toponymName>
+<name>Salt Spring</name>
+<lat>18.48755</lat>
+<lng>-77.86938</lng>
+<geonameId>3488646</geonameId>
+<countryCode>JM</countryCode>
+<countryName>Jamaica</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="08">12</adminCode1>
+<adminName1>Saint James</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Jamaica</timezone>
+<bbox>
+<west>-77.87886</west>
+<north>18.49654</north>
+<east>-77.8599</east>
+<south>18.47855</south>
+</bbox>
+<score>12.923850059509277</score>
+</geoname>
+<geoname>
+<toponymName>Salt Spring</toponymName>
+<name>Salt Spring</name>
+<lat>18.3776</lat>
+<lng>-78.27038</lng>
+<geonameId>3488647</geonameId>
+<countryCode>JM</countryCode>
+<countryName>Jamaica</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="09">02</adminCode1>
+<adminName1>Hanover Parish</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Jamaica</timezone>
+<bbox>
+<west>-78.27986</west>
+<north>18.38659</north>
+<east>-78.2609</east>
+<south>18.3686</south>
+</bbox>
+<score>12.923850059509277</score>
+</geoname>
+<geoname>
+<toponymName>Salt Spring</toponymName>
+<name>Salt Spring</name>
+<lat>35.73058</lat>
+<lng>-119.98529</lng>
+<geonameId>5391472</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>SPNG</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>spring(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>155</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>029</adminCode2>
+<adminName2>Kern County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Salt_Spring</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>12.923850059509277</score>
+</geoname>
+</geonames>

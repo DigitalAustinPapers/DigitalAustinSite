@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>19</totalResultsCount>
+<geoname>
+<toponymName>Farmers</toponymName>
+<name>Farmers</name>
+<lat>36.96681</lat>
+<lng>-79.40503</lng>
+<geonameId>4758468</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>313</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>143</adminCode2>
+<adminName2>Pittsylvania County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Farmers%2C_Virginia</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-79.41628</west>
+<north>36.9758</north>
+<east>-79.39377</east>
+<south>36.95782</south>
+</bbox>
+<score>60.89519119262695</score>
+</geoname>
+<geoname>
+<toponymName>Farmers</toponymName>
+<name>Farmers</name>
+<lat>13.2</lat>
+<lng>-59.58333</lng>
+<geonameId>3373890</geonameId>
+<countryCode>BB</countryCode>
+<countryName>Barbados</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="11">11</adminCode1>
+<adminName1>Saint Thomas</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Barbados</timezone>
+<bbox>
+<west>-59.59257</west>
+<north>13.20899</north>
+<east>-59.5741</east>
+<south>13.19101</south>
+</bbox>
+<score>40.59679412841797</score>
+</geoname>
+<geoname>
+<toponymName>Farmers</toponymName>
+<name>Farmers</name>
+<lat>39.9176</lat>
+<lng>-76.91109</lng>
+<geonameId>4050292</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>169</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PA">PA</adminCode1>
+<adminName1>Pennsylvania</adminName1>
+<adminCode2>133</adminCode2>
+<adminName2>York County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-76.92281</west>
+<north>39.92659</north>
+<east>-76.89936</east>
+<south>39.9086</south>
+</bbox>
+<score>40.59679412841797</score>
+</geoname>
+<geoname>
+<toponymName>Farmers</toponymName>
+<name>Farmers</name>
+<lat>39.17532</lat>
+<lng>-86.89167</lng>
+<geonameId>4257366</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>180</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IN">IN</adminCode1>
+<adminName1>Indiana</adminName1>
+<adminCode2>119</adminCode2>
+<adminName2>Owen County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Indiana/Indianapolis</timezone>
+<bbox>
+<west>-86.90328</west>
+<north>39.18432</north>
+<east>-86.88007</east>
+<south>39.16633</south>
+</bbox>
+<score>40.59679412841797</score>
+</geoname>
+<geoname>
+<toponymName>Farmers</toponymName>
+<name>Farmers</name>
+<lat>39.69893</lat>
+<lng>-85.5372</lng>
+<geonameId>4257367</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>296</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IN">IN</adminCode1>
+<adminName1>Indiana</adminName1>
+<adminCode2>139</adminCode2>
+<adminName2>Rush County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Indiana/Indianapolis</timezone>
+<bbox>
+<west>-85.54889</west>
+<north>39.70793</north>
+<east>-85.52551</east>
+<south>39.68994</south>
+</bbox>
+<score>40.59679412841797</score>
+</geoname>
+<geoname>
+<toponymName>Farmers</toponymName>
+<name>Farmers</name>
+<lat>29.86215</lat>
+<lng>-91.63706</lng>
+<geonameId>4324188</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>3</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>101</adminCode2>
+<adminName2>Saint Mary Parish</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-91.64743</west>
+<north>29.87114</north>
+<east>-91.62669</east>
+<south>29.85316</south>
+</bbox>
+<score>40.59679412841797</score>
+</geoname>
+<geoname>
+<toponymName>Farmers</toponymName>
+<name>Farmers</name>
+<lat>39.32173</lat>
+<lng>-83.76354</lng>
+<geonameId>4511494</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>324</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>027</adminCode2>
+<adminName2>Clinton County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-83.77516</west>
+<north>39.33072</north>
+<east>-83.75191</east>
+<south>39.31274</south>
+</bbox>
+<score>40.59679412841797</score>
+</geoname>
+<geoname>
+<toponymName>Farmers</toponymName>
+<name>Farmers</name>
+<lat>40.45193</lat>
+<lng>-104.77914</lng>
+<geonameId>5576969</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1436</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CO">CO</adminCode1>
+<adminName1>Colorado</adminName1>
+<adminCode2>123</adminCode2>
+<adminName2>Weld County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<bbox>
+<west>-104.79096</west>
+<north>40.46092</north>
+<east>-104.76731</east>
+<south>40.44293</south>
+</bbox>
+<score>40.59679412841797</score>
+</geoname>
+<geoname>
+<toponymName>Farmers</toponymName>
+<name>Farmers</name>
+<lat>38.14286</lat>
+<lng>-83.54602</lng>
+<geonameId>4291533</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>284</population>
+<alternateNames/>
+<elevation>205</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>205</adminCode2>
+<adminName2>Rowan County</adminName2>
+<alternateName lang="post">40319</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-83.54716</west>
+<north>38.14376</north>
+<east>-83.54488</east>
+<south>38.14196</south>
+</bbox>
+<score>30.447595596313477</score>
+</geoname>
+<geoname>
+<toponymName>Farmers</toponymName>
+<name>Farmers</name>
+<lat>38.0818</lat>
+<lng>-77.36526</lng>
+<geonameId>4758467</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>FRM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farm</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>67</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>033</adminCode2>
+<adminName2>Caroline County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>12.686498641967773</score>
+</geoname>
+</geonames>

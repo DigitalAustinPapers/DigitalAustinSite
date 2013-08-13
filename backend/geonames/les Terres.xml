@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>16</totalResultsCount>
+<geoname>
+<toponymName>Les Terres</toponymName>
+<name>Les Terres</name>
+<lat>49.44972</lat>
+<lng>-2.53667</lng>
+<geonameId>6420374</geonameId>
+<countryCode>GG</countryCode>
+<countryName>Guernsey</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Les Terres</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Les Terres</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Guernsey</timezone>
+<bbox>
+<west>-2.5505</west>
+<north>49.45872</north>
+<east>-2.52283</east>
+<south>49.44073</south>
+</bbox>
+<score>26.040679931640625</score>
+</geoname>
+<geoname>
+<toponymName>les Serres</toponymName>
+<name>les Serres</name>
+<lat>41.78333</lat>
+<lng>1.01667</lng>
+<geonameId>3120887</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>T</fcl>
+<fcode>HLLS</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>hills</fcodeName>
+<population/>
+<alternateNames>les Serres</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="CT">56</adminCode1>
+<adminName1>Catalonia</adminName1>
+<adminCode2>L</adminCode2>
+<adminName2>Lleida</adminName2>
+<adminCode3>25003</adminCode3>
+<adminName3>Agramunt</adminName3>
+<alternateName lang="ca">les Serres</alternateName>
+<alternateName lang="en">les Serres</alternateName>
+<alternateName lang="eu">les Serres</alternateName>
+<alternateName lang="oc">les Serres</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Madrid</timezone>
+<score>24.83706283569336</score>
+</geoname>
+<geoname>
+<toponymName>Les Verrès</toponymName>
+<name>Les Verrès</name>
+<lat>48.21667</lat>
+<lng>-4.43333</lng>
+<geonameId>2999353</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>T</fcl>
+<fcode>ISLS</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>islands</fcodeName>
+<population/>
+<alternateNames>Les Verres,Les Verrès,Verez</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="E">A2</adminCode1>
+<adminName1>Brittany</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<score>18.449073791503906</score>
+</geoname>
+<geoname>
+<toponymName>Les Ferres</toponymName>
+<name>Les Ferres</name>
+<lat>43.8455</lat>
+<lng>7.09262</lng>
+<geonameId>3001060</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>61</population>
+<alternateNames>Les Ferres</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="U">B8</adminCode1>
+<adminName1>Provence-Alpes-Côte d'Azur</adminName1>
+<adminCode2>06</adminCode2>
+<adminName2>Alpes-Maritimes</adminName2>
+<adminCode3>061</adminCode3>
+<adminName3>Arrondissement de Grasse</adminName3>
+<adminCode4>06061</adminCode4>
+<adminName4>Les Ferres</adminName4>
+<alternateName lang="post">06510</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>7.09137</west>
+<north>43.8464</north>
+<east>7.09387</east>
+<south>43.8446</south>
+</bbox>
+<score>17.360448837280273</score>
+</geoname>
+<geoname>
+<toponymName>Les Ternes</toponymName>
+<name>Les Ternes</name>
+<lat>44.99728</lat>
+<lng>3.01406</lng>
+<geonameId>2999522</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>462</population>
+<alternateNames>Les Ternes</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="C">98</adminCode1>
+<adminName1>Auvergne</adminName1>
+<adminCode2>15</adminCode2>
+<adminName2>Cantal</adminName2>
+<adminCode3>153</adminCode3>
+<adminName3>Arrondissement de Saint-Flour</adminName3>
+<adminCode4>15235</adminCode4>
+<adminName4>Les Ternes</adminName4>
+<alternateName lang="post">15100</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>3.01279</west>
+<north>44.99818</north>
+<east>3.01533</east>
+<south>44.99638</south>
+</bbox>
+<score>15.875520706176758</score>
+</geoname>
+<geoname>
+<toponymName>Les Tertres</toponymName>
+<name>Les Tertres</name>
+<lat>47.92143</lat>
+<lng>2.02467</lng>
+<geonameId>2999514</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="F">A3</adminCode1>
+<adminName1>Centre</adminName1>
+<adminCode2>45</adminCode2>
+<adminName2>Loiret</adminName2>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>2.01125</west>
+<north>47.93042</north>
+<east>2.0381</east>
+<south>47.91244</south>
+</bbox>
+<score>14.909102439880371</score>
+</geoname>
+<geoname>
+<toponymName>Les Termes</toponymName>
+<name>Les Termes</name>
+<lat>43.55</lat>
+<lng>6.93333</lng>
+<geonameId>2999523</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="U">B8</adminCode1>
+<adminName1>Provence-Alpes-Côte d'Azur</adminName1>
+<adminCode2>06</adminCode2>
+<adminName2>Alpes-Maritimes</adminName2>
+<adminCode3>061</adminCode3>
+<adminName3>Arrondissement de Grasse</adminName3>
+<adminCode4>06079</adminCode4>
+<adminName4>Mandelieu-la-Napoule</adminName4>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>6.92092</west>
+<north>43.55899</north>
+<east>6.94574</east>
+<south>43.54101</south>
+</bbox>
+<score>14.909102439880371</score>
+</geoname>
+<geoname>
+<toponymName>Les Ferres</toponymName>
+<name>Les Ferres</name>
+<lat>43.84694</lat>
+<lng>7.09417</lng>
+<geonameId>6456677</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population>94</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="U">B8</adminCode1>
+<adminName1>Provence-Alpes-Côte d'Azur</adminName1>
+<adminCode2>06</adminCode2>
+<adminName2>Alpes-Maritimes</adminName2>
+<adminCode3>061</adminCode3>
+<adminName3>Arrondissement de Grasse</adminName3>
+<adminCode4>06061</adminCode4>
+<adminName4>Les Ferres</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Les_Ferres</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>7.06493</west>
+<north>43.86201</north>
+<east>7.12862</east>
+<south>43.82267</south>
+</bbox>
+<score>14.1747465133667</score>
+</geoname>
+<geoname>
+<toponymName>Les Serres</toponymName>
+<name>Les Serres</name>
+<lat>44.68495</lat>
+<lng>2.16133</lng>
+<geonameId>2999600</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="C">98</adminCode1>
+<adminName1>Auvergne</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>2.14867</west>
+<north>44.69394</north>
+<east>2.17398</east>
+<south>44.67596</south>
+</bbox>
+<score>13.275968551635742</score>
+</geoname>
+<geoname>
+<toponymName>Les Serres</toponymName>
+<name>Les Serres</name>
+<lat>43.48333</lat>
+<lng>6.56667</lng>
+<geonameId>2999601</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="U">B8</adminCode1>
+<adminName1>Provence-Alpes-Côte d'Azur</adminName1>
+<adminCode2>83</adminCode2>
+<adminName2>Var</adminName2>
+<adminCode3>831</adminCode3>
+<adminName3>Arrondissement de Draguignan</adminName3>
+<adminCode4>83086</adminCode4>
+<adminName4>Le Muy</adminName4>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>6.55427</west>
+<north>43.49233</north>
+<east>6.57906</east>
+<south>43.47434</south>
+</bbox>
+<score>13.275968551635742</score>
+</geoname>
+</geonames>

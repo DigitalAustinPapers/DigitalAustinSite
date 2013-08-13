@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Spanish Island</toponymName>
+<name>Spanish Island</name>
+<lat>51.49556</lat>
+<lng>-9.39278</lng>
+<geonameId>3296037</geonameId>
+<countryCode>IE</countryCode>
+<countryName>Ireland</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="M">M</adminCode1>
+<adminName1>Munster</adminName1>
+<adminCode2>04</adminCode2>
+<adminName2>Cork</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Dublin</timezone>
+<score>37.43511962890625</score>
+</geoname>
+<geoname>
+<toponymName>Spanish Island</toponymName>
+<name>Spanish Island</name>
+<lat>29.21883</lat>
+<lng>-89.20116</lng>
+<geonameId>4342232</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>0</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>075</adminCode2>
+<adminName2>Plaquemines Parish</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>37.43511962890625</score>
+</geoname>
+<geoname>
+<toponymName>Spanish Islands</toponymName>
+<name>Spanish Islands</name>
+<lat>55.96056</lat>
+<lng>-134.12583</lng>
+<geonameId>5557508</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AK">AK</adminCode1>
+<adminName1>Alaska</adminName1>
+<adminCode2>195</adminCode2>
+<adminName2>Petersburg Census Area</adminName2>
+<timezone dstOffset="-8.0" gmtOffset="-9.0">America/Juneau</timezone>
+<score>25.312192916870117</score>
+</geoname>
+</geonames>

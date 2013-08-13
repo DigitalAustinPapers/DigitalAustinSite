@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>144</totalResultsCount>
+<geoname>
+<toponymName>Garden</toponymName>
+<name>Garden</name>
+<lat>60.95</lat>
+<lng>9.7</lng>
+<geonameId>3156096</geonameId>
+<countryCode>NO</countryCode>
+<countryName>Norway</countryName>
+<fcl>H</fcl>
+<fcode>LK</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>lake</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="05">11</adminCode1>
+<adminName1>Oppland county</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Oslo</timezone>
+<score>44.92156219482422</score>
+</geoname>
+<geoname>
+<toponymName>Garden</toponymName>
+<name>Garden</name>
+<lat>41.8891</lat>
+<lng>-111.38576</lng>
+<geonameId>5775055</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>181</population>
+<alternateNames/>
+<elevation>1830</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="UT">UT</adminCode1>
+<adminName1>Utah</adminName1>
+<adminCode2>033</adminCode2>
+<adminName2>Rich County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Garden%2C_Utah</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<bbox>
+<west>-111.51188</west>
+<north>41.93284</north>
+<east>-111.36332</east>
+<south>41.84118</south>
+</bbox>
+<score>38.50419616699219</score>
+</geoname>
+<geoname>
+<toponymName>Garden</toponymName>
+<name>Garden</name>
+<lat>45.7747</lat>
+<lng>-86.5507</lng>
+<geonameId>4993654</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>221</population>
+<alternateNames/>
+<elevation>180</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MI">MI</adminCode1>
+<adminName1>Michigan</adminName1>
+<adminCode2>041</adminCode2>
+<adminName2>Delta County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Garden%2C_Michigan</alternateName>
+<alternateName lang="post">49835</alternateName>
+<alternateName lang="unlc">GQD</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Detroit</timezone>
+<bbox>
+<west>-86.56462</west>
+<north>45.78055</north>
+<east>-86.54324</east>
+<south>45.76578</south>
+</bbox>
+<score>32.086830139160156</score>
+</geoname>
+<geoname>
+<toponymName>Gardēz</toponymName>
+<name>Gardez</name>
+<lat>33.59744</lat>
+<lng>69.22592</lng>
+<geonameId>1141857</geonameId>
+<countryCode>AF</countryCode>
+<countryName>Afghanistan</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population>103601</population>
+<alternateNames>Gardeyz,Gardez,Gardiz,Gardêz,Gardēz,Gardīz,Gaṟḏēz,grdyz,Гардез,گرديز,گردېز</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="PIA">36</adminCode1>
+<adminName1>Paktia</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="de">Gardez</alternateName>
+<alternateName lang="en">Gardez</alternateName>
+<alternateName lang="es">Gardez</alternateName>
+<alternateName lang="fa">گرديز</alternateName>
+<alternateName lang="fr">Gardêz</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Gardez</alternateName>
+<alternateName lang="nl">Gardez</alternateName>
+<alternateName lang="no">Gardiz</alternateName>
+<alternateName lang="pl">Gardez</alternateName>
+<alternateName lang="pt">Gardiz</alternateName>
+<alternateName lang="ru">Гардез</alternateName>
+<alternateName lang="unlc">GAR</alternateName>
+<timezone dstOffset="4.5" gmtOffset="4.5">Asia/Kabul</timezone>
+<bbox>
+<west>69.17583</west>
+<north>33.63914</north>
+<east>69.27601</east>
+<south>33.55574</south>
+</bbox>
+<score>27.383934020996094</score>
+</geoname>
+<geoname>
+<toponymName>Garden</toponymName>
+<name>Garden</name>
+<lat>60.41667</lat>
+<lng>7.28333</lng>
+<geonameId>3156095</geonameId>
+<countryCode>NO</countryCode>
+<countryName>Norway</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="12">07</adminCode1>
+<adminName1>Hordaland</adminName1>
+<adminCode2>1232</adminCode2>
+<adminName2>Eidfjord</adminName2>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Oslo</timezone>
+<bbox>
+<west>7.26511</west>
+<north>60.42566</north>
+<east>7.30156</east>
+<south>60.40767</south>
+</bbox>
+<score>25.669464111328125</score>
+</geoname>
+<geoname>
+<toponymName>Garden</toponymName>
+<name>Garden</name>
+<lat>33.15679</lat>
+<lng>-88.18336</lng>
+<geonameId>4063749</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>87</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AL">AL</adminCode1>
+<adminName1>Alabama</adminName1>
+<adminCode2>107</adminCode2>
+<adminName2>Pickens County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-88.19411</west>
+<north>33.16578</north>
+<east>-88.17262</east>
+<south>33.1478</south>
+</bbox>
+<score>25.669464111328125</score>
+</geoname>
+<geoname>
+<toponymName>Garden</toponymName>
+<name>Garden</name>
+<lat>39.20785</lat>
+<lng>-81.97625</lng>
+<geonameId>4512474</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>219</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>009</adminCode2>
+<adminName2>Athens County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-81.98786</west>
+<north>39.21685</north>
+<east>-81.96464</east>
+<south>39.19886</south>
+</bbox>
+<score>25.669464111328125</score>
+</geoname>
+<geoname>
+<toponymName>Garden</toponymName>
+<name>Garden</name>
+<lat>37.11456</lat>
+<lng>-81.99735</lng>
+<geonameId>4760459</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>716</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>167</adminCode2>
+<adminName2>Russell County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-82.00863</west>
+<north>37.12355</north>
+<east>-81.98607</east>
+<south>37.10556</south>
+</bbox>
+<score>25.669464111328125</score>
+</geoname>
+<geoname>
+<toponymName>Garden</toponymName>
+<name>Garden</name>
+<lat>41.60422</lat>
+<lng>-83.79633</lng>
+<geonameId>5155458</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>204</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>095</adminCode2>
+<adminName2>Lucas County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-83.80836</west>
+<north>41.61321</north>
+<east>-83.7843</east>
+<south>41.59522</south>
+</bbox>
+<score>25.669464111328125</score>
+</geoname>
+<geoname>
+<toponymName>Garden</toponymName>
+<name>Garden</name>
+<lat>40.06677</lat>
+<lng>-75.44853</lng>
+<geonameId>5190804</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>68</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PA">PA</adminCode1>
+<adminName1>Pennsylvania</adminName1>
+<adminCode2>029</adminCode2>
+<adminName2>Chester County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-75.46028</west>
+<north>40.07577</north>
+<east>-75.43677</east>
+<south>40.05778</south>
+</bbox>
+<score>25.669464111328125</score>
+</geoname>
+</geonames>

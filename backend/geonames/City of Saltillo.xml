@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>City of Saltillo</toponymName>
+<name>City of Saltillo</name>
+<lat>34.37892</lat>
+<lng>-88.69385</lng>
+<geonameId>7170774</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>administrative division</fcodeName>
+<population>4752</population>
+<alternateNames/>
+<elevation>108</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MS">MS</adminCode1>
+<adminName1>Mississippi</adminName1>
+<adminCode2>081</adminCode2>
+<adminName2>Lee County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-88.73304</west>
+<north>34.42181</north>
+<east>-88.66357</east>
+<south>34.33736</south>
+</bbox>
+<score>80.4752197265625</score>
+</geoname>
+</geonames>

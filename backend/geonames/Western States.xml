@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Western Estates</toponymName>
+<name>Western Estates</name>
+<lat>29.9936</lat>
+<lng>-95.5995</lng>
+<geonameId>7209078</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>40</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>201</adminCode2>
+<adminName2>Harris County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-95.60989</west>
+<north>30.00259</north>
+<east>-95.58911</east>
+<south>29.98461</south>
+</bbox>
+<score>45.98586654663086</score>
+</geoname>
+</geonames>

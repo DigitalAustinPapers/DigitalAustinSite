@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>8</totalResultsCount>
+<geoname>
+<toponymName>Líně</toponymName>
+<name>Líně</name>
+<lat>49.69472</lat>
+<lng>13.25693</lng>
+<geonameId>3071844</geonameId>
+<countryCode>CZ</countryCode>
+<countryName>Czechia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2311</population>
+<alternateNames>Lihn</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="PL">87</adminCode1>
+<adminName1>Plzeňský</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/L%C3%ADn%C4%9B</alternateName>
+<alternateName lang="unlc">LIN</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Prague</timezone>
+<bbox>
+<west>13.24998</west>
+<north>49.69922</north>
+<east>13.26388</east>
+<south>49.69022</south>
+</bbox>
+<score>62.59749984741211</score>
+</geoname>
+<geoname>
+<toponymName>Liné</toponymName>
+<name>Liné</name>
+<lat>35.30315</lat>
+<lng>24.22133</lng>
+<geonameId>258281</geonameId>
+<countryCode>GR</countryCode>
+<countryName>Greece</countryName>
+<fcl>T</fcl>
+<fcode>MT</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>mountain</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="M">ESYE43</adminCode1>
+<adminName1>Crete</adminName1>
+<adminCode2>43</adminCode2>
+<adminName2>Chaníon</adminName2>
+<adminCode3>9324</adminCode3>
+<adminName3>Sfakia</adminName3>
+<timezone dstOffset="3.0" gmtOffset="2.0">Europe/Athens</timezone>
+<score>41.731666564941406</score>
+</geoname>
+<geoname>
+<toponymName>Line</toponymName>
+<name>Line</name>
+<lat>59.03528</lat>
+<lng>5.67833</lng>
+<geonameId>3227831</geonameId>
+<countryCode>NO</countryCode>
+<countryName>Norway</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="11">14</adminCode1>
+<adminName1>Rogaland</adminName1>
+<adminCode2>1142</adminCode2>
+<adminName2>Rennesøy</adminName2>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Oslo</timezone>
+<score>41.731666564941406</score>
+</geoname>
+<geoname>
+<toponymName>Line</toponymName>
+<name>Line</name>
+<lat>3.65281</lat>
+<lng>22.97488</lng>
+<geonameId>8238593</geonameId>
+<countryCode>CD</countryCode>
+<countryName>Democratic Republic of the Congo</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="EQ">02</adminCode1>
+<adminName1>Équateur</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="1.0">Africa/Kinshasa</timezone>
+<bbox>
+<west>22.96586</west>
+<north>3.66181</north>
+<east>22.98389</east>
+<south>3.64382</south>
+</bbox>
+<score>41.731666564941406</score>
+</geoname>
+<geoname>
+<toponymName>Līnah</toponymName>
+<name>Līnah</name>
+<lat>28.7613</lat>
+<lng>43.73821</lng>
+<geonameId>104699</geonameId>
+<countryCode>SA</countryCode>
+<countryName>Saudi Arabia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Lainah,Laynah,Lina,Linah,Line,Lîne,Līna,Līnah</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="08">15</adminCode1>
+<adminName1>Northern Borders Region</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ar">Līnah</alternateName>
+<timezone dstOffset="3.0" gmtOffset="3.0">Asia/Riyadh</timezone>
+<bbox>
+<west>43.72795</west>
+<north>28.7703</north>
+<east>43.74847</east>
+<south>28.75231</south>
+</bbox>
+<score>36.51520919799805</score>
+</geoname>
+<geoname>
+<toponymName>Lin’e</toponymName>
+<name>Lin’e</name>
+<lat>19.64412</lat>
+<lng>109.95886</lng>
+<geonameId>7654130</geonameId>
+<countryCode>CN</countryCode>
+<countryName>China</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Lin'e,Lin’e,lin e,林峨</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="46">31</adminCode1>
+<adminName1>Hainan</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="zh">林峨</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Chongqing</timezone>
+<bbox>
+<west>109.94931</west>
+<north>19.65312</north>
+<east>109.96841</east>
+<south>19.63513</south>
+</bbox>
+<score>22.131559371948242</score>
+</geoname>
+<geoname>
+<toponymName>Lin’e</toponymName>
+<name>Lin’e</name>
+<lat>29.44149</lat>
+<lng>108.85193</lng>
+<geonameId>8408604</geonameId>
+<countryCode>CN</countryCode>
+<countryName>China</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Lin'e,Lin’e,lin e,邻鄂</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="50">33</adminCode1>
+<adminName1>Chongqing Shi</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="zh">邻鄂</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Chongqing</timezone>
+<bbox>
+<west>108.8416</west>
+<north>29.45049</north>
+<east>108.86226</east>
+<south>29.4325</south>
+</bbox>
+<score>22.131559371948242</score>
+</geoname>
+<geoname>
+<toponymName>Line</toponymName>
+<name>Line</name>
+<lat>33.39095</lat>
+<lng>-91.58068</lng>
+<geonameId>4119021</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>55</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">AR</adminCode1>
+<adminName1>Arkansas</adminName1>
+<adminCode2>043</adminCode2>
+<adminName2>Drew County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>13.041145324707031</score>
+</geoname>
+</geonames>

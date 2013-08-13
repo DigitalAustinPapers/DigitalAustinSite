@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>6</totalResultsCount>
+<geoname>
+<toponymName>Square</toponymName>
+<name>Square</name>
+<lat>54.21667</lat>
+<lng>-6.03333</lng>
+<geonameId>2637169</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="NIR">NIR</adminCode1>
+<adminName1>N Ireland</adminName1>
+<adminCode2>00</adminCode2>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-6.04872</west>
+<north>54.22566</north>
+<east>-6.01795</east>
+<south>54.20767</south>
+</bbox>
+<score>42.7646484375</score>
+</geoname>
+<geoname>
+<toponymName>Square</toponymName>
+<name>Square</name>
+<lat>-24.07164</lat>
+<lng>30.93423</lng>
+<geonameId>952794</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>S</fcl>
+<fcode>FRMT</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farmstead</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="LP">09</adminCode1>
+<adminName1>Limpopo</adminName1>
+<adminCode2>DC33</adminCode2>
+<adminName2>Mopani District Municipality</adminName2>
+<adminCode3>LIM335</adminCode3>
+<adminName3>Maruleng</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<score>13.36395263671875</score>
+</geoname>
+<geoname>
+<toponymName>Square</toponymName>
+<name>Square</name>
+<lat>-24.079</lat>
+<lng>30.93626</lng>
+<geonameId>952795</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>S</fcl>
+<fcode>FRM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farm</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="LP">09</adminCode1>
+<adminName1>Limpopo</adminName1>
+<adminCode2>DC33</adminCode2>
+<adminName2>Mopani District Municipality</adminName2>
+<adminCode3>LIM335</adminCode3>
+<adminName3>Maruleng</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<score>13.36395263671875</score>
+</geoname>
+<geoname>
+<toponymName>Square</toponymName>
+<name>Square</name>
+<lat>55.676</lat>
+<lng>12.569</lng>
+<geonameId>6475462</geonameId>
+<countryCode>DK</countryCode>
+<countryName>Denmark</countryName>
+<fcl>S</fcl>
+<fcode>HTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>hotel</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="84">17</adminCode1>
+<adminName1>Capital Region</adminName1>
+<adminCode2>101</adminCode2>
+<adminName2>Copenhagen municipality</adminName2>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Copenhagen</timezone>
+<score>13.36395263671875</score>
+</geoname>
+<geoname>
+<toponymName>Squire</toponymName>
+<name>Squire</name>
+<lat>37.23845</lat>
+<lng>-81.60983</lng>
+<geonameId>4823238</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>507</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WV">WV</adminCode1>
+<adminName1>West Virginia</adminName1>
+<adminCode2>047</adminCode2>
+<adminName2>McDowell County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Squire%2C_West_Virginia</alternateName>
+<alternateName lang="post">24884</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-81.62113</west>
+<north>37.24744</north>
+<east>-81.59853</east>
+<south>37.22945</south>
+</bbox>
+<score>11.414939880371094</score>
+</geoname>
+<geoname>
+<toponymName>Squire</toponymName>
+<name>Squire</name>
+<lat>44.51679</lat>
+<lng>-80.98303</lng>
+<geonameId>6154802</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ON">08</adminCode1>
+<adminName1>Ontario</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Toronto</timezone>
+<score>7.609960079193115</score>
+</geoname>
+</geonames>

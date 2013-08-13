@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>37</totalResultsCount>
+<geoname>
+<toponymName>East Bernard</toponymName>
+<name>East Bernard</name>
+<lat>29.53107</lat>
+<lng>-96.07107</lng>
+<geonameId>4687678</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2272</population>
+<alternateNames/>
+<elevation>38</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>481</adminCode2>
+<adminName2>Wharton County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/East_Bernard%2C_Texas</alternateName>
+<alternateName lang="post">77435</alternateName>
+<alternateName lang="unlc">TBE</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-96.07624</west>
+<north>29.53557</north>
+<east>-96.0659</east>
+<south>29.52658</south>
+</bbox>
+<score>8.280385971069336</score>
+</geoname>
+<geoname>
+<toponymName>Bernard G Johnson Coliseum</toponymName>
+<name>Bernard G Johnson Coliseum</name>
+<lat>30.71297</lat>
+<lng>-95.54633</lng>
+<geonameId>4673626</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>L</fcl>
+<fcode>PRK</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>park</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>131</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>471</adminCode2>
+<adminName2>Walker County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bernard_Johnson_Coliseum</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>6.624309062957764</score>
+</geoname>
+<geoname>
+<toponymName>San Bernard National Wildlife Refuge</toponymName>
+<name>San Bernard National Wildlife Refuge</name>
+<lat>28.85025</lat>
+<lng>-95.53356</lng>
+<geonameId>4726281</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>L</fcl>
+<fcode>PRK</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>park</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>039</adminCode2>
+<adminName2>Brazoria County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/San_Bernard_National_Wildlife_Refuge</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>6.624309062957764</score>
+</geoname>
+<geoname>
+<toponymName>City of East Bernard</toponymName>
+<name>City of East Bernard</name>
+<lat>29.52408</lat>
+<lng>-96.06218</lng>
+<geonameId>7173343</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>administrative division</fcodeName>
+<population>2272</population>
+<alternateNames/>
+<elevation>36</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>481</adminCode2>
+<adminName2>Wharton County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-96.09335</west>
+<north>29.54972</north>
+<east>-96.03361</east>
+<south>29.50314</south>
+</bbox>
+<score>6.624309062957764</score>
+</geoname>
+<geoname>
+<toponymName>Bernard Prairie</toponymName>
+<name>Bernard Prairie</name>
+<lat>29.58107</lat>
+<lng>-96.11552</lng>
+<geonameId>4673617</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>PLN</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>plain(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>40</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>481</adminCode2>
+<adminName2>Wharton County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>4.140192985534668</score>
+</geoname>
+<geoname>
+<toponymName>San Bernard National Wildlife Refuge Trail</toponymName>
+<name>San Bernard National Wildlife Refuge Trail</name>
+<lat>28.85025</lat>
+<lng>-95.53356</lng>
+<geonameId>4726282</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>R</fcl>
+<fcode>TRL</fcode>
+<fclName>road, railroad </fclName>
+<fcodeName>trail</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>039</adminCode2>
+<adminName2>Brazoria County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>2.070096492767334</score>
+</geoname>
+<geoname>
+<toponymName>Bernardo</toponymName>
+<name>Bernardo</name>
+<lat>29.76079</lat>
+<lng>-96.39219</lng>
+<geonameId>4673621</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>77</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>089</adminCode2>
+<adminName2>Colorado County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-96.40255</west>
+<north>29.76978</north>
+<east>-96.38183</east>
+<south>29.75179</south>
+</bbox>
+<score>1.7474435567855835</score>
+</geoname>
+<geoname>
+<toponymName>Bernard Branch</toponymName>
+<name>Bernard Branch</name>
+<lat>32.98512</lat>
+<lng>-95.68079</lng>
+<geonameId>4673615</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>128</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>223</adminCode2>
+<adminName2>Hopkins County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>1.4490675926208496</score>
+</geoname>
+<geoname>
+<toponymName>El Bernardo</toponymName>
+<name>El Bernardo</name>
+<lat>29.04025</lat>
+<lng>-95.65273</lng>
+<geonameId>4688471</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>8</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>039</adminCode2>
+<adminName2>Brazoria County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-95.66301</west>
+<north>29.04924</north>
+<east>-95.64244</east>
+<south>29.03126</south>
+</bbox>
+<score>1.3979548215866089</score>
+</geoname>
+<geoname>
+<toponymName>Bernard Prairie School</toponymName>
+<name>Bernard Prairie School</name>
+<lat>29.57413</lat>
+<lng>-96.10496</lng>
+<geonameId>4673618</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>SCH</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>school</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>40</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>481</adminCode2>
+<adminName2>Wharton County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>1.2420580387115479</score>
+</geoname>
+</geonames>

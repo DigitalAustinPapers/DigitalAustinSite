@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>13</totalResultsCount>
+<geoname>
+<toponymName>French</toponymName>
+<name>French</name>
+<lat>13.25</lat>
+<lng>-59.6</lng>
+<geonameId>3373872</geonameId>
+<countryCode>BB</countryCode>
+<countryName>Barbados</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="09">09</adminCode1>
+<adminName1>Saint Peter</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Barbados</timezone>
+<bbox>
+<west>-59.60924</west>
+<north>13.25899</north>
+<east>-59.59076</east>
+<south>13.24101</south>
+</bbox>
+<score>39.488128662109375</score>
+</geoname>
+<geoname>
+<toponymName>French</toponymName>
+<name>French</name>
+<lat>-35.51796</lat>
+<lng>-60.9993</lng>
+<geonameId>3855362</geonameId>
+<countryCode>AR</countryCode>
+<countryName>Argentina</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="B">01</adminCode1>
+<adminName1>Buenos Aires</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Argentina/Buenos_Aires</timezone>
+<bbox>
+<west>-61.01035</west>
+<north>-35.50896</north>
+<east>-60.98826</east>
+<south>-35.52695</south>
+</bbox>
+<score>39.488128662109375</score>
+</geoname>
+<geoname>
+<toponymName>French</toponymName>
+<name>French</name>
+<lat>36.36062</lat>
+<lng>-91.69348</lng>
+<geonameId>4111698</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>180</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">AR</adminCode1>
+<adminName1>Arkansas</adminName1>
+<adminCode2>049</adminCode2>
+<adminName2>Fulton County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-91.70465</west>
+<north>36.36961</north>
+<east>-91.68231</east>
+<south>36.35163</south>
+</bbox>
+<score>39.488128662109375</score>
+</geoname>
+<geoname>
+<toponymName>French</toponymName>
+<name>French</name>
+<lat>37.29595</lat>
+<lng>-80.87063</lng>
+<geonameId>4760151</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>504</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>071</adminCode2>
+<adminName2>Giles County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-80.88194</west>
+<north>37.30495</north>
+<east>-80.85933</east>
+<south>37.28696</south>
+</bbox>
+<score>39.488128662109375</score>
+</geoname>
+<geoname>
+<toponymName>French</toponymName>
+<name>French</name>
+<lat>46.28802</lat>
+<lng>-96.20173</lng>
+<geonameId>5027450</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>339</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MN">MN</adminCode1>
+<adminName1>Minnesota</adminName1>
+<adminCode2>111</adminCode2>
+<adminName2>Otter Tail County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-96.21475</west>
+<north>46.29701</north>
+<east>-96.18871</east>
+<south>46.27902</south>
+</bbox>
+<score>39.488128662109375</score>
+</geoname>
+<geoname>
+<toponymName>French</toponymName>
+<name>French</name>
+<lat>36.4742</lat>
+<lng>-104.55832</lng>
+<geonameId>5468408</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1772</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NM">NM</adminCode1>
+<adminName1>New Mexico</adminName1>
+<adminCode2>007</adminCode2>
+<adminName2>Colfax County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<bbox>
+<west>-104.56951</west>
+<north>36.48319</north>
+<east>-104.54714</east>
+<south>36.46521</south>
+</bbox>
+<score>39.488128662109375</score>
+</geoname>
+<geoname>
+<toponymName>French</toponymName>
+<name>French</name>
+<lat>46.8334</lat>
+<lng>-74.66593</lng>
+<geonameId>5957912</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="QC">10</adminCode1>
+<adminName1>Quebec</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Montreal</timezone>
+<score>39.488128662109375</score>
+</geoname>
+<geoname>
+<toponymName>French</toponymName>
+<name>French</name>
+<lat>46.5001</lat>
+<lng>-79.18291</lng>
+<geonameId>5957913</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ON">08</adminCode1>
+<adminName1>Ontario</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Toronto</timezone>
+<score>39.488128662109375</score>
+</geoname>
+<geoname>
+<toponymName>French</toponymName>
+<name>French</name>
+<lat>-35.5</lat>
+<lng>-61.05</lng>
+<geonameId>3855361</geonameId>
+<countryCode>AR</countryCode>
+<countryName>Argentina</countryName>
+<fcl>S</fcl>
+<fcode>TRIG</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>triangulation station</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="B">01</adminCode1>
+<adminName1>Buenos Aires</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Argentina/Buenos_Aires</timezone>
+<score>12.34004020690918</score>
+</geoname>
+<geoname>
+<toponymName>Frencq</toponymName>
+<name>Frencq</name>
+<lat>50.56067</lat>
+<lng>1.69928</lng>
+<geonameId>3017226</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>725</population>
+<alternateNames>Frencq</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="O">B4</adminCode1>
+<adminName1>Nord-Pas-de-Calais</adminName1>
+<adminCode2>62</adminCode2>
+<adminName2>Pas-de-Calais</adminName2>
+<adminCode3>624</adminCode3>
+<adminName3>Arrondissement de Montreuil</adminName3>
+<adminCode4>62354</adminCode4>
+<adminName4>Frencq</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Frencq</alternateName>
+<alternateName lang="post">62630</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>1.69786</west>
+<north>50.56157</north>
+<east>1.70069</east>
+<south>50.55977</south>
+</bbox>
+<score>11.799837112426758</score>
+</geoname>
+</geonames>

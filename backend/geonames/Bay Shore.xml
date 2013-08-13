@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>18</totalResultsCount>
+<geoname>
+<toponymName>Bay Shore</toponymName>
+<name>Bay Shore</name>
+<lat>45.35834</lat>
+<lng>-85.09728</lng>
+<geonameId>4985210</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>207</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MI">MI</adminCode1>
+<adminName1>Michigan</adminName1>
+<adminCode2>029</adminCode2>
+<adminName2>Charlevoix County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bay_Shore%2C_Michigan</alternateName>
+<alternateName lang="post">49711</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Detroit</timezone>
+<bbox>
+<west>-85.13261</west>
+<north>45.37183</north>
+<east>-85.08755</east>
+<south>45.35027</south>
+</bbox>
+<score>55.606842041015625</score>
+</geoname>
+<geoname>
+<toponymName>Bay Shore</toponymName>
+<name>Bay Shore</name>
+<lat>40.7251</lat>
+<lng>-73.24539</lng>
+<geonameId>5108169</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>26337</population>
+<alternateNames>Bej Shor,bay shwry, nywywrk,Бей Шор,باي شوري، نيويورك</alternateNames>
+<elevation>5</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>103</adminCode2>
+<adminName2>Suffolk County</adminName2>
+<alternateName lang="ar">باي شوري، نيويورك</alternateName>
+<alternateName lang="bg">Бей Шор</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bay_Shore%2C_New_York</alternateName>
+<alternateName lang="post">11706</alternateName>
+<alternateName lang="unlc">BSH</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-73.27259</west>
+<north>40.74571</north>
+<east>-73.21819</east>
+<south>40.70449</south>
+</bbox>
+<score>55.606842041015625</score>
+</geoname>
+<geoname>
+<toponymName>Bay Shore</toponymName>
+<name>Bay Shore</name>
+<lat>39.95095</lat>
+<lng>-74.11319</lng>
+<geonameId>4500678</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>2</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NJ">NJ</adminCode1>
+<adminName1>New Jersey</adminName1>
+<adminCode2>029</adminCode2>
+<adminName2>Ocean County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-74.12493</west>
+<north>39.95995</north>
+<east>-74.10146</east>
+<south>39.94196</south>
+</bbox>
+<score>37.07122802734375</score>
+</geoname>
+<geoname>
+<toponymName>Bay Shore</toponymName>
+<name>Bay Shore</name>
+<lat>45.23345</lat>
+<lng>-66.06555</lng>
+<geonameId>5895433</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NB">04</adminCode1>
+<adminName1>New Brunswick</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-3.0" gmtOffset="-4.0">America/Moncton</timezone>
+<score>37.07122802734375</score>
+</geoname>
+<geoname>
+<toponymName>Bayshore</toponymName>
+<name>Bayshore</name>
+<lat>34.28961</lat>
+<lng>-77.78748</lng>
+<geonameId>4454034</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3393</population>
+<alternateNames/>
+<elevation>3</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NC">NC</adminCode1>
+<adminName1>North Carolina</adminName1>
+<adminCode2>129</adminCode2>
+<adminName2>New Hanover County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bayshore%2C_North_Carolina</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-77.81891</west>
+<north>34.30363</north>
+<east>-77.77962</east>
+<south>34.27548</south>
+</bbox>
+<score>25.624536514282227</score>
+</geoname>
+<geoname>
+<toponymName>Bay Shores</toponymName>
+<name>Bay Shores</name>
+<lat>34.72372</lat>
+<lng>-82.86459</lng>
+<geonameId>4570191</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>253</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SC">SC</adminCode1>
+<adminName1>South Carolina</adminName1>
+<adminCode2>073</adminCode2>
+<adminName2>Oconee County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-82.87553</west>
+<north>34.73271</north>
+<east>-82.85365</east>
+<south>34.71472</south>
+</bbox>
+<score>17.369226455688477</score>
+</geoname>
+<geoname>
+<toponymName>Bay Shores</toponymName>
+<name>Bay Shores</name>
+<lat>42.86229</lat>
+<lng>-76.2741</lng>
+<geonameId>5108172</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>244</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>067</adminCode2>
+<adminName2>Onondaga County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-76.28637</west>
+<north>42.87128</north>
+<east>-76.26182</east>
+<south>42.8533</south>
+</bbox>
+<score>17.369226455688477</score>
+</geoname>
+<geoname>
+<toponymName>Bay Shores</toponymName>
+<name>Bay Shores</name>
+<lat>33.61474</lat>
+<lng>-117.91089</lng>
+<geonameId>5326571</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>3</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>059</adminCode2>
+<adminName2>Orange County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-117.92169</west>
+<north>33.62374</north>
+<east>-117.90009</east>
+<south>33.60575</south>
+</bbox>
+<score>17.369226455688477</score>
+</geoname>
+<geoname>
+<toponymName>Bayshore</toponymName>
+<name>Bayshore</name>
+<lat>37.70632</lat>
+<lng>-122.4133</lng>
+<geonameId>5326645</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>14</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>081</adminCode2>
+<adminName2>San Mateo County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bayshore_%28Caltrain_station%29</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-122.41785</west>
+<north>37.70992</north>
+<east>-122.40876</east>
+<south>37.70272</south>
+</bbox>
+<score>16.015335083007812</score>
+</geoname>
+<geoname>
+<toponymName>Bayshore</toponymName>
+<name>Bayshore</name>
+<lat>26.71535</lat>
+<lng>-81.82342</lng>
+<geonameId>4146925</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>3</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="FL">FL</adminCode1>
+<adminName1>Florida</adminName1>
+<adminCode2>071</adminCode2>
+<adminName2>Lee County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-81.83349</west>
+<north>26.72434</north>
+<east>-81.81335</east>
+<south>26.70635</south>
+</bbox>
+<score>12.812268257141113</score>
+</geoname>
+</geonames>

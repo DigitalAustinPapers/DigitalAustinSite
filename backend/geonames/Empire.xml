@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>28</totalResultsCount>
+<geoname>
+<toponymName>Empire</toponymName>
+<name>Empire</name>
+<lat>37.63826</lat>
+<lng>-120.90215</lng>
+<geonameId>5346551</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>4189</population>
+<alternateNames/>
+<elevation>36</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>099</adminCode2>
+<adminName2>Stanislaus County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Empire%2C_California</alternateName>
+<alternateName lang="post">95319</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-120.92088</west>
+<north>37.65247</north>
+<east>-120.89307</east>
+<south>37.62802</south>
+</bbox>
+<score>66.36182403564453</score>
+</geoname>
+<geoname>
+<toponymName>Empire</toponymName>
+<name>Empire</name>
+<lat>37.08643</lat>
+<lng>-87.49722</lng>
+<geonameId>4291210</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>157</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>047</adminCode2>
+<adminName2>Christian County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Empire%2C_Kentucky</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-87.5085</west>
+<north>37.09543</north>
+<east>-87.48595</east>
+<south>37.07744</south>
+</bbox>
+<score>56.88156509399414</score>
+</geoname>
+<geoname>
+<toponymName>Empire</toponymName>
+<name>Empire</name>
+<lat>44.81111</lat>
+<lng>-86.06009</lng>
+<geonameId>4992168</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>375</population>
+<alternateNames/>
+<elevation>186</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MI">MI</adminCode1>
+<adminName1>Michigan</adminName1>
+<adminCode2>089</adminCode2>
+<adminName2>Leelanau County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Empire%2C_Michigan</alternateName>
+<alternateName lang="post">49630</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Detroit</timezone>
+<bbox>
+<west>-86.07322</west>
+<north>44.8221</north>
+<east>-86.04935</east>
+<south>44.80302</south>
+</bbox>
+<score>56.88156509399414</score>
+</geoname>
+<geoname>
+<toponymName>Empire</toponymName>
+<name>Empire</name>
+<lat>40.50757</lat>
+<lng>-80.62396</lng>
+<geonameId>5153299</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>299</population>
+<alternateNames/>
+<elevation>208</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>081</adminCode2>
+<adminName2>Jefferson County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Empire%2C_Ohio</alternateName>
+<alternateName lang="post">43926</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-80.62515</west>
+<north>40.50847</north>
+<east>-80.62278</east>
+<south>40.50667</south>
+</bbox>
+<score>56.88156509399414</score>
+</geoname>
+<geoname>
+<toponymName>Empire</toponymName>
+<name>Empire</name>
+<lat>39.76138</lat>
+<lng>-105.68445</lng>
+<geonameId>5421211</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>282</population>
+<alternateNames/>
+<elevation>2626</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CO">CO</adminCode1>
+<adminName1>Colorado</adminName1>
+<adminCode2>019</adminCode2>
+<adminName2>Clear Creek County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Empire%2C_Colorado</alternateName>
+<alternateName lang="post">80438</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<bbox>
+<west>-105.68562</west>
+<north>39.76228</north>
+<east>-105.68328</east>
+<south>39.76048</south>
+</bbox>
+<score>56.88156509399414</score>
+</geoname>
+<geoname>
+<toponymName>Empire</toponymName>
+<name>Empire</name>
+<lat>40.57574</lat>
+<lng>-119.34213</lng>
+<geonameId>5703730</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>217</population>
+<alternateNames/>
+<elevation>1232</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NV">NV</adminCode1>
+<adminName1>Nevada</adminName1>
+<adminCode2>031</adminCode2>
+<adminName2>Washoe County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Empire%2C_Nevada</alternateName>
+<alternateName lang="post">89405</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-119.37057</west>
+<north>40.59407</north>
+<east>-119.31293</east>
+<south>40.55876</south>
+</bbox>
+<score>56.88156509399414</score>
+</geoname>
+<geoname>
+<toponymName>Empire</toponymName>
+<name>Empire</name>
+<lat>33.80844</lat>
+<lng>-87.01056</lng>
+<geonameId>4060685</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>155</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AL">AL</adminCode1>
+<adminName1>Alabama</adminName1>
+<adminCode2>127</adminCode2>
+<adminName2>Walker County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Empire%2C_Alabama</alternateName>
+<alternateName lang="post">35063</alternateName>
+<alternateName lang="unlc">EP8</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-87.02138</west>
+<north>33.81743</north>
+<east>-86.99973</east>
+<south>33.79944</south>
+</bbox>
+<score>47.40130615234375</score>
+</geoname>
+<geoname>
+<toponymName>Empire</toponymName>
+<name>Empire</name>
+<lat>29.38772</lat>
+<lng>-89.59728</lng>
+<geonameId>4323768</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>993</population>
+<alternateNames/>
+<elevation>1</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>075</adminCode2>
+<adminName2>Plaquemines Parish</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Empire%2C_Louisiana</alternateName>
+<alternateName lang="post">70050</alternateName>
+<alternateName lang="unlc">EPE</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-89.59832</west>
+<north>29.38862</north>
+<east>-89.59625</east>
+<south>29.38682</south>
+</bbox>
+<score>47.40130615234375</score>
+</geoname>
+<geoname>
+<toponymName>Empire</toponymName>
+<name>Empire</name>
+<lat>33.12207</lat>
+<lng>-91.4354</lng>
+<geonameId>4109995</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>32</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">AR</adminCode1>
+<adminName1>Arkansas</adminName1>
+<adminCode2>017</adminCode2>
+<adminName2>Chicot County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-91.44613</west>
+<north>33.13106</north>
+<east>-91.42466</east>
+<south>33.11307</south>
+</bbox>
+<score>37.921043395996094</score>
+</geoname>
+<geoname>
+<toponymName>Empire</toponymName>
+<name>Empire</name>
+<lat>32.34044</lat>
+<lng>-83.29627</lng>
+<geonameId>4193420</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>393</population>
+<alternateNames/>
+<elevation>116</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">GA</adminCode1>
+<adminName1>Georgia</adminName1>
+<adminCode2>091</adminCode2>
+<adminName2>Dodge County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-83.29733</west>
+<north>32.34134</north>
+<east>-83.29521</east>
+<south>32.33954</south>
+</bbox>
+<score>37.921043395996094</score>
+</geoname>
+</geonames>

@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>382</totalResultsCount>
+<geoname>
+<toponymName>Boston</toponymName>
+<name>Boston</name>
+<lat>42.35843</lat>
+<lng>-71.05977</lng>
+<geonameId>4930956</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population>617594</population>
+<alternateNames>BOS,Boston,Bostona,Bostonas,Bostone,Bostonia,Bostono,Bostun,Bostún,Gorad Bostan,Pokekona,Vostoni,bastan,bastana,beasrraൺ,bo shi dun,boseuteon,bostan,bostana,bostoni,bosuton,bwstn,bwstwn,bxstan,pastan,Βοστωνη,Βοστώνη,Бостон,Бостън,Горад Бостан,Բոստոն,באסטאן,בוסטון,بوستون,بوسطن,بوسٹن,بۆستن,ܒܘܣܛܘܢ,बस्तन,बॉस्टन,बोस्टन,বস্টন,பாஸ்டன்,బోస్టన్,ಬಾಸ್ಟನ್,ബോസ്റ്റൺ,บอสตัน,བོ་སེ་ཊོན།,ဘော့စတွန်မြို့,ბოსთონი,ბოსტონი,ボストン,波士顿,보스턴</alternateNames>
+<elevation>14</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MA">MA</adminCode1>
+<adminName1>Massachusetts</adminName1>
+<adminCode2>025</adminCode2>
+<adminName2>Suffolk County</adminName2>
+<alternateName lang="ar">بوسطن</alternateName>
+<alternateName lang="arc">ܒܘܣܛܘܢ</alternateName>
+<alternateName lang="be">Горад Бостан</alternateName>
+<alternateName lang="bg">Бостън</alternateName>
+<alternateName lang="bn">বস্টন</alternateName>
+<alternateName lang="bo">བོ་སེ་ཊོན།</alternateName>
+<alternateName lang="ca">Boston</alternateName>
+<alternateName lang="ckb">بۆستن</alternateName>
+<alternateName lang="cs">Boston</alternateName>
+<alternateName lang="da">Boston</alternateName>
+<alternateName lang="de">Boston</alternateName>
+<alternateName lang="el">Βοστώνη</alternateName>
+<alternateName lang="en">Boston</alternateName>
+<alternateName lang="eo">Bostono</alternateName>
+<alternateName lang="es">Boston</alternateName>
+<alternateName lang="et">Boston</alternateName>
+<alternateName lang="eu">Boston</alternateName>
+<alternateName lang="fa">بوستون</alternateName>
+<alternateName lang="fi">Boston</alternateName>
+<alternateName lang="fr">Boston</alternateName>
+<alternateName lang="ga">Bostún</alternateName>
+<alternateName lang="gl">Boston</alternateName>
+<alternateName lang="haw">Pokekona</alternateName>
+<alternateName lang="he">בוסטון</alternateName>
+<alternateName lang="hi">बोस्टन</alternateName>
+<alternateName lang="hu">Boston</alternateName>
+<alternateName lang="hy">Բոստոն</alternateName>
+<alternateName lang="iata">BOS</alternateName>
+<alternateName lang="id">Boston</alternateName>
+<alternateName lang="io">Boston</alternateName>
+<alternateName lang="is">Boston</alternateName>
+<alternateName lang="it">Boston</alternateName>
+<alternateName lang="ja">ボストン</alternateName>
+<alternateName lang="ka">ბოსტონი</alternateName>
+<alternateName lang="kk">Бостон</alternateName>
+<alternateName lang="kn">ಬಾಸ್ಟನ್</alternateName>
+<alternateName lang="ko">보스턴</alternateName>
+<alternateName lang="la">Bostonia</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Boston</alternateName>
+<alternateName lang="lt">Bostonas</alternateName>
+<alternateName lang="lv">Bostona</alternateName>
+<alternateName lang="mk">Бостон</alternateName>
+<alternateName lang="ml">ബോസ്റ്റൺ</alternateName>
+<alternateName lang="mr">बॉस्टन</alternateName>
+<alternateName lang="mrj">Бостон</alternateName>
+<alternateName lang="my">ဘော့စတွန်မြို့</alternateName>
+<alternateName lang="new">बस्तन</alternateName>
+<alternateName lang="nl">Boston</alternateName>
+<alternateName lang="no">Boston</alternateName>
+<alternateName lang="oc">Boston</alternateName>
+<alternateName lang="os">Бостон</alternateName>
+<alternateName lang="pl">Boston</alternateName>
+<alternateName lang="pnb">بوسٹن</alternateName>
+<alternateName lang="pnt">Βοστώνη</alternateName>
+<alternateName lang="post">02204</alternateName>
+<alternateName lang="pt">Boston</alternateName>
+<alternateName lang="ro">Boston</alternateName>
+<alternateName lang="ru">Бостон</alternateName>
+<alternateName lang="sah">Бостон</alternateName>
+<alternateName lang="sk">Boston</alternateName>
+<alternateName lang="sl">Boston</alternateName>
+<alternateName lang="sq">Boston</alternateName>
+<alternateName lang="sr">Бостон</alternateName>
+<alternateName lang="sv">Boston</alternateName>
+<alternateName lang="ta">பாஸ்டன்</alternateName>
+<alternateName lang="te">బోస్టన్</alternateName>
+<alternateName lang="th">บอสตัน</alternateName>
+<alternateName lang="tr">Boston</alternateName>
+<alternateName lang="ug">بوستون</alternateName>
+<alternateName lang="uk">Бостон</alternateName>
+<alternateName lang="unlc">BOS</alternateName>
+<alternateName lang="ur">بوسٹن</alternateName>
+<alternateName lang="vi">Boston</alternateName>
+<alternateName lang="wuu">波士顿</alternateName>
+<alternateName lang="xmf">ბოსთონი</alternateName>
+<alternateName lang="yi">באסטאן</alternateName>
+<alternateName lang="zh">波士顿</alternateName>
+<alternateName lang="zh-CN">波士顿</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-71.19116</west>
+<north>42.40082</north>
+<east>-70.74879</east>
+<south>42.22788</south>
+</bbox>
+<score>58.05004119873047</score>
+</geoname>
+<geoname>
+<toponymName>South Boston</toponymName>
+<name>South Boston</name>
+<lat>42.33343</lat>
+<lng>-71.04949</lng>
+<geonameId>4951305</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population>571281</population>
+<alternateNames/>
+<elevation>14</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MA">MA</adminCode1>
+<adminName1>Massachusetts</adminName1>
+<adminCode2>025</adminCode2>
+<adminName2>Suffolk County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/South_Boston</alternateName>
+<alternateName lang="unlc">SBC</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-71.18242</west>
+<north>42.43154</north>
+<east>-70.91657</east>
+<south>42.23532</south>
+</bbox>
+<score>13.880392074584961</score>
+</geoname>
+<geoname>
+<toponymName>Boston-Cambridge-Quincy</toponymName>
+<name>Boston-Cambridge-Quincy</name>
+<lat>42.35347</lat>
+<lng>-71.06094</lng>
+<geonameId>6955111</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>L</fcl>
+<fcode>RGNE</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>economic region</fcodeName>
+<population>4522858</population>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MA">MA</adminCode1>
+<adminName1>Massachusetts</adminName1>
+<adminCode2>025</adminCode2>
+<adminName2>Suffolk County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>13.880392074584961</score>
+</geoname>
+<geoname>
+<toponymName>Boston University</toponymName>
+<name>Boston University</name>
+<lat>42.33399</lat>
+<lng>-71.10477</lng>
+<geonameId>4931016</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>SCH</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>school</fcodeName>
+<population/>
+<alternateNames>Boston UEniversitesi,Boston Universiteti,Boston Üniversitesi,Boston-haskoli,Boston-háskóli,Bostoni UElikool,Bostoni Ülikool,Bostonin yliopisto,Bostons'kij universitet,Bostonska univerzita,Bostonskij universitet,Bostonská univerzita,Universida de Boston,Universidad de Boston,Universidade de Boston,Universidá de Boston,Universita di Boston,Universitas Bostoniae,Universitat de Boston,Universite de Boston,Universiteit van Boston,Università di Boston,Université de Boston,bo shi dun da xue,boseuteon daehaggyo,bostana visvavidyalaya,bosuton da xue,danshgah bwstwn,pastan palkalaikkalakam,Бостон Университеті,Бостонский университет,Бостонський університет,אוניברסיטת בוסטון,بوستون ئۇنىۋېرستېتى,بوسٹن یونیورسٹی,جامعة بوسطن,دانشگاه بوستون,बोस्टन विश्वविद्यालय,பாஸ்டன் பல்கலைக்கழகம்,ボストン大学,波士頓大學,보스턴 대학교</alternateNames>
+<elevation>14</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MA">MA</adminCode1>
+<adminName1>Massachusetts</adminName1>
+<adminCode2>025</adminCode2>
+<adminName2>Suffolk County</adminName2>
+<alternateName lang="ar">جامعة بوسطن</alternateName>
+<alternateName lang="ast">Universidá de Boston</alternateName>
+<alternateName lang="ca">Universitat de Boston</alternateName>
+<alternateName lang="cs">Bostonská univerzita</alternateName>
+<alternateName lang="es">Universidad de Boston</alternateName>
+<alternateName lang="et">Bostoni Ülikool</alternateName>
+<alternateName lang="fa">دانشگاه بوستون</alternateName>
+<alternateName lang="fi">Bostonin yliopisto</alternateName>
+<alternateName lang="fr">Université de Boston</alternateName>
+<alternateName lang="he">אוניברסיטת בוסטון</alternateName>
+<alternateName lang="hi">बोस्टन विश्वविद्यालय</alternateName>
+<alternateName lang="is">Boston-háskóli</alternateName>
+<alternateName lang="it">Università di Boston</alternateName>
+<alternateName lang="ja">ボストン大学</alternateName>
+<alternateName lang="kk">Бостон Университеті</alternateName>
+<alternateName lang="ko">보스턴 대학교</alternateName>
+<alternateName lang="la">Universitas Bostoniae</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Boston_University</alternateName>
+<alternateName lang="nl">Universiteit van Boston</alternateName>
+<alternateName lang="pnb">بوسٹن یونیورسٹی</alternateName>
+<alternateName lang="pt">Universidade de Boston</alternateName>
+<alternateName lang="ru">Бостонский университет</alternateName>
+<alternateName lang="ta">பாஸ்டன் பல்கலைக்கழகம்</alternateName>
+<alternateName lang="tr">Boston Üniversitesi</alternateName>
+<alternateName lang="ug">بوستون ئۇنىۋېرستېتى</alternateName>
+<alternateName lang="uk">Бостонський університет</alternateName>
+<alternateName lang="zh">波士頓大學</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>12.578210830688477</score>
+</geoname>
+<geoname>
+<toponymName>Boston Public Library</toponymName>
+<name>Boston Public Library</name>
+<lat>42.34926</lat>
+<lng>-71.07838</lng>
+<geonameId>4931010</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>LIBR</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>library</fcodeName>
+<population/>
+<alternateNames>Biblioteca Publica de Boston,Biblioteca Pública de Boston,Bibliotheque publique de Boston,Bibliothèque publique de Boston,Boston Halk Kuetuephanesi,Boston Halk Kütüphanesi,Bostons'ka publichna biblioteka,Bostonskaja obshhestvennaja biblioteka,Sulod-Barasahan Publiko han Boston,boseuteon gong-gongdoseogwan,bosuton gong gong tu shu guan,Бостонская общественная библиотека,Бостонська публічна бібліотека,کتابخانه عمومی بوستون,ბოსტონის საჯარო ბიბლიოთეკა,ボストン公共図書館,보스턴 공공도서관</alternateNames>
+<elevation>5</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MA">MA</adminCode1>
+<adminName1>Massachusetts</adminName1>
+<adminCode2>021</adminCode2>
+<adminName2>Norfolk County</adminName2>
+<alternateName lang="es">Biblioteca Pública de Boston</alternateName>
+<alternateName lang="fa">کتابخانه عمومی بوستون</alternateName>
+<alternateName lang="fr">Bibliothèque publique de Boston</alternateName>
+<alternateName lang="ja">ボストン公共図書館</alternateName>
+<alternateName lang="ka">ბოსტონის საჯარო ბიბლიოთეკა</alternateName>
+<alternateName lang="ko">보스턴 공공도서관</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Boston_Public_Library</alternateName>
+<alternateName lang="ru">Бостонская общественная библиотека</alternateName>
+<alternateName lang="tr">Boston Halk Kütüphanesi</alternateName>
+<alternateName lang="uk">Бостонська публічна бібліотека</alternateName>
+<alternateName lang="war">Sulod-Barasahan Publiko han Boston</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>8.488119125366211</score>
+</geoname>
+<geoname>
+<toponymName>Boston Garden</toponymName>
+<name>Boston Garden</name>
+<lat>42.36593</lat>
+<lng>-71.06283</lng>
+<geonameId>4930980</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>L</fcl>
+<fcode>PRK</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>park</fcodeName>
+<population/>
+<alternateNames>Boston-garden,Бостон-гарден,ボストン・ガーデン</alternateNames>
+<elevation>4</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MA">MA</adminCode1>
+<adminName1>Massachusetts</adminName1>
+<adminCode2>025</adminCode2>
+<adminName2>Suffolk County</adminName2>
+<alternateName lang="ja">ボストン・ガーデン</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Boston_Garden</alternateName>
+<alternateName lang="ru">Бостон-гарден</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>7.8170166015625</score>
+</geoname>
+<geoname>
+<toponymName>Museum of Fine Arts</toponymName>
+<name>Museum of Fine Arts</name>
+<lat>42.33982</lat>
+<lng>-71.09394</lng>
+<geonameId>4944804</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>MUS</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>museum</fcodeName>
+<population/>
+<alternateNames>Bao tang My thuat Boston,Boston Guezel Sanatlar Muezesi,Boston Güzel Sanatlar Müzesi,Bostongo Arte Ederren Museoa,Bảo tàng Mỹ thuật Boston,Musee des beaux-arts de Boston,Museo de Bellas Artes,Museu de Belas Artes de Boston,Museu de Belles Arts de Boston,Museum of Fine Arts w Bostonie,Musée des beaux-arts de Boston,Muzej izjashhnykh iskusstv,Muzej lijepih umjetnosti,Sinli Saengaet Muzeyi,Sınlı Sänğät Muzeyı,boseuteon misulgwan,bosuton mei shu guan,mthf alfnwn aljmylt fy bwstn,mthf bwstwn llfnwn aljmylh,phiphithphanth wicitr silp,Музей изящных искусств,متحف الفنون الجميلة في بوسطن,متحف بوسطون للفنون الجميله,พิพิธภัณฑ์วิจิตรศิลป์,ボストン美術館,보스턴 미술관</alternateNames>
+<elevation>5</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MA">MA</adminCode1>
+<adminName1>Massachusetts</adminName1>
+<adminCode2>025</adminCode2>
+<adminName2>Suffolk County</adminName2>
+<alternateName lang="ar">متحف الفنون الجميلة في بوسطن</alternateName>
+<alternateName lang="arz">متحف بوسطون للفنون الجميله</alternateName>
+<alternateName lang="ca">Museu de Belles Arts de Boston</alternateName>
+<alternateName lang="es">Museo de Bellas Artes</alternateName>
+<alternateName lang="eu">Bostongo Arte Ederren Museoa</alternateName>
+<alternateName lang="fr">Musée des beaux-arts de Boston</alternateName>
+<alternateName lang="hbs">Muzej lijepih umjetnosti</alternateName>
+<alternateName lang="ja">ボストン美術館</alternateName>
+<alternateName lang="ko">보스턴 미술관</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Museum_of_Fine_Arts%2C_Boston</alternateName>
+<alternateName lang="pl">Museum of Fine Arts w Bostonie</alternateName>
+<alternateName lang="pt">Museu de Belas Artes de Boston</alternateName>
+<alternateName lang="ru">Музей изящных искусств</alternateName>
+<alternateName lang="th">พิพิธภัณฑ์วิจิตรศิลป์</alternateName>
+<alternateName lang="tr">Boston Güzel Sanatlar Müzesi</alternateName>
+<alternateName lang="tt">Sınlı Sänğät Muzeyı</alternateName>
+<alternateName lang="vi">Bảo tàng Mỹ thuật Boston</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>7.230412006378174</score>
+</geoname>
+<geoname>
+<toponymName>Boston African-American National Historic Site</toponymName>
+<name>Boston African-American National Historic Site</name>
+<lat>42.35843</lat>
+<lng>-71.06783</lng>
+<geonameId>4930957</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>L</fcl>
+<fcode>PRK</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>park</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>26</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MA">MA</adminCode1>
+<adminName1>Massachusetts</adminName1>
+<adminCode2>025</adminCode2>
+<adminName2>Suffolk County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Boston_African_American_National_Historic_Site</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>6.9401960372924805</score>
+</geoname>
+<geoname>
+<toponymName>Boston Common</toponymName>
+<name>Boston Common</name>
+<lat>42.3551</lat>
+<lng>-71.06561</lng>
+<geonameId>4930974</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>L</fcl>
+<fcode>PRK</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>park</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>8</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MA">MA</adminCode1>
+<adminName1>Massachusetts</adminName1>
+<adminCode2>025</adminCode2>
+<adminName2>Suffolk County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Boston_Common</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>6.9401960372924805</score>
+</geoname>
+<geoname>
+<toponymName>Boston Ledge</toponymName>
+<name>Boston Ledge</name>
+<lat>42.33538</lat>
+<lng>-70.86477</lng>
+<geonameId>4930995</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>BAR</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>bar</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>0</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MA">MA</adminCode1>
+<adminName1>Massachusetts</adminName1>
+<adminCode2>025</adminCode2>
+<adminName2>Suffolk County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Boston_Ledge_%28Massachusetts%29</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>6.9401960372924805</score>
+</geoname>
+</geonames>

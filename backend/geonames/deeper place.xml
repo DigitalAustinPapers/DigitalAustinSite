@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Deuber Place</toponymName>
+<name>Deuber Place</name>
+<lat>27.9404</lat>
+<lng>-82.513</lng>
+<geonameId>7216815</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>6</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="FL">FL</adminCode1>
+<adminName1>Florida</adminName1>
+<adminCode2>057</adminCode2>
+<adminName2>Hillsborough County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-82.52318</west>
+<north>27.94939</north>
+<east>-82.50282</east>
+<south>27.93141</south>
+</bbox>
+<score>32.51689910888672</score>
+</geoname>
+<geoname>
+<toponymName>Denver Place</toponymName>
+<name>Denver Place</name>
+<lat>41.218</lat>
+<lng>-111.93411</lng>
+<geonameId>5773813</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1427</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="UT">UT</adminCode1>
+<adminName1>Utah</adminName1>
+<adminCode2>057</adminCode2>
+<adminName2>Weber County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<bbox>
+<west>-111.93889</west>
+<north>41.2216</north>
+<east>-111.92932</east>
+<south>41.2144</south>
+</bbox>
+<score>20.323062896728516</score>
+</geoname>
+</geonames>

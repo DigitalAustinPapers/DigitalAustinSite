@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Lower Plantation</toponymName>
+<name>Lower Plantation</name>
+<lat>40.65127</lat>
+<lng>-121.73638</lng>
+<geonameId>5567338</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>V</fcl>
+<fcode>FRST</fcode>
+<fclName>forest,heath,...</fclName>
+<fcodeName>forest(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1697</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>089</adminCode2>
+<adminName2>Shasta County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>27.909944534301758</score>
+</geoname>
+<geoname>
+<toponymName>Lower Plantation</toponymName>
+<name>Lower Plantation</name>
+<lat>51.96169</lat>
+<lng>-0.33049</lng>
+<geonameId>6948265</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>V</fcl>
+<fcode>TREE</fcode>
+<fclName>forest,heath,...</fclName>
+<fcodeName>tree(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>100</elevation>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>27.909944534301758</score>
+</geoname>
+<geoname>
+<toponymName>Lokon Plantation</toponymName>
+<name>Lokon Plantation</name>
+<lat>-3.36667</lat>
+<lng>152.13333</lng>
+<geonameId>2092231</geonameId>
+<countryCode>PG</countryCode>
+<countryName>Papua New Guinea</countryName>
+<fcl>S</fcl>
+<fcode>EST</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>estate(s)</fcodeName>
+<population/>
+<alternateNames>Bulu-Logon Plantation,Lokon Plantation</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="NIK">15</adminCode1>
+<adminName1>New Ireland</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="10.0" gmtOffset="10.0">Pacific/Port_Moresby</timezone>
+<score>1.797671914100647</score>
+</geoname>
+<geoname>
+<toponymName>Lossu Plantation</toponymName>
+<name>Lossu Plantation</name>
+<lat>-3.03333</lat>
+<lng>151.61667</lng>
+<geonameId>2092151</geonameId>
+<countryCode>PG</countryCode>
+<countryName>Papua New Guinea</countryName>
+<fcl>S</fcl>
+<fcode>EST</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>estate(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="NIK">15</adminCode1>
+<adminName1>New Ireland</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="10.0" gmtOffset="10.0">Pacific/Port_Moresby</timezone>
+<score>0.917370617389679</score>
+</geoname>
+</geonames>

@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>353</totalResultsCount>
+<geoname>
+<toponymName>Detroit</toponymName>
+<name>Detroit</name>
+<lat>42.33143</lat>
+<lng>-83.04575</lng>
+<geonameId>4990729</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>713777</population>
+<alternateNames>DTT,Detroit,Detroita,Detroitas,Detroitum,Detrojt,Detrojto,Detroyt,Détroit,Détroyt,Gorad Dehtrojt,Ntitroit,detoroito,detra'ita,detrayeta,detrayit,detro'ita,detroiti,di te lu,di thrx yt,diteuloiteu,dtrwyt,dytrwyt,titrayit,Ντιτρόιτ,Горад Дэтройт,Детроит,Детройт,Դետրոյթ,דטרויט,דעטרויט,ديترويت,دیترویت,डेट्राइट,डेट्रॉईट,ডেট্রয়েট,டிட்ராயிட்,డెట్రాయిట్,ดีทรอยต์,დეთროითი,დეტროიტი,デトロイト,底特律,디트로이트</alternateNames>
+<elevation>183</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MI">MI</adminCode1>
+<adminName1>Michigan</adminName1>
+<adminCode2>163</adminCode2>
+<adminName2>Wayne County</adminName2>
+<alternateName lang="af">Detroit</alternateName>
+<alternateName lang="ar">ديترويت</alternateName>
+<alternateName lang="az">Detroyt</alternateName>
+<alternateName lang="be">Горад Дэтройт</alternateName>
+<alternateName lang="bg">Детройт</alternateName>
+<alternateName lang="bn">ডেট্রয়েট</alternateName>
+<alternateName lang="bs">Detroit</alternateName>
+<alternateName lang="ca">Detroit</alternateName>
+<alternateName lang="cs">Detroit</alternateName>
+<alternateName lang="da">Detroit</alternateName>
+<alternateName lang="de">Detroit</alternateName>
+<alternateName lang="el">Ντιτρόιτ</alternateName>
+<alternateName lang="en">Detroit</alternateName>
+<alternateName lang="eo">Detrojto</alternateName>
+<alternateName lang="es">Detroit</alternateName>
+<alternateName lang="et">Detroit</alternateName>
+<alternateName lang="fa">دیترویت</alternateName>
+<alternateName lang="fi">Detroit</alternateName>
+<alternateName lang="fr">Détroit</alternateName>
+<alternateName lang="gl">Detroit</alternateName>
+<alternateName lang="he">דטרויט</alternateName>
+<alternateName lang="hi">डेट्राइट</alternateName>
+<alternateName lang="hu">Detroit</alternateName>
+<alternateName lang="hy">Դետրոյթ</alternateName>
+<alternateName lang="iata">DTT</alternateName>
+<alternateName lang="id">Detroit</alternateName>
+<alternateName lang="io">Detroit</alternateName>
+<alternateName lang="is">Detroit</alternateName>
+<alternateName lang="it">Detroit</alternateName>
+<alternateName lang="ja">デトロイト</alternateName>
+<alternateName lang="ka">დეტროიტი</alternateName>
+<alternateName lang="kk">Детройт</alternateName>
+<alternateName lang="ko">디트로이트</alternateName>
+<alternateName lang="la">Detroitum</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Detroit</alternateName>
+<alternateName lang="lt">Detroitas</alternateName>
+<alternateName lang="lv">Detroita</alternateName>
+<alternateName lang="mk">Детроит</alternateName>
+<alternateName lang="mr">डेट्रॉईट</alternateName>
+<alternateName lang="mrj">Детройт</alternateName>
+<alternateName lang="mzn">دیترویت</alternateName>
+<alternateName lang="nl">Detroit</alternateName>
+<alternateName lang="nn">Detroit</alternateName>
+<alternateName lang="no">Detroit</alternateName>
+<alternateName lang="oc">Detroit</alternateName>
+<alternateName lang="pl">Detroit</alternateName>
+<alternateName lang="post">48226</alternateName>
+<alternateName lang="pt">Detroit</alternateName>
+<alternateName lang="ro">Detroit</alternateName>
+<alternateName lang="ru">Детройт</alternateName>
+<alternateName lang="sah">Детройт</alternateName>
+<alternateName lang="sk">Detroit</alternateName>
+<alternateName lang="sr">Детроит</alternateName>
+<alternateName lang="sv">Detroit</alternateName>
+<alternateName lang="ta">டிட்ராயிட்</alternateName>
+<alternateName lang="te">డెట్రాయిట్</alternateName>
+<alternateName lang="tg">Детройт</alternateName>
+<alternateName lang="th">ดีทรอยต์</alternateName>
+<alternateName lang="tr">Detroit</alternateName>
+<alternateName lang="ug">Détroyt</alternateName>
+<alternateName lang="uk">Детройт</alternateName>
+<alternateName lang="unlc">DET</alternateName>
+<alternateName lang="vi">Detroit</alternateName>
+<alternateName lang="xmf">დეთროითი</alternateName>
+<alternateName lang="yi">דעטרויט</alternateName>
+<alternateName lang="zh">底特律</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Detroit</timezone>
+<bbox>
+<west>-83.19426</west>
+<north>42.44102</north>
+<east>-82.89724</east>
+<south>42.22183</south>
+</bbox>
+<score>55.75647735595703</score>
+</geoname>
+<geoname>
+<toponymName>Detroit-Warren-Livonia</toponymName>
+<name>Detroit-Warren-Livonia</name>
+<lat>42.34231</lat>
+<lng>-83.07175</lng>
+<geonameId>6955112</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>L</fcl>
+<fcode>RGNE</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>economic region</fcodeName>
+<population>4425110</population>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MI">MI</adminCode1>
+<adminName1>Michigan</adminName1>
+<adminCode2>163</adminCode2>
+<adminName2>Wayne County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Detroit</timezone>
+<score>17.742530822753906</score>
+</geoname>
+<geoname>
+<toponymName>Detroit City Airport</toponymName>
+<name>Detroit City Airport</name>
+<lat>42.4092</lat>
+<lng>-83.00964</lng>
+<geonameId>4990733</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>AIRP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>airport</fcodeName>
+<population/>
+<alternateNames>DET,KDET</alternateNames>
+<elevation>190</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MI">MI</adminCode1>
+<adminName1>Michigan</adminName1>
+<adminCode2>163</adminCode2>
+<adminName2>Wayne County</adminName2>
+<alternateName lang="iata">DET</alternateName>
+<alternateName lang="icao">KDET</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Coleman_A._Young_International_Airport</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Detroit</timezone>
+<score>10.64551830291748</score>
+</geoname>
+<geoname>
+<toponymName>Detroit Beach</toponymName>
+<name>Detroit Beach</name>
+<lat>41.93116</lat>
+<lng>-83.32688</lng>
+<geonameId>4990730</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2087</population>
+<alternateNames/>
+<elevation>175</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MI">MI</adminCode1>
+<adminName1>Michigan</adminName1>
+<adminCode2>115</adminCode2>
+<adminName2>Monroe County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Detroit_Beach%2C_Michigan</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Detroit</timezone>
+<bbox>
+<west>-83.34058</west>
+<north>41.93938</north>
+<east>-83.31819</east>
+<south>41.92348</south>
+</bbox>
+<score>8.871265411376953</score>
+</geoname>
+<geoname>
+<toponymName>Detroit Metropolitan Wayne County Airport</toponymName>
+<name>Detroit Metropolitan Wayne County Airport</name>
+<lat>42.20838</lat>
+<lng>-83.35778</lng>
+<geonameId>4990742</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>AIRP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>airport</fcodeName>
+<population/>
+<alternateNames>DTW,KDTW</alternateNames>
+<elevation>194</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MI">MI</adminCode1>
+<adminName1>Michigan</adminName1>
+<adminCode2>163</adminCode2>
+<adminName2>Wayne County</adminName2>
+<alternateName lang="iata">DTW</alternateName>
+<alternateName lang="icao">KDTW</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Detroit_Metropolitan_Wayne_County_Airport</alternateName>
+<alternateName lang="unlc">DTW</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Detroit</timezone>
+<score>8.871265411376953</score>
+</geoname>
+<geoname>
+<toponymName>Detroit Arsenal Tank Plant Historical Marker</toponymName>
+<name>Detroit Arsenal Tank Plant Historical Marker</name>
+<lat>42.49926</lat>
+<lng>-83.02893</lng>
+<geonameId>8094435</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>L</fcl>
+<fcode>PRK</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>park</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>188</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MI">MI</adminCode1>
+<adminName1>Michigan</adminName1>
+<adminCode2>099</adminCode2>
+<adminName2>Macomb County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Detroit_Arsenal_Tank_Plant</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Detroit</timezone>
+<score>7.097012519836426</score>
+</geoname>
+<geoname>
+<toponymName>City of Detroit</toponymName>
+<name>City of Detroit</name>
+<lat>42.38341</lat>
+<lng>-83.10241</lng>
+<geonameId>4990752</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>administrative division</fcodeName>
+<population>713777</population>
+<alternateNames/>
+<elevation>194</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MI">MI</adminCode1>
+<adminName1>Michigan</adminName1>
+<adminCode2>163</adminCode2>
+<adminName2>Wayne County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Detroit</timezone>
+<bbox>
+<west>-83.28796</west>
+<north>42.45023</north>
+<east>-82.91045</east>
+<south>42.25533</south>
+</bbox>
+<score>6.209886074066162</score>
+</geoname>
+<geoname>
+<toponymName>Detroit Golf Club</toponymName>
+<name>Detroit Golf Club</name>
+<lat>42.42643</lat>
+<lng>-83.12631</lng>
+<geonameId>4990738</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>RECG</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>golf course</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>197</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MI">MI</adminCode1>
+<adminName1>Michigan</adminName1>
+<adminCode2>163</adminCode2>
+<adminName2>Wayne County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Detroit_Golf_Club</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Detroit</timezone>
+<score>5.32275915145874</score>
+</geoname>
+<geoname>
+<toponymName>Detroit Race Course</toponymName>
+<name>Detroit Race Course</name>
+<lat>42.38004</lat>
+<lng>-83.32271</lng>
+<geonameId>4990745</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>192</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MI">MI</adminCode1>
+<adminName1>Michigan</adminName1>
+<adminCode2>163</adminCode2>
+<adminName2>Wayne County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Detroit_Race_Course</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Detroit</timezone>
+<score>5.32275915145874</score>
+</geoname>
+<geoname>
+<toponymName>Detroit Yacht Club</toponymName>
+<name>Detroit Yacht Club</name>
+<lat>42.3492</lat>
+<lng>-82.97353</lng>
+<geonameId>4990750</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>175</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MI">MI</adminCode1>
+<adminName1>Michigan</adminName1>
+<adminCode2>163</adminCode2>
+<adminName2>Wayne County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Detroit_Yacht_Club</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Detroit</timezone>
+<score>5.32275915145874</score>
+</geoname>
+</geonames>

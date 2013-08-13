@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Childrey</toponymName>
+<name>Childrey</name>
+<lat>51.5845</lat>
+<lng>-1.47966</lng>
+<geonameId>2653172</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Childrey</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K2</adminCode2>
+<adminName2>Oxfordshire</adminName2>
+<adminCode3>38UE</adminCode3>
+<adminName3>Vale of White Horse District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Childrey</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.49413</west>
+<north>51.59349</north>
+<east>-1.46518</east>
+<south>51.5755</south>
+</bbox>
+<score>27.321762084960938</score>
+</geoname>
+<geoname>
+<toponymName>Childrey</toponymName>
+<name>Childrey</name>
+<lat>51.58079</lat>
+<lng>-1.49008</lng>
+<geonameId>7299750</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K2</adminCode2>
+<adminName2>Oxfordshire</adminName2>
+<adminCode3>38UE</adminCode3>
+<adminName3>Vale of White Horse District</adminName3>
+<adminCode4>38UE013</adminCode4>
+<adminName4>Childrey</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.51376</west>
+<north>51.62101</north>
+<east>-1.4664</east>
+<south>51.54056</south>
+</bbox>
+<score>18.590105056762695</score>
+</geoname>
+<geoname>
+<toponymName>Children</toponymName>
+<name>Children</name>
+<lat>36.83487</lat>
+<lng>-76.29855</lng>
+<geonameId>4752433</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>BLDG</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>building(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>3</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>740</adminCode2>
+<adminName2>City of Portsmouth</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>13.035473823547363</score>
+</geoname>
+<geoname>
+<toponymName>Chidren’</toponymName>
+<name>Chidren’</name>
+<lat>51.33333</lat>
+<lng>131.96667</lng>
+<geonameId>2025406</geonameId>
+<countryCode>RU</countryCode>
+<countryName>Russia</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>Chidren',Chidren’,Чидрень</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="KHA">30</adminCode1>
+<adminName1>Khabarovsk Krai</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ru">Чидрень</alternateName>
+<timezone dstOffset="11.0" gmtOffset="11.0">Asia/Vladivostok</timezone>
+<score>12.641103744506836</score>
+</geoname>
+</geonames>

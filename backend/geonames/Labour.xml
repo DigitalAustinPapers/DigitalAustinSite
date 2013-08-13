@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>34</totalResultsCount>
+<geoname>
+<toponymName>Lābpur</toponymName>
+<name>Lābpur</name>
+<lat>23.81699</lat>
+<lng>87.80427</lng>
+<geonameId>1265367</geonameId>
+<countryCode>IN</countryCode>
+<countryName>India</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Labpur,Lābpur</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="WB">28</adminCode1>
+<adminName1>Bengal</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Labpur_%28Vidhan_Sabha_constituency%29</alternateName>
+<timezone dstOffset="5.5" gmtOffset="5.5">Asia/Kolkata</timezone>
+<bbox>
+<west>87.79444</west>
+<north>23.82598</north>
+<east>87.8141</east>
+<south>23.80799</south>
+</bbox>
+<score>28.04641342163086</score>
+</geoname>
+<geoname>
+<toponymName>Lacour</toponymName>
+<name>Lacour</name>
+<lat>30.82824</lat>
+<lng>-91.61401</lng>
+<geonameId>4330136</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>14</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>077</adminCode2>
+<adminName2>Pointe Coupee Parish</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lacour%2C_Louisiana</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-91.62448</west>
+<north>30.83723</north>
+<east>-91.60353</east>
+<south>30.81924</south>
+</bbox>
+<score>20.690662384033203</score>
+</geoname>
+<geoname>
+<toponymName>Labourd</toponymName>
+<name>Labourd</name>
+<lat>43.41667</lat>
+<lng>-1.53333</lng>
+<geonameId>3010881</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>L</fcl>
+<fcode>RGN</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>region</fcodeName>
+<population/>
+<alternateNames>Labourd,Lapurdi,Le Labourd</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="B">97</adminCode1>
+<adminName1>Aquitaine</adminName1>
+<adminCode2>64</adminCode2>
+<adminName2>Pyrénées-Atlantiques</adminName2>
+<alternateName lang="eu">Lapurdi</alternateName>
+<alternateName lang="fr">Le Labourd</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<score>19.431123733520508</score>
+</geoname>
+<geoname>
+<toponymName>Laboué</toponymName>
+<name>Laboué</name>
+<lat>34.19528</lat>
+<lng>36.35611</lng>
+<geonameId>279662</geonameId>
+<countryCode>LB</countryCode>
+<countryName>Lebanon</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Al Labwah,Laboue,Laboué</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="BH">11</adminCode1>
+<adminName1>Baalbek-Hermel</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="3.0" gmtOffset="2.0">Asia/Beirut</timezone>
+<bbox>
+<west>36.34524</west>
+<north>34.20427</north>
+<east>36.36699</east>
+<south>34.18628</south>
+</bbox>
+<score>17.994186401367188</score>
+</geoname>
+<geoname>
+<toponymName>Lacour</toponymName>
+<name>Lacour</name>
+<lat>44.29215</lat>
+<lng>0.94572</lng>
+<geonameId>3009849</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>195</population>
+<alternateNames>Lacour</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="N">B3</adminCode1>
+<adminName1>Midi-Pyrénées</adminName1>
+<adminCode2>82</adminCode2>
+<adminName2>Tarn-et-Garonne</adminName2>
+<adminCode3>821</adminCode3>
+<adminName3>Arrondissement de Castelsarrasin</adminName3>
+<adminCode4>82084</adminCode4>
+<adminName4>Lacour</adminName4>
+<alternateName lang="post">82190</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>0.94446</west>
+<north>44.29305</north>
+<east>0.94697</east>
+<south>44.29125</south>
+</bbox>
+<score>16.893856048583984</score>
+</geoname>
+<geoname>
+<toponymName>Lanour</toponymName>
+<name>Lanour</name>
+<lat>-16.53333</lat>
+<lng>167.56667</lng>
+<geonameId>2136629</geonameId>
+<countryCode>VU</countryCode>
+<countryName>Vanuatu</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="MAP">16</adminCode1>
+<adminName1>Malampa</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="11.0" gmtOffset="11.0">Pacific/Efate</timezone>
+<bbox>
+<west>167.55729</west>
+<north>-16.52434</north>
+<east>167.57605</east>
+<south>-16.54233</south>
+</bbox>
+<score>15.865446090698242</score>
+</geoname>
+<geoname>
+<toponymName>Laboua</toponymName>
+<name>Laboua</name>
+<lat>6.5134</lat>
+<lng>-6.69422</lng>
+<geonameId>2285503</geonameId>
+<countryCode>CI</countryCode>
+<countryName>Ivory Coast</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="02">80</adminCode1>
+<adminName1>Haut-Sassandra</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="0.0" gmtOffset="0.0">Africa/Abidjan</timezone>
+<bbox>
+<west>-6.70328</west>
+<north>6.5224</north>
+<east>-6.68517</east>
+<south>6.50441</south>
+</bbox>
+<score>15.083984375</score>
+</geoname>
+<geoname>
+<toponymName>Laboua</toponymName>
+<name>Laboua</name>
+<lat>6.36713</lat>
+<lng>-6.71934</lng>
+<geonameId>2285504</geonameId>
+<countryCode>CI</countryCode>
+<countryName>Ivory Coast</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="02">80</adminCode1>
+<adminName1>Haut-Sassandra</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="0.0" gmtOffset="0.0">Africa/Abidjan</timezone>
+<bbox>
+<west>-6.72839</west>
+<north>6.37612</north>
+<east>-6.71029</east>
+<south>6.35813</south>
+</bbox>
+<score>15.083984375</score>
+</geoname>
+<geoname>
+<toponymName>Laboué</toponymName>
+<name>Laboué</name>
+<lat>-15.51667</lat>
+<lng>167.1</lng>
+<geonameId>2136718</geonameId>
+<countryCode>VU</countryCode>
+<countryName>Vanuatu</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="SAM">13</adminCode1>
+<adminName1>Sanma</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="11.0" gmtOffset="11.0">Pacific/Efate</timezone>
+<bbox>
+<west>167.09067</west>
+<north>-15.50767</north>
+<east>167.10933</east>
+<south>-15.52566</south>
+</bbox>
+<score>14.541499137878418</score>
+</geoname>
+<geoname>
+<toponymName>Laboun</toponymName>
+<name>Laboun</name>
+<lat>8.3926</lat>
+<lng>14.2745</lng>
+<geonameId>2229699</geonameId>
+<countryCode>CM</countryCode>
+<countryName>Cameroon</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="NO">13</adminCode1>
+<adminName1>North Province</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="1.0">Africa/Douala</timezone>
+<bbox>
+<west>14.26541</west>
+<north>8.40159</north>
+<east>14.28359</east>
+<south>8.38361</south>
+</bbox>
+<score>14.541499137878418</score>
+</geoname>
+</geonames>

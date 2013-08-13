@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Sound</toponymName>
+<name>Sound</name>
+<lat>53.03554</lat>
+<lng>-2.56638</lng>
+<geonameId>7294574</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z7</adminCode2>
+<adminName2>Cheshire East</adminName2>
+<adminCode3>00EQ120</adminCode3>
+<adminName3>Sound</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Sound%2C_Cheshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.58345</west>
+<north>53.05185</north>
+<east>-2.54931</east>
+<south>53.01924</south>
+</bbox>
+<score>56.04875946044922</score>
+</geoname>
+<geoname>
+<toponymName>Sound</toponymName>
+<name>Sound</name>
+<lat>44.35258</lat>
+<lng>-68.30279</lng>
+<geonameId>4979024</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>19</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ME">ME</adminCode1>
+<adminName1>Maine</adminName1>
+<adminCode2>009</adminCode2>
+<adminName2>Hancock County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>14.012189865112305</score>
+</geoname>
+</geonames>

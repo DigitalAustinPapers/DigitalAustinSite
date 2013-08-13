@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Brazoria</toponymName>
+<name>Brazoria</name>
+<lat>29.04441</lat>
+<lng>-95.56911</lng>
+<geonameId>4676131</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3019</population>
+<alternateNames>BZT</alternateNames>
+<elevation>9</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>039</adminCode2>
+<adminName2>Brazoria County</adminName2>
+<alternateName lang="iata">BZT</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brazoria%2C_Texas</alternateName>
+<alternateName lang="post">77422</alternateName>
+<alternateName lang="unlc">BZT</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-95.57639</west>
+<north>29.05077</north>
+<east>-95.56184</east>
+<south>29.03806</south>
+</bbox>
+<score>52.31329345703125</score>
+</geoname>
+<geoname>
+<toponymName>Brazoria County</toponymName>
+<name>Brazoria County</name>
+<lat>29.16783</lat>
+<lng>-95.43426</lng>
+<geonameId>4676137</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>313166</population>
+<alternateNames>Brazoria,Brazoria Comitatus,Brazoria srjan,Brazorija,Comte de Brazoria,Comté de Brazoria,Condado de Brazoria,Condado han Brazoria,Contea di Brazoria,County Brazoria,Hrabstwo Brazoria,Okrug Brazorija,Quan Brazoria,Quận Brazoria,brajoriya ka'unti,bu la zuo li ya xian,burazoria jun,Бразориа,Бразория,Бразорія,Округ Бразорија,Բրազորիա շրջան,بریزوریا کاؤنٹی,مقاطعة برازوريا، تكساس,ব্রাজোরিয়া কাউন্টি,ブラゾリア郡,布拉佐里亞縣</alternateNames>
+<elevation>9</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>039</adminCode2>
+<adminName2>Brazoria County</adminName2>
+<alternateName lang="ar">مقاطعة برازوريا، تكساس</alternateName>
+<alternateName lang="bg">Бразория</alternateName>
+<alternateName lang="bpy">ব্রাজোরিয়া কাউন্টি</alternateName>
+<alternateName lang="es">Condado de Brazoria</alternateName>
+<alternateName lang="fr">Comté de Brazoria</alternateName>
+<alternateName lang="hy">Բրազորիա շրջան</alternateName>
+<alternateName lang="id">County Brazoria</alternateName>
+<alternateName lang="it">Contea di Brazoria</alternateName>
+<alternateName lang="ja">ブラゾリア郡</alternateName>
+<alternateName lang="la">Brazoria Comitatus</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brazoria_County%2C_Texas</alternateName>
+<alternateName lang="pl">Hrabstwo Brazoria</alternateName>
+<alternateName lang="pnb">بریزوریا کاؤنٹی</alternateName>
+<alternateName lang="pt">Condado de Brazoria</alternateName>
+<alternateName lang="ru">Бразориа</alternateName>
+<alternateName lang="sr">Округ Бразорија</alternateName>
+<alternateName lang="uk">Бразорія</alternateName>
+<alternateName lang="vi">Quận Brazoria</alternateName>
+<alternateName lang="war">Condado han Brazoria</alternateName>
+<alternateName lang="zh">布拉佐里亞縣</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-95.87212</west>
+<north>29.59832</north>
+<east>-95.05606</east>
+<south>28.8214</south>
+</bbox>
+<score>38.7922248840332</score>
+</geoname>
+</geonames>

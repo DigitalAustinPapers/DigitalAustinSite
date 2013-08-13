@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Havā</toponymName>
+<name>Havā</name>
+<lat>38.9124</lat>
+<lng>47.4522</lng>
+<geonameId>131658</geonameId>
+<countryCode>IR</countryCode>
+<countryName>Iran</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Hava,Havay,Havā,Havāy,Hovay,Hovāy,hwa,هوا</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="01">33</adminCode1>
+<adminName1>East Azarbaijan</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="fa">هوا</alternateName>
+<timezone dstOffset="4.5" gmtOffset="3.5">Asia/Tehran</timezone>
+<bbox>
+<west>47.44064</west>
+<north>38.92139</north>
+<east>47.46376</east>
+<south>38.90341</south>
+</bbox>
+<score>53.05943298339844</score>
+</geoname>
+<geoname>
+<toponymName>Hava</toponymName>
+<name>Hava</name>
+<lat>-14.72492</lat>
+<lng>17.82617</lng>
+<geonameId>7909000</geonameId>
+<countryCode>AO</countryCode>
+<countryName>Angola</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="CCU">04</adminCode1>
+<adminName1>Cuando Cubango</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="1.0">Africa/Luanda</timezone>
+<score>42.87849426269531</score>
+</geoname>
+<geoname>
+<toponymName>Ilava</toponymName>
+<name>Ilava</name>
+<lat>48.99769</lat>
+<lng>18.2353</lng>
+<geonameId>3059796</geonameId>
+<countryCode>SK</countryCode>
+<countryName>Slovakia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>5411</population>
+<alternateNames>Hava,Ilava,Illava,Илава</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="NI">04</adminCode1>
+<adminName1>Nitriansky</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="cs">Ilava</alternateName>
+<alternateName lang="de">Ilava</alternateName>
+<alternateName lang="en">Ilava</alternateName>
+<alternateName lang="hu">Illava</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ilava</alternateName>
+<alternateName lang="ro">Ilava</alternateName>
+<alternateName lang="ru">Илава</alternateName>
+<alternateName lang="sk">Ilava</alternateName>
+<alternateName lang="unlc">ILV</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Bratislava</timezone>
+<bbox>
+<west>18.22159</west>
+<north>49.00668</north>
+<east>18.24901</east>
+<south>48.98869</south>
+</bbox>
+<score>30.31967544555664</score>
+</geoname>
+<geoname>
+<toponymName>Naẖal H̱awwa</toponymName>
+<name>Naẖal H̱awwa</name>
+<lat>30.72424</lat>
+<lng>34.90059</lng>
+<geonameId>294832</geonameId>
+<countryCode>IL</countryCode>
+<countryName>Israel</countryName>
+<fcl>H</fcl>
+<fcode>WAD</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>wadi</fcodeName>
+<population/>
+<alternateNames>Hava,Nahal Havva,Nahal Hawwa,Naẖal H̱avva,Naẖal H̱awwa,Wadi el Hawa,nhl hwh,נחל חוה,Ḥava</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="D">01</adminCode1>
+<adminName1>Southern District</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="he">Naẖal H̱avva</alternateName>
+<timezone dstOffset="3.0" gmtOffset="2.0">Asia/Jerusalem</timezone>
+<score>21.439247131347656</score>
+</geoname>
+<geoname>
+<toponymName>Hava İstasyonu</toponymName>
+<name>Hava İstasyonu</name>
+<lat>36.57278</lat>
+<lng>36.15556</lng>
+<geonameId>437772</geonameId>
+<countryCode>TR</countryCode>
+<countryName>Turkey</countryName>
+<fcl>S</fcl>
+<fcode>RSTN</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>railroad station</fcodeName>
+<population/>
+<alternateNames>Hava,Hava Istasyonu,Hava İstasyonu</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="31">31</adminCode1>
+<adminName1>Hatay</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="3.0" gmtOffset="2.0">Europe/Istanbul</timezone>
+<score>13.26485824584961</score>
+</geoname>
+</geonames>

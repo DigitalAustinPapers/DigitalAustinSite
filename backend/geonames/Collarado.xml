@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Collarada</toponymName>
+<name>Collarada</name>
+<lat>42.71372</lat>
+<lng>-0.4719</lng>
+<geonameId>3124790</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>T</fcl>
+<fcode>PK</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>peak</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>2886</elevation>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="AR">52</adminCode1>
+<adminName1>Aragon</adminName1>
+<adminCode2>HU</adminCode2>
+<adminName2>Huesca</adminName2>
+<adminCode3>22199</adminCode3>
+<adminName3>Sabiñánigo</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Collarada</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Madrid</timezone>
+<score>68.978759765625</score>
+</geoname>
+</geonames>

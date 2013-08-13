@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>41</totalResultsCount>
+<geoname>
+<toponymName>Patterson</toponymName>
+<name>Patterson</name>
+<lat>37.4716</lat>
+<lng>-121.12966</lng>
+<geonameId>5381515</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>20413</population>
+<alternateNames/>
+<elevation>31</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>099</adminCode2>
+<adminName2>Stanislaus County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Patterson%2C_California</alternateName>
+<alternateName lang="post">95363</alternateName>
+<alternateName lang="unlc">PCQ</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-121.15302</west>
+<north>37.49014</north>
+<east>-121.10629</east>
+<south>37.45306</south>
+</bbox>
+<score>55.81877136230469</score>
+</geoname>
+<geoname>
+<toponymName>Patterson</toponymName>
+<name>Patterson</name>
+<lat>31.38744</lat>
+<lng>-82.14012</lng>
+<geonameId>4048094</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>730</population>
+<alternateNames/>
+<elevation>32</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">GA</adminCode1>
+<adminName1>Georgia</adminName1>
+<adminCode2>229</adminCode2>
+<adminName2>Pierce County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Patterson%2C_Georgia</alternateName>
+<alternateName lang="post">31557</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-82.14117</west>
+<north>31.38834</north>
+<east>-82.13907</east>
+<south>31.38654</south>
+</bbox>
+<score>47.844661712646484</score>
+</geoname>
+<geoname>
+<toponymName>Patterson</toponymName>
+<name>Patterson</name>
+<lat>35.25675</lat>
+<lng>-91.23513</lng>
+<geonameId>4125599</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>452</population>
+<alternateNames/>
+<elevation>61</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">AR</adminCode1>
+<adminName1>Arkansas</adminName1>
+<adminCode2>147</adminCode2>
+<adminName2>Woodruff County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Patterson%2C_Arkansas</alternateName>
+<alternateName lang="post">72123</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-91.23623</west>
+<north>35.25765</north>
+<east>-91.23402</east>
+<south>35.25585</south>
+</bbox>
+<score>47.844661712646484</score>
+</geoname>
+<geoname>
+<toponymName>Patterson</toponymName>
+<name>Patterson</name>
+<lat>37.18838</lat>
+<lng>-90.55067</lng>
+<geonameId>4402610</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>132</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>223</adminCode2>
+<adminName2>Wayne County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Patterson%2C_Missouri</alternateName>
+<alternateName lang="post">63956</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.56196</west>
+<north>37.19738</north>
+<east>-90.53938</east>
+<south>37.17939</south>
+</bbox>
+<score>47.844661712646484</score>
+</geoname>
+<geoname>
+<toponymName>Patterson</toponymName>
+<name>Patterson</name>
+<lat>35.9993</lat>
+<lng>-81.56399</lng>
+<geonameId>4484241</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>383</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NC">NC</adminCode1>
+<adminName1>North Carolina</adminName1>
+<adminCode2>027</adminCode2>
+<adminName2>Caldwell County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Patterson%2C_North_Carolina</alternateName>
+<alternateName lang="post">28661</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-81.57511</west>
+<north>36.00829</north>
+<east>-81.55287</east>
+<south>35.9903</south>
+</bbox>
+<score>47.844661712646484</score>
+</geoname>
+<geoname>
+<toponymName>Patterson</toponymName>
+<name>Patterson</name>
+<lat>41.34832</lat>
+<lng>-93.8805</lng>
+<geonameId>4870803</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>130</population>
+<alternateNames/>
+<elevation>271</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IA">IA</adminCode1>
+<adminName1>Iowa</adminName1>
+<adminCode2>121</adminCode2>
+<adminName2>Madison County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Patterson%2C_Iowa</alternateName>
+<alternateName lang="post">50218</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-93.8817</west>
+<north>41.34922</north>
+<east>-93.8793</east>
+<south>41.34743</south>
+</bbox>
+<score>47.844661712646484</score>
+</geoname>
+<geoname>
+<toponymName>Patterson</toponymName>
+<name>Patterson</name>
+<lat>41.5137</lat>
+<lng>-73.60624</lng>
+<geonameId>5130689</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>135</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>079</adminCode2>
+<adminName2>Putnam County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Patterson%2C_New_York</alternateName>
+<alternateName lang="post">12563</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-73.61825</west>
+<north>41.5227</north>
+<east>-73.59423</east>
+<south>41.50471</south>
+</bbox>
+<score>47.844661712646484</score>
+</geoname>
+<geoname>
+<toponymName>Patterson</toponymName>
+<name>Patterson</name>
+<lat>40.78061</lat>
+<lng>-83.52576</lng>
+<geonameId>5166225</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>139</population>
+<alternateNames/>
+<elevation>281</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>065</adminCode2>
+<adminName2>Hardin County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Patterson%2C_Ohio</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-83.52695</west>
+<north>40.78151</north>
+<east>-83.52457</east>
+<south>40.77971</south>
+</bbox>
+<score>47.844661712646484</score>
+</geoname>
+<geoname>
+<toponymName>Patterson</toponymName>
+<name>Patterson</name>
+<lat>44.52353</lat>
+<lng>-113.71226</lng>
+<geonameId>5603373</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1839</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ID">ID</adminCode1>
+<adminName1>Idaho</adminName1>
+<adminCode2>059</adminCode2>
+<adminName2>Lemhi County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Patterson%2C_Idaho</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Boise</timezone>
+<bbox>
+<west>-113.72488</west>
+<north>44.53253</north>
+<east>-113.69965</east>
+<south>44.51454</south>
+</bbox>
+<score>47.844661712646484</score>
+</geoname>
+<geoname>
+<toponymName>Patterson</toponymName>
+<name>Patterson</name>
+<lat>29.69326</lat>
+<lng>-91.30205</lng>
+<geonameId>4336646</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>6112</population>
+<alternateNames>PTN</alternateNames>
+<elevation>3</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>101</adminCode2>
+<adminName2>Saint Mary Parish</adminName2>
+<alternateName lang="iata">PTN</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Patterson%2C_Louisiana</alternateName>
+<alternateName lang="post">70392</alternateName>
+<alternateName lang="unlc">ZPA</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-91.324</west>
+<north>29.71074</north>
+<east>-91.29178</east>
+<south>29.67373</south>
+</bbox>
+<score>39.87055206298828</score>
+</geoname>
+</geonames>

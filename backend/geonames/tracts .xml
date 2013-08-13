@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Trants</toponymName>
+<name>Trants</name>
+<lat>17.38333</lat>
+<lng>-62.85</lng>
+<geonameId>3575116</geonameId>
+<countryCode>KN</countryCode>
+<countryName>Saint Kitts and Nevis</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Trant,Trants</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/St_Kitts</timezone>
+<bbox>
+<west>-62.85942</west>
+<north>17.39233</north>
+<east>-62.84058</east>
+<south>17.37434</south>
+</bbox>
+<score>56.320953369140625</score>
+</geoname>
+</geonames>

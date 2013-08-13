@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>37</totalResultsCount>
+<geoname>
+<toponymName>Wells</toponymName>
+<name>Wells</name>
+<lat>41.10833</lat>
+<lng>-114.96574</lng>
+<geonameId>5709967</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1292</population>
+<alternateNames>LWL,Wells</alternateNames>
+<elevation>1716</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NV">NV</adminCode1>
+<adminName1>Nevada</adminName1>
+<adminCode2>007</adminCode2>
+<adminName2>Elko County</adminName2>
+<alternateName lang="en">Wells</alternateName>
+<alternateName lang="iata">LWL</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wells%2C_Nevada</alternateName>
+<alternateName lang="post">89835</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-114.97171</west>
+<north>41.11283</north>
+<east>-114.95978</east>
+<south>41.10383</south>
+</bbox>
+<score>66.57005310058594</score>
+</geoname>
+<geoname>
+<toponymName>Wells</toponymName>
+<name>Wells</name>
+<lat>33.59789</lat>
+<lng>-88.39448</lng>
+<geonameId>4450546</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>61</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MS">MS</adminCode1>
+<adminName1>Mississippi</adminName1>
+<adminCode2>087</adminCode2>
+<adminName2>Lowndes County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wells%2C_Mississippi</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-88.40528</west>
+<north>33.60689</north>
+<east>-88.38369</east>
+<south>33.5889</south>
+</bbox>
+<score>56.4865608215332</score>
+</geoname>
+<geoname>
+<toponymName>Wells</toponymName>
+<name>Wells</name>
+<lat>33.37155</lat>
+<lng>-80.48065</lng>
+<geonameId>4600447</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>31</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SC">SC</adminCode1>
+<adminName1>South Carolina</adminName1>
+<adminCode2>075</adminCode2>
+<adminName2>Orangeburg County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wells%2C_South_Carolina</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-80.49142</west>
+<north>33.38054</north>
+<east>-80.46988</east>
+<south>33.36256</south>
+</bbox>
+<score>56.4865608215332</score>
+</geoname>
+<geoname>
+<toponymName>Wells</toponymName>
+<name>Wells</name>
+<lat>31.48851</lat>
+<lng>-94.93993</lng>
+<geonameId>4740579</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>790</population>
+<alternateNames/>
+<elevation>99</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>073</adminCode2>
+<adminName2>Cherokee County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wells%2C_Texas</alternateName>
+<alternateName lang="post">75976</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-94.94099</west>
+<north>31.48941</north>
+<east>-94.93888</east>
+<south>31.48761</south>
+</bbox>
+<score>56.4865608215332</score>
+</geoname>
+<geoname>
+<toponymName>Wells</toponymName>
+<name>Wells</name>
+<lat>40.73226</lat>
+<lng>-86.1111</lng>
+<geonameId>4928007</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>220</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IN">IN</adminCode1>
+<adminName1>Indiana</adminName1>
+<adminCode2>103</adminCode2>
+<adminName2>Miami County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wells%2C_Indiana</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Indiana/Indianapolis</timezone>
+<bbox>
+<west>-86.12297</west>
+<north>40.74126</north>
+<east>-86.09923</east>
+<south>40.72327</south>
+</bbox>
+<score>56.4865608215332</score>
+</geoname>
+<geoname>
+<toponymName>Wells</toponymName>
+<name>Wells</name>
+<lat>43.32203</lat>
+<lng>-70.58089</lng>
+<geonameId>4982390</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>20</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ME">ME</adminCode1>
+<adminName1>Maine</adminName1>
+<adminCode2>031</adminCode2>
+<adminName2>York County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wells%2C_Maine</alternateName>
+<alternateName lang="post">04090</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-70.59325</west>
+<north>43.33102</north>
+<east>-70.56852</east>
+<south>43.31304</south>
+</bbox>
+<score>56.4865608215332</score>
+</geoname>
+<geoname>
+<toponymName>Wells</toponymName>
+<name>Wells</name>
+<lat>43.74607</lat>
+<lng>-93.72884</lng>
+<geonameId>5052239</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2343</population>
+<alternateNames/>
+<elevation>353</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MN">MN</adminCode1>
+<adminName1>Minnesota</adminName1>
+<adminCode2>043</adminCode2>
+<adminName2>Faribault County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wells%2C_Minnesota</alternateName>
+<alternateName lang="post">56097</alternateName>
+<alternateName lang="unlc">WS7</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-93.73506</west>
+<north>43.75056</north>
+<east>-93.72261</east>
+<south>43.74157</south>
+</bbox>
+<score>56.4865608215332</score>
+</geoname>
+<geoname>
+<toponymName>Wells</toponymName>
+<name>Wells</name>
+<lat>43.3959</lat>
+<lng>-74.28958</lng>
+<geonameId>5143569</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>308</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>041</adminCode2>
+<adminName2>Hamilton County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wells%2C_New_York</alternateName>
+<alternateName lang="post">12190</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-74.30196</west>
+<north>43.4049</north>
+<east>-74.2772</east>
+<south>43.38691</south>
+</bbox>
+<score>56.4865608215332</score>
+</geoname>
+<geoname>
+<toponymName>Wells</toponymName>
+<name>Wells</name>
+<lat>43.41729</lat>
+<lng>-73.20427</lng>
+<geonameId>5242610</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>397</population>
+<alternateNames/>
+<elevation>162</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VT">VT</adminCode1>
+<adminName1>Vermont</adminName1>
+<adminCode2>021</adminCode2>
+<adminName2>Rutland County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wells%2C_Vermont</alternateName>
+<alternateName lang="post">05774</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-73.20551</west>
+<north>43.41819</north>
+<east>-73.20304</east>
+<south>43.41639</south>
+</bbox>
+<score>56.4865608215332</score>
+</geoname>
+<geoname>
+<toponymName>Wells</toponymName>
+<name>Wells</name>
+<lat>44.09555</lat>
+<lng>-88.04343</lng>
+<geonameId>5278333</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>256</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WI">WI</adminCode1>
+<adminName1>Wisconsin</adminName1>
+<adminCode2>071</adminCode2>
+<adminName2>Manitowoc County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wells%2C_Manitowoc_County%2C_Wisconsin</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-88.05596</west>
+<north>44.10454</north>
+<east>-88.03091</east>
+<south>44.08655</south>
+</bbox>
+<score>56.4865608215332</score>
+</geoname>
+</geonames>

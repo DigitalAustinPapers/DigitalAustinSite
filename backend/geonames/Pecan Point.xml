@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>66</totalResultsCount>
+<geoname>
+<toponymName>Pecan Point</toponymName>
+<name>Pecan Point</name>
+<lat>35.47758</lat>
+<lng>-90.03926</lng>
+<geonameId>4125734</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>72</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">AR</adminCode1>
+<adminName1>Arkansas</adminName1>
+<adminCode2>093</adminCode2>
+<adminName2>Mississippi County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Pecan_Point%2C_Arkansas</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.0503</west>
+<north>35.48658</north>
+<east>-90.02821</east>
+<south>35.46859</south>
+</bbox>
+<score>64.90165710449219</score>
+</geoname>
+<geoname>
+<toponymName>Pecan Point</toponymName>
+<name>Pecan Point</name>
+<lat>33.81984</lat>
+<lng>-90.21564</lng>
+<geonameId>4440633</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>CAPE</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>cape</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>38</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MS">MS</adminCode1>
+<adminName1>Mississippi</adminName1>
+<adminCode2>135</adminCode2>
+<adminName2>Tallahatchie County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>43.26776885986328</score>
+</geoname>
+<geoname>
+<toponymName>Pelican Point</toponymName>
+<name>Pelican Point</name>
+<lat>-34.78333</lat>
+<lng>138.48333</lng>
+<geonameId>2063626</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>T</fcl>
+<fcode>PT</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>point</fcodeName>
+<population/>
+<alternateNames>Pelican Point</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="SA">05</adminCode1>
+<adminName1>South Australia</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Pelican_Point%2C_Adelaide</alternateName>
+<timezone dstOffset="9.5" gmtOffset="10.5">Australia/Adelaide</timezone>
+<score>4.8453264236450195</score>
+</geoname>
+<geoname>
+<toponymName>Petani Point</toponymName>
+<name>Petani Point</name>
+<lat>-8.30469</lat>
+<lng>157.54837</lng>
+<geonameId>2104351</geonameId>
+<countryCode>SB</countryCode>
+<countryName>Solomon Islands</countryName>
+<fcl>T</fcl>
+<fcode>PT</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>point</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="11.0" gmtOffset="11.0">Pacific/Guadalcanal</timezone>
+<score>4.137210845947266</score>
+</geoname>
+<geoname>
+<toponymName>Pejuan Point</toponymName>
+<name>Pejuan Point</name>
+<lat>26.62452</lat>
+<lng>-82.21871</lng>
+<geonameId>4168091</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>CAPE</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>cape</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>0</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="FL">FL</adminCode1>
+<adminName1>Florida</adminName1>
+<adminCode2>071</adminCode2>
+<adminName2>Lee County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>4.137210845947266</score>
+</geoname>
+<geoname>
+<toponymName>Peden Point</toponymName>
+<name>Peden Point</name>
+<lat>34.12712</lat>
+<lng>-77.8686</lng>
+<geonameId>4484435</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>CAPE</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>cape</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NC">NC</adminCode1>
+<adminName1>North Carolina</adminName1>
+<adminCode2>129</adminCode2>
+<adminName2>New Hanover County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>4.137210845947266</score>
+</geoname>
+<geoname>
+<toponymName>Peonan Point</toponymName>
+<name>Peonan Point</name>
+<lat>51.48332</lat>
+<lng>-98.95906</lng>
+<geonameId>6101166</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>T</fcl>
+<fcode>PT</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>point</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MB">03</adminCode1>
+<adminName1>Manitoba</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Winnipeg</timezone>
+<score>4.137210845947266</score>
+</geoname>
+<geoname>
+<toponymName>Pepin Point</toponymName>
+<name>Pepin Point</name>
+<lat>54.39944</lat>
+<lng>-130.25342</lng>
+<geonameId>6101178</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>T</fcl>
+<fcode>PT</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>point</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="BC">02</adminCode1>
+<adminName1>British Columbia</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Vancouver</timezone>
+<score>4.137210845947266</score>
+</geoname>
+<geoname>
+<toponymName>Pecks Point</toponymName>
+<name>Pecks Point</name>
+<lat>-38.41667</lat>
+<lng>145.31667</lng>
+<geonameId>2153586</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>T</fcl>
+<fcode>PT</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>point</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="VIC">07</adminCode1>
+<adminName1>Victoria</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="10.0" gmtOffset="11.0">Australia/Melbourne</timezone>
+<score>3.5969839096069336</score>
+</geoname>
+<geoname>
+<toponymName>Pecks Point</toponymName>
+<name>Pecks Point</name>
+<lat>38.70678</lat>
+<lng>-76.163</lng>
+<geonameId>4365148</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>CAPE</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>cape</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>3</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MD">MD</adminCode1>
+<adminName1>Maryland</adminName1>
+<adminCode2>041</adminCode2>
+<adminName2>Talbot County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>3.5969839096069336</score>
+</geoname>
+</geonames>

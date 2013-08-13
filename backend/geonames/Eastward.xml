@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Eastward</toponymName>
+<name>Eastward</name>
+<lat>47.14538</lat>
+<lng>-122.62318</lng>
+<geonameId>5793308</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>5</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WA">WA</adminCode1>
+<adminName1>Washington</adminName1>
+<adminCode2>053</adminCode2>
+<adminName2>Pierce County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-122.63641</west>
+<north>47.15437</north>
+<east>-122.60996</east>
+<south>47.13638</south>
+</bbox>
+<score>43.057884216308594</score>
+</geoname>
+<geoname>
+<toponymName>Leninski Rayon</toponymName>
+<name>Leninski Rayon</name>
+<lat>42.58333</lat>
+<lng>23.45</lng>
+<geonameId>729689</geonameId>
+<countryCode>BG</countryCode>
+<countryName>Bulgaria</countryName>
+<fcl>A</fcl>
+<fcode>ADM2H</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>historical second-order administrative division</fcodeName>
+<population/>
+<alternateNames>East Ward,First Rayon,I-i Rayon,Iztok Ward,Leninski Rajon,Purvi Rayon "Leninski",Pŭrvi Rayon "Leninski",Stalin,Stalin Rayon,Stalin Ward,Stalinski Rayon,Ленински Район</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="22">42</adminCode1>
+<adminName1>Sofia-Capital</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="bg">Ленински Район</alternateName>
+<timezone dstOffset="3.0" gmtOffset="2.0">Europe/Sofia</timezone>
+<score>11.417445182800293</score>
+</geoname>
+</geonames>

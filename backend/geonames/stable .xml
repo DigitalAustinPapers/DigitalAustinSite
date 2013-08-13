@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>20</totalResultsCount>
+<geoname>
+<toponymName>Stable</toponymName>
+<name>Stable</name>
+<lat>-23.13333</lat>
+<lng>30.51667</lng>
+<geonameId>952778</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="LP">09</adminCode1>
+<adminName1>Limpopo</adminName1>
+<adminCode2>DC34</adminCode2>
+<adminName2>Vhembe District Municipality</adminName2>
+<adminCode3>LIM343</adminCode3>
+<adminName3>Thulamela</adminName3>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<bbox>
+<west>30.50689</west>
+<north>-23.12434</north>
+<east>30.52645</east>
+<south>-23.14233</south>
+</bbox>
+<score>39.13228225708008</score>
+</geoname>
+<geoname>
+<toponymName>Stäble</toponymName>
+<name>Stäble</name>
+<lat>48.48276</lat>
+<lng>8.86777</lng>
+<geonameId>2829931</geonameId>
+<countryCode>DE</countryCode>
+<countryName>Germany</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="BW">01</adminCode1>
+<adminName1>Baden-Württemberg Region</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Berlin</timezone>
+<score>32.987239837646484</score>
+</geoname>
+<geoname>
+<toponymName>Stuble</toponymName>
+<name>Stuble</name>
+<lat>54.3133</lat>
+<lng>39.0386</lng>
+<geonameId>487075</geonameId>
+<countryCode>RU</countryCode>
+<countryName>Russia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Stuble,Стубле</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="RYA">62</adminCode1>
+<adminName1>Rjazan</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Stuble</alternateName>
+<alternateName lang="no">Stuble</alternateName>
+<alternateName lang="ru">Стубле</alternateName>
+<timezone dstOffset="4.0" gmtOffset="4.0">Europe/Moscow</timezone>
+<bbox>
+<west>39.02318</west>
+<north>54.32229</north>
+<east>39.05402</east>
+<south>54.30431</south>
+</bbox>
+<score>13.71986198425293</score>
+</geoname>
+<geoname>
+<toponymName>Stabler</toponymName>
+<name>Stabler</name>
+<lat>45.80817</lat>
+<lng>-121.90758</lng>
+<geonameId>5811930</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>290</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WA">WA</adminCode1>
+<adminName1>Washington</adminName1>
+<adminCode2>059</adminCode2>
+<adminName2>Skamania County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stabler%2C_Washington</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-121.92049</west>
+<north>45.81717</north>
+<east>-121.89468</east>
+<south>45.79918</south>
+</bbox>
+<score>10.289896011352539</score>
+</geoname>
+<geoname>
+<toponymName>Staple</toponymName>
+<name>Staple</name>
+<lat>51.26299</lat>
+<lng>1.25476</lng>
+<geonameId>2637029</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UE</adminCode3>
+<adminName3>Dover District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Staple%2C_Kent</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.24038</west>
+<north>51.27198</north>
+<east>1.26913</east>
+<south>51.254</south>
+</bbox>
+<score>8.946267127990723</score>
+</geoname>
+<geoname>
+<toponymName>Staple</toponymName>
+<name>Staple</name>
+<lat>51.26898</lat>
+<lng>1.25348</lng>
+<geonameId>7293750</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UE</adminCode3>
+<adminName3>Dover District</adminName3>
+<adminCode4>29UE023</adminCode4>
+<adminName4>Staple</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.23231</west>
+<north>51.28482</north>
+<east>1.27465</east>
+<south>51.25315</south>
+</bbox>
+<score>7.4552226066589355</score>
+</geoname>
+<geoname>
+<toponymName>Stadle</toponymName>
+<name>Stadle</name>
+<lat>47.11667</lat>
+<lng>10.25</lng>
+<geonameId>2764731</geonameId>
+<countryCode>AT</countryCode>
+<countryName>Austria</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="7">07</adminCode1>
+<adminName1>Tyrol</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Vienna</timezone>
+<bbox>
+<west>10.23678</west>
+<north>47.12566</north>
+<east>10.26322</east>
+<south>47.10767</south>
+</bbox>
+<score>6.859930992126465</score>
+</geoname>
+<geoname>
+<toponymName>Stahle</toponymName>
+<name>Stahle</name>
+<lat>51.83472</lat>
+<lng>9.42919</lng>
+<geonameId>2829673</geonameId>
+<countryCode>DE</countryCode>
+<countryName>Germany</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="NW">07</adminCode1>
+<adminName1>North Rhine-Westphalia</adminName1>
+<adminCode2>057</adminCode2>
+<adminName2>Regierungsbezirk Detmold</adminName2>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Berlin</timezone>
+<bbox>
+<west>9.41463</west>
+<north>51.84371</north>
+<east>9.44375</east>
+<south>51.82572</south>
+</bbox>
+<score>6.859930992126465</score>
+</geoname>
+<geoname>
+<toponymName>Stayle</toponymName>
+<name>Stayle</name>
+<lat>-27.53333</lat>
+<lng>-62.9</lng>
+<geonameId>3835038</geonameId>
+<countryCode>AR</countryCode>
+<countryName>Argentina</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="G">22</adminCode1>
+<adminName1>Santiago del Estero</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Argentina/Cordoba</timezone>
+<bbox>
+<west>-62.91014</west>
+<north>-27.52434</north>
+<east>-62.88986</east>
+<south>-27.54233</south>
+</bbox>
+<score>6.859930992126465</score>
+</geoname>
+<geoname>
+<toponymName>Staple</toponymName>
+<name>Staple</name>
+<lat>50.74907</lat>
+<lng>2.45426</lng>
+<geonameId>2973836</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>631</population>
+<alternateNames>Staple</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="O">B4</adminCode1>
+<adminName1>Nord-Pas-de-Calais</adminName1>
+<adminCode2>59</adminCode2>
+<adminName2>North</adminName2>
+<adminCode3>594</adminCode3>
+<adminName3>Arrondissement de Dunkerque</adminName3>
+<adminCode4>59577</adminCode4>
+<adminName4>Staple</adminName4>
+<alternateName lang="post">59190</alternateName>
+<alternateName lang="unlc">TAP</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>2.45284</west>
+<north>50.74997</north>
+<east>2.45568</east>
+<south>50.74817</south>
+</bbox>
+<score>6.39152193069458</score>
+</geoname>
+</geonames>

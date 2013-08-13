@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>13</totalResultsCount>
+<geoname>
+<toponymName>Missouri Park</toponymName>
+<name>Missouri Park</name>
+<lat>38.53055</lat>
+<lng>-106.07835</lng>
+<geonameId>5431476</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>PLN</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>plain(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>2314</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CO">CO</adminCode1>
+<adminName1>Colorado</adminName1>
+<adminCode2>015</adminCode2>
+<adminName2>Chaffee County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<score>34.242610931396484</score>
+</geoname>
+<geoname>
+<toponymName>Missouri Park</toponymName>
+<name>Missouri Park</name>
+<lat>37.30977</lat>
+<lng>-89.52065</lng>
+<geonameId>4049284</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>L</fcl>
+<fcode>PRK</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>park</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>119</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>031</adminCode2>
+<adminName2>Cape Girardeau County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>27.394088745117188</score>
+</geoname>
+<geoname>
+<toponymName>Missouri Park</toponymName>
+<name>Missouri Park</name>
+<lat>31.77928</lat>
+<lng>-106.45332</lng>
+<geonameId>5526463</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>L</fcl>
+<fcode>PRK</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>park</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1129</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>141</adminCode2>
+<adminName2>El Paso County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<score>27.394088745117188</score>
+</geoname>
+<geoname>
+<toponymName>Missouri Park</toponymName>
+<name>Missouri Park</name>
+<lat>27.969</lat>
+<lng>-82.3725</lng>
+<geonameId>7218774</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>8</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="FL">FL</adminCode1>
+<adminName1>Florida</adminName1>
+<adminCode2>057</adminCode2>
+<adminName2>Hillsborough County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-82.38268</west>
+<north>27.97799</north>
+<east>-82.36232</east>
+<south>27.96001</south>
+</bbox>
+<score>27.394088745117188</score>
+</geoname>
+<geoname>
+<toponymName>Missouri Bar</toponymName>
+<name>Missouri Bar</name>
+<lat>39.48239</lat>
+<lng>-121.14357</lng>
+<geonameId>5373795</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>BAR</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>bar</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>587</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>115</adminCode2>
+<adminName2>Yuba County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>19.317171096801758</score>
+</geoname>
+<geoname>
+<toponymName>Missouri Bar</toponymName>
+<name>Missouri Bar</name>
+<lat>39.34517</lat>
+<lng>-120.88356</lng>
+<geonameId>5373800</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>BAR</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>bar</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>703</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>057</adminCode2>
+<adminName2>Nevada County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>19.317171096801758</score>
+</geoname>
+<geoname>
+<toponymName>Missouri Bar</toponymName>
+<name>Missouri Bar</name>
+<lat>40.00822</lat>
+<lng>-121.20552</lng>
+<geonameId>5568099</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>BAR</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>bar</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>717</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>063</adminCode2>
+<adminName2>Plumas County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>19.317171096801758</score>
+</geoname>
+<geoname>
+<toponymName>Missouri Bar</toponymName>
+<name>Missouri Bar</name>
+<lat>41.24847</lat>
+<lng>-123.30061</lng>
+<geonameId>5568100</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>BAR</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>bar</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>398</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>093</adminCode2>
+<adminName2>Siskiyou County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>19.317171096801758</score>
+</geoname>
+<geoname>
+<toponymName>Missouri Bar</toponymName>
+<name>Missouri Bar</name>
+<lat>42.71011</lat>
+<lng>-123.83203</lng>
+<geonameId>5741082</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>BAR</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>bar</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>115</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OR">OR</adminCode1>
+<adminName1>Oregon</adminName1>
+<adminCode2>015</adminCode2>
+<adminName2>Curry County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<score>19.317171096801758</score>
+</geoname>
+<geoname>
+<toponymName>Missouri Bend</toponymName>
+<name>Missouri Bend</name>
+<lat>30.34825</lat>
+<lng>-91.23761</lng>
+<geonameId>4333589</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STMB</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream bend</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>4</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>033</adminCode2>
+<adminName2>East Baton Rouge Parish</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>8.560652732849121</score>
+</geoname>
+</geonames>

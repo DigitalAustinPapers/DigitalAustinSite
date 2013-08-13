@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Streamlet</toponymName>
+<name>Streamlet</name>
+<lat>-19.66667</lat>
+<lng>32.7</lng>
+<geonameId>880620</geonameId>
+<countryCode>ZW</countryCode>
+<countryName>Zimbabwe</countryName>
+<fcl>S</fcl>
+<fcode>FRM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farm</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Harare</timezone>
+<score>14.012199401855469</score>
+</geoname>
+<geoname>
+<toponymName>Streamlet</toponymName>
+<name>Streamlet</name>
+<lat>-15.36667</lat>
+<lng>145.03332</lng>
+<geonameId>8351982</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>S</fcl>
+<fcode>HMSD</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>homestead</fcodeName>
+<population/>
+<alternateNames>Streamlet</alternateNames>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="QLD">04</adminCode1>
+<adminName1>Queensland</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Streamlet</alternateName>
+<timezone dstOffset="10.0" gmtOffset="10.0">Australia/Brisbane</timezone>
+<score>13.729095458984375</score>
+</geoname>
+</geonames>

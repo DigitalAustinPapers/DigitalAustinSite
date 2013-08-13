@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>6</totalResultsCount>
+<geoname>
+<toponymName>Laborde</toponymName>
+<name>Laborde</name>
+<lat>-33.15319</lat>
+<lng>-62.85661</lng>
+<geonameId>3852480</geonameId>
+<countryCode>AR</countryCode>
+<countryName>Argentina</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>5492</population>
+<alternateNames>Laborde,Las Liebres</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="X">05</adminCode1>
+<adminName1>Córdoba</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Argentina/Cordoba</timezone>
+<bbox>
+<west>-62.86735</west>
+<north>-33.1442</north>
+<east>-62.84587</east>
+<south>-33.16219</south>
+</bbox>
+<score>64.97653198242188</score>
+</geoname>
+<geoname>
+<toponymName>Laborde</toponymName>
+<name>Laborde</name>
+<lat>43.03438</lat>
+<lng>0.30168</lng>
+<geonameId>3010970</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>112</population>
+<alternateNames>Laborde</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="N">B3</adminCode1>
+<adminName1>Midi-Pyrénées</adminName1>
+<adminCode2>65</adminCode2>
+<adminName2>Hautes-Pyrénées</adminName2>
+<adminCode3>652</adminCode3>
+<adminName3>Arrondissement de Bagnères-de-Bigorre</adminName3>
+<adminCode4>65241</adminCode4>
+<adminName4>Laborde</adminName4>
+<alternateName lang="post">65130</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>0.30045</west>
+<north>43.03528</north>
+<east>0.30291</east>
+<south>43.03348</south>
+</bbox>
+<score>51.981224060058594</score>
+</geoname>
+<geoname>
+<toponymName>Laborde</toponymName>
+<name>Laborde</name>
+<lat>41.02534</lat>
+<lng>-78.65197</lng>
+<geonameId>5196662</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>590</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PA">PA</adminCode1>
+<adminName1>Pennsylvania</adminName1>
+<adminCode2>033</adminCode2>
+<adminName2>Clearfield County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-78.6639</west>
+<north>41.03433</north>
+<east>-78.64005</east>
+<south>41.01634</south>
+</bbox>
+<score>42.44248962402344</score>
+</geoname>
+<geoname>
+<toponymName>Laborde</toponymName>
+<name>Laborde</name>
+<lat>43.03111</lat>
+<lng>0.29528</lng>
+<geonameId>6440776</geonameId>
+<countryCode>FR</countryCode>
+<countryName>France</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population>96</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="N">B3</adminCode1>
+<adminName1>Midi-Pyrénées</adminName1>
+<adminCode2>65</adminCode2>
+<adminName2>Hautes-Pyrénées</adminName2>
+<adminCode3>652</adminCode3>
+<adminName3>Arrondissement de Bagnères-de-Bigorre</adminName3>
+<adminCode4>65241</adminCode4>
+<adminName4>Laborde</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Laborde%2C_Hautes-Pyr%C3%A9n%C3%A9es</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Paris</timezone>
+<bbox>
+<west>0.28594</west>
+<north>43.04224</north>
+<east>0.30313</east>
+<south>43.02665</south>
+</bbox>
+<score>42.44248962402344</score>
+</geoname>
+<geoname>
+<toponymName>Laborde</toponymName>
+<name>Laborde</name>
+<lat>22.8</lat>
+<lng>-82.31667</lng>
+<geonameId>3555286</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>S</fcl>
+<fcode>RSTP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>railroad stop</fcodeName>
+<population/>
+<alternateNames>Grua Laborde,Laborde</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1>MA</adminCode1>
+<adminName1>Provincia Mayabeque</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>25.990612030029297</score>
+</geoname>
+<geoname>
+<toponymName>Laborde</toponymName>
+<name>Laborde</name>
+<lat>-39.9</lat>
+<lng>-65.41667</lng>
+<geonameId>3852481</geonameId>
+<countryCode>AR</countryCode>
+<countryName>Argentina</countryName>
+<fcl>S</fcl>
+<fcode>HSE</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>house(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="R">16</adminCode1>
+<adminName1>Río Negro</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Argentina/Salta</timezone>
+<score>13.263278007507324</score>
+</geoname>
+</geonames>

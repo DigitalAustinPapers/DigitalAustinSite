@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>8</totalResultsCount>
+<geoname>
+<toponymName>Inlet</toponymName>
+<name>Inlet</name>
+<lat>44.47839</lat>
+<lng>-74.17689</lng>
+<geonameId>5121947</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>LK</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>lake</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>509</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>033</adminCode2>
+<adminName2>Franklin County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>73.0304183959961</score>
+</geoname>
+<geoname>
+<toponymName>Inlet</toponymName>
+<name>Inlet</name>
+<lat>43.75451</lat>
+<lng>-74.79295</lng>
+<geonameId>5121948</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>533</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>041</adminCode2>
+<adminName2>Hamilton County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Inlet%2C_New_York</alternateName>
+<alternateName lang="post">13360</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-74.8054</west>
+<north>43.7635</north>
+<east>-74.7805</east>
+<south>43.74552</south>
+</bbox>
+<score>62.59749984741211</score>
+</geoname>
+<geoname>
+<toponymName>Inlet</toponymName>
+<name>Inlet</name>
+<lat>42.62724</lat>
+<lng>-88.5851</lng>
+<geonameId>5257448</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>287</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WI">WI</adminCode1>
+<adminName1>Wisconsin</adminName1>
+<adminCode2>127</adminCode2>
+<adminName2>Walworth County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Inlet%2C_Wisconsin</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-88.59733</west>
+<north>42.63623</north>
+<east>-88.57288</east>
+<south>42.61824</south>
+</bbox>
+<score>62.59749984741211</score>
+</geoname>
+<geoname>
+<toponymName>Inlet</toponymName>
+<name>Inlet</name>
+<lat>41.73503</lat>
+<lng>-89.24037</lng>
+<geonameId>4897125</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>233</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>103</adminCode2>
+<adminName2>Lee County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-89.25242</west>
+<north>41.74403</north>
+<east>-89.22832</east>
+<south>41.72604</south>
+</bbox>
+<score>41.731666564941406</score>
+</geoname>
+<geoname>
+<toponymName>Inlet</toponymName>
+<name>Inlet</name>
+<lat>41.65366</lat>
+<lng>-84.18523</lng>
+<geonameId>5158530</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>234</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OH">OH</adminCode1>
+<adminName1>Ohio</adminName1>
+<adminCode2>051</adminCode2>
+<adminName2>Fulton County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-84.19726</west>
+<north>41.66266</north>
+<east>-84.17319</east>
+<south>41.64467</south>
+</bbox>
+<score>41.731666564941406</score>
+</geoname>
+<geoname>
+<toponymName>Inlet</toponymName>
+<name>Inlet</name>
+<lat>45.7843</lat>
+<lng>-75.31011</lng>
+<geonameId>5983315</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="QC">10</adminCode1>
+<adminName1>Quebec</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Montreal</timezone>
+<score>41.731666564941406</score>
+</geoname>
+<geoname>
+<toponymName>Inlet</toponymName>
+<name>Inlet</name>
+<lat>38.48735</lat>
+<lng>-77.94194</lng>
+<geonameId>4765756</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>118</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VA">VA</adminCode1>
+<adminName1>Virginia</adminName1>
+<adminCode2>047</adminCode2>
+<adminName2>Culpeper County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>13.041145324707031</score>
+</geoname>
+<geoname>
+<toponymName>Inlet</toponymName>
+<name>Inlet</name>
+<lat>44.12451</lat>
+<lng>-74.95991</lng>
+<geonameId>5121949</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode/>
+<fclName>spot, building, farm</fclName>
+<fcodeName/>
+<population/>
+<alternateNames/>
+<elevation>483</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>089</adminCode2>
+<adminName2>St. Lawrence County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>13.041145324707031</score>
+</geoname>
+</geonames>

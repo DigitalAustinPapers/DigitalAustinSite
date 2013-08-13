@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>22</totalResultsCount>
+<geoname>
+<toponymName>Cowpen</toponymName>
+<name>Cowpen</name>
+<lat>55.12728</lat>
+<lng>-1.54033</lng>
+<geonameId>2652187</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Cowpen</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM165</adminCode3>
+<adminName3>Blyth</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cowpen</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.55607</west>
+<north>55.13627</north>
+<east>-1.5246</east>
+<south>55.11829</south>
+</bbox>
+<score>72.47189331054688</score>
+</geoname>
+<geoname>
+<toponymName>Cowpen</toponymName>
+<name>Cowpen</name>
+<lat>18.21667</lat>
+<lng>-88.21667</lng>
+<geonameId>3582285</geonameId>
+<countryCode>BZ</countryCode>
+<countryName>Belize</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CZL">03</adminCode1>
+<adminName1>Corozal</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Belize</timezone>
+<bbox>
+<west>-88.22614</west>
+<north>18.22566</north>
+<east>-88.2072</east>
+<south>18.20767</south>
+</bbox>
+<score>39.448699951171875</score>
+</geoname>
+<geoname>
+<toponymName>Cowpen</toponymName>
+<name>Cowpen</name>
+<lat>18.1</lat>
+<lng>-88.43333</lng>
+<geonameId>3582286</geonameId>
+<countryCode>BZ</countryCode>
+<countryName>Belize</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CZL">03</adminCode1>
+<adminName1>Corozal</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Belize</timezone>
+<bbox>
+<west>-88.4428</west>
+<north>18.10899</north>
+<east>-88.42387</east>
+<south>18.09101</south>
+</bbox>
+<score>39.448699951171875</score>
+</geoname>
+<geoname>
+<toponymName>Cowpen</toponymName>
+<name>Cowpen</name>
+<lat>16.56667</lat>
+<lng>-88.53333</lng>
+<geonameId>3582287</geonameId>
+<countryCode>BZ</countryCode>
+<countryName>Belize</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SC">05</adminCode1>
+<adminName1>Stann Creek</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/Belize</timezone>
+<bbox>
+<west>-88.54272</west>
+<north>16.57566</north>
+<east>-88.52395</east>
+<south>16.55767</south>
+</bbox>
+<score>39.448699951171875</score>
+</geoname>
+<geoname>
+<toponymName>Cowpen</toponymName>
+<name>Cowpen</name>
+<lat>39.40511</lat>
+<lng>-76.55941</lng>
+<geonameId>4352423</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>96</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MD">MD</adminCode1>
+<adminName1>Maryland</adminName1>
+<adminCode2>005</adminCode2>
+<adminName2>Baltimore County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-76.57105</west>
+<north>39.4141</north>
+<east>-76.54777</east>
+<south>39.39611</south>
+</bbox>
+<score>39.448699951171875</score>
+</geoname>
+<geoname>
+<toponymName>Cowpens</toponymName>
+<name>Cowpens</name>
+<lat>35.01679</lat>
+<lng>-81.80399</lng>
+<geonameId>4575815</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2162</population>
+<alternateNames/>
+<elevation>262</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SC">SC</adminCode1>
+<adminName1>South Carolina</adminName1>
+<adminCode2>083</adminCode2>
+<adminName2>Spartanburg County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cowpens%2C_South_Carolina</alternateName>
+<alternateName lang="post">29330</alternateName>
+<alternateName lang="unlc">CPQ</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-81.80948</west>
+<north>35.02129</north>
+<east>-81.7985</east>
+<south>35.01229</south>
+</bbox>
+<score>10.78463077545166</score>
+</geoname>
+<geoname>
+<toponymName>Corpen</toponymName>
+<name>Corpen</name>
+<lat>-49.58333</lat>
+<lng>-69.5</lng>
+<geonameId>3860159</geonameId>
+<countryCode>AR</countryCode>
+<countryName>Argentina</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Corpen,Corpen Aike</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="Z">20</adminCode1>
+<adminName1>Santa Cruz</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-3.0" gmtOffset="-3.0">America/Argentina/Rio_Gallegos</timezone>
+<bbox>
+<west>-69.51387</west>
+<north>-49.57434</north>
+<east>-69.48613</east>
+<south>-49.59233</south>
+</bbox>
+<score>9.261809349060059</score>
+</geoname>
+<geoname>
+<toponymName>Cowden</toponymName>
+<name>Cowden</name>
+<lat>51.14481</lat>
+<lng>0.09347</lng>
+<geonameId>2652208</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E2</adminCode2>
+<adminName2>East Sussex</adminName2>
+<adminCode3>21UH</adminCode3>
+<adminName3>Wealden District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cowden</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.07913</west>
+<north>51.15381</north>
+<east>0.10781</east>
+<south>51.13582</south>
+</bbox>
+<score>9.208732604980469</score>
+</geoname>
+<geoname>
+<toponymName>Cowden</toponymName>
+<name>Cowden</name>
+<lat>39.24838</lat>
+<lng>-88.86229</lng>
+<geonameId>4236486</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>629</population>
+<alternateNames/>
+<elevation>182</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>173</adminCode2>
+<adminName2>Shelby County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cowden%2C_Illinois</alternateName>
+<alternateName lang="post">62422</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-88.86664</west>
+<north>39.25591</north>
+<east>-88.8522</east>
+<south>39.24368</south>
+</bbox>
+<score>9.208732604980469</score>
+</geoname>
+<geoname>
+<toponymName>Cowden</toponymName>
+<name>Cowden</name>
+<lat>51.15593</lat>
+<lng>0.09361</lng>
+<geonameId>7290745</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>7.673943519592285</score>
+</geoname>
+</geonames>

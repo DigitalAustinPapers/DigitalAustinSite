@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>28</totalResultsCount>
+<geoname>
+<toponymName>Garrison</toponymName>
+<name>Garrison</name>
+<lat>47.65222</lat>
+<lng>-101.41572</lng>
+<geonameId>5689239</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1453</population>
+<alternateNames/>
+<elevation>588</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ND">ND</adminCode1>
+<adminName1>North Dakota</adminName1>
+<adminCode2>055</adminCode2>
+<adminName2>McLean County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Garrison%2C_North_Dakota</alternateName>
+<alternateName lang="post">58540</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-101.44104</west>
+<north>47.66122</north>
+<east>-101.40186</east>
+<south>47.64463</south>
+</bbox>
+<score>67.23885345458984</score>
+</geoname>
+<geoname>
+<toponymName>Garrison</toponymName>
+<name>Garrison</name>
+<lat>39.40594</lat>
+<lng>-76.76053</lng>
+<geonameId>4355958</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>8823</population>
+<alternateNames/>
+<elevation>135</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MD">MD</adminCode1>
+<adminName1>Maryland</adminName1>
+<adminCode2>005</adminCode2>
+<adminName2>Baltimore County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Garrison%2C_Maryland</alternateName>
+<alternateName lang="post">21055</alternateName>
+<alternateName lang="unlc">GAX</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-76.77593</west>
+<north>39.41784</north>
+<east>-76.74513</east>
+<south>39.39404</south>
+</bbox>
+<score>57.633304595947266</score>
+</geoname>
+<geoname>
+<toponymName>Garrison</toponymName>
+<name>Garrison</name>
+<lat>36.83895</lat>
+<lng>-93.01962</lng>
+<geonameId>4387671</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>271</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>043</adminCode2>
+<adminName2>Christian County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Garrison%2C_Missouri</alternateName>
+<alternateName lang="post">65657</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-93.03086</west>
+<north>36.84794</north>
+<east>-93.00838</east>
+<south>36.82995</south>
+</bbox>
+<score>57.633304595947266</score>
+</geoname>
+<geoname>
+<toponymName>Garrison</toponymName>
+<name>Garrison</name>
+<lat>31.82434</lat>
+<lng>-94.49104</lng>
+<geonameId>4693065</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>895</population>
+<alternateNames/>
+<elevation>119</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>347</adminCode2>
+<adminName2>Nacogdoches County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Garrison%2C_Texas</alternateName>
+<alternateName lang="post">75946</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-94.4921</west>
+<north>31.82524</north>
+<east>-94.48998</east>
+<south>31.82344</south>
+</bbox>
+<score>57.633304595947266</score>
+</geoname>
+<geoname>
+<toponymName>Garrison</toponymName>
+<name>Garrison</name>
+<lat>37.99622</lat>
+<lng>-81.50678</lng>
+<geonameId>4806771</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>321</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WV">WV</adminCode1>
+<adminName1>West Virginia</adminName1>
+<adminCode2>005</adminCode2>
+<adminName2>Boone County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Garrison%2C_West_Virginia</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-81.51819</west>
+<north>38.00521</north>
+<east>-81.49536</east>
+<south>37.98722</south>
+</bbox>
+<score>57.633304595947266</score>
+</geoname>
+<geoname>
+<toponymName>Garrison</toponymName>
+<name>Garrison</name>
+<lat>42.14416</lat>
+<lng>-92.14379</lng>
+<geonameId>4858139</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>371</population>
+<alternateNames/>
+<elevation>268</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IA">IA</adminCode1>
+<adminName1>Iowa</adminName1>
+<adminCode2>011</adminCode2>
+<adminName2>Benton County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Garrison%2C_Iowa</alternateName>
+<alternateName lang="post">52229</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.14501</west>
+<north>42.14506</north>
+<east>-92.14258</east>
+<south>42.14326</south>
+</bbox>
+<score>57.633304595947266</score>
+</geoname>
+<geoname>
+<toponymName>Garrison</toponymName>
+<name>Garrison</name>
+<lat>41.17723</lat>
+<lng>-97.16726</lng>
+<geonameId>5068915</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>54</population>
+<alternateNames/>
+<elevation>488</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NE">NE</adminCode1>
+<adminName1>Nebraska</adminName1>
+<adminCode2>023</adminCode2>
+<adminName2>Butler County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Garrison%2C_Nebraska</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-97.16846</west>
+<north>41.17813</north>
+<east>-97.16607</east>
+<south>41.17634</south>
+</bbox>
+<score>57.633304595947266</score>
+</geoname>
+<geoname>
+<toponymName>Garrison</toponymName>
+<name>Garrison</name>
+<lat>38.93439</lat>
+<lng>-114.03304</lng>
+<geonameId>5539531</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1608</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="UT">UT</adminCode1>
+<adminName1>Utah</adminName1>
+<adminCode2>027</adminCode2>
+<adminName2>Millard County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Garrison%2C_Utah</alternateName>
+<alternateName lang="post">84728</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<bbox>
+<west>-114.04461</west>
+<north>38.94339</north>
+<east>-114.02148</east>
+<south>38.9254</south>
+</bbox>
+<score>57.633304595947266</score>
+</geoname>
+<geoname>
+<toponymName>Garrison</toponymName>
+<name>Garrison</name>
+<lat>46.52326</lat>
+<lng>-112.81171</lng>
+<geonameId>5653816</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>96</population>
+<alternateNames/>
+<elevation>1333</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MT">MT</adminCode1>
+<adminName1>Montana</adminName1>
+<adminCode2>077</adminCode2>
+<adminName2>Powell County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Garrison%2C_Montana</alternateName>
+<alternateName lang="post">59731</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<bbox>
+<west>-112.81302</west>
+<north>46.52416</north>
+<east>-112.8104</east>
+<south>46.52236</south>
+</bbox>
+<score>57.633304595947266</score>
+</geoname>
+<geoname>
+<toponymName>Garrison</toponymName>
+<name>Garrison</name>
+<lat>41.38398</lat>
+<lng>-73.94569</lng>
+<geonameId>5118289</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>16</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>079</adminCode2>
+<adminName2>Putnam County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Garrison%2C_New_York</alternateName>
+<alternateName lang="post">10524</alternateName>
+<alternateName lang="unlc">GA7</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-73.95768</west>
+<north>41.39298</north>
+<east>-73.93371</east>
+<south>41.37499</south>
+</bbox>
+<score>48.02775573730469</score>
+</geoname>
+</geonames>

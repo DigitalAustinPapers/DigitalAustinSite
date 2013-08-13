@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>12</totalResultsCount>
+<geoname>
+<toponymName>Ball</toponymName>
+<name>Ball</name>
+<lat>31.41546</lat>
+<lng>-92.4118</lng>
+<geonameId>4315350</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>4000</population>
+<alternateNames/>
+<elevation>49</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>079</adminCode2>
+<adminName2>Rapides Parish</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ball%2C_Louisiana</alternateName>
+<alternateName lang="post">71405</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.42093</west>
+<north>31.42325</north>
+<east>-92.40268</east>
+<south>31.40767</south>
+</bbox>
+<score>71.21026611328125</score>
+</geoname>
+<geoname>
+<toponymName>Ball</toponymName>
+<name>Ball</name>
+<lat>40.38472</lat>
+<lng>20.11028</lng>
+<geonameId>783697</geonameId>
+<countryCode>AL</countryCode>
+<countryName>Albania</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Bali,Ball,Balli</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="05">45</adminCode1>
+<adminName1>Gjirokastër</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Tirane</timezone>
+<bbox>
+<west>20.09847</west>
+<north>40.39372</north>
+<east>20.12209</east>
+<south>40.37573</south>
+</bbox>
+<score>49.8368034362793</score>
+</geoname>
+<geoname>
+<toponymName>Ball</toponymName>
+<name>Ball</name>
+<lat>40.635</lat>
+<lng>20.07444</lng>
+<geonameId>865106</geonameId>
+<countryCode>AL</countryCode>
+<countryName>Albania</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Ball,Balli</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="01">40</adminCode1>
+<adminName1>Berat</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Tirane</timezone>
+<bbox>
+<west>20.06259</west>
+<north>40.64399</north>
+<east>20.0863</east>
+<south>40.62601</south>
+</bbox>
+<score>49.8368034362793</score>
+</geoname>
+<geoname>
+<toponymName>Ball</toponymName>
+<name>Ball</name>
+<lat>36.68056</lat>
+<lng>40.85278</lng>
+<geonameId>420818</geonameId>
+<countryCode>SY</countryCode>
+<countryName>Syria</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames>Ball,bl,بل</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="HA">01</adminCode1>
+<adminName1>Al-Hasakah</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ar">بل</alternateName>
+<timezone dstOffset="3.0" gmtOffset="2.0">Asia/Damascus</timezone>
+<score>43.60720443725586</score>
+</geoname>
+<geoname>
+<toponymName>Ball</toponymName>
+<name>Ball</name>
+<lat>25.38228</lat>
+<lng>63.8973</lng>
+<geonameId>1109726</geonameId>
+<countryCode>PK</countryCode>
+<countryName>Pakistan</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="BA">02</adminCode1>
+<adminName1>Balochistān</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="5.0" gmtOffset="5.0">Asia/Karachi</timezone>
+<bbox>
+<west>63.88734</west>
+<north>25.39128</north>
+<east>63.90725</east>
+<south>25.37329</south>
+</bbox>
+<score>40.69158172607422</score>
+</geoname>
+<geoname>
+<toponymName>Ball</toponymName>
+<name>Ball</name>
+<lat>52.81667</lat>
+<lng>-3.03333</lng>
+<geonameId>2656571</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L6</adminCode2>
+<adminName2>Shropshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.04822</west>
+<north>52.82566</north>
+<east>-3.01845</east>
+<south>52.80767</south>
+</bbox>
+<score>40.69158172607422</score>
+</geoname>
+<geoname>
+<toponymName>Ball</toponymName>
+<name>Ball</name>
+<lat>50.98677</lat>
+<lng>7.1912</lng>
+<geonameId>2953070</geonameId>
+<countryCode>DE</countryCode>
+<countryName>Germany</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="NW">07</adminCode1>
+<adminName1>North Rhine-Westphalia</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Berlin</timezone>
+<bbox>
+<west>7.17691</west>
+<north>50.99576</north>
+<east>7.20549</east>
+<south>50.97777</south>
+</bbox>
+<score>40.69158172607422</score>
+</geoname>
+<geoname>
+<toponymName>Ball</toponymName>
+<name>Ball</name>
+<lat>35.52009</lat>
+<lng>-94.26688</lng>
+<geonameId>4100201</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>148</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">AR</adminCode1>
+<adminName1>Arkansas</adminName1>
+<adminCode2>033</adminCode2>
+<adminName2>Crawford County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-94.27793</west>
+<north>35.52908</north>
+<east>-94.25583</east>
+<south>35.51109</south>
+</bbox>
+<score>40.69158172607422</score>
+</geoname>
+<geoname>
+<toponymName>Ball</toponymName>
+<name>Ball</name>
+<lat>51.06676</lat>
+<lng>-94.25046</lng>
+<geonameId>5892199</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>L</fcl>
+<fcode>AREA</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>area</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ON">08</adminCode1>
+<adminName1>Ontario</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Winnipeg</timezone>
+<score>40.69158172607422</score>
+</geoname>
+<geoname>
+<toponymName>Ball</toponymName>
+<name>Ball</name>
+<lat>27.9239</lat>
+<lng>-82.5193</lng>
+<geonameId>7216262</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>2</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="FL">FL</adminCode1>
+<adminName1>Florida</adminName1>
+<adminCode2>057</adminCode2>
+<adminName2>Hillsborough County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-82.52948</west>
+<north>27.93289</north>
+<east>-82.50912</east>
+<south>27.91491</south>
+</bbox>
+<score>40.69158172607422</score>
+</geoname>
+</geonames>

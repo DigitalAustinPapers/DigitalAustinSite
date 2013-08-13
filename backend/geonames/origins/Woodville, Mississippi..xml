@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>7</totalResultsCount>
+<geoname>
+<toponymName>Woodville</toponymName>
+<name>Woodville</name>
+<lat>31.10462</lat>
+<lng>-91.29956</lng>
+<geonameId>4451678</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>1096</population>
+<alternateNames/>
+<elevation>123</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MS">MS</adminCode1>
+<adminName1>Mississippi</adminName1>
+<adminCode2>157</adminCode2>
+<adminName2>Wilkinson County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Woodville%2C_Mississippi</alternateName>
+<alternateName lang="post">39669</alternateName>
+<alternateName lang="unlc">WOE</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-91.30061</west>
+<north>31.10552</north>
+<east>-91.2985</east>
+<south>31.10372</south>
+</bbox>
+<score>10.502891540527344</score>
+</geoname>
+<geoname>
+<toponymName>Town of Woodville</toponymName>
+<name>Town of Woodville</name>
+<lat>31.10289</lat>
+<lng>-91.29926</lng>
+<geonameId>7172135</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>administrative division</fcodeName>
+<population>1096</population>
+<alternateNames/>
+<elevation>122</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MS">MS</adminCode1>
+<adminName1>Mississippi</adminName1>
+<adminCode2>157</adminCode2>
+<adminName2>Wilkinson County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-91.30795</west>
+<north>31.11049</north>
+<east>-91.29062</east>
+<south>31.09538</south>
+</bbox>
+<score>10.502891540527344</score>
+</geoname>
+<geoname>
+<toponymName>Woodville Heights</toponymName>
+<name>Woodville Heights</name>
+<lat>32.26126</lat>
+<lng>-90.26148</lng>
+<geonameId>4451680</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>96</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MS">MS</adminCode1>
+<adminName1>Mississippi</adminName1>
+<adminCode2>049</adminCode2>
+<adminName2>Hinds County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.26573</west>
+<north>32.26486</north>
+<east>-90.25722</east>
+<south>32.25766</south>
+</bbox>
+<score>3.938584327697754</score>
+</geoname>
+<geoname>
+<toponymName>Woodville Attendance Center</toponymName>
+<name>Woodville Attendance Center</name>
+<lat>31.09462</lat>
+<lng>-91.29817</lng>
+<geonameId>4451679</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>SCH</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>school</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>110</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MS">MS</adminCode1>
+<adminName1>Mississippi</adminName1>
+<adminCode2>157</adminCode2>
+<adminName2>Wilkinson County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>1.969292163848877</score>
+</geoname>
+<geoname>
+<toponymName>Woodville Heights Baptist Church</toponymName>
+<name>Woodville Heights Baptist Church</name>
+<lat>32.25098</lat>
+<lng>-90.26148</lng>
+<geonameId>4451681</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>CH</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>church</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>105</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MS">MS</adminCode1>
+<adminName1>Mississippi</adminName1>
+<adminCode2>049</adminCode2>
+<adminName2>Hinds County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>1.969292163848877</score>
+</geoname>
+<geoname>
+<toponymName>Woodville Heights Elementary School</toponymName>
+<name>Woodville Heights Elementary School</name>
+<lat>32.2707</lat>
+<lng>-90.26398</lng>
+<geonameId>4451682</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>SCH</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>school</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>98</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MS">MS</adminCode1>
+<adminName1>Mississippi</adminName1>
+<adminCode2>049</adminCode2>
+<adminName2>Hinds County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>1.969292163848877</score>
+</geoname>
+<geoname>
+<toponymName>Woodville Fire Department</toponymName>
+<name>Woodville Fire Department</name>
+<lat>31.10428</lat>
+<lng>-91.30094</lng>
+<geonameId>8107870</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>BLDG</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>building(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>122</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MS">MS</adminCode1>
+<adminName1>Mississippi</adminName1>
+<adminCode2>157</adminCode2>
+<adminName2>Wilkinson County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>1.969292163848877</score>
+</geoname>
+</geonames>

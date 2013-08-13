@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Fort Ripley</toponymName>
+<name>Fort Ripley</name>
+<lat>46.16608</lat>
+<lng>-94.36028</lng>
+<geonameId>5027171</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>69</population>
+<alternateNames/>
+<elevation>356</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MN">MN</adminCode1>
+<adminName1>Minnesota</adminName1>
+<adminCode2>035</adminCode2>
+<adminName2>Crow Wing County</adminName2>
+<alternateName lang="post">56449</alternateName>
+<alternateName lang="unlc">FBP</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-94.36158</west>
+<north>46.16698</north>
+<east>-94.35898</east>
+<south>46.16518</south>
+</bbox>
+<score>34.4893798828125</score>
+</geoname>
+</geonames>

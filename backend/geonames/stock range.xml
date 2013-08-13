@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Storm Range</toponymName>
+<name>Storm Range</name>
+<lat>58.84611</lat>
+<lng>-134.22667</lng>
+<geonameId>5557645</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>MTS</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>mountains</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>2188</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AK">AK</adminCode1>
+<adminName1>Alaska</adminName1>
+<adminCode2>110</adminCode2>
+<adminName2>Juneau City and Borough</adminName2>
+<timezone dstOffset="-8.0" gmtOffset="-9.0">America/Juneau</timezone>
+<score>33.4632682800293</score>
+</geoname>
+<geoname>
+<toponymName>Stone Range</toponymName>
+<name>Stone Range</name>
+<lat>58.91637</lat>
+<lng>-124.75312</lng>
+<geonameId>6157328</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>T</fcl>
+<fcode>MT</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>mountain</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="BC">02</adminCode1>
+<adminName1>British Columbia</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Vancouver</timezone>
+<score>26.770614624023438</score>
+</geoname>
+<geoname>
+<toponymName>Stony Range</toponymName>
+<name>Stony Range</name>
+<lat>-25.7</lat>
+<lng>144.46667</lng>
+<geonameId>2148165</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>T</fcl>
+<fcode>MTS</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>mountains</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="QLD">04</adminCode1>
+<adminName1>Queensland</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="10.0" gmtOffset="10.0">Australia/Brisbane</timezone>
+<score>25.45201301574707</score>
+</geoname>
+<geoname>
+<toponymName>Stony Range</toponymName>
+<name>Stony Range</name>
+<lat>-34.56667</lat>
+<lng>150.83333</lng>
+<geonameId>2148166</geonameId>
+<countryCode>AU</countryCode>
+<countryName>Australia</countryName>
+<fcl>T</fcl>
+<fcode>HLLS</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>hills</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="NSW">02</adminCode1>
+<adminName1>New South Wales</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="10.0" gmtOffset="11.0">Australia/Sydney</timezone>
+<score>25.45201301574707</score>
+</geoname>
+</geonames>

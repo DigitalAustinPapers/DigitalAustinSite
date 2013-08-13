@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>New Danville</toponymName>
+<name>New Danville</name>
+<lat>39.98649</lat>
+<lng>-76.31496</lng>
+<geonameId>4559960</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>123</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="PA">PA</adminCode1>
+<adminName1>Pennsylvania</adminName1>
+<adminCode2>071</adminCode2>
+<adminName2>Lancaster County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/New_Danville%2C_Pennsylvania</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-76.3267</west>
+<north>39.99548</north>
+<east>-76.30322</east>
+<south>39.97749</south>
+</bbox>
+<score>68.978759765625</score>
+</geoname>
+</geonames>

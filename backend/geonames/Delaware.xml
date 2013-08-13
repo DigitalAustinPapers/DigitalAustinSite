@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>20</totalResultsCount>
+<geoname>
+<toponymName>Delaware</toponymName>
+<name>Delaware</name>
+<lat>39.00039</lat>
+<lng>-75.49992</lng>
+<geonameId>4142224</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>first-order administrative division</fcodeName>
+<population>838549</population>
+<alternateNames>DE,Delauaare,Delaue"r,Delavar,Delavaria,Delavaro,Delavehr,Delaver,Delavera,Delaveras,Delavēra,Delaware,Delaware suyu,Delawe,Delawee Hahoodzo,Delawiyer Shitati,Delawè,Délawiyer Shitati,Déláwee Hahoodzo,Déláwè,First State,Kelawea,Ntelagouer,Shtat Dehlavehr,State of Delaware,Thit-la-nga,Thi̍t-lâ-ngá,dela'oyyara,delaver,delavera,delaveris shtʼatʼi,delaveyara,dellaweeo ju,derau~ea zhou,dlawyr,dylawyr,te la hua zhou,telaveyar,Ντέλαγουερ,Делавар,Делавер,Делавэр,Делауеър,Деләәвр,Штат Дэлавэр,Դելավեր,דלאוור,דעלעווער,دلاویر,ديلاوير,دەلاوارە,ڈیلاویئر,ܕܝܠܐܘܝܪ,डेलावेयर,डेलावेर,डेलावेर्,ডেলাওয়্যার,டெலவெயர்,ഡെലവെയർ,รัฐเดลาแวร์,དྷེའི་ལ་ཝར།,ဒယ်လာဝဲပြည်နယ်,დელავერის შტატი,デラウェア州,特拉华州,델라웨어 주</alternateNames>
+<elevation>9</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="DE">DE</adminCode1>
+<adminName1>Delaware</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="abbr">DE</alternateName>
+<alternateName lang="ang">Delaware</alternateName>
+<alternateName lang="ar">ديلاوير</alternateName>
+<alternateName lang="arc">ܕܝܠܐܘܝܪ</alternateName>
+<alternateName lang="arz">ديلاوير</alternateName>
+<alternateName lang="ast">Delaware</alternateName>
+<alternateName lang="ay">Delaware suyu</alternateName>
+<alternateName lang="az">Delaver</alternateName>
+<alternateName lang="be">Штат Дэлавэр</alternateName>
+<alternateName lang="bg">Делауеър</alternateName>
+<alternateName lang="bn">ডেলাওয়্যার</alternateName>
+<alternateName lang="bo">དྷེའི་ལ་ཝར།</alternateName>
+<alternateName lang="bpy">ডেলাওয়্যার</alternateName>
+<alternateName lang="br">Delaware</alternateName>
+<alternateName lang="bs">Delaware</alternateName>
+<alternateName lang="ca">Delaware</alternateName>
+<alternateName lang="ckb">دەلاوارە</alternateName>
+<alternateName lang="cs">Delaware</alternateName>
+<alternateName lang="cv">Делавэр</alternateName>
+<alternateName lang="da">Delaware</alternateName>
+<alternateName lang="de">Delaware</alternateName>
+<alternateName lang="el">Ντέλαγουερ</alternateName>
+<alternateName lang="en">Delaware</alternateName>
+<alternateName lang="eo">Delavaro</alternateName>
+<alternateName lang="es">Delaware</alternateName>
+<alternateName lang="et">Delaware</alternateName>
+<alternateName lang="eu">Delaware</alternateName>
+<alternateName lang="fa">دلاویر</alternateName>
+<alternateName lang="fi">Delaware</alternateName>
+<alternateName lang="fr">Delaware</alternateName>
+<alternateName lang="frp">Delaware</alternateName>
+<alternateName lang="ga">Delaware</alternateName>
+<alternateName lang="gd">Delaware</alternateName>
+<alternateName lang="gl">Delaware</alternateName>
+<alternateName lang="hak">Thi̍t-lâ-ngá</alternateName>
+<alternateName lang="haw">Kelawea</alternateName>
+<alternateName lang="hbs">Delaver</alternateName>
+<alternateName lang="he">דלאוור</alternateName>
+<alternateName lang="hi">डेलावेयर</alternateName>
+<alternateName lang="hr">Delaware</alternateName>
+<alternateName lang="ht">Delawè</alternateName>
+<alternateName lang="hu">Delaware</alternateName>
+<alternateName lang="hy">Դելավեր</alternateName>
+<alternateName lang="id">Delaware</alternateName>
+<alternateName lang="ig">Déláwè</alternateName>
+<alternateName lang="ik">Delauaare</alternateName>
+<alternateName lang="io">Delaware</alternateName>
+<alternateName lang="is">Delaware</alternateName>
+<alternateName lang="it">Delaware</alternateName>
+<alternateName lang="ja">デラウェア州</alternateName>
+<alternateName lang="ka">დელავერის შტატი</alternateName>
+<alternateName lang="ko">델라웨어 주</alternateName>
+<alternateName lang="ku">Delaware</alternateName>
+<alternateName lang="kw">Delaware</alternateName>
+<alternateName lang="la">Delavaria</alternateName>
+<alternateName lang="lb">Delaware</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Delaware</alternateName>
+<alternateName lang="lt">Delaveras</alternateName>
+<alternateName lang="lv">Delavēra</alternateName>
+<alternateName lang="mk">Делавер</alternateName>
+<alternateName lang="ml">ഡെലവെയർ</alternateName>
+<alternateName lang="mn">Делавар</alternateName>
+<alternateName lang="mr">डेलावेर</alternateName>
+<alternateName lang="mrj">Делавэр</alternateName>
+<alternateName lang="ms">Delaware</alternateName>
+<alternateName lang="my">ဒယ်လာဝဲပြည်နယ်</alternateName>
+<alternateName lang="nds">Delaware</alternateName>
+<alternateName lang="nl">Delaware</alternateName>
+<alternateName lang="nn">Delaware</alternateName>
+<alternateName lang="no">Delaware</alternateName>
+<alternateName lang="nv">Déláwee Hahoodzo</alternateName>
+<alternateName lang="oc">Delaware</alternateName>
+<alternateName lang="os">Делавэр</alternateName>
+<alternateName lang="pl">Delaware</alternateName>
+<alternateName lang="pnb">ڈیلاویئر</alternateName>
+<alternateName lang="pt">Delaware</alternateName>
+<alternateName lang="qu">Delaware suyu</alternateName>
+<alternateName lang="ro">Delaware</alternateName>
+<alternateName lang="ru">Делавэр</alternateName>
+<alternateName lang="sa">डेलावेर्</alternateName>
+<alternateName lang="sk">Delaware</alternateName>
+<alternateName lang="sl">Delaware</alternateName>
+<alternateName lang="sq">Delaware</alternateName>
+<alternateName lang="sr">Делавер</alternateName>
+<alternateName lang="sv">Delaware</alternateName>
+<alternateName lang="ta">டெலவெயர்</alternateName>
+<alternateName lang="th">รัฐเดลาแวร์</alternateName>
+<alternateName lang="tr">Delaware</alternateName>
+<alternateName lang="tt">Делавэр</alternateName>
+<alternateName lang="ug">Délawiyer Shitati</alternateName>
+<alternateName lang="uk">Делавер</alternateName>
+<alternateName lang="ur">ڈیلاویئر</alternateName>
+<alternateName lang="uz">Delaver</alternateName>
+<alternateName lang="vi">Delaware</alternateName>
+<alternateName lang="xal">Деләәвр</alternateName>
+<alternateName lang="yi">דעלעווער</alternateName>
+<alternateName lang="zh">特拉华州</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-75.78915</west>
+<north>39.83918</north>
+<east>-74.98416</east>
+<south>38.45102</south>
+</bbox>
+<score>78.22916412353516</score>
+</geoname>
+<geoname>
+<toponymName>Delaware</toponymName>
+<name>Delaware</name>
+<lat>35.2837</lat>
+<lng>-93.29879</lng>
+<geonameId>4107988</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>110</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">AR</adminCode1>
+<adminName1>Arkansas</adminName1>
+<adminCode2>083</adminCode2>
+<adminName2>Logan County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Delaware%2C_Arkansas</alternateName>
+<alternateName lang="post">72835</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-93.30981</west>
+<north>35.29269</north>
+<east>-93.28777</east>
+<south>35.2747</south>
+</bbox>
+<score>56.54453659057617</score>
+</geoname>
+<geoname>
+<toponymName>Delaware</toponymName>
+<name>Delaware</name>
+<lat>39.14783</lat>
+<lng>-85.20718</lng>
+<geonameId>4256555</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>281</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IN">IN</adminCode1>
+<adminName1>Indiana</adminName1>
+<adminCode2>137</adminCode2>
+<adminName2>Ripley County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Delaware%2C_Indiana</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Indiana/Indianapolis</timezone>
+<bbox>
+<west>-85.21878</west>
+<north>39.15682</north>
+<east>-85.19558</east>
+<south>39.13884</south>
+</bbox>
+<score>56.54453659057617</score>
+</geoname>
+<geoname>
+<toponymName>Delaware</toponymName>
+<name>Delaware</name>
+<lat>47.42102</lat>
+<lng>-88.09594</lng>
+<geonameId>4990643</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>337</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MI">MI</adminCode1>
+<adminName1>Michigan</adminName1>
+<adminCode2>083</adminCode2>
+<adminName2>Keweenaw County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Delaware%2C_Michigan</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Detroit</timezone>
+<bbox>
+<west>-88.10923</west>
+<north>47.43002</north>
+<east>-88.08264</east>
+<south>47.41203</south>
+</bbox>
+<score>56.54453659057617</score>
+</geoname>
+<geoname>
+<toponymName>Delaware</toponymName>
+<name>Delaware</name>
+<lat>42.91679</lat>
+<lng>-81.41646</lng>
+<geonameId>5937497</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>P</fcl>
+<fcode>PPLL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated locality</fcodeName>
+<population>2521</population>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="ON">08</adminCode1>
+<adminName1>Ontario</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Delaware%2C_Ontario</alternateName>
+<alternateName lang="unlc">DWR</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Toronto</timezone>
+<bbox>
+<west>-81.42514</west>
+<north>42.92315</north>
+<east>-81.40777</east>
+<south>42.91043</south>
+</bbox>
+<score>56.54453659057617</score>
+</geoname>
+<geoname>
+<toponymName>Delaware</toponymName>
+<name>Delaware</name>
+<lat>-40.06667</lat>
+<lng>175.96667</lng>
+<geonameId>2191815</geonameId>
+<countryCode>NZ</countryCode>
+<countryName>New Zealand</countryName>
+<fcl>T</fcl>
+<fcode>MT</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>mountain</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="12.0" gmtOffset="13.0">Pacific/Auckland</timezone>
+<score>37.69635772705078</score>
+</geoname>
+<geoname>
+<toponymName>Delaware</toponymName>
+<name>Delaware</name>
+<lat>37.68393</lat>
+<lng>-87.40417</lng>
+<geonameId>4289756</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>123</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>059</adminCode2>
+<adminName2>Daviess County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-87.41554</west>
+<north>37.69293</north>
+<east>-87.3928</east>
+<south>37.67494</south>
+</bbox>
+<score>37.69635772705078</score>
+</geoname>
+<geoname>
+<toponymName>Delaware</toponymName>
+<name>Delaware</name>
+<lat>29.89215</lat>
+<lng>-91.75123</lng>
+<geonameId>4321925</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>2</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="LA">LA</adminCode1>
+<adminName1>Louisiana</adminName1>
+<adminCode2>045</adminCode2>
+<adminName2>Iberia Parish</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-91.7616</west>
+<north>29.90114</north>
+<east>-91.74085</east>
+<south>29.88316</south>
+</bbox>
+<score>37.69635772705078</score>
+</geoname>
+<geoname>
+<toponymName>Delaware</toponymName>
+<name>Delaware</name>
+<lat>37.10338</lat>
+<lng>-91.40819</lng>
+<geonameId>4383692</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>222</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MO">MO</adminCode1>
+<adminName1>Missouri</adminName1>
+<adminCode2>203</adminCode2>
+<adminName2>Shannon County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-91.41947</west>
+<north>37.11238</north>
+<east>-91.39691</east>
+<south>37.09439</south>
+</bbox>
+<score>37.69635772705078</score>
+</geoname>
+<geoname>
+<toponymName>Delaware</toponymName>
+<name>Delaware</name>
+<lat>36.7787</lat>
+<lng>-95.63942</lng>
+<geonameId>4534945</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>417</population>
+<alternateNames>Delavarskij,Делаварский</alternateNames>
+<elevation>219</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OK">OK</adminCode1>
+<adminName1>Oklahoma</adminName1>
+<adminCode2>105</adminCode2>
+<adminName2>Nowata County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Delaware%2C_Oklahoma</alternateName>
+<alternateName lang="post">74027</alternateName>
+<alternateName lang="ru">Делаварский</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-95.64055</west>
+<north>36.7796</north>
+<east>-95.6383</east>
+<south>36.7778</south>
+</bbox>
+<score>37.69635772705078</score>
+</geoname>
+</geonames>

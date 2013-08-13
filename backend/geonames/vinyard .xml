@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>19</totalResultsCount>
+<geoname>
+<toponymName>Vineyard</toponymName>
+<name>Vineyard</name>
+<lat>38.46449</lat>
+<lng>-121.34692</lng>
+<geonameId>7176039</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>24836</population>
+<alternateNames/>
+<elevation>27</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CA">CA</adminCode1>
+<adminName1>California</adminName1>
+<adminCode2>067</adminCode2>
+<adminName2>Sacramento County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Vineyard%2C_California</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-8.0">America/Los_Angeles</timezone>
+<bbox>
+<west>-121.37227</west>
+<north>38.49639</north>
+<east>-121.25653</east>
+<south>38.45253</south>
+</bbox>
+<score>51.71809005737305</score>
+</geoname>
+<geoname>
+<toponymName>Vineyard</toponymName>
+<name>Vineyard</name>
+<lat>37.84397</lat>
+<lng>-84.58772</lng>
+<geonameId>4312104</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>276</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>113</adminCode2>
+<adminName2>Jessamine County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Vineyard%2C_Kentucky</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-84.59911</west>
+<north>37.85296</north>
+<east>-84.57633</east>
+<south>37.83497</south>
+</bbox>
+<score>38.78856658935547</score>
+</geoname>
+<geoname>
+<toponymName>Vineyard</toponymName>
+<name>Vineyard</name>
+<lat>40.29704</lat>
+<lng>-111.7467</lng>
+<geonameId>5843973</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>139</population>
+<alternateNames/>
+<elevation>1379</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="UT">UT</adminCode1>
+<adminName1>Utah</adminName1>
+<adminCode2>049</adminCode2>
+<adminName2>Utah County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Vineyard%2C_Utah</alternateName>
+<alternateName lang="unlc">VED</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<bbox>
+<west>-111.74788</west>
+<north>40.29794</north>
+<east>-111.74552</east>
+<south>40.29614</south>
+</bbox>
+<score>38.78856658935547</score>
+</geoname>
+<geoname>
+<toponymName>Vingard</toponymName>
+<name>Vingard</name>
+<lat>46.01317</lat>
+<lng>23.74696</lng>
+<geonameId>662809</geonameId>
+<countryCode>RO</countryCode>
+<countryName>Romania</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>696</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="AB">01</adminCode1>
+<adminName1>Alba</adminName1>
+<adminCode2>7945</adminCode2>
+<adminName2>Comuna Şpring</adminName2>
+<timezone dstOffset="3.0" gmtOffset="2.0">Europe/Bucharest</timezone>
+<bbox>
+<west>23.74566</west>
+<north>46.01407</north>
+<east>23.74825</east>
+<south>46.01227</south>
+</bbox>
+<score>34.83939743041992</score>
+</geoname>
+<geoname>
+<toponymName>Vineyard</toponymName>
+<name>Vineyard</name>
+<lat>13.15</lat>
+<lng>-59.45</lng>
+<geonameId>3373446</geonameId>
+<countryCode>BB</countryCode>
+<countryName>Barbados</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="10">10</adminCode1>
+<adminName1>Saint Philip</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Barbados</timezone>
+<bbox>
+<west>-59.45924</west>
+<north>13.15899</north>
+<east>-59.44076</east>
+<south>13.14101</south>
+</bbox>
+<score>25.859045028686523</score>
+</geoname>
+<geoname>
+<toponymName>Vineyard</toponymName>
+<name>Vineyard</name>
+<lat>18.01551</lat>
+<lng>-77.78218</lng>
+<geonameId>3488145</geonameId>
+<countryCode>JM</countryCode>
+<countryName>Jamaica</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="11">11</adminCode1>
+<adminName1>St. Elizabeth</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Jamaica</timezone>
+<score>25.859045028686523</score>
+</geoname>
+<geoname>
+<toponymName>Vineyard</toponymName>
+<name>Vineyard</name>
+<lat>12.05</lat>
+<lng>-61.7</lng>
+<geonameId>3579831</geonameId>
+<countryCode>GD</countryCode>
+<countryName>Grenada</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="02">02</adminCode1>
+<adminName1>Saint David</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-4.0">America/Grenada</timezone>
+<bbox>
+<west>-61.7092</west>
+<north>12.05899</north>
+<east>-61.6908</east>
+<south>12.04101</south>
+</bbox>
+<score>25.859045028686523</score>
+</geoname>
+<geoname>
+<toponymName>Vineyard</toponymName>
+<name>Vineyard</name>
+<lat>34.65788</lat>
+<lng>-90.87011</lng>
+<geonameId>4134879</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>59</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">AR</adminCode1>
+<adminName1>Arkansas</adminName1>
+<adminCode2>077</adminCode2>
+<adminName2>Lee County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.88105</west>
+<north>34.66687</north>
+<east>-90.85918</east>
+<south>34.64888</south>
+</bbox>
+<score>25.859045028686523</score>
+</geoname>
+<geoname>
+<toponymName>Vineyard</toponymName>
+<name>Vineyard</name>
+<lat>37.24588</lat>
+<lng>-86.48832</lng>
+<geonameId>4312103</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>134</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="KY">KY</adminCode1>
+<adminName1>Kentucky</adminName1>
+<adminCode2>031</adminCode2>
+<adminName2>Butler County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-86.49961</west>
+<north>37.25487</north>
+<east>-86.47702</east>
+<south>37.23689</south>
+</bbox>
+<score>25.859045028686523</score>
+</geoname>
+<geoname>
+<toponymName>Vineyard</toponymName>
+<name>Vineyard</name>
+<lat>33.16789</lat>
+<lng>-97.96643</lng>
+<geonameId>4739340</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>289</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>237</adminCode2>
+<adminName2>Jack County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-97.97717</west>
+<north>33.17689</north>
+<east>-97.95568</east>
+<south>33.1589</south>
+</bbox>
+<score>25.859045028686523</score>
+</geoname>
+</geonames>

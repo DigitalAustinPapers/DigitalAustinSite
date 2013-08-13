@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Mission Concepcion</toponymName>
+<name>Mission Concepcion</name>
+<lat>29.3919</lat>
+<lng>-98.49196</lng>
+<geonameId>4711738</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>CH</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>church</fcodeName>
+<population/>
+<alternateNames>Missao Concepcion,Missione Concepcion,Missão Concepción,mysywn knspsywn,میسیون کنسپسیون</alternateNames>
+<elevation>186</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>029</adminCode2>
+<adminName2>Bexar County</adminName2>
+<alternateName lang="fa">میسیون کنسپسیون</alternateName>
+<alternateName lang="it">Missione Concepcion</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Mission_Concepcion</alternateName>
+<alternateName lang="pt">Missão Concepción</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>42.015968322753906</score>
+</geoname>
+<geoname>
+<toponymName>Mission Concepcion</toponymName>
+<name>Mission Concepcion</name>
+<lat>29.39107</lat>
+<lng>-98.47391</lng>
+<geonameId>4711737</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>L</fcl>
+<fcode>PRK</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>park</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>188</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>029</adminCode2>
+<adminName2>Bexar County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>34.12044143676758</score>
+</geoname>
+</geonames>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Timbered Island</toponymName>
+<name>Timbered Island</name>
+<lat>43.72632</lat>
+<lng>-110.71688</lng>
+<geonameId>5841072</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>RDGE</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>ridge(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>2068</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="WY">WY</adminCode1>
+<adminName1>Wyoming</adminName1>
+<adminCode2>039</adminCode2>
+<adminName2>Teton County</adminName2>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<score>56.04876708984375</score>
+</geoname>
+<geoname>
+<toponymName>Timbered Island</toponymName>
+<name>Timbered Island</name>
+<lat>55.69611</lat>
+<lng>-133.79944</lng>
+<geonameId>5557983</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>8</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AK">AK</adminCode1>
+<adminName1>Alaska</adminName1>
+<adminCode2>198</adminCode2>
+<adminName2>Annette Island Reserve</adminName2>
+<timezone dstOffset="-8.0" gmtOffset="-8.0">America/Metlakatla</timezone>
+<score>44.839012145996094</score>
+</geoname>
+</geonames>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Bond Building</toponymName>
+<name>Bond Building</name>
+<lat>38.89928</lat>
+<lng>-77.03248</lng>
+<geonameId>4137785</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>BLDG</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>building(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>15</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="DC">DC</adminCode1>
+<adminName1>Washington, D.C.</adminName1>
+<adminCode2>001</adminCode2>
+<adminName2>US.DC.001</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>14.370574951171875</score>
+</geoname>
+</geonames>

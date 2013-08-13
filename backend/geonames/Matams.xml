@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>27</totalResultsCount>
+<geoname>
+<toponymName>Matamp</toponymName>
+<name>Matamp</name>
+<lat>8.55</lat>
+<lng>-11.95</lng>
+<geonameId>2405631</geonameId>
+<countryCode>SL</countryCode>
+<countryName>Sierra Leone</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Matamp,Metamp</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="N">02</adminCode1>
+<adminName1>Northern Province</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="0.0" gmtOffset="0.0">Africa/Freetown</timezone>
+<bbox>
+<west>-11.95909</west>
+<north>8.55899</north>
+<east>-11.94091</east>
+<south>8.54101</south>
+</bbox>
+<score>19.459205627441406</score>
+</geoname>
+<geoname>
+<toponymName>Matamo</toponymName>
+<name>Matamo</name>
+<lat>15.13657</lat>
+<lng>120.79904</lng>
+<geonameId>7607877</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Matamo,Santa Lucia</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="AGS">03</adminCode1>
+<adminName1>Central Luzon</adminName1>
+<adminCode2>50</adminCode2>
+<adminName2>Pampanga</adminName2>
+<alternateName lang="fil">Matamo</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<bbox>
+<west>120.78973</west>
+<north>15.14557</north>
+<east>120.80836</east>
+<south>15.12758</south>
+</bbox>
+<score>19.459205627441406</score>
+</geoname>
+<geoname>
+<toponymName>Matamp</toponymName>
+<name>Matamp</name>
+<lat>8.7</lat>
+<lng>-12.41667</lng>
+<geonameId>2405630</geonameId>
+<countryCode>SL</countryCode>
+<countryName>Sierra Leone</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="N">02</adminCode1>
+<adminName1>Northern Province</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="0.0" gmtOffset="0.0">Africa/Freetown</timezone>
+<bbox>
+<west>-12.42577</west>
+<north>8.70899</north>
+<east>-12.40757</east>
+<south>8.69101</south>
+</bbox>
+<score>15.888374328613281</score>
+</geoname>
+<geoname>
+<toponymName>Matamá</toponymName>
+<name>Matamá</name>
+<lat>42.2</lat>
+<lng>-8.73333</lng>
+<geonameId>3117182</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Matama,Matamá,San Pedro</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="GA">58</adminCode1>
+<adminName1>Galicia</adminName1>
+<adminCode2>PO</adminCode2>
+<adminName2>Pontevedra</adminName2>
+<adminCode3>36057</adminCode3>
+<adminName3>Vigo</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Madrid</timezone>
+<bbox>
+<west>-8.74548</west>
+<north>42.20899</north>
+<east>-8.72119</east>
+<south>42.19101</south>
+</bbox>
+<score>15.593744277954102</score>
+</geoname>
+<geoname>
+<toponymName>Matama</toponymName>
+<name>Matama</name>
+<lat>-12.83197</lat>
+<lng>30.97491</lng>
+<geonameId>907392</geonameId>
+<countryCode>ZM</countryCode>
+<countryName>Zambia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Matama,Matama Malama</alternateNames>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="05">05</adminCode1>
+<adminName1>Northern</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Lusaka</timezone>
+<bbox>
+<west>30.96569</west>
+<north>-12.82298</north>
+<east>30.98414</east>
+<south>-12.84097</south>
+</bbox>
+<score>15.433804512023926</score>
+</geoname>
+<geoname>
+<toponymName>Matama</toponymName>
+<name>Matama</name>
+<lat>7.305</lat>
+<lng>124.54028</lng>
+<geonameId>1700464</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Matama,Matania</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="12">12</adminCode1>
+<adminName1>Soccsksargen</adminName1>
+<adminCode2>57</adminCode2>
+<adminName2>North Cotabato</adminName2>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<bbox>
+<west>124.53121</west>
+<north>7.31399</north>
+<east>124.54935</east>
+<south>7.29601</south>
+</bbox>
+<score>15.433804512023926</score>
+</geoname>
+<geoname>
+<toponymName>Matamis</toponymName>
+<name>Matamis</name>
+<lat>13.76667</lat>
+<lng>121.3</lng>
+<geonameId>1700460</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Matamis</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="MDC">40</adminCode1>
+<adminName1>Calabarzon</adminName1>
+<adminCode2>09</adminCode2>
+<adminName2>Batangas</adminName2>
+<alternateName lang="fil">Matamis</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<bbox>
+<west>121.29074</west>
+<north>13.77566</north>
+<east>121.30926</east>
+<south>13.75767</south>
+</bbox>
+<score>15.35050106048584</score>
+</geoname>
+<geoname>
+<toponymName>Mataas</toponymName>
+<name>Mataas</name>
+<lat>13.23333</lat>
+<lng>123.88333</lng>
+<geonameId>1700573</geonameId>
+<countryCode>PH</countryCode>
+<countryName>Philippines</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Mataas</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="ALB">05</adminCode1>
+<adminName1>Bicol</adminName1>
+<adminCode2>05</adminCode2>
+<adminName2>Albay</adminName2>
+<alternateName lang="fil">Mataas</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Manila</timezone>
+<bbox>
+<west>123.87409</west>
+<north>13.24233</north>
+<east>123.89257</east>
+<south>13.22434</south>
+</bbox>
+<score>15.35050106048584</score>
+</geoname>
+<geoname>
+<toponymName>Matamu</toponymName>
+<name>Matamu</name>
+<lat>-6.5774</lat>
+<lng>140.13221</lng>
+<geonameId>8526780</geonameId>
+<countryCode>ID</countryCode>
+<countryName>Indonesia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Matamu</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="PA">36</adminCode1>
+<adminName1>Papua</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="id">Matamu</alternateName>
+<timezone dstOffset="9.0" gmtOffset="9.0">Asia/Jayapura</timezone>
+<bbox>
+<west>140.12316</west>
+<north>-6.5684</north>
+<east>140.14127</east>
+<south>-6.58639</south>
+</bbox>
+<score>14.069524765014648</score>
+</geoname>
+<geoname>
+<toponymName>Matama</toponymName>
+<name>Matama</name>
+<lat>2.48465</lat>
+<lng>28.18651</lng>
+<geonameId>209439</geonameId>
+<countryCode>CD</countryCode>
+<countryName>Democratic Republic of the Congo</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="OR">09</adminCode1>
+<adminName1>Eastern Province</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Lubumbashi</timezone>
+<bbox>
+<west>28.17751</west>
+<north>2.49364</north>
+<east>28.19551</east>
+<south>2.47565</south>
+</bbox>
+<score>12.601648330688477</score>
+</geoname>
+</geonames>

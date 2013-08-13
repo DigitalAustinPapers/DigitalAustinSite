@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Kaskaskia</toponymName>
+<name>Kaskaskia</name>
+<lat>37.92144</lat>
+<lng>-89.91316</lng>
+<geonameId>4242091</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>14</population>
+<alternateNames/>
+<elevation>114</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>157</adminCode2>
+<adminName2>Randolph County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kaskaskia%2C_Illinois</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-89.92031</west>
+<north>37.92428</north>
+<east>-89.91231</east>
+<south>37.91666</south>
+</bbox>
+<score>68.978759765625</score>
+</geoname>
+</geonames>

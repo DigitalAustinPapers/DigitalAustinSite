@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>47</totalResultsCount>
+<geoname>
+<toponymName>Austin</toponymName>
+<name>Austin</name>
+<lat>30.26715</lat>
+<lng>-97.74306</lng>
+<geonameId>4671654</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population>790390</population>
+<alternateNames>AUS,Austin,Austino,Austinopolis,Aŭstino,Gorad Oscin,Ostin,Ostina,Ostinas,ao si ting,astin,astyn, tgzas,awstn, tksas,oseutin,ostina,ostini,osutin,xxstin,Ώστιν,Горад Осцін,Остин,Остін,Օստին,אוסטין,آستین، تگزاس,آسٹن,آسٹن، ٹیکساس,أوستن، تكساس,ऑस्टिन,ஆஸ்டின்,ഓസ്റ്റിൻ,ออสติน,ოსთინი,ოსტინი,オースティン,奧斯汀,오스틴</alternateNames>
+<elevation>149</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>453</adminCode2>
+<adminName2>Travis County</adminName2>
+<alternateName lang="ar">أوستن، تكساس</alternateName>
+<alternateName lang="az">Ostin</alternateName>
+<alternateName lang="be">Горад Осцін</alternateName>
+<alternateName lang="bg">Остин</alternateName>
+<alternateName lang="cs">Austin</alternateName>
+<alternateName lang="da">Austin</alternateName>
+<alternateName lang="de">Austin</alternateName>
+<alternateName lang="el">Ώστιν</alternateName>
+<alternateName lang="en">Austin</alternateName>
+<alternateName lang="eo">Aŭstino</alternateName>
+<alternateName lang="es">Austin</alternateName>
+<alternateName lang="et">Austin</alternateName>
+<alternateName lang="eu">Austin</alternateName>
+<alternateName lang="fa">آستین، تگزاس</alternateName>
+<alternateName lang="fi">Austin</alternateName>
+<alternateName lang="fr">Austin</alternateName>
+<alternateName lang="he">אוסטין</alternateName>
+<alternateName lang="hi">ऑस्टिन</alternateName>
+<alternateName lang="hy">Օստին</alternateName>
+<alternateName lang="ia">Austin</alternateName>
+<alternateName lang="iata">AUS</alternateName>
+<alternateName lang="id">Austin</alternateName>
+<alternateName lang="io">Austin</alternateName>
+<alternateName lang="is">Austin</alternateName>
+<alternateName lang="it">Austin</alternateName>
+<alternateName lang="ja">オースティン</alternateName>
+<alternateName lang="ka">ოსტინი</alternateName>
+<alternateName lang="kk">Остин</alternateName>
+<alternateName lang="ko">오스틴</alternateName>
+<alternateName lang="la">Austinopolis</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Austin%2C_Texas</alternateName>
+<alternateName lang="lt">Ostinas</alternateName>
+<alternateName lang="lv">Ostina</alternateName>
+<alternateName lang="mk">Остин</alternateName>
+<alternateName lang="ml">ഓസ്റ്റിൻ</alternateName>
+<alternateName lang="mr">ऑस्टिन</alternateName>
+<alternateName lang="mrj">Остин</alternateName>
+<alternateName lang="nl">Austin</alternateName>
+<alternateName lang="no">Austin</alternateName>
+<alternateName lang="oc">Austin</alternateName>
+<alternateName lang="os">Остин</alternateName>
+<alternateName lang="pl">Austin</alternateName>
+<alternateName lang="pnb">آسٹن</alternateName>
+<alternateName lang="post">78738</alternateName>
+<alternateName lang="pt">Austin</alternateName>
+<alternateName lang="ro">Austin</alternateName>
+<alternateName lang="ru">Остин</alternateName>
+<alternateName lang="sk">Austin</alternateName>
+<alternateName lang="sr">Остин</alternateName>
+<alternateName lang="sv">Austin</alternateName>
+<alternateName lang="ta">ஆஸ்டின்</alternateName>
+<alternateName lang="th">ออสติน</alternateName>
+<alternateName lang="tr">Austin</alternateName>
+<alternateName lang="uk">Остін</alternateName>
+<alternateName lang="unlc">AUS</alternateName>
+<alternateName lang="ur">آسٹن، ٹیکساس</alternateName>
+<alternateName lang="vi">Austin</alternateName>
+<alternateName lang="xmf">ოსთინი</alternateName>
+<alternateName lang="zh">奧斯汀</alternateName>
+<alternateName lang="zh-TW">奧斯汀</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-97.93839</west>
+<north>30.51686</north>
+<east>-97.56149</east>
+<south>30.09866</south>
+</bbox>
+<score>115.76736450195312</score>
+</geoname>
+<geoname>
+<toponymName>Austin</toponymName>
+<name>Austin</name>
+<lat>34.64066</lat>
+<lng>-90.44927</lng>
+<geonameId>4416697</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>60</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MS">MS</adminCode1>
+<adminName1>Mississippi</adminName1>
+<adminCode2>143</adminCode2>
+<adminName2>Tunica County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Austin%2C_Mississippi</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-90.4602</west>
+<north>34.64965</north>
+<east>-90.43833</east>
+<south>34.63166</south>
+</bbox>
+<score>51.47996520996094</score>
+</geoname>
+<geoname>
+<toponymName>Austin</toponymName>
+<name>Austin</name>
+<lat>41.88753</lat>
+<lng>-87.76478</lng>
+<geonameId>4883837</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>189</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IL">IL</adminCode1>
+<adminName1>Illinois</adminName1>
+<adminCode2>031</adminCode2>
+<adminName2>Cook County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Austin,_Chicago</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-87.77686</west>
+<north>41.89653</north>
+<east>-87.7527</east>
+<south>41.87854</south>
+</bbox>
+<score>51.47996520996094</score>
+</geoname>
+<geoname>
+<toponymName>Austin</toponymName>
+<name>Austin</name>
+<lat>41.73727</lat>
+<lng>-84.69412</lng>
+<geonameId>4984591</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>305</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MI">MI</adminCode1>
+<adminName1>Michigan</adminName1>
+<adminCode2>059</adminCode2>
+<adminName2>Hillsdale County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Austin%2C_Hillsdale_County%2C_Michigan</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Detroit</timezone>
+<bbox>
+<west>-84.70617</west>
+<north>41.74627</north>
+<east>-84.68207</east>
+<south>41.72828</south>
+</bbox>
+<score>51.47996520996094</score>
+</geoname>
+<geoname>
+<toponymName>Austin</toponymName>
+<name>Austin</name>
+<lat>45.18339</lat>
+<lng>-72.2824</lng>
+<geonameId>5888403</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="QC">10</adminCode1>
+<adminName1>Quebec</adminName1>
+<adminCode2>05</adminCode2>
+<adminName2>Estrie</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Austin%2C_Quebec</alternateName>
+<alternateName lang="unlc">AUQ</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Montreal</timezone>
+<bbox>
+<west>-72.29516</west>
+<north>45.19238</north>
+<east>-72.26964</east>
+<south>45.17439</south>
+</bbox>
+<score>51.47996520996094</score>
+</geoname>
+<geoname>
+<toponymName>Austin</toponymName>
+<name>Austin</name>
+<lat>49.95033</lat>
+<lng>-98.93688</lng>
+<geonameId>5888406</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MB">03</adminCode1>
+<adminName1>Manitoba</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Austin%2C_Manitoba</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Winnipeg</timezone>
+<bbox>
+<west>-98.95086</west>
+<north>49.95932</north>
+<east>-98.9229</east>
+<south>49.94133</south>
+</bbox>
+<score>51.47996520996094</score>
+</geoname>
+<geoname>
+<toponymName>Austin</toponymName>
+<name>Austin</name>
+<lat>34.99842</lat>
+<lng>-91.98376</lng>
+<geonameId>4099974</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2038</population>
+<alternateNames>Ostin,Остин</alternateNames>
+<elevation>75</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">AR</adminCode1>
+<adminName1>Arkansas</adminName1>
+<adminCode2>085</adminCode2>
+<adminName2>Lonoke County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Austin%2C_Arkansas</alternateName>
+<alternateName lang="post">72007</alternateName>
+<alternateName lang="ru">Остин</alternateName>
+<alternateName lang="unlc">AKU</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-91.98925</west>
+<north>35.00292</north>
+<east>-91.97827</east>
+<south>34.99392</south>
+</bbox>
+<score>42.89997100830078</score>
+</geoname>
+<geoname>
+<toponymName>Austin</toponymName>
+<name>Austin</name>
+<lat>38.75839</lat>
+<lng>-85.80803</lng>
+<geonameId>4254010</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>4295</population>
+<alternateNames>Ostin,Остин</alternateNames>
+<elevation>170</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IN">IN</adminCode1>
+<adminName1>Indiana</adminName1>
+<adminCode2>143</adminCode2>
+<adminName2>Scott County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Austin%2C_Indiana</alternateName>
+<alternateName lang="post">47102</alternateName>
+<alternateName lang="ru">Остин</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Indiana/Indianapolis</timezone>
+<bbox>
+<west>-85.81801</west>
+<north>38.76618</north>
+<east>-85.79804</east>
+<south>38.7506</south>
+</bbox>
+<score>42.89997100830078</score>
+</geoname>
+<geoname>
+<toponymName>Austin</toponymName>
+<name>Austin</name>
+<lat>18.80639</lat>
+<lng>-72.52333</lng>
+<geonameId>3731004</geonameId>
+<countryCode>HT</countryCode>
+<countryName>Haiti</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OU">11</adminCode1>
+<adminName1>Ouest</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Port-au-Prince</timezone>
+<bbox>
+<west>-72.53283</west>
+<north>18.81538</north>
+<east>-72.51383</east>
+<south>18.7974</south>
+</bbox>
+<score>34.319976806640625</score>
+</geoname>
+<geoname>
+<toponymName>Austin</toponymName>
+<name>Austin</name>
+<lat>35.44202</lat>
+<lng>-92.52655</lng>
+<geonameId>4099973</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>249</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AR">AR</adminCode1>
+<adminName1>Arkansas</adminName1>
+<adminCode2>029</adminCode2>
+<adminName2>Conway County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-92.53759</west>
+<north>35.45102</north>
+<east>-92.51551</east>
+<south>35.43303</south>
+</bbox>
+<score>34.319976806640625</score>
+</geoname>
+</geonames>

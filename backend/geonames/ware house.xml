@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Wade House</toponymName>
+<name>Wade House</name>
+<lat>41.92584</lat>
+<lng>-91.42378</lng>
+<geonameId>4880385</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>BLDG</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>building(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>272</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="IA">IA</adminCode1>
+<adminName1>Iowa</adminName1>
+<adminCode2>113</adminCode2>
+<adminName2>Linn County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>8.734867095947266</score>
+</geoname>
+<geoname>
+<toponymName>Ward House</toponymName>
+<name>Ward House</name>
+<lat>54.46472</lat>
+<lng>-8.34361</lng>
+<geonameId>3311595</geonameId>
+<countryCode>IE</countryCode>
+<countryName>Ireland</countryName>
+<fcl>S</fcl>
+<fcode>HSEC</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>country house</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="C">C</adminCode1>
+<adminName1>Connaught</adminName1>
+<adminCode2>14</adminCode2>
+<adminName2>Leitrim</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Dublin</timezone>
+<score>8.005956649780273</score>
+</geoname>
+<geoname>
+<toponymName>Ward House</toponymName>
+<name>Ward House</name>
+<lat>29.80134</lat>
+<lng>-95.40244</lng>
+<geonameId>4740029</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>BLDG</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>building(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>19</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>201</adminCode2>
+<adminName2>Harris County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<score>8.005956649780273</score>
+</geoname>
+<geoname>
+<toponymName>Ward House</toponymName>
+<name>Ward House</name>
+<lat>40.94565</lat>
+<lng>-73.81986</lng>
+<geonameId>5143244</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>BLDG</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>building(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>62</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NY">NY</adminCode1>
+<adminName1>New York</adminName1>
+<adminCode2>119</adminCode2>
+<adminName2>Westchester County</adminName2>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>8.005956649780273</score>
+</geoname>
+<geoname>
+<toponymName>Warehouse</toponymName>
+<name>Warehouse</name>
+<lat>39.25315</lat>
+<lng>-76.70535</lng>
+<geonameId>6691515</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>PKLT</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>parking lot</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MD">MD</adminCode1>
+<adminName1>Maryland</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<score>7.764328956604004</score>
+</geoname>
+</geonames>

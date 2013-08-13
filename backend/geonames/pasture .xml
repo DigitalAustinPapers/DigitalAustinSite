@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>10</totalResultsCount>
+<geoname>
+<toponymName>Pasturo</toponymName>
+<name>Pasturo</name>
+<lat>45.95168</lat>
+<lng>9.44414</lng>
+<geonameId>6543337</geonameId>
+<countryCode>IT</countryCode>
+<countryName>Italy</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population>1945</population>
+<alternateNames>Comune di Pasturo,Pasturo</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="25">09</adminCode1>
+<adminName1>Lombardy</adminName1>
+<adminCode2>LC</adminCode2>
+<adminName2>Provincia di Lecco</adminName2>
+<adminCode3>097065</adminCode3>
+<adminName3>Pasturo</adminName3>
+<alternateName lang="it">Pasturo</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Rome</timezone>
+<bbox>
+<west>9.38724</west>
+<north>45.97179</north>
+<east>9.45465</east>
+<south>45.92359</south>
+</bbox>
+<score>16.322681427001953</score>
+</geoname>
+<geoname>
+<toponymName>Pastura</toponymName>
+<name>Pastura</name>
+<lat>34.78284</lat>
+<lng>-104.94472</lng>
+<geonameId>5483515</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>23</population>
+<alternateNames/>
+<elevation>1614</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NM">NM</adminCode1>
+<adminName1>New Mexico</adminName1>
+<adminCode2>019</adminCode2>
+<adminName2>Guadalupe County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Pastura%2C_New_Mexico</alternateName>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Denver</timezone>
+<bbox>
+<west>-104.94936</west>
+<north>34.79191</north>
+<east>-104.93472</east>
+<south>34.77976</south>
+</bbox>
+<score>15.992897033691406</score>
+</geoname>
+<geoname>
+<toponymName>Pasturo</toponymName>
+<name>Pasturo</name>
+<lat>45.95168</lat>
+<lng>9.44414</lng>
+<geonameId>6535354</geonameId>
+<countryCode>IT</countryCode>
+<countryName>Italy</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>1756</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="25">09</adminCode1>
+<adminName1>Lombardy</adminName1>
+<adminCode2>LC</adminCode2>
+<adminName2>Provincia di Lecco</adminName2>
+<adminCode3>097065</adminCode3>
+<adminName3>Pasturo</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Pasturo</alternateName>
+<alternateName lang="unlc">PUR</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Rome</timezone>
+<bbox>
+<west>9.43768</west>
+<north>45.95618</north>
+<east>9.45061</east>
+<south>45.94719</south>
+</bbox>
+<score>15.992897033691406</score>
+</geoname>
+<geoname>
+<toponymName>Pasture</toponymName>
+<name>Pasture</name>
+<lat>-19.63333</lat>
+<lng>32.65</lng>
+<geonameId>883000</geonameId>
+<countryCode>ZW</countryCode>
+<countryName>Zimbabwe</countryName>
+<fcl>S</fcl>
+<fcode>FRM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farm</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Harare</timezone>
+<score>12.265636444091797</score>
+</geoname>
+<geoname>
+<toponymName>Pastura</toponymName>
+<name>Pastura</name>
+<lat>32.96038</lat>
+<lng>-100.01954</lng>
+<geonameId>5528103</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>507</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>253</adminCode2>
+<adminName2>Jones County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-100.03026</west>
+<north>32.96938</north>
+<east>-100.00882</east>
+<south>32.95139</south>
+</bbox>
+<score>10.661931037902832</score>
+</geoname>
+<geoname>
+<toponymName>Kūh-e Pasūreh</toponymName>
+<name>Kūh-e Pasūreh</name>
+<lat>33.4471</lat>
+<lng>51.0932</lng>
+<geonameId>401966</geonameId>
+<countryCode>IR</countryCode>
+<countryName>Iran</countryName>
+<fcl>T</fcl>
+<fcode>MT</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>mountain</fcodeName>
+<population/>
+<alternateNames>Kuh-e Pasureh,Kūh-e Pasūreh,Pastureh,Pastūreh,kwh pswrh,کوه پسوره</alternateNames>
+<elevation>2231</elevation>
+<continentCode>AS</continentCode>
+<adminCode1 ISO3166-2="04">28</adminCode1>
+<adminName1>Ostān-e Eşfahān</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="fa">کوه پسوره</alternateName>
+<timezone dstOffset="4.5" gmtOffset="3.5">Asia/Tehran</timezone>
+<score>9.812509536743164</score>
+</geoname>
+<geoname>
+<toponymName>Pastur</toponymName>
+<name>Pastur</name>
+<lat>43.33599</lat>
+<lng>-6.91479</lng>
+<geonameId>3114203</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Pastur</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="AS">34</adminCode1>
+<adminName1>Asturias</adminName1>
+<adminCode2>O</adminCode2>
+<adminName2>Asturias</adminName2>
+<adminCode3>33061</adminCode3>
+<adminName3>San Martín de Oscos</adminName3>
+<alternateName lang="post">33734</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Madrid</timezone>
+<bbox>
+<west>-6.92716</west>
+<north>43.34499</north>
+<east>-6.90242</east>
+<south>43.327</south>
+</bbox>
+<score>8.011874198913574</score>
+</geoname>
+<geoname>
+<toponymName>Pature</toponymName>
+<name>Pature</name>
+<lat>-5.38333</lat>
+<lng>151.65</lng>
+<geonameId>2088541</geonameId>
+<countryCode>PG</countryCode>
+<countryName>Papua New Guinea</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>OC</continentCode>
+<adminCode1 ISO3166-2="EBR">10</adminCode1>
+<adminName1>East New Britain</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="10.0" gmtOffset="10.0">Pacific/Port_Moresby</timezone>
+<bbox>
+<west>151.64097</west>
+<north>-5.37434</north>
+<east>151.65903</east>
+<south>-5.39233</south>
+</bbox>
+<score>6.219453811645508</score>
+</geoname>
+<geoname>
+<toponymName>Pastures</toponymName>
+<name>Pastures</name>
+<lat>-19.93333</lat>
+<lng>31.46667</lng>
+<geonameId>882999</geonameId>
+<countryCode>ZW</countryCode>
+<countryName>Zimbabwe</countryName>
+<fcl>S</fcl>
+<fcode>FRM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farm</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Harare</timezone>
+<score>3.504467487335205</score>
+</geoname>
+<geoname>
+<toponymName>Pâture</toponymName>
+<name>Pâture</name>
+<lat>50.61667</lat>
+<lng>4.01667</lng>
+<geonameId>2789253</geonameId>
+<countryCode>BE</countryCode>
+<countryName>Belgium</countryName>
+<fcl>S</fcl>
+<fcode>FRM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farm</fcodeName>
+<population/>
+<alternateNames>La Pature,La Pâture,Pature,Pâture</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WAL">WAL</adminCode1>
+<adminName1>Walloon Region</adminName1>
+<adminCode2>WHT</adminCode2>
+<adminName2>Hainaut Province</adminName2>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Brussels</timezone>
+<score>3.29836368560791</score>
+</geoname>
+</geonames>

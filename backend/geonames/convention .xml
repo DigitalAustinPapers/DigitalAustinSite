@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>12</totalResultsCount>
+<geoname>
+<toponymName>Convención</toponymName>
+<name>Convención</name>
+<lat>8.83333</lat>
+<lng>-73.2</lng>
+<geonameId>3685957</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames>Convencion,Convención</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="NSA">21</adminCode1>
+<adminName1>Norte de Santander</adminName1>
+<adminCode2>3685957</adminCode2>
+<adminName2>Convención</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Convenci%C3%B3n</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<score>39.12019348144531</score>
+</geoname>
+<geoname>
+<toponymName>Convention</toponymName>
+<name>Convention</name>
+<lat>-30.3387</lat>
+<lng>29.25744</lng>
+<geonameId>1012817</geonameId>
+<countryCode>ZA</countryCode>
+<countryName>South Africa</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>AF</continentCode>
+<adminCode1 ISO3166-2="ZN">02</adminCode1>
+<adminName1>KwaZulu-Natal</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="2.0" gmtOffset="2.0">Africa/Johannesburg</timezone>
+<bbox>
+<west>29.24702</west>
+<north>-30.3297</north>
+<east>29.26786</east>
+<south>-30.34769</south>
+</bbox>
+<score>38.387943267822266</score>
+</geoname>
+<geoname>
+<toponymName>Contention</toponymName>
+<name>Contention</name>
+<lat>31.76898</lat>
+<lng>-110.20202</lng>
+<geonameId>5290603</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>1158</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AZ">AZ</adminCode1>
+<adminName1>Arizona</adminName1>
+<adminCode2>003</adminCode2>
+<adminName2>Cochise County</adminName2>
+<timezone dstOffset="-7.0" gmtOffset="-7.0">America/Phoenix</timezone>
+<bbox>
+<west>-110.2126</west>
+<north>31.77797</north>
+<east>-110.19144</east>
+<south>31.75998</south>
+</bbox>
+<score>17.592260360717773</score>
+</geoname>
+<geoname>
+<toponymName>Convención</toponymName>
+<name>Convención</name>
+<lat>10.26783</lat>
+<lng>-73.41609</lng>
+<geonameId>3685952</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="CES">10</adminCode1>
+<adminName1>Cesar</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<bbox>
+<west>-73.42523</west>
+<north>10.27682</north>
+<east>-73.40695</east>
+<south>10.25884</south>
+</bbox>
+<score>15.806944847106934</score>
+</geoname>
+<geoname>
+<toponymName>Convención</toponymName>
+<name>Convención</name>
+<lat>9.97383</lat>
+<lng>-74.09711</lng>
+<geonameId>3685953</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="MAG">38</adminCode1>
+<adminName1>Magdalena</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<bbox>
+<west>-74.10624</west>
+<north>9.98282</north>
+<east>-74.08798</east>
+<south>9.96484</south>
+</bbox>
+<score>15.806944847106934</score>
+</geoname>
+<geoname>
+<toponymName>Convención</toponymName>
+<name>Convención</name>
+<lat>9.41362</lat>
+<lng>-74.2063</lng>
+<geonameId>3685954</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="MAG">38</adminCode1>
+<adminName1>Magdalena</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<bbox>
+<west>-74.21542</west>
+<north>9.42261</north>
+<east>-74.19719</east>
+<south>9.40463</south>
+</bbox>
+<score>15.806944847106934</score>
+</geoname>
+<geoname>
+<toponymName>Convención</toponymName>
+<name>Convención</name>
+<lat>8.38694</lat>
+<lng>-73.33972</lng>
+<geonameId>3685955</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="NSA">21</adminCode1>
+<adminName1>Norte de Santander</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<bbox>
+<west>-73.34881</west>
+<north>8.39594</north>
+<east>-73.33063</east>
+<south>8.37795</south>
+</bbox>
+<score>15.806944847106934</score>
+</geoname>
+<geoname>
+<toponymName>Convención</toponymName>
+<name>Convención</name>
+<lat>7.85</lat>
+<lng>-72.75</lng>
+<geonameId>3685956</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="NSA">21</adminCode1>
+<adminName1>Norte de Santander</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<bbox>
+<west>-72.75908</west>
+<north>7.85899</north>
+<east>-72.74092</east>
+<south>7.84101</south>
+</bbox>
+<score>15.806944847106934</score>
+</geoname>
+<geoname>
+<toponymName>Convención</toponymName>
+<name>Convención</name>
+<lat>9.25393</lat>
+<lng>-73.92037</lng>
+<geonameId>3731417</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="CES">10</adminCode1>
+<adminName1>Cesar</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<bbox>
+<west>-73.92948</west>
+<north>9.26292</north>
+<east>-73.91126</east>
+<south>9.24494</south>
+</bbox>
+<score>15.806944847106934</score>
+</geoname>
+<geoname>
+<toponymName>Provincia de La Convención</toponymName>
+<name>Provincia de La Convención</name>
+<lat>-12</lat>
+<lng>-73</lng>
+<geonameId>3937248</geonameId>
+<countryCode>PE</countryCode>
+<countryName>Peru</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames>Convencion,La Convencion,La Convención,Provincia de La Convencion,Provincia de La Convención</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="CUS">08</adminCode1>
+<adminName1>Cusco</adminName1>
+<adminCode2>0809</adminCode2>
+<adminName2>Provincia de La Convención</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/La_Convenci%C3%B3n_Province</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Lima</timezone>
+<bbox>
+<west>-73.98111</west>
+<north>-11.18335</north>
+<east>-71.94567</east>
+<south>-13.45813</south>
+</bbox>
+<score>13.971498489379883</score>
+</geoname>
+</geonames>

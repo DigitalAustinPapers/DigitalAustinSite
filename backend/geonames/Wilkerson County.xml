@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Wilkinson County</toponymName>
+<name>Wilkinson County</name>
+<lat>32.80241</lat>
+<lng>-83.17125</lng>
+<geonameId>4231046</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>9563</population>
+<alternateNames>Comte de Wilkinson,Comté de Wilkinson</alternateNames>
+<elevation>112</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="GA">GA</adminCode1>
+<adminName1>Georgia</adminName1>
+<adminCode2>319</adminCode2>
+<adminName2>Wilkinson County</adminName2>
+<alternateName lang="fr">Comté de Wilkinson</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wilkinson_County%2C_Georgia</alternateName>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/New_York</timezone>
+<bbox>
+<west>-83.40742</west>
+<north>33.00897</north>
+<east>-82.94534</east>
+<south>32.58445</south>
+</bbox>
+<score>78.46826934814453</score>
+</geoname>
+<geoname>
+<toponymName>Wilkinson County</toponymName>
+<name>Wilkinson County</name>
+<lat>31.16107</lat>
+<lng>-91.31092</lng>
+<geonameId>4451213</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>9878</population>
+<alternateNames>Comte de Wilkinson,Comté de Wilkinson</alternateNames>
+<elevation>66</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MS">MS</adminCode1>
+<adminName1>Mississippi</adminName1>
+<adminCode2>157</adminCode2>
+<adminName2>Wilkinson County</adminName2>
+<alternateName lang="fr">Comté de Wilkinson</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wilkinson_County%2C_Mississippi</alternateName>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-91.63972</west>
+<north>31.37186</north>
+<east>-91.05999</east>
+<south>30.99954</south>
+</bbox>
+<score>78.46826934814453</score>
+</geoname>
+</geonames>

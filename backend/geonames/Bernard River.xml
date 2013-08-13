@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Bernard River</toponymName>
+<name>Bernard River</name>
+<lat>73.56764</lat>
+<lng>-124.08974</lng>
+<geonameId>5898835</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="NT">13</adminCode1>
+<adminName1>Northwest Territories</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Yellowknife</timezone>
+<score>13.49312973022461</score>
+</geoname>
+<geoname>
+<toponymName>Sungai Bernam</toponymName>
+<name>Sungai Bernam</name>
+<lat>3.839</lat>
+<lng>100.7934</lng>
+<geonameId>1732921</geonameId>
+<countryCode>MY</countryCode>
+<countryName>Malaysia</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>Bernam River,Sungai Bernam</alternateNames>
+<elevation/>
+<continentCode>AS</continentCode>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bernam_River</alternateName>
+<alternateName lang="ms">Sungai Bernam</alternateName>
+<timezone dstOffset="8.0" gmtOffset="8.0">Asia/Kuala_Lumpur</timezone>
+<score>3.8164305686950684</score>
+</geoname>
+<geoname>
+<toponymName>Berners River</toponymName>
+<name>Berners River</name>
+<lat>58.83917</lat>
+<lng>-134.99861</lng>
+<geonameId>5844691</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>14</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AK">AK</adminCode1>
+<adminName1>Alaska</adminName1>
+<adminCode2>110</adminCode2>
+<adminName2>Juneau City and Borough</adminName2>
+<timezone dstOffset="-8.0" gmtOffset="-9.0">America/Juneau</timezone>
+<score>3.1137993335723877</score>
+</geoname>
+<geoname>
+<toponymName>Berland River</toponymName>
+<name>Berland River</name>
+<lat>54.00012</lat>
+<lng>-116.83563</lng>
+<geonameId>5898783</geonameId>
+<countryCode>CA</countryCode>
+<countryName>Canada</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AB">01</adminCode1>
+<adminName1>Alberta</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-7.0">America/Edmonton</timezone>
+<score>3.1137993335723877</score>
+</geoname>
+</geonames>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Americana Colonia</toponymName>
+<name>Americana Colonia</name>
+<lat>26.35924</lat>
+<lng>-98.13918</lng>
+<geonameId>4670663</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>27</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="TX">TX</adminCode1>
+<adminName1>Texas</adminName1>
+<adminCode2>215</adminCode2>
+<adminName2>Hidalgo County</adminName2>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Chicago</timezone>
+<bbox>
+<west>-98.14921</west>
+<north>26.36823</north>
+<east>-98.12914</east>
+<south>26.35024</south>
+</bbox>
+<score>45.98583984375</score>
+</geoname>
+</geonames>

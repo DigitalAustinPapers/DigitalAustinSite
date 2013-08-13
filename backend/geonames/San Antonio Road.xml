@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>12</totalResultsCount>
+<geoname>
+<toponymName>San Antonio Abad</toponymName>
+<name>San Antonio Abad</name>
+<lat>17.89812</lat>
+<lng>-97.45114</lng>
+<geonameId>3519742</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>San Antonio,San Antonio Abad</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="OAX">20</adminCode1>
+<adminName1>Oaxaca</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-97.46059</west>
+<north>17.90711</north>
+<east>-97.44169</east>
+<south>17.88912</south>
+</bbox>
+<score>48.460968017578125</score>
+</geoname>
+<geoname>
+<toponymName>San Antonio Abad</toponymName>
+<name>San Antonio Abad</name>
+<lat>37.61767</lat>
+<lng>-0.99665</lng>
+<geonameId>2511449</geonameId>
+<countryCode>ES</countryCode>
+<countryName>Spain</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="MC">31</adminCode1>
+<adminName1>Murcia</adminName1>
+<adminCode2>MU</adminCode2>
+<adminName2>Murcia</adminName2>
+<adminCode3>30016</adminCode3>
+<adminName3>Cartagena</adminName3>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Madrid</timezone>
+<bbox>
+<west>-1.00801</west>
+<north>37.62667</north>
+<east>-0.9853</east>
+<south>37.60868</south>
+</bbox>
+<score>39.568214416503906</score>
+</geoname>
+<geoname>
+<toponymName>San Antonio Abad</toponymName>
+<name>San Antonio Abad</name>
+<lat>13.71667</lat>
+<lng>-89.23333</lng>
+<geonameId>3583861</geonameId>
+<countryCode>SV</countryCode>
+<countryName>El Salvador</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="SS">10</adminCode1>
+<adminName1>San Salvador</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-6.0" gmtOffset="-6.0">America/El_Salvador</timezone>
+<bbox>
+<west>-89.24259</west>
+<north>13.72566</north>
+<east>-89.22408</east>
+<south>13.70767</south>
+</bbox>
+<score>39.568214416503906</score>
+</geoname>
+<geoname>
+<toponymName>San Antonio Baas</toponymName>
+<name>San Antonio Baas</name>
+<lat>21.08333</lat>
+<lng>-88.86667</lng>
+<geonameId>3519737</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>San Antonio Baas,San Antonio Haas,San Antonio Haez</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="YUC">31</adminCode1>
+<adminName1>Yucatán</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Merida</timezone>
+<bbox>
+<west>-88.87631</west>
+<north>21.09233</north>
+<east>-88.85703</east>
+<south>21.07434</south>
+</bbox>
+<score>13.899904251098633</score>
+</geoname>
+<geoname>
+<toponymName>San Antonio Xiat</toponymName>
+<name>San Antonio Xiat</name>
+<lat>21.13208</lat>
+<lng>-89.16018</lng>
+<geonameId>3514527</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>San Antonio Xiat,Xiat</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="YUC">31</adminCode1>
+<adminName1>Yucatán</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Merida</timezone>
+<bbox>
+<west>-89.16982</west>
+<north>21.14107</north>
+<east>-89.15053</east>
+<south>21.12309</south>
+</bbox>
+<score>8.37813663482666</score>
+</geoname>
+<geoname>
+<toponymName>San Antonio Frías</toponymName>
+<name>San Antonio Frías</name>
+<lat>20.1</lat>
+<lng>-98.4</lng>
+<geonameId>3519712</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Farias,Farías,San Antonio Frias,San Antonio Frías</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="HID">13</adminCode1>
+<adminName1>Hidalgo</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-98.40958</west>
+<north>20.10899</north>
+<east>-98.39042</east>
+<south>20.09101</south>
+</bbox>
+<score>7.631577014923096</score>
+</geoname>
+<geoname>
+<toponymName>San Antonio Coapa</toponymName>
+<name>San Antonio Coapa</name>
+<lat>19.54515</lat>
+<lng>-101.31334</lng>
+<geonameId>4025204</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="MIC">16</adminCode1>
+<adminName1>Michoacán</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-101.32288</west>
+<north>19.55414</north>
+<east>-101.3038</east>
+<south>19.53615</south>
+</bbox>
+<score>7.195119857788086</score>
+</geoname>
+<geoname>
+<toponymName>San Antonio Reef</toponymName>
+<name>San Antonio Reef</name>
+<lat>22.03333</lat>
+<lng>-85</lng>
+<geonameId>3715286</geonameId>
+<countryCode/>
+<countryName/>
+<fcl>U</fcl>
+<fcode>RFU</fcode>
+<fclName>undersea</fclName>
+<fcodeName>reef</fcodeName>
+<population/>
+<alternateNames>Banco de San Antonio,San Antonio Knoll,San Antonio Seaknoll</alternateNames>
+<elevation/>
+<adminCode1/>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Rankin_Inlet</timezone>
+<score>6.840720176696777</score>
+</geoname>
+<geoname>
+<toponymName>San Antonio Soda</toponymName>
+<name>San Antonio Soda</name>
+<lat>18.41943</lat>
+<lng>-89.1354</lng>
+<geonameId>3821002</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="CAM">04</adminCode1>
+<adminName1>Campeche</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Cancun</timezone>
+<bbox>
+<west>-89.14487</west>
+<north>18.42843</north>
+<east>-89.12592</east>
+<south>18.41044</south>
+</bbox>
+<score>6.840720176696777</score>
+</geoname>
+<geoname>
+<toponymName>San Antonio Xiat</toponymName>
+<name>San Antonio Xiat</name>
+<lat>21.13333</lat>
+<lng>-89.1625</lng>
+<geonameId>3822335</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="YUC">31</adminCode1>
+<adminName1>Yucatán</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Merida</timezone>
+<bbox>
+<west>-89.17214</west>
+<north>21.14233</north>
+<east>-89.15286</east>
+<south>21.12434</south>
+</bbox>
+<score>6.840720176696777</score>
+</geoname>
+</geonames>
