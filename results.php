@@ -576,16 +576,6 @@ function tabChanged(newView) {
             Word Clouds
         </a>
     </li>
-	<li id="Tab3">
-        <a href="#" onclick="tabChanged(views.correlation);">
-            Word Correlation
-        </a>
-    </li>
-	<li id="Tab4">
-        <a href="#" onclick="tabChanged(views.sentiment);">
-            Sentiment Analysis
-        </a>
-    </li>
 </ul>
 </div>
 
