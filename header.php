@@ -17,7 +17,7 @@
 		</li>
 		<li>
 		<!-- Link to generic search page, other searches linked from there as needed -kmd -->
-			<a href="search.php">Search</a>
+			<a href="advanced.php">Search</a>
 
 			<!--
 <ul>
