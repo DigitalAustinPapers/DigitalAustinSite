@@ -31,23 +31,31 @@ $text = trim(strtolower($_GET['query']));
 //Split on non-word characters
 logString("text={$text}");
 
+$stemCondition = "1=1";
+$stemFrom = "";
+$stemSimilarity = "1";
 
-$words = preg_split('/[\W]+/', $text);
-//Stem each word
-
-
-$stems = array_map(array($stemmer, 'Stem'), $words);
-$stemCounts = array_count_values($stems);
-
-$stemCondition = " stem in (NULL";
-foreach ($stemCounts as $stem => $count)
-{
-    if (strlen($stem) != 0) {
-        $escapedStem = mysql_real_escape_string($stem);
-        $stemCondition .= ", '$escapedStem'";
-    }
+if("" != $text) {
+	$stemCondition = " stem in (NULL";
+	$stemSimilarity = "sum(StemCount.tfIdf) / Document.vectorLength";
+	$stemFrom = "  INNER JOIN StemCount ON StemCount.docId = Document.id";
+	$words = preg_split('/[\W]+/', $text);
+	//Stem each word
+	
+	$stems = array_map(array($stemmer, 'Stem'), $words);
+	$stemCounts = array_count_values($stems);
+	
+	$stemCondition = " stem in (NULL";
+	foreach ($stemCounts as $stem => $count)
+	{
+	    if (strlen($stem) != 0) {
+	        $escapedStem = mysql_real_escape_string($stem);
+	        $stemCondition .= ", '$escapedStem'";
+	    }
+	}
+	$stemCondition .= ')';
+	
 }
-$stemCondition .= ')';
 
 $locationCondition = '';
 if (array_key_exists('location', $_GET) && ($_GET['location'] != -1))
@@ -123,11 +131,11 @@ if (array_key_exists('sort', $_GET)) {
 $sql = "
     SELECT Document.id as id, Document.summary as summary,
         Document.title as title, Document.creation as date,
-        sum(StemCount.tfIdf) / Document.vectorLength as similarity,
+        $stemSimilarity as similarity,
         Destination.lat as dstLat, Destination.lng as dstLng,
         Source.lat as srcLat, Source.lng as srcLng
     FROM Document
-    INNER JOIN StemCount ON StemCount.docId = Document.id
+    $stemFrom
     LEFT OUTER JOIN NormalizedPlace AS Destination
         ON Document.sentToPlace = Destination.id
     LEFT OUTER JOIN NormalizedPlace AS Source
