@@ -122,7 +122,6 @@ function getResult($targetBrowseBy) {
     } else {
         $browseBy = 'date';
     } 
-    echo $browseBy;
     ?>
 
 			
@@ -147,7 +146,6 @@ function getResult($targetBrowseBy) {
 
 <div id="content">
 
-	<h4>Actual content begins here</h4>
 <?php
 	$result = getResult($browseBy);
 	$oldHeading = 'DEADBEEF';
