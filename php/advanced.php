@@ -68,14 +68,23 @@
   			author: <select name="fromPersonId" style="width:145px;">
 		<option value="">any...</option>
 		<?php
+		    if (array_key_exists('fromPersonId', $_GET)) {
+		    	$fromPersonId = $_GET['fromPersonId'];
+		    } else {
+		        $fromPersonId = '';
+		    } 
 			$i=0;
 			while ($i < $numAuthors) {
 				$row = mysql_fetch_array($findAuthor);
 				$personId = $row['id'];
 				$personName = $row['name'];
 				$docFrequency = $row['frequency'];
+				$isSelected = '';
+				if($fromPersonId == $personId) {
+					$isSelected=' selected="selected"';
+				}
 				
-				echo "<option value=\"$personId\">$personName ($docFrequency letters)</option>\n";
+				echo "<option value=\"$personId\" $isSelected>$personName ($docFrequency letters)</option>\n";
 				$i++;
 			}
 		?>
@@ -84,13 +93,22 @@
 	recipient: <select name="toPersonId" style="width:150px;">
 	<option value="">any...</option>
 		<?php
-			$i=0;
+		    if (array_key_exists('toPersonId', $_GET)) {
+		    	$toPersonId = $_GET['toPersonId'];
+		    } else {
+		        $toPersonId = '';
+		    } 
+					$i=0;
 			while ($i < $numRecipients) {
 				$row = mysql_fetch_array($findRecipient);
 				$personId = $row['id'];
 				$personName = $row['name'];
 				$docFrequency = $row['frequency'];
-				echo "<option value=\"$personId\">$personName ($docFrequency letters)</option>\n";
+				$isSelected = '';
+				if($toPersonId == $personId) {
+					$isSelected=' selected="selected"';
+				}
+				echo "<option value=\"$personId\" $isSelected>$personName ($docFrequency letters)</option>\n";
 				$i++;
 			}
 		?>
@@ -99,12 +117,21 @@
 	from year: <select name="fromYear" style="width:100px;">
 	<option value="">any...</option>
 		<?php
+		    if (array_key_exists('fromYear', $_GET)) {
+		    	$fromYear = $_GET['fromYear'];
+		    } else {
+		        $fromYear = '';
+		    } 
 			$i=0;
 			while ($i < $numYears) {
 				$row = mysql_fetch_array($findYears);
 				$year = $row['year'];
 				$docFrequency = $row['frequency'];
-				echo "<option value=\"$year\">$year ($docFrequency letters)</option>\n";
+				$isSelected = '';
+				if($fromYear == $year) {
+					$isSelected=' selected="selected"';
+				}
+				echo "<option value=\"$year\" $isSelected>$year ($docFrequency letters)</option>\n";
 				$option = $row;
 				$i++;
 			}
@@ -115,12 +142,21 @@
 	<option value="">any...</option>
 		<?php
 			$findYears=mysql_query($yearQuery, $connection);
+		    if (array_key_exists('toYear', $_GET)) {
+		    	$toYear = $_GET['toYear'];
+		    } else {
+		        $toYear = '';
+		    } 
 			$i=0;
 			while ($i < $numYears) {
 				$row = mysql_fetch_array($findYears);
 				$year = $row['year'];
 				$docFrequency = $row['frequency'];
-				echo "<option value=\"$year\">$year ($docFrequency letters)</option>\n";
+				$isSelected = '';
+				if($toYear == $year) {
+					$isSelected=' selected="selected"';
+				}
+				echo "<option value=\"$year\" $isSelected>$year ($docFrequency letters)</option>\n";
 				$option = $row;
 				$i++;
 			}
@@ -130,13 +166,22 @@
 	sent from: <select name="fromPlaceId" style="width:100px;">
 		<option value="">any...</option>
 		<?php
+	     	if (array_key_exists('fromPlaceId', $_GET)) {
+		    	$fromPlaceId = $_GET['fromPlaceId'];
+		    } else {
+		        $fromPlaceId = '';
+		    }
 			$i=0;
 			while ($i < $numFrom) {
 				$row = mysql_fetch_array($findFrom);
 				$placeId = $row['id'];
 				$placeName = $row['name'];
 				$docFrequency = $row['frequency'];
-				echo "<option value=\"$placeId\">$placeName ($docFrequency letters)</option>\n";
+				$isSelected = '';
+				if($fromPlaceId == $placeId) {
+					$isSelected=' selected="selected"';
+				}
+				echo "<option value=\"$placeId\" $isSelected>$placeName ($docFrequency letters)</option>\n";
 				$option = $row;
 				$i++;
 			}
@@ -146,13 +191,22 @@
 	sent to: <select name="toPlaceId" style="width:90px;">
 		<option value="">any...</option>
 		<?php
+	     	if (array_key_exists('toPlaceId', $_GET)) {
+		    	$toPlaceId = $_GET['toPlaceId'];
+		    } else {
+		        $toPlaceId = '';
+		    }
 			$i=0;
 			while ($i < $numTo) {
 				$row = mysql_fetch_array($findTo);
 				$placeId = $row['id'];
 				$placeName = $row['name'];
 				$docFrequency = $row['frequency'];
-				echo "<option value=\"$placeId\">$placeName ($docFrequency letters)</option>\n";
+				$isSelected = '';
+				if($toPlaceId == $placeId) {
+					$isSelected=' selected="selected"';
+				}
+				echo "<option value=\"$placeId\" $isSelected>$placeName ($docFrequency letters)</option>\n";
 				$option = $row;
 				$i++;
 			}

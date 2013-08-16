@@ -3,6 +3,7 @@ include 'php/database.php';
 include('php/wordcloud.class.php');
 $database = connectToDB();
 ?>
+	<?php $connection = connectToDB(); ?>	
 <!DOCTYPE html>
 <html>
 <head>
@@ -482,8 +483,13 @@ function tabChanged(newView) {
 	<?php include('header.php'); ?>
 </div>
 
-<div style='background:white;'>
+<div id="form">
     <h1>Search the Austin Papers</h1>
+	<?php include('php/advanced.php'); ?>
+</div>
+
+
+<div style='background:white;'>
     <form onsubmit='return queryChanged()'>
     Search for: 
     <input id='query' type='text' value='<? print htmlentities($_GET['query'])?>' />
