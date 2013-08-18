@@ -398,8 +398,8 @@ function requestData() {
     //Build the GET params
     var getParams = '?query=';
     getParams += encodeURIComponent(document.getElementById('query').value);
-    getParams += '&location=';
-    getParams += encodeURIComponent(document.getElementById('location').value);
+    // getParams += '&location=';
+    // getParams += encodeURIComponent(document.getElementById('location').value);
     getParams += '&fromYear=';
     getParams += encodeURIComponent(document.getElementById('fromYear').value);
     getParams += '&toYear=';
@@ -416,6 +416,7 @@ function requestData() {
     getParams += encodeURIComponent(sortKey);
 
     var url;
+
 
     //Request the data for the basic and geographic views
     if (basicData == null) {
@@ -485,85 +486,11 @@ function tabChanged(newView) {
 
 <div id="form">
     <h1>Search the Austin Papers</h1>
-	<?php include('php/advanced.php'); ?>
-</div>
-
-
-<div style='background:white;'>
     <form onsubmit='return queryChanged()'>
-    Search for: 
-    <input id='query' type='text' value='<? print htmlentities($_GET['query'])?>' />
-    <br />
-    in:
-    <select id='location'>
-    <option value=-1>--All Locations--</option>
-    <?
-    $placeSql = 'SELECT name, id FROM NormalizedPlace';
-    $result = mysql_query($placeSql);
-    while ($row = mysql_fetch_array($result))
-    {
-        if ($row['id'] == $_GET['location'])
-        {
-            print "<option value={$row['id']} selected>{$row['name']}</option>";
-        }
-        else
-        {
-            print "<option value={$row['id']}>{$row['name']}</option>";
-        }
-    }
-    ?>
-    </select>
-
-    <? if (array_key_exists('fromYear', $_GET)) {
-    	$fromYear = $_GET['fromYear'];
-    } else {
-        $fromYear = '';
-    } ?>
-    <input type='hidden' name='fromYear' id='fromYear' value='<? print htmlentities($fromYear)?>' />
-
-    <? if (array_key_exists('toYear', $_GET)) {
-    	$toYear = $_GET['toYear'];
-    } else {
-        $toYear = '';
-    } ?>
-    <input type='hidden' name='toYear' id='toYear' value='<? print htmlentities($toYear)?>' />
-
-    
-    <? if (array_key_exists('fromPersonId', $_GET)) {
-    	$fromPersonId = $_GET['fromPersonId'];
-    } else {
-        $fromPersonId = '';
-    } ?>
-    <input type='hidden' name='fromPersonId' id='fromPersonId' value='<? print htmlentities($fromPersonId)?>' />
-
-    <? if (array_key_exists('toPersonId', $_GET)) {
-    	$toPersonId = $_GET['toPersonId'];
-    } else {
-        $toPersonId = '';
-    } ?>
-    <input type='hidden' name='toPersonId' id='toPersonId' value='<? print htmlentities($toPersonId)?>' />
-
-
-    
-    <? if (array_key_exists('fromPlaceId', $_GET)) {
-    	$fromPlaceId = $_GET['fromPlaceId'];
-    } else {
-        $fromPlaceId = '';
-    } ?>
-    <input type='hidden' name='fromPlaceId' id='fromPlaceId' value='<? print htmlentities($fromPlaceId)?>' />
-
-    <? if (array_key_exists('toPlaceId', $_GET)) {
-    	$toPlaceId = $_GET['toPlaceId'];
-    } else {
-        $toPlaceId = '';
-    } ?>
-    <input type='hidden' name='toPlaceId' id='toPlaceId' value='<? print htmlentities($toPlaceId)?>' />
-
-    
-    <input type='submit' value='Search' />
+		<?php include('php/advancedForm.php'); ?>
     </form>
-    <br />
 </div>
+
 <div id="tabs">
 <h2>View search results by:</h2>
 <ul>
