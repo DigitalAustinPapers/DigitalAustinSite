@@ -47,6 +47,17 @@ $digitalDate = $digitalDateElement->attributes->getNamedItem("when")->nodeValue;
 $creationElement = $doc->getElementsByTagName("creation")->item(0);
 $creationDateElement = $creationElement->getElementsByTagName("date")->item(0);
 $creationDate = $creationDateElement->attributes->getNamedItem("when")->nodeValue;
+logString($creationDate);
+
+// handle "bad" dates
+if(preg_match("/\d\d\d\d-\d\d$/", $creationDate)) {
+	$creationDate .= "-00";
+}
+
+if(preg_match("/\d\d\d\d$/", $creationDate)) {
+	$creationDate .= "-00-00";
+}
+
 
 //Get the document's summary
 $div1Elements = $doc->getElementsByTagName("div1");
@@ -96,7 +107,7 @@ foreach( $people as $person )
 	}
 
 
-	logString("parentNodename for {$text} was {$parentNodeName}");
+#	logString("parentNodename for {$text} was {$parentNodeName}");
     if ($typeNode)
     {
         $type = $typeNode->nodeValue;
@@ -276,9 +287,8 @@ $insertDocSql = "REPLACE INTO Document (id, title, xml,
     '$escapedXml', '$escapedCreation', '$escapedSummary', $escapedQuotedSentToKey, $escapedQuotedSentFromKey, $escapedQuotedSentToPersonKey, $escapedQuotedSentFromPersonKey)";
 
 mysql_query($insertDocSql) or print(mysql_error());
-
 //Perform the PersonReference insert
-logString($personSql);
+#logString($personSql);
 mysql_query($personSql) or print(mysql_error());
 
 //Perform the PlaceReference insert

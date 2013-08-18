@@ -83,7 +83,7 @@ function getTag($personName, $key, $knownNames)
     }
     if ($bestId !== '')
     {
-		logString("{$personName} matched to {$bestName} (id: {$bestId}) with a score of {$bestScore}");
+		#logString("{$personName} matched to {$bestName} (id: {$bestId}) with a score of {$bestScore}");
         return $bestId;
     }
     return $key;

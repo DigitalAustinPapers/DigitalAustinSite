@@ -158,7 +158,12 @@ function getResult($targetBrowseBy) {
 		
 		if($heading != $oldHeading) {
 			# print the header
-			print "<h5>{$heading}</h5>\n";
+			if($heading=='0000') {
+				$cleanHeading = 'Undated';
+			} else {
+				$cleanHeading = $heading;
+			}
+			print "<h5>{$cleanHeading}</h5>\n";
 		}
 		
 		# I'd really prefer to put a BR between these two within the same paragraph, but that's not 

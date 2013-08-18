@@ -2,8 +2,13 @@
 include 'php/database.php';
 include('php/wordcloud.class.php');
 $database = connectToDB();
+$connection = $database;
+
+$totalSql = "SELECT COUNT(*) FROM Document";
+$totalResult = mysql_query($totalSql);
+$totalDocs = mysql_result($totalResult, 0);
+logString($totalDocs)
 ?>
-	<?php $connection = connectToDB(); ?>	
 <!DOCTYPE html>
 <html>
 <head>
@@ -225,22 +230,7 @@ function basicContent() {
         value='date'>Date</input>\
     </form>";
 
-    var minYear = 9999, maxYear = -9999, year;
-    for (i in basicData) {
-        doc = basicData[i];
-        var year = parseInt(new Date(doc['date']).getFullYear());
-        if (year < minYear) {
-            minYear = year;
-        }
-        if (year > maxYear) {
-            maxYear = year;
-        }
-    }
-
-    newContent += "<p>Showing " + basicData.length + " results";
-    if (basicData.length > 0) {
-        newContent += " between " + minYear + " and " + maxYear;
-    }
+    newContent += "<p>Showing " + basicData.length + " results out of <?php $totalDocs ?> total documents.";
     newContent += "</p>";
     for (i in basicData) {
         doc = basicData[i];
