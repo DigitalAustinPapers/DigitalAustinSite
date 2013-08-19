@@ -150,6 +150,57 @@ function buildDocumentSearchQuery() {
 }
 
 
+function buildGeoSearchQuery() {
+	$select = "SELECT
+		Document.id as docId,
+        Destination.id as dstId,
+        Destination.name as dstName,
+        Destination.lat as dstLat,
+        Destination.lng as dstLng,
+        Source.id as srcId,
+        Source.name as srcName,
+        Source.lat as srcLat,
+        Source.lng as srcLng";
+	$groupBy = "GROUP BY Document.id";
+	$orderBy = "";	
+	$innerSql = $select . buildSearchQuery($orderBy, $groupBy);
+
+	$sql = "
+		select placeId id,
+		        placeName name,
+		        sum(dstFreq) incoming,
+		        sum(srcFreq) outgoing,
+		        sum(allFreq) traffic,
+		        lat,
+		        lng
+		from (
+		select dstId placeId,
+		        dstName placeName,
+		        count(*) dstFreq,
+		        0 srcFreq,
+		        count(*) allFreq,
+		        dstLat lat,
+		        dstLng lng
+		from ( $innerSql) innerQuery
+		group by placeId, placeName
+		union
+			select srcId placeId,
+		        srcName placeName,
+		        0 dstFreq,
+		        count(*) srcFreq,
+		        count(*) allFreq,
+		        srcLat lat,
+		        srcLng lng
+		from ( $innerSql ) innerQuery
+		group by placeId, placeName
+		) allPoints
+		group by placeId, placeName, lat, lng";
+	logString($sql);
+	return $sql;			
+}
+
+
+
 function buildPlaceCloudSearchQuery() {//Place Cloud
 
 	$select = "SELECT Document.id as document_id";
