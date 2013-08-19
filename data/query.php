@@ -166,7 +166,7 @@ function buildPlaceCloudSearchQuery() {//Place Cloud
 		INNER JOIN
 			( {$innerSql} ) docs
 			ON pr.docId = docs.document_id 
-		GROUP BY text
+		GROUP BY  trim(pr.text)
 		ORDER BY weight DESC
 		LIMIT 50;
 	";
@@ -191,7 +191,7 @@ function buildPersonCloudSearchQuery() {//Text Cloud
 		INNER JOIN
 			( {$innerSql} ) docs
 			ON pr.docId = docs.document_id 
-		GROUP BY text
+		GROUP BY  trim(pr.text)
 		ORDER BY weight DESC
 		LIMIT 50;
 	";
@@ -205,10 +205,7 @@ function buildWordCloudSearchQuery() {//Text Cloud
 
 	$select = "SELECT Document.id as document_id";
 	$groupBy = "GROUP BY Document.id";
-	$orderBy = "
-	    ORDER BY document_id DESC
-	    LIMIT 50
-		";	
+	$orderBy = "";	
 	$innerSql = $select . buildSearchQuery($orderBy, $groupBy);
 	
 	
