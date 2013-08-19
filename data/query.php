@@ -145,9 +145,34 @@ function buildDocumentSearchQuery() {
 	$groupBy = "GROUP BY Document.Id";
 
     $sql = $select . buildSearchQuery($orderBy, $groupBy);
-	logString($sql);
+
 	return $sql;
 }
+
+
+function buildPlaceCloudSearchQuery() {//Place Cloud
+
+	$select = "SELECT Document.id as document_id";
+	$groupBy = "GROUP BY Document.id";
+	$orderBy = "";	
+	$innerSql = $select . buildSearchQuery($orderBy, $groupBy);
+	
+	
+	$sql = "
+		SELECT trim(pr.text) as text,
+			count(*) as weight
+		FROM
+			PlaceReference pr
+		INNER JOIN
+			( {$innerSql} ) docs
+			ON pr.docId = docs.document_id 
+		GROUP BY text
+		ORDER BY weight DESC
+		LIMIT 50;
+	";
+	return $sql;	
+}
+
 
 
 function buildPersonCloudSearchQuery() {//Text Cloud
@@ -170,9 +195,7 @@ function buildPersonCloudSearchQuery() {//Text Cloud
 		ORDER BY weight DESC
 		LIMIT 50;
 	";
-	
-	
-	logString($sql);
+
 	return $sql;	
 }
 
@@ -202,9 +225,7 @@ function buildWordCloudSearchQuery() {//Text Cloud
 		ORDER BY weight DESC
 		LIMIT 50;
 	";
-	
-	
-	logString($sql);
+
 	return $sql;	
 }
 

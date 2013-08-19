@@ -18,9 +18,6 @@ include '../data/query.php';
 
 $database = connectToDB();
 
-# BWB TODO: This needs to be refactored to use the same documents as the document list results
-logString("cloud.php start");
-
 //Stem and split the query
 $stemmer = new PorterStemmer();
 $text = trim(strtolower($_GET['query']));
@@ -62,24 +59,13 @@ while ($row = mysql_fetch_assoc($result))
 array_push($jsonOut, $docData);
 
 //Place Cloud
-$sql = "
-    SELECT PlaceReference.text as text, count(PlaceReference.id) as weight
-    FROM PlaceReference
-    INNER JOIN Document ON Document.id = PlaceReference.docId
-    INNER JOIN StemCount as MatchingStems
-        ON MatchingStems.docId = Document.id
-    WHERE
-    $stemCondition
-    $locationCondition
-    GROUP BY PlaceReference.text
-    ORDER BY weight DESC
-    LIMIT 50;
-";
+$sql = buildPlaceCloudSearchQuery();
 
 $docData = array();
 $result = mysql_query($sql) or die($sql . "<br>" . mysql_error());
 while ($row = mysql_fetch_assoc($result))
 {
+    $row['link'] = 'results.php?query=' . urlencode($row['text']);
     array_push($docData, $row);
 }
 array_push($jsonOut, $docData);
@@ -95,8 +81,6 @@ while ($row = mysql_fetch_assoc($result))
 }
 array_push($jsonOut, $docData);
 print json_encode($jsonOut);
-
-logString("cloud.php end");
 
 ?>
 
