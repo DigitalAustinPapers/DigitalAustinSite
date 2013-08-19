@@ -150,6 +150,34 @@ function buildDocumentSearchQuery() {
 }
 
 
+function buildPersonCloudSearchQuery() {//Text Cloud
+
+	$select = "SELECT Document.id as document_id";
+	$groupBy = "GROUP BY Document.id";
+	$orderBy = "";	
+	$innerSql = $select . buildSearchQuery($orderBy, $groupBy);
+	
+	
+	$sql = "
+		SELECT trim(pr.text) as text,
+			count(*) as weight
+		FROM
+			PersonReference pr
+		INNER JOIN
+			( {$innerSql} ) docs
+			ON pr.docId = docs.document_id 
+		GROUP BY text
+		ORDER BY weight DESC
+		LIMIT 50;
+	";
+	
+	
+	logString($sql);
+	return $sql;	
+}
+
+
+
 function buildWordCloudSearchQuery() {//Text Cloud
 
 	$select = "SELECT Document.id as document_id";
@@ -158,21 +186,6 @@ function buildWordCloudSearchQuery() {//Text Cloud
 	    ORDER BY document_id DESC
 	    LIMIT 50
 		";	
-	// $sql = "
-	    // SELECT StemCount.stem as text, sum(StemCount.count) as weight
-	    // FROM StemCount 
-	    // INNER JOIN Document ON Document.id = StemCount.docId
-	    // INNER JOIN StemCount as MatchingStems
-	        // ON MatchingStems.docId = Document.id
-	    // INNER JOIN Idf ON Idf.stem = StemCount.stem
-	    // WHERE
-	    // $stemCondition
-	    // $locationCondition
-	    // AND Idf.idf > 1 AND CHARACTER_LENGTH(StemCount.stem) > 3
-	    // GROUP BY StemCount.stem
-	    // ORDER BY weight DESC
-	    // LIMIT 50;
-	// ";
 	$innerSql = $select . buildSearchQuery($orderBy, $groupBy);
 	
 	

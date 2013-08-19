@@ -85,20 +85,7 @@ while ($row = mysql_fetch_assoc($result))
 array_push($jsonOut, $docData);
 
 //Person Cloud
-$sql = "
-    SELECT PersonReference.text as text, count(PersonReference.id) as weight
-    FROM PersonReference 
-    INNER JOIN Document ON Document.id = PersonReference.docId
-    INNER JOIN StemCount as MatchingStems
-        ON MatchingStems.docId = Document.id
-    WHERE
-    $stemCondition
-    $locationCondition
-    GROUP BY PersonReference.text
-    ORDER BY weight DESC
-    LIMIT 50;
-";
-
+$sql = buildPersonCloudSearchQuery();
 $docData = array();
 $result = mysql_query($sql) or die($sql . "<br>" . mysql_error());
 while ($row = mysql_fetch_assoc($result))
