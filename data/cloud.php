@@ -18,33 +18,6 @@ include '../data/query.php';
 
 $database = connectToDB();
 
-//Stem and split the query
-$stemmer = new PorterStemmer();
-$text = trim(strtolower($_GET['query']));
-//Split on non-word characters
-$words = preg_split('/[\W]+/', $text);
-//Stem each word
-$stems = array_map(array($stemmer, 'Stem'), $words);
-$stemCounts = array_count_values($stems);
-
-$stemCondition = " MatchingStems.stem in (NULL";
-foreach ($stemCounts as $stem => $count)
-{
-    if (strlen($stem) != 0) {
-        $escapedStem = mysql_real_escape_string($stem);
-        $stemCondition .= ", '$escapedStem'";
-    }
-}
-$stemCondition .= ')';
-
-$locationCondition = '';
-if (array_key_exists('location', $_GET) && ($_GET['location'] != -1))
-{
-    $escapedLocation = mysql_real_escape_string($_GET['location']);
-    $locationCondition = " AND (sentToPlace=$escapedLocation
-        OR sentFromPlace=$escapedLocation) ";
-}
-
 //Text Cloud
 $sql = buildWordCloudSearchQuery();
 
