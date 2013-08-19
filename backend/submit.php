@@ -47,7 +47,6 @@ $digitalDate = $digitalDateElement->attributes->getNamedItem("when")->nodeValue;
 $creationElement = $doc->getElementsByTagName("creation")->item(0);
 $creationDateElement = $creationElement->getElementsByTagName("date")->item(0);
 $creationDate = $creationDateElement->attributes->getNamedItem("when")->nodeValue;
-logString($creationDate);
 
 // handle "bad" dates
 if(preg_match("/\d\d\d\d-\d\d$/", $creationDate)) {

@@ -14,7 +14,7 @@ session_start();
 
 include '../php/porterStemmer.php';
 include '../php/database.php';
-
+logString("cities.php start");
 $database = connectToDB();
 
 //Stem and split the query
@@ -81,6 +81,7 @@ while ($row = mysql_fetch_assoc($result))
 
 print json_encode($docData);
 
+logString("cities.php end");
 
 ?>
 

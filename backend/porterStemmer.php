@@ -42,6 +42,7 @@
         */
         public static function Stem($word)
         {
+        	$originalWord = $word;
             if (strlen($word) <= 2) {
                 return $word;
             }
@@ -52,6 +53,9 @@
             $word = self::step3($word);
             $word = self::step4($word);
             $word = self::step5($word);
+
+			logString("stemmed [{$originalWord}] to [{$word}]");
+			
 
             return $word;
         }

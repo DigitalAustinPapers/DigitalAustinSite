@@ -14,8 +14,12 @@ session_start();
 
 include '../php/porterStemmer.php';
 include '../php/database.php';
+include '../data/query.php';
 
 $database = connectToDB();
+
+# BWB TODO: This needs to be refactored to use the same documents as the document list results
+logString("cloud.php start");
 
 //Stem and split the query
 $stemmer = new PorterStemmer();
@@ -45,21 +49,7 @@ if (array_key_exists('location', $_GET) && ($_GET['location'] != -1))
 }
 
 //Text Cloud
-$sql = "
-    SELECT StemCount.stem as text, sum(StemCount.count) as weight
-    FROM StemCount 
-    INNER JOIN Document ON Document.id = StemCount.docId
-    INNER JOIN StemCount as MatchingStems
-        ON MatchingStems.docId = Document.id
-    INNER JOIN Idf ON Idf.stem = StemCount.stem
-    WHERE
-    $stemCondition
-    $locationCondition
-    AND Idf.idf > 1 AND CHARACTER_LENGTH(StemCount.stem) > 3
-    GROUP BY StemCount.stem
-    ORDER BY weight DESC
-    LIMIT 50;
-";
+$sql = buildWordCloudSearchQuery();
 
 $jsonOut = array();
 $docData = array();
@@ -119,6 +109,7 @@ while ($row = mysql_fetch_assoc($result))
 array_push($jsonOut, $docData);
 print json_encode($jsonOut);
 
+logString("cloud.php end");
 
 ?>
 
