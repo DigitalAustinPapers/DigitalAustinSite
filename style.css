@@ -1,5 +1,3 @@
-/* @override http://localhost/~Kdalziel/DigitalAustinSite/style.css */
-
 /*@import url("reset.css");*/
 
 
@@ -232,6 +230,11 @@ a:visited {
 #cite{
 	font-size: 85%;
 	padding: 10px;
+}
+
+#teixml {
+	float: right;
+	margin: -20px 10px 10px 10px;
 }
 
 
