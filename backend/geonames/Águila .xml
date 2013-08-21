@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>89</totalResultsCount>
+<geoname>
+<toponymName>Aguila</toponymName>
+<name>Aguila</name>
+<lat>33.94281</lat>
+<lng>-113.17408</lng>
+<geonameId>5550954</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>798</population>
+<alternateNames/>
+<elevation>659</elevation>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="AZ">AZ</adminCode1>
+<adminName1>Arizona</adminName1>
+<adminCode2>013</adminCode2>
+<adminName2>Maricopa County</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Aguila%2C_Arizona</alternateName>
+<alternateName lang="post">85320</alternateName>
+<timezone dstOffset="-7.0" gmtOffset="-7.0">America/Phoenix</timezone>
+<bbox>
+<west>-113.18564</west>
+<north>33.95095</north>
+<east>-113.14158</east>
+<south>33.9283</south>
+</bbox>
+<score>46.08115005493164</score>
+</geoname>
+<geoname>
+<toponymName>Águila</toponymName>
+<name>Águila</name>
+<lat>-33.6</lat>
+<lng>-57.98333</lng>
+<geonameId>3443922</geonameId>
+<countryCode>UY</countryCode>
+<countryName>Uruguay</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Aguila,Arroyo Aguila,Águila</alternateNames>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="SO">17</adminCode1>
+<adminName1>Soriano</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Montevideo</timezone>
+<bbox>
+<west>-57.99413</west>
+<north>-33.59101</north>
+<east>-57.97254</east>
+<south>-33.60899</south>
+</bbox>
+<score>38.01500701904297</score>
+</geoname>
+<geoname>
+<toponymName>Aguila</toponymName>
+<name>Aguila</name>
+<lat>8.9525</lat>
+<lng>-80.19139</lng>
+<geonameId>3711533</geonameId>
+<countryCode>PA</countryCode>
+<countryName>Panama</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Aguila,El Aguila,El Águila</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="2">03</adminCode1>
+<adminName1>Coclé</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Panama</timezone>
+<bbox>
+<west>-80.20049</west>
+<north>8.96149</north>
+<east>-80.18228</east>
+<south>8.94351</south>
+</bbox>
+<score>32.92196273803711</score>
+</geoname>
+<geoname>
+<toponymName>Águila</toponymName>
+<name>Águila</name>
+<lat>20.95917</lat>
+<lng>-76.59528</lng>
+<geonameId>3569454</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames>Aguila,El Torreon,El Torreón,Águila</alternateNames>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="11">12</adminCode1>
+<adminName1>Holguín</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>32.584293365478516</score>
+</geoname>
+<geoname>
+<toponymName>Águila</toponymName>
+<name>Águila</name>
+<lat>-32.66667</lat>
+<lng>-53.61667</lng>
+<geonameId>3443923</geonameId>
+<countryCode>UY</countryCode>
+<countryName>Uruguay</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="CL">03</adminCode1>
+<adminName1>Cerro Largo</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-3.0" gmtOffset="-2.0">America/Montevideo</timezone>
+<bbox>
+<west>-53.62735</west>
+<north>-32.65767</north>
+<east>-53.60598</east>
+<south>-32.67566</south>
+</bbox>
+<score>30.720766067504883</score>
+</geoname>
+<geoname>
+<toponymName>Águila</toponymName>
+<name>Águila</name>
+<lat>23.03333</lat>
+<lng>-82.26667</lng>
+<geonameId>3569453</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="03">02</adminCode1>
+<adminName1>Ciudad de La Habana</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<bbox>
+<west>-82.27644</west>
+<north>23.04233</north>
+<east>-82.25689</east>
+<south>23.02434</south>
+</bbox>
+<score>30.720766067504883</score>
+</geoname>
+<geoname>
+<toponymName>Águila</toponymName>
+<name>Águila</name>
+<lat>19.98333</lat>
+<lng>-76.4</lng>
+<geonameId>3569455</geonameId>
+<countryCode>CU</countryCode>
+<countryName>Cuba</countryName>
+<fcl>L</fcl>
+<fcode>LCTY</fcode>
+<fclName>parks,area, ...</fclName>
+<fcodeName>locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="13">15</adminCode1>
+<adminName1>Santiago de Cuba</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-4.0" gmtOffset="-5.0">America/Havana</timezone>
+<score>30.720766067504883</score>
+</geoname>
+<geoname>
+<toponymName>Águila</toponymName>
+<name>Águila</name>
+<lat>8.8</lat>
+<lng>-76.2</lng>
+<geonameId>3690313</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="COR">12</adminCode1>
+<adminName1>Córdoba</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<bbox>
+<west>-76.2091</west>
+<north>8.80899</north>
+<east>-76.1909</east>
+<south>8.79101</south>
+</bbox>
+<score>30.720766067504883</score>
+</geoname>
+<geoname>
+<toponymName>Aguila</toponymName>
+<name>Aguila</name>
+<lat>4.74698</lat>
+<lng>-73.49271</lng>
+<geonameId>3812751</geonameId>
+<countryCode>CO</countryCode>
+<countryName>Colombia</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>SA</continentCode>
+<adminCode1 ISO3166-2="CUN">33</adminCode1>
+<adminName1>Cundinamarca</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-5.0">America/Bogota</timezone>
+<bbox>
+<west>-73.50174</west>
+<north>4.75597</north>
+<east>-73.48369</east>
+<south>4.73798</south>
+</bbox>
+<score>30.720766067504883</score>
+</geoname>
+<geoname>
+<toponymName>Aguila</toponymName>
+<name>Aguila</name>
+<lat>18.78333</lat>
+<lng>-97.31667</lng>
+<geonameId>3823879</geonameId>
+<countryCode>MX</countryCode>
+<countryName>Mexico</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>NA</continentCode>
+<adminCode1 ISO3166-2="VER">30</adminCode1>
+<adminName1>Veracruz-Llave</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="-5.0" gmtOffset="-6.0">America/Mexico_City</timezone>
+<bbox>
+<west>-97.32617</west>
+<north>18.79233</north>
+<east>-97.30717</east>
+<south>18.77434</south>
+</bbox>
+<score>30.720766067504883</score>
+</geoname>
+</geonames>
