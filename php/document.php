@@ -53,9 +53,9 @@
  		 WHERE d.id = '$new_id'";
 		//$query =   "SELECT * FROM document NATURAL JOIN text                    WHERE idDocument = '$id'";
 
-		$result = mysql_query($query) or die(mysql_error());;
+		$result = mysqli_query($GLOBALS["___mysqli_ston"], $query) or die(((is_object($GLOBALS["___mysqli_ston"])) ? mysqli_error($GLOBALS["___mysqli_ston"]) : (($___mysqli_res = mysqli_connect_error()) ? $___mysqli_res : false)));;
 		
-		return mysql_fetch_assoc($result);
+		return mysqli_fetch_assoc($result);
 	}
 
 	function getTitleStatusSummary($row){
@@ -193,12 +193,12 @@
 	
 		//$query2 = "SELECT name FROM People NATURAL JOIN People_mentioned WHERE idDocument = '" . $row["idDocument"] . "' ORDER BY name";
 		$query2 = "SELECT name FROM people WHERE idDocument = '" . $row["idDocument"] . "' ORDER BY name";
-		$result2 = mysql_query($query2);
-		$num2 = mysql_numrows($result2);
+		$result2 = mysqli_query($GLOBALS["___mysqli_ston"], $query2);
+		$num2 = mysqli_num_rows($result2);
 		$i2=0;
 	
 		while ($i2 < $num2) {
-			$row2 = mysql_result($result2,$i2);
+			$row2 = mysqli_result($result2,$i2);
 	
 			echo "<p>$row2</p>";
 	
@@ -212,12 +212,12 @@
 	
 		//$query2 = "SELECT place FROM Places NATURAL JOIN Places_mentioned WHERE idDocument = '" . $row["idDocument"] . "' ORDER BY place";
 		$query2 = "SELECT place FROM places WHERE idDocument = '" . $row["idDocument"] . "' ORDER BY place";
-		$result2 = mysql_query($query2);
-		$num2 = mysql_numrows($result2);
+		$result2 = mysqli_query($GLOBALS["___mysqli_ston"], $query2);
+		$num2 = mysqli_num_rows($result2);
 		$i2=0;
 	
 		while ($i2 < $num2) {
-			$row2 = mysql_result($result2,$i2);
+			$row2 = mysqli_result($result2,$i2);
 	
 			echo "<p>$row2</p>";
 	

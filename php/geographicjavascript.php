@@ -70,9 +70,9 @@
 
 			$query = "SELECT documentList FROM search_index WHERE word = '$term'";
 			
-			$result = mysql_query($query);
+			$result = mysqli_query($GLOBALS["___mysqli_ston"], $query);
 			
-			$row = mysql_fetch_assoc($result);
+			$row = mysqli_fetch_assoc($result);
 			
 			$resultsList = $row['documentList'];	
 			$tempArray = explode(",", $resultsList);
@@ -143,11 +143,11 @@
 		}
 	}
 	
-	$result = mysql_query($query);
-	$numRows = mysql_num_rows($result);
+	$result = mysqli_query($GLOBALS["___mysqli_ston"], $query);
+	$numRows = mysqli_num_rows($result);
 	
 	for($i = 0; $i < $numRows; $i++){
-		$row = mysql_fetch_assoc($result);
+		$row = mysqli_fetch_assoc($result);
 		$filtersArray[$i] = $row["idDocument"];
 	}
 	
@@ -193,13 +193,13 @@
 	// For each of the results
 	while ($i < $numResults) {
 	
-		$row = mysql_fetch_assoc($result);
+		$row = mysqli_fetch_assoc($result);
 		
-		$placeResult = mysql_query("SELECT normalized_to, lat, long FROM  Place, Coordinates WHERE Place INNER JOIN Coordinates ON Place.normalized_to=Coordinates.idCity WHERE idDocument = '" . $row["idDocument"] . "'");
+		$placeResult = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT normalized_to, lat, long FROM  Place, Coordinates WHERE Place INNER JOIN Coordinates ON Place.normalized_to=Coordinates.idCity WHERE idDocument = '" . $row["idDocument"] . "'");
 		//$placeResult = mysql_query("SELECT normalized_to FROM Place WHERE idDocument = '" . $row["idDocument"] . "'");
 		//$placeResult2 = mysql_query("SELECT normalized_from FROM Place WHERE idDocument = '" . $row["idDocument"] . "'");
 		
-		$placeRow = mysql_fetch_assoc($placeResult);
+		$placeRow = mysqli_fetch_assoc($placeResult);
 		//$placeRow = mysql_fetch_array($placeResult);
 		//$placeRow2 = mysql_fetch_array($placeResult2);
 		//$place[] = $placeRow[0];

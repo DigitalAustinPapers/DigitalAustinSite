@@ -45,7 +45,7 @@ if (array_key_exists('query', $_GET))
     $stemWhereClause = "WHERE stem in (NULL";
     foreach ($stemCounts as $stem => $count)
     {
-        $escapedStem = mysql_real_escape_string($stem);
+        $escapedStem = ((isset($GLOBALS["___mysqli_ston"]) && is_object($GLOBALS["___mysqli_ston"])) ? mysqli_real_escape_string($GLOBALS["___mysqli_ston"], $stem) : ((trigger_error("[MySQLConverterToo] Fix the mysql_escape_string() call! This code does not work.", E_USER_ERROR)) ? "" : ""));
         $stemWhereClause .= ", '$escapedStem'";
     }
     $stemWhereClause .= ')';
@@ -89,22 +89,22 @@ if (array_key_exists('query', $_GET))
     print "$sqlIdf<br>";
 
     $idf = array();
-    $result = mysql_query($sqlIdf) or die($sqlIdf . "<br>" . mysql_error());
-    while ($row = mysql_fetch_array($result))
+    $result = mysqli_query($GLOBALS["___mysqli_ston"], $sqlIdf) or die($sqlIdf . "<br>" . ((is_object($GLOBALS["___mysqli_ston"])) ? mysqli_error($GLOBALS["___mysqli_ston"]) : (($___mysqli_res = mysqli_connect_error()) ? $___mysqli_res : false)));
+    while ($row = mysqli_fetch_array($result))
     {
         $idf[$row['stem']] = $row['idf'];
     }
 
     //Create an index for the magnitudes of the document vectors.
     $docMagnitude = array();
-    $result = mysql_query($sqlDocMagnitude) or die($sqlDocMagnitude . "<br>" . mysql_error());
-    while ($row = mysql_fetch_array($result))
+    $result = mysqli_query($GLOBALS["___mysqli_ston"], $sqlDocMagnitude) or die($sqlDocMagnitude . "<br>" . ((is_object($GLOBALS["___mysqli_ston"])) ? mysqli_error($GLOBALS["___mysqli_ston"]) : (($___mysqli_res = mysqli_connect_error()) ? $___mysqli_res : false)));
+    while ($row = mysqli_fetch_array($result))
     {
         $docMagnitude[$row['docId']] = $row['docMagnitude'];
     }
 
-    $result = mysql_query($sqlStemCount) or die($sqlStemCount . "<br>" . mysql_error());
-    while ($row = mysql_fetch_array($result))
+    $result = mysqli_query($GLOBALS["___mysqli_ston"], $sqlStemCount) or die($sqlStemCount . "<br>" . ((is_object($GLOBALS["___mysqli_ston"])) ? mysqli_error($GLOBALS["___mysqli_ston"]) : (($___mysqli_res = mysqli_connect_error()) ? $___mysqli_res : false)));
+    while ($row = mysqli_fetch_array($result))
     {
         if (!array_key_exists($row['docId'], $stemIndex))
         {

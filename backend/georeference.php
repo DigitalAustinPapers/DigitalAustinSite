@@ -13,8 +13,8 @@ require_once('../php/database.php');
 $database = connectToDB();
 
 
-$result = mysql_query("SELECT text, count(*) total FROM PlaceReference GROUP BY text");
-while ($row = mysql_fetch_array($result))
+$result = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT text, count(*) total FROM PlaceReference GROUP BY text");
+while ($row = mysqli_fetch_array($result))
 {
 	$raw_text = $row['text'];
 	$raw_text = str_replace("(", '', $raw_text);

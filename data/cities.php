@@ -21,8 +21,8 @@ $database = connectToDB();
 $sql = buildGeoSearchQuery();
 
 $docData = array();
-$result = mysql_query($sql) or die($sql . "<br>" . mysql_error());
-while ($row = mysql_fetch_assoc($result))
+$result = mysqli_query($GLOBALS["___mysqli_ston"], $sql) or die($sql . "<br>" . ((is_object($GLOBALS["___mysqli_ston"])) ? mysqli_error($GLOBALS["___mysqli_ston"]) : (($___mysqli_res = mysqli_connect_error()) ? $___mysqli_res : false)));
+while ($row = mysqli_fetch_assoc($result))
 {
     array_push($docData, $row);
 }

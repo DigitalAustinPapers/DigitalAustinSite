@@ -23,7 +23,7 @@ function buildSearchQuery($orderBy, $groupBy) {
 		foreach ($stemCounts as $stem => $count)
 		{
 		    if (strlen($stem) != 0) {
-		        $escapedStem = mysql_real_escape_string($stem);
+		        $escapedStem = ((isset($GLOBALS["___mysqli_ston"]) && is_object($GLOBALS["___mysqli_ston"])) ? mysqli_real_escape_string($GLOBALS["___mysqli_ston"], $stem) : ((trigger_error("[MySQLConverterToo] Fix the mysql_escape_string() call! This code does not work.", E_USER_ERROR)) ? "" : ""));
 		        $stemCondition .= ", '$escapedStem'";
 		    }
 		}
@@ -34,7 +34,7 @@ function buildSearchQuery($orderBy, $groupBy) {
 	$locationCondition = '';
 	if (array_key_exists('location', $_GET) && ($_GET['location'] != -1))
 	{
-	    $escapedLocation = mysql_real_escape_string($_GET['location']);
+	    $escapedLocation = ((isset($GLOBALS["___mysqli_ston"]) && is_object($GLOBALS["___mysqli_ston"])) ? mysqli_real_escape_string($GLOBALS["___mysqli_ston"], $_GET['location']) : ((trigger_error("[MySQLConverterToo] Fix the mysql_escape_string() call! This code does not work.", E_USER_ERROR)) ? "" : ""));
 	    $locationCondition = " AND (sentToPlace=$escapedLocation
 	        OR sentFromPlace=$escapedLocation) ";
 	}
@@ -44,14 +44,14 @@ function buildSearchQuery($orderBy, $groupBy) {
 	$fromDateCondition = '';
 	if (array_key_exists('fromYear', $_GET) && ($_GET['fromYear'] != ''))
 	{
-	    $escapedFromYear = mysql_real_escape_string($_GET['fromYear']);
+	    $escapedFromYear = ((isset($GLOBALS["___mysqli_ston"]) && is_object($GLOBALS["___mysqli_ston"])) ? mysqli_real_escape_string($GLOBALS["___mysqli_ston"], $_GET['fromYear']) : ((trigger_error("[MySQLConverterToo] Fix the mysql_escape_string() call! This code does not work.", E_USER_ERROR)) ? "" : ""));
 	    $fromDateCondition = " AND creation > '$escapedFromYear' ";
 	}
 	
 	$toDateCondition = '';
 	if (array_key_exists('toYear', $_GET) && ($_GET['toYear'] != ''))
 	{
-	    $escapedToYear = mysql_real_escape_string($_GET['toYear']);
+	    $escapedToYear = ((isset($GLOBALS["___mysqli_ston"]) && is_object($GLOBALS["___mysqli_ston"])) ? mysqli_real_escape_string($GLOBALS["___mysqli_ston"], $_GET['toYear']) : ((trigger_error("[MySQLConverterToo] Fix the mysql_escape_string() call! This code does not work.", E_USER_ERROR)) ? "" : ""));
 		$escapedToYear = $escapedToYear + 1; # date 
 		
 	    $toDateCondition = " AND creation < '$escapedToYear' ";
@@ -62,14 +62,14 @@ function buildSearchQuery($orderBy, $groupBy) {
 	$fromPersonCondition = '';
 	if (array_key_exists('fromPersonId', $_GET) && ($_GET['fromPersonId'] != ''))
 	{
-	    $escapedFromPersonId = mysql_real_escape_string($_GET['fromPersonId']);
+	    $escapedFromPersonId = ((isset($GLOBALS["___mysqli_ston"]) && is_object($GLOBALS["___mysqli_ston"])) ? mysqli_real_escape_string($GLOBALS["___mysqli_ston"], $_GET['fromPersonId']) : ((trigger_error("[MySQLConverterToo] Fix the mysql_escape_string() call! This code does not work.", E_USER_ERROR)) ? "" : ""));
 	    $fromPersonCondition = " AND sentFromPerson = $escapedFromPersonId ";
 	}
 	
 	$toPersonCondition = '';
 	if (array_key_exists('toPersonId', $_GET) && ($_GET['toPersonId'] != ''))
 	{
-	    $escapedToPersonId = mysql_real_escape_string($_GET['toPersonId']);
+	    $escapedToPersonId = ((isset($GLOBALS["___mysqli_ston"]) && is_object($GLOBALS["___mysqli_ston"])) ? mysqli_real_escape_string($GLOBALS["___mysqli_ston"], $_GET['toPersonId']) : ((trigger_error("[MySQLConverterToo] Fix the mysql_escape_string() call! This code does not work.", E_USER_ERROR)) ? "" : ""));
 	    $toPersonCondition = " AND sentToPerson = $escapedToPersonId ";
 	}
 	
@@ -79,14 +79,14 @@ function buildSearchQuery($orderBy, $groupBy) {
 	$fromPlaceCondition = '';
 	if (array_key_exists('fromPlaceId', $_GET) && ($_GET['fromPlaceId'] != ''))
 	{
-	    $escapedFromPlaceId = mysql_real_escape_string($_GET['fromPlaceId']);
+	    $escapedFromPlaceId = ((isset($GLOBALS["___mysqli_ston"]) && is_object($GLOBALS["___mysqli_ston"])) ? mysqli_real_escape_string($GLOBALS["___mysqli_ston"], $_GET['fromPlaceId']) : ((trigger_error("[MySQLConverterToo] Fix the mysql_escape_string() call! This code does not work.", E_USER_ERROR)) ? "" : ""));
 	    $fromPlaceCondition = " AND sentFromPlace = $escapedFromPlaceId ";
 	}
 	
 	$toPlaceCondition = '';
 	if (array_key_exists('toPlaceId', $_GET) && ($_GET['toPlaceId'] != ''))
 	{
-	    $escapedToPlaceId = mysql_real_escape_string($_GET['toPlaceId']);
+	    $escapedToPlaceId = ((isset($GLOBALS["___mysqli_ston"]) && is_object($GLOBALS["___mysqli_ston"])) ? mysqli_real_escape_string($GLOBALS["___mysqli_ston"], $_GET['toPlaceId']) : ((trigger_error("[MySQLConverterToo] Fix the mysql_escape_string() call! This code does not work.", E_USER_ERROR)) ? "" : ""));
 	    $toPlaceCondition = " AND sentToPlace = $escapedToPlaceId ";
 	}
 	

@@ -5,8 +5,8 @@ $database = connectToDB();
 $connection = $database;
 
 $totalSql = "SELECT COUNT(*) FROM Document";
-$totalResult = mysql_query($totalSql);
-$totalDocs = mysql_result($totalResult, 0);
+$totalResult = mysqli_query($GLOBALS["___mysqli_ston"], $totalSql);
+$totalDocs = mysqli_result($totalResult, 0);
 logString($totalDocs)
 ?>
 <!DOCTYPE html>
