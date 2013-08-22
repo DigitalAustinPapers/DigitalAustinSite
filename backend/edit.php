@@ -17,9 +17,9 @@ $uploaded = true;
 //and grab it out of the database
 if (!$success and array_key_exists('id', $_GET))
 {
-    $escapedId = mysql_real_escape_string($_GET['id']);
-    $result = mysql_query("SELECT xml FROM Document where id='$escapedId'");
-    if ($row = mysql_fetch_array($result))
+    $escapedId = ((isset($GLOBALS["___mysqli_ston"]) && is_object($GLOBALS["___mysqli_ston"])) ? mysqli_real_escape_string($GLOBALS["___mysqli_ston"], $_GET['id']) : ((trigger_error("[MySQLConverterToo] Fix the mysql_escape_string() call! This code does not work.", E_USER_ERROR)) ? "" : ""));
+    $result = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT xml FROM Document where id='$escapedId'");
+    if ($row = mysqli_fetch_array($result))
     {
         $doc->loadXML($row['xml']);
         $success = true;
@@ -168,19 +168,19 @@ function makePersonRow($location, $personName, $key, $knownNames, $index, $dropd
 
 //Generate lists of normalized people and places for comparison to the input.
 $knownNames = array();
-$result = mysql_query("SELECT id, name FROM NormalizedPerson ORDER BY name");
-while ($row = mysql_fetch_array($result))
+$result = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT id, name FROM NormalizedPerson ORDER BY name");
+while ($row = mysqli_fetch_array($result))
 {
     $knownNames[$row['id']] = array($row['name']);
 }
 $knownPlaces = array();
-$result = mysql_query("SELECT id, name FROM NormalizedPlace ORDER BY name");
-while ($row = mysql_fetch_array($result))
+$result = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT id, name FROM NormalizedPlace ORDER BY name");
+while ($row = mysqli_fetch_array($result))
 {
     $knownPlaces[$row['id']] = array($row['name']);
 }
-$result = mysql_query("SELECT normalId, text FROM PlaceReference where normalId IS NOT NULL");
-while ($row = mysql_fetch_array($result))
+$result = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT normalId, text FROM PlaceReference where normalId IS NOT NULL");
+while ($row = mysqli_fetch_array($result))
 {
     array_push($knownPlaces[$row['normalId']], $row['text']);
 }

@@ -46,17 +46,17 @@
 					ORDER BY name";
 	$yearQuery = "SELECT left(creation,4) year, count(*) frequency FROM Document WHERE creation > '1' GROUP BY year ORDER BY 1";
 		
-	$findAuthor=mysql_query($authorQuery, $connection);
-	$findRecipient=mysql_query($recipientQuery, $connection);
-	$findFrom=mysql_query($fromQuery, $connection);
-	$findTo=mysql_query($toQuery, $connection);
-	$findYears=mysql_query($yearQuery, $connection);
+	$findAuthor=mysqli_query( $connection, $authorQuery);
+	$findRecipient=mysqli_query( $connection, $recipientQuery);
+	$findFrom=mysqli_query( $connection, $fromQuery);
+	$findTo=mysqli_query( $connection, $toQuery);
+	$findYears=mysqli_query( $connection, $yearQuery);
 	
-	$numAuthors=mysql_numrows($findAuthor);
-	$numRecipients=mysql_numrows($findRecipient);
-	$numFrom=mysql_numrows($findFrom);
-	$numTo=mysql_numrows($findTo);
-	$numYears=mysql_numrows($findYears);
+	$numAuthors=mysqli_num_rows($findAuthor);
+	$numRecipients=mysqli_num_rows($findRecipient);
+	$numFrom=mysqli_num_rows($findFrom);
+	$numTo=mysqli_num_rows($findTo);
+	$numYears=mysqli_num_rows($findYears);
 
 ?>
 
@@ -82,7 +82,7 @@
 		    } 
 			$i=0;
 			while ($i < $numAuthors) {
-				$row = mysql_fetch_array($findAuthor);
+				$row = mysqli_fetch_array($findAuthor);
 				$personId = $row['id'];
 				$personName = $row['name'];
 				$docFrequency = $row['frequency'];
@@ -107,7 +107,7 @@
 		    } 
 					$i=0;
 			while ($i < $numRecipients) {
-				$row = mysql_fetch_array($findRecipient);
+				$row = mysqli_fetch_array($findRecipient);
 				$personId = $row['id'];
 				$personName = $row['name'];
 				$docFrequency = $row['frequency'];
@@ -131,7 +131,7 @@
 		    } 
 			$i=0;
 			while ($i < $numYears) {
-				$row = mysql_fetch_array($findYears);
+				$row = mysqli_fetch_array($findYears);
 				$year = $row['year'];
 				$docFrequency = $row['frequency'];
 				$isSelected = '';
@@ -148,7 +148,7 @@
 	to year: <select id="toYear" name="toYear" style="width:85px;">
 	<option value="">any...</option>
 		<?php
-			$findYears=mysql_query($yearQuery, $connection);
+			$findYears=mysqli_query( $connection, $yearQuery);
 		    if (array_key_exists('toYear', $_GET)) {
 		    	$toYear = $_GET['toYear'];
 		    } else {
@@ -156,7 +156,7 @@
 		    } 
 			$i=0;
 			while ($i < $numYears) {
-				$row = mysql_fetch_array($findYears);
+				$row = mysqli_fetch_array($findYears);
 				$year = $row['year'];
 				$docFrequency = $row['frequency'];
 				$isSelected = '';
@@ -180,7 +180,7 @@
 		    }
 			$i=0;
 			while ($i < $numFrom) {
-				$row = mysql_fetch_array($findFrom);
+				$row = mysqli_fetch_array($findFrom);
 				$placeId = $row['id'];
 				$placeName = $row['name'];
 				$docFrequency = $row['frequency'];
@@ -205,7 +205,7 @@
 		    }
 			$i=0;
 			while ($i < $numTo) {
-				$row = mysql_fetch_array($findTo);
+				$row = mysqli_fetch_array($findTo);
 				$placeId = $row['id'];
 				$placeName = $row['name'];
 				$docFrequency = $row['frequency'];

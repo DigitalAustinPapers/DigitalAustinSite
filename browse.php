@@ -80,7 +80,7 @@ function getResult($targetBrowseBy) {
 
 	$sql = $sqlStatements[$targetBrowseBy];
 	logString($sql);
-	return mysql_query($sql);	
+	return mysqli_query($GLOBALS["___mysqli_ston"], $sql);	
 }
 
 
@@ -149,7 +149,7 @@ function getResult($targetBrowseBy) {
 <?php
 	$result = getResult($browseBy);
 	$oldHeading = 'DEADBEEF';
-    while ($row = mysql_fetch_array($result))
+    while ($row = mysqli_fetch_array($result))
     {
         $heading = $row['heading'];
 		$id = $row['id'];

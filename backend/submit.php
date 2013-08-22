@@ -72,9 +72,9 @@ $summary = removeDuplicateSpaces($summary);
 
 #logString("loading normalized persons for some reason");
 
-$result = mysql_query("SELECT id, name FROM NormalizedPerson");
+$result = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT id, name FROM NormalizedPerson");
 $knownNames = array();
-while ($row = mysql_fetch_array($result))
+while ($row = mysqli_fetch_array($result))
 {
     $knownNames[$row['id']] = $row['name'];
 }
@@ -146,8 +146,8 @@ foreach( $people as $person )
 	    {
 	        $personSql .= ", ";
 	    }
-	    $escapedDocId = mysql_real_escape_string($docId);
-	    $escapedText = mysql_real_escape_string($text);
+	    $escapedDocId = ((isset($GLOBALS["___mysqli_ston"]) && is_object($GLOBALS["___mysqli_ston"])) ? mysqli_real_escape_string($GLOBALS["___mysqli_ston"], $docId) : ((trigger_error("[MySQLConverterToo] Fix the mysql_escape_string() call! This code does not work.", E_USER_ERROR)) ? "" : ""));
+	    $escapedText = ((isset($GLOBALS["___mysqli_ston"]) && is_object($GLOBALS["___mysqli_ston"])) ? mysqli_real_escape_string($GLOBALS["___mysqli_ston"], $text) : ((trigger_error("[MySQLConverterToo] Fix the mysql_escape_string() call! This code does not work.", E_USER_ERROR)) ? "" : ""));
 	    $personSql .= "('$escapedDocId', '$escapedText', ";
 	    if ($key == NULL)
 	    {
@@ -155,7 +155,7 @@ foreach( $people as $person )
 	    }
 	    else
 	    {
-	        $escapedKey = mysql_real_escape_string($key);
+	        $escapedKey = ((isset($GLOBALS["___mysqli_ston"]) && is_object($GLOBALS["___mysqli_ston"])) ? mysqli_real_escape_string($GLOBALS["___mysqli_ston"], $key) : ((trigger_error("[MySQLConverterToo] Fix the mysql_escape_string() call! This code does not work.", E_USER_ERROR)) ? "" : ""));
 	        $personSql .= "$escapedKey)";
 	    }
 	}
@@ -203,15 +203,15 @@ foreach( $places as $place )
         $key = $_POST["placeTag"][$index];
         if ($type == "origin")
         {
-            $escapedQuotedSentFromKey = "'" . mysql_real_escape_string($key) . "'";
+            $escapedQuotedSentFromKey = "'" . ((isset($GLOBALS["___mysqli_ston"]) && is_object($GLOBALS["___mysqli_ston"])) ? mysqli_real_escape_string($GLOBALS["___mysqli_ston"], $key) : ((trigger_error("[MySQLConverterToo] Fix the mysql_escape_string() call! This code does not work.", E_USER_ERROR)) ? "" : "")) . "'";
         }
         elseif ($type == "destination")
         {
-            $escapedQuotedSentToKey = "'" . mysql_real_escape_string($key) . "'";
+            $escapedQuotedSentToKey = "'" . ((isset($GLOBALS["___mysqli_ston"]) && is_object($GLOBALS["___mysqli_ston"])) ? mysqli_real_escape_string($GLOBALS["___mysqli_ston"], $key) : ((trigger_error("[MySQLConverterToo] Fix the mysql_escape_string() call! This code does not work.", E_USER_ERROR)) ? "" : "")) . "'";
         }
     }
-    $escapedDocId = mysql_real_escape_string($docId);
-    $escapedText = mysql_real_escape_string($text);
+    $escapedDocId = ((isset($GLOBALS["___mysqli_ston"]) && is_object($GLOBALS["___mysqli_ston"])) ? mysqli_real_escape_string($GLOBALS["___mysqli_ston"], $docId) : ((trigger_error("[MySQLConverterToo] Fix the mysql_escape_string() call! This code does not work.", E_USER_ERROR)) ? "" : ""));
+    $escapedText = ((isset($GLOBALS["___mysqli_ston"]) && is_object($GLOBALS["___mysqli_ston"])) ? mysqli_real_escape_string($GLOBALS["___mysqli_ston"], $text) : ((trigger_error("[MySQLConverterToo] Fix the mysql_escape_string() call! This code does not work.", E_USER_ERROR)) ? "" : ""));
     $placeSql .= "('$escapedDocId', '$escapedText', ";
     if ($key == NULL)
     {
@@ -219,7 +219,7 @@ foreach( $places as $place )
     }
     else
     {
-        $escapedKey = mysql_real_escape_string($key);
+        $escapedKey = ((isset($GLOBALS["___mysqli_ston"]) && is_object($GLOBALS["___mysqli_ston"])) ? mysqli_real_escape_string($GLOBALS["___mysqli_ston"], $key) : ((trigger_error("[MySQLConverterToo] Fix the mysql_escape_string() call! This code does not work.", E_USER_ERROR)) ? "" : ""));
         $placeSql .= "$escapedKey)";
     }
     $index += 1;
@@ -246,8 +246,8 @@ foreach($wordCounts as $word => $count)
     {
         $wordCountInsert .= ", ";
     }
-    $escapedDocId = mysql_real_escape_string($docId);
-    $escapedWord = mysql_real_escape_string($word);
+    $escapedDocId = ((isset($GLOBALS["___mysqli_ston"]) && is_object($GLOBALS["___mysqli_ston"])) ? mysqli_real_escape_string($GLOBALS["___mysqli_ston"], $docId) : ((trigger_error("[MySQLConverterToo] Fix the mysql_escape_string() call! This code does not work.", E_USER_ERROR)) ? "" : ""));
+    $escapedWord = ((isset($GLOBALS["___mysqli_ston"]) && is_object($GLOBALS["___mysqli_ston"])) ? mysqli_real_escape_string($GLOBALS["___mysqli_ston"], $word) : ((trigger_error("[MySQLConverterToo] Fix the mysql_escape_string() call! This code does not work.", E_USER_ERROR)) ? "" : ""));
     $wordCountInsert .= "('$escapedDocId', '$escapedWord', $count)";
 }
 $wordCountInsert .= " ON DUPLICATE KEY UPDATE count=VALUES(count)";
@@ -269,35 +269,35 @@ foreach($stemCounts as $stem => $count)
     {
         $stemCountInsert .= ", ";
     }
-    $escapedDocId = mysql_real_escape_string($docId);
-    $escapedStem = mysql_real_escape_string($stem);
+    $escapedDocId = ((isset($GLOBALS["___mysqli_ston"]) && is_object($GLOBALS["___mysqli_ston"])) ? mysqli_real_escape_string($GLOBALS["___mysqli_ston"], $docId) : ((trigger_error("[MySQLConverterToo] Fix the mysql_escape_string() call! This code does not work.", E_USER_ERROR)) ? "" : ""));
+    $escapedStem = ((isset($GLOBALS["___mysqli_ston"]) && is_object($GLOBALS["___mysqli_ston"])) ? mysqli_real_escape_string($GLOBALS["___mysqli_ston"], $stem) : ((trigger_error("[MySQLConverterToo] Fix the mysql_escape_string() call! This code does not work.", E_USER_ERROR)) ? "" : ""));
     $stemCountInsert .= "('$escapedDocId', '$escapedStem', $count)";
 }
 $stemCountInsert .= " ON DUPLICATE KEY UPDATE count=VALUES(count)";
 
 //Insert the document into the database
-$escapedId = mysql_real_escape_string($docId);
-$escapedTitle = mysql_real_escape_string($title);
-$escapedXml = mysql_real_escape_string($doc->saveXML());
-$escapedCreation = mysql_real_escape_string($creationDate); 
-$escapedSummary = mysql_real_escape_string($summary);
+$escapedId = ((isset($GLOBALS["___mysqli_ston"]) && is_object($GLOBALS["___mysqli_ston"])) ? mysqli_real_escape_string($GLOBALS["___mysqli_ston"], $docId) : ((trigger_error("[MySQLConverterToo] Fix the mysql_escape_string() call! This code does not work.", E_USER_ERROR)) ? "" : ""));
+$escapedTitle = ((isset($GLOBALS["___mysqli_ston"]) && is_object($GLOBALS["___mysqli_ston"])) ? mysqli_real_escape_string($GLOBALS["___mysqli_ston"], $title) : ((trigger_error("[MySQLConverterToo] Fix the mysql_escape_string() call! This code does not work.", E_USER_ERROR)) ? "" : ""));
+$escapedXml = ((isset($GLOBALS["___mysqli_ston"]) && is_object($GLOBALS["___mysqli_ston"])) ? mysqli_real_escape_string($GLOBALS["___mysqli_ston"], $doc->saveXML()) : ((trigger_error("[MySQLConverterToo] Fix the mysql_escape_string() call! This code does not work.", E_USER_ERROR)) ? "" : ""));
+$escapedCreation = ((isset($GLOBALS["___mysqli_ston"]) && is_object($GLOBALS["___mysqli_ston"])) ? mysqli_real_escape_string($GLOBALS["___mysqli_ston"], $creationDate) : ((trigger_error("[MySQLConverterToo] Fix the mysql_escape_string() call! This code does not work.", E_USER_ERROR)) ? "" : "")); 
+$escapedSummary = ((isset($GLOBALS["___mysqli_ston"]) && is_object($GLOBALS["___mysqli_ston"])) ? mysqli_real_escape_string($GLOBALS["___mysqli_ston"], $summary) : ((trigger_error("[MySQLConverterToo] Fix the mysql_escape_string() call! This code does not work.", E_USER_ERROR)) ? "" : ""));
 $insertDocSql = "REPLACE INTO Document (id, title, xml,
     creation, summary, sentToPlace, sentFromPlace, sentToPerson, sentFromPerson) VALUES ('$escapedId', '$escapedTitle',
     '$escapedXml', '$escapedCreation', '$escapedSummary', $escapedQuotedSentToKey, $escapedQuotedSentFromKey, $escapedQuotedSentToPersonKey, $escapedQuotedSentFromPersonKey)";
 
-mysql_query($insertDocSql) or print(mysql_error());
+mysqli_query($GLOBALS["___mysqli_ston"], $insertDocSql) or print(((is_object($GLOBALS["___mysqli_ston"])) ? mysqli_error($GLOBALS["___mysqli_ston"]) : (($___mysqli_res = mysqli_connect_error()) ? $___mysqli_res : false)));
 //Perform the PersonReference insert
 #logString($personSql);
-mysql_query($personSql) or print(mysql_error());
+mysqli_query($GLOBALS["___mysqli_ston"], $personSql) or print(((is_object($GLOBALS["___mysqli_ston"])) ? mysqli_error($GLOBALS["___mysqli_ston"]) : (($___mysqli_res = mysqli_connect_error()) ? $___mysqli_res : false)));
 
 //Perform the PlaceReference insert
-mysql_query($placeSql) or print(mysql_error());
+mysqli_query($GLOBALS["___mysqli_ston"], $placeSql) or print(((is_object($GLOBALS["___mysqli_ston"])) ? mysqli_error($GLOBALS["___mysqli_ston"]) : (($___mysqli_res = mysqli_connect_error()) ? $___mysqli_res : false)));
 
 //Perform the WordCount insert
-mysql_query($wordCountInsert) or print(mysql_error());
+mysqli_query($GLOBALS["___mysqli_ston"], $wordCountInsert) or print(((is_object($GLOBALS["___mysqli_ston"])) ? mysqli_error($GLOBALS["___mysqli_ston"]) : (($___mysqli_res = mysqli_connect_error()) ? $___mysqli_res : false)));
 
 //Perform the StemCount insert
-mysql_query($stemCountInsert) or print(mysql_error());
+mysqli_query($GLOBALS["___mysqli_ston"], $stemCountInsert) or print(((is_object($GLOBALS["___mysqli_ston"])) ? mysqli_error($GLOBALS["___mysqli_ston"]) : (($___mysqli_res = mysqli_connect_error()) ? $___mysqli_res : false)));
 
 if (!$command_line)
 {
