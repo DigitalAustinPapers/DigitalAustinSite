@@ -16,8 +16,8 @@ if (array_key_exists('saved', $_GET))
 
 print "<h2>All documents</h2>";
 print "<table border=1>";
-$result = mysql_query("SELECT id, title FROM Document");
-while ($row = mysql_fetch_array($result))
+$result = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT id, title FROM Document");
+while ($row = mysqli_fetch_array($result))
 {
     $id = $row['id'];
     $title = $row['title'];

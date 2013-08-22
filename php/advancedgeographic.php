@@ -5,15 +5,15 @@
 	$fromQuery = "SELECT DISTINCT sent_from FROM place ORDER BY sent_from";
 	$toQuery = "SELECT DISTINCT sent_to FROM place ORDER BY sent_to";
 		
-	$findAuthor=mysql_query($authorQuery, $connection);
-	$findRecipient=mysql_query($recipientQuery, $connection);
-	$findFrom=mysql_query($fromQuery, $connection);
-	$findTo=mysql_query($toQuery, $connection);
+	$findAuthor=mysqli_query( $connection, $authorQuery);
+	$findRecipient=mysqli_query( $connection, $recipientQuery);
+	$findFrom=mysqli_query( $connection, $fromQuery);
+	$findTo=mysqli_query( $connection, $toQuery);
 	
-	$numAuthors=mysql_numrows($findAuthor);
-	$numRecipients=mysql_numrows($findRecipient);
-	$numFrom=mysql_numrows($findFrom);
-	$numTo=mysql_numrows($findTo);
+	$numAuthors=mysqli_num_rows($findAuthor);
+	$numRecipients=mysqli_num_rows($findRecipient);
+	$numFrom=mysqli_num_rows($findFrom);
+	$numTo=mysqli_num_rows($findTo);
 
 ?>
 
@@ -27,7 +27,7 @@
 		<?php
 			$i=0;
 			while ($i < $numAuthors) {
-				$row = mysql_result($findAuthor,$i);
+				$row = mysqli_result($findAuthor,$i);
 				if (strlen($row) > 80){
 					$row = substr($row, 0, 80);
 				}
@@ -43,7 +43,7 @@
 		<?php
 			$i=0;
 			while ($i < $numRecipients) {
-				$row = mysql_result($findRecipient,$i);
+				$row = mysqli_result($findRecipient,$i);
 				if (strlen($row) > 80){
 					$row = substr($row, 0, 80);
 				}
@@ -81,7 +81,7 @@
 		<?php
 			$i=0;
 			while ($i < $numFrom) {
-				$row = mysql_result($findFrom,$i);
+				$row = mysqli_result($findFrom,$i);
 				if (strlen($row) > 125){
 					$row = substr($row, 0, 125);
 				}
@@ -97,7 +97,7 @@
 		<?php
 			$i=0;
 			while ($i < $numTo) {
-				$row = mysql_result($findTo,$i);
+				$row = mysqli_result($findTo,$i);
 				if (strlen($row) > 40){
 					$row = substr($row, 0, 40);
 				}

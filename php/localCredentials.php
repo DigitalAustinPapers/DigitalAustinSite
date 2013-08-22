@@ -6,7 +6,8 @@
                 'username' => "dap",
                 'password' => "dap",
                 'database' => "dap",
-                'server' => "127.0.0.1:3306/");
+                'server' => "127.0.0.1",
+                'port' => 3306);
             return $result;
         }
         
