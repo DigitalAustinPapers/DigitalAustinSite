@@ -105,14 +105,14 @@ foreach ($files as $file)
 
     //Generate lists of normalized people and places for comparison to the input.
     $knownNames = array();
-    $result = mysql_query("SELECT id, name FROM NormalizedPerson ORDER BY name");
-    while ($row = mysql_fetch_array($result))
+    $result = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT id, name FROM NormalizedPerson ORDER BY name");
+    while ($row = mysqli_fetch_array($result))
     {
         $knownNames[$row['id']] = array($row['name']);
     }
     $knownPlaces = array();
-    $result = mysql_query("SELECT id, name FROM NormalizedPlace ORDER BY name");
-    while ($row = mysql_fetch_array($result))
+    $result = mysqli_query($GLOBALS["___mysqli_ston"], "SELECT id, name FROM NormalizedPlace ORDER BY name");
+    while ($row = mysqli_fetch_array($result))
     {
         $knownPlaces[$row['id']] = array($row['name']);
     }

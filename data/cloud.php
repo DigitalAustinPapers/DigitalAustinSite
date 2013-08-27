@@ -23,8 +23,8 @@ $sql = buildWordCloudSearchQuery();
 
 $jsonOut = array();
 $docData = array();
-$result = mysql_query($sql) or die($sql . "<br>" . mysql_error());
-while ($row = mysql_fetch_assoc($result))
+$result = mysqli_query($GLOBALS["___mysqli_ston"], $sql) or die($sql . "<br>" . ((is_object($GLOBALS["___mysqli_ston"])) ? mysqli_error($GLOBALS["___mysqli_ston"]) : (($___mysqli_res = mysqli_connect_error()) ? $___mysqli_res : false)));
+while ($row = mysqli_fetch_assoc($result))
 {
     $row['link'] = 'results.php?query=' . urlencode($row['text']);
     array_push($docData, $row);
@@ -35,8 +35,8 @@ array_push($jsonOut, $docData);
 $sql = buildPlaceCloudSearchQuery();
 
 $docData = array();
-$result = mysql_query($sql) or die($sql . "<br>" . mysql_error());
-while ($row = mysql_fetch_assoc($result))
+$result = mysqli_query($GLOBALS["___mysqli_ston"], $sql) or die($sql . "<br>" . ((is_object($GLOBALS["___mysqli_ston"])) ? mysqli_error($GLOBALS["___mysqli_ston"]) : (($___mysqli_res = mysqli_connect_error()) ? $___mysqli_res : false)));
+while ($row = mysqli_fetch_assoc($result))
 {
     $row['link'] = 'results.php?query=' . urlencode($row['text']);
     array_push($docData, $row);
@@ -46,8 +46,8 @@ array_push($jsonOut, $docData);
 //Person Cloud
 $sql = buildPersonCloudSearchQuery();
 $docData = array();
-$result = mysql_query($sql) or die($sql . "<br>" . mysql_error());
-while ($row = mysql_fetch_assoc($result))
+$result = mysqli_query($GLOBALS["___mysqli_ston"], $sql) or die($sql . "<br>" . ((is_object($GLOBALS["___mysqli_ston"])) ? mysqli_error($GLOBALS["___mysqli_ston"]) : (($___mysqli_res = mysqli_connect_error()) ? $___mysqli_res : false)));
+while ($row = mysqli_fetch_assoc($result))
 {
     $row['link'] = 'results.php?query=' . urlencode($row['text']);
     array_push($docData, $row);

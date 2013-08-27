@@ -78,9 +78,9 @@
 
 			$query = "SELECT documentList FROM search_index WHERE word = '$term'";
 			
-			$result = mysql_query($query);
+			$result = mysqli_query($GLOBALS["___mysqli_ston"], $query);
 			
-			$row = mysql_fetch_assoc($result);
+			$row = mysqli_fetch_assoc($result);
 			
 			$resultsList = $row['documentList'];	
 			$tempArray = explode(",", $resultsList);
@@ -151,11 +151,11 @@
 		}
 	}
 	
-	$result = mysql_query($query);
-	$numRows = mysql_num_rows($result);
+	$result = mysqli_query($GLOBALS["___mysqli_ston"], $query);
+	$numRows = mysqli_num_rows($result);
 	
 	for($i = 0; $i < $numRows; $i++){
-		$row = mysql_fetch_assoc($result);
+		$row = mysqli_fetch_assoc($result);
 		$filtersArray[$i] = $row["idDocument"];
 	}
 	
@@ -191,8 +191,8 @@
 		$j = 0;
 		foreach($resultsArray as $id){
 			$query = "SELECT idDocument, title, summary, creation FROM document NATURAL JOIN text WHERE idDocument = '$id'";
-			$result = mysql_query($query);
-			$row = mysql_fetch_assoc($result);
+			$result = mysqli_query($GLOBALS["___mysqli_ston"], $query);
+			$row = mysqli_fetch_assoc($result);
 		
 			// Display the title and create a link to the corresponding document
 			$results = $results . "\n\t\t\t\t<p>" . ($j + 1) . ". " ."<a href='document.php?id=" . $row['idDocument'] .  "'>" . $row['title'] . "</a>: ";
@@ -200,8 +200,8 @@
 			
 			// Add the body text to the $body variable for the body word cloud
 			$query = "SELECT * FROM document NATURAL JOIN text WHERE idDocument = '" . $row['idDocument'] . "'";
-			$result = mysql_query($query);
-			$body_result = mysql_fetch_assoc($result);
+			$result = mysqli_query($GLOBALS["___mysqli_ston"], $query);
+			$body_result = mysqli_fetch_assoc($result);
 			
 			$body_text = str_replace("*p*", "<p>", $body_result["body"]);
 			$body_text = str_replace("*/p*", "</p>", $body_text);
@@ -220,8 +220,8 @@
 		
 			// Add people to the $people variable for the people word cloud
 			$query = "SELECT * FROM people WHERE person = '" . $row['idDocument'] . "'";
-			$result = mysql_query($query);
-			$people_result = mysql_fetch_assoc($result);
+			$result = mysqli_query($GLOBALS["___mysqli_ston"], $query);
+			$people_result = mysqli_fetch_assoc($result);
 			
 			$people_string = str_replace(" ", "_", $people_result["peopleList"]);
 			$people_string = str_replace(",", " ", $people_string);
@@ -230,8 +230,8 @@
 			
 			// Add places to the $places variable for the places word cloud
 			$query = "SELECT * FROM places WHERE place = '" . $row['idDocument'] . "'";
-			$result = mysql_query($query);
-			$places_result = mysql_fetch_assoc($result);
+			$result = mysqli_query($GLOBALS["___mysqli_ston"], $query);
+			$places_result = mysqli_fetch_assoc($result);
 			
 			$places_string = str_replace(" ", "_", $places_result["placesList"]);
 			$places_string = str_replace(",", " ", $places_string);
@@ -335,7 +335,7 @@
 		}
 		</script>";
 	
-	mysql_close($connection);
+	((is_null($___mysqli_res = mysqli_close($connection))) ? false : $___mysqli_res);
 ?>
 
 	<!--
