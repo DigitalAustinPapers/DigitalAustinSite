@@ -250,6 +250,28 @@ a:visited {
 	font-size: 80%;
 }
 
+/* BROWSE */
+
+.browse h5 {
+	font-weight: bold;
+	font-size: 1.4em;
+	margin: .5em 0;
+	padding: 0;
+}
+
+
+.browse #content p {
+	margin-left: 2em;
+	margin: 0 0 0 2em;
+}
+
+.browse #content a {
+	font-weight: bold;
+	font-size: 1.2em;
+	margin-top: .5em;
+	display: block;
+}
+
 /* CLOUD STUFF */
 
 #results_layer2{
