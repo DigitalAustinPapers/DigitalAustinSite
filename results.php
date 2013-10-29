@@ -461,7 +461,7 @@
 			var timeChart;
 			var timeChartNeedsUpdate = true;
 			google.load("visualization", "1", {packages:["corechart"], callback:function(){
-				timeChart = new google.visualization.LineChart(document.getElementById('timeChart'));
+				timeChart = new google.visualization.ColumnChart(document.getElementById('timeChart'));
 			}});
 			
 			function updateChart() {
@@ -483,20 +483,14 @@
 						chartData.push([yearStr, value]);
 					}
 				}
-				
-				/*var data = google.visualization.arrayToDataTable([
-					['Year', 'Sales', 'Expenses'],
-					['2004',  1000,      400],
-					['2005',  1170,      460],
-					['2006',  660,       1120],
-					['2007',  1030,      540]
-				]);*/
+
 				var data = google.visualization.arrayToDataTable(chartData);
-
 				var options = {
-					title: 'Search Results, Distributed by Year'
+					title: 'Search Results, Distributed by Year',
+					vAxis: {
+						minValue: 0
+					}
 				};
-
 				timeChart.draw(data, options);
 			}
 			// Invoked when new basic data is downloaded
