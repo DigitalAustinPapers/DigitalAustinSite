@@ -364,14 +364,14 @@ table {
 	margin: 0;
 }
 
-#tabs li {
-	float: left;
+#tabs > ul > li {
+	display: inline-block;
 	border: 1px solid #bbb;
 	border-bottom-width: 0;
 	margin: 0;
 }
 
-#tabs a {
+#tabs > ul a {
 	text-decoration: none;
 	display: block;
 	background: #eee;
@@ -381,15 +381,15 @@ table {
 	text-align: center;
 }
 
-#tabs a:hover {
+#tabs > ul a:hover {
 	background: #ddf;
 }
 
-#tabs li.selected {
+#tabs > ul li.selected, #tabs > ul li.ui-state-active {
 	border-color: black;
 }
 
-#tabs li.selected a {
+#tabs > ul li.selected a, #tabs > ul li.ui-state-active a {
 	position: relative;
 	top: 1px;
 	background: white;
@@ -397,11 +397,12 @@ table {
 	font-weight: bold;
 }
 
-#content {
+#content, #tabs > div {
 	border: 1px solid black;
 	clear: both;
 	padding: 0 1em;
 	background: white;
+	min-height: 300px;
 }
 
 /* The following rules are to deal with existing HTML. -kmd*/
@@ -409,11 +410,11 @@ table {
 	/*margin: 0;*/
 }
 
-#content p a {
+#content p a, .ui-tabs-panel p a {
 	font-weight: bold;
 }
 
-#content br {
+#content br, .ui-tabs-panel br {
 	display: none;
 	float: left;
 	
