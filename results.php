@@ -21,12 +21,15 @@
 <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
 <script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
 
-<!-- Maps API -->
-<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?key=AIzaSyCld462mkpAZrPllmHK8eJGXenW5Kus7g0&sensor=false"></script>
+<!-- Maps API 
+<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?key=AIzaSyCld462mkpAZrPllmHK8eJGXenW5Kus7g0&sensor=false"></script>-->
 
 <!-- Word Cloud -->
 <link rel="stylesheet" type="text/css" href="jqcloud/jqcloud.css" />
 <script type="text/javascript" src="jqcloud/jqcloud-1.0.0.js"></script>
+
+<!-- Google AJAX API -->
+<script type="text/javascript" src="https://www.google.com/jsapi?key=AIzaSyCld462mkpAZrPllmHK8eJGXenW5Kus7g0"></script>
 
 <!-- Custom JavaScript -->
 <script type="text/javascript">
@@ -197,6 +200,10 @@
 			var markers;
 			var lines = [];
 			var infoWindows = [];
+			
+			// Load Maps API package
+			google.load("maps", "3", {other_params:'sensor=false'});
+
 			// Performs initial map setup
 			function setupMap() {
 				var mapOptions = {
@@ -449,7 +456,65 @@
 	</div>
 	<div id="tab-timeline">
 		<!-- Timeline Tab Content -->
-		<p>Timeline goes here.</p>
+		<div id="timeChart" style="width:100%; height:500px;"></div>
+		<script>
+			var timeChart;
+			var timeChartNeedsUpdate = true;
+			google.load("visualization", "1", {packages:["corechart"], callback:function(){
+				timeChart = new google.visualization.LineChart(document.getElementById('timeChart'));
+			}});
+			
+			function updateChart() {
+				if (basicData != null) {
+					var years = {};
+					for (i in basicData) {
+						var year = basicData[i].date.substring(0, 4);
+						if (years[year] === undefined)
+							years[year] = 1;
+						else
+							years[year]++;
+					}
+					var chartData = [['Year', 'Results']];
+					for (var i=1789; i<=1844; i++) {
+						var yearStr = i.toString();
+						var value = 0;
+						if (years[yearStr] !== undefined)
+							value = years[yearStr];
+						chartData.push([yearStr, value]);
+					}
+				}
+				
+				/*var data = google.visualization.arrayToDataTable([
+					['Year', 'Sales', 'Expenses'],
+					['2004',  1000,      400],
+					['2005',  1170,      460],
+					['2006',  660,       1120],
+					['2007',  1030,      540]
+				]);*/
+				var data = google.visualization.arrayToDataTable(chartData);
+
+				var options = {
+					title: 'Search Results, Distributed by Year'
+				};
+
+				timeChart.draw(data, options);
+			}
+			// Invoked when new basic data is downloaded
+			$(document).on("basicDataLoaded", function(e, data) {
+				if (data != null) {
+					timeChartNeedsUpdate = true;
+					if ($("#tab-timeline")[0].style.display != "none") {
+						updateChart();
+					}
+				}
+			});
+			// Invoked when a tab is clicked
+			$("#tabs").on("tabsactivate", function(event, ui) {
+				if (ui.newPanel[0].id == "tab-timeline" && timeChartNeedsUpdate) {
+					updateChart();
+				}
+			});
+		</script>
 	</div>
 </div>
 
