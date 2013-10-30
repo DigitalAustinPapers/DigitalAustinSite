@@ -158,7 +158,7 @@
 				docList.empty();
 				$('#resultsCount').text(basicData.length);
 				$('#totalDocsCount').text(totalDocsCount);
-				for (var i in basicData) {
+				for (var i=0; i<basicData.length; i++) {
 					var doc = basicData[i];
 					var row = document.createElement("p");
 					row.innerHTML = "" + (parseInt(i) + 1) + ". ";
@@ -197,7 +197,7 @@
 		<script>
 			var mapIsSetup = false;
 			var map;
-			var markers;
+			var markers = [];
 			var lines = [];
 			var infoWindows = [];
 			
@@ -248,8 +248,7 @@
 			function cityClicked(markerIndex)
 			{
 				//Closes all info windows
-				var i;
-				for (i in infoWindows) {
+				for (var i=0; i<infoWindows.length; i++) {
 					infoWindows[i].close();
 				}
 
@@ -341,11 +340,11 @@
 			}
 			function redrawAllCurves() {
 				// Clear existing
-				for (i in lines)
+				for (var i=0; i<lines.length; i++)
 					lines[i].setMap(null);
 				lines = [];
 				
-				for (i in basicData) {
+				for (var i=0; i<basicData.length; i++) {
 					doc = basicData[i];
 					if (doc['srcLat'] != null && doc['dstLat'] != null) {
 						var curvyness = 0.1 + Math.random() * 0.2;
@@ -364,8 +363,7 @@
 					return;
 				}
 				//Clear all existing markers.
-				var i;
-				for (i in markers) {
+				for (var i=0; i<markers.length; i++) {
 					markers[i].setMap(null);
 				}
 				markers = [];
@@ -467,7 +465,7 @@
 			function updateChart() {
 				if (basicData != null) {
 					var years = {};
-					for (i in basicData) {
+					for (var i=0; i<basicData.length; i++) {
 						var year = basicData[i].date.substring(0, 4);
 						if (years[year] === undefined)
 							years[year] = 1;
@@ -514,6 +512,7 @@
 
 <script>
 	$(function() {
+		// Enable jQueryUI tabs
 		$( "#tabs" ).tabs({
 			beforeLoad: function( event, ui ) {
 				ui.jqXHR.error(function() {
