@@ -494,7 +494,6 @@
 								maxYear = intYear;
 						}
 					}
-					console.log("Years are " + minYear + " to " + maxYear);
 					var chartData = [['Year', 'Results']];
 					for (var i=minYear; i<=maxYear; i++) {
 						var yearStr = i.toString();
@@ -508,6 +507,7 @@
 					}
 				}
 
+				// Define data and options, and draw the chart
 				var data = google.visualization.arrayToDataTable(chartData);
 				var options = {
 					title: 'Search Results, Distributed by Year',
@@ -522,6 +522,20 @@
 					}
 				};
 				timeChart.draw(data, options);
+				
+				// Handle event when user clicks on a chart entity
+				google.visualization.events.addListener(timeChart, 'select', function() {
+					console.log(timeChart.getSelection());
+					var sel = timeChart.getSelection()[0];
+					if ('row' in sel && 'column' in sel) {
+						// Set the "from year"/"to year" search fields to the year clicked
+						var year = chartData[sel.row+1][0];
+						document.getElementById('fromYear').value = year;
+						document.getElementById('toYear').value = year;
+						queryChanged();
+						$("#tabs").tabs("option", "active", 0);
+					}
+				});
 			}
 			// Invoked when new basic data is downloaded
 			$(document).on("basicDataLoaded", function(e, data) {
