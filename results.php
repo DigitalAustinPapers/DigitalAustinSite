@@ -26,8 +26,8 @@
 <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
 
 <!-- JQuery and JQuery UI -->
-<script src="http://code.jquery.com/jquery-1.9.1.js"></script>
-<script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
+<script src="js/jquery/jquery-1.9.1.min.js"></script>
+<script src="js/jquery-ui-1.10.3.min.js"></script>
 
 <!-- Maps API 
 <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?key=AIzaSyCld462mkpAZrPllmHK8eJGXenW5Kus7g0&sensor=false"></script>-->
