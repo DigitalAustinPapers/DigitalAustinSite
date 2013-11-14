@@ -8,6 +8,15 @@
 	$totalResult = mysqli_query($GLOBALS["___mysqli_ston"], $totalSql);
 	$totalDocs = mysqli_result($totalResult, 0);
 	logString($totalDocs);
+
+	$docDistSql = "SELECT YEAR(creation) doc_year, COUNT(*) doc_total FROM Document GROUP BY doc_year ORDER BY doc_year";
+	$docDistResult = mysqli_query($GLOBALS["___mysqli_ston"], $docDistSql);
+
+
+	$docDistDocs = array();
+	while($docDistRow = $docDistResult->fetch_assoc()) {
+	    $docDistDocs[] = $docDistRow;		
+	}
 ?>
 <!DOCTYPE html>
 <html>
@@ -39,6 +48,7 @@
 	var cityData = null;
 	var sortKey = 'date';
 	var totalDocsCount = <?=$totalDocs?>;
+	var totalDocDistribution = <?=json_encode($docDistDocs)?>;
 
 	/*  Changes the content to match the current query
 
