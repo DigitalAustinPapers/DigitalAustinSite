@@ -9,13 +9,12 @@
 	$totalDocs = mysqli_result($totalResult, 0);
 	logString($totalDocs);
 
+	// Get total document counts per year
 	$docDistSql = "SELECT YEAR(creation) doc_year, COUNT(*) doc_total FROM Document GROUP BY doc_year ORDER BY doc_year";
 	$docDistResult = mysqli_query($GLOBALS["___mysqli_ston"], $docDistSql);
-
-
 	$docDistDocs = array();
 	while($docDistRow = $docDistResult->fetch_assoc()) {
-	    $docDistDocs[] = $docDistRow;		
+	    $docDistDocs[$docDistRow['doc_year']] = $docDistRow['doc_total'];		
 	}
 ?>
 <!DOCTYPE html>
@@ -482,21 +481,44 @@
 						else
 							years[year]++;
 					}
+					
+					var minYear = 2000;
+					var maxYear = 1000;
+					for (var key in totalDocDistribution) {
+						// Find years with at least 15 documents
+						if (parseInt(totalDocDistribution[key]) >= 15) {
+							var intYear = parseInt(key);
+							if (intYear < minYear)
+								minYear = intYear;
+							if (parseInt(key) > maxYear)
+								maxYear = intYear;
+						}
+					}
+					console.log("Years are " + minYear + " to " + maxYear);
 					var chartData = [['Year', 'Results']];
-					for (var i=1789; i<=1844; i++) {
+					for (var i=minYear; i<=maxYear; i++) {
 						var yearStr = i.toString();
 						var value = 0;
 						if (years[yearStr] !== undefined)
 							value = years[yearStr];
-						chartData.push([yearStr, value]);
+						var total = 0;
+						if (totalDocDistribution[yearStr] !== undefined)
+							total = parseInt(totalDocDistribution[yearStr]);
+						chartData.push([yearStr, value / total * 100]);
 					}
 				}
 
 				var data = google.visualization.arrayToDataTable(chartData);
 				var options = {
 					title: 'Search Results, Distributed by Year',
+					//isStacked: true,
+					hAxis: {
+						title: "Year"
+					},
 					vAxis: {
-						minValue: 0
+						title: "Percentage out of all documents",
+						minValue: 0,
+					//	logScale: true
 					}
 				};
 				timeChart.draw(data, options);
