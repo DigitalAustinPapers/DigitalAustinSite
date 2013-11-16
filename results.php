@@ -123,6 +123,14 @@
 			waitingForData = true;
 		}
 
+		// Request new network
+		if (true) {
+			var url = 'data/network.php';
+			$.getJSON(url + getParams, function(json) {
+				$(document).trigger("networkDataLoaded", [json]);
+			});
+			waitingForData = true;
+		}
 		return waitingForData;
 	}
 </script>
@@ -149,6 +157,7 @@
 		<li><a href="#tab-geographic">Geographic</a></li>
 		<li><a href="#tab-clouds">Word Clouds</a></li>
 		<li><a href="#tab-timeline">Timeline</a></li>
+		<li><a href="#tab-network">Network</a></li>
 	</ul>
 	<div id="tab-documents">
 		<!-- Documents Tab Content -->
@@ -551,6 +560,23 @@
 				if (ui.newPanel[0].id == "tab-timeline" && timeChartNeedsUpdate) {
 					updateChart();
 				}
+			});
+		</script>
+	</div>
+	<div id="tab-network">
+		<div id="network-data-debug">Network goes here</div>
+		<script>
+			$(document).on("networkDataLoaded", function(e, data) {
+				// Invoked when new network data is downloaded
+				if (data != null && data != basicData) {
+					networkData = data;
+					$('#network-data-debug').innerHTML=data;
+				}
+				else alert("?");
+			});
+			$("#tabs").on("tabsactivate", function(event, ui) {
+				// actual graph goes here
+				alert(networkData);
 			});
 		</script>
 	</div>
