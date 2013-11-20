@@ -12,14 +12,7 @@
 #   sudo docker run -d dap/mysql
 #   # This runs the image in daemon mode.
 #
-#   sudo docker ps
-#   # This lists the currently running Docker containers, and will tell you
-#   # which port number the mysql service was exposed as. Look at the end of the
-#   # dap/mysql line for something like XXXXX->3306, where XXXXX is the port
-#   # number to make note of.
-#
-# Now that you know how to run the container, modify php/localCredentials.php to
-# reflect the port shown in the previous step, and then run a test PHP server:
+# Now that the database container is running, launch a test PHP server:
 #
 #   php -S localhost:8888
 #
@@ -35,7 +28,7 @@
 
 FROM ubuntu:12.04
 MAINTAINER Digital Austin Papers
-EXPOSE 3306
+EXPOSE 3306:3306
 
 # Install packages
 RUN apt-get update
