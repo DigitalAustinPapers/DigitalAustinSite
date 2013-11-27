@@ -1,34 +1,33 @@
 # Digital Austin Papers Web Site
+# for Docker 0.7 or newer
 #
 # This Dockerfile builds an image that runs a mysql-server with the necessary
 # configuration for us to use as a test database for DAP.
 #
 # How to use (assuming Docker is installed):
 # 
-#   sudo docker build -t dap/mysql .
 #   # This builds the Docker image. Wait for the command to finish.
-#   # Note that the "-t dap/mysql" arg is merely assigning a name for this image.
+#   sudo docker build -t dap/mysql .
 #
-#   sudo docker run -d dap/mysql
 #   # This runs the image in daemon mode.
+#   sudo docker run -d -p 127.0.0.1:3306:3306 -name dapdb dap/mysql
 #
 # Now that the database container is running, launch a test PHP server:
 #
 #   php -S localhost:8888
 #
-# To kill the container once you are finished using it, use:
+# To kill (stop) the container once you are finished using it, use:
 #
-#   sudo docker kill XXX
-#   # Replace XXX with the first few letters of the container's ID (shown in the
-#   # first column of the `sudo docker ps` output).
-#   # Note that any changes you made to the database will not persist the next
-#   # time you run this image, unless you create a new snapshot (see docker.io).#
+#   sudo docker kill dapdb
 #
-# VERSION               0.1
+#  Note that any changes you made to the database will not persist the next
+#  time you run this image, unless you create a new snapshot (see docker.io).
+#
+# VERSION               0.2
 
 FROM ubuntu:12.04
 MAINTAINER Digital Austin Papers
-EXPOSE 3306:3306
+EXPOSE 3306
 
 # Install packages
 RUN apt-get update
