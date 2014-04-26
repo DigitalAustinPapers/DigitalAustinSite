@@ -105,8 +105,11 @@ function drawCurve(map, startLatLng, endLatLng, curvyness) {
     }
 }
 
-function redrawAllCurves()
-{
+/**
+ * Draws all of the curves on the map by calling drawCurve multiple times. Uses
+ * data in the basicData global.
+ */
+function redrawAllCurves() {
     for (i in basicData) {
         doc = basicData[i];
         if (doc['srcLat'] != null && doc['dstLat'] != null) {
@@ -119,33 +122,35 @@ function redrawAllCurves()
     }
 }
 
-function redrawMarkers()
-{
+/**
+ * Draws the markers on the map using data in the cityData global.
+ */
+function redrawMarkers() {
     if (cityData == null) {
         return;
     }
-    //Clear all existing markers.
-    var i;
-    for (i in markers) {
+
+    // Clear all existing markers.
+    for (var i=0; i<markers.length; i++) {
         markers[i].setMap(null);
     }
     markers = [];
     infoWindows = [];
 
-    //Determine how many markers we want to draw at this zoom level
+    // Determine how many markers we want to draw at this zoom level
     var maxMarkers;
     if (map.getZoom() > 7) {
         //If we are zoomed in really close, show them all
         maxMarkers = cityData.length;
     }
     else {
-        //Otherwise just show the first few (which are the ones with
-        //the most traffic)
+        // Otherwise just show the first few (which are the ones with
+        // the most traffic)
         maxMarkers = Math.min(cityData.length,
             Math.ceil(Math.pow(map.getZoom(), 1.2)));
     }
 
-    //Add the markers
+    // Add the markers
     for (i = 0; i < maxMarkers; i++) {
         var city = cityData[i];
         var marker = new google.maps.Marker({
@@ -180,12 +185,11 @@ function changeSort() {
     queryChanged();
 }
 
-//If the user has selected the basic view, this function will generate
-//the content.  In this case, the content is simply a list of the matching
-//documents in the order they are returned from the server.
-//
-//A 'hidden' parameter to this function is the global basicData, which
-//is the most recent data received from the server.
+/**
+ * Generates the primary list of results shown by default. This function uses
+ * the basicData global, which contains the latest set of result data received
+ * from the server.
+ */
 function basicContent() {
     var doc;
     var i;
@@ -213,10 +217,11 @@ function basicContent() {
     $('#sort_' + sortKey).prop('checked',true);
 }
 
-//Generates the content of the geographic view, which is a Google Map
-//
-//A 'hidden' parameter to this function is the global basicData, which
-//is the most recent data received from the server.
+/**
+ * Generates the content of the geographic view, which is a Google Map.
+ * See redrawMarkers and redrawAllCurves for more of the logic behind the map's
+ * creation.
+ */
 function geographicContent() {
     $('#content').height(500);
     var myOptions = {
@@ -235,10 +240,11 @@ function geographicContent() {
     google.maps.event.addListener(map, 'zoom_changed', redrawMarkers);
 }
 
-//Generates the content of the word cloud view
-//
-//A 'hidden' parameter to this function is the global cloudData, which
-//is the most recent data received from the server.
+/**
+ * Generates the content of the word cloud view. This function uses the
+ * cloudData global, which contains the latest set of word cloud data received
+ * from the server.
+ */
 function cloudContent() {
     if (cloudData != null) {
         document.getElementById('content').innerHTML =
@@ -272,13 +278,13 @@ function sentimentContent() {
     document.getElementById('content').innerHTML = newContent;
 }
 
-//This function is used as a callback for our XMLHttpRequest object
-//that is pulling data from the server.
+// This function is used as a callback for our XMLHttpRequest object
+// that is pulling data from the server.
 function basicRequestStateChanged() {
     if (this.readyState == 4) {
-        //Complete response received
+        // Complete response received
         if (this.status == 200) {
-            //Query was successful
+            // Query was successful
             basicData = JSON.parse(this.responseText);
             contentGenerators[currentView]();
         }
@@ -289,9 +295,9 @@ function basicRequestStateChanged() {
 //that is pulling data from the server for the word cloud data.
 function cloudRequestStateChanged() {
     if (this.readyState == 4) {
-        //Complete response received
+        // Complete response received
         if (this.status == 200) {
-            //Query was successful
+            // Query was successful
             cloudData = JSON.parse(this.responseText);
             contentGenerators[currentView]();
         }
@@ -300,9 +306,9 @@ function cloudRequestStateChanged() {
 
 function cityRequestStateChanged() {
     if (this.readyState == 4) {
-        //Complete response received
+        // Complete response received
         if (this.status == 200) {
-            //Query was successful
+            // Query was successful
             cityData = JSON.parse(this.responseText);
             contentGenerators[currentView]();
         }
@@ -323,8 +329,7 @@ function load() {
 
     tabIndex is one of views.basic, views.geographic, etc.
 */
-function getTabElement(tabIndex)
-{
+function getTabElement(tabIndex) {
     var tabIdSelector = "#Tab" + tabIndex;
     return $(tabIdSelector);
 }
@@ -338,15 +343,15 @@ function getTabElement(tabIndex)
     This function returns false so that it cancels the form submission
 */
 function queryChanged() {
-    //Invalidate all data that was for the old query parameters
+    // Invalidate all data that was for the old query parameters
     basicData = null;
     cloudData = null;
     cityData = null;
 
-    //Request data for the current view
+    // Request data for the current view
     requestData();
 
-    //Don't navigate away from this page
+    // Don't navigate away from this page
     return false;
 }
 
@@ -355,7 +360,7 @@ function requestData() {
     var waitingForData = false;
     document.getElementById('content').innerHTML = "Loading...";
 
-    //Build the GET params
+    // Build the GET params
     var getParams = '?query=';
     getParams += encodeURIComponent(document.getElementById('query').value);
     // getParams += '&location=';
@@ -377,8 +382,7 @@ function requestData() {
 
     var url;
 
-
-    //Request the data for the basic and geographic views
+    // Request the data for the basic and geographic views
     if (basicData == null) {
         var dataRequest = new XMLHttpRequest();
         url = 'data/search.php';
@@ -388,10 +392,9 @@ function requestData() {
         waitingForData = true;
     }
 
-    //Request the data for the clouds
+    // Request the data for the word clouds
     if (cloudData == null && currentView == views.cloud) {
         var cloudRequest = new XMLHttpRequest();
-        //Text cloud
         url = 'data/cloud.php';
         cloudRequest.open("GET", url + getParams, true);
         cloudRequest.onreadystatechange = cloudRequestStateChanged;
@@ -400,9 +403,9 @@ function requestData() {
         waitingForData = true;
     }
 
+    // Request city data for the map
     if (cityData == null && currentView == views.geographic) {
         var cityRequest = new XMLHttpRequest();
-        //Text cloud
         url = 'data/cities.php';
         cityRequest.open("GET", url + getParams, true);
         cityRequest.onreadystatechange = cityRequestStateChanged;
@@ -422,8 +425,8 @@ function requestData() {
     newView is one of views.basic, views.geographic, etc.
 */
 function tabChanged(newView) {
-    //Reset the height to auto (undoing the static height chosen for
-    //  geographic view)
+    // Reset the height to auto (undoing the static height chosen for
+    // geographic view)
     $('#content').height('auto');
 
     getTabElement(currentView).removeClass("selected");
