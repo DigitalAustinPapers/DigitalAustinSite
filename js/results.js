@@ -137,18 +137,8 @@ function redrawMarkers() {
     markers = [];
     infoWindows = [];
 
-    // Determine how many markers we want to draw at this zoom level
-    var maxMarkers;
-    if (map.getZoom() > 7) {
-        //If we are zoomed in really close, show them all
-        maxMarkers = cityData.length;
-    }
-    else {
-        // Otherwise just show the first few (which are the ones with
-        // the most traffic)
-        maxMarkers = Math.min(cityData.length,
-            Math.ceil(Math.pow(map.getZoom(), 1.2)));
-    }
+    // Determine how many markers we want to draw
+    var maxMarkers = cityData.length;
 
     // Add the markers
     for (i = 0; i < maxMarkers; i++) {
