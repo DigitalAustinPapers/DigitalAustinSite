@@ -7,10 +7,10 @@
 # How to use (assuming Docker is installed):
 # 
 #   # This builds the Docker image. Wait for the command to finish.
-#   sudo docker build -t dap/mysql .
+#   sudo docker build -t untdap/mysql .
 #
 #   # This runs the image in daemon mode.
-#   sudo docker run -d -p 127.0.0.1:3306:3306 -name dapdb dap/mysql
+#   sudo docker run -d -p 127.0.0.1:3306:3306 --name dapdb untdap/mysql
 #
 # Now that the database container is running, launch a test PHP server:
 #
