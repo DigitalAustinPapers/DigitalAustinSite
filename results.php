@@ -147,17 +147,19 @@
 	<form onsubmit='return queryChanged()'>
 		<?php include('php/advancedForm.php'); ?>
 	</form>
+	<p>Showing <span id="resultsCount">0</span> results out of <span id="totalDocsCount">?</span> total documents.</p>
 </div>
 
-<h2>View search results by:</h2>
+		<h2>View search results by:</h2>
+
+
 
 <div id="tabs">
 	<ul style="display:block">
 		<li><a href="#tab-documents">Documents</a></li>
-		<li><a href="#tab-geographic">Geographic</a></li>
-		<li><a href="#tab-clouds">Word Clouds</a></li>
 		<li><a href="#tab-timeline">Timeline</a></li>
-		<li><a href="#tab-network">Network</a></li>
+		<li><a href="#tab-geographic">Geography</a></li>
+		<li><a href="#tab-clouds">Word Clouds</a></li>
 	</ul>
 	<div id="tab-documents">
 		<!-- Documents Tab Content -->
@@ -166,16 +168,18 @@
 			<input type='radio' name='sort' id='sort_date' value='date'>Date</input>
 		</form>
 
-		<p>Showing <span id="resultsCount">0</span> results out of <span id="totalDocsCount">?</span> total documents.</p>
-
 		<div id="documentsList">Loading...</div>
 
 		<script>
 			function updateDocuments() {
-				var docList = $('#documentsList');
+				var docList = $('#documentsList')
+				var NatLangString;
 				docList.empty();
 				$('#resultsCount').text(basicData.length);
 				$('#totalDocsCount').text(totalDocsCount);
+				
+				
+				
 				for (var i=0; i<basicData.length; i++) {
 					var doc = basicData[i];
 					var row = document.createElement("p");
@@ -576,7 +580,7 @@
 			});
 			$("#tabs").on("tabsactivate", function(event, ui) {
 				// actual graph goes here
-				alert(networkData);
+				//alert(networkData);
 			});
 		</script>
 	</div>

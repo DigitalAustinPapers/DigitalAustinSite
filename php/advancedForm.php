@@ -74,6 +74,7 @@
 	<br><br>
   			author: <select id="fromPersonId" name="fromPersonId" style="width:145px;">
 		<option value="">any...</option>
+		<option value="7587" >Stephen F. Austin</option>
 		<?php
 		    if (array_key_exists('fromPersonId', $_GET)) {
 		    	$fromPersonId = $_GET['fromPersonId'];
@@ -99,6 +100,7 @@
 	<!-- <br><br> -->
 	recipient: <select id="toPersonId" name="toPersonId" style="width:150px;">
 	<option value="">any...</option>
+	<option value="7587" >Stephen F. Austin</option>
 		<?php
 		    if (array_key_exists('toPersonId', $_GET)) {
 		    	$toPersonId = $_GET['toPersonId'];
