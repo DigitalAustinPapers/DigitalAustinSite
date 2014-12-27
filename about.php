@@ -31,8 +31,55 @@
 			<p>Coming soon</p>
 			<h3 id="updates_and_status">Updates and Status</h3>
 			<p>Coming soon</p>
-			<h3>Project Staff</h3>
-			<p>Coming soon</p>
+			<h3>Credits</h3>
+			<h4>Editorial Staff</h4>
+			<dl>
+				<dt>
+					Andrew Torget
+				</dt>
+				<dd>
+					General Editor
+				</dd>
+				<dt>
+					Debbie Liles
+				</dt>
+				<dd>
+					Editor
+				</dd>
+			</dl>
+			<h4>Technical Staff</h4>
+			<dl>
+				<dt>
+					Ben W. Brumfield
+				</dt>
+				<dd>
+					Lead Developer
+				</dd>
+				<dt>
+					Karin Dalziel
+				</dt>
+				<dd>
+					Navigation and Front-end Development
+				</dd>
+				<dt>
+					Stephen Eisenauer
+				</dt>
+				<dd>
+					Visualizations and Additional Development
+				</dd>
+				<dt>
+					Sara Carlstead Brumfield
+				</dt>
+				<dd>
+					Clustering Algorithms and Additional Development
+				</dd>
+				<dt>
+					Stephen Mues
+				</dt>
+				<dd>
+					Original Design and Development
+				</dd>
+			</dl>
 			
 			
 			</div>
