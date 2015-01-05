@@ -96,6 +96,36 @@
 		getParams += '&sort=';
 		getParams += encodeURIComponent(sortKey);
 
+
+		var humanQueryString = "";
+		if(document.getElementById('query').value) {
+			humanQueryString = "text: <b>"+document.getElementById('query').value+"</b>";
+		}
+		if(document.getElementById('fromYear').value) {
+			humanQueryString += " starting: <b>"+document.getElementById('fromYear').value+"</b>";
+		}
+		if(document.getElementById('toYear').value) {
+			humanQueryString += " ending: <b>"+document.getElementById('toYear').value+"</b>";
+		}
+		if(document.getElementById('fromPersonId').value) {
+			var personId = document.getElementById('fromPersonId').value;
+			humanQueryString += " sender: <b>"+personIdToNames[personId]+"</b>";
+		}
+		if(document.getElementById('toPersonId').value) {
+			var personId = document.getElementById('toPersonId').value;
+			humanQueryString += " recipient: <b>"+personIdToNames[personId]+"</b>";
+		}
+		if(document.getElementById('fromPlaceId').value) {
+			var placeId = document.getElementById('fromPlaceId').value;
+			humanQueryString += " sent from: <b>"+placeIdToNames[placeId]+"</b>";
+		}
+		if(document.getElementById('toPlaceId').value) {
+			var placeId = document.getElementById('toPlaceId').value;
+			humanQueryString += " sent to: <b>"+placeIdToNames[placeId]+"</b>";
+		}
+		document.getElementById('humanQuery').innerHTML = humanQueryString;
+
+
 		// Request new basic search data
 		if (true) {
 			var url = 'data/search.php';
@@ -147,6 +177,7 @@
 	<form onsubmit='return queryChanged()'>
 		<?php include('php/advancedForm.php'); ?>
 	</form>
+	<p>Query for <span id="humanQuery">no query terms</span></p>
 	<p>Showing <span id="resultsCount">0</span> results out of <span id="totalDocsCount">?</span> total documents.</p>
 </div>
 

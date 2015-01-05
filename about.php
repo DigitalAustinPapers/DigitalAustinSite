@@ -27,10 +27,37 @@
 				</ul>
 
 
-			<h3>Idea Behind the Project</h3>
-			<p>Coming soon</p>
-			<h3 id="updates_and_status">Updates and Status</h3>
-			<p>Coming soon</p>
+			<h3>About the Texts</h3>
+			<p>The Digital Austin Papers represent a digital edition of Barker's 1923 <i>Title goes here</i>.  </p>
+			<h3>About the Digital Edition</h3>
+			<h4>
+				Transcription and Mark-up
+			</h4>
+			<h4>
+				Technology
+			</h4>
+			
+			<h4>
+				TEI
+			</h4>
+			<p>
+				Heeding Peter Robinson's admonition that "your interface is everyone else's enemy", we decided 
+				to expose the TEI version of the papers in two ways:
+				<ul>
+					<li>
+						<b>Bulk Download</b>: A Github repository containing the editor's transcripts, the TEI-P5 XML files, 
+						and the programs used to convert the transcripts to TEI-XML is at 
+						<a href="https://github.com/DigitalAustinPapers/AustinTranscripts">AustinTranscripts</a> and can
+						be downloaded for analysis or any other re-use.
+					</li>
+					<li>
+						<b>On-Screen TEI</b>: Each page on the Digital Austin Papers site has a TEI button: <img src="pics/xml-tei_button.gif" />.  
+						Clicking this will download that document's TEI-XML, formatted using <a href="http://dcl.ils.indiana.edu/teibp/">TEI Boilerplate</a>.
+					</li>
+				</ul>
+				
+			
+			</p>
 			<h3>Credits</h3>
 			<h4>Editorial Staff</h4>
 			<dl>
