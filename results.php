@@ -598,23 +598,6 @@
 			});
 		</script>
 	</div>
-	<div id="tab-network">
-		<div id="network-data-debug">Network goes here</div>
-		<script>
-			$(document).on("networkDataLoaded", function(e, data) {
-				// Invoked when new network data is downloaded
-				if (data != null && data != basicData) {
-					networkData = data;
-					$('#network-data-debug').innerHTML=data;
-				}
-				else alert("?");
-			});
-			$("#tabs").on("tabsactivate", function(event, ui) {
-				// actual graph goes here
-				//alert(networkData);
-			});
-		</script>
-	</div>
 </div>
 
 <script>
