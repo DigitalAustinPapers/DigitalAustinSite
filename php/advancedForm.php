@@ -45,20 +45,57 @@
 					GROUP BY id, name 
 					ORDER BY name";
 	$yearQuery = "SELECT left(creation,4) year, count(*) frequency FROM Document WHERE creation > '1' GROUP BY year ORDER BY 1";
-		
+	
+	$placesQuery = "SELECT np.name name, np.id id from NormalizedPlace np;";
+	$peopleQuery = "SELECT np.name name, np.id id from NormalizedPerson np;";
+			
 	$findAuthor=mysqli_query( $connection, $authorQuery);
 	$findRecipient=mysqli_query( $connection, $recipientQuery);
 	$findFrom=mysqli_query( $connection, $fromQuery);
 	$findTo=mysqli_query( $connection, $toQuery);
 	$findYears=mysqli_query( $connection, $yearQuery);
 	
+	$findPeople=mysqli_query( $connection, $peopleQuery);
+	$findPlaces=mysqli_query( $connection, $placesQuery);
+		
 	$numAuthors=mysqli_num_rows($findAuthor);
 	$numRecipients=mysqli_num_rows($findRecipient);
 	$numFrom=mysqli_num_rows($findFrom);
 	$numTo=mysqli_num_rows($findTo);
 	$numYears=mysqli_num_rows($findYears);
-
+	
+	$numPeople=mysqli_num_rows($findPeople);
+	$numPlaces=mysqli_num_rows($findPlaces);
+	
 ?>
+
+<script>
+	var placeIdToNames = {
+	<?php
+		$i=0;
+		while ($i < $numPlaces) {
+			$row = mysqli_fetch_array($findPlaces);
+			$placeId = $row['id'];
+			$placeName = json_encode($row['name']);
+			echo "      $placeId: $placeName,\n";
+			$i++;
+		}
+	?>	
+	};
+	var personIdToNames = {
+	<?php
+		$i=0;
+		while ($i < $numPeople) {
+			$row = mysqli_fetch_array($findPeople);
+			$personId = $row['id'];
+			$personName = json_encode($row['name']);
+			echo "      $personId: $personName,\n";
+			$i++;
+		}
+	?>	
+
+	};
+</script>
 
 <div id="searchBox">
 		<?php
@@ -74,6 +111,7 @@
 	<br><br>
   			author: <select id="fromPersonId" name="fromPersonId" style="width:145px;">
 		<option value="">any...</option>
+		<option value="7587" >Stephen F. Austin</option>
 		<?php
 		    if (array_key_exists('fromPersonId', $_GET)) {
 		    	$fromPersonId = $_GET['fromPersonId'];
@@ -99,6 +137,7 @@
 	<!-- <br><br> -->
 	recipient: <select id="toPersonId" name="toPersonId" style="width:150px;">
 	<option value="">any...</option>
+	<option value="7587" >Stephen F. Austin</option>
 		<?php
 		    if (array_key_exists('toPersonId', $_GET)) {
 		    	$toPersonId = $_GET['toPersonId'];

@@ -195,7 +195,6 @@ function buildGeoSearchQuery() {
 		group by placeId, placeName
 		) allPoints
 		group by placeId, placeName, lat, lng";
-	logString($sql);
 	return $sql;			
 }
 
@@ -277,6 +276,39 @@ function buildWordCloudSearchQuery() {//Text Cloud
 	return $sql;	
 }
 
+
+function buildNetworkSearchQuery() {//Correspondence network
+	logString('buildNetworkSearchQuery');
+
+	$select = "SELECT Document.id as document_id, Document.sentFromPerson as sentFromPerson, Document.sentToPerson as sentToPerson";
+	$groupBy = "GROUP BY Document.id";
+	$orderBy = "";	
+	logString('calling buildSearchQuery');
+	$innerSql = $select . buildSearchQuery($orderBy, $groupBy);
+	logString('done calling buildSearchQuery');
+	logString($innerSql);
+		
+	
+	$sql = "
+		SELECT
+			sender.id as sender_id,
+			sender.name as sender_name,
+			recipient.id as recipient_id, 
+			recipient.name as recipient_name,
+			count(*) as weight
+		FROM
+			( {$innerSql} ) docs
+		INNER JOIN NormalizedPerson sender
+			ON docs.sentFromPerson = sender.id
+		INNER JOIN NormalizedPerson recipient
+			on docs.sentFromPerson = recipient.id
+		GROUP BY sender_id, sender_name, recipient_id, recipient_name
+		ORDER BY weight DESC;
+	";
+	logString($sql);
+
+	return $sql;	
+}
 
 
 
