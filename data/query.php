@@ -130,7 +130,8 @@ function buildDocumentSearchQuery() {
 	        Document.title as title, Document.creation as date,
 	        $stemSimilarity as similarity,
 	        Destination.lat as dstLat, Destination.lng as dstLng,
-	        Source.lat as srcLat, Source.lng as srcLng";
+	        Source.lat as srcLat, Source.lng as srcLng,
+	        Document.sentimentScore as sentimentScore";
 
 	$orderBy = '';
 	if (array_key_exists('sort', $_GET)) {
@@ -140,7 +141,10 @@ function buildDocumentSearchQuery() {
 	    elseif ($_GET['sort'] === 'date') {
 	        $orderBy = ' ORDER BY date ';
 	    }
-	}
+	    elseif ($_GET['sort'] === 'sentiment') {
+	        $orderBy = ' ORDER BY sentimentScore ';
+	    }
+	    	}
 	
 	$groupBy = "GROUP BY Document.Id";
 

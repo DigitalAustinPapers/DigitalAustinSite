@@ -197,6 +197,7 @@
 		<form id='sortForm'>
 			<input type='radio' name='sort' id='sort_similarity' value='similarity'>Relevance</input>
 			<input type='radio' name='sort' id='sort_date' value='date'>Date</input>
+			<input type='radio' name='sort' id='sort_sentiment' value='sentiment'>Sentiment</input>
 		</form>
 
 		<div id="documentsList">Loading...</div>
