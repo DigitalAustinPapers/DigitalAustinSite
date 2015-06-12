@@ -142,7 +142,7 @@ function buildDocumentSearchQuery() {
 	        $orderBy = ' ORDER BY date ';
 	    }
 	    elseif ($_GET['sort'] === 'sentiment') {
-	        $orderBy = ' ORDER BY sentimentScore ';
+	        $orderBy = ' ORDER BY sentimentScore DESC ';
 	    }
 	    	}
 	
