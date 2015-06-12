@@ -522,12 +522,29 @@
 			function updateChart() {
 				if (basicData != null) {
 					var years = {};
+					var positive = {};
+					var neutral = {};
+					var negative = {};
 					for (var i=0; i<basicData.length; i++) {
 						var year = basicData[i].date.substring(0, 4);
 						if (years[year] === undefined)
 							years[year] = 1;
 						else
 							years[year]++;
+						
+						if (positive[year] === undefined) {
+							positive[year] = 0;
+							neutral[year] = 0;
+							negative[year] = 0;
+						}
+						
+						if (basicData[i].sentimentScore < -2.0) {
+							negative[year]++;
+						} else if (basicData[i].sentimentScore > 2.0) {
+							positive[year]++;
+						} else {
+							neutral[year]++;
+						}
 					}
 					
 					var minYear = 2000;
@@ -542,22 +559,25 @@
 								maxYear = intYear;
 						}
 					}
-					var chartData = [['Year', 'Results']];
+					var chartData = [['Year', 'Negative','Neutral','Positive']];
 					for (var i=minYear; i<=maxYear; i++) {
 						var yearStr = i.toString();
 						var value = 0;
 						if (years[yearStr] !== undefined)
 							value = years[yearStr];
 						var total = 0;
-						if (totalDocDistribution[yearStr] !== undefined)
+						if (totalDocDistribution[yearStr] !== undefined) {
 							total = parseInt(totalDocDistribution[yearStr]);
-						chartData.push([yearStr, value / total * 100]);
+							
+						}
+						chartData.push([yearStr, negative[yearStr] / total * 100,neutral[yearStr] / total * 100,positive[yearStr] / total * 100]);
 					}
 				}
 
 				// Define data and options, and draw the chart
 				var data = google.visualization.arrayToDataTable(chartData);
 				var options = {
+					isStacked: true,
 					title: 'Search Results, Distributed by Year',
 					//isStacked: true,
 					hAxis: {
@@ -567,7 +587,8 @@
 						title: "Percentage out of all documents",
 						minValue: 0,
 					//	logScale: true
-					}
+					},
+					series: [{color: '#b70000'},{color: 'gray'},{color: '#006600'}]
 				};
 				timeChart.draw(data, options);
 				
