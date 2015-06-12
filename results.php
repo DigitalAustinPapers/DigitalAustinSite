@@ -216,6 +216,9 @@
 					var doc = basicData[i];
 					var row = document.createElement("p");
 					row.innerHTML = "" + (parseInt(i) + 1) + ". ";
+					var sentiment = document.createElement("span");
+					sentiment.innerHTML = doc['sentimentScore'];
+					row.appendChild(sentiment);
 					var a = document.createElement("a");
 					a.href = "document.php?id=" + doc['id'] + ".xml";
 					a.innerHTML = doc['title'];
