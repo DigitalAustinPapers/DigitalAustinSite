@@ -570,7 +570,10 @@
 							total = parseInt(totalDocDistribution[yearStr]);
 							
 						}
-						chartData.push([yearStr, negative[yearStr] / total * 100,neutral[yearStr] / total * 100,positive[yearStr] / total * 100]);
+						chartData.push([yearStr, 
+										Math.floor(negative[yearStr] / total * 1000)/10,
+										Math.floor(neutral[yearStr] / total * 1000)/10,
+										Math.floor(positive[yearStr] / total * 1000)/10]);
 					}
 				}
 
