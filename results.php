@@ -1,4 +1,5 @@
 <?
+	include 'php/constants.php';
 	include 'php/database.php';
 	include('php/wordcloud.class.php');
 	$database = connectToDB();
@@ -46,6 +47,8 @@
 	var cloudData = null;
 	var cityData = null;
 	var sortKey = 'date';
+	var positiveThreshold = <?=$positiveThreshold?>;
+	var negativeThreshold = <?=$negativeThreshold?>;
 	var totalDocsCount = <?=$totalDocs?>;
 	var totalDocDistribution = <?=json_encode($docDistDocs)?>;
 
@@ -538,9 +541,9 @@
 							negative[year] = 0;
 						}
 						
-						if (basicData[i].sentimentScore < -2.0) {
+						if (basicData[i].sentimentScore < negativeThreshold) {
 							negative[year]++;
-						} else if (basicData[i].sentimentScore > 2.0) {
+						} else if (basicData[i].sentimentScore > positiveThreshold) {
 							positive[year]++;
 						} else {
 							neutral[year]++;
