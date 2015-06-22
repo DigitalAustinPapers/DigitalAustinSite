@@ -1,5 +1,4 @@
 <?
-	include 'php/constants.php';
 	include 'php/database.php';
 	include('php/wordcloud.class.php');
 	$database = connectToDB();
@@ -47,8 +46,8 @@
 	var cloudData = null;
 	var cityData = null;
 	var sortKey = 'date';
-	var positiveThreshold = <?=$positiveThreshold?>;
-	var negativeThreshold = <?=$negativeThreshold?>;
+	var positiveThreshold = 2.0;
+	var negativeThreshold = -2.0;
 	var totalDocsCount = <?=$totalDocs?>;
 	var totalDocDistribution = <?=json_encode($docDistDocs)?>;
 
@@ -71,6 +70,32 @@
 
 		// Don't navigate away from this page
 		return false;
+	}
+
+	function queryUrlForYearAndSentiment(year, sentiment) {
+		// Build the GET params
+		var getParams = '?query=';
+		getParams += encodeURIComponent(document.getElementById('query').value);
+		// getParams += '&location=';
+		// getParams += encodeURIComponent(document.getElementById('location').value);
+		getParams += '&fromYear=';
+		getParams += year;
+		getParams += '&toYear=';
+		getParams += year;
+		getParams += '&fromPersonId=';
+		getParams += encodeURIComponent(document.getElementById('fromPersonId').value);
+		getParams += '&toPersonId=';
+		getParams += encodeURIComponent(document.getElementById('toPersonId').value);
+		getParams += '&fromPlaceId=';
+		getParams += encodeURIComponent(document.getElementById('fromPlaceId').value);
+		getParams += '&toPlaceId=';
+		getParams += encodeURIComponent(document.getElementById('toPlaceId').value);
+		getParams += '&sentiment=';
+		getParams += sentiment;
+		getParams += '&sort=';
+		getParams += encodeURIComponent(sortKey);
+		
+		return 'data/search.php' + getParams;
 	}
 
 	// Start data requests for the current view if necessary.
@@ -96,6 +121,8 @@
 		getParams += encodeURIComponent(document.getElementById('fromPlaceId').value);
 		getParams += '&toPlaceId=';
 		getParams += encodeURIComponent(document.getElementById('toPlaceId').value);
+		getParams += '&sentiment=';
+		getParams += encodeURIComponent(document.getElementById('sentiment').value);
 		getParams += '&sort=';
 		getParams += encodeURIComponent(sortKey);
 
@@ -125,6 +152,9 @@
 		if(document.getElementById('toPlaceId').value) {
 			var placeId = document.getElementById('toPlaceId').value;
 			humanQueryString += " sent to: <b>"+placeIdToNames[placeId]+"</b>";
+		}
+		if(document.getElementById('sentiment').value) {
+			humanQueryString += " with <b>"+document.getElementById('sentiment').value+"</b> sentiment scores";
 		}
 		document.getElementById('humanQuery').innerHTML = humanQueryString;
 
@@ -600,11 +630,20 @@
 				
 				// Handle event when user clicks on a chart entity
 				google.visualization.events.addListener(timeChart, 'select', function() {
-					console.log(timeChart.getSelection());
+					console.log(timeChart.getSelection()[0]);
 					var sel = timeChart.getSelection()[0];
 					if ('row' in sel && 'column' in sel) {
 						// Set the "from year"/"to year" search fields to the year clicked
 						var year = chartData[sel.row+1][0];
+						if(sel.column == 1) {
+							document.getElementById('sentiment').value = 'negative';						
+						}
+						if(sel.column == 2) {
+							document.getElementById('sentiment').value = 'neutral';						
+						}
+						if(sel.column == 3) {
+							document.getElementById('sentiment').value = 'positive';						
+						}
 						document.getElementById('fromYear').value = year;
 						document.getElementById('toYear').value = year;
 						queryChanged();

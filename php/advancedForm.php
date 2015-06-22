@@ -258,4 +258,31 @@
 			}
 		?>
 	</select>
+	<br><br>
+	sentiment: <select id="sentiment" name="sentiment" style="width:90px;">
+		<option value="">any...</option>
+		<?php
+			$allSentiments = array();
+			$allSentiments['positive'] = 'positive';
+			$allSentiments['neutral'] = 'neutral';
+			$allSentiments['negative'] = 'negative';
+		
+	     	if (array_key_exists('sentiment', $_GET)) {
+	     		$selectedSentiment = $_GET['sentiment'];	
+			} else {
+				$selectedSentiment = '';
+			}
+			
+			foreach($allSentiments as $thisSentiment) {
+				$isSelected = '';
+				
+				if($selectedSentiment == $thisSentiment) {
+					$isSelected = ' selected="selected"';
+				}
+				echo "<option value=\"$thisSentiment\" $isSelected>$thisSentiment</option>\n";
+			}
+			
+			
+		?>
+	</select>
 </div>

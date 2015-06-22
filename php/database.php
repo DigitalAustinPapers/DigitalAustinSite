@@ -2,12 +2,14 @@
 
 	function logString($logMsg)
 	{
-		$handle = fopen('/home/benwbrum/dev/clients/torget/dap/DigitalAustinSite/debug.log', 'a+');
-		fwrite($handle, "\n" );	
-		fwrite($handle, $logMsg );
-		fwrite($handle, "\n" );
-		
-		fclose($handle);
+		if(false) {
+			$handle = fopen('/home/benwbrum/dev/clients/torget/dap/DigitalAustinSite/debug.log', 'a+');
+			fwrite($handle, "\n" );	
+			fwrite($handle, $logMsg );
+			fwrite($handle, "\n" );
+			
+			fclose($handle);		
+		}
 	}
 
 	// Compatibility function since mysqli lacks an equivalent to mysql_result

@@ -91,6 +91,24 @@ function buildSearchQuery($orderBy, $groupBy) {
 	}
 	
 	
+	$sentimentCondition = '';
+	if (array_key_exists('sentiment', $_GET) && ($_GET['sentiment'] != ''))
+	{
+		$sentiment = $_GET['sentiment'];
+		
+		if($sentiment == 'positive') {
+			$sentimentCondition = " AND sentimentScore > 2.0 ";
+		}
+		if($sentiment == 'negative') {
+			$sentimentCondition = " AND sentimentScore < -2.0 ";
+		}
+		if($sentiment == 'neutral') {
+			$sentimentCondition = " AND sentimentScore BETWEEN -2.0 AND 2.0 ";
+		}
+	} 
+	
+	
+	
 	
 	$sql = "
 	    FROM Document
@@ -108,6 +126,7 @@ function buildSearchQuery($orderBy, $groupBy) {
 	    $toPersonCondition
 	    $fromPlaceCondition
 	    $toPlaceCondition
+	    $sentimentCondition
         $groupBy
 	    $orderBy 
 	";
@@ -150,6 +169,7 @@ function buildDocumentSearchQuery() {
 
     $sql = $select . buildSearchQuery($orderBy, $groupBy);
 
+	logString($sql);
 	return $sql;
 }
 
