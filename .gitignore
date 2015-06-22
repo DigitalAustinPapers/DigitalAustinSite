@@ -19,6 +19,7 @@ interdiff*.txt
 # Hidden files.
 .DS*
 .project
+.htaccess
 
 # Temporary files.
 tmp*
