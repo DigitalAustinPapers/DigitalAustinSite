@@ -87,22 +87,10 @@ function getResult($targetBrowseBy) {
 
 ?>
 
+<?php include('header.php'); ?>
 
-<html class="browse">
-	<header>
-		<link rel="stylesheet" type="text/css" href="header.css" />
-		<link rel="stylesheet" type="text/css" href="footer.css" />
-		<link rel="stylesheet" type="text/css" href="style.css" /> <!-- Merged CSS -kmd -->
-		<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
-	</header>
-
-	<body>
-		<div id = "wrapper" class="shadow">
-			<div id = "header">
-				<?php include('header.php'); ?>
-			</div>
 			<!-- Created this page new -kmd -->
-			<div class="content">
+			<div class="content browse">
 			<!-- I'm not sure we want this here -- what do you think, Karin?
 			<h2>Browse</h2>
 			
@@ -182,11 +170,4 @@ function getResult($targetBrowseBy) {
 			
 			</div><!-- /.content -->
 			
-			
-			
-			<div id = "footer">
-				<?php include('footer.php'); ?>
-			</div>
-		</div>
-	</body>
-</html>
+<?php include('footer.php'); ?>
