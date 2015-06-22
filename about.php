@@ -1,16 +1,5 @@
-<html>
-	<header>
-		<link rel="stylesheet" type="text/css" href="header.css" />
-		<link rel="stylesheet" type="text/css" href="footer.css" />
-		<link rel="stylesheet" type="text/css" href="style.css" /> <!-- Merged CSS -kmd -->
-		<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
-	</header>
+<?php include('header.php'); ?>
 
-	<body>
-		<div id = "wrapper" class="shadow">
-			<div id = "header">
-				<?php include('header.php'); ?>
-			</div>
 			<!-- Created this page new -kmd -->
 			<div class="content">
 			<h2>About</h2>
@@ -110,12 +99,5 @@
 			
 			
 			</div>
-			
-			
-			
-			<div id = "footer">
-				<?php include('footer.php'); ?>
-			</div>
-		</div>
-	</body>
-</html>
+
+<?php include('footer.php'); ?>

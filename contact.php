@@ -1,16 +1,5 @@
-<html>
-	<header>
-		<link rel="stylesheet" type="text/css" href="header.css" />
-		<link rel="stylesheet" type="text/css" href="footer.css" />
-		<link rel="stylesheet" type="text/css" href="style.css" /> <!-- Merged CSS -kmd -->
-		<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
-	</header>
+<?php include('header.php'); ?>
 
-	<body>
-		<div id = "wrapper" class="shadow">
-			<div id = "header">
-				<?php include('header.php'); ?>
-			</div>
 			<div id = "form">
 				<h2>Contact Form</h2> 
 			<p>Please fill out the form below to send email to the Digital Austin Collection team <em>(all fields are required)</em>:</p> 
@@ -37,9 +26,5 @@
 				</p> 
 			</form> 
 			</div>
-			<div id = "footer">
-				<?php include('footer.php'); ?>
-			</div>
-		</div>
-	</body>
-</html>
+
+<?php include('footer.php'); ?>

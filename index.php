@@ -1,17 +1,5 @@
-<html>
-	<header>
-		<link rel="stylesheet" type="text/css" href="header.css" />
-		<link rel="stylesheet" type="text/css" href="footer.css" />
-		<link rel="stylesheet" type="text/css" href="style.css" /> <!-- Merged CSS -kmd -->
-		<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
-	</header>
+<?php include('header.php'); ?>
 
-	<body>
-		<div id = "wrapper" class="shadow">
-			<div id = "header">
-				<?php include('header.php'); ?>
-			</div>
-			
 			<div id="content1"><div id = "austin_image"><img src="pics/AustinBackground.png" width=280px height=264px/></div></div><!-- /content1 -->
 			
 			<div id="content2"><div id = "blurb">
@@ -48,19 +36,11 @@
 <h2>Featured Searches</h2>
 					<ul>
 						<li><a href="results.php?textSearch=cholera">Cholera epidemic in the 1830s</a></li>
-						<li><a href="results.php?recipient=Emily M Perry">Stephen Austin’s Letters to his sister, Emily</a></li>
+						<li><a href="results.php?recipient=Emily M Perry">Stephen Austinï¿½s Letters to his sister, Emily</a></li>
 						<li><a href="results.php?textSearch=comanches">Problems with Comanches</a></li>
 						<li><a href="results.php?to=New Orleans, Louisiana">Letters from Texas to New Orleans, LA</a></li>
 					</ul>
 -->
 			</div><!-- /content3 -->
 			
-			
-			
-			
-			<div id = "footer">
-				<?php include('footer.php'); ?>
-			</div>
-		</div>
-	</body>
-</html>
+<?php include('footer.php'); ?>

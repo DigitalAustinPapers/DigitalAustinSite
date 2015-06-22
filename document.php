@@ -1,25 +1,9 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<?php
+  include('php/database.php');
+  include('php/document.php');
+  include('header.php');
+?>
 
-<?php include('php/database.php'); ?>
-<?php include('php/document.php'); ?>
-
-<html>
-
-	<header>
-		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-
-		<link rel="stylesheet" type="text/css" href="header.css" />
-		<link rel="stylesheet" type="text/css" href="footer.css" />
-		<link rel="stylesheet" type="text/css" href="style.css" /> <!-- Merged CSS -kmd -->
-		<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
-	</header>
-
-	<body>
-		<div id = "wrapper" class = "shadow">
-			<?php loadScript(); ?>
-			<div id = "header">
-				<?php include('header.php'); ?>
-			</div>
 			<?php
 				connectToDB();
 				$result = queryDB();
@@ -48,9 +32,4 @@
 			</div>
 			<div id="cite">Citation: <?php print getCitation($result) ?></div>
 			
-			<div id = "footer">
-				<?php include('footer.php'); ?>
-			</div>
-		</div>
-	</body>
-</html>
+<?php include('footer.php'); ?>
