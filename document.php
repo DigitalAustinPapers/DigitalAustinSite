@@ -12,7 +12,7 @@
 			<!-- Moved TEI button here -KMD -->
 			<div id="teixml">
 				<a href="rawtei.php?id=<?php print $result['id'] ?>">
-					<img src="pics/xml-tei_button.gif" />
+					<img src="img/xml-tei_button.gif" />
 				</a>
 			</div>
 			<div id='text'>
