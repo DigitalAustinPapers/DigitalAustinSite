@@ -40,7 +40,7 @@
 						be downloaded for analysis or any other re-use.
 					</li>
 					<li>
-						<b>On-Screen TEI</b>: Each page on the Digital Austin Papers site has a TEI button: <img src="pics/xml-tei_button.gif" />.  
+						<b>On-Screen TEI</b>: Each page on the Digital Austin Papers site has a TEI button: <img src="img/xml-tei_button.gif" />.
 						Clicking this will download that document's TEI-XML, formatted using <a href="http://dcl.ils.indiana.edu/teibp/">TEI Boilerplate</a>.
 					</li>
 				</ul>

@@ -1,6 +1,6 @@
 <footer id="footer">
   <div id="footer_left">
-    <a href="http://www.unt.edu"><img src="pics/unt.png" height="31px" /></a><br/>A
+    <a href="http://www.unt.edu"><img src="img/unt.png" height="31px" /></a><br/>A
     Project of the Digital History Lab,<br/>
     <a href="http://www.unt.edu">University of North Texas</a>
   </div><!-- footer_left -->
