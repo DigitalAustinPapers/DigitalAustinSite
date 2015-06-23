@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  {% block head %}
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Stephen F. Austin - Digital Collection</title>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="css/style.css">
+
+    <!-- scripts -->
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="../js/html5shiv/html5shiv-3.7.2.min.js"></script>
+    <script src="../js/respond/respond-1.4.2.min.js"></script>
+    <![endif]-->
+  {% endblock %}
+</head>
+<body>
+Assembled by TWIG!!!
+<div id="main-wrapper">
+  {% block header %}
+    {% include 'header.html' %}
+  {% endblock %}
+
+  <div class="container main-container">
+    <div class="row">
+      <div class="col-sm-4">
+        {% block sidebar %}{% endblock %}
+      </div><!-- col-sm-4 -->
+      <div class="col-sm-8">
+        {% block content %}{% endblock %}
+      </div><!-- col-sm-8 -->
+    </div><!-- row -->
+  </div><!-- main-container -->
+
+</div><!-- main-wrapper -->
+<div id="footer">
+  {% block footer %}
+    {% include 'footer.html' %}
+  {% endblock %}
+</div>
+
+<!-- scripts -->
+{% block footer_scripts %}
+<script src="../js/jquery/jquery-1.9.1.min.js"></script>
+<script src="../js/jquery-ui/jquery-ui-1.10.3.min.js"></script>
+<script src="../bootstrap/dist/js/bootstrap.min.js"></script>
+{% endblock %}
+
+</body>
+</html>
