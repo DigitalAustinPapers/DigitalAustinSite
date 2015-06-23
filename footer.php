@@ -11,10 +11,11 @@
   </div><!-- footer_right -->
 </footer>
 
-</div><!-- wrapper -->
+</div><!-- main-wrapper -->
 
-<script src="src/jquery/jquery-1.9.1.min.js"></script>
-<script src="src/jquery-ui/jquery-ui-1.10.3.min.js"></script>
+<!-- scripts -->
+<script src="src/js/jquery/jquery-1.9.1.min.js"></script>
+<script src="src/js/jquery-ui/jquery-ui-1.10.3.min.js"></script>
 <script src="src/bootstrap/dist/js/bootstrap.min.js"></script>
 
 </body>
