@@ -5,4 +5,4 @@
 
 $renderer = new TemplateRenderer();
 // Include any variables as an array in the second param
-print $renderer->render('index.html');
+print $renderer->render('index.html.twig');
