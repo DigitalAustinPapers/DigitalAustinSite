@@ -1,0 +1,69 @@
+{% extends 'base.twig' %}
+
+{% block sidebar %}
+  <img src="img/AustinBackground.png" class="img-responsive" alt="Stephen F. Austin">
+  <div class="partners panel panel-default">
+    <div class="panel-body">
+      <h2>Partners</h2>
+      <ul>
+        <li>Digital History Lab, UNT</li>
+        <li><a href="http://texashistory.unt.edu" id="about-partners-portal">Portal to Texas History, UNT</a></li>
+        <li><a href="http://www.cah.utexas.edu/" id="about-partners-ut-center">Center for American History, University of Texas</a></li>
+        <li><a href="http://www.glo.texas.gov/" id="about-partners-txglo">Texas General Land Office</a></li>
+        <li><a href="http://www.summerlee.org/" id="about-partners-summerlee">Summerlee Foundation</a></li>
+        <li><a href="http://www.tshaonline.org/" id="about-partners-txsha">Texas State Historical Association</a></li>
+      </ul>
+    </div><!-- panel-body -->
+  </div><!-- partners panel-->
+{% endblock %}
+
+{% block content %}
+<div class="panel panel-default" id="about">
+  <div class="panel-body">
+
+    <h2>Contact Form</h2>
+    <p>Please fill out the form below to send email to the Digital Austin Collection team <em>(all fields are required)</em>:</p>
+    <form class="form-horizontal" action="send" method="post">
+
+      <div class="form-group">
+        <label for="contact_name" class="col-sm-3">Your Name:</label>
+        <div class="col-sm-9">
+          <input type="text" id="contact_name" name="contact_name" placeholder="Name">
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label for="contact_email" class="col-sm-3">Your Email Address:</label>
+        <div class="col-sm-9">
+          <input type="text" id="contact_email" name="contact_email" placeholder="Email">
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label for="contact_reason" class="col-sm-3">Reason for Email:</label>
+        <div class="col-sm-9">
+          <select id="contact_reason" name="contact_reason" >
+            <option label="Question" value="question" selected="selected">Question</option>
+            <option label="Comment" value="comment">Comment</option>
+            <option label="Suggestion" value="suggestion">Suggestion</option>
+            <option label="Problem" value="problem">Problem</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label for="contact_message" class="col-sm-3">Your Message:</label>
+        <div class="col-sm-9">
+          <textarea id="contact_message" name="contact_message" rows="8" class="form-control"></textarea>
+        </div>
+      </div>
+
+      <div class="form-group">
+        <div class="col-sm-offset-3 col-sm-9">
+          <button type="submit" id="submit" class="btn btn-default">Send</button>
+        </div>
+      </div>
+    </form>
+  </div><!-- panel-body -->
+</div><!-- panel -->
+{% endblock %}
