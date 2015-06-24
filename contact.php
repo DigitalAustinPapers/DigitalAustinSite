@@ -1,4 +1,4 @@
-<?php require_once 'TemplateRenderer.class.php';
+<?php require_once 'src/TemplateRenderer.class.php';
 
 // Include any logic for this page below
 
