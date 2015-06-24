@@ -1,6 +1,6 @@
 <footer id="footer">
   <div id="footer_left">
-    <a href="http://www.unt.edu"><img src="img/unt.png" height="31px" /></a><br/>A
+    <a href="http://www.unt.edu"><img src="assets/img/unt.png" height="31px" /></a><br/>A
     Project of the Digital History Lab,<br/>
     <a href="http://www.unt.edu">University of North Texas</a>
   </div><!-- footer_left -->
@@ -14,8 +14,8 @@
 </div><!-- main-wrapper -->
 
 <!-- scripts -->
-<script src="src/js/jquery/jquery-1.9.1.min.js"></script>
-<script src="src/js/jquery-ui/jquery-ui-1.10.3.min.js"></script>
+<script src="assets/js/jquery/jquery-1.9.1.min.js"></script>
+<script src="assets/js/jquery-ui/jquery-ui-1.10.3.min.js"></script>
 <script src="src/bootstrap/dist/js/bootstrap.min.js"></script>
 
 </body>

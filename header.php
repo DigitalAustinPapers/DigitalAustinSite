@@ -8,12 +8,12 @@
   <title>Stephen F. Austin - Digital Collection</title>
 
   <!-- CSS -->
-  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="assets/css/style.css">
 
   <!-- scripts -->
   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
   <!--[if lt IE 9]>
-  <script src="src/js/html5shiv/html5shiv-3.7.2.min.js"></script>
+  <script src="assets/js/html5shiv/html5shiv-3.7.2.min.js"></script>
   <script src="src/js/respond/respond-1.4.2.min.js"></script>
   <![endif]-->
 
