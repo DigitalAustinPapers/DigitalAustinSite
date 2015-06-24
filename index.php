@@ -1,9 +1,8 @@
-<?php require_once 'vendor/autoload.php';
+<?php require_once 'TemplateRenderer.class.php';
 
-$loader = new Twig_Loader_Filesystem('src/templates');
+// Include any logic for this page below
 
-$twig = new Twig_Environment($loader, array(
-  'cache' => 'src/templates/compilation_cache',
-));
 
-//echo $twig->render('index.html', array());
+$renderer = new TemplateRenderer();
+// Include any variables as an array in the second param
+print $renderer->render('index.html');
