@@ -92,12 +92,13 @@ if (array_key_exists('browseBy', $_GET)) {
 
 $result = getResult($browseBy);
 $oldHeading = 'DEADBEEF';
-  while ($row = mysqli_fetch_array($result))
-  {
-    $heading = $row['heading'];
-    $id = $row['id'];
-    $title = $row['title'];
-    $summary = $row['summary'];
+$results_list = array();
+while ($row = mysqli_fetch_array($result))
+{
+  $heading = $row['heading'];
+  $id = $row['id'];
+  $title = $row['title'];
+  $summary = $row['summary'];
 
   if($heading != $oldHeading) {
     # print the header
@@ -106,23 +107,19 @@ $oldHeading = 'DEADBEEF';
     } else {
       $cleanHeading = $heading;
     }
-    print "<h5>{$cleanHeading}</h5>\n";
   }
-
-  # I'd really prefer to put a BR between these two within the same paragraph, but that's not
-  # working for some reason
-  print "<p><a href=\"document.php?id={$id}.xml\">{$title}</a></p>";
-  print "<p>{$summary}</p>";
-
+  $results_list[$cleanHeading][$id] = array(
+    'document_title' => $title,
+    'document_summary' => $summary,);
 
   $oldHeading=$heading;
-
-  }
+}
 
 $template = new TemplateRenderer();
 // Include any variables as an array in the second param
 print $template->render('browse.html.twig', array(
   'browseBy' => $browseBy,
   'sortCategories' => array('date', 'author',
-    'recipient', 'origin', 'destination', 'page')
+    'recipient', 'origin', 'destination', 'page'),
+  'results' => $results_list,
 ));

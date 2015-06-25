@@ -1,0 +1,41 @@
+{% extends 'base.twig' %}
+
+{% block title %}Browse | {{ parent() }}{% endblock %}
+
+{% block sidebar %}
+
+{% endblock %}
+
+{% block content %}
+<div class="panel panel-default" id="index-intro">
+  <div class="panel-body">
+
+    <h3>Browse All Documents</h3>
+
+    <h2>Browse by:</h2>
+    <ul class="nav nav-tabs">
+      {% for cat in sortCategories %}
+        <li role="presentation" class="{% if cat == browseBy %}active{% endif %}">
+          <a href="browse?browseBy={{ cat }}">{{ cat|capitalize }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+
+    <ul>
+    {% for heading, item in results %}
+      <li>{{ heading }}
+        <ul>
+      {% for id, info in item %}
+        <li>
+          <a href="document?id={{ id }}.xml" id="browse-{{ id }}">{{ info.document_title }}</a><br>
+          {{ info.document_summary }}
+        </li>
+      {% endfor %}
+        </ul>
+    {% endfor %}
+      </li>
+    </ul>
+
+  </div><!-- panel-body -->
+</div><!-- panel -->
+{% endblock %}
