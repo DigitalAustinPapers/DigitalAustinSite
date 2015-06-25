@@ -1,4 +1,5 @@
-<?php
+<?php require_once 'src/TemplateRenderer.class.php';
+
 include('php/database.php');
 $connection = connectToDB();
 
@@ -83,91 +84,45 @@ function getResult($targetBrowseBy) {
 	return mysqli_query($GLOBALS["___mysqli_ston"], $sql);	
 }
 
+if (array_key_exists('browseBy', $_GET)) {
+  $browseBy = $_GET['browseBy'];
+} else {
+    $browseBy = 'date';
+}
 
+$result = getResult($browseBy);
+$oldHeading = 'DEADBEEF';
+  while ($row = mysqli_fetch_array($result))
+  {
+    $heading = $row['heading'];
+    $id = $row['id'];
+    $title = $row['title'];
+    $summary = $row['summary'];
 
-?>
-
-<?php include('header.php'); ?>
-
-			<!-- Created this page new -kmd -->
-			<div class="content browse">
-			<!-- I'm not sure we want this here -- what do you think, Karin?
-			<h2>Browse</h2>
-			
-			<h3>Featured Searches</h3>
-					<ul>
-						<li><a href="results.php?textSearch=cholera">Cholera epidemic in the 1830s</a></li>
-						<li><a href="results.php?recipient=Emily M Perry">Stephen Austin's Letters to his sister, Emily</a></li>
-						<li><a href="results.php?textSearch=comanches">Problems with Comanches</a></li>
-						<li><a href="results.php?to=New Orleans, Louisiana">Letters from Texas to New Orleans, LA</a></li>
-					</ul>
-			-->
-
-			<h3>Browse All Documents</h3>
-
-     <? if (array_key_exists('browseBy', $_GET)) {
-    	$browseBy = $_GET['browseBy'];
+  if($heading != $oldHeading) {
+    # print the header
+    if($heading=='0000') {
+      $cleanHeading = 'Undated';
     } else {
-        $browseBy = 'date';
-    } 
-    ?>
-
-			
-			<!-- Add sort for whatever the metadata supports -->
-			<p>Browse by: 
-				<? printNavTab('date', $browseBy); ?>
-				|
-				<? printNavTab('author', $browseBy); ?>
-				|
-				<? printNavTab('recipient', $browseBy); ?>
-				|
-				<? printNavTab('origin', $browseBy); ?>
-				|
-				<? printNavTab('destination', $browseBy); ?>
-				|
-				<? printNavTab('page', $browseBy); ?>
-			</p>
-
-			
-
-
-
-<div id="content">
-
-<?php
-	$result = getResult($browseBy);
-	$oldHeading = 'DEADBEEF';
-    while ($row = mysqli_fetch_array($result))
-    {
-        $heading = $row['heading'];
-		$id = $row['id'];
-		$title = $row['title'];
-		$summary = $row['summary'];
-		
-		if($heading != $oldHeading) {
-			# print the header
-			if($heading=='0000') {
-				$cleanHeading = 'Undated';
-			} else {
-				$cleanHeading = $heading;
-			}
-			print "<h5>{$cleanHeading}</h5>\n";
-		}
-		
-		# I'd really prefer to put a BR between these two within the same paragraph, but that's not 
-		# working for some reason
-		print "<p><a href=\"document.php?id={$id}.xml\">{$title}</a></p>";		
-		print "<p>{$summary}</p>";		
-		
-		
-		$oldHeading=$heading;
-		
+      $cleanHeading = $heading;
     }
-?>
+    print "<h5>{$cleanHeading}</h5>\n";
+  }
 
-      </div><!-- /#content -->
-			
-			
-			</div><!-- /.content -->
-			
-<?php include('footer.php'); ?>
+  # I'd really prefer to put a BR between these two within the same paragraph, but that's not
+  # working for some reason
+  print "<p><a href=\"document.php?id={$id}.xml\">{$title}</a></p>";
+  print "<p>{$summary}</p>";
+
+
+  $oldHeading=$heading;
+
+  }
+
+$template = new TemplateRenderer();
+// Include any variables as an array in the second param
+print $template->render('browse.html.twig', array(
+  'browseBy' => $browseBy,
+  'sortCategories' => array('date', 'author',
+    'recipient', 'origin', 'destination', 'page')
+));
