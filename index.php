@@ -1,8 +1,11 @@
-<?php require_once 'src/TemplateRenderer.class.php';
+<?php
+require_once 'src/TemplateRenderer.class.php';
+$template = new TemplateRenderer();
 
 // Include any logic for this page below
 
 
-$renderer = new TemplateRenderer();
-// Include any variables as an array in the second param
-print $renderer->render('index.html.twig');
+
+// Variables should be passed to the template with $template->var = vars
+// before rendering
+print $template->render('index.html.twig');
