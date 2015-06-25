@@ -33,4 +33,11 @@ class TemplateRenderer
   public function render($templateFile, array $variables=array()) {
     return $this->environment->render($templateFile, $variables);
   }
+
+  public function __set($name, $value) {
+    $this->vars[$name] = $value;
+  }
+  public function __get($name) {
+    return $this->vars[$name];
+  }
 }
