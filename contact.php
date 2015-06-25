@@ -8,4 +8,4 @@ $template = new TemplateRenderer();
 
 // Variables should be passed to the template with $template->var = vars
 // before rendering
-print $renderer->render('contact.html.twig');
+print $template->render('contact.html.twig');
