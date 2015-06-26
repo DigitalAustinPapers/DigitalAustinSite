@@ -69,22 +69,24 @@ $numYears       = mysqli_num_rows($findYears);
 $numPeople      = mysqli_num_rows($findPeople);
 $numPlaces      = mysqli_num_rows($findPlaces);
 
+// GET parameters
+$query              = '';
+$fromPersonId       = '';
+$toPersonId         = '';
+$fromYear           = '';
+$toYear             = '';
+$fromPlaceId        = '';
+$toPlaceId          = '';
+$selectedSentiment  = '';
+
 // Template variables
 $placeIdToNames     = array();
 $personIdToNames    = array();
-$query              = '';
-$fromPersonId       = '';
 $fromPersonList     = array();
-$toPersonId         = '';
 $toPersonList       = array();
-$fromYear           = '';
-$toYear             = '';
 $yearList           = array();
-$fromPlaceId        = '';
 $fromPlaceList      = array();
-$toPlaceId          = '';
 $toPlaceList        = array();
-$selectedSentiment  = '';
 $allSentiments      = array();
 
 // Process GET parameters
