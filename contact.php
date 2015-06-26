@@ -3,6 +3,6 @@
 // Include any logic for this page below
 
 
-$renderer = new TemplateRenderer();
+$template = new TemplateRenderer();
 // Include any variables as an array in the second param
-print $renderer->render('contact.html.twig');
+print $template->render('contact.html.twig');

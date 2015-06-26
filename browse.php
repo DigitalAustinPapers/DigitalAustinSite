@@ -124,7 +124,7 @@ $sortCategories = array('date', 'author',
 $template = new TemplateRenderer();
 // Include any variables as an array in the second param
 print $template->render('browse.html.twig', array(
-  'browseBy' => $browseBy,
-  'sortCategories' => $sortCategories,
-  'results' => $results_list,
+  'browseBy'        => $browseBy,
+  'sortCategories'  => $sortCategories,
+  'results'         => $results_list,
 ));
