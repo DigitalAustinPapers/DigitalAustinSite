@@ -1,5 +1,7 @@
 <?php
 
+// TODO: This can be deleted after search results refactor is complete
+
 	$authorQuery = "SELECT np.name name, 
 						np.id id,  
 						if(RIGHT(np.name, 
