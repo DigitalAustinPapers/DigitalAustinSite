@@ -84,6 +84,7 @@ function getResult($targetBrowseBy) {
 	return mysqli_query($GLOBALS["___mysqli_ston"], $sql);	
 }
 
+// $browseBy is sent to the template
 if (array_key_exists('browseBy', $_GET)) {
   $browseBy = $_GET['browseBy'];
 } else {
@@ -92,6 +93,7 @@ if (array_key_exists('browseBy', $_GET)) {
 
 $result = getResult($browseBy);
 $oldHeading = 'DEADBEEF';
+// $results_list is sent to the template
 $results_list = array();
 while ($row = mysqli_fetch_array($result))
 {
@@ -115,11 +117,14 @@ while ($row = mysqli_fetch_array($result))
   $oldHeading=$heading;
 }
 
+// $sortCategories is sent to the template
+$sortCategories = array('date', 'author',
+  'recipient', 'origin', 'destination', 'page');
+
 $template = new TemplateRenderer();
 // Include any variables as an array in the second param
 print $template->render('browse.html.twig', array(
   'browseBy' => $browseBy,
-  'sortCategories' => array('date', 'author',
-    'recipient', 'origin', 'destination', 'page'),
+  'sortCategories' => $sortCategories,
   'results' => $results_list,
 ));
