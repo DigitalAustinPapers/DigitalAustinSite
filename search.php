@@ -1,9 +1,14 @@
 <?php
 require_once 'src/TemplateRenderer.class.php';
-include 'php/database.php';
+include('php/wordcloud.class.php');
+include_once 'php/database.php';
 $connection = connectToDB();
 
 // Database queries
+
+$totalSql = "SELECT COUNT(*) FROM Document";
+
+$docDistSql = "SELECT YEAR(creation) doc_year, COUNT(*) doc_total FROM Document GROUP BY doc_year ORDER BY doc_year";
 
 $authorQuery = "SELECT np.name name, np.id id,
                 if(
@@ -52,6 +57,12 @@ $placesQuery = "SELECT np.name name, np.id id
 
 $peopleQuery = "SELECT np.name name, np.id id
                 FROM NormalizedPerson np;";
+
+$totalResult = mysqli_query($connection, $totalSql);
+$totalDocs   = mysqli_result($totalResult, 0);
+logString($totalDocs);
+
+$docDistResult = mysqli_query($connection, $docDistSql);
 
 $findAuthor     = mysqli_query( $connection, $authorQuery);
 $findRecipient  = mysqli_query( $connection, $recipientQuery);
@@ -104,6 +115,13 @@ if (array_key_exists('toPlaceId', $_GET)) {
 if (array_key_exists('sentiment', $_GET)) {
   $search_params['sentiment'] = $_GET['sentiment'];
 }
+
+// Determine total number of documents in database
+$docDistDocs   = array();
+while($docDistRow = $docDistResult->fetch_assoc()) {
+  $docDistDocs[$docDistRow['doc_year']] = $docDistRow['doc_total'];
+}
+$docDistDocs = json_encode($docDistDocs);
 
 // Search template dropdown options
 $search_dropdowns = array();
@@ -209,6 +227,8 @@ $search_dropdowns = array(
 $template = new TemplateRenderer();
 // Include any variables as an array in the second param
 print $template->render('search.html.twig', array(
-                        'search_params'   => $search_params,
-                        'search_dropdowns' => $search_dropdowns,
+                        'search_params'        => $search_params,
+                        'search_dropdowns'     => $search_dropdowns,
+                        'totalDocsCount'       => $totalDocs,
+                        'totalDocDistribution' => $docDistDocs,
 ));
