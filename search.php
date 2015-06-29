@@ -69,58 +69,52 @@ $numYears       = mysqli_num_rows($findYears);
 $numPeople      = mysqli_num_rows($findPeople);
 $numPlaces      = mysqli_num_rows($findPlaces);
 
-// GET parameters
-$query              = '';
-$fromPersonId       = '';
-$toPersonId         = '';
-$fromYear           = '';
-$toYear             = '';
-$fromPlaceId        = '';
-$toPlaceId          = '';
-$selectedSentiment  = '';
-
-// Template variables
-$placeIdToNames     = array();
-$personIdToNames    = array();
-$fromPersonList     = array();
-$toPersonList       = array();
-$yearList           = array();
-$fromPlaceList      = array();
-$toPlaceList        = array();
-$allSentiments      = array();
+// GET parameters array
+$search_params = array();
 
 // Process GET parameters
 if(array_key_exists('query', $_GET)) {
-  $query = $_GET['query'];
+  $search_params['query'] = $_GET['query'];
 }
 
 if (array_key_exists('fromPersonId', $_GET)) {
-  $fromPersonId = $_GET['fromPersonId'];
+  $search_params['fromPersonId'] = $_GET['fromPersonId'];
 }
 
 if (array_key_exists('toPersonId', $_GET)) {
-  $toPersonId = $_GET['toPersonId'];
+  $search_params['toPersonId'] = $_GET['toPersonId'];
 }
 
 if (array_key_exists('fromYear', $_GET)) {
-  $fromYear = $_GET['fromYear'];
+  $search_params['fromYear'] = $_GET['fromYear'];
 }
 
 if (array_key_exists('toYear', $_GET)) {
-  $toYear = $_GET['toYear'];
+  $search_params['toYear'] = $_GET['toYear'];
 }
 
 if (array_key_exists('fromPlaceId', $_GET)) {
-  $fromPlaceId = $_GET['fromPlaceId'];
+  $search_params['fromPlaceId'] = $_GET['fromPlaceId'];
 }
 
 if (array_key_exists('toPlaceId', $_GET)) {
-  $toPlaceId = $_GET['toPlaceId'];
+  $search_params['toPlaceId'] = $_GET['toPlaceId'];
 }
 
 if (array_key_exists('sentiment', $_GET)) {
-  $selectedSentiment = $_GET['sentiment'];
+  $search_params['sentiment'] = $_GET['sentiment'];
 }
+
+// Search template dropdown options
+$search_dropdowns = array();
+$placeIdToNames   = array();
+$personIdToNames  = array();
+$fromPersonList   = array();
+$toPersonList     = array();
+$yearList         = array();
+$fromPlaceList    = array();
+$toPlaceList      = array();
+$allSentiments    = array();
 
 // Generate $placeIdToNames JSON for template
 $i=0;
@@ -201,23 +195,20 @@ $allSentiments['positive'] = 'positive';
 $allSentiments['neutral']  = 'neutral';
 $allSentiments['negative'] = 'negative';
 
+$search_dropdowns = array(
+  'placeIdToNames'    => $placeIdToNames,
+  'personIdToNames'   => $personIdToNames,
+  'fromPersonList'    => $fromPersonList,
+  'toPersonList'      => $toPersonList,
+  'yearList'          => $yearList,
+  'fromPlaceList'     => $fromPlaceList,
+  'toPlaceList'       => $toPlaceList,
+  'allSentiments'     => $allSentiments,
+);
+
 $template = new TemplateRenderer();
 // Include any variables as an array in the second param
 print $template->render('search.html.twig', array(
-  'placeIdToNames'    => $placeIdToNames,
-  'personIdToNames'   => $personIdToNames,
-  'query'             => $query,
-  'fromPersonId'      => $fromPersonId,
-  'fromPersonList'    => $fromPersonList,
-  'toPersonId'        => $toPersonId,
-  'toPersonList'      => $toPersonList,
-  'fromYear'          => $fromYear,
-  'toYear'            => $toYear,
-  'yearList'          => $yearList,
-  'fromPlaceId'       => $fromPlaceId,
-  'fromPlaceList'     => $fromPlaceList,
-  'toPlaceId'         => $toPlaceId,
-  'toPlaceList'       => $toPlaceList,
-  'selectedSentiment' => $selectedSentiment,
-  'allSentiments'     => $allSentiments,
+                        'search_params'   => $search_params,
+                        'search_dropdowns' => $search_dropdowns,
 ));
