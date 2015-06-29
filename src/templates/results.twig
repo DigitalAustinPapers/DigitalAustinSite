@@ -1,0 +1,48 @@
+<div class="container hidden" id="tabs">
+  <h3>Search results:</h3>
+
+  <span id="resultsCount">No</span> results out of <span id="totalDocsCount">?</span> documents for <span id="humanQuery">all search terms.</span>
+
+  <ul class="nav nav-tabs">
+    <li role="presentation" class="active"><a href="#tab-documents">Documents</a></li>
+    <li role="presentation"><a href="#tab-timeline">Timeline</a></li>
+    <li role="presentation"><a href="#tab-geographic">Geography</a></li>
+    <li role="presentation"><a href="#tab-clouds">Word Clouds</a></li>
+  </ul>
+
+  <div id="tab-documents">
+    <form id="sortForm">
+      <label class="radio-inline">
+        <input type='radio' name='sort' id='sort_similarity' value='similarity'> Relevance
+      </label>
+      <label class="radio-inline">
+        <input type='radio' name='sort' id='sort_date' value='date'> Date
+      </label>
+      <label class="radio-inline">
+        <input type='radio' name='sort' id='sort_sentiment' value='sentiment'> Sentiment
+        </label>
+    </form>
+
+    <div id="documentsList">Loading...</div>
+  </div>
+
+  <div id="tab-geographic" style="padding:0">
+    <!-- Geographic Tab Content -->
+    <div id="map" style="width:100%; height:500px;"></div>
+  </div>
+
+  <div id="tab-clouds">
+    <!-- Clouds Tab Content -->
+    <h2>People</h2>
+    <div id="personCloud" style="width: 550px; height: 350px; border: 1px solid #ccc;"></div>
+    <h2>Places</h2>
+    <div id="placeCloud" style="width: 550px; height: 350px; border: 1px solid #ccc;"></div>
+    <h2>Words</h2>
+    <div id="wordCloud" style="width: 550px; height: 350px; border: 1px solid #ccc;"></div>
+  </div>
+
+  <div id="tab-timeline">
+    <!-- Timeline Tab Content -->
+    <div id="timeChart" style="width:100%; height:500px;"></div>
+  </div>
+</div>
