@@ -31,16 +31,16 @@
   {% endblock %}
 
   <div class="container main-container">
-    {% block main_container %}
     <div class="row">
+      {% block main_container %}
       <div class="col-sm-4">
         {% block sidebar %}{% endblock %}
       </div><!-- col-sm-4 -->
       <div class="col-sm-8">
         {% block content %}{% endblock %}
       </div><!-- col-sm-8 -->
+      {% endblock %}
     </div><!-- row -->
-    {% endblock %}
   </div><!-- main-container -->
 
 </div><!-- main-wrapper -->
