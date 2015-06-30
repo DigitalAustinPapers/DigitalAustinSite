@@ -101,5 +101,6 @@
 		$cloud->orderBy('size', 'desc');
 		$cloud->setLimit($numWords);
 		echo $cloud->showCloud();
+    return $cloud->showCloud('array');
 	}
 ?>
