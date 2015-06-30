@@ -1,0 +1,40 @@
+{% extends 'base.twig' %}
+
+{% block title %}{{ document.title }} | {{ parent() }}{% endblock %}
+
+{% block main_container %}
+  <div class="col-sm-12">
+    <article>
+      <hgroup>
+        <h1 id="title">{{ document.title }}</h1>
+        <hr>
+        <p id="summary">Summary: {{ document.summary }}</p>
+        <div id="teixml">
+          <a href="rawtei.php?id={{ document.id }}">
+            <img src="assets/img/xml-tei_button.gif" alt="xml:tei icon">
+          </a>
+        </div>
+      </hgroup>
+      <hr>
+      <div id="text doc-{{ document.id }}">
+        {{ letter_body_display|raw }}
+      </div>
+    </article>
+
+      <aside id="clouds">
+        <h3 id="clouds_header">Language Analysis</h3>
+        <div id="cloud1">
+          {% for word in letter_body_cloud|keys %}
+            <a class="doc-cloudword" id="doc-{{ document.id }}-cloudword-{{ word }}" href="search.php?query={{ word }}">{{ word }}</a>
+          {% endfor %}
+        </div>
+        <div id="cloud2"></div>
+        <div id="cloud3"></div>
+      </aside>
+      <hr>
+      <aside id="cite"><h3>Citation</h3>
+        {{ citation|raw }}
+      </aside>
+  </div>
+
+{% endblock %}
