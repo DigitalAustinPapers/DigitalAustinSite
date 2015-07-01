@@ -1,4 +1,3 @@
-@import url('http://fonts.googleapis.com/css?family=Arvo:400,700,400italic,700italic|Gentium+Book+Basic:400,400italic,700,700italic');
 /* imports */
 /* @import url("shell.css"); */
 /* namespaces */
@@ -41,18 +40,6 @@
   margin-top: 1em;
   margin-bottom: 1em;
 }
-/* teibp classes */
-.-teibp-thumbnail {
-  max-height: 60px;
-}
-.-teibp-pb {
-  display: block;
-  width: 100%;
-  text-align: right;
-  color: gray;
-  margin: 2em 0 2em 0;
-  font-size: 11pt;
-}
 .box-shadow {
   -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
   -moz-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
@@ -68,7 +55,7 @@
   margin-left: 2em;
   margin-right: 4em;
   padding: 2.5em;
-  font-family: "Gentium Book Basic", Cochin, Georgia, Serif;
+  font-family: Cochin, Georgia, Serif;
   font-size: 14pt;
   background-color: #ebebeb;
   color: #292929;
@@ -133,11 +120,9 @@ actor {
 /* Could add other [place=] variations */
 add {
   vertical-align: super;
-  font-size: 90%;
 }
 add[place=below] {
   vertical-align: sub;
-  font-size: 90%;
 }
 addName {
   /* Empty Rule Set */
@@ -160,8 +145,7 @@ addrLine {
 address {
   /* Empty Rule Set */
 }
-address[rend~="block"],
-addresss[rendition~="#block"] {
+address[rend~="block"], addresss[rendition~="#block"] {
   display: block;
 }
 adminInfo {
@@ -238,8 +222,6 @@ author {
 }
 titleStmt > author {
   display: block;
-  font-family: Arvo, sans-serif;
-  font-weight: normal;
   margin-bottom: 1em;
 }
 authority {
@@ -263,8 +245,7 @@ back {
 bibl {
   /* Empty Rule Set */
 }
-bibl[rend~="block"],
-bibl[rendition~="#block"] {
+bibl[rend~="block"], bibl[rendition~="#block"] {
   display: block;
   padding-left: 2em;
   text-indent: -2em;
@@ -668,8 +649,7 @@ div > div > head {
 div > div > div > head {
   font-size: 140%;
 }
-div > div > div > div > head,
-list > head {
+div > div > div > div > head, list > head {
   font-size: 130%;
 }
 div > div > div > div > div > head {
@@ -697,7 +677,7 @@ figure > head {
   -moz-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
   box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
   width: 85%;
-  font-family: "Gentium Book Basic", Cochin, Georgia, Serif;
+  font-family: Cochin, Georgia, Serif;
   font-size: 14pt;
 }
 headItem {
@@ -1136,17 +1116,11 @@ pb {
   margin: 2em 0 2em 0;
   font-size: 11pt;
 }
-.pb {
-  display: block;
-  width: 100%;
-  text-align: right;
-  color: gray;
-  margin: 2em 0 2em 0;
-  font-size: 11pt;
-}
+/*
 pb:before {
-  content: "page:\a0" attr(n);
+	content: "[page:\a0" attr(n) "]";
 }
+*/
 pc {
   /* Empty Rule Set */
 }
@@ -1517,10 +1491,7 @@ space:before {
   content: "";
 }
 TEI span {
-  /* jawalsh: why were we hiding this? */
-
-  /* .hide; */
-
+  display: none;
 }
 TEI egXML span {
   display: inline;
@@ -1696,9 +1667,7 @@ TEI title[level=a][prev]:before {
 title[level=m] {
   font-style: italic;
 }
-/* We transformed teiHeader//title to tei.title  */
-/* as a hack to solve a JavaScript/jQuery issue. */
-titleStmt > tei-title {
+titleStmt > title {
   display: block;
   font-family: Arvo, sans-serif;
   font-weight: normal;
@@ -1817,7 +1786,7 @@ html {
   margin-left: 2em;
   margin-right: 4em;
   padding: 2.5em;
-  font-family: "Gentium Book Basic", Cochin, Georgia, Serif;
+  font-family: Cochin, Georgia, Serif;
   font-size: 14pt;
   background-color: #ebebeb;
   color: #292929;
@@ -1826,15 +1795,13 @@ html {
 img {
   border: 1px solid #aaaaaa;
 }
-footer {
+#footer {
   margin-top: 1em;
   border-top: 1px solid #292929;
   padding-top: .5em;
   font-size: 12pt;
 }
-a:link,
-a:visited,
-a:active {
+a:link, a:visited, a:active {
   color: #5f0000;
   text-decoration: none;
 }
@@ -1873,12 +1840,10 @@ a:hover {
 .eg-comment {
   color: gray;
 }
-.eg-att,
-.eg-nsdecl {
+.eg-att, .eg-nsdecl {
   color: #f58650;
 }
-.eg-attvalue,
-.eg-ns {
+.eg-attvalue, .eg-ns {
   color: #993300;
 }
 .eg-text {
@@ -1893,27 +1858,6 @@ a:hover {
   width: 100%;
   height: 100%;
   background-image: url("../images/transparentbg.png");
-}
-/* facsViewer */
-#resizable {
-  background-color: #ebebeb;
-  width: 550px;
-  height: 700px;
-  overflow: hidden;
-  padding: 0 1em .25em 0;
-}
-div.facsImage {
-  width: 100%;
-  height: 98%;
-  overflow-y: scroll;
-  border: 1px solid black;
-}
-div.facsImage img {
-  max-width: 98% !important;
-  margin-top: .5em;
-}
-div.facsImage img:first-child {
-  margin-top: 0;
 }
 .head-font {
   font-family: Arvo, sans-serif;

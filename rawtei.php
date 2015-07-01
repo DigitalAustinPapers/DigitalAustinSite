@@ -1,15 +1,6 @@
 <?php
-
-header('Content-type: text/xml');
-  print '<?xml version="1.0" encoding="Windows-1252"?>';
-  print "\n";
-  print '<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>';
-  print "\n";
-  print '<?xml-stylesheet type="text/xsl" href="xsl/teibp.xsl"?>';
-  print "\n";
-
-
-include('php/database.php');
+require_once 'src/TemplateRenderer.class.php';
+include_once('php/database.php');
 
 function queryDB(){
   $id = $_GET['id'];
@@ -28,4 +19,13 @@ function queryDB(){
 
 connectToDB();
 $result = queryDB();
-print str_replace('<?xml version="1.0" encoding="Windows-1252"?>', '', $result['xml']);
+$xml = str_replace('<?xml version="1.0" encoding="Windows-1252"?>', '', $result['xml']);
+
+// Set the header to the correct content-type
+header('Content-type: text/xml');
+
+$template = new TemplateRenderer();
+// Include any variables as an array in the second param
+print $template->render('rawtei.xml.twig', array(
+                        'xml' => $xml,
+));
