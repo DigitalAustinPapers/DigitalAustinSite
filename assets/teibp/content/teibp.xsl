@@ -27,17 +27,6 @@
 	<xsl:param name="inlineCSS" select="true()"/>
 	<xsl:param name="includeToolbox" select="true()"/>
 	<xsl:param name="includeAnalytics" select="true()"/>
-	<xsl:param name="displayPageBreaks" select="true()"/>
-	
-	
-	
-	<!-- special characters -->
-	<xsl:param name="quot"><text>"</text></xsl:param>
-	<xsl:param name="apos"><text>'</text></xsl:param>
-	
-	<!-- interface text -->
-	<xsl:param name="pbNote"><text>page: </text></xsl:param>
-	<xsl:param name="altTextPbFacs"><text>view page image(s)</text></xsl:param>
 	
 	<!-- parameters for file paths or URLs -->
 	<!-- modify filePrefix to point to files on your own server, 
@@ -45,7 +34,7 @@
 		<xsl:param name="filePrefix" select="'http://dcl.slis.indiana.edu/teibp'"/>
 		
 	-->
-	<xsl:param name="filePrefix" select="'..'"/>
+	<xsl:param name="filePrefix" select="'assets/teibp'"/>
 	
 	<xsl:param name="teibpCSS" select="concat($filePrefix,'/css/teibp.css')"/>
 	<xsl:param name="customCSS" select="concat($filePrefix,'/css/custom.css')"/>
@@ -56,6 +45,8 @@
 	<xsl:param name="theme.sleepytime" select="concat($filePrefix,'/css/sleepy.css')"/>
 	<xsl:param name="theme.terminal" select="concat($filePrefix,'/css/terminal.css')"/>
 	
+	
+
 	<xd:doc xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
 		<xd:desc>
 			<xd:p>Match document root and create and html5 wrapper for the TEI document, which is
@@ -106,19 +97,6 @@
 			<xsl:call-template name="addID"/>
 			<xsl:apply-templates select="@*|node()"/>
 		</xsl:element>
-	</xsl:template>
-	
-	
-	<xd:doc>
-		<xd:desc>
-			<xd:p>A hack because JavaScript was doing weird things with &lt;title>, probably due to confusion with HTML title. There is no TEI namespace in the TEI Boilerplate output because JavaScript, or at least JQuery, cannot manipulate the TEI elements/attributes if they are in the TEI namespace, so the TEI namespace is stripped from the output. As far as I know, &lt;title> elsewhere does not cause any problems, but we may need to extend this to other occurrences of &lt;title> outside the Header.</xd:p>
-		</xd:desc>
-	</xd:doc>
-	<xsl:template match="tei:teiHeader//tei:title">
-		<tei-title>
-			<xsl:call-template name="addID"/>
-			<xsl:apply-templates select="@*|node()"/>
-		</tei-title>
 	</xsl:template>
 
 	<xd:doc xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
@@ -208,24 +186,11 @@
 		<xsl:copy>
 			<xsl:apply-templates select="@*"/>
 			<xsl:call-template name="addID"/>
-			<figure>
 			<img alt="{normalize-space(tei:figDesc)}" src="{tei:graphic/@url}"/>
 			<xsl:apply-templates select="*[local-name() != 'graphic' and local-name() != 'figDesc']"/>
-			</figure>
 		</xsl:copy>
 	</xsl:template>
-	
-	<!--
-	<xd:doc xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
-		<xd:desc>
-			<xd:p>Transforms TEI figure/head to HTML figcaption</xd:p>
-		</xd:desc>
-	</xd:doc>
-	<xsl:template match="tei:figure/tei:head">
-		<figcaption><xsl:apply-templates/></figcaption>
-	</xsl:template>
-	-->
-    <!--
+
 	<xd:doc xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
 		<xd:desc>
 			<xd:p>Adds some javascript just before end of root tei element. Javascript sets the
@@ -234,29 +199,19 @@
 				javascript, using JQuery, to manipulate the DOM containing both html and TEI.</xd:p>
 		</xd:desc>
 	</xd:doc>
-	
-	
 	<xsl:template match="tei:TEI" priority="99">
 		<xsl:element name="{local-name()}">
 			<xsl:call-template name="addID"/>
 			<xsl:apply-templates select="@*|node()"/>
 		</xsl:element>
 	</xsl:template>
-	-->
 	
 	<xsl:template name="addID">
-		<xsl:if test="not(ancestor::eg:egXML)">
+		<xsl:if test="not(@xml:id) and not(ancestor::eg:egXML)">
 			<xsl:attribute name="id">
-				<xsl:choose>
-				<xsl:when test="@xml:id">
-					<xsl:value-of select="@xml:id"/>
-				</xsl:when>
-				<xsl:otherwise>
 				<xsl:call-template name="generate-unique-id">
 					<xsl:with-param name="root" select="generate-id()"/>
 				</xsl:call-template>
-				</xsl:otherwise>
-				</xsl:choose>
 			</xsl:attribute>
 		</xsl:if>
 	</xsl:template>
@@ -304,14 +259,15 @@
 			<meta charset="UTF-8"/>
 
 			<link id="maincss" rel="stylesheet" type="text/css" href="{$teibpCSS}"/>
-			<link id="customcss" rel="stylesheet" type="text/css" href="{$customCSS}"/>
-			<script type="text/javascript" src="{$jqueryJS}"></script>
-			<script type="text/javascript" src="{$jqueryBlockUIJS}"></script>
-			<script type="text/javascript" src="{$teibpJS}"></script>
+			<link rel="stylesheet" type="text/css" href="{$customCSS}"/>
+			<script type="text/javascript" src="{$jqueryJS}"/>
+			<script type="text/javascript" src="{$jqueryBlockUIJS}"/>
+			<script type="text/javascript" src="{$teibpJS}"/>
+			
 			<script type="text/javascript">
 				$(document).ready(function() {
 					$("html > head > title").text($("TEI > teiHeader > fileDesc > titleStmt > title:first").text());
-					$.unblockUI();	
+					$.unblockUI();				
 				});
 			</script>
 			<xsl:call-template name="rendition2style"/>
@@ -349,12 +305,12 @@
 		</xd:desc>
 	</xd:doc>
 	<xsl:variable name="htmlFooter">
-		<footer> Powered by <a href="{$teibpHome}">TEI Boilerplate</a>. TEI Boilerplate is licensed under a <a
+		<div id="footer"> Powered by <a href="{$teibpHome}">TEI Boilerplate</a>. TEI Boilerplate is licensed under a <a
 				href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0
 				Unported License</a>. <a href="http://creativecommons.org/licenses/by/3.0/"><img
 					alt="Creative Commons License" style="border-width:0;"
 					src="http://i.creativecommons.org/l/by/3.0/80x15.png"/></a>
-		</footer>
+		</div>
 	</xsl:variable>
 
 	<xsl:template name="teibpToolbox">
@@ -376,8 +332,7 @@
 	<xsl:template name="analytics">
 		<script type="text/javascript">
 		  var _gaq = _gaq || [];
-		  //include analytics account below.
-		  _gaq.push(['_setAccount', 'UA-XXXXXXXX-X']);
+		  _gaq.push(['_setAccount', 'UA-31051795-1']);
 		  _gaq.push(['_trackPageview']);
 		
 		  (function() {
@@ -387,66 +342,6 @@
 		  })();
 		</script>
 	</xsl:template>
-	
-	<xsl:template name="pb-handler">
-		<xsl:param name="n"/>
-		<xsl:param name="facs"/>
-		<xsl:param name="id"/>
-		
-		<span class="-teibp-pageNum">
-			<!-- <xsl:call-template name="atts"/> -->
-			<span class="-teibp-pbNote"><xsl:value-of select="$pbNote"/></span>
-			<xsl:value-of select="@n"/>
-			<xsl:text> </xsl:text>
-		</span>
-			<span class="-teibp-pbFacs">
-				<a class="gallery-facs" rel="prettyPhoto[gallery1]">
-					<xsl:attribute name="onclick">
-						<xsl:value-of select="concat('showFacs(',$apos,$n,$apos,',',$apos,$facs,$apos,',',$apos,$id,$apos,')')"/>
-					</xsl:attribute>
-					<img  alt="{$altTextPbFacs}" class="-teibp-thumbnail">
-						<xsl:attribute name="src">
-							<xsl:value-of select="@facs"/>
-						</xsl:attribute>
-					</img>
-				</a>
-			</span>
-
-	</xsl:template>
-	
-	<xsl:template match="tei:pb[@facs]">
-		<xsl:param name="pn">
-			<xsl:number count="//tei:pb" level="any"/>    
-		</xsl:param>
-		<xsl:choose>
-		<xsl:when test="$displayPageBreaks = true()">
-					<span class="-teibp-pb">
-						<xsl:call-template name="addID"/>
-						<xsl:call-template name="pb-handler">
-							<xsl:with-param name="n" select="@n"/>
-							<xsl:with-param name="facs" select="@facs"/>
-							<xsl:with-param name="id">
-								<xsl:choose>
-								<xsl:when test="@xml:id">
-									<xsl:value-of select="@xml:id"/>
-								</xsl:when>
-								<xsl:otherwise>
-									<xsl:value-of select="generate-id()"/>
-								</xsl:otherwise>
-								</xsl:choose>
-							</xsl:with-param>
-						</xsl:call-template>
-					</span>
-		</xsl:when>
-			<xsl:otherwise>
-				<xsl:copy>
-					<xsl:apply-templates select="@*|node()"/>
-				</xsl:copy>
-			</xsl:otherwise>
-		</xsl:choose>
-	</xsl:template>
-	
-	
 	
 
 	<xsl:template match="eg:egXML">
