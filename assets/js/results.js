@@ -175,20 +175,22 @@ function updateDocuments() {
 
     for (var i=0; i<basicData.length; i++) {
         var doc = basicData[i];
-        var row = document.createElement("p");
-        row.innerHTML = "" + (parseInt(i) + 1) + ". ";
+        var row = document.createElement("li");
+
         var sentiment = document.createElement("span");
         sentiment.innerHTML = doc['sentimentScore'];
+        sentiment.className = 'sentiment-score';
         row.appendChild(sentiment);
+
         var a = document.createElement("a");
         a.href = "document.php?id=" + doc['id'] + ".xml";
         a.innerHTML = doc['title'];
-        row.appendChild(a)
-        row.innerHTML += ":";
+        a.id = 'search-result-' + doc['id'];
+        row.appendChild(a);
+
         var summary = document.createElement("p");
         summary.innerHTML = doc['summary'];
         row.appendChild(summary);
-        row.appendChild(document.createElement("br"));
 
         docList.append(row);
     }
