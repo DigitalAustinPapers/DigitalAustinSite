@@ -233,18 +233,7 @@ $(document).on("cityDataLoaded", function(e, data) {
         }
     }
 });
-// Invoked when a tab is clicked
-$("#tabs").on("tabsactivate", function(event, ui) {
-    if (ui.newPanel[0].id == "tab-geographic") {
-        if (mapIsSetup !== true) {
-            setupMap();
-        }
-        else if (mapNeedsRerender) {
-            redrawAllCurves();
-            redrawMarkers();
-        }
-    }
-});
+
 //This function handles a click on a particular city within the Google Map
 function cityClicked(markerIndex)
 {
@@ -434,15 +423,9 @@ $(document).on("cloudDataLoaded", function(e, data) {
     if (data != null && data != cloudData) {
         cloudData = data;
         cloudsNeedRerender = true;
-        if ($("#tab-clouds")[0].style.display != "none") {
+        if ($("#tab-clouds").css('display') != "none") {
             updateClouds();
         }
-    }
-});
-// Invoked when a tab is clicked
-$("#tabs").on("tabsactivate", function(event, ui) {
-    if (cloudsNeedRerender && ui.newPanel[0].id == "tab-clouds") {
-        updateClouds();
     }
 });
 
@@ -564,9 +547,31 @@ $(document).on("basicDataLoaded", function(e, data) {
         }
     }
 });
-// Invoked when a tab is clicked
-$("#tabs").on("tabsactivate", function(event, ui) {
-    if (ui.newPanel[0].id == "tab-timeline" && timeChartNeedsUpdate) {
-        updateChart();
+
+// A single event listener for tabs using bootstrap's tabs js
+$('a[data-toggle="tab"]').on("show.bs.tab", function(e) {
+    newTabId = $(e.target).attr('href');
+    switch(newTabId) {
+        case '#tab-content':
+            break;
+        case '#tab-timeline':
+            if (timeChartNeedsUpdate) {
+                updateChart();
+            }
+            break;
+        case '#tab-geographic':
+            if (mapIsSetup !== true) {
+                setupMap();
+            }
+            else if (mapNeedsRerender) {
+                redrawAllCurves();
+                redrawMarkers();
+            }
+            break;
+        case '#tab-clouds':
+            if (cloudsNeedRerender) {
+                updateClouds();
+            }
+            break;
     }
 });
