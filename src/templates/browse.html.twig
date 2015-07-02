@@ -10,7 +10,7 @@
 <div class="panel panel-default" id="browse">
   <div class="panel-body">
 
-    <h3>Browse All Documents</h3>
+    <h1>Browse All Documents</h1>
 
     <h2>Browse by:</h2>
     <ul class="nav nav-tabs">
@@ -21,9 +21,9 @@
       {% endfor %}
     </ul>
 
-    <ul>
+    <ul class="list-unstyled">
     {% for heading, item in results %}
-      <li>{{ heading }}
+      <li><h3>{{ heading }}</h3>
         <ul>
       {% for id, info in item %}
         <li>
