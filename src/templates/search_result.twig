@@ -1,0 +1,10 @@
+{% for result in search_results %}
+<li>
+  <div>
+    <span class="sentiment-score">{{ result.sentimentScore }}</span>
+    <a href="document.php?id={{ result.id }}.xml" id="search-result-{{ result.id }}">
+      {{ result.title }}</a>
+    <div>{{ result.summary }}</div>
+  </div>
+</li>
+{% endfor %}
