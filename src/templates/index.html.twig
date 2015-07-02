@@ -1,20 +1,7 @@
 {% extends 'base.twig' %}
 
 {% block sidebar %}
-<img src="assets/img/AustinBackground.png" class="img-responsive" alt="Stephen F. Austin">
-<div class="partners panel panel-default">
-  <div class="panel-body">
-    <h2>Partners</h2>
-    <ul>
-      <li>Digital History Lab, UNT</li>
-      <li><a href="http://texashistory.unt.edu" id="home-partners-portal">Portal to Texas History, UNT</a></li>
-      <li><a href="http://www.cah.utexas.edu/" id="home-partners-ut-center">Center for American History, University of Texas</a></li>
-      <li><a href="http://www.glo.texas.gov/" id="home-partners-txglo">Texas General Land Office</a></li>
-      <li><a href="http://www.summerlee.org/" id="home-partners-summerlee">Summerlee Foundation</a></li>
-      <li><a href="http://www.tshaonline.org/" id="home-partners-txsha">Texas State Historical Association</a></li>
-    </ul>
-    </div><!-- panel-body -->
-</div><!-- partners panel-->
+{% include 'sidebar_default.twig' %}
 {% endblock %}
 			
 {% block content %}
@@ -24,13 +11,7 @@
     <p>The project will digitize the complete writings and correspondence of Austin, making them accessible and searchable online for the first time.  Yet the project will go far beyond simply making these records available digitally�we will be offering new digital tools for exploring the language, geography, and ideas embedded in the Austin correspondence.</p>
     <p>For a complete report on the materials available, check the updates and status section.</p>
     <hr>
-    <form class="form-inline" action="search.php" method="get">
-    <div class="form-group">
-      <label for="index-search">Explore the Austin Papers: </label>
-      <input type="text" name="query" class="form-control" id="index-search" placeholder="Search">
-    </div>
-    <button type="submit" class="btn btn-default">Submit</button>
-    </form>
+    {% include 'quick_search.twig' %}
     <hr>
     <p>Or, you can <a href="browse">browse the collections of the Digital Austin Papers Project</a>.</p>
   </div><!-- panel-body -->
