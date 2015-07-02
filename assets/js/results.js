@@ -171,29 +171,11 @@ function updateDocuments() {
     $('#resultsCount').text(basicData.length);
     $('#totalDocsCount').text(totalDocsCount);
 
+    // send basicData to search_results.php and load the
+    // template-generated response
+    $(docList).load("search_results.php", { basicData: basicData });
 
 
-    for (var i=0; i<basicData.length; i++) {
-        var doc = basicData[i];
-        var row = document.createElement("li");
-
-        var sentiment = document.createElement("span");
-        sentiment.innerHTML = doc['sentimentScore'];
-        sentiment.className = 'sentiment-score';
-        row.appendChild(sentiment);
-
-        var a = document.createElement("a");
-        a.href = "document.php?id=" + doc['id'] + ".xml";
-        a.innerHTML = doc['title'];
-        a.id = 'search-result-' + doc['id'];
-        row.appendChild(a);
-
-        var summary = document.createElement("p");
-        summary.innerHTML = doc['summary'];
-        row.appendChild(summary);
-
-        docList.append(row);
-    }
     $('#sort_' + sortKey).prop('checked',true);
 }
 $(document).on("basicDataLoaded", function(e, data) {
