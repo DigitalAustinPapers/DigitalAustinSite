@@ -1,12 +1,12 @@
 /*!
  * jQCloud Plugin for jQuery
  *
- * Version <%= version %>
+ * Version 1.0.4
  *
  * Copyright 2011, Luca Ongaro
  * Licensed under the MIT license.
  *
- * Date: <%= Time.new.to_s %>
+ * Date: 2013-05-09 18:54:22 +0200
 */
 
 (function( $ ) {
@@ -26,7 +26,9 @@
         y: ((options && options.height) ? options.height : $this.height()) / 2.0
       },
       delayedMode: word_array.length > 50,
-      shape: false // It defaults to elliptic shape
+      shape: false, // It defaults to elliptic shape
+      encodeURI: true,
+      removeOverflowing: true
     };
 
     options = $.extend(default_options, options || {});
@@ -41,9 +43,9 @@
 
     var drawWordCloud = function() {
       // Helper function to test if an element overlaps others
-      var hitTest = function(elem, other_elems){
+      var hitTest = function(elem, other_elems) {
         // Pairwise overlap detection
-        var overlapping = function(a, b){
+        var overlapping = function(a, b) {
           if (Math.abs(2.0*a.offsetLeft + a.offsetWidth - 2.0*b.offsetLeft - b.offsetWidth) < a.offsetWidth + b.offsetWidth) {
             if (Math.abs(2.0*a.offsetTop + a.offsetHeight - 2.0*b.offsetTop - b.offsetHeight) < a.offsetHeight + b.offsetHeight) {
               return true;
@@ -88,18 +90,18 @@
             weight = 5,
             custom_class = "",
             inner_html = "",
-            word_span = "";
+            word_span;
 
         // Extend word html options with defaults
         word.html = $.extend(word.html, {id: word_id});
 
         // If custom class was specified, put them into a variable and remove it from html attrs, to avoid overwriting classes set by jQCloud
-        if(word.html && word.html["class"]) {
+        if (word.html && word.html["class"]) {
           custom_class = word.html["class"];
           delete word.html["class"];
         }
 
-        // Check is min(weight) > max(weight) otherwise use default
+        // Check if min(weight) > max(weight) otherwise use default
         if (word_array[0].weight > word_array[word_array.length - 1].weight) {
           // Linearly map the original weight to a discrete scale from 1 to 10
           weight = Math.round((word.weight - word_array[word_array.length - 1].weight) /
@@ -110,12 +112,14 @@
         // Append link if word.url attribute was set
         if (word.link) {
           // If link is a string, then use it as the link href
-          if(typeof word.link === "string") {
+          if (typeof word.link === "string") {
             word.link = {href: word.link};
           }
 
           // Extend link html options with defaults
-          word.link = $.extend(word.link, {href: encodeURI(word.link.href).replace(/'/g, "%27")});
+          if ( options.encodeURI ) {
+            word.link = $.extend(word.link, { href: encodeURI(word.link.href).replace(/'/g, "%27") });
+          }
 
           inner_html = $('<a>').attr(word.link).text(word.text);
         } else {
@@ -145,7 +149,7 @@
         word_style.left = left + "px";
         word_style.top = top + "px";
 
-        while(hitTest(document.getElementById(word_id), already_placed_words)) {
+        while(hitTest(word_span[0], already_placed_words)) {
           // option shape is 'rectangular' so move the word in a rectangular spiral
           if (options.shape === "rectangular") {
             steps_in_direction++;
@@ -177,7 +181,15 @@
           word_style.left = left + "px";
           word_style.top = top + "px";
         }
-        already_placed_words.push(document.getElementById(word_id));
+
+        // Don't render word if part of it would be outside the container
+        if (options.removeOverflowing && (left < 0 || top < 0 || (left + width) > options.width || (top + height) > options.height)) {
+          word_span.remove()
+          return;
+        }
+
+
+        already_placed_words.push(word_span[0]);
 
         // Invoke callback if existing
         if ($.isFunction(word.afterWordRender)) {

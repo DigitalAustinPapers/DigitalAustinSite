@@ -120,8 +120,8 @@
 {% endblock %}
 
 {% block stylesheets %}
+  <link rel="stylesheet" href="assets/css/jqcloud.css">
   {{ parent() }}
-  <link rel="stylesheet" href="jqcloud/jqcloud.css">
 {% endblock %}
 
 {% block scripts_footer %}
@@ -133,19 +133,7 @@
   <!-- Google AJAX API -->
   <script src="https://www.google.com/jsapi?key=AIzaSyCld462mkpAZrPllmHK8eJGXenW5Kus7g0"></script>
   <script src="assets/js/results.js"></script>
-  <script src="jqcloud/jqcloud-1.0.0.js"></script>
-  <script>
-    $(function() {
-      // Enable jQueryUI tabs
-      $( "#tabs" ).tabs({
-        beforeLoad: function( event, ui ) {
-          ui.jqXHR.error(function() {
-            ui.panel.html("This tab couldn't be loaded. Please try again later.");
-          });
-        }
-      });
-    });
-  </script>
+  <script src="assets/js/jqcloud/jqcloud-1.0.4.min.js"></script>
   {% if search_params != null %}
     <script>
       queryChanged();
