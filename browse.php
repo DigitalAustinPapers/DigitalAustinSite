@@ -3,17 +3,6 @@
 include('php/database.php');
 $connection = connectToDB();
 
-
-function printNavTab($targetBrowseBy, $currentBrowseBy) {
-	$navTitle = ucfirst($targetBrowseBy);
-	if($targetBrowseBy == $currentBrowseBy) {
-		echo $navTitle;
-	} else {
-		echo "<a href=\"?browseBy=${targetBrowseBy}\">{$navTitle}</a>";	
-	} 
-	
-}
-
 function getNormalSql($normalTable, $joinColumn) {
 	return		"SELECT np.name heading, 
 						d.id id,  
