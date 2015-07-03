@@ -1,10 +1,14 @@
 {% for result in search_results %}
 <li>
-  <div>
-    <span class="sentiment-score">{{ result.sentimentScore }}</span>
+  <div class="result-item">
     <a href="document.php?id={{ result.id }}.xml" id="search-result-{{ result.id }}">
       {{ result.title }}</a>
-    <div>{{ result.summary }}</div>
-  </div>
+    <div class="result-details">
+      <span class="result-date">{% if result.date == '0000-00-00' %}Date unknown{% else %}{{ result.date }}{% endif %} - </span><span class="result-summary">{{ result.summary }}</span>
+      <div class="result-sentiment">
+        <span class="sentiment-score">Sentiment - {{ result.sentimentScore }}</span>
+      </div><!-- result-sentiment -->
+    </div><!-- result-details -->
+  </div><!-- result-item -->
 </li>
 {% endfor %}
