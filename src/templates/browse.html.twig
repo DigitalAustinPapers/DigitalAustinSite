@@ -21,21 +21,34 @@
       {% endfor %}
     </ul>
 
+    <div>
+      <a href="#" id="collapse-expand-all" data-state="expand">Expand all</a>
+    </div>
+
     <ul class="list-unstyled">
     {% for heading, item in results %}
-      <li><h3>{{ heading }}</h3>
-        <ul>
-      {% for id, info in item %}
-        <li>
-          <a href="document?id={{ id }}.xml" id="browse-{{ id }}">{{ info.document_title }}</a><br>
-          {{ info.document_summary }}
-        </li>
-      {% endfor %}
-        </ul>
+      {% set browse_id = heading|lower|replace({' ': '', '.': '', ',': '', '[': '', ']': '', '/': ''}) %}
+      <li><h3><a data-toggle="collapse" href="#browse-{{ browse_id }}"
+                 aria-expanded="false" aria-controls="browse-{{ browse_id }}">{{ heading }}</a></h3>
+        <div class="collapse" id="browse-{{ browse_id }}">
+          <ul>
+        {% for id, info in item %}
+          <li>
+            <a href="document?id={{ id }}.xml" id="browse-{{ id }}">{{ info.document_title }}</a><br>
+            {{ info.document_summary }}
+          </li>
+        {% endfor %}
+          </ul>
+        </div>
     {% endfor %}
       </li>
     </ul>
 
   </div><!-- panel-body -->
 </div><!-- panel -->
+{% endblock %}
+
+{% block scripts_footer %}
+{{ parent() }}
+<script src="assets/js/browse.js"></script>
 {% endblock %}
