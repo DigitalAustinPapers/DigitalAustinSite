@@ -5,20 +5,20 @@
 {% block main_container %}
   <div class="col-sm-12">
     <article>
-      <hgroup>
+      <hgroup class="clearfix">
         <h1 id="title">{{ document.title }}</h1>
         <hr>
-        <p id="summary">Summary: {{ document.summary }}</p>
+        <p class="pull-left" id="summary">Summary: {{ document.summary }}</p>
         <div id="teixml">
           <a href="rawtei.php?id={{ document.id }}">
-            <img src="assets/img/xml-tei_button.gif" alt="xml:tei icon">
+            <img class="pull-right" src="assets/img/xml-tei_button.gif" alt="xml:tei icon">
           </a>
-        </div>
+        </div><!-- teixml -->
       </hgroup>
       <hr>
       <div id="text doc-{{ document.id }}">
         {{ letter_body_display|raw }}
-      </div>
+      </div><!-- text -->
     </article>
 
       <aside id="clouds">
@@ -27,14 +27,14 @@
           {% for word in letter_body_cloud|keys %}
             <a class="doc-cloudword" id="doc-{{ document.id }}-cloudword-{{ word }}" href="search.php?query={{ word }}">{{ word }}</a>
           {% endfor %}
-        </div>
-        <div id="cloud2"></div>
-        <div id="cloud3"></div>
+        </div><!-- cloud1 -->
+        <div id="cloud2"></div><!-- cloud2 -->
+        <div id="cloud3"></div><!-- cloud3 -->
       </aside>
       <hr>
       <aside id="cite"><h3>Citation</h3>
         {{ citation|raw }}
       </aside>
-  </div>
+  </div><!-- col-sm-12 -->
 
 {% endblock %}
