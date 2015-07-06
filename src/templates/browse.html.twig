@@ -21,11 +21,11 @@
       {% endfor %}
     </ul>
 
-    <div>
-      <a href="#" id="collapse-expand-all" data-state="expand">Expand all</a>
+    <div class="pull-right">
+      <a href="javascript:void(0)" id="collapse-expand-all" data-state="collapsed">Expand all</a>
     </div>
 
-    <ul class="list-unstyled">
+    <ul class="list-unstyled" id="browse-results">
     {% for heading, item in results %}
       {% set browse_id = heading|lower|replace({' ': '', '.': '', ',': '', '[': '', ']': '', '/': ''}) %}
       <li><h3><a data-toggle="collapse" href="#browse-{{ browse_id }}"
@@ -44,11 +44,27 @@
       </li>
     </ul>
 
+    <nav>
+      <ul class="pagination">
+        <li>Prev</li>
+        <li>Page #n</li>
+        <li>Page #n</li>
+        <li>Page #c</li>
+        <li>Page #n</li>
+        <li>Page #n</li>
+        <li>Next</li>
+      </ul>
+    </nav>
+
   </div><!-- panel-body -->
 </div><!-- panel -->
 {% endblock %}
 
 {% block scripts_footer %}
 {{ parent() }}
-<script src="assets/js/browse.js"></script>
+<script>
+  var totalHeadings = {{ results|length }}
+</script>
+<script src="assets/js/jquery-paging/jquery.paging.min.js"></script>
+<script src="assets/js/browse.min.js"></script>
 {% endblock %}
