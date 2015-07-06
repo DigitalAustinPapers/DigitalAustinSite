@@ -508,7 +508,7 @@ function updateChart() {
         },
         vAxis: {
             title: "Percentage out of all documents",
-            minValue: 0,
+            minValue: 0
             //	logScale: true
         },
         series: [{color: '#b70000'},{color: 'gray'},{color: '#006600'}]
