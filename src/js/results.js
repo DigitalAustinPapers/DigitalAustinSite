@@ -169,7 +169,7 @@ function requestData() {
 function updateDocuments() {
     var docList = $('#documentsList');
     var NatLangString;
-    var resultsCount = basicData.length;
+    var resultsCount = basicData['json'].length;
     $('#resultsCount').text(resultsCount);
     $('#totalDocsCount').text(totalDocsCount);
 
@@ -234,18 +234,17 @@ var pagingOpts = {
 
 function updatePage(pageSlice) {
     /* Updates the current page when a page button is clicked
-     * @param {object} listId A jQuery object of the list to paginate
-     * @param {object} pagedElements A jQuery object of the items to paginate within listId
      * @param {array} pageSlice This is an array with 2 values:
      *     The start and end values to slice the page
      */
 
-    console.log(basicData);
     var listId = $('#documentsList');
     //var newList = $(resultsListItems).filter('li');
 
-    var newPage = basicData.slice(pageSlice[0], pageSlice[1]);
-    listId.empty().append(newPage);
+    var newPage = basicData['html'].slice(pageSlice[0], pageSlice[1]);
+    listId.empty()
+        .append(newPage)
+        .first().attr('start', pageSlice[0]+1);
 }
 
 /*
@@ -390,8 +389,8 @@ function redrawAllCurves() {
         lines[i].setMap(null);
     lines = [];
 
-    for (var i=0; i<basicData.length; i++) {
-        doc = basicData[i];
+    for (var i=0; i<basicData['json'].length; i++) {
+        doc = basicData['json'][i];
         if (doc['srcLat'] != null && doc['dstLat'] != null) {
             var curvyness = 0.1 + Math.random() * 0.2;
             drawCurve(map,
@@ -501,8 +500,8 @@ function updateChart() {
         var positive = {};
         var neutral = {};
         var negative = {};
-        for (var i=0; i<basicData.length; i++) {
-            var year = basicData[i].date.substring(0, 4);
+        for (var i=0; i<basicData['json'].length; i++) {
+            var year = basicData['json'][i].date.substring(0, 4);
             if (years[year] === undefined)
                 years[year] = 1;
             else
@@ -514,9 +513,9 @@ function updateChart() {
                 negative[year] = 0;
             }
 
-            if (basicData[i].sentimentScore < negativeThreshold) {
+            if (basicData['json'][i].sentimentScore < negativeThreshold) {
                 negative[year]++;
-            } else if (basicData[i].sentimentScore > positiveThreshold) {
+            } else if (basicData['json'][i].sentimentScore > positiveThreshold) {
                 positive[year]++;
             } else {
                 neutral[year]++;
