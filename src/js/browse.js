@@ -30,7 +30,7 @@ var listId = $('#browse-results');
 // Selector for list content to be paginated
 var categorizedResults = $('#browse-results > li');
 
-$(".pagination").paging(totalHeadings, { // make 1337 elements navigatable
+$(".pagination").paging(totalHeadings, { // # elements navigatable
     format: '[< nncnn! >]', // define how the navigation should look like and in which order onFormat() get's called
     perpage: 10, // show 10 elements per page
     lapping: 0, // don't overlap pages for the moment
@@ -67,7 +67,8 @@ $(".pagination").paging(totalHeadings, { // make 1337 elements navigatable
 
 function updatePage(listId, pagedElements, pageSlice) {
     /* Updates the current page when a page button is clicked
-     * @param {object}
+     * @param {object} listId A jQuery object of the list to paginate
+     * @param {object} pagedElements A jQuery object of the items to paginate within listId
      * @param {array} pageSlice This is an array with 2 values:
      *     The start and end values to slice the page
      */

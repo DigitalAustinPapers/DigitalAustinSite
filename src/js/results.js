@@ -9,6 +9,7 @@ var cityData = null;
 var sortKey = 'date';
 var positiveThreshold = 2.0;
 var negativeThreshold = -2.0;
+var resultsListItems = null;
 // placeIdToNames and personIdToNames are declared in the search template
 
 /*  Changes the content to match the current query
@@ -24,6 +25,7 @@ function queryChanged() {
     basicData = null;
     cloudData = null;
     cityData = null;
+    resultsListItems = null;
 
     // Request data for the current view
     requestData();
@@ -124,7 +126,7 @@ function requestData() {
 
     // Request new basic search data
     if (true) {
-        var url = 'data/search.php';
+        var url = 'search_results.php';
         $.getJSON(url + getParams, function(json) {
             $(document).trigger("basicDataLoaded", [json]);
         });
@@ -165,19 +167,17 @@ function requestData() {
  */
 
 function updateDocuments() {
-    var docList = $('#documentsList')
+    var docList = $('#documentsList');
     var NatLangString;
-    docList.empty();
-    $('#resultsCount').text(basicData.length);
+    var resultsCount = basicData.length;
+    $('#resultsCount').text(resultsCount);
     $('#totalDocsCount').text(totalDocsCount);
 
-    // send basicData to search_results.php and load the
-    // template-generated response
-    $(docList).load("search_results.php", { basicData: basicData });
-
+    $(".pagination").paging(resultsCount, pagingOpts);
 
     $('#sort_' + sortKey).prop('checked',true);
 }
+
 $(document).on("basicDataLoaded", function(e, data) {
     // Invoked when new basic data is downloaded
     if (data != null && data != basicData) {
@@ -191,6 +191,62 @@ $('input:radio[name=sort]').on('click', function(e) {
     sortKey = $('input:radio[name=sort]:checked').val();
     queryChanged();
 });
+
+/*
+ * Document tab paging
+ */
+
+var pagingOpts = {
+    format: '[< nncnn >]', // define how the navigation should look like and in which order onFormat() gets called
+    perpage: 10, // show 10 elements per page
+    lapping: 0, // don't overlap pages for the moment
+    page: 1, // start at page, can also be "null" or negative
+    onSelect: function (page) {
+        updatePage(this.slice);
+        console.log('this');
+        console.log(this);
+    },
+    onFormat: function (type) {
+        switch (type) {
+            case 'block': // n and c
+                if (this.page === this.value)
+                    return '<li class="active">' +
+                        '<a href="#">' + this.value + '</a>' +
+                        '</li>';
+                return '<li>' +
+                    '<a href="#">' + this.value + '</a>' +
+                    '</li>';
+            case 'next': // >
+                return '<li><a href="#" aria-label="Next">' +
+                    '<span aria-hidden="true">&raquo;</span>' +
+                    '</a></li>';
+            case 'prev': // <
+                return '<li><a href="#" aria-label="Previous">' +
+                    '<span aria-hidden="true">&laquo;</span>' +
+                    '</a></li>';
+            case 'first': // [
+                return '<li><a href="#">first</a></li>';
+            case 'last': // ]
+                return '<li><a href="#">last</a></li>';
+        }
+    }
+};
+
+function updatePage(pageSlice) {
+    /* Updates the current page when a page button is clicked
+     * @param {object} listId A jQuery object of the list to paginate
+     * @param {object} pagedElements A jQuery object of the items to paginate within listId
+     * @param {array} pageSlice This is an array with 2 values:
+     *     The start and end values to slice the page
+     */
+
+    console.log(basicData);
+    var listId = $('#documentsList');
+    //var newList = $(resultsListItems).filter('li');
+
+    var newPage = basicData.slice(pageSlice[0], pageSlice[1]);
+    listId.empty().append(newPage);
+}
 
 /*
   Geographic tab
