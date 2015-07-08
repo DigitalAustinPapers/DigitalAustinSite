@@ -55,4 +55,5 @@ foreach ($docData as $result_key => $result_value) {
   array_push($search_results, $rendered_template);
 }
 
-print json_encode($search_results);
+print json_encode(array('json'=> $docData,
+                        'html'=> $search_results));
