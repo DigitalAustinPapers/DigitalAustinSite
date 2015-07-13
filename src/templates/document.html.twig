@@ -21,16 +21,6 @@
       </div><!-- text -->
     </article>
 
-      <aside id="clouds">
-        <h3 id="clouds_header">Language Analysis</h3>
-        <div id="cloud1">
-          {% for word in letter_body_cloud|keys %}
-            <a class="doc-cloudword" id="doc-{{ document.id }}-cloudword-{{ word }}" href="search.php?query={{ word }}">{{ word }}</a>
-          {% endfor %}
-        </div><!-- cloud1 -->
-        <div id="cloud2"></div><!-- cloud2 -->
-        <div id="cloud3"></div><!-- cloud3 -->
-      </aside>
       <hr>
       <aside id="cite"><h3>Citation</h3>
         {{ citation|raw }}
