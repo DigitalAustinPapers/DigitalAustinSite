@@ -1,15 +1,23 @@
 {% extends 'base.twig' %}
 
+{% block hero %}
+
+  <div class="jumbotron">
+    <div class="container">
+      <h1>Something big can go here</h1>
+    </div>
+  </div>
+
+{% endblock %}
+
 {% block content %}
-<div class="panel panel-default" id="index-intro">
-  <div class="panel-body">
-    <p>The Digital Austin Papers Project seeks to recreate the turbulent world of the Texas borderlands during the 1820s and 1830s, as seen through the eyes of Stephen F. Austin.   Collecting thousands of letters by both Mexicans and Americans, the project will offer unprecedented access to the movement of ideas and people during the early nineteenth century that transformed the borderlands between the United States and Mexico.</p>
-    <p>The project will digitize the complete writings and correspondence of Austin, making them accessible and searchable online for the first time.  Yet the project will go far beyond simply making these records available digitally�we will be offering new digital tools for exploring the language, geography, and ideas embedded in the Austin correspondence.</p>
-    <p>For a complete report on the materials available, check the updates and status section.</p>
-    <hr>
-    {% include 'quick_search.twig' %}
-    <hr>
-    <p>Or, you can <a href="browse">browse the collections of the Digital Austin Papers Project</a>.</p>
-  </div><!-- panel-body -->
-</div><!-- panel -->
+
+  <p>The Digital Austin Papers Project seeks to recreate the turbulent world of the Texas borderlands during the 1820s and 1830s, as seen through the eyes of Stephen F. Austin.   Collecting thousands of letters by both Mexicans and Americans, the project will offer unprecedented access to the movement of ideas and people during the early nineteenth century that transformed the borderlands between the United States and Mexico.</p>
+  <p>The project will digitize the complete writings and correspondence of Austin, making them accessible and searchable online for the first time.  Yet the project will go far beyond simply making these records available digitally�we will be offering new digital tools for exploring the language, geography, and ideas embedded in the Austin correspondence.</p>
+  <p>For a complete report on the materials available, check the updates and status section.</p>
+  <hr>
+  {% include 'quick_search.twig' %}
+  <hr>
+  <p>Or, you can <a href="browse">browse the collections of the Digital Austin Papers Project</a>.</p>
+
 {% endblock %}

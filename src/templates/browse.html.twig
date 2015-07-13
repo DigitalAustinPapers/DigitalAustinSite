@@ -3,56 +3,54 @@
 {% block title %}Browse | {{ parent() }}{% endblock %}
 
 {% block content %}
-<div class="panel panel-default" id="browse">
-  <div class="panel-body">
+<div class="" id="browse">
 
-    <h1>Browse All Documents</h1>
+  <h1>Browse All Documents</h1>
 
-    <h2>Browse by:</h2>
-    <ul class="nav nav-tabs">
-      {% for cat in sortCategories %}
-        <li role="presentation" class="{% if cat == browseBy %}active{% endif %}">
-          <a href="browse?browseBy={{ cat }}">{{ cat|capitalize }}</a>
+  <h2>Browse by:</h2>
+  <ul class="nav nav-tabs">
+    {% for cat in sortCategories %}
+      <li role="presentation" class="{% if cat == browseBy %}active{% endif %}">
+        <a href="browse?browseBy={{ cat }}">{{ cat|capitalize }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <div class="pull-right">
+    <a href="javascript:void(0)" id="collapse-expand-all" data-state="collapsed">Expand all</a>
+  </div>
+
+  <ul class="list-unstyled" id="browse-results">
+  {% for heading, item in results %}
+    {% set browse_id = heading|lower|replace({' ': '', '.': '', ',': '', '[': '', ']': '', '/': ''}) %}
+    <li><h3><a data-toggle="collapse" href="#browse-{{ browse_id }}"
+               aria-expanded="false" aria-controls="browse-{{ browse_id }}">{{ heading }}</a></h3>
+      <div class="collapse" id="browse-{{ browse_id }}">
+        <ul>
+      {% for id, info in item %}
+        <li>
+          <a href="document?id={{ id }}.xml" id="browse-{{ id }}">{{ info.document_title }}</a><br>
+          {{ info.document_summary }}
         </li>
       {% endfor %}
+        </ul>
+      </div>
+  {% endfor %}
+    </li>
+  </ul>
+
+  <nav>
+    <ul class="pagination">
+      <li>Prev</li>
+      <li>Page #n</li>
+      <li>Page #n</li>
+      <li>Page #c</li>
+      <li>Page #n</li>
+      <li>Page #n</li>
+      <li>Next</li>
     </ul>
+  </nav>
 
-    <div class="pull-right">
-      <a href="javascript:void(0)" id="collapse-expand-all" data-state="collapsed">Expand all</a>
-    </div>
-
-    <ul class="list-unstyled" id="browse-results">
-    {% for heading, item in results %}
-      {% set browse_id = heading|lower|replace({' ': '', '.': '', ',': '', '[': '', ']': '', '/': ''}) %}
-      <li><h3><a data-toggle="collapse" href="#browse-{{ browse_id }}"
-                 aria-expanded="false" aria-controls="browse-{{ browse_id }}">{{ heading }}</a></h3>
-        <div class="collapse" id="browse-{{ browse_id }}">
-          <ul>
-        {% for id, info in item %}
-          <li>
-            <a href="document?id={{ id }}.xml" id="browse-{{ id }}">{{ info.document_title }}</a><br>
-            {{ info.document_summary }}
-          </li>
-        {% endfor %}
-          </ul>
-        </div>
-    {% endfor %}
-      </li>
-    </ul>
-
-    <nav>
-      <ul class="pagination">
-        <li>Prev</li>
-        <li>Page #n</li>
-        <li>Page #n</li>
-        <li>Page #c</li>
-        <li>Page #n</li>
-        <li>Page #n</li>
-        <li>Next</li>
-      </ul>
-    </nav>
-
-  </div><!-- panel-body -->
 </div><!-- panel -->
 {% endblock %}
 
