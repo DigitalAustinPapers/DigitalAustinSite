@@ -8,6 +8,12 @@
 
   <title>{% block title %}Stephen F. Austin - Digital Collection{% endblock %}</title>
 
+  <!-- external fonts -->
+  {% block fonts %}
+    <link href="//fonts.googleapis.com/css?family=Oswald:300,400,700" rel="stylesheet">
+    <link href="//fonts.googleapis.com/css?family=Nixie+One:400" rel="stylesheet">
+    <link href="//fonts.googleapis.com/css?family=Quattrocento:400,700" rel="stylesheet">
+  {% endblock %}
 
   <!-- CSS -->
   {% block stylesheets %}
@@ -22,6 +28,7 @@
   <script src="assets/js/respond/respond-1.4.2.min.js"></script>
   <![endif]-->
   {% endblock %}
+
 {% endblock %}
 </head>
 <body>
@@ -36,7 +43,7 @@
   <div class="container main-container">
     <div class="row">
       {% block main_container %}
-      <div class="col-md-10 col-md-offset-1">
+      <div class="col-md-12">
         {% block content %}{% endblock %}
       </div><!-- col-sm-12 -->
       {% endblock %}
@@ -54,6 +61,7 @@
 {% block scripts_footer %}
 <script src="assets/js/jquery/jquery-1.9.1.min.js"></script>
 <script src="assets/js/bootstrap/bootstrap-3.3.5.min.js"></script>
+<script src="assets/js/d3/d3.min.js"></script>
 {% endblock %}
 
 </body>
