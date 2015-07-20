@@ -468,7 +468,7 @@ function updateClouds() {
     $("#personCloud").empty();
     $("#placeCloud").empty();
 
-    $("#wordCloud").jQCloud(cloudData[0]);
+    wordChart(cloudData[0], "#wordCloud");
     $("#personCloud").jQCloud(cloudData[2]);
     $("#placeCloud").jQCloud(cloudData[1]);
     cloudsNeedRerender = false;
@@ -483,6 +483,96 @@ $(document).on("cloudDataLoaded", function(e, data) {
         }
     }
 });
+
+function wordChart(dataset, divId) {
+  // Chart defaults
+  var dataSet = dataset,
+    divId = divId,
+    margin = {top: 30, right: 10, bottom: 30, left: 10},
+    width = parseInt(d3.select(divId).style('width'), 10),
+    width = width - margin.left - margin.right,
+    height = 200,
+    barHeight = 20,
+    barPadding = 5;
+
+  // Chart construction
+  function chart() {
+
+    var xScale = d3.scale.linear()
+        .domain([0, d3.max(dataSet, function (d) {
+            return parseInt(d.weight, 10);
+        })])
+        .range([0, width]);
+
+    var yScale = d3.scale.linear()
+        .range([height + barPadding, 0]);
+
+    height = (barHeight + barPadding) * dataSet.length
+      - margin.top - margin.bottom;
+
+    var chart = d3.select(divId)
+        .append("svg")
+        .attr("width", width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom)
+        .append("g")
+        .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+    var bar = chart.selectAll("g")
+        .data(dataSet)
+        .enter()
+        .append("g")
+        .attr("transform", function (d, i) {
+            return "translate(" + margin.left + "," +
+                (i * (barHeight + barPadding) ) + ")";
+        });
+
+    bar.append("rect")
+        .attr("fill", "red")
+        .attr("class", "bar")
+        .attr("width", function (d) {
+            return xScale(d.weight);
+        })
+        .attr("height", barHeight - 1);
+
+    bar.append("text")
+        .attr("x", function (d) {
+            return xScale((d.weight) - 3);
+        })
+        .attr("y", barHeight / 2)
+        .attr("fill", "red")
+        .attr("dy", ".35em")
+        .text(function (d) {
+            return d.weight;
+        });
+
+    bar.append("text")
+        .attr("class", "label")
+        .attr("x", function (d) {
+            return -10;
+        })
+        .attr("y", barHeight / 2)
+        .attr("dy", ".35em")
+        .text(function (d) {
+            return d.text;
+        })
+        .attr("color", "black");
+  }
+
+  // Getter and setter methods
+  chart.width = function(value) {
+      if (!arguments.length) return width;
+      width = value;
+      return chart;
+  };
+
+  chart.height = function(value) {
+      if (!arguments.length) return height;
+      height = value;
+      return chart;
+  };
+
+  return chart();
+}
 
 /*
   Timeline tab
