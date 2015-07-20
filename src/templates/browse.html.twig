@@ -7,15 +7,17 @@
 
   <h1>Browse All Documents</h1>
 
+<div class="col-sm-3">
   <h2>Browse by:</h2>
-  <ul class="nav nav-tabs">
+  <ul class="nav nav-pills nav-stacked">
     {% for cat in sortCategories %}
       <li role="presentation" class="{% if cat == browseBy %}active{% endif %}">
         <a href="browse?browseBy={{ cat }}">{{ cat|capitalize }}</a>
       </li>
     {% endfor %}
   </ul>
-
+</div>
+<div class="col-sm-9">
   <div class="pull-right">
     <a href="javascript:void(0)" id="collapse-expand-all" data-state="collapsed">Expand all</a>
   </div>
@@ -50,8 +52,8 @@
       <li>Next</li>
     </ul>
   </nav>
-
-</div><!-- panel -->
+</div>
+</div>
 {% endblock %}
 
 {% block scripts_footer %}
