@@ -3,7 +3,8 @@
 
   <span id="resultsCount">No</span> results out of <span id="totalDocsCount">?</span> documents for <span id="humanQuery">all search terms.</span>
 
-  <ul class="nav nav-tabs" role="tablist">
+  <div class="col-sm-3">
+  <ul class="nav nav-pills nav-stacked" role="tablist">
     <li role="presentation" class="active">
       <a href="#tab-documents" role="tab" data-toggle="tab">Documents</a>
     </li>
@@ -16,7 +17,8 @@
     <li role="presentation">
       <a href="#tab-clouds" role="tab" data-toggle="tab">Word Clouds</a></li>
   </ul>
-
+</div>
+  <div class="col-sm-9">
   <div class="tab-content">
     <div role="tabpanel" class="tab-pane active" id="tab-documents" >
       <div class="search-results-sort">
@@ -67,6 +69,6 @@
       <h2>Words</h2>
       <div id="wordCloud" style="width: 550px; height: 350px; border: 1px solid #ccc;"></div>
     </div><!-- tab-clouds -->
-
+  </div>
   </div>
 </div>
