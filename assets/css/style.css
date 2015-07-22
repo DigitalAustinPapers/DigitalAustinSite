@@ -6805,3 +6805,20 @@ button.navbar-toggle .icon-bar {
   background-repeat: repeat-x;
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#99000000', endColorstr='#00000000', GradientType=0);
 }
+.document-place-name,
+.document-person-name {
+  color: inherit;
+  border-bottom: 1px dotted lightblue;
+  text-decoration: none;
+}
+.document-place-name:hover,
+.document-person-name:hover,
+.document-place-name:active,
+.document-person-name:active,
+.document-place-name:visited,
+.document-person-name:visited,
+.document-place-name:focus,
+.document-person-name:focus {
+  background-color: lightblue;
+  text-decoration: none;
+}
