@@ -123,7 +123,8 @@ function transformPersonNames($doc, $body) {
 
       $search_target = urlencode($cleaned_reference);
       $link = $doc->createElement('a', $reference);
-      $link->setAttribute('href', "search.php?query={$cleaned_reference}");
+      $link->setAttribute('class', "document-person-name");
+      $link->setAttribute('href', "search?query={$cleaned_reference}");
       $result = $persName->parentNode->replaceChild($link, $persName);
 
     }
@@ -147,7 +148,8 @@ function transformPlaceNames($doc, $body) {
 
       $search_target = urlencode($cleaned_reference);
       $link = $doc->createElement('a', $reference);
-      $link->setAttribute('href', "search.php?query={$cleaned_reference}");
+      $link->setAttribute('class', "document-place-name");
+      $link->setAttribute('href', "search?query={$cleaned_reference}");
       #			logString($link->textContent);
       $result = $placename->parentNode->replaceChild($link, $placename);
 
