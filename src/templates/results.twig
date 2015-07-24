@@ -1,79 +1,78 @@
 <div class="hidden container" id="tabs">
-<div class="row">
-  <h3>Search results:</h3>
+  <div class="row">
+    <h3>Search results:</h3>
 
-  <span id="resultsCount">No</span> results out of <span id="totalDocsCount">?</span> documents for <span id="humanQuery">all search terms.</span>
-</div><!-- row -->
-<div class="row">
-  <div class="col-sm-3">
-  <ul class="nav nav-pills nav-stacked" role="tablist">
-    <li role="presentation" class="active">
-      <a href="#tab-documents" role="tab" data-toggle="tab">Documents</a>
-    </li>
-    <li role="presentation">
-      <a href="#tab-timeline" role="tab" data-toggle="tab">Timeline</a>
-    </li>
-    <li role="presentation">
-      <a href="#tab-geographic" role="tab" data-toggle="tab">Geography</a>
-    </li>
-    <li role="presentation">
-      <a href="#tab-clouds" role="tab" data-toggle="tab">Word Clouds</a></li>
-  </ul>
-</div>
-  <div class="col-sm-9">
-  <div class="tab-content">
-    <div role="tabpanel" class="tab-pane active" id="tab-documents" >
-      <div class="search-results-sort">
-        <form id="sortForm">
-          <label class="radio-inline">
-            <input type='radio' name='sort' id='sort_similarity' value='similarity'> Relevance
-          </label>
-          <label class="radio-inline">
-            <input type='radio' name='sort' id='sort_date' value='date'> Date
-          </label>
-          <label class="radio-inline">
-            <input type='radio' name='sort' id='sort_sentiment' value='sentiment'> Sentiment
-            </label>
-        </form>
-      </div><!-- search-results-sort -->
-      <ol id="documentsList">Loading...</ol>
+    <span id="resultsCount">No</span> results out of <span id="totalDocsCount">?</span> documents for <span id="humanQuery">all search terms.</span>
+  </div><!-- row -->
+  <div class="row">
+    <div class="col-sm-3">
+      <ul class="nav nav-pills nav-stacked" role="tablist">
+        <li role="presentation" class="active">
+          <a href="#tab-documents" role="tab" data-toggle="tab">Documents</a>
+        </li>
+        <li role="presentation">
+          <a href="#tab-timeline" role="tab" data-toggle="tab">Timeline</a>
+        </li>
+        <li role="presentation">
+          <a href="#tab-geographic" role="tab" data-toggle="tab">Geography</a>
+        </li>
+        <li role="presentation">
+          <a href="#tab-clouds" role="tab" data-toggle="tab">Word Clouds</a></li>
+      </ul>
+    </div><!-- col -->
+    <div class="col-sm-9">
+      <div class="tab-content">
+        <div role="tabpanel" class="tab-pane active" id="tab-documents" >
+          <div class="search-results-sort">
+            <form id="sortForm">
+              <label class="radio-inline">
+                <input type='radio' name='sort' id='sort_similarity' value='similarity'> Relevance
+              </label>
+              <label class="radio-inline">
+                <input type='radio' name='sort' id='sort_date' value='date'> Date
+              </label>
+              <label class="radio-inline">
+                <input type='radio' name='sort' id='sort_sentiment' value='sentiment'> Sentiment
+                </label>
+            </form>
+          </div><!-- search-results-sort -->
+          <ol id="documentsList">Loading...</ol>
 
-      <nav>
-        <ul class="pagination">
-          <li>Prev</li>
-          <li>Page #n</li>
-          <li>Page #n</li>
-          <li>Page #c</li>
-          <li>Page #n</li>
-          <li>Page #n</li>
-          <li>Next</li>
-        </ul>
-      </nav>
+          <nav>
+            <ul class="pagination">
+              <li>Prev</li>
+              <li>Page #n</li>
+              <li>Page #n</li>
+              <li>Page #c</li>
+              <li>Page #n</li>
+              <li>Page #n</li>
+              <li>Next</li>
+            </ul>
+          </nav>
 
-    </div><!-- tab-documents -->
+        </div><!-- tab-documents -->
 
-    <div role="tabpanel" class="tab-pane" id="tab-timeline">
-      <!-- Timeline Tab Content -->
-      <div id="timeChart" style="width:100%; height:500px;"></div>
-    </div><!-- tab-timeline -->
+        <div role="tabpanel" class="tab-pane" id="tab-timeline">
+          <!-- Timeline Tab Content -->
+          <div id="timeChart" style="width:100%; height:500px;"></div>
+        </div><!-- tab-timeline -->
 
-    <div role="tabpanel" class="tab-pane" id="tab-geographic">
-      <!-- Geographic Tab Content -->
-      <div id="map" style="width:100%; height:500px;"></div>
-    </div><!-- tab-timeline -->
+        <div role="tabpanel" class="tab-pane" id="tab-geographic">
+          <!-- Geographic Tab Content -->
+          <div id="map" style="width:100%; height:500px;"></div>
+        </div><!-- tab-timeline -->
 
-    <div role="tabpanel" class="tab-pane" id="tab-clouds">
-      <!-- Clouds Tab Content -->
-      <h2>People</h2>
-      <div id="personCloud" style="width: 550px; height: 350px; border: 1px solid #ccc;"></div>
-      <h2>Places</h2>
-      <div id="placeCloud" style="width: 550px; height: 350px; border: 1px solid #ccc;"></div>
-      <h2>Words</h2>
-      <div id="wordCloud" style="width: 550px">
-      </div>
-    </div><!-- tab-clouds -->
-  </div>
-  </div>
-  </div>
-  </div>
+        <div role="tabpanel" class="tab-pane" id="tab-clouds">
+          <!-- Clouds Tab Content -->
+          <div id="personCloud">
+            <h2>People</h2>
+          </div>
+
+          <div id="placeCloud">
+            <h2>Places</h2>
+          </div>
+        </div><!-- tab-clouds -->
+      </div><!-- tab-content -->
+    </div><!-- col -->
+  </div><!-- row -->
 </div>

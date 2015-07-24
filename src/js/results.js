@@ -464,14 +464,12 @@ function redrawMarkers() {
 
 var cloudsNeedRerender = false;
 function updateClouds() {
-    $("#wordCloud").empty();
-    $("#personCloud").empty();
-    $("#placeCloud").empty();
+  $('svg').remove();
 
-    wordChart(cloudData[0], "#wordCloud");
-    $("#personCloud").jQCloud(cloudData[2]);
-    $("#placeCloud").jQCloud(cloudData[1]);
-    cloudsNeedRerender = false;
+  wordChart(cloudData[2], "#personCloud");
+  wordChart(cloudData[1], "#placeCloud");
+
+  cloudsNeedRerender = false;
 }
 // Invoked when new cloud data is downloaded
 $(document).on("cloudDataLoaded", function(e, data) {
@@ -487,91 +485,78 @@ $(document).on("cloudDataLoaded", function(e, data) {
 function wordChart(dataset, divId) {
   // Chart defaults
   var dataSet = dataset,
-    divId = divId,
     margin = {top: 30, right: 10, bottom: 30, left: 10},
-    width = parseInt(d3.select(divId).style('width'), 10),
+    width = parseInt(d3.select(divId).style('width')),
     width = width - margin.left - margin.right,
-    height = 200,
     barHeight = 20,
-    barPadding = 5;
-
-  // Chart construction
-  function chart() {
-
-    var xScale = d3.scale.linear()
-        .domain([0, d3.max(dataSet, function (d) {
-            return parseInt(d.weight, 10);
-        })])
-        .range([0, width]);
-
-    var yScale = d3.scale.linear()
-        .range([height + barPadding, 0]);
-
+    barPadding = 5,
+    wordSpace = 50,
     height = (barHeight + barPadding) * dataSet.length
-      - margin.top - margin.bottom;
+        - margin.top - margin.bottom;
 
-    var chart = d3.select(divId)
-        .append("svg")
-        .attr("width", width + margin.left + margin.right)
-        .attr("height", height + margin.top + margin.bottom)
-        .append("g")
-        .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+  console.log(d3.select(divId).style('width'));
+  console.log(margin);
+  console.log(width);
 
-    var bar = chart.selectAll("g")
-        .data(dataSet)
-        .enter()
-        .append("g")
-        .attr("transform", function (d, i) {
-            return "translate(" + margin.left + "," +
-                (i * (barHeight + barPadding) ) + ")";
-        });
+  var xScale = d3.scale.linear()
+      .domain([0, d3.max(dataSet, function (d) {
+          return parseInt(d.weight, 10);
+      })])
+      .range([0, width]);
 
-    bar.append("rect")
-        .attr("fill", "red")
-        .attr("class", "bar")
-        .attr("width", function (d) {
-            return xScale(d.weight);
-        })
-        .attr("height", barHeight - 1);
+  var yScale = d3.scale.linear()
+      .domain([0, dataset.length])
+      .range([height + barPadding, 0]);
 
-    bar.append("text")
-        .attr("x", function (d) {
-            return xScale((d.weight) - 3);
-        })
-        .attr("y", barHeight / 2)
-        .attr("fill", "red")
-        .attr("dy", ".35em")
-        .text(function (d) {
-            return d.weight;
-        });
+  var chart = d3.select(divId)
+      .append("svg")
+      .attr("width", (width + margin.left + margin.right) + 'px')
+      .attr("height", (height + margin.top + margin.bottom) + 'px')
+      .append("g")
+      .attr("transform", "translate(" + [margin.left , margin.top] + ")");
 
-    bar.append("text")
-        .attr("class", "label")
-        .attr("x", function (d) {
-            return -10;
-        })
-        .attr("y", barHeight / 2)
-        .attr("dy", ".35em")
-        .text(function (d) {
-            return d.text;
-        })
-        .attr("color", "black");
-  }
+  var bar = chart.selectAll("g")
+      .data(dataSet)
+      .enter()
+      .append("g")
+      .attr("transform", function (d, i) {
+          return "translate(" + (margin.left + wordSpace) + "," +
+              (i * (barHeight + barPadding) ) + ")";
+      });
 
-  // Getter and setter methods
-  chart.width = function(value) {
-      if (!arguments.length) return width;
-      width = value;
-      return chart;
-  };
+  d3.select(chart.node().parentNode)
+    .style("height", (height + margin.top + margin.bottom) + "px");
 
-  chart.height = function(value) {
-      if (!arguments.length) return height;
-      height = value;
-      return chart;
-  };
+  bar.append("rect")
+      .attr("fill", "red")
+      .attr("class", "bar")
+      .attr("width", function (d) {
+          return xScale(d.weight);
+      })
+      .attr("height", barHeight - 1);
 
-  return chart();
+  bar.append("text")
+      .attr("x", function (d) {
+          return xScale((d.weight) - 3);
+      })
+      .attr("y", barHeight / 2)
+      .attr("fill", "red")
+      .attr("dy", ".35em")
+      .text(function (d) {
+          return d.weight;
+      });
+
+  bar.append("text")
+      .attr("class", "label")
+      .attr("x", function (d) {
+          return -(wordSpace);
+      })
+      .attr("y", barHeight / 2)
+      .attr("dy", ".35em")
+      .text(function (d) {
+          return d.text;
+      })
+      .attr("color", "black");
 }
 
 /*
@@ -694,7 +679,7 @@ $(document).on("basicDataLoaded", function(e, data) {
 });
 
 // A single event listener for tabs using bootstrap's tabs js
-$('a[data-toggle="tab"]').on("show.bs.tab", function(e) {
+$('a[data-toggle="tab"]').on("shown.bs.tab", function(e) {
     newTabId = $(e.target).attr('href');
     switch(newTabId) {
         case '#tab-content':
