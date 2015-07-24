@@ -1173,7 +1173,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: "Stint Ultra Condensed", "Quattrocentro", Georgia, "Times New Roman", Times, serif;
+  font-family: "Stint Ultra Condensed", Georgia, "Times New Roman", Times, serif;
   font-weight: 500;
   line-height: 1.1;
   color: inherit;
@@ -6765,7 +6765,7 @@ button.close {
   }
 }
 h1 {
-  font-family: "Stint Ultra Expanded", "Quattrocentro", Georgia, "Times New Roman", Times, serif;
+  font-family: "Stint Ultra Expanded", Georgia, "Times New Roman", Times, serif;
 }
 li {
   font-family: Bitter, Quicksand, "Helvetica Neue", Helvetica, Arial, sans-serif;
