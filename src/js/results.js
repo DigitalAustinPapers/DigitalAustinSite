@@ -4,7 +4,7 @@
 
 // Global data
 var basicData = null;
-var cloudData = null;
+var chartData = null;
 var cityData = null;
 var sortKey = 'date';
 var positiveThreshold = 2.0;
@@ -23,7 +23,7 @@ var resultsListItems = null;
 function queryChanged() {
     // Invalidate all data that was for the old query parameters
     basicData = null;
-    cloudData = null;
+    chartData = null;
     cityData = null;
     resultsListItems = null;
 
@@ -31,7 +31,7 @@ function queryChanged() {
     requestData();
 
     // reveal results div
-    jQuery('#tabs').removeClass('hidden');
+    jQuery('.result-tabs').removeClass('hidden');
 
     // Don't navigate away from this page
     return false;
@@ -133,11 +133,11 @@ function requestData() {
         waitingForData = true;
     }
 
-    // Request new cloud data only if it's being listened for
+    // Request new chart data only if it's being listened for
     if (true) {
         var url = 'data/cloud.php';
         $.getJSON(url + getParams, function(json) {
-            $(document).trigger("cloudDataLoaded", [json]);
+            $(document).trigger("chartDataLoaded", [json]);
         });
         waitingForData = true;
     }
@@ -459,25 +459,25 @@ function redrawMarkers() {
 }
 
 /*
-  Cloud tab
+  Chart tab
  */
 
-var cloudsNeedRerender = false;
-function updateClouds() {
+var chartsNeedRerender = false;
+function updateCharts() {
   $('svg').remove();
 
-  wordChart(cloudData[2], "#personCloud");
-  wordChart(cloudData[1], "#placeCloud");
+  wordChart(chartData[2], "#personChart");
+  wordChart(chartData[1], "#placeChart");
 
-  cloudsNeedRerender = false;
+  chartsNeedRerender = false;
 }
-// Invoked when new cloud data is downloaded
-$(document).on("cloudDataLoaded", function(e, data) {
-    if (data != null && data != cloudData) {
-        cloudData = data;
-        cloudsNeedRerender = true;
-        if ($("#tab-clouds").css('display') != "none") {
-            updateClouds();
+// Invoked when new chart data is downloaded
+$(document).on("chartDataLoaded", function(e, data) {
+    if (data != null && data != chartData) {
+        chartData = data;
+        chartsNeedRerender = true;
+        if ($("#tab-charts").css('display') != "none") {
+            updateCharts();
         }
     }
 });
@@ -486,11 +486,12 @@ function wordChart(dataset, divId) {
   // Chart defaults
   var dataSet = dataset,
     margin = {top: 30, right: 10, bottom: 30, left: 10},
-    width = parseInt(d3.select(divId).style('width')),
+    width = parseInt(d3.select(divId).style('width'), 10),
     width = width - margin.left - margin.right,
     barHeight = 20,
     barPadding = 5,
-    wordSpace = 50,
+    wordSpace = 125,
+    numberSpace = 40,
     height = (barHeight + barPadding) * dataSet.length
         - margin.top - margin.bottom;
 
@@ -502,7 +503,7 @@ function wordChart(dataset, divId) {
       .domain([0, d3.max(dataSet, function (d) {
           return parseInt(d.weight, 10);
       })])
-      .range([0, width]);
+      .range([0, width - wordSpace - numberSpace]);
 
   var yScale = d3.scale.linear()
       .domain([0, dataset.length])
@@ -510,10 +511,10 @@ function wordChart(dataset, divId) {
 
   var chart = d3.select(divId)
       .append("svg")
-      .attr("width", (width + margin.left + margin.right) + 'px')
-      .attr("height", (height + margin.top + margin.bottom) + 'px')
+      .attr("width", width + margin.left + margin.right)
+      .attr("height", height + margin.top + margin.bottom)
       .append("g")
-      .attr("transform", "translate(" + [margin.left , margin.top] + ")");
+      .attr("transform", "translate(" + [margin.left, margin.top] + ")");
 
   var bar = chart.selectAll("g")
       .data(dataSet)
@@ -540,7 +541,7 @@ function wordChart(dataset, divId) {
           return xScale((d.weight) - 3);
       })
       .attr("y", barHeight / 2)
-      .attr("fill", "red")
+      .attr("fill", "black")
       .attr("dy", ".35em")
       .text(function (d) {
           return d.weight;
@@ -664,7 +665,7 @@ function updateChart() {
             document.getElementById('fromYear').value = year;
             document.getElementById('toYear').value = year;
             queryChanged();
-            $("#tabs").tabs("option", "active", 0);
+            $(".result-tabs").tabs("option", "active", 0);
         }
     });
 }
@@ -698,9 +699,9 @@ $('a[data-toggle="tab"]').on("shown.bs.tab", function(e) {
                 redrawMarkers();
             }
             break;
-        case '#tab-clouds':
-            if (cloudsNeedRerender) {
-                updateClouds();
+        case '#tab-charts':
+            if (chartsNeedRerender) {
+                updateCharts();
             }
             break;
     }

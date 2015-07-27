@@ -1,10 +1,10 @@
-<div class="hidden container" id="tabs">
-  <div class="row">
+<div class="hidden result-tabs" id="tabs">
+  {#<div class="row hidden result-tabs">#}
     <h3>Search results:</h3>
 
     <span id="resultsCount">No</span> results out of <span id="totalDocsCount">?</span> documents for <span id="humanQuery">all search terms.</span>
-  </div><!-- row -->
-  <div class="row">
+  {#</div><!-- row -->#}
+  {#<div class="row hidden result-tabs">#}
     <div class="col-sm-3">
       <ul class="nav nav-pills nav-stacked" role="tablist">
         <li role="presentation" class="active">
@@ -17,7 +17,7 @@
           <a href="#tab-geographic" role="tab" data-toggle="tab">Geography</a>
         </li>
         <li role="presentation">
-          <a href="#tab-clouds" role="tab" data-toggle="tab">Word Clouds</a></li>
+          <a href="#tab-charts" role="tab" data-toggle="tab">Word Charts</a></li>
       </ul>
     </div><!-- col -->
     <div class="col-sm-9">
@@ -62,17 +62,17 @@
           <div id="map" style="width:100%; height:500px;"></div>
         </div><!-- tab-timeline -->
 
-        <div role="tabpanel" class="tab-pane" id="tab-clouds">
-          <!-- Clouds Tab Content -->
-          <div id="personCloud">
+        <div role="tabpanel" class="tab-pane" id="tab-charts">
+          <!-- Charts Tab Content -->
+          <div id="personChart">
             <h2>People</h2>
           </div>
 
-          <div id="placeCloud">
+          <div id="placeChart">
             <h2>Places</h2>
           </div>
-        </div><!-- tab-clouds -->
+        </div><!-- tab-charts -->
       </div><!-- tab-content -->
     </div><!-- col -->
-  </div><!-- row -->
+  {#</div><!-- row -->#}
 </div>
