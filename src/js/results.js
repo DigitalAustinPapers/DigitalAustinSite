@@ -495,19 +495,18 @@ function wordChart(dataset, divId) {
     height = (barHeight + barPadding) * dataSet.length
         - margin.top - margin.bottom;
 
-  console.log(d3.select(divId).style('width'));
-  console.log(margin);
-  console.log(width);
 
   var xScale = d3.scale.linear()
       .domain([0, d3.max(dataSet, function (d) {
-          return parseInt(d.weight, 10);
+        return parseInt(d.weight, 10);
       })])
       .range([0, width - wordSpace - numberSpace]);
 
-  var yScale = d3.scale.linear()
-      .domain([0, dataset.length])
-      .range([height + barPadding, 0]);
+  var yScale = d3.scale.ordinal()
+      .domain(dataset.map(function (d) {
+        return d.text;
+      }))
+      .rangeBands([height, 0], .1);
 
   var chart = d3.select(divId)
       .append("svg")
@@ -516,48 +515,72 @@ function wordChart(dataset, divId) {
       .append("g")
       .attr("transform", "translate(" + [margin.left, margin.top] + ")");
 
-  var bar = chart.selectAll("g")
+  var bars = chart.selectAll("g")
       .data(dataSet)
       .enter()
       .append("g")
       .attr("transform", function (d, i) {
-          return "translate(" + (margin.left + wordSpace) + "," +
-              (i * (barHeight + barPadding) ) + ")";
+        return "translate(" + (margin.left + wordSpace) + "," +
+            (i * (barHeight + barPadding) ) + ")";
       });
 
   d3.select(chart.node().parentNode)
-    .style("height", (height + margin.top + margin.bottom) + "px");
+      .style("height", (height + margin.top + margin.bottom) + "px");
 
-  bar.append("rect")
+  bars.append("rect")
       .attr("fill", "red")
       .attr("class", "bar")
       .attr("width", function (d) {
-          return xScale(d.weight);
+        return xScale(d.weight);
       })
       .attr("height", barHeight - 1);
 
-  bar.append("text")
+  bars.append("text")
       .attr("x", function (d) {
-          return xScale((d.weight) - 3);
+        return xScale((d.weight) - 3);
       })
       .attr("y", barHeight / 2)
       .attr("fill", "black")
       .attr("dy", ".35em")
       .text(function (d) {
-          return d.weight;
+        return d.weight;
       });
 
-  bar.append("text")
+  var labelContainer = chart.append("g")
+      .attr("class", "label-container");
+
+  labelContainer.selectAll("text")
+      .data(dataset)
+      .enter()
+      .append("text")
       .attr("class", "label")
-      .attr("x", function (d) {
-          return -(wordSpace);
+      .attr("transform", function (d, i) {
+        return "translate(0," +
+            (i * (barHeight + barPadding) ) + ")";
       })
-      .attr("y", barHeight / 2)
       .attr("dy", ".35em")
       .text(function (d) {
-          return d.text;
+        return d.text;
       })
       .attr("color", "black");
+
+  function resizeChart() {
+    width = parseInt(d3.select(divId).style('width'));
+    width = width - margin.left - margin.right;
+
+    console.log(width);
+
+    xScale.range([0, width - wordSpace - numberSpace]);
+    d3.select(chart.node().parentNode)
+      .style('width', (width + margin.left + margin.right) + 'px');
+
+    bars.attr("width", function(d) { return xScale(d.weight); })
+        .attr("transform", function (d, i) {
+          return "translate(" + (margin.left + wordSpace) + "," +
+              (i * (barHeight + barPadding) ) + ")";
+        });
+  }
+
 }
 
 /*
