@@ -11,3 +11,16 @@ button.navbar-toggle {
     background-color: @navbar-default-link-color !important;
   }
 }
+
+.jumbotron {
+  .navbar {
+    background-color: transparent;
+    border-color: transparent;
+
+    @media (min-width: @grid-float-breakpoint-max) {
+      .navbar-brand {
+        display: none;
+      }
+    }
+  }
+}
