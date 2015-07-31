@@ -2,6 +2,13 @@
 
 {% block title %}{{ document.title }} | {{ parent() }}{% endblock %}
 
+{% block metadata_opengraph %}
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="http://digitalaustinpapers.org/document?id={{ document.id }}">
+  <meta property="og:title" content="{{ document.title }}">
+  <meta property="og:description" content="{{ document.summary }}">
+{% endblock metadata_opengraph %}
+
 {% block main_container %}
   <div class="col-md-10 col-md-push-1">
     <article>
