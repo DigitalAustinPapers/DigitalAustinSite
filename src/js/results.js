@@ -558,7 +558,7 @@ function wordChart(dataset, divId) {
         return "translate(0," +
             (i * (barHeight + barPadding) ) + ")";
       })
-      .attr("dy", ".35em")
+      .attr("dy", ".75em")
       .text(function (d) {
         return d.text;
       })
