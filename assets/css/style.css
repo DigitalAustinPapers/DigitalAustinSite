@@ -6764,6 +6764,14 @@ button.close {
     display: none !important;
   }
 }
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+body {
+  display: table;
+}
 h1 {
   font-family: "Stint Ultra Expanded", Georgia, "Times New Roman", Times, serif;
 }
@@ -6830,4 +6838,14 @@ button.navbar-toggle .icon-bar {
 .document-person-name:focus {
   background-color: lightblue;
   text-decoration: none;
+}
+.footer {
+  background-color: tan;
+  display: table-row;
+  height: 1px;
+  width: 100%;
+}
+.footer .container {
+  height: auto;
+  padding: 3em 0;
 }
