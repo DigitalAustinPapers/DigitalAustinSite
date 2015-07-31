@@ -6778,6 +6778,9 @@ h1 {
 li {
   font-family: Bitter, Quicksand, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
+#main-wrapper {
+  padding-bottom: 3em;
+}
 button.navbar-toggle {
   border: none;
   background-color: transparent !important;
