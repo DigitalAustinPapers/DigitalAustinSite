@@ -1,10 +1,14 @@
 <div class="hidden result-tabs" id="tabs">
-  {#<div class="row hidden result-tabs">#}
-    <h3>Search results:</h3>
+  <div class="row">
+    <div class="col-xs-12">
+      <h3>Search results:</h3>
+    </div><!-- col -->
+    <div class="col-xs-12">
+      <p><span id="resultsCount">No</span> results out of <span id="totalDocsCount"></span> documents for <span id="humanQuery">all search terms.</span></p>
+    </div><!-- col -->
+  </div><!-- row -->
 
-    <span id="resultsCount">No</span> results out of <span id="totalDocsCount"></span> documents for <span id="humanQuery">all search terms.</span>
-  {#</div><!-- row -->#}
-  {#<div class="row hidden result-tabs">#}
+  <div class="row">
     <div class="col-sm-3">
       <ul class="nav nav-pills nav-stacked" role="tablist">
         <li role="presentation" class="active">
@@ -33,7 +37,7 @@
               </label>
               <label class="radio-inline">
                 <input type='radio' name='sort' id='sort_sentiment' value='sentiment'> Sentiment
-                </label>
+              </label>
             </form>
           </div><!-- search-results-sort -->
           <ol id="documentsList">Loading...</ol>
@@ -74,5 +78,6 @@
         </div><!-- tab-charts -->
       </div><!-- tab-content -->
     </div><!-- col -->
-  {#</div><!-- row -->#}
+  </div><!-- row -->
+
 </div>

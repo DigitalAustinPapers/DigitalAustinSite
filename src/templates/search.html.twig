@@ -3,109 +3,113 @@
 {% block title %}Search | {{ parent() }}{% endblock %}
 
 {% block content %}
-  <div class="" id="search">
+<div class="" id="search">
+  <div class="row">
+    <div class="col-md-12">
+      <h3>Search the Austin Papers</h3>
 
-    <h3>Search the Austin Papers</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+    </div><!-- col -->
+  </div><!-- row -->
 
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-<div class="row">
-      <form action="search" onsubmit="return queryChanged()" method="get">
+  <div class="row">
+    <form class="col-xs-12" action="search" onsubmit="return queryChanged()" method="get">
 
-        <div class="col-xs-12">
-          <div class="form-group">
-            <label for="query" class="sr-only">Search</label>
-            <div class="input-group">
-              <input type="text" class="form-control" id="query" name="query" placeholder="Search terms" value="{{ search_params.query }}">
-              <span class="input-group-btn">
-                <button type="submit" id="submit" class="btn btn-default">Search</button>
-              </span>
-            </div><!-- input-group -->
-          </div><!-- form-group -->
-        </div><!-- col -->
+      <div class="col-xs-12">
+        <div class="form-group">
+          <label for="query" class="sr-only">Search</label>
+          <div class="input-group">
+            <input type="text" class="form-control" id="query" name="query" placeholder="Search terms" value="{{ search_params.query }}">
+            <span class="input-group-btn">
+              <button type="submit" id="submit" class="btn btn-default">Search</button>
+            </span>
+          </div><!-- input-group -->
+        </div><!-- form-group -->
+      </div><!-- col -->
 
-        <div class="col-sm-4">
-          <div class="form-group">
-            <label for="fromPersonId" class="sr-only">Author</label>
-            <select class="form-control" id="fromPersonId" name="fromPersonId">
-              <option value="" {% if search_params.fromPersonId == '' %}selected{% endif %}>Author</option>
-              <option value="7587">Stephen F. Austin</option>
-              {% for id, author in search_dropdowns.fromPersonList %}
-                <option value="{{ id }}" {% if search_params.fromPersonId == id %}selected{% endif %}>{{ author.person_name }} ({{ author.doc_frequency }} letters)</option>
-              {% endfor %}
-            </select>
-          </div><!-- form-group -->
+      <div class="col-sm-4">
+        <div class="form-group">
+          <label for="fromPersonId" class="sr-only">Author</label>
+          <select class="form-control" id="fromPersonId" name="fromPersonId">
+            <option value="" {% if search_params.fromPersonId == '' %}selected{% endif %}>Author</option>
+            <option value="7587">Stephen F. Austin</option>
+            {% for id, author in search_dropdowns.fromPersonList %}
+              <option value="{{ id }}" {% if search_params.fromPersonId == id %}selected{% endif %}>{{ author.person_name }} ({{ author.doc_frequency }} letters)</option>
+            {% endfor %}
+          </select>
+        </div><!-- form-group -->
 
-          <div class="form-group">
-            <label for="toPersonId" class="sr-only">Recipient</label>
-            <select class="form-control" id="toPersonId" name="toPersonId">
-              <option value="" {% if search_params.toPersonId == '' %}selected{% endif %}>Recipient</option>
-              <option value="7587">Stephen F. Austin</option>
-              {% for id, recipient in search_dropdowns.toPersonList %}
-                <option value="{{ id }}" {% if search_params.toPersonId == id %}selected{% endif %}>{{ recipient.person_name }} ({{ recipient.doc_frequency }} letters)</option>
-              {% endfor %}
-            </select>
-          </div><!-- form-group -->
-        </div><!-- col -->
+        <div class="form-group">
+          <label for="toPersonId" class="sr-only">Recipient</label>
+          <select class="form-control" id="toPersonId" name="toPersonId">
+            <option value="" {% if search_params.toPersonId == '' %}selected{% endif %}>Recipient</option>
+            <option value="7587">Stephen F. Austin</option>
+            {% for id, recipient in search_dropdowns.toPersonList %}
+              <option value="{{ id }}" {% if search_params.toPersonId == id %}selected{% endif %}>{{ recipient.person_name }} ({{ recipient.doc_frequency }} letters)</option>
+            {% endfor %}
+          </select>
+        </div><!-- form-group -->
+      </div><!-- col -->
 
-        <div class="col-sm-4">
-          <div class="form-group">
-            <label for="fromYear" class="sr-only">From year</label>
-            <select class="form-control" id="fromYear" name="fromYear">
-              <option value="" {% if search_params.fromYear == '' %}selected{% endif %}>From year</option>
-              {% for year, letters in search_dropdowns.yearList %}
-                <option value="{{ year }}" {% if year == search_params.fromYear %}selected{% endif %}>{{ year }} ({{ letters }} letters)</option>
-              {% endfor %}
-            </select>
-          </div><!-- form-group -->
+      <div class="col-sm-4">
+        <div class="form-group">
+          <label for="fromYear" class="sr-only">From year</label>
+          <select class="form-control" id="fromYear" name="fromYear">
+            <option value="" {% if search_params.fromYear == '' %}selected{% endif %}>From year</option>
+            {% for year, letters in search_dropdowns.yearList %}
+              <option value="{{ year }}" {% if year == search_params.fromYear %}selected{% endif %}>{{ year }} ({{ letters }} letters)</option>
+            {% endfor %}
+          </select>
+        </div><!-- form-group -->
 
-          <div class="form-group">
-            <label for="toYear" class="sr-only">To year</label>
-            <select class="form-control" id="toYear" name="toYear">
-              <option value="" {% if search_params.toYear == '' %}selected{% endif %}>To year</option>
-              {% for year, letters in search_dropdowns.yearList %}
-                <option value="{{ year }}" {% if year == search_params.toYear %}selected{% endif %}>{{ year }} ({{ letters }} letters)</option>
-              {% endfor %}
-            </select>
-          </div><!-- form-group -->
-        </div><!-- col -->
+        <div class="form-group">
+          <label for="toYear" class="sr-only">To year</label>
+          <select class="form-control" id="toYear" name="toYear">
+            <option value="" {% if search_params.toYear == '' %}selected{% endif %}>To year</option>
+            {% for year, letters in search_dropdowns.yearList %}
+              <option value="{{ year }}" {% if year == search_params.toYear %}selected{% endif %}>{{ year }} ({{ letters }} letters)</option>
+            {% endfor %}
+          </select>
+        </div><!-- form-group -->
+      </div><!-- col -->
 
-        <div class="col-sm-4">
-          <div class="form-group">
-            <label for="fromPlaceId" class="sr-only">Sent from</label>
-            <select class="form-control" id="fromPlaceId" name="fromPlaceId">
-              <option value="" {% if search_params.fromPlaceId == '' %}selected{% endif %}>Sent from</option>
-              {% for id, place in search_dropdowns.fromPlaceList %}
-                <option value="{{ id }}" {% if search_params.fromPlaceId == id %}selected{% endif %}>{{ place.place_name }} ({{ place.doc_frequency }} letters)</option>
-              {% endfor %}
-            </select>
-          </div><!-- form-group -->
+      <div class="col-sm-4">
+        <div class="form-group">
+          <label for="fromPlaceId" class="sr-only">Sent from</label>
+          <select class="form-control" id="fromPlaceId" name="fromPlaceId">
+            <option value="" {% if search_params.fromPlaceId == '' %}selected{% endif %}>Sent from</option>
+            {% for id, place in search_dropdowns.fromPlaceList %}
+              <option value="{{ id }}" {% if search_params.fromPlaceId == id %}selected{% endif %}>{{ place.place_name }} ({{ place.doc_frequency }} letters)</option>
+            {% endfor %}
+          </select>
+        </div><!-- form-group -->
 
-          <div class="form-group">
-            <label for="toPlaceId" class="sr-only">Sent to</label>
-            <select class="form-control" id="toPlaceId" name="toPlaceId">
-              <option value="" {% if search_params.toPlaceId == '' %}selected{% endif %}>Sent to</option>
-              {% for id, place in search_dropdowns.toPlaceList %}
-                <option value="{{ id }}" {% if search_params.toPlaceId == id %}selected{% endif %}>{{ place.place_name }} ({{ place.doc_frequency }} letters)</option>
-              {% endfor %}
-            </select>
-          </div><!-- form-group -->
-        </div><!-- col -->
+        <div class="form-group">
+          <label for="toPlaceId" class="sr-only">Sent to</label>
+          <select class="form-control" id="toPlaceId" name="toPlaceId">
+            <option value="" {% if search_params.toPlaceId == '' %}selected{% endif %}>Sent to</option>
+            {% for id, place in search_dropdowns.toPlaceList %}
+              <option value="{{ id }}" {% if search_params.toPlaceId == id %}selected{% endif %}>{{ place.place_name }} ({{ place.doc_frequency }} letters)</option>
+            {% endfor %}
+          </select>
+        </div><!-- form-group -->
+      </div><!-- col -->
 
-        <div class="col-sm-4">
-          <div class="form-group">
-            <label for="sentiment" class="sr-only">Sentiment</label>
-            <select class="form-control" id="sentiment" name="sentiment">
-              <option value="" {% if search_params.sentiment == '' %}selected{% endif %}>Sentiment</option>
-              {% for key, value in search_dropdowns.allSentiments %}
-                <option value="{{ key }}" {% if key == search_params.sentiment %}selected{% endif %}>{{ value }}</option>
-              {% endfor %}
-            </select>
-          </div><!-- form-group -->
-        </div><!-- col -->
+      <div class="col-sm-4">
+        <div class="form-group">
+          <label for="sentiment" class="sr-only">Sentiment</label>
+          <select class="form-control" id="sentiment" name="sentiment">
+            <option value="" {% if search_params.sentiment == '' %}selected{% endif %}>Sentiment</option>
+            {% for key, value in search_dropdowns.allSentiments %}
+              <option value="{{ key }}" {% if key == search_params.sentiment %}selected{% endif %}>{{ value }}</option>
+            {% endfor %}
+          </select>
+        </div><!-- form-group -->
+      </div><!-- col -->
 
-      </form>
-    </div><!-- row -->
-  </div><!-- search -->
+    </form>
+  </div><!-- row -->
+</div><!-- search -->
 
       {% include 'results.twig' %}
       <script>
