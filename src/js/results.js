@@ -121,7 +121,10 @@ function requestData() {
     if(document.getElementById('sentiment').value) {
         humanQueryString += " with <b>"+document.getElementById('sentiment').value+"</b> sentiment scores";
     }
-    document.getElementById('humanQuery').innerHTML = humanQueryString;
+    if(humanQueryString == "") {
+        humanQueryString = "all results.";
+    }
+        document.getElementById('humanQuery').innerHTML = humanQueryString;
 
 
     // Request new basic search data
@@ -203,8 +206,7 @@ var pagingOpts = {
     page: 1, // start at page, can also be "null" or negative
     onSelect: function (page) {
         updatePage(this.slice);
-        console.log('this');
-        console.log(this);
+        $('.pagination').removeClass('hidden');
     },
     onFormat: function (type) {
         switch (type) {

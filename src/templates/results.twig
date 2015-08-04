@@ -2,7 +2,7 @@
   {#<div class="row hidden result-tabs">#}
     <h3>Search results:</h3>
 
-    <span id="resultsCount">No</span> results out of <span id="totalDocsCount">?</span> documents for <span id="humanQuery">all search terms.</span>
+    <span id="resultsCount">No</span> results out of <span id="totalDocsCount"></span> documents for <span id="humanQuery">all search terms.</span>
   {#</div><!-- row -->#}
   {#<div class="row hidden result-tabs">#}
     <div class="col-sm-3">
@@ -39,7 +39,7 @@
           <ol id="documentsList">Loading...</ol>
 
           <nav>
-            <ul class="pagination">
+            <ul class="pagination hidden">
               <li>Prev</li>
               <li>Page #n</li>
               <li>Page #n</li>
@@ -54,6 +54,7 @@
 
         <div role="tabpanel" class="tab-pane" id="tab-timeline">
           <!-- Timeline Tab Content -->
+          <p>View your search results distributed over time and with varying sentiment.</p>
           <div id="timeChart" style="width:100%; height:500px;"></div>
         </div><!-- tab-timeline -->
 
@@ -61,7 +62,6 @@
           <!-- Geographic Tab Content -->
           <div id="map" style="width:100%; height:500px;"></div>
         </div><!-- tab-timeline -->
-
         <div role="tabpanel" class="tab-pane" id="tab-charts">
           <!-- Charts Tab Content -->
           <div id="personChart">
