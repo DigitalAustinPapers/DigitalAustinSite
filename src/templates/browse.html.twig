@@ -27,8 +27,10 @@
   <ul class="list-unstyled" id="browse-results">
   {% for heading, item in results %}
     {% set browse_id = heading|lower|replace({' ': '', '.': '', ',': '', '[': '', ']': '', '/': ''}) %}
-    <li><h3><a class="category-header" data-toggle="collapse" href="#browse-{{ browse_id }}"
-               aria-expanded="false" aria-controls="browse-{{ browse_id }}">{{ heading }} <span class="glyphicon glyphicon-plus" aria-hidden="true"></span></a></h3>
+    <li>
+      <h3><a class="category-header" data-toggle="collapse" href="#browse-{{ browse_id }}"
+               aria-expanded="false" aria-controls="browse-{{ browse_id }}">
+          {{ heading }} <small>({% if item|length == 1 %}1 letter{% else %}{{ item|length }} letters{% endif %})</small> <span class="glyphicon glyphicon-plus" aria-hidden="true"></span></a></h3>
       <div class="collapse" id="browse-{{ browse_id }}">
         <ul>
       {% for id, info in item %}
