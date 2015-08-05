@@ -108,7 +108,7 @@ while ($row = mysqli_fetch_array($result))
 
 // $sortCategories is sent to the template
 $sortCategories = array('date', 'author',
-  'recipient', 'origin', 'destination', 'page');
+  'recipient', 'origin', 'destination');
 
 $template = new TemplateRenderer();
 // Include any variables as an array in the second param
