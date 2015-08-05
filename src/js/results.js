@@ -176,6 +176,10 @@ function updateDocuments() {
     $('#resultsCount').text(resultsCount);
     $('#totalDocsCount').text(totalDocsCount);
 
+    if(resultsCount === 1) {
+      document.getElementById('resultsPlural').innerHTML = "result";
+    }
+
     $(".pagination").paging(resultsCount, pagingOpts);
 
     $('#sort_' + sortKey).prop('checked',true);
