@@ -4,15 +4,17 @@ button.navbar-toggle {
 
   &:hover {
     .icon-bar {
-      background-color: @navbar-default-link-hover-color !important;
+      background-color: @navbar-default-link-hover-color;
     }
   }
   .icon-bar {
-    background-color: @navbar-default-link-color !important;
+    background-color: @navbar-default-link-color;
   }
 }
 
 .jumbotron {
+  color: #F3E8EE;
+
   .navbar {
     background-color: transparent;
     border-color: transparent;
@@ -21,6 +23,29 @@ button.navbar-toggle {
       .navbar-brand {
         display: none;
       }
+    }
+  }
+
+  .navbar-nav > li > a,
+  #site-name-mobile{
+    color: @navbar-default-link-hover-color;
+
+    &:hover {
+      color: #D2B48C;
+    }
+  }
+
+  button.navbar-toggle {
+    border: none;
+    background-color: transparent !important;
+
+    &:hover {
+      .icon-bar {
+        background-color: #D2B48C;
+      }
+    }
+    .icon-bar {
+      background-color: @navbar-default-link-hover-color;
     }
   }
 }
