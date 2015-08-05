@@ -470,6 +470,7 @@ function updateCharts() {
 
   wordChart(chartData[2], "#personChart");
   wordChart(chartData[1], "#placeChart");
+  wordChart(chartData[0], "#wordChart");
 
   chartsNeedRerender = false;
 }
