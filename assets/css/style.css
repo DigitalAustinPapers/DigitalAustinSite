@@ -6841,7 +6841,11 @@ button.navbar-toggle:hover .icon-bar {
   height: 1px;
   width: 100%;
 }
+.footer a {
+  color: #ffffff;
+}
 .footer .container {
   height: auto;
-  padding: 3em 0;
+  padding-bottom: 3em;
+  padding-top: 3em;
 }
