@@ -30,7 +30,7 @@
     <li>
       <h3><a class="category-header" data-toggle="collapse" href="#browse-{{ browse_id }}"
                aria-expanded="false" aria-controls="browse-{{ browse_id }}">
-          {{ heading }} <small>({% if item|length == 1 %}1 letter{% else %}{{ item|length }} letters{% endif %})</small> <span class="glyphicon glyphicon-plus" aria-hidden="true"></span></a></h3>
+          {{ heading }} <span class="glyphicon glyphicon-plus" aria-hidden="true"></span> <small>({% if item|length == 1 %}1 letter{% else %}{{ item|length }} letters{% endif %})</small></a></h3>
       <div class="collapse" id="browse-{{ browse_id }}">
         <a class="btn btn-primary btn-sm" href="search?query={{ heading|url_encode }}">Search for {{ heading }}</a>
         <ul>

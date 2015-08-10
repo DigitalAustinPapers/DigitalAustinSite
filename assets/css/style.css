@@ -1091,8 +1091,8 @@ a {
 }
 a:hover,
 a:focus {
-  color: #455a64;
-  text-decoration: underline;
+  color: #ffab00;
+  text-decoration: none;
 }
 a:focus {
   outline: thin dotted;
@@ -3459,8 +3459,8 @@ fieldset[disabled] .btn-link {
 }
 .btn-link:hover,
 .btn-link:focus {
-  color: #455a64;
-  text-decoration: underline;
+  color: #ffab00;
+  text-decoration: none;
   background-color: transparent;
 }
 .btn-link[disabled]:hover,
@@ -4772,7 +4772,7 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
 .pagination > li > a:focus,
 .pagination > li > span:focus {
   z-index: 3;
-  color: #455a64;
+  color: #ffab00;
   background-color: #cfd8dc;
   border-color: #b6b6b6;
 }
@@ -6845,6 +6845,9 @@ button.navbar-toggle:hover .icon-bar {
 .footer a {
   color: #ffffff;
 }
+.footer a:hover {
+  color: #ffab00;
+}
 .footer .container {
   height: auto;
   padding-bottom: 3em;
@@ -6852,4 +6855,7 @@ button.navbar-toggle:hover .icon-bar {
 }
 .footer .footer-unt-history-logo {
   padding-bottom: 1em;
+}
+.category-header .glyphicon {
+  font-size: .65em;
 }
