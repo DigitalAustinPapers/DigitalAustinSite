@@ -12,18 +12,13 @@
     </div><!-- col -->
   </div><!-- row -->
 
-  <div class="row">
-    <form class="col-xs-12" action="search" onsubmit="return queryChanged()" method="get">
 
+  <form class="col-xs-12" action="search" onsubmit="return queryChanged()" method="get">
+    <div class="row">
       <div class="col-xs-12">
         <div class="form-group">
           <label for="query" class="sr-only">Search</label>
-          <div class="input-group">
-            <input type="text" class="form-control" id="query" name="query" placeholder="Search terms" value="{{ search_params.query }}">
-            <span class="input-group-btn">
-              <button type="submit" id="submit" class="btn btn-default">Search</button>
-            </span>
-          </div><!-- input-group -->
+          <input type="text" class="form-control" id="query" name="query" placeholder="Search terms" value="{{ search_params.query }}">
         </div><!-- form-group -->
       </div><!-- col -->
 
@@ -34,7 +29,7 @@
             <option value="" {% if search_params.fromPersonId == '' %}selected{% endif %}>Author</option>
             <option value="7587">Stephen F. Austin</option>
             {% for id, author in search_dropdowns.fromPersonList %}
-              <option value="{{ id }}" {% if search_params.fromPersonId == id %}selected{% endif %}>{{ author.person_name }} ({{ author.doc_frequency }} letters)</option>
+            <option value="{{ id }}" {% if search_params.fromPersonId == id %}selected{% endif %}>{{ author.person_name }} ({{ author.doc_frequency }} letters)</option>
             {% endfor %}
           </select>
         </div><!-- form-group -->
@@ -106,9 +101,16 @@
           </select>
         </div><!-- form-group -->
       </div><!-- col -->
+    </div><!-- row -->
 
-    </form>
-  </div><!-- row -->
+    <div class="row">
+      <div class="col-sm-4">
+        <button type="submit" id="submit" class="btn btn-default">Search</button>
+      </div>
+    </div>
+  </form>
+
+
 </div><!-- search -->
 
       {% include 'results.twig' %}
