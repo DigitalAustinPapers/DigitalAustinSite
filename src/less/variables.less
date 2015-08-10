@@ -12,6 +12,7 @@
 @primary-color:         #607D8B; // Blue-grey
 @primary-color-dark:    #455A64;
 @primary-color-light:   #CFD8DC;
+@primary-color-lighter: #ECEFF1;
 @text-icons-color:      #FFFFFF;
 
 @accent-color:          #FFC400; // Amber
@@ -434,19 +435,19 @@
 
 //=== Shared nav styles
 @nav-link-padding:                          10px 15px;
-@nav-link-hover-bg:                         @primary-color-light;
+@nav-link-hover-bg:                         @primary-color-lighter;
 
 @nav-disabled-link-color:                   @gray-light;
 @nav-disabled-link-hover-color:             @gray-light;
 
 //== Tabs
-@nav-tabs-border-color:                     @divider-color;
+@nav-tabs-border-color:                     @primary-color-light;
 
-@nav-tabs-link-hover-border-color:          @divider-color;
+@nav-tabs-link-hover-border-color:          none;
 
 @nav-tabs-active-link-hover-bg:             @body-bg;
 @nav-tabs-active-link-hover-color:          @primary-color;
-@nav-tabs-active-link-hover-border-color:   @divider-color;
+@nav-tabs-active-link-hover-border-color:   @nav-tabs-border-color;
 
 @nav-tabs-justified-link-border-color:            #ddd;
 @nav-tabs-justified-active-link-border-color:     @body-bg;
