@@ -6821,7 +6821,7 @@ button.navbar-toggle:hover .icon-bar {
 .document-place-name,
 .document-person-name {
   color: inherit;
-  border-bottom: 1px dotted #ffab00;
+  border-bottom: 1px solid #ffab00;
   text-decoration: none;
 }
 .document-place-name:hover,
@@ -6834,6 +6834,7 @@ button.navbar-toggle:hover .icon-bar {
 .document-person-name:focus {
   background-color: #ffd740;
   text-decoration: none;
+  color: inherit;
 }
 .footer {
   background-color: #607d8b;
