@@ -2,12 +2,23 @@
 
 {% block title %}Contact | {{ parent() }}{% endblock %}
 
+{% block scripts %}
+  {{ parent() }}
+  <script src='https://www.google.com/recaptcha/api.js' async defer></script>
+{% endblock scripts %}
+
 {% block content %}
 <div class="" id="contact">
 
+  {% if success == 'success' %}
+    <div class="alert alert-success" role="alert">Your message has been successfully sent.</div>
+  {% elseif success == 'fail' %}
+    <div class="alert alert-danger" role="alert">Your message could not be sent. Please complete all fields and submit again.</div>
+  {% endif %}
+
   <h2>Contact Form</h2>
   <p>Please fill out the form below to send email to the Digital Austin Collection team <em>(all fields are required)</em>:</p>
-  <form class="form-horizontal" action="send" method="post">
+  <form class="form-horizontal" action="contact" method="post">
 
     <div class="form-group">
       <label for="contact_name" class="col-sm-3">Your Name:</label>
@@ -44,7 +55,8 @@
 
     <div class="form-group">
       <div class="col-sm-offset-3 col-sm-9">
-        <button type="submit" id="submit" class="btn btn-default">Send</button>
+        <div class="g-recaptcha" data-sitekey="6LdLHAsTAAAAAMpMPpkmgNh4FDNEl7WJV_3lNuqH"></div>
+        <button type="submit" id="submit" name="submit" class="btn btn-default">Send</button>
       </div>
     </div>
   </form>
