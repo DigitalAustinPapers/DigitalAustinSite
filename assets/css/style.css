@@ -6818,6 +6818,9 @@ button.navbar-toggle:hover .icon-bar {
   background-repeat: repeat-x;
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#99000000', endColorstr='#00000000', GradientType=0);
 }
+.jumbotron .jumbotron-subtitle {
+  font-weight: 400;
+}
 .document-place-name,
 .document-person-name {
   color: inherit;
