@@ -210,7 +210,14 @@ var pagingOpts = {
     page: 1, // start at page, can also be "null" or negative
     onSelect: function (page) {
         updatePage(this.slice);
-        $('.pagination').removeClass('hidden');
+        var $pagination = $('.pagination');
+        if (this.pages > 1) {
+            $pagination.removeClass('hidden');
+        } else {
+            if (!$pagination.hasClass('hidden')) {
+                $pagination.addClass('hidden');
+            }
+        }
     },
     onFormat: function (type) {
         switch (type) {
