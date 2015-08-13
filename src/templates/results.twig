@@ -1,35 +1,32 @@
-<div class="hidden result-tabs" id="tabs">
+<div class="hidden search-results" id="tabs">
   <div class="row">
-    <div class="col-xs-12">
-      <h2>Search results:</h2>
-    </div><!-- col -->
-    <div class="col-xs-12">
-      <p><span id="resultsCount">No</span> <span id="resultsPlural">results</span> out of <span id="totalDocsCount"></span> documents for <span id="humanQuery">all search terms.</span></p>
+    <div class="col-xs-12 search-results__results-summary">
+      <span id="resultsCount">No</span> <span id="resultsPlural">results</span> out of <span id="totalDocsCount"></span> documents for <span id="humanQuery">all search terms.</span>
     </div><!-- col -->
   </div><!-- row -->
 
   <div class="row">
-    <div class="col-sm-12">
-      <ul class="nav nav-tabs" role="tablist">
-        <li role="presentation" class="active">
+    <div class="col-sm-12 search-results__tabs">
+      <ul class="nav nav-tabs search-results__tabs-list" role="tablist">
+        <li role="presentation" class="active search-results__tabs-list-item">
           <a href="#tab-documents" role="tab" data-toggle="tab">Documents</a>
         </li>
-        <li role="presentation">
+        <li role="presentation" class="search-results__tabs-list-item">
           <a href="#tab-timeline" role="tab" data-toggle="tab">Timeline</a>
         </li>
-        <li role="presentation">
+        <li role="presentation" class="search-results__tabs-list-item">
           <a href="#tab-geographic" role="tab" data-toggle="tab">Geography</a>
         </li>
-        <li role="presentation">
+        <li role="presentation" class="search-results__tabs-list-item">
           <a href="#tab-charts" role="tab" data-toggle="tab">Word Charts</a></li>
       </ul>
     </div><!-- col -->
   </div><!-- row -->
   <div class="row">
-    <div class="col-sm-12">
+    <div class="col-sm-12 search-results__results-container">
       <div class="tab-content">
         <div role="tabpanel" class="tab-pane active" id="tab-documents" >
-          <div class="search-results-sort">
+          <div class="search-results__sort">
             <form id="sortForm">
               <label class="radio-inline">
                 <input type='radio' name='sort' id='sort_similarity' value='similarity'> Relevance
@@ -42,7 +39,7 @@
               </label>
             </form>
           </div><!-- search-results-sort -->
-          <ol id="documentsList">Loading...</ol>
+          <ol id="documentsList" class="search-results-list">Loading...</ol>
 
           <nav>
             <ul class="pagination hidden">

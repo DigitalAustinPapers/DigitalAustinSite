@@ -31,7 +31,7 @@ function queryChanged() {
     requestData();
 
     // reveal results div
-    jQuery('.result-tabs').removeClass('hidden');
+    jQuery('.search-results').removeClass('hidden');
 
     // Don't navigate away from this page
     return false;
@@ -702,7 +702,7 @@ function updateChart() {
             document.getElementById('fromYear').value = year;
             document.getElementById('toYear').value = year;
             queryChanged();
-            $(".result-tabs").tabs("option", "active", 0);
+            $(".search-results").tabs("option", "active", 0);
         }
     });
 }
