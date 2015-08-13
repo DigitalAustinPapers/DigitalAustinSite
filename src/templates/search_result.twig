@@ -1,6 +1,6 @@
 <li class="search-results-list__item">
   <a href="document.php?id={{ result.id }}.xml" id="search-result-{{ result.id }}" class="search-results-list__item-title">
-    {{ result.title }}</a>
+    {{ result.title|split(',', -1)|join(',') }}</a>
   <div class="search-results-list__item-details">
     <div class="search-results-list__item-summary">{{ result.summary }}</div>
     <span class="search-results-list__item-date">
