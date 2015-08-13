@@ -24,20 +24,20 @@
     <a href="javascript:void(0)" id="collapse-expand-all" data-state="collapsed">Expand all</a>
   </div>
 
-  <ul class="list-unstyled" id="browse-results">
+  <ul class="list-unstyled browse-list" id="browse-results">
   {% for heading, item in results %}
     {% set browse_id = heading|lower|replace({' ': '', '.': '', ',': '', '[': '', ']': '', '/': ''}) %}
-    <li>
-      <h3><a class="category-header" data-toggle="collapse" href="#browse-{{ browse_id }}"
+    <li class="browse-list__category">
+      <h3><a class="browse-list__category-header" data-toggle="collapse" href="#browse-{{ browse_id }}"
                aria-expanded="false" aria-controls="browse-{{ browse_id }}">
           {{ heading }} <span class="glyphicon glyphicon-plus" aria-hidden="true"></span> <small>({% if item|length == 1 %}1 letter{% else %}{{ item|length }} letters{% endif %})</small></a></h3>
       <div class="collapse" id="browse-{{ browse_id }}">
-        <a class="btn btn-primary btn-sm" href="search?query={{ heading|url_encode }}">Search for {{ heading }}</a>
-        <ul>
+        <a class="browse-list__search_button btn btn-primary btn-sm" href="search?query={{ heading|url_encode }}">Search for {{ heading }}</a>
+        <ul class="browse-list__item-list">
       {% for id, info in item %}
-        <li>
+        <li class="browse-list__items">
           <a href="document?id={{ id }}.xml" id="browse-{{ id }}">{{ info.document_title }}</a><br>
-          {{ info.document_summary }}
+          <span class="browse-list__item-summary">{{ info.document_summary }}</span>
         </li>
       {% endfor %}
         </ul>

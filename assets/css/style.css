@@ -6859,6 +6859,22 @@ button.navbar-toggle:hover .icon-bar {
 .footer .footer-unt-history-logo {
   padding-bottom: 1em;
 }
-.category-header .glyphicon {
+.browse-list__category-header .glyphicon {
   font-size: .65em;
+}
+.browse-list__search_button {
+  margin-left: 40px;
+}
+.browse-list__item-list {
+  list-style-type: none;
+  margin-top: .75em;
+}
+.browse-list__items {
+  margin-top: .5em;
+}
+.browse-list__item-summary {
+  color: #727272;
+}
+.pagination {
+  margin-left: 40px;
 }
