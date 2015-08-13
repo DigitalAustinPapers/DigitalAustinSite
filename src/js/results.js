@@ -190,14 +190,31 @@ $(document).on("basicDataLoaded", function(e, data) {
     if (data != null && data != basicData) {
         basicData = data;
         updateDocuments();
+        updateSentiment();
     }
     else alert("?");
 });
+
 // Define behavior for when the sort options are clicked
 $('input:radio[name=sort]').on('click', function(e) {
     sortKey = $('input:radio[name=sort]:checked').val();
     queryChanged();
 });
+
+function updateSentiment() {
+    $('.search-result-list__item-sentiment-score').each(function() {
+        var $sentimentElement = $(this);
+        var $score = $sentimentElement.attr('data-sentiment');
+
+        if ($score < negativeThreshold) {
+            $sentimentElement.addClass('sentiment-negative');
+        } else if($score > positiveThreshold) {
+            $sentimentElement.addClass('sentiment-positive');
+        } else {
+            $sentimentElement.addClass('sentiment-neutral');
+        }
+    });
+}
 
 /*
  * Document tab paging

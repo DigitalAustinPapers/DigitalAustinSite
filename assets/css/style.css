@@ -6890,6 +6890,18 @@ button.navbar-toggle:hover .icon-bar {
 .search-results-list__item-details {
   color: #727272;
 }
+.search-results-list__item-sentiment {
+  color: #727272;
+}
+.sentiment-negative {
+  color: #d9534f;
+}
+.sentiment-positive {
+  color: #5cb85c;
+}
+.sentiment-neutral {
+  color: #727272;
+}
 .pagination {
   margin-left: 40px;
 }

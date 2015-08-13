@@ -2,17 +2,16 @@
   <a href="document.php?id={{ result.id }}.xml" id="search-result-{{ result.id }}" class="search-results-list__item-title">
     {{ result.title|split(',', -1)|join(',') }}</a>
   <div class="search-results-list__item-details">
-    <div class="search-results-list__item-summary">{{ result.summary }}</div>
     <span class="search-results-list__item-date">
-      Date -
       {% if result.date == '0000-00-00' %}
-        Unknown
+        Date unknown
       {% else %}
-        {{ result.date }}
+        {{ result.date|date("M j, Y") }}
       {% endif %}
-    </span>
+    </span> -
+    <span class="search-results-list__item-summary">{{ result.summary }}</div>
     <span class="search-results-list__item-sentiment">
-      Sentiment - {{ result.sentimentScore }}
+      Sentiment - <span class="search-result-list__item-sentiment-score glyphicon glyphicon-heart" data-sentiment="{{ result.sentimentScore }}"></span>
     </span><!-- search-results-list__item-sentiment -->
   </div><!-- search-results-list__item-details -->
 </li>
