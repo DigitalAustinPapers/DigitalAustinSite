@@ -190,7 +190,6 @@ $(document).on("basicDataLoaded", function(e, data) {
     if (data != null && data != basicData) {
         basicData = data;
         updateDocuments();
-        updateSentiment();
     }
     else alert("?");
 });
@@ -201,6 +200,8 @@ $('input:radio[name=sort]').on('click', function(e) {
     queryChanged();
 });
 
+// Update class based on sentiment. Do that here instead of in template
+// because thresholds are defined in the javascript.
 function updateSentiment() {
     $('.search-result-list__item-sentiment-score').each(function() {
         var $sentimentElement = $(this);
@@ -227,6 +228,7 @@ var pagingOpts = {
     page: 1, // start at page, can also be "null" or negative
     onSelect: function (page) {
         updatePage(this.slice);
+        updateSentiment();
         var $pagination = $('.pagination');
         if (this.pages > 1) {
             $pagination.removeClass('hidden');
