@@ -27,7 +27,7 @@ $('#collapse-expand-all').on('click', function(e) {
   }
 });
 
-$(document).on('click', '.category-header', function() {
+$(document).on('click', '.browse-list__category-header', function() {
   if($(this).find('.glyphicon').hasClass('glyphicon-plus')) {
     $(this).find('.glyphicon').addClass('glyphicon-minus').removeClass('glyphicon-plus');
   } else if($(this).find('.glyphicon').hasClass('glyphicon-minus')) {
