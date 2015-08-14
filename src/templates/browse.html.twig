@@ -28,20 +28,43 @@
   {% for heading, item in results %}
     {% set browse_id = heading|lower|replace({' ': '', '.': '', ',': '', '[': '', ']': '', '/': ''}) %}
     <li class="browse-list__category">
-      <h3><a class="browse-list__category-header" data-toggle="collapse" href="#browse-{{ browse_id }}"
-               aria-expanded="false" aria-controls="browse-{{ browse_id }}">
-          {{ heading }} <span class="glyphicon glyphicon-plus" aria-hidden="true"></span> <small>({% if item|length == 1 %}1 letter{% else %}{{ item|length }} letters{% endif %})</small></a></h3>
+
+      <h3>
+        <a class="browse-list__category-header" data-toggle="collapse"
+           href="#browse-{{ browse_id }}" aria-expanded="false" aria-controls="browse-{{ browse_id }}">
+          {{ heading }}
+          <span class="glyphicon glyphicon-plus" aria-hidden="true"></span>
+          <small>({% if item|length == 1 %}1 letter{% else %}{{ item|length }} letters{% endif %})</small>
+        </a>
+      </h3>
+
       <div class="collapse" id="browse-{{ browse_id }}">
-        <a class="browse-list__search_button btn btn-primary btn-sm" href="search?query={{ heading|url_encode }}">Search for {{ heading }}</a>
+
+        <a class="browse-list__search_button btn btn-primary btn-sm"
+           href="search?query={{ heading|url_encode }}">
+          Search for {{ heading }}
+        </a>
+
         <ul class="browse-list__item-list">
-      {% for id, info in item %}
-        <li class="browse-list__items">
-          <a href="document?id={{ id }}.xml" id="browse-{{ id }}">{{ info.document_title }}</a><br>
-          <span class="browse-list__item-summary">{{ info.document_summary }}</span>
+        {% for id, info in item %}
+        <li class="browse-list__item">
+          <a href="document?id={{ id }}.xml" id="browse-{{ id }}" class="browse-list__item title">
+            {{ info.document_title|split(',', -1)|join(',') }}
+          </a>
+          <div class="browse-list__item-details">
+            <span class="browse-list__item-date">
+              {% if info.document_date == '0000-00-00' %}
+                Date unknown
+              {% else %}
+                {{ info.document_date|date("M j, Y") }}
+              {% endif %}
+            </span> -
+            <span class="browse-list__item-summary">{{ info.document_summary }}</span>
+          </div>
         </li>
-      {% endfor %}
+        {% endfor %}
         </ul>
-      </div>
+      </div><!-- browse-* -->
   {% endfor %}
     </li>
   </ul>

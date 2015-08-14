@@ -6869,10 +6869,10 @@ button.navbar-toggle:hover .icon-bar {
   list-style-type: none;
   margin-top: .75em;
 }
-.browse-list__items {
+.browse-list__item {
   margin-top: .5em;
 }
-.browse-list__item-summary {
+.browse-list__item-details {
   color: #727272;
 }
 .search-results__results-summary {
