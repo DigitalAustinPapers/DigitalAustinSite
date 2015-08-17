@@ -175,6 +175,7 @@ function updateDocuments() {
     var resultsCount = basicData['json'].length;
     $('#resultsCount').text(resultsCount);
     $('#totalDocsCount').text(totalDocsCount);
+    $('.search-results__results-summary').removeClass('invisible');
 
     if(resultsCount === 1) {
       document.getElementById('resultsPlural').innerHTML = "result";
