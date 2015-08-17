@@ -6870,7 +6870,7 @@ button.navbar-toggle:hover .icon-bar {
   margin-top: .75em;
 }
 .browse-list__item {
-  margin-top: .5em;
+  margin-top: 1em;
 }
 .browse-list__item-details {
   color: #727272;
@@ -6884,8 +6884,11 @@ button.navbar-toggle:hover .icon-bar {
   margin-bottom: 1em;
   margin-top: 1em;
 }
+.search-results-list {
+  color: #727272;
+}
 .search-results-list__item {
-  margin-top: .5em;
+  margin-top: 1em;
 }
 .search-results-list__item-details {
   color: #727272;
