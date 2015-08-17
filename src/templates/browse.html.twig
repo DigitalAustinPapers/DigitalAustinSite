@@ -1,5 +1,7 @@
 {% extends 'base.twig' %}
 
+{% from 'macros.twig' import class_filter %}
+
 {% block title %}Browse | {{ parent() }}{% endblock %}
 
 {% block content %}
@@ -26,19 +28,18 @@
 
   <ul class="list-unstyled browse-list" id="browse-results">
   {% for heading, item in results %}
-    {% set browse_id = heading|lower|replace({' ': '', '.': '', ',': '', '[': '', ']': '', '/': ''}) %}
     <li class="browse-list__category">
 
       <h3>
         <a class="browse-list__category-header" data-toggle="collapse"
-           href="#browse-{{ browse_id }}" aria-expanded="false" aria-controls="browse-{{ browse_id }}">
+           href="#browse-{{ class_filter(heading) }}" aria-expanded="false" aria-controls="browse-{{ class_filter(heading) }}">
           {{ heading }}
           <span class="glyphicon glyphicon-plus" aria-hidden="true"></span>
           <small>({% if item|length == 1 %}1 letter{% else %}{{ item|length }} letters{% endif %})</small>
         </a>
       </h3>
 
-      <div class="collapse" id="browse-{{ browse_id }}">
+      <div class="collapse" id="browse-{{ class_filter(heading) }}">
 
         <a class="browse-list__search_button btn btn-primary btn-sm"
            href="search?query={{ heading|url_encode }}">
@@ -48,7 +49,7 @@
         <ul class="browse-list__item-list">
         {% for id, info in item %}
         <li class="browse-list__item">
-          <a href="document?id={{ id }}.xml" id="browse-{{ id }}" class="browse-list__item title">
+          <a href="document?id={{ id }}.xml" id="browse-{{ browseBy }}--{{ id }}" class="browse-list__item title">
             {{ info.document_title|split(',', -1)|join(',') }}
           </a>
           <div class="browse-list__item-details">
