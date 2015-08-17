@@ -585,6 +585,10 @@ function wordChart(dataset, divId) {
   labelContainer.selectAll("text")
       .data(dataset)
       .enter()
+      .append("a")
+      .attr("xlink:href", function(d) {
+        return "search?query='" + d.text + "'";
+      })
       .append("text")
       .attr("class", "label")
       .attr("transform", function (d, i) {
