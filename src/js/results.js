@@ -537,7 +537,7 @@ function wordChart(dataset, divId) {
       .range([0, width - wordSpace - numberSpace]);
 
   var yScale = d3.scale.ordinal()
-      .domain(dataset.map(function (d) {
+      .domain(dataSet.map(function (d) {
         return d.text;
       }))
       .rangeBands([height, 0], .1);
@@ -584,11 +584,11 @@ function wordChart(dataset, divId) {
       .attr("class", "label-container");
 
   labelContainer.selectAll("text")
-      .data(dataset)
+      .data(dataSet)
       .enter()
       .append("a")
       .attr("xlink:href", function(d) {
-        return "search?query='" + d.text + "'";
+        return d.link;
       })
       .append("text")
       .attr("class", "label")
