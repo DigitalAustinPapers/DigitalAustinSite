@@ -544,9 +544,11 @@ function wordChart(dataset, divId) {
 
   var chart = d3.select(divId)
       .append("svg")
+      .attr("class", "word-chart__outer-svg")
       .attr("width", width + margin.left + margin.right)
       .attr("height", height + margin.top + margin.bottom)
       .append("g")
+      .attr("class", "word-chart__inner-g")
       .attr("transform", "translate(" + [margin.left, margin.top] + ")");
 
   var bars = chart.selectAll("g")
@@ -562,36 +564,36 @@ function wordChart(dataset, divId) {
       .style("height", (height + margin.top + margin.bottom) + "px");
 
   bars.append("rect")
-      .attr("fill", "red")
-      .attr("class", "bar")
+      .attr("class", "word-chart__bar")
       .attr("width", function (d) {
         return xScale(d.weight);
       })
       .attr("height", barHeight - 1);
 
   bars.append("text")
+      .attr("class", "word-chart__item-weight")
       .attr("x", function (d) {
         return xScale((d.weight) - 3);
       })
       .attr("y", barHeight / 2)
-      .attr("fill", "black")
       .attr("dy", ".35em")
       .text(function (d) {
         return d.weight;
       });
 
   var labelContainer = chart.append("g")
-      .attr("class", "label-container");
+      .attr("class", "word-chart__label-container");
 
   labelContainer.selectAll("text")
       .data(dataSet)
       .enter()
       .append("a")
+      .attr("class", "word-chart__label-link")
       .attr("xlink:href", function(d) {
         return d.link;
       })
       .append("text")
-      .attr("class", "label")
+      .attr("class", "word-chart__label-text")
       .attr("transform", function (d, i) {
         return "translate(0," +
             (i * (barHeight + barPadding) ) + ")";
@@ -599,8 +601,7 @@ function wordChart(dataset, divId) {
       .attr("dy", ".75em")
       .text(function (d) {
         return d.text;
-      })
-      .attr("color", "black");
+      });
 
   function resizeChart() {
     width = parseInt(d3.select(divId).style('width'));

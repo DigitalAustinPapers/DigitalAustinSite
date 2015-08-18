@@ -6908,3 +6908,15 @@ button.navbar-toggle:hover .icon-bar {
 .pagination {
   margin-left: 40px;
 }
+.word-chart__bar {
+  fill: #ffd740;
+}
+.word-chart__bar:hover {
+  fill: #ffab00;
+}
+.word-chart__item-weight {
+  fill: #727272;
+}
+.word-chart__label-text {
+  fill: #212121;
+}
