@@ -15,17 +15,17 @@
   </div><!-- row -->
 
 
-  <form class="col-xs-12" action="search" onsubmit="return queryChanged()" method="get">
+  <form class="col-xs-12 search-form" action="search" onsubmit="return queryChanged()" method="get">
     <div class="row">
       <div class="col-xs-12">
-        <div class="form-group">
+        <div class="form-group search-form__form-group">
           <label for="query" class="sr-only">Search</label>
           <input type="text" class="form-control" id="query" name="query" placeholder="Search terms" value="{{ search_params.query }}">
         </div><!-- form-group -->
       </div><!-- col -->
 
       <div class="col-sm-4">
-        <div class="form-group">
+        <div class="form-group search-form__form-group">
           <label for="fromPersonId" class="sr-only">Author</label>
           <select class="form-control" id="fromPersonId" name="fromPersonId">
             <option value="" {% if search_params.fromPersonId == '' %}selected{% endif %}>Author</option>
@@ -36,7 +36,7 @@
           </select>
         </div><!-- form-group -->
 
-        <div class="form-group">
+        <div class="form-group search-form__form-group">
           <label for="toPersonId" class="sr-only">Recipient</label>
           <select class="form-control" id="toPersonId" name="toPersonId">
             <option value="" {% if search_params.toPersonId == '' %}selected{% endif %}>Recipient</option>
@@ -49,7 +49,7 @@
       </div><!-- col -->
 
       <div class="col-sm-4">
-        <div class="form-group">
+        <div class="form-group search-form__form-group">
           <label for="fromYear" class="sr-only">From year</label>
           <select class="form-control" id="fromYear" name="fromYear">
             <option value="" {% if search_params.fromYear == '' %}selected{% endif %}>From year</option>
@@ -59,7 +59,7 @@
           </select>
         </div><!-- form-group -->
 
-        <div class="form-group">
+        <div class="form-group search-form__form-group">
           <label for="toYear" class="sr-only">To year</label>
           <select class="form-control" id="toYear" name="toYear">
             <option value="" {% if search_params.toYear == '' %}selected{% endif %}>To year</option>
@@ -71,7 +71,7 @@
       </div><!-- col -->
 
       <div class="col-sm-4">
-        <div class="form-group">
+        <div class="form-group search-form__form-group">
           <label for="fromPlaceId" class="sr-only">Sent from</label>
           <select class="form-control" id="fromPlaceId" name="fromPlaceId">
             <option value="" {% if search_params.fromPlaceId == '' %}selected{% endif %}>Sent from</option>
@@ -81,7 +81,7 @@
           </select>
         </div><!-- form-group -->
 
-        <div class="form-group">
+        <div class="form-group search-form__form-group">
           <label for="toPlaceId" class="sr-only">Sent to</label>
           <select class="form-control" id="toPlaceId" name="toPlaceId">
             <option value="" {% if search_params.toPlaceId == '' %}selected{% endif %}>Sent to</option>
@@ -93,7 +93,7 @@
       </div><!-- col -->
 
       <div class="col-sm-4">
-        <div class="form-group">
+        <div class="form-group search-form__form-group">
           <label for="sentiment" class="sr-only">Sentiment</label>
           <select class="form-control" id="sentiment" name="sentiment">
             <option value="" {% if search_params.sentiment == '' %}selected{% endif %}>Sentiment</option>
@@ -103,13 +103,12 @@
           </select>
         </div><!-- form-group -->
       </div><!-- col -->
+
+      <div class="col-sm-4">
+        <button type="submit" id="submit" class="btn btn-default search-form__submit-button"><span class="glyphicon glyphicon-search" aria-hidden="true"></span> Search</button>
+      </div>
     </div><!-- row -->
 
-    <div class="row">
-      <div class="col-sm-4">
-        <button type="submit" id="submit" class="btn btn-default">Search</button>
-      </div>
-    </div>
   </form>
 
 

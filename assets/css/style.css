@@ -6875,6 +6875,9 @@ button.navbar-toggle:hover .icon-bar {
 .browse-list__item-details {
   color: #727272;
 }
+.search-form__submit-button {
+  font-size: .8em;
+}
 .search-results__results-summary {
   margin-top: 1em;
   margin-bottom: 1em;
