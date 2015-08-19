@@ -6859,15 +6859,15 @@ button.navbar-toggle:hover .icon-bar {
 .footer .footer-unt-history-logo {
   padding-bottom: 1em;
 }
+.browse-list__category-header {
+  margin-bottom: 0;
+}
 .browse-list__category-header .glyphicon {
   font-size: .65em;
 }
-.browse-list__search_button {
-  margin-left: 40px;
-}
 .browse-list__item-list {
   list-style-type: none;
-  margin-top: .75em;
+  margin-top: 1em;
 }
 .browse-list__item {
   margin-top: 1em;
