@@ -6875,7 +6875,7 @@ button.navbar-toggle:hover .icon-bar {
 .browse-list__item-details {
   color: #727272;
 }
-.search-form__submit-button {
+.search-form__submit-button .glyphicon {
   font-size: .8em;
 }
 .search-results__results-summary {
