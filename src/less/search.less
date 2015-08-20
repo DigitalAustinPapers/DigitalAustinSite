@@ -5,8 +5,31 @@
 }
 
 .search-results__results-summary {
-  margin-top: 1em;
-  margin-bottom: 1em;
+  .alert();
+
+  transition-property: background-color, border-color, color;
+  transition-duration: 2s;
+  transition-timing-function: ease-out;
+  background-color: transparent;
+  border-color: transparent;
+  color: inherit;
+}
+
+.search-results__results-summary--changed {
+  transition-property: background-color, border-color, color;
+  transition-duration: 2s;
+  transition-timing-function: ease-out;
+  background-color: @accent-color-light;
+  border-color: @accent-color-light;
+  color: @text-primary-color;
+
+  & hr {
+    border-top-color: #a6e1ec;
+  }
+
+  & .alert-link {
+    color: #245269;
+  }
 }
 
 .search-results__sort {

@@ -6879,8 +6879,44 @@ button.navbar-toggle:hover .icon-bar {
   font-size: .8em;
 }
 .search-results__results-summary {
-  margin-top: 1em;
-  margin-bottom: 1em;
+  padding: 15px;
+  margin-bottom: 25px;
+  border: 1px solid transparent;
+  border-radius: 0;
+  transition-property: background-color, border-color, color;
+  transition-duration: 2s;
+  transition-timing-function: ease-out;
+  background-color: transparent;
+  border-color: transparent;
+  color: inherit;
+}
+.search-results__results-summary h4 {
+  margin-top: 0;
+  color: inherit;
+}
+.search-results__results-summary .alert-link {
+  font-weight: bold;
+}
+.search-results__results-summary > p,
+.search-results__results-summary > ul {
+  margin-bottom: 0;
+}
+.search-results__results-summary > p + p {
+  margin-top: 5px;
+}
+.search-results__results-summary--changed {
+  transition-property: background-color, border-color, color;
+  transition-duration: 2s;
+  transition-timing-function: ease-out;
+  background-color: #ffd740;
+  border-color: #ffd740;
+  color: #212121;
+}
+.search-results__results-summary--changed hr {
+  border-top-color: #a6e1ec;
+}
+.search-results__results-summary--changed .alert-link {
+  color: #245269;
 }
 .search-results__sort {
   margin-left: 40px;

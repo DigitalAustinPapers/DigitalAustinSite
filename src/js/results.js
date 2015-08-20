@@ -181,6 +181,13 @@ function updateDocuments() {
       document.getElementById('resultsPlural').innerHTML = "result";
     }
 
+  // Apply alert class with CSS transition and remove after 2 seconds
+  $('.search-results__results-summary')
+      .addClass('search-results__results-summary--changed').delay(2000).queue(function() {
+        $(this).removeClass('search-results__results-summary--changed')
+        .dequeue();
+  });
+
     $(".pagination").paging(resultsCount, pagingOpts);
 
     $('#sort_' + sortKey).prop('checked',true);
@@ -747,7 +754,7 @@ function updateChart() {
             document.getElementById('fromYear').value = year;
             document.getElementById('toYear').value = year;
             queryChanged();
-            $(".search-results").tabs("option", "active", 0);
+            $('.search-results__tabs a[href="#tab-documents"]').tab("show");
         }
     });
 }
