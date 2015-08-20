@@ -519,29 +519,32 @@ $(document).on("chartDataLoaded", function(e, data) {
 function wordChart(dataset, divId) {
   // Chart defaults
   var dataSet = dataset,
-    margin = {top: 30, right: 10, bottom: 30, left: 10},
-    width = parseInt(d3.select(divId).style('width'), 10),
+    margin = {top: 0, right: 0, bottom: 0, left: 0},
+    container = d3.select(divId),
+    width = parseInt(container.style('width'))
+        - parseInt(container.style('padding-left'))
+        - parseInt(container.style('padding-right')),
     width = width - margin.left - margin.right,
     barHeight = 20,
     barPadding = 5,
-    wordSpace = 125,
-    numberSpace = 40,
+    labelSpace = 125, // initial value
     height = (barHeight + barPadding) * dataSet.length
         - margin.top - margin.bottom;
 
-
+  // Create the x scale
   var xScale = d3.scale.linear()
       .domain([0, d3.max(dataSet, function (d) {
         return parseInt(d.weight, 10);
-      })])
-      .range([0, width - wordSpace - numberSpace]);
+      })]);
 
+  // Create the y scale
   var yScale = d3.scale.ordinal()
       .domain(dataSet.map(function (d) {
         return d.text;
       }))
       .rangeBands([height, 0], .1);
 
+  // Create and append the outer svg and inner g for margins
   var chart = d3.select(divId)
       .append("svg")
       .attr("class", "word-chart__outer-svg")
@@ -549,41 +552,14 @@ function wordChart(dataset, divId) {
       .attr("height", height + margin.top + margin.bottom)
       .append("g")
       .attr("class", "word-chart__inner-g")
+      .attr("width", width)
       .attr("transform", "translate(" + [margin.left, margin.top] + ")");
 
-  var bars = chart.selectAll("g")
-      .data(dataSet)
-      .enter()
-      .append("g")
-      .attr("transform", function (d, i) {
-        return "translate(" + (margin.left + wordSpace) + "," +
-            (i * (barHeight + barPadding) ) + ")";
-      });
-
-  d3.select(chart.node().parentNode)
-      .style("height", (height + margin.top + margin.bottom) + "px");
-
-  bars.append("rect")
-      .attr("class", "word-chart__bar")
-      .attr("width", function (d) {
-        return xScale(d.weight);
-      })
-      .attr("height", barHeight - 1);
-
-  bars.append("text")
-      .attr("class", "word-chart__item-weight")
-      .attr("x", function (d) {
-        return xScale((d.weight) - 3);
-      })
-      .attr("y", barHeight / 2)
-      .attr("dy", ".35em")
-      .text(function (d) {
-        return d.weight;
-      });
-
+  // Create and append the container for labels
   var labelContainer = chart.append("g")
       .attr("class", "word-chart__label-container");
 
+  // Add labels to the label container
   labelContainer.selectAll("text")
       .data(dataSet)
       .enter()
@@ -598,9 +574,53 @@ function wordChart(dataset, divId) {
         return "translate(0," +
             (i * (barHeight + barPadding) ) + ")";
       })
-      .attr("dy", ".75em")
+      .attr("dy", "1em")
       .text(function (d) {
         return d.text;
+      });
+
+  // Update labelSpace to widest label
+  labelSpace = d3.select(divId).select(".word-chart__label-container").node().getBBox().width;
+
+  // Set x scale range after determining labelSpace
+  xScale.range([25, width - labelSpace]);
+
+  // Create and append a container for bars
+  var barContainer = chart.append("g")
+      .attr("class", "word-chart__bar-container");
+
+  // Create g elements for each bar and append inside bar container
+  var bars = barContainer.selectAll("g")
+      .data(dataSet)
+      .enter()
+      .append("g")
+      .attr("transform", function (d, i) {
+        return "translate(" + labelSpace + "," +
+            (i * (barHeight + barPadding) ) + ")";
+      });
+
+  // Adjust height of chart parent element
+  d3.select(chart.node().parentNode)
+      .style("height", (height + margin.top + margin.bottom) + "px");
+
+  // Create and append the bars inside the bar container
+  bars.append("rect")
+      .attr("class", "word-chart__bar")
+      .attr("width", function (d) {
+        return xScale(d.weight);
+      })
+      .attr("height", barHeight - 1);
+
+  // Create and append the bar value labels inside the bar container
+  bars.append("text")
+      .attr("class", "word-chart__item-weight")
+      .attr("y", barHeight / 2)
+      .attr("dy", ".35em")
+      .text(function (d) {
+        return d.weight;
+      })
+      .attr("x", function (d) {
+        return xScale(d.weight) - this.getBBox().width - 2;
       });
 
   function resizeChart() {
@@ -609,13 +629,13 @@ function wordChart(dataset, divId) {
 
     console.log(width);
 
-    xScale.range([0, width - wordSpace - numberSpace]);
+    xScale.range([0, width - labelSpace]);
     d3.select(chart.node().parentNode)
       .style('width', (width + margin.left + margin.right) + 'px');
 
     bars.attr("width", function(d) { return xScale(d.weight); })
         .attr("transform", function (d, i) {
-          return "translate(" + (margin.left + wordSpace) + "," +
+          return "translate(" + (margin.left + labelSpace) + "," +
               (i * (barHeight + barPadding) ) + ")";
         });
   }

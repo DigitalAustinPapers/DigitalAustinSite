@@ -7,7 +7,7 @@
 }
 
 .word-chart__bar {
-  fill: @accent-color-light;
+  fill: @accent-color;
 
   &:hover {
     fill: @accent-color-dark;
@@ -15,7 +15,9 @@
 }
 
 .word-chart__item-weight {
-  fill: @text-secondary-color;
+  fill: @text-icons-color;
+  font-size: 14px;
+  font-weight: bold;
 }
 
 .word-chart__label-container {
@@ -28,4 +30,9 @@
 
 .word-chart__label-text {
   fill: @text-primary-color;
+  font-size: 14px;
+
+  &:hover {
+    fill: @accent-color-dark;
+  }
 }

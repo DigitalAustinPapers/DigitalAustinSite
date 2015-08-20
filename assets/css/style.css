@@ -6912,14 +6912,20 @@ button.navbar-toggle:hover .icon-bar {
   margin-left: 40px;
 }
 .word-chart__bar {
-  fill: #ffd740;
+  fill: #ffc400;
 }
 .word-chart__bar:hover {
   fill: #ffab00;
 }
 .word-chart__item-weight {
-  fill: #727272;
+  fill: #ffffff;
+  font-size: 14px;
+  font-weight: bold;
 }
 .word-chart__label-text {
   fill: #212121;
+  font-size: 14px;
+}
+.word-chart__label-text:hover {
+  fill: #ffab00;
 }
