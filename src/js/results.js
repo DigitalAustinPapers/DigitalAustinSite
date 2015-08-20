@@ -224,7 +224,7 @@ function updateSentiment() {
 
 var pagingOpts = {
     format: '[< nncnn >]', // define how the navigation should look like and in which order onFormat() gets called
-    perpage: 10, // show 10 elements per page
+    perpage: 20, // show 10 elements per page
     lapping: 0, // don't overlap pages for the moment
     page: 1, // start at page, can also be "null" or negative
     onSelect: function (page) {
