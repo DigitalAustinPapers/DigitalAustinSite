@@ -1,5 +1,7 @@
 {% extends 'base.twig' %}
 
+{% from 'macros.twig' import title_date_filter %}
+
 {% block title %}{{ document.title }} | {{ parent() }}{% endblock %}
 
 {% block metadata_opengraph %}
@@ -11,28 +13,45 @@
 
 {% block main_container %}
   <div class="col-md-10 col-md-push-1">
-    <article>
-      <hgroup class="clearfix">
-        <h2 id="title">{{ document.title }}</h2>
+    <article class="document">
+
+      <hgroup>
+        <div class="row">
+          <div class="col-sm-9">
+            <h2 class="pull-left document__title">{{- title_date_filter(document.title) -}}</h2>
+          </div>
+          <div class="col-sm-3">
+              <a class="pull-right document__download" href="https://raw.githubusercontent.com/DigitalAustinPapers/AustinTranscripts/master/teip5_xml/{{ document.id }}.xml"
+                 id="document-download-{{ document.id }}"download>
+                Download XML
+              </a>
+          </div>
+        </div>
+
         <hr>
-        <p class="pull-left" id="summary">Summary: {{ document.summary }}</p>
-        <div class="pull-right">
-          <a href="https://raw.githubusercontent.com/DigitalAustinPapers/AustinTranscripts/master/teip5_xml/{{ document.id }}.xml"
-             id="document-download-{{ document.id }}"download>
-            Download XML
-          </a>
-        </div><!-- teixml -->
+
+        <div class="row">
+          <div class="col-sm-12">
+            <p class="document__summary">{{ document.summary }}</p>
+          </div>
+        </div>
+
+        <hr>
+
       </hgroup>
-      <hr>
-      <div id="text doc-{{ document.id }}">
+
+      <div id="doc-{{ document.id }}" class="document__body">
         {{ letter_body_display|raw }}
-      </div><!-- text -->
-    </article>
+      </div><!-- document__body -->
 
       <hr>
-      <aside id="cite"><h3>Citation</h3>
+      <aside class="document__citation">
+        <h3>Citation</h3>
         {{ citation|raw }}
       </aside>
+    </article>
+
+
   </div><!-- col-sm-12 -->
 
 {% endblock %}

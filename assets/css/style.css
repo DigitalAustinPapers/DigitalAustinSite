@@ -6821,20 +6821,20 @@ button.navbar-toggle:hover .icon-bar {
 .jumbotron .jumbotron-subtitle {
   font-weight: 400;
 }
-.document-place-name,
-.document-person-name {
+.document__place-name,
+.document__person-name {
   color: inherit;
   border-bottom: 1px solid #ffab00;
   text-decoration: none;
 }
-.document-place-name:hover,
-.document-person-name:hover,
-.document-place-name:active,
-.document-person-name:active,
-.document-place-name:visited,
-.document-person-name:visited,
-.document-place-name:focus,
-.document-person-name:focus {
+.document__place-name:hover,
+.document__person-name:hover,
+.document__place-name:active,
+.document__person-name:active,
+.document__place-name:visited,
+.document__person-name:visited,
+.document__place-name:focus,
+.document__person-name:focus {
   background-color: #ffd740;
   text-decoration: none;
   color: inherit;

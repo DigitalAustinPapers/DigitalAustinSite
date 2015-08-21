@@ -1,3 +1,11 @@
 {% macro class_filter(input_text) %}
   {{- input_text|lower|replace({' ': '-', '.': '', ',': '', '[': '', ']': '', '/': ''}) -}}
 {% endmacro %}
+
+{% macro title_date_filter(input_text) %}
+  {% if input_text ends with 'Unknown' %}
+    {{- input_text|replace({', Unknown': ', Date Unknown'}) -}}
+  {% else %}
+    {{- input_text -}}
+  {% endif %}
+{% endmacro %}
