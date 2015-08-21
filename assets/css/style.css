@@ -6839,6 +6839,11 @@ button.navbar-toggle:hover .icon-bar {
   text-decoration: none;
   color: inherit;
 }
+.document__body {
+  line-height: 1.6em;
+  font-size: 20px;
+  word-wrap: break-word;
+}
 .footer {
   background-color: #607d8b;
   display: table-row;
