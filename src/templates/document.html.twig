@@ -20,7 +20,7 @@
           <div class="col-sm-9">
             <h2 class="pull-left document__title">{{- title_date_filter(document.title) -}}</h2>
           </div>
-          <div class="col-sm-3">
+          <div class="col-sm-3 hidden-print">
               <a class="pull-right document__download" href="https://raw.githubusercontent.com/DigitalAustinPapers/AustinTranscripts/master/teip5_xml/{{ document.id }}.xml"
                  id="document-download-{{ document.id }}"download>
                 Download XML
