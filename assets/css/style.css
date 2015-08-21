@@ -6824,7 +6824,7 @@ button.navbar-toggle:hover .icon-bar {
 .document__place-name,
 .document__person-name {
   color: inherit;
-  border-bottom: 1px solid #ffab00;
+  border-bottom: 1px dotted #ffc400;
   text-decoration: none;
 }
 .document__place-name:hover,
