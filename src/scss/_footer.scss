@@ -1,0 +1,24 @@
+.footer {
+  background-color: $primary-color;
+  display: table-row;
+  height: 1px;
+  width: 100%;
+
+  a {
+    color: $text-icons-color;
+
+    &:hover {
+      color: $link-hover-color;
+    }
+  }
+
+  .container {
+    height: auto;
+    padding-bottom: 3em;
+    padding-top: 3em;
+  }
+
+  .footer-unt-history-logo {
+    padding-bottom: 1em;
+  }
+}

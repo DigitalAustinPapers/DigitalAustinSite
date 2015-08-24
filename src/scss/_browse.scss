@@ -1,0 +1,20 @@
+.browse-list__category-header {
+  margin-bottom: 0;
+
+  .glyphicon {
+    font-size: .65em;
+  }
+}
+
+.browse-list__item-list {
+  list-style-type: none;
+  margin-top: 1em;
+}
+
+.browse-list__item {
+  margin-top: 1em;
+}
+
+.browse-list__item-details {
+  color: $text-secondary-color;
+}

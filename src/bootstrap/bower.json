@@ -1,34 +1,35 @@
 {
-  "name": "bootstrap",
-  "description": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
-  "keywords": [
-    "css",
-    "js",
-    "less",
-    "mobile-first",
-    "responsive",
-    "front-end",
-    "framework",
-    "web"
+  "name": "bootstrap-sass",
+  "homepage": "https://github.com/twbs/bootstrap-sass",
+  "authors": [
+    "Thomas McDonald",
+    "Tristan Harward",
+    "Peter Gumeson",
+    "Gleb Mazovetskiy"
   ],
-  "homepage": "http://getbootstrap.com",
-  "license": "MIT",
+  "description": "bootstrap-sass is a Sass-powered version of Bootstrap, ready to drop right into your Sass powered applications.",
   "moduleType": "globals",
   "main": [
-    "less/bootstrap.less",
-    "dist/js/bootstrap.js"
+    "assets/stylesheets/_bootstrap.scss",
+    "assets/javascripts/bootstrap.js"
   ],
+  "keywords": [
+    "twbs",
+    "bootstrap",
+    "sass"
+  ],
+  "license": "MIT",
   "ignore": [
-    "/.*",
-    "_config.yml",
-    "CNAME",
-    "composer.json",
-    "CONTRIBUTING.md",
-    "docs",
-    "js/tests",
-    "test-infra"
+    "**/.*",
+    "lib",
+    "tasks",
+    "templates",
+    "test",
+    "*.gemspec",
+    "Rakefile",
+    "Gemfile"
   ],
   "dependencies": {
-    "jquery": ">= 1.9.1"
+    "jquery": ">= 1.9.0"
   }
 }

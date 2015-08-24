@@ -1,0 +1,20 @@
+.document__place-name,
+.document__person-name {
+  color: inherit;
+  border-bottom: 1px dotted $accent-color;
+  text-decoration: none;
+  &:hover,
+  &:active,
+  &:visited,
+  &:focus {
+    background-color: $accent-color-light;
+    text-decoration: none;
+    color: inherit;
+  }
+}
+
+.document__body {
+  line-height: 1.6em;
+  font-size: 20px;
+  word-wrap: break-word;
+}

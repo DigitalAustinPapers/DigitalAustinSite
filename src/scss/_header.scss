@@ -1,0 +1,20 @@
+button.navbar-toggle {
+  &:hover {
+    .icon-bar {
+      background-color: $navbar-default-link-hover-color;
+    }
+  }
+}
+
+.jumbotron {
+  .navbar {
+    background-color: transparent;
+    border-color: transparent;
+
+    @media (min-width: $grid-float-breakpoint-max) {
+      .navbar-brand {
+        display: none;
+      }
+    }
+  }
+}
