@@ -5966,4 +5966,7 @@ button.navbar-toggle:hover .icon-bar {
 .pagination {
   margin-left: 40px; }
 
+.about-page__about li {
+  font-family: Quicksand, "Helvetica Neue", Helvetica, Arial, sans-serif; }
+
 /*# sourceMappingURL=style.css.map */
