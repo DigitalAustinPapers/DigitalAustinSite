@@ -5854,7 +5854,7 @@ button.navbar-toggle:hover .icon-bar {
   margin: 0 auto;
   margin-bottom: 30px; }
   .jumbotron > .container {
-    padding-top: 100px; }
+    padding-top: 50px; }
   .jumbotron .navbar {
     background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.6) 0%, transparent 100%);
     background-image: -o-linear-gradient(top, rgba(0, 0, 0, 0.6) 0%, transparent 100%);
