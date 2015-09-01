@@ -5895,6 +5895,9 @@ button.navbar-toggle:hover .icon-bar {
   .word-chart__label-text:hover {
     fill: #FFAB00; }
 
+.document__download {
+  padding-top: 2em; }
+
 .document__place-name,
 .document__person-name {
   color: inherit;
