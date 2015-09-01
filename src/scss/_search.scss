@@ -33,9 +33,18 @@
 }
 
 .search-results__sort {
-  margin-left: 40px;
+  margin-left: 15px;
   margin-bottom: 1em;
   margin-top: 1em;
+}
+
+.search-results__sort-by-label {
+  font-weight: bold;
+  margin-right: .75em;
+}
+
+input[type="radio"].search-results__sort-radio-input {
+  margin-top: 7px;
 }
 
 .search-results-list {

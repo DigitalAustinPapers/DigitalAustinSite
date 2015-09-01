@@ -1,5 +1,5 @@
 <div class="hidden search-results" id="tabs">
-  <div class="row">
+  <div class="row container">
     <div class="col-xs-12 search-results__results-summary invisible">
       <span id="resultsCount">No</span> <span id="resultsPlural">results</span> out of <span id="totalDocsCount"></span> documents for <span id="humanQuery">all search terms.</span>
     </div><!-- col -->
@@ -28,14 +28,18 @@
         <div role="tabpanel" class="tab-pane active" id="tab-documents" >
           <div class="search-results__sort">
             <form id="sortForm">
+              <span class="search-results__sort-by-label">Sort by:</span>
               <label class="radio-inline">
-                <input type='radio' name='sort' id='sort_similarity' value='similarity'> Relevance
+                <input type='radio' name='sort' id='sort_similarity' value='similarity' class="search-results__sort-radio-input">
+                Relevance
               </label>
               <label class="radio-inline">
-                <input type='radio' name='sort' id='sort_date' value='date'> Date
+                <input type='radio' name='sort' id='sort_date' value='date' class="search-results__sort-radio-input">
+                Date
               </label>
               <label class="radio-inline">
-                <input type='radio' name='sort' id='sort_sentiment' value='sentiment'> Sentiment
+                <input type='radio' name='sort' id='sort_sentiment' value='sentiment' class="search-results__sort-radio-input">
+                Sentiment
               </label>
             </form>
           </div><!-- search-results-sort -->

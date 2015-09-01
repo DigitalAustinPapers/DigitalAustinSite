@@ -164,9 +164,9 @@ $table-border-color:            #ddd !default;
 
 $btn-font-weight:                normal !default;
 
-$btn-default-color:              #333 !default;
-$btn-default-bg:                 #fff !default;
-$btn-default-border:             #ccc !default;
+$btn-default-color:              $text-primary-color !default;
+$btn-default-bg:                 $primary-color-light !default;
+$btn-default-border:             $btn-default-bg !default;
 
 $btn-primary-color:              $text-icons-color !default;
 $btn-primary-bg:                 $primary-color !default;
@@ -206,9 +206,9 @@ $input-bg:                       #fff !default;
 $input-bg-disabled:              $gray-lighter !default;
 
 //** Text color for `<input>`s
-$input-color:                    $gray !default;
+$input-color:                    $text-primary-color !default;
 //** `<input>` border color
-$input-border:                   #ccc !default;
+$input-border:                   $primary-color-light !default;
 
 // TODO: Rename `$input-border-radius` to `$input-border-radius-base` in v4
 //** Default `.form-control` border radius
@@ -223,7 +223,7 @@ $input-border-radius-small:      $border-radius-small !default;
 $input-border-focus:             $accent-color !default;
 
 //** Placeholder text color
-$input-color-placeholder:        $divider-color !default;
+$input-color-placeholder:        lighten($text-secondary-color, 20%) !default;
 
 //** Default `.form-control` height
 $input-height-base:              ($line-height-computed + ($padding-base-vertical * 2) + 2) !default;
