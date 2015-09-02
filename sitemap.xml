@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <!-- TODO: replace sitemap with prod URLs -->
+<url>
+  <loc>https://ui.library.unt.edu/digitalaustinpapers/</loc>
+</url>
+<url>
+  <loc>https://ui.library.unt.edu/digitalaustinpapers/index</loc>
+</url>
+<url>
+  <loc>https://ui.library.unt.edu/digitalaustinpapers/search</loc>
+</url>
+<url>
+  <loc>https://ui.library.unt.edu/digitalaustinpapers/browse</loc>
+</url>
+<url>
+  <loc>https://ui.library.unt.edu/digitalaustinpapers/about</loc>
+</url>
+<url>
+  <loc>https://ui.library.unt.edu/digitalaustinpapers/contact</loc>
+</url>
+<url>
+  <loc>https://ui.library.unt.edu/digitalaustinpapers/browse?browseBy=author</loc>
+</url>
+<url>
+  <loc>https://ui.library.unt.edu/digitalaustinpapers/browse?browseBy=recipient</loc>
+</url>
+<url>
+  <loc>https://ui.library.unt.edu/digitalaustinpapers/browse?browseBy=date</loc>
+</url>
+<url>
+  <loc>https://ui.library.unt.edu/digitalaustinpapers/browse?browseBy=origin</loc>
+</url>
+<url>
+  <loc>https://ui.library.unt.edu/digitalaustinpapers/browse?browseBy=destination</loc>
+</url>
+</urlset>
