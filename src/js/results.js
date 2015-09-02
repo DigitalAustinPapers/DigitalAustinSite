@@ -91,6 +91,9 @@ function requestData() {
     getParams += '&sort=';
     getParams += encodeURIComponent(sortKey);
 
+    // Google analytics event tracking
+    ga('send', 'event', 'search', 'submit', getParams);
+
 
     var humanQueryString = "";
     if(document.getElementById('query').value) {

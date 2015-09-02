@@ -54,7 +54,6 @@
     ga('create', 'UA-66221617-1', 'auto');
     ga('require', 'linkid', 'linkid.js');
     ga('send', 'pageview');
-
   </script>
   {% endblock scripts %}
 
@@ -89,6 +88,17 @@
 <script src="assets/js/jquery/jquery-1.9.1.min.js"></script>
 <script src="assets/js/bootstrap/bootstrap-3.3.5.min.js"></script>
 <script src="assets/js/d3/d3.min.js"></script>
+<script>
+  $(document).ready(function() {
+    $("a").each(function() {
+      var id = $(this).attr("id");
+      $(this).on("click keyup touchstart", function(event) {
+        ga('send', 'event', 'link', 'click', id);
+      })
+    });
+  });
+</script>
+
 {% endblock scripts_footer %}
 
 </body>
