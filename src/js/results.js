@@ -91,6 +91,8 @@ function requestData() {
     getParams += '&sort=';
     getParams += encodeURIComponent(sortKey);
 
+    window.history.pushState({path:getParams},'', location.origin + location.pathname + getParams);
+
     // Google analytics event tracking
     ga('send', 'event', 'search', 'submit', getParams);
 
