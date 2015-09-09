@@ -2,15 +2,12 @@
 
 {% block title %}About | {{ parent() }}{% endblock %}
 
-{% block main_container %}
-<div class="col-sm-12 about-page">
-  <div class="" id="about">
-
+{% block content %}
+  <div class="about-page__title">
     <h2>About the Texts</h2>
     <p>The Digital Austin Papers represent a digital edition of Barker's 1923
       <i>Title goes here</i>.</p>
   </div>
-</div>
 
 <div class="col-sm-3 about-page__credits">
 
@@ -85,5 +82,5 @@
   <h3>Copyright <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/3.0/80x15.png" /></a></h3>
 
   <p><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Digital Austin Papers</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/" target="_blank">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.</p>
-</div>
+  </div>
 {% endblock %}

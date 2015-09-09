@@ -12,46 +12,50 @@
 {% endblock metadata_opengraph %}
 
 {% block main_container %}
-  <div class="col-md-10 col-md-push-1">
-    <article class="document">
+<div class="container main-container">
+  <div class="row">
+    <div class="col-md-10 col-md-push-1">
+      <article class="document">
 
-      <hgroup>
-        <div class="row">
-          <div class="col-xs-12 col-sm-9">
-            <h2 class="pull-left document__title">{{- title_date_filter(document.title) -}}</h2>
+        <hgroup>
+          <div class="row">
+            <div class="col-xs-12 col-sm-9">
+              <h2 class="pull-left document__title">{{- title_date_filter(document.title) -}}</h2>
+            </div>
+            <div class="col-sm-3 hidden-xs hidden-print">
+                <a class="pull-right document__download" href="https://raw.githubusercontent.com/DigitalAustinPapers/AustinTranscripts/master/teip5_xml/{{ document.id }}.xml"
+                   id="document-download-{{ document.id }}"download>
+                  Download XML
+                </a>
+            </div>
           </div>
-          <div class="col-sm-3 hidden-xs hidden-print">
-              <a class="pull-right document__download" href="https://raw.githubusercontent.com/DigitalAustinPapers/AustinTranscripts/master/teip5_xml/{{ document.id }}.xml"
-                 id="document-download-{{ document.id }}"download>
-                Download XML
-              </a>
+
+          <hr>
+
+          <div class="row">
+            <div class="col-sm-12">
+              <p class="document__summary">{{ document.summary }}</p>
+            </div>
           </div>
-        </div>
+
+          <hr>
+
+        </hgroup>
+
+        <div id="doc-{{ document.id }}" class="document__body">
+          {{ letter_body_display|raw }}
+        </div><!-- document__body -->
 
         <hr>
-
-        <div class="row">
-          <div class="col-sm-12">
-            <p class="document__summary">{{ document.summary }}</p>
-          </div>
-        </div>
-
-        <hr>
-
-      </hgroup>
-
-      <div id="doc-{{ document.id }}" class="document__body">
-        {{ letter_body_display|raw }}
-      </div><!-- document__body -->
-
-      <hr>
-      <aside class="document__citation">
-        <h3>Citation</h3>
-        {{ citation|raw }}
-      </aside>
-    </article>
+        <aside class="document__citation">
+          <h3>Citation</h3>
+          {{ citation|raw }}
+        </aside>
+      </article>
 
 
-  </div><!-- col-sm-12 -->
+    </div><!-- col -->
+  </div><!-- row -->
+</div><!-- container -->
 
 {% endblock %}

@@ -68,15 +68,15 @@
   {% block hero %}
   {% endblock hero %}
 
+  {% block main_container %}
   <div class="container main-container">
     <div class="row">
-      {% block main_container %}
       <div class="col-md-12">
         {% block content %}{% endblock content %}
       </div><!-- col-sm-12 -->
-      {% endblock main_container%}
     </div><!-- row -->
   </div><!-- main-container -->
+  {% endblock main_container %}
 
 </div><!-- main-wrapper -->
   {% block footer %}
