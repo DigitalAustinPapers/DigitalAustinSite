@@ -5865,6 +5865,9 @@ button.navbar-toggle:hover .icon-bar {
   .jumbotron .jumbotron-subtitle {
     font-weight: 400; }
 
+.front-page__container {
+  margin-top: -7em; }
+
 .browse-list__category-header {
   margin-bottom: 0; }
   .browse-list__category-header .glyphicon {
