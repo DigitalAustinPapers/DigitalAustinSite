@@ -10,9 +10,7 @@
   background-position: center top;
   background-repeat: no-repeat;
   background-size: cover;
-  margin: 0 auto;
-  margin-bottom: 30px;
-
+  margin: 0 auto 30px;
 
   & > .container {
     @media (max-width: $screen-xs-max) {
@@ -31,4 +29,54 @@
 
 .front-page__container {
   margin-top: -7em;
+}
+
+.stat-panel {
+  h1 {
+    small {
+      font-size: 37%;
+    }
+  }
+}
+
+.stat-panel__item {
+  @extend .col-sm-4;
+  @extend .col-md-12;
+
+  @media (min-width: $screen-md-min) {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+.stat-panel__number {
+  @extend .col-xs-6;
+  @extend .col-sm-12;
+  @extend .col-md-7;
+  @extend .text-right;
+  padding-right: 7.5px;
+
+  @media (min-width: $screen-sm-min) and (max-width: $screen-sm-max) {
+    text-align: center;
+    padding: 0 15px;
+    h1 {
+      margin: 0;
+    }
+  }
+}
+
+.stat-panel__label {
+  @extend .col-xs-6;
+  @extend .col-sm-12;
+  @extend .col-md-5;
+  @extend .text-left;
+  padding-left: 7.5px;
+
+  @media (min-width: $screen-sm-min) and (max-width: $screen-sm-max) {
+    text-align: center;
+    padding: 0 15px;
+    h1 {
+      margin: 0;
+    }
+  }
 }
