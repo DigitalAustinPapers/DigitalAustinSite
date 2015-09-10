@@ -14,6 +14,7 @@ var pagingOpts = {
     showPager();
   },
   onFormat: function (type) {
+    console.log(type);
     switch (type) {
       case 'block': // n and c
         if (this.page === this.value)
@@ -24,17 +25,33 @@ var pagingOpts = {
             '<a href="#">' + this.value + '</a>' +
             '</li>';
       case 'next': // >
-        return '<li><a href="#" aria-label="Next">' +
+        if (this.active) {
+          return '<li><a href="#" aria-label="Next">' +
+              '<span aria-hidden="true">&raquo;</span>' +
+              '</a></li>';
+        }
+        return '<li class="disabled"><a href="#" aria-label="Next">' +
             '<span aria-hidden="true">&raquo;</span>' +
             '</a></li>';
       case 'prev': // <
-        return '<li><a href="#" aria-label="Previous">' +
+        if (this.active) {
+          return '<li><a href="#" aria-label="Previous">' +
+              '<span aria-hidden="true">&laquo;</span>' +
+              '</a></li>';
+        }
+        return '<li class="disabled"><a href="#" aria-label="Previous">' +
             '<span aria-hidden="true">&laquo;</span>' +
             '</a></li>';
       case 'first': // [
-        return '<li><a href="#">first</a></li>';
+        if (this.active) {
+          return '<li><a href="#">first</a></li>';
+        }
+        return '<li class="disabled"><a href="#">first</a></li>';
       case 'last': // ]
-        return '<li><a href="#">last</a></li>';
+        if (this.active) {
+          return '<li><a href="#">last</a></li>';
+        }
+        return '<li class="disabled"><a href="#">last</a></li>';
     }
   }
 };
