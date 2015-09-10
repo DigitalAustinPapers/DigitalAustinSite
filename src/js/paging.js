@@ -14,7 +14,6 @@ var pagingOpts = {
     showPager();
   },
   onFormat: function (type) {
-    console.log(type);
     switch (type) {
       case 'block': // n and c
         if (this.page === this.value)
