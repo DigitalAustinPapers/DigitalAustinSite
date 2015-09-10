@@ -234,47 +234,12 @@ function updateSentiment() {
  * Document tab paging
  */
 
-var pagingOpts = {
-    format: '[< nncnn >]', // define how the navigation should look like and in which order onFormat() gets called
-    perpage: 20, // show 10 elements per page
-    lapping: 0, // don't overlap pages for the moment
-    page: 1, // start at page, can also be "null" or negative
-    onSelect: function (page) {
-        updatePage(this.slice);
-        updateSentiment();
-        var $pagination = $('.pagination');
-        if (this.pages > 1) {
-            $pagination.removeClass('hidden');
-        } else {
-            if (!$pagination.hasClass('hidden')) {
-                $pagination.addClass('hidden');
-            }
-        }
-    },
-    onFormat: function (type) {
-        switch (type) {
-            case 'block': // n and c
-                if (this.page === this.value)
-                    return '<li class="active">' +
-                        '<a href="#">' + this.value + '</a>' +
-                        '</li>';
-                return '<li>' +
-                    '<a href="#">' + this.value + '</a>' +
-                    '</li>';
-            case 'next': // >
-                return '<li><a href="#" aria-label="Next">' +
-                    '<span aria-hidden="true">&raquo;</span>' +
-                    '</a></li>';
-            case 'prev': // <
-                return '<li><a href="#" aria-label="Previous">' +
-                    '<span aria-hidden="true">&laquo;</span>' +
-                    '</a></li>';
-            case 'first': // [
-                return '<li><a href="#">first</a></li>';
-            case 'last': // ]
-                return '<li><a href="#">last</a></li>';
-        }
-    }
+// Paging options are declared in paging.js and overridden here
+pagingOpts['perpage'] = 20;
+pagingOpts['onSelect'] = function(page) {
+  updatePage(this.slice);
+  updateSentiment();
+  showPager(this.pages);
 };
 
 function updatePage(pageSlice) {

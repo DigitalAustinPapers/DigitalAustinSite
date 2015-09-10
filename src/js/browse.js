@@ -44,47 +44,12 @@ var listId = $('#browse-results');
 // Selector for list content to be paginated
 var categorizedResults = $('#browse-results > li');
 
-$(".pagination").paging(totalHeadings, { // # elements navigatable
-  format: '[< nncnn! >]', // define how the navigation should look like and in which order onFormat() get's called
-  perpage: 10, // show 10 elements per page
-  lapping: 0, // don't overlap pages for the moment
-  page: 1, // start at page, can also be "null" or negative
-  onSelect: function (page) {
-    updatePage(listId, categorizedResults, this.slice);
-    var $pagination = $('.pagination');
-    if (this.pages > 1) {
-      $pagination.removeClass('hidden');
-    } else {
-      if (!$pagination.hasClass('hidden')) {
-        $pagination.addClass('hidden');
-      }
-    }
-  },
-  onFormat: function (type) {
-    switch (type) {
-      case 'block': // n and c
-        if (this.page === this.value)
-          return '<li class="active">' +
-            '<a href="#">' + this.value + '</a>' +
-            '</li>';
-        return '<li>' +
-        '<a href="#">' + this.value + '</a>' +
-        '</li>';
-      case 'next': // >
-        return '<li><a href="#" aria-label="Next">' +
-          '<span aria-hidden="true">&raquo;</span>' +
-          '</a></li>';
-      case 'prev': // <
-        return '<li><a href="#" aria-label="Previous">' +
-          '<span aria-hidden="true">&laquo;</span>' +
-          '</a></li>';
-      case 'first': // [
-        return '<li><a href="#">first</a></li>';
-      case 'last': // ]
-        return '<li><a href="#">last</a></li>';
-    }
-  }
-});
+pagingOpts['onSelect'] = function(page) {
+  updatePage(listId, categorizedResults, this.slice);
+  showPager(this.pages);
+};
+
+$(".pagination").paging(totalHeadings, pagingOpts);
 
 function updatePage(listId, pagedElements, pageSlice) {
   /* Updates the current page when a page button is clicked
