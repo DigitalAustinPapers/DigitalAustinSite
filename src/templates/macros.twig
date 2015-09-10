@@ -1,11 +1,33 @@
-{% macro class_filter(input_text) %}
-  {{- input_text|lower|replace({' ': '-', '.': '', ',': '', '[': '', ']': '', '/': ''}) -}}
+{%- macro class_filter(input_text) -%}
+  {% spaceless %}
+    {{- input_text|lower|replace({' ': '-', '.': '', ',': '', '[': '', ']': '', '/': ''}) -}}
+  {% endspaceless %}
 {% endmacro %}
 
-{% macro title_date_filter(input_text) %}
-  {% if input_text ends with 'Unknown' %}
-    {{- input_text|replace({', Unknown': ', Date Unknown'}) -}}
-  {% else %}
-    {{- input_text -}}
-  {% endif %}
+{%- macro title_date_filter(input_text) -%}
+  {% spaceless %}
+    {% if input_text ends with 'Unknown' %}
+      {{ input_text|replace({', Unknown': ', Date Unknown'}) }}
+    {% else %}
+      {{ input_text }}
+    {% endif %}
+  {% endspaceless %}
+{% endmacro %}
+
+{%- macro sort_letter_filter(category, input_text) -%}
+  {% spaceless %}
+    {% if category in ['author', 'recipient'] %}
+      {% if input_text|lower == 'unclear' %}
+        unclear
+      {% else %}
+        {{ input_text|split(' ')|last|first|lower }}
+      {% endif %}
+    {% elseif category in ['origin', 'destination'] %}
+      {% if input_text|lower == 'undefined' %}
+        undefined
+      {% else %}
+        {{ input_text|first|lower }}
+      {% endif %}
+    {% endif %}
+  {% endspaceless %}
 {% endmacro %}

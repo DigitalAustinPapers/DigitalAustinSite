@@ -1,6 +1,6 @@
 {% extends 'base.twig' %}
 
-{% from 'macros.twig' import class_filter %}
+{% from 'macros.twig' import class_filter, sort_letter_filter %}
 
 {% block title %}Browse | {{ parent() }}{% endblock %}
 
@@ -17,6 +17,18 @@
     {% for cat in sortCategories %}
       <li role="presentation" class="{% if cat == browseBy %}active{% endif %}">
         <a href="browse?browseBy={{ cat }}">{{ cat|capitalize }}</a>
+        {% if cat == browseBy and browseBy in ['author', 'recipient', 'origin', 'destination'] %}
+          <ul class="nav nav-pills">
+            {% for letter in 'a'|upper..'z'|upper %}
+              <li role="presentation"><a href="#">{{ letter }}</a></li>
+            {% endfor %}
+            {% if cat in ['author', 'recipient'] %}
+              <li role="presentation"><a href="#">Unclear</a></li>
+            {% elseif cat in ['origin', 'destination'] %}
+              <li role="presentation"><a href="#">Undefined</a></li>
+            {% endif %}
+          </ul>
+        {% endif %}
       </li>
     {% endfor %}
   </ul>
@@ -28,12 +40,12 @@
 
   <ul class="list-unstyled browse-list" id="browse-results">
   {% for heading, item in results %}
-    <li class="browse-list__category">
+    <li class="browse-list__category" data-sort-letter="{{ sort_letter_filter(browseBy, heading) }}">
 
       <h3 class="browse-list__category-header">
         <a data-toggle="collapse"
            href="#browse-{{ class_filter(heading) }}" aria-expanded="false" aria-controls="browse-{{ class_filter(heading) }}">
-          {{ heading }}
+          {{ heading|raw }}
           <span class="glyphicon glyphicon-plus" aria-hidden="true"></span>
           <small>({% if item|length == 1 %}1 letter{% else %}{{ item|length }} letters{% endif %})</small>
         </a>
