@@ -49,7 +49,11 @@ pagingOpts['onSelect'] = function(page) {
   showPager(this.pages);
 };
 
-$(".pagination").paging(totalHeadings, pagingOpts);
+var paging = $(".pagination").paging(totalHeadings, pagingOpts);
+paging.setOptions({onSelect: function(page) {
+  updatePage(listId, categorizedResults, this.slice);
+  showPager(this.pages);
+}});
 
 function updatePage(listId, pagedElements, pageSlice) {
   /* Updates the current page when a page button is clicked

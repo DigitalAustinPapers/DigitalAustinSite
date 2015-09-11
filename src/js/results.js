@@ -174,6 +174,16 @@ function requestData() {
   Document tab
  */
 
+var paging = $(".pagination").paging(0, pagingOpts);
+
+// Paging options are declared in paging.js and overridden here
+paging.setOptions({perpage: 20});
+paging.setOptions({onSelect: function(page) {
+  updatePage(this.slice);
+  updateSentiment();
+  showPager(this.pages);
+}});
+
 function updateDocuments() {
     var docList = $('#documentsList');
     var NatLangString;
@@ -193,7 +203,7 @@ function updateDocuments() {
         .dequeue();
   });
 
-    $(".pagination").paging(resultsCount, pagingOpts);
+    paging.setNumber(resultsCount).setPage();
 
     $('#sort_' + sortKey).prop('checked',true);
 }
@@ -233,14 +243,6 @@ function updateSentiment() {
 /*
  * Document tab paging
  */
-
-// Paging options are declared in paging.js and overridden here
-pagingOpts['perpage'] = 20;
-pagingOpts['onSelect'] = function(page) {
-  updatePage(this.slice);
-  updateSentiment();
-  showPager(this.pages);
-};
 
 function updatePage(pageSlice) {
     /* Updates the current page when a page button is clicked
