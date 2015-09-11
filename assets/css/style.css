@@ -5893,6 +5893,10 @@ button.navbar-toggle:hover .icon-bar {
       .stat-panel__label h1 {
         margin: 0; } }
 
+.jumplist {
+  padding: .5em 1em;
+  font-size: .9em; }
+
 .browse-list__category-header {
   margin-bottom: 0; }
   .browse-list__category-header .glyphicon {
