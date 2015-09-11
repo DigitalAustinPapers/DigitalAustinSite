@@ -18,14 +18,14 @@
       <li role="presentation" class="{% if cat == browseBy %}active{% endif %}">
         <a href="browse?browseBy={{ cat }}">{{ cat|capitalize }}</a>
         {% if cat == browseBy and browseBy in ['author', 'recipient', 'origin', 'destination'] %}
-          <ul class="nav nav-pills">
+          <ul class="nav nav-pills jumplist">
             {% for letter in 'a'|upper..'z'|upper %}
-              <li role="presentation"><a href="#">{{ letter }}</a></li>
+              <li class="jumplist__item" role="presentation" data-sort-letter="{{ letter|lower }}"><a href="#">{{ letter }}</a></li>
             {% endfor %}
             {% if cat in ['author', 'recipient'] %}
-              <li role="presentation"><a href="#">Unclear</a></li>
+              <li class="jumplist__item" role="presentation" data-sort-letter="unclear"><a href="#">Unclear</a></li>
             {% elseif cat in ['origin', 'destination'] %}
-              <li role="presentation"><a href="#">Undefined</a></li>
+              <li class="jumplist__item" role="presentation" data-sort-letter="undefined"><a href="#">Undefined</a></li>
             {% endif %}
           </ul>
         {% endif %}

@@ -35,6 +35,30 @@ $(document).on('click', '.browse-list__category-header > a', function() {
   }
 });
 
+
+/*
+ * Jumplist
+ */
+
+var jumpMap = {},
+    count = 0,
+    prev,
+    curr;
+
+$('.browse-list__category').each(function() {
+  curr = $(this).attr('data-sort-letter');
+  count += 1;
+  if (curr != prev) {
+    jumpMap[curr] = count;
+  }
+  prev = curr;
+});
+
+$('.jumplist__item').on('click', function() {
+  paging.setPage(Math.ceil(jumpMap[$(this).attr('data-sort-letter')] / $('.browse-list__category').length))
+  return false;
+});
+
 /*
  * Pagination
  */
