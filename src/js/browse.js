@@ -40,6 +40,7 @@ $(document).on('click', '.browse-list__category-header > a', function() {
  * Jumplist
  */
 
+//
 var jumpMap = {},
     count = 0,
     prev,
@@ -54,10 +55,18 @@ $('.browse-list__category').each(function() {
   prev = curr;
 });
 
-$('.jumplist__item').on('click', function() {
-  paging.setPage(Math.ceil(jumpMap[$(this).attr('data-sort-letter')] / $('.browse-list__category').length))
+$('.jumplist__item').each(function() {
+  if (!($(this).attr('data-sort-letter') in jumpMap)) {
+    $(this).css('display', 'none');
+  }
+}).on('click', function() {
+  paging.setPage(Math.ceil(jumpMap[$(this).attr('data-sort-letter')] / $('.browse-list__category').length));
+  $('.jumplist').find('.active').removeClass('active');
+  $(this).addClass('active');
   return false;
 });
+
+$('.jumplist').removeClass('hidden');
 
 /*
  * Pagination
