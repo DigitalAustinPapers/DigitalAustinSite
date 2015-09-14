@@ -5912,6 +5912,11 @@ button.navbar-toggle:hover .icon-bar {
 .browse-list__item-details {
   color: #727272; }
 
+@media (max-width: 767px) {
+  .pagination-nav {
+    text-align: center; }
+    .pagination-nav .pagination {
+      margin-left: 0; } }
 .word-chart__bar {
   fill: #FFC400; }
   .word-chart__bar:hover {

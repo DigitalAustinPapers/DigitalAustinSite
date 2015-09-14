@@ -23,3 +23,14 @@
 .browse-list__item-details {
   color: $text-secondary-color;
 }
+
+@media (max-width: $screen-xs-max) {
+
+  .pagination-nav {
+    text-align: center;
+
+    .pagination {
+      margin-left: 0;
+    }
+  }
+}
