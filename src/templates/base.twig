@@ -85,19 +85,23 @@
 
 <!-- scripts -->
 {% block scripts_footer %}
-<script src="public/js/vendor/jquery.min.js"></script>
-<script src="public/js/vendor/bootstrap.min.js"></script>
-<script src="public/js/vendor/d3.min.js"></script>
-<script>
-  $(document).ready(function() {
-    $("a").each(function() {
-      var id = $(this).attr("id");
-      $(this).on("click keyup touchstart", function(event) {
-        ga('send', 'event', 'link', 'click', id);
-      })
+{# Attempt to load js from CDNs and fallback to local #}
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>window.jQuery || document.write('<script src="public/js/vendor/jquery.min.js"><\/script>')</script>
+
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+  <script>window.jQuery.fn.modal || document.write('<script src="public/js/vendor/bootstrap.min.js"><\/script>')</script>
+
+  <script>
+    $(document).ready(function() {
+      $("a").each(function() {
+        var id = $(this).attr("id");
+        $(this).on("click keyup touchstart", function(event) {
+          ga('send', 'event', 'link', 'click', id);
+        })
+      });
     });
-  });
-</script>
+  </script>
 
 {% endblock scripts_footer %}
 
