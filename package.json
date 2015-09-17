@@ -5,7 +5,10 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "install": "napa infusion/jQuery-Paging#8ba5ec9:jquery-paging"
+    "install": "napa"
+  },
+  "napa": {
+    "jquery-paging": "infusion/jquery-paging#8ba5ec9"
   },
   "author": "",
   "private": true,
@@ -22,6 +25,7 @@
     "gulp": "^3.9.0",
     "gulp-sass": "~2.0.4",
     "gulp-sourcemaps": "^1.5.2",
+    "gulp-uncss": "^1.0.3",
     "html5shiv": "^3.7.3",
     "jquery": "~1.9.1",
     "lodash": "~3.10.1",
