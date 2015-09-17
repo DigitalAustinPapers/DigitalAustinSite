@@ -27,3 +27,6 @@ tmp*
 # Ignore IntelliJ files
 .idea/
 *.iml
+
+# npm
+node_modules/
