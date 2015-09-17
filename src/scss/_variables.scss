@@ -6,16 +6,21 @@ $bootstrap-sass-asset-helper: false !default;
 //== Colors
 
 // Material design color palette
+// Generated from https://www.materialpalette.com/
 
+// Primary color blue grey
 $primary-color:         material-color('blue-grey', '500');
-$primary-color-dark:    #455A64;
-$primary-color-light:   #CFD8DC;
-$primary-color-lighter: #ECEFF1;
-$text-icons-color:      #FFFFFF;
+$primary-color-dark:    material-color('blue-grey', '700');
+$primary-color-light:   material-color('blue-grey', '100');
+$primary-color-lighter: material-color('blue-grey', '50');
 
-$accent-color:          #FFC400; // Amber
-$accent-color-light:    #FFD740;
-$accent-color-dark:     #FFAB00;
+// Accent color amber
+$accent-color:          material-color('amber', 'a400');
+$accent-color-light:    material-color('amber', 'a200');
+$accent-color-dark:     material-color('amber', 'a700');
+
+// Text, icons, and divider colors
+$text-icons-color:      #FFFFFF;
 $text-primary-color:    #212121;
 $text-secondary-color:  #727272;
 $divider-color:         #B6B6B6;
