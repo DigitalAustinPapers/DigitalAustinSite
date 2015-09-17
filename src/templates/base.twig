@@ -33,15 +33,15 @@
 
   <!-- CSS -->
   {% block stylesheets %}
-    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="public/css/style.css">
   {% endblock stylesheets%}
 
   <!-- scripts -->
   {% block scripts %}
   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
   <!--[if lt IE 9]>
-  <script src="assets/js/html5shiv/html5shiv-3.7.2.min.js"></script>
-  <script src="assets/js/respond/respond-1.4.2.min.js"></script>
+  <script src="public/js/vendor/html5shiv.min.js"></script>
+  <script src="public/js/vendor/respond.min.js"></script>
   <![endif]-->
 
   <!-- Google Analytics -->
@@ -85,9 +85,9 @@
 
 <!-- scripts -->
 {% block scripts_footer %}
-<script src="assets/js/jquery/jquery-1.9.1.min.js"></script>
-<script src="assets/js/bootstrap/bootstrap-3.3.5.min.js"></script>
-<script src="assets/js/d3/d3.min.js"></script>
+<script src="public/js/vendor/jquery.min.js"></script>
+<script src="public/js/vendor/bootstrap.min.js"></script>
+<script src="public/js/vendor/d3.min.js"></script>
 <script>
   $(document).ready(function() {
     $("a").each(function() {
