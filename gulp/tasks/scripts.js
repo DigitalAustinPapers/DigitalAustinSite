@@ -13,5 +13,5 @@ gulp.task('common-scripts', function() {
   });
 
   return gulp.src(paths)
-      .pipe(gulp.dest(config.vendor_src));
+      .pipe(gulp.dest(config.vendor_dest));
 });

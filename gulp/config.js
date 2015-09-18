@@ -14,7 +14,7 @@ module.exports = {
   scripts: {
     src: src + '/js/*.js',
     dest: dest + '/js',
-    vendor_src: dest + '/js/vendor',
+    vendor_dest: dest + '/js/vendor',
     common_libs: {
       jquery: vendor + '/jquery/jquery.min.js',
       bootstrap: vendor + '/bootstrap-sass/assets/javascripts/bootstrap.min.js',
