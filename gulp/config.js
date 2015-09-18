@@ -4,6 +4,7 @@ var dest = './public',
 
 module.exports = {
   sass: {
+    srcdir: src + '/scss/',
     src: src + '/scss/style.scss',
     dest: dest + '/css/'
   },

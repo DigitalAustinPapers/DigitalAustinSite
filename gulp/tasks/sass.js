@@ -14,3 +14,7 @@ gulp.task('sass', function() {
     .pipe(sourcemaps.write('./'))
     .pipe(gulp.dest(config.dest));
 });
+
+gulp.task('sass:watch', function() {
+  gulp.watch(config.srcdir + '*.scss', ['sass']);
+});

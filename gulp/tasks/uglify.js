@@ -9,3 +9,7 @@ gulp.task('uglify', function() {
     .pipe(uglify())
     .pipe(gulp.dest(config.dest));
 });
+
+gulp.task('uglify:watch', function() {
+  gulp.watch(config.src, ['uglify']);
+});
