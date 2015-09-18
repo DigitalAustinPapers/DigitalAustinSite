@@ -49,7 +49,7 @@ $search_results = array();
 $template = new TemplateRenderer();
 
 foreach ($docData as $result_key => $result_value) {
-  $rendered_template = $template->render('search_result.twig', array(
+  $rendered_template = $template->render('_search_result.twig', array(
     'result' => $result_value,
   ));
   array_push($search_results, $rendered_template);

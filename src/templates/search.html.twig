@@ -1,6 +1,6 @@
 {% extends 'base.twig' %}
 
-{% from 'macros.twig' import class_filter %}
+{% from '_macros.twig' import class_filter %}
 
 {% block title %}Search | {{ parent() }}{% endblock %}
 
@@ -114,7 +114,7 @@
 
 </div><!-- search -->
 
-      {% include 'results.twig' %}
+      {% include '_results.twig' %}
       <script>
         var placeIdToNames = {{ search_dropdowns.placeIdToNames|raw }};
         var personIdToNames = {{ search_dropdowns.personIdToNames|raw }};
