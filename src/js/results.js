@@ -631,104 +631,113 @@ google.load("visualization", "1", {packages:["corechart"], callback:function(){
     timeChart = new google.visualization.ColumnChart(document.getElementById('timeChart'));
 }});
 
-function updateChart() {
-    if (basicData != null) {
-        var years = {};
-        var positive = {};
-        var neutral = {};
-        var negative = {};
-        for (var i=0; i<basicData['json'].length; i++) {
-            var year = basicData['json'][i].date.substring(0, 4);
-            if (years[year] === undefined)
-                years[year] = 1;
-            else
-                years[year]++;
+function timelineData() {
+  if (basicData != null) {
+    var years = {},
+        positive = {},
+        neutral = {},
+        negative = {};
 
-            if (positive[year] === undefined) {
-                positive[year] = 0;
-                neutral[year] = 0;
-                negative[year] = 0;
-            }
+    for (var i=0; i<basicData['json'].length; i++) {
+      var year = basicData['json'][i].date.substring(0, 4);
 
-            if (basicData['json'][i].sentimentScore < negativeThreshold) {
-                negative[year]++;
-            } else if (basicData['json'][i].sentimentScore > positiveThreshold) {
-                positive[year]++;
-            } else {
-                neutral[year]++;
-            }
-        }
+      if (years[year] === undefined) {
+        years[year] = 1;
+      } else {
+        years[year]++;
+      }
 
-        var minYear = 2000;
-        var maxYear = 1000;
-        for (var key in totalDocDistribution) {
-            // Find years with at least 15 documents
-            if (parseInt(totalDocDistribution[key]) >= 15) {
-                var intYear = parseInt(key);
-                if (intYear < minYear)
-                    minYear = intYear;
-                if (parseInt(key) > maxYear)
-                    maxYear = intYear;
-            }
-        }
-        var chartData = [['Year', 'Negative','Neutral','Positive']];
-        for (var i=minYear; i<=maxYear; i++) {
-            var yearStr = i.toString();
-            var value = 0;
-            if (years[yearStr] !== undefined)
-                value = years[yearStr];
-            var total = 0;
-            if (totalDocDistribution[yearStr] !== undefined) {
-                total = parseInt(totalDocDistribution[yearStr]);
+      if (positive[year] === undefined) {
+        positive[year] = 0;
+        neutral[year] = 0;
+        negative[year] = 0;
+      }
 
-            }
-            chartData.push([yearStr,
-                Math.floor(negative[yearStr] / total * 1000)/10,
-                Math.floor(neutral[yearStr] / total * 1000)/10,
-                Math.floor(positive[yearStr] / total * 1000)/10]);
-        }
+      if (basicData['json'][i].sentimentScore < negativeThreshold) {
+        negative[year]++;
+      } else if (basicData['json'][i].sentimentScore > positiveThreshold) {
+        positive[year]++;
+      } else {
+        neutral[year]++;
+      }
     }
 
-    // Define data and options, and draw the chart
-    var data = google.visualization.arrayToDataTable(chartData);
-    var options = {
-        isStacked: true,
-        title: 'Search Results, Distributed by Year',
-        //isStacked: true,
-        hAxis: {
-            title: "Year"
-        },
-        vAxis: {
-            title: "Percentage out of all documents",
-            minValue: 0
-            //	logScale: true
-        },
-        series: [{color: '#b70000'},{color: 'gray'},{color: '#006600'}]
-    };
-    timeChart.draw(data, options);
-
-    // Handle event when user clicks on a chart entity
-    google.visualization.events.addListener(timeChart, 'select', function() {
-        console.log(timeChart.getSelection()[0]);
-        var sel = timeChart.getSelection()[0];
-        if ('row' in sel && 'column' in sel) {
-            // Set the "from year"/"to year" search fields to the year clicked
-            var year = chartData[sel.row+1][0];
-            if(sel.column == 1) {
-                document.getElementById('sentiment').value = 'negative';
-            }
-            if(sel.column == 2) {
-                document.getElementById('sentiment').value = 'neutral';
-            }
-            if(sel.column == 3) {
-                document.getElementById('sentiment').value = 'positive';
-            }
-            document.getElementById('fromYear').value = year;
-            document.getElementById('toYear').value = year;
-            queryChanged();
-            $('.search-results__tabs a[href="#tab-documents"]').tab("show");
+    var minYear = 2000;
+    var maxYear = 1000;
+    for (var key in totalDocDistribution) {
+      // Find years with at least 15 documents
+      if (parseInt(totalDocDistribution[key]) >= 15) {
+        var intYear = parseInt(key);
+        if (intYear < minYear) {
+          minYear = intYear;
         }
-    });
+        if (parseInt(key) > maxYear) {
+          maxYear = intYear;
+        }
+      }
+    }
+    var chartData = [['Year', 'Negative','Neutral','Positive']];
+    for (var i=minYear; i<=maxYear; i++) {
+      var yearStr = i.toString();
+      var value = 0;
+      if (years[yearStr] !== undefined) {
+        value = years[yearStr];
+      }
+      var total = 0;
+      if (totalDocDistribution[yearStr] !== undefined) {
+        total = parseInt(totalDocDistribution[yearStr]);
+      }
+      chartData.push([yearStr,
+        Math.floor(negative[yearStr] / total * 1000)/10,
+        Math.floor(neutral[yearStr] / total * 1000)/10,
+        Math.floor(positive[yearStr] / total * 1000)/10]);
+    }
+  }
+  return chartData;
+}
+
+function updateChart() {
+// Define data and options, and draw the chart
+  var chartData = timelineData();
+  var data = google.visualization.arrayToDataTable(chartData);
+  var options = {
+    isStacked: true,
+    title: 'Search Results, Distributed by Year',
+    //isStacked: true,
+    hAxis: {
+      title: "Year"
+    },
+    vAxis: {
+      title: "Percentage out of all documents",
+      minValue: 0
+      //	logScale: true
+    },
+    series: [{color: '#b70000'},{color: 'gray'},{color: '#006600'}]
+  };
+  timeChart.draw(data, options);
+
+  // Handle event when user clicks on a chart entity
+  google.visualization.events.addListener(timeChart, 'select', function() {
+    console.log(timeChart.getSelection()[0]);
+    var sel = timeChart.getSelection()[0];
+    if ('row' in sel && 'column' in sel) {
+      // Set the "from year"/"to year" search fields to the year clicked
+      var year = chartData[sel.row+1][0];
+      if(sel.column == 1) {
+        document.getElementById('sentiment').value = 'negative';
+      }
+      if(sel.column == 2) {
+        document.getElementById('sentiment').value = 'neutral';
+      }
+      if(sel.column == 3) {
+        document.getElementById('sentiment').value = 'positive';
+      }
+      document.getElementById('fromYear').value = year;
+      document.getElementById('toYear').value = year;
+      queryChanged();
+      $('.search-results__tabs a[href="#tab-documents"]').tab("show");
+    }
+  });
 }
 // Invoked when new basic data is downloaded
 $(document).on("basicDataLoaded", function(e, data) {
