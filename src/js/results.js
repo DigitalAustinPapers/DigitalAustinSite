@@ -475,8 +475,8 @@ function redrawMarkers() {
  */
 
 var chartsNeedRerender = false;
-function updateCharts() {
-  $('svg').remove();
+function updateWordCharts() {
+  $('.word-chart__outer-svg').remove();
 
   wordChart(chartData[2], "#personChart");
   wordChart(chartData[1], "#placeChart");
@@ -490,7 +490,7 @@ $(document).on("chartDataLoaded", function(e, data) {
         chartData = data;
         chartsNeedRerender = true;
         if ($("#tab-charts").css('display') != "none") {
-            updateCharts();
+            updateWordCharts();
         }
     }
 });
@@ -627,9 +627,6 @@ function wordChart(dataset, divId) {
 
 var timeChart;
 var timeChartNeedsUpdate = true;
-google.load("visualization", "1", {packages:["corechart"], callback:function(){
-    timeChart = new google.visualization.ColumnChart(document.getElementById('timeChart'));
-}});
 
 function timelineData() {
   if (basicData != null) {
@@ -696,55 +693,145 @@ function timelineData() {
   return chartData;
 }
 
-function updateChart() {
-// Define data and options, and draw the chart
-  var chartData = timelineData();
-  var data = google.visualization.arrayToDataTable(chartData);
-  var options = {
-    isStacked: true,
-    title: 'Search Results, Distributed by Year',
-    //isStacked: true,
-    hAxis: {
-      title: "Year"
-    },
-    vAxis: {
-      title: "Percentage out of all documents",
-      minValue: 0
-      //	logScale: true
-    },
-    series: [{color: '#b70000'},{color: 'gray'},{color: '#006600'}]
-  };
-  timeChart.draw(data, options);
+function updateTimeChart() {
 
-  // Handle event when user clicks on a chart entity
-  google.visualization.events.addListener(timeChart, 'select', function() {
-    console.log(timeChart.getSelection()[0]);
-    var sel = timeChart.getSelection()[0];
-    if ('row' in sel && 'column' in sel) {
-      // Set the "from year"/"to year" search fields to the year clicked
-      var year = chartData[sel.row+1][0];
-      if(sel.column == 1) {
-        document.getElementById('sentiment').value = 'negative';
-      }
-      if(sel.column == 2) {
-        document.getElementById('sentiment').value = 'neutral';
-      }
-      if(sel.column == 3) {
-        document.getElementById('sentiment').value = 'positive';
-      }
-      document.getElementById('fromYear').value = year;
-      document.getElementById('toYear').value = year;
-      queryChanged();
-      $('.search-results__tabs a[href="#tab-documents"]').tab("show");
-    }
+  $('.time-chart__outer-svg').remove();
+
+// Define data and options, and draw the chart
+  var dataSet = timelineData();
+  // Assign array of headers and remove from data
+  var headers = dataSet.shift();
+
+  // Map all years data to objects in data array
+  var data = dataSet.map(function(obj) {
+    var rObj = {};
+    rObj[headers[0]] = obj[0];
+    rObj[headers[1]] = obj[1];
+    rObj[headers[2]] = obj[2];
+    rObj[headers[3]] = obj[3];
+    return rObj;
   });
+
+
+  var margin = {top: 20, right: 20, bottom: 30, left: 40},
+      container = d3.select('.time-chart'),
+      width = parseInt(container.style('width'))
+          - parseInt(container.style('padding-left'))
+          - parseInt(container.style('padding-right')),
+      width = width - margin.left - margin.right,
+      height = 500 - margin.top - margin.bottom;
+
+
+  var x = d3.scale.ordinal()
+      .rangeRoundBands([0, width],.1);
+
+  var y = d3.scale.linear()
+      .domain([0, 100])
+      .rangeRound([height, 0]);
+
+  var color = d3.scale.ordinal()
+      .range(["#d9534f", "#727272", "#5cb85c"]);
+
+  var xAxis = d3.svg.axis()
+      .scale(x)
+      .orient("bottom");
+
+  var yAxis = d3.svg.axis()
+      .scale(y)
+      .orient("left");
+//      .tickFormat(d3.format(".2s"));
+
+  var svg = d3.select(".time-chart").append("svg")
+      .attr("class", "time-chart__outer-svg")
+      .attr("width", width + margin.left + margin.right)
+      .attr("height", height + margin.top + margin.bottom)
+      .append("g")
+      .attr("class", "time-chart__inner-g")
+      .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+  color.domain(headers.filter(function(d) { return d !== "Year"; }));
+
+  data.forEach(function(d) {
+    var y0 = 0;
+    d.sentiment = color.domain().map(function(name) {
+      return {
+        name: name,
+        year: d['Year'],
+        y0: y0,
+        y1: y0 += +d[name]
+      };
+    });
+    d.total = d.sentiment[d.sentiment.length -1].y1;
+  });
+
+  x.domain(data.map(function(d) { return d.Year; }));
+  y.domain([0, d3.max(data, function(d) { return d.total; })]);
+
+  svg.append("g")
+      .attr("class", "x axis")
+      .attr("transform", "translate(0," + height + ")")
+      .call(xAxis)
+      .append("text")
+      .attr("y", 6)
+      .attr("dy", ".71em")
+      .style("text-anchor", "end")
+      .text("Year");
+
+  svg.append("g")
+      .attr("class", "y axis")
+      .call(yAxis)
+      .append("text")
+      .attr("transform", "rotate(-90)")
+      .attr("y", 6)
+      .attr("dy", ".71em")
+      .style("text-anchor", "end")
+      .text("Percentage out of all documents");
+
+  var year = svg.selectAll(".year")
+      .data(data)
+      .enter().append("g")
+      .attr("class", function(d) { return "time-chart__year " + d.Year; })
+      .attr("transform", function(d) { return "translate(" + x(d.Year) + ",0)"; });
+
+  year.selectAll("rect")
+      .data(function(d) { return d.sentiment; })
+      .enter()
+      .append("a")
+      .attr("xlink:href", function(d) {
+        return "search?query=&fromYear="+ d.year + "&toYear=" + d.year + "&sentiment=" + d.name.toLowerCase();
+      })
+      .append("rect")
+      .attr("width", x.rangeBand())
+      .attr("y", function(d) { return y(d.y1); })
+      .attr("height", function(d) { return y(d.y0) - y(d.y1); })
+      .style("fill", function(d) { return color(d.name); });
+
+  var legend = svg.selectAll(".legend")
+      .data(color.domain().slice().reverse())
+      .enter().append("g")
+      .attr("class", "legend")
+      .attr("transform", function(d, i) { return "translate(0," + i * 20 + ")"; });
+
+  legend.append("rect")
+      .attr("x", width - 18)
+      .attr("width", 18)
+      .attr("height", 18)
+      .style("fill", color);
+
+  legend.append("text")
+      .attr("x", width - 24)
+      .attr("y", 9)
+      .attr("dy", ".35em")
+      .style("text-anchor", "end")
+      .text(function(d) { return d; });
+
 }
 // Invoked when new basic data is downloaded
 $(document).on("basicDataLoaded", function(e, data) {
     if (data != null) {
         timeChartNeedsUpdate = true;
-        if ($("#tab-timeline")[0].style.display != "none") {
-            updateChart();
+        if ($("#tab-timeline").css('display') != "none") {
+            updateTimeChart();
         }
     }
 });
@@ -757,7 +844,7 @@ $('a[data-toggle="tab"]').on("shown.bs.tab", function(e) {
             break;
         case '#tab-timeline':
             if (timeChartNeedsUpdate) {
-                updateChart();
+                updateTimeChart();
             }
             break;
         case '#tab-geographic':
@@ -771,7 +858,7 @@ $('a[data-toggle="tab"]').on("shown.bs.tab", function(e) {
             break;
         case '#tab-charts':
             if (chartsNeedRerender) {
-                updateCharts();
+                updateWordCharts();
             }
             break;
     }
