@@ -726,7 +726,6 @@ function updateTimeChart() {
       .rangeRoundBands([0, width],.1);
 
   var y = d3.scale.linear()
-      .domain([0, 100])
       .rangeRound([height, 0]);
 
   var color = d3.scale.ordinal()
@@ -765,7 +764,7 @@ function updateTimeChart() {
   });
 
   x.domain(data.map(function(d) { return d.Year; }));
-  y.domain([0, d3.max(data, function(d) { return d.total; })]);
+  y.domain([0, 100]);
 
   svg.append("g")
       .attr("class", "x axis")
