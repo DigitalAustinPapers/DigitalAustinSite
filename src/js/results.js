@@ -697,7 +697,7 @@ function updateTimeChart() {
 
   $('.time-chart__outer-svg').remove();
 
-// Define data and options, and draw the chart
+  // Assign dataset from function call
   var dataSet = timelineData();
   // Assign array of headers and remove from data
   var headers = dataSet.shift();
@@ -712,8 +712,8 @@ function updateTimeChart() {
     return rObj;
   });
 
-
-  var margin = {top: 20, right: 20, bottom: 30, left: 40},
+  // Set chart variables
+  var margin = {top: 20, right: 100, bottom: 100, left: 60},
       container = d3.select('.time-chart'),
       width = parseInt(container.style('width'))
           - parseInt(container.style('padding-left'))
@@ -721,7 +721,7 @@ function updateTimeChart() {
       width = width - margin.left - margin.right,
       height = 500 - margin.top - margin.bottom;
 
-
+  // Set scales and ranges
   var x = d3.scale.ordinal()
       .rangeRoundBands([0, width],.1);
 
@@ -731,15 +731,17 @@ function updateTimeChart() {
   var color = d3.scale.ordinal()
       .range(["#d9534f", "#727272", "#5cb85c"]);
 
+  // Set axes
   var xAxis = d3.svg.axis()
       .scale(x)
       .orient("bottom");
 
   var yAxis = d3.svg.axis()
       .scale(y)
-      .orient("left");
-//      .tickFormat(d3.format(".2s"));
+      .orient("left")
+      .tickValues([0, 25, 50, 75, 100]);
 
+  // Create svg outer and inner elements
   var svg = d3.select(".time-chart").append("svg")
       .attr("class", "time-chart__outer-svg")
       .attr("width", width + margin.left + margin.right)
@@ -748,8 +750,12 @@ function updateTimeChart() {
       .attr("class", "time-chart__inner-g")
       .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
+  // Assign scale domains
+  x.domain(data.map(function(d) { return d.Year; }));
+  y.domain([0, 100]);
   color.domain(headers.filter(function(d) { return d !== "Year"; }));
 
+  // Bind colors and coordinates to each year/sentiment
   data.forEach(function(d) {
     var y0 = 0;
     d.sentiment = color.domain().map(function(name) {
@@ -763,25 +769,34 @@ function updateTimeChart() {
     d.total = d.sentiment[d.sentiment.length -1].y1;
   });
 
-  x.domain(data.map(function(d) { return d.Year; }));
-  y.domain([0, 100]);
 
   svg.append("g")
       .attr("class", "x axis")
       .attr("transform", "translate(0," + height + ")")
       .call(xAxis)
-      .append("text")
-      .attr("y", 6)
-      .attr("dy", ".71em")
+    .selectAll("text")
       .style("text-anchor", "end")
+      .attr("dx", "-.8em")
+      .attr("dy", ".15em")
+      .attr("transform", "rotate(-65)");
+
+  svg.append("text")
+      .attr("class", "x label")
+      .attr("text-anchor", "end")
+      .attr("x", width/2)
+      .attr("y", height + margin.bottom - 15)
+      .attr("dy", ".71em")
       .text("Year");
 
   svg.append("g")
       .attr("class", "y axis")
-      .call(yAxis)
-      .append("text")
+      .call(yAxis);
+
+  svg.append("text")
+      .attr("class", "y label")
       .attr("transform", "rotate(-90)")
-      .attr("y", 6)
+      .attr("y", "-60")
+      .attr("x", "-60")
       .attr("dy", ".71em")
       .style("text-anchor", "end")
       .text("Percentage out of all documents");
@@ -812,13 +827,13 @@ function updateTimeChart() {
       .attr("transform", function(d, i) { return "translate(0," + i * 20 + ")"; });
 
   legend.append("rect")
-      .attr("x", width - 18)
+      .attr("x", width + margin.right - 18)
       .attr("width", 18)
       .attr("height", 18)
       .style("fill", color);
 
   legend.append("text")
-      .attr("x", width - 24)
+      .attr("x", width + margin.right - 24)
       .attr("y", 9)
       .attr("dy", ".35em")
       .style("text-anchor", "end")
