@@ -741,6 +741,11 @@ function updateTimeChart() {
       .orient("left")
       .tickValues([0, 25, 50, 75, 100]);
 
+  // Define the div for the tooltip
+  var div = d3.select(".time-chart").append("div")
+      .attr("class", "tooltip")
+      .style("opacity", 0);
+
   // Create svg outer and inner elements
   var svg = d3.select(".time-chart").append("svg")
       .attr("class", "time-chart__outer-svg")
@@ -814,11 +819,30 @@ function updateTimeChart() {
       .attr("xlink:href", function(d) {
         return "search?query=&fromYear="+ d.year + "&toYear=" + d.year + "&sentiment=" + d.name.toLowerCase();
       })
+      .attr("data-toggle", "tooltip")
+      .attr("data-placement", "right")
+      .attr("title", function(d) {
+        var sentPercent = parseFloat(d.y1 - d.y0).toFixed(1);
+        return d.year + "</br>" + d.name + ": " + (sentPercent % 1 === 0 ? parseInt(sentPercent) : sentPercent);
+        })
       .append("rect")
       .attr("width", x.rangeBand())
       .attr("y", function(d) { return y(d.y1); })
       .attr("height", function(d) { return y(d.y0) - y(d.y1); })
       .style("fill", function(d) { return color(d.name); });
+      //.on("mouseover", function(d) {
+      //  div.transition()
+      //      .duration(200)
+      //      .style("opacity", .9);
+      //  div.html(d.year + "</br>" + d.name + ": " + parseFloat(d.y1 - d.y0).toFixed(1))
+      //      .style("left", (d3.event.pageX) + "px")
+      //      .style("top", (d3.event.pageY) + "px");
+      //})
+      //.on("mouseout", function(d) {
+      //  div.transition()
+      //      .duration(500)
+      //      .style("opacity", 0);
+      //});
 
   var legend = svg.selectAll(".legend")
       .data(color.domain().slice().reverse())
@@ -839,7 +863,20 @@ function updateTimeChart() {
       .style("text-anchor", "end")
       .text(function(d) { return d; });
 
+  // Initialize bootstrap tooltip API
+  $(function () {
+    $('[data-toggle="tooltip"]').tooltip({
+      'container': 'body',
+      'html': true,
+      'template': '<div class="tooltip timechart__tooltip" role="tooltip">' +
+        '<div class="tooltip-arrow timechart__tooltip-arrow"></div>' +
+        '<div class="tooltip-inner timechart__tooltip-inner"></div>' +
+        '</div>'
+    })
+  });
+
 }
+
 // Invoked when new basic data is downloaded
 $(document).on("basicDataLoaded", function(e, data) {
     if (data != null) {

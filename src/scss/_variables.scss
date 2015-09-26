@@ -9,15 +9,15 @@ $bootstrap-sass-asset-helper: false !default;
 // Generated from https://www.materialpalette.com/
 
 // Primary color blue grey
-$primary-color:         material-color('blue-grey', '500');
-$primary-color-dark:    material-color('blue-grey', '700');
-$primary-color-light:   material-color('blue-grey', '100');
-$primary-color-lighter: material-color('blue-grey', '50');
+$primary-color:         material-color('blue-grey', '500'); // #607D8B
+$primary-color-dark:    material-color('blue-grey', '700'); // #455A64
+$primary-color-light:   material-color('blue-grey', '100'); // #CFD8DC
+$primary-color-lighter: material-color('blue-grey', '50'); // #ECEFF1
 
 // Accent color amber
-$accent-color:          material-color('amber', 'a400');
-$accent-color-light:    material-color('amber', 'a200');
-$accent-color-dark:     material-color('amber', 'a700');
+$accent-color:          material-color('amber', 'a400'); // #FFC400
+$accent-color-light:    material-color('amber', 'a200'); // #FFD740
+$accent-color-dark:     material-color('amber', 'a700'); // #FFAB00
 
 // Text, icons, and divider colors
 $text-icons-color:      #FFFFFF;
