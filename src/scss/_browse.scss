@@ -1,6 +1,16 @@
 .jumplist {
   padding: .5em 1em;
   font-size: .9em;
+
+  &__item {
+    @extend .text-center;
+    min-width: 45px;
+    margin: 0 !important;
+
+    & a {
+      padding: 10px !important;
+    }
+  }
 }
 
 .browse-list__category-header {
