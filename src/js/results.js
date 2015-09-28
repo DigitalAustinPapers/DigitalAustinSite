@@ -315,11 +315,33 @@ function cityClicked(markerIndex)
 
 //Changes the query's location filter to the given city
 //id must be a key in the NormalizedPlace table
-function searchCity(id) {
+function searchCity(id, direction) {
+
+    // TODO: This is not DRY, get params needs to be broken out
     var getParams = '?query=';
     getParams += encodeURIComponent(document.getElementById('query').value);
-    getParams += '&location=';
-    getParams += encodeURIComponent(id);
+    getParams += '&fromYear=';
+    getParams += encodeURIComponent(document.getElementById('fromYear').value);
+    getParams += '&toYear=';
+    getParams += encodeURIComponent(document.getElementById('toYear').value);
+    getParams += '&fromPersonId=';
+    getParams += encodeURIComponent(document.getElementById('fromPersonId').value);
+    getParams += '&toPersonId=';
+    getParams += encodeURIComponent(document.getElementById('toPersonId').value);
+      getParams += '&fromPlaceId=';
+    if (direction === 'from') {
+      getParams += id;
+    } else {
+      getParams += encodeURIComponent(document.getElementById('fromPlaceId').value);
+    }
+    getParams += '&toPlaceId=';
+    if (direction === 'to') {
+      getParams += id;
+    } else {
+      getParams += encodeURIComponent(document.getElementById('toPlaceId').value);
+    }
+    getParams += '&sentiment=';
+    getParams += encodeURIComponent(document.getElementById('sentiment').value);
     getParams += '&sort=';
     getParams += encodeURIComponent(sortKey);
     window.location = "search" + getParams;
@@ -454,13 +476,10 @@ function redrawMarkers() {
         google.maps.event.addListener(marker, 'click', onClickFunction);
         markers.push(marker);
 
-        var contentHtml = "<a style='color:#0000FF;text-decoration:underline;'"
-            + " onClick='searchCity(" + city['id'] + ")'> "
-            + city['name'] + "</a><br />"
-            + "<b>" + (parseInt(city['incoming']) + parseInt(city['outgoing']))
-            + " Letters</b><br />"
-            + city['incoming'] + " Incoming Letters<br />"
-            + city['outgoing'] + " Outgoing Letters<br />";
+        var contentHtml = "<span class='geography__city-name'>" + city['name'] + "</span><br />"
+            + "<b>" + (parseInt(city['incoming']) + parseInt(city['outgoing'])) + " Letters</b><br />"
+            + "<a class='geography__city-link' onClick='searchCity(" + city['id'] + ", &apos;to&apos;)'>" + city['incoming'] + " Incoming Letters</a><br />"
+            + "<a class='geography__city-link' onClick='searchCity(" + city['id'] + ", &apos;from&apos;)'>" + city['outgoing'] + " Outgoing Letters</a>";
 
         var infowindow = new google.maps.InfoWindow({
             content: contentHtml
