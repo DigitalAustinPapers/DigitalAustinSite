@@ -39,14 +39,28 @@
 
 .time-chart {
 
-}
   .axis path,
   .axis line {
     fill: none;
     stroke: #000;
     shape-rendering: crispEdges;
+  }
 
-  .x.axis path {
-    display: none;
+  .time-chart__bar--positive {
+    &:hover {
+      fill: darken($brand-success, 10%) !important;
+    }
+  }
+
+  .time-chart__bar--neutral {
+    &:hover {
+      fill: darken(#727272, 10%) !important;
+    }
+  }
+
+  .time-chart__bar--negative {
+    &:hover {
+      fill: darken($brand-danger, 10%) !important;
+    }
   }
 }

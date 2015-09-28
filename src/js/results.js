@@ -780,6 +780,11 @@ function updateTimeChart() {
       .attr("transform", "translate(0," + height + ")")
       .call(xAxis)
     .selectAll("text")
+      .filter(function(d) { return typeof(d) == "string"; })
+      .style("cursor", "pointer")
+      .on("click", function(d) {
+        document.location.href = "search?query=&fromYear="+ d + "&toYear=" + d;
+      })
       .style("text-anchor", "end")
       .attr("dx", "-.8em")
       .attr("dy", ".15em")
@@ -840,13 +845,13 @@ function updateTimeChart() {
       .attr("transform", function(d, i) { return "translate(0," + i * 20 + ")"; });
 
   legend.append("rect")
-      .attr("x", width + margin.right - 18)
+      .attr("x", width + margin.right - 14)
       .attr("width", 18)
       .attr("height", 18)
       .style("fill", color);
 
   legend.append("text")
-      .attr("x", width + margin.right - 24)
+      .attr("x", width + margin.right - 20)
       .attr("y", 9)
       .attr("dy", ".35em")
       .style("text-anchor", "end")
