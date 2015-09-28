@@ -695,8 +695,6 @@ function timelineData() {
 
 function updateTimeChart() {
 
-  $('.time-chart__outer-svg').remove();
-
   // Assign dataset from function call
   var dataSet = timelineData();
   // Assign array of headers and remove from data
@@ -857,6 +855,8 @@ function updateTimeChart() {
       .style("text-anchor", "end")
       .text(function(d) { return d; });
 
+  timeChartNeedsUpdate = false;
+
   // Initialize bootstrap tooltip API
   $(function () {
     $('[data-toggle="tooltip"]').tooltip({
@@ -876,6 +876,7 @@ $(document).on("basicDataLoaded", function(e, data) {
     if (data != null) {
         timeChartNeedsUpdate = true;
         if ($("#tab-timeline").css('display') != "none") {
+            $('.time-chart__outer-svg').remove();
             updateTimeChart();
         }
     }
