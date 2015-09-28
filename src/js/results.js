@@ -726,7 +726,7 @@ function updateTimeChart() {
       .rangeRoundBands([0, width],.1);
 
   var y = d3.scale.linear()
-      .rangeRound([height, 0]);
+      .range([height, 0]);
 
   var color = d3.scale.ordinal()
       .range(["#d9534f", "#727272", "#5cb85c"]);
@@ -816,6 +816,7 @@ function updateTimeChart() {
       .data(function(d) { return d.sentiment; })
       .enter()
       .append("a")
+      .attr("class", function(d) { return "time-chart__bar--" + d.name.toLowerCase(); })
       .attr("xlink:href", function(d) {
         return "search?query=&fromYear="+ d.year + "&toYear=" + d.year + "&sentiment=" + d.name.toLowerCase();
       })
@@ -826,23 +827,11 @@ function updateTimeChart() {
         return d.year + "</br>" + d.name + ": " + (sentPercent % 1 === 0 ? parseInt(sentPercent) : sentPercent);
         })
       .append("rect")
+      .attr("class", function(d) { return "time-chart__bar--" + d.name.toLowerCase(); })
       .attr("width", x.rangeBand())
       .attr("y", function(d) { return y(d.y1); })
       .attr("height", function(d) { return y(d.y0) - y(d.y1); })
       .style("fill", function(d) { return color(d.name); });
-      //.on("mouseover", function(d) {
-      //  div.transition()
-      //      .duration(200)
-      //      .style("opacity", .9);
-      //  div.html(d.year + "</br>" + d.name + ": " + parseFloat(d.y1 - d.y0).toFixed(1))
-      //      .style("left", (d3.event.pageX) + "px")
-      //      .style("top", (d3.event.pageY) + "px");
-      //})
-      //.on("mouseout", function(d) {
-      //  div.transition()
-      //      .duration(500)
-      //      .style("opacity", 0);
-      //});
 
   var legend = svg.selectAll(".legend")
       .data(color.domain().slice().reverse())
