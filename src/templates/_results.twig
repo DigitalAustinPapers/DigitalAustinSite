@@ -25,7 +25,7 @@
   <div class="row">
     <div class="col-sm-12 search-results__results-container">
       <div class="tab-content">
-        <div role="tabpanel" class="tab-pane active" id="tab-documents" >
+        <div role="tabpanel" class="documents-tab active" id="tab-documents" >
           <div class="search-results__sort">
             <form id="sortForm">
               <span class="search-results__sort-by-label">Sort by:</span>
@@ -42,7 +42,7 @@
                 Sentiment
               </label>
             </form>
-          </div><!-- search-results-sort -->
+          </div><!-- search-results__sort -->
           <ol id="documentsList" class="search-results-list">Loading...</ol>
 
           <nav class="pagination-nav">
@@ -59,31 +59,36 @@
 
         </div><!-- tab-documents -->
 
-        <div role="tabpanel" class="tab-pane" id="tab-timeline">
-          <!-- Timeline Tab Content -->
+        <!-- Tab Content -->
+
+        <!-- Timeline Tab Content -->
+        <div role="tabpanel" class="time-chart-tab" id="tab-timeline">
           <p>View your search results distributed over time and with varying sentiment.</p>
           <div id="timeChart" class="time-chart"></div>
         </div><!-- tab-timeline -->
 
-        <div role="tabpanel" class="tab-pane" id="tab-geographic">
-          <!-- Geographic Tab Content -->
+        <!-- Geographic Tab Content -->
+        <div role="tabpanel" class="geographic-chart-tab" id="tab-geographic">
           <div id="map" style="width:100%; height:500px;"></div>
-        </div><!-- tab-timeline -->
-        <div role="tabpanel" class="tab-pane" id="tab-charts">
-          <!-- Charts Tab Content -->
-          <div id="wordChart" class="word-chart col-sm-4">
+        </div><!-- tab-geographic -->
+
+        <!-- Charts Tab Content -->
+        <div role="tabpanel" class="word-chart-tab" id="tab-charts">
+          <div id="wordChart" class="word-chart hidden">
             <h2 class="word-chart__title">Total word counts</h2>
           </div>
 
-          <div id="personChart" class="word-chart col-sm-4">
+          <div id="personChart" class="word-chart hidden">
             <h2 class="word-chart__title">People counts</h2>
           </div>
 
-          <div id="placeChart" class="word-chart col-sm-4">
+          <div id="placeChart" class="word-chart hidden">
             <h2 class="word-chart__title">Place counts</h2>
           </div>
         </div><!-- tab-charts -->
+
       </div><!-- tab-content -->
+
     </div><!-- col -->
   </div><!-- row -->
 </div>

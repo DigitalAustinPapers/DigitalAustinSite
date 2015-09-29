@@ -478,6 +478,7 @@ function redrawMarkers() {
 
 var chartsNeedRerender = false;
 function updateWordCharts() {
+  $('.word-chart').removeClass("hidden");
   $('.word-chart__outer-svg').remove();
 
   wordChart(chartData[2], "#personChart");
@@ -603,23 +604,6 @@ function wordChart(dataset, divId) {
       .attr("x", function (d) {
         return xScale(d.weight) - this.getBBox().width - 2;
       });
-
-  function resizeChart() {
-    width = parseInt(d3.select(divId).style('width'));
-    width = width - margin.left - margin.right;
-
-    console.log(width);
-
-    xScale.range([0, width - labelSpace]);
-    d3.select(chart.node().parentNode)
-      .style('width', (width + margin.left + margin.right) + 'px');
-
-    bars.attr("width", function(d) { return xScale(d.weight); })
-        .attr("transform", function (d, i) {
-          return "translate(" + (margin.left + labelSpace) + "," +
-              (i * (barHeight + barPadding) ) + ")";
-        });
-  }
 
 }
 
