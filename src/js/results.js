@@ -37,30 +37,42 @@ function queryChanged() {
     return false;
 }
 
-function queryUrlForYearAndSentiment(year, sentiment) {
-    // Build the GET params
-    var getParams = '?query=';
-    getParams += encodeURIComponent(document.getElementById('query').value);
-    // getParams += '&location=';
-    // getParams += encodeURIComponent(document.getElementById('location').value);
+// Find form input selections on search screen and return search string for URI
+function stringifyUrlQuery() {
+  var getParams = '?query=';
+  getParams += encodeURIComponent(document.getElementById('query').value);
+  if (encodeURIComponent(document.getElementById('fromYear').value)) {
     getParams += '&fromYear=';
-    getParams += year;
+    getParams += encodeURIComponent(document.getElementById('fromYear').value);
+  }
+  if (encodeURIComponent(document.getElementById('toYear').value)) {
     getParams += '&toYear=';
-    getParams += year;
+    getParams += encodeURIComponent(document.getElementById('toYear').value);
+  }
+  if (encodeURIComponent(document.getElementById('fromPersonId').value)) {
     getParams += '&fromPersonId=';
     getParams += encodeURIComponent(document.getElementById('fromPersonId').value);
+  }
+  if (encodeURIComponent(document.getElementById('toPersonId').value)) {
     getParams += '&toPersonId=';
     getParams += encodeURIComponent(document.getElementById('toPersonId').value);
+  }
+  if (encodeURIComponent(document.getElementById('fromPlaceId').value)) {
     getParams += '&fromPlaceId=';
     getParams += encodeURIComponent(document.getElementById('fromPlaceId').value);
+  }
+  if (encodeURIComponent(document.getElementById('toPlaceId').value)) {
     getParams += '&toPlaceId=';
     getParams += encodeURIComponent(document.getElementById('toPlaceId').value);
+  }
+  if (encodeURIComponent(document.getElementById('sentiment').value)) {
     getParams += '&sentiment=';
-    getParams += sentiment;
-    getParams += '&sort=';
-    getParams += encodeURIComponent(sortKey);
+    getParams += encodeURIComponent(document.getElementById('sentiment').value);
+  }
+  getParams += '&sort=';
+  getParams += encodeURIComponent(sortKey);
 
-    return 'data/search.php' + getParams;
+  return getParams;
 }
 
 // Start data requests for the current view if necessary.
@@ -70,26 +82,7 @@ function requestData() {
     // document.getElementById('content').innerHTML = "Loading...";
 
     // Build the GET params
-    var getParams = '?query=';
-    getParams += encodeURIComponent(document.getElementById('query').value);
-    // getParams += '&location=';
-    // getParams += encodeURIComponent(document.getElementById('location').value);
-    getParams += '&fromYear=';
-    getParams += encodeURIComponent(document.getElementById('fromYear').value);
-    getParams += '&toYear=';
-    getParams += encodeURIComponent(document.getElementById('toYear').value);
-    getParams += '&fromPersonId=';
-    getParams += encodeURIComponent(document.getElementById('fromPersonId').value);
-    getParams += '&toPersonId=';
-    getParams += encodeURIComponent(document.getElementById('toPersonId').value);
-    getParams += '&fromPlaceId=';
-    getParams += encodeURIComponent(document.getElementById('fromPlaceId').value);
-    getParams += '&toPlaceId=';
-    getParams += encodeURIComponent(document.getElementById('toPlaceId').value);
-    getParams += '&sentiment=';
-    getParams += encodeURIComponent(document.getElementById('sentiment').value);
-    getParams += '&sort=';
-    getParams += encodeURIComponent(sortKey);
+    var getParams = stringifyUrlQuery();
 
     window.history.pushState({path:getParams},'', location.origin + location.pathname + getParams);
 
@@ -313,37 +306,27 @@ function cityClicked(markerIndex)
     infoWindows[markerIndex].open(map, markers[markerIndex]);
 }
 
-//Changes the query's location filter to the given city
-//id must be a key in the NormalizedPlace table
+// Changes the query's location filter to the given city
+// id must be a key in the NormalizedPlace table
+// direction must be string 'to' or 'from'
 function searchCity(id, direction) {
 
-    // TODO: This is not DRY, get params needs to be broken out
-    var getParams = '?query=';
-    getParams += encodeURIComponent(document.getElementById('query').value);
-    getParams += '&fromYear=';
-    getParams += encodeURIComponent(document.getElementById('fromYear').value);
-    getParams += '&toYear=';
-    getParams += encodeURIComponent(document.getElementById('toYear').value);
-    getParams += '&fromPersonId=';
-    getParams += encodeURIComponent(document.getElementById('fromPersonId').value);
-    getParams += '&toPersonId=';
-    getParams += encodeURIComponent(document.getElementById('toPersonId').value);
-      getParams += '&fromPlaceId=';
-    if (direction === 'from') {
-      getParams += id;
+  var getParams = stringifyUrlQuery();
+
+  if (direction === 'from') {
+    if (getParams.includes('&fromPlaceId')) {
+      getParams = getParams.replace(/fromPlaceId=[0-9]*/, 'fromPlaceId=' + id);
     } else {
-      getParams += encodeURIComponent(document.getElementById('fromPlaceId').value);
+      getParams += "&fromPlaceId=" + id;
     }
-    getParams += '&toPlaceId=';
-    if (direction === 'to') {
-      getParams += id;
+  } else if (direction === 'to') {
+    if (getParams.includes('&toPlaceId')) {
+      getParams = getParams.replace(/toPlaceId=[0-9]*/, 'toPlaceId=' + id);
     } else {
-      getParams += encodeURIComponent(document.getElementById('toPlaceId').value);
+      getParams += "&toPlaceId=" + id;
     }
-    getParams += '&sentiment=';
-    getParams += encodeURIComponent(document.getElementById('sentiment').value);
-    getParams += '&sort=';
-    getParams += encodeURIComponent(sortKey);
+  }
+
     window.location = "search" + getParams;
 }
 
