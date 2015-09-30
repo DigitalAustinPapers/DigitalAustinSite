@@ -178,9 +178,18 @@ paging.setOptions({onSelect: function(page) {
 }});
 
 function updateDocuments() {
-    var docList = $('#documentsList');
+    var docList = $('search-results-list');
+    var progressBar = $('.documents-tab .searching-progress');
+    var sorter = $('.documents-tab .search-results__sort');
     var NatLangString;
     var resultsCount = basicData['json'].length;
+
+    // Remove existing sorter, results, and pager
+    docList.hide();
+    progressBar.show();
+    sorter.hide();
+
+    // Fill in search summary
     $('#resultsCount').text(resultsCount);
     $('#totalDocsCount').text(totalDocsCount);
     $('.search-results__results-summary').removeClass('invisible');
@@ -196,9 +205,14 @@ function updateDocuments() {
         .dequeue();
   });
 
+    // Set number of results in pager
     paging.setNumber(resultsCount).setPage();
 
     $('#sort_' + sortKey).prop('checked',true);
+
+    progressBar.hide();
+    docList.show();
+    sorter.show();
 }
 
 $(document).on("basicDataLoaded", function(e, data) {
@@ -267,6 +281,7 @@ google.load("maps", "3", {other_params:'sensor=false'});
 
 // Performs initial map setup
 function setupMap() {
+    $('.geographic-chart-tab .searching-progress').show();
     var mapOptions = {
         center: new google.maps.LatLng(34, -94),
         zoom: 4,
@@ -281,6 +296,7 @@ function setupMap() {
     }
     redrawMarkers();
     google.maps.event.addListener(map, 'zoom_changed', redrawMarkers);
+    $('.geographic-chart-tab .searching-progress').hide();
 }
 // Invoked when new city data is downloaded
 $(document).on("cityDataLoaded", function(e, data) {
@@ -478,12 +494,15 @@ function redrawMarkers() {
 
 var chartsNeedRerender = false;
 function updateWordCharts() {
+  $('.word-chart-tab .searching-progress').show();
   $('.word-chart').removeClass("hidden");
   $('.word-chart__outer-svg').remove();
 
   wordChart(chartData[2], "#personChart");
   wordChart(chartData[1], "#placeChart");
   wordChart(chartData[0], "#wordChart");
+
+  $('.word-chart-tab .searching-progress').hide();
 
   chartsNeedRerender = false;
 }
@@ -681,6 +700,8 @@ function timelineData() {
 
 function updateTimeChart() {
 
+  $('.time-chart-tab .searching-progress').show();
+
   // Assign dataset from function call
   var dataSet = timelineData();
   // Assign array of headers and remove from data
@@ -842,6 +863,8 @@ function updateTimeChart() {
       .text(function(d) { return d; });
 
   timeChartNeedsUpdate = false;
+
+  $('.time-chart-tab .searching-progress').hide();
 
   // Initialize bootstrap tooltip API
   $(function () {

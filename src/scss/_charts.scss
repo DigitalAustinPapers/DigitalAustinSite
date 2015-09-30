@@ -1,25 +1,9 @@
-.documents-tab {
-  @extend .tab-pane;
-}
-
-.time-chart-tab {
-  @extend .tab-pane;
-}
-
-.geographic-chart-tab {
-  @extend .tab-pane;
-}
-
-.word-chart-tab {
-  @extend .tab-pane;
-}
-
 .word-chart {
   @extend .col-sm-4;
 }
 
 .word-chart__title {
-
+  margin-top: 0;
 }
 
 .word-chart__bar {
