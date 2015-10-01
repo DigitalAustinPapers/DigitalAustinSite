@@ -1,5 +1,5 @@
 /*
-  Results page javascript
+  Search results page javascript
  */
 
 // Global data
@@ -31,7 +31,7 @@ function queryChanged() {
     requestData();
 
     // reveal results div
-    jQuery('.search-results').removeClass('hidden');
+    $('.search-results').removeClass('hidden');
 
     // Don't navigate away from this page
     return false;
@@ -39,40 +39,40 @@ function queryChanged() {
 
 // Find form input selections on search screen and return search string for URI
 function stringifyUrlQuery() {
-  var getParams = '?query=';
-  getParams += encodeURIComponent(document.getElementById('query').value);
-  if (encodeURIComponent(document.getElementById('fromYear').value)) {
-    getParams += '&fromYear=';
-    getParams += encodeURIComponent(document.getElementById('fromYear').value);
-  }
-  if (encodeURIComponent(document.getElementById('toYear').value)) {
-    getParams += '&toYear=';
-    getParams += encodeURIComponent(document.getElementById('toYear').value);
-  }
-  if (encodeURIComponent(document.getElementById('fromPersonId').value)) {
-    getParams += '&fromPersonId=';
-    getParams += encodeURIComponent(document.getElementById('fromPersonId').value);
-  }
-  if (encodeURIComponent(document.getElementById('toPersonId').value)) {
-    getParams += '&toPersonId=';
-    getParams += encodeURIComponent(document.getElementById('toPersonId').value);
-  }
-  if (encodeURIComponent(document.getElementById('fromPlaceId').value)) {
-    getParams += '&fromPlaceId=';
-    getParams += encodeURIComponent(document.getElementById('fromPlaceId').value);
-  }
-  if (encodeURIComponent(document.getElementById('toPlaceId').value)) {
-    getParams += '&toPlaceId=';
-    getParams += encodeURIComponent(document.getElementById('toPlaceId').value);
-  }
-  if (encodeURIComponent(document.getElementById('sentiment').value)) {
-    getParams += '&sentiment=';
-    getParams += encodeURIComponent(document.getElementById('sentiment').value);
-  }
-  getParams += '&sort=';
-  getParams += encodeURIComponent(sortKey);
+    var getParams = '?query=';
+    getParams += encodeURIComponent(document.getElementById('query').value);
+    if (encodeURIComponent(document.getElementById('fromYear').value)) {
+        getParams += '&fromYear=';
+        getParams += encodeURIComponent(document.getElementById('fromYear').value);
+    }
+    if (encodeURIComponent(document.getElementById('toYear').value)) {
+        getParams += '&toYear=';
+        getParams += encodeURIComponent(document.getElementById('toYear').value);
+    }
+    if (encodeURIComponent(document.getElementById('fromPersonId').value)) {
+        getParams += '&fromPersonId=';
+        getParams += encodeURIComponent(document.getElementById('fromPersonId').value);
+    }
+    if (encodeURIComponent(document.getElementById('toPersonId').value)) {
+        getParams += '&toPersonId=';
+        getParams += encodeURIComponent(document.getElementById('toPersonId').value);
+    }
+    if (encodeURIComponent(document.getElementById('fromPlaceId').value)) {
+        getParams += '&fromPlaceId=';
+        getParams += encodeURIComponent(document.getElementById('fromPlaceId').value);
+    }
+    if (encodeURIComponent(document.getElementById('toPlaceId').value)) {
+        getParams += '&toPlaceId=';
+        getParams += encodeURIComponent(document.getElementById('toPlaceId').value);
+    }
+    if (encodeURIComponent(document.getElementById('sentiment').value)) {
+        getParams += '&sentiment=';
+        getParams += encodeURIComponent(document.getElementById('sentiment').value);
+    }
+    getParams += '&sort=';
+    getParams += encodeURIComponent(sortKey);
 
-  return getParams;
+    return getParams;
 }
 
 // Start data requests for the current view if necessary.
@@ -84,12 +84,13 @@ function requestData() {
     // Build the GET params
     var getParams = stringifyUrlQuery();
 
+    // Update browser URL
     window.history.pushState({path:getParams},'', location.origin + location.pathname + getParams);
 
     // Google analytics event tracking
     ga('send', 'event', 'search', 'submit', getParams);
 
-
+    // Create the search summary HTML
     var humanQueryString = "";
     if(document.getElementById('query').value) {
         humanQueryString = "text: <b>"+document.getElementById('query').value+"</b>";
@@ -172,9 +173,9 @@ var paging = $(".pagination").paging(0, pagingOpts);
 // Paging options are declared in paging.js and overridden here
 paging.setOptions({perpage: 20});
 paging.setOptions({onSelect: function(page) {
-  updatePage(this.slice);
-  updateSentiment();
-  showPager(this.pages);
+    updatePage(this.slice);
+    updateSentiment();
+    showPager(this.pages);
 }});
 
 function updateDocuments() {
@@ -195,14 +196,14 @@ function updateDocuments() {
     $('.search-results__results-summary').removeClass('invisible');
 
     if(resultsCount === 1) {
-      document.getElementById('resultsPlural').innerHTML = "result";
+        document.getElementById('resultsPlural').innerHTML = "result";
     }
 
   // Apply alert class with CSS transition and remove after 2 seconds
   $('.search-results__results-summary')
       .addClass('search-results__results-summary--changed').delay(2000).queue(function() {
-        $(this).removeClass('search-results__results-summary--changed')
-        .dequeue();
+          $(this).removeClass('search-results__results-summary--changed')
+          .dequeue();
   });
 
     // Set number of results in pager
@@ -327,29 +328,28 @@ function cityClicked(markerIndex)
 // direction must be string 'to' or 'from'
 function searchCity(id, direction) {
 
-  var getParams = stringifyUrlQuery();
+    var getParams = stringifyUrlQuery();
 
-  if (direction === 'from') {
-    if (getParams.includes('&fromPlaceId')) {
-      getParams = getParams.replace(/fromPlaceId=[0-9]*/, 'fromPlaceId=' + id);
-    } else {
-      getParams += "&fromPlaceId=" + id;
+    if (direction === 'from') {
+        if (getParams.includes('&fromPlaceId')) {
+            getParams = getParams.replace(/fromPlaceId=[0-9]*/, 'fromPlaceId=' + id);
+        } else {
+            getParams += "&fromPlaceId=" + id;
+        }
+    } else if (direction === 'to') {
+        if (getParams.includes('&toPlaceId')) {
+            getParams = getParams.replace(/toPlaceId=[0-9]*/, 'toPlaceId=' + id);
+        } else {
+            getParams += "&toPlaceId=" + id;
+        }
     }
-  } else if (direction === 'to') {
-    if (getParams.includes('&toPlaceId')) {
-      getParams = getParams.replace(/toPlaceId=[0-9]*/, 'toPlaceId=' + id);
-    } else {
-      getParams += "&toPlaceId=" + id;
-    }
-  }
 
     window.location = "search" + getParams;
 }
 
 //Given an r, g, b, returns a string representing a color in html
 //Borrowed from the internet
-function rgbToHtml(r, g, b)
-{
+function rgbToHtml(r, g, b) {
     var decColor = r + 256 * g + 65536 * b;
     var str = decColor.toString(16);
     while (str.length < 6) {
@@ -494,17 +494,17 @@ function redrawMarkers() {
 
 var chartsNeedRerender = false;
 function updateWordCharts() {
-  $('.word-chart-tab .searching-progress').show();
-  $('.word-chart').removeClass("hidden");
-  $('.word-chart__outer-svg').remove();
+    $('.word-chart-tab .searching-progress').show();
+    $('.word-chart').removeClass("hidden");
+    $('.word-chart__outer-svg').remove();
 
-  wordChart(chartData[2], "#personChart");
-  wordChart(chartData[1], "#placeChart");
-  wordChart(chartData[0], "#wordChart");
+    wordChart(chartData[2], "#personChart");
+    wordChart(chartData[1], "#placeChart");
+    wordChart(chartData[0], "#wordChart");
 
-  $('.word-chart-tab .searching-progress').hide();
+    $('.word-chart-tab .searching-progress').hide();
 
-  chartsNeedRerender = false;
+    chartsNeedRerender = false;
 }
 // Invoked when new chart data is downloaded
 $(document).on("chartDataLoaded", function(e, data) {
@@ -518,112 +518,111 @@ $(document).on("chartDataLoaded", function(e, data) {
 });
 
 function wordChart(dataset, divId) {
-  // Chart defaults
-  var dataSet = dataset,
-    margin = {top: 0, right: 0, bottom: 0, left: 0},
-    container = d3.select(divId),
-    width = parseInt(container.style('width'))
-        - parseInt(container.style('padding-left'))
-        - parseInt(container.style('padding-right')),
-    width = width - margin.left - margin.right,
-    barHeight = 20,
-    barPadding = 5,
-    labelSpace = 125, // initial value
-    height = (barHeight + barPadding) * dataSet.length
-        - margin.top - margin.bottom;
+    // Chart defaults
+    var dataSet = dataset,
+        margin = {top: 0, right: 0, bottom: 0, left: 0},
+        container = d3.select(divId),
+        width = parseInt(container.style('width'))
+            - parseInt(container.style('padding-left'))
+            - parseInt(container.style('padding-right')),
+        width = width - margin.left - margin.right,
+        barHeight = 20,
+        barPadding = 5,
+        labelSpace = 125, // initial value
+        height = (barHeight + barPadding) * dataSet.length
+            - margin.top - margin.bottom;
 
-  // Create the x scale
-  var xScale = d3.scale.linear()
-      .domain([0, d3.max(dataSet, function (d) {
-        return parseInt(d.weight, 10);
-      })]);
+    // Create the x scale
+    var xScale = d3.scale.linear()
+        .domain([0, d3.max(dataSet, function (d) {
+            return parseInt(d.weight, 10);
+        })]);
 
-  // Create the y scale
-  var yScale = d3.scale.ordinal()
-      .domain(dataSet.map(function (d) {
-        return d.text;
-      }))
-      .rangeBands([height, 0], .1);
+    // Create the y scale
+    var yScale = d3.scale.ordinal()
+        .domain(dataSet.map(function (d) {
+            return d.text;
+        }))
+        .rangeBands([height, 0], .1);
 
-  // Create and append the outer svg and inner g for margins
-  var chart = d3.select(divId)
-      .append("svg")
-      .attr("class", "word-chart__outer-svg")
-      .attr("width", width + margin.left + margin.right)
-      .attr("height", height + margin.top + margin.bottom)
-      .append("g")
-      .attr("class", "word-chart__inner-g")
-      .attr("width", width)
-      .attr("transform", "translate(" + [margin.left, margin.top] + ")");
+    // Create and append the outer svg and inner g for margins
+    var chart = d3.select(divId)
+        .append("svg")
+        .attr("class", "word-chart__outer-svg")
+        .attr("width", width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom)
+        .append("g")
+        .attr("class", "word-chart__inner-g")
+        .attr("width", width)
+        .attr("transform", "translate(" + [margin.left, margin.top] + ")");
 
-  // Create and append the container for labels
-  var labelContainer = chart.append("g")
-      .attr("class", "word-chart__label-container");
+    // Create and append the container for labels
+    var labelContainer = chart.append("g")
+        .attr("class", "word-chart__label-container");
 
-  // Add labels to the label container
-  labelContainer.selectAll("text")
-      .data(dataSet)
-      .enter()
-      .append("a")
-      .attr("class", "word-chart__label-link")
-      .attr("xlink:href", function(d) {
-        return d.link;
-      })
-      .append("text")
-      .attr("class", "word-chart__label-text")
-      .attr("transform", function (d, i) {
-        return "translate(0," +
-            (i * (barHeight + barPadding) ) + ")";
-      })
-      .attr("dy", "1em")
-      .text(function (d) {
-        return d.text;
-      });
+    // Add labels to the label container
+    labelContainer.selectAll("text")
+        .data(dataSet)
+        .enter()
+        .append("a")
+        .attr("class", "word-chart__label-link")
+        .attr("xlink:href", function(d) {
+            return d.link;
+        })
+        .append("text")
+        .attr("class", "word-chart__label-text")
+        .attr("transform", function (d, i) {
+            return "translate(0," +
+                (i * (barHeight + barPadding) ) + ")";
+        })
+        .attr("dy", "1em")
+        .text(function (d) {
+            return d.text;
+        });
 
-  // Update labelSpace to widest label
-  labelSpace = d3.select(divId).select(".word-chart__label-container").node().getBBox().width;
+    // Update labelSpace to widest label
+    labelSpace = d3.select(divId).select(".word-chart__label-container").node().getBBox().width;
 
-  // Set x scale range after determining labelSpace
-  xScale.range([25, width - labelSpace]);
+    // Set x scale range after determining labelSpace
+    xScale.range([25, width - labelSpace]);
 
-  // Create and append a container for bars
-  var barContainer = chart.append("g")
-      .attr("class", "word-chart__bar-container");
+    // Create and append a container for bars
+    var barContainer = chart.append("g")
+        .attr("class", "word-chart__bar-container");
 
-  // Create g elements for each bar and append inside bar container
-  var bars = barContainer.selectAll("g")
-      .data(dataSet)
-      .enter()
-      .append("g")
-      .attr("transform", function (d, i) {
-        return "translate(" + labelSpace + "," +
-            (i * (barHeight + barPadding) ) + ")";
-      });
+    // Create g elements for each bar and append inside bar container
+    var bars = barContainer.selectAll("g")
+        .data(dataSet)
+        .enter()
+        .append("g")
+        .attr("transform", function (d, i) {
+            return "translate(" + labelSpace + "," +
+                (i * (barHeight + barPadding) ) + ")";
+        });
 
-  // Adjust height of chart parent element
-  d3.select(chart.node().parentNode)
-      .style("height", (height + margin.top + margin.bottom) + "px");
+    // Adjust height of chart parent element
+    d3.select(chart.node().parentNode)
+        .style("height", (height + margin.top + margin.bottom) + "px");
 
-  // Create and append the bars inside the bar container
-  bars.append("rect")
-      .attr("class", "word-chart__bar")
-      .attr("width", function (d) {
-        return xScale(d.weight);
-      })
-      .attr("height", barHeight - 1);
+    // Create and append the bars inside the bar container
+    bars.append("rect")
+        .attr("class", "word-chart__bar")
+        .attr("width", function (d) {
+            return xScale(d.weight);
+        })
+        .attr("height", barHeight - 1);
 
-  // Create and append the bar value labels inside the bar container
-  bars.append("text")
-      .attr("class", "word-chart__item-weight")
-      .attr("y", barHeight / 2)
-      .attr("dy", ".35em")
-      .text(function (d) {
-        return d.weight;
-      })
-      .attr("x", function (d) {
-        return xScale(d.weight) - this.getBBox().width - 2;
-      });
-
+    // Create and append the bar value labels inside the bar container
+    bars.append("text")
+        .attr("class", "word-chart__item-weight")
+        .attr("y", barHeight / 2)
+        .attr("dy", ".35em")
+        .text(function (d) {
+            return d.weight;
+        })
+        .attr("x", function (d) {
+            return xScale(d.weight) - this.getBBox().width - 2;
+        });
 }
 
 /*
@@ -634,250 +633,249 @@ var timeChart;
 var timeChartNeedsUpdate = true;
 
 function timelineData() {
-  if (basicData != null) {
-    var years = {},
-        positive = {},
-        neutral = {},
-        negative = {};
+    if (basicData != null) {
+        var years = {},
+            positive = {},
+            neutral = {},
+            negative = {};
 
-    for (var i=0; i<basicData['json'].length; i++) {
-      var year = basicData['json'][i].date.substring(0, 4);
+        for (var i=0; i<basicData['json'].length; i++) {
+            var year = basicData['json'][i].date.substring(0, 4);
 
-      if (years[year] === undefined) {
-        years[year] = 1;
-      } else {
-        years[year]++;
-      }
+            if (years[year] === undefined) {
+                years[year] = 1;
+            } else {
+                years[year]++;
+            }
 
-      if (positive[year] === undefined) {
-        positive[year] = 0;
-        neutral[year] = 0;
-        negative[year] = 0;
-      }
+            if (positive[year] === undefined) {
+                positive[year] = 0;
+                neutral[year] = 0;
+                negative[year] = 0;
+            }
 
-      if (basicData['json'][i].sentimentScore < negativeThreshold) {
-        negative[year]++;
-      } else if (basicData['json'][i].sentimentScore > positiveThreshold) {
-        positive[year]++;
-      } else {
-        neutral[year]++;
-      }
-    }
-
-    var minYear = 2000;
-    var maxYear = 1000;
-    for (var key in totalDocDistribution) {
-      // Find years with at least 15 documents
-      if (parseInt(totalDocDistribution[key]) >= 15) {
-        var intYear = parseInt(key);
-        if (intYear < minYear) {
-          minYear = intYear;
+            if (basicData['json'][i].sentimentScore < negativeThreshold) {
+                negative[year]++;
+            } else if (basicData['json'][i].sentimentScore > positiveThreshold) {
+                positive[year]++;
+            } else {
+                neutral[year]++;
+            }
         }
-        if (parseInt(key) > maxYear) {
-          maxYear = intYear;
+
+        var minYear = 2000;
+        var maxYear = 1000;
+        for (var key in totalDocDistribution) {
+            // Find years with at least 15 documents
+            if (parseInt(totalDocDistribution[key]) >= 15) {
+                var intYear = parseInt(key);
+                if (intYear < minYear) {
+                    minYear = intYear;
+                }
+                if (parseInt(key) > maxYear) {
+                    maxYear = intYear;
+                }
+            }
         }
-      }
+        var chartData = [['Year', 'Negative','Neutral','Positive']];
+        for (var i=minYear; i<=maxYear; i++) {
+            var yearStr = i.toString();
+            var value = 0;
+            if (years[yearStr] !== undefined) {
+                value = years[yearStr];
+            }
+            var total = 0;
+            if (totalDocDistribution[yearStr] !== undefined) {
+                total = parseInt(totalDocDistribution[yearStr]);
+            }
+            chartData.push([yearStr,
+                Math.floor(negative[yearStr] / total * 1000)/10,
+                Math.floor(neutral[yearStr] / total * 1000)/10,
+                Math.floor(positive[yearStr] / total * 1000)/10]);
+        }
     }
-    var chartData = [['Year', 'Negative','Neutral','Positive']];
-    for (var i=minYear; i<=maxYear; i++) {
-      var yearStr = i.toString();
-      var value = 0;
-      if (years[yearStr] !== undefined) {
-        value = years[yearStr];
-      }
-      var total = 0;
-      if (totalDocDistribution[yearStr] !== undefined) {
-        total = parseInt(totalDocDistribution[yearStr]);
-      }
-      chartData.push([yearStr,
-        Math.floor(negative[yearStr] / total * 1000)/10,
-        Math.floor(neutral[yearStr] / total * 1000)/10,
-        Math.floor(positive[yearStr] / total * 1000)/10]);
-    }
-  }
-  return chartData;
+    return chartData;
 }
 
 function updateTimeChart() {
 
-  $('.time-chart-tab .searching-progress').show();
+    $('.time-chart-tab .searching-progress').show();
 
-  // Assign dataset from function call
-  var dataSet = timelineData();
-  // Assign array of headers and remove from data
-  var headers = dataSet.shift();
+    // Assign dataset from function call
+    var dataSet = timelineData();
+    // Assign array of headers and remove from data
+    var headers = dataSet.shift();
 
-  // Map all years data to objects in data array
-  var data = dataSet.map(function(obj) {
-    var rObj = {};
-    rObj[headers[0]] = obj[0];
-    rObj[headers[1]] = obj[1];
-    rObj[headers[2]] = obj[2];
-    rObj[headers[3]] = obj[3];
-    return rObj;
-  });
-
-  // Set chart variables
-  var margin = {top: 20, right: 100, bottom: 100, left: 60},
-      container = d3.select('.time-chart'),
-      width = parseInt(container.style('width'))
-          - parseInt(container.style('padding-left'))
-          - parseInt(container.style('padding-right')),
-      width = width - margin.left - margin.right,
-      height = 500 - margin.top - margin.bottom;
-
-  // Set scales and ranges
-  var x = d3.scale.ordinal()
-      .rangeRoundBands([0, width],.1);
-
-  var y = d3.scale.linear()
-      .range([height, 0]);
-
-  var color = d3.scale.ordinal()
-      .range(["#d9534f", "#727272", "#5cb85c"]);
-
-  // Set axes
-  var xAxis = d3.svg.axis()
-      .scale(x)
-      .orient("bottom");
-
-  var yAxis = d3.svg.axis()
-      .scale(y)
-      .orient("left")
-      .tickValues([0, 25, 50, 75, 100]);
-
-  // Define the div for the tooltip
-  var div = d3.select(".time-chart").append("div")
-      .attr("class", "tooltip")
-      .style("opacity", 0);
-
-  // Create svg outer and inner elements
-  var svg = d3.select(".time-chart").append("svg")
-      .attr("class", "time-chart__outer-svg")
-      .attr("width", width + margin.left + margin.right)
-      .attr("height", height + margin.top + margin.bottom)
-      .append("g")
-      .attr("class", "time-chart__inner-g")
-      .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
-
-  // Assign scale domains
-  x.domain(data.map(function(d) { return d.Year; }));
-  y.domain([0, 100]);
-  color.domain(headers.filter(function(d) { return d !== "Year"; }));
-
-  // Bind colors and coordinates to each year/sentiment
-  data.forEach(function(d) {
-    var y0 = 0;
-    d.sentiment = color.domain().map(function(name) {
-      return {
-        name: name,
-        year: d['Year'],
-        y0: y0,
-        y1: y0 += +d[name]
-      };
+    // Map all years data to objects in data array
+    var data = dataSet.map(function(obj) {
+        var rObj = {};
+        rObj[headers[0]] = obj[0];
+        rObj[headers[1]] = obj[1];
+        rObj[headers[2]] = obj[2];
+        rObj[headers[3]] = obj[3];
+        return rObj;
     });
-    d.total = d.sentiment[d.sentiment.length -1].y1;
-  });
+
+    // Set chart variables
+    var margin = {top: 20, right: 100, bottom: 100, left: 60},
+        container = d3.select('.time-chart'),
+        width = parseInt(container.style('width'))
+            - parseInt(container.style('padding-left'))
+            - parseInt(container.style('padding-right')),
+        width = width - margin.left - margin.right,
+        height = 500 - margin.top - margin.bottom;
+
+    // Set scales and ranges
+    var x = d3.scale.ordinal()
+        .rangeRoundBands([0, width],.1);
+
+    var y = d3.scale.linear()
+        .range([height, 0]);
+
+    var color = d3.scale.ordinal()
+        .range(["#d9534f", "#727272", "#5cb85c"]);
+
+    // Set axes
+    var xAxis = d3.svg.axis()
+        .scale(x)
+        .orient("bottom");
+
+    var yAxis = d3.svg.axis()
+        .scale(y)
+        .orient("left")
+        .tickValues([0, 25, 50, 75, 100]);
+
+    // Define the div for the tooltip
+    var div = d3.select(".time-chart").append("div")
+        .attr("class", "tooltip")
+        .style("opacity", 0);
+
+    // Create svg outer and inner elements
+    var svg = d3.select(".time-chart").append("svg")
+        .attr("class", "time-chart__outer-svg")
+        .attr("width", width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom)
+        .append("g")
+        .attr("class", "time-chart__inner-g")
+        .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+    // Assign scale domains
+    x.domain(data.map(function(d) { return d.Year; }));
+    y.domain([0, 100]);
+    color.domain(headers.filter(function(d) { return d !== "Year"; }));
+
+    // Bind colors and coordinates to each year/sentiment
+    data.forEach(function(d) {
+        var y0 = 0;
+        d.sentiment = color.domain().map(function(name) {
+            return {
+                name: name,
+                year: d['Year'],
+                y0: y0,
+                y1: y0 += +d[name]
+            };
+        });
+        d.total = d.sentiment[d.sentiment.length -1].y1;
+    });
 
 
-  svg.append("g")
-      .attr("class", "x axis")
-      .attr("transform", "translate(0," + height + ")")
-      .call(xAxis)
-    .selectAll("text")
-      .filter(function(d) { return typeof(d) == "string"; })
-      .style("cursor", "pointer")
-      .on("click", function(d) {
-        document.location.href = "search?query=&fromYear="+ d + "&toYear=" + d;
-      })
-      .style("text-anchor", "end")
-      .attr("dx", "-.8em")
-      .attr("dy", ".15em")
-      .attr("transform", "rotate(-65)");
-
-  svg.append("text")
-      .attr("class", "x label")
-      .attr("text-anchor", "end")
-      .attr("x", width/2)
-      .attr("y", height + margin.bottom - 15)
-      .attr("dy", ".71em")
-      .text("Year");
-
-  svg.append("g")
-      .attr("class", "y axis")
-      .call(yAxis);
-
-  svg.append("text")
-      .attr("class", "y label")
-      .attr("transform", "rotate(-90)")
-      .attr("y", "-60")
-      .attr("x", "-60")
-      .attr("dy", ".71em")
-      .style("text-anchor", "end")
-      .text("Percentage out of all documents");
-
-  var year = svg.selectAll(".year")
-      .data(data)
-      .enter().append("g")
-      .attr("class", function(d) { return "time-chart__year " + d.Year; })
-      .attr("transform", function(d) { return "translate(" + x(d.Year) + ",0)"; });
-
-  year.selectAll("rect")
-      .data(function(d) { return d.sentiment; })
-      .enter()
-      .append("a")
-      .attr("class", function(d) { return "time-chart__bar--" + d.name.toLowerCase(); })
-      .attr("xlink:href", function(d) {
-        return "search?query=&fromYear="+ d.year + "&toYear=" + d.year + "&sentiment=" + d.name.toLowerCase();
-      })
-      .attr("data-toggle", "tooltip")
-      .attr("data-placement", "right")
-      .attr("title", function(d) {
-        var sentPercent = parseFloat(d.y1 - d.y0).toFixed(1);
-        return d.year + "</br>" + d.name + ": " + (sentPercent % 1 === 0 ? parseInt(sentPercent) : sentPercent);
+    svg.append("g")
+        .attr("class", "x axis")
+        .attr("transform", "translate(0," + height + ")")
+        .call(xAxis)
+      .selectAll("text")
+        .filter(function(d) { return typeof(d) == "string"; })
+        .style("cursor", "pointer")
+        .on("click", function(d) {
+          document.location.href = "search?query=&fromYear="+ d + "&toYear=" + d;
         })
-      .append("rect")
-      .attr("class", function(d) { return "time-chart__bar--" + d.name.toLowerCase(); })
-      .attr("width", x.rangeBand())
-      .attr("y", function(d) { return y(d.y1); })
-      .attr("height", function(d) { return y(d.y0) - y(d.y1); })
-      .style("fill", function(d) { return color(d.name); });
+        .style("text-anchor", "end")
+        .attr("dx", "-.8em")
+        .attr("dy", ".15em")
+        .attr("transform", "rotate(-65)");
 
-  var legend = svg.selectAll(".legend")
-      .data(color.domain().slice().reverse())
-      .enter().append("g")
-      .attr("class", "legend")
-      .attr("transform", function(d, i) { return "translate(0," + i * 20 + ")"; });
+    svg.append("text")
+        .attr("class", "x label")
+        .attr("text-anchor", "end")
+        .attr("x", width/2)
+        .attr("y", height + margin.bottom - 15)
+        .attr("dy", ".71em")
+        .text("Year");
 
-  legend.append("rect")
-      .attr("x", width + margin.right - 14)
-      .attr("width", 18)
-      .attr("height", 18)
-      .style("fill", color);
+    svg.append("g")
+        .attr("class", "y axis")
+        .call(yAxis);
 
-  legend.append("text")
-      .attr("x", width + margin.right - 20)
-      .attr("y", 9)
-      .attr("dy", ".35em")
-      .style("text-anchor", "end")
-      .text(function(d) { return d; });
+    svg.append("text")
+        .attr("class", "y label")
+        .attr("transform", "rotate(-90)")
+        .attr("y", "-60")
+        .attr("x", "-60")
+        .attr("dy", ".71em")
+        .style("text-anchor", "end")
+        .text("Percentage out of all documents");
 
-  timeChartNeedsUpdate = false;
+    var year = svg.selectAll(".year")
+        .data(data)
+        .enter().append("g")
+        .attr("class", function(d) { return "time-chart__year " + d.Year; })
+        .attr("transform", function(d) { return "translate(" + x(d.Year) + ",0)"; });
 
-  $('.time-chart-tab .searching-progress').hide();
+    year.selectAll("rect")
+        .data(function(d) { return d.sentiment; })
+        .enter()
+        .append("a")
+        .attr("class", function(d) { return "time-chart__bar--" + d.name.toLowerCase(); })
+        .attr("xlink:href", function(d) {
+            return "search?query=&fromYear="+ d.year + "&toYear=" + d.year + "&sentiment=" + d.name.toLowerCase();
+        })
+        .attr("data-toggle", "tooltip")
+        .attr("data-placement", "right")
+        .attr("title", function(d) {
+            var sentPercent = parseFloat(d.y1 - d.y0).toFixed(1);
+            return d.year + "</br>" + d.name + ": " + (sentPercent % 1 === 0 ? parseInt(sentPercent) : sentPercent);
+          })
+        .append("rect")
+        .attr("class", function(d) { return "time-chart__bar--" + d.name.toLowerCase(); })
+        .attr("width", x.rangeBand())
+        .attr("y", function(d) { return y(d.y1); })
+        .attr("height", function(d) { return y(d.y0) - y(d.y1); })
+        .style("fill", function(d) { return color(d.name); });
 
-  // Initialize bootstrap tooltip API
-  $(function () {
-    $('[data-toggle="tooltip"]').tooltip({
-      'container': 'body',
-      'html': true,
-      'template': '<div class="tooltip timechart__tooltip" role="tooltip">' +
-        '<div class="tooltip-arrow timechart__tooltip-arrow"></div>' +
-        '<div class="tooltip-inner timechart__tooltip-inner"></div>' +
-        '</div>'
-    })
-  });
+    var legend = svg.selectAll(".legend")
+        .data(color.domain().slice().reverse())
+        .enter().append("g")
+        .attr("class", "legend")
+        .attr("transform", function(d, i) { return "translate(0," + i * 20 + ")"; });
 
+    legend.append("rect")
+        .attr("x", width + margin.right - 14)
+        .attr("width", 18)
+        .attr("height", 18)
+        .style("fill", color);
+
+    legend.append("text")
+        .attr("x", width + margin.right - 20)
+        .attr("y", 9)
+        .attr("dy", ".35em")
+        .style("text-anchor", "end")
+        .text(function(d) { return d; });
+
+    timeChartNeedsUpdate = false;
+
+    $('.time-chart-tab .searching-progress').hide();
+
+    // Initialize bootstrap tooltip API
+    $(function () {
+        $('[data-toggle="tooltip"]').tooltip({
+            'container': 'body',
+            'html': true,
+            'template': '<div class="tooltip timechart__tooltip" role="tooltip">' +
+                '<div class="tooltip-arrow timechart__tooltip-arrow"></div>' +
+                '<div class="tooltip-inner timechart__tooltip-inner"></div>' +
+                '</div>'
+        })
+    });
 }
 
 // Invoked when new basic data is downloaded
