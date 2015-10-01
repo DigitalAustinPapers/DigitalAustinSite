@@ -3,13 +3,13 @@
  */
 
 // Global data
-var basicData = null;
-var chartData = null;
-var cityData = null;
-var sortKey = 'date';
-var positiveThreshold = 2.0;
-var negativeThreshold = -2.0;
-var resultsListItems = null;
+var basicData = null,
+    chartData = null,
+    cityData = null,
+    sortKey = 'date',
+    positiveThreshold = 2.0,
+    negativeThreshold = -2.0,
+    resultsListItems = null;
 // placeIdToNames and personIdToNames are declared in the search template
 
 /*  Changes the content to match the current query
@@ -77,12 +77,11 @@ function stringifyUrlQuery() {
 
 // Start data requests for the current view if necessary.
 function requestData() {
-    console.log("RequestData called");
-    var waitingForData = false;
-    // document.getElementById('content').innerHTML = "Loading...";
-
     // Build the GET params
-    var getParams = stringifyUrlQuery();
+    var getParams = stringifyUrlQuery(),
+        humanQueryString = "";
+
+    console.log("RequestData called");
 
     // Update browser URL
     window.history.pushState({path:getParams},'', location.origin + location.pathname + getParams);
@@ -91,7 +90,6 @@ function requestData() {
     ga('send', 'event', 'search', 'submit', getParams);
 
     // Create the search summary HTML
-    var humanQueryString = "";
     if(document.getElementById('query').value) {
         humanQueryString = "text: <b>"+document.getElementById('query').value+"</b>";
     }
@@ -123,45 +121,27 @@ function requestData() {
     if(humanQueryString == "") {
         humanQueryString = "all results.";
     }
-        document.getElementById('humanQuery').innerHTML = humanQueryString;
-
+    document.getElementById('humanQuery').innerHTML = humanQueryString;
 
     // Request new basic search data
-    if (true) {
-        var url = 'search_results.php';
-        $.getJSON(url + getParams, function(json) {
-            $(document).trigger("basicDataLoaded", [json]);
-        });
-        waitingForData = true;
-    }
+    $.getJSON('search_results.php' + getParams, function (json) {
+        $(document).trigger("basicDataLoaded", [json]);
+    });
 
     // Request new chart data only if it's being listened for
-    if (true) {
-        var url = 'data/cloud.php';
-        $.getJSON(url + getParams, function(json) {
-            $(document).trigger("chartDataLoaded", [json]);
-        });
-        waitingForData = true;
-    }
+    $.getJSON('data/cloud.php' + getParams, function (json) {
+        $(document).trigger("chartDataLoaded", [json]);
+    });
 
     // Request new city data only if it's being listened for
-    if (true) {
-        var url = 'data/cities.php';
-        $.getJSON(url + getParams, function(json) {
-            $(document).trigger("cityDataLoaded", [json]);
-        });
-        waitingForData = true;
-    }
+    $.getJSON('data/cities.php' + getParams, function (json) {
+        $(document).trigger("cityDataLoaded", [json]);
+    });
 
     // Request new network
-    if (true) {
-        var url = 'data/network.php';
-        $.getJSON(url + getParams, function(json) {
-            $(document).trigger("networkDataLoaded", [json]);
-        });
-        waitingForData = true;
-    }
-    return waitingForData;
+    $.getJSON('data/network.php' + getParams, function (json) {
+        $(document).trigger("networkDataLoaded", [json]);
+    });
 }
 
 /*
@@ -170,7 +150,7 @@ function requestData() {
 
 var paging = $(".pagination").paging(0, pagingOpts);
 
-// Paging options are declared in paging.js and overridden here
+// Paging options are first declared in paging.js and overridden here
 paging.setOptions({perpage: 20});
 paging.setOptions({onSelect: function(page) {
     updatePage(this.slice);
@@ -179,13 +159,12 @@ paging.setOptions({onSelect: function(page) {
 }});
 
 function updateDocuments() {
-    var docList = $('search-results-list');
-    var progressBar = $('.documents-tab .searching-progress');
-    var sorter = $('.documents-tab .search-results__sort');
-    var NatLangString;
-    var resultsCount = basicData['json'].length;
+    var docList = $('search-results-list'),
+        progressBar = $('.documents-tab .searching-progress'),
+        sorter = $('.documents-tab .search-results__sort'),
+        resultsCount = basicData['json'].length;
 
-    // Remove existing sorter, results, and pager
+    // Remove existing sorter, results, and pager. show progress bar
     docList.hide();
     progressBar.show();
     sorter.hide();
@@ -235,8 +214,8 @@ $('input:radio[name=sort]').on('click', function(e) {
 // because thresholds are defined in the javascript.
 function updateSentiment() {
     $('.search-result-list__item-sentiment-score').each(function() {
-        var $sentimentElement = $(this);
-        var $score = $sentimentElement.attr('data-sentiment');
+        var $sentimentElement = $(this),
+            $score = $sentimentElement.attr('data-sentiment');
 
         if ($score < negativeThreshold) {
             $sentimentElement.addClass('sentiment-negative');
@@ -258,10 +237,9 @@ function updatePage(pageSlice) {
      *     The start and end values to slice the page
      */
 
-    var listId = $('#documentsList');
-    //var newList = $(resultsListItems).filter('li');
+    var listId = $('#documentsList'),
+        newPage = basicData['html'].slice(pageSlice[0], pageSlice[1]);
 
-    var newPage = basicData['html'].slice(pageSlice[0], pageSlice[1]);
     listId.empty()
         .append(newPage)
         .first().attr('start', pageSlice[0]+1);
@@ -271,11 +249,11 @@ function updatePage(pageSlice) {
   Geographic tab
  */
 
-var mapIsSetup = false;
-var map;
-var markers = [];
-var lines = [];
-var infoWindows = [];
+var mapIsSetup = false,
+    map,
+    markers = [],
+    lines = [],
+    infoWindows = [];
 
 // Load Maps API package
 google.load("maps", "3", {other_params:'sensor=false'});
@@ -350,8 +328,9 @@ function searchCity(id, direction) {
 //Given an r, g, b, returns a string representing a color in html
 //Borrowed from the internet
 function rgbToHtml(r, g, b) {
-    var decColor = r + 256 * g + 65536 * b;
-    var str = decColor.toString(16);
+    var decColor = r + 256 * g + 65536 * b,
+        str = decColor.toString(16);
+
     while (str.length < 6) {
         str = '0' + str;
     }
@@ -376,39 +355,44 @@ function rgbToHtml(r, g, b) {
 //
 //Reference http://en.wikipedia.org/wiki/B%C3%A9zier_curve
 function drawCurve(map, startLatLng, endLatLng, curvyness) {
-    var projection = map.getProjection();
-    var p0 = projection.fromLatLngToPoint(startLatLng);
-    var p2 = projection.fromLatLngToPoint(endLatLng);
-    var xDiff = p2.x-p0.x;
-    var yDiff = p2.y-p0.y;
-    var dist = Math.sqrt(Math.pow(xDiff, 2) + Math.pow(yDiff, 2));
-    dist *= curvyness;
-    var angle = Math.atan2(yDiff, xDiff) + Math.PI/2;
-    var mid = new google.maps.Point((p0.x+p2.x)/2, (p0.y+p2.y)/2);
-    var p1 = new google.maps.Point(mid.x + dist * Math.cos(angle),
-        mid.y + dist*Math.sin(angle));
+    var projection = map.getProjection(),
+        p0 = projection.fromLatLngToPoint(startLatLng),
+        p2 = projection.fromLatLngToPoint(endLatLng),
+        xDiff = p2.x-p0.x,
+        yDiff = p2.y-p0.y,
+        dist = Math.sqrt(Math.pow(xDiff, 2) + Math.pow(yDiff, 2));
 
-    var SEGMENTS = 10;
-    var prevLatLng;
-    var currentLatLng;
-    var first = true;
+    dist *= curvyness;
+
+    var angle = Math.atan2(yDiff, xDiff) + Math.PI/2,
+        mid = new google.maps.Point((p0.x+p2.x)/2, (p0.y+p2.y)/2),
+        p1 = new google.maps.Point(mid.x + dist * Math.cos(angle),
+            mid.y + dist*Math.sin(angle)),
+        SEGMENTS = 10,
+        prevLatLng,
+        currentLatLng,
+        first = true;
+
     for (var i = 0; i <= SEGMENTS; i += 1) {
-        var t = i / SEGMENTS;
-        var x = Math.pow(1 - t, 2) * p0.x + 2 * (1 - t) * t * p1.x
-            + Math.pow(t, 2) * p2.x;
-        var y = Math.pow(1 - t, 2) * p0.y + 2 * (1 - t) * t * p1.y
-            + Math.pow(t, 2) * p2.y;
+        var t = i / SEGMENTS,
+            x = Math.pow(1 - t, 2) * p0.x + 2 * (1 - t) * t * p1.x
+                + Math.pow(t, 2) * p2.x,
+            y = Math.pow(1 - t, 2) * p0.y + 2 * (1 - t) * t * p1.y
+                + Math.pow(t, 2) * p2.y;
+
         currentLatLng = projection.fromPointToLatLng(new google.maps.Point(x, y));
+
         if (!first) {
             var r = Math.floor(255*t);
-            var color = rgbToHtml(r, 0, 255 - r);
-            var coords = [prevLatLng, currentLatLng];
-            var line = new google.maps.Polyline({
-                path: coords,
-                strokeColor: color,
-                strokeOpacity: 0.1 + 0.4 * Math.abs(t - 0.5),
-                strokeWeight: 5
-            });
+                color = rgbToHtml(r, 0, 255 - r),
+                coords = [prevLatLng, currentLatLng],
+                line = new google.maps.Polyline({
+                    path: coords,
+                    strokeColor: color,
+                    strokeOpacity: 0.1 + 0.4 * Math.abs(t - 0.5),
+                    strokeWeight: 5
+                });
+
             line.setMap(map);
             lines.push(line);
         }
@@ -416,10 +400,13 @@ function drawCurve(map, startLatLng, endLatLng, curvyness) {
         first = false;
     }
 }
+
 function redrawAllCurves() {
     // Clear existing
-    for (var i=0; i<lines.length; i++)
+    for (var i=0; i<lines.length; i++) {
         lines[i].setMap(null);
+    }
+
     lines = [];
 
     for (var i=0; i<basicData['json'].length; i++) {
@@ -433,6 +420,7 @@ function redrawAllCurves() {
         }
     }
 }
+
 function redrawMarkers() {
     console.log("RedrawMarkers called.");
     if (cityData == null) {
@@ -440,10 +428,12 @@ function redrawMarkers() {
         console.log(cityData);
         return;
     }
+
     //Clear all existing markers.
     for (var i=0; i<markers.length; i++) {
         markers[i].setMap(null);
     }
+
     markers = [];
     infoWindows = [];
 
@@ -452,8 +442,7 @@ function redrawMarkers() {
     if (map.getZoom() > 7) {
         //If we are zoomed in really close, show them all
         maxMarkers = cityData.length;
-    }
-    else {
+    } else {
         //Otherwise just show the first few (which are the ones with
         //the most traffic)
         maxMarkers = Math.min(cityData.length,
@@ -462,15 +451,16 @@ function redrawMarkers() {
 
     //Add the markers
     for (i = 0; i < maxMarkers; i++) {
-        var city = cityData[i];
-        var marker = new google.maps.Marker({
-            position: new google.maps.LatLng(city['lat'], city['lng']),
-            map: map,
-            title: city['name']
-        });
-        var onClickFunction = function() {
+        var city = cityData[i],
+            marker = new google.maps.Marker({
+                position: new google.maps.LatLng(city['lat'], city['lng']),
+                map: map,
+                title: city['name']
+            }),
+            onClickFunction = function() {
             cityClicked(arguments.callee.markerIndex);
         };
+
         onClickFunction.markerIndex = i;
         google.maps.event.addListener(marker, 'click', onClickFunction);
         markers.push(marker);
@@ -632,6 +622,7 @@ function wordChart(dataset, divId) {
 var timeChart;
 var timeChartNeedsUpdate = true;
 
+// Convert basicData so it's usable by D3
 function timelineData() {
     if (basicData != null) {
         var years = {},
@@ -663,8 +654,9 @@ function timelineData() {
             }
         }
 
-        var minYear = 2000;
-        var maxYear = 1000;
+        var minYear = 2000,
+            maxYear = 1000;
+
         for (var key in totalDocDistribution) {
             // Find years with at least 15 documents
             if (parseInt(totalDocDistribution[key]) >= 15) {
@@ -677,10 +669,13 @@ function timelineData() {
                 }
             }
         }
+
         var chartData = [['Year', 'Negative','Neutral','Positive']];
+
         for (var i=minYear; i<=maxYear; i++) {
-            var yearStr = i.toString();
-            var value = 0;
+            var yearStr = i.toString(),
+                value = 0;
+
             if (years[yearStr] !== undefined) {
                 value = years[yearStr];
             }
@@ -699,6 +694,7 @@ function timelineData() {
 
 function updateTimeChart() {
 
+    $('.time-chart__outer-svg').remove();
     $('.time-chart-tab .searching-progress').show();
 
     // Assign dataset from function call
@@ -778,7 +774,7 @@ function updateTimeChart() {
         d.total = d.sentiment[d.sentiment.length -1].y1;
     });
 
-
+    // add x axis labels with links to search
     svg.append("g")
         .attr("class", "x axis")
         .attr("transform", "translate(0," + height + ")")
@@ -794,6 +790,7 @@ function updateTimeChart() {
         .attr("dy", ".15em")
         .attr("transform", "rotate(-65)");
 
+    // add x axis label
     svg.append("text")
         .attr("class", "x label")
         .attr("text-anchor", "end")
@@ -802,10 +799,12 @@ function updateTimeChart() {
         .attr("dy", ".71em")
         .text("Year");
 
+    // add y axis
     svg.append("g")
         .attr("class", "y axis")
         .call(yAxis);
 
+    // add y axis label
     svg.append("text")
         .attr("class", "y label")
         .attr("transform", "rotate(-90)")
@@ -815,12 +814,14 @@ function updateTimeChart() {
         .style("text-anchor", "end")
         .text("Percentage out of all documents");
 
+    // add g element for each year's bars
     var year = svg.selectAll(".year")
         .data(data)
         .enter().append("g")
         .attr("class", function(d) { return "time-chart__year " + d.Year; })
         .attr("transform", function(d) { return "translate(" + x(d.Year) + ",0)"; });
 
+    // add rect elements with sentiment bars and links to new searches
     year.selectAll("rect")
         .data(function(d) { return d.sentiment; })
         .enter()
@@ -848,12 +849,14 @@ function updateTimeChart() {
         .attr("class", "legend")
         .attr("transform", function(d, i) { return "translate(0," + i * 20 + ")"; });
 
+    // add legend colors
     legend.append("rect")
         .attr("x", width + margin.right - 14)
         .attr("width", 18)
         .attr("height", 18)
         .style("fill", color);
 
+    // add legend text
     legend.append("text")
         .attr("x", width + margin.right - 20)
         .attr("y", 9)
@@ -865,7 +868,7 @@ function updateTimeChart() {
 
     $('.time-chart-tab .searching-progress').hide();
 
-    // Initialize bootstrap tooltip API
+    // Initialize bootstrap tooltip API for hover tooltips
     $(function () {
         $('[data-toggle="tooltip"]').tooltip({
             'container': 'body',
@@ -883,7 +886,6 @@ $(document).on("basicDataLoaded", function(e, data) {
     if (data != null) {
         timeChartNeedsUpdate = true;
         if ($("#tab-timeline").css('display') != "none") {
-            $('.time-chart__outer-svg').remove();
             updateTimeChart();
         }
     }
@@ -903,8 +905,7 @@ $('a[data-toggle="tab"]').on("shown.bs.tab", function(e) {
         case '#tab-geographic':
             if (mapIsSetup !== true) {
                 setupMap();
-            }
-            else if (mapNeedsRerender) {
+            } else if (mapNeedsRerender) {
                 redrawAllCurves();
                 redrawMarkers();
             }

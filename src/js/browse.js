@@ -4,17 +4,17 @@
 
 function expandAll(button) {
     button.html('Collapse all').attr('data-state', 'expanded');
-    $('#browse-results .collapse').each(function() {
+    $('#browse-results').find('.collapse').each(function() {
         $(this).collapse('show');
-        $('#browse-results .glyphicon-plus').addClass('glyphicon-minus').removeClass('glyphicon-plus');
+        $('#browse-results').find('.glyphicon-plus').addClass('glyphicon-minus').removeClass('glyphicon-plus');
     });
 }
 
 function collapseAll(button) {
     button.html('Expand all').attr('data-state', 'collapsed');
-    $('#browse-results .collapse').each(function() {
+    $('#browse-results').find('.collapse').each(function() {
         $(this).collapse('hide');
-        $('#browse-results .glyphicon-minus').addClass('glyphicon-plus').removeClass('glyphicon-minus');
+        $('#browse-results').find('.glyphicon-minus').addClass('glyphicon-plus').removeClass('glyphicon-minus');
     });
 }
 
@@ -75,7 +75,7 @@ $('.jumplist').removeClass('hidden');
 // Selector for list to be populated with paginated results
 var listId = $('#browse-results');
 // Selector for list content to be paginated
-var categorizedResults = $('#browse-results > li');
+var categorizedResults = listId.find('> li');
 
 pagingOpts['onSelect'] = function(page) {
     updatePage(listId, categorizedResults, this.slice);
