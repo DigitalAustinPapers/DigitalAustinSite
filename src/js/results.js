@@ -121,6 +121,8 @@ function requestData() {
     if(humanQueryString == "") {
         humanQueryString = "all results.";
     }
+
+    // Reveal results summary
     document.getElementById('humanQuery').innerHTML = humanQueryString;
 
     // Request new basic search data
@@ -172,7 +174,7 @@ function updateDocuments() {
     // Fill in search summary
     $('#resultsCount').text(resultsCount);
     $('#totalDocsCount').text(totalDocsCount);
-    $('.search-results__results-summary').removeClass('invisible');
+    $('.search-results__results-summary').slideDown();
 
     if(resultsCount === 1) {
         document.getElementById('resultsPlural').innerHTML = "result";

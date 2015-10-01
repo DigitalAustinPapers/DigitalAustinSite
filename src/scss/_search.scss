@@ -23,6 +23,7 @@
 .search-results__results-summary {
   @extend .alert;
 
+  display: none;
   transition-property: background-color, border-color, color;
   transition-duration: 2s;
   transition-timing-function: ease-out;
