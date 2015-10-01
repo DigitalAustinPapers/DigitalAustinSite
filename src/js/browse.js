@@ -43,16 +43,16 @@ $(document).on('click', '.browse-list__category-header > a', function() {
 //
 var jumpMap = {},
     count = 0,
-    prev,
-    curr;
+    $prev,
+    $curr;
 
 $('.browse-list__category').each(function() {
-    curr = $(this).attr('data-sort-letter');
+    $curr = $(this).attr('data-sort-letter');
     count += 1;
-    if (curr != prev) {
-        jumpMap[curr] = count;
+    if ($curr != $prev) {
+        jumpMap[$curr] = count;
     }
-    prev = curr;
+    $prev = $curr;
 });
 
 $('.jumplist__item').each(function() {
@@ -60,7 +60,7 @@ $('.jumplist__item').each(function() {
         $(this).css('display', 'none');
     }
 }).on('click', function() {
-    paging.setPage(Math.ceil(jumpMap[$(this).attr('data-sort-letter')] / $('.browse-list__category').length));
+    $paging.setPage(Math.ceil(jumpMap[$(this).attr('data-sort-letter')] / $('.browse-list__category').length));
     $('.jumplist').find('.active').removeClass('active');
     $(this).addClass('active');
     return false;
@@ -73,18 +73,18 @@ $('.jumplist').removeClass('hidden');
  */
 
 // Selector for list to be populated with paginated results
-var listId = $('#browse-results');
+var $listId = $('#browse-results');
 // Selector for list content to be paginated
-var categorizedResults = listId.find('> li');
+var $categorizedResults = $listId.find('> li');
 
 pagingOpts['onSelect'] = function(page) {
-    updatePage(listId, categorizedResults, this.slice);
+    updatePage($listId, $categorizedResults, this.slice);
     showPager(this.pages);
 };
 
-var paging = $(".pagination").paging(totalHeadings, pagingOpts);
-paging.setOptions({onSelect: function(page) {
-    updatePage(listId, categorizedResults, this.slice);
+var $paging = $(".pagination").paging(totalHeadings, pagingOpts);
+$paging.setOptions({onSelect: function(page) {
+    updatePage($listId, $categorizedResults, this.slice);
     showPager(this.pages);
 }});
 

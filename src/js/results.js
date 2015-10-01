@@ -150,51 +150,51 @@ function requestData() {
   Document tab
  */
 
-var paging = $(".pagination").paging(0, pagingOpts);
+var $paging = $(".pagination").paging(0, pagingOpts);
 
 // Paging options are first declared in paging.js and overridden here
-paging.setOptions({perpage: 20});
-paging.setOptions({onSelect: function(page) {
+$paging.setOptions({perpage: 20});
+$paging.setOptions({onSelect: function(page) {
     updatePage(this.slice);
     updateSentiment();
     showPager(this.pages);
 }});
 
 function updateDocuments() {
-    var docList = $('search-results-list'),
-        progressBar = $('.documents-tab .searching-progress'),
-        sorter = $('.documents-tab .search-results__sort'),
+    var $docList = $('search-results-list'),
+        $progressBar = $('.documents-tab .searching-progress'),
+        $sorter = $('.documents-tab .search-results__sort'),
+        $resultsSummary = $('.search-results__results-summary'),
         resultsCount = basicData['json'].length;
 
     // Remove existing sorter, results, and pager. show progress bar
-    docList.hide();
-    progressBar.show();
-    sorter.hide();
+    $docList.hide();
+    $progressBar.show();
+    $sorter.hide();
 
     // Fill in search summary
     $('#resultsCount').text(resultsCount);
     $('#totalDocsCount').text(totalDocsCount);
-    $('.search-results__results-summary').slideDown();
+    $resultsSummary.slideDown();
 
     if(resultsCount === 1) {
         document.getElementById('resultsPlural').innerHTML = "result";
     }
 
   // Apply alert class with CSS transition and remove after 2 seconds
-  $('.search-results__results-summary')
-      .addClass('search-results__results-summary--changed').delay(2000).queue(function() {
+  $resultsSummary.addClass('search-results__results-summary--changed').delay(2000).queue(function() {
           $(this).removeClass('search-results__results-summary--changed')
           .dequeue();
   });
 
     // Set number of results in pager
-    paging.setNumber(resultsCount).setPage();
+    $paging.setNumber(resultsCount).setPage();
 
     $('#sort_' + sortKey).prop('checked',true);
 
-    progressBar.hide();
-    docList.show();
-    sorter.show();
+    $progressBar.hide();
+    $docList.show();
+    $sorter.show();
 }
 
 $(document).on("basicDataLoaded", function(e, data) {
@@ -239,10 +239,10 @@ function updatePage(pageSlice) {
      *     The start and end values to slice the page
      */
 
-    var listId = $('#documentsList'),
+    var $listId = $('#documentsList'),
         newPage = basicData['html'].slice(pageSlice[0], pageSlice[1]);
 
-    listId.empty()
+    $listId.empty()
         .append(newPage)
         .first().attr('start', pageSlice[0]+1);
 }
