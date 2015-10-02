@@ -173,8 +173,8 @@ function updateDocuments() {
     $sorter.hide();
 
     // Fill in search summary
-    $('#resultsCount').text(resultsCount);
-    $('#totalDocsCount').text(totalDocsCount);
+    $('#resultsCount').text(addCommas(resultsCount));
+    $('#totalDocsCount').text(addCommas(totalDocsCount));
     $resultsSummary.slideDown();
 
     if(resultsCount === 1) {
@@ -610,7 +610,7 @@ function wordChart(dataset, divId) {
         .attr("y", barHeight / 2)
         .attr("dy", ".35em")
         .text(function (d) {
-            return d.weight;
+            return addCommas(d.weight);
         })
         .attr("x", function (d) {
             return xScale(d.weight) - this.getBBox().width - 2;
@@ -919,3 +919,17 @@ $('a[data-toggle="tab"]').on("shown.bs.tab", function(e) {
             break;
     }
 });
+
+// Add commas to number from http://www.mredkj.com/javascript/nfbasic.html
+function addCommas(nStr)
+{
+    nStr += '';
+    x = nStr.split('.');
+    x1 = x[0];
+    x2 = x.length > 1 ? '.' + x[1] : '';
+    var rgx = /(\d+)(\d{3})/;
+    while (rgx.test(x1)) {
+        x1 = x1.replace(rgx, '$1' + ',' + '$2');
+    }
+    return x1 + x2;
+}

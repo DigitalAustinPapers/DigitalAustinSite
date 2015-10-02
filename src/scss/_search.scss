@@ -30,6 +30,7 @@
   background-color: transparent;
   border-color: transparent;
   color: inherit;
+  margin-bottom: 15px;
 }
 
 .search-results__results-summary--changed {
@@ -70,6 +71,7 @@ input[type="radio"].search-results__sort-radio-input {
 
 .search-results-list {
   color: $text-secondary-color;
+  padding-left: 60px;
 }
 
 .search-results-list__item {
