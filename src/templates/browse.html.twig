@@ -18,7 +18,7 @@
       <li role="presentation" class="{% if cat == browseBy %}active{% endif %}">
         <a href="browse?browseBy={{ cat }}">{{ cat|capitalize }}</a>
         {% if cat == browseBy and browseBy in ['author', 'recipient', 'origin', 'destination'] %}
-          <ul class="nav nav-pills jumplist hidden">
+          <ul class="nav nav-pills jumplist">
             {% for letter in 'a'|upper..'z'|upper %}
               <li class="jumplist__item" role="presentation" data-sort-letter="{{ letter|lower }}"><a href="#">{{ letter }}</a></li>
             {% endfor %}

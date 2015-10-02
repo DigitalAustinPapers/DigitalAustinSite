@@ -1,6 +1,7 @@
 .jumplist {
   padding: .5em 1em;
   font-size: .9em;
+  display: none;
 
   &__item {
     @extend .text-center;

@@ -66,7 +66,7 @@ $('.jumplist__item').each(function() {
     return false;
 });
 
-$('.jumplist').removeClass('hidden');
+$('.jumplist').slideDown(500);
 
 /*
  * Pagination
