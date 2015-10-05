@@ -50,6 +50,12 @@ function getCitation($row) {
   $bibl = $all_bibls->item(0);
   $citeString = $doc->saveXML($bibl);
 
+  $citeString = str_replace('<bibl>', '<div class="document__citation-body">', $citeString);
+  $citeString = str_replace('</bibl>', '</div>', $citeString);
+
+  $citeString = str_replace('<hi rend="italic">', '<span class="document__citation-publication">', $citeString);
+  $citeString = str_replace('</hi>', '</span>', $citeString);
+
   // # now process the body
   // logString($body_node->textContent);
 
