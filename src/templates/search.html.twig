@@ -149,7 +149,7 @@
         $(".search-results-list").each(function() {
           $(this).on("click keyup touchstart", 'a.search-results-list__item-title', function(event) {
             var id = $(this).attr("id");
-            ga('send', 'event', 'search result', 'click', id + ' - ' + stringifyUrlQuery());
+            ga('send', 'event', 'search result', 'click', id + ' ' + stringifyUrlQuery() + ' page:' + $paging.a.page);
           })
         });
       });
