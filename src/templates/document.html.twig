@@ -24,7 +24,7 @@
             </div>
             <div class="col-sm-3 hidden-xs hidden-print">
                 <a class="pull-right document__download" href="https://raw.githubusercontent.com/DigitalAustinPapers/AustinTranscripts/master/teip5_xml/{{ document.id }}.xml"
-                   id="document-download-{{ document.id }}"download>
+                   id="document-download-{{ document.id }}" download>
                   Download XML
                 </a>
             </div>
@@ -59,3 +59,23 @@
 </div><!-- container -->
 
 {% endblock %}
+
+{% block scripts_footer %}
+{{ parent() }}
+
+<script>
+  $(document).ready(function() {
+    // Track downloads through XML download link
+    $(".document__download").on("click keyup touchstart", function(event) {
+      ga('send', 'event', 'download', 'download', $(this).attr("id"))
+    });
+
+    $("a").each(function() {
+      var id = $(this).attr("id");
+      $(this).on("click keyup touchstart", function(event) {
+        ga('send', 'event', 'link', 'click', id);
+      })
+    });
+  });
+</script>
+{% endblock scripts_footer %}
