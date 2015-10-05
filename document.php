@@ -1,7 +1,6 @@
 <?php
 require_once 'src/TemplateRenderer.class.php';
 include_once 'php/database.php';
-include_once 'php/cloud.php';
 
 // Functions
 
@@ -88,12 +87,6 @@ function getLetterBodyNode($row, $doc=null) {
   return $body_node;
 }
 
-function getLetterBodyForCloud($row) {
-  $raw_text = getLetterBodyNode($row)->textContent;
-  $cloud_text = str_replace("\n", " ", $raw_text); #cloud chokes on newlines
-  return $cloud_text;
-}
-
 function getLetterBodyForDisplay($row) {
   $doc = getDocXmlFromRow($row);
   $body_node = getLetterBodyNode($row, $doc);
@@ -178,7 +171,6 @@ function placesMentioned($row){
 connectToDB();
 $result = queryDB();
 $letter_body_display = getLetterBodyForDisplay($result);
-$letter_body_cloud   = cloud(getLetterBodyForCloud($result), 20);
 $citation            = getCitation($result);
 
 $template = new TemplateRenderer();
@@ -186,6 +178,5 @@ $template = new TemplateRenderer();
 print $template->render('document.html.twig', array(
                         'document' => $result,
                         'letter_body_display' => $letter_body_display,
-                        'letter_body_cloud'   => $letter_body_cloud,
                         'citation'            => $citation,
 ));
