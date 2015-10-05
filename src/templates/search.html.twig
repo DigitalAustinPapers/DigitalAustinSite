@@ -160,7 +160,12 @@
             ga('send', 'event', 'search result', 'click', id + ' ' + stringifyUrlQuery() + ' page:' + $paging.a.page);
           })
         });
-      });
+
+        // Bind google analytics event tracking to time chart
+        $(".search-results").on("click keyup touchstart", 'a[class^=time-chart__bar]', function(event) {
+            ga('send', 'event', 'time chart', 'click', $(this).attr("id") + ' ' + stringifyUrlQuery());
+          })
+        });
     </script>
   {% endif %}
 {% endblock %}

@@ -829,6 +829,7 @@ function updateTimeChart() {
         .enter()
         .append("a")
         .attr("class", function(d) { return "time-chart__bar--" + d.name.toLowerCase(); })
+        .attr("id", function(d) { return d.name.toLowerCase() + '-' + d.year; })
         .attr("xlink:href", function(d) {
             return "search?query=&fromYear="+ d.year + "&toYear=" + d.year + "&sentiment=" + d.name.toLowerCase();
         })
