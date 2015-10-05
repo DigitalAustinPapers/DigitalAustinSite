@@ -127,6 +127,7 @@ function transformNames($doc, $body, $tagName) {
       $link = $doc->createElement('a', $reference);
       $link->setAttribute('class', "document__{$tagName}");
       $link->setAttribute('href', "search?query={$search_target}");
+      $link->setAttribute('id', preg_replace('/\W+/', '', $cleaned_reference));
       #			logString($link->textContent);
       $result = $currName->parentNode->replaceChild($link, $currName);
 

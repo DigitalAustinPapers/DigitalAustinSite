@@ -73,7 +73,7 @@
     $("a").each(function() {
       var id = $(this).attr("id");
       $(this).on("click keyup touchstart", function(event) {
-        ga('send', 'event', 'link', 'click', id);
+        ga('send', 'event', 'document', 'click', 'doc-{{ document.id }}-' + id);
       })
     });
   });
