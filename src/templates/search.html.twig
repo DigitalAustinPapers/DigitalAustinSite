@@ -142,5 +142,17 @@
     <script>
       queryChanged();
     </script>
+
+    <script>
+      // Bind google analytics event tracking to search results
+      $(document).ready(function() {
+        $(".search-results-list").each(function() {
+          $(this).on("click keyup touchstart", 'a.search-results-list__item-title', function(event) {
+            var id = $(this).attr("id");
+            ga('send', 'event', 'search result', 'click', id + ' - ' + stringifyUrlQuery());
+          })
+        });
+      });
+    </script>
   {% endif %}
 {% endblock %}
