@@ -151,7 +151,7 @@
           var target = e.target.href.split('#tab-')[1];
           var relatedTarget = e.relatedTarget.href.split('#tab-')[1];
           ga('send', 'event', 'search result tabs', 'change tab', 'to:' + target + ' from:' + relatedTarget);
-        })
+        });
 
         // Bind google analytics event tracking to search results
         $(".search-results-list").each(function() {
