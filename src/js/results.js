@@ -870,6 +870,7 @@ function updateTimeChart() {
     timeChartNeedsUpdate = false;
 
     $('.time-chart-tab .searching-progress').hide();
+    $('.time-chart-tab__description').removeClass('hidden');
 
     // Initialize bootstrap tooltip API for hover tooltips
     $(function () {
