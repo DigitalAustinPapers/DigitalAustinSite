@@ -520,7 +520,7 @@ function wordChart(dataset, divId) {
         width = width - margin.left - margin.right,
         barHeight = 20,
         barPadding = 5,
-        labelSpace = 125, // initial value
+        labelSpace = 150, // initial value
         height = (barHeight + barPadding) * dataSet.length
             - margin.top - margin.bottom;
 
@@ -550,7 +550,8 @@ function wordChart(dataset, divId) {
 
     // Create and append the container for labels
     var labelContainer = chart.append("g")
-        .attr("class", "word-chart__label-container");
+        .attr("class", "word-chart__label-container")
+        .attr("width", labelSpace);
 
     // Add labels to the label container
     labelContainer.selectAll("text")
@@ -569,7 +570,7 @@ function wordChart(dataset, divId) {
         })
         .attr("dy", "1em")
         .text(function (d) {
-            return d.text;
+            return d.text.length < 20 ? d.text : d.text.slice(0, 20) + '...';
         });
 
     // Update labelSpace to widest label
