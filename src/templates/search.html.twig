@@ -164,7 +164,12 @@
         // Bind google analytics event tracking to time chart
         $(".search-results").on("click keyup touchstart", 'a[class^=time-chart__bar]', function(event) {
             ga('send', 'event', 'time chart', 'click', $(this).attr("id") + ' ' + stringifyUrlQuery());
-          })
+          });
+
+        // Bind google analytics event tracking to geography map
+        $(".geographic-chart-tab__map").on("click keyup touchstart", '.geography__city-link', function(event) {
+          ga('send', 'event', 'geography results', 'click', $(this).attr("id") + ' ' + stringifyUrlQuery());
+        });
         });
     </script>
   {% endif %}

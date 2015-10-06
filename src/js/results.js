@@ -469,8 +469,8 @@ function redrawMarkers() {
 
         var contentHtml = "<span class='geography__city-name'>" + city['name'] + "</span><br />"
             + "<b>" + (parseInt(city['incoming']) + parseInt(city['outgoing'])) + " Letters</b><br />"
-            + "<a class='geography__city-link' onClick='searchCity(" + city['id'] + ", &apos;to&apos;)'>" + city['incoming'] + " Incoming Letters</a><br />"
-            + "<a class='geography__city-link' onClick='searchCity(" + city['id'] + ", &apos;from&apos;)'>" + city['outgoing'] + " Outgoing Letters</a>";
+            + "<a class='geography__city-link' id='to-city-" + city['id'] + "' onClick='searchCity(" + city['id'] + ", &apos;to&apos;)'>" + city['incoming'] + " Incoming Letters</a><br />"
+            + "<a class='geography__city-link' id='from-city-" + city['id'] + "' onClick='searchCity(" + city['id'] + ", &apos;from&apos;)'>" + city['outgoing'] + " Outgoing Letters</a>";
 
         var infowindow = new google.maps.InfoWindow({
             content: contentHtml
