@@ -104,3 +104,25 @@ input[type="radio"].search-results__sort-radio-input {
 .tab-content {
   margin-top: 1em;
 }
+
+.geographic-chart-tab__legend {
+  @extend .panel;
+  @extend .panel-default;
+  @extend .panel-body;
+
+  display: inline-block;
+  position: absolute;
+  right: 25px;
+  bottom: 15px;
+  margin-bottom: 0;
+  opacity: .8;
+
+  &-line {
+    width: 100px;
+    height: 5px;
+    display: inline-block;
+    @include gradient-horizontal(red, blue, 0%, 100%);
+    margin: 0 5px;
+    vertical-align: middle;
+  }
+}
