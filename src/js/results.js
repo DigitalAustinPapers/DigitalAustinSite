@@ -774,6 +774,7 @@ function updateTimeChart() {
         .tickValues([0, 25, 50, 75, 100]);
 
     // Define the div for the tooltip
+    // TODO: This may be able to be deleted
     var div = d3.select(".time-chart").append("div")
         .attr("class", "tooltip")
         .style("opacity", 0);
@@ -876,6 +877,7 @@ function updateTimeChart() {
         .attr("height", function(d) { return y(d.y0) - y(d.y1); })
         .style("fill", function(d) { return color(d.name); });
 
+    // create legend element
     var legend = svg.selectAll(".legend")
         .data(color.domain().slice().reverse())
         .enter().append("g")
@@ -915,12 +917,171 @@ function updateTimeChart() {
     });
 }
 
+function updateTimeChartMobile() {
+
+    $('.time-chart__outer-svg').remove();
+    $('.time-chart-tab .searching-progress').show();
+
+    // Assign dataset from function call
+    var dataSet = timelineData();
+    // Assign array of headers and remove from data
+    var headers = dataSet.shift();
+
+    // Map all years data to objects in data array
+    var data = dataSet.map(function(obj) {
+        var rObj = {};
+        rObj[headers[0]] = obj[0];
+        rObj[headers[1]] = obj[1];
+        rObj[headers[2]] = obj[2];
+        rObj[headers[3]] = obj[3];
+        return rObj;
+    });
+
+    // Set chart variables
+    var margin = {top: 20, right: 15, bottom: 125, left: 60},
+        container = d3.select('.time-chart'),
+        width = parseInt(container.style('width'))
+            - parseInt(container.style('padding-left'))
+            - parseInt(container.style('padding-right')),
+        width = width - margin.left - margin.right,
+        height = 750 - margin.top - margin.bottom;
+
+    // Set scales and ranges
+    var x = d3.scale.linear()
+        .range([0, width]);
+
+    var y = d3.scale.ordinal()
+        .rangeRoundBands([0, height], .1);
+
+    var color = d3.scale.ordinal()
+        .range(["#d9534f", "#727272", "#5cb85c"]);
+
+    // Set axes
+    var xAxis = d3.svg.axis()
+        .scale(x)
+        .orient("bottom")
+        .tickValues([0, 25, 50, 75, 100]);
+
+    var yAxis = d3.svg.axis()
+        .scale(y)
+        .orient("left");
+
+    // Create svg outer and inner elements
+    var svg = d3.select(".time-chart").append("svg")
+        .attr("class", "time-chart__outer-svg")
+        .attr("width", width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom)
+        .append("g")
+        .attr("class", "time-chart__inner-g")
+        .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+    // Assign scale domains
+    x.domain([0, 100]);
+    y.domain(data.map(function(d) { return d.Year; }));
+    color.domain(headers.filter(function(d) { return d !== "Year"; }));
+
+    // Bind colors and coordinates to each year/sentiment
+    data.forEach(function(d) {
+        var x0 = 0;
+        d.sentiment = color.domain().map(function(name) {
+            return {
+                name: name,
+                year: d['Year'],
+                x0: x0,
+                x1: x0 += +d[name]
+            };
+        });
+        d.total = d.sentiment[d.sentiment.length -1].x1;
+    });
+
+    // add x axis
+    svg.append("g")
+        .attr("class", "x axis")
+        .attr("transform", "translate(0," + height + ")")
+        .call(xAxis);
+
+    // add x axis label
+    svg.append("text")
+        .attr("class", "x label")
+        .attr("text-anchor", "middle")
+        .attr("x", width/2)
+        .attr("y", height + margin.bottom - 90)
+        .attr("dy", ".71em")
+        .text("Percentage out of all documents");
+
+    // add y axis labels with links to search
+    svg.append("g")
+        .attr("class", "y axis")
+        .call(yAxis)
+        .selectAll("text")
+        .filter(function(d) { return typeof(d) == "string"; })
+        .style("cursor", "pointer")
+        .on("click", function(d) {
+            document.location.href = "search?query=&fromYear="+ d + "&toYear=" + d;
+        });
+
+    // add g element for each year's bars
+    var year = svg.selectAll(".year")
+        .data(data)
+        .enter().append("g")
+        .attr("class", function(d) { return "time-chart__year " + d.Year; })
+        .attr("transform", function(d) { return "translate(0," + y(d.Year) + ")"; });
+
+    // add rect elements with sentiment bars and links to new searches
+    year.selectAll("rect")
+        .data(function(d) { return d.sentiment; })
+        .enter()
+        .append("a")
+        .attr("class", function(d) { return "time-chart__bar--" + d.name.toLowerCase(); })
+        .attr("id", function(d) { return d.name.toLowerCase() + '-' + d.year; })
+        .attr("xlink:href", function(d) {
+            return "search?query=&fromYear="+ d.year + "&toYear=" + d.year + "&sentiment=" + d.name.toLowerCase();
+        })
+        .append("rect")
+        .attr("class", function(d) { return "time-chart__bar--" + d.name.toLowerCase(); })
+        .attr("height", y.rangeBand())
+        .attr("x", function(d) { return x(d.x0); })
+        .attr("width", function(d) { return x(d.x1) - x(d.x0); })
+        .style("fill", function(d) { return color(d.name); });
+
+    // create legend element
+    var legend = svg.selectAll(".legend")
+        .data(color.domain().slice().reverse())
+        .enter().append("g")
+        .attr("class", "legend")
+        .attr("transform", function(d, i) { return "translate(0," + ((height + 60)+ i * 20) + ")"; });
+
+    // add legend colors
+    legend.append("rect")
+        .attr("x", width + margin.right - 14)
+        .attr("width", 18)
+        .attr("height", 18)
+        .style("fill", color);
+
+    // add legend text
+    legend.append("text")
+        .attr("x", width + margin.right - 20)
+        .attr("y", 9)
+        .attr("dy", ".35em")
+        .style("text-anchor", "end")
+        .text(function(d) { return d; });
+
+    timeChartNeedsUpdate = false;
+
+    $('.time-chart-tab .searching-progress').hide();
+    $('.time-chart-tab__description').removeClass('hidden');
+}
+
 // Invoked when new basic data is downloaded
 $(document).on("basicDataLoaded", function(e, data) {
     if (data != null) {
         timeChartNeedsUpdate = true;
         if ($("#tab-timeline").css('display') != "none") {
-            updateTimeChart();
+            if ($(window).width() < 768) {
+                updateTimeChartMobile();
+            } else {
+                updateTimeChart();
+            }
         }
     }
 });
@@ -933,7 +1094,11 @@ $('a[data-toggle="tab"]').on("shown.bs.tab", function(e) {
             break;
         case '#tab-timeline':
             if (timeChartNeedsUpdate) {
-                updateTimeChart();
+                if ($(window).width() < 768) {
+                    updateTimeChartMobile();
+                } else {
+                    updateTimeChart();
+                }
             }
             break;
         case '#tab-geographic':
