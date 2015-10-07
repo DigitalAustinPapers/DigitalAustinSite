@@ -521,6 +521,7 @@ function wordChart(dataset, divId) {
         barHeight = 20,
         barPadding = 5,
         labelSpace = 150, // initial value
+        truncateLength = 20, // max label letters before truncation
         height = (barHeight + barPadding) * dataSet.length
             - margin.top - margin.bottom;
 
@@ -562,6 +563,22 @@ function wordChart(dataset, divId) {
         .attr("xlink:href", function(d) {
             return d.link;
         })
+        .attr("data-toggle", function(d) {
+            if (d.text.length > truncateLength) {
+                return "tooltip";
+            }
+        })
+        .attr("data-placement", function(d) {
+            if (d.text.length > truncateLength) {
+                return "right";
+            }
+        })
+        .attr("title", function(d) {
+            return d.text;
+        })
+        .attr("data-ga-event", function(d) {
+            return d.text;
+        })
         .append("text")
         .attr("class", "word-chart__label-text")
         .attr("transform", function (d, i) {
@@ -570,7 +587,7 @@ function wordChart(dataset, divId) {
         })
         .attr("dy", "1em")
         .text(function (d) {
-            return d.text.length < 20 ? d.text : d.text.slice(0, 20) + '...';
+            return d.text.length <= truncateLength ? d.text : d.text.slice(0, truncateLength) + '...';
         });
 
     // Update labelSpace to widest label
@@ -616,6 +633,18 @@ function wordChart(dataset, divId) {
         .attr("x", function (d) {
             return xScale(d.weight) - this.getBBox().width - 2;
         });
+
+    // Initialize bootstrap tooltip API for hover tooltips
+    $(function () {
+        $('[data-toggle="tooltip"]').tooltip({
+            'container': 'body',
+            'html': true,
+            'template': '<div class="tooltip timechart__tooltip" role="tooltip">' +
+            '<div class="tooltip-arrow timechart__tooltip-arrow"></div>' +
+            '<div class="tooltip-inner timechart__tooltip-inner"></div>' +
+            '</div>'
+        })
+    });
 }
 
 /*

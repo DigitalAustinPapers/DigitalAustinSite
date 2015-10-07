@@ -162,7 +162,7 @@
         });
 
         // Bind google analytics event tracking to time chart
-        $(".search-results").on("click keyup touchstart", 'a[class^=time-chart__bar]', function(event) {
+        $(".time-chart-tab").on("click keyup touchstart", 'a[class^=time-chart__bar]', function(event) {
             ga('send', 'event', 'time chart', 'click', $(this).attr("id") + ' ' + stringifyUrlQuery());
           });
 
@@ -170,7 +170,13 @@
         $(".geographic-chart-tab__map").on("click keyup touchstart", '.geography__city-link', function(event) {
           ga('send', 'event', 'geography results', 'click', $(this).attr("id") + ' ' + stringifyUrlQuery());
         });
+
+        // Bind google analytics event tracking to word counts
+        $(".word-chart").on("click keyup touchstart", 'a[class=word-chart__label-link]', function(event) {
+          ga('send', 'event', 'word chart', 'click',
+              $(this).closest('.word-chart').attr("id") + ' - ' + $(this).attr('data-ga-event') + ' - ' + stringifyUrlQuery());
         });
+      });
     </script>
   {% endif %}
 {% endblock %}
