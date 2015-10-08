@@ -4,6 +4,15 @@
 
 {% block title %}Search | {{ parent() }}{% endblock %}
 
+{% block scripts %}
+  {{ parent() }}
+
+  {# Use CDN with fallback to local #}
+  <script async defer src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js"></script>
+  <script>window.d3 || document.write('<script src="public/js/vendor/d3.min.js" async><\/script>')</script>
+
+{% endblock scripts %}
+
 {% block content %}
 <div class="" id="search">
   <div class="row">
@@ -111,7 +120,6 @@
 
   </form>
 
-
 </div><!-- search -->
 
       {% include '_results.twig' %}
@@ -128,15 +136,12 @@
     var totalDocsCount = {{ totalDocsCount }};
     var totalDocDistribution = {{ totalDocDistribution|raw }};
   </script>
-  <!-- Google AJAX API -->
-  <script src="https://www.google.com/jsapi?key=AIzaSyCld462mkpAZrPllmHK8eJGXenW5Kus7g0"></script>
+
   <script src="public/js/vendor/jquery.paging.min.js"></script>
   <script src="public/js/paging.js"></script>
+  <!-- Google AJAX API -->
+  <script src="https://www.google.com/jsapi?key=AIzaSyCld462mkpAZrPllmHK8eJGXenW5Kus7g0"></script>
   <script src="public/js/results.js"></script>
-
-  {# Use CDN with fallback to local #}
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js"></script>
-  <script>window.d3 || document.write('<script src="public/js/vendor/d3.min.js"><\/script>')</script>
 
   {% if search_params != null %}
     <script>
