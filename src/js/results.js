@@ -833,7 +833,11 @@ function updateTimeChart() {
         .style("text-anchor", "end")
         .attr("dx", "-.8em")
         .attr("dy", ".15em")
-        .attr("transform", "rotate(-65)");
+        .attr("transform", "rotate(-65)")
+        .attr("data-toggle", "tooltip")
+        .attr("title", function(d) {
+            return d + "</br>" + totalDocDistribution[d] + " letters";
+        });
 
     // add x axis label
     svg.append("text")
@@ -891,7 +895,11 @@ function updateTimeChart() {
     // create legend element
     var legend = svg.selectAll(".legend")
         .data(color.domain().slice().reverse())
-        .enter().append("g")
+        .enter().append("a")
+        .attr("xlink:href", function(d) {
+            return "search?query=&sentiment=" + d.toLowerCase();
+        })
+        .append("g")
         .attr("class", "legend")
         .attr("transform", function(d, i) { return "translate(0," + i * 20 + ")"; });
 
@@ -927,6 +935,19 @@ function updateTimeChart() {
                 '</div>'
         })
     });
+
+    // Initialize bootstrap tooltip API for hover tooltips
+    $(function () {
+        $('.x.axis').find('text').tooltip({
+            'container': 'body',
+            'placement': 'auto top',
+            'html': true,
+            'template': '<div class="tooltip timechart__tooltip" role="tooltip">' +
+            '<div class="tooltip-arrow timechart__tooltip-arrow"></div>' +
+            '<div class="tooltip-inner timechart__tooltip-inner"></div>' +
+            '</div>'
+        })
+    })
 }
 
 function updateTimeChartMobile() {
@@ -1059,7 +1080,11 @@ function updateTimeChartMobile() {
     // create legend element
     var legend = svg.selectAll(".legend")
         .data(color.domain().slice().reverse())
-        .enter().append("g")
+        .enter().append("a")
+        .attr("xlink:href", function(d) {
+            return "search?query=&sentiment=" + d.toLowerCase();
+        })
+        .append("g")
         .attr("class", "legend")
         .attr("transform", function(d, i) { return "translate(0," + ((height + 60)+ i * 20) + ")"; });
 
