@@ -5,4 +5,6 @@
 
 $template = new TemplateRenderer();
 // Include any variables as an array in the second param
-print $template->render('index.html.twig');
+print $template->render('index.html.twig', array(
+  'body_id' => 'index'
+));
