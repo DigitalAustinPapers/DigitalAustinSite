@@ -220,13 +220,25 @@ function updateSentiment() {
             $score = $sentimentElement.attr('data-sentiment');
 
         if ($score < negativeThreshold) {
-            $sentimentElement.addClass('sentiment-negative');
+            $sentimentElement.addClass('sentiment-negative')
+                .attr("title", "Negative");
         } else if($score > positiveThreshold) {
-            $sentimentElement.addClass('sentiment-positive');
+            $sentimentElement.addClass('sentiment-positive')
+                .attr("title", "Positive");
         } else {
-            $sentimentElement.addClass('sentiment-neutral');
+            $sentimentElement.addClass('sentiment-neutral')
+                .attr("title", "Neutral");
         }
     });
+
+    $('.search-result-list__item-sentiment-score').tooltip({
+        'container': 'body',
+        'placement': 'auto right',
+        'template': '<div class="tooltip timechart__tooltip" role="tooltip">' +
+        '<div class="tooltip-arrow timechart__tooltip-arrow"></div>' +
+        '<div class="tooltip-inner timechart__tooltip-inner"></div>' +
+        '</div>'
+    })
 }
 
 /*
@@ -865,7 +877,6 @@ function updateTimeChart() {
             return "search?query=&fromYear="+ d.year + "&toYear=" + d.year + "&sentiment=" + d.name.toLowerCase();
         })
         .attr("data-toggle", "tooltip")
-        .attr("data-placement", "right")
         .attr("title", function(d) {
             var sentPercent = parseFloat(d.y1 - d.y0).toFixed(1);
             return d.year + "</br>" + d.name + ": " + (sentPercent % 1 === 0 ? parseInt(sentPercent) : sentPercent);
@@ -906,8 +917,9 @@ function updateTimeChart() {
 
     // Initialize bootstrap tooltip API for hover tooltips
     $(function () {
-        $('[data-toggle="tooltip"]').tooltip({
+        $('a[class^=time-chart__bar]').tooltip({
             'container': 'body',
+            'placement': 'auto right',
             'html': true,
             'template': '<div class="tooltip timechart__tooltip" role="tooltip">' +
                 '<div class="tooltip-arrow timechart__tooltip-arrow"></div>' +
