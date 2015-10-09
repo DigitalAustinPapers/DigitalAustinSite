@@ -14,25 +14,29 @@
   }
 }
 
-.browse-list__category-header {
-  margin-bottom: 0;
+.browse-list {
 
-  .glyphicon {
-    font-size: .65em;
+  &__category-header {
+    margin-bottom: 0;
+
+    .glyphicon {
+      font-size: .65em;
+    }
   }
-}
 
-.browse-list__item-list {
-  list-style-type: none;
-  margin-top: 1em;
-}
+  &__item-list {
+    list-style-type: none;
+    margin-top: 1em;
+  }
 
-.browse-list__item {
-  margin-top: 1em;
-}
+  &__item {
+    margin-top: 1em;
+  }
 
-.browse-list__item-details {
-  color: $text-secondary-color;
+  &__item-details {
+    color: $text-secondary-color;
+  }
+
 }
 
 @media (max-width: $screen-xs-max) {

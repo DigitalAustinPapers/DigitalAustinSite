@@ -1,39 +1,31 @@
 .word-chart {
   @extend .col-sm-4;
-}
 
-.word-chart__title {
-  margin-top: 0;
-}
-
-.word-chart__bar {
-  fill: $accent-color;
-
-  &:hover {
-    fill: $accent-color-dark;
+  &__title {
+    margin-top: 0;
   }
-}
 
-.word-chart__item-weight {
-  fill: $text-icons-color;
-  font-size: 14px;
-  font-weight: bold;
-}
+  &__bar {
+    fill: $accent-color;
 
-.word-chart__label-container {
+    &:hover {
+      fill: $accent-color-dark;
+    }
+  }
 
-}
+  &__item-weight {
+    fill: $text-icons-color;
+    font-size: 14px;
+    font-weight: bold;
+  }
 
-.word-chart__label-link {
+  &__label-text {
+    fill: $text-primary-color;
+    font-size: 14px;
 
-}
-
-.word-chart__label-text {
-  fill: $text-primary-color;
-  font-size: 14px;
-
-  &:hover {
-    fill: $accent-color-dark;
+    &:hover {
+      fill: $accent-color-dark;
+    }
   }
 }
 
@@ -46,19 +38,19 @@
     shape-rendering: crispEdges;
   }
 
-  .time-chart__bar--positive {
+  &__bar--positive {
     &:hover {
       fill: darken($brand-success, 10%) !important;
     }
   }
 
-  .time-chart__bar--neutral {
+  &__bar--neutral {
     &:hover {
       fill: darken(#727272, 10%) !important;
     }
   }
 
-  .time-chart__bar--negative {
+  &__bar--negative {
     &:hover {
       fill: darken($brand-danger, 10%) !important;
     }

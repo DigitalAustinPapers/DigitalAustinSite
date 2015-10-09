@@ -36,52 +36,54 @@ body#index {
 }
 
 .stat-panel {
+
   h1 {
     small {
       font-size: 37%;
     }
   }
-}
 
-.stat-panel__item {
-  @extend .col-sm-4;
-  @extend .col-md-12;
+  &__item {
+    @extend .col-sm-4;
+    @extend .col-md-12;
 
-  @media (min-width: $screen-md-min) {
-    padding-left: 0;
-    padding-right: 0;
+    @media (min-width: $screen-md-min) {
+      padding-left: 0;
+      padding-right: 0;
+    }
   }
-}
 
-.stat-panel__number {
-  @extend .col-xs-6;
-  @extend .col-sm-12;
-  @extend .col-md-7;
-  @extend .text-right;
-  padding-right: 7.5px;
-  direction: rtl;
+  &__number {
+    @extend .col-xs-6;
+    @extend .col-sm-12;
+    @extend .col-md-7;
+    @extend .text-right;
+    padding-right: 7.5px;
+    direction: rtl;
 
-  @media (min-width: $screen-sm-min) and (max-width: $screen-sm-max) {
-    text-align: center;
-    padding: 0 15px;
-    h1 {
-      margin: 0;
+    @media (min-width: $screen-sm-min) and (max-width: $screen-sm-max) {
+      text-align: center;
+      padding: 0 15px;
+      h1 {
+        margin: 0;
+      }
+    }
+  }
+
+  &__label {
+    @extend .col-xs-6;
+    @extend .col-sm-12;
+    @extend .col-md-5;
+    @extend .text-left;
+    padding-left: 7.5px;
+
+    @media (min-width: $screen-sm-min) and (max-width: $screen-sm-max) {
+      text-align: center;
+      padding: 0 15px;
+      h1 {
+        margin: 0;
+      }
     }
   }
 }
 
-.stat-panel__label {
-  @extend .col-xs-6;
-  @extend .col-sm-12;
-  @extend .col-md-5;
-  @extend .text-left;
-  padding-left: 7.5px;
-
-  @media (min-width: $screen-sm-min) and (max-width: $screen-sm-max) {
-    text-align: center;
-    padding: 0 15px;
-    h1 {
-      margin: 0;
-    }
-  }
-}
