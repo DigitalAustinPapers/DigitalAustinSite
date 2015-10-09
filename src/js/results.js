@@ -221,18 +221,19 @@ function updateSentiment() {
 
         if ($score < negativeThreshold) {
             $sentimentElement.addClass('sentiment-negative')
-                .attr("title", "Negative");
+                .attr("title", "Negative</br>" + $score);
         } else if($score > positiveThreshold) {
             $sentimentElement.addClass('sentiment-positive')
-                .attr("title", "Positive");
+                .attr("title", "Positive</br>" + $score);
         } else {
             $sentimentElement.addClass('sentiment-neutral')
-                .attr("title", "Neutral");
+                .attr("title", "Neutral</br>" + $score);
         }
     });
 
     $('.search-result-list__item-sentiment-score').tooltip({
         'container': 'body',
+        'html': true,
         'placement': 'auto right',
         'template': '<div class="tooltip timechart__tooltip" role="tooltip">' +
         '<div class="tooltip-arrow timechart__tooltip-arrow"></div>' +
