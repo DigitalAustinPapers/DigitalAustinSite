@@ -31,11 +31,17 @@
 
 .time-chart {
 
-  .axis path,
-  .axis line {
-    fill: none;
-    stroke: #000;
-    shape-rendering: crispEdges;
+  .axis {
+    & text {
+      font-family: $font-family-monospace;
+    }
+
+    & path,
+    & line {
+      fill: none;
+      stroke: #000;
+      shape-rendering: crispEdges;
+    }
   }
 
   &__bar--positive {
