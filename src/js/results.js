@@ -153,7 +153,6 @@ function requestData() {
 var $paging = $(".pagination").paging(0, pagingOpts);
 
 // Paging options are first declared in paging.js and overridden here
-$paging.setOptions({perpage: 20});
 $paging.setOptions({onSelect: function(page) {
     updatePage(this.slice);
     updateSentiment();
