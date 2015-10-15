@@ -50,7 +50,7 @@ body#index {
   }
 
   &__item {
-    @extend .col-sm-4;
+    @extend .col-sm-3;
     @extend .col-md-12;
 
     @media (min-width: $screen-md-min) {
