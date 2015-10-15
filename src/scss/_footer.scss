@@ -3,6 +3,7 @@
   display: table-row;
   height: 1px;
   width: 100%;
+  color: $text-icons-color;
 
   a {
     color: $text-icons-color;
@@ -12,10 +13,28 @@
     }
   }
 
+  h2 {
+    margin-bottom: 25px;
+  }
+
   .container {
     height: auto;
     padding-bottom: 3em;
-    padding-top: 3em;
+  }
+
+  &__developed-by {
+    @extend .col-xs-4;
+    @extend .col-sm-3;
+    @extend .col-md-3;
+    @extend .col-xs-offset-4;
+    @extend .col-sm-offset-0;
+  }
+
+  &__project-partners {
+    @extend .col-sm-8;
+    @extend .col-md-8;
+    @extend .col-sm-offset-1;
+    @extend .col-md-offset-1;
   }
 
   .footer-unt-history-logo {
