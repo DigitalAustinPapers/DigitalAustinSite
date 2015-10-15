@@ -215,31 +215,24 @@ $('input:radio[name=sort]').on('click', function(e) {
 // Update class based on sentiment. Do that here instead of in template
 // because thresholds are defined in the javascript.
 function updateSentiment() {
-    $('.search-result-list__item-sentiment-score').each(function() {
+    $('.search-results-list__item-sentiment').each(function() {
         var $sentimentElement = $(this),
             $score = $sentimentElement.attr('data-sentiment');
 
         if ($score < negativeThreshold) {
-            $sentimentElement.addClass('sentiment-negative')
-                .attr("title", "Negative</br>" + $score);
+            $sentimentElement
+                .find('.search-result-list__item-sentiment-icon').addClass('sentiment-negative').end()
+                .find('.search-result-list__item-sentiment-score').text('negative');
         } else if($score > positiveThreshold) {
-            $sentimentElement.addClass('sentiment-positive')
-                .attr("title", "Positive</br>" + $score);
+            $sentimentElement
+                .find('.search-result-list__item-sentiment-icon').addClass('sentiment-positive').end()
+                .find('.search-result-list__item-sentiment-score').text('positive');
         } else {
-            $sentimentElement.addClass('sentiment-neutral')
-                .attr("title", "Neutral</br>" + $score);
+            $sentimentElement
+                .find('.search-result-list__item-sentiment-icon').addClass('sentiment-neutral').end()
+                .find('.search-result-list__item-sentiment-score').text('neutral');
         }
     });
-
-    $('.search-result-list__item-sentiment-score').tooltip({
-        'container': 'body',
-        'html': true,
-        'placement': 'auto right',
-        'template': '<div class="tooltip timechart__tooltip" role="tooltip">' +
-        '<div class="tooltip-arrow timechart__tooltip-arrow"></div>' +
-        '<div class="tooltip-inner timechart__tooltip-inner"></div>' +
-        '</div>'
-    })
 }
 
 /*
