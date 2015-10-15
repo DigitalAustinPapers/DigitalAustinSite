@@ -163,6 +163,7 @@ $paging.setOptions({onSelect: function(page) {
 function updateDocuments() {
     var $docList = $('search-results-list'),
         $progressBar = $('.documents-tab .searching-progress'),
+        $description = $('.documents-tab__description');
         $sorter = $('.documents-tab .search-results__sort'),
         $resultsSummary = $('.search-results__results-summary'),
         resultsCount = basicData['json'].length;
@@ -195,6 +196,7 @@ function updateDocuments() {
     $progressBar.hide();
     $docList.show();
     $sorter.show();
+    $description.show();
 }
 
 $(document).on("basicDataLoaded", function(e, data) {
@@ -297,6 +299,7 @@ function setupMap() {
     redrawMarkers();
     google.maps.event.addListener(map, 'zoom_changed', redrawMarkers);
     $('.geographic-chart-tab .searching-progress').hide();
+    $('.geographic-chart-tab__description').show();
 }
 // Invoked when new city data is downloaded
 $(document).on("cityDataLoaded", function(e, data) {
@@ -514,6 +517,7 @@ function updateWordCharts() {
     wordChart(chartData[0], "#wordChart");
 
     $('.word-chart-tab .searching-progress').hide();
+    $('.word-chart-tab__description').show();
 
     chartsNeedRerender = false;
 }
@@ -792,12 +796,6 @@ function updateTimeChart() {
         .orient("left")
         .tickValues([0, 25, 50, 75, 100]);
 
-    // Define the div for the tooltip
-    // TODO: This may be able to be deleted
-    var div = d3.select(".time-chart").append("div")
-        .attr("class", "tooltip")
-        .style("opacity", 0);
-
     // Create svg outer and inner elements
     var svg = d3.select(".time-chart").append("svg")
         .attr("class", "time-chart__outer-svg")
@@ -809,7 +807,7 @@ function updateTimeChart() {
 
     // Assign scale domains
     x.domain(data.map(function(d) { return d.Year; }));
-    y.domain([0, 100]);
+    y.domain([0, d3.max(data, function(d) { return d.Negative + d.Neutral + d.Positive; })]);
     color.domain(headers.filter(function(d) { return d !== "Year"; }));
 
     // Bind colors and coordinates to each year/sentiment
@@ -928,7 +926,7 @@ function updateTimeChart() {
     timeChartNeedsUpdate = false;
 
     $('.time-chart-tab .searching-progress').hide();
-    $('.time-chart-tab__description').removeClass('hidden');
+    $('.time-chart-tab__description').show();
 
     // Initialize bootstrap tooltip API for hover tooltips
     $(function () {
@@ -1016,7 +1014,7 @@ function updateTimeChartMobile() {
         .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
     // Assign scale domains
-    x.domain([0, 100]);
+    x.domain([0, d3.max(data, function(d) { return d.Negative + d.Neutral + d.Positive; })]);
     y.domain(data.map(function(d) { return d.Year; }));
     color.domain(headers.filter(function(d) { return d !== "Year"; }));
 
@@ -1113,7 +1111,7 @@ function updateTimeChartMobile() {
     timeChartNeedsUpdate = false;
 
     $('.time-chart-tab .searching-progress').hide();
-    $('.time-chart-tab__description').removeClass('hidden');
+    $('.time-chart-tab__description').hide();
 }
 
 // Invoked when new basic data is downloaded

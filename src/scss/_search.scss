@@ -5,20 +5,16 @@
   }
 }
 
-.documents-tab {
-  @extend .tab-pane;
-}
-
-.time-chart-tab {
-  @extend .tab-pane;
-}
-
-.geographic-chart-tab {
-  @extend .tab-pane;
-}
-
+.documents-tab,
+.time-chart-tab,
+.geographic-chart-tab,
 .word-chart-tab {
   @extend .tab-pane;
+
+  &__description {
+    @extend .col-xs-12;
+    display: none;
+  }
 }
 
 .search-results {
