@@ -1,5 +1,9 @@
 .document {
 
+  hr {
+    border-top-color: darken($hr-border, 20%);
+  }
+
   &__download {
     padding-top: 2em;
   }
