@@ -215,22 +215,35 @@ $('input:radio[name=sort]').on('click', function(e) {
 // Update class based on sentiment. Do that here instead of in template
 // because thresholds are defined in the javascript.
 function updateSentiment() {
+    var minSentiment = Number.POSITIVE_INFINITY,
+        maxSentiment = Number.NEGATIVE_INFINITY,
+        tmp;
+
+    for (var i=basicData.json.length-1; i>=0; i--) {
+        tmp = parseFloat(basicData.json[i].sentimentScore);
+        if (tmp < minSentiment) minSentiment = tmp;
+        if (tmp > maxSentiment) maxSentiment = tmp;
+    }
+
     $('.search-results-list__item-sentiment').each(function() {
+        $(this).find('.search-result-list__item-sentiment-score--min').text(minSentiment);
+        $(this).find('.search-result-list__item-sentiment-score--max').text(maxSentiment);
+
         var $sentimentElement = $(this),
             $score = $sentimentElement.attr('data-sentiment');
 
         if ($score < negativeThreshold) {
-            $sentimentElement
-                .find('.search-result-list__item-sentiment-icon').addClass('sentiment-negative').end()
-                .find('.search-result-list__item-sentiment-score').text('negative');
+            $sentimentElement.find('.search-result-list__item-sentiment-score')
+                .addClass('sentiment-negative')
+                .text('Negative');
         } else if($score > positiveThreshold) {
-            $sentimentElement
-                .find('.search-result-list__item-sentiment-icon').addClass('sentiment-positive').end()
-                .find('.search-result-list__item-sentiment-score').text('positive');
+            $sentimentElement.find('.search-result-list__item-sentiment-score')
+                .addClass('sentiment-positive')
+                .text('Positive');
         } else {
-            $sentimentElement
-                .find('.search-result-list__item-sentiment-icon').addClass('sentiment-neutral').end()
-                .find('.search-result-list__item-sentiment-score').text('neutral');
+            $sentimentElement.find('.search-result-list__item-sentiment-score')
+                .addClass('sentiment-neutral')
+                .text('Neutral');
         }
     });
 }
