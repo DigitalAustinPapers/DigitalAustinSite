@@ -1,5 +1,5 @@
 body#index {
-  background-color: $primary-color-lighter;
+  background-color: $primary-color-light;
 }
 
 .jumbotron {
@@ -15,6 +15,12 @@ body#index {
   background-repeat: no-repeat;
   background-size: cover;
   margin: 0 auto 30px;
+
+  & h1 {
+    @media (min-width: $screen-sm-min) and (max-width: $screen-sm-max) {
+      margin-top: 0;
+    }
+  }
 
   & > .container {
     @media (max-width: $screen-xs-max) {
