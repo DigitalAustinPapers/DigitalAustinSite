@@ -6,7 +6,7 @@ function expandAll(button) {
     button.html('Collapse all').attr('data-state', 'expanded');
     $('#browse-results').find('.collapse').each(function() {
         $(this).collapse('show');
-        $('#browse-results').find('.glyphicon-plus').addClass('glyphicon-minus').removeClass('glyphicon-plus');
+        $('#browse-results').find('.fa-plus').addClass('fa-minus').removeClass('fa-plus');
     });
 }
 
@@ -14,7 +14,7 @@ function collapseAll(button) {
     button.html('Expand all').attr('data-state', 'collapsed');
     $('#browse-results').find('.collapse').each(function() {
         $(this).collapse('hide');
-        $('#browse-results').find('.glyphicon-minus').addClass('glyphicon-plus').removeClass('glyphicon-minus');
+        $('#browse-results').find('.fa-minus').addClass('fa-plus').removeClass('fa-minus');
     });
 }
 
@@ -28,10 +28,10 @@ $('#collapse-expand-all').on('click', function(e) {
 });
 
 $(document).on('click', '.browse-list__category-header > a', function() {
-    if($(this).find('.glyphicon').hasClass('glyphicon-plus')) {
-        $(this).find('.glyphicon').addClass('glyphicon-minus').removeClass('glyphicon-plus');
-    } else if($(this).find('.glyphicon').hasClass('glyphicon-minus')) {
-        $(this).find('.glyphicon').addClass('glyphicon-plus').removeClass('glyphicon-minus');
+    if($(this).find('.fa').hasClass('fa-plus')) {
+        $(this).find('.fa').addClass('fa-minus').removeClass('fa-plus');
+    } else if($(this).find('.fa').hasClass('fa-minus')) {
+        $(this).find('.fa').addClass('fa-plus').removeClass('fa-minus');
     }
 });
 
