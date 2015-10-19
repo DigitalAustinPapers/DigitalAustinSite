@@ -122,4 +122,5 @@ print $template->render('browse.html.twig', array(
   'browseBy'        => $browseBy,
   'sortCategories'  => $sortCategories,
   'results'         => $results_list,
+  'body_id' => 'browse'
 ));

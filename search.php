@@ -231,4 +231,5 @@ print $template->render('search.html.twig', array(
                         'search_dropdowns'     => $search_dropdowns,
                         'totalDocsCount'       => $totalDocs,
                         'totalDocDistribution' => $docDistDocs,
+                        'body_id'               => 'search'
 ));

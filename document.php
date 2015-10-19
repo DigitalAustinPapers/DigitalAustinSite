@@ -148,4 +148,5 @@ print $template->render('document.html.twig', array(
                         'document' => $result,
                         'letter_body_display' => $letter_body_display,
                         'citation'            => $citation,
+                        'body_id'             => 'document'
 ));

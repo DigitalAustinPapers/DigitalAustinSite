@@ -40,4 +40,5 @@ $template = new TemplateRenderer();
 // Include any variables as an array in the second param
 print $template->render('contact.html.twig', array(
                         'success' => $success,
+                        'body_id' => 'contact'
 ));
