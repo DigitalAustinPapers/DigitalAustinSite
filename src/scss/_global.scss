@@ -19,3 +19,9 @@ li {
 #main-wrapper {
   padding-bottom: 3em;
 }
+
+@media print {
+  a[href]:after {
+    content: none
+  }
+}
