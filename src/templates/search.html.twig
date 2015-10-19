@@ -156,30 +156,44 @@
           var target = e.target.href.split('#tab-')[1];
           var relatedTarget = e.relatedTarget.href.split('#tab-')[1];
           ga('send', 'event', 'search result tabs', 'change tab', 'to:' + target + ' from:' + relatedTarget);
+          ga('jasonTracker.send', 'event', 'search result tabs', 'change tab', 'to:' + target + ' from:' + relatedTarget);
         });
 
         // Bind google analytics event tracking to search results
         $(".search-results-list").each(function() {
           $(this).on("click keyup touchstart", 'a.search-results-list__item-title', function(event) {
             var id = $(this).attr("id");
-            ga('send', 'event', 'search result', 'click', id + ' ' + stringifyUrlQuery() + ' page:' + $paging.a.page);
+            var url = stringifyUrlQuery();
+            ga('send', 'event', 'search result', 'click', id + ' ' + url + ' page:' + $paging.a.page);
+            ga('jasonTracker.send', 'event', 'search result', 'click', id + ' ' + url + ' page:' + $paging.a.page);
           })
         });
 
         // Bind google analytics event tracking to time chart
         $(".time-chart-tab").on("click keyup touchstart", 'a[class^=time-chart__bar]', function(event) {
-            ga('send', 'event', 'time chart', 'click', $(this).attr("id") + ' ' + stringifyUrlQuery());
-          });
+          var id = $(this).attr("id");
+          var url = stringifyUrlQuery();
+          ga('send', 'event', 'time chart', 'click', id + ' ' + url);
+          ga('jasonTracker.send', 'event', 'time chart', 'click', id + ' ' + url);
+        });
 
         // Bind google analytics event tracking to geography map
         $(".geographic-chart-tab__map").on("click keyup touchstart", '.geography__city-link', function(event) {
-          ga('send', 'event', 'geography results', 'click', $(this).attr("id") + ' ' + stringifyUrlQuery());
+          var id = $(this).attr("id");
+          var url = stringifyUrlQuery();
+          ga('send', 'event', 'geography results', 'click', id + ' ' + url);
+          ga('jasonTracker.send', 'event', 'geography results', 'click', id + ' ' + url);
         });
 
         // Bind google analytics event tracking to word counts
         $(".word-chart").on("click keyup touchstart", 'a[class=word-chart__label-link]', function(event) {
+          var id = $(this).closest('.word-chart').attr("id");
+          var gaEvent = $(this).attr('data-ga-event');
+          var url = stringifyUrlQuery();
           ga('send', 'event', 'word chart', 'click',
-              $(this).closest('.word-chart').attr("id") + ' - ' + $(this).attr('data-ga-event') + ' - ' + stringifyUrlQuery());
+              id + ' - ' + gaEvent + ' - ' + url);
+          ga('jasonTracker.send', 'event', 'word chart', 'click',
+              id + ' - ' + gaEvent + ' - ' + url);
         });
       });
     </script>

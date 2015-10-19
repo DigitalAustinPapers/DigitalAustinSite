@@ -67,13 +67,16 @@
   $(document).ready(function() {
     // Track downloads through XML download link
     $(".document__download").on("click keyup touchstart", function(event) {
-      ga('send', 'event', 'download', 'download', $(this).attr("id"))
+      var id = $(this).attr("id");
+      ga('send', 'event', 'download', 'download', id);
+      ga('jasonTracker.send', 'event', 'download', 'download', id);
     });
 
     $("a.document__persName, a.document__placeName").each(function() {
       var id = $(this).attr("id");
       $(this).on("click keyup touchstart", function(event) {
         ga('send', 'event', 'document', 'click', 'doc-{{ document.id }}-' + id);
+        ga('jasonTracker.send', 'event', 'document', 'click', 'doc-{{ document.id }}-' + id);
       })
     });
   });
