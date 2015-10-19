@@ -892,8 +892,8 @@ function updateTimeChart() {
         .append("rect")
         .attr("class", function(d) { return "time-chart__bar--" + d.name.toLowerCase(); })
         .attr("width", x.rangeBand())
-        .attr("y", function(d) { return y(d.y1); })
-        .attr("height", function(d) { return y(d.y0) - y(d.y1); })
+        .attr("y", function(d) { return isNaN(d.y1) ? null : y(d.y1); })
+        .attr("height", function(d) { return isNaN(d.y1) ? null : y(d.y0) - y(d.y1); })
         .style("fill", function(d) { return color(d.name); });
 
     // create legend element
@@ -1077,8 +1077,8 @@ function updateTimeChartMobile() {
         .append("rect")
         .attr("class", function(d) { return "time-chart__bar--" + d.name.toLowerCase(); })
         .attr("height", y.rangeBand())
-        .attr("x", function(d) { return x(d.x0); })
-        .attr("width", function(d) { return x(d.x1) - x(d.x0); })
+        .attr("x", function(d) { return isNaN(d.x0) ? null : x(d.x0); })
+        .attr("width", function(d) { return isNaN(d.x1) ? null : x(d.x1) - x(d.x0); })
         .style("fill", function(d) { return color(d.name); });
 
     // create legend element
