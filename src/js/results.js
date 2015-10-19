@@ -83,8 +83,10 @@ function requestData() {
 
     console.log("RequestData called");
 
-    // Update browser URL
-    window.history.pushState({path:getParams},'', location.origin + location.pathname + getParams);
+    if (history.pushState) {
+        // Update browser URL
+        window.history.pushState({path:getParams},'', getParams);
+    }
 
     // Google analytics event tracking
     ga('send', 'event', 'search', 'submit', getParams);
