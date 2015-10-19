@@ -17,6 +17,10 @@
   }
 }
 
+.geographic-chart-tab {
+  @extend .clearfix;
+}
+
 .search-results {
 
   &__results-summary {
