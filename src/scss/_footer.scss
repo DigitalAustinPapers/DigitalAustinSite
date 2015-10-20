@@ -4,7 +4,7 @@
   height: 1px;
   width: 100%;
   color: $text-icons-color;
-  font-size: .85em;
+  font-size: .95em;
 
   a {
     color: $text-icons-color;
@@ -28,6 +28,15 @@
     @extend .col-md-3;
     @extend .col-xs-offset-4;
     @extend .col-sm-offset-0;
+
+    @media (min-width: $screen-sm-min) {
+      margin-top: 1em;
+      margin-bottom: 1em;
+
+      h3 {
+        margin-top: 0;
+      }
+    }
   }
 
   &__project-partners {
@@ -36,10 +45,14 @@
     @extend .col-sm-offset-1;
     @extend .col-md-offset-1;
 
-    padding-bottom: 2em;
-
     @media (min-width: $screen-sm-min) {
       border-left: 2px solid $primary-color-dark;
+      margin-top: 1em;
+      margin-bottom: 1em;
+
+      h3 {
+        margin-top: 0;
+      }
     }
 
     h3 {
@@ -62,6 +75,6 @@
     @extend .img-responsive;
     @extend .center-block;
 
-    max-width: 80px;
+    max-width: 125px;
   }
 }
