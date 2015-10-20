@@ -2,6 +2,30 @@
 require_once 'src/TemplateRenderer.class.php';
 include_once 'php/database.php';
 
+// Extend DOMElement and DOMDocument to prevent unterminated entity reference errors
+// per http://www.php.net/manual/en/domdocument.createelement.php#73617
+class XDOMElement extends DOMElement {
+  function __construct($name, $value = null, $namespaceURI = null) {
+    parent::__construct($name, null, $namespaceURI);
+  }
+}
+
+class XDOMDocument extends DOMDocument {
+  function __construct($version = null, $encoding = null) {
+    parent::__construct($version, $encoding);
+    $this->registerNodeClass('DOMElement', 'XDOMElement');
+  }
+
+  function createElement($name, $value = null, $namespaceURI = null) {
+    $element = new XDOMElement($name, $value, $namespaceURI);
+    $element = $this->importNode($element);
+    if (!empty($value)) {
+      $element->appendChild(new DOMText($value));
+    }
+    return $element;
+  }
+}
+
 // Functions
 
 function queryDB(){
@@ -41,7 +65,7 @@ function queryDB(){
 function getCitation($row) {
   $raw_xml = $row['xml'];
 
-  $doc = new DOMDocument();
+  $doc = new XDOMDocument();
   $success = $doc->loadXml( $raw_xml );
 
   # we're looking for contents like this:
@@ -66,7 +90,7 @@ function getDocXmlFromRow($row) {
   $raw_xml = $row['xml'];
   $body_node = null;
 
-  $doc = new DOMDocument();
+  $doc = new XDOMDocument();
   $success = $doc->loadXml( $raw_xml );
   return $doc;
 }
