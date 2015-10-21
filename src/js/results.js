@@ -680,7 +680,7 @@ var timeChart;
 var timeChartNeedsUpdate = true;
 
 // Convert basicData so it's usable by D3
-function timelineData() {
+function timelineData(resultsDomain) {
     if (basicData != null) {
         var years = {},
             positive = {},
@@ -737,9 +737,14 @@ function timelineData() {
                 value = years[yearStr];
             }
             var total = 0;
-            if (totalDocDistribution[yearStr] !== undefined) {
-                total = parseInt(totalDocDistribution[yearStr]);
+            if(resultsDomain) {
+                total = negative[yearStr] + neutral[yearStr] + positive[yearStr];
+            } else {
+                if (totalDocDistribution[yearStr] !== undefined) {
+                    total = parseInt(totalDocDistribution[yearStr]);
+                }
             }
+
             chartData.push([yearStr,
                 Math.floor(negative[yearStr] / total * 1000)/10,
                 Math.floor(neutral[yearStr] / total * 1000)/10,
@@ -749,13 +754,17 @@ function timelineData() {
     return chartData;
 }
 
-function updateTimeChart() {
+function updateTimeChart(resultsDomain) {
+    /* Updates the timeline chart
+     * @param {bool} resultsDomain Whether to plot the chart using search results (true)
+     *                             or all documents (false)
+     */
 
-    $('.time-chart__outer-svg').remove();
+    $('.time-chart__outer-svg').attr('class', 'time-chart__outer-svg--hidden');
     $('.time-chart-tab .searching-progress').show();
 
     // Assign dataset from function call
-    var dataSet = timelineData();
+    var dataSet = timelineData(resultsDomain);
     // Assign array of headers and remove from data
     var headers = dataSet.shift();
 
@@ -769,34 +778,62 @@ function updateTimeChart() {
         return rObj;
     });
 
+    // Determine if we're creating mobile version based on window width
+    var mobile = $(window).width() < 768;
+
     // Set chart variables
     var margin = {top: 20, right: 100, bottom: 100, left: 60},
         container = d3.select('.time-chart'),
         width = parseInt(container.style('width'))
             - parseInt(container.style('padding-left'))
             - parseInt(container.style('padding-right')),
-        width = width - margin.left - margin.right,
-        height = 500 - margin.top - margin.bottom;
+        height = mobile ? 750 : 500;
+
+    // mobile margin adjustments
+    if(mobile) { margin.bottom = 125; }
+
+    // adjust for margins
+    width = width - margin.left - margin.right;
+    height = height - margin.top - margin.bottom;
 
     // Set scales and ranges
-    var x = d3.scale.ordinal()
-        .rangeRoundBands([0, width],.1);
+    if (mobile) {
+        var x = d3.scale.linear()
+            .range([0, width]);
 
-    var y = d3.scale.linear()
-        .range([height, 0]);
+        var y = d3.scale.ordinal()
+            .rangeRoundBands([0, height], .1);
+    } else {
+        var x = d3.scale.ordinal()
+            .rangeRoundBands([0, width],.1);
+
+        var y = d3.scale.linear()
+            .range([height, 0]);
+    }
 
     var color = d3.scale.ordinal()
         .range(["#d9534f", "#727272", "#5cb85c"]);
 
     // Set axes
-    var xAxis = d3.svg.axis()
-        .scale(x)
-        .orient("bottom");
+    if(mobile) {
+        var xAxis = d3.svg.axis()
+            .scale(x)
+            .orient("bottom")
+            .tickValues([0, 25, 50, 75, 100]);
 
-    var yAxis = d3.svg.axis()
-        .scale(y)
-        .orient("left")
-        .tickValues([0, 25, 50, 75, 100]);
+        var yAxis = d3.svg.axis()
+            .scale(y)
+            .orient("left");
+    } else {
+        var xAxis = d3.svg.axis()
+            .scale(x)
+            .orient("bottom");
+
+        var yAxis = d3.svg.axis()
+            .scale(y)
+            .orient("left")
+            .tickValues([0, 25, 50, 75, 100]);
+    }
 
     // Create svg outer and inner elements
     var svg = d3.select(".time-chart").append("svg")
@@ -808,74 +845,118 @@ function updateTimeChart() {
         .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
     // Assign scale domains
-    x.domain(data.map(function(d) { return d.Year; }));
-    y.domain([0, d3.max(data, function(d) { return d.Negative + d.Neutral + d.Positive; })]);
+    if(mobile) {
+        x.domain([0, 100]);
+        y.domain(data.map(function(d) { return d.Year; }));
+    } else {
+        x.domain(data.map(function(d) { return d.Year; }));
+        y.domain([0, 100]);
+    }
     color.domain(headers.filter(function(d) { return d !== "Year"; }));
 
     // Bind colors and coordinates to each year/sentiment
     data.forEach(function(d) {
-        var y0 = 0;
+        var xy0 = 0;
         d.sentiment = color.domain().map(function(name) {
             return {
                 name: name,
                 year: d['Year'],
-                y0: y0,
-                y1: y0 += +d[name]
+                xy0: xy0,
+                xy1: xy0 += +d[name]
             };
         });
-        d.total = d.sentiment[d.sentiment.length -1].y1;
+        d.total = d.sentiment[d.sentiment.length -1].xy1;
     });
 
-    // add x axis labels with links to search
-    svg.append("g")
-        .attr("class", "x axis")
-        .attr("transform", "translate(0," + height + ")")
-        .call(xAxis)
-      .selectAll("text")
-        .filter(function(d) { return typeof(d) == "string"; })
-        .style("cursor", "pointer")
-        .on("click", function(d) {
-          document.location.href = "search?query=&fromYear="+ d + "&toYear=" + d;
-        })
-        .style("text-anchor", "end")
-        .attr("dx", "-.8em")
-        .attr("dy", ".15em")
-        .attr("transform", "rotate(-65)")
-        .attr("data-toggle", "tooltip")
-        .attr("title", function(d) {
-            return d + "</br>" + totalDocDistribution[d] + " letters";
-        });
+    if(mobile) {
+        // add x axis
+        svg.append("g")
+            .attr("class", "x axis")
+            .attr("transform", "translate(0," + height + ")")
+            .call(xAxis);
 
-    // add x axis label
-    svg.append("text")
-        .attr("class", "x label")
-        .attr("text-anchor", "end")
-        .attr("x", width/2)
-        .attr("y", height + margin.bottom - 15)
-        .attr("dy", ".71em")
-        .text("Year");
+        // add x axis label
+        svg.append("text")
+            .attr("class", "x label")
+            .attr("text-anchor", "middle")
+            .attr("x", width/2)
+            .attr("y", height + margin.bottom - 90)
+            .attr("dy", ".71em")
+            .text(function() {
+                if(resultsDomain) {}
+                return resultsDomain ? "Percentage out of search results" : "Percentage out of all documents";
+            });
 
-    // add y axis
-    svg.append("g")
-        .attr("class", "y axis")
-        .call(yAxis);
+        // add y axis labels with links to search
+        svg.append("g")
+            .attr("class", "y axis")
+            .call(yAxis)
+            .selectAll("text")
+            .filter(function(d) { return typeof(d) == "string"; })
+            .style("cursor", "pointer")
+            .on("click", function(d) {
+                document.location.href = "search?query=&fromYear="+ d + "&toYear=" + d;
+            });
+    } else {
+        // add x axis labels with links to search
+        svg.append("g")
+            .attr("class", "x axis")
+            .attr("transform", "translate(0," + height + ")")
+            .call(xAxis)
+            .selectAll("text")
+            .filter(function(d) { return typeof(d) == "string"; })
+            .style("cursor", "pointer")
+            .on("click", function(d) {
+                document.location.href = "search?query=&fromYear="+ d + "&toYear=" + d;
+            })
+            .style("text-anchor", "end")
+            .attr("dx", "-.8em")
+            .attr("dy", ".15em")
+            .attr("transform", "rotate(-65)")
+            .attr("data-toggle", "tooltip")
+            .attr("title", function(d) {
+                return d + "</br>" + totalDocDistribution[d] + " letters";
+            });
 
-    // add y axis label
-    svg.append("text")
-        .attr("class", "y label")
-        .attr("transform", "rotate(-90)")
-        .attr("y", "-60")
-        .attr("x", "-60")
-        .attr("dy", ".71em")
-        .style("text-anchor", "end")
-        .text("Percentage out of all documents");
+        // add x axis label
+        svg.append("text")
+            .attr("class", "x label")
+            .attr("text-anchor", "end")
+            .attr("x", width/2)
+            .attr("y", height + margin.bottom - 15)
+            .attr("dy", ".71em")
+            .text("Year");
+
+        // add y axis
+        svg.append("g")
+            .attr("class", "y axis")
+            .call(yAxis);
+
+        // add y axis label
+        svg.append("text")
+            .attr("class", "y label")
+            .attr("transform", "rotate(-90)")
+            .attr("y", "-60")
+            .attr("x", "-60")
+            .attr("dy", ".71em")
+            .style("text-anchor", "end")
+            .text(function() {
+                return resultsDomain ? "Percentage out of search results" : "Percentage out of all documents";
+            });
+    }
 
     // add g element for each year's bars
     var year = svg.selectAll(".year")
         .data(data)
         .enter().append("g")
         .attr("class", function(d) { return "time-chart__year " + d.Year; })
-        .attr("transform", function(d) { return "translate(" + x(d.Year) + ",0)"; });
+        .attr("transform", function(d) {
+            if(mobile) {
+                return "translate(0," + y(d.Year) + ")";
+            } else {
+                return "translate(" + x(d.Year) + ",0)";
+            }
+        });
 
     // add rect elements with sentiment bars and links to new searches
     year.selectAll("rect")
@@ -889,14 +970,22 @@ function updateTimeChart() {
         })
         .attr("data-toggle", "tooltip")
         .attr("title", function(d) {
-            var sentPercent = parseFloat(d.y1 - d.y0).toFixed(1);
+            var sentPercent = parseFloat(d.xy1 - d.xy0).toFixed(1);
             return d.year + "</br>" + d.name + ": " + (sentPercent % 1 === 0 ? parseInt(sentPercent) : sentPercent);
           })
         .append("rect")
         .attr("class", function(d) { return "time-chart__bar--" + d.name.toLowerCase(); })
-        .attr("width", x.rangeBand())
-        .attr("y", function(d) { return isNaN(d.y1) ? null : y(d.y1); })
-        .attr("height", function(d) { return isNaN(d.y1) ? null : y(d.y0) - y(d.y1); })
+        .attr("width", function(d) {
+            return mobile ? isNaN(d.xy1) ? null : x(d.xy1) - x(d.xy0) : x.rangeBand();
+        })
+        .attr("y", function(d) {
+            return mobile ? null : isNaN(d.xy1) ? null : y(d.xy1);
+        })
+        .attr("height", function(d) {
+            return mobile ? y.rangeBand() : isNaN(d.xy1) ? null : y(d.xy0) - y(d.xy1);
+             })
+        .attr("x", function(d) {
+            return mobile ? (isNaN(d.xy0) ? null : x(d.xy0)) : null; })
         .style("fill", function(d) { return color(d.name); });
 
     // create legend element
@@ -908,7 +997,9 @@ function updateTimeChart() {
         })
         .append("g")
         .attr("class", "legend")
-        .attr("transform", function(d, i) { return "translate(0," + i * 20 + ")"; });
+        .attr("transform", function(d, i) {
+            return mobile ? "translate(0," + ((height + 60)+ i * 20) + ")" : "translate(0," + i * 20 + ")";
+        });
 
     // add legend colors
     legend.append("rect")
@@ -929,6 +1020,7 @@ function updateTimeChart() {
 
     $('.time-chart-tab .searching-progress').hide();
     $('.time-chart-tab__description').show();
+    $('.time-chart__outer-svg--hidden').remove();
 
     // Initialize bootstrap tooltip API for hover tooltips
     $(function () {
@@ -957,175 +1049,12 @@ function updateTimeChart() {
     })
 }
 
-function updateTimeChartMobile() {
-
-    $('.time-chart__outer-svg').remove();
-    $('.time-chart-tab .searching-progress').show();
-
-    // Assign dataset from function call
-    var dataSet = timelineData();
-    // Assign array of headers and remove from data
-    var headers = dataSet.shift();
-
-    // Map all years data to objects in data array
-    var data = dataSet.map(function(obj) {
-        var rObj = {};
-        rObj[headers[0]] = obj[0];
-        rObj[headers[1]] = obj[1];
-        rObj[headers[2]] = obj[2];
-        rObj[headers[3]] = obj[3];
-        return rObj;
-    });
-
-    // Set chart variables
-    var margin = {top: 20, right: 15, bottom: 125, left: 60},
-        container = d3.select('.time-chart'),
-        width = parseInt(container.style('width'))
-            - parseInt(container.style('padding-left'))
-            - parseInt(container.style('padding-right')),
-        width = width - margin.left - margin.right,
-        height = 750 - margin.top - margin.bottom;
-
-    // Set scales and ranges
-    var x = d3.scale.linear()
-        .range([0, width]);
-
-    var y = d3.scale.ordinal()
-        .rangeRoundBands([0, height], .1);
-
-    var color = d3.scale.ordinal()
-        .range(["#d9534f", "#727272", "#5cb85c"]);
-
-    // Set axes
-    var xAxis = d3.svg.axis()
-        .scale(x)
-        .orient("bottom")
-        .tickValues([0, 25, 50, 75, 100]);
-
-    var yAxis = d3.svg.axis()
-        .scale(y)
-        .orient("left");
-
-    // Create svg outer and inner elements
-    var svg = d3.select(".time-chart").append("svg")
-        .attr("class", "time-chart__outer-svg")
-        .attr("width", width + margin.left + margin.right)
-        .attr("height", height + margin.top + margin.bottom)
-        .append("g")
-        .attr("class", "time-chart__inner-g")
-        .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
-
-    // Assign scale domains
-    x.domain([0, d3.max(data, function(d) { return d.Negative + d.Neutral + d.Positive; })]);
-    y.domain(data.map(function(d) { return d.Year; }));
-    color.domain(headers.filter(function(d) { return d !== "Year"; }));
-
-    // Bind colors and coordinates to each year/sentiment
-    data.forEach(function(d) {
-        var x0 = 0;
-        d.sentiment = color.domain().map(function(name) {
-            return {
-                name: name,
-                year: d['Year'],
-                x0: x0,
-                x1: x0 += +d[name]
-            };
-        });
-        d.total = d.sentiment[d.sentiment.length -1].x1;
-    });
-
-    // add x axis
-    svg.append("g")
-        .attr("class", "x axis")
-        .attr("transform", "translate(0," + height + ")")
-        .call(xAxis);
-
-    // add x axis label
-    svg.append("text")
-        .attr("class", "x label")
-        .attr("text-anchor", "middle")
-        .attr("x", width/2)
-        .attr("y", height + margin.bottom - 90)
-        .attr("dy", ".71em")
-        .text("Percentage out of all documents");
-
-    // add y axis labels with links to search
-    svg.append("g")
-        .attr("class", "y axis")
-        .call(yAxis)
-        .selectAll("text")
-        .filter(function(d) { return typeof(d) == "string"; })
-        .style("cursor", "pointer")
-        .on("click", function(d) {
-            document.location.href = "search?query=&fromYear="+ d + "&toYear=" + d;
-        });
-
-    // add g element for each year's bars
-    var year = svg.selectAll(".year")
-        .data(data)
-        .enter().append("g")
-        .attr("class", function(d) { return "time-chart__year " + d.Year; })
-        .attr("transform", function(d) { return "translate(0," + y(d.Year) + ")"; });
-
-    // add rect elements with sentiment bars and links to new searches
-    year.selectAll("rect")
-        .data(function(d) { return d.sentiment; })
-        .enter()
-        .append("a")
-        .attr("class", function(d) { return "time-chart__bar--" + d.name.toLowerCase(); })
-        .attr("id", function(d) { return d.name.toLowerCase() + '-' + d.year; })
-        .attr("xlink:href", function(d) {
-            return "search?query=&fromYear="+ d.year + "&toYear=" + d.year + "&sentiment=" + d.name.toLowerCase();
-        })
-        .append("rect")
-        .attr("class", function(d) { return "time-chart__bar--" + d.name.toLowerCase(); })
-        .attr("height", y.rangeBand())
-        .attr("x", function(d) { return isNaN(d.x0) ? null : x(d.x0); })
-        .attr("width", function(d) { return isNaN(d.x1) ? null : x(d.x1) - x(d.x0); })
-        .style("fill", function(d) { return color(d.name); });
-
-    // create legend element
-    var legend = svg.selectAll(".legend")
-        .data(color.domain().slice().reverse())
-        .enter().append("a")
-        .attr("xlink:href", function(d) {
-            return "search?query=&sentiment=" + d.toLowerCase();
-        })
-        .append("g")
-        .attr("class", "legend")
-        .attr("transform", function(d, i) { return "translate(0," + ((height + 60)+ i * 20) + ")"; });
-
-    // add legend colors
-    legend.append("rect")
-        .attr("x", width + margin.right - 14)
-        .attr("width", 18)
-        .attr("height", 18)
-        .style("fill", color);
-
-    // add legend text
-    legend.append("text")
-        .attr("x", width + margin.right - 20)
-        .attr("y", 9)
-        .attr("dy", ".35em")
-        .style("text-anchor", "end")
-        .text(function(d) { return d; });
-
-    timeChartNeedsUpdate = false;
-
-    $('.time-chart-tab .searching-progress').hide();
-    $('.time-chart-tab__description').hide();
-}
-
 // Invoked when new basic data is downloaded
 $(document).on("basicDataLoaded", function(e, data) {
     if (data != null) {
         timeChartNeedsUpdate = true;
         if ($("#tab-timeline").css('display') != "none") {
-            if ($(window).width() < 768) {
-                updateTimeChartMobile();
-            } else {
-                updateTimeChart();
-            }
+            updateTimeChart('results');
         }
     }
 });
@@ -1138,11 +1067,7 @@ $('a[data-toggle="tab"]').on("shown.bs.tab", function(e) {
             break;
         case '#tab-timeline':
             if (timeChartNeedsUpdate) {
-                if ($(window).width() < 768) {
-                    updateTimeChartMobile();
-                } else {
-                    updateTimeChart();
-                }
+                    updateTimeChart('results');
             }
             break;
         case '#tab-geographic':
@@ -1174,3 +1099,18 @@ function addCommas(nStr)
     }
     return x1 + x2;
 }
+
+$('#tab-timeline').on('click', '.time-chart-tab__toggle-domain', function(e) {
+    timeChartNeedsUpdate = true;
+    if($(this).hasClass('time-chart-tab__toggle-domain--results')) {
+        $(this).addClass('time-chart-tab__toggle-domain--all')
+            .removeClass('time-chart-tab__toggle-domain--results')
+            .html('View percentage out of all documents');
+        updateTimeChart(true);
+    } else if($(this).hasClass('time-chart-tab__toggle-domain--all')) {
+        $(this).addClass('time-chart-tab__toggle-domain--results')
+            .removeClass('time-chart-tab__toggle-domain--all')
+            .html('View percentage out of search results');
+        updateTimeChart(false);
+    }
+});
