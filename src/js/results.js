@@ -119,6 +119,11 @@ function requestData() {
         humanQueryString += " sent to: <b>"+placeIdToNames[placeId]+"</b>";
     }
     if(document.getElementById('sentiment').value) {
+        if(humanQueryString == "") {
+            $('#resultsFor').hide();
+        } else {
+            $('#resultsFor').show();
+        }
         humanQueryString += " with <b>"+document.getElementById('sentiment').value+"</b> sentiment scores";
     }
     if(humanQueryString == "") {
@@ -305,7 +310,7 @@ function setupMap() {
 }
 // Invoked when new city data is downloaded
 $(document).on("cityDataLoaded", function(e, data) {
-    if (data != null && data != cityData) {
+    if (data != null && data != cityData && basicData != null) {
         cityData = data;
         mapNeedRerender = true;
         if ($("#tab-geographic")[0].style.display != "none") {
