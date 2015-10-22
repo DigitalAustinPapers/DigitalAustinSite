@@ -34,7 +34,7 @@
 
   &__outer-svg {
     visibility: visible;
-    
+
     &--hidden {
       visibility: hidden;
     }
@@ -64,6 +64,18 @@
       fill: none;
       stroke: #000;
       shape-rendering: crispEdges;
+    }
+  }
+
+  .y.axis {
+    .tick line {
+      opacity: .2;
+    }
+  }
+
+  .x.axis {
+    .tick line {
+      opacity: .2;
     }
   }
 

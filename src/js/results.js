@@ -824,19 +824,26 @@ function updateTimeChart(resultsDomain) {
         var xAxis = d3.svg.axis()
             .scale(x)
             .orient("bottom")
+            .outerTickSize(0)
+            .innerTickSize(-height + 5)
             .tickValues([0, 25, 50, 75, 100]);
 
         var yAxis = d3.svg.axis()
             .scale(y)
+            .outerTickSize(0)
             .orient("left");
+
     } else {
         var xAxis = d3.svg.axis()
             .scale(x)
+            .outerTickSize(0)
             .orient("bottom");
 
         var yAxis = d3.svg.axis()
             .scale(y)
             .orient("left")
+            .outerTickSize(0)
+            .innerTickSize(-width + 5)
             .tickValues([0, 25, 50, 75, 100]);
     }
 
