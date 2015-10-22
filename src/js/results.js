@@ -787,7 +787,7 @@ function updateTimeChart(resultsDomain) {
     var mobile = $(window).width() < 768;
 
     // Set chart variables
-    var margin = {top: 20, right: 100, bottom: 100, left: 60},
+    var margin = {top: 60, right: 100, bottom: 100, left: 50},
         container = d3.select('.time-chart'),
         width = parseInt(container.style('width'))
             - parseInt(container.style('padding-left'))
@@ -888,8 +888,7 @@ function updateTimeChart(resultsDomain) {
             .attr("y", height + margin.bottom - 90)
             .attr("dy", ".71em")
             .text(function() {
-                if(resultsDomain) {}
-                return resultsDomain ? "Percentage out of search results" : "Percentage out of all documents";
+                return resultsDomain ? "% out of search results" : "% out of all documents";
             });
 
         // add y axis labels with links to search
@@ -928,7 +927,7 @@ function updateTimeChart(resultsDomain) {
             .attr("class", "x label")
             .attr("text-anchor", "end")
             .attr("x", width/2)
-            .attr("y", height + margin.bottom - 15)
+            .attr("y", height + margin.bottom - 30)
             .attr("dy", ".71em")
             .text("Year");
 
@@ -941,14 +940,40 @@ function updateTimeChart(resultsDomain) {
         svg.append("text")
             .attr("class", "y label")
             .attr("transform", "rotate(-90)")
-            .attr("y", "-60")
-            .attr("x", "-60")
+            .attr("y", "-50")
+            .attr("x", function() { return -height / 2; })
             .attr("dy", ".71em")
-            .style("text-anchor", "end")
+            .style("text-anchor", "middle")
             .text(function() {
-                return resultsDomain ? "Percentage out of search results" : "Percentage out of all documents";
+                return resultsDomain ? "% out of search results" : "% out of all documents";
             });
     }
+
+    // add scope title
+    svg.append("text")
+        .attr("class", "time-chart__domain-title")
+        .attr("text-anchor", "middle")
+        .attr("x", width/2)
+        .attr("y", -50)
+        .attr("dy", ".71em")
+        .text(function() {
+            return resultsDomain ? "Viewing percentage out of search results" : "Viewing percentage out of all documents";
+        });
+
+    // add scope toggle
+    svg.append("text")
+        .attr("class", "time-chart__domain-toggle")
+        .attr("text-anchor", "middle")
+        .attr("x", width/2)
+        .attr("y", -30)
+        .attr("dy", ".71em")
+        .text(function() {
+            return resultsDomain ? "(Switch to percentage out of all documents)" : "(Switch to percentage out of search results)" ;
+        })
+        .style("cursor", "pointer")
+        .on("click", function() {
+            return resultsDomain ? updateTimeChart(false) : updateTimeChart(true);
+        });
 
     // add g element for each year's bars
     var year = svg.selectAll(".year")
@@ -1008,17 +1033,17 @@ function updateTimeChart(resultsDomain) {
 
     // add legend colors
     legend.append("rect")
-        .attr("x", width + margin.right - 14)
+        .attr("x", width + 2)
         .attr("width", 18)
         .attr("height", 18)
         .style("fill", color);
 
     // add legend text
     legend.append("text")
-        .attr("x", width + margin.right - 20)
+        .attr("x", width + 22)
         .attr("y", 9)
         .attr("dy", ".35em")
-        .style("text-anchor", "end")
+        .style("text-anchor", "start")
         .text(function(d) { return d; });
 
     timeChartNeedsUpdate = false;

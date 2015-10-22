@@ -30,6 +30,7 @@
 }
 
 .time-chart {
+  font-size: .95em;
 
   &__outer-svg {
     visibility: visible;
@@ -39,9 +40,23 @@
     }
   }
 
+  &__domain-title {
+    font-weight: bold;
+  }
+
+  &__domain-toggle {
+    font-size: .8em;
+    fill: $primary-color;
+
+    &:hover {
+      fill: $accent-color-dark;
+    }
+  }
+
   .axis {
     & text {
       font-family: $font-family-monospace;
+      font-size: .9em;
     }
 
     & path,
@@ -50,6 +65,10 @@
       stroke: #000;
       shape-rendering: crispEdges;
     }
+  }
+
+  .label {
+    font-size: .95em;
   }
 
   &__bar--positive {
