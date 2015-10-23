@@ -11,10 +11,11 @@
     </span> -
     <span class="search-results-list__item-summary">{{ result.summary }}</div>
     <span class="search-results-list__item-sentiment" data-sentiment="{{ result.sentimentScore }}">
-      Sentiment: <span class="search-result-list__item-sentiment-score"></span>
-      ({{ result.sentimentScore }} score, in documents ranging from
-      <span class="search-result-list__item-sentiment-score--min"></span> to
-      <span class="search-result-list__item-sentiment-score--max"></span>)
+      Sentiment: <span class="search-result-list__item-sentiment-score"></span> <i class="fa fa-info-circle" data-toggle="tooltip" title="
+      {{ result.sentimentScore }} score, in documents ranging from
+      <span class='search-result-list__item-sentiment-score--min'></span> to
+      <span class='search-result-list__item-sentiment-score--max'></span>
+      "></i>
     </span><!-- search-results-list__item-sentiment -->
   </div><!-- search-results-list__item-details -->
 </li>

@@ -204,6 +204,19 @@ function updateDocuments() {
     $docList.show();
     $sorter.show();
     $description.show();
+
+    // Initialize bootstrap tooltip API for hover tooltips
+    $(function () {
+        $('.documents-tab').find('.fa-info-circle, .fa-question-circle').tooltip({
+            'container': 'body',
+            'placement': 'auto right',
+            'html': true,
+            'template': '<div class="tooltip" role="tooltip">' +
+            '<div class="tooltip-arrow"></div>' +
+            '<div class="tooltip-inner"></div>' +
+            '</div>'
+        })
+    });
 }
 
 $(document).on("basicDataLoaded", function(e, data) {
@@ -310,7 +323,7 @@ function setupMap() {
 }
 // Invoked when new city data is downloaded
 $(document).on("cityDataLoaded", function(e, data) {
-    if (data != null && data != cityData && basicData != null) {
+    if (data != null && data != cityData) {
         cityData = data;
         mapNeedRerender = true;
         if ($("#tab-geographic")[0].style.display != "none") {
@@ -666,7 +679,7 @@ function wordChart(dataset, divId) {
 
     // Initialize bootstrap tooltip API for hover tooltips
     $(function () {
-        $('[data-toggle="tooltip"]').tooltip({
+        $('.word-chart-tab').find('[data-toggle="tooltip"]').tooltip({
             'container': 'body',
             'html': true,
             'template': '<div class="tooltip timechart__tooltip" role="tooltip">' +
@@ -743,7 +756,7 @@ function timelineData(resultsDomain) {
             }
             var total = 0;
             if(resultsDomain) {
-                total = negative[yearStr] + neutral[yearStr] + positive[yearStr];
+                total = basicData['json'].length;
             } else {
                 if (totalDocDistribution[yearStr] !== undefined) {
                     total = parseInt(totalDocDistribution[yearStr]);
@@ -795,7 +808,10 @@ function updateTimeChart(resultsDomain) {
         height = mobile ? 750 : 500;
 
     // mobile margin adjustments
-    if(mobile) { margin.bottom = 125; }
+    if(mobile) {
+        margin.bottom = 125;
+        margin.right = 50;
+    }
 
     // adjust for margins
     width = width - margin.left - margin.right;
@@ -1013,13 +1029,13 @@ function updateTimeChart(resultsDomain) {
         .append("rect")
         .attr("class", function(d) { return "time-chart__bar--" + d.name.toLowerCase(); })
         .attr("width", function(d) {
-            return mobile ? isNaN(d.xy1) ? null : x(d.xy1) - x(d.xy0) : x.rangeBand();
+            return mobile ? (isNaN(d.xy1) ? null : x(d.xy1) - x(d.xy0)) : x.rangeBand();
         })
         .attr("y", function(d) {
-            return mobile ? null : isNaN(d.xy1) ? null : y(d.xy1);
+            return mobile ? null : (isNaN(d.xy1) ? null : y(d.xy1));
         })
         .attr("height", function(d) {
-            return mobile ? y.rangeBand() : isNaN(d.xy1) ? null : y(d.xy0) - y(d.xy1);
+            return mobile ? y.rangeBand() : (isNaN(d.xy1) ? null : y(d.xy0) - y(d.xy1));
              })
         .attr("x", function(d) {
             return mobile ? (isNaN(d.xy0) ? null : x(d.xy0)) : null; })
@@ -1035,7 +1051,7 @@ function updateTimeChart(resultsDomain) {
         .append("g")
         .attr("class", "legend")
         .attr("transform", function(d, i) {
-            return mobile ? "translate(0," + ((height + 60)+ i * 20) + ")" : "translate(0," + i * 20 + ")";
+            return mobile ? "translate(-50," + ((height + 60)+ i * 20) + ")" : "translate(0," + i * 20 + ")";
         });
 
     // add legend colors
