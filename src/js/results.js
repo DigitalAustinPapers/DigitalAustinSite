@@ -980,7 +980,7 @@ function updateTimeChart(resultsDomain) {
         .attr("y", -50)
         .attr("dy", ".71em")
         .text(function() {
-            return resultsDomain ? "Viewing percentage out of search results" : "Viewing percentage out of all documents";
+            return resultsDomain ? "Viewing search results distribution over time" : "Viewing percentage out of all documents";
         });
 
     // add scope toggle
@@ -991,7 +991,7 @@ function updateTimeChart(resultsDomain) {
         .attr("y", -30)
         .attr("dy", ".71em")
         .text(function() {
-            return resultsDomain ? "(Switch to percentage out of all documents)" : "(Switch to percentage out of search results)" ;
+            return resultsDomain ? "(See percentage out of all documents)" : "(See search results distribution over time)" ;
         })
         .style("cursor", "pointer")
         .on("click", function() {
