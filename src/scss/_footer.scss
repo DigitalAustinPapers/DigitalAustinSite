@@ -56,7 +56,7 @@
     }
 
     h3 {
-      padding-left: 15px;
+      text-align: center;
     }
 
     @media (max-width: $screen-xs-max) {
@@ -76,5 +76,10 @@
     @extend .center-block;
 
     max-width: 125px;
+
+    &-summerlee {
+      max-width: 150px;
+      width: 150px;
+    }
   }
 }
