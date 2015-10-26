@@ -698,7 +698,7 @@ var timeChart;
 var timeChartNeedsUpdate = true;
 
 // Convert basicData so it's usable by D3
-function timelineData(resultsDomain) {
+function timelineData() {
     if (basicData != null) {
         var years = {},
             positive = {},
@@ -745,7 +745,12 @@ function timelineData(resultsDomain) {
             }
         }
 
-        var chartData = [['Year', 'Negative','Neutral','Positive']];
+        var chartData = {};
+
+        chartData['sentiment'] = [];
+        chartData['sentiment'].push(['year', 'negative', 'neutral', 'positive']);
+        chartData['distribution'] = [];
+        chartData['distribution'].push(['year', 'total']);
 
         for (var i=minYear; i<=maxYear; i++) {
             var yearStr = i.toString(),
@@ -754,16 +759,22 @@ function timelineData(resultsDomain) {
             if (years[yearStr] !== undefined) {
                 value = years[yearStr];
             }
-            var total = 0;
-            if(resultsDomain) {
-                total = basicData['json'].length;
+
+            var yearTotal = Math.floor(negative[yearStr] + neutral[yearStr] + positive[yearStr]);
+
+            if(!isNaN(yearTotal)) {
+                chartData['distribution'].push([yearStr,
+                    Math.floor((negative[yearStr] + neutral[yearStr] + positive[yearStr]) / basicData['json'].length * 1000)/10]);
             } else {
-                if (totalDocDistribution[yearStr] !== undefined) {
-                    total = parseInt(totalDocDistribution[yearStr]);
-                }
+                chartData['distribution'].push([yearStr, 0]);
             }
 
-            chartData.push([yearStr,
+            var total = 0;
+            if (totalDocDistribution[yearStr] !== undefined) {
+                total = parseInt(totalDocDistribution[yearStr]);
+            }
+
+            chartData['sentiment'].push([yearStr,
                 Math.floor(negative[yearStr] / total * 1000)/10,
                 Math.floor(neutral[yearStr] / total * 1000)/10,
                 Math.floor(positive[yearStr] / total * 1000)/10]);
@@ -782,9 +793,12 @@ function updateTimeChart(resultsDomain) {
     $('.time-chart-tab .searching-progress').show();
 
     // Assign dataset from function call
-    var dataSet = timelineData(resultsDomain);
+    var dataSet = timelineData(resultsDomain)['sentiment'];
+    // Assign dataset for line graph
+    var dataSetLine = timelineData()['distribution'];
     // Assign array of headers and remove from data
     var headers = dataSet.shift();
+    var headersLine = dataSetLine.shift();
 
     // Map all years data to objects in data array
     var data = dataSet.map(function(obj) {
@@ -795,6 +809,15 @@ function updateTimeChart(resultsDomain) {
         rObj[headers[3]] = obj[3];
         return rObj;
     });
+
+    var dataLine = dataSetLine.map(function(obj) {
+        var rObj = {};
+        rObj[headersLine[0]] = obj[0];
+        rObj[headersLine[1]] = obj[1];
+        return rObj;
+    });
+
+    console.log(dataLine);
 
     // Determine if we're creating mobile version based on window width
     var mobile = $(window).width() < 768;
@@ -824,9 +847,16 @@ function updateTimeChart(resultsDomain) {
 
         var y = d3.scale.ordinal()
             .rangeRoundBands([0, height], .1);
+
+        var yLine = d3.scale.ordinal()
+            .rangeBands([0, height], 0);
+
     } else {
         var x = d3.scale.ordinal()
             .rangeRoundBands([0, width],.1);
+
+        var xLine = d3.scale.ordinal()
+            .rangeBands([0, width], 0);
 
         var y = d3.scale.linear()
             .range([height, 0]);
@@ -876,16 +906,17 @@ function updateTimeChart(resultsDomain) {
     // Assign scale domains
     if(mobile) {
         x.domain([0, d3.max(data, function(d) {
-            return d.Positive + d.Neutral + d.Negative;
+            return d.positive + d.neutral + d.negative;
         })]);
-        y.domain(data.map(function(d) { return d.Year; }));
+        y.domain(data.map(function(d) { return d.year; }));
     } else {
-        x.domain(data.map(function(d) { return d.Year; }));
+        x.domain(data.map(function(d) { return d.year; }));
+        xLine.domain(dataLine.map(function(d) { return d.year; }));
         y.domain([0, d3.max(data, function(d) {
-            return d.Positive + d.Neutral + d.Negative;
+            return d.positive + d.neutral + d.negative;
         })]);
     }
-    color.domain(headers.filter(function(d) { return d !== "Year"; }));
+    color.domain(headers.filter(function(d) { return d !== "year"; }));
 
     // Bind colors and coordinates to each year/sentiment
     data.forEach(function(d) {
@@ -893,7 +924,7 @@ function updateTimeChart(resultsDomain) {
         d.sentiment = color.domain().map(function(name) {
             return {
                 name: name,
-                year: d['Year'],
+                year: d['year'],
                 xy0: xy0,
                 xy1: xy0 += +d[name]
             };
@@ -1007,12 +1038,12 @@ function updateTimeChart(resultsDomain) {
     var year = svg.selectAll(".year")
         .data(data)
         .enter().append("g")
-        .attr("class", function(d) { return "time-chart__year " + d.Year; })
+        .attr("class", function(d) { return "time-chart__year " + d.year; })
         .attr("transform", function(d) {
             if(mobile) {
-                return "translate(0," + y(d.Year) + ")";
+                return "translate(0," + y(d.year) + ")";
             } else {
-                return "translate(" + x(d.Year) + ",0)";
+                return "translate(" + x(d.year) + ",0)";
             }
         });
 
@@ -1045,6 +1076,15 @@ function updateTimeChart(resultsDomain) {
         .attr("x", function(d) {
             return mobile ? (isNaN(d.xy0) ? null : x(d.xy0)) : null; })
         .style("fill", function(d) { return color(d.name); });
+
+    var line = d3.svg.line()
+        .x(function(d) { return xLine(d.year); })
+        .y(function(d) { return y(d.total); });
+
+    svg.append("path")
+        .datum(dataLine)
+        .attr("class", "time-chart__line")
+        .attr("d", line);
 
     // create legend element
     var legend = svg.selectAll(".legend")

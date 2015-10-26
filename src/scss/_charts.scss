@@ -100,6 +100,12 @@
       fill: darken($brand-danger, 10%) !important;
     }
   }
+
+  &__line {
+    fill: none;
+    stroke: black;
+    stroke-width: 1.5px;
+  }
 }
 
 .geographic-chart-tab__legend {
