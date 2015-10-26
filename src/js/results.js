@@ -860,7 +860,8 @@ function updateTimeChart(resultsDomain) {
             .orient("left")
             .outerTickSize(0)
             .innerTickSize(-width + 5)
-            .tickValues([0, 25, 50, 75, 100]);
+            .ticks(5);
+            //.tickValues([0, 25, 50, 75, 100]);
     }
 
     // Create svg outer and inner elements
@@ -874,11 +875,15 @@ function updateTimeChart(resultsDomain) {
 
     // Assign scale domains
     if(mobile) {
-        x.domain([0, 100]);
+        x.domain([0, d3.max(data, function(d) {
+            return d.Positive + d.Neutral + d.Negative;
+        })]);
         y.domain(data.map(function(d) { return d.Year; }));
     } else {
         x.domain(data.map(function(d) { return d.Year; }));
-        y.domain([0, 100]);
+        y.domain([0, d3.max(data, function(d) {
+            return d.Positive + d.Neutral + d.Negative;
+        })]);
     }
     color.domain(headers.filter(function(d) { return d !== "Year"; }));
 
