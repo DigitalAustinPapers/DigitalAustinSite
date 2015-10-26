@@ -4,8 +4,6 @@
 // https://github.com/gulpjs/gulp/blob/master/docs/recipes/combining-streams-to-handle-errors.md#combining-streams-to-handle-errors
 
 var gulp = require('gulp'),
-    sourcemaps = require('gulp-sourcemaps'),
-    babel = require('gulp-babel'),
     uglify = require('gulp-uglify'),
     combiner = require('stream-combiner2'),
     config = require('../config').scripts;
@@ -13,10 +11,7 @@ var gulp = require('gulp'),
 gulp.task('uglify', function() {
   var combined = combiner.obj([
     gulp.src(config.src),
-    sourcemaps.init(),
-    babel(),
     uglify(),
-    sourcemaps.write('.'),
     gulp.dest(config.dest)
   ]);
 
