@@ -19,7 +19,6 @@ class TemplateRenderer {
       'debug' => false,
       'charset' => 'utf-8',
       'cache' => $this->template_dir.'compilation_cache',
-      'auto_reload' => true,
     );
 
     // Twig loader
