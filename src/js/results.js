@@ -817,8 +817,6 @@ function updateTimeChart(resultsDomain) {
         return rObj;
     });
 
-    console.log(dataLine);
-
     // Determine if we're creating mobile version based on window width
     var mobile = $(window).width() < 768;
 
@@ -848,15 +846,9 @@ function updateTimeChart(resultsDomain) {
         var y = d3.scale.ordinal()
             .rangeRoundBands([0, height], .1);
 
-        var yLine = d3.scale.ordinal()
-            .rangeBands([0, height], 0);
-
     } else {
         var x = d3.scale.ordinal()
             .rangeRoundBands([0, width],.1);
-
-        var xLine = d3.scale.ordinal()
-            .rangeBands([0, width], 0);
 
         var y = d3.scale.linear()
             .range([height, 0]);
@@ -911,7 +903,6 @@ function updateTimeChart(resultsDomain) {
         y.domain(data.map(function(d) { return d.year; }));
     } else {
         x.domain(data.map(function(d) { return d.year; }));
-        xLine.domain(dataLine.map(function(d) { return d.year; }));
         y.domain([0, d3.max(data, function(d) {
             return d.positive + d.neutral + d.negative;
         })]);
@@ -1077,9 +1068,15 @@ function updateTimeChart(resultsDomain) {
             return mobile ? (isNaN(d.xy0) ? null : x(d.xy0)) : null; })
         .style("fill", function(d) { return color(d.name); });
 
-    var line = d3.svg.line()
-        .x(function(d) { return xLine(d.year); })
-        .y(function(d) { return y(d.total); });
+    if(mobile) {
+        var line = d3.svg.line()
+            .x(function(d) { return x(d.total); })
+            .y(function(d) { return y(d.year) + d3.select('.time-chart__year').select('rect').node().getBBox().height / 2; });
+    } else {
+        var line = d3.svg.line()
+            .x(function(d) { return x(d.year) + d3.select('.time-chart__year').select('rect').node().getBBox().width / 2; })
+            .y(function(d) { return y(d.total); });
+    }
 
     svg.append("path")
         .datum(dataLine)
