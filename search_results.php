@@ -20,7 +20,7 @@
 //  result", "date":"2012-5-16", "cityId":1234}]
 //
 
-#Returns an array of character n-grams from the target string
+// Returns an array of character n-grams from the target string
 
 session_start();
 
@@ -35,12 +35,13 @@ $database = connectToDB();
 $sql = buildDocumentSearchQuery();
 
 $docData = array();
+$sentimentScores = array();
 $result = mysqli_query($GLOBALS["___mysqli_ston"], $sql) or die($sql . "<br>" . ((is_object($GLOBALS["___mysqli_ston"])) ? mysqli_error($GLOBALS["___mysqli_ston"]) : (($___mysqli_res = mysqli_connect_error()) ? $___mysqli_res : false)));
 while ($row = mysqli_fetch_assoc($result))
 {
   array_push($docData, $row);
+  array_push($sentimentScores, $row['sentimentScore']);
 }
-//print json_encode($docData);
 
 logString("search.php end");
 
@@ -48,9 +49,14 @@ $search_results = array();
 
 $template = new TemplateRenderer();
 
+$min_sentiment = min($sentimentScores);
+$max_sentiment = max($sentimentScores);
+
 foreach ($docData as $result_key => $result_value) {
   $rendered_template = $template->render('_search_result.twig', array(
     'result' => $result_value,
+    'min_sentiment' => $min_sentiment,
+    'max_sentiment' => $max_sentiment,
   ));
   array_push($search_results, $rendered_template);
 }

@@ -204,19 +204,6 @@ function updateDocuments() {
     $docList.show();
     $sorter.show();
     $description.show();
-
-    // Initialize bootstrap tooltip API for hover tooltips
-    $(function () {
-        $('.documents-tab').find('.fa-info-circle, .fa-question-circle').tooltip({
-            'container': 'body',
-            'placement': 'auto right',
-            'html': true,
-            'template': '<div class="tooltip" role="tooltip">' +
-            '<div class="tooltip-arrow"></div>' +
-            '<div class="tooltip-inner"></div>' +
-            '</div>'
-        })
-    });
 }
 
 $(document).on("basicDataLoaded", function(e, data) {
@@ -237,36 +224,38 @@ $('input:radio[name=sort]').on('click', function(e) {
 // Update class based on sentiment. Do that here instead of in template
 // because thresholds are defined in the javascript.
 function updateSentiment() {
-    var minSentiment = Number.POSITIVE_INFINITY,
-        maxSentiment = Number.NEGATIVE_INFINITY,
-        tmp;
-
-    for (var i=basicData.json.length-1; i>=0; i--) {
-        tmp = parseFloat(basicData.json[i].sentimentScore);
-        if (tmp < minSentiment) minSentiment = tmp;
-        if (tmp > maxSentiment) maxSentiment = tmp;
-    }
 
     $('.search-results-list__item-sentiment').each(function() {
-        $(this).find('.search-result-list__item-sentiment-score--min').text(minSentiment);
-        $(this).find('.search-result-list__item-sentiment-score--max').text(maxSentiment);
 
         var $sentimentElement = $(this),
             $score = $sentimentElement.attr('data-sentiment');
 
         if ($score < negativeThreshold) {
-            $sentimentElement.find('.search-result-list__item-sentiment-score')
+            $sentimentElement.find('.search-results-list__item-sentiment-score')
                 .addClass('sentiment-negative')
                 .text('Negative');
         } else if($score > positiveThreshold) {
-            $sentimentElement.find('.search-result-list__item-sentiment-score')
+            $sentimentElement.find('.search-results-list__item-sentiment-score')
                 .addClass('sentiment-positive')
                 .text('Positive');
         } else {
-            $sentimentElement.find('.search-result-list__item-sentiment-score')
+            $sentimentElement.find('.search-results-list__item-sentiment-score')
                 .addClass('sentiment-neutral')
                 .text('Neutral');
         }
+    });
+
+    // Initialize bootstrap tooltip API for hover tooltips
+    $(function () {
+        $('.documents-tab').find('.fa-info-circle, .fa-question-circle').tooltip({
+            'container': 'body',
+            'placement': 'auto right',
+            'html': true,
+            'template': '<div class="tooltip" role="tooltip">' +
+            '<div class="tooltip-arrow"></div>' +
+            '<div class="tooltip-inner"></div>' +
+            '</div>'
+        })
     });
 }
 
