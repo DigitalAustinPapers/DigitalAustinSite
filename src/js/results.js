@@ -259,10 +259,7 @@ function updateSentiment() {
     });
 }
 
-/*
- * Document tab paging
- */
-
+// Document tab paging
 function updatePage(pageSlice) {
     /* Updates the current page when a page button is clicked
      * @param {array} pageSlice This is an array with 2 values:
@@ -276,6 +273,470 @@ function updatePage(pageSlice) {
         .append(newPage)
         .first().attr('start', pageSlice[0]+1);
 }
+
+/*
+ Timeline tab
+ */
+
+var timeChart;
+var timeChartNeedsUpdate = true;
+
+// Convert basicData so it's usable by D3
+function timelineData() {
+    if (basicData != null) {
+        var years = {},
+            positive = {},
+            neutral = {},
+            negative = {};
+
+        for (var i=0; i<basicData['json'].length; i++) {
+            var year = basicData['json'][i].date.substring(0, 4);
+
+            if (years[year] === undefined) {
+                years[year] = 1;
+            } else {
+                years[year]++;
+            }
+
+            if (positive[year] === undefined) {
+                positive[year] = 0;
+                neutral[year] = 0;
+                negative[year] = 0;
+            }
+
+            if (basicData['json'][i].sentimentScore < negativeThreshold) {
+                negative[year]++;
+            } else if (basicData['json'][i].sentimentScore > positiveThreshold) {
+                positive[year]++;
+            } else {
+                neutral[year]++;
+            }
+        }
+
+        var minYear = 2000,
+            maxYear = 1000;
+
+        for (var key in totalDocDistribution) {
+            // Find years with at least 15 documents
+            if (parseInt(totalDocDistribution[key]) >= 15) {
+                var intYear = parseInt(key);
+                if (intYear < minYear) {
+                    minYear = intYear;
+                }
+                if (parseInt(key) > maxYear) {
+                    maxYear = intYear;
+                }
+            }
+        }
+
+        var chartData = {};
+
+        chartData['sentiment'] = [];
+        chartData['sentiment'].push(['year', 'negative', 'neutral', 'positive']);
+        chartData['distribution'] = [];
+        chartData['distribution'].push(['year', 'total']);
+
+        for (var i=minYear; i<=maxYear; i++) {
+            var yearStr = i.toString(),
+                value = 0;
+
+            if (years[yearStr] !== undefined) {
+                value = years[yearStr];
+            }
+
+            var yearTotal = Math.floor(negative[yearStr] + neutral[yearStr] + positive[yearStr]);
+
+            if(!isNaN(yearTotal)) {
+                chartData['distribution'].push([yearStr,
+                    Math.floor((negative[yearStr] + neutral[yearStr] + positive[yearStr]) / basicData['json'].length * 1000)/10]);
+            } else {
+                chartData['distribution'].push([yearStr, 0]);
+            }
+
+            var total = 0;
+            if (totalDocDistribution[yearStr] !== undefined) {
+                total = parseInt(totalDocDistribution[yearStr]);
+            }
+
+            chartData['sentiment'].push([yearStr,
+                Math.floor(negative[yearStr] / total * 1000)/10,
+                Math.floor(neutral[yearStr] / total * 1000)/10,
+                Math.floor(positive[yearStr] / total * 1000)/10]);
+        }
+    }
+    return chartData;
+}
+
+function updateTimeChart(resultsDomain) {
+    /* Updates the timeline chart
+     * @param {bool} resultsDomain Whether to plot the chart using search results (true)
+     *                             or all documents (false)
+     */
+
+    $('.time-chart__outer-svg').attr('class', 'time-chart__outer-svg--hidden');
+    $('.time-chart-tab .searching-progress').show();
+
+    // Assign dataset from function call
+    var dataSet = timelineData(resultsDomain)['sentiment'];
+    // Assign dataset for line graph
+    var dataSetLine = timelineData()['distribution'];
+    // Assign array of headers and remove from data
+    var headers = dataSet.shift();
+    var headersLine = dataSetLine.shift();
+
+    // Map all years data to objects in data array
+    var data = dataSet.map(function(obj) {
+        var rObj = {};
+        rObj[headers[0]] = obj[0];
+        rObj[headers[1]] = obj[1];
+        rObj[headers[2]] = obj[2];
+        rObj[headers[3]] = obj[3];
+        return rObj;
+    });
+
+    var dataLine = dataSetLine.map(function(obj) {
+        var rObj = {};
+        rObj[headersLine[0]] = obj[0];
+        rObj[headersLine[1]] = obj[1];
+        return rObj;
+    });
+
+    // Determine if we're creating mobile version based on window width
+    var mobile = $(window).width() < 768;
+
+    // Set chart variables
+    var margin = {top: 60, right: 100, bottom: 100, left: 50},
+        container = d3.select('.time-chart'),
+        width = parseInt(container.style('width'))
+            - parseInt(container.style('padding-left'))
+            - parseInt(container.style('padding-right')),
+        height = mobile ? 750 : 500;
+
+    // mobile margin adjustments
+    if(mobile) {
+        margin.bottom = 125;
+        margin.right = 50;
+    }
+
+    // adjust for margins
+    width = width - margin.left - margin.right;
+    height = height - margin.top - margin.bottom;
+
+    // Set scales and ranges
+    if (mobile) {
+        var x = d3.scale.linear()
+            .range([0, width]);
+
+        var y = d3.scale.ordinal()
+            .rangeRoundBands([0, height], .1);
+
+    } else {
+        var x = d3.scale.ordinal()
+            .rangeRoundBands([0, width],.1);
+
+        var y = d3.scale.linear()
+            .range([height, 0]);
+    }
+
+    var color = d3.scale.ordinal()
+        .range(["#d9534f", "#727272", "#5cb85c"]);
+
+    // Set axes
+    if(mobile) {
+        var xAxis = d3.svg.axis()
+            .scale(x)
+            .orient("bottom")
+            .outerTickSize(0)
+            .innerTickSize(-height + 5)
+            .tickValues([0, 25, 50, 75, 100]);
+
+        var yAxis = d3.svg.axis()
+            .scale(y)
+            .outerTickSize(0)
+            .orient("left");
+
+    } else {
+        var xAxis = d3.svg.axis()
+            .scale(x)
+            .outerTickSize(0)
+            .orient("bottom");
+
+        var yAxis = d3.svg.axis()
+            .scale(y)
+            .orient("left")
+            .outerTickSize(0)
+            .innerTickSize(-width + 5)
+            .ticks(5);
+        //.tickValues([0, 25, 50, 75, 100]);
+    }
+
+    // Create svg outer and inner elements
+    var svg = d3.select(".time-chart").append("svg")
+        .attr("class", "time-chart__outer-svg")
+        .attr("width", width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom)
+        .append("g")
+        .attr("class", "time-chart__inner-g")
+        .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+    // Assign scale domains
+    if(mobile) {
+        x.domain([0, d3.max(data, function(d) {
+            return d.positive + d.neutral + d.negative;
+        })]);
+        y.domain(data.map(function(d) { return d.year; }));
+    } else {
+        x.domain(data.map(function(d) { return d.year; }));
+        y.domain([0, d3.max(data, function(d) {
+            return d.positive + d.neutral + d.negative;
+        })]);
+    }
+    color.domain(headers.filter(function(d) { return d !== "year"; }));
+
+    // Bind colors and coordinates to each year/sentiment
+    data.forEach(function(d) {
+        var xy0 = 0;
+        d.sentiment = color.domain().map(function(name) {
+            return {
+                name: name,
+                year: d['year'],
+                xy0: xy0,
+                xy1: xy0 += +d[name]
+            };
+        });
+        d.total = d.sentiment[d.sentiment.length -1].xy1;
+    });
+
+    if(mobile) {
+        // add x axis
+        svg.append("g")
+            .attr("class", "x axis")
+            .attr("transform", "translate(0," + height + ")")
+            .call(xAxis);
+
+        // add x axis label
+        svg.append("text")
+            .attr("class", "x label")
+            .attr("text-anchor", "middle")
+            .attr("x", width/2)
+            .attr("y", height + margin.bottom - 90)
+            .attr("dy", ".71em")
+            .text(function() {
+                return resultsDomain ? "% out of search results" : "% out of all documents";
+            });
+
+        // add y axis labels with links to search
+        svg.append("g")
+            .attr("class", "y axis")
+            .call(yAxis)
+            .selectAll("text")
+            .filter(function(d) { return typeof(d) == "string"; })
+            .style("cursor", "pointer")
+            .on("click", function(d) {
+                document.location.href = "search?query=&fromYear="+ d + "&toYear=" + d;
+            });
+    } else {
+        // add x axis labels with links to search
+        svg.append("g")
+            .attr("class", "x axis")
+            .attr("transform", "translate(0," + height + ")")
+            .call(xAxis)
+            .selectAll("text")
+            .filter(function(d) { return typeof(d) == "string"; })
+            .style("cursor", "pointer")
+            .on("click", function(d) {
+                document.location.href = "search?query=&fromYear="+ d + "&toYear=" + d;
+            })
+            .style("text-anchor", "end")
+            .attr("dx", "-.8em")
+            .attr("dy", ".15em")
+            .attr("transform", "rotate(-65)")
+            .attr("data-toggle", "tooltip")
+            .attr("title", function(d) {
+                return d + "</br>" + totalDocDistribution[d] + " letters";
+            });
+
+        // add x axis label
+        svg.append("text")
+            .attr("class", "x label")
+            .attr("text-anchor", "end")
+            .attr("x", width/2)
+            .attr("y", height + margin.bottom - 30)
+            .attr("dy", ".71em")
+            .text("Year");
+
+        // add y axis
+        svg.append("g")
+            .attr("class", "y axis")
+            .call(yAxis);
+
+        // add y axis label
+        svg.append("text")
+            .attr("class", "y label")
+            .attr("transform", "rotate(-90)")
+            .attr("y", "-50")
+            .attr("x", function() { return -height / 2; })
+            .attr("dy", ".71em")
+            .style("text-anchor", "middle")
+            .text(function() {
+                return resultsDomain ? "% out of search results" : "% out of all documents";
+            });
+    }
+
+    // add scope title
+    svg.append("text")
+        .attr("class", "time-chart__domain-title")
+        .attr("text-anchor", "middle")
+        .attr("x", width/2)
+        .attr("y", -50)
+        .attr("dy", ".71em")
+        .text(function() {
+            return resultsDomain ? "Viewing search results distribution over time" : "Viewing percentage out of all documents";
+        });
+
+    // add scope toggle
+    svg.append("text")
+        .attr("class", "time-chart__domain-toggle")
+        .attr("text-anchor", "middle")
+        .attr("x", width/2)
+        .attr("y", -30)
+        .attr("dy", ".71em")
+        .text(function() {
+            return resultsDomain ? "(See percentage out of all documents)" : "(See search results distribution over time)" ;
+        })
+        .style("cursor", "pointer")
+        .on("click", function() {
+            return resultsDomain ? updateTimeChart(false) : updateTimeChart(true);
+        });
+
+    // add g element for each year's bars
+    var year = svg.selectAll(".year")
+        .data(data)
+        .enter().append("g")
+        .attr("class", function(d) { return "time-chart__year " + d.year; })
+        .attr("transform", function(d) {
+            if(mobile) {
+                return "translate(0," + y(d.year) + ")";
+            } else {
+                return "translate(" + x(d.year) + ",0)";
+            }
+        });
+
+    // add rect elements with sentiment bars and links to new searches
+    year.selectAll("rect")
+        .data(function(d) { return d.sentiment; })
+        .enter()
+        .append("a")
+        .attr("class", function(d) { return "time-chart__bar--" + d.name.toLowerCase(); })
+        .attr("id", function(d) { return d.name.toLowerCase() + '-' + d.year; })
+        .attr("xlink:href", function(d) {
+            return "search?query=&fromYear="+ d.year + "&toYear=" + d.year + "&sentiment=" + d.name.toLowerCase();
+        })
+        .attr("data-toggle", "tooltip")
+        .attr("title", function(d) {
+            var sentPercent = parseFloat(d.xy1 - d.xy0).toFixed(1);
+            return d.year + "</br>" + d.name + ": " + (sentPercent % 1 === 0 ? parseInt(sentPercent) : sentPercent);
+        })
+        .append("rect")
+        .attr("class", function(d) { return "time-chart__bar--" + d.name.toLowerCase(); })
+        .attr("width", function(d) {
+            return mobile ? (isNaN(d.xy1) ? null : x(d.xy1) - x(d.xy0)) : x.rangeBand();
+        })
+        .attr("y", function(d) {
+            return mobile ? null : (isNaN(d.xy1) ? null : y(d.xy1));
+        })
+        .attr("height", function(d) {
+            return mobile ? y.rangeBand() : (isNaN(d.xy1) ? null : y(d.xy0) - y(d.xy1));
+        })
+        .attr("x", function(d) {
+            return mobile ? (isNaN(d.xy0) ? null : x(d.xy0)) : null; })
+        .style("fill", function(d) { return color(d.name); });
+
+    if(mobile) {
+        var line = d3.svg.line()
+            .x(function(d) { return x(d.total); })
+            .y(function(d) { return y(d.year) + d3.select('.time-chart__year').select('rect').node().getBBox().height / 2; });
+    } else {
+        var line = d3.svg.line()
+            .x(function(d) { return x(d.year) + d3.select('.time-chart__year').select('rect').node().getBBox().width / 2; })
+            .y(function(d) { return y(d.total); });
+    }
+
+    svg.append("path")
+        .datum(dataLine)
+        .attr("class", "time-chart__line")
+        .attr("d", line);
+
+    // create legend element
+    var legend = svg.selectAll(".legend")
+        .data(color.domain().slice().reverse())
+        .enter().append("a")
+        .attr("xlink:href", function(d) {
+            return "search?query=&sentiment=" + d.toLowerCase();
+        })
+        .append("g")
+        .attr("class", "legend")
+        .attr("transform", function(d, i) {
+            return mobile ? "translate(-50," + ((height + 60)+ i * 20) + ")" : "translate(0," + i * 20 + ")";
+        });
+
+    // add legend colors
+    legend.append("rect")
+        .attr("x", width + 2)
+        .attr("width", 18)
+        .attr("height", 18)
+        .style("fill", color);
+
+    // add legend text
+    legend.append("text")
+        .attr("x", width + 22)
+        .attr("y", 9)
+        .attr("dy", ".35em")
+        .style("text-anchor", "start")
+        .text(function(d) { return d; });
+
+    timeChartNeedsUpdate = false;
+
+    $('.time-chart-tab .searching-progress').hide();
+    $('.time-chart-tab__description').show();
+    $('.time-chart__outer-svg--hidden').remove();
+
+    // Initialize bootstrap tooltip API for hover tooltips
+    $(function () {
+        $('a[class^=time-chart__bar]').tooltip({
+            'container': 'body',
+            'placement': 'auto right',
+            'html': true,
+            'template': '<div class="tooltip timechart__tooltip" role="tooltip">' +
+            '<div class="tooltip-arrow timechart__tooltip-arrow"></div>' +
+            '<div class="tooltip-inner timechart__tooltip-inner"></div>' +
+            '</div>'
+        })
+    });
+
+    // Initialize bootstrap tooltip API for hover tooltips
+    $(function () {
+        $('.x.axis').find('text').tooltip({
+            'container': 'body',
+            'placement': 'auto top',
+            'html': true,
+            'template': '<div class="tooltip timechart__tooltip" role="tooltip">' +
+            '<div class="tooltip-arrow timechart__tooltip-arrow"></div>' +
+            '<div class="tooltip-inner timechart__tooltip-inner"></div>' +
+            '</div>'
+        })
+    })
+}
+
+// Invoked when new basic data is downloaded
+$(document).on("basicDataLoaded", function(e, data) {
+    if (data != null) {
+        timeChartNeedsUpdate = true;
+        if ($("#tab-timeline").css('display') != "none") {
+            updateTimeChart('results');
+        }
+    }
+});
 
 /*
   Geographic tab
@@ -512,7 +973,7 @@ function redrawMarkers() {
 }
 
 /*
-  Chart tab
+  Word Counts tab
  */
 
 var chartsNeedRerender = false;
@@ -680,468 +1141,8 @@ function wordChart(dataset, divId) {
 }
 
 /*
-  Timeline tab
+    Miscellaneous
  */
-
-var timeChart;
-var timeChartNeedsUpdate = true;
-
-// Convert basicData so it's usable by D3
-function timelineData() {
-    if (basicData != null) {
-        var years = {},
-            positive = {},
-            neutral = {},
-            negative = {};
-
-        for (var i=0; i<basicData['json'].length; i++) {
-            var year = basicData['json'][i].date.substring(0, 4);
-
-            if (years[year] === undefined) {
-                years[year] = 1;
-            } else {
-                years[year]++;
-            }
-
-            if (positive[year] === undefined) {
-                positive[year] = 0;
-                neutral[year] = 0;
-                negative[year] = 0;
-            }
-
-            if (basicData['json'][i].sentimentScore < negativeThreshold) {
-                negative[year]++;
-            } else if (basicData['json'][i].sentimentScore > positiveThreshold) {
-                positive[year]++;
-            } else {
-                neutral[year]++;
-            }
-        }
-
-        var minYear = 2000,
-            maxYear = 1000;
-
-        for (var key in totalDocDistribution) {
-            // Find years with at least 15 documents
-            if (parseInt(totalDocDistribution[key]) >= 15) {
-                var intYear = parseInt(key);
-                if (intYear < minYear) {
-                    minYear = intYear;
-                }
-                if (parseInt(key) > maxYear) {
-                    maxYear = intYear;
-                }
-            }
-        }
-
-        var chartData = {};
-
-        chartData['sentiment'] = [];
-        chartData['sentiment'].push(['year', 'negative', 'neutral', 'positive']);
-        chartData['distribution'] = [];
-        chartData['distribution'].push(['year', 'total']);
-
-        for (var i=minYear; i<=maxYear; i++) {
-            var yearStr = i.toString(),
-                value = 0;
-
-            if (years[yearStr] !== undefined) {
-                value = years[yearStr];
-            }
-
-            var yearTotal = Math.floor(negative[yearStr] + neutral[yearStr] + positive[yearStr]);
-
-            if(!isNaN(yearTotal)) {
-                chartData['distribution'].push([yearStr,
-                    Math.floor((negative[yearStr] + neutral[yearStr] + positive[yearStr]) / basicData['json'].length * 1000)/10]);
-            } else {
-                chartData['distribution'].push([yearStr, 0]);
-            }
-
-            var total = 0;
-            if (totalDocDistribution[yearStr] !== undefined) {
-                total = parseInt(totalDocDistribution[yearStr]);
-            }
-
-            chartData['sentiment'].push([yearStr,
-                Math.floor(negative[yearStr] / total * 1000)/10,
-                Math.floor(neutral[yearStr] / total * 1000)/10,
-                Math.floor(positive[yearStr] / total * 1000)/10]);
-        }
-    }
-    return chartData;
-}
-
-function updateTimeChart(resultsDomain) {
-    /* Updates the timeline chart
-     * @param {bool} resultsDomain Whether to plot the chart using search results (true)
-     *                             or all documents (false)
-     */
-
-    $('.time-chart__outer-svg').attr('class', 'time-chart__outer-svg--hidden');
-    $('.time-chart-tab .searching-progress').show();
-
-    // Assign dataset from function call
-    var dataSet = timelineData(resultsDomain)['sentiment'];
-    // Assign dataset for line graph
-    var dataSetLine = timelineData()['distribution'];
-    // Assign array of headers and remove from data
-    var headers = dataSet.shift();
-    var headersLine = dataSetLine.shift();
-
-    // Map all years data to objects in data array
-    var data = dataSet.map(function(obj) {
-        var rObj = {};
-        rObj[headers[0]] = obj[0];
-        rObj[headers[1]] = obj[1];
-        rObj[headers[2]] = obj[2];
-        rObj[headers[3]] = obj[3];
-        return rObj;
-    });
-
-    var dataLine = dataSetLine.map(function(obj) {
-        var rObj = {};
-        rObj[headersLine[0]] = obj[0];
-        rObj[headersLine[1]] = obj[1];
-        return rObj;
-    });
-
-    // Determine if we're creating mobile version based on window width
-    var mobile = $(window).width() < 768;
-
-    // Set chart variables
-    var margin = {top: 60, right: 100, bottom: 100, left: 50},
-        container = d3.select('.time-chart'),
-        width = parseInt(container.style('width'))
-            - parseInt(container.style('padding-left'))
-            - parseInt(container.style('padding-right')),
-        height = mobile ? 750 : 500;
-
-    // mobile margin adjustments
-    if(mobile) {
-        margin.bottom = 125;
-        margin.right = 50;
-    }
-
-    // adjust for margins
-    width = width - margin.left - margin.right;
-    height = height - margin.top - margin.bottom;
-
-    // Set scales and ranges
-    if (mobile) {
-        var x = d3.scale.linear()
-            .range([0, width]);
-
-        var y = d3.scale.ordinal()
-            .rangeRoundBands([0, height], .1);
-
-    } else {
-        var x = d3.scale.ordinal()
-            .rangeRoundBands([0, width],.1);
-
-        var y = d3.scale.linear()
-            .range([height, 0]);
-    }
-
-    var color = d3.scale.ordinal()
-        .range(["#d9534f", "#727272", "#5cb85c"]);
-
-    // Set axes
-    if(mobile) {
-        var xAxis = d3.svg.axis()
-            .scale(x)
-            .orient("bottom")
-            .outerTickSize(0)
-            .innerTickSize(-height + 5)
-            .tickValues([0, 25, 50, 75, 100]);
-
-        var yAxis = d3.svg.axis()
-            .scale(y)
-            .outerTickSize(0)
-            .orient("left");
-
-    } else {
-        var xAxis = d3.svg.axis()
-            .scale(x)
-            .outerTickSize(0)
-            .orient("bottom");
-
-        var yAxis = d3.svg.axis()
-            .scale(y)
-            .orient("left")
-            .outerTickSize(0)
-            .innerTickSize(-width + 5)
-            .ticks(5);
-            //.tickValues([0, 25, 50, 75, 100]);
-    }
-
-    // Create svg outer and inner elements
-    var svg = d3.select(".time-chart").append("svg")
-        .attr("class", "time-chart__outer-svg")
-        .attr("width", width + margin.left + margin.right)
-        .attr("height", height + margin.top + margin.bottom)
-        .append("g")
-        .attr("class", "time-chart__inner-g")
-        .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
-
-    // Assign scale domains
-    if(mobile) {
-        x.domain([0, d3.max(data, function(d) {
-            return d.positive + d.neutral + d.negative;
-        })]);
-        y.domain(data.map(function(d) { return d.year; }));
-    } else {
-        x.domain(data.map(function(d) { return d.year; }));
-        y.domain([0, d3.max(data, function(d) {
-            return d.positive + d.neutral + d.negative;
-        })]);
-    }
-    color.domain(headers.filter(function(d) { return d !== "year"; }));
-
-    // Bind colors and coordinates to each year/sentiment
-    data.forEach(function(d) {
-        var xy0 = 0;
-        d.sentiment = color.domain().map(function(name) {
-            return {
-                name: name,
-                year: d['year'],
-                xy0: xy0,
-                xy1: xy0 += +d[name]
-            };
-        });
-        d.total = d.sentiment[d.sentiment.length -1].xy1;
-    });
-
-    if(mobile) {
-        // add x axis
-        svg.append("g")
-            .attr("class", "x axis")
-            .attr("transform", "translate(0," + height + ")")
-            .call(xAxis);
-
-        // add x axis label
-        svg.append("text")
-            .attr("class", "x label")
-            .attr("text-anchor", "middle")
-            .attr("x", width/2)
-            .attr("y", height + margin.bottom - 90)
-            .attr("dy", ".71em")
-            .text(function() {
-                return resultsDomain ? "% out of search results" : "% out of all documents";
-            });
-
-        // add y axis labels with links to search
-        svg.append("g")
-            .attr("class", "y axis")
-            .call(yAxis)
-            .selectAll("text")
-            .filter(function(d) { return typeof(d) == "string"; })
-            .style("cursor", "pointer")
-            .on("click", function(d) {
-                document.location.href = "search?query=&fromYear="+ d + "&toYear=" + d;
-            });
-    } else {
-        // add x axis labels with links to search
-        svg.append("g")
-            .attr("class", "x axis")
-            .attr("transform", "translate(0," + height + ")")
-            .call(xAxis)
-            .selectAll("text")
-            .filter(function(d) { return typeof(d) == "string"; })
-            .style("cursor", "pointer")
-            .on("click", function(d) {
-                document.location.href = "search?query=&fromYear="+ d + "&toYear=" + d;
-            })
-            .style("text-anchor", "end")
-            .attr("dx", "-.8em")
-            .attr("dy", ".15em")
-            .attr("transform", "rotate(-65)")
-            .attr("data-toggle", "tooltip")
-            .attr("title", function(d) {
-                return d + "</br>" + totalDocDistribution[d] + " letters";
-            });
-
-        // add x axis label
-        svg.append("text")
-            .attr("class", "x label")
-            .attr("text-anchor", "end")
-            .attr("x", width/2)
-            .attr("y", height + margin.bottom - 30)
-            .attr("dy", ".71em")
-            .text("Year");
-
-        // add y axis
-        svg.append("g")
-            .attr("class", "y axis")
-            .call(yAxis);
-
-        // add y axis label
-        svg.append("text")
-            .attr("class", "y label")
-            .attr("transform", "rotate(-90)")
-            .attr("y", "-50")
-            .attr("x", function() { return -height / 2; })
-            .attr("dy", ".71em")
-            .style("text-anchor", "middle")
-            .text(function() {
-                return resultsDomain ? "% out of search results" : "% out of all documents";
-            });
-    }
-
-    // add scope title
-    svg.append("text")
-        .attr("class", "time-chart__domain-title")
-        .attr("text-anchor", "middle")
-        .attr("x", width/2)
-        .attr("y", -50)
-        .attr("dy", ".71em")
-        .text(function() {
-            return resultsDomain ? "Viewing search results distribution over time" : "Viewing percentage out of all documents";
-        });
-
-    // add scope toggle
-    svg.append("text")
-        .attr("class", "time-chart__domain-toggle")
-        .attr("text-anchor", "middle")
-        .attr("x", width/2)
-        .attr("y", -30)
-        .attr("dy", ".71em")
-        .text(function() {
-            return resultsDomain ? "(See percentage out of all documents)" : "(See search results distribution over time)" ;
-        })
-        .style("cursor", "pointer")
-        .on("click", function() {
-            return resultsDomain ? updateTimeChart(false) : updateTimeChart(true);
-        });
-
-    // add g element for each year's bars
-    var year = svg.selectAll(".year")
-        .data(data)
-        .enter().append("g")
-        .attr("class", function(d) { return "time-chart__year " + d.year; })
-        .attr("transform", function(d) {
-            if(mobile) {
-                return "translate(0," + y(d.year) + ")";
-            } else {
-                return "translate(" + x(d.year) + ",0)";
-            }
-        });
-
-    // add rect elements with sentiment bars and links to new searches
-    year.selectAll("rect")
-        .data(function(d) { return d.sentiment; })
-        .enter()
-        .append("a")
-        .attr("class", function(d) { return "time-chart__bar--" + d.name.toLowerCase(); })
-        .attr("id", function(d) { return d.name.toLowerCase() + '-' + d.year; })
-        .attr("xlink:href", function(d) {
-            return "search?query=&fromYear="+ d.year + "&toYear=" + d.year + "&sentiment=" + d.name.toLowerCase();
-        })
-        .attr("data-toggle", "tooltip")
-        .attr("title", function(d) {
-            var sentPercent = parseFloat(d.xy1 - d.xy0).toFixed(1);
-            return d.year + "</br>" + d.name + ": " + (sentPercent % 1 === 0 ? parseInt(sentPercent) : sentPercent);
-          })
-        .append("rect")
-        .attr("class", function(d) { return "time-chart__bar--" + d.name.toLowerCase(); })
-        .attr("width", function(d) {
-            return mobile ? (isNaN(d.xy1) ? null : x(d.xy1) - x(d.xy0)) : x.rangeBand();
-        })
-        .attr("y", function(d) {
-            return mobile ? null : (isNaN(d.xy1) ? null : y(d.xy1));
-        })
-        .attr("height", function(d) {
-            return mobile ? y.rangeBand() : (isNaN(d.xy1) ? null : y(d.xy0) - y(d.xy1));
-             })
-        .attr("x", function(d) {
-            return mobile ? (isNaN(d.xy0) ? null : x(d.xy0)) : null; })
-        .style("fill", function(d) { return color(d.name); });
-
-    if(mobile) {
-        var line = d3.svg.line()
-            .x(function(d) { return x(d.total); })
-            .y(function(d) { return y(d.year) + d3.select('.time-chart__year').select('rect').node().getBBox().height / 2; });
-    } else {
-        var line = d3.svg.line()
-            .x(function(d) { return x(d.year) + d3.select('.time-chart__year').select('rect').node().getBBox().width / 2; })
-            .y(function(d) { return y(d.total); });
-    }
-
-    svg.append("path")
-        .datum(dataLine)
-        .attr("class", "time-chart__line")
-        .attr("d", line);
-
-    // create legend element
-    var legend = svg.selectAll(".legend")
-        .data(color.domain().slice().reverse())
-        .enter().append("a")
-        .attr("xlink:href", function(d) {
-            return "search?query=&sentiment=" + d.toLowerCase();
-        })
-        .append("g")
-        .attr("class", "legend")
-        .attr("transform", function(d, i) {
-            return mobile ? "translate(-50," + ((height + 60)+ i * 20) + ")" : "translate(0," + i * 20 + ")";
-        });
-
-    // add legend colors
-    legend.append("rect")
-        .attr("x", width + 2)
-        .attr("width", 18)
-        .attr("height", 18)
-        .style("fill", color);
-
-    // add legend text
-    legend.append("text")
-        .attr("x", width + 22)
-        .attr("y", 9)
-        .attr("dy", ".35em")
-        .style("text-anchor", "start")
-        .text(function(d) { return d; });
-
-    timeChartNeedsUpdate = false;
-
-    $('.time-chart-tab .searching-progress').hide();
-    $('.time-chart-tab__description').show();
-    $('.time-chart__outer-svg--hidden').remove();
-
-    // Initialize bootstrap tooltip API for hover tooltips
-    $(function () {
-        $('a[class^=time-chart__bar]').tooltip({
-            'container': 'body',
-            'placement': 'auto right',
-            'html': true,
-            'template': '<div class="tooltip timechart__tooltip" role="tooltip">' +
-                '<div class="tooltip-arrow timechart__tooltip-arrow"></div>' +
-                '<div class="tooltip-inner timechart__tooltip-inner"></div>' +
-                '</div>'
-        })
-    });
-
-    // Initialize bootstrap tooltip API for hover tooltips
-    $(function () {
-        $('.x.axis').find('text').tooltip({
-            'container': 'body',
-            'placement': 'auto top',
-            'html': true,
-            'template': '<div class="tooltip timechart__tooltip" role="tooltip">' +
-            '<div class="tooltip-arrow timechart__tooltip-arrow"></div>' +
-            '<div class="tooltip-inner timechart__tooltip-inner"></div>' +
-            '</div>'
-        })
-    })
-}
-
-// Invoked when new basic data is downloaded
-$(document).on("basicDataLoaded", function(e, data) {
-    if (data != null) {
-        timeChartNeedsUpdate = true;
-        if ($("#tab-timeline").css('display') != "none") {
-            updateTimeChart('results');
-        }
-    }
-});
 
 // A single event listener for tabs using bootstrap's tabs js
 $('a[data-toggle="tab"]').on("shown.bs.tab", function(e) {
