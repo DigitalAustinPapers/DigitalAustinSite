@@ -363,9 +363,9 @@ function timelineData() {
 
             chartData['sentiment'].push({
                 year: yearStr,
-                negative: Math.floor(negative[yearStr] / total * 1000)/10,
-                neutral: Math.floor(neutral[yearStr] / total * 1000)/10,
-                positive: Math.floor(positive[yearStr] / total * 1000)/10,
+                negative: negative[yearStr],
+                neutral: neutral[yearStr],
+                positive: positive[yearStr],
                 total: total
             });
         }
@@ -382,10 +382,22 @@ function updateTimeChart(isPercentageDomain) {
     $('.time-chart__outer-svg').attr('class', 'time-chart__outer-svg--hidden');
     $('.time-chart-tab .searching-progress').show();
 
+    var dataSet = timelineData();
+
     // Assign dataset from function call
-    var data = timelineData(isPercentageDomain)['sentiment'];
-    // Assign dataset for line graph
-    var dataLine = timelineData()['distribution'];
+    var data = dataSet['sentiment'];
+
+    if(isPercentageDomain) {
+        // Assign dataset for line graph
+        var dataLine = dataSet['distribution'];
+
+        // Convert data to percentages
+        data.forEach(function(d) {
+            d.negative = Math.floor(d.negative / d.total * 1000)/10;
+            d.neutral = Math.floor(d.neutral / d.total * 1000)/10;
+            d.positive = Math.floor(d.positive / d.total * 1000)/10;
+        })
+    }
 
     // Determine if we're creating mobile version based on window width
     var mobile = $(window).width() < 768;
@@ -507,7 +519,7 @@ function updateTimeChart(isPercentageDomain) {
             .attr("y", height + margin.bottom - 90)
             .attr("dy", ".71em")
             .text(function() {
-                return isPercentageDomain ? "% out of search results" : "% out of all documents";
+                return isPercentageDomain ? "% out of all documents" : "Number of documents";
             });
 
         // add y axis labels with links to search
@@ -564,7 +576,7 @@ function updateTimeChart(isPercentageDomain) {
             .attr("dy", ".71em")
             .style("text-anchor", "middle")
             .text(function() {
-                return isPercentageDomain ? "% out of search results" : "% out of all documents";
+                return isPercentageDomain ? "% out of all documents" : "Number of documents";
             });
     }
 
@@ -576,7 +588,7 @@ function updateTimeChart(isPercentageDomain) {
         .attr("y", -50)
         .attr("dy", ".71em")
         .text(function() {
-            return isPercentageDomain ? "Viewing search results distribution over time" : "Viewing percentage out of all documents";
+            return isPercentageDomain ? "Viewing search results percentage out of all documents" : "Viewing number of documents per year";
         });
 
     // add scope toggle
@@ -587,7 +599,7 @@ function updateTimeChart(isPercentageDomain) {
         .attr("y", -30)
         .attr("dy", ".71em")
         .text(function() {
-            return isPercentageDomain ? "(See percentage out of all documents)" : "(See search results distribution over time)" ;
+            return isPercentageDomain ? "(See number of documents per year)" : "(See search results percentage out of all documents)" ;
         })
         .style("cursor", "pointer")
         .on("click", function() {
@@ -619,8 +631,9 @@ function updateTimeChart(isPercentageDomain) {
         })
         .attr("data-toggle", "tooltip")
         .attr("title", function(d) {
-            var sentPercent = parseFloat(d.xy1 - d.xy0).toFixed(1);
-            return d.year + "</br>" + d.name + ": " + (sentPercent % 1 === 0 ? parseInt(sentPercent) : sentPercent);
+            var sentValue = parseFloat(d.xy1 - d.xy0).toFixed(1);
+            return d.year + "</br>" + d.name + ": " + (sentValue % 1 === 0 ? parseInt(sentValue) : sentValue) +
+                (isPercentageDomain ? "%" : "");
         })
         .append("rect")
         .attr("class", function(d) { return "time-chart__bar--" + d.name.toLowerCase(); })
@@ -637,20 +650,58 @@ function updateTimeChart(isPercentageDomain) {
             return mobile ? (isNaN(d.xy0) ? null : x(d.xy0)) : null; })
         .style("fill", function(d) { return color(d.name); });
 
+    // Determine height and width of bars
+    var halfBar;
+    if(mobile) {
+        halfBar = d3.select('.time-chart__year').select('rect').node().getBBox().height / 2;
+    } else {
+        halfBar = d3.select('.time-chart__year').select('rect').node().getBBox().width / 2;
+    }
+
     if(mobile) {
         var line = d3.svg.line()
             .x(function(d) { return x(d.total); })
-            .y(function(d) { return y(d.year) + d3.select('.time-chart__year').select('rect').node().getBBox().height / 2; });
+            .y(function(d) { return y(d.year) + halfBar; });
     } else {
         var line = d3.svg.line()
-            .x(function(d) { return x(d.year) + d3.select('.time-chart__year').select('rect').node().getBBox().width / 2; })
+            .x(function(d) { return x(d.year) + halfBar; })
             .y(function(d) { return y(d.total); });
     }
 
-    svg.append("path")
-        .datum(dataLine)
-        .attr("class", "time-chart__line")
-        .attr("d", line);
+    if(isPercentageDomain) {
+        svg.append("path")
+            .datum(dataLine)
+            .attr("class", "time-chart__line")
+            .attr("d", line);
+
+        if(mobile) {
+            svg.selectAll("dot")
+                .data(dataLine)
+                .enter().append("circle")
+                .attr("class", "time-chart__dot")
+                .attr("r", 3.5)
+                .attr("cx", function(d) { return x(d.total); })
+                .attr("cy", function(d) { return y(d.year) + halfBar; })
+                .attr("data-toggle", "tooltip")
+                .attr("data-placement", "right")
+                .attr("title", function(d) {
+                    return d.year + "</br>" + d.total + "% of results";
+                });
+        } else {
+            svg.selectAll("dot")
+                .data(dataLine)
+                .enter().append("circle")
+                .attr("class", "time-chart__dot")
+                .attr("r", 3.5)
+                .attr("cx", function(d) { return x(d.year) + halfBar; })
+                .attr("cy", function(d) { return y(d.total); })
+                .attr("data-toggle", "tooltip")
+                .attr("data-placement", "top")
+                .attr("title", function(d) {
+                    return d.year + "</br>" + d.total + "% of results";
+                })
+        }
+    }
 
     // create legend element
     var legend = svg.selectAll(".legend")
@@ -680,6 +731,60 @@ function updateTimeChart(isPercentageDomain) {
         .style("text-anchor", "start")
         .text(function(d) { return d; });
 
+    // Legend for distribution over time line
+    if(isPercentageDomain) {
+        svg.append("line")
+            .attr("class", "legend time-chart__line")
+            .attr("x1", function(d) {
+                return mobile ? width / 2 : width + 2;
+            })
+            .attr("x2", function(d) {
+                return mobile ? width / 2 + 18 : width + 20;
+            })
+            .attr("y1", function(d) {
+                return mobile ? height + 90 : "100";
+            })
+            .attr("y2", function(d) {
+                return mobile ? height + 90 : "100";
+            });
+
+        svg.append("circle")
+            .attr("class", "legend time-chart__dot")
+            .attr("r", 3.5)
+            .attr("cx", function(d) {
+                return mobile ? width / 2 + 9 : (width + 2 + width + 20) / 2;
+            })
+            .attr("cy", function(d) {
+                return mobile ? height + 90 : "100";
+            });
+
+        svg.append("text")
+            .attr("class", "legend")
+            .attr("x", function(d) {
+                return mobile ? width / 2 + 20 : width + 22;
+            })
+            .attr("y", function(d) {
+                return mobile ? height + 90 : "100";
+            })
+            .attr("dy", ".35em")
+            .style("text-anchor", "start")
+            .text("% results");
+
+        svg.append("text")
+            .attr("class", "legend")
+            .attr("x", function(d) {
+                return mobile ? width / 2 + 20 : width + 22;
+            })
+            .attr("y", function(d) {
+                return mobile ? height + 110 : "120";
+            })
+            .attr("dy", ".35em")
+            .style("text-anchor", "start")
+            .text("over time");
+    }
+
+
+
     timeChartNeedsUpdate = false;
 
     $('.time-chart-tab .searching-progress').hide();
@@ -701,6 +806,18 @@ function updateTimeChart(isPercentageDomain) {
 
     // Initialize bootstrap tooltip API for hover tooltips
     $(function () {
+        $('#timeChart').find('.time-chart__dot').tooltip({
+            'container': 'body',
+            'html': true,
+            'template': '<div class="tooltip timechart__tooltip" role="tooltip">' +
+            '<div class="tooltip-arrow timechart__tooltip-arrow"></div>' +
+            '<div class="tooltip-inner timechart__tooltip-inner"></div>' +
+            '</div>'
+        })
+    });
+
+    // Initialize bootstrap tooltip API for hover tooltips
+    $(function () {
         $('.x.axis').find('text').tooltip({
             'container': 'body',
             'placement': 'auto top',
@@ -710,7 +827,7 @@ function updateTimeChart(isPercentageDomain) {
             '<div class="tooltip-inner timechart__tooltip-inner"></div>' +
             '</div>'
         })
-    })
+    });
 }
 
 // Invoked when new basic data is downloaded

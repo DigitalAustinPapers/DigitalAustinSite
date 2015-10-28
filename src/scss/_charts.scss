@@ -103,8 +103,16 @@
 
   &__line {
     fill: none;
-    stroke: black;
+    stroke: $primary-color-dark;
     stroke-width: 1.5px;
+  }
+
+  &__dot {
+    fill: $primary-color-dark;
+  }
+
+  .legend {
+    font-size: .9em;
   }
 }
 
