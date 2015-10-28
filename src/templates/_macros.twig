@@ -1,3 +1,24 @@
+{#
+
+# FILE NAME:        _macros.twig
+
+# PURPOSE:          Reusable macros that can be loaded into any template
+
+# MACROS:
+
+    class_filter        param input_text
+                        Removes special characters from input and prints class-friendly name
+
+    title_date_filter   param input_text
+                        Changes "Unknown" from letter dates to "Date unknown" for better description
+
+    sort_letter_filter  param category
+                        param input_text
+                        Used to create jumplists in browse function by looking at category and whether
+                        it should print unclear, undefined, or a letter.
+
+#}
+
 {%- macro class_filter(input_text) -%}
   {% spaceless %}
     {{- input_text|lower|replace({' ': '-', '.': '', ',': '', '[': '', ']': '', '/': ''}) -}}

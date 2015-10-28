@@ -1,11 +1,44 @@
 {% extends 'base.twig' %}
 
+{#
+
+# FILE NAME:        browse.html.twig
+
+# PURPOSE:
+
+    Extends base.twig. Browse page for site.
+
+# BLOCKS:           The following Twig "blocks" are defined in this document.
+
+    title                  sets page title and imports parent
+
+    content                primary page content
+
+    scripts_footer         scripts included at the end of page load
+
+# VARIABLES:        Variables passed from the template rendering engine
+
+    body_id           id attached to body tag as a styling hammer
+
+    browseBy          category being browsed: 'date', 'author', 'origin', 'recipient', 'destination'
+
+    sortCategories    array of available categories: ('date', 'author', 'origin', 'recipient', 'destination')
+
+    results             all browsable documents
+      heading           category used to sort results (year, name, place)
+        id                document ID
+          document_title    document title
+          document_summary  document summary
+          document_date     document creation date
+
+#}
+
 {% from '_macros.twig' import class_filter, sort_letter_filter %}
 
 {% block title %}Browse | {{ parent() }}{% endblock %}
 
 {% block content %}
-<div class="" id="browse">
+<div class="" id="{{ body_id }}">
 
   <h2>Browse All Documents</h2>
 

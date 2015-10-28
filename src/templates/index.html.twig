@@ -1,5 +1,31 @@
 {% extends 'base.twig' %}
 
+{#
+
+# FILE NAME:        index.html.twig
+
+# PURPOSE:
+
+    Extends base.twig. Index page for site.
+
+# BLOCKS:           The following Twig "blocks" are defined in this document.
+
+    header          overrides base.twig with empty header so that _header.twig can be included in hero
+
+    hero            hero image and header content for page
+
+    main_container  overrides main_container instead of content block from base to use different grid layout
+
+# INCLUDES:
+
+    _header.twig
+
+# VARIABLES:        Variables passed from the template rendering engine
+
+    body_id           id attached to body tag as a styling hammer
+
+#}
+
 {% block header %}
 {% endblock %}
 

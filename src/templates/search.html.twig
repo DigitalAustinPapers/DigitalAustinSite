@@ -1,5 +1,57 @@
 {% extends 'base.twig' %}
 
+{#
+
+# FILE NAME:        search.html.twig
+
+# PURPOSE:
+
+    Extends base.twig. Search page
+
+# BLOCKS:           The following Twig "blocks" are defined in this document.
+
+    title                  sets page title and imports parent
+
+    scripts                imports parent and adds script for D3.js
+
+    content                primary page content
+
+    scripts_footer         scripts included at the end of page load
+
+# INCLUDES:
+
+    _results.twig
+
+# VARIABLES:        Variables passed from the template rendering engine
+
+    body_id               id attached to body tag as a styling hammer
+
+    search_params         associative array of search criteria from GET request
+      query
+      fromPersonId
+      toPersonId
+      fromYear
+      toYear
+      fromPlaceId
+      toPlaceId
+      sentiment
+
+    search_dropdowns      associative array of data to populate search dropdowns
+      placeIdToNames
+      personIdToNames
+      fromPersonList
+      toPersonList
+      yearList
+      fromPlaceList
+      toPlaceList
+      allSentiments
+
+    totalDocsCount        total number of documents in collection
+
+    totalDocDistribution  associative array of all documents in the collection by year.
+
+#}
+
 {% from '_macros.twig' import class_filter %}
 
 {% block title %}Search | {{ parent() }}{% endblock %}

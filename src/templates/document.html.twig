@@ -1,5 +1,47 @@
 {% extends 'base.twig' %}
 
+{#
+
+# FILE NAME:        document.html.twig
+
+# PURPOSE:
+
+    Extends base.twig. Page generated to view individual documents.
+
+# BLOCKS:           The following Twig "blocks" are defined in this document.
+
+    title                  sets page title and imports parent
+
+    metadata_opengraph     document opengraph metadata for facebook
+
+    main_container         overrides main_container instead of content block from base to use different grid layout
+
+    scripts_footer         scripts included at the end of page load
+
+# VARIABLES:        Variables passed from the template rendering engine
+
+    body_id               id attached to body tag as a styling hammer
+
+    document              associative array of document data from database
+      id                  document ID
+      xml                 entire document marked up in XML
+      title               document title
+      summary             document summary
+      creation            document creation date (YYYY-MM-DD)
+      vectorLength        unknown, null
+      origin              origin location name
+      destination         destination location name
+      author              author name
+      recipient           recipient name
+      toPersonId          recipient id
+      fromPersonId        author id
+
+    letter_body_display   document XML tranformed to acceptable HTML
+
+    citation              document citation transformed to acceptable HTML
+
+#}
+
 {% from '_macros.twig' import title_date_filter %}
 
 {% block title %}{{ document.title }} | {{ parent() }}{% endblock %}

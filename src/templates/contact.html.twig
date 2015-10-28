@@ -1,5 +1,29 @@
 {% extends 'base.twig' %}
 
+{#
+
+# FILE NAME:        contact.html.twig
+
+# PURPOSE:
+
+    Extends base.twig. Contact page with email form.
+
+# BLOCKS:           The following Twig "blocks" are defined in this document.
+
+    title                   sets page title and imports parent
+
+    scripts                 imports parent and adds script for Google recaptcha
+
+    content                 primary page content
+
+# VARIABLES:        Variables passed from the template rendering engine
+
+    body_id             id attached to body tag as a styling hammer
+
+    success             whether the form submission is successful
+
+#}
+
 {% block title %}Contact | {{ parent() }}{% endblock %}
 
 {% block scripts %}

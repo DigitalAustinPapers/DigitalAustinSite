@@ -1,3 +1,31 @@
+{#
+
+# FILE NAME:        _search_result.twig
+
+# PURPOSE:          Individual search result template rendered for each result by
+                    search_results.php and returned as basicData['html'] from AJAX request in requestData()
+
+# VARIABLES:        Variables passed from the template rendering engine
+
+    result            object containing data about the search result
+      date            date of result in "YYYY-MM-DD" or "0000-00-00" if unknown
+      dstLat          destination latitude or null
+      dstLng          destination longitude or null
+      id              document ID
+      sentimentScore  document sentiment score
+      similarity      similarity to search
+      srcLat          source latitude or null
+      srcLng          source longitude or null
+      summary         document summary
+      title           document title including sender, recipient, and date
+
+
+    min_sentiment   minimum sentiment value of all search results
+
+    max_sentiment   maximum sentiment value of all search results
+
+#}
+
 <li class="search-results-list__item">
   <a href="document?id={{ result.id }}" id="search-result-{{ result.id }}" class="search-results-list__item-title">
     {{ result.title|split(',', -1)|join(',') }}</a>
