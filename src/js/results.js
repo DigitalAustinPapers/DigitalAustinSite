@@ -332,9 +332,7 @@ function timelineData() {
         var chartData = {};
 
         chartData['sentiment'] = [];
-        chartData['sentiment'].push(['year', 'negative', 'neutral', 'positive']);
         chartData['distribution'] = [];
-        chartData['distribution'].push(['year', 'total']);
 
         for (var i=minYear; i<=maxYear; i++) {
             var yearStr = i.toString(),
@@ -347,10 +345,15 @@ function timelineData() {
             var yearTotal = Math.floor(negative[yearStr] + neutral[yearStr] + positive[yearStr]);
 
             if(!isNaN(yearTotal)) {
-                chartData['distribution'].push([yearStr,
-                    Math.floor((negative[yearStr] + neutral[yearStr] + positive[yearStr]) / basicData['json'].length * 1000)/10]);
+                chartData['distribution'].push({
+                    year: yearStr,
+                    total: Math.floor((negative[yearStr] + neutral[yearStr] + positive[yearStr]) / basicData['json'].length * 1000) / 10
+                });
             } else {
-                chartData['distribution'].push([yearStr, 0]);
+                chartData['distribution'].push({
+                        year: yearStr,
+                        total: 0
+                    });
             }
 
             var total = 0;
@@ -358,48 +361,31 @@ function timelineData() {
                 total = parseInt(totalDocDistribution[yearStr]);
             }
 
-            chartData['sentiment'].push([yearStr,
-                Math.floor(negative[yearStr] / total * 1000)/10,
-                Math.floor(neutral[yearStr] / total * 1000)/10,
-                Math.floor(positive[yearStr] / total * 1000)/10]);
+            chartData['sentiment'].push({
+                year: yearStr,
+                negative: Math.floor(negative[yearStr] / total * 1000)/10,
+                neutral: Math.floor(neutral[yearStr] / total * 1000)/10,
+                positive: Math.floor(positive[yearStr] / total * 1000)/10,
+                total: total
+            });
         }
     }
     return chartData;
 }
 
-function updateTimeChart(resultsDomain) {
+function updateTimeChart(isPercentageDomain) {
     /* Updates the timeline chart
-     * @param {bool} resultsDomain Whether to plot the chart using search results (true)
-     *                             or all documents (false)
+     * @param {bool} isPercentageDomain Whether to plot the chart as a percentage of search results (true)
+     *                                  or real number (false)
      */
 
     $('.time-chart__outer-svg').attr('class', 'time-chart__outer-svg--hidden');
     $('.time-chart-tab .searching-progress').show();
 
     // Assign dataset from function call
-    var dataSet = timelineData(resultsDomain)['sentiment'];
+    var data = timelineData(isPercentageDomain)['sentiment'];
     // Assign dataset for line graph
-    var dataSetLine = timelineData()['distribution'];
-    // Assign array of headers and remove from data
-    var headers = dataSet.shift();
-    var headersLine = dataSetLine.shift();
-
-    // Map all years data to objects in data array
-    var data = dataSet.map(function(obj) {
-        var rObj = {};
-        rObj[headers[0]] = obj[0];
-        rObj[headers[1]] = obj[1];
-        rObj[headers[2]] = obj[2];
-        rObj[headers[3]] = obj[3];
-        return rObj;
-    });
-
-    var dataLine = dataSetLine.map(function(obj) {
-        var rObj = {};
-        rObj[headersLine[0]] = obj[0];
-        rObj[headersLine[1]] = obj[1];
-        return rObj;
-    });
+    var dataLine = timelineData()['distribution'];
 
     // Determine if we're creating mobile version based on window width
     var mobile = $(window).width() < 768;
@@ -448,7 +434,7 @@ function updateTimeChart(resultsDomain) {
             .orient("bottom")
             .outerTickSize(0)
             .innerTickSize(-height + 5)
-            .tickValues([0, 25, 50, 75, 100]);
+            .ticks(5);
 
         var yAxis = d3.svg.axis()
             .scale(y)
@@ -467,7 +453,6 @@ function updateTimeChart(resultsDomain) {
             .outerTickSize(0)
             .innerTickSize(-width + 5)
             .ticks(5);
-        //.tickValues([0, 25, 50, 75, 100]);
     }
 
     // Create svg outer and inner elements
@@ -491,7 +476,7 @@ function updateTimeChart(resultsDomain) {
             return d.positive + d.neutral + d.negative;
         })]);
     }
-    color.domain(headers.filter(function(d) { return d !== "year"; }));
+    color.domain(d3.keys(data[0]).filter(function(d) { return d !== "year" && d !== "total"; }));
 
     // Bind colors and coordinates to each year/sentiment
     data.forEach(function(d) {
@@ -522,7 +507,7 @@ function updateTimeChart(resultsDomain) {
             .attr("y", height + margin.bottom - 90)
             .attr("dy", ".71em")
             .text(function() {
-                return resultsDomain ? "% out of search results" : "% out of all documents";
+                return isPercentageDomain ? "% out of search results" : "% out of all documents";
             });
 
         // add y axis labels with links to search
@@ -579,7 +564,7 @@ function updateTimeChart(resultsDomain) {
             .attr("dy", ".71em")
             .style("text-anchor", "middle")
             .text(function() {
-                return resultsDomain ? "% out of search results" : "% out of all documents";
+                return isPercentageDomain ? "% out of search results" : "% out of all documents";
             });
     }
 
@@ -591,7 +576,7 @@ function updateTimeChart(resultsDomain) {
         .attr("y", -50)
         .attr("dy", ".71em")
         .text(function() {
-            return resultsDomain ? "Viewing search results distribution over time" : "Viewing percentage out of all documents";
+            return isPercentageDomain ? "Viewing search results distribution over time" : "Viewing percentage out of all documents";
         });
 
     // add scope toggle
@@ -602,11 +587,11 @@ function updateTimeChart(resultsDomain) {
         .attr("y", -30)
         .attr("dy", ".71em")
         .text(function() {
-            return resultsDomain ? "(See percentage out of all documents)" : "(See search results distribution over time)" ;
+            return isPercentageDomain ? "(See percentage out of all documents)" : "(See search results distribution over time)" ;
         })
         .style("cursor", "pointer")
         .on("click", function() {
-            return resultsDomain ? updateTimeChart(false) : updateTimeChart(true);
+            return isPercentageDomain ? updateTimeChart(false) : updateTimeChart(true);
         });
 
     // add g element for each year's bars
@@ -735,6 +720,21 @@ $(document).on("basicDataLoaded", function(e, data) {
         if ($("#tab-timeline").css('display') != "none") {
             updateTimeChart('results');
         }
+    }
+});
+
+$('#tab-timeline').on('click', '.time-chart-tab__toggle-domain', function(e) {
+    timeChartNeedsUpdate = true;
+    if($(this).hasClass('time-chart-tab__toggle-domain--results')) {
+        $(this).addClass('time-chart-tab__toggle-domain--all')
+            .removeClass('time-chart-tab__toggle-domain--results')
+            .html('View percentage out of all documents');
+        updateTimeChart(true);
+    } else if($(this).hasClass('time-chart-tab__toggle-domain--all')) {
+        $(this).addClass('time-chart-tab__toggle-domain--results')
+            .removeClass('time-chart-tab__toggle-domain--all')
+            .html('View percentage out of search results');
+        updateTimeChart(false);
     }
 });
 
@@ -1184,18 +1184,3 @@ function addCommas(nStr)
     }
     return x1 + x2;
 }
-
-$('#tab-timeline').on('click', '.time-chart-tab__toggle-domain', function(e) {
-    timeChartNeedsUpdate = true;
-    if($(this).hasClass('time-chart-tab__toggle-domain--results')) {
-        $(this).addClass('time-chart-tab__toggle-domain--all')
-            .removeClass('time-chart-tab__toggle-domain--results')
-            .html('View percentage out of all documents');
-        updateTimeChart(true);
-    } else if($(this).hasClass('time-chart-tab__toggle-domain--all')) {
-        $(this).addClass('time-chart-tab__toggle-domain--results')
-            .removeClass('time-chart-tab__toggle-domain--all')
-            .html('View percentage out of search results');
-        updateTimeChart(false);
-    }
-});
