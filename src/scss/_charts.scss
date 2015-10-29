@@ -109,6 +109,10 @@
 
   &__dot {
     fill: $primary-color-dark;
+
+    &:hover {
+      fill: $accent-color;
+    }
   }
 
   .legend {

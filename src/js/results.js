@@ -484,9 +484,19 @@ function updateTimeChart(isPercentageDomain) {
         y.domain(data.map(function(d) { return d.year; }));
     } else {
         x.domain(data.map(function(d) { return d.year; }));
-        y.domain([0, d3.max(data, function(d) {
-            return d.positive + d.neutral + d.negative;
-        })]);
+        if(isPercentageDomain) {
+            y.domain([0, d3.max([
+                d3.max(data, function(d) {
+                return d.positive + d.neutral + d.negative;
+            }),
+            d3.max(dataLine, function(d) {
+                return d.total;
+            })])])
+        } else {
+            y.domain([0, d3.max(data, function(d) {
+                return d.positive + d.neutral + d.negative;
+            })]);
+        }
     }
     color.domain(d3.keys(data[0]).filter(function(d) { return d !== "year" && d !== "total"; }));
 
@@ -685,7 +695,7 @@ function updateTimeChart(isPercentageDomain) {
                 .attr("data-toggle", "tooltip")
                 .attr("data-placement", "right")
                 .attr("title", function(d) {
-                    return d.year + "</br>" + d.total + "% of results";
+                    return d.year + "</br>" + d.total + (d.total == 0 ? "results" : "% of results");
                 });
         } else {
             svg.selectAll("dot")
@@ -693,12 +703,14 @@ function updateTimeChart(isPercentageDomain) {
                 .enter().append("circle")
                 .attr("class", "time-chart__dot")
                 .attr("r", 3.5)
+                .attr("onmouseover", "evt.target.setAttribute('r', '7');")
+                .attr("onmouseout", "evt.target.setAttribute('r', '3');")
                 .attr("cx", function(d) { return x(d.year) + halfBar; })
                 .attr("cy", function(d) { return y(d.total); })
                 .attr("data-toggle", "tooltip")
                 .attr("data-placement", "top")
                 .attr("title", function(d) {
-                    return d.year + "</br>" + d.total + "% of results";
+                    return d.year + "</br>" + d.total + (d.total == 0 ? "results" : "% of results");
                 })
         }
     }
