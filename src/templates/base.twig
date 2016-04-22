@@ -126,10 +126,8 @@
     })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
     ga('create', 'UA-68947683-1', 'auto');
-    ga('create', 'UA-66221617-1', 'auto', 'jasonTracker');
     ga('require', 'linkid', 'linkid.js');
     ga('send', 'pageview');
-    ga('jasonTracker.send', 'pageview');
   </script>
   {% endblock scripts %}
 
@@ -174,7 +172,6 @@
         var id = $(this).attr("id");
         $(this).on("click keyup touchstart", function(event) {
           ga('send', 'event', 'link', 'click', id);
-          ga('jasonTracker.send', 'event', 'link', 'click', id);
         })
       });
     });

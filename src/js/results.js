@@ -90,7 +90,6 @@ function requestData() {
 
     // Google analytics event tracking
     ga('send', 'event', 'search', 'submit', getParams);
-    ga('jasonTracker.send', 'event', 'search', 'submit', getParams);
 
     // Create the search summary HTML
     if(document.getElementById('query').value) {

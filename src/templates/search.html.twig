@@ -208,7 +208,6 @@
           var target = e.target.href.split('#tab-')[1];
           var relatedTarget = e.relatedTarget.href.split('#tab-')[1];
           ga('send', 'event', 'search result tabs', 'change tab', 'to:' + target + ' from:' + relatedTarget);
-          ga('jasonTracker.send', 'event', 'search result tabs', 'change tab', 'to:' + target + ' from:' + relatedTarget);
         });
 
         // Bind google analytics event tracking to search results
@@ -217,7 +216,6 @@
             var id = $(this).attr("id");
             var url = stringifyUrlQuery();
             ga('send', 'event', 'search result', 'click', id + ' ' + url + ' page:' + $paging.a.page);
-            ga('jasonTracker.send', 'event', 'search result', 'click', id + ' ' + url + ' page:' + $paging.a.page);
           })
         });
 
@@ -226,7 +224,6 @@
           var id = $(this).attr("id");
           var url = stringifyUrlQuery();
           ga('send', 'event', 'time chart', 'click', id + ' ' + url);
-          ga('jasonTracker.send', 'event', 'time chart', 'click', id + ' ' + url);
         });
 
         // Bind google analytics event tracking to geography map
@@ -234,7 +231,6 @@
           var id = $(this).attr("id");
           var url = stringifyUrlQuery();
           ga('send', 'event', 'geography results', 'click', id + ' ' + url);
-          ga('jasonTracker.send', 'event', 'geography results', 'click', id + ' ' + url);
         });
 
         // Bind google analytics event tracking to word counts
@@ -243,8 +239,6 @@
           var gaEvent = $(this).attr('data-ga-event');
           var url = stringifyUrlQuery();
           ga('send', 'event', 'word chart', 'click',
-              id + ' - ' + gaEvent + ' - ' + url);
-          ga('jasonTracker.send', 'event', 'word chart', 'click',
               id + ' - ' + gaEvent + ' - ' + url);
         });
       });
