@@ -22,8 +22,7 @@ if(isset($_POST['submit'])) {
     $reason = filter_var($_POST['contact_reason'], FILTER_SANITIZE_STRING);
     $message = filter_var($_POST['contact_message'], FILTER_SANITIZE_STRING);
 
-    // TODO: set email back to andrew.torget@unt.edu in production
-    $to = "jason.ellis@unt.edu";
+    $to = "andrew.torget@unt.edu";
     $subject = "Digital Austin Collection: " . $reason;
     $body = $message . "\n\n" . "From: " . $name . " - " . $email;
 

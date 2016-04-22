@@ -1,5 +1,4 @@
 <?php
-// TODO: This needs to be moved out of the document root
 
 // Most of this logic was previously in /data/search.php. The original
 // intent was to include search_results.php in /data/search.php. That

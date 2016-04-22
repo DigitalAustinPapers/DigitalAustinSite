@@ -30,3 +30,6 @@ tmp*
 
 # npm
 node_modules/
+
+# template cache
+compilation_cache/

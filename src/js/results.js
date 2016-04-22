@@ -847,7 +847,7 @@ $(document).on("basicDataLoaded", function(e, data) {
     if (data != null) {
         timeChartNeedsUpdate = true;
         if ($("#tab-timeline").css('display') != "none") {
-            updateTimeChart('results');
+            updateTimeChart(false);
         }
     }
 });
@@ -905,7 +905,7 @@ $(document).on("cityDataLoaded", function(e, data) {
     if (data != null && data != cityData) {
         cityData = data;
         mapNeedRerender = true;
-        if ($("#tab-geographic")[0].style.display != "none") {
+        if ($("#tab-geographic").css('display') != "none") {
             redrawAllCurves();
             redrawMarkers();
         }
@@ -1281,7 +1281,7 @@ $('a[data-toggle="tab"]').on("shown.bs.tab", function(e) {
             break;
         case '#tab-timeline':
             if (timeChartNeedsUpdate) {
-                    updateTimeChart('results');
+                    updateTimeChart(false);
             }
             break;
         case '#tab-geographic':

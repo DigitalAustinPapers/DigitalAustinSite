@@ -7,36 +7,36 @@
 
     <!-- TODO: replace sitemap with prod URLs -->
 <url>
-  <loc>https://ui.library.unt.edu/digitalaustinpapers/</loc>
+  <loc>http://digitalaustinpapers.org/</loc>
 </url>
 <url>
-  <loc>https://ui.library.unt.edu/digitalaustinpapers/index</loc>
+  <loc>http://digitalaustinpapers.org/index</loc>
 </url>
 <url>
-  <loc>https://ui.library.unt.edu/digitalaustinpapers/search</loc>
+  <loc>http://digitalaustinpapers.org/search</loc>
 </url>
 <url>
-  <loc>https://ui.library.unt.edu/digitalaustinpapers/browse</loc>
+  <loc>http://digitalaustinpapers.org/browse</loc>
 </url>
 <url>
-  <loc>https://ui.library.unt.edu/digitalaustinpapers/about</loc>
+  <loc>http://digitalaustinpapers.org/about</loc>
 </url>
 <url>
-  <loc>https://ui.library.unt.edu/digitalaustinpapers/contact</loc>
+  <loc>http://digitalaustinpapers.org/contact</loc>
 </url>
 <url>
-  <loc>https://ui.library.unt.edu/digitalaustinpapers/browse?browseBy=author</loc>
+  <loc>http://digitalaustinpapers.org/browse?browseBy=author</loc>
 </url>
 <url>
-  <loc>https://ui.library.unt.edu/digitalaustinpapers/browse?browseBy=recipient</loc>
+  <loc>http://digitalaustinpapers.org/browse?browseBy=recipient</loc>
 </url>
 <url>
-  <loc>https://ui.library.unt.edu/digitalaustinpapers/browse?browseBy=date</loc>
+  <loc>http://digitalaustinpapers.org/browse?browseBy=date</loc>
 </url>
 <url>
-  <loc>https://ui.library.unt.edu/digitalaustinpapers/browse?browseBy=origin</loc>
+  <loc>http://digitalaustinpapers.org/browse?browseBy=origin</loc>
 </url>
 <url>
-  <loc>https://ui.library.unt.edu/digitalaustinpapers/browse?browseBy=destination</loc>
+  <loc>http://digitalaustinpapers.org/browse?browseBy=destination</loc>
 </url>
 </urlset>
