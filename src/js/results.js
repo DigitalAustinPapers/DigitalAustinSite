@@ -81,8 +81,6 @@ function requestData() {
     var getParams = stringifyUrlQuery(),
         humanQueryString = "";
 
-    console.log("RequestData called");
-
     if (history.pushState) {
         // Update browser URL
         window.history.pushState({path:getParams},'', getParams);
@@ -167,9 +165,10 @@ $paging.setOptions({onSelect: function(page) {
 }});
 
 function updateDocuments() {
-    var $docList = $('search-results-list'),
+    var $docList = $('.search-results-list'),
+        $resultsTabs = $('.search-results__tabs'),
         $progressBar = $('.documents-tab .searching-progress'),
-        $description = $('.documents-tab__description');
+        $description = $('.documents-tab__description'),
         $sorter = $('.documents-tab .search-results__sort'),
         $resultsSummary = $('.search-results__results-summary'),
         resultsCount = basicData['json'].length;
@@ -200,9 +199,18 @@ function updateDocuments() {
     $('#sort_' + sortKey).prop('checked',true);
 
     $progressBar.hide();
-    $docList.show();
-    $sorter.show();
-    $description.show();
+
+    if(resultsCount > 0) {
+        $resultsTabs.show();
+        $docList.show();
+        $sorter.show();
+        $description.show();
+    } else {
+        $resultsTabs.hide();
+        $docList.hide();
+        $sorter.hide();
+        $description.hide();
+    }
 }
 
 $(document).on("basicDataLoaded", function(e, data) {
@@ -1044,7 +1052,6 @@ function redrawAllCurves() {
 }
 
 function redrawMarkers() {
-    console.log("RedrawMarkers called.");
     if (cityData == null) {
         console.log("Aborting.");
         console.log(cityData);

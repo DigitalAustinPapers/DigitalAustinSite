@@ -48,8 +48,11 @@ $search_results = array();
 
 $template = new TemplateRenderer();
 
-$min_sentiment = min($sentimentScores);
-$max_sentiment = max($sentimentScores);
+if(count($sentimentScores) > 0) {
+  $min_sentiment = min($sentimentScores);
+  $max_sentiment = max($sentimentScores);
+}
+
 
 foreach ($docData as $result_key => $result_value) {
   $rendered_template = $template->render('_search_result.twig', array(
