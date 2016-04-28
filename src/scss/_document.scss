@@ -1,0 +1,35 @@
+.document {
+
+  hr {
+    border-top-color: darken($hr-border, 20%);
+  }
+
+  &__download {
+    padding-top: 2em;
+  }
+
+  &__placeName,
+  &__persName {
+    color: inherit;
+    border-bottom: 1px dotted $accent-color;
+    text-decoration: none;
+    &:hover,
+    &:active,
+    &:visited,
+    &:focus {
+      background-color: $accent-color-light;
+      text-decoration: none;
+      color: inherit;
+    }
+  }
+
+  &__body {
+    line-height: 1.6em;
+    font-size: 20px;
+    word-wrap: break-word;
+  }
+
+  &__citation-publication {
+    font-style: italic;
+  }
+}

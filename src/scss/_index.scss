@@ -1,0 +1,95 @@
+body#index {
+  background-color: $primary-color-light;
+}
+
+.jumbotron {
+  position: relative;
+  padding-top: 0;
+  display: block;
+  width: 100%;
+  min-height: 500px;
+  max-height: 600px;
+  overflow: hidden;
+  background-image: url("../img/austin-hero-lg.jpg");
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0 auto 30px;
+
+  & h1 {
+    @media (min-width: $screen-sm-min) and (max-width: $screen-sm-max) {
+      margin-top: 0;
+    }
+  }
+
+  & > .container {
+    @media (max-width: $screen-xs-max) {
+      padding-top: 50px;
+    }
+  }
+
+  .navbar {
+    @include gradient-vertical(rgba(0,0,0,.6), rgba(0,0,0,0));
+  }
+
+  .jumbotron-subtitle {
+    font-weight: 400;
+  }
+}
+
+.front-page__container {
+  margin-top: -7em;
+}
+
+.stat-panel {
+
+  h1 {
+    small {
+      font-size: 37%;
+    }
+  }
+
+  &__item {
+    @extend .col-sm-3;
+    @extend .col-md-12;
+
+    @media (min-width: $screen-md-min) {
+      padding-left: 0;
+      padding-right: 0;
+    }
+  }
+
+  &__number {
+    @extend .col-xs-6;
+    @extend .col-sm-12;
+    @extend .col-md-7;
+    @extend .text-right;
+    padding-right: 7.5px;
+    direction: rtl;
+
+    @media (min-width: $screen-sm-min) and (max-width: $screen-sm-max) {
+      text-align: center;
+      padding: 0 15px;
+      h1 {
+        margin: 0;
+      }
+    }
+  }
+
+  &__label {
+    @extend .col-xs-6;
+    @extend .col-sm-12;
+    @extend .col-md-5;
+    @extend .text-left;
+    padding-left: 7.5px;
+
+    @media (min-width: $screen-sm-min) and (max-width: $screen-sm-max) {
+      text-align: center;
+      padding: 0 15px;
+      h1 {
+        margin: 0;
+      }
+    }
+  }
+}
+

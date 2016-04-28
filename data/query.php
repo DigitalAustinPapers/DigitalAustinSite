@@ -160,10 +160,13 @@ function buildDocumentSearchQuery() {
 	    elseif ($_GET['sort'] === 'date') {
 	        $orderBy = ' ORDER BY date ';
 	    }
-	    elseif ($_GET['sort'] === 'sentiment') {
+	    elseif ($_GET['sort'] === 'sentiment_desc') {
 	        $orderBy = ' ORDER BY sentimentScore DESC ';
 	    }
-	    	}
+			elseif ($_GET['sort'] === 'sentiment_asc') {
+					$orderBy = ' ORDER BY sentimentScore ASC ';
+			}
+	}
 	
 	$groupBy = "GROUP BY Document.Id";
 

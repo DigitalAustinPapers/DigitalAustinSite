@@ -1,0 +1,54 @@
+{#
+
+# FILE NAME:        _macros.twig
+
+# PURPOSE:          Reusable macros that can be loaded into any template
+
+# MACROS:
+
+    class_filter        param input_text
+                        Removes special characters from input and prints class-friendly name
+
+    title_date_filter   param input_text
+                        Changes "Unknown" from letter dates to "Date unknown" for better description
+
+    sort_letter_filter  param category
+                        param input_text
+                        Used to create jumplists in browse function by looking at category and whether
+                        it should print unclear, undefined, or a letter.
+
+#}
+
+{%- macro class_filter(input_text) -%}
+  {% spaceless %}
+    {{- input_text|lower|replace({' ': '-', '.': '', ',': '', '[': '', ']': '', '/': ''}) -}}
+  {% endspaceless %}
+{% endmacro %}
+
+{%- macro title_date_filter(input_text) -%}
+  {% spaceless %}
+    {% if input_text ends with 'Unknown' %}
+      {{ input_text|replace({', Unknown': ', Date Unknown'}) }}
+    {% else %}
+      {{ input_text }}
+    {% endif %}
+  {% endspaceless %}
+{% endmacro %}
+
+{%- macro sort_letter_filter(category, input_text) -%}
+  {% spaceless %}
+    {% if category in ['author', 'recipient'] %}
+      {% if input_text|lower == 'unclear' %}
+        unclear
+      {% else %}
+        {{ input_text|split(' ')|last|first|lower }}
+      {% endif %}
+    {% elseif category in ['origin', 'destination'] %}
+      {% if input_text|lower == 'undefined' %}
+        undefined
+      {% else %}
+        {{ input_text|first|lower }}
+      {% endif %}
+    {% endif %}
+  {% endspaceless %}
+{% endmacro %}

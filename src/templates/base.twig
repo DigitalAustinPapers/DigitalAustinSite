@@ -1,0 +1,183 @@
+{#
+
+# FILE NAME:        base.twig
+
+# PURPOSE:
+
+    Lowest level file that all other templates within the site should descend.
+    Defines the outlining HTML structure of the HTML document.
+
+# CODE AUTHORING:
+
+    * Author as an HTML 5 document with 'good' semantic structure (Where possible).
+    * Overview: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
+    * Validation: http://validator.w3.org/
+    * Reasonably support older browser versions based on analytics.
+    * Reasonably support mobile browsers and aid rendering speed/performance.
+    * Opt for reasonable semantics
+
+    * Lowercase all elements and attributes
+    * IDs should be unique to the page and contain either a single word or be separated by a - character. no underscores or camelcase.
+    * Quote all attributes
+    * Attributes that may be expressed as booleans SHOULD include values (ie. selected="selected")
+    * Self-closing elements (img, meta, link, etc.) SHOULD end with a trailing slash
+    * Opt for Readability in Twig templates. Indent Twig Blocks and statements as you would HTML elements.
+
+    * Write for Accessibility.
+    * General Tutorial: http://www.w3.org/WAI/tutorials/
+    * Reference: http://www.w3.org/WAI/WCAG20/quickref/
+
+    * Most elements should either have an ID attribute or be within 1-2 step DOM traversal of one.
+
+    ***************************
+    **** ESPECIALLY LINKS *****     For tracking in Analytics / DOM manipulation
+    ***************************
+
+    * Where possible, class attributes should be semantic and follow BEM-like convention with two spaces between class names.
+    * BEM: http://cssguidelin.es/#bem-like-naming
+
+    * Limit inline styles and JavaScript
+    * Components employing JavaScript functionality should degrade gracefully.
+
+# BLOCKS:           The following Twig "blocks" are defined in this document.
+
+    head                    contains everything in <head> tag
+      title                   set the opening text of the <title> tag, All web pages should have unique titles.
+      metadata      all meta properties for the page
+        metadata_opengraph    opengraph meta tag for Twitter
+      fonts                   page font links
+      stylesheets             all stylesheet link tags
+      scripts                 script source tags
+
+    header                    page header, includes _header.twig in base
+    hero                      page hero used on _index.twig.html
+    main_container            highest level container for content
+      content                 primary page content
+
+    footer                    page footer, includes _footer.twig in base
+    scripts_footer            any scripts included at the end of page load
+
+# INCLUDES:
+
+    _header.twig
+
+    _footer.twig
+
+# VARIABLES:        Variables passed from the template rendering engine
+
+    body_id           id attached to body tag as a styling hammer
+
+#}
+
+<!DOCTYPE html>
+<html lang="en"
+      prefix="og: http://ogp.me/ns#
+        fb: http://ogp.me/ns/fb#
+        website: http://ogp.me/ns/website#
+        article: http://ogp.me/ns/article#">
+<head>
+{% block head %}
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <link rel="shortcut icon" href="favicon.ico?v=2" />
+
+  <title>{% block title %}Stephen F. Austin - Digital Collection{% endblock title %}</title>
+
+  {% block metadata %}
+    <meta property="og:site_name" content="Digital Austin Papers" />
+    {% block metadata_opengraph %}
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="http://digitalaustinpapers.org" />
+    <meta property="og:title" content="Stephen F. Austin - Digital Collection" />
+    <meta property="og:description" content="Stephen F. Austin's letters" />
+    {% endblock metadata_opengraph %}
+    <meta property="twitter:card" content="summary" />
+  {% endblock metadata %}
+
+  <!-- external fonts -->
+  {% block fonts %}
+    <link href="//fonts.googleapis.com/css?family=Stint+Ultra+Expanded:400" rel="stylesheet" />
+    <link href="//fonts.googleapis.com/css?family=Stint+Ultra+Condensed:400" rel="stylesheet" />
+    <link href="//fonts.googleapis.com/css?family=Quicksand:300,400,700" rel="stylesheet" />
+    <link href="//fonts.googleapis.com/css?family=Bitter:400,400italic,700" rel="stylesheet" />
+  {% endblock fonts %}
+
+  <!-- CSS -->
+  {% block stylesheets %}
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="public/css/style.css" />
+  {% endblock stylesheets%}
+
+  <!-- scripts -->
+  {% block scripts %}
+  <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+  <!--[if lt IE 9]>
+  <script src="public/js/vendor/html5shiv.min.js"></script>
+  <script src="public/js/vendor/respond.min.js"></script>
+  <![endif]-->
+
+  <!-- Google Analytics -->
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-68947683-1', 'auto');
+    ga('require', 'linkid', 'linkid.js');
+    ga('send', 'pageview');
+  </script>
+  {% endblock scripts %}
+
+{% endblock head %}
+</head>
+<body id="{{ body_id }}">
+<div id="main-wrapper">
+  {% block header %}
+    {% include '_header.twig' %}
+  {% endblock header %}
+
+  {% block hero %}
+  {% endblock hero %}
+
+  {% block main_container %}
+  <div class="container main-container">
+    <div class="row">
+      <div class="col-md-12">
+        {% block content %}{% endblock content %}
+      </div><!-- col-sm-12 -->
+    </div><!-- row -->
+  </div><!-- main-container -->
+  {% endblock main_container %}
+
+</div><!-- main-wrapper -->
+  {% block footer %}
+    {% include '_footer.twig' %}
+  {% endblock footer %}
+
+<!-- scripts -->
+{% block scripts_footer %}
+{# Attempt to load js from CDNs and fallback to local #}
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>window.jQuery || document.write('<script src="public/js/vendor/jquery.min.js"><\/script>')</script>
+
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+  <script>window.jQuery.fn.modal || document.write('<script src="public/js/vendor/bootstrap.min.js"><\/script>')</script>
+
+  <script>
+    $(document).ready(function() {
+      $("a").each(function() {
+        var id = $(this).attr("id");
+        $(this).on("click keyup touchstart", function(event) {
+          ga('send', 'event', 'link', 'click', id);
+        })
+      });
+    });
+  </script>
+
+{% endblock scripts_footer %}
+
+</body>
+</html>

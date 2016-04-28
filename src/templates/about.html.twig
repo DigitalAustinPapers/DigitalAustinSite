@@ -1,0 +1,104 @@
+{% extends 'base.twig' %}
+
+{#
+
+# FILE NAME:        about.html.twig
+
+# PURPOSE:
+
+    Extends base.twig. About page for site
+
+# BLOCKS:           The following Twig "blocks" are defined in this document.
+
+    title                   sets page title and imports parent
+
+    content                 primary page content
+
+    scripts_footer            any scripts included at the end of page load
+
+#}
+
+{% block title %}About | {{ parent() }}{% endblock %}
+
+{% block content %}
+  <div class="about-page__title">
+    <h2>About the Texts</h2>
+    <p>The Digital Austin Papers represent a digital edition of Barker's 1923
+      <i>Title goes here</i>.</p>
+  </div>
+
+<div class="col-sm-3 about-page__credits">
+
+  <h2>Credits</h2>
+
+  <h3>Editorial Staff</h3>
+
+  <dl>
+    <dt>Andrew Torget</dt>
+    <dd>General Editor</dd>
+    <dt>Debbie Liles</dt>
+    <dd>Editor</dd>
+  </dl>
+
+  <h3>Technical Staff</h3>
+
+  <dl>
+    <dt>Ben W. Brumfield</dt>
+    <dd>Lead Developer</dd>
+    <dt>Karin Dalziel</dt>
+    <dd>Navigation and Front-end Development</dd>
+    <dt>Stephen Eisenauer</dt>
+    <dd>Visualizations and Additional Development</dd>
+    <dt>Sara Carlstead Brumfield</dt>
+    <dd>Clustering Algorithms and Additional Development</dd>
+    <dt>Stephen Mues</dt>
+    <dd>Original Design and Development</dd>
+  </dl>
+
+</div>
+
+<div class="col-sm-9 about-page__about">
+
+  <h2>About the Digital Edition</h2>
+
+  <h3>Transcription and Mark-up</h3>
+
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+  <h3>Technology</h3>
+
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+  <h3>TEI</h3>
+
+  <p>Heeding Peter Robinson's admonition that "your interface is everyone
+  else's enemy", we decided to expose the TEI version of the papers in two
+  ways:</p>
+    <ul>
+      <li><b>Bulk Download</b>: A GitHub repository containing the editor's
+      transcripts, the TEI-P5 XML files, and the programs used to convert
+      the transcripts to TEI-XML is at
+      <a href="https://github.com/DigitalAustinPapers/AustinTranscripts" id="about-austin-transcripts-github">AustinTranscripts</a>
+      and can	be downloaded for analysis or any other re-use.
+      </li>
+      <li><b>Direct Download</b>: Each page on the Digital Austin Papers site
+        has a direct link to download the document in XML format from the GitHub
+        repository.
+      </li>
+    </ul>
+
+  <h3>The Portal to Texas History</h3>
+
+  <p>Digital Austin Papers is a partner of <a href="http://texashistory.unt.edu" id="about-portal">
+      The Portal to Texas History</a>, a project created and maintained by the
+    University of North Texas Libraries' Digital Projects Unit. More information
+    can be found in The Portal to Texas History's
+    <a href="http://texashistory.unt.edu/explore/collections/AUSTIN/" id="about-portal-sfa-collection">
+    Moses and Stephen F. Austin Papers collection</a>.
+  </p>
+
+  <h3>Copyright <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/3.0/80x15.png" /></a></h3>
+
+  <p><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Digital Austin Papers</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/" target="_blank">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.</p>
+  </div>
+{% endblock %}

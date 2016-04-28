@@ -1,0 +1,144 @@
+.word-chart {
+  @extend .col-sm-4;
+
+  &__title {
+    margin-top: 0;
+  }
+
+  &__bar {
+    fill: $accent-color;
+
+    &:hover {
+      fill: $accent-color-dark;
+    }
+  }
+
+  &__item-weight {
+    fill: $text-icons-color;
+    font-size: 14px;
+    font-weight: bold;
+  }
+
+  &__label-text {
+    fill: $text-primary-color;
+    font-size: 14px;
+
+    &:hover {
+      fill: $accent-color-dark;
+    }
+  }
+}
+
+.time-chart {
+  font-size: .95em;
+
+  &__outer-svg {
+    visibility: visible;
+
+    &--hidden {
+      visibility: hidden;
+    }
+  }
+
+  &__domain-title {
+    font-weight: bold;
+  }
+
+  &__domain-toggle {
+    font-size: .8em;
+    fill: $primary-color;
+
+    &:hover {
+      fill: $accent-color-dark;
+    }
+  }
+
+  .axis {
+    & text {
+      font-family: $font-family-monospace;
+      font-size: .9em;
+    }
+
+    & path,
+    & line {
+      fill: none;
+      stroke: #000;
+      shape-rendering: crispEdges;
+    }
+  }
+
+  .y.axis {
+    .tick line {
+      opacity: .2;
+    }
+  }
+
+  .x.axis {
+    .tick line {
+      opacity: .2;
+    }
+  }
+
+  .label {
+    font-size: .95em;
+  }
+
+  &__bar--positive {
+    &:hover {
+      fill: darken($brand-success, 10%) !important;
+    }
+  }
+
+  &__bar--neutral {
+    &:hover {
+      fill: darken(#727272, 10%) !important;
+    }
+  }
+
+  &__bar--negative {
+    &:hover {
+      fill: darken($brand-danger, 10%) !important;
+    }
+  }
+
+  &__line {
+    fill: none;
+    stroke: $primary-color-dark;
+    stroke-width: 1.5px;
+  }
+
+  &__dot {
+    fill: $primary-color-dark;
+
+    &:hover {
+      fill: $accent-color;
+    }
+  }
+
+  .legend {
+    font-size: .9em;
+  }
+}
+
+.geographic-chart-tab__legend {
+  @extend .panel;
+  @extend .panel-default;
+  @extend .panel-body;
+
+  pointer-events: none;
+  display: inline-block;
+  position: absolute;
+  right: 25px;
+  bottom: 15px;
+  margin-bottom: 0;
+  opacity: .8;
+
+  &-line {
+    width: 100px;
+    height: 5px;
+    display: inline-block;
+    @include gradient-horizontal(red, blue, 0%, 100%);
+    margin: 0 5px;
+    vertical-align: middle;
+  }
+}

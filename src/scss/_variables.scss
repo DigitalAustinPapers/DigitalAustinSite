@@ -1,0 +1,154 @@
+$bootstrap-sass-asset-helper: false !default;
+//
+// Custom Variables Overrides
+// --------------------------------------------------
+
+//== Colors
+
+// Material design color palette
+// Generated from https://www.materialpalette.com/
+
+// Primary color blue grey
+$primary-color:         material-color('blue-grey', '500'); // #607D8B
+$primary-color-dark:    material-color('blue-grey', '700'); // #455A64
+$primary-color-light:   material-color('blue-grey', '100'); // #CFD8DC
+$primary-color-lighter: material-color('blue-grey', '50'); // #ECEFF1
+
+// Accent color amber
+$accent-color:          material-color('amber', 'a400'); // #FFC400
+$accent-color-light:    material-color('amber', 'a200'); // #FFD740
+$accent-color-dark:     material-color('amber', 'a700'); // #FFAB00
+
+// Text, icons, and divider colors
+$text-icons-color:      #FFFFFF;
+$text-primary-color:    #212121;
+$text-secondary-color:  #727272;
+$divider-color:         #B6B6B6;
+
+$brand-primary:         $primary-color;
+
+//== Scaffolding
+//
+//## Settings for some of the most global styles.
+
+//** Global text color on `<body>`.
+$text-color:            $text-primary-color !default;
+
+//** Global textual link color.
+$link-color:            $primary-color !default;
+//** Link hover color set via `darken()` function.
+$link-hover-color:      $accent-color-dark !default;
+//** Link hover decoration.
+$link-hover-decoration: none !default;
+
+//== Typography
+//
+//## Font, line-height, and color for body text, headings, and more.
+
+$font-family-sans-serif:  Quicksand, "Helvetica Neue", Helvetica, Arial, sans-serif !default;
+$font-family-serif:       Georgia, "Times New Roman", Times, serif !default;
+
+$font-size-base:          18px !default;
+
+//** By default, this inherits from the `<body>`.
+$headings-font-family:    "Stint Ultra Condensed", $font-family-serif !default;
+
+//== Components
+//
+//## Define common padding and border radius sizes and more. Values based on 14px text and 1.428 line-height (~20px to start).
+
+$border-radius-base:        0 !default;
+$border-radius-large:       0 !default;
+$border-radius-small:       0 !default;
+
+//** Global color for active items (e.g., navs or dropdowns).
+$component-active-color:    $text-icons-color !default;
+//** Global background color for active items (e.g., navs or dropdowns).
+$component-active-bg:       $primary-color !default;
+
+//== Buttons
+//
+//## For each of Bootstrap's buttons, define text, background and border color.
+
+$btn-default-color:              $text-primary-color !default;
+$btn-default-bg:                 $primary-color-light !default;
+$btn-default-border:             $btn-default-bg !default;
+
+$btn-primary-color:              $text-icons-color !default;
+$btn-primary-bg:                 $primary-color !default;
+
+//== Forms
+//
+//##
+
+//** Text color for `<input>`s
+$input-color:                    $text-primary-color !default;
+//** `<input>` border color
+$input-border:                   $primary-color-light !default;
+
+//** Border color for inputs on focus
+$input-border-focus:             $accent-color !default;
+
+//** Placeholder text color
+$input-color-placeholder:        lighten($text-secondary-color, 20%) !default;
+
+//== Navbar
+//
+//##
+
+// Basics of a navbar
+$navbar-default-color:             $text-icons-color !default;
+$navbar-default-bg:                $primary-color !default;
+$navbar-default-border:            transparent !default;
+
+// Navbar links
+$navbar-default-link-color:                $text-icons-color !default;
+$navbar-default-link-hover-color:          $accent-color !default;
+$navbar-default-link-active-color:         $navbar-default-link-hover-color !default;
+
+// Navbar brand label
+$navbar-default-brand-hover-color:         $navbar-default-link-hover-color !default;
+
+// Navbar toggle
+$navbar-default-toggle-hover-bg:           transparent !default;
+$navbar-default-toggle-icon-bar-bg:        $text-icons-color !default;
+$navbar-default-toggle-border-color:       transparent !default;
+
+//== Navs
+//
+//##
+
+//=== Shared nav styles
+$nav-link-hover-bg:                         $primary-color-lighter !default;
+
+//== Tabs
+$nav-tabs-border-color:                     $primary-color-light !default;
+$nav-tabs-link-hover-border-color:          none !default;
+$nav-tabs-active-link-hover-color:          $primary-color !default;
+$nav-tabs-active-link-hover-border-color:   $nav-tabs-border-color !default;
+
+//== Pagination
+//
+//##
+$pagination-border:                    $primary-color-light !default;
+$pagination-hover-bg:                  $primary-color-lighter !default;
+$pagination-hover-border:              $primary-color-light !default;
+$pagination-active-color:              $text-icons-color !default;
+$pagination-active-bg:                 $primary-color !default;
+$pagination-active-border:             $primary-color !default;
+
+//== Jumbotron
+//
+//##
+$jumbotron-color:                $text-icons-color !default;
+$jumbotron-heading-font-size:    ceil(($font-size-base * 3)) !default;
+
+//== Panels
+//
+//##
+
+//** Border color for elements within panels
+$panel-inner-border:          $divider-color !default;
+$panel-default-text:          $text-secondary-color !default;
+$panel-default-border:        $divider-color !default;
+$panel-default-heading-bg:    $primary-color-light !default;
