@@ -32,14 +32,14 @@
     <dt>Andrew Torget</dt>
     <dd>General Editor</dd>
     <dt>Debbie Liles</dt>
-    <dd>Editor</dd>
+    <dd>Associate Editor</dd>
   </dl>
 
   <h3>Technical Staff</h3>
 
   <dl>
     <dt>Ben W. Brumfield</dt>
-    <dd>Architect</dd>
+    <dd>Lead Back End Developer</dd>
     <dt>Jason Ellis</dt>
     <dd>Lead User Interface Developer and Data Visualizations</dd>
     <dt>Sara Carlstead Brumfield</dt>
@@ -130,13 +130,19 @@ Because a driving goal of DAP is to provide users with multiple tools for explor
 </ul></p>
 
 <h3>Sentiment Analysis</h3>
-<p>Sentiment analysis is a computational linguistics approach to determining the emotional content of text. In DAP, we adopted a method in which every word in a document is assigned a score based on a positive or negative weight in a dictionary. Scores range from +1 to -1, with 0 being neutral, 1 being strongly positive, and -1 being strongly negative.  If the word was not in the dictionary it was considered neutral.  Totaling the scores of all words in the text provides a classification of the text itself. 
+<p>Sentiment analysis is a computational linguistics approach to determining the emotional content of text. In DAP, we adopted a method in which every word in a document is assigned a score based on a positive or negative weight in a dictionary. Scores range from +1 to -1, with 0 being neutral, 1 being strongly positive, and -1 being strongly negative.  
+If the word was not in the dictionary it was considered neutral.  Totaling the scores of all words in the text provides a classification of the text itself. 
 </p><p>
 Since it is a measurement of emotion, sentiment analysis is by nature always an approximation.  The fact that human readers tend to disagree about the overall sentiment of a given text about 20 percent of the time demonstrates that sentiment scoring of any kind should be taken as simply a rough gauge for the general emotional direction of any given document.  Our use of sentiment analysis in DAP is, therefore, an experiment that is part of our larger goal of exploring new methodologies for language analysis.
 </p><p>
 After experimenting with six different open-source ruby sentiment analysis libraries from GitHub, DAP settled on the open-source TextMood.  Each document in the collection was run against the program’s dictionary and given a sentiment score based on the cumulative positive and negative weight of the words within that document.  
 </p><p>
-We used three approaches to check the quality of the results after applying sentiment analysis to the DAP corpus.  First, we reviewed the most common words in the corpus to check the coverage and accuracy of the dictionary.  We found that 95 percent of the nineteenth-century vocabulary had been scored correctly.  Second, we hand-checked the most negative and the most positive scored documents and discovered that those results met our expectations.  For example, <a href="http://digitalaustinpapers.org/document.php??id=APB0286">the most negative</a> described a feud, altercation, and duel between Stephen F. Austin and Joshua Pilcher. The most positive, by contrast, was Austin's <a href="http://digitalaustinpapers.org/document.php??id=APB1858">glowing sales letter</a> to a Swiss group considering immigration to Texas.  Third, we compared the overall trends in sentiment scores over time against what we knew about Austin’s life to see if particular spikes in the sentiment scores matched the historical record of particularly stressful moments for Austin.  The spikes in negative sentiment that emerged in documents from 1830 and 1831 matched our expectations, as historians have long recognized those years as particularly difficult periods in both Austin’s personal and professional life. 
+We used three approaches to check the quality of the results after applying sentiment analysis to the DAP corpus.  
+First, we reviewed the most common words in the corpus to check the coverage and accuracy of the dictionary.  
+We found that 95 percent of the nineteenth-century vocabulary had been scored correctly.  
+Second, we hand-checked the most negative and the most positive scored documents and discovered that those results met our expectations.  
+For example, <a href="http://digitalaustinpapers.org/document.php?id=APB0286">the most negative</a> described a feud, altercation, and duel between Stephen F. Austin 
+and Joshua Pilcher. The most positive, by contrast, was Austin's <a href="http://digitalaustinpapers.org/document.php?id=APB1858">glowing sales letter</a> to a Swiss group considering immigration to Texas.  Third, we compared the overall trends in sentiment scores over time against what we knew about Austin’s life to see if particular spikes in the sentiment scores matched the historical record of particularly stressful moments for Austin.  The spikes in negative sentiment that emerged in documents from 1830 and 1831 matched our expectations, as historians have long recognized those years as particularly difficult periods in both Austin’s personal and professional life. 
 </p><p>
 Overall, the purpose of using sentiment analysis in DAP is to offer users of the project a rough index of the emotional context of the documents in the collection.  In order to avoid conveying false impressions of precision, the “Documents” list in the search results converts the numeric score to “positive,” “neutral,” and “negative” (although the precise score and range of scores among the documents is still available to users).
 </p>
