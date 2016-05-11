@@ -61,21 +61,35 @@
                 <input type='radio' name='sort' id='sort_sentiment_desc' value='sentiment_desc' class="search-results__sort-radio-input">
                 Sentiment (Positive to Neg.)
               </label>
-              <a data-toggle="modal" data-target=".test-modal">
+              <a data-toggle="modal" data-target="#sentimentModal" href="#">
                 <i class="fa fa-question-circle" data-toggle="tooltip" title="Click to learn about Sentiment score"></i>
               </a>
               <label class="radio-inline">
                 <input type='radio' name='sort' id='sort_sentiment_asc' value='sentiment_asc' class="search-results__sort-radio-input">
                 Sentiment (Negative to Pos.)
               </label>
-              <a data-toggle="modal" data-target=".test-modal">
+              <a data-toggle="modal" data-target="#sentimentModal" href="#">
                 <i class="fa fa-question-circle" data-toggle="tooltip" title="Click to learn about Sentiment score"></i>
               </a>
-              <div class="modal fade test-modal" tabindex="-1" role="dialog">
-                <div class="modal-dialog modal-sm">
-                  <div class="modal-content" style="padding:20px;">
-                    Sentiment analysis is a computational linguistics approach to determining the emotional content of text.  In the Digital Austin Papers project, we adopted a computational method for comparing all the words in our documents against a weighted dictionary (which assigned positive scores to overtly positive words such as “amazing” and negative scores to overtly negative words such as “horrible”) which enabled the project to assign a “sentiment score” of the overall positivity or negativity of a given document.  The purpose of this technique is to offer users a rough index of the emotional context of the documents in the collection.  For a more detailed treatment of sentiment analysis, please see the “About” section of the project.
-		  </div>
+              <div class="modal fade" id="sentimentModal" tabindex="-1" role="dialog">
+                <div class="modal-dialog">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                      </button>
+                      <h3 class="modal-title">Sentiment score</h3>
+                    </div>
+                    <div class="modal-body">
+                      Sentiment analysis is a computational linguistics approach to determining the emotional content of text.
+                      In the Digital Austin Papers project, we adopted a computational method for comparing all the words in
+                      our documents against a weighted dictionary (which assigned positive scores to overtly positive words
+                      such as “amazing” and negative scores to overtly negative words such as “horrible”) which enabled the
+                      project to assign a “sentiment score” of the overall positivity or negativity of a given document.
+                      The purpose of this technique is to offer users a rough index of the emotional context of the documents
+                      in the collection.  Find a more detailed treatment of sentiment analysis <a href="about#sentiment-analysis">here</a>.
+                    </div>
+		          </div>
                 </div>
               </div>
             </form>
