@@ -1,0 +1,247 @@
+{% extends 'base.twig' %}
+
+{#
+
+# FILE NAME:        search.html.twig
+
+# PURPOSE:
+
+    Extends base.twig. Search page
+
+# BLOCKS:           The following Twig "blocks" are defined in this document.
+
+    title                  sets page title and imports parent
+
+    scripts                imports parent and adds script for D3.js
+
+    content                primary page content
+
+    scripts_footer         scripts included at the end of page load
+
+# INCLUDES:
+
+    _results.twig
+
+# VARIABLES:        Variables passed from the template rendering engine
+
+    body_id               id attached to body tag as a styling hammer
+
+    search_params         associative array of search criteria from GET request
+      query
+      fromPersonId
+      toPersonId
+      fromYear
+      toYear
+      fromPlaceId
+      toPlaceId
+      sentiment
+
+    search_dropdowns      associative array of data to populate search dropdowns
+      placeIdToNames
+      personIdToNames
+      fromPersonList
+      toPersonList
+      yearList
+      fromPlaceList
+      toPlaceList
+      allSentiments
+
+    totalDocsCount        total number of documents in collection
+
+    totalDocDistribution  associative array of all documents in the collection by year.
+
+#}
+
+{% from '_macros.twig' import class_filter %}
+
+{% block title %}Search | {{ parent() }}{% endblock %}
+
+{% block scripts %}
+  {{ parent() }}
+
+  {# Use CDN with fallback to local #}
+  <script async defer src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js"></script>
+  <script>window.d3 || document.write('<script src="public/js/vendor/d3.min.js" async><\/script>')</script>
+
+{% endblock scripts %}
+
+{% block content %}
+  <div class="row">
+    <div class="col-md-12">
+      <h2>Search the Austin Papers</h2>
+
+      <p>Search by keyword, author, recipient, date range, locations, and sentiment
+        scores (rankings of the positivity or negativity of the letters).  View
+        your results as a document list, a timeline plotted by sentiment scores,
+        a map of the letters’ geography, and ranked word counts.</p>
+    </div><!-- col -->
+  </div><!-- row -->
+
+
+  <form class="col-xs-12 search-form" action="search" onsubmit="return queryChanged()" method="get">
+    <div class="row">
+      <div class="col-xs-12">
+        <div class="form-group search-form__form-group">
+          <label for="query" class="sr-only">Search</label>
+          <input type="text" class="form-control" id="query" name="query" placeholder="Search terms" value="{{ search_params.query }}">
+        </div><!-- form-group -->
+      </div><!-- col -->
+
+      <div class="col-sm-4">
+        <div class="form-group search-form__form-group">
+          <label for="fromPersonId" class="sr-only">Author</label>
+          <select class="form-control" id="fromPersonId" name="fromPersonId">
+            <option value="" {% if search_params.fromPersonId == '' %}selected{% endif %}>Author</option>
+            <option value="7587">Stephen F. Austin</option>
+            {% for id, author in search_dropdowns.fromPersonList %}
+            <option value="{{ id }}" {% if search_params.fromPersonId == id %}selected{% endif %}>{{ author.person_name }} ({{ author.doc_frequency }} {% if author.doc_frequency > 1 %}letters{% else %}letter{% endif %})</option>
+            {% endfor %}
+          </select>
+        </div><!-- form-group -->
+
+        <div class="form-group search-form__form-group">
+          <label for="toPersonId" class="sr-only">Recipient</label>
+          <select class="form-control" id="toPersonId" name="toPersonId">
+            <option value="" {% if search_params.toPersonId == '' %}selected{% endif %}>Recipient</option>
+            <option value="7587">Stephen F. Austin</option>
+            {% for id, recipient in search_dropdowns.toPersonList %}
+              <option value="{{ id }}" {% if search_params.toPersonId == id %}selected{% endif %}>{{ recipient.person_name }} ({{ recipient.doc_frequency }} {% if recipient.doc_frequency > 1 %}letters{% else %}letter{% endif %})</option>
+            {% endfor %}
+          </select>
+        </div><!-- form-group -->
+      </div><!-- col -->
+
+      <div class="col-sm-4">
+        <div class="form-group search-form__form-group">
+          <label for="fromYear" class="sr-only">From year</label>
+          <select class="form-control" id="fromYear" name="fromYear">
+            <option value="" {% if search_params.fromYear == '' %}selected{% endif %}>From year</option>
+            {% for year, letters in search_dropdowns.yearList %}
+              <option value="{{ year }}" {% if year == search_params.fromYear %}selected{% endif %}>{{ year }} ({{ letters }} {% if letters > 1 %}letters{% else %}letter{% endif %})</option>
+            {% endfor %}
+          </select>
+        </div><!-- form-group -->
+
+        <div class="form-group search-form__form-group">
+          <label for="toYear" class="sr-only">To year</label>
+          <select class="form-control" id="toYear" name="toYear">
+            <option value="" {% if search_params.toYear == '' %}selected{% endif %}>To year</option>
+            {% for year, letters in search_dropdowns.yearList %}
+              <option value="{{ year }}" {% if year == search_params.toYear %}selected{% endif %}>{{ year }} ({{ letters }} {% if letters > 1 %}letters{% else %}letter{% endif %})</option>
+            {% endfor %}
+          </select>
+        </div><!-- form-group -->
+      </div><!-- col -->
+
+      <div class="col-sm-4">
+        <div class="form-group search-form__form-group">
+          <label for="fromPlaceId" class="sr-only">Sent from</label>
+          <select class="form-control" id="fromPlaceId" name="fromPlaceId">
+            <option value="" {% if search_params.fromPlaceId == '' %}selected{% endif %}>Sent from</option>
+            {% for id, place in search_dropdowns.fromPlaceList %}
+              <option value="{{ id }}" {% if search_params.fromPlaceId == id %}selected{% endif %}>{{ place.place_name }} ({{ place.doc_frequency }} {% if place.doc_frequency > 1 %}letters{% else %}letter{% endif %})</option>
+            {% endfor %}
+          </select>
+        </div><!-- form-group -->
+
+        <div class="form-group search-form__form-group">
+          <label for="toPlaceId" class="sr-only">Sent to</label>
+          <select class="form-control" id="toPlaceId" name="toPlaceId">
+            <option value="" {% if search_params.toPlaceId == '' %}selected{% endif %}>Sent to</option>
+            {% for id, place in search_dropdowns.toPlaceList %}
+              <option value="{{ id }}" {% if search_params.toPlaceId == id %}selected{% endif %}>{{ place.place_name }} ({{ place.doc_frequency }} {% if place.doc_frequency > 1 %}letters{% else %}letter{% endif %})</option>
+            {% endfor %}
+          </select>
+        </div><!-- form-group -->
+      </div><!-- col -->
+
+      <div class="col-sm-4">
+        <div class="form-group search-form__form-group">
+          <label for="sentiment" class="sr-only">Sentiment</label>
+          <select class="form-control" id="sentiment" name="sentiment">
+            <option value="" {% if search_params.sentiment == '' %}selected{% endif %}>Sentiment</option>
+            {% for key, value in search_dropdowns.allSentiments %}
+              <option value="{{ key }}" {% if key == search_params.sentiment %}selected{% endif %}>{{ value }}</option>
+            {% endfor %}
+          </select>
+        </div><!-- form-group -->
+      </div><!-- col -->
+
+      <div class="col-sm-4">
+        <button type="submit" id="submit" class="btn btn-default search-form__submit-button"><span class="fa fa-search" aria-hidden="true"></span> Search</button>
+      </div>
+    </div><!-- row -->
+
+  </form>
+
+      {% include '_results.twig' %}
+      <script>
+        var placeIdToNames = {{ search_dropdowns.placeIdToNames|raw }};
+        var personIdToNames = {{ search_dropdowns.personIdToNames|raw }};
+      </script>
+
+{% endblock %}
+
+{% block scripts_footer %}
+  {{ parent() }}
+  <script>
+    var totalDocsCount = {{ totalDocsCount }};
+    var totalDocDistribution = {{ totalDocDistribution|raw }};
+  </script>
+
+  <script src="public/js/vendor/jquery.paging.min.js"></script>
+  <script src="public/js/paging.js"></script>
+  <!-- Google AJAX API -->
+  <script src="https://www.google.com/jsapi?key=AIzaSyCld462mkpAZrPllmHK8eJGXenW5Kus7g0"></script>
+  <script src="public/js/results.js"></script>
+
+  {% if search_params != null %}
+    <script>
+      queryChanged();
+    </script>
+
+    <script>
+      $(document).ready(function() {
+
+        // Bind google analytics event tracking to search result tabs
+        $('a[data-toggle="tab"]').on('shown.bs.tab', function (e) {
+          var target = e.target.href.split('#tab-')[1];
+          var relatedTarget = e.relatedTarget.href.split('#tab-')[1];
+          ga('send', 'event', 'search result tabs', 'change tab', 'to:' + target + ' from:' + relatedTarget);
+        });
+
+        // Bind google analytics event tracking to search results
+        $(".search-results-list").each(function() {
+          $(this).on("click keyup touchstart", 'a.search-results-list__item-title', function(event) {
+            var id = $(this).attr("id");
+            var url = stringifyUrlQuery();
+            ga('send', 'event', 'search result', 'click', id + ' ' + url + ' page:' + $paging.a.page);
+          })
+        });
+
+        // Bind google analytics event tracking to time chart
+        $(".time-chart-tab").on("click keyup touchstart", 'a[class^=time-chart__bar]', function(event) {
+          var id = $(this).attr("id");
+          var url = stringifyUrlQuery();
+          ga('send', 'event', 'time chart', 'click', id + ' ' + url);
+        });
+
+        // Bind google analytics event tracking to geography map
+        $(".geographic-chart-tab__map").on("click keyup touchstart", '.geography__city-link', function(event) {
+          var id = $(this).attr("id");
+          var url = stringifyUrlQuery();
+          ga('send', 'event', 'geography results', 'click', id + ' ' + url);
+        });
+
+        // Bind google analytics event tracking to word counts
+        $(".word-chart").on("click keyup touchstart", 'a[class=word-chart__label-link]', function(event) {
+          var id = $(this).closest('.word-chart').attr("id");
+          var gaEvent = $(this).attr('data-ga-event');
+          var url = stringifyUrlQuery();
+          ga('send', 'event', 'word chart', 'click',
+              id + ' - ' + gaEvent + ' - ' + url);
+        });
+      });
+    </script>
+  {% endif %}
+{% endblock %}

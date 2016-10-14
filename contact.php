@@ -1,45 +1,43 @@
-<html>
-	<header>
-		<link rel="stylesheet" type="text/css" href="header.css" />
-		<link rel="stylesheet" type="text/css" href="footer.css" />
-		<link rel="stylesheet" type="text/css" href="style.css" /> <!-- Merged CSS -kmd -->
-		<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
-	</header>
+<?php require_once 'src/TemplateRenderer.class.php';
 
-	<body>
-		<div id = "wrapper" class="shadow">
-			<div id = "header">
-				<?php include('header.php'); ?>
-			</div>
-			<div id = "form">
-				<h2>Contact Form</h2> 
-			<p>Please fill out the form below to send email to the Digital Austin Collection team <em>(all fields are required)</em>:</p> 
-			<form action="send.php" method="post"> 
-				<p>Your Name:<br /> 
-				<input type="text" name="contact_name" size="30" maxlength="100" tabindex="1" /> 
-				</p> 
-				<p>Your Email Address:<br /> 
-				<input type="text" name="contact_email" size="30" maxlength="100" tabindex="2" /> 
-				</p> 
-				<p>Reason for Email:
-				<select name="contact_reason" size="1" tabindex="3"> 
-					<option label="Question" value="question" selected="selected">Question</option> 
-					<option label="Comment" value="comment">Comment</option> 
-					<option label="Suggestion" value="suggestion">Suggestion</option> 
-					<option label="Problem" value="problem">Problem</option> 
-				</select> 
-				</p> 
-				<p>Your Message:<br /> 
-				<textarea name="contact_message" rows="8" cols="40" tabindex="4"></textarea> 
-				</p>
-				<p> 
-				<input type="submit" name="Submit" value="Send!" tabindex="5" /> 
-				</p> 
-			</form> 
-			</div>
-			<div id = "footer">
-				<?php include('footer.php'); ?>
-			</div>
-		</div>
-	</body>
-</html>
+$success = null;
+
+if(isset($_POST['submit'])) {
+  require_once('src/recaptcha/src/autoload.php');
+  require_once('php/localCredentials.php');
+
+  // Google recaptcha site key and secret key
+  $siteKey = '6LdLHAsTAAAAAMpMPpkmgNh4FDNEl7WJV_3lNuqH';
+  $secret = $recaptchaSecret;
+
+  $recaptcha = new \ReCaptcha\ReCaptcha($secret);
+  $resp = $recaptcha->verify(filter_var($_POST['g-recaptcha-response'], FILTER_SANITIZE_STRING));
+
+  // set $success to fail by default on form submission
+  $success = 'fail';
+
+  if ($resp->isSuccess()) {
+    $name = filter_var($_POST['contact_name'], FILTER_SANITIZE_STRING);
+    $email = filter_var($_POST['contact_email'], FILTER_SANITIZE_EMAIL);
+    $reason = filter_var($_POST['contact_reason'], FILTER_SANITIZE_STRING);
+    $message = filter_var($_POST['contact_message'], FILTER_SANITIZE_STRING);
+
+    $to = "andrew.torget@unt.edu";
+    $subject = "Digital Austin Collection: " . $reason;
+    $body = $message . "\n\n" . "From: " . $name . " - " . $email;
+
+    if (mail($to, $subject, $body)) {
+      $success = 'success';
+    }
+
+  } else {
+    $errors = $resp->getErrorCodes();
+  }
+}
+
+$template = new TemplateRenderer();
+// Include any variables as an array in the second param
+print $template->render('contact.html.twig', array(
+                        'success' => $success,
+                        'body_id' => 'contact'
+));

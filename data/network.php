@@ -13,7 +13,7 @@
 session_start();
 
 include '../php/porterStemmer.php';
-include '../php/database.php';
+include_once '../php/database.php';
 include '../data/query.php';
 
 $database = connectToDB();

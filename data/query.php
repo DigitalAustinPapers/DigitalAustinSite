@@ -45,16 +45,17 @@ function buildSearchQuery($orderBy, $groupBy) {
 	if (array_key_exists('fromYear', $_GET) && ($_GET['fromYear'] != ''))
 	{
 	    $escapedFromYear = ((isset($GLOBALS["___mysqli_ston"]) && is_object($GLOBALS["___mysqli_ston"])) ? mysqli_real_escape_string($GLOBALS["___mysqli_ston"], $_GET['fromYear']) : ((trigger_error("[MySQLConverterToo] Fix the mysql_escape_string() call! This code does not work.", E_USER_ERROR)) ? "" : ""));
-	    $fromDateCondition = " AND creation > '$escapedFromYear' ";
+	$escapedFromYear .= '-00-00';  
+	    $fromDateCondition = " AND creation >= '$escapedFromYear' ";
 	}
 	
 	$toDateCondition = '';
 	if (array_key_exists('toYear', $_GET) && ($_GET['toYear'] != ''))
 	{
 	    $escapedToYear = ((isset($GLOBALS["___mysqli_ston"]) && is_object($GLOBALS["___mysqli_ston"])) ? mysqli_real_escape_string($GLOBALS["___mysqli_ston"], $_GET['toYear']) : ((trigger_error("[MySQLConverterToo] Fix the mysql_escape_string() call! This code does not work.", E_USER_ERROR)) ? "" : ""));
-		$escapedToYear = $escapedToYear + 1; # date 
+	$escapedToYear .= '-12-31'; 
 		
-	    $toDateCondition = " AND creation < '$escapedToYear' ";
+	    $toDateCondition = " AND creation <= '$escapedToYear' ";
 	}
 	
 	
@@ -160,10 +161,13 @@ function buildDocumentSearchQuery() {
 	    elseif ($_GET['sort'] === 'date') {
 	        $orderBy = ' ORDER BY date ';
 	    }
-	    elseif ($_GET['sort'] === 'sentiment') {
+	    elseif ($_GET['sort'] === 'sentiment_desc') {
 	        $orderBy = ' ORDER BY sentimentScore DESC ';
 	    }
-	    	}
+			elseif ($_GET['sort'] === 'sentiment_asc') {
+					$orderBy = ' ORDER BY sentimentScore ASC ';
+			}
+	}
 	
 	$groupBy = "GROUP BY Document.Id";
 

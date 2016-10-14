@@ -1,0 +1,121 @@
+{% extends 'base.twig' %}
+
+{#
+
+# FILE NAME:        document.html.twig
+
+# PURPOSE:
+
+    Extends base.twig. Page generated to view individual documents.
+
+# BLOCKS:           The following Twig "blocks" are defined in this document.
+
+    title                  sets page title and imports parent
+
+    metadata_opengraph     document opengraph metadata for facebook
+
+    main_container         overrides main_container instead of content block from base to use different grid layout
+
+    scripts_footer         scripts included at the end of page load
+
+# VARIABLES:        Variables passed from the template rendering engine
+
+    body_id               id attached to body tag as a styling hammer
+
+    document              associative array of document data from database
+      id                  document ID
+      xml                 entire document marked up in XML
+      title               document title
+      summary             document summary
+      creation            document creation date (YYYY-MM-DD)
+      vectorLength        unknown, null
+      origin              origin location name
+      destination         destination location name
+      author              author name
+      recipient           recipient name
+      toPersonId          recipient id
+      fromPersonId        author id
+
+    letter_body_display   document XML tranformed to acceptable HTML
+
+    citation              document citation transformed to acceptable HTML
+
+#}
+
+{% from '_macros.twig' import title_date_filter %}
+
+{% block title %}{{ document.title }} | {{ parent() }}{% endblock %}
+
+{% block metadata_opengraph %}
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="http://digitalaustinpapers.org/document?id={{ document.id }}">
+  <meta property="og:title" content="{{ document.title }}">
+  <meta property="og:description" content="{{ document.summary }}">
+{% endblock metadata_opengraph %}
+
+{% block main_container %}
+<div class="container main-container">
+  <div class="row">
+    <div class="col-md-10 col-md-push-1">
+      <article class="document">
+
+          <div class="row">
+            <div class="col-xs-12 col-sm-9">
+              <h2 class="pull-left document__title">{{- title_date_filter(document.title) -}}</h2>
+            </div>
+            <div class="col-sm-3 hidden-xs hidden-print">
+                <a class="pull-right document__download" href="https://raw.githubusercontent.com/DigitalAustinPapers/AustinTranscripts/master/teip5_xml/{{ document.id }}.xml"
+                   id="document-download-{{ document.id }}" download>
+                  Download XML
+                </a>
+            </div>
+          </div>
+
+          <hr>
+
+          <div class="row">
+            <div class="col-sm-12">
+              <h3 class="document__summary">Summary: {{ document.summary }}</h3>
+            </div>
+          </div>
+
+          <hr>
+
+        <div id="doc-{{ document.id }}" class="document__body">
+          {{ letter_body_display|raw }}
+        </div><!-- document__body -->
+
+        <hr>
+        <aside class="document__citation">
+          <h3>Source</h3>
+          {{ citation|raw }}
+        </aside>
+      </article>
+
+
+    </div><!-- col -->
+  </div><!-- row -->
+</div><!-- container -->
+
+{% endblock %}
+
+{% block scripts_footer %}
+{{ parent() }}
+
+<script>
+  $(document).ready(function() {
+    // Track downloads through XML download link
+    $(".document__download").on("click keyup touchstart", function(event) {
+      var id = $(this).attr("id");
+      ga('send', 'event', 'download', 'download', id);
+    });
+
+    $("a.document__persName, a.document__placeName").each(function() {
+      var id = $(this).attr("id");
+      $(this).on("click keyup touchstart", function(event) {
+        ga('send', 'event', 'document', 'click', 'doc-{{ document.id }}-' + id);
+      })
+    });
+  });
+</script>
+{% endblock scripts_footer %}

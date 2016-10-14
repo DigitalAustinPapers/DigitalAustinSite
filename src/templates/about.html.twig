@@ -1,0 +1,323 @@
+{% extends 'base.twig' %}
+
+{#
+
+# FILE NAME:        about.html.twig
+
+# PURPOSE:
+
+    Extends base.twig. About page for site
+
+# BLOCKS:           The following Twig "blocks" are defined in this document.
+
+    title                   sets page title and imports parent
+
+    content                 primary page content
+
+    scripts_footer            any scripts included at the end of page load
+
+#}
+
+{% block title %}About | {{ parent() }}{% endblock %}
+
+{% block content %}
+<div class="row">
+  <div class="col-sm-4 about-page__credits">
+
+    <h2>Credits</h2>
+
+    <h3>Editorial Staff</h3>
+
+    <dl>
+      <dt>Andrew J. Torget</dt>
+      <dd>General Editor</dd>
+      <dt>Debbie Liles</dt>
+      <dd>Associate Editor</dd>
+    </dl>
+
+    <h3>Technical Staff</h3>
+
+    <dl>
+      <dt>Ben W. Brumfield</dt>
+      <dd>Lead Back End Developer</dd>
+      <dt>Jason Ellis</dt>
+      <dd>Lead User Interface Developer and Data Visualizations</dd>
+      <dt>Sara Carlstead Brumfield</dt>
+      <dd>Semantic Analysis and Additional Development</dd>
+      <dt>William Hicks</dt>
+      <dd>User Interface Development and Data Visualizations</dd>
+      <dt>Stephen Mues</dt>
+      <dd>Database and User Interface Development</dd>
+      <dt>Karin Dalziel</dt>
+      <dd>Information Architecture</dd>
+      <dt>Deborah Kilgore</dt>
+      <dd>Transcription and TEI markup</dd>
+      <dt>Cameron Sinclair</dt>
+      <dd>Transcription and TEI markup</dd>
+    </dl>
+
+  </div>
+
+  <div class="col-sm-8 about-page__about">
+    <h2>About the Project</h2>
+
+    <ul>
+      <li><a class="toc-link" href="#overview">Overview</a></li>
+      <li><a class="toc-link" href="#manuscript-print">Austin Papers in Manuscript and Print</a></li>
+      <li><a class="toc-link" href="#creating">Creating the Digital Edition</a></li>
+      <li><a class="toc-link" href="#transcription-markup">Transcription and Markup</a></li>
+      <li><a class="toc-link" href="#tei-xml">TEI and XML</a></li>
+      <li><a class="toc-link" href="#data-transformations">Data Transformations for the Online Browse and Search Interfaces</a></li>
+      <li><a class="toc-link" href="#browsing-interface">DAP Browsing Interface</a></li>
+      <li><a class="toc-link" href="#search-interface">DAP Search Interface</a></li>
+      <li><a class="toc-link" href="#sentiment-analysis">Sentiment Analysis</a></li>
+      <li><a class="toc-link" href="#future-development">Future Development of DAP</a></li>
+      <li><a class="toc-link" href="#copyright">Copyright</a></li>
+    </ul>
+
+    <h3 id="overview">
+      Overview
+      <a class="anchor" id="anchor-overview" href="#overview"></a>
+    </h3>
+
+    <p>The Digital Austin Papers is an ongoing effort to build a digital edition of the surviving correspondence of
+      <a href= http://tshaonline.org/handbook/online/articles/fau14>Stephen F. Austin</a>.  During the 1820s and early 1830s,
+      Austin served as the most prominent land agent working with the government of Mexico to bring colonists from the United
+      States into the Texas borderlands.  As such, his voluminous correspondence offers a remarkable window into the ideas and
+      movements of both Mexicans and Americans during those turbulent decades that preceded the U.S.-Mexican War.</p>
+
+    <p>In addition to making these papers available in digital form, a central goal of the project is to experiment with new
+      methods for exploring and discovering meaningful patterns embedded within historical documents.  To that end, the project
+      offers a variety of digital methods for searching and discovering patterns spread across the collection, such as text-mining,
+      digital mapping, and sentiment analysis.</p>
+
+    <h3 id="manuscript-print">
+      Austin Papers in Manuscript and Print
+      <a class="anchor" id="anchor-manuscript-print" href="#manuscript-print"></a>
+    </h3>
+
+    <p>The vast majority of the <a href="http://www.lib.utexas.edu/taro/utcah/00359/cah-00359.html">surviving Austin manuscripts</a>
+      are housed in the Dolph Briscoe Center for American History (DB-CAH) at the University of Texas, which also holds extensive
+      manuscript collections connected to other members of the Austin family and key associates of Austin’s.  The General Land
+      Office of Texas also holds important collections of his papers.  Various other Austin manuscripts may also be found
+      scattered among a variety of archives and collections.</p>
+
+    <p>During the 1920s, <a href="https://tshaonline.org/handbook/online/articles/fba65">Eugene C. Barker</a> published an edited
+      edition of the Austin Papers which appeared in three volumes:</p>
+
+    <ul>
+      <li><a href="https://catalog.hathitrust.org/Record/004570145">Volume I</a> (published by the Government Printing Office
+        in two parts in 1924), offered transcriptions of Austin’s correspondence through 1827.</li>
+      <li>Volume II (published by the Government Printing Office in 1928), offered transcriptions of Austin’s correspondence through 1834.</li>
+      <li><a href="http://texashistory.unt.edu/ark:/67531/metapth225496/">Volume III</a> (published by the University of
+        Texas Press in 1927), offered transcriptions of Austin’s correspondence through 1836.</li>
+    </ul>
+
+    <p>By necessity, the Barker Edition left out numerous documents associated with Austin.  Roughly a thousand Austin letters
+      in the DB-CAH collections, for example, were left out of the Barker Edition due to the financial constraints of publishing
+      such a voluminous collection.  Other Austin manuscript collections have been discovered in the decades since the 1920s,
+      and several selections of Austin correspondence that did not appear in the Barker Edition have also since appeared in
+      print in other venues.</p>
+
+    <h3 id="creating">
+      Creating the Digital Edition
+      <a class="anchor" id="anchor-creating" href="#creating"></a>
+    </h3>
+
+    <p>The Digital Austin Papers (DAP) currently consists of 2,183 letters.  That collection represents all the English-language
+      documents transcribed and published in the 1920s Barker Edition.  It also includes numerous English-language documents
+      which were left out of the Barker Edition but are available in both transcript and manuscript form in the collections
+      of the DB-CAH.  Scanned transcripts of those documents may be found in UNT’s Portal to Texas History’s
+      <a href="http://texashistory.unt.edu/explore/collections/AUSTIN/">“Moses and Stephen F. Austin Papers”</a> collection.</p>
+
+    <p>The DAP project chose to begin with the Barker Edition and the transcripts of the DB-CAH for several reasons.
+      Foremost, constraints of time and funding meant that scanning and digitizing the transcriptions – rather than create
+      a new set of transcriptions – offered the project the most return on the project’s limited resources.  In addition,
+      our comparisons of the Barker Edition against the original manuscripts revealed a remarkably high level of accuracy
+      in the transcriptions.  Our intention is to compare all of these transcriptions against the original manuscripts in
+      a future iteration of the project, whenever available resources allow.</p>
+
+    <h3 id="transcription-markup">
+      Transcription and Markup
+      <a class="anchor" id="anchor-transcription-markup" href="#transcription-markup"></a>
+    </h3>
+
+    <p>Digital scans were made of the Barker Edition, which were then run through optical character recognition (OCR)
+      software by the <a href="https://www.library.unt.edu/digital-projects-lab">Digital Projects Lab</a> of the University
+      of North Texas Libraries.  Transcripts of Austin documents not included in the Barker Edition went through the same
+      process.  The OCR output was then reviewed, corrected, and scrubbed.</p>
+
+    <h3 id="tei-xml">
+      TEI and XML
+      <a class="anchor" id="anchor-tei-xml" href="#tei-xml"></a>
+    </h3>
+
+    <p>The corrected text of the Austin documents were then marked up in XML using TEI-P5 guidelines.  The project assigned
+      various metadata fields (such as titles, dates, author, recipient) to each document, added several project-specific metadata
+      fields (such as the location of both the document’s creation and its destination), and tagged every identifiable person
+      and location mentioned within the documents.  Summaries of each letter were also paired with the documents, usually
+      using summaries contained in the Barker Edition.</p>
+
+    <p>A project-specific <a href="https://github.com/DigitalAustinPapers/AustinTranscripts/blob/master/scripts/xml2tei.pl">xml2tei perl script</a>
+      was used to create files which were then validated against the version 2.3.0 P5 DTD at http://www.tei-c.org/Vault/P5/2.3.0/.</p>
+
+    <p>These marked-up versions of the Austin papers are available through the DAP search and browsing interfaces.  But because
+      we take seriously Peter Robinson's admonition that "your interface is everyone else's enemy," we also decided to expose
+      the TEI version of the papers in two additional ways:</p>
+
+    <ul>
+      <li><b>Bulk Download</b>: A GitHub repository containing the editor's transcripts, the TEI-P5 XML files, and the programs
+        used to convert the transcripts to TEI-XML is at <a href="https://github.com/DigitalAustinPapers/AustinTranscripts">AustinTranscripts</a>
+        and can be downloaded for analysis or any other re-use.</li>
+      <li><b>Direct Download</b>: Each page on the Digital Austin Papers site has a direct link to download the document in XML
+        format from the GitHub repository.</li>
+    </ul>
+
+    <h3 id="data-transformations">
+      Data Transformations for the Online Browse and Search Interfaces
+      <a class="anchor" id="anchor-data-transformations" href="#data-transformations"></a>
+    </h3>
+
+    <p>The DAP online interface required further processing to create the derivative data structures that would support
+      online browsing, searching and analysis.  When a TEI XML file is loaded into the system, the title, date and summary
+      of the document is extracted and added along with the TEI source to a document record in the MySQL database powering
+      the online interfaces of DAP.  Place names and personal names are extracted from the document and added to tables
+      containing pointers back to the ID of the document in which they appear.  In addition, the text of the document
+      (excluding mark-up) is passed through a Porter stemmer and aggregated, creating a distribution of word stem frequencies
+      for each document.</p>
+
+    <p>After these derivative data structures are loaded, emendations are applied to support further analysis.  Each document's
+      text was extracted and passed through the sentiment analysis library TextMood (detailed below) to generate a sentiment
+      score for that document, which was then added as an attribute to the document record in the database.  Each toponym was
+      passed through Geonames to create latitude and longitude coordinates.  Additional quality controls were applied to the
+      place names and personal names in the correspondence metadata identifying sender, recipient, and locations of composition.
+      This was facilitated by parsing names from the Barker Edition titles and summaries and leveraging the Barker Edition’s normalizations.</p>
+
+    <h3 id="browsing-interface">
+      DAP Browsing Interface
+      <a class="anchor" id="anchor-browsing-interface" href="#browsing-interface"></a>
+    </h3>
+
+    <p>The DAP browsing interface allows users to explore the collection by any particular date, the authors or recipients
+      of documents, and the geographical origins or destinations of documents.  Clicking on the title of any associated
+      document will bring up the digital version of that document.</p>
+
+    <h3 id="search-interface">
+      DAP Search Interface
+      <a class="anchor" id="anchor-search-interface" href="#search-interface"></a>
+    </h3>
+
+    <p>The DAP search interface allows users to search the collection by any combination of keyword, author, recipient,
+      date range, locations and sentiment scores (detailed below).</p>
+
+    <p>Because a driving goal of DAP is to provide users with multiple tools for exploring patterns embedded within the
+      collection, users may explore the results of any given search in four different views:</p>
+
+    <ul>
+      <li><b>Document list</b>: Here users may view a list of the documents associated with their search, which can be sorted by date, relevance, and sentiment scores (detailed below).  Clicking on any of the document titles will bring up the XML-TEI version of that letter.</li>
+      <li>Timeline/Sentiment: Here users may view a histogram that represents either:
+        <ol>
+          <li>The overall frequency of documents in your search results over time, or</li>
+          <li>The proportion of search results compared to its percentage compared to all documents in a given year.</li>
+	</ol>
+	<ul>
+          <li>In both cases, the histogram also shows the percentage of documents in a given year that corresponds to
+            particular sentiment scores (detailed below).</li>
+          <li>Clicking on either the year of the histogram, or a particular sentiment bar in a particular year, will
+            bring up the associated documents.</li>
+        </ul>
+      </li>
+      <li><b>Geography</b>: Here users may view the geographic patterns embedded in their search results, as the letters
+        are plotted on a map that shows the origins and destinations for each document.  Zooming into the map allows users
+        to click on individual locations to access the documents associated with particular places.</li>
+      <li><b>Word Counts</b>:  Here users may view ranked lists of the most frequently occurring words within their search
+        results, grouped by total words, named people, and named locations.  Clicking on individual words or names brings
+        up the associated documents.</li>
+    </ul>
+
+    <h3 id="sentiment-analysis">
+      Sentiment Analysis
+      <a class="anchor" id="anchor-sentiment-analysis" href="#sentiment-analysis"></a>
+    </h3>
+
+    <p>Sentiment analysis is a computational linguistics approach to determining the emotional content of text. In DAP, we
+      adopted a method in which every word in a document is assigned a score based on a positive or negative weight in a
+      dictionary. Scores range from +1 to -1, with 0 being neutral, 1 being strongly positive, and -1 being strongly negative.
+      If the word was not in the dictionary it was considered neutral.  Totaling the scores of all words in the text provides
+      a classification of the text itself.</p>
+
+    <p>Since it is a measurement of emotion, sentiment analysis is by nature always an approximation.  The fact that human
+      readers tend to disagree about the overall sentiment of a given text about 20 percent of the time demonstrates that
+      sentiment scoring of any kind should be taken as simply a rough gauge for the general emotional direction of any given
+      document.  Our use of sentiment analysis in DAP is, therefore, an experiment that is part of our larger goal of exploring
+      new methodologies for language analysis.</p>
+
+    <p>After experimenting with six different open-source ruby sentiment analysis libraries from GitHub, DAP settled on the
+      open-source TextMood.  Each document in the collection was run against the program’s dictionary and given a sentiment
+      score based on the cumulative positive and negative weight of the words within that document.</p>
+
+    <p>We used three approaches to check the quality of the results after applying sentiment analysis to the DAP corpus.
+      First, we reviewed the most common words in the corpus to check the coverage and accuracy of the dictionary.
+      We found that 95 percent of the nineteenth-century vocabulary had been scored correctly.
+      Second, we hand-checked the most negative and the most positive scored documents and discovered that those results met our expectations.
+      For example, <a href="http://digitalaustinpapers.org/document.php?id=APB0286">the most negative</a> described a feud,
+      altercation, and duel between Stephen F. Austin and Joshua Pilcher. The most positive, by contrast, was Austin's
+      <a href="http://digitalaustinpapers.org/document.php?id=APB1858">glowing sales letter</a> to a Swiss group considering
+      immigration to Texas.  Third, we compared the overall trends in sentiment scores over time against what we knew about
+      Austin’s life to see if particular spikes in the sentiment scores matched the historical record of particularly stressful
+      moments for Austin.  The spikes in negative sentiment that emerged in documents from 1830 and 1831 matched our expectations,
+      as historians have long recognized those years as particularly difficult periods in both Austin’s personal and professional life.</p>
+
+    <p>Overall, the purpose of using sentiment analysis in DAP is to offer users of the project a rough index of the emotional
+      context of the documents in the collection.  In order to avoid conveying false impressions of precision, the “Documents”
+      list in the search results converts the numeric score to “positive,” “neutral,” and “negative” (although the precise score
+      and range of scores among the documents is still available to users).</p>
+
+    <h3 id="future-development">
+      Future Development of DAP
+      <a class="anchor" id="anchor-future-development" href="#future-development"></a>
+    </h3>
+
+    <p>We anticipate work on DAP to proceed along two fronts that support the two driving goals of the overall project:</p>
+
+    <ol>
+      <li>Expanding the collection to include as many Austin documents as possible, including:
+        <ul>
+          <li>Processing and incorporating all Spanish-language documents from the Barker Edition.</li>
+          <li>Processing and incorporating all other known documents – in any language – left out of the Barker Edition.</li>
+        </ul>
+      </li>
+      <li>Developing and refining the available tools for searching and exploring the datasets.</li>
+    </ol>
+
+    <h3 id="copyright">
+      Copyright
+      <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/" target="_blank">
+        <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/3.0/80x15.png" /></a>
+      <a class="anchor" id="anchor-copyright" href="#copyright"></a>
+    </h3>
+
+    <p><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Digital Austin Papers</span> is licensed under a
+      <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/" target="_blank">Creative Commons
+        Attribution-ShareAlike 3.0 Unported License</a>.</p>
+
+  </div>
+</div>
+{% endblock %}
+
+{% block scripts_footer %}
+  {{ parent() }}
+  <script>
+    $(document).ready(function() {
+      $('a.toc-link').on('click', function(e){
+        var hash = $(this).attr('href');
+        e.preventDefault();
+        history.replaceState(null, null, hash);
+
+        $('html, body').animate({
+          scrollTop: $(hash).offset().top
+        }, 1000);
+      });
+    });
+  </script>
+{% endblock scripts_footer %}

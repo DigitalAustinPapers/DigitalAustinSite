@@ -1,0 +1,116 @@
+{% extends 'base.twig' %}
+
+{#
+
+# FILE NAME:        index.html.twig
+
+# PURPOSE:
+
+    Extends base.twig. Index page for site.
+
+# BLOCKS:           The following Twig "blocks" are defined in this document.
+
+    header          overrides base.twig with empty header so that _header.twig can be included in hero
+
+    hero            hero image and header content for page
+
+    main_container  overrides main_container instead of content block from base to use different grid layout
+
+# INCLUDES:
+
+    _header.twig
+
+# VARIABLES:        Variables passed from the template rendering engine
+
+    body_id           id attached to body tag as a styling hammer
+
+#}
+
+{% block header %}
+{% endblock %}
+
+{% block hero %}
+
+  <div class="jumbotron">
+    {% include '_header.twig' %}
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-7 col-md-offset-1 col-lg-offset-0">
+          <h1 class="hidden-xs">Digital Austin Papers</h1>
+          <p class="jumbotron-subtitle">Discover the Texas borderlands through the eyes of Stephen F. Austin.</p>
+        </div><!-- col -->
+      </div><!-- row -->
+    </div><!-- container -->
+  </div><!-- jumbotron -->
+
+{% endblock hero %}
+
+{% block main_container %}
+  <div class="container main-container front-page__container">
+    <div class="row">
+      <div class="col-md-8">
+        <div class="panel panel-default">
+          <div class="panel-body">
+
+            <p>The Digital Austin Papers project seeks to recreate the turbulent world of the Texas borderlands during the 1820s and 1830s, as seen through the correspondence of Stephen F. Austin. Collecting thousands of letters by both Mexicans and Americans, the project offers unprecedented access to the movement of people and ideas between the United States and Mexico during the early nineteenth century.</p>
+
+            <p>Providing new digital tools for visualizing and analyzing nineteenth-century correspondence, the Digital Austin Papers offers new ways to discover patterns hidden in the writings of hundreds of men and women living along the shared edges of the United States and Mexico.</p>
+
+          </div><!-- panel -->
+        </div><!-- panel-body -->
+      </div><!-- col -->
+
+      <div class="col-md-4">
+        <div class="panel panel-default stat-panel">
+          <div class="panel-body">
+
+            <div class="stat-panel__item">
+              <a href="browse" id="panel-letters">
+                <div class="stat-panel__number">
+                  <h1>2,183</h1>
+                </div><!-- col -->
+                <div class="stat-panel__label">
+                  <h1><small>letters</small></h1>
+                </div><!-- col -->
+              </a>
+            </div><!-- stat-panel__item -->
+
+            <div class="stat-panel__item">
+              <a href="browse?browseBy=author" id="panel-authors">
+                <div class="stat-panel__number">
+                  <h1>668</h1>
+                </div><!-- col -->
+                <div class="stat-panel__label">
+                  <h1><small>authors</small></h1>
+                </div><!-- col -->
+              </a>
+            </div><!-- stat-panel__item -->
+
+            <div class="stat-panel__item">
+              <a href="browse?browseBy=recipient" id="panel-recipients">
+                <div class="stat-panel__number">
+                  <h1>341</h1>
+                </div><!-- col -->
+                <div class="stat-panel__label">
+                  <h1><small>recipients</small></h1>
+                </div><!-- col -->
+              </a>
+            </div><!-- stat-panel__item -->
+
+            <div class="stat-panel__item">
+              <a href="search?query=&amp;sort=date" id="panel-locations">
+                <div class="stat-panel__number">
+                  <h1>223</h1>
+                </div><!-- col -->
+                <div class="stat-panel__label">
+                  <h1><small>locations</small></h1>
+                </div><!-- col -->
+              </a>
+            </div><!-- stat-panel__item -->
+
+          </div><!-- panel-body -->
+        </div><!-- panel -->
+      </div><!-- col -->
+    </div><!-- row -->
+  </div><!-- container -->
+{% endblock main_container %}
