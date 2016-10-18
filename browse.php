@@ -40,7 +40,7 @@ function getNormalPlaceSql($joinColumn) {
 					d.creation creation
 				FROM NormalizedPlace np
 				INNER JOIN Document d 
-				ON np.id=d.sentFromPlace
+				ON np.id=d.{$joinColumn}
 				UNION
 				SELECT 'Undefined' heading,
 					d.id id,
