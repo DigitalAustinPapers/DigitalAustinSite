@@ -87,11 +87,14 @@ INSERT INTO NormalizedPlace (name, lat, lng) VALUES ("Middletown, CT", 41.56232,
 
 ## Target Data
 
-Browse interface
-Search filters
-Map visualization
-Word count visualization
+### Search & Browse interface
+The Search filters of "Sent from" and "Sent to" and the Browse categorys "Origin" and "Destination" are populated by the list of normalized places.  This means the UI is entirely dependent on the quality of the list of normalized places (which is not always accurate -- see below).
 
+### Map visualization
+The map visualization is, again, driven off of the list of normalized places.  We queried each place in that list against the Geonames API and stored the latitude and longitude of each place.  This means that any changes we make to the NormalizedPlaces table need to have latitude and longitude either manually entered or automatically queried against Geonames.  If Geonames is "off" -- if it returns the wrong place/latitude and longitude -- then we will have the wrong values.  I don't know if that is the case for any of our normalized names, but it seems possible given that Geonames is a database of modern places and Digital Austin Papers contains places from the Nineteenth Century.
+
+### Word count visualization
+Unlike the search, browse, and map visualizations the Named Location Counts under the "Word Count" tab in the search results is based on the locations tagged in the TEI-XML text.  There should be no false matches to the normalized places; any incorrect data here is a result of the tagging in the TEI and should be corrected there.  These can be found by looking for strings similar to the following across the TEI in Github:  `<placeName>Mexico </placeName>`. Or by clicking through the search results for a dubious placename like "settlement" and pulling the document ID from each document listed and editing each document's instance of the dubious placename in Github.  (This would be labor intensive.)
 
 ## Process
 
