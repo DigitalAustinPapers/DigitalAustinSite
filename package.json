@@ -29,7 +29,7 @@
     "gulp-uncss": "^1.0.3",
     "html5shiv": "^3.7.3",
     "jquery": "~1.9.1",
-    "lodash": "~3.10.1",
+    "lodash": "~4.17.15",
     "napa": "^1.2.0",
     "pageres": "^2.0.0",
     "require-dir": "^0.3.0",
